@@ -30,17 +30,19 @@ export interface WorldMapProps {
   hideNames?: boolean;
   /** Draw only the focused countries' region (e.g. Europe without North Africa). */
   onlyFocusRegion?: boolean;
+  /** Drop a pin on this country (cca3), so small countries are visible on a world map. */
+  pin?: string;
   aspect?: number;
 }
 
-function WorldMapInner({ label, onSelect, classFor, focus, hideNames, onlyFocusRegion, aspect = 0.5 }: WorldMapProps) {
+function WorldMapInner({ label, onSelect, classFor, focus, hideNames, onlyFocusRegion, pin, aspect = 0.5 }: WorldMapProps) {
   const { features, error } = useWorld();
   const frame = useRef<HTMLDivElement>(null);
   const [tip, setTip] = useState<{ x: number; y: number; text: string } | null>(null);
   const height = Math.round(WIDTH * aspect);
 
-  const paths = useMemo(() => {
-    if (!features) return [];
+  const { paths, pinAt } = useMemo(() => {
+    if (!features) return { paths: [], pinAt: null };
     const focusSet = new Set(focus ?? []);
     const regions = new Set([...focusSet].map((c) => getCountry(c)?.region));
     const visible = features.filter((f) => {
@@ -54,8 +56,10 @@ function WorldMapInner({ label, onSelect, classFor, focus, hideNames, onlyFocusR
     const pad = focusSet.size ? 24 : 4;
     const projection = geoNaturalEarth1().fitExtent([[pad, pad], [WIDTH - pad, height - pad]], fc);
     const path = geoPath(projection);
-    return visible.map((f: CountryFeature) => ({ f, d: path(f) ?? '' }));
-  }, [features, focus, height, onlyFocusRegion]);
+    const pinCountry = getCountry(pin);
+    const pinAt = pinCountry ? projection([pinCountry.latlng[1], pinCountry.latlng[0]]) : null;
+    return { paths: visible.map((f: CountryFeature) => ({ f, d: path(f) ?? '' })), pinAt };
+  }, [features, focus, height, onlyFocusRegion, pin]);
 
   if (error) return <div className="map-frame map-loading" role="alert">{error}</div>;
   if (!features) return <div className="map-frame map-loading">Loading map…</div>;
@@ -85,6 +89,12 @@ function WorldMapInner({ label, onSelect, classFor, focus, hideNames, onlyFocusR
             />
           );
         })}
+        {pinAt && (
+          <g className="map-pin" transform={`translate(${pinAt[0]} ${pinAt[1]})`} aria-hidden="true">
+            <circle r="16" className="map-pin-ring" />
+            <circle r="6" className="map-pin-dot" />
+          </g>
+        )}
       </svg>
       {tip && <div className="map-tooltip" style={{ left: tip.x, top: tip.y }} aria-hidden="true">{tip.text}</div>}
     </div>

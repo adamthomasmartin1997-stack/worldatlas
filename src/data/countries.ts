@@ -64,3 +64,12 @@ export function dailyIndex(length: number, date = new Date()) {
 }
 
 export const fmt = new Intl.NumberFormat('en-GB');
+
+/**
+ * Today's challenge country: the same for every visitor on a given (UTC) day.
+ * Drawn from countries big enough to find on the map, so the "Find it on the map" challenge works.
+ */
+export function todaysCountry(date = new Date()): Country {
+  const pool = SOVEREIGN.filter((c) => c.hasShape && (c.area?.value ?? 0) > 1000);
+  return pool[dailyIndex(pool.length, date)];
+}

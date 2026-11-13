@@ -2,16 +2,36 @@
    these layouts get reworked screen by screen in build steps 2-4. */
 
 /* ---------- Home ---------- */
-.hero { padding-top: var(--space-12); padding-bottom: var(--space-12); }
-.hero-grid { display: grid; gap: var(--space-8); align-items: center; }
-@media (min-width: 1025px) { .hero-grid { grid-template-columns: 5fr 7fr; } }
-.hero h1 { font-size: var(--text-3xl); line-height: 0.95; }
-.hero-lede { font-size: var(--text-lg); color: var(--ink-muted); max-width: 46ch; }
+.hero { padding-top: var(--space-12); padding-bottom: var(--space-8); }
+.hero-grid { display: grid; gap: var(--space-12); align-items: center; }
+@media (min-width: 1025px) { .hero-grid { grid-template-columns: 5fr 7fr; gap: var(--space-12); } }
+.hero-copy { display: flex; flex-direction: column; align-items: flex-start; gap: var(--space-6); min-width: 0; }
+.hero-copy h1 { font-size: var(--text-3xl); line-height: 0.95; margin: 0; }
+.hero-lede { font-size: var(--text-lg); color: var(--ink-muted); max-width: 44ch; margin: 0; }
+.hero-actions { display: flex; flex-wrap: wrap; gap: var(--space-3); }
+.hero-map { min-width: 0; }
+.hero-map-stage { position: relative; padding-bottom: var(--space-4); }
+.hero-map-label { position: absolute; top: var(--space-4); left: var(--space-4); }
+.hero-map-facts { position: absolute; left: var(--space-6); bottom: 0; display: flex; flex-wrap: wrap; gap: var(--space-2); }
+.hero-map .map-caption { margin-top: var(--space-4); font-size: var(--text-sm); }
 .hero-map .source-note { margin: 0; }
-.challenge { background: var(--surface); border: var(--outline); border-radius: var(--radius-card); box-shadow: var(--shadow-card); padding: var(--space-8); display: grid; gap: var(--space-6); align-items: center; }
-@media (min-width: 1025px) { .challenge { grid-template-columns: 1fr 1fr; } }
-.challenge-map .map-frame { box-shadow: var(--shadow-md); }
-.challenge-wrap { padding-top: 0; }
+@media (max-width: 639px) {
+  .hero { padding-top: var(--space-8); }
+  .hero-grid { gap: var(--space-8); }
+  .hero-map-label { top: var(--space-2); left: var(--space-2); font-size: var(--text-xs); }
+  .hero-map-facts { left: var(--space-3); }
+  .hero-map-facts .sticker { font-size: var(--text-xs); }
+  .hero-actions .btn { flex: 1 1 auto; }
+}
+.home-games { padding-top: var(--space-8); }
+@media (max-width: 639px) {
+  .home-sections .card { display: grid; grid-template-columns: 44px 1fr; align-items: center; column-gap: var(--space-3); padding: var(--space-3) var(--space-4); }
+  .home-sections .card-icon { grid-row: span 2; margin: 0; }
+  .home-sections .card-title { margin: 0; }
+  .home-sections .card p { font-size: var(--text-sm); }
+}
+.game-tile { display: flex; flex-direction: column; align-items: flex-start; gap: var(--space-2); }
+.game-tile .card-title { margin: var(--space-1) 0 0; }
 .thread { list-style: none; padding: 0; margin: var(--space-6) 0; display: grid; gap: var(--space-6); }
 @media (min-width: 640px) { .thread { grid-template-columns: repeat(2, 1fr); } }
 @media (min-width: 1025px) { .thread { grid-template-columns: repeat(4, 1fr); } }

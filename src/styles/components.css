@@ -84,6 +84,11 @@
   border: var(--outline); border-radius: var(--radius-pill); box-shadow: 2px 2px 0 var(--ink);
   background: var(--surface); font-weight: 700; font-size: var(--text-sm); transform: rotate(-3deg);
 }
+.sticker-coral { background: var(--coral); }
+.sticker-sun { background: var(--sun); }
+.sticker-flat { transform: none; }
+a.sticker { color: var(--ink); text-decoration: none; transition: transform var(--ease), box-shadow var(--ease); }
+a.sticker:hover { color: var(--ink); box-shadow: none; transform: rotate(-3deg) translate(2px, 2px); }
 .placeholder { border: 2px dashed var(--ink-muted); border-radius: var(--radius-card); padding: var(--space-6); color: var(--ink-muted); background: transparent; }
 .placeholder h3 { color: var(--ink); display: flex; align-items: center; gap: var(--space-2); }
 .source-note { font-size: var(--text-xs); color: var(--ink-muted); margin-top: var(--space-3); }
@@ -132,6 +137,13 @@ select.input { box-shadow: none; min-height: var(--touch); }
 .map-country.active { fill: var(--map-active); }
 .map-country.found { fill: var(--map-found); }
 .map-country.wrong { fill: var(--map-wrong); }
+.map-pin { pointer-events: none; }
+.map-pin-ring { fill: none; stroke: var(--ink); stroke-width: 3; }
+.map-pin-dot { fill: var(--sun); stroke: var(--ink); stroke-width: 2.5; }
+@media (prefers-reduced-motion: no-preference) {
+  .map-pin-ring { animation: pin-pulse 1.8s ease-out infinite; transform-origin: center; transform-box: fill-box; }
+}
+@keyframes pin-pulse { 0% { transform: scale(0.6); opacity: 1; } 100% { transform: scale(1.6); opacity: 0; } }
 .map-tooltip {
   position: absolute; pointer-events: none; background: var(--surface); color: var(--ink); font-size: var(--text-sm); font-weight: 700;
   padding: var(--space-1) var(--space-3); border: var(--outline); border-radius: var(--radius-tag); box-shadow: 2px 2px 0 var(--ink);
