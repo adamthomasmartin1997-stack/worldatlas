@@ -84,7 +84,7 @@ export function FindOnMap() {
           <div className="game-input">
             {status === 'playing' && target ? (
               <p className="prompt" aria-live="assertive">
-                {feedback ? (feedback.correct ? <><Check aria-hidden="true" /> Correct — {target.name}</> : <><X aria-hidden="true" /> That was {getCountry(feedback.clicked)?.name ?? 'somewhere else'}. {target.name} is in gold.</>) : <>Click on <strong>{target.name}</strong></>}
+                {feedback ? (feedback.correct ? <><Check aria-hidden="true" /> Correct — {target.name}</> : <><X aria-hidden="true" /> That was {getCountry(feedback.clicked)?.name ?? 'somewhere else'}. {target.name} is in yellow.</>) : <>Click on <strong>{target.name}</strong></>}
               </p>
             ) : (
               <button className="btn btn-primary" onClick={start}><Play size={18} aria-hidden="true" /> {status === 'over' ? 'Play again' : 'Start'}</button>
@@ -106,7 +106,7 @@ export function FindOnMap() {
           </div>
         )}
 
-        <WorldMap label="Interactive map for the find-the-country game. This game needs a pointer; the Capitals and Name the countries games work fully with a keyboard." focus={focus} onSelect={click} classFor={classFor} hideNames />
+        <WorldMap label="Interactive map for the find-the-country game. This game needs a pointer; the Capitals and Name the countries games work fully with a keyboard." focus={focus} onlyFocusRegion onSelect={click} classFor={classFor} hideNames />
         <SourceNote sources={['natural-earth']} />
         <p className="muted" style={{ fontSize: 'var(--text-sm)' }}>Very small states (under 1,000 km²) are left out of this game because they're too small to click. Using a keyboard? Try <Link to={`/games/name-the-countries?region=${region.key}`}>Name the countries</Link> or <Link to={`/games/capitals?region=${region.key}`}>Capitals</Link>.</p>
       </div>

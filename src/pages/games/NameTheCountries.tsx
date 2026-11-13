@@ -109,7 +109,7 @@ export function NameTheCountries() {
           </div>
         )}
 
-        <WorldMap label={`Map of ${region.label}. Found countries are highlighted; the full list is below.`} focus={focus} classFor={classFor} hideNames={status !== 'over'} />
+        <WorldMap label={`Map of ${region.label}. Found countries are highlighted; the full list is below.`} focus={focus} onlyFocusRegion classFor={classFor} hideNames={status !== 'over'} />
         <SourceNote sources={['natural-earth', 'world-countries']} />
 
         <div className="answer-groups">

@@ -28,10 +28,12 @@ export interface WorldMapProps {
   focus?: string[];
   /** Hide country names in the hover tooltip (for quizzes). */
   hideNames?: boolean;
+  /** Draw only the focused countries' region (e.g. Europe without North Africa). */
+  onlyFocusRegion?: boolean;
   aspect?: number;
 }
 
-function WorldMapInner({ label, onSelect, classFor, focus, hideNames, aspect = 0.5 }: WorldMapProps) {
+function WorldMapInner({ label, onSelect, classFor, focus, hideNames, onlyFocusRegion, aspect = 0.5 }: WorldMapProps) {
   const { features, error } = useWorld();
   const frame = useRef<HTMLDivElement>(null);
   const [tip, setTip] = useState<{ x: number; y: number; text: string } | null>(null);
@@ -39,8 +41,12 @@ function WorldMapInner({ label, onSelect, classFor, focus, hideNames, aspect = 0
 
   const paths = useMemo(() => {
     if (!features) return [];
-    const visible = features.filter((f) => f.properties.name !== 'Antarctica' || !focus?.length);
     const focusSet = new Set(focus ?? []);
+    const regions = new Set([...focusSet].map((c) => getCountry(c)?.region));
+    const visible = features.filter((f) => {
+      if (onlyFocusRegion && focusSet.size) return regions.has(getCountry(f.properties.cca3 ?? undefined)?.region);
+      return f.properties.name !== 'Antarctica' || !focus?.length;
+    });
     let target = focusSet.size ? visible.filter((f) => f.properties.cca3 && focusSet.has(f.properties.cca3)) : visible;
     if (focusSet.size > 3) target = target.filter((f) => !FIT_EXCLUDE.has(f.properties.cca3 ?? ''));
     if (focusSet.size) target = target.map(mainland);
@@ -49,7 +55,7 @@ function WorldMapInner({ label, onSelect, classFor, focus, hideNames, aspect = 0
     const projection = geoNaturalEarth1().fitExtent([[pad, pad], [WIDTH - pad, height - pad]], fc);
     const path = geoPath(projection);
     return visible.map((f: CountryFeature) => ({ f, d: path(f) ?? '' }));
-  }, [features, focus, height]);
+  }, [features, focus, height, onlyFocusRegion]);
 
   if (error) return <div className="map-frame map-loading" role="alert">{error}</div>;
   if (!features) return <div className="map-frame map-loading">Loading map…</div>;
@@ -66,13 +72,14 @@ function WorldMapInner({ label, onSelect, classFor, focus, hideNames, aspect = 0
       <svg className="map-svg" viewBox={`0 0 ${WIDTH} ${height}`} role="img" aria-label={label}>
         {paths.map(({ f, d }) => {
           const code = f.properties.cca3;
-          const known = Boolean(code && getCountry(code));
+          const country = getCountry(code ?? undefined);
+          const known = Boolean(country);
           const interactive = Boolean(onSelect && known);
           return (
             <path
               key={f.properties.name + (code ?? '')}
               d={d}
-              className={['map-country', interactive && 'interactive', !known && 'no-data', classFor?.(code)].filter(Boolean).join(' ')}
+              className={['map-country', country && `land-${country.region.toLowerCase()}`, interactive && 'interactive', !known && 'no-data', classFor?.(code)].filter(Boolean).join(' ')}
               onClick={interactive ? () => onSelect!(code!) : undefined}
               onPointerMove={(e) => showTip(e, f)}
             />

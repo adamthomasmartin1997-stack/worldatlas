@@ -1,44 +1,49 @@
-/* Design tokens — the only place raw colour, type and spacing values live. */
+/* Design tokens: "Atlas Green" sticker style (see CLAUDE.md). The only place raw values live. */
 :root {
   /* Colour */
-  --navy-900: #0f1b2d;
-  --navy-800: #16253b; /* hover state for navy surfaces */
-  --navy-700: #1e3352;
-  --blue-400: #6e8fb5;
-  --paper: #f6f2ea;
-  --surface: #fffdf9; /* cards on paper */
-  --ink: #1a1f29;
-  --ink-muted: #5b6472;
-  --line: #e2dcd0;
-  --gold: #c9a45c;
-  --gold-strong: #a9853f; /* hover for gold fills */
-  --gold-text: #7d6128; /* AA-contrast gold for small text on paper */
-  --success: #3c8c6e;
-  --error: #b8504a;
-  --on-dark: #f6f2ea;
-  --on-dark-muted: #aebbd0;
-  --line-dark: #2c4466;
+  --page: #eef5ec;
+  --surface: #ffffff;
+  --surface-sunk: #f4f8f2; /* inputs and inactive options inside cards */
+  --ink: #10261c;
+  --ink-muted: #3f5248;
+  --line: #d6e4d2; /* hairlines inside cards and charts; outlines use --ink */
+  --ocean: #4da8da;
+  --land-1: #4fae73;
+  --land-2: #5dbb6e;
+  --land-3: #6cc58c;
+  --land-4: #8ed081;
+  --land-5: #a6d96a;
+  --land-other: #dde9da; /* territories and areas without a profile */
+  --sun: #ffd23f;
+  --sun-strong: #f5c400;
+  --coral: #ff6b4a;
+  --green: #2fa36b;
+  --tint-green: #e3f3dd;
+  --tint-sun: #fff4cc;
+  --tint-coral: #ffe1d9;
+  --tint-ocean: #ddeff8;
 
   /* Map */
-  --map-water: var(--navy-900);
-  --map-land: var(--blue-400);
-  --map-land-hover: #8eaacb;
-  --map-border: var(--navy-900);
-  --map-active: var(--gold);
+  --map-sea: var(--ocean);
+  --map-border: var(--ink);
+  --map-active: var(--sun);
+  --map-found: var(--green);
+  --map-wrong: var(--coral);
+  --map-dim: #c9dcc6;
 
   /* Type */
-  --font-sans: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
-  --font-serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --font-display: 'Bricolage Grotesque', 'Arial Rounded MT Bold', system-ui, sans-serif;
+  --font-sans: 'DM Sans', system-ui, -apple-system, 'Segoe UI', sans-serif;
   --text-xs: 0.8125rem;
   --text-sm: 0.875rem;
   --text-base: 1rem;
   --text-lg: 1.125rem;
   --text-xl: 1.375rem;
-  --text-2xl: 1.75rem;
-  --text-3xl: clamp(2rem, 4vw + 1rem, 3.25rem);
+  --text-2xl: 1.875rem;
+  --text-3xl: clamp(2.5rem, 5vw + 1rem, 4.25rem);
   --measure: 70ch;
 
-  /* Spacing — 4px base */
+  /* Spacing: 4px base */
   --space-1: 4px;
   --space-2: 8px;
   --space-3: 12px;
@@ -49,10 +54,18 @@
   --space-16: 64px;
   --space-24: 96px;
 
-  /* Shape & motion */
-  --radius-control: 6px;
-  --radius-card: 10px;
-  --shadow-hover: 0 6px 20px rgba(15, 27, 45, 0.1);
+  /* Sticker shape */
+  --outline: 2px solid var(--ink);
+  --radius-tag: 10px;
+  --radius-control: 14px;
+  --radius-card: 20px;
+  --radius-pill: 999px;
+  --shadow-sm: 3px 3px 0 var(--ink);
+  --shadow-md: 4px 4px 0 var(--ink);
+  --shadow-card: 5px 5px 0 var(--ink);
+  --shadow-lg: 8px 8px 0 var(--ink);
+
+  /* Motion & layout */
   --ease: 180ms ease;
   --content-width: 1200px;
   --touch: 44px;

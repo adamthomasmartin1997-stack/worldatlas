@@ -7,7 +7,7 @@ const js = html.match(/src="\.\/(assets\/[^"]+\.js)"/)[1];
 const css = html.match(/href="\.\/(assets\/[^"]+\.css)"/)[1];
 writeFileSync('dist-artifact/page.html', `<title>World Atlas</title>
 <meta name="description" content="An interactive world atlas: explore countries, then test yourself with map games.">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&display=swap">
 <link rel="stylesheet" href="${css}">
 <div id="root"></div>
 <script type="module" src="${js}"></script>
