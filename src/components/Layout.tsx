@@ -21,7 +21,7 @@ export function Layout() {
 
   return (
     <>
-      <a className="skip-link" href="#main">Skip to content</a>
+      <a className="skip-link" href="#main" onClick={(e) => { e.preventDefault(); document.getElementById('main')?.focus(); }}>Skip to content</a>
       <header className="site-header">
         <div className="container">
           <Link to="/" className="brand" aria-label="World Atlas home">

@@ -8,7 +8,7 @@ export type CountryFeature = Feature<Geometry, { name: string; cca3: string | nu
 let cache: Promise<CountryFeature[]> | null = null;
 
 function loadWorld() {
-  cache ??= fetch('/data/world-50m.json')
+  cache ??= fetch(`${import.meta.env.BASE_URL}data/world-50m.json`)
     .then((r) => {
       if (!r.ok) throw new Error(`Map data failed to load (${r.status})`);
       return r.json() as Promise<Topology<{ countries: GeometryCollection<{ name: string; cca3: string | null }> }>>;

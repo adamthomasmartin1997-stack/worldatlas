@@ -79,7 +79,7 @@ export function CountryProfile() {
       <div className="container profile-body">
         <aside className="profile-toc" aria-label="On this page">
           <p className="eyebrow">On this page</p>
-          <ul>{SECTIONS.map((s) => <li key={s.id}><a href={`#${s.id}`}><s.icon size={16} aria-hidden="true" /> {s.label}</a></li>)}</ul>
+          <ul>{SECTIONS.map((s) => <li key={s.id}><a href={`#${s.id}`} onClick={(e) => { e.preventDefault(); document.getElementById(s.id)?.scrollIntoView({ behavior: 'smooth' }); }}><s.icon size={16} aria-hidden="true" /> {s.label}</a></li>)}</ul>
         </aside>
 
         <article className="profile-article">

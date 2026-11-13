@@ -1,4 +1,4 @@
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { createBrowserRouter, createHashRouter, RouterProvider } from 'react-router-dom';
 import { Layout } from './components/Layout';
 import { Home } from './pages/Home';
 import { Explore } from './pages/Explore';
@@ -14,7 +14,8 @@ import { Data } from './pages/Data';
 import { DataSources } from './pages/DataSources';
 import { NotFound } from './pages/NotFound';
 
-const router = createBrowserRouter([
+const createRouter = import.meta.env.VITE_HASH_ROUTER ? createHashRouter : createBrowserRouter;
+const router = createRouter([
   {
     element: <Layout />,
     children: [
