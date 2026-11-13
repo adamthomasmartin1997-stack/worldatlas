@@ -46,13 +46,13 @@ export function Countries() {
                   <th scope="row"><Link to={countryPath(c)}>{c.name}</Link></th>
                   <td>{c.capital.join(', ') || '—'}</td>
                   <td>{c.subregion ?? c.region}</td>
-                  <td className="num">{c.area ? fmt.format(c.area) : '—'}</td>
+                  <td className="num">{c.area ? fmt.format(c.area.value) : '—'}</td>
                 </tr>
               ))}
             </tbody>
           </table>
         </div>
-        <SourceNote sources={['world-countries']} />
+        <SourceNote sources={['world-countries', 'wikidata']}>Area is total area, including overseas regions.</SourceNote>
       </section>
     </>
   );

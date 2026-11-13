@@ -1,0 +1,39 @@
+# Re-imports open data once a month and opens a pull request with the changes and the
+# validation report, so a person reviews every data update before it reaches the site.
+name: Refresh data
+
+on:
+  schedule:
+    - cron: '17 4 3 * *' # 04:17 UTC on the 3rd of each month
+  workflow_dispatch: {} # "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npm run data:refresh
+      - run: npm run typecheck && npm test
+      - uses: peter-evans/create-pull-request@v7
+        with:
+          branch: data/refresh
+          commit-message: 'Refresh open data (World Bank, Wikidata)'
+          title: 'Monthly data refresh'
+          body: |
+            Automated monthly import from World Bank Open Data and Wikidata.
+
+            **Before merging:** read `data/reports/validation.md` for values where sources disagree.
+          add-paths: |
+            data/sources
+            data/reports
+            src/data/countries.json
+            public/data

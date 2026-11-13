@@ -6,7 +6,10 @@
       "url": "https://www.naturalearthdata.com/",
       "licence": "Public domain",
       "attributionRequired": false,
-      "usedFor": ["country shapes", "map"]
+      "usedFor": [
+        "country shapes",
+        "map"
+      ]
     },
     "world-countries": {
       "name": "world-countries by Mohammed Le Doze",
@@ -14,26 +17,56 @@
       "licence": "ODbL 1.0",
       "attributionRequired": true,
       "notes": "Credit on the Data sources page. If we publish the combined database for download, it must also be ODbL.",
-      "usedFor": ["names", "ISO codes", "capitals", "regions", "area", "borders", "languages", "currencies"]
+      "usedFor": [
+        "names",
+        "ISO codes",
+        "capitals",
+        "regions",
+        "area",
+        "borders",
+        "languages",
+        "currencies"
+      ]
     },
     "wikidata": {
       "name": "Wikidata",
       "url": "https://www.wikidata.org/",
       "licence": "CC0 1.0",
       "attributionRequired": false,
-      "usedFor": ["population (scripts/fetch-wikidata.mjs)"]
+      "usedFor": [
+        "population (fallback)",
+        "total area",
+        "highest point (scripts/importers/wikidata.mjs)"
+      ]
     },
     "world-bank": {
       "name": "World Bank Open Data",
       "url": "https://data.worldbank.org/",
       "licence": "CC BY 4.0",
       "attributionRequired": true,
-      "status": "planned",
-      "usedFor": ["population and GDP time series for charts"]
+      "usedFor": [
+        "population, GDP per person, life expectancy since 1960 (scripts/importers/worldbank.mjs)"
+      ]
     }
   },
   "doNotUse": {
     "_why": "Copyrighted or licence-incompatible. Use them for inspiration only; never copy text, question lists or game designs.",
-    "list": ["Sporcle quizzes", "Britannica articles", "CIA World Factbook text is public domain but check each page", "Wikipedia article text (CC BY-SA: only with attribution and share-alike — prefer writing our own)", "Any map tiles or images without an explicit licence"]
+    "list": [
+      "Sporcle quizzes",
+      "Britannica articles",
+      "CIA World Factbook text is public domain but check each page",
+      "Wikipedia article text (CC BY-SA: only with attribution and share-alike — prefer writing our own)",
+      "Any map tiles or images without an explicit licence"
+    ]
+  },
+  "precedence": {
+    "population": [
+      "world-bank",
+      "wikidata"
+    ],
+    "area": [
+      "wikidata (if within 2x of world-countries)",
+      "world-countries"
+    ]
   }
 }

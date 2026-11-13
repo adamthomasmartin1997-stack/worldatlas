@@ -89,3 +89,21 @@
 .map-tooltip { position: absolute; pointer-events: none; background: var(--surface); color: var(--ink); font-size: var(--text-sm); font-weight: 600; padding: var(--space-1) var(--space-3); border-radius: 4px; box-shadow: var(--shadow-hover); transform: translate(-50%, -130%); white-space: nowrap; }
 .map-loading { aspect-ratio: 2 / 1; display: grid; place-items: center; color: var(--on-dark-muted); }
 .map-caption { display: flex; justify-content: space-between; flex-wrap: wrap; gap: var(--space-2); }
+
+/* ---------- Charts ---------- */
+.chart { margin: 0; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-card); padding: var(--space-4); min-width: 0; }
+.chart-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: var(--space-2); margin-bottom: var(--space-2); }
+.chart-title { font-weight: 600; }
+.chart-readout { font-size: var(--text-sm); color: var(--ink-muted); font-variant-numeric: tabular-nums; }
+.chart-readout strong { color: var(--ink); font-size: var(--text-base); }
+.chart-plot { width: 100%; overflow: hidden; }
+.chart-plot svg { display: block; touch-action: pan-y; }
+.chart-grid { stroke: var(--line); stroke-width: 1; }
+.chart-axis { fill: var(--ink-muted); font-size: 12px; font-variant-numeric: tabular-nums; }
+.chart-line { fill: none; stroke: var(--navy-700); stroke-width: 2; stroke-linejoin: round; stroke-linecap: round; }
+.chart-dot { fill: var(--navy-700); stroke: var(--surface); stroke-width: 2; }
+.chart-dot.active { fill: var(--gold); stroke: var(--navy-900); }
+.chart-crosshair { stroke: var(--ink-muted); stroke-width: 1; stroke-dasharray: 3 3; }
+.chart-table { margin-top: var(--space-2); font-size: var(--text-sm); }
+.chart-table summary { cursor: pointer; min-height: var(--touch); display: flex; align-items: center; color: var(--ink-muted); font-weight: 500; }
+.chart-table .table-scroll { max-height: 280px; overflow-y: auto; }

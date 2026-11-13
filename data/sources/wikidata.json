@@ -1,0 +1,3497 @@
+{
+ "source": "wikidata",
+ "licence": "CC0-1.0",
+ "url": "https://query.wikidata.org/sparql",
+ "retrieved": "2026-11-13T14:45:19.075Z",
+ "countries": {
+  "CAN": {
+   "wikidata": "Q16",
+   "population": {
+    "value": 36991981,
+    "year": 2021
+   },
+   "area": {
+    "value": 9984670
+   },
+   "highestPoint": {
+    "name": "Mount Logan",
+    "elevation": 5959
+   }
+  },
+  "AFG": {
+   "wikidata": "Q889",
+   "population": {
+    "value": 41454761,
+    "year": 2023
+   },
+   "area": {
+    "value": 652230
+   },
+   "highestPoint": {
+    "name": "Noshaq",
+    "elevation": 7492
+   }
+  },
+  "BGD": {
+   "wikidata": "Q902",
+   "population": {
+    "value": 171466990,
+    "year": 2023
+   },
+   "area": {
+    "value": 147570
+   },
+   "highestPoint": {
+    "name": "Mowdok tiang",
+    "elevation": 1054
+   }
+  },
+  "ZAF": {
+   "wikidata": "Q258",
+   "population": {
+    "value": 62027503,
+    "year": 2022
+   },
+   "area": {
+    "value": 1220813
+   },
+   "highestPoint": {
+    "name": "Mafadi",
+    "elevation": 3450
+   }
+  },
+  "DZA": {
+   "wikidata": "Q262",
+   "population": {
+    "value": 46164219,
+    "year": 2023
+   },
+   "area": {
+    "value": 2381741
+   },
+   "highestPoint": {
+    "name": "Mount Tahat",
+    "elevation": 2918
+   }
+  },
+  "UZB": {
+   "wikidata": "Q265",
+   "population": {
+    "value": 34915100,
+    "year": 2021
+   },
+   "area": {
+    "value": 448978
+   },
+   "highestPoint": {
+    "name": "Khazret Sultan",
+    "elevation": 4643
+   }
+  },
+  "CHL": {
+   "wikidata": "Q298",
+   "population": {
+    "value": 19458000,
+    "year": 2021
+   },
+   "area": {
+    "value": 756102
+   },
+   "highestPoint": {
+    "name": "Ojos del Salado",
+    "elevation": 6893
+   }
+  },
+  "SAU": {
+   "wikidata": "Q851",
+   "population": {
+    "value": 33000000,
+    "year": 2018
+   },
+   "area": {
+    "value": 2250000
+   },
+   "highestPoint": {
+    "name": "Jabal Sawda",
+    "elevation": 3207
+   }
+  },
+  "LKA": {
+   "wikidata": "Q854",
+   "population": {
+    "value": 21444000,
+    "year": 2017
+   },
+   "area": {
+    "value": 65610
+   },
+   "highestPoint": {
+    "name": "Pidurutalagala",
+    "elevation": 2524
+   }
+  },
+  "SYR": {
+   "wikidata": "Q858",
+   "population": {
+    "value": 23865423,
+    "year": 2024
+   },
+   "area": {
+    "value": 185180
+   },
+   "highestPoint": {
+    "name": "Mount Hermon",
+    "elevation": 2814
+   }
+  },
+  "TJK": {
+   "wikidata": "Q863",
+   "population": {
+    "value": 9504000,
+    "year": 2021
+   },
+   "area": {
+    "value": 143100
+   },
+   "highestPoint": {
+    "name": "Ismoil Somoni Peak",
+    "elevation": 7495
+   }
+  },
+  "HUN": {
+   "wikidata": "Q28",
+   "population": {
+    "value": 9603634,
+    "year": 2022
+   },
+   "area": {
+    "value": 93011.4
+   },
+   "highestPoint": {
+    "name": "Kékes",
+    "elevation": 1014
+   }
+  },
+  "ESP": {
+   "wikidata": "Q29",
+   "population": {
+    "value": 48592909,
+    "year": 2024
+   },
+   "area": {
+    "value": 505990
+   },
+   "highestPoint": {
+    "name": "Teide",
+    "elevation": 3715
+   }
+  },
+  "QAT": {
+   "wikidata": "Q846",
+   "population": {
+    "value": 2639211,
+    "year": 2017
+   },
+   "area": {
+    "value": 11437
+   },
+   "highestPoint": {
+    "name": "Qurayn Abu al Bawl",
+    "elevation": 103
+   }
+  },
+  "FIN": {
+   "wikidata": "Q33",
+   "population": {
+    "value": 5652881,
+    "year": 2025
+   },
+   "area": {
+    "value": 338478.34
+   },
+   "highestPoint": {
+    "name": "Halti",
+    "elevation": 1361
+   }
+  },
+  "SWE": {
+   "wikidata": "Q34",
+   "population": {
+    "value": 10609460,
+    "year": 2025
+   },
+   "area": {
+    "value": 447425.16
+   },
+   "highestPoint": {
+    "name": "Kebnekaise",
+    "elevation": 2135
+   }
+  },
+  "DNK": {
+   "wikidata": "Q35",
+   "population": {
+    "value": 5822863,
+    "year": 2020
+   },
+   "area": {
+    "value": 42925.46
+   },
+   "highestPoint": {
+    "name": "Møllehøj",
+    "elevation": 171
+   }
+  },
+  "BRN": {
+   "wikidata": "Q921",
+   "population": {
+    "value": 458949,
+    "year": 2023
+   },
+   "area": {
+    "value": 5765.313533
+   },
+   "highestPoint": {
+    "name": "Bukit Pagon",
+    "elevation": 1850
+   }
+  },
+  "TZA": {
+   "wikidata": "Q924",
+   "population": {
+    "value": 57310019,
+    "year": 2017
+   },
+   "area": {
+    "value": 947303
+   },
+   "highestPoint": {
+    "name": "Mount Kibo",
+    "elevation": 5895
+   }
+  },
+  "PHL": {
+   "wikidata": "Q928",
+   "population": {
+    "value": 112729484,
+    "year": 2024
+   },
+   "area": {
+    "value": 343448
+   },
+   "highestPoint": {
+    "name": "Mount Apo",
+    "elevation": 2954
+   }
+  },
+  "SGP": {
+   "wikidata": "Q334",
+   "population": {
+    "value": 5866139,
+    "year": 2021
+   },
+   "area": {
+    "value": 719.1
+   },
+   "highestPoint": {
+    "name": "Bukit Timah",
+    "elevation": 164
+   }
+  },
+  "TWN": {
+   "wikidata": "Q865",
+   "population": {
+    "value": 23262544,
+    "year": 2026
+   },
+   "area": {
+    "value": 36197
+   },
+   "highestPoint": {
+    "name": "Yushan Main Peak",
+    "elevation": 3952
+   }
+  },
+  "THA": {
+   "wikidata": "Q869",
+   "population": {
+    "value": 66188503,
+    "year": 2017
+   },
+   "area": {
+    "value": 513119.5
+   },
+   "highestPoint": {
+    "name": "Doi Inthanon",
+    "elevation": 2565
+   }
+  },
+  "TKM": {
+   "wikidata": "Q874",
+   "population": {
+    "value": 6117933,
+    "year": 2021
+   },
+   "area": {
+    "value": 491210
+   },
+   "highestPoint": {
+    "name": "Aýrybaba",
+    "elevation": 3139
+   }
+  },
+  "ARE": {
+   "wikidata": "Q878",
+   "population": {
+    "value": 9890400,
+    "year": 2020
+   },
+   "area": {
+    "value": 83600
+   },
+   "highestPoint": {
+    "name": "Jebel Jais",
+    "elevation": 1911
+   }
+  },
+  "ARG": {
+   "wikidata": "Q414",
+   "population": {
+    "value": 47327407,
+    "year": 2022
+   },
+   "area": {
+    "value": 2780085
+   }
+  },
+  "PER": {
+   "wikidata": "Q419",
+   "population": {
+    "value": 34157732,
+    "year": 2025
+   },
+   "area": {
+    "value": 1285215.6
+   },
+   "highestPoint": {
+    "name": "Huascarán",
+    "elevation": 6768
+   }
+  },
+  "POL": {
+   "wikidata": "Q36",
+   "population": {
+    "value": 37563071,
+    "year": 2024
+   },
+   "area": {
+    "value": 312683
+   },
+   "highestPoint": {
+    "name": "Rysy",
+    "elevation": 2501
+   }
+  },
+  "IND": {
+   "wikidata": "Q668",
+   "population": {
+    "value": 1326093247,
+    "year": 2020
+   },
+   "area": {
+    "value": 3287593
+   },
+   "highestPoint": {
+    "name": "Kanchenjunga",
+    "elevation": 8586
+   }
+  },
+  "TUV": {
+   "wikidata": "Q672",
+   "population": {
+    "value": 10643,
+    "year": 2022
+   },
+   "area": {
+    "value": 25.63
+   },
+   "highestPoint": {
+    "name": "Niulakita",
+    "elevation": 5
+   }
+  },
+  "CAF": {
+   "wikidata": "Q929",
+   "population": {
+    "value": 5152421,
+    "year": 2023
+   },
+   "area": {
+    "value": 622984
+   },
+   "highestPoint": {
+    "name": "Mont Ngaoui",
+    "elevation": 1410
+   }
+  },
+  "GRC": {
+   "wikidata": "Q41",
+   "population": {
+    "value": 10482487,
+    "year": 2021
+   },
+   "area": {
+    "value": 131957
+   },
+   "highestPoint": {
+    "name": "Mount Olympus",
+    "elevation": 2918
+   }
+  },
+  "TUR": {
+   "wikidata": "Q43",
+   "population": {
+    "value": 85372377,
+    "year": 2023
+   },
+   "area": {
+    "value": 783562
+   },
+   "highestPoint": {
+    "name": "Mount Ararat",
+    "elevation": 5137
+   }
+  },
+  "USA": {
+   "wikidata": "Q30",
+   "population": {
+    "value": 340110988,
+    "year": 2024
+   },
+   "area": {
+    "value": 9833517
+   }
+  },
+  "BEL": {
+   "wikidata": "Q31",
+   "population": {
+    "value": 11825551,
+    "year": 2025
+   },
+   "area": {
+    "value": 30688
+   },
+   "highestPoint": {
+    "name": "Signal de Botrange",
+    "elevation": 694
+   }
+  },
+  "AGO": {
+   "wikidata": "Q916",
+   "population": {
+    "value": 36749906,
+    "year": 2023
+   },
+   "area": {
+    "value": 1246700
+   },
+   "highestPoint": {
+    "name": "Mount Moco",
+    "elevation": 2619
+   }
+  },
+  "BTN": {
+   "wikidata": "Q917",
+   "population": {
+    "value": 787424,
+    "year": 2023
+   },
+   "area": {
+    "value": 38394
+   },
+   "highestPoint": {
+    "name": "Gangkhar Puensum",
+    "elevation": 7570
+   }
+  },
+  "ZMB": {
+   "wikidata": "Q953",
+   "population": {
+    "value": 19610769,
+    "year": 2022
+   },
+   "area": {
+    "value": 752618
+   },
+   "highestPoint": {
+    "name": "Mafinga Central",
+    "elevation": 2339
+   }
+  },
+  "ZWE": {
+   "wikidata": "Q954",
+   "population": {
+    "value": 15178979,
+    "year": 2022
+   },
+   "area": {
+    "value": 390757
+   },
+   "highestPoint": {
+    "name": "Mount Nyangani",
+    "elevation": 2592
+   }
+  },
+  "TUN": {
+   "wikidata": "Q948",
+   "population": {
+    "value": 11565204,
+    "year": 2018
+   },
+   "area": {
+    "value": 163610
+   },
+   "highestPoint": {
+    "name": "Jebel ech Chambi",
+    "elevation": 1544
+   }
+  },
+  "MHL": {
+   "wikidata": "Q709",
+   "population": {
+    "value": 53127,
+    "year": 2017
+   },
+   "area": {
+    "value": 181
+   },
+   "highestPoint": {
+    "name": "Likiep Atoll",
+    "elevation": 10
+   }
+  },
+  "KIR": {
+   "wikidata": "Q710",
+   "population": {
+    "value": 134518,
+    "year": 2024
+   },
+   "area": {
+    "value": 811
+   },
+   "highestPoint": {
+    "name": "Banaba Island",
+    "elevation": 81
+   }
+  },
+  "MNG": {
+   "wikidata": "Q711",
+   "population": {
+    "value": 3409939,
+    "year": 2021
+   },
+   "area": {
+    "value": 1564116
+   },
+   "highestPoint": {
+    "name": "Hüiten Peak",
+    "elevation": 4374
+   }
+  },
+  "LTU": {
+   "wikidata": "Q37",
+   "population": {
+    "value": 2860002,
+    "year": 2023
+   },
+   "area": {
+    "value": 65300
+   },
+   "highestPoint": {
+    "name": "Aukštojas Hill",
+    "elevation": 294
+   }
+  },
+  "PRK": {
+   "wikidata": "Q423",
+   "population": {
+    "value": 26418204,
+    "year": 2023
+   },
+   "area": {
+    "value": 120540
+   },
+   "highestPoint": {
+    "name": "Baekdu Mountain",
+    "elevation": 2744
+   }
+  },
+  "KHM": {
+   "wikidata": "Q424",
+   "population": {
+    "value": 17423880,
+    "year": 2023
+   },
+   "area": {
+    "value": 181035
+   },
+   "highestPoint": {
+    "name": "Phnom Aural",
+    "elevation": 1813
+   }
+  },
+  "JPN": {
+   "wikidata": "Q17",
+   "population": {
+    "value": 123802000,
+    "year": 2024
+   },
+   "area": {
+    "value": 377973.68
+   },
+   "highestPoint": {
+    "name": "Mount Fuji",
+    "elevation": 3777
+   }
+  },
+  "NOR": {
+   "wikidata": "Q20",
+   "population": {
+    "value": 5627400,
+    "year": 2026
+   },
+   "area": {
+    "value": 385207
+   },
+   "highestPoint": {
+    "name": "Galdhøpiggen",
+    "elevation": 2469
+   }
+  },
+  "LIE": {
+   "wikidata": "Q347",
+   "population": {
+    "value": 37922,
+    "year": 2017
+   },
+   "area": {
+    "value": 160.5
+   },
+   "highestPoint": {
+    "name": "Grauspitz",
+    "elevation": 2599
+   }
+  },
+  "BHR": {
+   "wikidata": "Q398",
+   "population": {
+    "value": 1569666,
+    "year": 2023
+   },
+   "area": {
+    "value": 786.5
+   },
+   "highestPoint": {
+    "name": "Mountain of Smoke",
+    "elevation": 134
+   }
+  },
+  "BFA": {
+   "wikidata": "Q965",
+   "population": {
+    "value": 23025776,
+    "year": 2023
+   },
+   "area": {
+    "value": 274200
+   },
+   "highestPoint": {
+    "name": "Mount Tenakourou",
+    "elevation": 749
+   }
+  },
+  "BDI": {
+   "wikidata": "Q967",
+   "population": {
+    "value": 13689450,
+    "year": 2023
+   },
+   "area": {
+    "value": 27834
+   },
+   "highestPoint": {
+    "name": "Mount Heha",
+    "elevation": 2684
+   }
+  },
+  "PLW": {
+   "wikidata": "Q695",
+   "population": {
+    "value": 21729,
+    "year": 2017
+   },
+   "area": {
+    "value": 465.550362
+   },
+   "highestPoint": {
+    "name": "Mount Ngerchelchuus",
+    "elevation": 242
+   }
+  },
+  "NRU": {
+   "wikidata": "Q697",
+   "population": {
+    "value": 13650,
+    "year": 2017
+   },
+   "area": {
+    "value": 21.2
+   },
+   "highestPoint": {
+    "name": "Command Ridge",
+    "elevation": 71
+   }
+  },
+  "FSM": {
+   "wikidata": "Q702",
+   "population": {
+    "value": 75817,
+    "year": 2023
+   },
+   "area": {
+    "value": 702
+   },
+   "highestPoint": {
+    "name": "Dolohmwar",
+    "elevation": 791
+   }
+  },
+  "MLI": {
+   "wikidata": "Q912",
+   "population": {
+    "value": 22395489,
+    "year": 2022
+   },
+   "area": {
+    "value": 1241231
+   },
+   "highestPoint": {
+    "name": "Mount Hombori",
+    "elevation": 1153
+   }
+  },
+  "VNM": {
+   "wikidata": "Q881",
+   "population": {
+    "value": 96208984,
+    "year": 2019
+   },
+   "area": {
+    "value": 331690
+   },
+   "highestPoint": {
+    "name": "Fansipan",
+    "elevation": 3143
+   }
+  },
+  "KOR": {
+   "wikidata": "Q884",
+   "population": {
+    "value": 51466201,
+    "year": 2017
+   },
+   "area": {
+    "value": 100295
+   },
+   "highestPoint": {
+    "name": "Hallasan",
+    "elevation": 1947
+   }
+  },
+  "TGO": {
+   "wikidata": "Q945",
+   "population": {
+    "value": 7797694,
+    "year": 2017
+   },
+   "area": {
+    "value": 56785
+   },
+   "highestPoint": {
+    "name": "Mount Agou",
+    "elevation": 986
+   }
+  },
+  "IRL": {
+   "wikidata": "Q27",
+   "population": {
+    "value": 5149139,
+    "year": 2022
+   },
+   "area": {
+    "value": 69797
+   },
+   "highestPoint": {
+    "name": "Carrauntoohil",
+    "elevation": 1039
+   }
+  },
+  "FJI": {
+   "wikidata": "Q712",
+   "population": {
+    "value": 926276,
+    "year": 2018
+   },
+   "area": {
+    "value": 18274
+   },
+   "highestPoint": {
+    "name": "Mount Tomanivi",
+    "elevation": 1324
+   }
+  },
+  "VEN": {
+   "wikidata": "Q717",
+   "population": {
+    "value": 31250306,
+    "year": 2024
+   },
+   "area": {
+    "value": 912050
+   },
+   "highestPoint": {
+    "name": "Pico Bolívar",
+    "elevation": 4978
+   }
+  },
+  "PRT": {
+   "wikidata": "Q45",
+   "population": {
+    "value": 10347892,
+    "year": 2021
+   },
+   "area": {
+    "value": 92225
+   },
+   "highestPoint": {
+    "name": "Mount Pico",
+    "elevation": 2351
+   }
+  },
+  "ATA": {
+   "wikidata": "Q51",
+   "population": {
+    "value": 5000,
+    "year": null
+   },
+   "area": {
+    "value": 14106900
+   },
+   "highestPoint": {
+    "name": "Vinson Massif",
+    "elevation": 4892
+   }
+  },
+  "URY": {
+   "wikidata": "Q77",
+   "population": {
+    "value": 3444263,
+    "year": 2023
+   },
+   "area": {
+    "value": 176215
+   },
+   "highestPoint": {
+    "name": "Cerro Catedral",
+    "elevation": 514
+   }
+  },
+  "LUX": {
+   "wikidata": "Q32",
+   "population": {
+    "value": 690959,
+    "year": 2026
+   },
+   "area": {
+    "value": 2593.05
+   },
+   "highestPoint": {
+    "name": "Kneiff",
+    "elevation": 560
+   }
+  },
+  "ITA": {
+   "wikidata": "Q38",
+   "population": {
+    "value": 58850717,
+    "year": 2023
+   },
+   "area": {
+    "value": 302068
+   },
+   "highestPoint": {
+    "name": "Mont Blanc",
+    "elevation": 4808
+   }
+  },
+  "CHE": {
+   "wikidata": "Q39",
+   "population": {
+    "value": 9104063,
+    "year": 2025
+   },
+   "area": {
+    "value": 41291
+   },
+   "highestPoint": {
+    "name": "Dufourspitze",
+    "elevation": 4634
+   }
+  },
+  "ARM": {
+   "wikidata": "Q399",
+   "population": {
+    "value": 2930450,
+    "year": 2017
+   },
+   "area": {
+    "value": 29743.423459
+   },
+   "highestPoint": {
+    "name": "Mount Aragats",
+    "elevation": 4090
+   }
+  },
+  "SRB": {
+   "wikidata": "Q403",
+   "population": {
+    "value": 6605168,
+    "year": 2024
+   },
+   "area": {
+    "value": 88499
+   },
+   "highestPoint": {
+    "name": "Velika Rudoka",
+    "elevation": 2658
+   }
+  },
+  "AUS": {
+   "wikidata": "Q408",
+   "population": {
+    "value": 27614411,
+    "year": 2025
+   },
+   "area": {
+    "value": 7688287
+   },
+   "highestPoint": {
+    "name": "Mawson Peak",
+    "elevation": 2745
+   }
+  },
+  "SUR": {
+   "wikidata": "Q730",
+   "population": {
+    "value": 563402,
+    "year": 2017
+   },
+   "area": {
+    "value": 163270
+   },
+   "highestPoint": {
+    "name": "Julianatop",
+    "elevation": 1280
+   }
+  },
+  "PRY": {
+   "wikidata": "Q733",
+   "population": {
+    "value": 6811297,
+    "year": 2017
+   },
+   "area": {
+    "value": 406756
+   },
+   "highestPoint": {
+    "name": "Cerro Tres Kandú",
+    "elevation": 842
+   }
+  },
+  "GUY": {
+   "wikidata": "Q734",
+   "population": {
+    "value": 878674,
+    "year": 2022
+   },
+   "area": {
+    "value": 214970
+   },
+   "highestPoint": {
+    "name": "Mount Roraima",
+    "elevation": 2810
+   }
+  },
+  "ECU": {
+   "wikidata": "Q736",
+   "population": {
+    "value": 16938986,
+    "year": 2022
+   },
+   "area": {
+    "value": 257204.27
+   },
+   "highestPoint": {
+    "name": "Chimborazo",
+    "elevation": 6263
+   }
+  },
+  "COL": {
+   "wikidata": "Q739",
+   "population": {
+    "value": 52321152,
+    "year": 2023
+   },
+   "area": {
+    "value": 1141748
+   },
+   "highestPoint": {
+    "name": "Pico Simón Bolívar",
+    "elevation": 5775
+   }
+  },
+  "TLS": {
+   "wikidata": "Q574",
+   "population": {
+    "value": 1400638,
+    "year": 2024
+   },
+   "area": {
+    "value": 14918.72
+   },
+   "highestPoint": {
+    "name": "Tatamailau",
+    "elevation": 2963
+   }
+  },
+  "TCD": {
+   "wikidata": "Q657",
+   "population": {
+    "value": 19319064,
+    "year": 2023
+   },
+   "area": {
+    "value": 1284000
+   },
+   "highestPoint": {
+    "name": "Emi Koussi",
+    "elevation": 3445
+   }
+  },
+  "SSD": {
+   "wikidata": "Q958",
+   "population": {
+    "value": 12575714,
+    "year": 2017
+   },
+   "area": {
+    "value": 644329
+   },
+   "highestPoint": {
+    "name": "Kinyeti",
+    "elevation": 3187
+   }
+  },
+  "BEN": {
+   "wikidata": "Q962",
+   "population": {
+    "value": 14111034,
+    "year": 2023
+   },
+   "area": {
+    "value": 114763
+   },
+   "highestPoint": {
+    "name": "Mont Sokbaro",
+    "elevation": 658
+   }
+  },
+  "BWA": {
+   "wikidata": "Q963",
+   "population": {
+    "value": 2480244,
+    "year": 2023
+   },
+   "area": {
+    "value": 581737
+   },
+   "highestPoint": {
+    "name": "Otse Hill",
+    "elevation": 1491
+   }
+  },
+  "DJI": {
+   "wikidata": "Q977",
+   "population": {
+    "value": 1152944,
+    "year": 2023
+   },
+   "area": {
+    "value": 23200
+   },
+   "highestPoint": {
+    "name": "Mousa Ali",
+    "elevation": 2028
+   }
+  },
+  "GNQ": {
+   "wikidata": "Q983",
+   "population": {
+    "value": 1847549,
+    "year": 2023
+   },
+   "area": {
+    "value": 28051
+   },
+   "highestPoint": {
+    "name": "Pico Basilé",
+    "elevation": 3011
+   }
+  },
+  "ERI": {
+   "wikidata": "Q986",
+   "population": {
+    "value": 3497000,
+    "year": 2019
+   },
+   "area": {
+    "value": 117600
+   },
+   "highestPoint": {
+    "name": "Emba Soira",
+    "elevation": 3018
+   }
+  },
+  "TON": {
+   "wikidata": "Q678",
+   "population": {
+    "value": 108020,
+    "year": 2017
+   },
+   "area": {
+    "value": 748.506563
+   },
+   "highestPoint": {
+    "name": "Kao",
+    "elevation": 1030
+   }
+  },
+  "WSM": {
+   "wikidata": "Q683",
+   "population": {
+    "value": 200010,
+    "year": 2021
+   },
+   "area": {
+    "value": 2842
+   },
+   "highestPoint": {
+    "name": "Silisili",
+    "elevation": 1858
+   }
+  },
+  "GHA": {
+   "wikidata": "Q117",
+   "population": {
+    "value": 32833031,
+    "year": 2021
+   },
+   "area": {
+    "value": 238535
+   },
+   "highestPoint": {
+    "name": "Mount Afadja",
+    "elevation": 885
+   }
+  },
+  "FRA": {
+   "wikidata": "Q142",
+   "population": {
+    "value": 68605616,
+    "year": 2025
+   },
+   "area": {
+    "value": 643801
+   },
+   "highestPoint": {
+    "name": "Mont Blanc",
+    "elevation": 4808
+   }
+  },
+  "GBR": {
+   "wikidata": "Q145",
+   "population": {
+    "value": 67326569,
+    "year": 2021
+   },
+   "area": {
+    "value": 242495
+   },
+   "highestPoint": {
+    "name": "Ben Nevis",
+    "elevation": 1345
+   }
+  },
+  "CIV": {
+   "wikidata": "Q1008",
+   "population": {
+    "value": 31165654,
+    "year": 2023
+   },
+   "area": {
+    "value": 322463
+   },
+   "highestPoint": {
+    "name": "Mount Richard-Molard",
+    "elevation": 1752
+   }
+  },
+  "CMR": {
+   "wikidata": "Q1009",
+   "population": {
+    "value": 28372687,
+    "year": 2023
+   },
+   "area": {
+    "value": 475442
+   },
+   "highestPoint": {
+    "name": "Mount Cameroon",
+    "elevation": 4095
+   }
+  },
+  "CPV": {
+   "wikidata": "Q1011",
+   "population": {
+    "value": 555988,
+    "year": 2020
+   },
+   "area": {
+    "value": 4033
+   },
+   "highestPoint": {
+    "name": "Pico do Fogo",
+    "elevation": 2829
+   }
+  },
+  "BOL": {
+   "wikidata": "Q750",
+   "population": {
+    "value": 12244159,
+    "year": 2023
+   },
+   "area": {
+    "value": 1098581
+   },
+   "highestPoint": {
+    "name": "Nevado Sajama",
+    "elevation": 6542
+   }
+  },
+  "TTO": {
+   "wikidata": "Q754",
+   "population": {
+    "value": 1369125,
+    "year": 2017
+   },
+   "area": {
+    "value": 5128
+   },
+   "highestPoint": {
+    "name": "El Cerro del Aripo",
+    "elevation": 940
+   }
+  },
+  "NZL": {
+   "wikidata": "Q664",
+   "population": {
+    "value": 5307800,
+    "year": 2024
+   },
+   "area": {
+    "value": 268021
+   },
+   "highestPoint": {
+    "name": "Aoraki / Mount Cook",
+    "elevation": 3724
+   }
+  },
+  "COM": {
+   "wikidata": "Q970",
+   "population": {
+    "value": 902348,
+    "year": 2022
+   },
+   "area": {
+    "value": 2034
+   },
+   "highestPoint": {
+    "name": "Mount Karthala",
+    "elevation": 2361
+   }
+  },
+  "COG": {
+   "wikidata": "Q971",
+   "population": {
+    "value": 6142180,
+    "year": 2023
+   },
+   "area": {
+    "value": 342000
+   },
+   "highestPoint": {
+    "name": "Mont Nabemba",
+    "elevation": 1020
+   }
+  },
+  "COD": {
+   "wikidata": "Q974",
+   "population": {
+    "value": 105789731,
+    "year": 2023
+   },
+   "area": {
+    "value": 2345410
+   },
+   "highestPoint": {
+    "name": "Mount Stanley",
+    "elevation": 5109
+   }
+  },
+  "SLB": {
+   "wikidata": "Q685",
+   "population": {
+    "value": 611343,
+    "year": 2017
+   },
+   "area": {
+    "value": 28400
+   },
+   "highestPoint": {
+    "name": "Mount Popomanaseu",
+    "elevation": 2335
+   }
+  },
+  "VUT": {
+   "wikidata": "Q686",
+   "population": {
+    "value": 300019,
+    "year": 2020
+   },
+   "area": {
+    "value": 12190
+   },
+   "highestPoint": {
+    "name": "Mount Tabwemasana",
+    "elevation": 1879
+   }
+  },
+  "ATG": {
+   "wikidata": "Q781",
+   "population": {
+    "value": 101489,
+    "year": 2023
+   },
+   "area": {
+    "value": 440.29
+   },
+   "highestPoint": {
+    "name": "Mount Obama",
+    "elevation": 402
+   }
+  },
+  "HND": {
+   "wikidata": "Q783",
+   "population": {
+    "value": 8303771,
+    "year": 2013
+   },
+   "area": {
+    "value": 112492
+   },
+   "highestPoint": {
+    "name": "Cerro Las Minas",
+    "elevation": 2849
+   }
+  },
+  "DMA": {
+   "wikidata": "Q784",
+   "population": {
+    "value": 74656,
+    "year": 2023
+   },
+   "area": {
+    "value": 751.096551
+   },
+   "highestPoint": {
+    "name": "Morne Diablotins",
+    "elevation": 1447
+   }
+  },
+  "EGY": {
+   "wikidata": "Q79",
+   "population": {
+    "value": 114535772,
+    "year": 2023
+   },
+   "area": {
+    "value": 1010407.87
+   },
+   "highestPoint": {
+    "name": "Mount Catherine",
+    "elevation": 2629
+   }
+  },
+  "MEX": {
+   "wikidata": "Q96",
+   "population": {
+    "value": 132274416,
+    "year": 2024
+   },
+   "area": {
+    "value": 1960647
+   },
+   "highestPoint": {
+    "name": "Citlaltepetl",
+    "elevation": 5636
+   }
+  },
+  "CHN": {
+   "wikidata": "Q148",
+   "population": {
+    "value": 1404890000,
+    "year": 2025
+   },
+   "area": {
+    "value": 9562910
+   },
+   "highestPoint": {
+    "name": "Mount Everest",
+    "elevation": 8848
+   }
+  },
+  "BRA": {
+   "wikidata": "Q155",
+   "population": {
+    "value": 214211951,
+    "year": 2026
+   },
+   "area": {
+    "value": 8509360.85
+   },
+   "highestPoint": {
+    "name": "Pico da Neblina",
+    "elevation": 2994
+   }
+  },
+  "RUS": {
+   "wikidata": "Q159",
+   "population": {
+    "value": 146119928,
+    "year": 2025
+   },
+   "area": {
+    "value": 17098246
+   },
+   "highestPoint": {
+    "name": "Mount Elbrus",
+    "elevation": 5642
+   }
+  },
+  "DEU": {
+   "wikidata": "Q183",
+   "population": {
+    "value": 83467117,
+    "year": 2025
+   },
+   "area": {
+    "value": 357587.77
+   },
+   "highestPoint": {
+    "name": "Zugspitze",
+    "elevation": 2962
+   }
+  },
+  "BLR": {
+   "wikidata": "Q184",
+   "population": {
+    "value": 9056080,
+    "year": 2026
+   },
+   "area": {
+    "value": 207596.76
+   },
+   "highestPoint": {
+    "name": "Dziaržynkaja hara",
+    "elevation": 345
+   }
+  },
+  "AUT": {
+   "wikidata": "Q40",
+   "population": {
+    "value": 8979894,
+    "year": 2022
+   },
+   "area": {
+    "value": 83878.99
+   },
+   "highestPoint": {
+    "name": "Grossglockner",
+    "elevation": 3798
+   }
+  },
+  "GAB": {
+   "wikidata": "Q1000",
+   "population": {
+    "value": 2025137,
+    "year": 2017
+   },
+   "area": {
+    "value": 267667
+   },
+   "highestPoint": {
+    "name": "Mont Bengoué",
+    "elevation": 1070
+   }
+  },
+  "GMB": {
+   "wikidata": "Q1005",
+   "population": {
+    "value": 2639916,
+    "year": 2021
+   },
+   "area": {
+    "value": 11300
+   }
+  },
+  "PNG": {
+   "wikidata": "Q691",
+   "population": {
+    "value": 8935000,
+    "year": 2020
+   },
+   "area": {
+    "value": 462840
+   },
+   "highestPoint": {
+    "name": "Mount Wilhelm",
+    "elevation": 4509
+   }
+  },
+  "VCT": {
+   "wikidata": "Q757",
+   "population": {
+    "value": 109296,
+    "year": 2023
+   },
+   "area": {
+    "value": 389
+   },
+   "highestPoint": {
+    "name": "La Soufrière",
+    "elevation": 1220
+   }
+  },
+  "LCA": {
+   "wikidata": "Q760",
+   "population": {
+    "value": 167591,
+    "year": 2023
+   },
+   "area": {
+    "value": 617.012867
+   },
+   "highestPoint": {
+    "name": "Mount Gimie",
+    "elevation": 952
+   }
+  },
+  "KNA": {
+   "wikidata": "Q763",
+   "population": {
+    "value": 46922,
+    "year": 2025
+   },
+   "area": {
+    "value": 271.95
+   },
+   "highestPoint": {
+    "name": "Mount Liamuiga",
+    "elevation": 1156
+   }
+  },
+  "AZE": {
+   "wikidata": "Q227",
+   "population": {
+    "value": 10180770,
+    "year": 2023
+   },
+   "area": {
+    "value": 86600
+   },
+   "highestPoint": {
+    "name": "Mount Bazardüzü",
+    "elevation": 2706
+   }
+  },
+  "AND": {
+   "wikidata": "Q228",
+   "population": {
+    "value": 89752,
+    "year": 2026
+   },
+   "area": {
+    "value": 468
+   },
+   "highestPoint": {
+    "name": "Coma Pedrosa",
+    "elevation": 2942
+   }
+  },
+  "CYP": {
+   "wikidata": "Q229",
+   "population": {
+    "value": 1344976,
+    "year": 2023
+   },
+   "area": {
+    "value": 9242.45
+   },
+   "highestPoint": {
+    "name": "Mount Olympus",
+    "elevation": 1952
+   }
+  },
+  "GIN": {
+   "wikidata": "Q1006",
+   "population": {
+    "value": 17521167,
+    "year": 2025
+   },
+   "area": {
+    "value": 245857
+   },
+   "highestPoint": {
+    "name": "Mount Richard-Molard",
+    "elevation": 1752
+   }
+  },
+  "GNB": {
+   "wikidata": "Q1007",
+   "population": {
+    "value": 1861283,
+    "year": 2017
+   },
+   "area": {
+    "value": 36125
+   },
+   "highestPoint": {
+    "name": "Monte Torin",
+    "elevation": 262
+   }
+  },
+  "NER": {
+   "wikidata": "Q1032",
+   "population": {
+    "value": 21477348,
+    "year": 2017
+   },
+   "area": {
+    "value": 1267000
+   },
+   "highestPoint": {
+    "name": "Mont Idoukal-n-Taghès",
+    "elevation": 2022
+   }
+  },
+  "NGA": {
+   "wikidata": "Q1033",
+   "population": {
+    "value": 211400708,
+    "year": 2021
+   },
+   "area": {
+    "value": 923768
+   },
+   "highestPoint": {
+    "name": "Chappal Waddi",
+    "elevation": 2419
+   }
+  },
+  "UGA": {
+   "wikidata": "Q1036",
+   "population": {
+    "value": 47123531,
+    "year": 2021
+   },
+   "area": {
+    "value": 241038
+   },
+   "highestPoint": {
+    "name": "Mount Stanley",
+    "elevation": 5109
+   }
+  },
+  "KEN": {
+   "wikidata": "Q114",
+   "population": {
+    "value": 48468138,
+    "year": 2017
+   },
+   "area": {
+    "value": 581309
+   },
+   "highestPoint": {
+    "name": "Mount Kenya",
+    "elevation": 5199
+   }
+  },
+  "SLV": {
+   "wikidata": "Q792",
+   "population": {
+    "value": 6029976,
+    "year": 2024
+   },
+   "area": {
+    "value": 21041
+   },
+   "highestPoint": {
+    "name": "Cerro El Pital",
+    "elevation": 2730
+   }
+  },
+  "IRN": {
+   "wikidata": "Q794",
+   "population": {
+    "value": 92417700,
+    "year": 2025
+   },
+   "area": {
+    "value": 1648195
+   },
+   "highestPoint": {
+    "name": "Damavand",
+    "elevation": 5628
+   }
+  },
+  "IRQ": {
+   "wikidata": "Q796",
+   "population": {
+    "value": 38274618,
+    "year": 2017
+   },
+   "area": {
+    "value": 437072
+   },
+   "highestPoint": {
+    "name": "Cheekha Dar",
+    "elevation": 3611
+   }
+  },
+  "SWZ": {
+   "wikidata": "Q1050",
+   "population": {
+    "value": 1230506,
+    "year": 2023
+   },
+   "area": {
+    "value": 17364
+   },
+   "highestPoint": {
+    "name": "Emlembe",
+    "elevation": 1862
+   }
+  },
+  "SOM": {
+   "wikidata": "Q1045",
+   "population": {
+    "value": 11031386,
+    "year": 2017
+   },
+   "area": {
+    "value": 637657
+   },
+   "highestPoint": {
+    "name": "Shimbiris",
+    "elevation": 2460
+   }
+  },
+  "ETH": {
+   "wikidata": "Q115",
+   "population": {
+    "value": 128691692,
+    "year": 2023
+   },
+   "area": {
+    "value": 1129819
+   },
+   "highestPoint": {
+    "name": "Ras Dashen",
+    "elevation": 4533
+   }
+  },
+  "SDN": {
+   "wikidata": "Q1049",
+   "population": {
+    "value": 40533330,
+    "year": 2017
+   },
+   "area": {
+    "value": 1878000
+   },
+   "highestPoint": {
+    "name": "Deriba Caldera",
+    "elevation": 3042
+   }
+  },
+  "IOT": {
+   "wikidata": "Q43448",
+   "population": {
+    "value": 3000,
+    "year": 2018
+   },
+   "area": {
+    "value": 60
+   }
+  },
+  "MID": {
+   "wikidata": "Q47863",
+   "population": {
+    "value": 14,
+    "year": 2014
+   },
+   "highestPoint": {
+    "name": "Sand Island",
+    "elevation": 12
+   }
+  },
+  "TKL": {
+   "wikidata": "Q36823",
+   "population": {
+    "value": 1499,
+    "year": 2016
+   },
+   "area": {
+    "value": 12.2
+   }
+  },
+  "BGR": {
+   "wikidata": "Q219",
+   "population": {
+    "value": 6423207,
+    "year": 2025
+   },
+   "area": {
+    "value": 110993.6
+   },
+   "highestPoint": {
+    "name": "Musala",
+    "elevation": 2925
+   }
+  },
+  "MKD": {
+   "wikidata": "Q221",
+   "population": {
+    "value": 1836713,
+    "year": 2021
+   },
+   "area": {
+    "value": 25713
+   },
+   "highestPoint": {
+    "name": "Korab",
+    "elevation": 2764
+   }
+  },
+  "CRI": {
+   "wikidata": "Q800",
+   "population": {
+    "value": 5265575,
+    "year": 2024
+   },
+   "area": {
+    "value": 51179.92
+   },
+   "highestPoint": {
+    "name": "Cerro Chirripó",
+    "elevation": 3820
+   }
+  },
+  "ISR": {
+   "wikidata": "Q801",
+   "population": {
+    "value": 9840000,
+    "year": 2023
+   },
+   "area": {
+    "value": 20770
+   },
+   "highestPoint": {
+    "name": "Meron",
+    "elevation": 1208
+   }
+  },
+  "PAN": {
+   "wikidata": "Q804",
+   "population": {
+    "value": 4570133,
+    "year": 2025
+   },
+   "area": {
+    "value": 74177.3
+   },
+   "highestPoint": {
+    "name": "Volcan Baru",
+    "elevation": 3475
+   }
+  },
+  "YEM": {
+   "wikidata": "Q805",
+   "population": {
+    "value": 28250420,
+    "year": 2017
+   },
+   "area": {
+    "value": 455503
+   },
+   "highestPoint": {
+    "name": "Jabal an Nabi Shu'ayb",
+    "elevation": 3666
+   }
+  },
+  "JOR": {
+   "wikidata": "Q810",
+   "population": {
+    "value": 10428241,
+    "year": 2019
+   },
+   "area": {
+    "value": 89341
+   },
+   "highestPoint": {
+    "name": "Jabal Umm ad Dami",
+    "elevation": 1854
+   }
+  },
+  "NIC": {
+   "wikidata": "Q811",
+   "population": {
+    "value": 5142098,
+    "year": 2005
+   },
+   "area": {
+    "value": 120340
+   },
+   "highestPoint": {
+    "name": "Cerro Mogotón",
+    "elevation": 2107
+   }
+  },
+  "LSO": {
+   "wikidata": "Q1013",
+   "population": {
+    "value": 2007201,
+    "year": 2016
+   },
+   "area": {
+    "value": 30355
+   },
+   "highestPoint": {
+    "name": "Thabana Ntlenyana",
+    "elevation": 3482
+   }
+  },
+  "LBR": {
+   "wikidata": "Q1014",
+   "population": {
+    "value": 5214030,
+    "year": 2021
+   },
+   "area": {
+    "value": 111369
+   },
+   "highestPoint": {
+    "name": "Mount Wuteve",
+    "elevation": 1440
+   }
+  },
+  "RWA": {
+   "wikidata": "Q1037",
+   "population": {
+    "value": 14569341,
+    "year": 2025
+   },
+   "area": {
+    "value": 26338
+   },
+   "highestPoint": {
+    "name": "Mount Karisimbi",
+    "elevation": 4507
+   }
+  },
+  "STP": {
+   "wikidata": "Q1039",
+   "population": {
+    "value": 204327,
+    "year": 2017
+   },
+   "area": {
+    "value": 1001
+   },
+   "highestPoint": {
+    "name": "Pico de São Tomé",
+    "elevation": 2024
+   }
+  },
+  "SEN": {
+   "wikidata": "Q1041",
+   "population": {
+    "value": 16876720,
+    "year": 2021
+   },
+   "area": {
+    "value": 196722
+   },
+   "highestPoint": {
+    "name": "Népin Cliff",
+    "elevation": 531
+   }
+  },
+  "MRT": {
+   "wikidata": "Q1025",
+   "population": {
+    "value": 4736139,
+    "year": 2022
+   },
+   "area": {
+    "value": 1030700
+   },
+   "highestPoint": {
+    "name": "Kediet ej Jill",
+    "elevation": 915
+   }
+  },
+  "MUS": {
+   "wikidata": "Q1027",
+   "population": {
+    "value": 1264613,
+    "year": 2017
+   },
+   "area": {
+    "value": 2040
+   },
+   "highestPoint": {
+    "name": "Piton de la Petite Rivière Noire",
+    "elevation": 828
+   }
+  },
+  "MYS": {
+   "wikidata": "Q833",
+   "population": {
+    "value": 34231700,
+    "year": 2025
+   },
+   "area": {
+    "value": 330803
+   },
+   "highestPoint": {
+    "name": "Mount Kinabalu",
+    "elevation": 4095
+   }
+  },
+  "MMR": {
+   "wikidata": "Q836",
+   "population": {
+    "value": 53370609,
+    "year": 2017
+   },
+   "area": {
+    "value": 676577.2
+   },
+   "highestPoint": {
+    "name": "Hkakabo Razi",
+    "elevation": 5881
+   }
+  },
+  "GEO": {
+   "wikidata": "Q230",
+   "population": {
+    "value": 3929581,
+    "year": 2024
+   },
+   "area": {
+    "value": 69700
+   },
+   "highestPoint": {
+    "name": "Shkhara",
+    "elevation": 5193
+   }
+  },
+  "KAZ": {
+   "wikidata": "Q232",
+   "population": {
+    "value": 20139914,
+    "year": 2024
+   },
+   "area": {
+    "value": 2724910
+   },
+   "highestPoint": {
+    "name": "Khan Tengri",
+    "elevation": 7010
+   }
+  },
+  "MLT": {
+   "wikidata": "Q233",
+   "population": {
+    "value": 553214,
+    "year": 2023
+   },
+   "area": {
+    "value": 316
+   },
+   "highestPoint": {
+    "name": "Ta' Dmejrek",
+    "elevation": 253
+   }
+  },
+  "JEY": {
+   "wikidata": "Q785",
+   "population": {
+    "value": 103267,
+    "year": 2021
+   },
+   "area": {
+    "value": 118.2
+   }
+  },
+  "DOM": {
+   "wikidata": "Q786",
+   "population": {
+    "value": 10760028,
+    "year": 2022
+   },
+   "area": {
+    "value": 48670.82
+   },
+   "highestPoint": {
+    "name": "Pico Duarte",
+    "elevation": 3101
+   }
+  },
+  "PRI": {
+   "wikidata": "Q1183",
+   "population": {
+    "value": 3285874,
+    "year": 2020
+   },
+   "area": {
+    "value": 9104
+   },
+   "highestPoint": {
+    "name": "Cerro de Punta",
+    "elevation": 1338
+   }
+  },
+  "XKS": {
+   "wikidata": "Q1246",
+   "population": {
+    "value": 1586659,
+    "year": 2024
+   },
+   "area": {
+    "value": 10909
+   },
+   "highestPoint": {
+    "name": "Gjeravica",
+    "elevation": 2656
+   }
+  },
+  "GIB": {
+   "wikidata": "Q1410",
+   "population": {
+    "value": 34003,
+    "year": 2020
+   },
+   "area": {
+    "value": 6.8
+   }
+  },
+  "GUF": {
+   "wikidata": "Q3769",
+   "population": {
+    "value": 293996,
+    "year": 2023
+   },
+   "area": {
+    "value": 83534
+   },
+   "highestPoint": {
+    "name": "Bellevue de l'Inini",
+    "elevation": 831
+   }
+  },
+  "FRO": {
+   "wikidata": "Q4628",
+   "population": {
+    "value": 54149,
+    "year": 2023
+   },
+   "area": {
+    "value": 1399
+   },
+   "highestPoint": {
+    "name": "Slættaratindur",
+    "elevation": 880
+   }
+  },
+  "ISL": {
+   "wikidata": "Q189",
+   "population": {
+    "value": 364260,
+    "year": 2019
+   },
+   "area": {
+    "value": 103004
+   },
+   "highestPoint": {
+    "name": "Hvannadalshnúkur",
+    "elevation": 2110
+   }
+  },
+  "ALA": {
+   "wikidata": "Q5689",
+   "population": {
+    "value": 30836,
+    "year": 2025
+   },
+   "area": {
+    "value": 1582.93
+   },
+   "highestPoint": {
+    "name": "Orrdalsklint",
+    "elevation": 127
+   }
+  },
+  "CYM": {
+   "wikidata": "Q5785",
+   "population": {
+    "value": 88833,
+    "year": 2024
+   },
+   "area": {
+    "value": 262
+   }
+  },
+  "LBN": {
+   "wikidata": "Q822",
+   "population": {
+    "value": 6100075,
+    "year": 2018
+   },
+   "area": {
+    "value": 10452
+   },
+   "highestPoint": {
+    "name": "Qurnat as Sawda'",
+    "elevation": 3088
+   }
+  },
+  "MDV": {
+   "wikidata": "Q826",
+   "population": {
+    "value": 436330,
+    "year": 2017
+   },
+   "area": {
+    "value": 298
+   },
+   "highestPoint": {
+    "name": "Villingili",
+    "elevation": 5
+   }
+  },
+  "MNE": {
+   "wikidata": "Q236",
+   "population": {
+    "value": 617213,
+    "year": 2022
+   },
+   "area": {
+    "value": 13883
+   },
+   "highestPoint": {
+    "name": "Zla Kolata",
+    "elevation": 2534
+   }
+  },
+  "VAT": {
+   "wikidata": "Q237",
+   "population": {
+    "value": 949,
+    "year": 2024
+   },
+   "area": {
+    "value": 0.44
+   },
+   "highestPoint": {
+    "name": "Vatican Hill",
+    "elevation": 75
+   }
+  },
+  "SMR": {
+   "wikidata": "Q238",
+   "population": {
+    "value": 34167,
+    "year": 2026
+   },
+   "area": {
+    "value": 61.2
+   },
+   "highestPoint": {
+    "name": "Monte Titano",
+    "elevation": 739
+   }
+  },
+  "CUB": {
+   "wikidata": "Q241",
+   "population": {
+    "value": 10985974,
+    "year": 2023
+   },
+   "area": {
+    "value": 109884
+   },
+   "highestPoint": {
+    "name": "Pico Turquino",
+    "elevation": 1974
+   }
+  },
+  "JAM": {
+   "wikidata": "Q766",
+   "population": {
+    "value": 2697983,
+    "year": 2011
+   },
+   "area": {
+    "value": 10991.90954
+   },
+   "highestPoint": {
+    "name": "Blue Mountain Peak",
+    "elevation": 2256
+   }
+  },
+  "GRD": {
+   "wikidata": "Q769",
+   "population": {
+    "value": 114299,
+    "year": 2023
+   },
+   "area": {
+    "value": 348.5
+   },
+   "highestPoint": {
+    "name": "Mount Saint Catherine",
+    "elevation": 840
+   }
+  },
+  "GTM": {
+   "wikidata": "Q774",
+   "population": {
+    "value": 17263239,
+    "year": 2018
+   },
+   "area": {
+    "value": 108889
+   },
+   "highestPoint": {
+    "name": "Volcán Tajumulco",
+    "elevation": 4220
+   }
+  },
+  "MCO": {
+   "wikidata": "Q235",
+   "population": {
+    "value": 38857,
+    "year": 2025
+   },
+   "area": {
+    "value": 2.08
+   },
+   "highestPoint": {
+    "name": "Chemin des Révoires",
+    "elevation": 162
+   }
+  },
+  "KGZ": {
+   "wikidata": "Q813",
+   "population": {
+    "value": 7281800,
+    "year": 2025
+   },
+   "area": {
+    "value": 199951
+   },
+   "highestPoint": {
+    "name": "Jengish Chokusu",
+    "elevation": 7439
+   }
+  },
+  "KWT": {
+   "wikidata": "Q817",
+   "population": {
+    "value": 4464000,
+    "year": 2020
+   },
+   "area": {
+    "value": 17818
+   },
+   "highestPoint": {
+    "name": "Mutla Ridge",
+    "elevation": 140
+   }
+  },
+  "LAO": {
+   "wikidata": "Q819",
+   "population": {
+    "value": 6858160,
+    "year": 2017
+   },
+   "area": {
+    "value": 236800
+   },
+   "highestPoint": {
+    "name": "Phou Bia",
+    "elevation": 2819
+   }
+  },
+  "LBY": {
+   "wikidata": "Q1016",
+   "population": {
+    "value": 7381023,
+    "year": 2024
+   },
+   "area": {
+    "value": 1759540
+   },
+   "highestPoint": {
+    "name": "Bikku Bitti",
+    "elevation": 2267
+   }
+  },
+  "MDG": {
+   "wikidata": "Q1019",
+   "population": {
+    "value": 31964956,
+    "year": 2024
+   },
+   "area": {
+    "value": 587295
+   },
+   "highestPoint": {
+    "name": "Maromokotro",
+    "elevation": 2876
+   }
+  },
+  "MAR": {
+   "wikidata": "Q1028",
+   "population": {
+    "value": 36828330,
+    "year": 2024
+   },
+   "area": {
+    "value": 446550
+   },
+   "highestPoint": {
+    "name": "Jbel Toubkal",
+    "elevation": 4167
+   }
+  },
+  "MOZ": {
+   "wikidata": "Q1029",
+   "population": {
+    "value": 29668834,
+    "year": 2017
+   },
+   "area": {
+    "value": 801590
+   },
+   "highestPoint": {
+    "name": "Monte Binga",
+    "elevation": 2436
+   }
+  },
+  "ESH": {
+   "wikidata": "Q6250",
+   "population": {
+    "value": 612000,
+    "year": 2021
+   },
+   "area": {
+    "value": 266000
+   }
+  },
+  "HKG": {
+   "wikidata": "Q8646",
+   "population": {
+    "value": 7413070,
+    "year": 2021
+   },
+   "area": {
+    "value": 2755.03
+   },
+   "highestPoint": {
+    "name": "Tai Mo Shan",
+    "elevation": 957
+   }
+  },
+  "IMN": {
+   "wikidata": "Q9676",
+   "population": {
+    "value": 84523,
+    "year": 2024
+   },
+   "area": {
+    "value": 572
+   },
+   "highestPoint": {
+    "name": "Snaefell",
+    "elevation": 621
+   }
+  },
+  "FLK": {
+   "wikidata": "Q9648",
+   "population": {
+    "value": 3662,
+    "year": 2021
+   },
+   "area": {
+    "value": 12173
+   },
+   "highestPoint": {
+    "name": "Mount Usborne",
+    "elevation": 705
+   }
+  },
+  "NPL": {
+   "wikidata": "Q837",
+   "population": {
+    "value": 29164578,
+    "year": 2021
+   },
+   "area": {
+    "value": 147181.254346
+   },
+   "highestPoint": {
+    "name": "Mount Everest",
+    "elevation": 8848
+   }
+  },
+  "OMN": {
+   "wikidata": "Q842",
+   "population": {
+    "value": 4829480,
+    "year": 2018
+   },
+   "area": {
+    "value": 309500
+   },
+   "highestPoint": {
+    "name": "Jebel Shams",
+    "elevation": 3018
+   }
+  },
+  "CZE": {
+   "wikidata": "Q213",
+   "population": {
+    "value": 10909500,
+    "year": 2025
+   },
+   "area": {
+    "value": 78871
+   },
+   "highestPoint": {
+    "name": "Sněžka",
+    "elevation": 1603
+   }
+  },
+  "SVK": {
+   "wikidata": "Q214",
+   "population": {
+    "value": 5409407,
+    "year": 2025
+   },
+   "area": {
+    "value": 49033.720839
+   },
+   "highestPoint": {
+    "name": "Gerlachovský štít",
+    "elevation": 2654
+   }
+  },
+  "SVN": {
+   "wikidata": "Q215",
+   "population": {
+    "value": 2066880,
+    "year": 2018
+   },
+   "area": {
+    "value": 20271
+   },
+   "highestPoint": {
+    "name": "Triglav",
+    "elevation": 2864
+   }
+  },
+  "MDA": {
+   "wikidata": "Q217",
+   "population": {
+    "value": 2409207,
+    "year": 2024
+   },
+   "area": {
+    "value": 33843.5
+   },
+   "highestPoint": {
+    "name": "Bălănești Hill",
+    "elevation": 430
+   }
+  },
+  "ROU": {
+   "wikidata": "Q218",
+   "population": {
+    "value": 19053815,
+    "year": 2022
+   },
+   "area": {
+    "value": 238397
+   },
+   "highestPoint": {
+    "name": "Moldoveanu Peak",
+    "elevation": 2544
+   }
+  },
+  "VIR": {
+   "wikidata": "Q11703",
+   "population": {
+    "value": 87146,
+    "year": 2020
+   },
+   "area": {
+    "value": 346.36
+   },
+   "highestPoint": {
+    "name": "Crown Mountain",
+    "elevation": 473
+   }
+  },
+  "MSR": {
+   "wikidata": "Q13353",
+   "population": {
+    "value": 5440,
+    "year": 2023
+   },
+   "area": {
+    "value": 102
+   }
+  },
+  "MAC": {
+   "wikidata": "Q14773",
+   "population": {
+    "value": 682100,
+    "year": 2021
+   },
+   "area": {
+    "value": 118.4
+   },
+   "highestPoint": {
+    "name": "Alto de Coloane",
+    "elevation": 171
+   }
+  },
+  "GUM": {
+   "wikidata": "Q16635",
+   "population": {
+    "value": 153836,
+    "year": 2020
+   },
+   "area": {
+    "value": 544
+   },
+   "highestPoint": {
+    "name": "Mount Lamlam",
+    "elevation": 406
+   }
+  },
+  "BLZ": {
+   "wikidata": "Q242",
+   "population": {
+    "value": 411106,
+    "year": 2023
+   },
+   "area": {
+    "value": 22966
+   },
+   "highestPoint": {
+    "name": "Doyle's Delight",
+    "elevation": 1124
+   }
+  },
+  "BHS": {
+   "wikidata": "Q778",
+   "population": {
+    "value": 399440,
+    "year": 2023
+   },
+   "area": {
+    "value": 13878
+   },
+   "highestPoint": {
+    "name": "Mount Alvernia",
+    "elevation": 63
+   }
+  },
+  "HTI": {
+   "wikidata": "Q790",
+   "population": {
+    "value": 10981229,
+    "year": 2017
+   },
+   "area": {
+    "value": 27750
+   },
+   "highestPoint": {
+    "name": "Peak la Selle",
+    "elevation": 2674
+   }
+  },
+  "ASM": {
+   "wikidata": "Q16641",
+   "population": {
+    "value": 49710,
+    "year": 2020
+   },
+   "area": {
+    "value": 199
+   },
+   "highestPoint": {
+    "name": "Lata Mountain",
+    "elevation": 963
+   }
+  },
+  "MNP": {
+   "wikidata": "Q16644",
+   "population": {
+    "value": 47329,
+    "year": 2020
+   },
+   "area": {
+    "value": 464
+   },
+   "highestPoint": {
+    "name": "Mount Agrihan",
+    "elevation": null
+   }
+  },
+  "EST": {
+   "wikidata": "Q191",
+   "population": {
+    "value": 1369995,
+    "year": 2025
+   },
+   "area": {
+    "value": 45335
+   },
+   "highestPoint": {
+    "name": "Suur Munamägi",
+    "elevation": 317
+   }
+  },
+  "LVA": {
+   "wikidata": "Q211",
+   "population": {
+    "value": 1845096,
+    "year": 2026
+   },
+   "area": {
+    "value": 64593.77
+   },
+   "highestPoint": {
+    "name": "Gaiziņkalns",
+    "elevation": 312
+   }
+  },
+  "UKR": {
+   "wikidata": "Q212",
+   "population": {
+    "value": 41167335,
+    "year": 2022
+   },
+   "area": {
+    "value": 603550
+   },
+   "highestPoint": {
+    "name": "Hoverla",
+    "elevation": 2061
+   }
+  },
+  "ALB": {
+   "wikidata": "Q222",
+   "population": {
+    "value": 2811655,
+    "year": 2023
+   },
+   "area": {
+    "value": 28748
+   },
+   "highestPoint": {
+    "name": "Korab",
+    "elevation": 2764
+   }
+  },
+  "GRL": {
+   "wikidata": "Q223",
+   "population": {
+    "value": 56609,
+    "year": 2023
+   },
+   "area": {
+    "value": 2166086
+   },
+   "highestPoint": {
+    "name": "Gunnbjørn Fjeld",
+    "elevation": 3694
+   }
+  },
+  "MWI": {
+   "wikidata": "Q1020",
+   "population": {
+    "value": 17563749,
+    "year": 2018
+   },
+   "area": {
+    "value": 118484
+   },
+   "highestPoint": {
+    "name": "Mulanje Massif",
+    "elevation": 3002
+   }
+  },
+  "HRV": {
+   "wikidata": "Q224",
+   "population": {
+    "value": 3871833,
+    "year": 2021
+   },
+   "area": {
+    "value": 56594
+   },
+   "highestPoint": {
+    "name": "Dinara",
+    "elevation": 1831
+   }
+  },
+  "BIH": {
+   "wikidata": "Q225",
+   "population": {
+    "value": 3816459,
+    "year": 2022
+   },
+   "area": {
+    "value": 10
+   },
+   "highestPoint": {
+    "name": "Maglić",
+    "elevation": 2386
+   }
+  },
+  "MAF": {
+   "wikidata": "Q126125",
+   "population": {
+    "value": 32358,
+    "year": 2020
+   },
+   "area": {
+    "value": 56
+   },
+   "highestPoint": {
+    "name": "Pic Paradis",
+    "elevation": 424
+   }
+  },
+  "PAK": {
+   "wikidata": "Q843",
+   "population": {
+    "value": 223773700,
+    "year": 2021
+   },
+   "area": {
+    "value": 881913
+   },
+   "highestPoint": {
+    "name": "K2",
+    "elevation": 8611
+   }
+  },
+  "NAM": {
+   "wikidata": "Q1030",
+   "population": {
+    "value": 2533794,
+    "year": 2017
+   },
+   "area": {
+    "value": 825615
+   },
+   "highestPoint": {
+    "name": "Brandberg",
+    "elevation": 2573
+   }
+  },
+  "UMI": {
+   "wikidata": "Q16645",
+   "population": {
+    "value": 190,
+    "year": 2010
+   },
+   "area": {
+    "value": 34.2
+   },
+   "highestPoint": {
+    "name": "Dunning Hill",
+    "elevation": 76
+   }
+  },
+  "GLP": {
+   "wikidata": "Q17012",
+   "population": {
+    "value": 384160,
+    "year": 2023
+   },
+   "area": {
+    "value": 1628
+   },
+   "highestPoint": {
+    "name": "Soufrière",
+    "elevation": 1467
+   }
+  },
+  "MTQ": {
+   "wikidata": "Q17054",
+   "population": {
+    "value": 360630,
+    "year": 2023
+   },
+   "area": {
+    "value": 1128
+   },
+   "highestPoint": {
+    "name": "Mount Pelée",
+    "elevation": 1397
+   }
+  },
+  "MYT": {
+   "wikidata": "Q17063",
+   "population": {
+    "value": 320901,
+    "year": 2024
+   },
+   "area": {
+    "value": 374
+   },
+   "highestPoint": {
+    "name": "Benara",
+    "elevation": 660
+   }
+  },
+  "REU": {
+   "wikidata": "Q17070",
+   "population": {
+    "value": 889679,
+    "year": 2023
+   },
+   "area": {
+    "value": 2512
+   },
+   "highestPoint": {
+    "name": "Piton des Neiges",
+    "elevation": 3070
+   }
+  },
+  "TCA": {
+   "wikidata": "Q18221",
+   "population": {
+    "value": 44542,
+    "year": 2020
+   },
+   "area": {
+    "value": 417
+   },
+   "highestPoint": {
+    "name": "Blue Hills",
+    "elevation": 49
+   }
+  },
+  "BRB": {
+   "wikidata": "Q244",
+   "population": {
+    "value": 303431,
+    "year": 2023
+   },
+   "area": {
+    "value": 439
+   },
+   "highestPoint": {
+    "name": "Mount Hillaby",
+    "elevation": 340
+   }
+  },
+  "IDN": {
+   "wikidata": "Q252",
+   "population": {
+    "value": 275439000,
+    "year": 2021
+   },
+   "area": {
+    "value": 1916907
+   },
+   "highestPoint": {
+    "name": "Puncak Jaya",
+    "elevation": 4884
+   }
+  },
+  "ABW": {
+   "wikidata": "Q21203",
+   "population": {
+    "value": 106739,
+    "year": 2022
+   },
+   "area": {
+    "value": 193
+   },
+   "highestPoint": {
+    "name": "Mount Jamanota",
+    "elevation": 188
+   }
+  },
+  "BVT": {
+   "wikidata": "Q23408",
+   "population": {
+    "value": 0,
+    "year": null
+   },
+   "area": {
+    "value": 49
+   },
+   "highestPoint": {
+    "name": "Olavtoppen",
+    "elevation": 780
+   }
+  },
+  "BMU": {
+   "wikidata": "Q23635",
+   "population": {
+    "value": 63179,
+    "year": 2024
+   },
+   "area": {
+    "value": 53
+   }
+  },
+  "AIA": {
+   "wikidata": "Q25228",
+   "population": {
+    "value": 16293,
+    "year": 2025
+   },
+   "area": {
+    "value": 97.55
+   }
+  },
+  "GGY": {
+   "wikidata": "Q25230",
+   "population": {
+    "value": 67787,
+    "year": 2024
+   },
+   "area": {
+    "value": 78
+   },
+   "highestPoint": {
+    "name": "Le Moulin",
+    "elevation": 114
+   }
+  },
+  "CUW": {
+   "wikidata": "Q25279",
+   "population": {
+    "value": 152849,
+    "year": 2023
+   },
+   "area": {
+    "value": 444
+   }
+  },
+  "VGB": {
+   "wikidata": "Q25305",
+   "population": {
+    "value": 39369,
+    "year": 2023
+   },
+   "area": {
+    "value": 153
+   }
+  },
+  "BLM": {
+   "wikidata": "Q25362",
+   "population": {
+    "value": 10124,
+    "year": 2018
+   },
+   "area": {
+    "value": 25
+   },
+   "highestPoint": {
+    "name": "Morne du Vitet",
+    "elevation": 286
+   }
+  },
+  "SXM": {
+   "wikidata": "Q26273",
+   "population": {
+    "value": 43847,
+    "year": 2020
+   },
+   "area": {
+    "value": 34
+   }
+  },
+  "COK": {
+   "wikidata": "Q26988",
+   "population": {
+    "value": 14222,
+    "year": 2023
+   },
+   "area": {
+    "value": 240
+   },
+   "highestPoint": {
+    "name": "Te Manga",
+    "elevation": 652
+   }
+  },
+  "BES": {
+   "wikidata": "Q27561",
+   "population": {
+    "value": 29418,
+    "year": 2023
+   },
+   "area": {
+    "value": 322
+   },
+   "highestPoint": {
+    "name": "Mount Scenery",
+    "elevation": 870
+   }
+  },
+  "NLD": {
+   "wikidata": "Q29999",
+   "population": {
+    "value": 17100715,
+    "year": 2013
+   },
+   "area": {
+    "value": 42201
+   },
+   "highestPoint": {
+    "name": "Mount Scenery",
+    "elevation": 870
+   }
+  },
+  "PYF": {
+   "wikidata": "Q30971",
+   "population": {
+    "value": 278786,
+    "year": 2022
+   },
+   "area": {
+    "value": 4167
+   },
+   "highestPoint": {
+    "name": "Mont Orohena",
+    "elevation": 2241
+   }
+  },
+  "SYC": {
+   "wikidata": "Q1042",
+   "population": {
+    "value": 119773,
+    "year": 2023
+   },
+   "area": {
+    "value": 459
+   },
+   "highestPoint": {
+    "name": "Morne Seychellois",
+    "elevation": 905
+   }
+  },
+  "SLE": {
+   "wikidata": "Q1044",
+   "population": {
+    "value": 7557212,
+    "year": 2017
+   },
+   "area": {
+    "value": 71740
+   },
+   "highestPoint": {
+    "name": "Mount Bintumani",
+    "elevation": 1945
+   }
+  },
+  "ATF": {
+   "wikidata": "Q129003",
+   "population": {
+    "value": 196,
+    "year": 2012
+   },
+   "area": {
+    "value": 7829
+   },
+   "highestPoint": {
+    "name": "Mont Ross",
+    "elevation": 1850
+   }
+  },
+  "JTN": {
+   "wikidata": "Q131008",
+   "population": {
+    "value": 0,
+    "year": 2018
+   },
+   "area": {
+    "value": 2.67
+   },
+   "highestPoint": {
+    "name": "Sand Island",
+    "elevation": 10
+   }
+  },
+  "HMD": {
+   "wikidata": "Q131198",
+   "population": {
+    "value": 0,
+    "year": null
+   },
+   "area": {
+    "value": 368
+   },
+   "highestPoint": {
+    "name": "Mawson Peak",
+    "elevation": 2745
+   }
+  },
+  "SHN": {
+   "wikidata": "Q192184",
+   "population": {
+    "value": 5633,
+    "year": 2016
+   },
+   "area": {
+    "value": 394
+   },
+   "highestPoint": {
+    "name": "Queen Mary's Peak",
+    "elevation": 2062
+   }
+  },
+  "FXX": {
+   "wikidata": "Q212429",
+   "population": {
+    "value": 64897954,
+    "year": 2020
+   },
+   "area": {
+    "value": 543940
+   }
+  },
+  "PSE": {
+   "wikidata": "Q219060",
+   "population": {
+    "value": 5227193,
+    "year": 2021
+   },
+   "area": {
+    "value": 6020
+   },
+   "highestPoint": {
+    "name": "Mount Nabi Yunis",
+    "elevation": 1026
+   }
+  },
+  "CRQ": {
+   "wikidata": "Q3405693",
+   "population": {
+    "value": 562,
+    "year": 2022
+   },
+   "area": {
+    "value": 5.5
+   },
+   "highestPoint": {
+    "name": "Le Moulin",
+    "elevation": 109
+   }
+  },
+  "SJM": {
+   "wikidata": "Q842829",
+   "population": {
+    "value": 2905,
+    "year": 2022
+   },
+   "area": {
+    "value": 61399
+   },
+   "highestPoint": {
+    "name": "Newtontoppen",
+    "elevation": 1713
+   }
+  },
+  "NFK": {
+   "wikidata": "Q31057",
+   "population": {
+    "value": 2188,
+    "year": 2021
+   },
+   "area": {
+    "value": 34.6
+   }
+  },
+  "PCN": {
+   "wikidata": "Q35672",
+   "population": {
+    "value": 50,
+    "year": 2019
+   },
+   "area": {
+    "value": 46.5
+   }
+  },
+  "CXR": {
+   "wikidata": "Q31063",
+   "population": {
+    "value": 1692,
+    "year": 2021
+   },
+   "area": {
+    "value": 135
+   },
+   "highestPoint": {
+    "name": "Murray Hill, Christmas Island",
+    "elevation": 361
+   }
+  },
+  "NCL": {
+   "wikidata": "Q33788",
+   "population": {
+    "value": 278500,
+    "year": 2017
+   },
+   "area": {
+    "value": 18576
+   }
+  },
+  "NIU": {
+   "wikidata": "Q34020",
+   "population": {
+    "value": 1821,
+    "year": 2025
+   },
+   "area": {
+    "value": 260
+   },
+   "highestPoint": {
+    "name": "Niue Highest Point",
+    "elevation": 68
+   }
+  },
+  "SPM": {
+   "wikidata": "Q34617",
+   "population": {
+    "value": 5974,
+    "year": 2019
+   },
+   "area": {
+    "value": 242
+   },
+   "highestPoint": {
+    "name": "Morne de la Grande Montagne",
+    "elevation": 240
+   }
+  },
+  "SGS": {
+   "wikidata": "Q35086",
+   "population": {
+    "value": 35,
+    "year": 2019
+   },
+   "area": {
+    "value": 4066
+   },
+   "highestPoint": {
+    "name": "Mount Paget",
+    "elevation": 2934
+   }
+  },
+  "WLF": {
+   "wikidata": "Q35555",
+   "population": {
+    "value": 11558,
+    "year": 2018
+   },
+   "area": {
+    "value": 142
+   },
+   "highestPoint": {
+    "name": "Mont Puke",
+    "elevation": 522
+   }
+  },
+  "CCK": {
+   "wikidata": "Q36004",
+   "population": {
+    "value": 602,
+    "year": 2021
+   },
+   "area": {
+    "value": 14
+   }
+  },
+  "ATB": {
+   "wikidata": "Q165783",
+   "area": {
+    "value": 1709400
+   },
+   "highestPoint": {
+    "name": "Mount Hope",
+    "elevation": 3239
+   }
+  },
+  "ATN": {
+   "wikidata": "Q189999",
+   "area": {
+    "value": 2500000
+   }
+  }
+ }
+}

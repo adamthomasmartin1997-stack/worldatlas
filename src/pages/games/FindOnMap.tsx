@@ -16,7 +16,7 @@ export function FindOnMap() {
   const [params, setParams] = useSearchParams();
   const region = parseRegion(params.get('region'));
   const startWith = params.get('start');
-  const pool = useMemo(() => sovereignIn(region.key).filter((c) => c.hasShape && (c.area ?? 0) > 1000), [region.key]);
+  const pool = useMemo(() => sovereignIn(region.key).filter((c) => c.hasShape && (c.area?.value ?? 0) > 1000), [region.key]);
   const focus = useMemo(() => (region.key === 'world' ? undefined : pool.map((c) => c.cca3)), [pool, region.key]);
 
   const [queue, setQueue] = useState<Country[]>([]);

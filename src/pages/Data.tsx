@@ -5,8 +5,8 @@ import { SOVEREIGN, countryPath, fmt } from '../data/countries';
 
 export function Data() {
   const [n, setN] = useState(10);
-  const largest = useMemo(() => [...SOVEREIGN].filter((c) => c.area).sort((a, b) => b.area! - a.area!).slice(0, n), [n]);
-  const max = largest[0]?.area ?? 1;
+  const largest = useMemo(() => [...SOVEREIGN].filter((c) => c.area).sort((a, b) => b.area!.value - a.area!.value).slice(0, n), [n]);
+  const max = largest[0]?.area?.value ?? 1;
 
   return (
     <>
@@ -33,15 +33,15 @@ export function Data() {
                   <tr key={c.cca3}>
                     <th scope="row"><Link to={countryPath(c)}>{c.name}</Link></th>
                     <td>
-                      <span className="bar" style={{ width: `${(c.area! / max) * 100}%` }} aria-hidden="true" />
-                      <span className="bar-value">{fmt.format(c.area!)}</span>
+                      <span className="bar" style={{ width: `${(c.area!.value / max) * 100}%` }} aria-hidden="true" />
+                      <span className="bar-value">{fmt.format(c.area!.value)}</span>
                     </td>
                   </tr>
                 ))}
               </tbody>
             </table>
           </div>
-          <SourceNote sources={['world-countries']}>Total area in km², including inland water.</SourceNote>
+          <SourceNote sources={['wikidata', 'world-countries']}>Total area in km², including inland water and overseas regions.</SourceNote>
         </div>
       </section>
       <section className="container grid grid-2" style={{ paddingBottom: 'var(--space-16)' }}>

@@ -1,7 +1,11 @@
 import { useMemo } from 'react';
 import { Link, useParams } from 'react-router-dom';
-import { BookOpen, Mountain, Landmark, Users, LineChart, HelpCircle, ArrowRight } from 'lucide-react';
+import { BookOpen, Mountain, Landmark, Users, LineChart as ChartIcon, HelpCircle, ArrowRight } from 'lucide-react';
 import { WorldMap } from '../components/WorldMap';
+import { LineChart } from '../components/LineChart';
+import { useSeries } from '../components/useSeries';
+import { fmtPeople, fmtUsd, fmtUsdAxis, fmtCompact, fmtYears, fmtYearsAxis } from '../lib/format';
+import type { SourceId } from '../data/sources';
 import { Card, PageHeader, Placeholder, PlaceholderTag, SourceNote } from '../components/ui';
 import { COUNTRIES, countryPath, fmt, getCountry, type Country } from '../data/countries';
 import { TOPICS, questionCount, type Topic } from '../lib/quiz';
@@ -12,7 +16,7 @@ const SECTIONS = [
   { id: 'geography', label: 'Geography', icon: Mountain },
   { id: 'history', label: 'History', icon: Landmark },
   { id: 'people', label: 'People & culture', icon: Users },
-  { id: 'data', label: 'Population & economy', icon: LineChart },
+  { id: 'data', label: 'Population & economy', icon: ChartIcon },
   { id: 'quizzes', label: 'Quizzes', icon: HelpCircle },
 ];
 
@@ -37,16 +41,18 @@ export function CountryProfile() {
   const neighbours = useMemo(() => (c ? c.borders.map((b) => getCountry(b)!).sort((a, b) => a.name.localeCompare(b.name)) : []), [c]);
   const nearby = useMemo(() => (c ? COUNTRIES.filter((x) => x.subregion === c.subregion && x.cca3 !== c.cca3 && !c.borders.includes(x.cca3) && x.sovereign).slice(0, 6) : []), [c]);
   const focus = useMemo(() => (c ? [c.cca3, ...c.borders] : []), [c]);
+  const { data: series, error: seriesError } = useSeries(c?.cca3 ?? '', Boolean(c?.hasSeries));
   if (!c) return <NotFound />;
 
   const facts: [string, string][] = [
     ['Capital', c.capital.join(', ') || '—'],
     ['Region', c.subregion ?? c.region],
-    ['Area', c.area ? `${fmt.format(c.area)} km²` : '—'],
-    ['Population', c.population ? `${fmt.format(c.population)}${c.populationYear ? ` (${c.populationYear})` : ''}` : 'Awaiting data import'],
+    ['Area', c.area ? `${fmt.format(c.area.value)} km²` : '—'],
+    ['Population', c.population ? `${fmtPeople(c.population.value)}${c.population.year ? ` (${c.population.year})` : ''}` : 'No data'],
     ['Languages', c.languages.join(', ') || '—'],
     ['Currency', c.currencies.map((x) => `${x.name} (${x.code})`).join(', ') || '—'],
   ];
+  const factSources = [...new Set<SourceId>(['world-countries', ...(c.area ? [c.area.source] : []), ...(c.population ? [c.population.source] : [])])];
 
   return (
     <>
@@ -72,7 +78,7 @@ export function CountryProfile() {
           <dl className="facts">
             {facts.map(([k, v]) => <div key={k}><dt>{k}</dt><dd>{v}</dd></div>)}
           </dl>
-          <SourceNote sources={c.population ? ['world-countries', 'wikidata'] : ['world-countries']} />
+          <SourceNote sources={factSources}>Area is total area, including any overseas regions.</SourceNote>
         </div>
       </section>
 
@@ -95,11 +101,12 @@ export function CountryProfile() {
             <h2>Geography</h2>
             <dl className="detail-list">
               <div><dt>Coastline</dt><dd>{c.landlocked ? 'Landlocked' : 'Has a coastline'}</dd></div>
+              {c.highestPoint && <div><dt>Highest point</dt><dd>{c.highestPoint.name}{c.highestPoint.elevation ? ` (${fmt.format(c.highestPoint.elevation)} m)` : ''}</dd></div>}
               <div><dt>Coordinates (approx. centre)</dt><dd>{c.latlng[0]}°, {c.latlng[1]}°</dd></div>
               <div><dt>Land borders</dt><dd>{neighbours.length ? neighbours.map((n, i) => <span key={n.cca3}>{i > 0 && ', '}<Link to={countryPath(n)}>{n.name}</Link></span>) : 'None'}</dd></div>
               <div><dt>Internet domain · Calling code</dt><dd>{c.tld.join(', ') || '—'} · {c.callingCode ?? '—'}</dd></div>
             </dl>
-            <SourceNote sources={['world-countries']} />
+            <SourceNote sources={c.highestPoint ? ['world-countries', 'wikidata'] : ['world-countries']} />
             <Placeholder title="Physical geography">
               <p>Landscapes, rivers, mountains and climate, with a relief map. Needs written content and an elevation dataset.</p>
             </Placeholder>
@@ -122,9 +129,26 @@ export function CountryProfile() {
 
           <section id="data">
             <h2>Population &amp; economy</h2>
-            <Placeholder title="Charts appear once real data is imported">
-              <p>Population and GDP over time from World Bank Open Data (CC BY 4.0). No chart is shown until the data is real. Run <code>npm run data:fetch</code> to start with Wikidata population figures.</p>
-            </Placeholder>
+            {(c.gdpPerCapita || c.lifeExpectancy) && (
+              <dl className="detail-list">
+                {c.gdpPerCapita && <div><dt>GDP per person ({c.gdpPerCapita.year})</dt><dd>{fmtUsd(c.gdpPerCapita.value)}</dd></div>}
+                {c.lifeExpectancy && <div><dt>Life expectancy at birth ({c.lifeExpectancy.year})</dt><dd>{fmtYears(c.lifeExpectancy.value)}</dd></div>}
+              </dl>
+            )}
+            {!c.hasSeries ? (
+              <p className="muted">The World Bank doesn't publish yearly figures for {c.name}.</p>
+            ) : seriesError ? (
+              <p className="muted" role="alert">The charts couldn't be loaded. Refresh the page to try again.</p>
+            ) : !series ? (
+              <p className="muted">Loading charts…</p>
+            ) : (
+              <div className="chart-grid-layout">
+                {series.series.population && <LineChart title="Population" data={series.series.population} format={fmtPeople} axisFormat={fmtCompact} />}
+                {series.series.gdpPerCapita && <LineChart title="GDP per person (current US$)" data={series.series.gdpPerCapita} format={fmtUsd} axisFormat={fmtUsdAxis} />}
+                {series.series.lifeExpectancy && <LineChart title="Life expectancy at birth (years)" data={series.series.lifeExpectancy} format={fmtYears} axisFormat={fmtYearsAxis} zeroBaseline={false} />}
+              </div>
+            )}
+            {c.hasSeries && <SourceNote sources={['world-bank']}>Indicators SP.POP.TOTL, NY.GDP.PCAP.CD and SP.DYN.LE00.IN{series ? `, retrieved ${series.retrieved}` : ''}.</SourceNote>}
           </section>
 
           <section id="quizzes">

@@ -43,3 +43,14 @@ describe('data', () => {
   });
   it('formats time', () => expect(formatTime(75)).toBe('1:15'));
 });
+
+describe('merged data', () => {
+  it('every fact names a known source', async () => {
+    const { SOURCES } = await import('../data/sources');
+    for (const c of COUNTRIES) for (const f of [c.area, c.population, c.gdpPerCapita, c.lifeExpectancy]) if (f) expect(SOURCES).toHaveProperty(f.source);
+  });
+  it('areas are plausible (guards against bad source values)', () => {
+    const bih = COUNTRIES.find((c) => c.cca3 === 'BIH')!;
+    expect(bih.area!.value).toBeGreaterThan(50_000);
+  });
+});

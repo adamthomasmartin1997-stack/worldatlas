@@ -1,5 +1,14 @@
 import raw from './countries.json';
 
+import type { SourceId } from './sources';
+
+/** A value with its provenance, so every number on the site can name its source. */
+export interface Fact {
+  value: number;
+  year?: number | null;
+  source: SourceId;
+}
+
 export interface Country {
   cca3: string;
   cca2: string;
@@ -13,7 +22,9 @@ export interface Country {
   capital: string[];
   languages: string[];
   currencies: { code: string; name: string }[];
-  area: number | null;
+  area: Fact | null;
+  highestPoint: { name: string; elevation: number | null } | null;
+  wikidata: string | null;
   latlng: number[];
   landlocked: boolean;
   borders: string[];
@@ -21,8 +32,10 @@ export interface Country {
   tld: string[];
   demonym: string | null;
   hasShape: boolean;
-  population: number | null;
-  populationYear: number | null;
+  population: Fact | null;
+  gdpPerCapita: Fact | null;
+  lifeExpectancy: Fact | null;
+  hasSeries: boolean;
 }
 
 export const DATA_GENERATED = raw.generatedAt;

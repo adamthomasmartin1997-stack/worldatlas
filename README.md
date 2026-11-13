@@ -28,12 +28,21 @@ npm run build      # type-check + production build
 ## Where the data lives (and how to stay on the right side of IP)
 
 ```
-data/sources.json          registry of every allowed source + its licence (add here FIRST)
-data/sources/*.json        fetched data with provenance (source, licence, retrieval date)
-scripts/build-data.mjs     merges sources -> src/data/countries.json + public/data/world-50m.json
-scripts/fetch-wikidata.mjs example importer (population, CC0)
-src/content/quizzes/*.json quiz questions you write yourself
+data/sources.json            registry of every allowed source + its licence (add here FIRST)
+scripts/importers/*.mjs      one importer per source (worldbank, wikidata)
+data/sources/*.json          what they fetched, with source, licence and retrieval date
+scripts/build-data.mjs       merges sources by precedence rules -> src/data/countries.json,
+                             public/data/world-50m.json, public/data/series/<iso>.json (charts)
+scripts/validate.mjs         cross-checks sources -> data/reports/validation.md
+src/content/quizzes/*.json   quiz questions you write yourself
 ```
+
+```bash
+npm run data:refresh   # fetch + build + validate (needs internet access to the World Bank and Wikidata)
+```
+
+A GitHub Action (`.github/workflows/refresh-data.yml`) runs this on the 3rd of each month and opens a pull request
+with the changes. Read `data/reports/validation.md` in that PR before merging: it lists every value where sources disagree.
 
 Rules:
 - **Facts aren't copyrightable, but text, question lists, game designs and databases can be.** Only import from sources with an explicit open licence (Natural Earth, Wikidata CC0, World Bank CC BY 4.0, mledoze/countries ODbL). Never scrape quiz sites, encyclopedias or Wikipedia prose.
