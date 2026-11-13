@@ -24,8 +24,8 @@ export function Layout() {
       <a className="skip-link" href="#main" onClick={(e) => { e.preventDefault(); document.getElementById('main')?.focus(); }}>Skip to content</a>
       <header className="site-header">
         <div className="container">
-          <Link to="/" className="brand" aria-label="World Atlas home">
-            <span className="brand-globe" aria-hidden="true"><Globe2 size={18} strokeWidth={2.25} /></span> World Atlas
+          <Link to="/" className="brand" aria-label="Worldwise home">
+            <span className="brand-globe" aria-hidden="true"><Globe2 size={18} strokeWidth={2.25} /></span> Worldwise
           </Link>
           <button className="nav-toggle" aria-expanded={open} aria-controls="site-nav" onClick={() => setOpen((o) => !o)}>
             {open ? <X size={20} aria-hidden="true" /> : <Menu size={20} aria-hidden="true" />}
@@ -50,7 +50,7 @@ export function Layout() {
       <footer className="site-footer">
         <div className="container footer-grid">
           <div>
-            <p className="footer-brand">World Atlas</p>
+            <p className="footer-brand">Worldwise</p>
             <p>Explore the world, understand it, then test yourself. Template build — editorial content is still being written.</p>
           </div>
           <div>

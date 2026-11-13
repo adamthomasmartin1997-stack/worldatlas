@@ -1,8 +1,10 @@
-# CLAUDE.md — World Atlas (geography & history knowledge site)
+# CLAUDE.md — Worldwise (geography & history knowledge site)
 
 This file briefs Claude Code on the project. Read it at the start of every session and follow it unless I say otherwise in the chat.
 
 ## What we're building
+
+**Working name: Worldwise.** (Check trademarks and domains before launch.)
 
 An interactive knowledge atlas: part modern world atlas, part learning app. People come to **explore** (countries, maps, history), **understand** (clear facts, charts, timelines) and **test themselves** (quizzes and map games).
 

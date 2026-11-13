@@ -1,4 +1,4 @@
-# World Atlas — template
+# Worldwise — interactive world atlas and geography games
 
 An interactive world atlas: click a country on the map to open its profile, take quizzes on it, and play map games.
 This is a **template**: the structure, navigation, games and data pipeline are real; editorial text is marked as placeholder (dashed boxes).
