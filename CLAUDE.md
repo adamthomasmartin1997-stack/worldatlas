@@ -25,30 +25,32 @@ Keep these five as the top-level sections. New subjects get added inside them, n
 
 ## Design direction
 
-The look is a **premium interactive atlas** for discovery pages, combined with a **clean learning platform** for games and progress. It should feel curious, intelligent, authoritative and enjoyable.
+**Audience: teenagers.** The look is a **sticker atlas**: bright, chunky and playful, like a well-made game or sticker book, while staying trustworthy (real data, a source on every number). It should feel like a challenge to take on, not a textbook and not a generic AI/SaaS site. The chosen direction is **"Green 1 · Atlas Green"** in the design canvas.
 
 ### Design tokens (define once and reuse everywhere; never hard-code values in components)
 
 | Token | Value | Use |
 |---|---|---|
-| `--navy-900` | `#0F1B2D` | Header, map stages, hero areas |
-| `--navy-700` | `#1E3352` | Map surfaces, dark cards |
-| `--blue-400` | `#6E8FB5` | Muted secondary accents, map land on dark backgrounds |
-| `--paper` | `#F6F2EA` | Background for reading-heavy pages |
-| `--ink` | `#1A1F29` | Body text on light backgrounds |
-| `--ink-muted` | `#5B6472` | Secondary text, captions, source notes |
-| `--line` | `#E2DCD0` | Borders and dividers on light backgrounds |
-| `--gold` | `#C9A45C` | The one accent: primary buttons, highlights, active states |
-| `--success` / `--error` | `#3C8C6E` / `#B8504A` | Quiz feedback only |
+| `--page` | `#EEF5EC` | Page background (pale green) |
+| `--surface` | `#FFFFFF` | Cards, inputs, stickers |
+| `--ink` | `#10261C` | Text, the 2px outlines and the hard shadows |
+| `--ink-muted` | `#3F5248` | Secondary text, captions, source notes |
+| `--ocean` | `#4DA8DA` | Map sea / map panels |
+| `--land-1` … `--land-5` | `#4FAE73` `#5DBB6E` `#6CC58C` `#8ED081` `#A6D96A` | Map land, one shade per continent; also tag fills |
+| `--sun` | `#FFD23F` | The main accent: primary buttons, active nav item, the highlighted country |
+| `--coral` | `#FF6B4A` | Second accent: "today" stickers, wrong answers |
+| `--green` | `#2FA36B` | Correct answers, found countries, small labels |
 
-- **Light/dark balance:** don't make everything dark. Navy is for the header, maps and play screens. Country articles and history explanations sit on `--paper`.
-- **Typography:** a clean sans-serif (e.g. Inter) for UI, navigation and data. A serif (e.g. Source Serif or Fraunces) only for editorial headlines and article titles. Body text at least 16px, line length about 65–75 characters.
+- **Text on colour:** always `--ink` on `--sun`, `--coral`, `--green` and the land greens (white text on them fails contrast).
+- **Whole site is light.** Maps sit in `--ocean` panels. No dark page backgrounds.
+- **Typography:** **Bricolage Grotesque** (800) for headlines and card titles; **DM Sans** for UI, body and data. No serif. Body text at least 16px, line length about 65–75 characters.
+- **Outlines and shadows:** interactive and card elements get a `2px solid var(--ink)` border and ONE hard offset shadow with no blur (`3px 3px 0`, `4px 4px 0` for buttons and inputs, `5px` for cards, `8px` for the hero map). Never blurred, never stacked. On hover/press the shadow shrinks and the element moves towards it (feels like pressing a sticker).
+- **Corners:** 10px nav pills and tags, 14px buttons and inputs, 18–22px cards and map panels. Round pills only for small stickers and chips.
+- **Stickers:** small labels (facts on the map, "today" badges) may be rotated by 2–4°. At most 3–4 rotated items per screen; body content and buttons are never rotated.
 - **Spacing:** 4px base scale (4, 8, 12, 16, 24, 32, 48, 64, 96).
-- **Corners:** restrained. 6px on buttons and inputs, 10px on cards. No pill-shaped cards.
-- **Cards:** 1px `--line` border, a soft shadow only on hover, consistent internal padding.
-- **Buttons:** one prominent primary action (gold) per section. Everything else is secondary (outline) or a text link.
-- **Icons:** one consistent line-icon set (e.g. Lucide). **No emoji as icons.**
-- **Motion:** small hover and transition effects (150–250ms). Animate only where it explains something, such as a map zoom or a timeline scrub.
+- **Buttons:** one primary action (`--sun` fill) per section. Secondary is white with an ink outline and no shadow, or a text link.
+- **Icons:** one consistent line-icon set (Lucide), 2–2.5px stroke. **No emoji as icons.**
+- **Motion:** small hover and press effects (150–250ms). Animate only where it explains something, such as a map zoom or a country turning green when found.
 
 ### Maps and charts
 - Large and readable, with clear legends, labels and **a source note on every chart**.
@@ -57,7 +59,7 @@ The look is a **premium interactive atlas** for discovery pages, combined with a
 
 ### Avoid
 - Generic AI/SaaS dashboard styling
-- Heavy gradients, glassmorphism, stacked shadows, over-rounded cards
+- Gradients, glassmorphism, blurred or stacked shadows (the one hard sticker shadow is the only shadow)
 - Dense walls of text (break into sections, facts, visuals)
 - Decorative charts with no real data
 - Fake statistics, fake user activity, placeholder testimonials, buttons that don't work
@@ -66,7 +68,7 @@ The look is a **premium interactive atlas** for discovery pages, combined with a
 ## Responsive and accessibility requirements
 - Breakpoints: mobile < 640px, tablet 640–1024px, desktop > 1024px. Design for mobile from the start, because an app-like experience is the goal.
 - Mobile uses single-column layouts and touch targets of at least 44px.
-- WCAG AA contrast. Check gold text on paper especially: use gold for fills and accents, not small body text on light backgrounds.
+- WCAG AA contrast. Use `--sun`, `--coral`, `--green` and the land greens as fills with `--ink` text, never as text colours on light backgrounds.
 - Full keyboard navigation, with visible focus states on every interactive element.
 - Interactive maps need a non-map alternative (a list or search) for keyboard and screen-reader users.
 
@@ -104,5 +106,5 @@ The look is a **premium interactive atlas** for discovery pages, combined with a
 - Summarise: the files changed, the design decisions you made, and any remaining issues or follow-ups.
 
 ## Reference
-- Visual mockups of the homepage, France profile and quiz screen are in the project's design canvas. Match their direction, not pixel-perfect.
+- Visual mockups are in the design canvas (https://claude.ai/artifact/Xa6pwUKooFR7TjaivgKExi). The chosen style is **"Green 1 · Atlas Green"**; the homepage headline is "Know the world better than your friends." Match the direction, not pixel-perfect.
 - Inspiration: newworldatlas.com (an atlas plus thematic information) and Gapminder (data storytelling).
