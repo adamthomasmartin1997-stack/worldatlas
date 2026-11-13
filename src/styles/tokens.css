@@ -1,0 +1,59 @@
+/* Design tokens — the only place raw colour, type and spacing values live. */
+:root {
+  /* Colour */
+  --navy-900: #0f1b2d;
+  --navy-800: #16253b; /* hover state for navy surfaces */
+  --navy-700: #1e3352;
+  --blue-400: #6e8fb5;
+  --paper: #f6f2ea;
+  --surface: #fffdf9; /* cards on paper */
+  --ink: #1a1f29;
+  --ink-muted: #5b6472;
+  --line: #e2dcd0;
+  --gold: #c9a45c;
+  --gold-strong: #a9853f; /* hover for gold fills */
+  --gold-text: #7d6128; /* AA-contrast gold for small text on paper */
+  --success: #3c8c6e;
+  --error: #b8504a;
+  --on-dark: #f6f2ea;
+  --on-dark-muted: #aebbd0;
+  --line-dark: #2c4466;
+
+  /* Map */
+  --map-water: var(--navy-900);
+  --map-land: var(--blue-400);
+  --map-land-hover: #8eaacb;
+  --map-border: var(--navy-900);
+  --map-active: var(--gold);
+
+  /* Type */
+  --font-sans: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --text-xs: 0.8125rem;
+  --text-sm: 0.875rem;
+  --text-base: 1rem;
+  --text-lg: 1.125rem;
+  --text-xl: 1.375rem;
+  --text-2xl: 1.75rem;
+  --text-3xl: clamp(2rem, 4vw + 1rem, 3.25rem);
+  --measure: 70ch;
+
+  /* Spacing — 4px base */
+  --space-1: 4px;
+  --space-2: 8px;
+  --space-3: 12px;
+  --space-4: 16px;
+  --space-6: 24px;
+  --space-8: 32px;
+  --space-12: 48px;
+  --space-16: 64px;
+  --space-24: 96px;
+
+  /* Shape & motion */
+  --radius-control: 6px;
+  --radius-card: 10px;
+  --shadow-hover: 0 6px 20px rgba(15, 27, 45, 0.1);
+  --ease: 180ms ease;
+  --content-width: 1200px;
+  --touch: 44px;
+}

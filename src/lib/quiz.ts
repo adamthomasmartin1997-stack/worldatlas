@@ -1,0 +1,76 @@
+import { COUNTRIES, SOVEREIGN, getCountry, type Country } from '../data/countries';
+import { shuffle } from './answers';
+
+export interface Question {
+  q: string;
+  options: string[];
+  answer: number;
+  explain?: string;
+  link?: string;
+}
+
+export const TOPICS = {
+  geography: { label: 'Geography', blurb: 'Capitals, neighbours, languages and currency — built from the data.' },
+  history: { label: 'History', blurb: 'Key events and people.' },
+  culture: { label: 'Culture', blurb: 'Art, food, language and landmarks.' },
+  sport: { label: 'Sport', blurb: 'Teams, tournaments and records.' },
+} as const;
+export type Topic = keyof typeof TOPICS;
+
+type QuizFile = Partial<Record<Exclude<Topic, 'geography'>, Question[]>>;
+const files = import.meta.glob<QuizFile>('../content/quizzes/*.json', { eager: true, import: 'default' });
+const written = new Map(Object.entries(files).map(([path, data]) => [path.match(/(\w+)\.json$/)![1], data]));
+
+/** Shuffle options while keeping track of the right answer. */
+export function shuffleOptions(question: Question, rand = Math.random): Question {
+  const tagged = question.options.map((text, i) => ({ text, correct: i === question.answer }));
+  const s = shuffle(tagged, rand);
+  return { ...question, options: s.map((o) => o.text), answer: s.findIndex((o) => o.correct) };
+}
+
+function distractors(pool: string[], correct: string, n = 3) {
+  return shuffle([...new Set(pool.filter((p) => p && p !== correct))]).slice(0, n);
+}
+
+/** Geography questions generated from real data, so every country has a playable quiz. */
+export function geographyQuestions(c: Country): Question[] {
+  const qs: Question[] = [];
+  const sameRegion = SOVEREIGN.filter((x) => x.region === c.region && x.cca3 !== c.cca3);
+  if (c.capital[0]) {
+    qs.push({ q: `What is the capital of ${c.name}?`, options: [c.capital[0], ...distractors(sameRegion.map((x) => x.capital[0]), c.capital[0])], answer: 0 });
+  }
+  if (c.subregion) {
+    const subs = [...new Set(COUNTRIES.map((x) => x.subregion).filter((s): s is string => Boolean(s)))];
+    qs.push({ q: `Which part of the world is ${c.name} in?`, options: [c.subregion, ...distractors(subs, c.subregion)], answer: 0 });
+  }
+  if (c.borders.length) {
+    const neighbour = getCountry(shuffle(c.borders)[0])!;
+    const notNeighbours = sameRegion.filter((x) => !c.borders.includes(x.cca3)).map((x) => x.name);
+    if (notNeighbours.length >= 3) {
+      qs.push({ q: `Which of these countries shares a land border with ${c.name}?`, options: [neighbour.name, ...distractors(notNeighbours, neighbour.name)], answer: 0, link: `/countries/${neighbour.cca3.toLowerCase()}`, explain: `${c.name} has ${c.borders.length} land neighbour${c.borders.length > 1 ? 's' : ''}.` });
+    }
+  } else {
+    qs.push({ q: `How many countries share a land border with ${c.name}?`, options: ['None', 'One', 'Two', 'Three or more'], answer: 0 });
+  }
+  if (c.currencies[0]) {
+    const pool = SOVEREIGN.flatMap((x) => x.currencies.map((cur) => cur.name));
+    qs.push({ q: `Which currency is used in ${c.name}?`, options: [c.currencies[0].name, ...distractors(pool, c.currencies[0].name)], answer: 0 });
+  }
+  if (c.languages[0]) {
+    const pool = sameRegion.flatMap((x) => x.languages).filter((l) => !c.languages.includes(l));
+    const all = SOVEREIGN.flatMap((x) => x.languages).filter((l) => !c.languages.includes(l));
+    const opts = distractors(pool.length >= 3 ? pool : all, c.languages[0]);
+    qs.push({ q: `Which of these is an official language of ${c.name}?`, options: [c.languages[0], ...opts], answer: 0 });
+  }
+  qs.push({ q: `Is ${c.name} landlocked?`, options: [c.landlocked ? 'Yes' : 'No', c.landlocked ? 'No' : 'Yes'], answer: 0 });
+  return qs.filter((q) => q.options.length >= 2);
+}
+
+export function questionsFor(c: Country, topic: Topic): Question[] {
+  const qs = topic === 'geography' ? geographyQuestions(c) : (written.get(c.cca3.toLowerCase())?.[topic] ?? []);
+  return qs.map((q) => shuffleOptions(q));
+}
+
+export function questionCount(c: Country, topic: Topic) {
+  return topic === 'geography' ? geographyQuestions(c).length : (written.get(c.cca3.toLowerCase())?.[topic]?.length ?? 0);
+}

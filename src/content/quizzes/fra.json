@@ -1,0 +1,17 @@
+{
+  "history": [
+    { "q": "The storming of the Bastille, a key moment of the French Revolution, happened in which year?", "options": ["1789", "1815", "1848", "1648"], "answer": 0, "explain": "The Bastille fell on 14 July 1789; the date is now France's national day." },
+    { "q": "Napoleon Bonaparte was finally defeated at Waterloo, in which present-day country?", "options": ["Belgium", "Netherlands", "Germany", "Austria"], "answer": 0, "explain": "Waterloo is just south of Brussels.", "link": "/countries/bel" },
+    { "q": "The Normandy landings of the Second World War began on which date?", "options": ["6 June 1944", "1 September 1939", "8 May 1945", "11 November 1918"], "answer": 0, "explain": "D-Day: 6 June 1944." }
+  ],
+  "culture": [
+    { "q": "Which Paris museum displays Leonardo da Vinci's Mona Lisa?", "options": ["The Louvre", "Musée d'Orsay", "Centre Pompidou", "Musée Rodin"], "answer": 0, "explain": "It has hung in the Louvre since the Revolution, apart from wartime and its 1911 theft.", "link": "/countries/ita" },
+    { "q": "The Eiffel Tower was built for which event?", "options": ["The 1889 World's Fair", "The 1900 Olympic Games", "The coronation of Napoleon III", "The end of the First World War"], "answer": 0, "explain": "It was the entrance arch to the 1889 Exposition Universelle." },
+    { "q": "What is the official language of France?", "options": ["French", "Occitan", "Breton", "Latin"], "answer": 0, "explain": "Regional languages such as Breton and Occitan are still spoken, but French is the sole official language." }
+  ],
+  "sport": [
+    { "q": "Which city hosted the 2024 Summer Olympics?", "options": ["Paris", "Lyon", "Marseille", "Nice"], "answer": 0, "explain": "Paris also hosted in 1900 and 1924." },
+    { "q": "France won the men's FIFA World Cup in 1998 and in which other year?", "options": ["2018", "2006", "2014", "2022"], "answer": 0, "explain": "France beat Croatia 4–2 in the 2018 final in Moscow.", "link": "/countries/hrv" },
+    { "q": "The Tour de France is a race in which sport?", "options": ["Cycling", "Motor racing", "Sailing", "Running"], "answer": 0, "explain": "First held in 1903." }
+  ]
+}
