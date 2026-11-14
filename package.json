@@ -9,7 +9,7 @@
     "typecheck": "tsc -p .",
     "test": "vitest run",
     "data:build": "node scripts/build-data.mjs",
-    "data:fetch": "node scripts/importers/wikidata.mjs && node scripts/importers/wikidata-cities.mjs && node scripts/importers/worldbank.mjs",
+    "data:fetch": "node scripts/importers/wikidata.mjs && node scripts/importers/wikidata-cities.mjs && node scripts/importers/wikidata-geography.mjs && node scripts/importers/worldbank.mjs",
     "build:artifact": "VITE_HASH_ROUTER=1 vite build --outDir dist-artifact && node scripts/build-artifact.mjs",
     "data:validate": "node scripts/validate.mjs",
     "data:refresh": "npm run data:fetch && npm run data:build && npm run data:validate"

@@ -1,6 +1,6 @@
 # Data validation report
 
-Generated 2026-11-13 by `scripts/validate.mjs`. Covers the 195 sovereign states.
+Generated 2026-11-14 by `scripts/validate.mjs`. Covers the 195 sovereign states.
 Differences above 5% are listed. They are not necessarily errors: sources often measure different things
 (e.g. mainland vs total area including overseas regions). Decide which definition the site uses and note it on the page.
 
@@ -76,6 +76,70 @@ Differences above 5% are listed. They are not necessarily errors: sources often 
 ## Out of date (0)
 
 None.
+
+## Geography (61)
+
+- Argentina: no seas or oceans listed in Wikidata
+- Antigua and Barbuda: no seas or oceans listed in Wikidata
+- Bahrain: no seas or oceans listed in Wikidata
+- Bahamas: no seas or oceans listed in Wikidata
+- Belize: no seas or oceans listed in Wikidata
+- Brunei: no seas or oceans listed in Wikidata
+- China: no seas or oceans listed in Wikidata
+- Colombia: no seas or oceans listed in Wikidata
+- Comoros: no seas or oceans listed in Wikidata
+- Germany: lowest point Neuendorf-Sachsenbande listed at +5 m, but a coastal country's lowest point can't be above sea level (elevation hidden on site)
+- Djibouti: no seas or oceans listed in Wikidata
+- Dominica: no seas or oceans listed in Wikidata
+- Dominican Republic: no seas or oceans listed in Wikidata
+- Ecuador: no seas or oceans listed in Wikidata
+- Eritrea: no seas or oceans listed in Wikidata
+- Fiji: no seas or oceans listed in Wikidata
+- United Kingdom: no seas or oceans listed in Wikidata
+- Georgia: no seas or oceans listed in Wikidata
+- Guyana: no seas or oceans listed in Wikidata
+- Honduras: no seas or oceans listed in Wikidata
+- Haiti: no seas or oceans listed in Wikidata
+- Ireland: no seas or oceans listed in Wikidata
+- Iraq: no seas or oceans listed in Wikidata
+- Iceland: no seas or oceans listed in Wikidata
+- Jordan: no seas or oceans listed in Wikidata
+- Kenya: no seas or oceans listed in Wikidata
+- Cambodia: no seas or oceans listed in Wikidata
+- Kiribati: no seas or oceans listed in Wikidata
+- Saint Kitts and Nevis: no seas or oceans listed in Wikidata
+- Kuwait: no seas or oceans listed in Wikidata
+- Saint Lucia: no seas or oceans listed in Wikidata
+- Madagascar: no seas or oceans listed in Wikidata
+- Maldives: no seas or oceans listed in Wikidata
+- Myanmar: no seas or oceans listed in Wikidata
+- Mozambique: no seas or oceans listed in Wikidata
+- Nicaragua: no seas or oceans listed in Wikidata
+- Netherlands: no seas or oceans listed in Wikidata
+- Nauru: no seas or oceans listed in Wikidata
+- New Zealand: no seas or oceans listed in Wikidata
+- Oman: no seas or oceans listed in Wikidata
+- Pakistan: no seas or oceans listed in Wikidata
+- Panama: no seas or oceans listed in Wikidata
+- Papua New Guinea: no seas or oceans listed in Wikidata
+- Qatar: no seas or oceans listed in Wikidata
+- Romania: no seas or oceans listed in Wikidata
+- Sudan: no seas or oceans listed in Wikidata
+- Solomon Islands: no seas or oceans listed in Wikidata
+- El Salvador: no seas or oceans listed in Wikidata
+- Somalia: no seas or oceans listed in Wikidata
+- Suriname: no seas or oceans listed in Wikidata
+- Seychelles: no seas or oceans listed in Wikidata
+- Thailand: no seas or oceans listed in Wikidata
+- Timor-Leste: no seas or oceans listed in Wikidata
+- Tonga: no seas or oceans listed in Wikidata
+- Trinidad and Tobago: no seas or oceans listed in Wikidata
+- Tuvalu: no seas or oceans listed in Wikidata
+- Tanzania: no seas or oceans listed in Wikidata
+- Ukraine: no seas or oceans listed in Wikidata
+- Vietnam: no seas or oceans listed in Wikidata
+- Vanuatu: no seas or oceans listed in Wikidata
+- Samoa: no seas or oceans listed in Wikidata
 
 ## Missing (0)
 

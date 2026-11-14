@@ -46,6 +46,15 @@ const wd = wikidata?.countries ?? {};
 const wb = worldbank?.series ?? {};
 const latest = (s) => (s?.length ? s[s.length - 1] : null);
 const citySource = load('data/sources/wikidata-cities.json');
+const geo = load('data/sources/wikidata-geography.json')?.countries ?? {};
+
+/** Lowest point: a coastal country's lowest point can't be above sea level, so such elevations are dropped as source errors. */
+function lowestPoint(c) {
+  const lp = geo[c.cca3]?.lowestPoint;
+  if (!lp) return null;
+  const bad = !c.landlocked && lp.elevation != null && lp.elevation > 0;
+  return { name: lp.name, elevation: bad ? null : lp.elevation };
+}
 if (wikidata) console.log(`Merging Wikidata (retrieved ${wikidata.retrieved.slice(0, 10)})`);
 if (worldbank) console.log(`Merging World Bank (retrieved ${worldbank.retrieved.slice(0, 10)})`);
 
@@ -88,6 +97,8 @@ const out = countries
     currencies: Object.entries(c.currencies ?? {}).map(([code, v]) => ({ code, name: v.name })),
     area: area(c.cca3, c.area),
     highestPoint: wd[c.cca3]?.highestPoint ?? null,
+    lowestPoint: lowestPoint(c),
+    seas: geo[c.cca3]?.seas ?? [],
     wikidata: wd[c.cca3]?.wikidata ?? null,
     latlng: c.latlng,
     landlocked: c.landlocked,

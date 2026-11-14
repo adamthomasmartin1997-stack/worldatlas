@@ -132,7 +132,8 @@ function Profile({ c }: { c: Country }) {
           <Facts rows={[
             { label: 'Area', value: c.area ? `${fmt.format(c.area.value)} km²` : '—' },
             ...(c.highestPoint ? [{ label: 'Highest point', value: `${c.highestPoint.name}${c.highestPoint.elevation ? `, ${fmt.format(c.highestPoint.elevation)} m` : ''}` }] : []),
-            { label: 'Coastline', value: c.landlocked ? 'None (landlocked)' : 'Yes' },
+            ...(c.lowestPoint ? [{ label: 'Lowest point', value: `${c.lowestPoint.name}${c.lowestPoint.elevation != null ? `, ${fmt.format(c.lowestPoint.elevation)} m` : ''}` }] : []),
+            { label: c.landlocked ? 'Coastline' : c.seas.length > 1 ? 'Coasts' : 'Coast', value: c.landlocked ? 'None (landlocked)' : c.seas.length ? c.seas.join(', ') : 'Yes' },
             ...written(content?.geography?.facts),
             { label: 'Approx. centre', value: `${Math.abs(c.latlng[0])}°${c.latlng[0] >= 0 ? 'N' : 'S'}, ${Math.abs(c.latlng[1])}°${c.latlng[1] >= 0 ? 'E' : 'W'}` },
           ]} />

@@ -14,13 +14,14 @@ const base = require('world-countries');
 const load = (p) => (existsSync(p) ? JSON.parse(readFileSync(p, 'utf8')) : null);
 const wd = load('data/sources/wikidata.json')?.countries ?? {};
 const wb = load('data/sources/worldbank.json')?.series ?? {};
+const geo = load('data/sources/wikidata-geography.json')?.countries ?? {};
 
 const TOLERANCE = 0.05; // flag differences above 5%
 const latest = (s) => (s?.length ? s[s.length - 1] : null);
 const pct = (a, b) => Math.abs(a - b) / Math.max(a, b);
 const fmt = (n) => Math.round(n).toLocaleString('en-GB');
 
-const issues = { area: [], population: [], stale: [], missing: [] };
+const issues = { area: [], population: [], stale: [], missing: [], geography: [] };
 const sovereign = base.filter((c) => c.unMember || ['VAT', 'PSE'].includes(c.cca3));
 
 for (const c of sovereign) {
@@ -43,6 +44,9 @@ for (const c of sovereign) {
   if (sameYear && p2?.value && pct(sameYear[1], p2.value) > TOLERANCE) {
     issues.population.push(`| ${c.name.common} | World Bank ${sameYear[0]}: ${fmt(sameYear[1])}<br>Wikidata ${p2.year}: ${fmt(p2.value)} | ${Math.round(pct(sameYear[1], p2.value) * 100)}% |`);
   }
+  const lp = geo[iso]?.lowestPoint;
+  if (lp && !c.landlocked && lp.elevation > 0) issues.geography.push(`${c.name.common}: lowest point ${lp.name} listed at +${lp.elevation} m, but a coastal country's lowest point can't be above sea level (elevation hidden on site)`);
+  if (!c.landlocked && !geo[iso]?.seas?.length) issues.geography.push(`${c.name.common}: no seas or oceans listed in Wikidata`);
   if (!p1 && !p2?.value) issues.missing.push(`${c.name.common}: no population from any source`);
   if (p1 && p1[0] < new Date().getFullYear() - 4) issues.stale.push(`${c.name.common}: latest World Bank population is from ${p1[0]}`);
 }
@@ -69,10 +73,14 @@ ${issues.population.join('\n') || '| — | none | |'}
 
 ${issues.stale.map((s) => `- ${s}`).join('\n') || 'None.'}
 
+## Geography (${issues.geography.length})
+
+${issues.geography.map((s) => `- ${s}`).join('\n') || 'None.'}
+
 ## Missing (${issues.missing.length})
 
 ${issues.missing.map((s) => `- ${s}`).join('\n') || 'None.'}
 `;
 mkdirSync('data/reports', { recursive: true });
 writeFileSync('data/reports/validation.md', report);
-console.log(`Validation: ${issues.area.length} area, ${issues.population.length} population, ${issues.stale.length} stale, ${issues.missing.length} missing → data/reports/validation.md`);
+console.log(`Validation: ${issues.area.length} area, ${issues.population.length} population, ${issues.stale.length} stale, ${issues.geography.length} geography, ${issues.missing.length} missing → data/reports/validation.md`);

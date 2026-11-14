@@ -1,0 +1,1873 @@
+{
+ "source": "wikidata",
+ "licence": "CC0-1.0",
+ "url": "https://query.wikidata.org/sparql",
+ "retrieved": "2026-11-14T08:04:39.056Z",
+ "countries": {
+  "FIN": {
+   "seas": [
+    "Baltic Sea"
+   ],
+   "lowestPoint": {
+    "name": "Baltic Sea",
+    "elevation": 0
+   }
+  },
+  "SWE": {
+   "seas": [
+    "Baltic Sea",
+    "Kattegat",
+    "Øresund"
+   ],
+   "lowestPoint": {
+    "name": "Kristianstad",
+    "elevation": null
+   }
+  },
+  "DNK": {
+   "seas": [
+    "Baltic Sea",
+    "North Sea"
+   ],
+   "lowestPoint": {
+    "name": "Lammefjord",
+    "elevation": null
+   }
+  },
+  "POL": {
+   "seas": [
+    "Baltic Sea"
+   ],
+   "lowestPoint": {
+    "name": "Raczki Elbląskie",
+    "elevation": -2
+   }
+  },
+  "TUN": {
+   "seas": [
+    "Mediterranean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Shatt al Gharsah",
+    "elevation": -17
+   }
+  },
+  "CAN": {
+   "seas": [
+    "Arctic Ocean",
+    "Atlantic Ocean",
+    "Pacific Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Arctic Ocean",
+    "elevation": 0
+   }
+  },
+  "NOR": {
+   "seas": [
+    "Atlantic Ocean",
+    "Barents Sea",
+    "North Sea",
+    "Norwegian Sea",
+    "Skagerrak"
+   ],
+   "lowestPoint": {
+    "name": "Norwegian Sea",
+    "elevation": null
+   }
+  },
+  "GRC": {
+   "seas": [
+    "Mediterranean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Calypso Deep",
+    "elevation": -5269
+   }
+  },
+  "TUR": {
+   "seas": [
+    "Aegean Sea",
+    "Black Sea",
+    "Levantine Sea",
+    "Mediterranean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Black Sea",
+    "elevation": null
+   }
+  },
+  "ZAF": {
+   "seas": [
+    "Indian Ocean",
+    "South Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Indian Ocean",
+    "elevation": 0
+   }
+  },
+  "LTU": {
+   "seas": [
+    "Baltic Sea"
+   ],
+   "lowestPoint": {
+    "name": "Nemunas Delta",
+    "elevation": null
+   }
+  },
+  "AGO": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "PHL": {
+   "seas": [
+    "Celebes Sea",
+    "Philippine Sea",
+    "West Philippine Sea"
+   ],
+   "lowestPoint": {
+    "name": "Philippine Sea",
+    "elevation": null
+   }
+  },
+  "BEL": {
+   "seas": [
+    "North Sea"
+   ],
+   "lowestPoint": {
+    "name": "De Moeren",
+    "elevation": null
+   }
+  },
+  "TWN": {
+   "seas": [
+    "Bashi Channel",
+    "East China Sea",
+    "Pacific Ocean",
+    "Philippine Sea",
+    "South China Sea",
+    "Taiwan Strait"
+   ]
+  },
+  "LKA": {
+   "seas": [
+    "Indian Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Indian Ocean",
+    "elevation": 0
+   }
+  },
+  "JPN": {
+   "seas": [
+    "East China Sea",
+    "Pacific Ocean",
+    "Philippine Sea",
+    "Sea of Japan",
+    "Sea of Okhotsk"
+   ],
+   "lowestPoint": {
+    "name": "Hachirōgata",
+    "elevation": -15
+   }
+  },
+  "CHL": {
+   "seas": [
+    "Pacific Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "PER": {
+   "seas": [
+    "Grau Sea",
+    "Pacific Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Depresión de Sechura",
+    "elevation": null
+   }
+  },
+  "MHL": {
+   "seas": [
+    "Pacific Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "ESP": {
+   "seas": [
+    "Alboran Sea",
+    "Atlantic Ocean",
+    "Cantabrian Sea",
+    "Mediterranean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Mina de Las Cruces",
+    "elevation": null
+   }
+  },
+  "USA": {
+   "seas": [
+    "Arctic Ocean",
+    "Atlantic Ocean",
+    "Pacific Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Badwater Basin",
+    "elevation": -86
+   }
+  },
+  "SYR": {
+   "seas": [
+    "Mediterranean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Sea of Galilee",
+    "elevation": -214
+   }
+  },
+  "DZA": {
+   "seas": [
+    "Mediterranean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Chott Melrhir",
+    "elevation": -35
+   }
+  },
+  "IND": {
+   "seas": [
+    "Arabian Sea",
+    "Bay of Bengal",
+    "Indian Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Kuttanad",
+    "elevation": -2
+   }
+  },
+  "SGP": {
+   "seas": [
+    "Singapore Strait"
+   ],
+   "lowestPoint": {
+    "name": "Singapore Strait",
+    "elevation": null
+   }
+  },
+  "PRK": {
+   "seas": [
+    "Sea of Japan",
+    "Yellow Sea"
+   ],
+   "lowestPoint": {
+    "name": "Sea of Japan",
+    "elevation": null
+   }
+  },
+  "SAU": {
+   "seas": [
+    "Gulf of Aqaba",
+    "Persian Gulf",
+    "Red Sea"
+   ],
+   "lowestPoint": {
+    "name": "Red Sea",
+    "elevation": 0
+   }
+  },
+  "ARE": {
+   "seas": [
+    "Gulf of Oman",
+    "Persian Gulf"
+   ],
+   "lowestPoint": {
+    "name": "Persian Gulf",
+    "elevation": null
+   }
+  },
+  "BGD": {
+   "seas": [
+    "Bay of Bengal"
+   ],
+   "lowestPoint": {
+    "name": "Bay of Bengal",
+    "elevation": null
+   }
+  },
+  "KHM": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Gulf of Thailand",
+    "elevation": null
+   }
+  },
+  "TJK": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Syr Darya",
+    "elevation": null
+   }
+  },
+  "TKM": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Turan Depression",
+    "elevation": null
+   }
+  },
+  "BTN": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Drangme Chhu",
+    "elevation": null
+   }
+  },
+  "LIE": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Rhine",
+    "elevation": null
+   }
+  },
+  "QAT": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Persian Gulf",
+    "elevation": null
+   }
+  },
+  "BHR": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Persian Gulf",
+    "elevation": null
+   }
+  },
+  "BRN": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "South China Sea",
+    "elevation": null
+   }
+  },
+  "THA": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Andaman Sea",
+    "elevation": null
+   }
+  },
+  "CAF": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Ubangi River",
+    "elevation": 335
+   }
+  },
+  "UZB": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Sarygamysh Lake",
+    "elevation": 5
+   }
+  },
+  "ZWE": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Runde River",
+    "elevation": 162
+   }
+  },
+  "HUN": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Gyálarét",
+    "elevation": 76
+   }
+  },
+  "ARG": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Laguna del Carbón",
+    "elevation": -105
+   }
+  },
+  "MNG": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Hoh Nuur",
+    "elevation": 560
+   }
+  },
+  "TZA": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Indian Ocean",
+    "elevation": 0
+   }
+  },
+  "AFG": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Amu Darya",
+    "elevation": 29
+   }
+  },
+  "KIR": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "TUV": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "ZMB": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Zambezi River",
+    "elevation": 329
+   }
+  },
+  "TGO": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Bight of Benin",
+    "elevation": 0
+   }
+  },
+  "BEN": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Bight of Benin",
+    "elevation": 0
+   }
+  },
+  "COG": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "COD": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "GNQ": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "CIV": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Gulf of Guinea",
+    "elevation": 0
+   }
+  },
+  "CMR": {
+   "seas": [
+    "Atlantic Ocean",
+    "Gulf of Guinea"
+   ],
+   "lowestPoint": {
+    "name": "Bight of Biafra",
+    "elevation": 0
+   }
+  },
+  "CPV": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Pedra de Lume salt ponds",
+    "elevation": -30
+   }
+  },
+  "PRT": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "URY": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "GHA": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Gulf of Guinea",
+    "elevation": 0
+   }
+  },
+  "FRA": {
+   "seas": [
+    "Atlantic Ocean",
+    "English Channel",
+    "Mediterranean Sea",
+    "North Sea"
+   ],
+   "lowestPoint": {
+    "name": "Étang de Lavalduc",
+    "elevation": -10
+   }
+  },
+  "KOR": {
+   "seas": [
+    "East China Sea",
+    "Namhae",
+    "Sea of Japan",
+    "Yellow Sea"
+   ],
+   "lowestPoint": {
+    "name": "Sea of Japan",
+    "elevation": null
+   }
+  },
+  "VEN": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Lagunillas",
+    "elevation": null
+   }
+  },
+  "PLW": {
+   "seas": [
+    "Pacific Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "FSM": {
+   "seas": [
+    "Pacific Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "AUS": {
+   "seas": [
+    "Arafura Sea",
+    "Bass Strait",
+    "Coral Sea",
+    "Great Australian Bight",
+    "Indian Ocean",
+    "South Pacific Ocean",
+    "Tasman Sea",
+    "Timor Sea"
+   ],
+   "lowestPoint": {
+    "name": "Kati Thanda–Lake Eyre",
+    "elevation": -15
+   }
+  },
+  "ITA": {
+   "seas": [
+    "Adriatic Sea",
+    "Ionian Sea",
+    "Ligurian Sea",
+    "Mediterranean Sea",
+    "Tyrrhenian Sea"
+   ],
+   "lowestPoint": {
+    "name": "Contane",
+    "elevation": -3
+   }
+  },
+  "DJI": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Lake Assal",
+    "elevation": -153
+   }
+  },
+  "BWA": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Limpopo River",
+    "elevation": 513
+   }
+  },
+  "BOL": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Paraguay River",
+    "elevation": 300
+   }
+  },
+  "PRY": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Paraguay River",
+    "elevation": 300
+   }
+  },
+  "ERI": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Lake Kulul",
+    "elevation": -75
+   }
+  },
+  "TCD": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Bodélé Depression",
+    "elevation": 155
+   }
+  },
+  "ATA": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Bentley Subglacial Trench",
+    "elevation": -2555
+   }
+  },
+  "BFA": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Black Volta",
+    "elevation": 75
+   }
+  },
+  "SSD": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "White Nile",
+    "elevation": 350
+   }
+  },
+  "COM": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Indian Ocean",
+    "elevation": 0
+   }
+  },
+  "TTO": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "LUX": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Moselle",
+    "elevation": 65
+   }
+  },
+  "MLI": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Senegal River",
+    "elevation": 92
+   }
+  },
+  "BDI": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Lake Tanganyika",
+    "elevation": 773
+   }
+  },
+  "CHE": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Lake Maggiore",
+    "elevation": 193
+   }
+  },
+  "COL": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "ECU": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "FJI": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "NRU": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "VUT": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "SLB": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "WSM": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "TON": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "GUY": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "SUR": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "TLS": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Timor Sea",
+    "elevation": null
+   }
+  },
+  "SRB": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Timok",
+    "elevation": null
+   }
+  },
+  "ARM": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Debed",
+    "elevation": null
+   }
+  },
+  "GBR": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "The Fens",
+    "elevation": null
+   }
+  },
+  "NZL": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Taieri Plain",
+    "elevation": null
+   }
+  },
+  "IRL": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "North Slob",
+    "elevation": null
+   }
+  },
+  "VNM": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "South China Sea",
+    "elevation": null
+   }
+  },
+  "BRA": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "GAB": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "MEX": {
+   "seas": [
+    "Atlantic Ocean",
+    "Caribbean Sea",
+    "Gulf of California",
+    "Gulf of Mexico",
+    "Pacific Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Laguna Salada",
+    "elevation": -10
+   }
+  },
+  "GMB": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "GIN": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "GNB": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "LBR": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "MRT": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Sebkha de Ndrhamcha",
+    "elevation": -5
+   }
+  },
+  "NGA": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "STP": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "SEN": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "EGY": {
+   "seas": [
+    "Mediterranean Sea",
+    "Red Sea"
+   ],
+   "lowestPoint": {
+    "name": "Qattara Depression",
+    "elevation": -76
+   }
+  },
+  "CRI": {
+   "seas": [
+    "Caribbean Sea",
+    "Pacific Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "RUS": {
+   "seas": [
+    "Arctic Ocean",
+    "Baltic Sea",
+    "Barents Sea",
+    "Bering Sea",
+    "Black Sea",
+    "Caspian Sea",
+    "Chukchi Sea",
+    "East Siberian Sea",
+    "Kara Sea",
+    "Laptev Sea",
+    "Pacific Ocean",
+    "Pechora Sea",
+    "Queen Victoria Sea",
+    "Sea of Azov",
+    "Sea of Japan",
+    "Sea of Okhotsk",
+    "Shantar Sea",
+    "White Sea"
+   ],
+   "lowestPoint": {
+    "name": "Caspian Sea",
+    "elevation": -28
+   }
+  },
+  "VCT": {
+   "seas": [
+    "Atlantic Ocean",
+    "Caribbean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "DEU": {
+   "seas": [
+    "Baltic Sea",
+    "North Sea"
+   ],
+   "lowestPoint": {
+    "name": "Neuendorf-Sachsenbande",
+    "elevation": 5
+   }
+  },
+  "BGR": {
+   "seas": [
+    "Black Sea"
+   ],
+   "lowestPoint": {
+    "name": "Black Sea",
+    "elevation": null
+   }
+  },
+  "MID": {
+   "seas": [
+    "Pacific Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "ISR": {
+   "seas": [
+    "Gulf of Aqaba",
+    "Levantine Sea",
+    "Mediterranean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Dead Sea",
+    "elevation": -442
+   }
+  },
+  "YEM": {
+   "seas": [
+    "Arabian Sea",
+    "Red Sea"
+   ],
+   "lowestPoint": {
+    "name": "Arabian Sea",
+    "elevation": null
+   }
+  },
+  "CYP": {
+   "seas": [
+    "Mediterranean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Mediterranean Sea",
+    "elevation": 0
+   }
+  },
+  "IRN": {
+   "seas": [
+    "Caspian Sea",
+    "Gulf of Oman",
+    "Persian Gulf"
+   ],
+   "lowestPoint": {
+    "name": "Caspian Sea",
+    "elevation": -28
+   }
+  },
+  "UGA": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Lake Albert",
+    "elevation": 619
+   }
+  },
+  "LSO": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Orange River",
+    "elevation": 1400
+   }
+  },
+  "RWA": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Ruzizi River",
+    "elevation": 950
+   }
+  },
+  "CHN": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Ayding Lake",
+    "elevation": -154
+   }
+  },
+  "SWZ": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Maputo River",
+    "elevation": 21
+   }
+  },
+  "ETH": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Danakil Depression",
+    "elevation": -125
+   }
+  },
+  "IOT": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Indian Ocean",
+    "elevation": 0
+   }
+  },
+  "SOM": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Indian Ocean",
+    "elevation": 0
+   }
+  },
+  "KEN": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Indian Ocean",
+    "elevation": 0
+   }
+  },
+  "NIC": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "PAN": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "DMA": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "HND": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "ATG": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "KNA": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "LCA": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "NER": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Niger River",
+    "elevation": 200
+   }
+  },
+  "AZE": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Caspian Sea",
+    "elevation": -28
+   }
+  },
+  "AUT": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Neusiedl Lake",
+    "elevation": 115
+   }
+  },
+  "SDN": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Red Sea",
+    "elevation": 0
+   }
+  },
+  "JOR": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Dead Sea",
+    "elevation": -442
+   }
+  },
+  "SLV": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "PNG": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "MKD": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Vardar",
+    "elevation": null
+   }
+  },
+  "BLR": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Neman",
+    "elevation": null
+   }
+  },
+  "AND": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Gran Valira",
+    "elevation": null
+   }
+  },
+  "GTM": {
+   "seas": [
+    "Caribbean Sea",
+    "Gulf of Honduras",
+    "Pacific Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "GUM": {
+   "seas": [
+    "Pacific Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "CUB": {
+   "seas": [
+    "Caribbean Sea",
+    "Gulf of Mexico"
+   ],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "JAM": {
+   "seas": [
+    "Caribbean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "GRD": {
+   "seas": [
+    "Caribbean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "SVN": {
+   "seas": [
+    "Adriatic Sea",
+    "Mediterranean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Adriatic Sea",
+    "elevation": 0
+   }
+  },
+  "MLT": {
+   "seas": [
+    "Mediterranean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Mediterranean Sea",
+    "elevation": 0
+   }
+  },
+  "MCO": {
+   "seas": [
+    "Ligurian Sea",
+    "Mediterranean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Mediterranean Sea",
+    "elevation": 0
+   }
+  },
+  "MNE": {
+   "seas": [
+    "Adriatic Sea",
+    "Mediterranean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Adriatic Sea",
+    "elevation": 0
+   }
+  },
+  "MAR": {
+   "seas": [
+    "Atlantic Ocean",
+    "Mediterranean Sea",
+    "Strait of Gibraltar"
+   ],
+   "lowestPoint": {
+    "name": "Sebkha Tah",
+    "elevation": -55
+   }
+  },
+  "VIR": {
+   "seas": [
+    "Caribbean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "LBN": {
+   "seas": [
+    "Mediterranean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Mediterranean Sea",
+    "elevation": 0
+   }
+  },
+  "LBY": {
+   "seas": [
+    "Mediterranean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Sabkhat Ghuzayyil",
+    "elevation": -47
+   }
+  },
+  "MYS": {
+   "seas": [
+    "Brunei Bay",
+    "Celebes Sea",
+    "South China Sea",
+    "Strait of Malacca",
+    "Straits of Johor",
+    "Sulu Sea"
+   ],
+   "lowestPoint": {
+    "name": "Indian Ocean",
+    "elevation": 0
+   }
+  },
+  "PRI": {
+   "seas": [
+    "Atlantic Ocean",
+    "Caribbean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "GUF": {
+   "seas": [
+    "Atlantic Ocean"
+   ]
+  },
+  "ESH": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Sebkha Tah",
+    "elevation": -55
+   }
+  },
+  "FLK": {
+   "seas": [
+    "Atlantic Ocean"
+   ]
+  },
+  "MUS": {
+   "seas": [
+    "Indian Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Indian Ocean",
+    "elevation": 0
+   }
+  },
+  "HKG": {
+   "seas": [
+    "South China Sea"
+   ]
+  },
+  "ALA": {
+   "seas": [
+    "Archipelago Sea",
+    "Sea of Åland"
+   ]
+  },
+  "FRO": {
+   "seas": [
+    "Norwegian Sea"
+   ]
+  },
+  "JEY": {
+   "seas": [
+    "English Channel"
+   ]
+  },
+  "GIB": {
+   "seas": [
+    "Alboran Sea",
+    "Bay of Gibraltar",
+    "Mediterranean Sea"
+   ]
+  },
+  "MOZ": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Mozambique Channel",
+    "elevation": 0
+   }
+  },
+  "SVK": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Bodrog",
+    "elevation": 95
+   }
+  },
+  "DOM": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Lake Enriquillo",
+    "elevation": -46
+   }
+  },
+  "NPL": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Kechana Kawal",
+    "elevation": 64
+   }
+  },
+  "MDG": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Indian Ocean",
+    "elevation": 0
+   }
+  },
+  "MMR": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Indian Ocean",
+    "elevation": 0
+   }
+  },
+  "MDV": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Indian Ocean",
+    "elevation": 0
+   }
+  },
+  "BLZ": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "BHS": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "ISL": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "LAO": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Mekong River",
+    "elevation": 1
+   }
+  },
+  "VAT": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Saint Peter's Square",
+    "elevation": null
+   }
+  },
+  "MDA": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Dniester",
+    "elevation": null
+   }
+  },
+  "KGZ": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Kara Darya",
+    "elevation": null
+   }
+  },
+  "KAZ": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Karagiye",
+    "elevation": null
+   }
+  },
+  "OMN": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Majlis al Jinn",
+    "elevation": null
+   }
+  },
+  "SMR": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Ausa River",
+    "elevation": null
+   }
+  },
+  "CZE": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Elbe",
+    "elevation": null
+   }
+  },
+  "GEO": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Black Sea",
+    "elevation": null
+   }
+  },
+  "ROU": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Black Sea",
+    "elevation": null
+   }
+  },
+  "KWT": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Persian Gulf",
+    "elevation": null
+   }
+  },
+  "IDN": {
+   "seas": [
+    "Arafura Sea",
+    "Celebes Sea",
+    "Indian Ocean",
+    "Pacific Ocean",
+    "South China Sea"
+   ],
+   "lowestPoint": {
+    "name": "Indian Ocean",
+    "elevation": 0
+   }
+  },
+  "NAM": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "SLE": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "BVT": {
+   "seas": [
+    "Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "South Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "EST": {
+   "seas": [
+    "Baltic Sea"
+   ],
+   "lowestPoint": {
+    "name": "Baltic Sea",
+    "elevation": 0
+   }
+  },
+  "LVA": {
+   "seas": [
+    "Baltic Sea"
+   ],
+   "lowestPoint": {
+    "name": "Baltic Sea",
+    "elevation": 0
+   }
+  },
+  "ASM": {
+   "seas": [
+    "Pacific Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "MNP": {
+   "seas": [
+    "Pacific Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "UMI": {
+   "seas": [
+    "Caribbean Sea",
+    "Pacific Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "NFK": {
+   "seas": [
+    "Pacific Ocean"
+   ]
+  },
+  "ALB": {
+   "seas": [
+    "Adriatic Sea",
+    "Ionian Sea",
+    "Mediterranean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Adriatic Sea",
+    "elevation": 0
+   }
+  },
+  "BIH": {
+   "seas": [
+    "Adriatic Sea",
+    "Mediterranean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Adriatic Sea",
+    "elevation": 0
+   }
+  },
+  "HRV": {
+   "seas": [
+    "Adriatic Sea"
+   ],
+   "lowestPoint": {
+    "name": "Adriatic Sea",
+    "elevation": 0
+   }
+  },
+  "MYT": {
+   "seas": [
+    "Indian Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Indian Ocean",
+    "elevation": 0
+   }
+  },
+  "REU": {
+   "seas": [
+    "Indian Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Indian Ocean",
+    "elevation": 0
+   }
+  },
+  "CXR": {
+   "seas": [
+    "Indian Ocean"
+   ]
+  },
+  "HMD": {
+   "seas": [
+    "Indian Ocean"
+   ]
+  },
+  "PSE": {
+   "seas": [
+    "Mediterranean Sea"
+   ],
+   "lowestPoint": {
+    "name": "Dead Sea",
+    "elevation": -442
+   }
+  },
+  "JTN": {
+   "seas": [
+    "Pacific Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Pacific Ocean",
+    "elevation": 0
+   }
+  },
+  "BLM": {
+   "seas": [
+    "Caribbean Sea"
+   ]
+  },
+  "GGY": {
+   "seas": [
+    "English Channel"
+   ]
+  },
+  "NCL": {
+   "seas": [
+    "South Pacific Ocean"
+   ]
+  },
+  "CRQ": {
+   "seas": [
+    "English Channel"
+   ]
+  },
+  "BRB": {
+   "seas": [
+    "North Atlantic Ocean"
+   ],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "UKR": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Kuialnyk Liman",
+    "elevation": null
+   }
+  },
+  "NLD": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Zuidplaspolder",
+    "elevation": null
+   }
+  },
+  "PAK": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Arabian Sea",
+    "elevation": null
+   }
+  },
+  "MWI": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Shire River",
+    "elevation": 37
+   }
+  },
+  "ATF": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Indian Ocean",
+    "elevation": 0
+   }
+  },
+  "SYC": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Indian Ocean",
+    "elevation": 0
+   }
+  },
+  "HTI": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Caribbean Sea",
+    "elevation": 0
+   }
+  },
+  "SHN": {
+   "seas": [],
+   "lowestPoint": {
+    "name": "Atlantic Ocean",
+    "elevation": 0
+   }
+  },
+  "SPM": {
+   "seas": [
+    "Atlantic Ocean"
+   ]
+  }
+ }
+}

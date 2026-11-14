@@ -24,6 +24,9 @@ export interface Country {
   currencies: { code: string; name: string }[];
   area: Fact | null;
   highestPoint: { name: string; elevation: number | null } | null;
+  lowestPoint: { name: string; elevation: number | null } | null;
+  /** Seas and oceans the country borders (Wikidata), empty when unknown. */
+  seas: string[];
   wikidata: string | null;
   latlng: number[];
   landlocked: boolean;
