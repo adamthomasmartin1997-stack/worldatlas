@@ -1,188 +1,316 @@
-import { useMemo } from 'react';
+import { useMemo, useState, type ReactNode } from 'react';
 import { Link, useParams } from 'react-router-dom';
-import { BookOpen, Mountain, Landmark, Users, LineChart as ChartIcon, HelpCircle, ArrowRight } from 'lucide-react';
-import { WorldMap } from '../components/WorldMap';
+import { ArrowRight, Play } from 'lucide-react';
+import { CountryMap } from '../components/CountryMap';
+import { FolderTabs, type FolderTab } from '../components/FolderTabs';
 import { LineChart } from '../components/LineChart';
 import { useSeries } from '../components/useSeries';
-import { fmtPeople, fmtUsd, fmtUsdAxis, fmtCompact, fmtYears, fmtYearsAxis } from '../lib/format';
-import type { SourceId } from '../data/sources';
-import { Card, PageHeader, Placeholder, PlaceholderTag, SourceNote } from '../components/ui';
+import { Breadcrumbs, ButtonLink, Card, SourceNote } from '../components/ui';
 import { COUNTRIES, countryPath, fmt, getCountry, type Country } from '../data/countries';
-import { TOPICS, questionCount, type Topic } from '../lib/quiz';
+import type { SourceId } from '../data/sources';
+import { contentFor, type CountryContent, type Fact as WrittenFact } from '../content/countries';
+import { TOPICS, questionCount, questionsFor, type Topic } from '../lib/quiz';
+import { fmtCompact, fmtPeople, fmtUsd, fmtUsdAxis, fmtYears } from '../lib/format';
 import { NotFound } from './NotFound';
 
-const SECTIONS = [
-  { id: 'overview', label: 'Overview', icon: BookOpen },
-  { id: 'geography', label: 'Geography', icon: Mountain },
-  { id: 'history', label: 'History', icon: Landmark },
-  { id: 'people', label: 'People & culture', icon: Users },
-  { id: 'data', label: 'Population & economy', icon: ChartIcon },
-  { id: 'quizzes', label: 'Quizzes', icon: HelpCircle },
-];
+type Row = { label: string; value: ReactNode };
 
 function list(items: string[]) {
   if (items.length <= 1) return items.join('');
   return `${items.slice(0, -1).join(', ')} and ${items[items.length - 1]}`;
 }
+const names = (codes: string[]) => codes.map((b) => getCountry(b)).filter((x): x is Country => Boolean(x));
+const year = (y?: number | null) => (y ? ` (${y})` : '');
 
-/** A factual opening paragraph generated from data, until an editor writes the real one. */
+/** "In numbers" overview for countries without a written one, so it doesn't repeat the hero summary. */
+function numbersSummary(c: Country) {
+  const parts: string[] = [];
+  if (c.population && c.area) parts.push(`${c.name} is home to about ${fmtPeople(c.population.value)} people${c.population.year ? ` (${c.population.year})` : ''} and covers ${fmt.format(c.area.value)} km².`);
+  else if (c.area) parts.push(`${c.name} covers ${fmt.format(c.area.value)} km².`);
+  if (c.highestPoint) parts.push(`Its highest point is ${c.highestPoint.name}${c.highestPoint.elevation ? `, at ${fmt.format(c.highestPoint.elevation)} m` : ''}.`);
+  if (c.lifeExpectancy) parts.push(`A baby born there today can expect to live to about ${Math.round(c.lifeExpectancy.value)}.`);
+  if (c.gdpPerCapita) parts.push(`Its economy produces about ${fmtUsd(c.gdpPerCapita.value)} per person each year.`);
+  return parts.join(' ') || undefined;
+}
+
+/** A short factual summary built only from data. */
 function summary(c: Country) {
   const parts = [`${c.name} is ${c.sovereign ? 'a country' : `a ${c.status.toLowerCase()}`} in ${c.subregion ?? c.region}.`];
   if (c.capital[0]) parts.push(`Its capital is ${c.capital[0]}.`);
-  if (c.borders.length) parts.push(`It shares land borders with ${list(c.borders.map((b) => getCountry(b)!.name))}.`);
+  if (c.borders.length) parts.push(`It shares land borders with ${list(names(c.borders).map((n) => n.name))}.`);
   else parts.push(c.landlocked ? 'It is landlocked.' : 'It has no land borders with other countries.');
   if (c.languages.length) parts.push(`${c.languages.length > 1 ? 'Official languages include' : 'The official language is'} ${list(c.languages.slice(0, 3))}.`);
   return parts.join(' ');
 }
 
+function Facts({ rows }: { rows: Row[] }) {
+  return (
+    <dl className="fact-grid">
+      {rows.map((r) => <div key={r.label}><dt>{r.label}</dt><dd>{r.value}</dd></div>)}
+    </dl>
+  );
+}
+
+function CountryChips({ codes }: { codes: string[] }) {
+  const cs = names(codes);
+  if (!cs.length) return null;
+  return <div className="chip-row">{cs.map((n) => <Link key={n.cca3} to={countryPath(n)} className="chip">{n.name}</Link>)}</div>;
+}
+
+/** Paragraph + body for one folder tab, with an honest note on where the words came from. */
+function Panel({ text, generated, content, children, sources, note }: { text?: string; generated?: string; content?: CountryContent; children?: ReactNode; sources?: SourceId[]; note?: string }) {
+  return (
+    <div className="panel-body">
+      {(text || generated) && <p className="panel-text">{text ?? generated}</p>}
+      {children}
+      <div className="panel-sources">
+        {sources && sources.length > 0 && <SourceNote sources={sources}>{note}</SourceNote>}
+        {text && content && <p className="source-note">{content.status === 'draft' ? 'Written by Worldwise from published facts. Not yet checked against sources.' : `Written by Worldwise. Sources: ${content.sources?.join('; ')}`}</p>}
+      </div>
+    </div>
+  );
+}
+
+const written = (facts?: WrittenFact[]): Row[] => (facts ?? []).map((f) => ({ label: f.label, value: f.value }));
+
 export function CountryProfile() {
   const { code } = useParams();
   const c = getCountry(code);
-  const neighbours = useMemo(() => (c ? c.borders.map((b) => getCountry(b)!).sort((a, b) => a.name.localeCompare(b.name)) : []), [c]);
-  const nearby = useMemo(() => (c ? COUNTRIES.filter((x) => x.subregion === c.subregion && x.cca3 !== c.cca3 && !c.borders.includes(x.cca3) && x.sovereign).slice(0, 6) : []), [c]);
-  const focus = useMemo(() => (c ? [c.cca3, ...c.borders] : []), [c]);
-  const { data: series, error: seriesError } = useSeries(c?.cca3 ?? '', Boolean(c?.hasSeries));
   if (!c) return <NotFound />;
+  return <Profile key={c.cca3} c={c} />;
+}
 
-  const facts: [string, string][] = [
-    ['Capital', c.capital.join(', ') || '—'],
-    ['Region', c.subregion ?? c.region],
-    ['Area', c.area ? `${fmt.format(c.area.value)} km²` : '—'],
-    ['Population', c.population ? `${fmtPeople(c.population.value)}${c.population.year ? ` (${c.population.year})` : ''}` : 'No data'],
-    ['Languages', c.languages.join(', ') || '—'],
-    ['Currency', c.currencies.map((x) => `${x.name} (${x.code})`).join(', ') || '—'],
+function Profile({ c }: { c: Country }) {
+  const content = contentFor(c.cca3);
+  const { data: series } = useSeries(c.cca3, c.hasSeries);
+  const neighbours = useMemo(() => names(c.borders).sort((a, b) => a.name.localeCompare(b.name)), [c]);
+  const nearby = useMemo(() => COUNTRIES.filter((x) => x.subregion === c.subregion && x.cca3 !== c.cca3 && !c.borders.includes(x.cca3) && x.sovereign).slice(0, 6), [c]);
+
+  const profileTabs: FolderTab[] = [
+    { id: 'overview', label: 'Overview', color: 'white' },
+    { id: 'geography', label: 'Geography', color: 'green' },
+    { id: 'people', label: 'People', color: 'lime' },
+    ...(content?.history ? [{ id: 'history', label: 'History', color: 'sun' } as FolderTab] : []),
+    ...(content?.government ? [{ id: 'government', label: 'Government', color: 'sky' } as FolderTab] : []),
+    { id: 'economy', label: 'Economy', color: 'leaf' },
+    ...(content?.culture ? [{ id: 'culture', label: 'Culture', color: 'coral' } as FolderTab] : []),
+    ...(content?.sport ? [{ id: 'sport', label: 'Sport', color: 'ocean' } as FolderTab] : []),
   ];
-  const factSources = [...new Set<SourceId>(['world-countries', ...(c.area ? [c.area.source] : []), ...(c.population ? [c.population.source] : [])])];
+  const topics = (Object.keys(TOPICS) as Topic[]).filter((t) => questionCount(c, t) > 0);
+  const topicColor: Record<Topic, FolderTab['color']> = { geography: 'green', history: 'sun', culture: 'coral', sport: 'ocean' };
+  const gameTabs: FolderTab[] = [...topics.map((t) => ({ id: t, label: `${TOPICS[t].label} quiz`, color: topicColor[t] })), { id: 'map', label: 'Map games', color: 'white' }];
+
+  const [tab, setTab] = useState('overview');
+  const [game, setGame] = useState(gameTabs[0].id);
+  const region = c.region.toLowerCase();
+  const lifeStart = series?.series.lifeExpectancy?.[0];
+  const popStart = series?.series.population?.[0];
+
+  const panels: Record<string, ReactNode> = {
+    overview: (
+      <div className="panel-split">
+        <Panel text={content?.overview?.join('\n\n')} generated={numbersSummary(c)} content={content} sources={content?.overview ? undefined : (['world-bank', 'wikidata'] as SourceId[])} />
+        <Facts rows={[
+          { label: 'Capital', value: c.capital.join(', ') || '—' },
+          { label: `Population${year(c.population?.year)}`, value: c.population ? fmtPeople(c.population.value) : '—' },
+          { label: 'Area', value: c.area ? `${fmt.format(c.area.value)} km²` : '—' },
+          { label: 'Currency', value: c.currencies.map((x) => `${x.name} (${x.code})`).join(', ') || '—' },
+          { label: c.languages.length > 1 ? 'Languages' : 'Language', value: c.languages.join(', ') || '—' },
+          { label: 'Calling code', value: c.callingCode ?? '—' },
+        ]} />
+      </div>
+    ),
+    geography: (
+      <Panel
+        text={content?.geography?.text}
+        generated={`${c.name} covers ${c.area ? `${fmt.format(c.area.value)} km²` : 'an unknown area'}${c.landlocked ? ' and has no coastline' : ''}.${c.highestPoint ? ` Its highest point is ${c.highestPoint.name}${c.highestPoint.elevation ? ` at ${fmt.format(c.highestPoint.elevation)} m` : ''}.` : ''} ${c.borders.length ? `It has ${c.borders.length} land neighbour${c.borders.length > 1 ? 's' : ''}.` : 'It has no land neighbours.'}`}
+        content={content}
+        sources={['world-countries', ...(c.area?.source === 'wikidata' || c.highestPoint ? (['wikidata'] as SourceId[]) : [])]}
+        note={c.area?.source === 'wikidata' ? 'Area includes any overseas regions.' : undefined}
+      >
+        <div className="panel-split">
+          <Facts rows={[
+            { label: 'Area', value: c.area ? `${fmt.format(c.area.value)} km²` : '—' },
+            ...(c.highestPoint ? [{ label: 'Highest point', value: `${c.highestPoint.name}${c.highestPoint.elevation ? `, ${fmt.format(c.highestPoint.elevation)} m` : ''}` }] : []),
+            { label: 'Coastline', value: c.landlocked ? 'None (landlocked)' : 'Yes' },
+            ...written(content?.geography?.facts),
+            { label: 'Approx. centre', value: `${Math.abs(c.latlng[0])}°${c.latlng[0] >= 0 ? 'N' : 'S'}, ${Math.abs(c.latlng[1])}°${c.latlng[1] >= 0 ? 'E' : 'W'}` },
+          ]} />
+          <div>
+            <h3 className="panel-h">{neighbours.length ? `${neighbours.length} land neighbour${neighbours.length > 1 ? 's' : ''}` : 'No land neighbours'}</h3>
+            <CountryChips codes={neighbours.map((n) => n.cca3)} />
+          </div>
+        </div>
+      </Panel>
+    ),
+    people: (
+      <Panel
+        text={content?.people?.text}
+        generated={c.population ? `About ${fmtPeople(c.population.value)} people lived in ${c.name} in ${c.population.year ?? 'the latest count'}.${c.lifeExpectancy ? ` Life expectancy at birth was ${fmtYears(c.lifeExpectancy.value)} in ${c.lifeExpectancy.year}.` : ''}` : undefined}
+        content={content}
+        sources={c.population ? [c.population.source] : ['world-countries']}
+      >
+        <div className="panel-split panel-split-chart">
+          <Facts rows={[
+            ...(c.population ? [{ label: `Population${year(c.population.year)}`, value: fmtPeople(c.population.value) }] : []),
+            ...(c.lifeExpectancy ? [{ label: `Life expectancy${year(c.lifeExpectancy.year)}`, value: <>{fmtYears(c.lifeExpectancy.value)}{lifeStart && <span className="fact-note"> ({lifeStart[1].toFixed(1)} in {lifeStart[0]})</span>}</> }] : []),
+            ...(c.demonym ? [{ label: 'People are called', value: c.demonym }] : []),
+            ...written(content?.people?.facts),
+          ]} />
+          {series?.series.population && (
+            <LineChart title={popStart ? `Population since ${popStart[0]}` : 'Population'} data={series.series.population} format={fmtPeople} axisFormat={fmtCompact} />
+          )}
+        </div>
+      </Panel>
+    ),
+    history: content?.history && (
+      <Panel text={content.history.text} content={content}>
+        <ol className="event-list">
+          {content.history.events?.map((e) => (
+            <li key={e.year + e.title} className="event">
+              <span className="event-year">{e.year}</span>
+              <span className="event-title">{e.title}</span>
+              <span className="muted">{e.text}</span>
+              {e.related && <CountryChips codes={e.related} />}
+            </li>
+          ))}
+        </ol>
+        <p className="muted">A full timeline is on the way. Each event will link to every country involved.</p>
+      </Panel>
+    ),
+    government: content?.government && (
+      <Panel text={content.government.text} content={content}>
+        <div className="panel-split">
+          <Facts rows={written(content.government.facts)} />
+          {content.government.memberships && (
+            <div>
+              <h3 className="panel-h">Member of</h3>
+              <div className="item-stack">{content.government.memberships.map((m) => <div key={m.title} className="item-card"><span className="item-title">{m.title}</span><span className="muted">{m.text}</span></div>)}</div>
+            </div>
+          )}
+        </div>
+      </Panel>
+    ),
+    economy: (
+      <Panel
+        text={content?.economy?.text}
+        generated={c.gdp ? `${c.name}'s economy (GDP) was worth ${fmtUsd(c.gdp.value)} in ${c.gdp.year}${c.gdpPerCapita ? `, about ${fmtUsd(c.gdpPerCapita.value)} per person` : ''}.${c.currencies[0] ? ` It uses the ${c.currencies[0].name}.` : ''}` : c.currencies[0] ? `${c.name} uses the ${c.currencies[0].name}.` : undefined}
+        content={content}
+        sources={c.gdp ? ['world-bank'] : ['world-countries']}
+        note={c.gdp ? 'Current US dollars, not adjusted for inflation.' : undefined}
+      >
+        <div className="panel-split panel-split-chart">
+          <Facts rows={[
+            ...(c.gdp ? [{ label: `GDP${year(c.gdp.year)}`, value: fmtUsd(c.gdp.value) }] : []),
+            ...(c.gdpPerCapita ? [{ label: `GDP per person${year(c.gdpPerCapita.year)}`, value: fmtUsd(c.gdpPerCapita.value) }] : []),
+            { label: 'Currency', value: c.currencies.map((x) => `${x.name} (${x.code})`).join(', ') || '—' },
+            ...written(content?.economy?.facts),
+          ]} />
+          {series?.series.gdpPerCapita && (
+            <LineChart title="GDP per person (current US$)" data={series.series.gdpPerCapita} format={fmtUsd} axisFormat={fmtUsdAxis} />
+          )}
+        </div>
+      </Panel>
+    ),
+    culture: content?.culture && (
+      <Panel text={content.culture.text} content={content}>
+        <div className="item-grid">{content.culture.items?.map((i) => <div key={i.title} className="item-card"><span className="item-title">{i.title}</span><span className="muted">{i.text}</span></div>)}</div>
+        {content.culture.related && <div><h3 className="panel-h">Connected countries</h3><CountryChips codes={content.culture.related} /></div>}
+      </Panel>
+    ),
+    sport: content?.sport && (
+      <Panel text={content.sport.text} content={content}>
+        <div className="item-grid">{content.sport.items?.map((i) => <div key={i.title} className="item-card"><span className="item-title">{i.title}</span><span className="muted">{i.text}</span></div>)}</div>
+        {content.sport.related && <div><h3 className="panel-h">Connected countries</h3><CountryChips codes={content.sport.related} /></div>}
+      </Panel>
+    ),
+  };
+
+  const gamePanel = () => {
+    if (game === 'map') {
+      return (
+        <div className="grid grid-2">
+          <Link to={`/games/find-on-map?region=${region}&start=${c.cca3}`} className="card card-link game-tile">
+            <span className="tag tag-green">Map game · 10 rounds</span>
+            <span className="card-title">Find it on the map: {c.region}</span>
+            <span className="muted">Can you place {c.name} and its neighbours?</span>
+          </Link>
+          <Link to={`/games/name-the-countries?region=${region}`} className="card card-link game-tile">
+            <span className="tag tag-sun">Typing game</span>
+            <span className="card-title">Name every country in {c.region}</span>
+            <span className="muted">How many can you name before the clock runs out?</span>
+          </Link>
+        </div>
+      );
+    }
+    const t = game as Topic;
+    const sample = questionsFor(c, t)[0];
+    return (
+      <div className="quiz-teaser">
+        <div className="quiz-teaser-copy">
+          <span className="tag">{questionCount(c, t)} questions</span>
+          <span className="quiz-teaser-title">{c.name}: {TOPICS[t].label}</span>
+          <span className="muted">{TOPICS[t].blurb}</span>
+          <ButtonLink to={`${countryPath(c)}/quiz/${t}`} variant="primary"><Play size={18} strokeWidth={2.5} aria-hidden="true" /> Start quiz</ButtonLink>
+        </div>
+        {sample && (
+          <div className="item-card sample-q">
+            <span className="fact-note">A question from this quiz</span>
+            <span className="sample-q-text">{sample.q}</span>
+            <ul className="sample-q-options">{sample.options.map((o) => <li key={o}>{o}</li>)}</ul>
+          </div>
+        )}
+      </div>
+    );
+  };
 
   return (
     <>
-      <div className="dark">
-        <div className="container profile-hero">
-          <PageHeader crumbs={[{ to: '/countries', label: 'Countries' }, { to: `/explore?region=${c.region.toLowerCase()}`, label: c.region }, { label: c.name }]} eyebrow={c.subregion ?? c.region} title={c.name} dark>
-            {c.officialName !== c.name && <p className="muted">{c.officialName}</p>}
-            {!c.sovereign && <p className="tag">{c.status}</p>}
-          </PageHeader>
-          <div className="profile-map">
-            {c.hasShape ? (
-              <WorldMap label={`Map showing ${c.name} and its neighbours`} focus={focus} classFor={(x) => (x === c.cca3 ? 'active' : undefined)} aspect={0.62} />
-            ) : (
-              <div className="map-frame map-loading">No map shape available for {c.name} at this scale</div>
-            )}
-            <SourceNote sources={['natural-earth']} />
+      <section className="container country-hero" aria-labelledby="country-h">
+        <div className="country-hero-copy">
+          <Breadcrumbs items={[{ to: '/countries', label: 'Countries' }, { to: `/explore?region=${region}`, label: c.region }, { label: c.name }]} />
+          <span className="sticker sticker-green">{c.subregion ?? c.region}</span>
+          <h1 id="country-h">{c.name}</h1>
+          {c.officialName !== c.name && <p className="country-official">{c.officialName}</p>}
+          {!c.sovereign && <span className="tag">{c.status}</span>}
+          <p className="country-summary">{summary(c)}</p>
+          <div className="chip-row">
+            {c.population && <span className="chip chip-static">{fmtPeople(c.population.value)} people<span className="fact-note">{year(c.population.year)}</span></span>}
+            {c.area && <span className="chip chip-static">{fmt.format(c.area.value)} km²</span>}
+            {c.currencies[0] && <span className="chip chip-static">{c.currencies[0].name}</span>}
           </div>
         </div>
-      </div>
-
-      <section className="facts-strip" aria-label="Key facts">
-        <div className="container">
-          <dl className="facts">
-            {facts.map(([k, v]) => <div key={k}><dt>{k}</dt><dd>{v}</dd></div>)}
-          </dl>
-          <SourceNote sources={factSources}>Area is total area, including any overseas regions.</SourceNote>
-        </div>
+        <figure className="country-hero-map">
+          <CountryMap country={c} />
+          <figcaption className="source-note">
+            Map: Natural Earth (public domain). Cities: Wikidata (CC0).
+          </figcaption>
+        </figure>
       </section>
 
-      <div className="container profile-body">
-        <aside className="profile-toc" aria-label="On this page">
-          <p className="eyebrow">On this page</p>
-          <ul>{SECTIONS.map((s) => <li key={s.id}><a href={`#${s.id}`} onClick={(e) => { e.preventDefault(); document.getElementById(s.id)?.scrollIntoView({ behavior: 'smooth' }); }}><s.icon size={16} aria-hidden="true" /> {s.label}</a></li>)}</ul>
-        </aside>
+      <section className="container section" aria-labelledby="glance-h">
+        <h2 id="glance-h">{c.name} at a glance</h2>
+        <FolderTabs label={`${c.name} profile`} tabs={profileTabs} value={tab} onChange={setTab}>
+          {panels[tab]}
+        </FolderTabs>
+      </section>
 
-        <article className="profile-article">
-          <section id="overview">
-            <h2>Overview</h2>
-            <p className="lead prose">{summary(c)}</p>
-            <Placeholder title="Editorial introduction">
-              <p>A written introduction to {c.name} goes here: what makes it distinctive, in three or four short paragraphs. Add it in <code>src/content/countries/{c.cca3.toLowerCase()}.md</code> (not yet wired up).</p>
-            </Placeholder>
-          </section>
+      <section className="container section" aria-labelledby="games-h">
+        <h2 id="games-h">Think you know {c.name}?</h2>
+        <FolderTabs label={`${c.name} games`} tabs={gameTabs} value={game} onChange={setGame}>
+          {gamePanel()}
+        </FolderTabs>
+      </section>
 
-          <section id="geography">
-            <h2>Geography</h2>
-            <dl className="detail-list">
-              <div><dt>Coastline</dt><dd>{c.landlocked ? 'Landlocked' : 'Has a coastline'}</dd></div>
-              {c.highestPoint && <div><dt>Highest point</dt><dd>{c.highestPoint.name}{c.highestPoint.elevation ? ` (${fmt.format(c.highestPoint.elevation)} m)` : ''}</dd></div>}
-              <div><dt>Coordinates (approx. centre)</dt><dd>{c.latlng[0]}°, {c.latlng[1]}°</dd></div>
-              <div><dt>Land borders</dt><dd>{neighbours.length ? neighbours.map((n, i) => <span key={n.cca3}>{i > 0 && ', '}<Link to={countryPath(n)}>{n.name}</Link></span>) : 'None'}</dd></div>
-              <div><dt>Internet domain · Calling code</dt><dd>{c.tld.join(', ') || '—'} · {c.callingCode ?? '—'}</dd></div>
-            </dl>
-            <SourceNote sources={c.highestPoint ? ['world-countries', 'wikidata'] : ['world-countries']} />
-            <Placeholder title="Physical geography">
-              <p>Landscapes, rivers, mountains and climate, with a relief map. Needs written content and an elevation dataset.</p>
-            </Placeholder>
-          </section>
-
-          <section id="history">
-            <h2>History</h2>
-            <Placeholder title="Historical timeline">
-              <p>A scrollable timeline of key events, each linking to a History page and a historical map. Events will be stored as structured data (date, title, summary, related countries) so they can appear on every country involved.</p>
-            </Placeholder>
-          </section>
-
-          <section id="people">
-            <h2>People &amp; culture</h2>
-            {c.demonym && <p>People from {c.name} are called <strong>{c.demonym}</strong>.</p>}
-            <Placeholder title="Culture, food, sport and notable people">
-              <p>Short sections with images under open licences (e.g. Wikimedia Commons, credited individually).</p>
-            </Placeholder>
-          </section>
-
-          <section id="data">
-            <h2>Population &amp; economy</h2>
-            {(c.gdpPerCapita || c.lifeExpectancy) && (
-              <dl className="detail-list">
-                {c.gdpPerCapita && <div><dt>GDP per person ({c.gdpPerCapita.year})</dt><dd>{fmtUsd(c.gdpPerCapita.value)}</dd></div>}
-                {c.lifeExpectancy && <div><dt>Life expectancy at birth ({c.lifeExpectancy.year})</dt><dd>{fmtYears(c.lifeExpectancy.value)}</dd></div>}
-              </dl>
-            )}
-            {!c.hasSeries ? (
-              <p className="muted">The World Bank doesn't publish yearly figures for {c.name}.</p>
-            ) : seriesError ? (
-              <p className="muted" role="alert">The charts couldn't be loaded. Refresh the page to try again.</p>
-            ) : !series ? (
-              <p className="muted">Loading charts…</p>
-            ) : (
-              <div className="chart-grid-layout">
-                {series.series.population && <LineChart title="Population" data={series.series.population} format={fmtPeople} axisFormat={fmtCompact} />}
-                {series.series.gdpPerCapita && <LineChart title="GDP per person (current US$)" data={series.series.gdpPerCapita} format={fmtUsd} axisFormat={fmtUsdAxis} />}
-                {series.series.lifeExpectancy && <LineChart title="Life expectancy at birth (years)" data={series.series.lifeExpectancy} format={fmtYears} axisFormat={fmtYearsAxis} zeroBaseline={false} />}
-              </div>
-            )}
-            {c.hasSeries && <SourceNote sources={['world-bank']}>Indicators SP.POP.TOTL, NY.GDP.PCAP.CD and SP.DYN.LE00.IN{series ? `, retrieved ${series.retrieved}` : ''}.</SourceNote>}
-          </section>
-
-          <section id="quizzes">
-            <h2>Test yourself on {c.name}</h2>
-            <div className="grid grid-2">
-              {(Object.keys(TOPICS) as Topic[]).map((t) => {
-                const n = questionCount(c, t);
-                return n ? (
-                  <Card key={t} to={`${countryPath(c)}/quiz/${t}`} eyebrow={`${n} questions`} title={`${c.name}: ${TOPICS[t].label}`}><p className="muted">{TOPICS[t].blurb}</p></Card>
-                ) : (
-                  <div key={t} className="card card-disabled">
-                    <p className="eyebrow">No questions yet</p>
-                    <h3 className="card-title">{TOPICS[t].label}</h3>
-                    <p className="muted">{TOPICS[t].label} questions for {c.name} haven't been written yet.</p>
-                  </div>
-                );
-              })}
-            </div>
-            <p style={{ marginTop: 'var(--space-6)' }}>
-              <Link className="text-link" to={`/games/name-the-countries?region=${c.region.toLowerCase()}`}>Can you name every country in {c.region}? <ArrowRight size={16} aria-hidden="true" /></Link>
-            </p>
-          </section>
-
-          {nearby.length > 0 && (
-            <section>
-              <h2>Also in {c.subregion}</h2>
-              <div className="grid grid-3">
-                {nearby.map((n) => <Card key={n.cca3} to={countryPath(n)} title={n.name}><p className="muted">Capital: {n.capital[0] ?? '—'}</p></Card>)}
-              </div>
-            </section>
-          )}
-          <p className="muted" style={{ marginTop: 'var(--space-8)' }}><PlaceholderTag /> Dashed boxes mark sections still to be written.</p>
-        </article>
-      </div>
+      {nearby.length > 0 && (
+        <section className="container section" aria-labelledby="nearby-h">
+          <h2 id="nearby-h">Also in {c.subregion}</h2>
+          <div className="grid grid-3">
+            {nearby.map((n) => <Card key={n.cca3} to={countryPath(n)} title={n.name}><p className="muted">Capital: {n.capital[0] ?? '—'}</p></Card>)}
+          </div>
+          <p><Link className="text-link" to={`/explore?region=${region}`}>See all of {c.region} on the map <ArrowRight size={16} aria-hidden="true" /></Link></p>
+        </section>
+      )}
     </>
   );
 }

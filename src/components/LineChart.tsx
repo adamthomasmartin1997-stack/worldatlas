@@ -3,7 +3,7 @@ import { useEffect, useId, useMemo, useRef, useState } from 'react';
 export type Point = [year: number, value: number];
 
 const HEIGHT = 220;
-const M = { top: 16, right: 16, bottom: 28, left: 56 };
+const M = { top: 16, right: 24, bottom: 28, left: 52 };
 
 /** Round step sizes (1, 2, 2.5, 5 × 10ⁿ) so axis labels read cleanly. */
 export function niceTicks(min: number, max: number, count = 4): number[] {
@@ -40,7 +40,7 @@ export function LineChart({ title, data, format, axisFormat = format, zeroBaseli
   useEffect(() => {
     const el = box.current;
     if (!el) return;
-    const ro = new ResizeObserver(([e]) => setWidth(Math.max(280, Math.round(e.contentRect.width))));
+    const ro = new ResizeObserver(([e]) => setWidth(Math.max(200, Math.round(e.contentRect.width))));
     ro.observe(el);
     return () => ro.disconnect();
   }, []);
@@ -104,7 +104,7 @@ export function LineChart({ title, data, format, axisFormat = format, zeroBaseli
             </g>
           ))}
           {geo.ticksX.map((t) => (
-            <text key={t} x={geo.x(t)} y={HEIGHT - 8} className="chart-axis" textAnchor="middle">{t}</text>
+            <text key={t} x={geo.x(t)} y={HEIGHT - 8} className="chart-axis" textAnchor={geo.x(t) > width - M.right - 14 ? 'end' : 'middle'}>{t}</text>
           ))}
           <path d={geo.path} className="chart-line" />
           <circle cx={geo.x(last[0])} cy={geo.y(last[1])} r={4} className="chart-dot" />

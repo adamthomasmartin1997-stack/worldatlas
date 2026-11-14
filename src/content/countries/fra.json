@@ -1,0 +1,69 @@
+{
+  "status": "draft",
+  "sources": [],
+  "overview": [
+    "France is the largest country in the European Union by area. It sits in Western Europe, with coastlines on the English Channel, the Atlantic Ocean and the Mediterranean Sea, and its highest point, Mont Blanc, is in the Alps on the border with Italy.",
+    "Paris is both the capital and the largest city. France was a founding member of what became the European Union, uses the euro, and is one of the five permanent members of the UN Security Council."
+  ],
+  "geography": {
+    "text": "France is shaped roughly like a hexagon, which is why the French often call it l’Hexagone. The north and west are mostly low plains and rolling hills, drained by long rivers such as the Loire and the Seine. Mountains line much of the border: the Pyrenees with Spain, the Alps with Italy and Switzerland, and the Jura further north. The Mediterranean island of Corsica is part of France, and so are five overseas regions in the Caribbean, South America and the Indian Ocean.",
+    "facts": [
+      { "label": "Coasts", "value": "English Channel, Atlantic, Mediterranean" },
+      { "label": "Longest river", "value": "Loire, about 1,000 km" },
+      { "label": "Regions", "value": "13 in Europe, 5 overseas" }
+    ]
+  },
+  "people": {
+    "text": "Most people in France live in towns and cities. Paris is by far the largest urban area, followed by cities such as Marseille and Lyon. People in France live much longer than they used to. France has a long history of immigration, and many families have roots elsewhere in Europe, in North Africa and in West Africa."
+  },
+  "history": {
+    "text": "France has been shaped by kings, revolutions and wars. The Revolution that began in 1789 ended the absolute power of the monarchy and spread ideas of liberty and equality across Europe. Napoleon Bonaparte then built an empire across much of the continent, until his final defeat in 1815. In the 20th century France was a major battleground in both World Wars, and afterwards it helped found the organisations that became the European Union.",
+    "events": [
+      { "year": "1789", "title": "Storming of the Bastille", "text": "A key moment of the French Revolution. 14 July is now the national day." },
+      { "year": "1815", "title": "Napoleon defeated at Waterloo", "text": "Just south of Brussels, in present-day Belgium.", "related": ["BEL"] },
+      { "year": "1944", "title": "D-Day", "text": "Allied forces land in Normandy on 6 June." },
+      { "year": "1958", "title": "The Fifth Republic begins", "text": "A new constitution, still in use today." },
+      { "year": "2002", "title": "Euro notes and coins", "text": "They replace the French franc." }
+    ]
+  },
+  "government": {
+    "text": "France is a republic. Its current constitution was adopted in 1958 and created what is known as the Fifth Republic. Voters elect a President every five years, and the President appoints a Prime Minister to lead the government day to day. Laws are made by a Parliament with two houses, the National Assembly and the Senate.",
+    "facts": [
+      { "label": "System", "value": "Semi-presidential republic" },
+      { "label": "Constitution", "value": "Fifth Republic, since 1958" },
+      { "label": "Head of state", "value": "President" },
+      { "label": "Head of government", "value": "Prime Minister" },
+      { "label": "Motto", "value": "Liberté, égalité, fraternité" },
+      { "label": "Anthem", "value": "La Marseillaise" }
+    ],
+    "memberships": [
+      { "title": "European Union", "text": "A founding member of the European Economic Community in 1957, which became the EU." },
+      { "title": "UN Security Council", "text": "One of five permanent members, with a veto." },
+      { "title": "NATO", "text": "A founding member in 1949." }
+    ]
+  },
+  "economy": {
+    "text": "France has one of the largest economies in the world. Most of its output comes from services, including tourism: France is one of the most visited countries on Earth. It is also known for building aircraft and cars, for luxury goods, wine and farming, and it makes most of its electricity in nuclear power stations.",
+    "facts": [
+      { "label": "Euro adopted", "value": "1999; notes and coins 2002" }
+    ]
+  },
+  "culture": {
+    "text": "French culture has travelled far beyond France. French is spoken on five continents, thousands of English words come from French, and Paris has been a centre of art and fashion for centuries. Food matters too: in 2010 UNESCO added the French gastronomic meal, with its courses, wine pairings and rituals, to its list of the world’s intangible cultural heritage.",
+    "items": [
+      { "title": "The Louvre", "text": "The Paris museum that displays the Mona Lisa, painted by Leonardo da Vinci from Italy." },
+      { "title": "The Eiffel Tower", "text": "Built as the entrance arch to the 1889 World’s Fair in Paris." },
+      { "title": "Regional languages", "text": "French is the only official language, but Breton, Occitan and others are still spoken." }
+    ],
+    "related": ["ITA"]
+  },
+  "sport": {
+    "text": "Football is the most popular sport in France, and the men’s national team has won the World Cup twice, in 1998 and 2018. Every July the Tour de France, first held in 1903, takes cyclists around the country, usually finishing in Paris. In 2024 Paris hosted the Summer Olympics for the third time, exactly 100 years after its previous Games in 1924.",
+    "items": [
+      { "title": "1900 · 1924 · 2024", "text": "Paris has hosted the Summer Olympics three times." },
+      { "title": "1998 · 2018", "text": "Men’s World Cup wins. France beat Croatia 4–2 in the 2018 final." },
+      { "title": "Since 1903", "text": "The Tour de France, the cycling race around the country." }
+    ],
+    "related": ["HRV"]
+  }
+}

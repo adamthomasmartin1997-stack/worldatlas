@@ -22,6 +22,10 @@
   --tint-sun: #fff4cc;
   --tint-coral: #ffe1d9;
   --tint-ocean: #ddeff8;
+  --sky: #9fcfea;
+  --tint-sky: #eaf5fb;
+  --tint-lime: #eef8e2;
+  --tint-leaf: #e4f4e6;
 
   /* Map */
   --map-sea: var(--ocean);

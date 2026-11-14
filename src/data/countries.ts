@@ -33,6 +33,7 @@ export interface Country {
   demonym: string | null;
   hasShape: boolean;
   population: Fact | null;
+  gdp: Fact | null;
   gdpPerCapita: Fact | null;
   lifeExpectancy: Fact | null;
   hasSeries: boolean;

@@ -4,7 +4,7 @@ export const USER_AGENT = 'WorldAtlasDataBuilder/0.2 (open-data importer)';
 export async function getJson(url, { headers = {}, retries = 3 } = {}) {
   for (let attempt = 1; ; attempt++) {
     try {
-      const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT, Accept: 'application/json', ...headers } });
+      const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT, Accept: 'application/json', ...headers }, signal: AbortSignal.timeout(70_000) });
       if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
       return await res.json();
     } catch (e) {

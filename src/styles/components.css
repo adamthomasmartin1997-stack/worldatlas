@@ -169,3 +169,39 @@ select.input { box-shadow: none; min-height: var(--touch); }
 .chart-table { margin-top: var(--space-2); font-size: var(--text-sm); }
 .chart-table summary { cursor: pointer; min-height: var(--touch); display: flex; align-items: center; color: var(--ink); font-weight: 600; }
 .chart-table .table-scroll { max-height: 280px; overflow-y: auto; }
+
+/* ---------- Folder tabs (paper folder: the active tab joins the page below) ---------- */
+.folder { min-width: 0; }
+.folder-tabs { display: flex; align-items: flex-end; padding-left: var(--space-4); overflow-x: auto; scrollbar-width: thin; padding-top: var(--space-1); }
+.folder-tab {
+  --fill: var(--surface); --tint: var(--surface);
+  position: relative; z-index: 1; flex: none; margin: 0 -6px -2px 0; min-height: var(--touch);
+  padding: var(--space-2) var(--space-4); font-weight: 700; font-size: var(--text-base); color: var(--ink); cursor: pointer;
+  background: var(--fill); border: var(--outline); border-radius: 12px 12px 0 0; transition: padding var(--ease);
+}
+.folder-tab:hover { z-index: 2; }
+.folder-tab.is-active { z-index: 3; background: var(--tint); border-bottom-color: var(--tint); padding-top: var(--space-3); padding-bottom: var(--space-3); }
+.folder-tab:focus-visible { outline-offset: -6px; }
+.folder-panel {
+  --tint: var(--surface);
+  position: relative; z-index: 2; background: var(--tint); border: var(--outline); border-radius: 0 var(--radius-card) var(--radius-card) var(--radius-card);
+  box-shadow: 6px 6px 0 var(--ink); padding: var(--space-6); min-height: 260px;
+}
+.folder-panel:focus-visible { outline-offset: 4px; }
+@media (min-width: 640px) { .folder-panel { padding: var(--space-8); } }
+.tab-white { --fill: var(--surface); --tint: var(--surface); }
+.tab-green { --fill: var(--land-4); --tint: var(--tint-green); }
+.tab-lime  { --fill: var(--land-5); --tint: var(--tint-lime); }
+.tab-sun   { --fill: var(--sun); --tint: var(--tint-sun); }
+.tab-sky   { --fill: var(--sky); --tint: var(--tint-sky); }
+.tab-leaf  { --fill: var(--land-2); --tint: var(--tint-leaf); }
+.tab-coral { --fill: var(--coral); --tint: var(--tint-coral); }
+.tab-ocean { --fill: var(--ocean); --tint: var(--tint-ocean); }
+
+/* ---------- Country map ---------- */
+.country-map.is-landlocked { background: var(--land-other); }
+.country-shape { fill: var(--land-4); stroke: var(--ink); stroke-width: 2.5; stroke-linejoin: round; vector-effect: non-scaling-stroke; }
+.city circle { fill: var(--surface); stroke: var(--ink); stroke-width: 2.5; }
+.city.is-capital circle { fill: var(--sun); stroke-width: 3; }
+.city text { font-family: var(--font-sans); font-weight: 700; fill: var(--ink); paint-order: stroke; stroke: var(--surface); stroke-width: 4px; stroke-linejoin: round; }
+.city.is-capital text { font-family: var(--font-display); font-weight: 800; }

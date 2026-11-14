@@ -14,6 +14,7 @@
  * Optional sources (written by scripts/importers/*, merged when present):
  *   - data/sources/wikidata.json    population, total area, highest point (CC0)
  *   - data/sources/worldbank.json   yearly population, GDP, life expectancy (CC BY 4.0)
+ *   - data/sources/wikidata-cities.json  largest cities per country (CC0) -> public/data/cities.json
  *     -> also writes public/data/series/<iso>.json for charts
  */
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
@@ -44,6 +45,7 @@ const worldbank = load('data/sources/worldbank.json');
 const wd = wikidata?.countries ?? {};
 const wb = worldbank?.series ?? {};
 const latest = (s) => (s?.length ? s[s.length - 1] : null);
+const citySource = load('data/sources/wikidata-cities.json');
 if (wikidata) console.log(`Merging Wikidata (retrieved ${wikidata.retrieved.slice(0, 10)})`);
 if (worldbank) console.log(`Merging World Bank (retrieved ${worldbank.retrieved.slice(0, 10)})`);
 
@@ -95,6 +97,7 @@ const out = countries
     demonym: c.demonyms?.eng?.m ?? null,
     hasShape: withShape.has(c.cca3),
     population: population(c.cca3),
+    gdp: latest(wb[c.cca3]?.gdp) ? { value: Math.round(latest(wb[c.cca3].gdp)[1]), year: latest(wb[c.cca3].gdp)[0], source: 'world-bank' } : null,
     gdpPerCapita: latest(wb[c.cca3]?.gdpPerCapita) ? { value: Math.round(latest(wb[c.cca3].gdpPerCapita)[1]), year: latest(wb[c.cca3].gdpPerCapita)[0], source: 'world-bank' } : null,
     lifeExpectancy: latest(wb[c.cca3]?.lifeExpectancy) ? { value: Math.round(latest(wb[c.cca3].lifeExpectancy)[1] * 10) / 10, year: latest(wb[c.cca3].lifeExpectancy)[0], source: 'world-bank' } : null,
     hasSeries: Boolean(wb[c.cca3]),
@@ -114,6 +117,13 @@ if (worldbank) {
     const { surfaceArea, ...charted } = series; // area isn't charted over time
     writeFileSync(`public/data/series/${iso.toLowerCase()}.json`, JSON.stringify({ retrieved: worldbank.retrieved.slice(0, 10), indicators: worldbank.indicators, series: charted }));
   }
+}
+
+// City markers for country maps, loaded on demand (one small file for all countries).
+if (citySource) {
+  const cities = Object.fromEntries(Object.entries(citySource.countries).map(([iso, list]) => [iso, list.map((c) => ({ n: c.name, lat: c.lat, lon: c.lon, p: c.population, ...(c.capital ? { c: 1 } : {}) }))]));
+  writeFileSync('public/data/cities.json', JSON.stringify(cities));
+  console.log(`Wrote cities for ${Object.keys(cities).length} countries`);
 }
 
 console.log(`Wrote ${out.length} countries (${out.filter((c) => c.sovereign).length} sovereign), ${withShape.size} with map shapes`);
