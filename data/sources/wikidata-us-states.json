@@ -1,0 +1,9255 @@
+{
+ "source": "wikidata",
+ "licence": "CC0-1.0",
+ "url": "https://query.wikidata.org/sparql",
+ "retrieved": "2026-11-14T08:57:34.305Z",
+ "states": {
+  "10": {
+   "name": "Delaware",
+   "wikidata": "Q1393",
+   "abbr": "DE",
+   "capital": {
+    "name": "Dover",
+    "wikidata": "Q33518",
+    "lat": 39.162,
+    "lon": -75.526
+   },
+   "population": 989948,
+   "area": 6452,
+   "cities": [
+    {
+     "wikidata": "Q174224",
+     "name": "Wilmington",
+     "lat": 39.748,
+     "lon": -75.551,
+     "population": 70898
+    },
+    {
+     "wikidata": "Q174224",
+     "name": "Wilmington",
+     "lat": 39.748,
+     "lon": -75.551,
+     "population": 70898
+    },
+    {
+     "wikidata": "Q33518",
+     "name": "Dover",
+     "lat": 39.162,
+     "lon": -75.526,
+     "population": 39403
+    },
+    {
+     "wikidata": "Q33518",
+     "name": "Dover",
+     "lat": 39.162,
+     "lon": -75.526,
+     "population": 39403
+    },
+    {
+     "wikidata": "Q506586",
+     "name": "Newark",
+     "lat": 39.683,
+     "lon": -75.75,
+     "population": 31454
+    },
+    {
+     "wikidata": "Q756141",
+     "name": "Middletown",
+     "lat": 39.45,
+     "lon": -75.716,
+     "population": 23192
+    },
+    {
+     "wikidata": "Q755632",
+     "name": "Bear",
+     "lat": 39.62,
+     "lon": -75.685,
+     "population": 23060
+    },
+    {
+     "wikidata": "Q755788",
+     "name": "Glasgow",
+     "lat": 39.604,
+     "lon": -75.743,
+     "population": 15288
+    },
+    {
+     "wikidata": "Q754431",
+     "name": "Brookside",
+     "lat": 39.669,
+     "lon": -75.718,
+     "population": 14974
+    },
+    {
+     "wikidata": "Q254769",
+     "name": "Hockessin",
+     "lat": 39.784,
+     "lon": -75.686,
+     "population": 13527
+    },
+    {
+     "wikidata": "Q755736",
+     "name": "Smyrna",
+     "lat": 39.297,
+     "lon": -75.608,
+     "population": 12883
+    },
+    {
+     "wikidata": "Q2058200",
+     "name": "Pike Creek Valley",
+     "lat": 39.736,
+     "lon": -75.698,
+     "population": 11692
+    },
+    {
+     "wikidata": "Q755600",
+     "name": "Milford",
+     "lat": 38.913,
+     "lon": -75.429,
+     "population": 11190
+    },
+    {
+     "wikidata": "Q755958",
+     "name": "Claymont",
+     "lat": 39.799,
+     "lon": -75.465,
+     "population": 9895
+    },
+    {
+     "wikidata": "Q754345",
+     "name": "Wilmington Manor",
+     "lat": 39.686,
+     "lon": -75.584,
+     "population": 8162
+    },
+    {
+     "wikidata": "Q754427",
+     "name": "North Star",
+     "lat": 39.759,
+     "lon": -75.732,
+     "population": 8056
+    },
+    {
+     "wikidata": "Q755663",
+     "name": "Seaford",
+     "lat": 38.645,
+     "lon": -75.616,
+     "population": 7957
+    },
+    {
+     "wikidata": "Q754376",
+     "name": "Pike Creek",
+     "lat": 39.735,
+     "lon": -75.697,
+     "population": 7898
+    },
+    {
+     "wikidata": "Q755587",
+     "name": "Georgetown",
+     "lat": 38.69,
+     "lon": -75.387,
+     "population": 7134
+    },
+    {
+     "wikidata": "Q753693",
+     "name": "Millsboro",
+     "lat": 38.589,
+     "lon": -75.293,
+     "population": 6863
+    },
+    {
+     "wikidata": "Q586805",
+     "name": "Edgemoor",
+     "lat": 39.75,
+     "lon": -75.5,
+     "population": 6635
+    },
+    {
+     "wikidata": "Q755400",
+     "name": "Elsmere",
+     "lat": 39.739,
+     "lon": -75.594,
+     "population": 6229
+    },
+    {
+     "wikidata": "Q755393",
+     "name": "New Castle",
+     "lat": 39.665,
+     "lon": -75.565,
+     "population": 5551
+    },
+    {
+     "wikidata": "Q755281",
+     "name": "Rising Sun-Lebanon",
+     "lat": 39.101,
+     "lon": -75.506,
+     "population": 4104
+    },
+    {
+     "wikidata": "Q755717",
+     "name": "Clayton",
+     "lat": 39.291,
+     "lon": -75.634,
+     "population": 3961
+    },
+    {
+     "wikidata": "Q755128",
+     "name": "Laurel",
+     "lat": 38.557,
+     "lon": -75.573,
+     "population": 3865
+    },
+    {
+     "wikidata": "Q755773",
+     "name": "Harrington",
+     "lat": 38.925,
+     "lon": -75.575,
+     "population": 3774
+    }
+   ]
+  },
+  "11": {
+   "name": "District of Columbia",
+   "wikidata": "Q3551781",
+   "abbr": "DC",
+   "capital": {
+    "name": "Washington, D.C.",
+    "wikidata": "Q61",
+    "lat": 38.895,
+    "lon": -77.037
+   },
+   "population": 689545,
+   "area": 177,
+   "cities": [
+    {
+     "wikidata": "Q61",
+     "name": "Washington, D.C.",
+     "lat": 38.895,
+     "lon": -77.037,
+     "population": 689545
+    },
+    {
+     "wikidata": "Q5149710",
+     "name": "Columbia Heights",
+     "lat": 38.926,
+     "lon": -77.029,
+     "population": 31696
+    },
+    {
+     "wikidata": "Q5149710",
+     "name": "Columbia Heights",
+     "lat": 38.926,
+     "lon": -77.029,
+     "population": 31696
+    },
+    {
+     "wikidata": "Q1468648",
+     "name": "Georgetown",
+     "lat": 38.905,
+     "lon": -77.063,
+     "population": 25621
+    },
+    {
+     "wikidata": "Q88221439",
+     "name": "Southwest",
+     "lat": 38.881,
+     "lon": -77.016,
+     "population": 23000
+    },
+    {
+     "wikidata": "Q2277455",
+     "name": "Shaw",
+     "lat": 38.912,
+     "lon": -77.021,
+     "population": 17639
+    },
+    {
+     "wikidata": "Q2057409",
+     "name": "Adams Morgan",
+     "lat": 38.923,
+     "lon": -77.043,
+     "population": 15830
+    },
+    {
+     "wikidata": "Q2019662",
+     "name": "Foggy Bottom",
+     "lat": 38.898,
+     "lon": -77.049,
+     "population": 14642
+    },
+    {
+     "wikidata": "Q4404091",
+     "name": "Chevy Chase",
+     "lat": 38.964,
+     "lon": -77.068,
+     "population": 9545
+    },
+    {
+     "wikidata": "Q7971932",
+     "name": "Washington Highlands",
+     "lat": 38.832,
+     "lon": -76.995,
+     "population": 8829
+    },
+    {
+     "wikidata": "Q2175554",
+     "name": "Logan Circle",
+     "lat": 38.91,
+     "lon": -77.03,
+     "population": 7976
+    },
+    {
+     "wikidata": "Q4928307",
+     "name": "Bloomingdale",
+     "lat": 38.916,
+     "lon": -77.011,
+     "population": 4980
+    },
+    {
+     "wikidata": "Q7138122",
+     "name": "Park View",
+     "lat": 38.932,
+     "lon": -77.024,
+     "population": 4913
+    },
+    {
+     "wikidata": "Q3298487",
+     "name": "Navy Yard",
+     "lat": 38.877,
+     "lon": -77.002,
+     "population": 2794
+    }
+   ]
+  },
+  "12": {
+   "name": "Florida",
+   "wikidata": "Q812",
+   "abbr": "FL",
+   "capital": {
+    "name": "Tallahassee",
+    "wikidata": "Q37043",
+    "lat": 30.438,
+    "lon": -84.281
+   },
+   "population": 21538187,
+   "area": 170304,
+   "cities": [
+    {
+     "wikidata": "Q16568",
+     "name": "Jacksonville",
+     "lat": 30.317,
+     "lon": -81.65,
+     "population": 949611
+    },
+    {
+     "wikidata": "Q8652",
+     "name": "Miami",
+     "lat": 25.774,
+     "lon": -80.194,
+     "population": 442241
+    },
+    {
+     "wikidata": "Q8652",
+     "name": "Miami",
+     "lat": 25.774,
+     "lon": -80.194,
+     "population": 442241
+    },
+    {
+     "wikidata": "Q49255",
+     "name": "Tampa",
+     "lat": 27.948,
+     "lon": -82.459,
+     "population": 384959
+    },
+    {
+     "wikidata": "Q49233",
+     "name": "Orlando",
+     "lat": 28.534,
+     "lon": -81.387,
+     "population": 334854
+    },
+    {
+     "wikidata": "Q49233",
+     "name": "Orlando",
+     "lat": 28.534,
+     "lon": -81.387,
+     "population": 334854
+    },
+    {
+     "wikidata": "Q49236",
+     "name": "St. Petersburg",
+     "lat": 27.773,
+     "lon": -82.64,
+     "population": 258308
+    },
+    {
+     "wikidata": "Q49276",
+     "name": "Hialeah",
+     "lat": 25.861,
+     "lon": -80.294,
+     "population": 223109
+    },
+    {
+     "wikidata": "Q667749",
+     "name": "Port St. Lucie",
+     "lat": 27.276,
+     "lon": -80.355,
+     "population": 204851
+    }
+   ]
+  },
+  "13": {
+   "name": "Georgia",
+   "wikidata": "Q1428",
+   "abbr": "GA",
+   "capital": {
+    "name": "Atlanta",
+    "wikidata": "Q23556",
+    "lat": 33.754,
+    "lon": -84.39
+   },
+   "population": 10711908,
+   "area": 153909,
+   "cities": [
+    {
+     "wikidata": "Q23556",
+     "name": "Atlanta",
+     "lat": 33.754,
+     "lon": -84.39,
+     "population": 498715
+    },
+    {
+     "wikidata": "Q23556",
+     "name": "Atlanta",
+     "lat": 33.754,
+     "lon": -84.39,
+     "population": 498715
+    },
+    {
+     "wikidata": "Q239870",
+     "name": "Columbus",
+     "lat": 32.492,
+     "lon": -84.94,
+     "population": 206922
+    },
+    {
+     "wikidata": "Q239870",
+     "name": "Columbus",
+     "lat": 32.492,
+     "lon": -84.94,
+     "population": 206922
+    },
+    {
+     "wikidata": "Q181962",
+     "name": "Augusta",
+     "lat": 33.47,
+     "lon": -81.975,
+     "population": 202081
+    },
+    {
+     "wikidata": "Q219656",
+     "name": "Macon",
+     "lat": 32.841,
+     "lon": -83.632,
+     "population": 157346
+    },
+    {
+     "wikidata": "Q219656",
+     "name": "Macon",
+     "lat": 32.841,
+     "lon": -83.632,
+     "population": 157346
+    },
+    {
+     "wikidata": "Q83813",
+     "name": "Savannah",
+     "lat": 32.051,
+     "lon": -81.104,
+     "population": 147780
+    },
+    {
+     "wikidata": "Q203263",
+     "name": "Athens",
+     "lat": 33.955,
+     "lon": -83.383,
+     "population": 127315
+    },
+    {
+     "wikidata": "Q203263",
+     "name": "Athens",
+     "lat": 33.955,
+     "lon": -83.383,
+     "population": 127315
+    },
+    {
+     "wikidata": "Q914884",
+     "name": "Sandy Springs",
+     "lat": 33.938,
+     "lon": -84.369,
+     "population": 108080
+    },
+    {
+     "wikidata": "Q914884",
+     "name": "Sandy Springs",
+     "lat": 33.938,
+     "lon": -84.369,
+     "population": 108080
+    },
+    {
+     "wikidata": "Q7567323",
+     "name": "South Fulton",
+     "lat": 33.601,
+     "lon": -84.551,
+     "population": 107436
+    },
+    {
+     "wikidata": "Q585176",
+     "name": "Roswell",
+     "lat": 34.034,
+     "lon": -84.344,
+     "population": 92833
+    },
+    {
+     "wikidata": "Q585176",
+     "name": "Roswell",
+     "lat": 34.034,
+     "lon": -84.344,
+     "population": 92833
+    },
+    {
+     "wikidata": "Q1191460",
+     "name": "Johns Creek",
+     "lat": 34.029,
+     "lon": -84.199,
+     "population": 82453
+    },
+    {
+     "wikidata": "Q1191460",
+     "name": "Johns Creek",
+     "lat": 34.029,
+     "lon": -84.199,
+     "population": 82453
+    },
+    {
+     "wikidata": "Q2003323",
+     "name": "Warner Robins",
+     "lat": 32.609,
+     "lon": -83.638,
+     "population": 80308
+    },
+    {
+     "wikidata": "Q2003323",
+     "name": "Warner Robins",
+     "lat": 32.609,
+     "lon": -83.638,
+     "population": 80308
+    },
+    {
+     "wikidata": "Q285599",
+     "name": "Albany",
+     "lat": 31.582,
+     "lon": -84.166,
+     "population": 69647
+    }
+   ]
+  },
+  "15": {
+   "name": "Hawaii",
+   "wikidata": "Q782",
+   "abbr": "HI",
+   "capital": {
+    "name": "Honolulu",
+    "wikidata": "Q18094",
+    "lat": 21.305,
+    "lon": -157.857
+   },
+   "population": 1455271,
+   "area": 28311,
+   "cities": [
+    {
+     "wikidata": "Q18094",
+     "name": "Honolulu",
+     "lat": 21.305,
+     "lon": -157.857,
+     "population": 350964
+    },
+    {
+     "wikidata": "Q4243048",
+     "name": "East Honolulu",
+     "lat": 21.289,
+     "lon": -157.717,
+     "population": 50922
+    },
+    {
+     "wikidata": "Q572052",
+     "name": "Pearl City",
+     "lat": 21.409,
+     "lon": -157.967,
+     "population": 45295
+    },
+    {
+     "wikidata": "Q216258",
+     "name": "Hilo",
+     "lat": 19.706,
+     "lon": -155.086,
+     "population": 44186
+    },
+    {
+     "wikidata": "Q216258",
+     "name": "Hilo",
+     "lat": 19.706,
+     "lon": -155.086,
+     "population": 44186
+    },
+    {
+     "wikidata": "Q637246",
+     "name": "Waipahu",
+     "lat": 21.392,
+     "lon": -158.011,
+     "population": 43485
+    },
+    {
+     "wikidata": "Q532459",
+     "name": "Kailua",
+     "lat": 21.397,
+     "lon": -157.739,
+     "population": 40514
+    },
+    {
+     "wikidata": "Q532459",
+     "name": "Kailua",
+     "lat": 21.397,
+     "lon": -157.739,
+     "population": 40514
+    },
+    {
+     "wikidata": "Q1484530",
+     "name": "Kaneohe",
+     "lat": 21.409,
+     "lon": -157.799,
+     "population": 37430
+    },
+    {
+     "wikidata": "Q1484530",
+     "name": "Kaneohe",
+     "lat": 21.409,
+     "lon": -157.799,
+     "population": 37430
+    },
+    {
+     "wikidata": "Q1012975",
+     "name": "Kahului",
+     "lat": 20.882,
+     "lon": -156.468,
+     "population": 28219
+    },
+    {
+     "wikidata": "Q2003096",
+     "name": "Mililani",
+     "lat": 21.451,
+     "lon": -158.016,
+     "population": 28121
+    },
+    {
+     "wikidata": "Q2102831",
+     "name": "ʻEwa Gentry",
+     "lat": 21.339,
+     "lon": -158.03,
+     "population": 25707
+    },
+    {
+     "wikidata": "Q1026771",
+     "name": "Kihei",
+     "lat": 20.759,
+     "lon": -156.457,
+     "population": 21423
+    },
+    {
+     "wikidata": "Q3110254",
+     "name": "Kapolei",
+     "lat": 21.335,
+     "lon": -158.081,
+     "population": 21411
+    },
+    {
+     "wikidata": "Q4243044",
+     "name": "Mililani Mauka",
+     "lat": 21.476,
+     "lon": -157.994,
+     "population": 21075
+    },
+    {
+     "wikidata": "Q384254",
+     "name": "Makakilo",
+     "lat": 21.347,
+     "lon": -158.086,
+     "population": 19877
+    },
+    {
+     "wikidata": "Q627970",
+     "name": "Kailua-Kona",
+     "lat": 19.65,
+     "lon": -155.994,
+     "population": 19713
+    },
+    {
+     "wikidata": "Q2016119",
+     "name": "Wahiawa",
+     "lat": 21.503,
+     "lon": -158.023,
+     "population": 18658
+    },
+    {
+     "wikidata": "Q2087831",
+     "name": "Wailuku",
+     "lat": 20.892,
+     "lon": -156.502,
+     "population": 17697
+    },
+    {
+     "wikidata": "Q2138861",
+     "name": "ʻEwa Beach",
+     "lat": 21.316,
+     "lon": -158.007,
+     "population": 16415
+    },
+    {
+     "wikidata": "Q2611824",
+     "name": "Halawa",
+     "lat": 21.378,
+     "lon": -157.923,
+     "population": 15016
+    },
+    {
+     "wikidata": "Q4243347",
+     "name": "Ocean Pointe",
+     "lat": 21.311,
+     "lon": -158.036,
+     "population": 14965
+    },
+    {
+     "wikidata": "Q1813416",
+     "name": "Hawaiian Paradise Park",
+     "lat": 19.59,
+     "lon": -154.976,
+     "population": 14957
+    },
+    {
+     "wikidata": "Q2430708",
+     "name": "Schofield Barracks",
+     "lat": 21.498,
+     "lon": -158.063,
+     "population": 14904
+    }
+   ]
+  },
+  "16": {
+   "name": "Idaho",
+   "wikidata": "Q1221",
+   "abbr": "ID",
+   "capital": {
+    "name": "Boise",
+    "wikidata": "Q35775",
+    "lat": 43.614,
+    "lon": -116.238
+   },
+   "population": 1839106,
+   "area": 216699,
+   "cities": [
+    {
+     "wikidata": "Q35775",
+     "name": "Boise",
+     "lat": 43.614,
+     "lon": -116.238,
+     "population": 235684
+    },
+    {
+     "wikidata": "Q1085274",
+     "name": "Meridian",
+     "lat": 43.614,
+     "lon": -116.399,
+     "population": 117635
+    },
+    {
+     "wikidata": "Q622633",
+     "name": "Nampa",
+     "lat": 43.575,
+     "lon": -116.564,
+     "population": 100200
+    },
+    {
+     "wikidata": "Q622633",
+     "name": "Nampa",
+     "lat": 43.575,
+     "lon": -116.564,
+     "population": 100200
+    },
+    {
+     "wikidata": "Q496360",
+     "name": "Idaho Falls",
+     "lat": 43.492,
+     "lon": -112.032,
+     "population": 64818
+    },
+    {
+     "wikidata": "Q849592",
+     "name": "Caldwell",
+     "lat": 43.658,
+     "lon": -116.68,
+     "population": 59996
+    },
+    {
+     "wikidata": "Q320729",
+     "name": "Pocatello",
+     "lat": 42.862,
+     "lon": -112.451,
+     "population": 56320
+    },
+    {
+     "wikidata": "Q499681",
+     "name": "Coeur d'Alene",
+     "lat": 47.693,
+     "lon": -116.78,
+     "population": 54628
+    },
+    {
+     "wikidata": "Q499681",
+     "name": "Coeur d’Alene",
+     "lat": 47.693,
+     "lon": -116.78,
+     "population": 54628
+    },
+    {
+     "wikidata": "Q548384",
+     "name": "Twin Falls",
+     "lat": 42.578,
+     "lon": -114.475,
+     "population": 51807
+    },
+    {
+     "wikidata": "Q818311",
+     "name": "Rexburg",
+     "lat": 43.826,
+     "lon": -111.784,
+     "population": 39409
+    },
+    {
+     "wikidata": "Q737345",
+     "name": "Post Falls",
+     "lat": 47.712,
+     "lon": -116.948,
+     "population": 38485
+    },
+    {
+     "wikidata": "Q505539",
+     "name": "Lewiston",
+     "lat": 46.4,
+     "lon": -117.001,
+     "population": 34203
+    },
+    {
+     "wikidata": "Q1516870",
+     "name": "Eagle",
+     "lat": 43.693,
+     "lon": -116.346,
+     "population": 30346
+    },
+    {
+     "wikidata": "Q499927",
+     "name": "Moscow",
+     "lat": 46.732,
+     "lon": -116.997,
+     "population": 25435
+    },
+    {
+     "wikidata": "Q1515177",
+     "name": "Kuna",
+     "lat": 43.493,
+     "lon": -116.419,
+     "population": 24011
+    },
+    {
+     "wikidata": "Q937598",
+     "name": "Ammon",
+     "lat": 43.476,
+     "lon": -111.968,
+     "population": 17694
+    },
+    {
+     "wikidata": "Q1519589",
+     "name": "Mountain Home",
+     "lat": 43.137,
+     "lon": -115.694,
+     "population": 15979
+    },
+    {
+     "wikidata": "Q1515168",
+     "name": "Hayden",
+     "lat": 47.757,
+     "lon": -116.789,
+     "population": 15570
+    },
+    {
+     "wikidata": "Q1515246",
+     "name": "Chubbuck",
+     "lat": 42.922,
+     "lon": -112.468,
+     "population": 15570
+    }
+   ]
+  },
+  "17": {
+   "name": "Illinois",
+   "wikidata": "Q1204",
+   "abbr": "IL",
+   "capital": {
+    "name": "Springfield",
+    "wikidata": "Q28515",
+    "lat": 39.797,
+    "lon": -89.645
+   },
+   "population": 12812508,
+   "area": 149998,
+   "cities": [
+    {
+     "wikidata": "Q1297",
+     "name": "Chicago",
+     "lat": 41.882,
+     "lon": -87.628,
+     "population": 2746388
+    },
+    {
+     "wikidata": "Q22595",
+     "name": "Aurora",
+     "lat": 41.76,
+     "lon": -88.299,
+     "population": 180542
+    },
+    {
+     "wikidata": "Q40345",
+     "name": "Joliet",
+     "lat": 41.525,
+     "lon": -88.083,
+     "population": 150362
+    },
+    {
+     "wikidata": "Q40345",
+     "name": "Joliet",
+     "lat": 41.525,
+     "lon": -88.083,
+     "population": 150362
+    },
+    {
+     "wikidata": "Q243007",
+     "name": "Naperville",
+     "lat": 41.748,
+     "lon": -88.166,
+     "population": 149540
+    },
+    {
+     "wikidata": "Q243007",
+     "name": "Naperville",
+     "lat": 41.748,
+     "lon": -88.166,
+     "population": 149540
+    },
+    {
+     "wikidata": "Q233892",
+     "name": "Rockford",
+     "lat": 42.271,
+     "lon": -89.094,
+     "population": 148655
+    },
+    {
+     "wikidata": "Q499887",
+     "name": "Elgin",
+     "lat": 42.037,
+     "lon": -88.281,
+     "population": 114797
+    },
+    {
+     "wikidata": "Q28515",
+     "name": "Springfield",
+     "lat": 39.797,
+     "lon": -89.645,
+     "population": 114394
+    },
+    {
+     "wikidata": "Q233129",
+     "name": "Peoria",
+     "lat": 40.693,
+     "lon": -89.59,
+     "population": 113150
+    },
+    {
+     "wikidata": "Q233129",
+     "name": "Peoria",
+     "lat": 40.693,
+     "lon": -89.59,
+     "population": 113150
+    }
+   ]
+  },
+  "18": {
+   "name": "Indiana",
+   "wikidata": "Q1415",
+   "abbr": "IN",
+   "capital": {
+    "name": "Indianapolis",
+    "wikidata": "Q6346",
+    "lat": 39.769,
+    "lon": -86.158
+   },
+   "population": 6785528,
+   "area": 94321,
+   "cities": [
+    {
+     "wikidata": "Q6346",
+     "name": "Indianapolis",
+     "lat": 39.769,
+     "lon": -86.158,
+     "population": 887642
+    },
+    {
+     "wikidata": "Q49268",
+     "name": "Fort Wayne",
+     "lat": 41.08,
+     "lon": -85.139,
+     "population": 263886
+    },
+    {
+     "wikidata": "Q49268",
+     "name": "Fort Wayne",
+     "lat": 41.08,
+     "lon": -85.139,
+     "population": 263886
+    },
+    {
+     "wikidata": "Q486459",
+     "name": "Evansville",
+     "lat": 37.975,
+     "lon": -87.556,
+     "population": 117298
+    },
+    {
+     "wikidata": "Q486877",
+     "name": "South Bend",
+     "lat": 41.676,
+     "lon": -86.25,
+     "population": 103453
+    },
+    {
+     "wikidata": "Q537853",
+     "name": "Carmel",
+     "lat": 39.967,
+     "lon": -86.1,
+     "population": 99757
+    },
+    {
+     "wikidata": "Q2284046",
+     "name": "Fishers",
+     "lat": 39.956,
+     "lon": -86.013,
+     "population": 98977
+    },
+    {
+     "wikidata": "Q2284046",
+     "name": "Fishers",
+     "lat": 39.956,
+     "lon": -86.013,
+     "population": 98977
+    },
+    {
+     "wikidata": "Q490385",
+     "name": "Bloomington",
+     "lat": 39.167,
+     "lon": -86.535,
+     "population": 79168
+    },
+    {
+     "wikidata": "Q856860",
+     "name": "Hammond",
+     "lat": 41.611,
+     "lon": -87.493,
+     "population": 77879
+    },
+    {
+     "wikidata": "Q856860",
+     "name": "Hammond",
+     "lat": 41.611,
+     "lon": -87.493,
+     "population": 77879
+    }
+   ]
+  },
+  "19": {
+   "name": "Iowa",
+   "wikidata": "Q1546",
+   "abbr": "IA",
+   "capital": {
+    "name": "Des Moines",
+    "wikidata": "Q39709",
+    "lat": 41.591,
+    "lon": -93.621
+   },
+   "population": 3190369,
+   "area": 145746,
+   "cities": [
+    {
+     "wikidata": "Q39709",
+     "name": "Des Moines",
+     "lat": 41.591,
+     "lon": -93.621,
+     "population": 214133
+    },
+    {
+     "wikidata": "Q486439",
+     "name": "Cedar Rapids",
+     "lat": 41.983,
+     "lon": -91.669,
+     "population": 137710
+    },
+    {
+     "wikidata": "Q26887",
+     "name": "Davenport",
+     "lat": 41.543,
+     "lon": -90.591,
+     "population": 101724
+    },
+    {
+     "wikidata": "Q489255",
+     "name": "Sioux City",
+     "lat": 42.496,
+     "lon": -96.405,
+     "population": 85797
+    },
+    {
+     "wikidata": "Q487977",
+     "name": "Iowa City",
+     "lat": 41.656,
+     "lon": -91.525,
+     "population": 74828
+    },
+    {
+     "wikidata": "Q923861",
+     "name": "West Des Moines",
+     "lat": 41.575,
+     "lon": -93.709,
+     "population": 68723
+    },
+    {
+     "wikidata": "Q556989",
+     "name": "Ankeny",
+     "lat": 41.727,
+     "lon": -93.604,
+     "population": 67887
+    },
+    {
+     "wikidata": "Q556989",
+     "name": "Ankeny",
+     "lat": 41.727,
+     "lon": -93.604,
+     "population": 67887
+    },
+    {
+     "wikidata": "Q496381",
+     "name": "Waterloo",
+     "lat": 42.492,
+     "lon": -92.346,
+     "population": 67314
+    },
+    {
+     "wikidata": "Q470273",
+     "name": "Ames",
+     "lat": 42.027,
+     "lon": -93.632,
+     "population": 66427
+    },
+    {
+     "wikidata": "Q695565",
+     "name": "Council Bluffs",
+     "lat": 41.253,
+     "lon": -95.862,
+     "population": 62799
+    },
+    {
+     "wikidata": "Q493794",
+     "name": "Dubuque",
+     "lat": 42.504,
+     "lon": -90.687,
+     "population": 59667
+    },
+    {
+     "wikidata": "Q985556",
+     "name": "Urbandale",
+     "lat": 41.636,
+     "lon": -93.736,
+     "population": 45580
+    },
+    {
+     "wikidata": "Q955933",
+     "name": "Marion",
+     "lat": 42.034,
+     "lon": -91.598,
+     "population": 41535
+    },
+    {
+     "wikidata": "Q582212",
+     "name": "Cedar Falls",
+     "lat": 42.524,
+     "lon": -92.446,
+     "population": 40713
+    },
+    {
+     "wikidata": "Q582212",
+     "name": "Cedar Falls",
+     "lat": 42.524,
+     "lon": -92.446,
+     "population": 40713
+    },
+    {
+     "wikidata": "Q832387",
+     "name": "Bettendorf",
+     "lat": 41.55,
+     "lon": -90.494,
+     "population": 39102
+    }
+   ]
+  },
+  "20": {
+   "name": "Kansas",
+   "wikidata": "Q1558",
+   "abbr": "KS",
+   "capital": {
+    "name": "Topeka",
+    "wikidata": "Q41057",
+    "lat": 39.048,
+    "lon": -95.678
+   },
+   "population": 2937880,
+   "area": 213100,
+   "cities": [
+    {
+     "wikidata": "Q49266",
+     "name": "Wichita",
+     "lat": 37.689,
+     "lon": -97.336,
+     "population": 397532
+    },
+    {
+     "wikidata": "Q500481",
+     "name": "Overland Park",
+     "lat": 38.94,
+     "lon": -94.681,
+     "population": 197238
+    },
+    {
+     "wikidata": "Q500481",
+     "name": "Overland Park",
+     "lat": 38.94,
+     "lon": -94.681,
+     "population": 197238
+    },
+    {
+     "wikidata": "Q486472",
+     "name": "Kansas City",
+     "lat": 39.107,
+     "lon": -94.676,
+     "population": 156607
+    },
+    {
+     "wikidata": "Q593022",
+     "name": "Olathe",
+     "lat": 38.881,
+     "lon": -94.803,
+     "population": 141290
+    },
+    {
+     "wikidata": "Q593022",
+     "name": "Olathe",
+     "lat": 38.881,
+     "lon": -94.803,
+     "population": 141290
+    },
+    {
+     "wikidata": "Q41057",
+     "name": "Topeka",
+     "lat": 39.048,
+     "lon": -95.678,
+     "population": 126587
+    },
+    {
+     "wikidata": "Q493840",
+     "name": "Lawrence",
+     "lat": 38.972,
+     "lon": -95.235,
+     "population": 94934
+    },
+    {
+     "wikidata": "Q986627",
+     "name": "Shawnee",
+     "lat": 39.013,
+     "lon": -94.766,
+     "population": 67311
+    },
+    {
+     "wikidata": "Q992536",
+     "name": "Lenexa",
+     "lat": 38.965,
+     "lon": -94.759,
+     "population": 57434
+    },
+    {
+     "wikidata": "Q856841",
+     "name": "Manhattan",
+     "lat": 39.19,
+     "lon": -96.587,
+     "population": 54100
+    },
+    {
+     "wikidata": "Q1650620",
+     "name": "Salina",
+     "lat": 38.824,
+     "lon": -97.607,
+     "population": 46889
+    },
+    {
+     "wikidata": "Q1650620",
+     "name": "Salina",
+     "lat": 38.824,
+     "lon": -97.607,
+     "population": 46889
+    },
+    {
+     "wikidata": "Q958555",
+     "name": "Hutchinson",
+     "lat": 38.066,
+     "lon": -97.924,
+     "population": 40006
+    },
+    {
+     "wikidata": "Q1762867",
+     "name": "Leavenworth",
+     "lat": 39.311,
+     "lon": -94.922,
+     "population": 37351
+    },
+    {
+     "wikidata": "Q1947796",
+     "name": "Leawood",
+     "lat": 38.921,
+     "lon": -94.622,
+     "population": 33902
+    },
+    {
+     "wikidata": "Q983784",
+     "name": "Garden City",
+     "lat": 37.975,
+     "lon": -100.864,
+     "population": 28151
+    },
+    {
+     "wikidata": "Q647127",
+     "name": "Dodge City",
+     "lat": 37.76,
+     "lon": -100.018,
+     "population": 27788
+    },
+    {
+     "wikidata": "Q137775",
+     "name": "Derby",
+     "lat": 37.553,
+     "lon": -97.261,
+     "population": 25625
+    },
+    {
+     "wikidata": "Q1583523",
+     "name": "Emporia",
+     "lat": 38.408,
+     "lon": -96.187,
+     "population": 24139
+    },
+    {
+     "wikidata": "Q2232927",
+     "name": "Gardner",
+     "lat": 38.813,
+     "lon": -94.919,
+     "population": 23287
+    }
+   ]
+  },
+  "21": {
+   "name": "Kentucky",
+   "wikidata": "Q1603",
+   "abbr": "KY",
+   "capital": {
+    "name": "Frankfort",
+    "wikidata": "Q28603",
+    "lat": 38.197,
+    "lon": -84.863
+   },
+   "population": 4505836,
+   "area": 104659,
+   "cities": [
+    {
+     "wikidata": "Q49241",
+     "name": "Lexington",
+     "lat": 38.05,
+     "lon": -84.459,
+     "population": 322570
+    },
+    {
+     "wikidata": "Q49241",
+     "name": "Lexington",
+     "lat": 38.05,
+     "lon": -84.459,
+     "population": 322570
+    },
+    {
+     "wikidata": "Q43668",
+     "name": "Louisville",
+     "lat": 38.256,
+     "lon": -85.751,
+     "population": 246161
+    },
+    {
+     "wikidata": "Q43668",
+     "name": "Louisville",
+     "lat": 38.256,
+     "lon": -85.751,
+     "population": 246161
+    },
+    {
+     "wikidata": "Q694545",
+     "name": "Bowling Green",
+     "lat": 36.982,
+     "lon": -86.444,
+     "population": 72294
+    },
+    {
+     "wikidata": "Q494295",
+     "name": "Owensboro",
+     "lat": 37.758,
+     "lon": -87.118,
+     "population": 60183
+    },
+    {
+     "wikidata": "Q494295",
+     "name": "Owensboro",
+     "lat": 37.758,
+     "lon": -87.118,
+     "population": 60183
+    },
+    {
+     "wikidata": "Q747599",
+     "name": "Covington",
+     "lat": 39.065,
+     "lon": -84.51,
+     "population": 40961
+    },
+    {
+     "wikidata": "Q747599",
+     "name": "Covington",
+     "lat": 39.065,
+     "lon": -84.51,
+     "population": 40961
+    },
+    {
+     "wikidata": "Q877247",
+     "name": "Georgetown",
+     "lat": 38.21,
+     "lon": -84.56,
+     "population": 37086
+    },
+    {
+     "wikidata": "Q757390",
+     "name": "Richmond",
+     "lat": 37.745,
+     "lon": -84.294,
+     "population": 34585
+    },
+    {
+     "wikidata": "Q985560",
+     "name": "Florence",
+     "lat": 38.993,
+     "lon": -84.642,
+     "population": 31946
+    },
+    {
+     "wikidata": "Q946319",
+     "name": "Elizabethtown",
+     "lat": 37.7,
+     "lon": -85.867,
+     "population": 31394
+    },
+    {
+     "wikidata": "Q946319",
+     "name": "Elizabethtown",
+     "lat": 37.7,
+     "lon": -85.867,
+     "population": 31394
+    },
+    {
+     "wikidata": "Q845461",
+     "name": "Hopkinsville",
+     "lat": 36.854,
+     "lon": -87.489,
+     "population": 31180
+    },
+    {
+     "wikidata": "Q988752",
+     "name": "Nicholasville",
+     "lat": 37.883,
+     "lon": -84.577,
+     "population": 31093
+    },
+    {
+     "wikidata": "Q1985848",
+     "name": "Independence",
+     "lat": 38.954,
+     "lon": -84.547,
+     "population": 28676
+    },
+    {
+     "wikidata": "Q28603",
+     "name": "Frankfort",
+     "lat": 38.197,
+     "lon": -84.863,
+     "population": 28602
+    },
+    {
+     "wikidata": "Q2018277",
+     "name": "Jeffersontown",
+     "lat": 38.206,
+     "lon": -85.574,
+     "population": 28474
+    }
+   ]
+  },
+  "22": {
+   "name": "Louisiana",
+   "wikidata": "Q1588",
+   "abbr": "LA",
+   "capital": {
+    "name": "Baton Rouge",
+    "wikidata": "Q28218",
+    "lat": 30.448,
+    "lon": -91.179
+   },
+   "population": 4657757,
+   "area": 135382,
+   "cities": [
+    {
+     "wikidata": "Q34404",
+     "name": "New Orleans",
+     "lat": 29.976,
+     "lon": -90.078,
+     "population": 383997
+    },
+    {
+     "wikidata": "Q34404",
+     "name": "New Orleans",
+     "lat": 29.976,
+     "lon": -90.078,
+     "population": 383997
+    },
+    {
+     "wikidata": "Q28218",
+     "name": "Baton Rouge",
+     "lat": 30.448,
+     "lon": -91.179,
+     "population": 227470
+    },
+    {
+     "wikidata": "Q80517",
+     "name": "Shreveport",
+     "lat": 32.508,
+     "lon": -93.763,
+     "population": 187593
+    },
+    {
+     "wikidata": "Q126661",
+     "name": "Metairie",
+     "lat": 29.998,
+     "lon": -90.177,
+     "population": 143507
+    },
+    {
+     "wikidata": "Q128891",
+     "name": "Lafayette",
+     "lat": 30.243,
+     "lon": -92.013,
+     "population": 121374
+    },
+    {
+     "wikidata": "Q70735459",
+     "name": "St. George",
+     "lat": 30.365,
+     "lon": -91.028,
+     "population": 86000
+    },
+    {
+     "wikidata": "Q864106",
+     "name": "Lake Charles",
+     "lat": 30.215,
+     "lon": -93.209,
+     "population": 84872
+    },
+    {
+     "wikidata": "Q991464",
+     "name": "Kenner",
+     "lat": 29.994,
+     "lon": -90.242,
+     "population": 66448
+    },
+    {
+     "wikidata": "Q877897",
+     "name": "Bossier City",
+     "lat": 32.518,
+     "lon": -93.691,
+     "population": 62701
+    },
+    {
+     "wikidata": "Q947115",
+     "name": "Monroe",
+     "lat": 32.509,
+     "lon": -92.118,
+     "population": 47702
+    },
+    {
+     "wikidata": "Q985351",
+     "name": "Alexandria",
+     "lat": 31.311,
+     "lon": -92.445,
+     "population": 45275
+    },
+    {
+     "wikidata": "Q388503",
+     "name": "Houma",
+     "lat": 29.596,
+     "lon": -90.72,
+     "population": 33406
+    },
+    {
+     "wikidata": "Q7238075",
+     "name": "Prairieville",
+     "lat": 30.303,
+     "lon": -90.972,
+     "population": 33197
+    },
+    {
+     "wikidata": "Q1902531",
+     "name": "Marrero",
+     "lat": 29.886,
+     "lon": -90.11,
+     "population": 32382
+    },
+    {
+     "wikidata": "Q3887802",
+     "name": "Central",
+     "lat": 30.554,
+     "lon": -91.037,
+     "population": 29565
+    },
+    {
+     "wikidata": "Q3887802",
+     "name": "Central",
+     "lat": 30.554,
+     "lon": -91.037,
+     "population": 29565
+    },
+    {
+     "wikidata": "Q2279189",
+     "name": "LaPlace",
+     "lat": 30.066,
+     "lon": -90.48,
+     "population": 28841
+    },
+    {
+     "wikidata": "Q988156",
+     "name": "Slidell",
+     "lat": 30.275,
+     "lon": -89.781,
+     "population": 28781
+    },
+    {
+     "wikidata": "Q988156",
+     "name": "Slidell",
+     "lat": 30.275,
+     "lon": -89.781,
+     "population": 28781
+    },
+    {
+     "wikidata": "Q991355",
+     "name": "New Iberia",
+     "lat": 30.004,
+     "lon": -91.818,
+     "population": 28555
+    }
+   ]
+  },
+  "23": {
+   "name": "Maine",
+   "wikidata": "Q724",
+   "abbr": "ME",
+   "capital": {
+    "name": "Augusta",
+    "wikidata": "Q28206",
+    "lat": 44.311,
+    "lon": -69.779
+   },
+   "population": 1362359,
+   "area": 91646,
+   "cities": [
+    {
+     "wikidata": "Q49201",
+     "name": "Portland",
+     "lat": 43.66,
+     "lon": -70.255,
+     "population": 68408
+    },
+    {
+     "wikidata": "Q49201",
+     "name": "Portland",
+     "lat": 43.66,
+     "lon": -70.255,
+     "population": 68408
+    },
+    {
+     "wikidata": "Q501170",
+     "name": "Lewiston",
+     "lat": 44.101,
+     "lon": -70.215,
+     "population": 37121
+    },
+    {
+     "wikidata": "Q327012",
+     "name": "Bangor",
+     "lat": 44.803,
+     "lon": -68.767,
+     "population": 31753
+    },
+    {
+     "wikidata": "Q1000166",
+     "name": "South Portland",
+     "lat": 43.632,
+     "lon": -70.273,
+     "population": 26498
+    },
+    {
+     "wikidata": "Q1000166",
+     "name": "South Portland",
+     "lat": 43.632,
+     "lon": -70.273,
+     "population": 26498
+    },
+    {
+     "wikidata": "Q758545",
+     "name": "Auburn",
+     "lat": 44.089,
+     "lon": -70.241,
+     "population": 24061
+    },
+    {
+     "wikidata": "Q856938",
+     "name": "Biddeford",
+     "lat": 43.474,
+     "lon": -70.446,
+     "population": 22552
+    },
+    {
+     "wikidata": "Q2076311",
+     "name": "Scarborough",
+     "lat": 43.578,
+     "lon": -70.322,
+     "population": 22135
+    },
+    {
+     "wikidata": "Q2076311",
+     "name": "Scarborough",
+     "lat": 43.578,
+     "lon": -70.322,
+     "population": 22135
+    },
+    {
+     "wikidata": "Q2018200",
+     "name": "Sanford",
+     "lat": 43.44,
+     "lon": -70.773,
+     "population": 21982
+    },
+    {
+     "wikidata": "Q518466",
+     "name": "Brunswick",
+     "lat": 43.911,
+     "lon": -69.963,
+     "population": 21756
+    },
+    {
+     "wikidata": "Q518466",
+     "name": "Brunswick",
+     "lat": 43.911,
+     "lon": -69.963,
+     "population": 21756
+    },
+    {
+     "wikidata": "Q663724",
+     "name": "Westbrook",
+     "lat": 43.685,
+     "lon": -70.357,
+     "population": 20400
+    },
+    {
+     "wikidata": "Q1001891",
+     "name": "Saco",
+     "lat": 43.511,
+     "lon": -70.445,
+     "population": 20381
+    },
+    {
+     "wikidata": "Q1001891",
+     "name": "Saco",
+     "lat": 43.511,
+     "lon": -70.445,
+     "population": 20381
+    },
+    {
+     "wikidata": "Q28206",
+     "name": "Augusta",
+     "lat": 44.311,
+     "lon": -69.779,
+     "population": 18899
+    },
+    {
+     "wikidata": "Q1628565",
+     "name": "Windham",
+     "lat": 43.811,
+     "lon": -70.417,
+     "population": 18434
+    },
+    {
+     "wikidata": "Q281079",
+     "name": "Gorham",
+     "lat": 43.679,
+     "lon": -70.444,
+     "population": 18336
+    },
+    {
+     "wikidata": "Q997170",
+     "name": "Waterville",
+     "lat": 44.552,
+     "lon": -69.646,
+     "population": 15828
+    },
+    {
+     "wikidata": "Q997170",
+     "name": "Waterville",
+     "lat": 44.552,
+     "lon": -69.646,
+     "population": 15828
+    },
+    {
+     "wikidata": "Q2323126",
+     "name": "York",
+     "lat": 43.163,
+     "lon": -70.649,
+     "population": 13723
+    },
+    {
+     "wikidata": "Q2323206",
+     "name": "Falmouth",
+     "lat": 43.729,
+     "lon": -70.242,
+     "population": 12444
+    },
+    {
+     "wikidata": "Q1994665",
+     "name": "Kennebunk",
+     "lat": 43.469,
+     "lon": -70.547,
+     "population": 11536
+    },
+    {
+     "wikidata": "Q2446241",
+     "name": "Wells",
+     "lat": 43.32,
+     "lon": -70.612,
+     "population": 11314
+    },
+    {
+     "wikidata": "Q2736049",
+     "name": "Orono",
+     "lat": 44.883,
+     "lon": -68.672,
+     "population": 11183
+    },
+    {
+     "wikidata": "Q2736049",
+     "name": "Orono",
+     "lat": 44.883,
+     "lon": -68.672,
+     "population": 11183
+    },
+    {
+     "wikidata": "Q3346361",
+     "name": "Standish",
+     "lat": 43.736,
+     "lon": -70.552,
+     "population": 10244
+    },
+    {
+     "wikidata": "Q3887837",
+     "name": "Orono",
+     "lat": 44.889,
+     "lon": -68.671,
+     "population": 10185
+    }
+   ]
+  },
+  "24": {
+   "name": "Maryland",
+   "wikidata": "Q1391",
+   "abbr": "MD",
+   "capital": {
+    "name": "Annapolis",
+    "wikidata": "Q28271",
+    "lat": 38.979,
+    "lon": -76.492
+   },
+   "population": 6177224,
+   "area": 32131,
+   "cities": [
+    {
+     "wikidata": "Q5092",
+     "name": "Baltimore",
+     "lat": 39.286,
+     "lon": -76.615,
+     "population": 585708
+    },
+    {
+     "wikidata": "Q5092",
+     "name": "Baltimore",
+     "lat": 39.286,
+     "lon": -76.615,
+     "population": 585708
+    },
+    {
+     "wikidata": "Q397905",
+     "name": "Columbia",
+     "lat": 39.216,
+     "lon": -76.858,
+     "population": 104681
+    },
+    {
+     "wikidata": "Q755901",
+     "name": "Germantown",
+     "lat": 39.173,
+     "lon": -77.272,
+     "population": 91249
+    },
+    {
+     "wikidata": "Q755056",
+     "name": "Waldorf",
+     "lat": 38.646,
+     "lon": -76.898,
+     "population": 81410
+    },
+    {
+     "wikidata": "Q755741",
+     "name": "Silver Spring",
+     "lat": 39.002,
+     "lon": -77.021,
+     "population": 81015
+    },
+    {
+     "wikidata": "Q472675",
+     "name": "Frederick",
+     "lat": 39.426,
+     "lon": -77.42,
+     "population": 78171
+    },
+    {
+     "wikidata": "Q730938",
+     "name": "Ellicott City",
+     "lat": 39.268,
+     "lon": -76.799,
+     "population": 75947
+    },
+    {
+     "wikidata": "Q754452",
+     "name": "Glen Burnie",
+     "lat": 39.16,
+     "lon": -76.611,
+     "population": 72891
+    },
+    {
+     "wikidata": "Q752719",
+     "name": "Gaithersburg",
+     "lat": 39.14,
+     "lon": -77.193,
+     "population": 69657
+    },
+    {
+     "wikidata": "Q752719",
+     "name": "Gaithersburg",
+     "lat": 39.14,
+     "lon": -77.193,
+     "population": 69657
+    },
+    {
+     "wikidata": "Q584451",
+     "name": "Bethesda",
+     "lat": 38.985,
+     "lon": -77.095,
+     "population": 68056
+    },
+    {
+     "wikidata": "Q754390",
+     "name": "Dundalk",
+     "lat": 39.266,
+     "lon": -76.505,
+     "population": 67796
+    },
+    {
+     "wikidata": "Q327022",
+     "name": "Rockville",
+     "lat": 39.084,
+     "lon": -77.153,
+     "population": 67117
+    },
+    {
+     "wikidata": "Q327022",
+     "name": "Rockville",
+     "lat": 39.084,
+     "lon": -77.153,
+     "population": 67117
+    },
+    {
+     "wikidata": "Q755615",
+     "name": "Towson",
+     "lat": 39.393,
+     "lon": -76.609,
+     "population": 59553
+    },
+    {
+     "wikidata": "Q755142",
+     "name": "Bowie",
+     "lat": 38.943,
+     "lon": -76.73,
+     "population": 58329
+    },
+    {
+     "wikidata": "Q753461",
+     "name": "Wheaton–Glenmont",
+     "lat": 39.058,
+     "lon": -77.053,
+     "population": 57694
+    },
+    {
+     "wikidata": "Q753325",
+     "name": "Bel Air South",
+     "lat": 39.503,
+     "lon": -76.319,
+     "population": 57648
+    },
+    {
+     "wikidata": "Q755156",
+     "name": "Severn",
+     "lat": 39.128,
+     "lon": -76.687,
+     "population": 57118
+    },
+    {
+     "wikidata": "Q7991947",
+     "name": "Wheaton",
+     "lat": 39.04,
+     "lon": -77.055,
+     "population": 52150
+    },
+    {
+     "wikidata": "Q753733",
+     "name": "Aspen Hill",
+     "lat": 39.079,
+     "lon": -77.073,
+     "population": 51063
+    },
+    {
+     "wikidata": "Q602896",
+     "name": "North Bethesda",
+     "lat": 39.037,
+     "lon": -77.12,
+     "population": 50094
+    },
+    {
+     "wikidata": "Q755844",
+     "name": "Potomac",
+     "lat": 39.018,
+     "lon": -77.209,
+     "population": 47018
+    },
+    {
+     "wikidata": "Q755844",
+     "name": "Potomac",
+     "lat": 39.018,
+     "lon": -77.209,
+     "population": 47018
+    },
+    {
+     "wikidata": "Q755075",
+     "name": "Catonsville",
+     "lat": 39.272,
+     "lon": -76.732,
+     "population": 44701
+    },
+    {
+     "wikidata": "Q755559",
+     "name": "Hagerstown",
+     "lat": 39.643,
+     "lon": -77.72,
+     "population": 43527
+    }
+   ]
+  },
+  "25": {
+   "name": "Massachusetts",
+   "wikidata": "Q771",
+   "abbr": "MA",
+   "capital": {
+    "name": "Boston",
+    "wikidata": "Q100",
+    "lat": 42.36,
+    "lon": -71.058
+   },
+   "population": 7029917,
+   "area": 27336,
+   "cities": [
+    {
+     "wikidata": "Q100",
+     "name": "Boston",
+     "lat": 42.36,
+     "lon": -71.058,
+     "population": 675647
+    },
+    {
+     "wikidata": "Q100",
+     "name": "Boston",
+     "lat": 42.36,
+     "lon": -71.058,
+     "population": 675647
+    },
+    {
+     "wikidata": "Q49179",
+     "name": "Worcester",
+     "lat": 42.271,
+     "lon": -71.799,
+     "population": 206518
+    },
+    {
+     "wikidata": "Q49179",
+     "name": "Worcester",
+     "lat": 42.271,
+     "lon": -71.799,
+     "population": 206518
+    },
+    {
+     "wikidata": "Q49158",
+     "name": "Springfield",
+     "lat": 42.112,
+     "lon": -72.547,
+     "population": 155929
+    },
+    {
+     "wikidata": "Q49111",
+     "name": "Cambridge",
+     "lat": 42.375,
+     "lon": -71.106,
+     "population": 118403
+    },
+    {
+     "wikidata": "Q49111",
+     "name": "Cambridge",
+     "lat": 42.375,
+     "lon": -71.106,
+     "population": 118403
+    },
+    {
+     "wikidata": "Q49162",
+     "name": "Lowell",
+     "lat": 42.639,
+     "lon": -71.315,
+     "population": 115554
+    },
+    {
+     "wikidata": "Q49193",
+     "name": "Brockton",
+     "lat": 42.083,
+     "lon": -71.019,
+     "population": 105643
+    },
+    {
+     "wikidata": "Q49143",
+     "name": "Quincy",
+     "lat": 42.25,
+     "lon": -71,
+     "population": 101636
+    },
+    {
+     "wikidata": "Q49188",
+     "name": "Lynn",
+     "lat": 42.467,
+     "lon": -70.95,
+     "population": 101253
+    },
+    {
+     "wikidata": "Q49147",
+     "name": "New Bedford",
+     "lat": 41.636,
+     "lon": -70.935,
+     "population": 101079
+    },
+    {
+     "wikidata": "Q49194",
+     "name": "Fall River",
+     "lat": 41.701,
+     "lon": -71.156,
+     "population": 94000
+    },
+    {
+     "wikidata": "Q49194",
+     "name": "Fall River",
+     "lat": 41.701,
+     "lon": -71.156,
+     "population": 94000
+    },
+    {
+     "wikidata": "Q49163",
+     "name": "Lawrence",
+     "lat": 42.707,
+     "lon": -71.163,
+     "population": 89143
+    },
+    {
+     "wikidata": "Q49196",
+     "name": "Newton",
+     "lat": 42.337,
+     "lon": -71.21,
+     "population": 88923
+    },
+    {
+     "wikidata": "Q49199",
+     "name": "Somerville",
+     "lat": 42.388,
+     "lon": -71.1,
+     "population": 81045
+    },
+    {
+     "wikidata": "Q988568",
+     "name": "Framingham",
+     "lat": 42.279,
+     "lon": -71.417,
+     "population": 72362
+    },
+    {
+     "wikidata": "Q54132",
+     "name": "Haverhill",
+     "lat": 42.783,
+     "lon": -71.083,
+     "population": 67787
+    },
+    {
+     "wikidata": "Q54132",
+     "name": "Haverhill",
+     "lat": 42.783,
+     "lon": -71.083,
+     "population": 67787
+    },
+    {
+     "wikidata": "Q54149",
+     "name": "Malden",
+     "lat": 42.425,
+     "lon": -71.067,
+     "population": 66263
+    },
+    {
+     "wikidata": "Q49190",
+     "name": "Waltham",
+     "lat": 42.381,
+     "lon": -71.235,
+     "population": 65218
+    },
+    {
+     "wikidata": "Q49142",
+     "name": "Brookline",
+     "lat": 42.332,
+     "lon": -71.122,
+     "population": 63191
+    },
+    {
+     "wikidata": "Q49142",
+     "name": "Brookline",
+     "lat": 42.332,
+     "lon": -71.122,
+     "population": 63191
+    },
+    {
+     "wikidata": "Q54154",
+     "name": "Revere",
+     "lat": 42.408,
+     "lon": -71.013,
+     "population": 62186
+    },
+    {
+     "wikidata": "Q326295",
+     "name": "Plymouth",
+     "lat": 41.959,
+     "lon": -70.668,
+     "population": 61217
+    },
+    {
+     "wikidata": "Q54145",
+     "name": "Medford",
+     "lat": 42.418,
+     "lon": -71.107,
+     "population": 59659
+    },
+    {
+     "wikidata": "Q127506",
+     "name": "Taunton",
+     "lat": 41.9,
+     "lon": -71.09,
+     "population": 59408
+    },
+    {
+     "wikidata": "Q54195",
+     "name": "Weymouth",
+     "lat": 42.221,
+     "lon": -70.94,
+     "population": 57437
+    },
+    {
+     "wikidata": "Q1650454",
+     "name": "Chicopee",
+     "lat": 42.149,
+     "lon": -72.608,
+     "population": 55560
+    }
+   ]
+  },
+  "26": {
+   "name": "Michigan",
+   "wikidata": "Q1166",
+   "abbr": "MI",
+   "capital": {
+    "name": "Lansing",
+    "wikidata": "Q28237",
+    "lat": 42.733,
+    "lon": -84.547
+   },
+   "population": 10077331,
+   "area": 250493,
+   "cities": [
+    {
+     "wikidata": "Q1925718",
+     "name": "Metro Detroit",
+     "lat": 42.447,
+     "lon": -83.125,
+     "population": 4392041
+    },
+    {
+     "wikidata": "Q12439",
+     "name": "Detroit",
+     "lat": 42.332,
+     "lon": -83.047,
+     "population": 639111
+    },
+    {
+     "wikidata": "Q12439",
+     "name": "Detroit",
+     "lat": 42.332,
+     "lon": -83.047,
+     "population": 639111
+    },
+    {
+     "wikidata": "Q184587",
+     "name": "Grand Rapids",
+     "lat": 42.963,
+     "lon": -85.668,
+     "population": 198917
+    },
+    {
+     "wikidata": "Q184587",
+     "name": "Grand Rapids",
+     "lat": 42.963,
+     "lon": -85.668,
+     "population": 198917
+    },
+    {
+     "wikidata": "Q499401",
+     "name": "Warren",
+     "lat": 42.513,
+     "lon": -83.025,
+     "population": 139387
+    },
+    {
+     "wikidata": "Q927243",
+     "name": "Sterling Heights",
+     "lat": 42.58,
+     "lon": -83.03,
+     "population": 134346
+    },
+    {
+     "wikidata": "Q927243",
+     "name": "Sterling Heights",
+     "lat": 42.58,
+     "lon": -83.03,
+     "population": 134346
+    },
+    {
+     "wikidata": "Q485172",
+     "name": "Ann Arbor",
+     "lat": 42.281,
+     "lon": -83.748,
+     "population": 123851
+    },
+    {
+     "wikidata": "Q485172",
+     "name": "Ann Arbor",
+     "lat": 42.281,
+     "lon": -83.748,
+     "population": 123851
+    },
+    {
+     "wikidata": "Q28237",
+     "name": "Lansing",
+     "lat": 42.733,
+     "lon": -84.547,
+     "population": 112644
+    },
+    {
+     "wikidata": "Q430464",
+     "name": "Dearborn",
+     "lat": 42.311,
+     "lon": -83.213,
+     "population": 109976
+    },
+    {
+     "wikidata": "Q430464",
+     "name": "Dearborn",
+     "lat": 42.311,
+     "lon": -83.213,
+     "population": 109976
+    }
+   ]
+  },
+  "27": {
+   "name": "Minnesota",
+   "wikidata": "Q1527",
+   "abbr": "MN",
+   "capital": {
+    "name": "Saint Paul",
+    "wikidata": "Q28848",
+    "lat": 44.944,
+    "lon": -93.094
+   },
+   "population": 5706494,
+   "area": 225163,
+   "cities": [
+    {
+     "wikidata": "Q1480013",
+     "name": "Minneapolis–Saint Paul",
+     "lat": 44.95,
+     "lon": -93.2,
+     "population": 3690261
+    },
+    {
+     "wikidata": "Q36091",
+     "name": "Minneapolis",
+     "lat": 44.982,
+     "lon": -93.269,
+     "population": 429954
+    },
+    {
+     "wikidata": "Q36091",
+     "name": "Minneapolis",
+     "lat": 44.982,
+     "lon": -93.269,
+     "population": 429954
+    },
+    {
+     "wikidata": "Q28848",
+     "name": "Saint Paul",
+     "lat": 44.944,
+     "lon": -93.094,
+     "population": 311527
+    },
+    {
+     "wikidata": "Q2652025",
+     "name": "Fargo–Moorhead",
+     "lat": 46.85,
+     "lon": -96.783,
+     "population": 249843
+    },
+    {
+     "wikidata": "Q6462075",
+     "name": "La Crosse–Onalaska",
+     "lat": 43.779,
+     "lon": -91.32,
+     "population": 139627
+    },
+    {
+     "wikidata": "Q486479",
+     "name": "Rochester",
+     "lat": 44.023,
+     "lon": -92.463,
+     "population": 121395
+    },
+    {
+     "wikidata": "Q490737",
+     "name": "Bloomington",
+     "lat": 44.841,
+     "lon": -93.298,
+     "population": 89987
+    },
+    {
+     "wikidata": "Q485708",
+     "name": "Duluth",
+     "lat": 46.784,
+     "lon": -92.105,
+     "population": 86697
+    },
+    {
+     "wikidata": "Q864128",
+     "name": "Brooklyn Park",
+     "lat": 45.094,
+     "lon": -93.356,
+     "population": 86478
+    },
+    {
+     "wikidata": "Q936753",
+     "name": "Plymouth",
+     "lat": 45.011,
+     "lon": -93.456,
+     "population": 81026
+    },
+    {
+     "wikidata": "Q862672",
+     "name": "Woodbury",
+     "lat": 44.92,
+     "lon": -92.934,
+     "population": 75102
+    },
+    {
+     "wikidata": "Q983741",
+     "name": "Maple Grove",
+     "lat": 45.072,
+     "lon": -93.456,
+     "population": 70253
+    },
+    {
+     "wikidata": "Q881140",
+     "name": "Blaine",
+     "lat": 45.161,
+     "lon": -93.235,
+     "population": 70222
+    },
+    {
+     "wikidata": "Q983776",
+     "name": "Lakeville",
+     "lat": 44.65,
+     "lon": -93.243,
+     "population": 69490
+    },
+    {
+     "wikidata": "Q983776",
+     "name": "Lakeville",
+     "lat": 44.65,
+     "lon": -93.243,
+     "population": 69490
+    },
+    {
+     "wikidata": "Q736834",
+     "name": "St. Cloud",
+     "lat": 45.554,
+     "lon": -94.17,
+     "population": 68881
+    },
+    {
+     "wikidata": "Q936730",
+     "name": "Eagan",
+     "lat": 44.818,
+     "lon": -93.167,
+     "population": 68855
+    },
+    {
+     "wikidata": "Q736586",
+     "name": "Burnsville",
+     "lat": 44.768,
+     "lon": -93.278,
+     "population": 64317
+    },
+    {
+     "wikidata": "Q736586",
+     "name": "Burnsville",
+     "lat": 44.768,
+     "lon": -93.278,
+     "population": 64317
+    },
+    {
+     "wikidata": "Q985558",
+     "name": "Eden Prairie",
+     "lat": 44.855,
+     "lon": -93.471,
+     "population": 64198
+    },
+    {
+     "wikidata": "Q984534",
+     "name": "Coon Rapids",
+     "lat": 45.12,
+     "lon": -93.287,
+     "population": 63599
+    },
+    {
+     "wikidata": "Q621377",
+     "name": "Apple Valley",
+     "lat": 44.732,
+     "lon": -93.218,
+     "population": 56374
+    },
+    {
+     "wikidata": "Q923384",
+     "name": "Minnetonka",
+     "lat": 44.913,
+     "lon": -93.503,
+     "population": 53781
+    },
+    {
+     "wikidata": "Q957763",
+     "name": "Edina",
+     "lat": 44.89,
+     "lon": -93.35,
+     "population": 53494
+    },
+    {
+     "wikidata": "Q988741",
+     "name": "St. Louis Park",
+     "lat": 44.949,
+     "lon": -93.365,
+     "population": 50010
+    },
+    {
+     "wikidata": "Q983754",
+     "name": "Moorhead",
+     "lat": 46.874,
+     "lon": -96.767,
+     "population": 44505
+    },
+    {
+     "wikidata": "Q913243",
+     "name": "Mankato",
+     "lat": 44.168,
+     "lon": -94.003,
+     "population": 44488
+    },
+    {
+     "wikidata": "Q729470",
+     "name": "Shakopee",
+     "lat": 44.798,
+     "lon": -93.527,
+     "population": 43698
+    },
+    {
+     "wikidata": "Q990856",
+     "name": "Maplewood",
+     "lat": 44.953,
+     "lon": -92.995,
+     "population": 42088
+    },
+    {
+     "wikidata": "Q990856",
+     "name": "Maplewood",
+     "lat": 44.953,
+     "lon": -92.995,
+     "population": 42088
+    },
+    {
+     "wikidata": "Q268916",
+     "name": "Cottage Grove",
+     "lat": 44.828,
+     "lon": -92.944,
+     "population": 38839
+    }
+   ]
+  },
+  "28": {
+   "name": "Mississippi",
+   "wikidata": "Q1494",
+   "abbr": "MS",
+   "capital": {
+    "name": "Jackson",
+    "wikidata": "Q28198",
+    "lat": 32.299,
+    "lon": -90.185
+   },
+   "population": 2961279,
+   "area": 125443,
+   "cities": [
+    {
+     "wikidata": "Q28198",
+     "name": "Jackson",
+     "lat": 32.299,
+     "lon": -90.185,
+     "population": 153701
+    },
+    {
+     "wikidata": "Q490587",
+     "name": "Gulfport",
+     "lat": 30.367,
+     "lon": -89.093,
+     "population": 72926
+    },
+    {
+     "wikidata": "Q490587",
+     "name": "Gulfport",
+     "lat": 30.367,
+     "lon": -89.093,
+     "population": 72926
+    },
+    {
+     "wikidata": "Q768007",
+     "name": "Southaven",
+     "lat": 34.987,
+     "lon": -90.004,
+     "population": 54648
+    },
+    {
+     "wikidata": "Q490720",
+     "name": "Biloxi",
+     "lat": 30.396,
+     "lon": -88.885,
+     "population": 49449
+    },
+    {
+     "wikidata": "Q490720",
+     "name": "Biloxi",
+     "lat": 30.396,
+     "lon": -88.885,
+     "population": 49449
+    },
+    {
+     "wikidata": "Q384464",
+     "name": "Hattiesburg",
+     "lat": 31.316,
+     "lon": -89.309,
+     "population": 48730
+    },
+    {
+     "wikidata": "Q384464",
+     "name": "Hattiesburg",
+     "lat": 31.316,
+     "lon": -89.309,
+     "population": 48730
+    },
+    {
+     "wikidata": "Q867475",
+     "name": "Olive Branch",
+     "lat": 34.96,
+     "lon": -89.842,
+     "population": 39711
+    },
+    {
+     "wikidata": "Q667727",
+     "name": "Tupelo",
+     "lat": 34.258,
+     "lon": -88.703,
+     "population": 37923
+    },
+    {
+     "wikidata": "Q118152",
+     "name": "Meridian",
+     "lat": 32.364,
+     "lon": -88.704,
+     "population": 35052
+    },
+    {
+     "wikidata": "Q988112",
+     "name": "Greenville",
+     "lat": 33.399,
+     "lon": -91.052,
+     "population": 29670
+    },
+    {
+     "wikidata": "Q540861",
+     "name": "Clinton",
+     "lat": 32.342,
+     "lon": -90.322,
+     "population": 28100
+    },
+    {
+     "wikidata": "Q979251",
+     "name": "Madison",
+     "lat": 32.457,
+     "lon": -90.108,
+     "population": 27747
+    },
+    {
+     "wikidata": "Q1998349",
+     "name": "Pearl",
+     "lat": 32.272,
+     "lon": -90.105,
+     "population": 27115
+    },
+    {
+     "wikidata": "Q600761",
+     "name": "Horn Lake",
+     "lat": 34.959,
+     "lon": -90.043,
+     "population": 26736
+    },
+    {
+     "wikidata": "Q983822",
+     "name": "Oxford",
+     "lat": 34.367,
+     "lon": -89.519,
+     "population": 25416
+    },
+    {
+     "wikidata": "Q1998371",
+     "name": "Brandon",
+     "lat": 32.28,
+     "lon": -89.998,
+     "population": 25138
+    },
+    {
+     "wikidata": "Q770470",
+     "name": "Starkville",
+     "lat": 33.462,
+     "lon": -88.82,
+     "population": 24360
+    },
+    {
+     "wikidata": "Q892431",
+     "name": "Ridgeland",
+     "lat": 32.419,
+     "lon": -90.125,
+     "population": 24340
+    },
+    {
+     "wikidata": "Q985648",
+     "name": "Columbus",
+     "lat": 33.502,
+     "lon": -88.415,
+     "population": 24084
+    },
+    {
+     "wikidata": "Q985648",
+     "name": "Columbus",
+     "lat": 33.502,
+     "lon": -88.415,
+     "population": 24084
+    },
+    {
+     "wikidata": "Q913225",
+     "name": "Pascagoula",
+     "lat": 30.365,
+     "lon": -88.559,
+     "population": 22010
+    },
+    {
+     "wikidata": "Q913225",
+     "name": "Pascagoula",
+     "lat": 30.365,
+     "lon": -88.559,
+     "population": 22010
+    }
+   ]
+  },
+  "29": {
+   "name": "Missouri",
+   "wikidata": "Q1581",
+   "abbr": "MO",
+   "capital": {
+    "name": "Jefferson City",
+    "wikidata": "Q28180",
+    "lat": 38.577,
+    "lon": -92.174
+   },
+   "population": 6154913,
+   "area": 180533,
+   "cities": [
+    {
+     "wikidata": "Q41819",
+     "name": "Kansas City",
+     "lat": 39.05,
+     "lon": -94.583,
+     "population": 508090
+    },
+    {
+     "wikidata": "Q38022",
+     "name": "St. Louis",
+     "lat": 38.626,
+     "lon": -90.199,
+     "population": 301578
+    },
+    {
+     "wikidata": "Q38022",
+     "name": "St. Louis",
+     "lat": 38.626,
+     "lon": -90.199,
+     "population": 301578
+    },
+    {
+     "wikidata": "Q135615",
+     "name": "Springfield",
+     "lat": 37.195,
+     "lon": -93.286,
+     "population": 169176
+    },
+    {
+     "wikidata": "Q59670",
+     "name": "Columbia",
+     "lat": 38.952,
+     "lon": -92.334,
+     "population": 126254
+    },
+    {
+     "wikidata": "Q24603",
+     "name": "Independence",
+     "lat": 39.093,
+     "lon": -94.414,
+     "population": 123011
+    },
+    {
+     "wikidata": "Q959502",
+     "name": "Lee's Summit",
+     "lat": 38.922,
+     "lon": -94.374,
+     "population": 101108
+    },
+    {
+     "wikidata": "Q959502",
+     "name": "Lee's Summit",
+     "lat": 38.922,
+     "lon": -94.374,
+     "population": 101108
+    },
+    {
+     "wikidata": "Q959924",
+     "name": "O'Fallon",
+     "lat": 38.784,
+     "lon": -90.708,
+     "population": 91316
+    },
+    {
+     "wikidata": "Q959924",
+     "name": "O'Fallon",
+     "lat": 38.784,
+     "lon": -90.708,
+     "population": 91316
+    },
+    {
+     "wikidata": "Q745120",
+     "name": "St. Joseph",
+     "lat": 39.769,
+     "lon": -94.847,
+     "population": 72473
+    },
+    {
+     "wikidata": "Q773432",
+     "name": "St. Charles",
+     "lat": 38.789,
+     "lon": -90.512,
+     "population": 70493
+    },
+    {
+     "wikidata": "Q379010",
+     "name": "Blue Springs",
+     "lat": 39.018,
+     "lon": -94.274,
+     "population": 58603
+    },
+    {
+     "wikidata": "Q963597",
+     "name": "St. Peters",
+     "lat": 38.8,
+     "lon": -90.627,
+     "population": 57732
+    },
+    {
+     "wikidata": "Q636684",
+     "name": "Florissant",
+     "lat": 38.798,
+     "lon": -90.326,
+     "population": 52533
+    }
+   ]
+  },
+  "30": {
+   "name": "Montana",
+   "wikidata": "Q1212",
+   "abbr": "MT",
+   "capital": {
+    "name": "Helena",
+    "wikidata": "Q38733",
+    "lat": 46.593,
+    "lon": -112.035
+   },
+   "population": 1084225,
+   "area": 381154,
+   "cities": [
+    {
+     "wikidata": "Q166304",
+     "name": "Billings",
+     "lat": 45.787,
+     "lon": -108.537,
+     "population": 117116
+    },
+    {
+     "wikidata": "Q189602",
+     "name": "Missoula",
+     "lat": 46.862,
+     "lon": -114.012,
+     "population": 73489
+    },
+    {
+     "wikidata": "Q466190",
+     "name": "Great Falls",
+     "lat": 47.504,
+     "lon": -111.286,
+     "population": 60442
+    },
+    {
+     "wikidata": "Q569678",
+     "name": "Bozeman",
+     "lat": 45.679,
+     "lon": -111.037,
+     "population": 53293
+    },
+    {
+     "wikidata": "Q569678",
+     "name": "Bozeman",
+     "lat": 45.679,
+     "lon": -111.037,
+     "population": 53293
+    },
+    {
+     "wikidata": "Q467664",
+     "name": "Butte",
+     "lat": 46.006,
+     "lon": -112.53,
+     "population": 34494
+    },
+    {
+     "wikidata": "Q38733",
+     "name": "Helena",
+     "lat": 46.593,
+     "lon": -112.035,
+     "population": 32091
+    },
+    {
+     "wikidata": "Q853175",
+     "name": "Kalispell",
+     "lat": 48.2,
+     "lon": -114.317,
+     "population": 24558
+    },
+    {
+     "wikidata": "Q853175",
+     "name": "Kalispell",
+     "lat": 48.2,
+     "lon": -114.317,
+     "population": 24558
+    },
+    {
+     "wikidata": "Q815570",
+     "name": "Belgrade",
+     "lat": 45.775,
+     "lon": -111.175,
+     "population": 10460
+    },
+    {
+     "wikidata": "Q483539",
+     "name": "Anaconda",
+     "lat": 46.128,
+     "lon": -112.958,
+     "population": 9421
+    },
+    {
+     "wikidata": "Q959425",
+     "name": "Havre",
+     "lat": 48.545,
+     "lon": -109.677,
+     "population": 9362
+    },
+    {
+     "wikidata": "Q959729",
+     "name": "Helena Valley Southeast",
+     "lat": 46.618,
+     "lon": -111.919,
+     "population": 9168
+    },
+    {
+     "wikidata": "Q961066",
+     "name": "Helena Valley West Central",
+     "lat": 46.654,
+     "lon": -112.044,
+     "population": 8670
+    },
+    {
+     "wikidata": "Q960167",
+     "name": "Miles City",
+     "lat": 46.408,
+     "lon": -105.84,
+     "population": 8354
+    },
+    {
+     "wikidata": "Q651357",
+     "name": "Evergreen",
+     "lat": 48.229,
+     "lon": -114.274,
+     "population": 8149
+    },
+    {
+     "wikidata": "Q960253",
+     "name": "Livingston",
+     "lat": 45.658,
+     "lon": -110.567,
+     "population": 8040
+    },
+    {
+     "wikidata": "Q26446",
+     "name": "Whitefish",
+     "lat": 48.412,
+     "lon": -114.34,
+     "population": 7751
+    },
+    {
+     "wikidata": "Q768628",
+     "name": "Laurel",
+     "lat": 45.674,
+     "lon": -108.771,
+     "population": 7222
+    },
+    {
+     "wikidata": "Q960561",
+     "name": "Lockwood",
+     "lat": 45.807,
+     "lon": -108.424,
+     "population": 7195
+    }
+   ]
+  },
+  "31": {
+   "name": "Nebraska",
+   "wikidata": "Q1553",
+   "abbr": "NE",
+   "capital": {
+    "name": "Lincoln",
+    "wikidata": "Q28260",
+    "lat": 40.809,
+    "lon": -96.678
+   },
+   "population": 1961504,
+   "area": 200520,
+   "cities": [
+    {
+     "wikidata": "Q43199",
+     "name": "Omaha",
+     "lat": 41.259,
+     "lon": -95.938,
+     "population": 486051
+    },
+    {
+     "wikidata": "Q43199",
+     "name": "Omaha",
+     "lat": 41.259,
+     "lon": -95.938,
+     "population": 486051
+    },
+    {
+     "wikidata": "Q28260",
+     "name": "Lincoln",
+     "lat": 40.809,
+     "lon": -96.678,
+     "population": 291082
+    },
+    {
+     "wikidata": "Q28260",
+     "name": "Lincoln",
+     "lat": 40.809,
+     "lon": -96.678,
+     "population": 291082
+    },
+    {
+     "wikidata": "Q643040",
+     "name": "Bellevue",
+     "lat": 41.159,
+     "lon": -95.934,
+     "population": 64176
+    },
+    {
+     "wikidata": "Q643040",
+     "name": "Bellevue",
+     "lat": 41.159,
+     "lon": -95.934,
+     "population": 64176
+    },
+    {
+     "wikidata": "Q461826",
+     "name": "Grand Island",
+     "lat": 40.924,
+     "lon": -98.339,
+     "population": 53131
+    },
+    {
+     "wikidata": "Q846044",
+     "name": "Kearney",
+     "lat": 40.7,
+     "lon": -99.083,
+     "population": 33790
+    },
+    {
+     "wikidata": "Q653613",
+     "name": "Fremont",
+     "lat": 41.44,
+     "lon": -96.49,
+     "population": 27141
+    },
+    {
+     "wikidata": "Q959512",
+     "name": "Hastings",
+     "lat": 40.589,
+     "lon": -98.392,
+     "population": 25152
+    },
+    {
+     "wikidata": "Q959951",
+     "name": "Norfolk",
+     "lat": 42.028,
+     "lon": -97.417,
+     "population": 24955
+    },
+    {
+     "wikidata": "Q959951",
+     "name": "Norfolk",
+     "lat": 42.028,
+     "lon": -97.417,
+     "population": 24955
+    },
+    {
+     "wikidata": "Q960468",
+     "name": "Papillion",
+     "lat": 41.156,
+     "lon": -96.041,
+     "population": 24159
+    },
+    {
+     "wikidata": "Q932391",
+     "name": "Columbus",
+     "lat": 41.429,
+     "lon": -97.358,
+     "population": 24028
+    },
+    {
+     "wikidata": "Q989960",
+     "name": "North Platte",
+     "lat": 41.136,
+     "lon": -100.771,
+     "population": 23390
+    },
+    {
+     "wikidata": "Q989960",
+     "name": "North Platte",
+     "lat": 41.136,
+     "lon": -100.771,
+     "population": 23390
+    },
+    {
+     "wikidata": "Q959456",
+     "name": "La Vista",
+     "lat": 41.184,
+     "lon": -96.039,
+     "population": 16543
+    },
+    {
+     "wikidata": "Q959484",
+     "name": "Scottsbluff",
+     "lat": 41.867,
+     "lon": -103.661,
+     "population": 14436
+    },
+    {
+     "wikidata": "Q966911",
+     "name": "South Sioux City",
+     "lat": 42.471,
+     "lon": -96.415,
+     "population": 14043
+    },
+    {
+     "wikidata": "Q813247",
+     "name": "Beatrice",
+     "lat": 40.268,
+     "lon": -96.743,
+     "population": 12261
+    },
+    {
+     "wikidata": "Q963358",
+     "name": "Chalco",
+     "lat": 41.184,
+     "lon": -96.134,
+     "population": 11064
+    },
+    {
+     "wikidata": "Q959410",
+     "name": "Lexington",
+     "lat": 40.779,
+     "lon": -99.744,
+     "population": 10348
+    },
+    {
+     "wikidata": "Q967351",
+     "name": "Gering",
+     "lat": 41.824,
+     "lon": -103.665,
+     "population": 8564
+    },
+    {
+     "wikidata": "Q964529",
+     "name": "Alliance",
+     "lat": 42.101,
+     "lon": -102.87,
+     "population": 8151
+    },
+    {
+     "wikidata": "Q656815",
+     "name": "York",
+     "lat": 40.867,
+     "lon": -97.589,
+     "population": 8066
+    }
+   ]
+  },
+  "32": {
+   "name": "Nevada",
+   "wikidata": "Q1227",
+   "abbr": "NV",
+   "capital": {
+    "name": "Carson City",
+    "wikidata": "Q40881",
+    "lat": 39.161,
+    "lon": -119.754
+   },
+   "population": 3104614,
+   "area": 286380,
+   "cities": [
+    {
+     "wikidata": "Q2624848",
+     "name": "Las Vegas Valley",
+     "lat": 36.132,
+     "lon": -115.184,
+     "population": 2265461
+    },
+    {
+     "wikidata": "Q23768",
+     "name": "Las Vegas",
+     "lat": 36.167,
+     "lon": -115.149,
+     "population": 641903
+    },
+    {
+     "wikidata": "Q49267",
+     "name": "Henderson",
+     "lat": 36.032,
+     "lon": -114.981,
+     "population": 317610
+    },
+    {
+     "wikidata": "Q49267",
+     "name": "Henderson",
+     "lat": 36.032,
+     "lon": -114.981,
+     "population": 317610
+    },
+    {
+     "wikidata": "Q49225",
+     "name": "Reno",
+     "lat": 39.526,
+     "lon": -119.813,
+     "population": 264165
+    },
+    {
+     "wikidata": "Q49225",
+     "name": "Reno",
+     "lat": 39.526,
+     "lon": -119.813,
+     "population": 264165
+    },
+    {
+     "wikidata": "Q143782",
+     "name": "North Las Vegas",
+     "lat": 36.201,
+     "lon": -115.122,
+     "population": 262527
+    },
+    {
+     "wikidata": "Q1344696",
+     "name": "Enterprise",
+     "lat": 36.031,
+     "lon": -115.198,
+     "population": 221831
+    },
+    {
+     "wikidata": "Q1344696",
+     "name": "Enterprise",
+     "lat": 36.031,
+     "lon": -115.198,
+     "population": 221831
+    },
+    {
+     "wikidata": "Q992507",
+     "name": "Spring Valley",
+     "lat": 36.112,
+     "lon": -115.25,
+     "population": 215597
+    },
+    {
+     "wikidata": "Q992507",
+     "name": "Spring Valley",
+     "lat": 36.112,
+     "lon": -115.25,
+     "population": 215597
+    },
+    {
+     "wikidata": "Q993749",
+     "name": "Sunrise Manor",
+     "lat": 36.176,
+     "lon": -115.06,
+     "population": 205618
+    },
+    {
+     "wikidata": "Q993749",
+     "name": "Sunrise Manor",
+     "lat": 36.176,
+     "lon": -115.06,
+     "population": 205618
+    },
+    {
+     "wikidata": "Q984542",
+     "name": "Paradise",
+     "lat": 36.082,
+     "lon": -115.125,
+     "population": 191238
+    },
+    {
+     "wikidata": "Q984542",
+     "name": "Paradise",
+     "lat": 36.082,
+     "lon": -115.125,
+     "population": 191238
+    },
+    {
+     "wikidata": "Q211629",
+     "name": "Sparks",
+     "lat": 39.54,
+     "lon": -119.749,
+     "population": 108445
+    },
+    {
+     "wikidata": "Q40881",
+     "name": "Carson City",
+     "lat": 39.161,
+     "lon": -119.754,
+     "population": 58639
+    },
+    {
+     "wikidata": "Q2323325",
+     "name": "Whitney",
+     "lat": 36.096,
+     "lon": -115.044,
+     "population": 49061
+    },
+    {
+     "wikidata": "Q985486",
+     "name": "Pahrump",
+     "lat": 36.209,
+     "lon": -116.012,
+     "population": 44738
+    },
+    {
+     "wikidata": "Q774784",
+     "name": "Winchester",
+     "lat": 36.136,
+     "lon": -115.121,
+     "population": 36403
+    },
+    {
+     "wikidata": "Q1112096",
+     "name": "Summerlin South",
+     "lat": 36.126,
+     "lon": -115.333,
+     "population": 30744
+    },
+    {
+     "wikidata": "Q1948662",
+     "name": "Fernley",
+     "lat": 39.605,
+     "lon": -119.24,
+     "population": 22895
+    },
+    {
+     "wikidata": "Q513757",
+     "name": "Sun Valley",
+     "lat": 39.596,
+     "lon": -119.774,
+     "population": 21178
+    },
+    {
+     "wikidata": "Q945084",
+     "name": "Elko",
+     "lat": 40.832,
+     "lon": -115.763,
+     "population": 20564
+    },
+    {
+     "wikidata": "Q991218",
+     "name": "Mesquite",
+     "lat": 36.804,
+     "lon": -114.067,
+     "population": 20471
+    },
+    {
+     "wikidata": "Q376269",
+     "name": "Spanish Springs",
+     "lat": 39.658,
+     "lon": -119.695,
+     "population": 17314
+    },
+    {
+     "wikidata": "Q1020984",
+     "name": "Dayton",
+     "lat": 39.252,
+     "lon": -119.562,
+     "population": 15153
+    },
+    {
+     "wikidata": "Q2283301",
+     "name": "Spring Creek",
+     "lat": 40.747,
+     "lon": -115.593,
+     "population": 14967
+    },
+    {
+     "wikidata": "Q858801",
+     "name": "Boulder City",
+     "lat": 35.979,
+     "lon": -114.832,
+     "population": 14885
+    },
+    {
+     "wikidata": "Q1019324",
+     "name": "Gardnerville Ranchos",
+     "lat": 38.896,
+     "lon": -119.734,
+     "population": 11318
+    }
+   ]
+  },
+  "33": {
+   "name": "New Hampshire",
+   "wikidata": "Q759",
+   "abbr": "NH",
+   "capital": {
+    "name": "Concord",
+    "wikidata": "Q28249",
+    "lat": 43.207,
+    "lon": -71.538
+   },
+   "population": 1377529,
+   "area": 24214,
+   "cities": [
+    {
+     "wikidata": "Q48370",
+     "name": "Manchester",
+     "lat": 42.991,
+     "lon": -71.464,
+     "population": 115644
+    },
+    {
+     "wikidata": "Q48274",
+     "name": "Nashua",
+     "lat": 42.758,
+     "lon": -71.464,
+     "population": 91322
+    },
+    {
+     "wikidata": "Q48274",
+     "name": "Nashua",
+     "lat": 42.758,
+     "lon": -71.464,
+     "population": 91322
+    },
+    {
+     "wikidata": "Q28249",
+     "name": "Concord",
+     "lat": 43.207,
+     "lon": -71.538,
+     "population": 43976
+    },
+    {
+     "wikidata": "Q1055850",
+     "name": "Derry",
+     "lat": 42.881,
+     "lon": -71.327,
+     "population": 34317
+    },
+    {
+     "wikidata": "Q48215",
+     "name": "Dover",
+     "lat": 43.195,
+     "lon": -70.875,
+     "population": 32741
+    },
+    {
+     "wikidata": "Q985354",
+     "name": "Rochester",
+     "lat": 43.302,
+     "lon": -70.973,
+     "population": 32492
+    },
+    {
+     "wikidata": "Q1013102",
+     "name": "Salem",
+     "lat": 42.788,
+     "lon": -71.201,
+     "population": 30089
+    },
+    {
+     "wikidata": "Q2266624",
+     "name": "Merrimack",
+     "lat": 42.866,
+     "lon": -71.494,
+     "population": 26632
+    },
+    {
+     "wikidata": "Q2304585",
+     "name": "Londonderry",
+     "lat": 42.865,
+     "lon": -71.374,
+     "population": 25826
+    },
+    {
+     "wikidata": "Q2417176",
+     "name": "Hudson",
+     "lat": 42.765,
+     "lon": -71.44,
+     "population": 25394
+    },
+    {
+     "wikidata": "Q2310735",
+     "name": "Bedford",
+     "lat": 42.946,
+     "lon": -71.516,
+     "population": 23322
+    },
+    {
+     "wikidata": "Q2310735",
+     "name": "Bedford",
+     "lat": 42.946,
+     "lon": -71.516,
+     "population": 23322
+    },
+    {
+     "wikidata": "Q767364",
+     "name": "Keene",
+     "lat": 42.934,
+     "lon": -72.278,
+     "population": 23047
+    },
+    {
+     "wikidata": "Q48834155",
+     "name": "Derry",
+     "lat": 42.893,
+     "lon": -71.277,
+     "population": 22879
+    },
+    {
+     "wikidata": "Q49191",
+     "name": "Portsmouth",
+     "lat": 43.076,
+     "lon": -70.761,
+     "population": 21956
+    },
+    {
+     "wikidata": "Q2304452",
+     "name": "Goffstown",
+     "lat": 43.02,
+     "lon": -71.6,
+     "population": 18577
+    },
+    {
+     "wikidata": "Q993431",
+     "name": "Laconia",
+     "lat": 43.528,
+     "lon": -71.47,
+     "population": 16871
+    },
+    {
+     "wikidata": "Q993431",
+     "name": "Laconia",
+     "lat": 43.528,
+     "lon": -71.47,
+     "population": 16871
+    },
+    {
+     "wikidata": "Q945362",
+     "name": "Hampton",
+     "lat": 42.938,
+     "lon": -70.839,
+     "population": 16214
+    },
+    {
+     "wikidata": "Q2417412",
+     "name": "Milford",
+     "lat": 42.835,
+     "lon": -71.649,
+     "population": 16131
+    },
+    {
+     "wikidata": "Q990504",
+     "name": "Exeter",
+     "lat": 42.981,
+     "lon": -70.948,
+     "population": 16049
+    },
+    {
+     "wikidata": "Q2416945",
+     "name": "Windham",
+     "lat": 42.801,
+     "lon": -71.304,
+     "population": 15817
+    },
+    {
+     "wikidata": "Q2003309",
+     "name": "Durham",
+     "lat": 43.134,
+     "lon": -70.926,
+     "population": 15490
+    },
+    {
+     "wikidata": "Q2003309",
+     "name": "Durham",
+     "lat": 43.134,
+     "lon": -70.926,
+     "population": 15490
+    },
+    {
+     "wikidata": "Q2418271",
+     "name": "Hooksett",
+     "lat": 43.097,
+     "lon": -71.465,
+     "population": 14871
+    },
+    {
+     "wikidata": "Q993523",
+     "name": "Lebanon",
+     "lat": 43.642,
+     "lon": -72.252,
+     "population": 14282
+    },
+    {
+     "wikidata": "Q993523",
+     "name": "Lebanon",
+     "lat": 43.642,
+     "lon": -72.252,
+     "population": 14282
+    },
+    {
+     "wikidata": "Q2418224",
+     "name": "Pelham",
+     "lat": 42.734,
+     "lon": -71.324,
+     "population": 14222
+    },
+    {
+     "wikidata": "Q951659",
+     "name": "Claremont",
+     "lat": 43.372,
+     "lon": -72.338,
+     "population": 12949
+    },
+    {
+     "wikidata": "Q951659",
+     "name": "Claremont",
+     "lat": 43.372,
+     "lon": -72.338,
+     "population": 12949
+    },
+    {
+     "wikidata": "Q131908",
+     "name": "Hanover",
+     "lat": 43.7,
+     "lon": -72.283,
+     "population": 11870
+    }
+   ]
+  },
+  "34": {
+   "name": "New Jersey",
+   "wikidata": "Q1408",
+   "abbr": "NJ",
+   "capital": {
+    "name": "Trenton",
+    "wikidata": "Q25330",
+    "lat": 40.22,
+    "lon": -74.766
+   },
+   "population": 9288994,
+   "area": 22591,
+   "cities": [
+    {
+     "wikidata": "Q25395",
+     "name": "Newark",
+     "lat": 40.736,
+     "lon": -74.172,
+     "population": 311549
+    },
+    {
+     "wikidata": "Q25395",
+     "name": "Newark",
+     "lat": 40.736,
+     "lon": -74.172,
+     "population": 311549
+    },
+    {
+     "wikidata": "Q26339",
+     "name": "Jersey City",
+     "lat": 40.71,
+     "lon": -74.06,
+     "population": 292449
+    },
+    {
+     "wikidata": "Q26339",
+     "name": "Jersey City",
+     "lat": 40.71,
+     "lon": -74.06,
+     "population": 292449
+    },
+    {
+     "wikidata": "Q138391",
+     "name": "Paterson",
+     "lat": 40.917,
+     "lon": -74.172,
+     "population": 159732
+    },
+    {
+     "wikidata": "Q138311",
+     "name": "Elizabeth",
+     "lat": 40.662,
+     "lon": -74.209,
+     "population": 137298
+    },
+    {
+     "wikidata": "Q138311",
+     "name": "Elizabeth",
+     "lat": 40.662,
+     "lon": -74.209,
+     "population": 137298
+    },
+    {
+     "wikidata": "Q1088792",
+     "name": "Lakewood",
+     "lat": 40.098,
+     "lon": -74.218,
+     "population": 135158
+    },
+    {
+     "wikidata": "Q746801",
+     "name": "Edison",
+     "lat": 40.527,
+     "lon": -74.393,
+     "population": 107588
+    },
+    {
+     "wikidata": "Q746801",
+     "name": "Edison",
+     "lat": 40.527,
+     "lon": -74.393,
+     "population": 107588
+    },
+    {
+     "wikidata": "Q1087213",
+     "name": "Toms River",
+     "lat": 39.994,
+     "lon": -74.166,
+     "population": 95438
+    },
+    {
+     "wikidata": "Q25330",
+     "name": "Trenton",
+     "lat": 40.22,
+     "lon": -74.766,
+     "population": 90871
+    },
+    {
+     "wikidata": "Q254428",
+     "name": "Clifton",
+     "lat": 40.862,
+     "lon": -74.16,
+     "population": 90296
+    },
+    {
+     "wikidata": "Q2710598",
+     "name": "Cherry Hill",
+     "lat": 39.935,
+     "lon": -75.031,
+     "population": 74553
+    },
+    {
+     "wikidata": "Q138367",
+     "name": "Camden",
+     "lat": 39.937,
+     "lon": -75.107,
+     "population": 71791
+    },
+    {
+     "wikidata": "Q812589",
+     "name": "Bayonne",
+     "lat": 40.662,
+     "lon": -74.11,
+     "population": 71686
+    },
+    {
+     "wikidata": "Q812589",
+     "name": "Bayonne",
+     "lat": 40.662,
+     "lon": -74.11,
+     "population": 71686
+    },
+    {
+     "wikidata": "Q170433",
+     "name": "Passaic",
+     "lat": 40.858,
+     "lon": -74.129,
+     "population": 70537
+    },
+    {
+     "wikidata": "Q988515",
+     "name": "East Orange",
+     "lat": 40.766,
+     "lon": -74.212,
+     "population": 69612
+    },
+    {
+     "wikidata": "Q588834",
+     "name": "Union City",
+     "lat": 40.768,
+     "lon": -74.032,
+     "population": 68589
+    },
+    {
+     "wikidata": "Q735215",
+     "name": "Middletown",
+     "lat": 40.407,
+     "lon": -74.071,
+     "population": 67106
+    },
+    {
+     "wikidata": "Q2000528",
+     "name": "North Bergen",
+     "lat": 40.795,
+     "lon": -74.02,
+     "population": 63361
+    },
+    {
+     "wikidata": "Q1086276",
+     "name": "Irvington",
+     "lat": 40.724,
+     "lon": -74.233,
+     "population": 61176
+    },
+    {
+     "wikidata": "Q1428659",
+     "name": "Piscataway",
+     "lat": 40.499,
+     "lon": -74.399,
+     "population": 60804
+    },
+    {
+     "wikidata": "Q153881",
+     "name": "Vineland",
+     "lat": 39.465,
+     "lon": -75.006,
+     "population": 60780
+    }
+   ]
+  },
+  "35": {
+   "name": "New Mexico",
+   "wikidata": "Q1522",
+   "abbr": "NM",
+   "capital": {
+    "name": "Santa Fe",
+    "wikidata": "Q38555",
+    "lat": 35.667,
+    "lon": -105.967
+   },
+   "population": 2117522,
+   "area": 315194,
+   "cities": [
+    {
+     "wikidata": "Q34804",
+     "name": "Albuquerque",
+     "lat": 35.084,
+     "lon": -106.65,
+     "population": 564559
+    },
+    {
+     "wikidata": "Q34804",
+     "name": "Albuquerque",
+     "lat": 35.084,
+     "lon": -106.65,
+     "population": 564559
+    },
+    {
+     "wikidata": "Q33264",
+     "name": "Las Cruces",
+     "lat": 32.314,
+     "lon": -106.78,
+     "population": 111385
+    },
+    {
+     "wikidata": "Q33264",
+     "name": "Las Cruces",
+     "lat": 32.314,
+     "lon": -106.78,
+     "population": 111385
+    },
+    {
+     "wikidata": "Q33555",
+     "name": "Rio Rancho",
+     "lat": 35.233,
+     "lon": -106.664,
+     "population": 104046
+    },
+    {
+     "wikidata": "Q38555",
+     "name": "Santa Fe",
+     "lat": 35.667,
+     "lon": -105.967,
+     "population": 87505
+    },
+    {
+     "wikidata": "Q33561",
+     "name": "Roswell",
+     "lat": 33.394,
+     "lon": -104.523,
+     "population": 48422
+    },
+    {
+     "wikidata": "Q33561",
+     "name": "Roswell",
+     "lat": 33.394,
+     "lon": -104.523,
+     "population": 48422
+    },
+    {
+     "wikidata": "Q1012695",
+     "name": "Farmington",
+     "lat": 36.729,
+     "lon": -108.205,
+     "population": 46624
+    },
+    {
+     "wikidata": "Q1010782",
+     "name": "Hobbs",
+     "lat": 32.712,
+     "lon": -103.141,
+     "population": 40508
+    },
+    {
+     "wikidata": "Q985559",
+     "name": "Clovis",
+     "lat": 34.405,
+     "lon": -103.205,
+     "population": 38567
+    },
+    {
+     "wikidata": "Q611587",
+     "name": "South Valley",
+     "lat": 35.022,
+     "lon": -106.684,
+     "population": 38338
+    },
+    {
+     "wikidata": "Q852577",
+     "name": "Carlsbad",
+     "lat": 32.426,
+     "lon": -104.238,
+     "population": 32238
+    },
+    {
+     "wikidata": "Q467617",
+     "name": "Alamogordo",
+     "lat": 32.905,
+     "lon": -105.942,
+     "population": 30898
+    },
+    {
+     "wikidata": "Q467617",
+     "name": "Alamogordo",
+     "lat": 32.905,
+     "lon": -105.942,
+     "population": 30898
+    },
+    {
+     "wikidata": "Q577981",
+     "name": "Gallup",
+     "lat": 35.524,
+     "lon": -108.734,
+     "population": 21899
+    },
+    {
+     "wikidata": "Q549516",
+     "name": "Los Lunas",
+     "lat": 34.809,
+     "lon": -106.735,
+     "population": 17242
+    },
+    {
+     "wikidata": "Q1002908",
+     "name": "Sunland Park",
+     "lat": 31.807,
+     "lon": -106.58,
+     "population": 16702
+    },
+    {
+     "wikidata": "Q2388498",
+     "name": "Chaparral",
+     "lat": 32.039,
+     "lon": -106.43,
+     "population": 16551
+    },
+    {
+     "wikidata": "Q988813",
+     "name": "Deming",
+     "lat": 32.261,
+     "lon": -107.756,
+     "population": 14758
+    }
+   ]
+  },
+  "36": {
+   "name": "New York",
+   "wikidata": "Q1384",
+   "abbr": "NY",
+   "capital": {
+    "name": "Albany",
+    "wikidata": "Q24861",
+    "lat": 42.65,
+    "lon": -73.767
+   },
+   "population": 20201249,
+   "area": 141300,
+   "cities": [
+    {
+     "wikidata": "Q60",
+     "name": "New York City",
+     "lat": 40.713,
+     "lon": -74.006,
+     "population": 8804190
+    },
+    {
+     "wikidata": "Q18419",
+     "name": "Brooklyn",
+     "lat": 40.651,
+     "lon": -73.95,
+     "population": 2736074
+    },
+    {
+     "wikidata": "Q18419",
+     "name": "Brooklyn",
+     "lat": 40.651,
+     "lon": -73.95,
+     "population": 2736074
+    },
+    {
+     "wikidata": "Q18424",
+     "name": "Queens",
+     "lat": 40.714,
+     "lon": -73.828,
+     "population": 2405464
+    },
+    {
+     "wikidata": "Q18424",
+     "name": "Queens",
+     "lat": 40.714,
+     "lon": -73.828,
+     "population": 2405464
+    },
+    {
+     "wikidata": "Q11299",
+     "name": "Manhattan",
+     "lat": 40.728,
+     "lon": -73.994,
+     "population": 1694251
+    },
+    {
+     "wikidata": "Q11299",
+     "name": "Manhattan",
+     "lat": 40.728,
+     "lon": -73.994,
+     "population": 1694251
+    },
+    {
+     "wikidata": "Q18426",
+     "name": "The Bronx",
+     "lat": 40.847,
+     "lon": -73.873,
+     "population": 1472654
+    },
+    {
+     "wikidata": "Q18426",
+     "name": "Bronx",
+     "lat": 40.847,
+     "lon": -73.873,
+     "population": 1472654
+    },
+    {
+     "wikidata": "Q1583289",
+     "name": "Hempstead",
+     "lat": 40.705,
+     "lon": -73.617,
+     "population": 793409
+    },
+    {
+     "wikidata": "Q18432",
+     "name": "Staten Island",
+     "lat": 40.572,
+     "lon": -74.147,
+     "population": 495747
+    },
+    {
+     "wikidata": "Q18432",
+     "name": "Staten Island",
+     "lat": 40.572,
+     "lon": -74.147,
+     "population": 495747
+    },
+    {
+     "wikidata": "Q550032",
+     "name": "Brookhaven",
+     "lat": 40.779,
+     "lon": -72.915,
+     "population": 485773
+    },
+    {
+     "wikidata": "Q550032",
+     "name": "Brookhaven",
+     "lat": 40.779,
+     "lon": -72.915,
+     "population": 485773
+    },
+    {
+     "wikidata": "Q1751219",
+     "name": "Islip",
+     "lat": 40.757,
+     "lon": -73.199,
+     "population": 339938
+    },
+    {
+     "wikidata": "Q129361",
+     "name": "Oyster Bay",
+     "lat": 40.759,
+     "lon": -73.503,
+     "population": 301332
+    },
+    {
+     "wikidata": "Q40435",
+     "name": "Buffalo",
+     "lat": 42.886,
+     "lon": -78.878,
+     "population": 278349
+    },
+    {
+     "wikidata": "Q2723817",
+     "name": "North Hempstead",
+     "lat": 40.759,
+     "lon": -73.588,
+     "population": 237639
+    },
+    {
+     "wikidata": "Q1750870",
+     "name": "Babylon",
+     "lat": 40.694,
+     "lon": -73.329,
+     "population": 218223
+    },
+    {
+     "wikidata": "Q1750870",
+     "name": "Babylon",
+     "lat": 40.694,
+     "lon": -73.329,
+     "population": 218223
+    },
+    {
+     "wikidata": "Q128114",
+     "name": "Yonkers",
+     "lat": 40.941,
+     "lon": -73.864,
+     "population": 211569
+    },
+    {
+     "wikidata": "Q128114",
+     "name": "Yonkers",
+     "lat": 40.941,
+     "lon": -73.864,
+     "population": 211569
+    },
+    {
+     "wikidata": "Q49218",
+     "name": "Rochester",
+     "lat": 43.166,
+     "lon": -77.611,
+     "population": 211328
+    },
+    {
+     "wikidata": "Q49218",
+     "name": "Rochester",
+     "lat": 43.166,
+     "lon": -77.611,
+     "population": 211328
+    },
+    {
+     "wikidata": "Q999123",
+     "name": "Huntington",
+     "lat": 40.868,
+     "lon": -73.426,
+     "population": 204127
+    },
+    {
+     "wikidata": "Q2633533",
+     "name": "Ramapo",
+     "lat": 41.141,
+     "lon": -74.169,
+     "population": 148919
+    },
+    {
+     "wikidata": "Q128069",
+     "name": "Syracuse",
+     "lat": 43.047,
+     "lon": -76.144,
+     "population": 148620
+    },
+    {
+     "wikidata": "Q470592",
+     "name": "Amherst",
+     "lat": 42.978,
+     "lon": -78.8,
+     "population": 129595
+    }
+   ]
+  },
+  "37": {
+   "name": "North Carolina",
+   "wikidata": "Q1454",
+   "abbr": "NC",
+   "capital": {
+    "name": "Raleigh",
+    "wikidata": "Q41087",
+    "lat": 35.78,
+    "lon": -78.64
+   },
+   "population": 10439388,
+   "area": 139390,
+   "cities": [
+    {
+     "wikidata": "Q16565",
+     "name": "Charlotte",
+     "lat": 35.227,
+     "lon": -80.843,
+     "population": 964784
+    },
+    {
+     "wikidata": "Q16565",
+     "name": "Charlotte",
+     "lat": 35.227,
+     "lon": -80.843,
+     "population": 964784
+    },
+    {
+     "wikidata": "Q41087",
+     "name": "Raleigh",
+     "lat": 35.78,
+     "lon": -78.64,
+     "population": 467665
+    },
+    {
+     "wikidata": "Q41087",
+     "name": "Raleigh",
+     "lat": 35.78,
+     "lon": -78.64,
+     "population": 467665
+    },
+    {
+     "wikidata": "Q49238",
+     "name": "Greensboro",
+     "lat": 36.072,
+     "lon": -79.79,
+     "population": 299035
+    },
+    {
+     "wikidata": "Q5034783",
+     "name": "Cape Fear",
+     "lat": 34.23,
+     "lon": -77.97,
+     "population": 285905
+    },
+    {
+     "wikidata": "Q49229",
+     "name": "Durham",
+     "lat": 35.994,
+     "lon": -78.899,
+     "population": 283506
+    },
+    {
+     "wikidata": "Q49229",
+     "name": "Durham",
+     "lat": 35.994,
+     "lon": -78.899,
+     "population": 283506
+    },
+    {
+     "wikidata": "Q49227",
+     "name": "Winston-Salem",
+     "lat": 36.102,
+     "lon": -80.261,
+     "population": 249545
+    },
+    {
+     "wikidata": "Q49227",
+     "name": "Winston-Salem",
+     "lat": 36.102,
+     "lon": -80.261,
+     "population": 249545
+    },
+    {
+     "wikidata": "Q331104",
+     "name": "Fayetteville",
+     "lat": 35.067,
+     "lon": -78.918,
+     "population": 208501
+    },
+    {
+     "wikidata": "Q331104",
+     "name": "Fayetteville",
+     "lat": 35.067,
+     "lon": -78.918,
+     "population": 208501
+    },
+    {
+     "wikidata": "Q852665",
+     "name": "Cary",
+     "lat": 35.779,
+     "lon": -78.8,
+     "population": 174721
+    },
+    {
+     "wikidata": "Q659400",
+     "name": "Wilmington",
+     "lat": 34.223,
+     "lon": -77.912,
+     "population": 115451
+    },
+    {
+     "wikidata": "Q659400",
+     "name": "Wilmington",
+     "lat": 34.223,
+     "lon": -77.912,
+     "population": 115451
+    },
+    {
+     "wikidata": "Q631194",
+     "name": "High Point",
+     "lat": 35.971,
+     "lon": -79.998,
+     "population": 114059
+    }
+   ]
+  },
+  "38": {
+   "name": "North Dakota",
+   "wikidata": "Q1207",
+   "abbr": "ND",
+   "capital": {
+    "name": "Bismarck",
+    "wikidata": "Q37066",
+    "lat": 46.808,
+    "lon": -100.784
+   },
+   "population": 779094,
+   "area": 183108,
+   "cities": [
+    {
+     "wikidata": "Q2652025",
+     "name": "Fargo–Moorhead",
+     "lat": 46.85,
+     "lon": -96.783,
+     "population": 249843
+    },
+    {
+     "wikidata": "Q34109",
+     "name": "Fargo",
+     "lat": 46.877,
+     "lon": -96.789,
+     "population": 125990
+    },
+    {
+     "wikidata": "Q37066",
+     "name": "Bismarck",
+     "lat": 46.808,
+     "lon": -100.784,
+     "population": 73622
+    },
+    {
+     "wikidata": "Q34144",
+     "name": "Grand Forks",
+     "lat": 47.925,
+     "lon": -97.032,
+     "population": 59166
+    },
+    {
+     "wikidata": "Q487201",
+     "name": "Minot",
+     "lat": 48.233,
+     "lon": -101.296,
+     "population": 48377
+    },
+    {
+     "wikidata": "Q487201",
+     "name": "Minot",
+     "lat": 48.233,
+     "lon": -101.296,
+     "population": 48377
+    },
+    {
+     "wikidata": "Q1001721",
+     "name": "West Fargo",
+     "lat": 46.872,
+     "lon": -96.895,
+     "population": 38626
+    },
+    {
+     "wikidata": "Q1999172",
+     "name": "Williston",
+     "lat": 48.156,
+     "lon": -103.628,
+     "population": 29479
+    },
+    {
+     "wikidata": "Q853559",
+     "name": "Dickinson",
+     "lat": 46.884,
+     "lon": -102.789,
+     "population": 25679
+    },
+    {
+     "wikidata": "Q853559",
+     "name": "Dickinson",
+     "lat": 46.884,
+     "lon": -102.789,
+     "population": 25679
+    },
+    {
+     "wikidata": "Q28419",
+     "name": "Mandan",
+     "lat": 46.829,
+     "lon": -100.891,
+     "population": 24206
+    },
+    {
+     "wikidata": "Q1052658",
+     "name": "Jamestown",
+     "lat": 46.911,
+     "lon": -98.708,
+     "population": 15849
+    },
+    {
+     "wikidata": "Q1996092",
+     "name": "Wahpeton",
+     "lat": 46.266,
+     "lon": -96.609,
+     "population": 8007
+    },
+    {
+     "wikidata": "Q1772496",
+     "name": "Devils Lake",
+     "lat": 48.117,
+     "lon": -98.867,
+     "population": 7192
+    },
+    {
+     "wikidata": "Q1407484",
+     "name": "Valley City",
+     "lat": 46.925,
+     "lon": -98.006,
+     "population": 6575
+    },
+    {
+     "wikidata": "Q1998384",
+     "name": "Watford City",
+     "lat": 47.803,
+     "lon": -103.281,
+     "population": 6207
+    },
+    {
+     "wikidata": "Q2283554",
+     "name": "Lincoln",
+     "lat": 46.762,
+     "lon": -100.702,
+     "population": 4257
+    },
+    {
+     "wikidata": "Q1772501",
+     "name": "Grafton",
+     "lat": 48.416,
+     "lon": -97.411,
+     "population": 4170
+    },
+    {
+     "wikidata": "Q2188971",
+     "name": "Horace",
+     "lat": 46.76,
+     "lon": -96.904,
+     "population": 3085
+    },
+    {
+     "wikidata": "Q176998",
+     "name": "Beulah",
+     "lat": 47.268,
+     "lon": -101.777,
+     "population": 3058
+    },
+    {
+     "wikidata": "Q2310050",
+     "name": "New Town",
+     "lat": 47.982,
+     "lon": -102.485,
+     "population": 2764
+    },
+    {
+     "wikidata": "Q168420",
+     "name": "Rugby",
+     "lat": 48.367,
+     "lon": -99.996,
+     "population": 2509
+    },
+    {
+     "wikidata": "Q1954719",
+     "name": "Casselton",
+     "lat": 46.9,
+     "lon": -97.211,
+     "population": 2479
+    }
+   ]
+  },
+  "39": {
+   "name": "Ohio",
+   "wikidata": "Q1397",
+   "abbr": "OH",
+   "capital": {
+    "name": "Columbus",
+    "wikidata": "Q16567",
+    "lat": 39.962,
+    "lon": -83.001
+   },
+   "population": 11799448,
+   "area": 116096,
+   "cities": [
+    {
+     "wikidata": "Q16567",
+     "name": "Columbus",
+     "lat": 39.962,
+     "lon": -83.001,
+     "population": 905748
+    },
+    {
+     "wikidata": "Q16567",
+     "name": "Columbus",
+     "lat": 39.962,
+     "lon": -83.001,
+     "population": 905748
+    },
+    {
+     "wikidata": "Q7605727",
+     "name": "Mahoning Valley",
+     "lat": 41.25,
+     "lon": -80.717,
+     "population": 541243
+    },
+    {
+     "wikidata": "Q37320",
+     "name": "Cleveland",
+     "lat": 41.499,
+     "lon": -81.695,
+     "population": 372624
+    },
+    {
+     "wikidata": "Q37320",
+     "name": "Cleveland",
+     "lat": 41.499,
+     "lon": -81.695,
+     "population": 372624
+    },
+    {
+     "wikidata": "Q43196",
+     "name": "Cincinnati",
+     "lat": 39.1,
+     "lon": -84.513,
+     "population": 309317
+    },
+    {
+     "wikidata": "Q43196",
+     "name": "Cincinnati",
+     "lat": 39.1,
+     "lon": -84.513,
+     "population": 309317
+    },
+    {
+     "wikidata": "Q49239",
+     "name": "Toledo",
+     "lat": 41.653,
+     "lon": -83.538,
+     "population": 270871
+    },
+    {
+     "wikidata": "Q163132",
+     "name": "Akron",
+     "lat": 41.073,
+     "lon": -81.518,
+     "population": 190469
+    },
+    {
+     "wikidata": "Q34739",
+     "name": "Dayton",
+     "lat": 39.767,
+     "lon": -84.2,
+     "population": 137644
+    },
+    {
+     "wikidata": "Q862711",
+     "name": "Parma",
+     "lat": 41.392,
+     "lon": -81.728,
+     "population": 81146
+    },
+    {
+     "wikidata": "Q862711",
+     "name": "Parma",
+     "lat": 41.392,
+     "lon": -81.728,
+     "population": 81146
+    },
+    {
+     "wikidata": "Q491239",
+     "name": "Canton",
+     "lat": 40.799,
+     "lon": -81.375,
+     "population": 70872
+    },
+    {
+     "wikidata": "Q491239",
+     "name": "Canton",
+     "lat": 40.799,
+     "lon": -81.375,
+     "population": 70872
+    },
+    {
+     "wikidata": "Q609698",
+     "name": "Lorain",
+     "lat": 41.448,
+     "lon": -82.169,
+     "population": 65211
+    }
+   ]
+  },
+  "40": {
+   "name": "Oklahoma",
+   "wikidata": "Q1649",
+   "abbr": "OK",
+   "capital": {
+    "name": "Oklahoma City",
+    "wikidata": "Q34863",
+    "lat": 35.482,
+    "lon": -97.535
+   },
+   "population": 3959353,
+   "area": 181195,
+   "cities": [
+    {
+     "wikidata": "Q34863",
+     "name": "Oklahoma City",
+     "lat": 35.482,
+     "lon": -97.535,
+     "population": 681054
+    },
+    {
+     "wikidata": "Q44989",
+     "name": "Tulsa",
+     "lat": 36.131,
+     "lon": -95.937,
+     "population": 413066
+    },
+    {
+     "wikidata": "Q44989",
+     "name": "Tulsa",
+     "lat": 36.131,
+     "lon": -95.937,
+     "population": 413066
+    },
+    {
+     "wikidata": "Q40347",
+     "name": "Norman",
+     "lat": 35.221,
+     "lon": -97.444,
+     "population": 128026
+    },
+    {
+     "wikidata": "Q835810",
+     "name": "Broken Arrow",
+     "lat": 36.036,
+     "lon": -95.784,
+     "population": 113540
+    },
+    {
+     "wikidata": "Q862645",
+     "name": "Edmond",
+     "lat": 35.657,
+     "lon": -97.465,
+     "population": 94428
+    },
+    {
+     "wikidata": "Q503336",
+     "name": "Lawton",
+     "lat": 34.609,
+     "lon": -98.39,
+     "population": 90381
+    },
+    {
+     "wikidata": "Q917458",
+     "name": "Moore",
+     "lat": 35.338,
+     "lon": -97.487,
+     "population": 62793
+    },
+    {
+     "wikidata": "Q985298",
+     "name": "Midwest City",
+     "lat": 35.45,
+     "lon": -97.397,
+     "population": 58409
+    },
+    {
+     "wikidata": "Q985298",
+     "name": "Midwest City",
+     "lat": 35.45,
+     "lon": -97.397,
+     "population": 58409
+    },
+    {
+     "wikidata": "Q984361",
+     "name": "Enid",
+     "lat": 36.397,
+     "lon": -97.879,
+     "population": 51308
+    },
+    {
+     "wikidata": "Q852714",
+     "name": "Stillwater",
+     "lat": 36.113,
+     "lon": -97.059,
+     "population": 48394
+    },
+    {
+     "wikidata": "Q852714",
+     "name": "Stillwater",
+     "lat": 36.113,
+     "lon": -97.059,
+     "population": 48394
+    },
+    {
+     "wikidata": "Q2677698",
+     "name": "Owasso",
+     "lat": 36.29,
+     "lon": -95.829,
+     "population": 38240
+    },
+    {
+     "wikidata": "Q809450",
+     "name": "Bartlesville",
+     "lat": 36.747,
+     "lon": -95.959,
+     "population": 37290
+    },
+    {
+     "wikidata": "Q524233",
+     "name": "Muskogee",
+     "lat": 35.747,
+     "lon": -95.368,
+     "population": 36878
+    },
+    {
+     "wikidata": "Q524233",
+     "name": "Muskogee",
+     "lat": 35.747,
+     "lon": -95.368,
+     "population": 36878
+    },
+    {
+     "wikidata": "Q843999",
+     "name": "Shawnee",
+     "lat": 35.343,
+     "lon": -96.934,
+     "population": 31377
+    },
+    {
+     "wikidata": "Q843999",
+     "name": "Shawnee",
+     "lat": 35.343,
+     "lon": -96.934,
+     "population": 31377
+    },
+    {
+     "wikidata": "Q941310",
+     "name": "Bixby",
+     "lat": 35.961,
+     "lon": -95.878,
+     "population": 28609
+    },
+    {
+     "wikidata": "Q2237107",
+     "name": "Jenks",
+     "lat": 36.01,
+     "lon": -95.98,
+     "population": 25949
+    },
+    {
+     "wikidata": "Q639640",
+     "name": "Ardmore",
+     "lat": 34.181,
+     "lon": -97.129,
+     "population": 24725
+    },
+    {
+     "wikidata": "Q1778752",
+     "name": "Ponca City",
+     "lat": 36.712,
+     "lon": -97.073,
+     "population": 24424
+    },
+    {
+     "wikidata": "Q2073642",
+     "name": "Yukon",
+     "lat": 35.502,
+     "lon": -97.749,
+     "population": 23630
+    },
+    {
+     "wikidata": "Q3041247",
+     "name": "Duncan",
+     "lat": 34.517,
+     "lon": -97.949,
+     "population": 22692
+    },
+    {
+     "wikidata": "Q3041247",
+     "name": "Duncan",
+     "lat": 34.517,
+     "lon": -97.949,
+     "population": 22692
+    }
+   ]
+  },
+  "41": {
+   "name": "Oregon",
+   "wikidata": "Q824",
+   "abbr": "OR",
+   "capital": {
+    "name": "Salem",
+    "wikidata": "Q43919",
+    "lat": 44.94,
+    "lon": -123.039
+   },
+   "population": 4237256,
+   "area": 255026,
+   "cities": [
+    {
+     "wikidata": "Q6106",
+     "name": "Portland",
+     "lat": 45.515,
+     "lon": -122.679,
+     "population": 652503
+    },
+    {
+     "wikidata": "Q6106",
+     "name": "Portland",
+     "lat": 45.515,
+     "lon": -122.679,
+     "population": 652503
+    },
+    {
+     "wikidata": "Q171224",
+     "name": "Eugene",
+     "lat": 44.052,
+     "lon": -123.093,
+     "population": 176654
+    },
+    {
+     "wikidata": "Q43919",
+     "name": "Salem",
+     "lat": 44.94,
+     "lon": -123.039,
+     "population": 175535
+    },
+    {
+     "wikidata": "Q43919",
+     "name": "Salem",
+     "lat": 44.94,
+     "lon": -123.039,
+     "population": 175535
+    },
+    {
+     "wikidata": "Q81844",
+     "name": "Gresham",
+     "lat": 45.504,
+     "lon": -122.439,
+     "population": 114247
+    },
+    {
+     "wikidata": "Q81824",
+     "name": "Hillsboro",
+     "lat": 45.523,
+     "lon": -122.99,
+     "population": 106447
+    },
+    {
+     "wikidata": "Q671288",
+     "name": "Bend",
+     "lat": 44.056,
+     "lon": -121.308,
+     "population": 99178
+    },
+    {
+     "wikidata": "Q81856",
+     "name": "Beaverton",
+     "lat": 45.487,
+     "lon": -122.804,
+     "population": 97494
+    },
+    {
+     "wikidata": "Q836663",
+     "name": "Medford",
+     "lat": 42.332,
+     "lon": -122.862,
+     "population": 85824
+    },
+    {
+     "wikidata": "Q40268",
+     "name": "Springfield",
+     "lat": 44.046,
+     "lon": -123.022,
+     "population": 61851
+    },
+    {
+     "wikidata": "Q748474",
+     "name": "Corvallis",
+     "lat": 44.571,
+     "lon": -123.276,
+     "population": 59922
+    },
+    {
+     "wikidata": "Q748474",
+     "name": "Corvallis",
+     "lat": 44.571,
+     "lon": -123.276,
+     "population": 59922
+    },
+    {
+     "wikidata": "Q516817",
+     "name": "Albany",
+     "lat": 44.63,
+     "lon": -123.096,
+     "population": 56472
+    },
+    {
+     "wikidata": "Q1444136",
+     "name": "Tigard",
+     "lat": 45.428,
+     "lon": -122.779,
+     "population": 54539
+    },
+    {
+     "wikidata": "Q2272266",
+     "name": "Aloha",
+     "lat": 45.49,
+     "lon": -122.872,
+     "population": 53828
+    },
+    {
+     "wikidata": "Q983805",
+     "name": "Lake Oswego",
+     "lat": 45.42,
+     "lon": -122.668,
+     "population": 40731
+    },
+    {
+     "wikidata": "Q1762871",
+     "name": "Keizer",
+     "lat": 45.001,
+     "lon": -123.022,
+     "population": 39376
+    },
+    {
+     "wikidata": "Q143405",
+     "name": "Grants Pass",
+     "lat": 42.439,
+     "lon": -123.328,
+     "population": 39189
+    },
+    {
+     "wikidata": "Q849596",
+     "name": "Oregon City",
+     "lat": 45.357,
+     "lon": -122.607,
+     "population": 37572
+    },
+    {
+     "wikidata": "Q852693",
+     "name": "McMinnville",
+     "lat": 45.212,
+     "lon": -123.197,
+     "population": 34319
+    }
+   ]
+  },
+  "42": {
+   "name": "Pennsylvania",
+   "wikidata": "Q1400",
+   "abbr": "PA",
+   "capital": {
+    "name": "Harrisburg",
+    "wikidata": "Q25280",
+    "lat": 40.265,
+    "lon": -76.883
+   },
+   "population": 13002700,
+   "area": 119283,
+   "cities": [
+    {
+     "wikidata": "Q1345",
+     "name": "Philadelphia",
+     "lat": 39.953,
+     "lon": -75.164,
+     "population": 1603797
+    },
+    {
+     "wikidata": "Q1345",
+     "name": "Philadelphia",
+     "lat": 39.953,
+     "lon": -75.164,
+     "population": 1603797
+    },
+    {
+     "wikidata": "Q604264",
+     "name": "Wyoming Valley",
+     "lat": 41.251,
+     "lon": -75.906,
+     "population": 567559
+    },
+    {
+     "wikidata": "Q604264",
+     "name": "Wyoming Valley",
+     "lat": 41.251,
+     "lon": -75.906,
+     "population": 567559
+    },
+    {
+     "wikidata": "Q7605727",
+     "name": "Mahoning Valley",
+     "lat": 41.25,
+     "lon": -80.717,
+     "population": 541243
+    },
+    {
+     "wikidata": "Q1342",
+     "name": "Pittsburgh",
+     "lat": 40.442,
+     "lon": -80,
+     "population": 302971
+    },
+    {
+     "wikidata": "Q24259651",
+     "name": "Happy Valley",
+     "lat": 40.919,
+     "lon": -77.82,
+     "population": 158172
+    },
+    {
+     "wikidata": "Q1752800",
+     "name": "Allegheny",
+     "lat": 40.45,
+     "lon": -80.02,
+     "population": 129896
+    },
+    {
+     "wikidata": "Q142811",
+     "name": "Allentown",
+     "lat": 40.6,
+     "lon": -75.483,
+     "population": 125845
+    },
+    {
+     "wikidata": "Q142811",
+     "name": "Allentown",
+     "lat": 40.6,
+     "lon": -75.483,
+     "population": 125845
+    },
+    {
+     "wikidata": "Q237896",
+     "name": "Reading",
+     "lat": 40.342,
+     "lon": -75.926,
+     "population": 95112
+    },
+    {
+     "wikidata": "Q237896",
+     "name": "Reading",
+     "lat": 40.342,
+     "lon": -75.926,
+     "population": 95112
+    },
+    {
+     "wikidata": "Q234061",
+     "name": "Erie",
+     "lat": 42.13,
+     "lon": -80.085,
+     "population": 94831
+    }
+   ]
+  },
+  "44": {
+   "name": "Rhode Island",
+   "wikidata": "Q1387",
+   "abbr": "RI",
+   "capital": {
+    "name": "Providence",
+    "wikidata": "Q18383",
+    "lat": 41.824,
+    "lon": -71.413
+   },
+   "population": 1097379,
+   "area": 3144,
+   "cities": [
+    {
+     "wikidata": "Q18383",
+     "name": "Providence",
+     "lat": 41.824,
+     "lon": -71.413,
+     "population": 190934
+    },
+    {
+     "wikidata": "Q18383",
+     "name": "Providence",
+     "lat": 41.824,
+     "lon": -71.413,
+     "population": 190934
+    },
+    {
+     "wikidata": "Q49197",
+     "name": "Cranston",
+     "lat": 41.783,
+     "lon": -71.442,
+     "population": 82934
+    },
+    {
+     "wikidata": "Q49195",
+     "name": "Warwick",
+     "lat": 41.717,
+     "lon": -71.417,
+     "population": 82823
+    },
+    {
+     "wikidata": "Q49200",
+     "name": "Pawtucket",
+     "lat": 41.876,
+     "lon": -71.376,
+     "population": 75604
+    },
+    {
+     "wikidata": "Q54268",
+     "name": "East Providence",
+     "lat": 41.814,
+     "lon": -71.37,
+     "population": 47139
+    },
+    {
+     "wikidata": "Q54276",
+     "name": "Woonsocket",
+     "lat": 42.008,
+     "lon": -71.516,
+     "population": 43240
+    },
+    {
+     "wikidata": "Q1143667",
+     "name": "Cumberland",
+     "lat": 41.967,
+     "lon": -71.433,
+     "population": 36405
+    },
+    {
+     "wikidata": "Q1016933",
+     "name": "Coventry",
+     "lat": 41.694,
+     "lon": -71.596,
+     "population": 35688
+    },
+    {
+     "wikidata": "Q1625652",
+     "name": "North Providence",
+     "lat": 41.86,
+     "lon": -71.456,
+     "population": 34114
+    },
+    {
+     "wikidata": "Q163507",
+     "name": "South Kingstown",
+     "lat": 41.447,
+     "lon": -71.527,
+     "population": 31931
+    },
+    {
+     "wikidata": "Q1280233",
+     "name": "West Warwick",
+     "lat": 41.703,
+     "lon": -71.522,
+     "population": 31012
+    },
+    {
+     "wikidata": "Q1280233",
+     "name": "West Warwick",
+     "lat": 41.703,
+     "lon": -71.522,
+     "population": 31012
+    },
+    {
+     "wikidata": "Q368233",
+     "name": "Johnston",
+     "lat": 41.817,
+     "lon": -71.483,
+     "population": 29568
+    },
+    {
+     "wikidata": "Q2000741",
+     "name": "North Kingstown",
+     "lat": 41.581,
+     "lon": -71.454,
+     "population": 27732
+    },
+    {
+     "wikidata": "Q2000741",
+     "name": "North Kingstown",
+     "lat": 41.581,
+     "lon": -71.454,
+     "population": 27732
+    },
+    {
+     "wikidata": "Q54264",
+     "name": "Newport",
+     "lat": 41.492,
+     "lon": -71.312,
+     "population": 25163
+    },
+    {
+     "wikidata": "Q1028023",
+     "name": "Westerly",
+     "lat": 41.377,
+     "lon": -71.827,
+     "population": 23359
+    },
+    {
+     "wikidata": "Q54273",
+     "name": "Central Falls",
+     "lat": 41.89,
+     "lon": -71.392,
+     "population": 22583
+    },
+    {
+     "wikidata": "Q1816735",
+     "name": "Lincoln",
+     "lat": 41.921,
+     "lon": -71.435,
+     "population": 22529
+    },
+    {
+     "wikidata": "Q917809",
+     "name": "Bristol",
+     "lat": 41.684,
+     "lon": -71.269,
+     "population": 22493
+    },
+    {
+     "wikidata": "Q1027898",
+     "name": "Smithfield",
+     "lat": 41.922,
+     "lon": -71.549,
+     "population": 22118
+    },
+    {
+     "wikidata": "Q1787188",
+     "name": "Portsmouth",
+     "lat": 41.6,
+     "lon": -71.25,
+     "population": 17871
+    },
+    {
+     "wikidata": "Q1787188",
+     "name": "Portsmouth",
+     "lat": 41.6,
+     "lon": -71.25,
+     "population": 17871
+    },
+    {
+     "wikidata": "Q641871",
+     "name": "Barrington",
+     "lat": 41.745,
+     "lon": -71.318,
+     "population": 17153
+    },
+    {
+     "wikidata": "Q1013038",
+     "name": "Middletown",
+     "lat": 41.546,
+     "lon": -71.291,
+     "population": 17075
+    },
+    {
+     "wikidata": "Q1027996",
+     "name": "Tiverton",
+     "lat": 41.633,
+     "lon": -71.217,
+     "population": 16359
+    },
+    {
+     "wikidata": "Q1027996",
+     "name": "Tiverton",
+     "lat": 41.633,
+     "lon": -71.217,
+     "population": 16359
+    },
+    {
+     "wikidata": "Q1016937",
+     "name": "Burrillville",
+     "lat": 41.968,
+     "lon": -71.683,
+     "population": 16158
+    },
+    {
+     "wikidata": "Q1932484",
+     "name": "Narragansett",
+     "lat": 41.45,
+     "lon": -71.449,
+     "population": 14532
+    },
+    {
+     "wikidata": "Q999257",
+     "name": "East Greenwich",
+     "lat": 41.65,
+     "lon": -71.483,
+     "population": 14312
+    },
+    {
+     "wikidata": "Q1816636",
+     "name": "North Smithfield",
+     "lat": 41.967,
+     "lon": -71.549,
+     "population": 12588
+    },
+    {
+     "wikidata": "Q1816636",
+     "name": "North Smithfield",
+     "lat": 41.967,
+     "lon": -71.549,
+     "population": 12588
+    },
+    {
+     "wikidata": "Q4246992",
+     "name": "Newport East",
+     "lat": 41.509,
+     "lon": -71.288,
+     "population": 12337
+    },
+    {
+     "wikidata": "Q3476807",
+     "name": "Valley Falls",
+     "lat": 41.917,
+     "lon": -71.392,
+     "population": 12094
+    },
+    {
+     "wikidata": "Q1027951",
+     "name": "Warren",
+     "lat": 41.73,
+     "lon": -71.282,
+     "population": 11147
+    },
+    {
+     "wikidata": "Q2462665",
+     "name": "Scituate",
+     "lat": 41.783,
+     "lon": -71.617,
+     "population": 10384
+    },
+    {
+     "wikidata": "Q2569213",
+     "name": "Glocester",
+     "lat": 41.891,
+     "lon": -71.691,
+     "population": 9974
+    },
+    {
+     "wikidata": "Q3476779",
+     "name": "Greenville",
+     "lat": 41.877,
+     "lon": -71.553,
+     "population": 9061
+    }
+   ]
+  },
+  "45": {
+   "name": "South Carolina",
+   "wikidata": "Q1456",
+   "abbr": "SC",
+   "capital": {
+    "name": "Columbia",
+    "wikidata": "Q38453",
+    "lat": 34.001,
+    "lon": -81.044
+   },
+   "population": 5118425,
+   "area": 82931,
+   "cities": [
+    {
+     "wikidata": "Q47716",
+     "name": "Charleston",
+     "lat": 32.783,
+     "lon": -79.932,
+     "population": 150227
+    },
+    {
+     "wikidata": "Q47716",
+     "name": "Charleston",
+     "lat": 32.783,
+     "lon": -79.932,
+     "population": 150227
+    },
+    {
+     "wikidata": "Q38453",
+     "name": "Columbia",
+     "lat": 34.001,
+     "lon": -81.044,
+     "population": 136632
+    },
+    {
+     "wikidata": "Q38453",
+     "name": "Columbia",
+     "lat": 34.001,
+     "lon": -81.044,
+     "population": 136632
+    },
+    {
+     "wikidata": "Q847538",
+     "name": "North Charleston",
+     "lat": 32.885,
+     "lon": -80.017,
+     "population": 114852
+    },
+    {
+     "wikidata": "Q1010216",
+     "name": "Mount Pleasant",
+     "lat": 32.794,
+     "lon": -79.863,
+     "population": 90801
+    },
+    {
+     "wikidata": "Q960774",
+     "name": "Rock Hill",
+     "lat": 34.938,
+     "lon": -81.026,
+     "population": 74372
+    },
+    {
+     "wikidata": "Q574192",
+     "name": "Greenville",
+     "lat": 34.844,
+     "lon": -82.386,
+     "population": 70720
+    },
+    {
+     "wikidata": "Q574192",
+     "name": "Greenville",
+     "lat": 34.844,
+     "lon": -82.386,
+     "population": 70720
+    },
+    {
+     "wikidata": "Q947304",
+     "name": "Summerville",
+     "lat": 33.019,
+     "lon": -80.176,
+     "population": 50915
+    },
+    {
+     "wikidata": "Q1537768",
+     "name": "Goose Creek",
+     "lat": 32.996,
+     "lon": -80.029,
+     "population": 45946
+    },
+    {
+     "wikidata": "Q1010203",
+     "name": "Sumter",
+     "lat": 33.921,
+     "lon": -80.345,
+     "population": 43463
+    },
+    {
+     "wikidata": "Q1010203",
+     "name": "Sumter",
+     "lat": 33.921,
+     "lon": -80.345,
+     "population": 43463
+    },
+    {
+     "wikidata": "Q597842",
+     "name": "Florence",
+     "lat": 34.184,
+     "lon": -79.774,
+     "population": 39899
+    },
+    {
+     "wikidata": "Q597842",
+     "name": "Florence",
+     "lat": 34.184,
+     "lon": -79.774,
+     "population": 39899
+    },
+    {
+     "wikidata": "Q773325",
+     "name": "Spartanburg",
+     "lat": 34.948,
+     "lon": -81.935,
+     "population": 38732
+    },
+    {
+     "wikidata": "Q773325",
+     "name": "Spartanburg",
+     "lat": 34.948,
+     "lon": -81.935,
+     "population": 38732
+    },
+    {
+     "wikidata": "Q1001134",
+     "name": "Hilton Head Island",
+     "lat": 32.179,
+     "lon": -80.743,
+     "population": 37661
+    },
+    {
+     "wikidata": "Q839805",
+     "name": "Myrtle Beach",
+     "lat": 33.71,
+     "lon": -78.884,
+     "population": 35682
+    },
+    {
+     "wikidata": "Q647464",
+     "name": "Greer",
+     "lat": 34.93,
+     "lon": -82.225,
+     "population": 35308
+    },
+    {
+     "wikidata": "Q404887",
+     "name": "Aiken",
+     "lat": 33.549,
+     "lon": -81.721,
+     "population": 32025
+    }
+   ]
+  },
+  "46": {
+   "name": "South Dakota",
+   "wikidata": "Q1211",
+   "abbr": "SD",
+   "capital": {
+    "name": "Pierre",
+    "wikidata": "Q40747",
+    "lat": 44.368,
+    "lon": -100.351
+   },
+   "population": 886667,
+   "area": 199729,
+   "cities": [
+    {
+     "wikidata": "Q131335",
+     "name": "Sioux Falls",
+     "lat": 43.546,
+     "lon": -96.731,
+     "population": 192517
+    },
+    {
+     "wikidata": "Q131335",
+     "name": "Sioux Falls",
+     "lat": 43.546,
+     "lon": -96.731,
+     "population": 192517
+    },
+    {
+     "wikidata": "Q213325",
+     "name": "Rapid City",
+     "lat": 44.081,
+     "lon": -103.229,
+     "population": 74703
+    },
+    {
+     "wikidata": "Q236713",
+     "name": "Aberdeen",
+     "lat": 45.465,
+     "lon": -98.486,
+     "population": 28495
+    },
+    {
+     "wikidata": "Q1650462",
+     "name": "Brookings",
+     "lat": 44.306,
+     "lon": -96.788,
+     "population": 23377
+    },
+    {
+     "wikidata": "Q1065503",
+     "name": "Watertown",
+     "lat": 44.903,
+     "lon": -97.121,
+     "population": 22655
+    },
+    {
+     "wikidata": "Q1988986",
+     "name": "Mitchell",
+     "lat": 43.714,
+     "lon": -98.026,
+     "population": 15660
+    },
+    {
+     "wikidata": "Q989288",
+     "name": "Yankton",
+     "lat": 42.871,
+     "lon": -97.397,
+     "population": 15411
+    },
+    {
+     "wikidata": "Q1988967",
+     "name": "Huron",
+     "lat": 44.359,
+     "lon": -98.218,
+     "population": 14263
+    },
+    {
+     "wikidata": "Q40747",
+     "name": "Pierre",
+     "lat": 44.368,
+     "lon": -100.351,
+     "population": 14091
+    },
+    {
+     "wikidata": "Q568764",
+     "name": "Spearfish",
+     "lat": 44.49,
+     "lon": -103.853,
+     "population": 12193
+    },
+    {
+     "wikidata": "Q2152746",
+     "name": "Box Elder",
+     "lat": 44.115,
+     "lon": -103.082,
+     "population": 11746
+    },
+    {
+     "wikidata": "Q989284",
+     "name": "Vermillion",
+     "lat": 42.781,
+     "lon": -96.927,
+     "population": 11695
+    },
+    {
+     "wikidata": "Q989284",
+     "name": "Vermillion",
+     "lat": 42.781,
+     "lon": -96.927,
+     "population": 11695
+    },
+    {
+     "wikidata": "Q2923758",
+     "name": "Brandon",
+     "lat": 43.595,
+     "lon": -96.572,
+     "population": 11048
+    },
+    {
+     "wikidata": "Q3460954",
+     "name": "Rapid Valley",
+     "lat": 44.065,
+     "lon": -103.147,
+     "population": 8098
+    },
+    {
+     "wikidata": "Q989280",
+     "name": "Sturgis",
+     "lat": 44.41,
+     "lon": -103.519,
+     "population": 7020
+    },
+    {
+     "wikidata": "Q2266776",
+     "name": "Harrisburg",
+     "lat": 43.429,
+     "lon": -96.696,
+     "population": 6732
+    },
+    {
+     "wikidata": "Q1020419",
+     "name": "Madison",
+     "lat": 44.008,
+     "lon": -97.115,
+     "population": 6191
+    },
+    {
+     "wikidata": "Q947052",
+     "name": "Belle Fourche",
+     "lat": 44.667,
+     "lon": -103.85,
+     "population": 5617
+    }
+   ]
+  },
+  "47": {
+   "name": "Tennessee",
+   "wikidata": "Q1509",
+   "abbr": "TN",
+   "capital": {
+    "name": "Nashville",
+    "wikidata": "Q23197",
+    "lat": 36.162,
+    "lon": -86.774
+   },
+   "population": 6910840,
+   "area": 109247,
+   "cities": [
+    {
+     "wikidata": "Q23197",
+     "name": "Nashville",
+     "lat": 36.162,
+     "lon": -86.774,
+     "population": 689447
+    },
+    {
+     "wikidata": "Q23197",
+     "name": "Nashville",
+     "lat": 36.162,
+     "lon": -86.774,
+     "population": 689447
+    },
+    {
+     "wikidata": "Q16563",
+     "name": "Memphis",
+     "lat": 35.146,
+     "lon": -90.052,
+     "population": 633104
+    },
+    {
+     "wikidata": "Q16563",
+     "name": "Memphis",
+     "lat": 35.146,
+     "lon": -90.052,
+     "population": 633104
+    },
+    {
+     "wikidata": "Q185582",
+     "name": "Knoxville",
+     "lat": 35.962,
+     "lon": -83.923,
+     "population": 190740
+    },
+    {
+     "wikidata": "Q185582",
+     "name": "Knoxville",
+     "lat": 35.962,
+     "lon": -83.923,
+     "population": 190740
+    },
+    {
+     "wikidata": "Q186702",
+     "name": "Chattanooga",
+     "lat": 35.046,
+     "lon": -85.267,
+     "population": 181099
+    },
+    {
+     "wikidata": "Q328941",
+     "name": "Clarksville",
+     "lat": 36.53,
+     "lon": -87.359,
+     "population": 166722
+    },
+    {
+     "wikidata": "Q501766",
+     "name": "Murfreesboro",
+     "lat": 35.846,
+     "lon": -86.392,
+     "population": 152769
+    },
+    {
+     "wikidata": "Q984264",
+     "name": "Franklin",
+     "lat": 35.929,
+     "lon": -86.858,
+     "population": 83454
+    },
+    {
+     "wikidata": "Q770571",
+     "name": "Johnson City",
+     "lat": 36.313,
+     "lon": -82.353,
+     "population": 71046
+    },
+    {
+     "wikidata": "Q770571",
+     "name": "Johnson City",
+     "lat": 36.313,
+     "lon": -82.353,
+     "population": 71046
+    },
+    {
+     "wikidata": "Q985409",
+     "name": "Jackson",
+     "lat": 35.614,
+     "lon": -88.818,
+     "population": 68205
+    },
+    {
+     "wikidata": "Q335955",
+     "name": "Hendersonville",
+     "lat": 36.305,
+     "lon": -86.62,
+     "population": 61753
+    },
+    {
+     "wikidata": "Q335955",
+     "name": "Hendersonville",
+     "lat": 36.305,
+     "lon": -86.62,
+     "population": 61753
+    },
+    {
+     "wikidata": "Q809451",
+     "name": "Bartlett",
+     "lat": 35.223,
+     "lon": -89.841,
+     "population": 57786
+    },
+    {
+     "wikidata": "Q241814",
+     "name": "Kingsport",
+     "lat": 36.55,
+     "lon": -82.559,
+     "population": 55442
+    },
+    {
+     "wikidata": "Q241814",
+     "name": "Kingsport",
+     "lat": 36.55,
+     "lon": -82.559,
+     "population": 55442
+    },
+    {
+     "wikidata": "Q996433",
+     "name": "Smyrna",
+     "lat": 35.982,
+     "lon": -86.52,
+     "population": 53070
+    },
+    {
+     "wikidata": "Q1940361",
+     "name": "Collierville",
+     "lat": 35.054,
+     "lon": -89.682,
+     "population": 51324
+    },
+    {
+     "wikidata": "Q1940361",
+     "name": "Collierville",
+     "lat": 35.054,
+     "lon": -89.682,
+     "population": 51324
+    },
+    {
+     "wikidata": "Q1495814",
+     "name": "Spring Hill",
+     "lat": 35.752,
+     "lon": -86.914,
+     "population": 50005
+    },
+    {
+     "wikidata": "Q962118",
+     "name": "Cleveland",
+     "lat": 35.171,
+     "lon": -84.871,
+     "population": 47356
+    },
+    {
+     "wikidata": "Q3096621",
+     "name": "Brentwood",
+     "lat": 35.998,
+     "lon": -86.793,
+     "population": 45373
+    },
+    {
+     "wikidata": "Q2464943",
+     "name": "Gallatin",
+     "lat": 36.381,
+     "lon": -86.451,
+     "population": 44431
+    }
+   ]
+  },
+  "48": {
+   "name": "Texas",
+   "wikidata": "Q1439",
+   "abbr": "TX",
+   "capital": {
+    "name": "Austin",
+    "wikidata": "Q16559",
+    "lat": 30.3,
+    "lon": -97.733
+   },
+   "population": 29145505,
+   "area": 696241,
+   "cities": [
+    {
+     "wikidata": "Q5351808",
+     "name": "El Paso–Juárez",
+     "lat": 31.739,
+     "lon": -106.487,
+     "population": 2539946
+    },
+    {
+     "wikidata": "Q16555",
+     "name": "Houston",
+     "lat": 29.763,
+     "lon": -95.383,
+     "population": 2304580
+    },
+    {
+     "wikidata": "Q975",
+     "name": "San Antonio",
+     "lat": 29.425,
+     "lon": -98.494,
+     "population": 1434625
+    },
+    {
+     "wikidata": "Q16557",
+     "name": "Dallas",
+     "lat": 32.779,
+     "lon": -96.809,
+     "population": 1304379
+    },
+    {
+     "wikidata": "Q16557",
+     "name": "Dallas",
+     "lat": 32.779,
+     "lon": -96.809,
+     "population": 1304379
+    },
+    {
+     "wikidata": "Q16559",
+     "name": "Austin",
+     "lat": 30.3,
+     "lon": -97.733,
+     "population": 961855
+    },
+    {
+     "wikidata": "Q16559",
+     "name": "Austin",
+     "lat": 30.3,
+     "lon": -97.733,
+     "population": 961855
+    },
+    {
+     "wikidata": "Q16558",
+     "name": "Fort Worth",
+     "lat": 32.756,
+     "lon": -97.332,
+     "population": 918915
+    },
+    {
+     "wikidata": "Q16558",
+     "name": "Fort Worth",
+     "lat": 32.756,
+     "lon": -97.332,
+     "population": 918915
+    },
+    {
+     "wikidata": "Q16562",
+     "name": "El Paso",
+     "lat": 31.759,
+     "lon": -106.489,
+     "population": 678815
+    },
+    {
+     "wikidata": "Q16562",
+     "name": "El Paso",
+     "lat": 31.759,
+     "lon": -106.489,
+     "population": 678815
+    },
+    {
+     "wikidata": "Q199187",
+     "name": "Beaumont–Port Arthur",
+     "lat": 30.076,
+     "lon": -94.201,
+     "population": 397565
+    },
+    {
+     "wikidata": "Q17943",
+     "name": "Arlington",
+     "lat": 32.705,
+     "lon": -97.123,
+     "population": 394266
+    },
+    {
+     "wikidata": "Q17943",
+     "name": "Arlington",
+     "lat": 32.705,
+     "lon": -97.123,
+     "population": 394266
+    },
+    {
+     "wikidata": "Q49242",
+     "name": "Corpus Christi",
+     "lat": 27.743,
+     "lon": -97.402,
+     "population": 317863
+    },
+    {
+     "wikidata": "Q49242",
+     "name": "Corpus Christi",
+     "lat": 27.743,
+     "lon": -97.402,
+     "population": 317863
+    },
+    {
+     "wikidata": "Q51689",
+     "name": "Plano",
+     "lat": 33.05,
+     "lon": -96.75,
+     "population": 285494
+    },
+    {
+     "wikidata": "Q199266",
+     "name": "Bryan–College Station",
+     "lat": 30.634,
+     "lon": -96.341,
+     "population": 268248
+    },
+    {
+     "wikidata": "Q49273",
+     "name": "Lubbock",
+     "lat": 33.585,
+     "lon": -101.845,
+     "population": 257141
+    },
+    {
+     "wikidata": "Q49273",
+     "name": "Lubbock",
+     "lat": 33.585,
+     "lon": -101.845,
+     "population": 257141
+    },
+    {
+     "wikidata": "Q51690",
+     "name": "Irving",
+     "lat": 32.812,
+     "lon": -96.951,
+     "population": 256684
+    }
+   ]
+  },
+  "49": {
+   "name": "Utah",
+   "wikidata": "Q829",
+   "abbr": "UT",
+   "capital": {
+    "name": "Salt Lake City",
+    "wikidata": "Q23337",
+    "lat": 40.75,
+    "lon": -111.883
+   },
+   "population": 3271616,
+   "area": 219653,
+   "cities": [
+    {
+     "wikidata": "Q23337",
+     "name": "Salt Lake City",
+     "lat": 40.75,
+     "lon": -111.883,
+     "population": 218428
+    },
+    {
+     "wikidata": "Q52465",
+     "name": "West Valley City",
+     "lat": 40.689,
+     "lon": -111.994,
+     "population": 140230
+    },
+    {
+     "wikidata": "Q52466",
+     "name": "West Jordan",
+     "lat": 40.606,
+     "lon": -111.976,
+     "population": 116961
+    },
+    {
+     "wikidata": "Q23443",
+     "name": "Provo",
+     "lat": 40.234,
+     "lon": -111.659,
+     "population": 114527
+    },
+    {
+     "wikidata": "Q52472",
+     "name": "St. George",
+     "lat": 37.095,
+     "lon": -113.578,
+     "population": 108713
+    },
+    {
+     "wikidata": "Q1010595",
+     "name": "Lehi",
+     "lat": 40.388,
+     "lon": -111.836,
+     "population": 95313
+    },
+    {
+     "wikidata": "Q52468",
+     "name": "Orem",
+     "lat": 40.299,
+     "lon": -111.696,
+     "population": 95214
+    },
+    {
+     "wikidata": "Q52468",
+     "name": "Orem",
+     "lat": 40.299,
+     "lon": -111.696,
+     "population": 95214
+    },
+    {
+     "wikidata": "Q52470",
+     "name": "Sandy",
+     "lat": 40.566,
+     "lon": -111.839,
+     "population": 92386
+    },
+    {
+     "wikidata": "Q52470",
+     "name": "Sandy",
+     "lat": 40.566,
+     "lon": -111.839,
+     "population": 92386
+    },
+    {
+     "wikidata": "Q52471",
+     "name": "Ogden",
+     "lat": 41.228,
+     "lon": -111.961,
+     "population": 89510
+    },
+    {
+     "wikidata": "Q52474",
+     "name": "Layton",
+     "lat": 41.078,
+     "lon": -111.955,
+     "population": 81773
+    },
+    {
+     "wikidata": "Q52467",
+     "name": "South Jordan",
+     "lat": 40.562,
+     "lon": -111.961,
+     "population": 77487
+    },
+    {
+     "wikidata": "Q1829357",
+     "name": "Millcreek",
+     "lat": 40.686,
+     "lon": -111.864,
+     "population": 63380
+    },
+    {
+     "wikidata": "Q52475",
+     "name": "Taylorsville",
+     "lat": 40.668,
+     "lon": -111.939,
+     "population": 60448
+    },
+    {
+     "wikidata": "Q129935",
+     "name": "Herriman",
+     "lat": 40.507,
+     "lon": -112.031,
+     "population": 55144
+    },
+    {
+     "wikidata": "Q482657",
+     "name": "Logan",
+     "lat": 41.738,
+     "lon": -111.831,
+     "population": 52778
+    },
+    {
+     "wikidata": "Q482888",
+     "name": "Draper",
+     "lat": 40.515,
+     "lon": -111.873,
+     "population": 51017
+    },
+    {
+     "wikidata": "Q482822",
+     "name": "Murray",
+     "lat": 40.653,
+     "lon": -111.893,
+     "population": 50637
+    },
+    {
+     "wikidata": "Q482822",
+     "name": "Murray",
+     "lat": 40.653,
+     "lon": -111.893,
+     "population": 50637
+    },
+    {
+     "wikidata": "Q483219",
+     "name": "Bountiful",
+     "lat": 40.88,
+     "lon": -111.872,
+     "population": 45762
+    },
+    {
+     "wikidata": "Q129965",
+     "name": "Riverton",
+     "lat": 40.521,
+     "lon": -111.955,
+     "population": 45285
+    },
+    {
+     "wikidata": "Q483165",
+     "name": "Eagle Mountain",
+     "lat": 40.306,
+     "lon": -112.01,
+     "population": 43623
+    },
+    {
+     "wikidata": "Q482552",
+     "name": "Spanish Fork",
+     "lat": 40.104,
+     "lon": -111.64,
+     "population": 42602
+    },
+    {
+     "wikidata": "Q464598",
+     "name": "American Fork",
+     "lat": 40.384,
+     "lon": -111.792,
+     "population": 41020
+    },
+    {
+     "wikidata": "Q130167",
+     "name": "Roy",
+     "lat": 41.171,
+     "lon": -112.049,
+     "population": 39306
+    },
+    {
+     "wikidata": "Q482842",
+     "name": "Pleasant Grove",
+     "lat": 40.37,
+     "lon": -111.731,
+     "population": 37726
+    },
+    {
+     "wikidata": "Q482618",
+     "name": "Saratoga Springs",
+     "lat": 40.329,
+     "lon": -111.903,
+     "population": 37696
+    },
+    {
+     "wikidata": "Q3306750",
+     "name": "Kearns",
+     "lat": 40.653,
+     "lon": -112.007,
+     "population": 36723
+    },
+    {
+     "wikidata": "Q482518",
+     "name": "Midvale",
+     "lat": 40.614,
+     "lon": -111.888,
+     "population": 36028
+    },
+    {
+     "wikidata": "Q482937",
+     "name": "Tooele",
+     "lat": 40.531,
+     "lon": -112.299,
+     "population": 35742
+    }
+   ]
+  },
+  "50": {
+   "name": "Vermont",
+   "wikidata": "Q16551",
+   "abbr": "VT",
+   "capital": {
+    "name": "Montpelier",
+    "wikidata": "Q26426",
+    "lat": 44.266,
+    "lon": -72.572
+   },
+   "population": 643077,
+   "area": 24923,
+   "cities": [
+    {
+     "wikidata": "Q31058",
+     "name": "Burlington",
+     "lat": 44.476,
+     "lon": -73.213,
+     "population": 44743
+    },
+    {
+     "wikidata": "Q31058",
+     "name": "Burlington",
+     "lat": 44.476,
+     "lon": -73.213,
+     "population": 44743
+    },
+    {
+     "wikidata": "Q1004241",
+     "name": "Essex",
+     "lat": 44.52,
+     "lon": -73.065,
+     "population": 22094
+    },
+    {
+     "wikidata": "Q26065",
+     "name": "South Burlington",
+     "lat": 44.467,
+     "lon": -73.171,
+     "population": 20292
+    },
+    {
+     "wikidata": "Q978718",
+     "name": "Colchester",
+     "lat": 44.534,
+     "lon": -73.185,
+     "population": 17524
+    },
+    {
+     "wikidata": "Q25893",
+     "name": "Rutland",
+     "lat": 43.609,
+     "lon": -72.98,
+     "population": 15807
+    },
+    {
+     "wikidata": "Q817921",
+     "name": "Bennington",
+     "lat": 42.885,
+     "lon": -73.213,
+     "population": 15333
+    },
+    {
+     "wikidata": "Q899813",
+     "name": "Brattleboro",
+     "lat": 42.862,
+     "lon": -72.614,
+     "population": 12184
+    },
+    {
+     "wikidata": "Q899813",
+     "name": "Brattleboro",
+     "lat": 42.862,
+     "lon": -72.614,
+     "population": 12184
+    },
+    {
+     "wikidata": "Q1789757",
+     "name": "Milton",
+     "lat": 44.643,
+     "lon": -73.154,
+     "population": 10723
+    },
+    {
+     "wikidata": "Q1789757",
+     "name": "Milton",
+     "lat": 44.643,
+     "lon": -73.154,
+     "population": 10723
+    },
+    {
+     "wikidata": "Q1587168",
+     "name": "Hartford",
+     "lat": 43.661,
+     "lon": -72.338,
+     "population": 10686
+    },
+    {
+     "wikidata": "Q648356",
+     "name": "Essex Junction",
+     "lat": 44.491,
+     "lon": -73.111,
+     "population": 10590
+    },
+    {
+     "wikidata": "Q648356",
+     "name": "Essex Junction",
+     "lat": 44.491,
+     "lon": -73.111,
+     "population": 10590
+    },
+    {
+     "wikidata": "Q1819030",
+     "name": "Williston",
+     "lat": 44.438,
+     "lon": -73.068,
+     "population": 10103
+    },
+    {
+     "wikidata": "Q1012392",
+     "name": "Middlebury",
+     "lat": 44.004,
+     "lon": -73.122,
+     "population": 9152
+    },
+    {
+     "wikidata": "Q40212",
+     "name": "Springfield",
+     "lat": 43.297,
+     "lon": -72.483,
+     "population": 9062
+    },
+    {
+     "wikidata": "Q26071",
+     "name": "Barre",
+     "lat": 44.2,
+     "lon": -72.508,
+     "population": 8491
+    },
+    {
+     "wikidata": "Q26426",
+     "name": "Montpelier",
+     "lat": 44.266,
+     "lon": -72.572,
+     "population": 8074
+    },
+    {
+     "wikidata": "Q26426",
+     "name": "Montpelier",
+     "lat": 44.266,
+     "lon": -72.572,
+     "population": 8074
+    },
+    {
+     "wikidata": "Q993232",
+     "name": "Winooski",
+     "lat": 44.495,
+     "lon": -73.184,
+     "population": 7997
+    },
+    {
+     "wikidata": "Q808841",
+     "name": "Barre",
+     "lat": 44.186,
+     "lon": -72.482,
+     "population": 7923
+    },
+    {
+     "wikidata": "Q808841",
+     "name": "Barre",
+     "lat": 44.186,
+     "lon": -72.482,
+     "population": 7923
+    },
+    {
+     "wikidata": "Q1018289",
+     "name": "Shelburne",
+     "lat": 44.391,
+     "lon": -73.241,
+     "population": 7717
+    },
+    {
+     "wikidata": "Q1014607",
+     "name": "St. Johnsbury",
+     "lat": 44.455,
+     "lon": -72.012,
+     "population": 7364
+    },
+    {
+     "wikidata": "Q968060",
+     "name": "St. Albans",
+     "lat": 44.81,
+     "lon": -73.152,
+     "population": 6988
+    },
+    {
+     "wikidata": "Q1787559",
+     "name": "Saint Albans",
+     "lat": 44.81,
+     "lon": -73.087,
+     "population": 6877
+    },
+    {
+     "wikidata": "Q2047233",
+     "name": "Swanton",
+     "lat": 44.918,
+     "lon": -73.124,
+     "population": 6701
+    },
+    {
+     "wikidata": "Q6126974",
+     "name": "Shelburne",
+     "lat": 44.377,
+     "lon": -73.227,
+     "population": 6178
+    },
+    {
+     "wikidata": "Q1406285",
+     "name": "Northfield",
+     "lat": 44.151,
+     "lon": -72.656,
+     "population": 5918
+    }
+   ]
+  },
+  "51": {
+   "name": "Virginia",
+   "wikidata": "Q1370",
+   "abbr": "VA",
+   "capital": {
+    "name": "Richmond",
+    "wikidata": "Q43421",
+    "lat": 37.541,
+    "lon": -77.437
+   },
+   "population": 8631393,
+   "area": 110862,
+   "cities": [
+    {
+     "wikidata": "Q1011895",
+     "name": "Hampton Roads",
+     "lat": 36.95,
+     "lon": -76.4,
+     "population": 1799674
+    },
+    {
+     "wikidata": "Q49259",
+     "name": "Virginia Beach",
+     "lat": 36.851,
+     "lon": -75.978,
+     "population": 459470
+    },
+    {
+     "wikidata": "Q49222",
+     "name": "Chesapeake",
+     "lat": 36.767,
+     "lon": -76.287,
+     "population": 249422
+    },
+    {
+     "wikidata": "Q49222",
+     "name": "Chesapeake",
+     "lat": 36.767,
+     "lon": -76.287,
+     "population": 249422
+    },
+    {
+     "wikidata": "Q49279759",
+     "name": "Arlington",
+     "lat": 38.879,
+     "lon": -77.101,
+     "population": 238643
+    },
+    {
+     "wikidata": "Q49279759",
+     "name": "Arlington",
+     "lat": 38.879,
+     "lon": -77.101,
+     "population": 238643
+    },
+    {
+     "wikidata": "Q49231",
+     "name": "Norfolk",
+     "lat": 36.847,
+     "lon": -76.285,
+     "population": 238005
+    },
+    {
+     "wikidata": "Q49231",
+     "name": "Norfolk",
+     "lat": 36.847,
+     "lon": -76.285,
+     "population": 238005
+    },
+    {
+     "wikidata": "Q43421",
+     "name": "Richmond",
+     "lat": 37.541,
+     "lon": -77.437,
+     "population": 226610
+    },
+    {
+     "wikidata": "Q43421",
+     "name": "Richmond",
+     "lat": 37.541,
+     "lon": -77.437,
+     "population": 226610
+    },
+    {
+     "wikidata": "Q335017",
+     "name": "Newport News",
+     "lat": 37.071,
+     "lon": -76.484,
+     "population": 186247
+    },
+    {
+     "wikidata": "Q88",
+     "name": "Alexandria",
+     "lat": 38.805,
+     "lon": -77.047,
+     "population": 159467
+    },
+    {
+     "wikidata": "Q8023770",
+     "name": "Winchester, VA–WV MSA",
+     "lat": 39.272,
+     "lon": -78.474,
+     "population": 142632
+    },
+    {
+     "wikidata": "Q342043",
+     "name": "Hampton",
+     "lat": 37.026,
+     "lon": -76.344,
+     "population": 137148
+    },
+    {
+     "wikidata": "Q342043",
+     "name": "Hampton",
+     "lat": 37.026,
+     "lon": -76.344,
+     "population": 137148
+    },
+    {
+     "wikidata": "Q501796",
+     "name": "Roanoke",
+     "lat": 37.271,
+     "lon": -79.942,
+     "population": 100011
+    },
+    {
+     "wikidata": "Q501796",
+     "name": "Roanoke",
+     "lat": 37.271,
+     "lon": -79.942,
+     "population": 100011
+    },
+    {
+     "wikidata": "Q342803",
+     "name": "Portsmouth",
+     "lat": 36.835,
+     "lon": -76.298,
+     "population": 97915
+    },
+    {
+     "wikidata": "Q342428",
+     "name": "Suffolk",
+     "lat": 36.728,
+     "lon": -76.583,
+     "population": 94324
+    },
+    {
+     "wikidata": "Q844012",
+     "name": "Lynchburg",
+     "lat": 37.404,
+     "lon": -79.17,
+     "population": 79009
+    },
+    {
+     "wikidata": "Q844012",
+     "name": "Lynchburg",
+     "lat": 37.404,
+     "lon": -79.17,
+     "population": 79009
+    },
+    {
+     "wikidata": "Q1374678",
+     "name": "Centreville",
+     "lat": 38.843,
+     "lon": -77.442,
+     "population": 73518
+    },
+    {
+     "wikidata": "Q976180",
+     "name": "Dale City",
+     "lat": 38.648,
+     "lon": -77.342,
+     "population": 72088
+    },
+    {
+     "wikidata": "Q1375280",
+     "name": "Reston",
+     "lat": 38.959,
+     "lon": -77.359,
+     "population": 63226
+    },
+    {
+     "wikidata": "Q1375280",
+     "name": "Reston",
+     "lat": 38.959,
+     "lon": -77.359,
+     "population": 63226
+    }
+   ]
+  },
+  "53": {
+   "name": "Washington",
+   "wikidata": "Q1223",
+   "abbr": "WA",
+   "capital": {
+    "name": "Olympia",
+    "wikidata": "Q42735",
+    "lat": 47.042,
+    "lon": -122.893
+   },
+   "population": 7705281,
+   "area": 184827,
+   "cities": [
+    {
+     "wikidata": "Q5083",
+     "name": "Seattle",
+     "lat": 47.605,
+     "lon": -122.33,
+     "population": 737015
+    },
+    {
+     "wikidata": "Q5083",
+     "name": "Seattle",
+     "lat": 47.605,
+     "lon": -122.33,
+     "population": 737015
+    },
+    {
+     "wikidata": "Q187805",
+     "name": "Spokane",
+     "lat": 47.657,
+     "lon": -117.424,
+     "population": 228989
+    },
+    {
+     "wikidata": "Q199797",
+     "name": "Tacoma",
+     "lat": 47.252,
+     "lon": -122.448,
+     "population": 219346
+    },
+    {
+     "wikidata": "Q234053",
+     "name": "Vancouver",
+     "lat": 45.631,
+     "lon": -122.672,
+     "population": 190915
+    },
+    {
+     "wikidata": "Q234053",
+     "name": "Vancouver",
+     "lat": 45.631,
+     "lon": -122.672,
+     "population": 190915
+    },
+    {
+     "wikidata": "Q214164",
+     "name": "Bellevue",
+     "lat": 47.614,
+     "lon": -122.192,
+     "population": 151854
+    },
+    {
+     "wikidata": "Q844008",
+     "name": "Kent",
+     "lat": 47.383,
+     "lon": -122.227,
+     "population": 136588
+    },
+    {
+     "wikidata": "Q392599",
+     "name": "Everett",
+     "lat": 47.963,
+     "lon": -122.201,
+     "population": 110629
+    },
+    {
+     "wikidata": "Q679952",
+     "name": "Renton",
+     "lat": 47.48,
+     "lon": -122.203,
+     "population": 106785
+    },
+    {
+     "wikidata": "Q679952",
+     "name": "Renton",
+     "lat": 47.48,
+     "lon": -122.203,
+     "population": 106785
+    },
+    {
+     "wikidata": "Q988065",
+     "name": "Spokane Valley",
+     "lat": 47.673,
+     "lon": -117.239,
+     "population": 102976
+    },
+    {
+     "wikidata": "Q821112",
+     "name": "Federal Way",
+     "lat": 47.315,
+     "lon": -122.34,
+     "population": 101030
+    },
+    {
+     "wikidata": "Q499203",
+     "name": "Yakima",
+     "lat": 46.602,
+     "lon": -120.508,
+     "population": 96968
+    },
+    {
+     "wikidata": "Q499203",
+     "name": "Yakima",
+     "lat": 46.602,
+     "lon": -120.508,
+     "population": 96968
+    },
+    {
+     "wikidata": "Q936768",
+     "name": "Kirkland",
+     "lat": 47.686,
+     "lon": -122.192,
+     "population": 92175
+    },
+    {
+     "wikidata": "Q430267",
+     "name": "Bellingham",
+     "lat": 48.754,
+     "lon": -122.479,
+     "population": 91482
+    },
+    {
+     "wikidata": "Q661595",
+     "name": "Auburn",
+     "lat": 47.302,
+     "lon": -122.215,
+     "population": 87256
+    },
+    {
+     "wikidata": "Q844033",
+     "name": "Kennewick",
+     "lat": 46.203,
+     "lon": -119.159,
+     "population": 83921
+    },
+    {
+     "wikidata": "Q844016",
+     "name": "Pasco",
+     "lat": 46.239,
+     "lon": -119.109,
+     "population": 77108
+    },
+    {
+     "wikidata": "Q844016",
+     "name": "Pasco",
+     "lat": 46.239,
+     "lon": -119.109,
+     "population": 77108
+    },
+    {
+     "wikidata": "Q223718",
+     "name": "Redmond",
+     "lat": 47.669,
+     "lon": -122.124,
+     "population": 73256
+    },
+    {
+     "wikidata": "Q223718",
+     "name": "Redmond",
+     "lat": 47.669,
+     "lon": -122.124,
+     "population": 73256
+    },
+    {
+     "wikidata": "Q970001",
+     "name": "Marysville",
+     "lat": 48.063,
+     "lon": -122.163,
+     "population": 70714
+    },
+    {
+     "wikidata": "Q988209",
+     "name": "Sammamish",
+     "lat": 47.609,
+     "lon": -122.042,
+     "population": 67455
+    }
+   ]
+  },
+  "54": {
+   "name": "West Virginia",
+   "wikidata": "Q1371",
+   "abbr": "WV",
+   "capital": {
+    "name": "Charleston",
+    "wikidata": "Q44564",
+    "lat": 38.347,
+    "lon": -81.633
+   },
+   "population": 1793716,
+   "area": 62755,
+   "cities": [
+    {
+     "wikidata": "Q8023770",
+     "name": "Winchester, VA–WV MSA",
+     "lat": 39.272,
+     "lon": -78.474,
+     "population": 142632
+    },
+    {
+     "wikidata": "Q44564",
+     "name": "Charleston",
+     "lat": 38.347,
+     "lon": -81.633,
+     "population": 48864
+    },
+    {
+     "wikidata": "Q241808",
+     "name": "Huntington",
+     "lat": 38.421,
+     "lon": -82.424,
+     "population": 46842
+    },
+    {
+     "wikidata": "Q241808",
+     "name": "Huntington",
+     "lat": 38.421,
+     "lon": -82.424,
+     "population": 46842
+    },
+    {
+     "wikidata": "Q653636",
+     "name": "Morgantown",
+     "lat": 39.634,
+     "lon": -79.951,
+     "population": 30347
+    },
+    {
+     "wikidata": "Q329485",
+     "name": "Parkersburg",
+     "lat": 39.266,
+     "lon": -81.542,
+     "population": 29738
+    },
+    {
+     "wikidata": "Q329485",
+     "name": "Parkersburg",
+     "lat": 39.266,
+     "lon": -81.542,
+     "population": 29738
+    },
+    {
+     "wikidata": "Q838112",
+     "name": "Wheeling",
+     "lat": 40.07,
+     "lon": -80.699,
+     "population": 27052
+    },
+    {
+     "wikidata": "Q1873442",
+     "name": "Weirton",
+     "lat": 40.419,
+     "lon": -80.589,
+     "population": 19163
+    },
+    {
+     "wikidata": "Q1010194",
+     "name": "Martinsburg",
+     "lat": 39.456,
+     "lon": -77.968,
+     "population": 18777
+    },
+    {
+     "wikidata": "Q2001693",
+     "name": "Fairmont",
+     "lat": 39.481,
+     "lon": -80.143,
+     "population": 18416
+    },
+    {
+     "wikidata": "Q813745",
+     "name": "Beckley",
+     "lat": 37.78,
+     "lon": -81.183,
+     "population": 17286
+    },
+    {
+     "wikidata": "Q1010199",
+     "name": "Clarksburg",
+     "lat": 39.281,
+     "lon": -80.344,
+     "population": 16061
+    },
+    {
+     "wikidata": "Q981401",
+     "name": "Teays Valley",
+     "lat": 38.447,
+     "lon": -81.937,
+     "population": 14350
+    },
+    {
+     "wikidata": "Q2056675",
+     "name": "South Charleston",
+     "lat": 38.368,
+     "lon": -81.7,
+     "population": 13647
+    },
+    {
+     "wikidata": "Q2710676",
+     "name": "St. Albans",
+     "lat": 38.386,
+     "lon": -81.836,
+     "population": 10861
+    },
+    {
+     "wikidata": "Q749045",
+     "name": "Vienna",
+     "lat": 39.325,
+     "lon": -81.543,
+     "population": 10652
+    },
+    {
+     "wikidata": "Q3314928",
+     "name": "Cheat Lake",
+     "lat": 39.667,
+     "lon": -79.853,
+     "population": 9930
+    },
+    {
+     "wikidata": "Q2736106",
+     "name": "Cross Lanes",
+     "lat": 38.429,
+     "lon": -81.776,
+     "population": 9727
+    },
+    {
+     "wikidata": "Q885991",
+     "name": "Bluefield",
+     "lat": 37.262,
+     "lon": -81.219,
+     "population": 9658
+    }
+   ]
+  },
+  "55": {
+   "name": "Wisconsin",
+   "wikidata": "Q1537",
+   "abbr": "WI",
+   "capital": {
+    "name": "Madison",
+    "wikidata": "Q43788",
+    "lat": 43.075,
+    "lon": -89.384
+   },
+   "population": 5893718,
+   "area": 169640,
+   "cities": [
+    {
+     "wikidata": "Q37836",
+     "name": "Milwaukee",
+     "lat": 43.05,
+     "lon": -87.95,
+     "population": 577222
+    },
+    {
+     "wikidata": "Q37836",
+     "name": "Milwaukee",
+     "lat": 43.05,
+     "lon": -87.95,
+     "population": 577222
+    },
+    {
+     "wikidata": "Q43788",
+     "name": "Madison",
+     "lat": 43.075,
+     "lon": -89.384,
+     "population": 269840
+    },
+    {
+     "wikidata": "Q43788",
+     "name": "Madison",
+     "lat": 43.075,
+     "lon": -89.384,
+     "population": 269840
+    },
+    {
+     "wikidata": "Q6462075",
+     "name": "La Crosse–Onalaska",
+     "lat": 43.779,
+     "lon": -91.32,
+     "population": 139627
+    },
+    {
+     "wikidata": "Q47430",
+     "name": "Green Bay",
+     "lat": 44.513,
+     "lon": -88.013,
+     "population": 107395
+    },
+    {
+     "wikidata": "Q462161",
+     "name": "Kenosha",
+     "lat": 42.582,
+     "lon": -87.846,
+     "population": 99986
+    },
+    {
+     "wikidata": "Q40340",
+     "name": "Racine",
+     "lat": 42.726,
+     "lon": -87.806,
+     "population": 77816
+    },
+    {
+     "wikidata": "Q94928",
+     "name": "Appleton",
+     "lat": 44.282,
+     "lon": -88.418,
+     "population": 75644
+    },
+    {
+     "wikidata": "Q94919",
+     "name": "Waukesha",
+     "lat": 43.012,
+     "lon": -88.232,
+     "population": 71991
+    },
+    {
+     "wikidata": "Q122563",
+     "name": "Eau Claire",
+     "lat": 44.815,
+     "lon": -91.493,
+     "population": 69421
+    },
+    {
+     "wikidata": "Q936741",
+     "name": "Oshkosh",
+     "lat": 44.024,
+     "lon": -88.561,
+     "population": 66816
+    },
+    {
+     "wikidata": "Q257536",
+     "name": "Janesville",
+     "lat": 42.685,
+     "lon": -89.014,
+     "population": 65615
+    },
+    {
+     "wikidata": "Q389483",
+     "name": "West Allis",
+     "lat": 43.008,
+     "lon": -88.018,
+     "population": 60325
+    },
+    {
+     "wikidata": "Q936780",
+     "name": "La Crosse",
+     "lat": 43.813,
+     "lon": -91.233,
+     "population": 52680
+    },
+    {
+     "wikidata": "Q984834",
+     "name": "Sheboygan",
+     "lat": 43.75,
+     "lon": -87.725,
+     "population": 49929
+    }
+   ]
+  },
+  "56": {
+   "name": "Wyoming",
+   "wikidata": "Q1214",
+   "abbr": "WY",
+   "capital": {
+    "name": "Cheyenne",
+    "wikidata": "Q39042",
+    "lat": 41.146,
+    "lon": -104.802
+   },
+   "population": 576851,
+   "area": 253348,
+   "cities": [
+    {
+     "wikidata": "Q39042",
+     "name": "Cheyenne",
+     "lat": 41.146,
+     "lon": -104.802,
+     "population": 65132
+    },
+    {
+     "wikidata": "Q223177",
+     "name": "Casper",
+     "lat": 42.835,
+     "lon": -106.325,
+     "population": 59038
+    },
+    {
+     "wikidata": "Q919040",
+     "name": "Gillette",
+     "lat": 44.283,
+     "lon": -105.505,
+     "population": 33403
+    },
+    {
+     "wikidata": "Q327515",
+     "name": "Laramie",
+     "lat": 41.311,
+     "lon": -105.594,
+     "population": 31407
+    },
+    {
+     "wikidata": "Q378071",
+     "name": "Rock Springs",
+     "lat": 41.585,
+     "lon": -109.221,
+     "population": 23526
+    },
+    {
+     "wikidata": "Q1017214",
+     "name": "Sheridan",
+     "lat": 44.797,
+     "lon": -106.959,
+     "population": 18737
+    },
+    {
+     "wikidata": "Q983538",
+     "name": "Green River",
+     "lat": 41.514,
+     "lon": -109.465,
+     "population": 11825
+    },
+    {
+     "wikidata": "Q871241",
+     "name": "Evanston",
+     "lat": 41.263,
+     "lon": -110.965,
+     "population": 11747
+    },
+    {
+     "wikidata": "Q871285",
+     "name": "Jackson",
+     "lat": 43.475,
+     "lon": -110.769,
+     "population": 10760
+    },
+    {
+     "wikidata": "Q603240",
+     "name": "Riverton",
+     "lat": 43.028,
+     "lon": -108.395,
+     "population": 10682
+    },
+    {
+     "wikidata": "Q916603",
+     "name": "Cody",
+     "lat": 44.523,
+     "lon": -109.057,
+     "population": 10028
+    },
+    {
+     "wikidata": "Q958137",
+     "name": "Rawlins",
+     "lat": 41.79,
+     "lon": -107.234,
+     "population": 8221
+    },
+    {
+     "wikidata": "Q992094",
+     "name": "Lander",
+     "lat": 42.833,
+     "lon": -108.733,
+     "population": 7546
+    },
+    {
+     "wikidata": "Q1029174",
+     "name": "Powell",
+     "lat": 44.759,
+     "lon": -108.758,
+     "population": 6419
+    },
+    {
+     "wikidata": "Q983438",
+     "name": "Douglas",
+     "lat": 42.756,
+     "lon": -105.384,
+     "population": 6386
+    },
+    {
+     "wikidata": "Q1942363",
+     "name": "Ranchettes",
+     "lat": 41.187,
+     "lon": -104.792,
+     "population": 6199
+    },
+    {
+     "wikidata": "Q988195",
+     "name": "Torrington",
+     "lat": 42.067,
+     "lon": -104.183,
+     "population": 6119
+    },
+    {
+     "wikidata": "Q845469",
+     "name": "Worland",
+     "lat": 44.015,
+     "lon": -107.957,
+     "population": 4773
+    },
+    {
+     "wikidata": "Q1942452",
+     "name": "South Greeley",
+     "lat": 41.097,
+     "lon": -104.805,
+     "population": 4733
+    }
+   ]
+  },
+  "60": {
+   "name": "American Samoa",
+   "wikidata": "Q16641",
+   "abbr": "AS",
+   "capital": {
+    "name": "Pago Pago",
+    "wikidata": "Q51678",
+    "lat": -14.279,
+    "lon": -170.701
+   },
+   "population": 49710,
+   "area": 199,
+   "cities": [
+    {
+     "wikidata": "Q1019488",
+     "name": "Tafuna",
+     "lat": -14.336,
+     "lon": -170.72,
+     "population": 7988
+    },
+    {
+     "wikidata": "Q1773774",
+     "name": "Leone",
+     "lat": -14.344,
+     "lon": -170.785,
+     "population": 2902
+    },
+    {
+     "wikidata": "Q609232",
+     "name": "Aua",
+     "lat": -14.267,
+     "lon": -170.65,
+     "population": 2336
+    },
+    {
+     "wikidata": "Q1773791",
+     "name": "Utulei",
+     "lat": -14.287,
+     "lon": -170.683,
+     "population": 807
+    },
+    {
+     "wikidata": "Q1773777",
+     "name": "Alao",
+     "lat": -14.268,
+     "lon": -170.564,
+     "population": 528
+    },
+    {
+     "wikidata": "Q3620485",
+     "name": "Anua",
+     "lat": -14.275,
+     "lon": -170.688,
+     "population": 265
+    },
+    {
+     "wikidata": "Q2832407",
+     "name": "Alega",
+     "lat": -14.285,
+     "lon": -170.637,
+     "population": 54
+    },
+    {
+     "wikidata": "Q1982843",
+     "name": "Taulaga",
+     "lat": -11.055,
+     "lon": -171.088,
+     "population": 17
+    }
+   ]
+  },
+  "66": {
+   "name": "Guam",
+   "wikidata": "Q16635",
+   "abbr": "GU",
+   "capital": {
+    "name": "Hagåtña",
+    "wikidata": "Q30988",
+    "lat": 13.483,
+    "lon": 144.75
+   },
+   "population": 153836,
+   "area": 544,
+   "cities": [
+    {
+     "wikidata": "Q1182147",
+     "name": "Dededo",
+     "lat": 13.515,
+     "lon": 144.836,
+     "population": 44908
+    },
+    {
+     "wikidata": "Q2482473",
+     "name": "Yigo",
+     "lat": 13.534,
+     "lon": 144.886,
+     "population": 20539
+    },
+    {
+     "wikidata": "Q933714",
+     "name": "Tamuning",
+     "lat": 13.505,
+     "lon": 144.797,
+     "population": 19685
+    },
+    {
+     "wikidata": "Q2714489",
+     "name": "Barrigada",
+     "lat": 13.468,
+     "lon": 144.799,
+     "population": 8875
+    },
+    {
+     "wikidata": "Q2482483",
+     "name": "Chalan Pago-Ordot",
+     "lat": 13.441,
+     "lon": 144.771,
+     "population": 7064
+    },
+    {
+     "wikidata": "Q1780393",
+     "name": "Mongmong-Toto-Maite",
+     "lat": 13.472,
+     "lon": 144.77,
+     "population": 6825
+    },
+    {
+     "wikidata": "Q2638381",
+     "name": "Yona",
+     "lat": 13.41,
+     "lon": 144.773,
+     "population": 6480
+    },
+    {
+     "wikidata": "Q1780381",
+     "name": "Sånta Rita-Sumai",
+     "lat": 13.386,
+     "lon": 144.669,
+     "population": 6084
+    },
+    {
+     "wikidata": "Q125799688",
+     "name": "Apotgan",
+     "lat": 13.489,
+     "lon": 144.778,
+     "population": 5224
+    },
+    {
+     "wikidata": "Q2637935",
+     "name": "Mangilao",
+     "lat": 13.449,
+     "lon": 144.8,
+     "population": 5145
+    },
+    {
+     "wikidata": "Q665845",
+     "name": "Hågat",
+     "lat": 13.381,
+     "lon": 144.655,
+     "population": 4917
+    },
+    {
+     "wikidata": "Q125799749",
+     "name": "Tamuning",
+     "lat": 13.495,
+     "lon": 144.789,
+     "population": 3892
+    },
+    {
+     "wikidata": "Q2714496",
+     "name": "Agana Heights",
+     "lat": 13.468,
+     "lon": 144.746,
+     "population": 3808
+    },
+    {
+     "wikidata": "Q2482468",
+     "name": "Talofofo",
+     "lat": 13.352,
+     "lon": 144.753,
+     "population": 3050
+    },
+    {
+     "wikidata": "Q125799367",
+     "name": "Apra Harbor",
+     "lat": 13.429,
+     "lon": 144.654,
+     "population": 2930
+    },
+    {
+     "wikidata": "Q2482489",
+     "name": "Sinajana",
+     "lat": 13.461,
+     "lon": 144.752,
+     "population": 2592
+    },
+    {
+     "wikidata": "Q2482456",
+     "name": "Inalåhan",
+     "lat": 13.276,
+     "lon": 144.743,
+     "population": 2273
+    },
+    {
+     "wikidata": "Q6385952",
+     "name": "Asan",
+     "lat": 13.471,
+     "lon": 144.714,
+     "population": 2137
+    },
+    {
+     "wikidata": "Q926116",
+     "name": "Asan-Maina",
+     "lat": 13.471,
+     "lon": 144.714,
+     "population": 2137
+    },
+    {
+     "wikidata": "Q2482463",
+     "name": "Piti",
+     "lat": 13.461,
+     "lon": 144.691,
+     "population": 1585
+    },
+    {
+     "wikidata": "Q2482497",
+     "name": "Merizo",
+     "lat": 13.263,
+     "lon": 144.67,
+     "population": 1538
+    },
+    {
+     "wikidata": "Q30988",
+     "name": "Hagåtña",
+     "lat": 13.483,
+     "lon": 144.75,
+     "population": 943
+    },
+    {
+     "wikidata": "Q531529",
+     "name": "Umatac",
+     "lat": 13.298,
+     "lon": 144.659,
+     "population": 647
+    }
+   ]
+  },
+  "69": {
+   "name": "Commonwealth of the Northern Mariana Islands",
+   "wikidata": "Q16644",
+   "abbr": "MP",
+   "capital": {
+    "name": "Saipan",
+    "wikidata": "Q49755159",
+    "lat": 15.212,
+    "lon": 145.755
+   },
+   "population": 47329,
+   "area": 464,
+   "cities": [
+    {
+     "wikidata": "Q49755159",
+     "name": "Saipan",
+     "lat": 15.212,
+     "lon": 145.755,
+     "population": 43385
+    },
+    {
+     "wikidata": "Q49755159",
+     "name": "Saipan",
+     "lat": 15.212,
+     "lon": 145.755,
+     "population": 43385
+    },
+    {
+     "wikidata": "Q325652",
+     "name": "Tinian",
+     "lat": 15,
+     "lon": 145.633,
+     "population": 3136
+    }
+   ]
+  },
+  "72": {
+   "name": "Puerto Rico",
+   "wikidata": "Q1183",
+   "abbr": "PR",
+   "capital": {
+    "name": "San Juan",
+    "wikidata": "Q41211",
+    "lat": 18.465,
+    "lon": -66.117
+   },
+   "population": 3285874,
+   "area": 9104,
+   "cities": [
+    {
+     "wikidata": "Q41211",
+     "name": "San Juan",
+     "lat": 18.465,
+     "lon": -66.117,
+     "population": 342259
+    },
+    {
+     "wikidata": "Q125766533",
+     "name": "San Juan",
+     "lat": 18.405,
+     "lon": -66.064,
+     "population": 322854
+    },
+    {
+     "wikidata": "Q125777788",
+     "name": "Bayamón",
+     "lat": 18.38,
+     "lon": -66.163,
+     "population": 165368
+    },
+    {
+     "wikidata": "Q125777794",
+     "name": "Carolina",
+     "lat": 18.412,
+     "lon": -65.98,
+     "population": 138304
+    },
+    {
+     "wikidata": "Q527268",
+     "name": "Caguas",
+     "lat": 18.233,
+     "lon": -66.033,
+     "population": 127244
+    },
+    {
+     "wikidata": "Q125766368",
+     "name": "Ponce",
+     "lat": 18.001,
+     "lon": -66.623,
+     "population": 107951
+    },
+    {
+     "wikidata": "Q511729",
+     "name": "Santurce",
+     "lat": 18.441,
+     "lon": -66.047,
+     "population": 94067
+    },
+    {
+     "wikidata": "Q125777790",
+     "name": "Caguas",
+     "lat": 18.232,
+     "lon": -66.039,
+     "population": 70318
+    },
+    {
+     "wikidata": "Q125777812",
+     "name": "Guaynabo",
+     "lat": 18.384,
+     "lon": -66.113,
+     "population": 68491
+    },
+    {
+     "wikidata": "Q125777739",
+     "name": "Mayagüez",
+     "lat": 18.201,
+     "lon": -67.143,
+     "population": 57566
+    },
+    {
+     "wikidata": "Q397826",
+     "name": "Aguadilla",
+     "lat": 18.48,
+     "lon": -67.144,
+     "population": 55101
+    },
+    {
+     "wikidata": "Q125777765",
+     "name": "Trujillo Alto",
+     "lat": 18.36,
+     "lon": -66.01,
+     "population": 43712
+    },
+    {
+     "wikidata": "Q125777784",
+     "name": "Arecibo",
+     "lat": 18.455,
+     "lon": -66.735,
+     "population": 39634
+    },
+    {
+     "wikidata": "Q125780620",
+     "name": "Mansión del Mar",
+     "lat": 18.446,
+     "lon": -66.179,
+     "population": 25591
+    },
+    {
+     "wikidata": "Q125777807",
+     "name": "Fajardo",
+     "lat": 18.333,
+     "lon": -65.657,
+     "population": 25133
+    },
+    {
+     "wikidata": "Q125777768",
+     "name": "Vega Baja",
+     "lat": 18.441,
+     "lon": -66.399,
+     "population": 23415
+    },
+    {
+     "wikidata": "Q125777795",
+     "name": "Cataño",
+     "lat": 18.442,
+     "lon": -66.139,
+     "population": 23155
+    },
+    {
+     "wikidata": "Q125777810",
+     "name": "Guayama",
+     "lat": 17.974,
+     "lon": -66.11,
+     "population": 18797
+    },
+    {
+     "wikidata": "Q1917191",
+     "name": "Mayagüez barrio-pueblo",
+     "lat": 18.203,
+     "lon": -67.146,
+     "population": 18569
+    },
+    {
+     "wikidata": "Q125777816",
+     "name": "Humacao",
+     "lat": 18.152,
+     "lon": -65.82,
+     "population": 14972
+    },
+    {
+     "wikidata": "Q34789640",
+     "name": "Candelaria",
+     "lat": 18.404,
+     "lon": -66.209,
+     "population": 14662
+    },
+    {
+     "wikidata": "Q125777796",
+     "name": "Cayey",
+     "lat": 18.115,
+     "lon": -66.163,
+     "population": 13999
+    },
+    {
+     "wikidata": "Q125777772",
+     "name": "Yauco",
+     "lat": 18.035,
+     "lon": -66.862,
+     "population": 13569
+    },
+    {
+     "wikidata": "Q4409961",
+     "name": "Guayama barrio-pueblo",
+     "lat": 17.977,
+     "lon": -66.114,
+     "population": 13425
+    }
+   ]
+  },
+  "78": {
+   "name": "United States Virgin Islands",
+   "wikidata": "Q11703",
+   "abbr": "VI",
+   "capital": {
+    "name": "Charlotte Amalie",
+    "wikidata": "Q51681",
+    "lat": 18.35,
+    "lon": -64.95
+   },
+   "population": 87146,
+   "area": 346,
+   "cities": [
+    {
+     "wikidata": "Q463937",
+     "name": "Saint Thomas",
+     "lat": 18.333,
+     "lon": -64.917,
+     "population": 42261
+    },
+    {
+     "wikidata": "Q463937",
+     "name": "Saint Thomas",
+     "lat": 18.333,
+     "lon": -64.917,
+     "population": 42261
+    },
+    {
+     "wikidata": "Q7525352",
+     "name": "Sion Farm",
+     "lat": 17.733,
+     "lon": -64.743,
+     "population": 13003
+    },
+    {
+     "wikidata": "Q849441",
+     "name": "Saint John",
+     "lat": 18.34,
+     "lon": -64.75,
+     "population": 3881
+    },
+    {
+     "wikidata": "Q2663801",
+     "name": "Cruz Bay",
+     "lat": 18.333,
+     "lon": -64.793,
+     "population": 2652
+    },
+    {
+     "wikidata": "Q994719",
+     "name": "Christiansted",
+     "lat": 17.75,
+     "lon": -64.75,
+     "population": 1866
+    },
+    {
+     "wikidata": "Q5169446",
+     "name": "Coral Bay, United States Virgin Islands",
+     "lat": 18.348,
+     "lon": -64.713,
+     "population": 634
+    }
+   ]
+  },
+  "01": {
+   "name": "Alabama",
+   "wikidata": "Q173",
+   "abbr": "AL",
+   "capital": {
+    "name": "Montgomery",
+    "wikidata": "Q29364",
+    "lat": 32.367,
+    "lon": -86.3
+   },
+   "population": 5024279,
+   "area": 135765,
+   "cities": [
+    {
+     "wikidata": "Q79860",
+     "name": "Huntsville",
+     "lat": 34.714,
+     "lon": -86.586,
+     "population": 215006
+    },
+    {
+     "wikidata": "Q79860",
+     "name": "Huntsville",
+     "lat": 34.714,
+     "lon": -86.586,
+     "population": 215006
+    },
+    {
+     "wikidata": "Q79867",
+     "name": "Birmingham",
+     "lat": 33.517,
+     "lon": -86.809,
+     "population": 200733
+    },
+    {
+     "wikidata": "Q29364",
+     "name": "Montgomery",
+     "lat": 32.367,
+     "lon": -86.3,
+     "population": 200603
+    },
+    {
+     "wikidata": "Q29364",
+     "name": "Montgomery",
+     "lat": 32.367,
+     "lon": -86.3,
+     "population": 200603
+    },
+    {
+     "wikidata": "Q79875",
+     "name": "Mobile",
+     "lat": 30.728,
+     "lon": -88.053,
+     "population": 187041
+    },
+    {
+     "wikidata": "Q79580",
+     "name": "Tuscaloosa",
+     "lat": 33.207,
+     "lon": -87.535,
+     "population": 99600
+    },
+    {
+     "wikidata": "Q79950",
+     "name": "Hoover",
+     "lat": 33.386,
+     "lon": -86.806,
+     "population": 92606
+    },
+    {
+     "wikidata": "Q79728",
+     "name": "Auburn",
+     "lat": 32.598,
+     "lon": -85.481,
+     "population": 76143
+    },
+    {
+     "wikidata": "Q79519",
+     "name": "Dothan",
+     "lat": 31.227,
+     "lon": -85.407,
+     "population": 71072
+    },
+    {
+     "wikidata": "Q79750",
+     "name": "Decatur",
+     "lat": 34.581,
+     "lon": -86.983,
+     "population": 57938
+    },
+    {
+     "wikidata": "Q79987",
+     "name": "Madison",
+     "lat": 34.715,
+     "lon": -86.74,
+     "population": 56933
+    },
+    {
+     "wikidata": "Q79743",
+     "name": "Florence",
+     "lat": 34.82,
+     "lon": -87.663,
+     "population": 40184
+    },
+    {
+     "wikidata": "Q79695",
+     "name": "Vestavia Hills",
+     "lat": 33.433,
+     "lon": -86.779,
+     "population": 39102
+    },
+    {
+     "wikidata": "Q79252",
+     "name": "Phenix City",
+     "lat": 32.473,
+     "lon": -85.02,
+     "population": 38816
+    }
+   ]
+  },
+  "02": {
+   "name": "Alaska",
+   "wikidata": "Q797",
+   "abbr": "AK",
+   "capital": {
+    "name": "Juneau",
+    "wikidata": "Q29445",
+    "lat": 58.302,
+    "lon": -134.42
+   },
+   "population": 733391,
+   "area": 1717856,
+   "cities": [
+    {
+     "wikidata": "Q39450",
+     "name": "Anchorage",
+     "lat": 61.217,
+     "lon": -149.894,
+     "population": 291247
+    },
+    {
+     "wikidata": "Q79638",
+     "name": "Fairbanks",
+     "lat": 64.844,
+     "lon": -147.723,
+     "population": 32515
+    },
+    {
+     "wikidata": "Q29445",
+     "name": "Juneau",
+     "lat": 58.302,
+     "lon": -134.42,
+     "population": 32255
+    },
+    {
+     "wikidata": "Q1023640",
+     "name": "Knik-Fairview",
+     "lat": 61.513,
+     "lon": -149.6,
+     "population": 19297
+    },
+    {
+     "wikidata": "Q8239616",
+     "name": "Badger",
+     "lat": 64.8,
+     "lon": -147.385,
+     "population": 19031
+    },
+    {
+     "wikidata": "Q996048",
+     "name": "College",
+     "lat": 64.848,
+     "lon": -147.827,
+     "population": 11332
+    },
+    {
+     "wikidata": "Q996048",
+     "name": "College",
+     "lat": 64.848,
+     "lon": -147.827,
+     "population": 11332
+    },
+    {
+     "wikidata": "Q106448479",
+     "name": "North Lakes",
+     "lat": 61.608,
+     "lon": -149.302,
+     "population": 9450
+    },
+    {
+     "wikidata": "Q545384",
+     "name": "Meadow Lakes",
+     "lat": 61.6,
+     "lon": -149.616,
+     "population": 9197
+    },
+    {
+     "wikidata": "Q79957",
+     "name": "Wasilla",
+     "lat": 61.582,
+     "lon": -149.443,
+     "population": 9054
+    },
+    {
+     "wikidata": "Q1729157",
+     "name": "Tanaina",
+     "lat": 61.624,
+     "lon": -149.433,
+     "population": 8817
+    },
+    {
+     "wikidata": "Q921285",
+     "name": "Kalifornsky",
+     "lat": 60.473,
+     "lon": -151.201,
+     "population": 8487
+    },
+    {
+     "wikidata": "Q79804",
+     "name": "Sitka",
+     "lat": 57.053,
+     "lon": -135.335,
+     "population": 8458
+    },
+    {
+     "wikidata": "Q180085",
+     "name": "Lakes",
+     "lat": 61.605,
+     "lon": -149.307,
+     "population": 8364
+    },
+    {
+     "wikidata": "Q43981",
+     "name": "Ketchikan",
+     "lat": 55.343,
+     "lon": -131.647,
+     "population": 8192
+    },
+    {
+     "wikidata": "Q79422",
+     "name": "Kenai",
+     "lat": 60.554,
+     "lon": -151.258,
+     "population": 7424
+    },
+    {
+     "wikidata": "Q2838661",
+     "name": "Steele Creek",
+     "lat": 64.927,
+     "lon": -147.399,
+     "population": 6437
+    },
+    {
+     "wikidata": "Q5325228",
+     "name": "Eagle River",
+     "lat": 61.321,
+     "lon": -149.568,
+     "population": 6229
+    },
+    {
+     "wikidata": "Q8345212",
+     "name": "Chena Ridge",
+     "lat": 64.832,
+     "lon": -147.928,
+     "population": 6015
+    },
+    {
+     "wikidata": "Q1928157",
+     "name": "Sterling",
+     "lat": 60.53,
+     "lon": -150.798,
+     "population": 5918
+    },
+    {
+     "wikidata": "Q79849",
+     "name": "Palmer",
+     "lat": 61.602,
+     "lon": -149.117,
+     "population": 5888
+    },
+    {
+     "wikidata": "Q225480",
+     "name": "Gateway",
+     "lat": 61.576,
+     "lon": -149.253,
+     "population": 5748
+    },
+    {
+     "wikidata": "Q79985",
+     "name": "Kodiak",
+     "lat": 57.793,
+     "lon": -152.394,
+     "population": 5581
+    },
+    {
+     "wikidata": "Q79441",
+     "name": "Homer",
+     "lat": 59.643,
+     "lon": -151.526,
+     "population": 5522
+    },
+    {
+     "wikidata": "Q106448483",
+     "name": "South Lakes",
+     "lat": 61.585,
+     "lon": -149.31,
+     "population": 5229
+    },
+    {
+     "wikidata": "Q1420757",
+     "name": "Fishhook",
+     "lat": 61.677,
+     "lon": -149.265,
+     "population": 5048
+    },
+    {
+     "wikidata": "Q79809",
+     "name": "Utqiagvik",
+     "lat": 71.291,
+     "lon": -156.789,
+     "population": 4928
+    },
+    {
+     "wikidata": "Q5856095",
+     "name": "Farmers Loop",
+     "lat": 64.908,
+     "lon": -147.699,
+     "population": 4704
+    }
+   ]
+  },
+  "04": {
+   "name": "Arizona",
+   "wikidata": "Q816",
+   "abbr": "AZ",
+   "capital": {
+    "name": "Phoenix",
+    "wikidata": "Q16556",
+    "lat": 33.448,
+    "lon": -112.074
+   },
+   "population": 7151502,
+   "area": 295234,
+   "cities": [
+    {
+     "wikidata": "Q16556",
+     "name": "Phoenix",
+     "lat": 33.448,
+     "lon": -112.074,
+     "population": 1608139
+    },
+    {
+     "wikidata": "Q16556",
+     "name": "Phoenix",
+     "lat": 33.448,
+     "lon": -112.074,
+     "population": 1608139
+    },
+    {
+     "wikidata": "Q18575",
+     "name": "Tucson",
+     "lat": 32.222,
+     "lon": -110.926,
+     "population": 542629
+    },
+    {
+     "wikidata": "Q49261",
+     "name": "Mesa",
+     "lat": 33.415,
+     "lon": -111.831,
+     "population": 504258
+    },
+    {
+     "wikidata": "Q49261",
+     "name": "Mesa",
+     "lat": 33.415,
+     "lon": -111.831,
+     "population": 504258
+    },
+    {
+     "wikidata": "Q49272",
+     "name": "Chandler",
+     "lat": 33.303,
+     "lon": -111.841,
+     "population": 275987
+    },
+    {
+     "wikidata": "Q51684",
+     "name": "Gilbert",
+     "lat": 33.35,
+     "lon": -111.789,
+     "population": 267918
+    },
+    {
+     "wikidata": "Q51684",
+     "name": "Gilbert",
+     "lat": 33.35,
+     "lon": -111.789,
+     "population": 267918
+    },
+    {
+     "wikidata": "Q51682",
+     "name": "Glendale",
+     "lat": 33.583,
+     "lon": -112.2,
+     "population": 248325
+    },
+    {
+     "wikidata": "Q49221",
+     "name": "Scottsdale",
+     "lat": 33.493,
+     "lon": -111.926,
+     "population": 241361
+    },
+    {
+     "wikidata": "Q49221",
+     "name": "Scottsdale",
+     "lat": 33.493,
+     "lon": -111.926,
+     "population": 241361
+    },
+    {
+     "wikidata": "Q51686",
+     "name": "Peoria",
+     "lat": 33.583,
+     "lon": -112.239,
+     "population": 190985
+    },
+    {
+     "wikidata": "Q51685",
+     "name": "Tempe",
+     "lat": 33.426,
+     "lon": -111.94,
+     "population": 180587
+    },
+    {
+     "wikidata": "Q51687",
+     "name": "Surprise",
+     "lat": 33.629,
+     "lon": -112.368,
+     "population": 143148
+    },
+    {
+     "wikidata": "Q5241708",
+     "name": "San Tan Valley",
+     "lat": 33.17,
+     "lon": -111.572,
+     "population": 99894
+    },
+    {
+     "wikidata": "Q5241708",
+     "name": "San Tan Valley",
+     "lat": 33.17,
+     "lon": -111.572,
+     "population": 99894
+    },
+    {
+     "wikidata": "Q79820",
+     "name": "Yuma",
+     "lat": 32.692,
+     "lon": -114.615,
+     "population": 95548
+    },
+    {
+     "wikidata": "Q79457",
+     "name": "Goodyear",
+     "lat": 33.435,
+     "lon": -112.358,
+     "population": 95294
+    },
+    {
+     "wikidata": "Q986528",
+     "name": "Buckeye",
+     "lat": 33.371,
+     "lon": -112.591,
+     "population": 91502
+    },
+    {
+     "wikidata": "Q79449",
+     "name": "Avondale",
+     "lat": 33.434,
+     "lon": -112.35,
+     "population": 89334
+    },
+    {
+     "wikidata": "Q79842",
+     "name": "Flagstaff",
+     "lat": 35.199,
+     "lon": -111.631,
+     "population": 76831
+    },
+    {
+     "wikidata": "Q79406",
+     "name": "Casas Adobes",
+     "lat": 32.346,
+     "lon": -111.01,
+     "population": 70973
+    },
+    {
+     "wikidata": "Q985299",
+     "name": "Queen Creek",
+     "lat": 33.263,
+     "lon": -111.635,
+     "population": 59519
+    },
+    {
+     "wikidata": "Q79877",
+     "name": "Maricopa",
+     "lat": 33.057,
+     "lon": -112.047,
+     "population": 58125
+    },
+    {
+     "wikidata": "Q79435",
+     "name": "Lake Havasu City",
+     "lat": 34.49,
+     "lon": -114.309,
+     "population": 57144
+    },
+    {
+     "wikidata": "Q79889",
+     "name": "Casa Grande",
+     "lat": 32.886,
+     "lon": -111.744,
+     "population": 53658
+    },
+    {
+     "wikidata": "Q1050250",
+     "name": "Catalina Foothills",
+     "lat": 32.298,
+     "lon": -110.918,
+     "population": 52401
+    }
+   ]
+  },
+  "08": {
+   "name": "Colorado",
+   "wikidata": "Q1261",
+   "abbr": "CO",
+   "capital": {
+    "name": "Denver",
+    "wikidata": "Q16554",
+    "lat": 39.739,
+    "lon": -104.985
+   },
+   "population": 5773714,
+   "area": 269837,
+   "cities": [
+    {
+     "wikidata": "Q17067421",
+     "name": "Front Range Urban Corridor",
+     "lat": 39.4,
+     "lon": -105.09,
+     "population": 4833260
+    },
+    {
+     "wikidata": "Q16554",
+     "name": "Denver",
+     "lat": 39.739,
+     "lon": -104.985,
+     "population": 715522
+    },
+    {
+     "wikidata": "Q16554",
+     "name": "Denver",
+     "lat": 39.739,
+     "lon": -104.985,
+     "population": 715522
+    },
+    {
+     "wikidata": "Q49258",
+     "name": "Colorado Springs",
+     "lat": 38.863,
+     "lon": -104.792,
+     "population": 478961
+    },
+    {
+     "wikidata": "Q49246",
+     "name": "Aurora",
+     "lat": 39.711,
+     "lon": -104.813,
+     "population": 386261
+    },
+    {
+     "wikidata": "Q490732",
+     "name": "Fort Collins",
+     "lat": 40.567,
+     "lon": -105.083,
+     "population": 169810
+    },
+    {
+     "wikidata": "Q462804",
+     "name": "Lakewood",
+     "lat": 39.706,
+     "lon": -105.103,
+     "population": 155984
+    },
+    {
+     "wikidata": "Q579761",
+     "name": "Thornton",
+     "lat": 39.903,
+     "lon": -104.954,
+     "population": 141867
+    },
+    {
+     "wikidata": "Q590849",
+     "name": "Arvada",
+     "lat": 39.803,
+     "lon": -105.087,
+     "population": 124402
+    },
+    {
+     "wikidata": "Q590849",
+     "name": "Arvada",
+     "lat": 39.803,
+     "lon": -105.087,
+     "population": 124402
+    },
+    {
+     "wikidata": "Q948129",
+     "name": "Westminster",
+     "lat": 39.836,
+     "lon": -105.037,
+     "population": 116317
+    },
+    {
+     "wikidata": "Q675576",
+     "name": "Pueblo",
+     "lat": 38.267,
+     "lon": -104.62,
+     "population": 111876
+    },
+    {
+     "wikidata": "Q94274",
+     "name": "Greeley",
+     "lat": 40.417,
+     "lon": -104.7,
+     "population": 108795
+    },
+    {
+     "wikidata": "Q387322",
+     "name": "Centennial",
+     "lat": 39.596,
+     "lon": -104.844,
+     "population": 108418
+    },
+    {
+     "wikidata": "Q192517",
+     "name": "Boulder",
+     "lat": 40.019,
+     "lon": -105.293,
+     "population": 108250
+    },
+    {
+     "wikidata": "Q750935",
+     "name": "Highlands Ranch",
+     "lat": 39.544,
+     "lon": -104.968,
+     "population": 103444
+    },
+    {
+     "wikidata": "Q988283",
+     "name": "Longmont",
+     "lat": 40.172,
+     "lon": -105.109,
+     "population": 98885
+    },
+    {
+     "wikidata": "Q876195",
+     "name": "Loveland",
+     "lat": 40.405,
+     "lon": -105.086,
+     "population": 76378
+    },
+    {
+     "wikidata": "Q492819",
+     "name": "Broomfield",
+     "lat": 39.933,
+     "lon": -105.05,
+     "population": 74112
+    },
+    {
+     "wikidata": "Q492819",
+     "name": "Broomfield",
+     "lat": 39.933,
+     "lon": -105.05,
+     "population": 74112
+    },
+    {
+     "wikidata": "Q994457",
+     "name": "Castle Rock",
+     "lat": 39.372,
+     "lon": -104.856,
+     "population": 73158
+    },
+    {
+     "wikidata": "Q989903",
+     "name": "Grand Junction",
+     "lat": 39.067,
+     "lon": -108.567,
+     "population": 65560
+    },
+    {
+     "wikidata": "Q994452",
+     "name": "Commerce City",
+     "lat": 39.841,
+     "lon": -104.901,
+     "population": 62418
+    },
+    {
+     "wikidata": "Q385825",
+     "name": "Parker",
+     "lat": 39.519,
+     "lon": -104.766,
+     "population": 58512
+    },
+    {
+     "wikidata": "Q953583",
+     "name": "Littleton",
+     "lat": 39.613,
+     "lon": -105.017,
+     "population": 45652
+    }
+   ]
+  },
+  "09": {
+   "name": "Connecticut",
+   "wikidata": "Q779",
+   "abbr": "CT",
+   "capital": {
+    "name": "Hartford",
+    "wikidata": "Q33486",
+    "lat": 41.763,
+    "lon": -72.685
+   },
+   "population": 3605944,
+   "area": 14357,
+   "cities": [
+    {
+     "wikidata": "Q49174",
+     "name": "Bridgeport",
+     "lat": 41.183,
+     "lon": -73.2,
+     "population": 148654
+    },
+    {
+     "wikidata": "Q49174",
+     "name": "Bridgeport",
+     "lat": 41.183,
+     "lon": -73.2,
+     "population": 148654
+    },
+    {
+     "wikidata": "Q49169",
+     "name": "Stamford",
+     "lat": 41.097,
+     "lon": -73.552,
+     "population": 135470
+    },
+    {
+     "wikidata": "Q49169",
+     "name": "Stamford",
+     "lat": 41.097,
+     "lon": -73.552,
+     "population": 135470
+    },
+    {
+     "wikidata": "Q49145",
+     "name": "New Haven",
+     "lat": 41.308,
+     "lon": -72.925,
+     "population": 134023
+    },
+    {
+     "wikidata": "Q49145",
+     "name": "New Haven",
+     "lat": 41.308,
+     "lon": -72.925,
+     "population": 134023
+    },
+    {
+     "wikidata": "Q33486",
+     "name": "Hartford",
+     "lat": 41.763,
+     "lon": -72.685,
+     "population": 121054
+    },
+    {
+     "wikidata": "Q33486",
+     "name": "Hartford",
+     "lat": 41.763,
+     "lon": -72.685,
+     "population": 121054
+    },
+    {
+     "wikidata": "Q49178",
+     "name": "Waterbury",
+     "lat": 41.558,
+     "lon": -73.037,
+     "population": 114403
+    },
+    {
+     "wikidata": "Q49178",
+     "name": "Waterbury",
+     "lat": 41.558,
+     "lon": -73.037,
+     "population": 114403
+    },
+    {
+     "wikidata": "Q54217",
+     "name": "Norwalk",
+     "lat": 41.094,
+     "lon": -73.42,
+     "population": 91184
+    },
+    {
+     "wikidata": "Q54217",
+     "name": "Norwalk",
+     "lat": 41.094,
+     "lon": -73.42,
+     "population": 91184
+    },
+    {
+     "wikidata": "Q49198",
+     "name": "Danbury",
+     "lat": 41.402,
+     "lon": -73.471,
+     "population": 86518
+    },
+    {
+     "wikidata": "Q49198",
+     "name": "Danbury",
+     "lat": 41.402,
+     "lon": -73.471,
+     "population": 86518
+    },
+    {
+     "wikidata": "Q49172",
+     "name": "New Britain",
+     "lat": 41.675,
+     "lon": -72.787,
+     "population": 74135
+    },
+    {
+     "wikidata": "Q49172",
+     "name": "New Britain",
+     "lat": 41.675,
+     "lon": -72.787,
+     "population": 74135
+    },
+    {
+     "wikidata": "Q49140",
+     "name": "West Hartford",
+     "lat": 41.768,
+     "lon": -72.754,
+     "population": 64083
+    },
+    {
+     "wikidata": "Q49140",
+     "name": "West Hartford",
+     "lat": 41.768,
+     "lon": -72.754,
+     "population": 64083
+    },
+    {
+     "wikidata": "Q49202",
+     "name": "Greenwich",
+     "lat": 41.026,
+     "lon": -73.628,
+     "population": 63518
+    },
+    {
+     "wikidata": "Q49202",
+     "name": "Greenwich",
+     "lat": 41.026,
+     "lon": -73.628,
+     "population": 63518
+    },
+    {
+     "wikidata": "Q754635",
+     "name": "Fairfield",
+     "lat": 41.176,
+     "lon": -73.272,
+     "population": 61512
+    },
+    {
+     "wikidata": "Q754635",
+     "name": "Fairfield",
+     "lat": 41.176,
+     "lon": -73.272,
+     "population": 61512
+    },
+    {
+     "wikidata": "Q755271",
+     "name": "Hamden",
+     "lat": 41.398,
+     "lon": -72.922,
+     "population": 61169
+    },
+    {
+     "wikidata": "Q54220",
+     "name": "Meriden",
+     "lat": 41.537,
+     "lon": -72.795,
+     "population": 60850
+    },
+    {
+     "wikidata": "Q54220",
+     "name": "Meriden",
+     "lat": 41.537,
+     "lon": -72.795,
+     "population": 60850
+    },
+    {
+     "wikidata": "Q755149",
+     "name": "Bristol",
+     "lat": 41.681,
+     "lon": -72.941,
+     "population": 60833
+    },
+    {
+     "wikidata": "Q755149",
+     "name": "Bristol",
+     "lat": 41.681,
+     "lon": -72.941,
+     "population": 60833
+    },
+    {
+     "wikidata": "Q753909",
+     "name": "Manchester",
+     "lat": 41.775,
+     "lon": -72.524,
+     "population": 59713
+    },
+    {
+     "wikidata": "Q54219",
+     "name": "West Haven",
+     "lat": 41.274,
+     "lon": -72.968,
+     "population": 55584
+    },
+    {
+     "wikidata": "Q54219",
+     "name": "West Haven",
+     "lat": 41.274,
+     "lon": -72.968,
+     "population": 55584
+    },
+    {
+     "wikidata": "Q755140",
+     "name": "Stratford",
+     "lat": 41.185,
+     "lon": -73.133,
+     "population": 52355
+    },
+    {
+     "wikidata": "Q755140",
+     "name": "Stratford",
+     "lat": 41.185,
+     "lon": -73.133,
+     "population": 52355
+    },
+    {
+     "wikidata": "Q9080055",
+     "name": "Stratford",
+     "lat": 41.204,
+     "lon": -73.13,
+     "population": 51384
+    }
+   ]
+  },
+  "05": {
+   "name": "Arkansas",
+   "wikidata": "Q1612",
+   "abbr": "AR",
+   "capital": {
+    "name": "Little Rock",
+    "wikidata": "Q33405",
+    "lat": 34.744,
+    "lon": -92.288
+   },
+   "population": 3011524,
+   "area": 137733,
+   "cities": [
+    {
+     "wikidata": "Q5439070",
+     "name": "Northwest Arkansas",
+     "lat": 36.108,
+     "lon": -94.076,
+     "population": 546725
+    },
+    {
+     "wikidata": "Q33405",
+     "name": "Little Rock",
+     "lat": 34.744,
+     "lon": -92.288,
+     "population": 202591
+    },
+    {
+     "wikidata": "Q219526",
+     "name": "Fayetteville",
+     "lat": 36.076,
+     "lon": -94.161,
+     "population": 93949
+    },
+    {
+     "wikidata": "Q79535",
+     "name": "Fort Smith",
+     "lat": 35.35,
+     "lon": -94.367,
+     "population": 89142
+    },
+    {
+     "wikidata": "Q79724",
+     "name": "Springdale",
+     "lat": 36.181,
+     "lon": -94.146,
+     "population": 84161
+    },
+    {
+     "wikidata": "Q61455",
+     "name": "Jonesboro",
+     "lat": 35.833,
+     "lon": -90.7,
+     "population": 78576
+    },
+    {
+     "wikidata": "Q61455",
+     "name": "Jonesboro",
+     "lat": 35.833,
+     "lon": -90.7,
+     "population": 78576
+    },
+    {
+     "wikidata": "Q79497",
+     "name": "Rogers",
+     "lat": 36.329,
+     "lon": -94.141,
+     "population": 69908
+    },
+    {
+     "wikidata": "Q79902",
+     "name": "North Little Rock",
+     "lat": 34.771,
+     "lon": -92.266,
+     "population": 64591
+    },
+    {
+     "wikidata": "Q79853",
+     "name": "Conway",
+     "lat": 35.087,
+     "lon": -92.453,
+     "population": 64134
+    },
+    {
+     "wikidata": "Q818364",
+     "name": "Bentonville",
+     "lat": 36.367,
+     "lon": -94.213,
+     "population": 54164
+    },
+    {
+     "wikidata": "Q672700",
+     "name": "Arkansas Territory",
+     "lat": 34.736,
+     "lon": -92.331,
+     "population": 52240
+    },
+    {
+     "wikidata": "Q672700",
+     "name": "Arkansas Territory",
+     "lat": 34.736,
+     "lon": -92.331,
+     "population": 52240
+    },
+    {
+     "wikidata": "Q80012",
+     "name": "Pine Bluff",
+     "lat": 34.228,
+     "lon": -92.003,
+     "population": 41253
+    },
+    {
+     "wikidata": "Q79924",
+     "name": "Hot Springs",
+     "lat": 34.504,
+     "lon": -93.055,
+     "population": 37930
+    },
+    {
+     "wikidata": "Q79374",
+     "name": "Benton",
+     "lat": 34.571,
+     "lon": -92.577,
+     "population": 35014
+    },
+    {
+     "wikidata": "Q79681",
+     "name": "Sherwood",
+     "lat": 34.831,
+     "lon": -92.211,
+     "population": 32731
+    },
+    {
+     "wikidata": "Q815783",
+     "name": "Bella Vista",
+     "lat": 36.464,
+     "lon": -94.271,
+     "population": 30104
+    },
+    {
+     "wikidata": "Q815783",
+     "name": "Bella Vista",
+     "lat": 36.464,
+     "lon": -94.271,
+     "population": 30104
+    },
+    {
+     "wikidata": "Q79386",
+     "name": "Paragould",
+     "lat": 36.057,
+     "lon": -90.503,
+     "population": 29537
+    },
+    {
+     "wikidata": "Q79688",
+     "name": "Jacksonville",
+     "lat": 34.87,
+     "lon": -92.115,
+     "population": 29477
+    },
+    {
+     "wikidata": "Q79438",
+     "name": "Texarkana",
+     "lat": 33.433,
+     "lon": -94.021,
+     "population": 29387
+    },
+    {
+     "wikidata": "Q79438",
+     "name": "Texarkana",
+     "lat": 33.433,
+     "lon": -94.021,
+     "population": 29387
+    },
+    {
+     "wikidata": "Q79424",
+     "name": "Russellville",
+     "lat": 35.278,
+     "lon": -93.137,
+     "population": 28940
+    }
+   ]
+  },
+  "06": {
+   "name": "California",
+   "wikidata": "Q99",
+   "abbr": "CA",
+   "capital": {
+    "name": "Sacramento",
+    "wikidata": "Q18013",
+    "lat": 38.581,
+    "lon": -121.494
+   },
+   "population": 39538223,
+   "area": 423970,
+   "cities": [
+    {
+     "wikidata": "Q65",
+     "name": "Los Angeles",
+     "lat": 34.052,
+     "lon": -118.244,
+     "population": 3898747
+    },
+    {
+     "wikidata": "Q65",
+     "name": "Los Angeles",
+     "lat": 34.052,
+     "lon": -118.244,
+     "population": 3898747
+    },
+    {
+     "wikidata": "Q16552",
+     "name": "San Diego",
+     "lat": 32.715,
+     "lon": -117.162,
+     "population": 1386932
+    },
+    {
+     "wikidata": "Q16552",
+     "name": "San Diego",
+     "lat": 32.715,
+     "lon": -117.162,
+     "population": 1386932
+    },
+    {
+     "wikidata": "Q16553",
+     "name": "San Jose",
+     "lat": 37.304,
+     "lon": -121.873,
+     "population": 1013240
+    },
+    {
+     "wikidata": "Q16553",
+     "name": "San Jose",
+     "lat": 37.304,
+     "lon": -121.873,
+     "population": 1013240
+    },
+    {
+     "wikidata": "Q62",
+     "name": "San Francisco",
+     "lat": 37.775,
+     "lon": -122.419,
+     "population": 873965
+    },
+    {
+     "wikidata": "Q62",
+     "name": "San Francisco",
+     "lat": 37.775,
+     "lon": -122.419,
+     "population": 873965
+    },
+    {
+     "wikidata": "Q43301",
+     "name": "Fresno",
+     "lat": 36.782,
+     "lon": -119.792,
+     "population": 542107
+    },
+    {
+     "wikidata": "Q18013",
+     "name": "Sacramento",
+     "lat": 38.581,
+     "lon": -121.494,
+     "population": 524943
+    },
+    {
+     "wikidata": "Q18013",
+     "name": "Sacramento",
+     "lat": 38.581,
+     "lon": -121.494,
+     "population": 524943
+    },
+    {
+     "wikidata": "Q16739",
+     "name": "Long Beach",
+     "lat": 33.768,
+     "lon": -118.196,
+     "population": 466742
+    },
+    {
+     "wikidata": "Q16739",
+     "name": "Long Beach",
+     "lat": 33.768,
+     "lon": -118.196,
+     "population": 466742
+    }
+   ]
+  }
+ }
+}

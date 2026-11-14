@@ -5,6 +5,7 @@ import { Explore } from './pages/Explore';
 import { Countries } from './pages/Countries';
 import { CountryProfile } from './pages/CountryProfile';
 import { CountryQuiz } from './pages/CountryQuiz';
+import { StateProfile } from './pages/StateProfile';
 import { History } from './pages/History';
 import { Games } from './pages/Games';
 import { NameTheCountries } from './pages/games/NameTheCountries';
@@ -24,6 +25,7 @@ const router = createRouter([
       { path: '/countries', element: <Countries /> },
       { path: '/countries/:code', element: <CountryProfile /> },
       { path: '/countries/:code/quiz/:topic', element: <CountryQuiz /> },
+      { path: '/countries/:code/states/:state', element: <StateProfile /> },
       { path: '/history', element: <History /> },
       { path: '/games', element: <Games /> },
       { path: '/games/name-the-countries', element: <NameTheCountries /> },

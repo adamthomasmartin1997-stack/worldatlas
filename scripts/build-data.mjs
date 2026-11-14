@@ -148,4 +148,33 @@ if (citySource) {
   console.log(`Wrote cities for ${Object.keys(cities).length} countries`);
 }
 
+// US states: outlines (us-atlas, US Census Bureau) + facts and cities (Wikidata). 50 states and DC.
+const usStates = load('data/sources/wikidata-us-states.json')?.states;
+if (usStates) {
+  writeFileSync('public/data/us-states-10m.json', readFileSync(require.resolve('us-atlas/states-10m.json')));
+  const near = (a, b, d) => Math.hypot(a.lat - b.lat, (a.lon - b.lon) * Math.cos((a.lat * Math.PI) / 180)) < d;
+  const states = {};
+  for (const [fips, st] of Object.entries(usStates)) {
+    if (Number(fips) > 56) continue; // territories (Puerto Rico, Guam, …) come later
+    const cities = [];
+    for (const c of [...st.cities].sort((a, b) => b.population - a.population)) {
+      if (cities.some((k) => k.n === c.name || near(k, c, 0.2))) continue; // duplicates, boroughs, neighbourhoods
+      cities.push({ n: c.name, lat: c.lat, lon: c.lon, p: c.population });
+    }
+    states[fips] = {
+      name: st.name, abbr: st.abbr, wikidata: st.wikidata, population: st.population, area: st.area,
+      capital: st.capital ? { n: st.capital.name, lat: st.capital.lat, lon: st.capital.lon } : null,
+      cities: cities.slice(0, 8),
+    };
+  }
+  // The handful of cities shown on the national map.
+  const HIGHLIGHTS = [['11', 'Washington, D.C.'], ['36', 'New York City'], ['06', 'Los Angeles'], ['17', 'Chicago'], ['12', 'Miami']];
+  const highlights = HIGHLIGHTS.map(([fips, name]) => {
+    const c = states[fips]?.cities.find((x) => x.n === name) ?? (states[fips]?.capital?.n === name ? states[fips].capital : null);
+    return c ? { n: name, lat: c.lat, lon: c.lon, ...(fips === '11' ? { c: 1 } : {}) } : null;
+  }).filter(Boolean);
+  writeFileSync('public/data/us-states.json', JSON.stringify({ retrieved: load('data/sources/wikidata-us-states.json').retrieved.slice(0, 10), states, highlights }));
+  console.log(`Wrote ${Object.keys(states).length} US states; national-map cities: ${highlights.map((h) => h.n).join(', ')}`);
+}
+
 console.log(`Wrote ${out.length} countries (${out.filter((c) => c.sovereign).length} sovereign), ${withShape.size} with map shapes`);

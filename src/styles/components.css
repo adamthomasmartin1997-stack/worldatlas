@@ -205,3 +205,10 @@ select.input { box-shadow: none; min-height: var(--touch); }
 .city.is-capital circle { fill: var(--sun); stroke-width: 3; }
 .city text { font-family: var(--font-sans); font-weight: 700; fill: var(--ink); paint-order: stroke; stroke: var(--surface); stroke-width: 4px; stroke-linejoin: round; }
 .city.is-capital text { font-family: var(--font-display); font-weight: 800; }
+
+/* ---------- US states ---------- */
+.state-shape { fill: var(--land-4); stroke: var(--ink); stroke-width: 1.2; stroke-linejoin: round; vector-effect: non-scaling-stroke; transition: fill var(--ease); }
+.state-shape.interactive { cursor: pointer; }
+.state-shape.interactive:hover { fill: var(--surface); }
+.state-shape.active { fill: var(--sun); }
+.inset-box rect { fill: var(--tint-ocean); stroke: var(--ink); stroke-width: 1.5; stroke-dasharray: 5 4; opacity: 0.9; }

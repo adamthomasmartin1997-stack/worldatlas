@@ -49,7 +49,7 @@ for (const r of await sparql(`SELECT ?item ?iso ?value ?rank WHERE { ${COUNTRY}
 // Highest point, with its elevation in metres when recorded.
 for (const r of await sparql(`SELECT ?item ?iso ?pointLabel ?elev WHERE { ${COUNTRY}
   ?item wdt:P610 ?point . OPTIONAL { ?point p:P2044/psv:P2044 [ wikibase:quantityAmount ?elev ; wikibase:quantityUnit wd:Q11573 ] }
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". } }`)) {
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". } }`)) {
   const e = entry(r.iso.value, r.item.value);
   if (/^Q\d+$/.test(r.pointLabel.value)) continue; // no English label
   if (!e.highestPoint || (!e.highestPoint.elevation && r.elev)) e.highestPoint = { name: r.pointLabel.value, elevation: r.elev ? Math.round(Number(r.elev.value)) : null };

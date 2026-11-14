@@ -21,14 +21,14 @@ for (let i = 0; i < qids.length; i += 50) {
   // Seas and oceans (P206 "located in or next to body of water"), only real seas/oceans/gulfs/bays/straits.
   for (const r of await sparql(`SELECT ?country ?name WHERE {
       VALUES ?country { ${values} } VALUES ?t { ${WATER_TYPES.map((t) => 'wd:' + t).join(' ')} }
-      ?country wdt:P206 ?w . ?w wdt:P31 ?t ; rdfs:label ?name . FILTER(LANG(?name) = "en") }`)) {
+      ?country wdt:P206 ?w . ?w wdt:P31 ?t ; rdfs:label ?name . FILTER(LANG(?name) IN ("en", "mul")) }`)) {
     const e = entry(r.country.value.split('/').pop());
     if (!e.seas.includes(r.name.value)) e.seas.push(r.name.value);
   }
   // Lowest point (P1589), with its elevation in metres when recorded.
   for (const r of await sparql(`SELECT ?country ?name ?elev WHERE {
       VALUES ?country { ${values} }
-      ?country wdt:P1589 ?p . ?p rdfs:label ?name . FILTER(LANG(?name) = "en")
+      ?country wdt:P1589 ?p . ?p rdfs:label ?name . FILTER(LANG(?name) IN ("en", "mul"))
       OPTIONAL { ?p p:P2044/psv:P2044 [ wikibase:quantityAmount ?elev ; wikibase:quantityUnit wd:Q11573 ] } }`)) {
     const e = entry(r.country.value.split('/').pop());
     if (/^Q\d+$/.test(r.name.value)) continue;

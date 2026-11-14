@@ -28,7 +28,7 @@ function query(batch) {
     VALUES ?country { ${batch.map(([, q]) => 'wd:' + q).join(' ')} }
     VALUES ?type { ${TYPES.map((t) => 'wd:' + t).join(' ')} }
     ?city wdt:P31 ?type ; wdt:P17 ?country ; wdt:P1082 ?pop ; wdt:P625 ?coord ; rdfs:label ?name .
-    FILTER(LANG(?name) = "en") FILTER(?pop >= ${MIN_POP})
+    FILTER(LANG(?name) IN ("en", "mul")) FILTER(?pop >= ${MIN_POP})
     FILTER NOT EXISTS { ?city wdt:P576 ?dissolved }
     OPTIONAL { ?country wdt:P36 ?capital . FILTER(?capital = ?city) }
   }`;

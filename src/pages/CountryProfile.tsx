@@ -5,6 +5,7 @@ import { CountryMap } from '../components/CountryMap';
 import { FolderTabs, type FolderTab } from '../components/FolderTabs';
 import { LineChart } from '../components/LineChart';
 import { useSeries } from '../components/useSeries';
+import { useUsStates, statePath } from '../components/usStates';
 import { Breadcrumbs, ButtonLink, Card, SourceNote } from '../components/ui';
 import { COUNTRIES, countryPath, fmt, getCountry, type Country } from '../data/countries';
 import type { SourceId } from '../data/sources';
@@ -289,6 +290,8 @@ function Profile({ c }: { c: Country }) {
         </figure>
       </section>
 
+      {c.cca3 === 'USA' && <UsStateList />}
+
       <section className="container section" aria-labelledby="glance-h">
         <h2 id="glance-h">{c.name} at a glance</h2>
         <FolderTabs label={`${c.name} profile`} tabs={profileTabs} value={tab} onChange={setTab}>
@@ -313,5 +316,18 @@ function Profile({ c }: { c: Country }) {
         </section>
       )}
     </>
+  );
+}
+
+/** Every US state as a link: the keyboard / screen-reader way into the state map. */
+function UsStateList() {
+  const { data } = useUsStates();
+  if (!data) return null;
+  return (
+    <section className="container section" aria-labelledby="states-h">
+      <h2 id="states-h">The 50 states and Washington, D.C.</h2>
+      <p className="muted">Tap a state on the map, or pick one here.</p>
+      <div className="state-list">{data.states.map((s) => <Link key={s.fips} to={statePath(s)} className="chip">{s.name}</Link>)}</div>
+    </section>
   );
 }
