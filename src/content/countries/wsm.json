@@ -6,5 +6,48 @@
   ],
   "geography": {
     "text": "Samoa is made up of two large volcanic islands, Savai'i and Upolu, and several small ones. The islands rise to mountains in the centre, with rainforest, waterfalls and old lava fields, and are ringed by coral reefs and beaches."
+  },
+  "history": {
+    "text": "Samoa was settled about 3,000 years ago. In 1899 the islands were divided: the western part became German and the eastern part American, today American Samoa. New Zealand took over Western Samoa in 1914, and it became independent in 1962. In 2011 Samoa moved to the other side of the International Date Line, skipping 30 December.",
+    "events": [
+      {
+        "year": "1899",
+        "title": "Islands divided",
+        "text": "Germany and the United States divide Samoa.",
+        "related": [
+          "DEU",
+          "USA"
+        ]
+      },
+      {
+        "year": "1914",
+        "title": "New Zealand takes over",
+        "text": "New Zealand occupies Western Samoa.",
+        "related": [
+          "NZL"
+        ]
+      },
+      {
+        "year": "1929",
+        "title": "Black Saturday",
+        "text": "New Zealand police fire on a peaceful independence march.",
+        "related": [
+          "NZL"
+        ]
+      },
+      {
+        "year": "1962",
+        "title": "Independence",
+        "text": "Samoa becomes independent.",
+        "related": [
+          "NZL"
+        ]
+      },
+      {
+        "year": "2011",
+        "title": "Date line moved",
+        "text": "Samoa skips a day to move west of the date line."
+      }
+    ]
   }
 }

@@ -6,5 +6,48 @@
   ],
   "geography": {
     "text": "All of Tuvalu's islands are low coral atolls or reef islands, with the highest land only a few metres above sea level. This makes it one of the countries most threatened by rising seas. There are no rivers, so people depend on collecting rainwater."
+  },
+  "history": {
+    "text": "Tuvalu was settled by Polynesians. As the Ellice Islands, it was run by Britain together with the Gilbert Islands, today Kiribati. In 1974 the Ellice Islanders voted to separate, and Tuvalu became independent in 1978. In 2023 it signed a treaty with Australia offering residency to Tuvaluans threatened by climate change.",
+    "events": [
+      {
+        "year": "1892",
+        "title": "British protectorate",
+        "text": "Britain takes control of the Ellice and Gilbert Islands.",
+        "related": [
+          "GBR",
+          "KIR"
+        ]
+      },
+      {
+        "year": "1974",
+        "title": "Vote to separate",
+        "text": "The Ellice Islands vote to split from the Gilberts.",
+        "related": [
+          "KIR"
+        ]
+      },
+      {
+        "year": "1978",
+        "title": "Independence",
+        "text": "Tuvalu becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "2000",
+        "title": "Joins the UN",
+        "text": "Tuvalu becomes a member of the United Nations."
+      },
+      {
+        "year": "2023",
+        "title": "Treaty with Australia",
+        "text": "Australia offers Tuvaluans a way to move there as seas rise.",
+        "related": [
+          "AUS"
+        ]
+      }
+    ]
   }
 }

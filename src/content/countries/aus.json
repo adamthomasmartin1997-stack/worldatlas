@@ -6,5 +6,46 @@
   ],
   "geography": {
     "text": "Australia is the driest inhabited continent. Most of the interior, known as the Outback, is desert or dry grassland, and most people live along the coasts, especially in the south-east. The Great Dividing Range runs down the east, and off the north-east coast lies the Great Barrier Reef, the largest coral reef system in the world. Uluru, a huge sandstone rock in the centre, is sacred to its Aboriginal owners."
+  },
+  "history": {
+    "text": "Aboriginal and Torres Strait Islander peoples have lived in Australia for at least 50,000 years. Britain founded a convict colony at Sydney in 1788, and settlement spread across the continent, devastating Indigenous communities. The six colonies united as the Commonwealth of Australia in 1901. In 1967 Australians voted to include Aboriginal people in the national census, and in 2008 the government formally apologised to the Stolen Generations.",
+    "events": [
+      {
+        "year": "1770",
+        "title": "Cook maps the east coast",
+        "text": "James Cook claims eastern Australia for Britain.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1788",
+        "title": "The First Fleet",
+        "text": "British ships bring convicts to Sydney Cove.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1851",
+        "title": "Gold rush",
+        "text": "Gold is discovered, bringing a rush of immigrants."
+      },
+      {
+        "year": "1901",
+        "title": "Federation",
+        "text": "Six colonies unite as one country."
+      },
+      {
+        "year": "1967",
+        "title": "Referendum",
+        "text": "Australians vote to count Aboriginal people in the census."
+      },
+      {
+        "year": "2008",
+        "title": "National apology",
+        "text": "The government apologises to the Stolen Generations."
+      }
+    ]
   }
 }

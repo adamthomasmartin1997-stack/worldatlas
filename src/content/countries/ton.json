@@ -6,5 +6,52 @@
   ],
   "geography": {
     "text": "Tonga's islands are a mix of low coral islands and higher volcanic ones. Underwater volcanoes are active nearby: in 2022 the eruption of Hunga Tonga–Hunga Ha'apai was one of the most powerful volcanic eruptions in recent history and sent a tsunami across the Pacific."
+  },
+  "history": {
+    "text": "Tonga was settled about 3,000 years ago, and its Tu'i Tonga kings later ruled a sea-based empire across much of the South Pacific. King George Tupou I united Tonga and gave it a constitution in 1875. It became a British protected state in 1900 but was never colonised, and regained full independence in 1970.",
+    "events": [
+      {
+        "year": "1643",
+        "title": "Tasman visits",
+        "text": "Abel Tasman reaches Tonga.",
+        "related": [
+          "NLD"
+        ]
+      },
+      {
+        "year": "1773",
+        "title": "The 'Friendly Islands'",
+        "text": "James Cook visits and gives Tonga its English nickname.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1875",
+        "title": "Constitution",
+        "text": "King George Tupou I gives Tonga a written constitution."
+      },
+      {
+        "year": "1900",
+        "title": "British protection",
+        "text": "Tonga becomes a British protected state.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1970",
+        "title": "Full independence",
+        "text": "Tonga regains full control of its affairs.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "2022",
+        "title": "Volcanic eruption",
+        "text": "A huge undersea eruption and tsunami hit Tonga."
+      }
+    ]
   }
 }

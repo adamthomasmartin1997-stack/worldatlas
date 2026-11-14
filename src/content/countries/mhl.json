@@ -6,5 +6,51 @@
   ],
   "geography": {
     "text": "The country is made up of 29 atolls and 5 single islands, arranged in two roughly parallel chains. The land is low and flat, mostly only a few metres above sea level, and Kwajalein atoll encloses one of the largest lagoons in the world."
+  },
+  "history": {
+    "text": "Marshallese navigators crossed the open ocean using stick charts that mapped the patterns of waves. The islands were claimed by Germany and then Japan, and were captured by the United States in the Second World War. Between 1946 and 1958 the US tested 67 nuclear weapons at Bikini and Enewetak. The Marshall Islands became independent in 1986, in free association with the United States.",
+    "events": [
+      {
+        "year": "1885",
+        "title": "German protectorate",
+        "text": "Germany claims the islands.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1914",
+        "title": "Japanese rule",
+        "text": "Japan takes the islands during the First World War.",
+        "related": [
+          "JPN"
+        ]
+      },
+      {
+        "year": "1944",
+        "title": "US capture",
+        "text": "US forces take the islands from Japan.",
+        "related": [
+          "USA",
+          "JPN"
+        ]
+      },
+      {
+        "year": "1954",
+        "title": "Castle Bravo",
+        "text": "The largest US nuclear test contaminates nearby islands.",
+        "related": [
+          "USA"
+        ]
+      },
+      {
+        "year": "1986",
+        "title": "Independence",
+        "text": "The Marshall Islands becomes independent.",
+        "related": [
+          "USA"
+        ]
+      }
+    ]
   }
 }

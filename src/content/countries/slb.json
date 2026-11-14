@@ -6,5 +6,52 @@
   ],
   "geography": {
     "text": "The main islands are rugged, volcanic and covered in rainforest, while many smaller islands are low coral atolls. Marovo Lagoon is one of the largest saltwater lagoons in the world, and East Rennell, on the island of Rennell, is a UNESCO World Heritage Site."
+  },
+  "history": {
+    "text": "The Solomon Islands were settled tens of thousands of years ago. Britain declared a protectorate over them in the 1890s. Guadalcanal saw some of the fiercest fighting of the Second World War in 1942 and 1943. The country became independent in 1978, and a period of ethnic unrest from 1998 to 2003 ended with help from an Australian-led regional mission.",
+    "events": [
+      {
+        "year": "1568",
+        "title": "Spanish explorers",
+        "text": "Álvaro de Mendaña reaches the islands.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1893",
+        "title": "British protectorate",
+        "text": "Britain declares a protectorate.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1942",
+        "title": "Guadalcanal",
+        "text": "US and Japanese forces fight for control of the island.",
+        "related": [
+          "USA",
+          "JPN"
+        ]
+      },
+      {
+        "year": "1978",
+        "title": "Independence",
+        "text": "Solomon Islands becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "2003",
+        "title": "Regional mission",
+        "text": "An Australian-led mission helps restore order.",
+        "related": [
+          "AUS",
+          "NZL"
+        ]
+      }
+    ]
   }
 }

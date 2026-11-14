@@ -6,5 +6,47 @@
   ],
   "geography": {
     "text": "New Zealand is long and mountainous. The Southern Alps run down the South Island, with glaciers, lakes and fjords such as Milford Sound. The North Island has volcanoes, geysers and hot springs, especially around Rotorua and Lake Taupō. Because the islands were isolated for so long, they have unique wildlife, including the flightless kiwi."
+  },
+  "history": {
+    "text": "Polynesian voyagers, the ancestors of the Māori, settled New Zealand about 700 years ago, making it one of the last large landmasses on Earth to be settled by people. The Dutch explorer Abel Tasman reached it in 1642, and James Cook mapped it in 1769. The Treaty of Waitangi was signed between Māori chiefs and the British Crown in 1840. In 1893 New Zealand became the first country where women could vote in national elections.",
+    "events": [
+      {
+        "year": "1642",
+        "title": "Tasman arrives",
+        "text": "Abel Tasman is the first European known to reach New Zealand.",
+        "related": [
+          "NLD"
+        ]
+      },
+      {
+        "year": "1769",
+        "title": "Cook's voyage",
+        "text": "James Cook maps the coastline.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1840",
+        "title": "Treaty of Waitangi",
+        "text": "Māori chiefs and the British Crown sign a founding treaty.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1893",
+        "title": "Votes for women",
+        "text": "New Zealand is the first country to give women the vote in national elections."
+      },
+      {
+        "year": "1953",
+        "title": "Everest climbed",
+        "text": "New Zealander Edmund Hillary and Tenzing Norgay reach the summit of Everest.",
+        "related": [
+          "NPL"
+        ]
+      }
+    ]
   }
 }

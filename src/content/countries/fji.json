@@ -6,5 +6,47 @@
   ],
   "geography": {
     "text": "Most people live on the two largest islands, Viti Levu and Vanua Levu, which are volcanic and mountainous, with rainforest on their wetter eastern sides. Many of the smaller islands are coral islands surrounded by reefs. Fiji lies in the path of tropical cyclones."
+  },
+  "history": {
+    "text": "Fiji was settled about 3,000 years ago by the Lapita people. Its chiefs gave the islands to Britain in 1874, and the British brought workers from India to work on sugar plantations. Fiji became independent in 1970, and tensions between Indigenous Fijians and Indo-Fijians led to several coups between 1987 and 2006.",
+    "events": [
+      {
+        "year": "1643",
+        "title": "Tasman sights Fiji",
+        "text": "The Dutch explorer Abel Tasman passes the islands.",
+        "related": [
+          "NLD"
+        ]
+      },
+      {
+        "year": "1874",
+        "title": "British colony",
+        "text": "Fijian chiefs cede the islands to Britain.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1879",
+        "title": "Workers from India",
+        "text": "The first indentured labourers arrive from India.",
+        "related": [
+          "IND"
+        ]
+      },
+      {
+        "year": "1970",
+        "title": "Independence",
+        "text": "Fiji becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1987",
+        "title": "Coups",
+        "text": "The first of several military coups takes place."
+      }
+    ]
   }
 }

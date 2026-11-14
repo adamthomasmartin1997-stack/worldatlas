@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "Vanuatu's islands are mostly volcanic and mountainous, covered in rainforest. Several volcanoes are active, including Mount Yasur on Tanna, where visitors can watch eruptions from the crater rim. Earthquakes and tropical cyclones are common."
+  },
+  "history": {
+    "text": "Vanuatu was settled about 3,000 years ago. From 1906 Britain and France ran the islands together as the New Hebrides, with two sets of laws, police and schools. Vanuatu became independent in 1980. In 2015 Cyclone Pam caused severe damage.",
+    "events": [
+      {
+        "year": "1606",
+        "title": "Spanish explorers",
+        "text": "Pedro Fernandes de Queirós reaches the islands.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1774",
+        "title": "Cook names them",
+        "text": "James Cook names the islands the New Hebrides.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1906",
+        "title": "Joint rule",
+        "text": "Britain and France agree to govern the islands together.",
+        "related": [
+          "GBR",
+          "FRA"
+        ]
+      },
+      {
+        "year": "1980",
+        "title": "Independence",
+        "text": "Vanuatu becomes independent.",
+        "related": [
+          "GBR",
+          "FRA"
+        ]
+      },
+      {
+        "year": "2015",
+        "title": "Cyclone Pam",
+        "text": "One of the strongest cyclones on record strikes the islands."
+      }
+    ]
   }
 }

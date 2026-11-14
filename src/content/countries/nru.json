@@ -6,5 +6,41 @@
   ],
   "geography": {
     "text": "Nauru is a single raised coral island, ringed by a reef and a narrow coastal strip where most people live. The central plateau, called Topside, was mined for phosphate for decades, leaving a landscape of jagged limestone pinnacles where little can grow."
+  },
+  "history": {
+    "text": "Nauru was settled by Micronesian and Polynesian peoples. It became a German colony in 1888, and phosphate mining began in 1906. After the First World War it was run jointly by Australia, Britain and New Zealand. Nauru became independent in 1968 and for a time was one of the richest countries in the world per person, until the phosphate began to run out.",
+    "events": [
+      {
+        "year": "1888",
+        "title": "German colony",
+        "text": "Germany takes control of Nauru.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1906",
+        "title": "Phosphate mining",
+        "text": "Large-scale mining of phosphate begins."
+      },
+      {
+        "year": "1942",
+        "title": "Japanese occupation",
+        "text": "Japan occupies the island; many Nauruans are deported.",
+        "related": [
+          "JPN"
+        ]
+      },
+      {
+        "year": "1968",
+        "title": "Independence",
+        "text": "Nauru becomes independent.",
+        "related": [
+          "AUS",
+          "GBR",
+          "NZL"
+        ]
+      }
+    ]
   }
 }

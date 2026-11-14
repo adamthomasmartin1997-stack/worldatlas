@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "Palau has volcanic islands, such as Babeldaob, the largest, and many limestone islands. The Rock Islands, small mushroom-shaped islands covered in forest, are a UNESCO World Heritage Site. Its coral reefs and clear water make it one of the best places in the world for diving."
+  },
+  "history": {
+    "text": "Palau was settled thousands of years ago. It was ruled by Spain and Germany and then by Japan, which made Koror an important administrative centre. After fierce fighting on the island of Peleliu in 1944, it became part of a UN trust territory run by the United States. Palau became independent in 1994, in free association with the US.",
+    "events": [
+      {
+        "year": "1899",
+        "title": "Sold to Germany",
+        "text": "Spain sells Palau to Germany.",
+        "related": [
+          "ESP",
+          "DEU"
+        ]
+      },
+      {
+        "year": "1914",
+        "title": "Japanese rule",
+        "text": "Japan takes control of Palau.",
+        "related": [
+          "JPN"
+        ]
+      },
+      {
+        "year": "1944",
+        "title": "Battle of Peleliu",
+        "text": "US forces capture Peleliu after one of the war's hardest battles.",
+        "related": [
+          "USA",
+          "JPN"
+        ]
+      },
+      {
+        "year": "1994",
+        "title": "Independence",
+        "text": "Palau becomes independent.",
+        "related": [
+          "USA"
+        ]
+      },
+      {
+        "year": "2009",
+        "title": "Shark sanctuary",
+        "text": "Palau creates the world's first shark sanctuary."
+      }
+    ]
   }
 }

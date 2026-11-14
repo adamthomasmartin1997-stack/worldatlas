@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "A high mountain range runs along the centre of the mainland, with valleys where many people live in small farming communities. Much of the country is covered by tropical rainforest, some of the largest areas of rainforest left in the world. It lies on the Pacific Ring of Fire and has active volcanoes, and its many islands include New Britain and Bougainville."
+  },
+  "history": {
+    "text": "People have lived in New Guinea for at least 40,000 years, and its highlands were one of the first places in the world where farming developed. In the 1880s the north was claimed by Germany and the south by Britain, which later handed it to Australia. Papua New Guinea became independent from Australia in 1975.",
+    "events": [
+      {
+        "year": "1884",
+        "title": "Colonial claims",
+        "text": "Germany claims the north-east and Britain the south-east.",
+        "related": [
+          "DEU",
+          "GBR"
+        ]
+      },
+      {
+        "year": "1906",
+        "title": "Australian rule",
+        "text": "Australia takes over the south, called Papua.",
+        "related": [
+          "AUS"
+        ]
+      },
+      {
+        "year": "1942",
+        "title": "Kokoda Track",
+        "text": "Australian troops fight Japanese forces in the mountains.",
+        "related": [
+          "AUS",
+          "JPN"
+        ]
+      },
+      {
+        "year": "1975",
+        "title": "Independence",
+        "text": "Papua New Guinea becomes independent.",
+        "related": [
+          "AUS"
+        ]
+      },
+      {
+        "year": "2001",
+        "title": "Bougainville peace deal",
+        "text": "An agreement ends years of conflict on Bougainville."
+      }
+    ]
   }
 }
