@@ -49,13 +49,21 @@ export function CountryMap({ country }: { country: Country }) {
       .map((c) => {
         const size = c.c ? 17 : 14;
         const w = c.n.length * size * 0.56 + 8;
-        const left = c.xy[0] + w + 14 > W;
-        const x = left ? c.xy[0] - 12 - w : c.xy[0] + 12;
-        const box: [number, number, number, number] = [x, c.xy[1] - size * 0.7, x + w, c.xy[1] + size * 0.5];
-        const clash = boxes.some((b) => !(box[2] < b[0] || box[0] > b[2] || box[3] < b[1] || box[1] > b[3]));
-        if (!clash) boxes.push(box);
-        return { ...c, size, left, showLabel: !clash };
-      });
+        const [x0, y0] = c.xy;
+        // Try right, left, above, below; keep the first label position that fits and doesn't overlap.
+        const options: { box: [number, number, number, number]; tx: number; ty: number; anchor: 'start' | 'end' | 'middle' }[] = [
+          { box: [x0 + 12, y0 - size * 0.7, x0 + 12 + w, y0 + size * 0.5], tx: 12, ty: size * 0.35, anchor: 'start' },
+          { box: [x0 - 12 - w, y0 - size * 0.7, x0 - 12, y0 + size * 0.5], tx: -12, ty: size * 0.35, anchor: 'end' },
+          { box: [x0 - w / 2, y0 - 12 - size, x0 + w / 2, y0 - 10], tx: 0, ty: -12, anchor: 'middle' },
+          { box: [x0 - w / 2, y0 + 10, x0 + w / 2, y0 + 12 + size], tx: 0, ty: 12 + size * 0.8, anchor: 'middle' },
+        ];
+        const fits = (b: [number, number, number, number]) => b[0] > 2 && b[2] < W - 2 && b[1] > 2 && b[3] < H - 2 && !boxes.some((o) => !(b[2] < o[0] || b[0] > o[2] || b[3] < o[1] || b[1] > o[3]));
+        const pick = options.find((o) => fits(o.box));
+        if (pick) boxes.push(pick.box, [x0 - 7, y0 - 7, x0 + 7, y0 + 7]);
+        return { ...c, size, label: pick ?? null };
+      })
+      // A city whose name can't be placed is left off rather than shown as a bare dot (the capital always shows).
+      .filter((m) => m.label || m.c);
     return { d: path(shape) ?? '', markers, trimmed };
   }, [features, country.cca3, cities]);
 
@@ -74,7 +82,7 @@ export function CountryMap({ country }: { country: Country }) {
         {drawn.markers.map((m) => (
           <g key={m.n} transform={`translate(${m.xy[0]} ${m.xy[1]})`} className={m.c ? 'city is-capital' : 'city'}>
             <circle r={m.c ? 8 : 5.5} />
-            {m.showLabel && <text x={m.left ? -12 : 12} y={m.size * 0.35} textAnchor={m.left ? 'end' : 'start'} fontSize={m.size}>{m.n}</text>}
+            {m.label && <text x={m.label.tx} y={m.label.ty} textAnchor={m.label.anchor} fontSize={m.size}>{m.n}</text>}
           </g>
         ))}
       </svg>

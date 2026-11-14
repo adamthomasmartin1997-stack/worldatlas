@@ -132,7 +132,18 @@ if (worldbank) {
 
 // City markers for country maps, loaded on demand (one small file for all countries).
 if (citySource) {
-  const cities = Object.fromEntries(Object.entries(citySource.countries).map(([iso, list]) => [iso, list.map((c) => ({ n: c.name, lat: c.lat, lon: c.lon, p: c.population, ...(c.capital ? { c: 1 } : {}) }))]));
+  // Drop metro areas and other non-city entries, and any marker almost on top of a bigger (or capital) city.
+  const notCity = /metropol|métropole|greater |region|prefecture|county|province|district|municipality|agglomeration/i;
+  const tidy = (list) => {
+    const kept = [];
+    for (const c of [...list].sort((a, b) => Number(b.capital) - Number(a.capital) || b.population - a.population)) {
+      if (notCity.test(c.name)) continue;
+      if (kept.some((k) => Math.hypot(k.lat - c.lat, (k.lon - c.lon) * Math.cos((c.lat * Math.PI) / 180)) < 0.12)) continue;
+      kept.push(c);
+    }
+    return kept.slice(0, 8);
+  };
+  const cities = Object.fromEntries(Object.entries(citySource.countries).map(([iso, list]) => [iso, tidy(list).map((c) => ({ n: c.name, lat: c.lat, lon: c.lon, p: c.population, ...(c.capital ? { c: 1 } : {}) }))]));
   writeFileSync('public/data/cities.json', JSON.stringify(cities));
   console.log(`Wrote cities for ${Object.keys(cities).length} countries`);
 }
