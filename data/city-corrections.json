@@ -1,0 +1,11 @@
+{
+  "_readme": "Hand-maintained fixes for city markers. 'add' lists Wikidata item ids for cities the automatic queries miss (their name, location and population are still fetched from Wikidata by scripts/importers/wikidata-city-additions.mjs). 'exclude' lists names to drop (metro areas etc. that slip through the filters).",
+  "add": {
+    "FRA": ["Q23482"],
+    "USA": ["Q65"],
+    "NLD": ["Q34370", "Q36600", "Q803", "Q9832", "Q749"]
+  },
+  "exclude": {
+    "FRA": ["Aix-Marseille-Provence", "Métropole Aix-Marseille-Provence"]
+  }
+}

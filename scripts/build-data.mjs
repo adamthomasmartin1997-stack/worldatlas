@@ -131,19 +131,37 @@ if (worldbank) {
 }
 
 // City markers for country maps, loaded on demand (one small file for all countries).
-if (citySource) {
-  // Drop metro areas and other non-city entries, and any marker almost on top of a bigger (or capital) city.
-  const notCity = /metropol|métropole|greater |region|prefecture|county|province|district|municipality|agglomeration/i;
+// Three Wikidata sources are merged: capitals (always kept), type-based cities, and per-country settlements.
+const settlementSource = load('data/sources/wikidata-settlements.json');
+const additions = load('data/sources/wikidata-city-additions.json')?.countries ?? {};
+const cityExclusions = load('data/city-corrections.json')?.exclude ?? {};
+// Wikidata sometimes labels a city 'City of Valencia' or 'Seville city'.
+const cleanName = (n) => n.replace(/^City of /, '').replace(/ city$/, '');
+if (citySource || settlementSource) {
+  const notCity = /metropol|métropole|greater |region|prefecture|county|province|district|municipality|agglomeration|randstad|urban area|conurbation|statistical/i;
+  const near = (a, b) => Math.hypot(a.lat - b.lat, (a.lon - b.lon) * Math.cos((a.lat * Math.PI) / 180)) < 0.12;
   const tidy = (list) => {
     const kept = [];
     for (const c of [...list].sort((a, b) => Number(b.capital) - Number(a.capital) || b.population - a.population)) {
-      if (notCity.test(c.name)) continue;
-      if (kept.some((k) => Math.hypot(k.lat - c.lat, (k.lon - c.lon) * Math.cos((c.lat * Math.PI) / 180)) < 0.12)) continue;
+      if (!c.capital && notCity.test(c.name)) continue;
+      if (kept.some((k) => k.wikidata === c.wikidata || k.name === c.name || near(k, c))) continue;
       kept.push(c);
     }
     return kept.slice(0, 8);
   };
-  const cities = Object.fromEntries(Object.entries(citySource.countries).map(([iso, list]) => [iso, tidy(list).map((c) => ({ n: c.name, lat: c.lat, lon: c.lon, p: c.population, ...(c.capital ? { c: 1 } : {}) }))]));
+  const isos = new Set([...Object.keys(additions), ...Object.keys(citySource?.countries ?? {}), ...Object.keys(settlementSource?.settlements ?? {}), ...Object.keys(settlementSource?.capitals ?? {})]);
+  const cities = {};
+  for (const iso of isos) {
+    const capital = settlementSource?.capitals?.[iso];
+    const merged = [
+      ...(capital ? [{ ...capital, capital: true }] : []),
+      ...(citySource?.countries?.[iso] ?? []).map((c) => ({ ...c, capital: capital ? false : c.capital })),
+      ...(additions[iso] ?? []),
+      ...(settlementSource?.settlements?.[iso] ?? []),
+    ].filter((c) => !(cityExclusions[iso] ?? []).includes(c.name)).map((c) => ({ ...c, name: cleanName(c.name) }));
+    const list = tidy(merged);
+    if (list.length) cities[iso] = list.map((c) => ({ n: c.name, lat: c.lat, lon: c.lon, p: c.population, ...(c.capital ? { c: 1 } : {}) }));
+  }
   writeFileSync('public/data/cities.json', JSON.stringify(cities));
   console.log(`Wrote cities for ${Object.keys(cities).length} countries`);
 }
