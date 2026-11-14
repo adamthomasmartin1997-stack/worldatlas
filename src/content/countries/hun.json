@@ -6,5 +6,52 @@
   ],
   "geography": {
     "text": "Much of Hungary is low, flat land in the Pannonian Basin, with the Great Hungarian Plain in the east. The Danube and the Tisza are its main rivers. In the west lies Lake Balaton, the largest lake in Central Europe. Hills rise in the north, but even the highest point is only just over 1,000 metres."
+  },
+  "history": {
+    "text": "The Magyars settled the Carpathian Basin in the late 800s, and Stephen I was crowned the first king of Hungary in 1000. Much of Hungary was ruled by the Ottomans after 1526 and later by the Habsburgs. After the First World War it lost about two-thirds of its territory. A 1956 uprising against Soviet control was crushed, and communism ended in 1989.",
+    "events": [
+      {
+        "year": "1000",
+        "title": "First king",
+        "text": "Stephen I is crowned king of Hungary."
+      },
+      {
+        "year": "1526",
+        "title": "Battle of Mohács",
+        "text": "An Ottoman victory leads to the division of Hungary.",
+        "related": [
+          "TUR"
+        ]
+      },
+      {
+        "year": "1867",
+        "title": "Austria-Hungary",
+        "text": "Hungary becomes an equal partner in the Habsburg dual monarchy.",
+        "related": [
+          "AUT"
+        ]
+      },
+      {
+        "year": "1920",
+        "title": "Treaty of Trianon",
+        "text": "Hungary loses about two-thirds of its territory after the First World War."
+      },
+      {
+        "year": "1956",
+        "title": "Uprising crushed",
+        "text": "A revolution against Soviet control is put down by Soviet troops.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1989",
+        "title": "Border opened",
+        "text": "Hungary opens its border with Austria, helping bring down the Iron Curtain.",
+        "related": [
+          "AUT"
+        ]
+      }
+    ]
   }
 }

@@ -6,5 +6,45 @@
   ],
   "geography": {
     "text": "Moldova is mostly gentle hills and plains with very fertile black soil, which makes it good farming country, especially for vineyards. The Prut river forms the border with Romania, and the Dniester runs through the east. Moldova has no mountains; its highest point is a hill only a few hundred metres high."
+  },
+  "history": {
+    "text": "Much of today's Moldova was part of the medieval Principality of Moldavia, which later came under Ottoman control. Russia took its eastern half, called Bessarabia, in 1812. After a period as part of Romania between the World Wars, it became a Soviet republic, and in 1991 it declared independence. A short war in 1992 left Transnistria under a breakaway government.",
+    "events": [
+      {
+        "year": "1359",
+        "title": "Principality of Moldavia",
+        "text": "A Moldavian state is founded."
+      },
+      {
+        "year": "1812",
+        "title": "Russian rule",
+        "text": "Russia takes Bessarabia from the Ottoman Empire.",
+        "related": [
+          "RUS",
+          "TUR"
+        ]
+      },
+      {
+        "year": "1918",
+        "title": "Union with Romania",
+        "text": "Bessarabia joins Romania.",
+        "related": [
+          "ROU"
+        ]
+      },
+      {
+        "year": "1940",
+        "title": "Soviet annexation",
+        "text": "The Soviet Union takes the region.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Independence",
+        "text": "Moldova declares independence."
+      }
+    ]
   }
 }

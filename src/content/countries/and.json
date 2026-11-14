@@ -6,5 +6,29 @@
   ],
   "geography": {
     "text": "Andorra is landlocked and almost entirely mountainous, made up of deep valleys surrounded by peaks of the Pyrenees. The Valira river and its branches run through the country, and almost all of its towns sit in the valley floors. Snowy winters make it a popular place for skiing."
+  },
+  "history": {
+    "text": "Andorra's independence is traditionally traced back to the time of Charlemagne. Since 1278 it has been ruled jointly by two co-princes, today the Bishop of Urgell in Spain and the President of France. Andorra stayed out of Europe's wars, and in 1993 it adopted its first written constitution and became a parliamentary democracy.",
+    "events": [
+      {
+        "year": "1278",
+        "title": "Joint rule agreed",
+        "text": "An agreement between the Count of Foix and the Bishop of Urgell sets up rule by two co-princes.",
+        "related": [
+          "FRA",
+          "ESP"
+        ]
+      },
+      {
+        "year": "1419",
+        "title": "Council of the Land",
+        "text": "Andorra's assembly is founded, one of the oldest parliaments in Europe."
+      },
+      {
+        "year": "1993",
+        "title": "First constitution",
+        "text": "Andorra becomes a parliamentary democracy and joins the United Nations."
+      }
+    ]
   }
 }

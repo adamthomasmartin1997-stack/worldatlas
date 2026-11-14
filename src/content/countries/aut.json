@@ -6,5 +6,45 @@
   ],
   "geography": {
     "text": "The Alps cover much of western and southern Austria, where glaciers surround its highest peak, the Grossglockner. The Danube flows across the north of the country from Germany towards Slovakia, passing through Vienna. The east is flatter, with farmland, vineyards and Lake Neusiedl, which Austria shares with Hungary."
+  },
+  "history": {
+    "text": "For more than six centuries Austria was ruled by the Habsburg family, whose empire at its height stretched across central Europe. The empire collapsed at the end of the First World War in 1918. Austria was annexed by Nazi Germany in 1938, occupied by the Allies after 1945, and regained full independence in 1955 as a neutral country.",
+    "events": [
+      {
+        "year": "1683",
+        "title": "Siege of Vienna",
+        "text": "An Ottoman army is defeated outside Vienna, helped by the Polish king Jan Sobieski.",
+        "related": [
+          "TUR",
+          "POL"
+        ]
+      },
+      {
+        "year": "1867",
+        "title": "Austria-Hungary",
+        "text": "The empire becomes a dual monarchy shared with Hungary.",
+        "related": [
+          "HUN"
+        ]
+      },
+      {
+        "year": "1918",
+        "title": "Empire ends",
+        "text": "After defeat in the First World War, Austria becomes a republic."
+      },
+      {
+        "year": "1938",
+        "title": "Anschluss",
+        "text": "Nazi Germany annexes Austria.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1955",
+        "title": "Independence restored",
+        "text": "Allied occupation ends and Austria declares permanent neutrality."
+      }
+    ]
   }
 }

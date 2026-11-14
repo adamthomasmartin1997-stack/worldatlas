@@ -6,5 +6,45 @@
   ],
   "geography": {
     "text": "Bosnia and Herzegovina is mostly mountainous, with the Dinaric Alps running from north-west to south-east. Bosnia, the larger northern part, has forests and river valleys, while Herzegovina in the south is drier, with bare limestone hills. The country reaches the Adriatic Sea along only a very short stretch of coast, at the town of Neum."
+  },
+  "history": {
+    "text": "Medieval Bosnia was an independent kingdom until the Ottomans conquered it in the 1460s. Austria-Hungary took control in 1878, and in 1914 the assassination of Archduke Franz Ferdinand in Sarajevo set off the First World War. After decades in Yugoslavia, Bosnia's independence in 1992 was followed by a devastating war that ended with the Dayton Agreement in 1995.",
+    "events": [
+      {
+        "year": "1463",
+        "title": "Ottoman conquest",
+        "text": "The Bosnian kingdom falls to the Ottoman Empire.",
+        "related": [
+          "TUR"
+        ]
+      },
+      {
+        "year": "1914",
+        "title": "Assassination in Sarajevo",
+        "text": "The killing of the heir to the Austro-Hungarian throne triggers the First World War.",
+        "related": [
+          "AUT",
+          "SRB"
+        ]
+      },
+      {
+        "year": "1984",
+        "title": "Winter Olympics",
+        "text": "Sarajevo hosts the Winter Olympic Games."
+      },
+      {
+        "year": "1992",
+        "title": "Independence and war",
+        "text": "Bosnia and Herzegovina declares independence and war breaks out."
+      },
+      {
+        "year": "1995",
+        "title": "Srebrenica and Dayton",
+        "text": "More than 8,000 Bosniak men and boys are murdered at Srebrenica; in December the Dayton Agreement ends the war.",
+        "related": [
+          "USA"
+        ]
+      }
+    ]
   }
 }

@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Iceland sits on the Mid-Atlantic Ridge, where two tectonic plates are pulling apart, which is why it has so many volcanoes, hot springs and geysers. Glaciers cover about a tenth of the land, including Vatnajökull, one of the largest in Europe. Most people live along the coast, while the interior is a high plateau of lava fields and ice where almost nobody lives."
+  },
+  "history": {
+    "text": "Norse settlers arrived in Iceland from the late 800s, and in 930 they founded the Althing, one of the world's oldest parliaments. Iceland later came under Norwegian and then Danish rule. It became a sovereign kingdom linked to Denmark in 1918 and a fully independent republic in 1944.",
+    "events": [
+      {
+        "year": "874",
+        "title": "First settlers",
+        "text": "By tradition, Ingólfur Arnarson settles at Reykjavík.",
+        "related": [
+          "NOR"
+        ]
+      },
+      {
+        "year": "930",
+        "title": "The Althing",
+        "text": "Iceland's parliament is founded."
+      },
+      {
+        "year": "1262",
+        "title": "Norwegian rule",
+        "text": "Iceland accepts the rule of the Norwegian king.",
+        "related": [
+          "NOR"
+        ]
+      },
+      {
+        "year": "1944",
+        "title": "Republic",
+        "text": "Iceland becomes a fully independent republic.",
+        "related": [
+          "DNK"
+        ]
+      },
+      {
+        "year": "1980",
+        "title": "First elected woman president",
+        "text": "Vigdís Finnbogadóttir becomes the world's first democratically elected female president."
+      }
+    ]
   }
 }

@@ -6,5 +6,51 @@
   ],
   "geography": {
     "text": "Russia spans 11 time zones, from the Baltic Sea to the Pacific Ocean. The Ural Mountains separate European Russia, where most people live, from Siberia, a vast region of forest, frozen tundra and great rivers such as the Ob, the Yenisei and the Lena. Lake Baikal in Siberia is the deepest lake in the world, and the Volga is the longest river in Europe."
+  },
+  "history": {
+    "text": "Russia grew from the medieval state of Kievan Rus' and the later Grand Duchy of Moscow into a vast empire stretching to the Pacific. The tsars were overthrown in 1917, and the Bolsheviks created the Soviet Union, which lost tens of millions of people in the Second World War and became a superpower. When the Soviet Union broke up in 1991, Russia became its successor state.",
+    "events": [
+      {
+        "year": "988",
+        "title": "Christianity adopted",
+        "text": "Grand Prince Volodymyr of Kyiv adopts Orthodox Christianity.",
+        "related": [
+          "UKR"
+        ]
+      },
+      {
+        "year": "1547",
+        "title": "First tsar",
+        "text": "Ivan IV, 'the Terrible', is crowned tsar."
+      },
+      {
+        "year": "1703",
+        "title": "St Petersburg founded",
+        "text": "Peter the Great builds a new capital on the Baltic."
+      },
+      {
+        "year": "1917",
+        "title": "Revolution",
+        "text": "The tsar is overthrown and the Bolsheviks seize power."
+      },
+      {
+        "year": "1961",
+        "title": "First person in space",
+        "text": "Yuri Gagarin orbits the Earth.",
+        "related": [
+          "KAZ"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Soviet Union breaks up",
+        "text": "The fifteen Soviet republics become independent.",
+        "related": [
+          "UKR",
+          "BLR",
+          "KAZ"
+        ]
+      }
+    ]
   }
 }

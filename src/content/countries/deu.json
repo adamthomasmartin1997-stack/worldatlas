@@ -6,5 +6,46 @@
   ],
   "geography": {
     "text": "Germany's landscape rises from north to south. The north is a flat plain facing the North Sea and the Baltic Sea. The centre has wooded hills and low mountains, and in the far south the Alps rise along the border with Austria, where the Zugspitze is the country's highest peak. Its great rivers include the Rhine, the Elbe and the Danube."
+  },
+  "history": {
+    "text": "For centuries the German lands were split into hundreds of states within the Holy Roman Empire. Germany was unified in 1871. After defeat in the First World War, the Nazis took power in 1933, started the Second World War and carried out the Holocaust. Divided after 1945 into West and East Germany, the country was reunited in 1990.",
+    "events": [
+      {
+        "year": "1517",
+        "title": "The Reformation",
+        "text": "Martin Luther's protest against the Church begins the Protestant Reformation."
+      },
+      {
+        "year": "1871",
+        "title": "Unification",
+        "text": "The German states unite as the German Empire."
+      },
+      {
+        "year": "1933",
+        "title": "Nazis take power",
+        "text": "Adolf Hitler becomes chancellor and creates a dictatorship."
+      },
+      {
+        "year": "1945",
+        "title": "Defeat and division",
+        "text": "Germany is defeated and divided by the Allied powers.",
+        "related": [
+          "USA",
+          "GBR",
+          "FRA",
+          "RUS"
+        ]
+      },
+      {
+        "year": "1961",
+        "title": "Berlin Wall",
+        "text": "East Germany builds a wall dividing Berlin."
+      },
+      {
+        "year": "1990",
+        "title": "Reunification",
+        "text": "East and West Germany are reunited."
+      }
+    ]
   }
 }

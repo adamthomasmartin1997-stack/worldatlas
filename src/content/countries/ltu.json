@@ -6,5 +6,48 @@
   ],
   "geography": {
     "text": "Lithuania is mostly flat, with low hills, many lakes and forests, and the long Neman river. Its short Baltic coast includes part of the Curonian Spit, a narrow strip of sand dunes it shares with Russia's Kaliningrad region. Even the highest point in the country is only about 300 metres above sea level."
+  },
+  "history": {
+    "text": "Lithuania was united as a state in the 1200s and grew into one of the largest countries in Europe. It was the last country in Europe to adopt Christianity, in 1387. Joined with Poland, it formed the Polish–Lithuanian Commonwealth until it was divided up in the late 1700s. Independent between the World Wars, Lithuania was the first Soviet republic to declare independence, in 1990.",
+    "events": [
+      {
+        "year": "1253",
+        "title": "First king",
+        "text": "Mindaugas is crowned king of Lithuania."
+      },
+      {
+        "year": "1410",
+        "title": "Battle of Grunwald",
+        "text": "Polish and Lithuanian forces defeat the Teutonic Knights.",
+        "related": [
+          "POL",
+          "DEU"
+        ]
+      },
+      {
+        "year": "1569",
+        "title": "Union of Lublin",
+        "text": "Lithuania and Poland form a single commonwealth.",
+        "related": [
+          "POL"
+        ]
+      },
+      {
+        "year": "1795",
+        "title": "Russian rule",
+        "text": "Most of Lithuania is absorbed into the Russian Empire.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1990",
+        "title": "Independence declared",
+        "text": "Lithuania is the first Soviet republic to declare independence.",
+        "related": [
+          "RUS"
+        ]
+      }
+    ]
   }
 }

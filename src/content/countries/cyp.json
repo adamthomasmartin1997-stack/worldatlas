@@ -6,5 +6,45 @@
   ],
   "geography": {
     "text": "Cyprus is the third-largest island in the Mediterranean, after Sicily and Sardinia. The Troodos Mountains cover much of the centre and west, and the narrow Kyrenia range runs along the north coast. Between them lies the Mesaoria plain, where Nicosia stands. The island has hot, dry summers and mild winters."
+  },
+  "history": {
+    "text": "Cyprus has been ruled by many powers, including Greeks, Romans, Byzantines, Venetians and Ottomans, before Britain took control in 1878. It became independent in 1960. In 1974 a coup backed by Greece's military government was followed by a Turkish invasion, and the island has been divided ever since.",
+    "events": [
+      {
+        "year": "1571",
+        "title": "Ottoman conquest",
+        "text": "The Ottomans take Cyprus from Venice.",
+        "related": [
+          "TUR"
+        ]
+      },
+      {
+        "year": "1878",
+        "title": "British control",
+        "text": "Britain takes over the running of the island.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1960",
+        "title": "Independence",
+        "text": "Cyprus becomes an independent republic."
+      },
+      {
+        "year": "1974",
+        "title": "Coup and invasion",
+        "text": "A coup backed by Greece's military rulers is followed by a Turkish invasion, dividing the island.",
+        "related": [
+          "GRC",
+          "TUR"
+        ]
+      },
+      {
+        "year": "2004",
+        "title": "Joins the EU",
+        "text": "Cyprus becomes a member of the European Union."
+      }
+    ]
   }
 }

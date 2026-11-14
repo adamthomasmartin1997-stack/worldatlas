@@ -6,5 +6,38 @@
   ],
   "geography": {
     "text": "Liechtenstein is one of only two doubly landlocked countries in the world: it is surrounded only by other landlocked countries. Its western part lies in the flat valley of the Rhine, which forms the border with Switzerland, while the east rises steeply into the Alps."
+  },
+  "history": {
+    "text": "The princely family of Liechtenstein bought the lands of Schellenberg and Vaduz around 1700, and in 1719 the Holy Roman Emperor made them a principality. Liechtenstein became fully sovereign in 1806. It abolished its army in 1868 and has been closely tied to Switzerland since forming a customs union with it in 1923.",
+    "events": [
+      {
+        "year": "1719",
+        "title": "Principality created",
+        "text": "The lands are raised to a principality named after the Liechtenstein family."
+      },
+      {
+        "year": "1806",
+        "title": "Sovereignty",
+        "text": "Liechtenstein becomes a sovereign state as the Holy Roman Empire collapses."
+      },
+      {
+        "year": "1868",
+        "title": "Army abolished",
+        "text": "Liechtenstein gets rid of its army."
+      },
+      {
+        "year": "1923",
+        "title": "Customs union with Switzerland",
+        "text": "Liechtenstein ties its economy to Switzerland.",
+        "related": [
+          "CHE"
+        ]
+      },
+      {
+        "year": "1990",
+        "title": "Joins the UN",
+        "text": "Liechtenstein becomes a member of the United Nations."
+      }
+    ]
   }
 }

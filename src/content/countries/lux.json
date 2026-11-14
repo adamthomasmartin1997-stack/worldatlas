@@ -6,5 +6,38 @@
   ],
   "geography": {
     "text": "The north of Luxembourg, called the Ösling, is part of the forested Ardennes uplands. The south, called the Gutland or 'good land', is lower and more fertile, and is where most people live. The Moselle river forms part of the border with Germany, and its valley is lined with vineyards."
+  },
+  "history": {
+    "text": "Luxembourg began as a castle built in 963. Over the centuries it was ruled by Burgundy, Spain, Austria and France. It became a grand duchy in 1815 and was declared permanently neutral in 1867. Occupied by Germany in both World Wars, it then became a founding member of NATO and of what is now the European Union.",
+    "events": [
+      {
+        "year": "963",
+        "title": "Castle founded",
+        "text": "Count Siegfried acquires the rock on which Luxembourg City grows."
+      },
+      {
+        "year": "1815",
+        "title": "Grand duchy",
+        "text": "The Congress of Vienna makes Luxembourg a grand duchy."
+      },
+      {
+        "year": "1867",
+        "title": "Neutrality",
+        "text": "The Treaty of London declares Luxembourg permanently neutral."
+      },
+      {
+        "year": "1940",
+        "title": "German occupation",
+        "text": "Germany occupies Luxembourg during the Second World War.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1957",
+        "title": "Founding member of the EEC",
+        "text": "Luxembourg helps found what becomes the European Union."
+      }
+    ]
   }
 }

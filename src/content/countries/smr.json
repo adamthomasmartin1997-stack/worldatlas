@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "San Marino sits on and around Monte Titano, in the foothills of the Apennines, not far from Italy's Adriatic coast. Three medieval towers stand on the mountain's peaks, and the old town looks out over the surrounding Italian countryside."
+  },
+  "history": {
+    "text": "According to tradition, San Marino was founded in 301 by Marinus, a stonemason from the island of Rab who fled the persecution of Christians. Protected by its mountain and by careful diplomacy, it has kept its independence ever since. Napoleon offered to enlarge it, but San Marino politely refused. Its constitution, dating from 1600, is one of the oldest still in force.",
+    "events": [
+      {
+        "year": "301",
+        "title": "Founding",
+        "text": "By tradition, Saint Marinus founds a community on Monte Titano.",
+        "related": [
+          "HRV"
+        ]
+      },
+      {
+        "year": "1600",
+        "title": "Constitution",
+        "text": "San Marino's written constitution is adopted."
+      },
+      {
+        "year": "1797",
+        "title": "Napoleon's offer",
+        "text": "Napoleon offers more land; San Marino accepts only his friendship.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1862",
+        "title": "Treaty with Italy",
+        "text": "A friendship treaty with the new Kingdom of Italy secures its independence.",
+        "related": [
+          "ITA"
+        ]
+      },
+      {
+        "year": "1992",
+        "title": "Joins the UN",
+        "text": "San Marino becomes a member of the United Nations."
+      }
+    ]
   }
 }

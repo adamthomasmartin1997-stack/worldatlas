@@ -6,5 +6,48 @@
   ],
   "geography": {
     "text": "Forests cover around two-thirds of Sweden, and it has close to a hundred thousand lakes. The north, reaching beyond the Arctic Circle, is mountainous and thinly populated, while the south is flatter and has most of the farmland and cities. Its long Baltic coastline is fringed with thousands of islands."
+  },
+  "history": {
+    "text": "Swedish Vikings travelled east along the rivers of Russia. Sweden broke away from its union with Denmark in 1523 and became a great power in the 1600s, ruling much of the Baltic coast. It lost Finland to Russia in 1809 and has not fought a war since 1814. In the 1900s it built a famous welfare state.",
+    "events": [
+      {
+        "year": "1523",
+        "title": "Gustav Vasa",
+        "text": "Sweden leaves the union with Denmark under its own king.",
+        "related": [
+          "DNK"
+        ]
+      },
+      {
+        "year": "1632",
+        "title": "Gustavus Adolphus dies",
+        "text": "Sweden's warrior king is killed at Lützen in the Thirty Years' War.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1809",
+        "title": "Finland lost",
+        "text": "Sweden loses Finland to Russia.",
+        "related": [
+          "FIN",
+          "RUS"
+        ]
+      },
+      {
+        "year": "1814",
+        "title": "Last war",
+        "text": "A short campaign against Norway is Sweden's last war.",
+        "related": [
+          "NOR"
+        ]
+      },
+      {
+        "year": "1901",
+        "title": "First Nobel Prizes",
+        "text": "The prizes founded by Alfred Nobel are awarded for the first time."
+      }
+    ]
   }
 }

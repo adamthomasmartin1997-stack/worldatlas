@@ -6,5 +6,45 @@
   ],
   "geography": {
     "text": "Denmark is very low and flat: no point in the country is much more than 170 metres above sea level. Jutland, which joins Germany in the south, makes up most of the land, and the rest is islands such as Zealand, Funen and Bornholm. With the North Sea to the west and the Baltic to the east, nowhere in Denmark is far from the coast."
+  },
+  "history": {
+    "text": "Danish Vikings raided and settled across north-western Europe, and at times Danish kings ruled England, Norway and Sweden. Norway stayed under Danish rule until 1814. Denmark adopted a democratic constitution in 1849, was occupied by Germany during the Second World War, and joined what is now the European Union in 1973.",
+    "events": [
+      {
+        "year": "1016",
+        "title": "Cnut rules England",
+        "text": "The Danish king Cnut becomes king of England.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1397",
+        "title": "Kalmar Union",
+        "text": "Denmark, Norway and Sweden are united under one monarch.",
+        "related": [
+          "NOR",
+          "SWE"
+        ]
+      },
+      {
+        "year": "1849",
+        "title": "Constitution",
+        "text": "Denmark becomes a constitutional monarchy."
+      },
+      {
+        "year": "1940",
+        "title": "German occupation",
+        "text": "Germany occupies Denmark for the rest of the Second World War.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1973",
+        "title": "Joins the EEC",
+        "text": "Denmark joins the European Economic Community."
+      }
+    ]
   }
 }

@@ -6,5 +6,42 @@
   ],
   "geography": {
     "text": "The Balkan Mountains run across the middle of Bulgaria, with the wide Danube plain to the north, where the Danube forms most of the border with Romania. In the south-west the Rila and Pirin mountains rise higher still, and Musala in the Rila range is the highest peak in the Balkans. In the east, Bulgaria has a coastline of beaches and resorts on the Black Sea."
+  },
+  "history": {
+    "text": "The First Bulgarian Empire was founded in 681 and became one of the great powers of medieval Europe. The Ottomans ruled Bulgaria from the late 1300s until 1878. After the Second World War it became a communist state allied with the Soviet Union, and it moved to democracy in 1990.",
+    "events": [
+      {
+        "year": "681",
+        "title": "First Bulgarian Empire",
+        "text": "Khan Asparukh founds a Bulgarian state on the Danube."
+      },
+      {
+        "year": "800s",
+        "title": "Cyrillic alphabet",
+        "text": "Scholars in the Bulgarian Empire develop the Cyrillic script."
+      },
+      {
+        "year": "1396",
+        "title": "Ottoman conquest",
+        "text": "The last Bulgarian kingdom falls to the Ottomans.",
+        "related": [
+          "TUR"
+        ]
+      },
+      {
+        "year": "1878",
+        "title": "Liberation",
+        "text": "Bulgaria becomes self-governing after a Russian victory over the Ottomans.",
+        "related": [
+          "RUS",
+          "TUR"
+        ]
+      },
+      {
+        "year": "2007",
+        "title": "Joins the EU",
+        "text": "Bulgaria becomes a member of the European Union."
+      }
+    ]
   }
 }

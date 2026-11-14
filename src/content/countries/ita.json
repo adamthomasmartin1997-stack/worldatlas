@@ -6,5 +6,40 @@
   ],
   "geography": {
     "text": "The Alps form Italy's northern border, and the Apennine Mountains run down the length of the peninsula. Between them lies the Po Valley, the country's largest plain and its main farming region. Italy has active volcanoes, including Mount Etna on Sicily and Vesuvius near Naples. Two tiny independent countries, San Marino and Vatican City, lie entirely inside Italy."
+  },
+  "history": {
+    "text": "Rome grew from a small city into an empire that ruled the whole Mediterranean. After it fell, Italy was split into many states, and cities such as Florence and Venice led the Renaissance in art and science. Italy was unified in 1861, became a fascist dictatorship under Benito Mussolini in the 1920s, and voted to become a republic in 1946.",
+    "events": [
+      {
+        "year": "753 BC",
+        "title": "Founding of Rome",
+        "text": "The traditional date for the founding of Rome."
+      },
+      {
+        "year": "476",
+        "title": "Fall of the Western Roman Empire",
+        "text": "The last Western Roman emperor is removed from power."
+      },
+      {
+        "year": "1400s",
+        "title": "The Renaissance",
+        "text": "Florence becomes the centre of a rebirth of art and learning."
+      },
+      {
+        "year": "1861",
+        "title": "Unification",
+        "text": "Most of the Italian peninsula is united as the Kingdom of Italy."
+      },
+      {
+        "year": "1922",
+        "title": "Mussolini takes power",
+        "text": "The fascist leader becomes prime minister and then dictator."
+      },
+      {
+        "year": "1946",
+        "title": "Republic",
+        "text": "Italians vote to end the monarchy."
+      }
+    ]
   }
 }

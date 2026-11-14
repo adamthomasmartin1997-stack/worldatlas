@@ -6,5 +6,52 @@
   ],
   "geography": {
     "text": "Most of Poland is part of the North European Plain: low and flat, with farmland and forests. The Vistula, its longest river, flows north through Kraków and Warsaw to the Baltic Sea. The Masurian Lake District in the north-east has thousands of lakes, and the south rises into the Sudetes and the Carpathians, including the Tatra Mountains."
+  },
+  "history": {
+    "text": "Poland became a Christian kingdom in 966 and, joined with Lithuania, was one of the largest states in Europe. It was divided up by Russia, Prussia and Austria and disappeared from the map in 1795. Reborn in 1918, Poland was invaded by Germany in 1939, starting the Second World War. The Solidarity movement helped bring down communism in 1989.",
+    "events": [
+      {
+        "year": "966",
+        "title": "Baptism of Poland",
+        "text": "Duke Mieszko I adopts Christianity."
+      },
+      {
+        "year": "1569",
+        "title": "Union of Lublin",
+        "text": "Poland and Lithuania form a commonwealth.",
+        "related": [
+          "LTU"
+        ]
+      },
+      {
+        "year": "1795",
+        "title": "Wiped off the map",
+        "text": "Poland is divided between Russia, Prussia and Austria.",
+        "related": [
+          "RUS",
+          "DEU",
+          "AUT"
+        ]
+      },
+      {
+        "year": "1918",
+        "title": "Independence",
+        "text": "Poland becomes an independent state again."
+      },
+      {
+        "year": "1939",
+        "title": "Invasion",
+        "text": "Germany invades, starting the Second World War; the Soviet Union invades from the east.",
+        "related": [
+          "DEU",
+          "RUS"
+        ]
+      },
+      {
+        "year": "1989",
+        "title": "End of communism",
+        "text": "Solidarity wins elections and communist rule ends."
+      }
+    ]
   }
 }

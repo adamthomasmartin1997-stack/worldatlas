@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "The Netherlands is extremely flat, and about a quarter of the land is below sea level. Much of it has been won from the sea and lakes and is protected by dykes, dunes and pumps; this reclaimed land is called polder. The Rhine, the Maas and the Scheldt reach the sea through its delta, and the only real hills are in the far south-east."
+  },
+  "history": {
+    "text": "In 1581 the northern provinces of the Low Countries declared independence from Spain, and in the 1600s the Dutch Republic became a great trading power, in a 'Golden Age' of artists such as Rembrandt and Vermeer. The kingdom was created in 1815. The Netherlands was occupied by Germany in the Second World War, and after the deadly flood of 1953 it built huge sea defences.",
+    "events": [
+      {
+        "year": "1581",
+        "title": "Independence from Spain",
+        "text": "The northern provinces declare independence from the Spanish king.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1602",
+        "title": "Dutch East India Company",
+        "text": "A trading company is founded that builds an empire in the East Indies.",
+        "related": [
+          "IDN"
+        ]
+      },
+      {
+        "year": "1815",
+        "title": "Kingdom",
+        "text": "The Kingdom of the Netherlands is created."
+      },
+      {
+        "year": "1940",
+        "title": "German invasion",
+        "text": "Germany invades and occupies the Netherlands.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1953",
+        "title": "North Sea flood",
+        "text": "A storm surge kills more than 1,800 people, leading to the Delta Works sea defences."
+      }
+    ]
   }
 }

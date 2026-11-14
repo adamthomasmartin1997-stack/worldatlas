@@ -6,5 +6,52 @@
   ],
   "geography": {
     "text": "Ireland is often called the Emerald Isle because of its green fields, kept lush by frequent rain from the Atlantic. The centre of the island is a low plain of farmland, lakes and peat bogs, ringed by coastal hills and mountains. The Shannon is the longest river in Ireland and in the British Isles, and the rugged west coast includes the Cliffs of Moher."
+  },
+  "history": {
+    "text": "Christianity reached Ireland in the 400s, and its monasteries became famous centres of learning. English, and later British, rule tightened from the 1100s onwards. The Great Famine of the 1840s killed about a million people and forced another million to emigrate. After the Easter Rising of 1916 and a war of independence, most of Ireland became independent in 1922.",
+    "events": [
+      {
+        "year": "400s",
+        "title": "Christianity arrives",
+        "text": "Saint Patrick is traditionally credited with bringing Christianity to Ireland."
+      },
+      {
+        "year": "1169",
+        "title": "Anglo-Norman invasion",
+        "text": "Anglo-Norman forces land in Ireland, beginning centuries of English rule.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1845",
+        "title": "Great Famine",
+        "text": "Potato blight causes a famine that kills about a million people."
+      },
+      {
+        "year": "1916",
+        "title": "Easter Rising",
+        "text": "Irish republicans rebel against British rule in Dublin.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1922",
+        "title": "Irish Free State",
+        "text": "Most of Ireland becomes self-governing.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1998",
+        "title": "Good Friday Agreement",
+        "text": "A peace deal is agreed for Northern Ireland.",
+        "related": [
+          "GBR"
+        ]
+      }
+    ]
   }
 }

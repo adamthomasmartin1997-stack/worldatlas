@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Montenegro packs a lot into a small space: a sunny Adriatic coastline, including the fjord-like Bay of Kotor, with rugged mountains rising just inland. The north is high and mountainous, with deep canyons such as the Tara River Canyon, one of the deepest in Europe. Lake Skadar, which it shares with Albania, is the largest lake in the Balkans."
+  },
+  "history": {
+    "text": "Montenegro's mountains helped it keep a large degree of independence through centuries of Ottoman power in the Balkans. It was ruled for long periods by prince-bishops and was recognised as independent in 1878. After the First World War it became part of Yugoslavia, and it became independent again after a referendum in 2006.",
+    "events": [
+      {
+        "year": "1696",
+        "title": "Prince-bishops",
+        "text": "The Petrović-Njegoš family begins its long rule."
+      },
+      {
+        "year": "1878",
+        "title": "Independence recognised",
+        "text": "The Congress of Berlin recognises Montenegro as independent.",
+        "related": [
+          "TUR"
+        ]
+      },
+      {
+        "year": "1918",
+        "title": "Joins Yugoslavia",
+        "text": "Montenegro becomes part of the new South Slav kingdom.",
+        "related": [
+          "SRB"
+        ]
+      },
+      {
+        "year": "2006",
+        "title": "Independence",
+        "text": "Montenegrins vote to leave their union with Serbia.",
+        "related": [
+          "SRB"
+        ]
+      },
+      {
+        "year": "2017",
+        "title": "Joins NATO",
+        "text": "Montenegro becomes a member of NATO."
+      }
+    ]
   }
 }

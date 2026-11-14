@@ -6,5 +6,45 @@
   ],
   "geography": {
     "text": "Estonia is low and flat, with many lakes, bogs and forests. It has a long coastline on the Baltic Sea and the Gulf of Finland, and more than two thousand islands, the largest being Saaremaa and Hiiumaa. Lake Peipus, one of the largest lakes in Europe, forms much of the border with Russia."
+  },
+  "history": {
+    "text": "Estonia was conquered by Danish and German crusaders in the 1200s and later ruled by Sweden and then Russia. It declared independence in 1918 but was occupied by the Soviet Union in 1940. Estonians helped end Soviet rule through peaceful mass protests, including the 'Singing Revolution', and independence was restored in 1991.",
+    "events": [
+      {
+        "year": "1219",
+        "title": "Danish conquest",
+        "text": "Danish crusaders capture the site of Tallinn.",
+        "related": [
+          "DNK"
+        ]
+      },
+      {
+        "year": "1710",
+        "title": "Russian rule",
+        "text": "Estonia passes from Sweden to the Russian Empire.",
+        "related": [
+          "SWE",
+          "RUS"
+        ]
+      },
+      {
+        "year": "1918",
+        "title": "Independence",
+        "text": "Estonia declares itself an independent republic."
+      },
+      {
+        "year": "1940",
+        "title": "Soviet occupation",
+        "text": "The Soviet Union occupies and annexes Estonia.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Independence restored",
+        "text": "Estonia regains its independence as Soviet rule collapses."
+      }
+    ]
   }
 }

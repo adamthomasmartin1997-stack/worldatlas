@@ -6,5 +6,41 @@
   ],
   "geography": {
     "text": "Mainland Portugal faces the Atlantic along a long coastline of beaches and cliffs. The north is hilly and green, while the south, especially the Algarve, is drier and sunnier. The Tagus and the Douro rivers flow west across the country from Spain to the sea. Portugal also includes two groups of Atlantic islands, the Azores and Madeira."
+  },
+  "history": {
+    "text": "Portugal became an independent kingdom in the 1100s, with borders that have barely changed since. In the 1400s and 1500s its sailors explored the coasts of Africa, reached India and Brazil, and built a trading empire across the globe. A revolution in 1910 ended the monarchy, and the peaceful Carnation Revolution of 1974 ended decades of dictatorship.",
+    "events": [
+      {
+        "year": "1143",
+        "title": "Kingdom recognised",
+        "text": "Portugal is recognised as an independent kingdom."
+      },
+      {
+        "year": "1498",
+        "title": "Sea route to India",
+        "text": "Vasco da Gama reaches India by sailing around Africa.",
+        "related": [
+          "IND"
+        ]
+      },
+      {
+        "year": "1500",
+        "title": "Brazil reached",
+        "text": "Pedro Álvares Cabral lands in Brazil.",
+        "related": [
+          "BRA"
+        ]
+      },
+      {
+        "year": "1755",
+        "title": "Lisbon earthquake",
+        "text": "An earthquake and tsunami destroy much of Lisbon."
+      },
+      {
+        "year": "1974",
+        "title": "Carnation Revolution",
+        "text": "A largely peaceful military coup ends dictatorship and leads to democracy."
+      }
+    ]
   }
 }

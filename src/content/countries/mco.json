@@ -6,5 +6,41 @@
   ],
   "geography": {
     "text": "Monaco is squeezed onto a narrow, hilly strip of coast at the foot of the Alps, so its buildings are tall and packed closely together. Parts of the country have been built on land reclaimed from the sea. It has no farmland and no rivers or lakes of any size."
+  },
+  "history": {
+    "text": "The Grimaldi family seized the fortress of Monaco in 1297, reportedly with a soldier disguised as a monk, and has ruled it almost ever since. Monaco lost most of its land in the 1800s, but the Monte Carlo casino made it rich. Prince Rainier III's marriage to the film star Grace Kelly in 1956 made it world-famous.",
+    "events": [
+      {
+        "year": "1297",
+        "title": "The Grimaldis arrive",
+        "text": "François Grimaldi captures the fortress of Monaco."
+      },
+      {
+        "year": "1861",
+        "title": "Treaty with France",
+        "text": "Monaco gives up most of its land to France in return for recognition of its independence.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1863",
+        "title": "The casino",
+        "text": "The company that runs the Monte Carlo casino is founded."
+      },
+      {
+        "year": "1929",
+        "title": "First Grand Prix",
+        "text": "The first Monaco Grand Prix is held on the city's streets."
+      },
+      {
+        "year": "1956",
+        "title": "A royal wedding",
+        "text": "Prince Rainier III marries the American actress Grace Kelly.",
+        "related": [
+          "USA"
+        ]
+      }
+    ]
   }
 }

@@ -6,5 +6,41 @@
   ],
   "geography": {
     "text": "Greece is a mountainous country with a very long coastline and thousands of islands spread across the Aegean and Ionian seas. Crete is the largest island. Mount Olympus, home of the gods in Greek myths, is the highest mountain. Summers are hot and dry, and winters are mild along the coasts."
+  },
+  "history": {
+    "text": "Ancient Greek city-states such as Athens and Sparta developed ideas about democracy, philosophy, science and theatre that still shape the world. Greece later became part of the Roman, Byzantine and Ottoman empires. It won independence in the 1820s, was occupied in the Second World War, and after military rule from 1967 to 1974 became a democracy again.",
+    "events": [
+      {
+        "year": "776 BC",
+        "title": "First recorded Olympics",
+        "text": "The first Olympic Games on record are held at Olympia."
+      },
+      {
+        "year": "508 BC",
+        "title": "Democracy in Athens",
+        "text": "Athens introduces a system of government by its citizens."
+      },
+      {
+        "year": "1453",
+        "title": "Fall of Constantinople",
+        "text": "The Byzantine capital falls to the Ottomans.",
+        "related": [
+          "TUR"
+        ]
+      },
+      {
+        "year": "1821",
+        "title": "War of Independence",
+        "text": "Greeks rise against Ottoman rule; independence follows within a decade.",
+        "related": [
+          "TUR"
+        ]
+      },
+      {
+        "year": "1974",
+        "title": "Democracy restored",
+        "text": "Military rule ends and Greece becomes a republic."
+      }
+    ]
   }
 }

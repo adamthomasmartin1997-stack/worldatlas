@@ -6,5 +6,48 @@
   ],
   "geography": {
     "text": "Northern Belgium is low and flat, with a short, sandy North Sea coast and farmland crossed by rivers and canals. The land rises towards the south-east into the forested hills of the Ardennes. The Scheldt and the Meuse are its main rivers, and the port of Antwerp on the Scheldt is one of the largest in Europe."
+  },
+  "history": {
+    "text": "Belgium's land was fought over for centuries by Europe's great powers and ruled in turn by Spain, Austria, France and the Netherlands. It broke away from the Netherlands and became independent in 1830. Belgium was invaded in both World Wars, and after 1945 it became a founding member of what is now the European Union, with Brussels as its main home.",
+    "events": [
+      {
+        "year": "1815",
+        "title": "Battle of Waterloo",
+        "text": "Napoleon is finally defeated just south of Brussels.",
+        "related": [
+          "FRA",
+          "GBR"
+        ]
+      },
+      {
+        "year": "1830",
+        "title": "Belgian Revolution",
+        "text": "Belgium breaks away from the Netherlands and becomes independent.",
+        "related": [
+          "NLD"
+        ]
+      },
+      {
+        "year": "1885",
+        "title": "Congo Free State",
+        "text": "King Leopold II takes the Congo as his personal colony, where millions suffer under forced labour.",
+        "related": [
+          "COD"
+        ]
+      },
+      {
+        "year": "1914",
+        "title": "German invasion",
+        "text": "Germany invades neutral Belgium at the start of the First World War.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1957",
+        "title": "Founding member of the EEC",
+        "text": "Belgium helps found the European Economic Community, which becomes the EU."
+      }
+    ]
   }
 }

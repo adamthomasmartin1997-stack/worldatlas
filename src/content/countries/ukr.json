@@ -6,5 +6,55 @@
   ],
   "geography": {
     "text": "Most of Ukraine is flat, fertile plain with rich black soil, which has made it one of the world's great grain-growing countries. The Dnieper river flows through the middle of the country, past Kyiv, to the Black Sea. The Carpathian Mountains rise in the far west and the Crimean Mountains in the south. Ukraine has coastlines on the Black Sea and the Sea of Azov."
+  },
+  "history": {
+    "text": "Kyiv was the centre of Kievan Rus', a powerful medieval state, until it was destroyed by the Mongols in 1240. Ukrainian lands were later divided between Poland–Lithuania, the Cossacks and Russia. Under Soviet rule, millions died in the famine of 1932–33, known as the Holodomor. Ukraine became independent in 1991; Russia annexed Crimea in 2014 and launched a full-scale invasion in 2022.",
+    "events": [
+      {
+        "year": "988",
+        "title": "Christianity adopted",
+        "text": "Volodymyr the Great makes Kievan Rus' Christian.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1240",
+        "title": "Mongol invasion",
+        "text": "Mongol armies destroy Kyiv.",
+        "related": [
+          "MNG"
+        ]
+      },
+      {
+        "year": "1648",
+        "title": "Cossack uprising",
+        "text": "Bohdan Khmelnytsky leads a revolt against Polish rule.",
+        "related": [
+          "POL"
+        ]
+      },
+      {
+        "year": "1932",
+        "title": "The Holodomor",
+        "text": "A man-made famine under Soviet rule kills millions of Ukrainians.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Independence",
+        "text": "Ukraine votes overwhelmingly for independence."
+      },
+      {
+        "year": "2022",
+        "title": "Full-scale invasion",
+        "text": "Russia invades Ukraine.",
+        "related": [
+          "RUS"
+        ]
+      }
+    ]
   }
 }

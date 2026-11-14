@@ -6,5 +6,42 @@
   ],
   "geography": {
     "text": "The Carpathian Mountains curve through the middle of Romania, around the high Transylvanian plateau. Outside the mountains are wide plains, especially in the south, where the Danube forms much of the border with Serbia and Bulgaria. Before reaching the Black Sea, the Danube spreads out into the Danube Delta, a huge wetland that is home to many birds."
+  },
+  "history": {
+    "text": "The land of Romania was the Roman province of Dacia, which is where its Latin-based language comes from. The principalities of Wallachia and Moldavia united in 1859 and became independent of the Ottomans in 1878, and Transylvania joined in 1918. Romania was ruled by communists after the Second World War, and the dictator Nicolae Ceaușescu was overthrown in 1989.",
+    "events": [
+      {
+        "year": "106",
+        "title": "Roman conquest",
+        "text": "The Roman Empire conquers Dacia."
+      },
+      {
+        "year": "1859",
+        "title": "Union",
+        "text": "Wallachia and Moldavia unite under one ruler."
+      },
+      {
+        "year": "1878",
+        "title": "Independence",
+        "text": "Romania's independence from the Ottoman Empire is recognised.",
+        "related": [
+          "TUR"
+        ]
+      },
+      {
+        "year": "1918",
+        "title": "Great Union",
+        "text": "Transylvania and other regions join Romania.",
+        "related": [
+          "HUN",
+          "MDA"
+        ]
+      },
+      {
+        "year": "1989",
+        "title": "Revolution",
+        "text": "The communist dictatorship of Ceaușescu is overthrown."
+      }
+    ]
   }
 }

@@ -6,5 +6,41 @@
   ],
   "geography": {
     "text": "The whole country covers less than half a square kilometre, on a low hill on the west bank of the River Tiber. Much of it is taken up by St Peter's Basilica, St Peter's Square, the Vatican Museums and the Vatican Gardens, all enclosed by walls."
+  },
+  "history": {
+    "text": "For more than a thousand years, popes ruled the Papal States, a large territory across central Italy. When Italy was unified, it took Rome in 1870, and the popes refused to recognise the new Italian state. The dispute was settled by the Lateran Treaty of 1929, which created Vatican City as an independent country.",
+    "events": [
+      {
+        "year": "1506",
+        "title": "New St Peter's",
+        "text": "Work begins on the new St Peter's Basilica."
+      },
+      {
+        "year": "1512",
+        "title": "Sistine Chapel ceiling",
+        "text": "Michelangelo finishes painting the ceiling of the Sistine Chapel."
+      },
+      {
+        "year": "1870",
+        "title": "Rome taken",
+        "text": "Italian troops capture Rome, ending the Papal States.",
+        "related": [
+          "ITA"
+        ]
+      },
+      {
+        "year": "1929",
+        "title": "Lateran Treaty",
+        "text": "An agreement with Italy creates Vatican City.",
+        "related": [
+          "ITA"
+        ]
+      },
+      {
+        "year": "1962",
+        "title": "Second Vatican Council",
+        "text": "A major council begins modernising the Catholic Church."
+      }
+    ]
   }
 }

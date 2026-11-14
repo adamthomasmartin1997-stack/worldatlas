@@ -6,5 +6,54 @@
   ],
   "geography": {
     "text": "Latvia is low and gently rolling, with no mountains. About half of the country is covered by forest, and it has many lakes, bogs and rivers, the largest river being the Daugava. A long coastline of sandy beaches runs along the Baltic Sea and the Gulf of Riga."
+  },
+  "history": {
+    "text": "Riga was founded by German crusaders in 1201, and the land later came under Polish, Swedish and then Russian rule. Latvia declared independence in 1918 but was occupied by the Soviet Union in 1940. In 1989 people joined hands in the Baltic Way, a human chain through Estonia, Latvia and Lithuania, and independence was restored in 1991.",
+    "events": [
+      {
+        "year": "1201",
+        "title": "Riga founded",
+        "text": "German crusaders found the city of Riga.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1710",
+        "title": "Russian rule",
+        "text": "Riga and much of Latvia pass to the Russian Empire.",
+        "related": [
+          "RUS",
+          "SWE"
+        ]
+      },
+      {
+        "year": "1918",
+        "title": "Independence",
+        "text": "Latvia declares independence."
+      },
+      {
+        "year": "1940",
+        "title": "Soviet occupation",
+        "text": "The Soviet Union occupies and annexes Latvia.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1989",
+        "title": "The Baltic Way",
+        "text": "About two million people form a human chain across the three Baltic states.",
+        "related": [
+          "EST",
+          "LTU"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Independence restored",
+        "text": "Latvia regains its independence."
+      }
+    ]
   }
 }

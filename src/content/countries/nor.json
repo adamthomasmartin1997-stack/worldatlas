@@ -6,5 +6,48 @@
   ],
   "geography": {
     "text": "Norway is long, narrow and mountainous, with a deeply cut coastline of fjords carved by glaciers. Thousands of islands lie off the coast, and in the far north, beyond the Arctic Circle, the sun does not set in midsummer. The Svalbard islands, far out in the Arctic Ocean, are also part of Norway."
+  },
+  "history": {
+    "text": "Norwegian Vikings sailed as far as Iceland, Greenland and North America. Norway was united as a kingdom around the 900s, but from 1380 it was joined with Denmark, and from 1814 with Sweden. It became fully independent in 1905. Occupied by Germany in the Second World War, Norway later grew rich from North Sea oil, discovered in 1969.",
+    "events": [
+      {
+        "year": "1000",
+        "title": "Vikings in America",
+        "text": "Leif Erikson reaches North America, around 500 years before Columbus.",
+        "related": [
+          "CAN"
+        ]
+      },
+      {
+        "year": "1814",
+        "title": "Constitution",
+        "text": "Norway adopts a constitution, then enters a union with Sweden.",
+        "related": [
+          "SWE",
+          "DNK"
+        ]
+      },
+      {
+        "year": "1905",
+        "title": "Independence",
+        "text": "Norway peacefully ends its union with Sweden.",
+        "related": [
+          "SWE"
+        ]
+      },
+      {
+        "year": "1940",
+        "title": "German invasion",
+        "text": "Germany occupies Norway for five years.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1969",
+        "title": "Oil discovered",
+        "text": "Oil is found under the North Sea, transforming the economy."
+      }
+    ]
   }
 }

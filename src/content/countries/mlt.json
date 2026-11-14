@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "Malta is an archipelago with three inhabited islands: Malta, Gozo and Comino. The islands are low and rocky, with no rivers or lakes, so much of their fresh water comes from taking the salt out of seawater. The coast has cliffs, bays and deep natural harbours, including Valletta's Grand Harbour."
+  },
+  "history": {
+    "text": "Malta's prehistoric temples are among the oldest free-standing buildings in the world. The islands were ruled by Phoenicians, Romans, Arabs and Normans, and in 1530 were given to the Knights of St John, who held off a huge Ottoman siege in 1565. Britain took Malta in 1800, and it became independent in 1964 and a republic in 1974.",
+    "events": [
+      {
+        "year": "3600 BC",
+        "title": "Temple builders",
+        "text": "The first of Malta's great stone temples, such as Ġgantija, are built around this time."
+      },
+      {
+        "year": "1530",
+        "title": "Knights of St John",
+        "text": "The knights are given Malta as their new home."
+      },
+      {
+        "year": "1565",
+        "title": "The Great Siege",
+        "text": "The knights and the Maltese defeat a huge Ottoman invasion.",
+        "related": [
+          "TUR"
+        ]
+      },
+      {
+        "year": "1800",
+        "title": "British rule",
+        "text": "Britain takes control of Malta.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1942",
+        "title": "The George Cross",
+        "text": "Britain awards the whole island a medal for bravery during wartime bombing.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1964",
+        "title": "Independence",
+        "text": "Malta becomes independent."
+      }
+    ]
   }
 }

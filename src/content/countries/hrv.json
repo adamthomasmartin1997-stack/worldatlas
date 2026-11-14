@@ -6,5 +6,42 @@
   ],
   "geography": {
     "text": "Croatia has an unusual crescent shape. The north and east are part of the flat Pannonian Plain, crossed by the Drava and Sava rivers. The long Adriatic coast is lined with more than a thousand islands, with the Dinaric Alps rising just behind it. The Plitvice Lakes, a chain of lakes linked by waterfalls, are among its best-known natural sights."
+  },
+  "history": {
+    "text": "Croatia became a kingdom in 925 and from 1102 was joined with Hungary, later becoming part of the Habsburg lands. After the First World War it joined the new state that became Yugoslavia. Croatia declared independence in 1991, fought a war until 1995, and joined the European Union in 2013.",
+    "events": [
+      {
+        "year": "925",
+        "title": "First king",
+        "text": "Tomislav is crowned the first king of Croatia."
+      },
+      {
+        "year": "1102",
+        "title": "Union with Hungary",
+        "text": "Croatia enters a union with the Kingdom of Hungary that lasts for centuries.",
+        "related": [
+          "HUN"
+        ]
+      },
+      {
+        "year": "1918",
+        "title": "Joins a new South Slav state",
+        "text": "Croatia becomes part of the Kingdom of Serbs, Croats and Slovenes, later Yugoslavia.",
+        "related": [
+          "SRB",
+          "SVN"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Independence and war",
+        "text": "Croatia declares independence; fighting lasts until 1995."
+      },
+      {
+        "year": "2013",
+        "title": "Joins the EU",
+        "text": "Croatia becomes the 28th member of the European Union."
+      }
+    ]
   }
 }

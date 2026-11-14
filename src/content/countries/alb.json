@@ -6,5 +6,41 @@
   ],
   "geography": {
     "text": "Most of Albania is mountainous, with the Albanian Alps in the north and long ranges running down the country. A strip of coastal plain lies along the Adriatic, while the south faces the Ionian Sea. Albania shares three large lakes with its neighbours: Lake Shkodër with Montenegro, Lake Ohrid with North Macedonia, and Lake Prespa with North Macedonia and Greece."
+  },
+  "history": {
+    "text": "Albania's lands were part of the Roman and Byzantine empires before the Ottomans took control in the 1400s, despite fierce resistance led by the national hero Skanderbeg. Albania declared independence in 1912. After the Second World War, Enver Hoxha's communist government cut the country off from almost the whole world for four decades, until protests brought multi-party democracy in the early 1990s.",
+    "events": [
+      {
+        "year": "1468",
+        "title": "Skanderbeg dies",
+        "text": "He had held off Ottoman armies for 25 years; more than four centuries of Ottoman rule followed.",
+        "related": [
+          "TUR"
+        ]
+      },
+      {
+        "year": "1912",
+        "title": "Independence declared",
+        "text": "Albania declares independence from the Ottoman Empire in the port of Vlorë.",
+        "related": [
+          "TUR"
+        ]
+      },
+      {
+        "year": "1944",
+        "title": "Communists take power",
+        "text": "Enver Hoxha begins four decades of hard-line, isolated rule."
+      },
+      {
+        "year": "1991",
+        "title": "First free elections",
+        "text": "Multi-party elections follow the fall of communism."
+      },
+      {
+        "year": "2009",
+        "title": "Joins NATO",
+        "text": "Albania becomes a member of the NATO alliance."
+      }
+    ]
   }
 }

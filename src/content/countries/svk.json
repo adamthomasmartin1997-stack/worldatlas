@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Much of Slovakia is mountainous. The Carpathians cross the north and centre of the country, including the High Tatras, the highest range in the Carpathians, which Slovakia shares with Poland. The south-west is lower and flatter, along the Danube, and the country is known for its many caves."
+  },
+  "history": {
+    "text": "Slavs settled the area in the 500s, and it was part of Great Moravia before becoming part of the Kingdom of Hungary for about a thousand years. Bratislava, then called Pressburg, was Hungary's capital and coronation city while the Ottomans held Buda. In 1918 Slovakia joined Czechoslovakia, and after a peaceful 'Velvet Divorce' it became independent in 1993.",
+    "events": [
+      {
+        "year": "833",
+        "title": "Great Moravia",
+        "text": "A Slavic state forms that includes today's Slovakia."
+      },
+      {
+        "year": "1536",
+        "title": "Capital of Hungary",
+        "text": "Bratislava becomes the capital of the Kingdom of Hungary.",
+        "related": [
+          "HUN"
+        ]
+      },
+      {
+        "year": "1918",
+        "title": "Czechoslovakia",
+        "text": "Slovaks and Czechs form a joint state.",
+        "related": [
+          "CZE"
+        ]
+      },
+      {
+        "year": "1993",
+        "title": "Independence",
+        "text": "Slovakia becomes independent after a peaceful split.",
+        "related": [
+          "CZE"
+        ]
+      },
+      {
+        "year": "2009",
+        "title": "Adopts the euro",
+        "text": "Slovakia starts using the euro."
+      }
+    ]
   }
 }

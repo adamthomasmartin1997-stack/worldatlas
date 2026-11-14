@@ -6,5 +6,42 @@
   ],
   "geography": {
     "text": "Finland is often called the land of a thousand lakes, but it actually has many tens of thousands. Forests cover around three-quarters of the country. The land is mostly low and gently rolling, shaped by ice sheets during the last Ice Age. The north lies within the Arctic Circle, in Lapland, where the sun does not set for weeks in midsummer."
+  },
+  "history": {
+    "text": "For about 600 years Finland was part of the Kingdom of Sweden. In 1809 it became a grand duchy of the Russian Empire, and it declared independence in 1917, during the Russian Revolution. Finland fought the Soviet Union in the Second World War and kept its independence, and later built one of the world's most successful welfare states.",
+    "events": [
+      {
+        "year": "1809",
+        "title": "Russian rule",
+        "text": "Sweden loses Finland to Russia, which makes it a grand duchy.",
+        "related": [
+          "SWE",
+          "RUS"
+        ]
+      },
+      {
+        "year": "1906",
+        "title": "Votes for women",
+        "text": "Finland becomes the first country in Europe to give women the vote and the right to stand for parliament."
+      },
+      {
+        "year": "1917",
+        "title": "Independence",
+        "text": "Finland declares independence from Russia."
+      },
+      {
+        "year": "1939",
+        "title": "Winter War",
+        "text": "Finland fights off a Soviet invasion, though it loses some territory.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "2023",
+        "title": "Joins NATO",
+        "text": "Finland becomes a member of NATO."
+      }
+    ]
   }
 }

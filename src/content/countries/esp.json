@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "Much of Spain is a high central plateau called the Meseta, ringed by mountains such as the Pyrenees on the French border and the Sierra Nevada in the south. Spain has coastlines on both the Atlantic and the Mediterranean. Its territory also includes the Balearic Islands, the Canary Islands off north-west Africa, and the cities of Ceuta and Melilla on the north coast of Africa."
+  },
+  "history": {
+    "text": "Spain's history includes centuries of Roman rule and almost eight centuries of Muslim rule in al-Andalus, which ended in 1492 when Granada fell. In the same year, Columbus crossed the Atlantic, beginning a vast Spanish empire in the Americas. After a civil war from 1936 to 1939, General Franco ruled as a dictator until his death in 1975, when Spain became a democracy.",
+    "events": [
+      {
+        "year": "711",
+        "title": "Muslim conquest",
+        "text": "Armies from North Africa conquer most of the Iberian Peninsula.",
+        "related": [
+          "MAR"
+        ]
+      },
+      {
+        "year": "1492",
+        "title": "Granada and Columbus",
+        "text": "The last Muslim kingdom falls, and Columbus reaches the Americas.",
+        "related": [
+          "BHS"
+        ]
+      },
+      {
+        "year": "1588",
+        "title": "The Spanish Armada",
+        "text": "A Spanish invasion fleet sent against England is defeated.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1936",
+        "title": "Civil War",
+        "text": "A three-year civil war ends with General Franco in power."
+      },
+      {
+        "year": "1975",
+        "title": "Return to democracy",
+        "text": "Franco dies and Spain becomes a democratic monarchy."
+      },
+      {
+        "year": "1992",
+        "title": "Barcelona Olympics",
+        "text": "Barcelona hosts the Summer Olympic Games."
+      }
+    ]
   }
 }

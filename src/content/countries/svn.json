@@ -6,5 +6,39 @@
   ],
   "geography": {
     "text": "More than half of Slovenia is covered by forest. The Julian Alps rise in the north-west, including Triglav, the highest peak, which appears on the national flag. The south-west is karst country, with limestone caves such as Postojna and Škocjan. Slovenia's Adriatic coastline is less than 50 kilometres long."
+  },
+  "history": {
+    "text": "Slovenes settled the eastern Alps in the 500s and were ruled for centuries by the Habsburgs. Slovenia joined the new Kingdom of Serbs, Croats and Slovenes in 1918, which later became Yugoslavia. In 1991 it declared independence and won it after a war that lasted just ten days.",
+    "events": [
+      {
+        "year": "1550",
+        "title": "First Slovene book",
+        "text": "Primož Trubar publishes the first books in the Slovene language."
+      },
+      {
+        "year": "1918",
+        "title": "A new South Slav state",
+        "text": "Slovenia joins the Kingdom of Serbs, Croats and Slovenes.",
+        "related": [
+          "SRB",
+          "HRV"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "The Ten-Day War",
+        "text": "Slovenia declares independence and wins a short war against the Yugoslav army."
+      },
+      {
+        "year": "2004",
+        "title": "Joins the EU and NATO",
+        "text": "Slovenia becomes a member of both."
+      },
+      {
+        "year": "2007",
+        "title": "Adopts the euro",
+        "text": "Slovenia is the first former communist country to use the euro."
+      }
+    ]
   }
 }

@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "The Alps cover about 60 percent of Switzerland, with famous peaks such as the Matterhorn and many glaciers. North of the Alps lies the Swiss Plateau, where most people live, and the Jura Mountains run along the border with France. Great rivers such as the Rhine and the Rhône begin in the Swiss Alps, and the country has large lakes, including Lake Geneva and Lake Constance."
+  },
+  "history": {
+    "text": "Switzerland traces its beginnings to 1291, when three Alpine communities swore an alliance to defend each other, and over the centuries other cantons joined them. Its neutrality was recognised by Europe's great powers in 1815, and in 1848 it became a modern federal state. Switzerland stayed out of both World Wars and only joined the United Nations in 2002.",
+    "events": [
+      {
+        "year": "1291",
+        "title": "The first alliance",
+        "text": "Uri, Schwyz and Unterwalden swear to defend each other."
+      },
+      {
+        "year": "1515",
+        "title": "Battle of Marignano",
+        "text": "A heavy defeat leads the Swiss to step back from European wars.",
+        "related": [
+          "FRA",
+          "ITA"
+        ]
+      },
+      {
+        "year": "1815",
+        "title": "Neutrality recognised",
+        "text": "The great powers recognise Swiss neutrality."
+      },
+      {
+        "year": "1848",
+        "title": "Federal state",
+        "text": "Switzerland adopts a federal constitution."
+      },
+      {
+        "year": "1971",
+        "title": "Votes for women",
+        "text": "Women gain the right to vote in national elections."
+      },
+      {
+        "year": "2002",
+        "title": "Joins the UN",
+        "text": "Switzerland becomes a member of the United Nations."
+      }
+    ]
   }
 }

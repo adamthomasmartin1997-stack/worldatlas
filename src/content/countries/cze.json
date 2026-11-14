@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "Czechia is made up of two main historic lands: Bohemia in the west, a basin ringed by low mountains, and Moravia in the east. The Vltava flows through Prague and joins the Elbe, which carries water north through Germany to the North Sea. The highest mountains are along the borders, including the Krkonoše range on the border with Poland."
+  },
+  "history": {
+    "text": "Bohemia was a powerful kingdom in the Middle Ages, and under Charles IV Prague was the capital of the Holy Roman Empire. From 1526 the Czech lands were ruled by the Habsburgs. Czechoslovakia was created in 1918, occupied by Nazi Germany and then ruled by communists, until the peaceful Velvet Revolution of 1989. In 1993 it split peacefully into two countries.",
+    "events": [
+      {
+        "year": "1348",
+        "title": "Charles University",
+        "text": "The first university in central Europe is founded in Prague."
+      },
+      {
+        "year": "1618",
+        "title": "Defenestration of Prague",
+        "text": "Officials are thrown from a castle window, sparking the Thirty Years' War."
+      },
+      {
+        "year": "1918",
+        "title": "Czechoslovakia founded",
+        "text": "Czechs and Slovaks form a new country after the First World War.",
+        "related": [
+          "SVK"
+        ]
+      },
+      {
+        "year": "1968",
+        "title": "Prague Spring",
+        "text": "Reforms are crushed by a Soviet-led invasion.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1989",
+        "title": "Velvet Revolution",
+        "text": "Peaceful protests end communist rule."
+      },
+      {
+        "year": "1993",
+        "title": "Velvet Divorce",
+        "text": "Czechoslovakia splits peacefully into Czechia and Slovakia.",
+        "related": [
+          "SVK"
+        ]
+      }
+    ]
   }
 }

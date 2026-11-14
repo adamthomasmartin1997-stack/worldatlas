@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "Belarus is mostly flat and low, with no mountains. Forests cover around 40 percent of the land, and the south contains part of the Polesia marshes, one of the largest wetlands in Europe. The country has thousands of lakes, the biggest being Lake Narach, and its main rivers include the Dnieper, the Neman and the Western Dvina."
+  },
+  "history": {
+    "text": "The lands of Belarus were part of the Grand Duchy of Lithuania and later the Polish–Lithuanian Commonwealth, before being absorbed into the Russian Empire in the late 1700s. Belarus suffered terribly in the Second World War, losing around a quarter of its population. It became independent when the Soviet Union broke up in 1991.",
+    "events": [
+      {
+        "year": "1569",
+        "title": "Union of Lublin",
+        "text": "The Grand Duchy of Lithuania, including Belarusian lands, joins with Poland in one commonwealth.",
+        "related": [
+          "POL",
+          "LTU"
+        ]
+      },
+      {
+        "year": "1795",
+        "title": "Russian rule",
+        "text": "The last partition of Poland–Lithuania puts all of Belarus inside the Russian Empire.",
+        "related": [
+          "RUS",
+          "POL"
+        ]
+      },
+      {
+        "year": "1944",
+        "title": "End of German occupation",
+        "text": "Belarus is freed from three years of devastating German occupation.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1986",
+        "title": "Chernobyl disaster",
+        "text": "Much of the radioactive fallout from the accident in Ukraine lands on Belarus.",
+        "related": [
+          "UKR"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Independence",
+        "text": "Belarus becomes independent as the Soviet Union breaks up."
+      }
+    ]
   }
 }
