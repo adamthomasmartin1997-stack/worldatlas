@@ -6,5 +6,46 @@
   ],
   "geography": {
     "text": "Saint Vincent is a mountainous, green volcanic island with black sand beaches, and its volcano, La Soufrière, erupted in 2021. The Grenadines to the south are small, low islands surrounded by coral reefs and are popular for sailing."
+  },
+  "history": {
+    "text": "The Garifuna, descended from Kalinago people and escaped Africans, fought to keep Saint Vincent until the British defeated them in 1797 and deported most of them to Central America. The island became independent in 1979. Its volcano, La Soufrière, has erupted several times, including in 1902, 1979 and 2021.",
+    "events": [
+      {
+        "year": "1763",
+        "title": "British rule",
+        "text": "Saint Vincent passes to Britain.",
+        "related": [
+          "GBR",
+          "FRA"
+        ]
+      },
+      {
+        "year": "1797",
+        "title": "Garifuna deported",
+        "text": "Thousands of Garifuna are shipped to an island off Honduras.",
+        "related": [
+          "HND",
+          "GBR"
+        ]
+      },
+      {
+        "year": "1902",
+        "title": "La Soufrière erupts",
+        "text": "An eruption kills about 1,600 people."
+      },
+      {
+        "year": "1979",
+        "title": "Independence",
+        "text": "Saint Vincent and the Grenadines becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "2021",
+        "title": "Another eruption",
+        "text": "La Soufrière erupts again, forcing thousands to leave their homes."
+      }
+    ]
   }
 }

@@ -6,5 +6,51 @@
   ],
   "geography": {
     "text": "Jamaica is the third-largest island in the Caribbean. Mountains run along the middle of the island, and the Blue Mountains in the east, where a famous coffee is grown, are the highest. Much of the island is limestone, with caves and underground rivers, and its coast is lined with beaches."
+  },
+  "history": {
+    "text": "Jamaica's Taíno people were wiped out after Spain arrived in 1494. Britain captured the island in 1655 and turned it into a major sugar colony worked by enslaved Africans, while people who escaped, known as Maroons, formed free communities in the mountains. Slavery ended in 1834, and Jamaica became independent in 1962.",
+    "events": [
+      {
+        "year": "1494",
+        "title": "Columbus arrives",
+        "text": "Columbus lands on Jamaica.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1655",
+        "title": "British capture",
+        "text": "England takes Jamaica from Spain.",
+        "related": [
+          "GBR",
+          "ESP"
+        ]
+      },
+      {
+        "year": "1739",
+        "title": "Maroon treaty",
+        "text": "The British sign a treaty recognising Maroon communities.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1834",
+        "title": "Slavery abolished",
+        "text": "Enslaved people are freed.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1962",
+        "title": "Independence",
+        "text": "Jamaica becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      }
+    ]
   }
 }

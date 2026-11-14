@@ -6,5 +6,51 @@
   ],
   "geography": {
     "text": "Panama is a narrow, S-shaped strip of land with the Caribbean Sea to the north and the Pacific Ocean to the south. Mountains run along its spine, and much of the land is tropical forest. The Darién region, on the border with Colombia, is dense rainforest that no road crosses."
+  },
+  "history": {
+    "text": "Panama's narrow strip of land has always been a crossing point; Spanish treasure from Peru was carried across it to the Atlantic. It became part of Colombia after independence from Spain, then broke away with US support in 1903. The United States built the Panama Canal and controlled it until handing it over to Panama in 1999.",
+    "events": [
+      {
+        "year": "1513",
+        "title": "Balboa sees the Pacific",
+        "text": "Vasco Núñez de Balboa crosses Panama and becomes the first European to see the Pacific from the Americas.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1903",
+        "title": "Independence",
+        "text": "Panama breaks away from Colombia.",
+        "related": [
+          "COL",
+          "USA"
+        ]
+      },
+      {
+        "year": "1914",
+        "title": "Canal opens",
+        "text": "The Panama Canal opens to shipping.",
+        "related": [
+          "USA"
+        ]
+      },
+      {
+        "year": "1989",
+        "title": "US invasion",
+        "text": "US forces remove the military ruler Manuel Noriega.",
+        "related": [
+          "USA"
+        ]
+      },
+      {
+        "year": "1999",
+        "title": "Canal handed over",
+        "text": "Panama takes full control of the canal.",
+        "related": [
+          "USA"
+        ]
+      }
+    ]
   }
 }

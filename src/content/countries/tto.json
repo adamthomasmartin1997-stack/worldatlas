@@ -6,5 +6,48 @@
   ],
   "geography": {
     "text": "Trinidad, the larger island, has a range of hills in the north, plains in the centre and south, and swamps along parts of its coast. It is home to the Pitch Lake, the largest natural deposit of asphalt in the world. Tobago, to the north-east, is smaller and hillier, with coral reefs and beaches."
+  },
+  "history": {
+    "text": "Trinidad was Spanish until Britain captured it in 1797, while Tobago changed hands many times. After slavery ended, workers came from India, and today the country blends African, Indian and other cultures. Trinidad and Tobago became independent in 1962, and oil and gas built its economy.",
+    "events": [
+      {
+        "year": "1498",
+        "title": "Columbus arrives",
+        "text": "Columbus reaches Trinidad on his third voyage.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1797",
+        "title": "British capture",
+        "text": "Britain takes Trinidad from Spain.",
+        "related": [
+          "GBR",
+          "ESP"
+        ]
+      },
+      {
+        "year": "1845",
+        "title": "Workers from India",
+        "text": "Indentured workers begin arriving from India.",
+        "related": [
+          "IND"
+        ]
+      },
+      {
+        "year": "1962",
+        "title": "Independence",
+        "text": "Trinidad and Tobago becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1976",
+        "title": "Republic",
+        "text": "The country becomes a republic."
+      }
+    ]
   }
 }

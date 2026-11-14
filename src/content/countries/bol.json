@@ -6,5 +6,48 @@
   ],
   "geography": {
     "text": "Western Bolivia is high: the Andes surround the Altiplano, a high plateau where La Paz stands and where Lake Titicaca lies on the border with Peru. The Salar de Uyuni on the Altiplano is the largest salt flat in the world. The east of the country is much lower, with tropical rainforest and grasslands in the Amazon basin."
+  },
+  "history": {
+    "text": "The Bolivian Andes were home to the Tiwanaku civilisation and later became part of the Inca Empire. Under Spanish rule the silver mines of Potosí made it one of the richest places on Earth. Bolivia won independence in 1825 but later lost its coastline to Chile in the War of the Pacific. In 2006 Evo Morales became its first Indigenous president.",
+    "events": [
+      {
+        "year": "1545",
+        "title": "Potosí silver",
+        "text": "Huge silver deposits are found at Potosí.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1825",
+        "title": "Independence",
+        "text": "Bolivia becomes independent and is named after Simón Bolívar.",
+        "related": [
+          "VEN"
+        ]
+      },
+      {
+        "year": "1879",
+        "title": "War of the Pacific",
+        "text": "Bolivia loses its coast to Chile.",
+        "related": [
+          "CHL",
+          "PER"
+        ]
+      },
+      {
+        "year": "1932",
+        "title": "Chaco War",
+        "text": "A war with Paraguay over the Chaco region.",
+        "related": [
+          "PRY"
+        ]
+      },
+      {
+        "year": "2006",
+        "title": "First Indigenous president",
+        "text": "Evo Morales takes office."
+      }
+    ]
   }
 }

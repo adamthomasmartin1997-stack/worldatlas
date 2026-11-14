@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "A chain of volcanoes runs through Guatemala's highlands, some of them still active, such as Volcán de Fuego. Lake Atitlán, ringed by volcanoes, is one of the most famous lakes in the Americas. The north, called Petén, is lowland covered in tropical forest, and the country has coasts on both the Pacific and the Caribbean."
+  },
+  "history": {
+    "text": "Guatemala was a heartland of the Maya, who built great cities such as Tikal. Spain conquered it in the 1520s, and it became independent in 1821. A US-backed coup in 1954 was followed by a civil war from 1960 to 1996, in which some 200,000 people, most of them Maya, were killed or disappeared.",
+    "events": [
+      {
+        "year": "700s",
+        "title": "Tikal at its height",
+        "text": "The Maya city of Tikal is one of the largest in the Americas."
+      },
+      {
+        "year": "1524",
+        "title": "Spanish conquest",
+        "text": "Spanish forces conquer the region.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1821",
+        "title": "Independence",
+        "text": "Guatemala becomes independent from Spain.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1954",
+        "title": "Coup",
+        "text": "A US-backed coup overthrows the elected president.",
+        "related": [
+          "USA"
+        ]
+      },
+      {
+        "year": "1992",
+        "title": "Nobel Peace Prize",
+        "text": "Rigoberta Menchú wins for her work for Indigenous rights."
+      },
+      {
+        "year": "1996",
+        "title": "Peace accords",
+        "text": "The long civil war ends."
+      }
+    ]
   }
 }

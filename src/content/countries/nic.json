@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Nicaragua has two huge lakes: Lake Nicaragua, the largest lake in Central America, and Lake Managua. A line of volcanoes runs along the Pacific side of the country, where most people live. The Caribbean side, known as the Mosquito Coast, is wetter, with rainforest and far fewer people."
+  },
+  "history": {
+    "text": "Spain colonised Nicaragua's Pacific side in the 1500s, while Britain held influence on the Caribbean coast. After independence in 1821, the American adventurer William Walker briefly made himself president in the 1850s. The Somoza family ruled as dictators from the 1930s until the Sandinista revolution of 1979, which was followed by the Contra war.",
+    "events": [
+      {
+        "year": "1524",
+        "title": "Granada founded",
+        "text": "Spanish settlers found the city of Granada.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1821",
+        "title": "Independence",
+        "text": "Nicaragua becomes independent from Spain.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1856",
+        "title": "William Walker",
+        "text": "An American adventurer seizes power before being driven out.",
+        "related": [
+          "USA"
+        ]
+      },
+      {
+        "year": "1979",
+        "title": "Sandinista revolution",
+        "text": "The Somoza dictatorship is overthrown."
+      },
+      {
+        "year": "1990",
+        "title": "Elections end the war",
+        "text": "Elections bring the Contra war to an end."
+      }
+    ]
   }
 }

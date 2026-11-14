@@ -6,5 +6,37 @@
   ],
   "geography": {
     "text": "Dominica is mountainous and covered in rainforest, which has earned it the nickname 'the Nature Isle of the Caribbean'. It is a volcanic island, with hot springs and the Boiling Lake, a flooded vent that bubbles with volcanic heat. Heavy rainfall feeds its many rivers and waterfalls."
+  },
+  "history": {
+    "text": "Dominica's Kalinago people kept European settlers out longer than almost anywhere else in the Caribbean. France and Britain fought over the island until it became British in the late 1700s. Dominica became independent in 1978, and in 2017 Hurricane Maria caused enormous damage.",
+    "events": [
+      {
+        "year": "1763",
+        "title": "British rule",
+        "text": "France gives Dominica to Britain.",
+        "related": [
+          "FRA",
+          "GBR"
+        ]
+      },
+      {
+        "year": "1903",
+        "title": "Kalinago Territory",
+        "text": "Land is set aside for the Kalinago people."
+      },
+      {
+        "year": "1978",
+        "title": "Independence",
+        "text": "Dominica becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "2017",
+        "title": "Hurricane Maria",
+        "text": "The hurricane damages almost every building on the island."
+      }
+    ]
   }
 }

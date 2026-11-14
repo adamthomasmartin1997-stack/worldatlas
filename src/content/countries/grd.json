@@ -6,5 +6,48 @@
   ],
   "geography": {
     "text": "Grenada is a volcanic island with mountains and rainforest in the centre, crater lakes, and beaches around its coast, such as Grand Anse. Its smaller islands to the north are part of the Grenadines chain, which it shares with Saint Vincent and the Grenadines."
+  },
+  "history": {
+    "text": "Grenada's Kalinago people resisted European settlers until the French took the island in the 1650s; it passed to Britain in 1763. Grenada became independent in 1974. In 1979 a revolution brought Maurice Bishop to power, and after he was killed in 1983, the United States invaded.",
+    "events": [
+      {
+        "year": "1650s",
+        "title": "French conquest",
+        "text": "The French take Grenada from the Kalinago.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1763",
+        "title": "British rule",
+        "text": "Grenada passes to Britain.",
+        "related": [
+          "GBR",
+          "FRA"
+        ]
+      },
+      {
+        "year": "1974",
+        "title": "Independence",
+        "text": "Grenada becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1983",
+        "title": "US invasion",
+        "text": "US troops invade after the killing of Maurice Bishop.",
+        "related": [
+          "USA"
+        ]
+      },
+      {
+        "year": "2004",
+        "title": "Hurricane Ivan",
+        "text": "The hurricane damages most homes on the island."
+      }
+    ]
   }
 }

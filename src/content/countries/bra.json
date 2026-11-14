@@ -6,5 +6,46 @@
   ],
   "geography": {
     "text": "Most of the Amazon rainforest, the largest rainforest on Earth, lies in Brazil, crossed by the Amazon river and its many tributaries. South of the Amazon are the high plains of central Brazil, covered in a tropical savanna called the cerrado. Brazil has a very long Atlantic coastline, and in the south-west the Pantanal is one of the largest tropical wetlands in the world."
+  },
+  "history": {
+    "text": "Indigenous peoples lived in Brazil for thousands of years before Portugal claimed it in 1500 and brought millions of enslaved Africans to work its plantations and mines. Brazil became independent in 1822 as an empire, abolished slavery in 1888, the last country in the Americas to do so, and became a republic in 1889. After military rule from 1964 to 1985, it returned to democracy.",
+    "events": [
+      {
+        "year": "1500",
+        "title": "Portuguese arrival",
+        "text": "Pedro Álvares Cabral claims Brazil for Portugal.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1822",
+        "title": "Independence",
+        "text": "Brazil declares independence as an empire.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1888",
+        "title": "Slavery abolished",
+        "text": "Brazil becomes the last country in the Americas to end slavery."
+      },
+      {
+        "year": "1889",
+        "title": "Republic",
+        "text": "The emperor is overthrown and Brazil becomes a republic."
+      },
+      {
+        "year": "1960",
+        "title": "Brasília",
+        "text": "A new capital is opened in the interior."
+      },
+      {
+        "year": "1985",
+        "title": "Democracy returns",
+        "text": "Military rule ends."
+      }
+    ]
   }
 }

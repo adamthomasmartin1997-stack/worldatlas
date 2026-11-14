@@ -6,5 +6,51 @@
   ],
   "geography": {
     "text": "Chile is more than 4,000 kilometres long but on average less than 200 kilometres wide. In the north is the Atacama Desert, one of the driest places on Earth. The centre has a mild climate and most of the people, while the south breaks up into forests, fjords, glaciers and islands all the way to Cape Horn. The Andes run along the whole eastern border."
+  },
+  "history": {
+    "text": "The Mapuche people resisted Spanish conquest in southern Chile for centuries. Chile won independence in 1818 and expanded north after defeating Peru and Bolivia in the War of the Pacific. In 1973 a military coup overthrew President Salvador Allende, and General Augusto Pinochet ruled until democracy returned in 1990.",
+    "events": [
+      {
+        "year": "1541",
+        "title": "Santiago founded",
+        "text": "Pedro de Valdivia founds Santiago.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1818",
+        "title": "Independence",
+        "text": "Chile declares independence from Spain.",
+        "related": [
+          "ESP",
+          "ARG"
+        ]
+      },
+      {
+        "year": "1879",
+        "title": "War of the Pacific",
+        "text": "Chile defeats Peru and Bolivia and gains their nitrate-rich coast.",
+        "related": [
+          "PER",
+          "BOL"
+        ]
+      },
+      {
+        "year": "1960",
+        "title": "Valdivia earthquake",
+        "text": "The strongest earthquake ever recorded strikes southern Chile."
+      },
+      {
+        "year": "1973",
+        "title": "Military coup",
+        "text": "General Pinochet seizes power."
+      },
+      {
+        "year": "1990",
+        "title": "Democracy returns",
+        "text": "Pinochet hands over to an elected president."
+      }
+    ]
   }
 }

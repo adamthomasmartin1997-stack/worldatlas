@@ -6,5 +6,46 @@
   ],
   "geography": {
     "text": "Three ranges of the Andes run north through western Colombia, with fertile valleys between them where most people live. To the east are the grassy plains of the Llanos and the Amazon rainforest. Colombia is one of the most biodiverse countries on Earth, with more kinds of birds than any other country."
+  },
+  "history": {
+    "text": "Colombia was home to peoples such as the Muisca, whose gold-working inspired the legend of El Dorado. It was the heart of the Spanish colony of New Granada and won independence in 1819 under Simón Bolívar. Decades of conflict between the government, guerrillas, paramilitaries and drug cartels marked the late 1900s, and a peace deal with the FARC rebels was signed in 2016.",
+    "events": [
+      {
+        "year": "1538",
+        "title": "Bogotá founded",
+        "text": "Spanish conquerors found Bogotá.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1819",
+        "title": "Battle of Boyacá",
+        "text": "Bolívar's victory secures independence.",
+        "related": [
+          "VEN",
+          "ESP"
+        ]
+      },
+      {
+        "year": "1903",
+        "title": "Panama splits away",
+        "text": "Panama breaks away with US support.",
+        "related": [
+          "PAN",
+          "USA"
+        ]
+      },
+      {
+        "year": "1982",
+        "title": "A Nobel for García Márquez",
+        "text": "The novelist Gabriel García Márquez wins the Nobel Prize in Literature."
+      },
+      {
+        "year": "2016",
+        "title": "Peace deal",
+        "text": "The government signs a peace agreement with the FARC."
+      }
+    ]
   }
 }

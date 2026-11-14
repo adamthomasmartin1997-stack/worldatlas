@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "Peru has three main regions: a narrow desert along the Pacific coast, the high Andes running through the middle, and the Amazon rainforest, which covers more than half the country, in the east. The Amazon river begins in the Peruvian Andes. Lake Titicaca, on the border with Bolivia, is often called the highest navigable lake in the world."
+  },
+  "history": {
+    "text": "Peru was home to Caral, part of the oldest known civilisation in the Americas, and later to the Nazca and the Inca, whose empire stretched along the Andes. Spanish conquerors led by Francisco Pizarro defeated the Inca in the 1530s, and Lima became the capital of Spanish South America. Peru declared independence in 1821.",
+    "events": [
+      {
+        "year": "1438",
+        "title": "Inca expansion",
+        "text": "Pachacuti begins turning the Inca state into an empire."
+      },
+      {
+        "year": "1532",
+        "title": "Pizarro captures Atahualpa",
+        "text": "Spanish conquerors seize the Inca emperor.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1821",
+        "title": "Independence",
+        "text": "José de San Martín declares Peru independent.",
+        "related": [
+          "ARG",
+          "ESP"
+        ]
+      },
+      {
+        "year": "1879",
+        "title": "War of the Pacific",
+        "text": "Peru and Bolivia lose territory to Chile.",
+        "related": [
+          "CHL",
+          "BOL"
+        ]
+      },
+      {
+        "year": "1911",
+        "title": "Machu Picchu",
+        "text": "The Inca city is brought to world attention by the explorer Hiram Bingham.",
+        "related": [
+          "USA"
+        ]
+      }
+    ]
   }
 }

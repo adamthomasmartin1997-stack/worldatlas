@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "The Dominican Republic has both the highest point in the Caribbean, Pico Duarte, and the lowest, Lake Enriquillo, a salty lake below sea level. Between its mountain ranges are fertile valleys, and its coasts have beaches on both the Atlantic Ocean and the Caribbean Sea."
+  },
+  "history": {
+    "text": "Columbus reached Hispaniola in 1492, and Santo Domingo became the first Spanish capital in the Americas. The eastern part of the island was ruled by Haiti from 1822 until 1844, when the Dominican Republic declared independence. In the 1900s it was occupied by the United States and then ruled by the dictator Rafael Trujillo for over 30 years.",
+    "events": [
+      {
+        "year": "1496",
+        "title": "Santo Domingo founded",
+        "text": "The first lasting European city in the Americas is founded.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1844",
+        "title": "Independence",
+        "text": "The Dominican Republic breaks away from Haiti.",
+        "related": [
+          "HTI"
+        ]
+      },
+      {
+        "year": "1916",
+        "title": "US occupation",
+        "text": "US forces occupy the country until 1924.",
+        "related": [
+          "USA"
+        ]
+      },
+      {
+        "year": "1930",
+        "title": "Trujillo takes power",
+        "text": "Rafael Trujillo begins three decades of dictatorship."
+      },
+      {
+        "year": "1961",
+        "title": "Trujillo killed",
+        "text": "The dictator is assassinated."
+      }
+    ]
   }
 }

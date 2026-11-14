@@ -6,5 +6,42 @@
   ],
   "geography": {
     "text": "The islands are low and flat, built from limestone and coral, and surrounded by shallow, clear turquoise water. They lie in the path of Atlantic hurricanes. Andros is the largest island, and off its coast runs one of the longest barrier reefs in the world."
+  },
+  "history": {
+    "text": "The Lucayan people lived on the islands when Columbus made his first landing in the Americas there in 1492; within a few decades they had been wiped out by slavery and disease. The British settled the islands in the 1600s, and Nassau became a base for pirates. The Bahamas became independent in 1973.",
+    "events": [
+      {
+        "year": "1492",
+        "title": "Columbus lands",
+        "text": "Columbus's first landfall in the Americas is in the Bahamas.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1718",
+        "title": "Pirates driven out",
+        "text": "A British governor ends Nassau's days as a pirate base.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1834",
+        "title": "Slavery abolished",
+        "text": "Enslaved people are freed.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1973",
+        "title": "Independence",
+        "text": "The Bahamas becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      }
+    ]
   }
 }

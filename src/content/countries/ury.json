@@ -6,5 +6,45 @@
   ],
   "geography": {
     "text": "Uruguay is mostly low, rolling grassland, used for raising cattle and sheep. It has a long coast on the wide Río de la Plata estuary and the Atlantic Ocean, with beach resorts such as Punta del Este. The Uruguay River forms its border with Argentina."
+  },
+  "history": {
+    "text": "Uruguay was fought over by Spain and Portugal, and after independence it became a buffer between Argentina and Brazil; its independence was confirmed in 1828. In the early 1900s it built one of the first welfare states in Latin America. It was ruled by the military from 1973 to 1985.",
+    "events": [
+      {
+        "year": "1726",
+        "title": "Montevideo founded",
+        "text": "The Spanish found Montevideo.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1828",
+        "title": "Independence confirmed",
+        "text": "A treaty between Argentina and Brazil recognises Uruguay.",
+        "related": [
+          "ARG",
+          "BRA"
+        ]
+      },
+      {
+        "year": "1930",
+        "title": "First World Cup",
+        "text": "Uruguay hosts and wins the first football World Cup.",
+        "related": [
+          "ARG"
+        ]
+      },
+      {
+        "year": "1973",
+        "title": "Military rule",
+        "text": "The military takes power."
+      },
+      {
+        "year": "1985",
+        "title": "Democracy returns",
+        "text": "An elected government takes over."
+      }
+    ]
   }
 }

@@ -6,5 +6,40 @@
   ],
   "geography": {
     "text": "Saint Lucia is a mountainous volcanic island covered in rainforest. Its best-known landmarks are the Pitons, two steep volcanic peaks rising straight from the sea near Soufrière, which are a UNESCO World Heritage Site. Nearby are bubbling sulphur springs."
+  },
+  "history": {
+    "text": "Britain and France fought over Saint Lucia so often that it changed hands 14 times, earning it the nickname 'Helen of the West Indies'. It became British for good in 1814. Saint Lucia became independent in 1979.",
+    "events": [
+      {
+        "year": "1814",
+        "title": "British for good",
+        "text": "France gives up its claim to Saint Lucia.",
+        "related": [
+          "FRA",
+          "GBR"
+        ]
+      },
+      {
+        "year": "1834",
+        "title": "Slavery abolished",
+        "text": "Enslaved people are freed.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1979",
+        "title": "Independence",
+        "text": "Saint Lucia becomes independent; the same year, Arthur Lewis wins a Nobel Prize.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1992",
+        "title": "Nobel Prize for Walcott",
+        "text": "The poet Derek Walcott wins the Nobel Prize in Literature."
+      }
+    ]
   }
 }

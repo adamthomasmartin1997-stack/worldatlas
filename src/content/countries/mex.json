@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "Two mountain ranges, the Sierra Madre Occidental and the Sierra Madre Oriental, run down the country, with a high central plateau between them. A belt of volcanoes crosses central Mexico, including Pico de Orizaba, its highest peak. The north is mostly desert, the south has rainforests, and the flat limestone Yucatán Peninsula is dotted with natural sinkhole pools called cenotes."
+  },
+  "history": {
+    "text": "Mexico was home to great civilisations, including the Olmecs, the Maya and the Aztecs, whose capital Tenochtitlan stood where Mexico City is now. Spain conquered the Aztecs in 1521. Mexico won independence in 1821, lost much of its northern territory to the United States in 1848, and went through a long revolution from 1910 to 1920.",
+    "events": [
+      {
+        "year": "1325",
+        "title": "Tenochtitlan founded",
+        "text": "The Aztecs found their capital on an island in a lake."
+      },
+      {
+        "year": "1521",
+        "title": "Spanish conquest",
+        "text": "Hernán Cortés's forces capture Tenochtitlan.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1821",
+        "title": "Independence",
+        "text": "Mexico becomes independent from Spain.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1848",
+        "title": "War with the United States",
+        "text": "Mexico loses about half its territory.",
+        "related": [
+          "USA"
+        ]
+      },
+      {
+        "year": "1910",
+        "title": "Mexican Revolution",
+        "text": "A decade of revolution and civil war begins."
+      },
+      {
+        "year": "1968",
+        "title": "Olympics",
+        "text": "Mexico City hosts the Summer Olympics."
+      }
+    ]
   }
 }

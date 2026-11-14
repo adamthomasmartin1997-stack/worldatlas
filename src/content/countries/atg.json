@@ -6,5 +6,47 @@
   ],
   "geography": {
     "text": "Antigua is low and hilly, with a coastline full of bays, beaches and coral reefs; it is often said to have a beach for every day of the year. Barbuda, to the north, is flat and much less populated, and its large lagoon is home to a colony of frigate birds. The islands lie in the path of Atlantic hurricanes."
+  },
+  "history": {
+    "text": "Antigua was home to Indigenous Arawak and Kalinago peoples before the English settled it in 1632 and built sugar plantations worked by enslaved Africans. Slavery was abolished in 1834. English Harbour became an important base for the British navy. Antigua and Barbuda became independent in 1981.",
+    "events": [
+      {
+        "year": "1493",
+        "title": "Columbus sights Antigua",
+        "text": "Christopher Columbus names the island on his second voyage.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1632",
+        "title": "English settlement",
+        "text": "English settlers arrive and start sugar plantations.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1834",
+        "title": "Slavery abolished",
+        "text": "Enslaved people are freed across the British Caribbean.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1981",
+        "title": "Independence",
+        "text": "Antigua and Barbuda becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "2017",
+        "title": "Hurricane Irma",
+        "text": "The hurricane destroys most buildings on Barbuda."
+      }
+    ]
   }
 }

@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "Argentina stretches thousands of kilometres from the tropics in the north to Tierra del Fuego near Antarctica. The Andes run along its western border with Chile and include Aconcagua, the highest mountain outside Asia. The centre is covered by the Pampas, vast flat grasslands used for farming and cattle, while Patagonia in the south is dry, windy and thinly populated."
+  },
+  "history": {
+    "text": "Spanish settlers founded Buenos Aires in the 1500s. Argentina declared independence from Spain in 1816, and later millions of immigrants, mostly from Italy and Spain, came to farm its rich land. The 1900s brought the populist government of Juan Perón, military dictatorships, and defeat by Britain in the Falklands War of 1982, after which democracy returned.",
+    "events": [
+      {
+        "year": "1580",
+        "title": "Buenos Aires founded",
+        "text": "Spanish settlers found Buenos Aires for the second, lasting time.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1816",
+        "title": "Independence",
+        "text": "Argentina declares independence from Spain.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1946",
+        "title": "Perón elected",
+        "text": "Juan Perón becomes president."
+      },
+      {
+        "year": "1976",
+        "title": "Military coup",
+        "text": "A dictatorship begins; thousands of people are 'disappeared'."
+      },
+      {
+        "year": "1982",
+        "title": "Falklands War",
+        "text": "Argentina invades the Falkland Islands and is defeated by Britain.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1983",
+        "title": "Democracy returns",
+        "text": "Free elections end military rule."
+      }
+    ]
   }
 }

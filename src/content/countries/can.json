@@ -6,5 +6,51 @@
   ],
   "geography": {
     "text": "Canada has coastlines on three oceans, the Pacific, the Atlantic and the Arctic, and the longest coastline of any country. The Rocky Mountains rise in the west, the Prairies cover the middle, and the ancient rocks of the Canadian Shield, dotted with lakes, cover much of the centre and east. Canada has more lakes than any other country, and most Canadians live in the south, close to the border with the United States."
+  },
+  "history": {
+    "text": "Indigenous peoples have lived in Canada for thousands of years. French and British settlers arrived from the 1500s onwards, and Britain took control of New France in 1763. Canada became a self-governing confederation in 1867 and gradually gained full independence, finally bringing its constitution home from Britain in 1982.",
+    "events": [
+      {
+        "year": "1000",
+        "title": "Vikings arrive",
+        "text": "Norse explorers build a settlement at L'Anse aux Meadows in Newfoundland.",
+        "related": [
+          "NOR"
+        ]
+      },
+      {
+        "year": "1608",
+        "title": "Quebec founded",
+        "text": "Samuel de Champlain founds Quebec City.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1763",
+        "title": "Britain takes New France",
+        "text": "France gives up its North American colonies.",
+        "related": [
+          "FRA",
+          "GBR"
+        ]
+      },
+      {
+        "year": "1867",
+        "title": "Confederation",
+        "text": "Canada becomes a self-governing country within the British Empire.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1982",
+        "title": "Constitution Act",
+        "text": "Canada gains full control of its constitution.",
+        "related": [
+          "GBR"
+        ]
+      }
+    ]
   }
 }

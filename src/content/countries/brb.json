@@ -6,5 +6,42 @@
   ],
   "geography": {
     "text": "Barbados is a fairly flat island made mostly of coral limestone, with gentle hills rising in the centre. The calm west coast faces the Caribbean Sea and has sandy beaches, while the rougher east coast faces the open Atlantic. Coral reefs surround much of the island."
+  },
+  "history": {
+    "text": "English settlers arrived in Barbados in 1627 and turned it into one of the richest sugar colonies in the world, worked by enslaved Africans. Slavery ended in 1834. Barbados became independent in 1966, and in 2021 it became a republic with its own president.",
+    "events": [
+      {
+        "year": "1627",
+        "title": "English settlement",
+        "text": "The first English settlers arrive.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1834",
+        "title": "Slavery abolished",
+        "text": "Enslaved people are freed.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1966",
+        "title": "Independence",
+        "text": "Barbados becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "2021",
+        "title": "Republic",
+        "text": "Barbados replaces the British monarch with an elected president.",
+        "related": [
+          "GBR"
+        ]
+      }
+    ]
   }
 }

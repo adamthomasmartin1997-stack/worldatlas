@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "Cuba is long and narrow, stretching more than 1,000 kilometres from east to west, and is surrounded by thousands of smaller islands and cays. Most of the land is flat or gently rolling and used for farming, especially sugar cane and tobacco. The highest mountains, the Sierra Maestra, are in the south-east. Cuba lies only about 150 kilometres south of Florida."
+  },
+  "history": {
+    "text": "Spain ruled Cuba for almost 400 years, and its sugar plantations relied on enslaved Africans. After wars of independence and US intervention in 1898, Cuba became a republic in 1902. Fidel Castro's revolution in 1959 created a communist state, and the Cuban Missile Crisis of 1962 brought the world close to nuclear war.",
+    "events": [
+      {
+        "year": "1492",
+        "title": "Columbus arrives",
+        "text": "Columbus lands on Cuba on his first voyage.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1898",
+        "title": "Spanish–American War",
+        "text": "Spain loses Cuba after US intervention.",
+        "related": [
+          "ESP",
+          "USA"
+        ]
+      },
+      {
+        "year": "1959",
+        "title": "Revolution",
+        "text": "Fidel Castro's rebels take power."
+      },
+      {
+        "year": "1961",
+        "title": "Bay of Pigs",
+        "text": "A US-backed invasion by Cuban exiles fails.",
+        "related": [
+          "USA"
+        ]
+      },
+      {
+        "year": "1962",
+        "title": "Missile Crisis",
+        "text": "Soviet missiles in Cuba bring the superpowers to the brink of war.",
+        "related": [
+          "USA",
+          "RUS"
+        ]
+      }
+    ]
   }
 }

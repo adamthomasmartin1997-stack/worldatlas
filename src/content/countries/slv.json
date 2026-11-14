@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "El Salvador faces the Pacific Ocean. A line of volcanoes runs across the country, and earthquakes are common. Between the volcanic highlands and the coastal plain lies a central plateau where most people live, and the Lempa is its main river."
+  },
+  "history": {
+    "text": "El Salvador was home to the Pipil people before the Spanish conquest. It became independent in 1821 and was dominated for a long time by coffee-growing landowners. A civil war from 1980 to 1992 killed around 75,000 people and ended with peace accords.",
+    "events": [
+      {
+        "year": "1524",
+        "title": "Spanish conquest",
+        "text": "Spanish forces invade the region.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1821",
+        "title": "Independence",
+        "text": "El Salvador becomes independent from Spain.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1932",
+        "title": "La Matanza",
+        "text": "Thousands of peasants are killed after an uprising."
+      },
+      {
+        "year": "1969",
+        "title": "Football War",
+        "text": "A short war with Honduras follows World Cup qualifying matches.",
+        "related": [
+          "HND"
+        ]
+      },
+      {
+        "year": "1992",
+        "title": "Peace accords",
+        "text": "A peace agreement ends twelve years of civil war."
+      }
+    ]
   }
 }

@@ -6,5 +6,46 @@
   ],
   "geography": {
     "text": "The mainland United States stretches from the Atlantic to the Pacific. The Appalachian Mountains run down the east, the Great Plains cover the centre and the Rocky Mountains rise in the west. The Mississippi is its main river system, and the Great Lakes lie along the border with Canada. Alaska, in the far north-west, and Hawaii, in the middle of the Pacific, are also states."
+  },
+  "history": {
+    "text": "Indigenous peoples had lived in North America for thousands of years before European settlers arrived. Thirteen British colonies declared independence in 1776 and won it in the American Revolution. The country expanded westwards, fought a civil war from 1861 to 1865 that ended slavery, and in the 1900s became a world superpower. The civil rights movement of the 1950s and 1960s fought for equal rights for Black Americans.",
+    "events": [
+      {
+        "year": "1776",
+        "title": "Declaration of Independence",
+        "text": "Thirteen colonies declare independence from Britain.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1861",
+        "title": "Civil War",
+        "text": "Southern states break away; four years of war follow."
+      },
+      {
+        "year": "1865",
+        "title": "Slavery abolished",
+        "text": "The Thirteenth Amendment ends slavery."
+      },
+      {
+        "year": "1941",
+        "title": "Pearl Harbor",
+        "text": "Japan attacks the US fleet in Hawaii, bringing the US into the Second World War.",
+        "related": [
+          "JPN"
+        ]
+      },
+      {
+        "year": "1964",
+        "title": "Civil Rights Act",
+        "text": "A law bans discrimination based on race."
+      },
+      {
+        "year": "1969",
+        "title": "Moon landing",
+        "text": "Apollo 11 astronauts walk on the Moon."
+      }
+    ]
   }
 }

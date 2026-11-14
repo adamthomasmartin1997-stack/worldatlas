@@ -6,5 +6,40 @@
   ],
   "geography": {
     "text": "The north of Belize is low and flat, while the south rises into the Maya Mountains, and much of the country is covered by tropical forest. Just off the coast lies the Belize Barrier Reef, part of the second-largest reef system in the world, dotted with small islands called cayes and home to the famous Great Blue Hole."
+  },
+  "history": {
+    "text": "Belize was part of the Maya world, with great cities such as Caracol and Lamanai. British loggers settled the coast in the 1600s, and it became the colony of British Honduras in 1862. It took the name Belize in 1973 and became independent in 1981, although neighbouring Guatemala long claimed its land.",
+    "events": [
+      {
+        "year": "1798",
+        "title": "Battle of St George's Caye",
+        "text": "Settlers defeat a Spanish attack.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1862",
+        "title": "British colony",
+        "text": "The area becomes the colony of British Honduras.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1973",
+        "title": "Renamed Belize",
+        "text": "The colony takes the name Belize."
+      },
+      {
+        "year": "1981",
+        "title": "Independence",
+        "text": "Belize becomes independent despite Guatemala's claim.",
+        "related": [
+          "GBR",
+          "GTM"
+        ]
+      }
+    ]
   }
 }

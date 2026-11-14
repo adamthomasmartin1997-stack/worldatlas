@@ -6,5 +6,50 @@
   ],
   "geography": {
     "text": "Both islands are volcanic, with rainforest-covered mountains in the centre; Mount Liamuiga on Saint Kitts is the highest point. The two islands are separated by a channel only about three kilometres wide, called The Narrows."
+  },
+  "history": {
+    "text": "Saint Kitts was the first Caribbean island settled by the English, in 1623, and the French also settled part of it; together they drove out and killed most of the island's Kalinago people in 1626. Sugar plantations worked by enslaved Africans dominated for centuries. Saint Kitts and Nevis became independent in 1983.",
+    "events": [
+      {
+        "year": "1623",
+        "title": "English settlement",
+        "text": "The first English colony in the Caribbean is founded.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1626",
+        "title": "Kalinago massacre",
+        "text": "English and French settlers kill most of the Kalinago people.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1750s",
+        "title": "Alexander Hamilton born",
+        "text": "A future founder of the United States is born on Nevis.",
+        "related": [
+          "USA"
+        ]
+      },
+      {
+        "year": "1834",
+        "title": "Slavery abolished",
+        "text": "Enslaved people are freed.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1983",
+        "title": "Independence",
+        "text": "Saint Kitts and Nevis becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      }
+    ]
   }
 }

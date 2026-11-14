@@ -6,5 +6,34 @@
   ],
   "geography": {
     "text": "Costa Rica has coastlines on both the Caribbean Sea and the Pacific Ocean. A chain of mountains and volcanoes runs down the middle of the country, and the Central Valley among them is where most people live. Rainforests, cloud forests and beaches make it one of the most biodiverse places in the world for its size."
+  },
+  "history": {
+    "text": "Costa Rica was a quiet corner of Spain's Central American empire. It became independent in 1821 and grew coffee, and later bananas, for export. After a short civil war in 1948 it abolished its army, and it has been one of Latin America's most stable democracies ever since.",
+    "events": [
+      {
+        "year": "1821",
+        "title": "Independence",
+        "text": "Costa Rica becomes independent from Spain.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1948",
+        "title": "Army abolished",
+        "text": "After a brief civil war, the country abolishes its army."
+      },
+      {
+        "year": "1987",
+        "title": "Nobel Peace Prize",
+        "text": "President Óscar Arias wins the prize for his peace plan for Central America.",
+        "related": [
+          "NIC",
+          "SLV",
+          "GTM",
+          "HND"
+        ]
+      }
+    ]
   }
 }

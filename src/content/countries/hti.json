@@ -6,5 +6,53 @@
   ],
   "geography": {
     "text": "Haiti is very mountainous; its name comes from a Taíno word meaning 'land of high mountains'. Two long peninsulas reach west on either side of the Gulf of Gonâve. Earthquakes and hurricanes have caused great damage, including a devastating earthquake in 2010."
+  },
+  "history": {
+    "text": "Haiti was the French colony of Saint-Domingue, the richest sugar colony in the world, worked by hundreds of thousands of enslaved Africans. In 1791 they rose up, and in 1804 Haiti became the first country founded by formerly enslaved people. Since then Haiti has faced dictatorship, foreign occupation, poverty and natural disasters.",
+    "events": [
+      {
+        "year": "1697",
+        "title": "French colony",
+        "text": "Spain hands the western part of Hispaniola to France.",
+        "related": [
+          "FRA",
+          "ESP"
+        ]
+      },
+      {
+        "year": "1791",
+        "title": "Revolution begins",
+        "text": "Enslaved people rise up against the plantation system."
+      },
+      {
+        "year": "1804",
+        "title": "Independence",
+        "text": "Haiti declares independence from France.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1825",
+        "title": "The 'independence debt'",
+        "text": "France forces Haiti to pay huge compensation for its freedom.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1915",
+        "title": "US occupation",
+        "text": "US forces occupy Haiti until 1934.",
+        "related": [
+          "USA"
+        ]
+      },
+      {
+        "year": "2010",
+        "title": "Earthquake",
+        "text": "A devastating earthquake strikes near Port-au-Prince."
+      }
+    ]
   }
 }
