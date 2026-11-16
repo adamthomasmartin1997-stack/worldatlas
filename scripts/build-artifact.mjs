@@ -1,6 +1,13 @@
 // Turns the hash-router build in dist-artifact/ into a page body for the Claude artifact viewer
 // (which supplies its own <html>/<head>/<body>), plus the list of files to publish beside it.
-import { readFileSync, writeFileSync } from 'node:fs';
+import { readFileSync, readdirSync, rmSync, writeFileSync } from 'node:fs';
+
+// The artifact holds at most ~500 files, so pack the per-country series into one file
+// (the app reads it when built with VITE_COMBINED_SERIES).
+const dir = 'dist-artifact/data/series';
+const all = Object.fromEntries(readdirSync(dir).map((f) => [f.replace('.json', ''), JSON.parse(readFileSync(`${dir}/${f}`, 'utf8'))]));
+writeFileSync('dist-artifact/data/series.json', JSON.stringify(all));
+rmSync(dir, { recursive: true });
 
 const html = readFileSync('dist-artifact/index.html', 'utf8');
 const js = html.match(/src="\.\/(assets\/[^"]+\.js)"/)[1];
