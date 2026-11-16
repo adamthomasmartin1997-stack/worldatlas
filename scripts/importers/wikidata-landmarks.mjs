@@ -53,8 +53,10 @@ const files = [...new Set(todo.flatMap(([, list]) => list.slice(0, 6).map((c) =>
 const infoByFile = new Map();
 for (let i = 0; i < files.length; i += 50) {
   const titles = files.slice(i, i + 50).map((f) => 'File:' + f).join('|');
-  await sleep(2000);
-  const body = await getJson(`https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=extmetadata|url&iiurlwidth=960&titles=${encodeURIComponent(titles)}`, { retries: 6 });
+  await sleep(8000);
+  let body;
+  try { body = await getJson(`https://commons.wikimedia.org/w/api.php?action=query&format=json&prop=imageinfo&iiprop=extmetadata|url&iiurlwidth=960&titles=${encodeURIComponent(titles)}`, { retries: 8 }); }
+  catch (e) { console.warn(`  licences batch ${i}: ${e.message.slice(-40)}`); continue; }
   const norm = new Map((body.query.normalized ?? []).map((n) => [n.to, n.from]));
   for (const page of Object.values(body.query.pages)) {
     const asked = (norm.get(page.title) ?? page.title).replace(/^File:/, '');
@@ -75,6 +77,7 @@ async function download(url) {
   }
   return null;
 }
+const save = () => writeFileSync('data/sources/landmarks.json', JSON.stringify({ source: 'wikimedia-commons', retrieved: new Date().toISOString(), countries: out }, null, 1));
 for (const [iso, list] of todo) {
   for (const cand of list.slice(0, 6)) {
     const info = infoByFile.get(cand.file);
@@ -96,9 +99,10 @@ for (const [iso, list] of todo) {
       licenceUrl: m.LicenseUrl?.value ?? null,
       sourceUrl: info.descriptionurl,
     };
+    save(); // after every photo, so an interrupted run never leaves a photo without its credit
     break;
   }
   if (!out[iso]) console.warn(`  no reusable photo for ${iso}`);
 }
-writeFileSync('data/sources/landmarks.json', JSON.stringify({ source: 'wikimedia-commons', retrieved: new Date().toISOString(), countries: out }, null, 1));
+save();
 console.log(`Saved photos for ${Object.keys(out).length} countries`);
