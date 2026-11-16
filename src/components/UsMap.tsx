@@ -30,7 +30,7 @@ export function UsMap({ highlight }: { highlight?: string }) {
     return {
       states: data.states.map((s) => ({ s, d: path(s.shape) ?? '' })),
       boxes,
-      markers: placeMarkers(data.highlights, projection, W, H, 6),
+      markers: placeMarkers(data.highlights, projection, W, H, 10),
     };
   }, [data]);
 

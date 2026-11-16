@@ -2,252 +2,252 @@
  "source": "wikidata",
  "licence": "CC0-1.0",
  "url": "https://query.wikidata.org/sparql",
- "retrieved": "2026-11-14T08:26:07.106Z",
+ "retrieved": "2026-11-14T09:28:31.956Z",
  "minPopulation": 20000,
  "countries": {
-  "CHL": [
+  "ZAF": [
    {
-    "wikidata": "Q2887",
-    "name": "Santiago",
-    "lat": -33.438,
-    "lon": -70.65,
-    "population": 6257516,
+    "wikidata": "Q34647",
+    "name": "Johannesburg",
+    "lat": -26.204,
+    "lon": 28.042,
+    "population": 4803262,
+    "capital": false
+   },
+   {
+    "wikidata": "Q5465",
+    "name": "Cape Town",
+    "lat": -33.925,
+    "lon": 18.424,
+    "population": 3776313,
     "capital": true
    },
    {
-    "wikidata": "Q51594",
-    "name": "Puente Alto",
-    "lat": -33.617,
-    "lon": -70.583,
-    "population": 573935,
+    "wikidata": "Q217426",
+    "name": "Soweto",
+    "lat": -26.268,
+    "lon": 27.859,
+    "population": 1271628,
     "capital": false
    },
    {
-    "wikidata": "Q3612",
-    "name": "Antofagasta",
-    "lat": -23.646,
-    "lon": -70.398,
-    "population": 348517,
+    "wikidata": "Q3926",
+    "name": "Pretoria",
+    "lat": -25.746,
+    "lon": 28.188,
+    "population": 741651,
+    "capital": true
+   },
+   {
+    "wikidata": "Q5468",
+    "name": "Durban",
+    "lat": -29.858,
+    "lon": 31.025,
+    "population": 595061,
     "capital": false
    },
    {
-    "wikidata": "Q184345",
-    "name": "Viña del Mar",
-    "lat": -33.025,
-    "lon": -71.552,
-    "population": 332875,
+    "wikidata": "Q209537",
+    "name": "East London",
+    "lat": -33.017,
+    "lon": 27.905,
+    "population": 478676,
     "capital": false
    },
    {
-    "wikidata": "Q33986",
-    "name": "Valparaíso",
-    "lat": -33.046,
-    "lon": -71.62,
-    "population": 296655,
+    "wikidata": "Q2296366",
+    "name": "Randburg",
+    "lat": -26.094,
+    "lon": 28.006,
+    "population": 337053,
     "capital": false
    },
    {
-    "wikidata": "Q82128",
-    "name": "Temuco",
-    "lat": -38.74,
-    "lon": -72.59,
-    "population": 282415,
+    "wikidata": "Q2166182",
+    "name": "Roodepoort",
+    "lat": -26.163,
+    "lon": 27.872,
+    "population": 326416,
     "capital": false
    },
    {
-    "wikidata": "Q4469",
-    "name": "Talca",
-    "lat": -35.427,
-    "lon": -71.666,
-    "population": 232131,
+    "wikidata": "Q125434",
+    "name": "Gqeberha",
+    "lat": -33.958,
+    "lon": 25.6,
+    "population": 312392,
     "capital": false
    },
    {
-    "wikidata": "Q4582",
-    "name": "Rancagua",
-    "lat": -34.165,
-    "lon": -70.74,
-    "population": 231370,
+    "wikidata": "Q37701",
+    "name": "Bloemfontein",
+    "lat": -29.1,
+    "lon": 26.217,
+    "population": 256185,
+    "capital": true
+   }
+  ],
+  "DZA": [
+   {
+    "wikidata": "Q3561",
+    "name": "Algiers",
+    "lat": 36.776,
+    "lon": 3.059,
+    "population": 2364230,
+    "capital": true
+   },
+   {
+    "wikidata": "Q131818",
+    "name": "Oran",
+    "lat": 35.697,
+    "lon": -0.633,
+    "population": 803329,
     "capital": false
    },
    {
-    "wikidata": "Q1880",
-    "name": "Concepción",
-    "lat": -36.827,
-    "lon": -73.05,
-    "population": 217537,
+    "wikidata": "Q187346",
+    "name": "Constantine",
+    "lat": 36.365,
+    "lon": 6.615,
+    "population": 465138,
     "capital": false
    },
    {
-    "wikidata": "Q3871",
-    "name": "Coquimbo",
-    "lat": -29.953,
-    "lon": -71.338,
-    "population": 204068,
+    "wikidata": "Q338844",
+    "name": "Batna",
+    "lat": 35.55,
+    "lon": 6.167,
+    "population": 290645,
+    "capital": false
+   },
+   {
+    "wikidata": "Q244004",
+    "name": "Sétif",
+    "lat": 36.19,
+    "lon": 5.41,
+    "population": 288461,
+    "capital": false
+   },
+   {
+    "wikidata": "Q2794758",
+    "name": "Djelfa",
+    "lat": 34.667,
+    "lon": 3.25,
+    "population": 265833,
+    "capital": false
+   },
+   {
+    "wikidata": "Q45942",
+    "name": "Annaba",
+    "lat": 36.9,
+    "lon": 7.767,
+    "population": 257359,
+    "capital": false
+   },
+   {
+    "wikidata": "Q852276",
+    "name": "Sidi Bel Abbès",
+    "lat": 35.2,
+    "lon": -0.633,
+    "population": 212935,
+    "capital": false
+   },
+   {
+    "wikidata": "Q312759",
+    "name": "Biskra",
+    "lat": 34.85,
+    "lon": 5.733,
+    "population": 204661,
+    "capital": false
+   },
+   {
+    "wikidata": "Q984575",
+    "name": "Tébessa",
+    "lat": 35.4,
+    "lon": 8.117,
+    "population": 194461,
     "capital": false
    }
   ],
-  "LKA": [
+  "UZB": [
    {
-    "wikidata": "Q35381",
-    "name": "Colombo",
-    "lat": 6.927,
-    "lon": 79.861,
-    "population": 647557,
+    "wikidata": "Q269",
+    "name": "Tashkent",
+    "lat": 41.311,
+    "lon": 69.28,
+    "population": 2956384,
     "capital": true
    },
    {
-    "wikidata": "Q2616818",
-    "name": "Gampaha",
-    "lat": 7.092,
-    "lon": 80,
-    "population": 191040,
+    "wikidata": "Q492552",
+    "name": "Namangan",
+    "lat": 40.995,
+    "lon": 71.672,
+    "population": 626120,
     "capital": false
    },
    {
-    "wikidata": "Q668616",
-    "name": "Negombo",
-    "lat": 7.211,
-    "lon": 79.839,
-    "population": 142136,
+    "wikidata": "Q487656",
+    "name": "Andijan",
+    "lat": 40.783,
+    "lon": 72.351,
+    "population": 547800,
     "capital": false
    },
    {
-    "wikidata": "Q203197",
-    "name": "Kandy",
-    "lat": 7.293,
-    "lon": 80.635,
-    "population": 120087,
+    "wikidata": "Q5753",
+    "name": "Samarkand",
+    "lat": 39.655,
+    "lon": 66.976,
+    "population": 546303,
     "capital": false
    },
    {
-    "wikidata": "Q323873",
-    "name": "Trincomalee",
-    "lat": 8.567,
-    "lon": 81.233,
-    "population": 99135,
+    "wikidata": "Q489898",
+    "name": "Nukus",
+    "lat": 42.465,
+    "lon": 59.602,
+    "population": 319583,
     "capital": false
    },
    {
-    "wikidata": "Q319366",
-    "name": "Galle",
-    "lat": 6.033,
-    "lon": 80.216,
-    "population": 93118,
+    "wikidata": "Q486329",
+    "name": "Fergana",
+    "lat": 40.386,
+    "lon": 71.786,
+    "population": 288850,
     "capital": false
    },
    {
-    "wikidata": "Q215277",
-    "name": "Jaffna",
-    "lat": 9.665,
-    "lon": 80.017,
-    "population": 88138,
+    "wikidata": "Q5764",
+    "name": "Buxoro",
+    "lat": 39.775,
+    "lon": 64.429,
+    "population": 280187,
     "capital": false
    },
    {
-    "wikidata": "Q13360574",
-    "name": "Matara",
-    "lat": 5.95,
-    "lon": 80.533,
-    "population": 68244,
+    "wikidata": "Q644008",
+    "name": "Qarshi",
+    "lat": 38.867,
+    "lon": 65.8,
+    "population": 274891,
     "capital": false
    },
    {
-    "wikidata": "Q5724",
-    "name": "Anuradhapura",
-    "lat": 8.335,
-    "lon": 80.411,
-    "population": 63208,
+    "wikidata": "Q489890",
+    "name": "Qoʻqon",
+    "lat": 40.529,
+    "lon": 70.942,
+    "population": 252731,
     "capital": false
    },
    {
-    "wikidata": "Q390096",
-    "name": "Badulla",
-    "lat": 6.985,
-    "lon": 81.056,
-    "population": 42923,
-    "capital": false
-   }
-  ],
-  "SYR": [
-   {
-    "wikidata": "Q3766",
-    "name": "Damascus",
-    "lat": 33.513,
-    "lon": 36.292,
-    "population": 2685360,
-    "capital": true
-   },
-   {
-    "wikidata": "Q41183",
-    "name": "Aleppo",
-    "lat": 36.2,
-    "lon": 37.16,
-    "population": 2003671,
-    "capital": false
-   },
-   {
-    "wikidata": "Q131301",
-    "name": "Homs",
-    "lat": 34.733,
-    "lon": 36.717,
-    "population": 775404,
-    "capital": false
-   },
-   {
-    "wikidata": "Q200030",
-    "name": "Latakia",
-    "lat": 35.52,
-    "lon": 35.778,
-    "population": 709000,
-    "capital": false
-   },
-   {
-    "wikidata": "Q173545",
-    "name": "Hama",
-    "lat": 35.164,
-    "lon": 36.757,
-    "population": 696863,
-    "capital": false
-   },
-   {
-    "wikidata": "Q403446",
-    "name": "Douma",
-    "lat": 33.572,
-    "lon": 36.402,
-    "population": 400000,
-    "capital": false
-   },
-   {
-    "wikidata": "Q239097",
-    "name": "Deir ez-Zor",
-    "lat": 35.333,
-    "lon": 40.15,
-    "population": 395000,
-    "capital": false
-   },
-   {
-    "wikidata": "Q283368",
-    "name": "Raqqa",
-    "lat": 35.95,
-    "lon": 39.01,
-    "population": 299824,
-    "capital": false
-   },
-   {
-    "wikidata": "Q311321",
-    "name": "Hasakah",
-    "lat": 36.512,
-    "lon": 40.742,
-    "population": 188160,
-    "capital": false
-   },
-   {
-    "wikidata": "Q212757",
-    "name": "Qamishli",
-    "lat": 37.05,
-    "lon": 41.217,
-    "population": 184231,
+    "wikidata": "Q261076",
+    "name": "Margilan",
+    "lat": 40.467,
+    "lon": 71.717,
+    "population": 215400,
     "capital": false
    }
   ],
@@ -490,256 +490,256 @@
    },
    {
     "wikidata": "Q2145",
-    "name": "Quebec City",
+    "name": "Québec",
     "lat": 46.816,
     "lon": -71.224,
     "population": 574482,
     "capital": false
    }
   ],
-  "ZAF": [
+  "LKA": [
    {
-    "wikidata": "Q34647",
-    "name": "Johannesburg",
-    "lat": -26.204,
-    "lon": 28.042,
-    "population": 4803262,
-    "capital": false
-   },
-   {
-    "wikidata": "Q5465",
-    "name": "Cape Town",
-    "lat": -33.925,
-    "lon": 18.424,
-    "population": 3776313,
+    "wikidata": "Q35381",
+    "name": "Colombo",
+    "lat": 6.927,
+    "lon": 79.861,
+    "population": 647557,
     "capital": true
    },
    {
-    "wikidata": "Q217426",
-    "name": "Soweto",
-    "lat": -26.268,
-    "lon": 27.859,
-    "population": 1271628,
+    "wikidata": "Q2616818",
+    "name": "Gampaha",
+    "lat": 7.092,
+    "lon": 80,
+    "population": 191040,
     "capital": false
    },
    {
-    "wikidata": "Q3926",
-    "name": "Pretoria",
-    "lat": -25.746,
-    "lon": 28.188,
-    "population": 741651,
-    "capital": true
-   },
-   {
-    "wikidata": "Q5468",
-    "name": "Durban",
-    "lat": -29.858,
-    "lon": 31.025,
-    "population": 595061,
+    "wikidata": "Q668616",
+    "name": "Negombo",
+    "lat": 7.211,
+    "lon": 79.839,
+    "population": 142136,
     "capital": false
    },
    {
-    "wikidata": "Q209537",
-    "name": "East London",
-    "lat": -33.017,
-    "lon": 27.905,
-    "population": 478676,
+    "wikidata": "Q203197",
+    "name": "Kandy",
+    "lat": 7.293,
+    "lon": 80.635,
+    "population": 120087,
     "capital": false
    },
    {
-    "wikidata": "Q2296366",
-    "name": "Randburg",
-    "lat": -26.094,
-    "lon": 28.006,
-    "population": 337053,
+    "wikidata": "Q323873",
+    "name": "Trincomalee",
+    "lat": 8.567,
+    "lon": 81.233,
+    "population": 99135,
     "capital": false
    },
    {
-    "wikidata": "Q2166182",
-    "name": "Roodepoort",
-    "lat": -26.163,
-    "lon": 27.872,
-    "population": 326416,
+    "wikidata": "Q319366",
+    "name": "Galle",
+    "lat": 6.033,
+    "lon": 80.216,
+    "population": 93118,
     "capital": false
    },
    {
-    "wikidata": "Q125434",
-    "name": "Gqeberha",
-    "lat": -33.958,
-    "lon": 25.6,
-    "population": 312392,
+    "wikidata": "Q215277",
+    "name": "Jaffna",
+    "lat": 9.665,
+    "lon": 80.017,
+    "population": 88138,
     "capital": false
    },
    {
-    "wikidata": "Q37701",
-    "name": "Bloemfontein",
-    "lat": -29.1,
-    "lon": 26.217,
-    "population": 256185,
-    "capital": true
-   }
-  ],
-  "DZA": [
-   {
-    "wikidata": "Q3561",
-    "name": "Algiers",
-    "lat": 36.776,
-    "lon": 3.059,
-    "population": 2364230,
-    "capital": true
-   },
-   {
-    "wikidata": "Q131818",
-    "name": "Oran",
-    "lat": 35.697,
-    "lon": -0.633,
-    "population": 803329,
+    "wikidata": "Q13360574",
+    "name": "Matara",
+    "lat": 5.95,
+    "lon": 80.533,
+    "population": 68244,
     "capital": false
    },
    {
-    "wikidata": "Q187346",
-    "name": "Constantine",
-    "lat": 36.365,
-    "lon": 6.615,
-    "population": 465138,
+    "wikidata": "Q5724",
+    "name": "Anuradhapura",
+    "lat": 8.335,
+    "lon": 80.411,
+    "population": 63208,
     "capital": false
    },
    {
-    "wikidata": "Q338844",
-    "name": "Batna",
-    "lat": 35.55,
-    "lon": 6.167,
-    "population": 290645,
-    "capital": false
-   },
-   {
-    "wikidata": "Q244004",
-    "name": "Sétif",
-    "lat": 36.19,
-    "lon": 5.41,
-    "population": 288461,
-    "capital": false
-   },
-   {
-    "wikidata": "Q2794758",
-    "name": "Djelfa",
-    "lat": 34.667,
-    "lon": 3.25,
-    "population": 265833,
-    "capital": false
-   },
-   {
-    "wikidata": "Q45942",
-    "name": "Annaba",
-    "lat": 36.9,
-    "lon": 7.767,
-    "population": 257359,
-    "capital": false
-   },
-   {
-    "wikidata": "Q852276",
-    "name": "Sidi Bel Abbès",
-    "lat": 35.2,
-    "lon": -0.633,
-    "population": 212935,
-    "capital": false
-   },
-   {
-    "wikidata": "Q312759",
-    "name": "Biskra",
-    "lat": 34.85,
-    "lon": 5.733,
-    "population": 204661,
-    "capital": false
-   },
-   {
-    "wikidata": "Q984575",
-    "name": "Tébessa",
-    "lat": 35.4,
-    "lon": 8.117,
-    "population": 194461,
+    "wikidata": "Q390096",
+    "name": "Badulla",
+    "lat": 6.985,
+    "lon": 81.056,
+    "population": 42923,
     "capital": false
    }
   ],
-  "UZB": [
+  "SYR": [
    {
-    "wikidata": "Q269",
-    "name": "Tashkent",
-    "lat": 41.311,
-    "lon": 69.28,
-    "population": 2956384,
+    "wikidata": "Q3766",
+    "name": "Damascus",
+    "lat": 33.513,
+    "lon": 36.292,
+    "population": 2685360,
     "capital": true
    },
    {
-    "wikidata": "Q492552",
-    "name": "Namangan",
-    "lat": 40.995,
-    "lon": 71.672,
-    "population": 626120,
+    "wikidata": "Q41183",
+    "name": "Aleppo",
+    "lat": 36.2,
+    "lon": 37.16,
+    "population": 2003671,
     "capital": false
    },
    {
-    "wikidata": "Q487656",
-    "name": "Andijan",
-    "lat": 40.783,
-    "lon": 72.351,
-    "population": 547800,
+    "wikidata": "Q131301",
+    "name": "Homs",
+    "lat": 34.733,
+    "lon": 36.717,
+    "population": 775404,
     "capital": false
    },
    {
-    "wikidata": "Q5753",
-    "name": "Samarkand",
-    "lat": 39.655,
-    "lon": 66.976,
-    "population": 546303,
+    "wikidata": "Q200030",
+    "name": "Latakia",
+    "lat": 35.52,
+    "lon": 35.778,
+    "population": 709000,
     "capital": false
    },
    {
-    "wikidata": "Q489898",
-    "name": "Nukus",
-    "lat": 42.465,
-    "lon": 59.602,
-    "population": 319583,
+    "wikidata": "Q173545",
+    "name": "Hama",
+    "lat": 35.164,
+    "lon": 36.757,
+    "population": 696863,
     "capital": false
    },
    {
-    "wikidata": "Q486329",
-    "name": "Fergana",
-    "lat": 40.386,
-    "lon": 71.786,
-    "population": 288850,
+    "wikidata": "Q403446",
+    "name": "Douma",
+    "lat": 33.572,
+    "lon": 36.402,
+    "population": 400000,
     "capital": false
    },
    {
-    "wikidata": "Q5764",
-    "name": "Bukhara",
-    "lat": 39.775,
-    "lon": 64.429,
-    "population": 280187,
+    "wikidata": "Q239097",
+    "name": "Deir ez-Zor",
+    "lat": 35.333,
+    "lon": 40.15,
+    "population": 395000,
     "capital": false
    },
    {
-    "wikidata": "Q644008",
-    "name": "Qarshi",
-    "lat": 38.867,
-    "lon": 65.8,
-    "population": 274891,
+    "wikidata": "Q283368",
+    "name": "Raqqa",
+    "lat": 35.95,
+    "lon": 39.01,
+    "population": 299824,
     "capital": false
    },
    {
-    "wikidata": "Q489890",
-    "name": "Qoʻqon",
-    "lat": 40.529,
-    "lon": 70.942,
-    "population": 252731,
+    "wikidata": "Q311321",
+    "name": "Hasakah",
+    "lat": 36.512,
+    "lon": 40.742,
+    "population": 188160,
     "capital": false
    },
    {
-    "wikidata": "Q261076",
-    "name": "Margilan",
-    "lat": 40.467,
-    "lon": 71.717,
-    "population": 215400,
+    "wikidata": "Q212757",
+    "name": "Qamishli",
+    "lat": 37.05,
+    "lon": 41.217,
+    "population": 184231,
+    "capital": false
+   }
+  ],
+  "CHL": [
+   {
+    "wikidata": "Q2887",
+    "name": "Santiago",
+    "lat": -33.438,
+    "lon": -70.65,
+    "population": 6257516,
+    "capital": true
+   },
+   {
+    "wikidata": "Q51594",
+    "name": "Puente Alto",
+    "lat": -33.617,
+    "lon": -70.583,
+    "population": 573935,
+    "capital": false
+   },
+   {
+    "wikidata": "Q3612",
+    "name": "Antofagasta",
+    "lat": -23.646,
+    "lon": -70.398,
+    "population": 348517,
+    "capital": false
+   },
+   {
+    "wikidata": "Q184345",
+    "name": "Viña del Mar",
+    "lat": -33.025,
+    "lon": -71.552,
+    "population": 332875,
+    "capital": false
+   },
+   {
+    "wikidata": "Q33986",
+    "name": "Valparaíso",
+    "lat": -33.046,
+    "lon": -71.62,
+    "population": 296655,
+    "capital": false
+   },
+   {
+    "wikidata": "Q82128",
+    "name": "Temuco",
+    "lat": -38.74,
+    "lon": -72.59,
+    "population": 282415,
+    "capital": false
+   },
+   {
+    "wikidata": "Q4469",
+    "name": "Talca",
+    "lat": -35.427,
+    "lon": -71.666,
+    "population": 232131,
+    "capital": false
+   },
+   {
+    "wikidata": "Q4582",
+    "name": "Rancagua",
+    "lat": -34.165,
+    "lon": -70.74,
+    "population": 231370,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1880",
+    "name": "Concepción",
+    "lat": -36.827,
+    "lon": -73.05,
+    "population": 217537,
+    "capital": false
+   },
+   {
+    "wikidata": "Q3871",
+    "name": "Coquimbo",
+    "lat": -29.953,
+    "lon": -71.338,
+    "population": 204068,
     "capital": false
    }
   ],
@@ -794,7 +794,7 @@
    },
    {
     "wikidata": "Q759381",
-    "name": "Khamis Mushait",
+    "name": "Khamis Mushayt",
     "lat": 18.3,
     "lon": 42.733,
     "population": 430828,
@@ -1014,6 +1014,22 @@
     "lat": 14.517,
     "lon": 121.05,
     "population": 1308085,
+    "capital": false
+   },
+   {
+    "wikidata": "Q17182",
+    "name": "Parañaque",
+    "lat": 14.501,
+    "lon": 120.992,
+    "population": 703245,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1508",
+    "name": "Makati",
+    "lat": 14.557,
+    "lon": 121.021,
+    "population": 309770,
     "capital": false
    },
    {
@@ -1271,16 +1287,6 @@
     "capital": false
    }
   ],
-  "QAT": [
-   {
-    "wikidata": "Q310893",
-    "name": "Al Wakrah",
-    "lat": 25.18,
-    "lon": 51.61,
-    "population": 87970,
-    "capital": false
-   }
-  ],
   "HUN": [
    {
     "wikidata": "Q81581",
@@ -1350,7 +1356,7 @@
    },
    {
     "wikidata": "Q24017120",
-    "name": "City of Valencia",
+    "name": "València",
     "lat": 39.475,
     "lon": -0.376,
     "population": 769128,
@@ -1398,7 +1404,7 @@
    },
    {
     "wikidata": "Q11959",
-    "name": "Alicante",
+    "name": "Alacant",
     "lat": 38.345,
     "lon": -0.483,
     "population": 366221,
@@ -1410,6 +1416,16 @@
     "lat": 28.1,
     "lon": -15.413,
     "population": 297682,
+    "capital": false
+   }
+  ],
+  "QAT": [
+   {
+    "wikidata": "Q310893",
+    "name": "Al Wakrah",
+    "lat": 25.18,
+    "lon": 51.61,
+    "population": 87970,
     "capital": false
    }
   ],
@@ -1513,88 +1529,6 @@
     "capital": false
    }
   ],
-  "POL": [
-   {
-    "wikidata": "Q3114019",
-    "name": "Katowice urban area",
-    "lat": 50.25,
-    "lon": 19,
-    "population": 1903000,
-    "capital": false
-   },
-   {
-    "wikidata": "Q270",
-    "name": "Warsaw",
-    "lat": 52.23,
-    "lon": 21.011,
-    "population": 1862402,
-    "capital": true
-   },
-   {
-    "wikidata": "Q31487",
-    "name": "Kraków",
-    "lat": 50.061,
-    "lon": 19.937,
-    "population": 804237,
-    "capital": false
-   },
-   {
-    "wikidata": "Q580",
-    "name": "Łódź",
-    "lat": 51.75,
-    "lon": 19.467,
-    "population": 648711,
-    "capital": false
-   },
-   {
-    "wikidata": "Q268",
-    "name": "Poznań",
-    "lat": 52.408,
-    "lon": 16.934,
-    "population": 546859,
-    "capital": false
-   },
-   {
-    "wikidata": "Q1792",
-    "name": "Gdańsk",
-    "lat": 54.348,
-    "lon": 18.654,
-    "population": 487834,
-    "capital": false
-   },
-   {
-    "wikidata": "Q393",
-    "name": "Szczecin",
-    "lat": 53.425,
-    "lon": 14.555,
-    "population": 387700,
-    "capital": false
-   },
-   {
-    "wikidata": "Q37333",
-    "name": "Lublin",
-    "lat": 51.25,
-    "lon": 22.567,
-    "population": 334681,
-    "capital": false
-   },
-   {
-    "wikidata": "Q41252",
-    "name": "Bydgoszcz",
-    "lat": 53.117,
-    "lon": 18,
-    "population": 324984,
-    "capital": false
-   },
-   {
-    "wikidata": "Q761",
-    "name": "Białystok",
-    "lat": 53.132,
-    "lon": 23.169,
-    "population": 290386,
-    "capital": false
-   }
-  ],
   "TWN": [
    {
     "wikidata": "Q244898",
@@ -1606,7 +1540,7 @@
    },
    {
     "wikidata": "Q245023",
-    "name": "Taichung",
+    "name": "臺中市",
     "lat": 24.144,
     "lon": 120.679,
     "population": 3033885,
@@ -1630,7 +1564,7 @@
    },
    {
     "wikidata": "Q140631",
-    "name": "Tainan",
+    "name": "臺南市",
     "lat": 22.99,
     "lon": 120.185,
     "population": 1874686,
@@ -1638,7 +1572,7 @@
    },
    {
     "wikidata": "Q715975",
-    "name": "Taoyuan District",
+    "name": "桃園區",
     "lat": 24.989,
     "lon": 121.311,
     "population": 478664,
@@ -1646,7 +1580,7 @@
    },
    {
     "wikidata": "Q713377",
-    "name": "Pingtung City",
+    "name": "屏東市",
     "lat": 22.676,
     "lon": 120.494,
     "population": 191815,
@@ -1654,7 +1588,7 @@
    },
    {
     "wikidata": "Q713381",
-    "name": "Taitung City",
+    "name": "臺東市",
     "lat": 22.758,
     "lon": 121.144,
     "population": 102810,
@@ -1662,7 +1596,7 @@
    },
    {
     "wikidata": "Q701651",
-    "name": "Miaoli City",
+    "name": "苗栗市",
     "lat": 24.57,
     "lon": 120.82,
     "population": 85954,
@@ -1883,85 +1817,85 @@
     "capital": false
    }
   ],
-  "IND": [
+  "POL": [
    {
-    "wikidata": "Q1353",
-    "name": "Delhi",
-    "lat": 28.667,
-    "lon": 77.217,
-    "population": 26495000,
+    "wikidata": "Q3114019",
+    "name": "Katowice urban area",
+    "lat": 50.25,
+    "lon": 19,
+    "population": 1903000,
     "capital": false
    },
    {
-    "wikidata": "Q1156",
-    "name": "Mumbai",
-    "lat": 19.076,
-    "lon": 72.877,
-    "population": 15414288,
+    "wikidata": "Q270",
+    "name": "Warsaw",
+    "lat": 52.23,
+    "lon": 21.011,
+    "population": 1862402,
+    "capital": true
+   },
+   {
+    "wikidata": "Q31487",
+    "name": "Kraków",
+    "lat": 50.061,
+    "lon": 19.937,
+    "population": 804237,
     "capital": false
    },
    {
-    "wikidata": "Q1355",
-    "name": "Bengaluru",
-    "lat": 12.979,
-    "lon": 77.591,
-    "population": 12327000,
+    "wikidata": "Q580",
+    "name": "Łódź",
+    "lat": 51.75,
+    "lon": 19.467,
+    "population": 648711,
     "capital": false
    },
    {
-    "wikidata": "Q1070",
-    "name": "Ahmedabad",
-    "lat": 23.022,
-    "lon": 72.58,
-    "population": 7645000,
+    "wikidata": "Q268",
+    "name": "Poznań",
+    "lat": 52.408,
+    "lon": 16.934,
+    "population": 546859,
     "capital": false
    },
    {
-    "wikidata": "Q1538",
-    "name": "Pune",
-    "lat": 18.521,
-    "lon": 73.855,
-    "population": 6200000,
+    "wikidata": "Q1792",
+    "name": "Gdańsk",
+    "lat": 54.348,
+    "lon": 18.654,
+    "population": 487834,
     "capital": false
    },
    {
-    "wikidata": "Q162442",
-    "name": "Prayagraj",
-    "lat": 25.45,
-    "lon": 81.85,
-    "population": 5954391,
+    "wikidata": "Q393",
+    "name": "Szczecin",
+    "lat": 53.425,
+    "lon": 14.555,
+    "population": 387700,
     "capital": false
    },
    {
-    "wikidata": "Q4629",
-    "name": "Surat",
-    "lat": 21.205,
-    "lon": 72.84,
-    "population": 5935000,
+    "wikidata": "Q37333",
+    "name": "Lublin",
+    "lat": 51.25,
+    "lon": 22.567,
+    "population": 334681,
     "capital": false
    },
    {
-    "wikidata": "Q66568",
-    "name": "Kanpur",
-    "lat": 26.473,
-    "lon": 80.331,
-    "population": 4581268,
+    "wikidata": "Q41252",
+    "name": "Bydgoszcz",
+    "lat": 53.117,
+    "lon": 18,
+    "population": 324984,
     "capital": false
    },
    {
-    "wikidata": "Q1348",
-    "name": "Kolkata",
-    "lat": 22.567,
-    "lon": 88.37,
-    "population": 4496694,
-    "capital": false
-   },
-   {
-    "wikidata": "Q47916",
-    "name": "Lucknow",
-    "lat": 26.847,
-    "lon": 80.947,
-    "population": 3382000,
+    "wikidata": "Q761",
+    "name": "Białystok",
+    "lat": 53.132,
+    "lon": 23.169,
+    "population": 290386,
     "capital": false
    }
   ],
@@ -2044,6 +1978,88 @@
     "lat": -38.952,
     "lon": -68.059,
     "population": 288896,
+    "capital": false
+   }
+  ],
+  "IND": [
+   {
+    "wikidata": "Q1353",
+    "name": "Delhi",
+    "lat": 28.667,
+    "lon": 77.217,
+    "population": 26495000,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1156",
+    "name": "Mumbai",
+    "lat": 19.076,
+    "lon": 72.877,
+    "population": 15414288,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1355",
+    "name": "Bengaluru",
+    "lat": 12.979,
+    "lon": 77.591,
+    "population": 12327000,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1070",
+    "name": "Ahmedabad",
+    "lat": 23.022,
+    "lon": 72.58,
+    "population": 7645000,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1538",
+    "name": "Pune",
+    "lat": 18.521,
+    "lon": 73.855,
+    "population": 6200000,
+    "capital": false
+   },
+   {
+    "wikidata": "Q162442",
+    "name": "Prayagraj",
+    "lat": 25.45,
+    "lon": 81.85,
+    "population": 5954391,
+    "capital": false
+   },
+   {
+    "wikidata": "Q4629",
+    "name": "Surat",
+    "lat": 21.205,
+    "lon": 72.84,
+    "population": 5935000,
+    "capital": false
+   },
+   {
+    "wikidata": "Q66568",
+    "name": "Kanpur",
+    "lat": 26.473,
+    "lon": 80.331,
+    "population": 4581268,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1348",
+    "name": "Kolkata",
+    "lat": 22.567,
+    "lon": 88.37,
+    "population": 4496694,
+    "capital": false
+   },
+   {
+    "wikidata": "Q47916",
+    "name": "Lucknow",
+    "lat": 26.847,
+    "lon": 80.947,
+    "population": 3382000,
     "capital": false
    }
   ],
@@ -2461,6 +2477,14 @@
     "capital": false
    },
    {
+    "wikidata": "Q975",
+    "name": "San Antonio",
+    "lat": 29.425,
+    "lon": -98.494,
+    "population": 1434625,
+    "capital": false
+   },
+   {
     "wikidata": "Q16552",
     "name": "San Diego",
     "lat": 32.715,
@@ -2493,14 +2517,6 @@
     "capital": false
    },
    {
-    "wikidata": "Q16559",
-    "name": "Austin",
-    "lat": 30.3,
-    "lon": -97.733,
-    "population": 961855,
-    "capital": false
-   },
-   {
     "wikidata": "Q61",
     "name": "Washington, D.C.",
     "lat": 38.895,
@@ -2516,6 +2532,14 @@
     "lat": 51.054,
     "lon": 3.725,
     "population": 272657,
+    "capital": false
+   },
+   {
+    "wikidata": "Q81046",
+    "name": "Charleroi",
+    "lat": 50.417,
+    "lon": 4.444,
+    "population": 204322,
     "capital": false
    },
    {
@@ -2564,6 +2588,14 @@
     "lat": 50.877,
     "lon": 4.704,
     "population": 101032,
+    "capital": false
+   },
+   {
+    "wikidata": "Q180775",
+    "name": "Molenbeek-Saint-Jean",
+    "lat": 50.855,
+    "lon": 4.339,
+    "population": 97979,
     "capital": false
    },
    {
@@ -2676,7 +2708,7 @@
    },
    {
     "wikidata": "Q133123",
-    "name": "Patras",
+    "name": "Patra",
     "lat": 38.246,
     "lon": 21.735,
     "population": 173600,
@@ -2692,7 +2724,7 @@
    },
    {
     "wikidata": "Q178405",
-    "name": "Larissa",
+    "name": "Lárisa",
     "lat": 39.638,
     "lon": 22.413,
     "population": 146377,
@@ -2708,7 +2740,7 @@
    },
    {
     "wikidata": "Q652895",
-    "name": "Peristeri",
+    "name": "Περιστέρι Αττικής",
     "lat": 38.017,
     "lon": 23.683,
     "population": 133630,
@@ -2982,7 +3014,7 @@
    },
    {
     "wikidata": "Q513537",
-    "name": "Tanchon",
+    "name": "단천",
     "lat": 40.458,
     "lon": 128.911,
     "population": 345875,
@@ -2998,7 +3030,7 @@
    },
    {
     "wikidata": "Q505807",
-    "name": "Sariwon",
+    "name": "사리원시",
     "lat": 38.532,
     "lon": 125.74,
     "population": 307764,
@@ -3098,7 +3130,7 @@
    },
    {
     "wikidata": "Q7473516",
-    "name": "Tokyo",
+    "name": "東京",
     "lat": 35.684,
     "lon": 139.774,
     "population": 9640742,
@@ -3106,7 +3138,7 @@
    },
    {
     "wikidata": "Q35765",
-    "name": "Osaka",
+    "name": "Ōsaka-shi",
     "lat": 34.694,
     "lon": 135.502,
     "population": 2751862,
@@ -3130,7 +3162,7 @@
    },
    {
     "wikidata": "Q48320",
-    "name": "Kobe",
+    "name": "Kōbe-shi",
     "lat": 34.69,
     "lon": 135.195,
     "population": 1521707,
@@ -3138,7 +3170,7 @@
    },
    {
     "wikidata": "Q34600",
-    "name": "Kyoto",
+    "name": "Kyōto-shi",
     "lat": 35.012,
     "lon": 135.768,
     "population": 1463723,
@@ -3146,7 +3178,7 @@
    },
    {
     "wikidata": "Q134635",
-    "name": "Saitama",
+    "name": "Saitama-shi",
     "lat": 35.861,
     "lon": 139.646,
     "population": 1325843,
@@ -3293,6 +3325,56 @@
     "capital": false
    }
   ],
+  "VNM": [
+   {
+    "wikidata": "Q1854",
+    "name": "Ho Chi Minh City",
+    "lat": 10.776,
+    "lon": 106.702,
+    "population": 14002598,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1858",
+    "name": "Hanoi",
+    "lat": 21.024,
+    "lon": 105.841,
+    "population": 8717600,
+    "capital": true
+   },
+   {
+    "wikidata": "Q216075",
+    "name": "Cần Thơ",
+    "lat": 10.155,
+    "lon": 105.501,
+    "population": 3207000,
+    "capital": false
+   },
+   {
+    "wikidata": "Q25282",
+    "name": "Da Nang",
+    "lat": 16.069,
+    "lon": 108.21,
+    "population": 2819900,
+    "capital": false
+   },
+   {
+    "wikidata": "Q72818",
+    "name": "Haiphong",
+    "lat": 20.8,
+    "lon": 106.667,
+    "population": 2124500,
+    "capital": false
+   },
+   {
+    "wikidata": "Q36399",
+    "name": "Huế",
+    "lat": 16.464,
+    "lon": 107.587,
+    "population": 1236393,
+    "capital": false
+   }
+  ],
   "KOR": [
    {
     "wikidata": "Q8684",
@@ -3344,7 +3426,7 @@
    },
    {
     "wikidata": "Q42061",
-    "name": "Goyang",
+    "name": "Goyang-si",
     "lat": 37.656,
     "lon": 126.835,
     "population": 1061929,
@@ -3673,53 +3755,251 @@
     "capital": false
    }
   ],
-  "VNM": [
+  "LUX": [
    {
-    "wikidata": "Q1854",
-    "name": "Ho Chi Minh City",
-    "lat": 10.776,
-    "lon": 106.702,
-    "population": 14002598,
-    "capital": false
-   },
-   {
-    "wikidata": "Q1858",
-    "name": "Hanoi",
-    "lat": 21.024,
-    "lon": 105.841,
-    "population": 8717600,
+    "wikidata": "Q1842",
+    "name": "Luxembourg",
+    "lat": 49.611,
+    "lon": 6.13,
+    "population": 137678,
     "capital": true
    },
    {
-    "wikidata": "Q216075",
-    "name": "Cần Thơ",
-    "lat": 10.155,
-    "lon": 105.501,
-    "population": 3207000,
+    "wikidata": "Q16010",
+    "name": "Esch-sur-Alzette",
+    "lat": 49.497,
+    "lon": 5.981,
+    "population": 38275,
     "capital": false
    },
    {
-    "wikidata": "Q25282",
-    "name": "Da Nang",
-    "lat": 16.069,
-    "lon": 108.21,
-    "population": 2819900,
+    "wikidata": "Q20969331",
+    "name": "Dudelange",
+    "lat": 49.481,
+    "lon": 6.088,
+    "population": 21953,
+    "capital": false
+   }
+  ],
+  "ITA": [
+   {
+    "wikidata": "Q220",
+    "name": "Rome",
+    "lat": 41.893,
+    "lon": 12.483,
+    "population": 2748109,
+    "capital": true
+   },
+   {
+    "wikidata": "Q490",
+    "name": "Milan",
+    "lat": 45.467,
+    "lon": 9.19,
+    "population": 1354196,
     "capital": false
    },
    {
-    "wikidata": "Q72818",
-    "name": "Haiphong",
-    "lat": 20.8,
-    "lon": 106.667,
-    "population": 2124500,
+    "wikidata": "Q2634",
+    "name": "Naples",
+    "lat": 40.836,
+    "lon": 14.249,
+    "population": 913462,
     "capital": false
    },
    {
-    "wikidata": "Q36399",
-    "name": "Huế",
-    "lat": 16.464,
-    "lon": 107.587,
-    "population": 1236393,
+    "wikidata": "Q495",
+    "name": "Torino",
+    "lat": 45.079,
+    "lon": 7.676,
+    "population": 841600,
+    "capital": false
+   },
+   {
+    "wikidata": "Q2656",
+    "name": "Palermo",
+    "lat": 38.116,
+    "lon": 13.361,
+    "population": 630167,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1449",
+    "name": "Genova",
+    "lat": 44.407,
+    "lon": 8.934,
+    "population": 558745,
+    "capital": false
+   },
+   {
+    "wikidata": "Q2044",
+    "name": "Florence",
+    "lat": 43.771,
+    "lon": 11.254,
+    "population": 360930,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1903",
+    "name": "Catania",
+    "lat": 37.503,
+    "lon": 15.087,
+    "population": 311584,
+    "capital": false
+   },
+   {
+    "wikidata": "Q2028",
+    "name": "Verona",
+    "lat": 45.439,
+    "lon": 10.993,
+    "population": 255588,
+    "capital": false
+   },
+   {
+    "wikidata": "Q641",
+    "name": "Venice",
+    "lat": 45.44,
+    "lon": 12.332,
+    "population": 250369,
+    "capital": false
+   }
+  ],
+  "CHE": [
+   {
+    "wikidata": "Q71",
+    "name": "Geneva",
+    "lat": 46.2,
+    "lon": 6.15,
+    "population": 211152,
+    "capital": false
+   },
+   {
+    "wikidata": "Q78",
+    "name": "Basel",
+    "lat": 47.558,
+    "lon": 7.588,
+    "population": 176329,
+    "capital": false
+   },
+   {
+    "wikidata": "Q807",
+    "name": "Lausanne",
+    "lat": 46.533,
+    "lon": 6.633,
+    "population": 144873,
+    "capital": false
+   },
+   {
+    "wikidata": "Q70",
+    "name": "Bern",
+    "lat": 46.948,
+    "lon": 7.447,
+    "population": 136988,
+    "capital": true
+   },
+   {
+    "wikidata": "Q9125",
+    "name": "Winterthur",
+    "lat": 47.499,
+    "lon": 8.727,
+    "population": 120376,
+    "capital": false
+   },
+   {
+    "wikidata": "Q7024",
+    "name": "Lugano",
+    "lat": 46.01,
+    "lon": 8.963,
+    "population": 63495,
+    "capital": false
+   },
+   {
+    "wikidata": "Q68144",
+    "name": "Zug",
+    "lat": 47.168,
+    "lon": 8.517,
+    "population": 32122,
+    "capital": false
+   }
+  ],
+  "URY": [
+   {
+    "wikidata": "Q1335",
+    "name": "Montevideo",
+    "lat": -34.906,
+    "lon": -56.191,
+    "population": 1302954,
+    "capital": true
+   },
+   {
+    "wikidata": "Q335506",
+    "name": "Salto",
+    "lat": -31.389,
+    "lon": -57.961,
+    "population": 112527,
+    "capital": false
+   },
+   {
+    "wikidata": "Q869403",
+    "name": "Ciudad de la Costa",
+    "lat": -34.817,
+    "lon": -55.95,
+    "population": 112449,
+    "capital": false
+   },
+   {
+    "wikidata": "Q16258",
+    "name": "Maldonado",
+    "lat": -34.909,
+    "lon": -54.958,
+    "population": 86782,
+    "capital": false
+   },
+   {
+    "wikidata": "Q646498",
+    "name": "Rivera",
+    "lat": -30.9,
+    "lon": -55.541,
+    "population": 82602,
+    "capital": false
+   },
+   {
+    "wikidata": "Q309442",
+    "name": "Paysandú",
+    "lat": -32.318,
+    "lon": -58.078,
+    "population": 81489,
+    "capital": false
+   },
+   {
+    "wikidata": "Q833016",
+    "name": "Tacuarembó",
+    "lat": -31.711,
+    "lon": -55.979,
+    "population": 60581,
+    "capital": false
+   },
+   {
+    "wikidata": "Q855645",
+    "name": "Durazno",
+    "lat": -33.38,
+    "lon": -56.523,
+    "population": 40279,
+    "capital": false
+   },
+   {
+    "wikidata": "Q868205",
+    "name": "Minas",
+    "lat": -34.375,
+    "lon": -55.236,
+    "population": 38633,
+    "capital": false
+   },
+   {
+    "wikidata": "Q983435",
+    "name": "San José de Mayo",
+    "lat": -34.338,
+    "lon": -56.712,
+    "population": 38550,
     "capital": false
    }
   ],
@@ -3939,254 +4219,6 @@
     "capital": false
    }
   ],
-  "LUX": [
-   {
-    "wikidata": "Q1842",
-    "name": "Luxembourg",
-    "lat": 49.611,
-    "lon": 6.13,
-    "population": 137678,
-    "capital": true
-   },
-   {
-    "wikidata": "Q16010",
-    "name": "Esch-sur-Alzette",
-    "lat": 49.497,
-    "lon": 5.981,
-    "population": 38275,
-    "capital": false
-   },
-   {
-    "wikidata": "Q20969331",
-    "name": "Dudelange",
-    "lat": 49.481,
-    "lon": 6.088,
-    "population": 21953,
-    "capital": false
-   }
-  ],
-  "ITA": [
-   {
-    "wikidata": "Q220",
-    "name": "Rome",
-    "lat": 41.893,
-    "lon": 12.483,
-    "population": 2748109,
-    "capital": true
-   },
-   {
-    "wikidata": "Q490",
-    "name": "Milan",
-    "lat": 45.467,
-    "lon": 9.19,
-    "population": 1354196,
-    "capital": false
-   },
-   {
-    "wikidata": "Q2634",
-    "name": "Naples",
-    "lat": 40.836,
-    "lon": 14.249,
-    "population": 913462,
-    "capital": false
-   },
-   {
-    "wikidata": "Q495",
-    "name": "Turin",
-    "lat": 45.079,
-    "lon": 7.676,
-    "population": 841600,
-    "capital": false
-   },
-   {
-    "wikidata": "Q2656",
-    "name": "Palermo",
-    "lat": 38.116,
-    "lon": 13.361,
-    "population": 630167,
-    "capital": false
-   },
-   {
-    "wikidata": "Q1449",
-    "name": "Genoa",
-    "lat": 44.407,
-    "lon": 8.934,
-    "population": 558745,
-    "capital": false
-   },
-   {
-    "wikidata": "Q2044",
-    "name": "Florence",
-    "lat": 43.771,
-    "lon": 11.254,
-    "population": 360930,
-    "capital": false
-   },
-   {
-    "wikidata": "Q1903",
-    "name": "Catania",
-    "lat": 37.503,
-    "lon": 15.087,
-    "population": 311584,
-    "capital": false
-   },
-   {
-    "wikidata": "Q2028",
-    "name": "Verona",
-    "lat": 45.439,
-    "lon": 10.993,
-    "population": 255588,
-    "capital": false
-   },
-   {
-    "wikidata": "Q641",
-    "name": "Venice",
-    "lat": 45.44,
-    "lon": 12.332,
-    "population": 250369,
-    "capital": false
-   }
-  ],
-  "CHE": [
-   {
-    "wikidata": "Q71",
-    "name": "Geneva",
-    "lat": 46.2,
-    "lon": 6.15,
-    "population": 211152,
-    "capital": false
-   },
-   {
-    "wikidata": "Q78",
-    "name": "Basel",
-    "lat": 47.558,
-    "lon": 7.588,
-    "population": 176329,
-    "capital": false
-   },
-   {
-    "wikidata": "Q807",
-    "name": "Lausanne",
-    "lat": 46.533,
-    "lon": 6.633,
-    "population": 144873,
-    "capital": false
-   },
-   {
-    "wikidata": "Q70",
-    "name": "Bern",
-    "lat": 46.948,
-    "lon": 7.447,
-    "population": 136988,
-    "capital": true
-   },
-   {
-    "wikidata": "Q9125",
-    "name": "Winterthur",
-    "lat": 47.499,
-    "lon": 8.727,
-    "population": 120376,
-    "capital": false
-   },
-   {
-    "wikidata": "Q7024",
-    "name": "Lugano",
-    "lat": 46.01,
-    "lon": 8.963,
-    "population": 63495,
-    "capital": false
-   },
-   {
-    "wikidata": "Q68144",
-    "name": "Zug",
-    "lat": 47.168,
-    "lon": 8.517,
-    "population": 32122,
-    "capital": false
-   }
-  ],
-  "URY": [
-   {
-    "wikidata": "Q1335",
-    "name": "Montevideo",
-    "lat": -34.906,
-    "lon": -56.191,
-    "population": 1302954,
-    "capital": true
-   },
-   {
-    "wikidata": "Q335506",
-    "name": "Salto",
-    "lat": -31.389,
-    "lon": -57.961,
-    "population": 112527,
-    "capital": false
-   },
-   {
-    "wikidata": "Q869403",
-    "name": "Ciudad de la Costa",
-    "lat": -34.817,
-    "lon": -55.95,
-    "population": 112449,
-    "capital": false
-   },
-   {
-    "wikidata": "Q16258",
-    "name": "Maldonado",
-    "lat": -34.909,
-    "lon": -54.958,
-    "population": 86782,
-    "capital": false
-   },
-   {
-    "wikidata": "Q646498",
-    "name": "Rivera",
-    "lat": -30.9,
-    "lon": -55.541,
-    "population": 82602,
-    "capital": false
-   },
-   {
-    "wikidata": "Q833016",
-    "name": "Tacuarembó",
-    "lat": -31.711,
-    "lon": -55.979,
-    "population": 60581,
-    "capital": false
-   },
-   {
-    "wikidata": "Q855645",
-    "name": "Durazno",
-    "lat": -33.38,
-    "lon": -56.523,
-    "population": 40279,
-    "capital": false
-   },
-   {
-    "wikidata": "Q868205",
-    "name": "Minas",
-    "lat": -34.375,
-    "lon": -55.236,
-    "population": 38633,
-    "capital": false
-   },
-   {
-    "wikidata": "Q983435",
-    "name": "San José de Mayo",
-    "lat": -34.338,
-    "lon": -56.712,
-    "population": 38550,
-    "capital": false
-   },
-   {
-    "wikidata": "Q370254",
-    "name": "Ciudad del Plata",
-    "lat": -34.749,
-    "lon": -56.436,
-    "population": 38249,
-    "capital": false
-   }
-  ],
   "PRT": [
    {
     "wikidata": "Q36433",
@@ -4202,6 +4234,264 @@
     "lat": 41.55,
     "lon": -8.42,
     "population": 181494,
+    "capital": false
+   }
+  ],
+  "AUS": [
+   {
+    "wikidata": "Q3130",
+    "name": "Sydney",
+    "lat": -33.868,
+    "lon": 151.21,
+    "population": 5450496,
+    "capital": false
+   },
+   {
+    "wikidata": "Q3141",
+    "name": "Melbourne",
+    "lat": -37.814,
+    "lon": 144.963,
+    "population": 5350705,
+    "capital": false
+   },
+   {
+    "wikidata": "Q34932",
+    "name": "Brisbane",
+    "lat": -27.468,
+    "lon": 153.028,
+    "population": 2706966,
+    "capital": false
+   },
+   {
+    "wikidata": "Q3183",
+    "name": "Perth",
+    "lat": -31.956,
+    "lon": 115.86,
+    "population": 2141834,
+    "capital": false
+   },
+   {
+    "wikidata": "Q5112",
+    "name": "Adelaide",
+    "lat": -34.928,
+    "lon": 138.6,
+    "population": 1387290,
+    "capital": false
+   },
+   {
+    "wikidata": "Q140075",
+    "name": "Gold Coast",
+    "lat": -28.017,
+    "lon": 153.4,
+    "population": 607665,
+    "capital": false
+   },
+   {
+    "wikidata": "Q3114",
+    "name": "Canberra",
+    "lat": -35.293,
+    "lon": 149.127,
+    "population": 381488,
+    "capital": true
+   },
+   {
+    "wikidata": "Q187861",
+    "name": "Wollongong",
+    "lat": -34.433,
+    "lon": 150.883,
+    "population": 261896,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1009253",
+    "name": "Ipswich",
+    "lat": -27.617,
+    "lon": 152.767,
+    "population": 232930,
+    "capital": false
+   },
+   {
+    "wikidata": "Q40191",
+    "name": "Hobart",
+    "lat": -42.883,
+    "lon": 147.317,
+    "population": 197451,
+    "capital": false
+   }
+  ],
+  "SSD": [
+   {
+    "wikidata": "Q1947",
+    "name": "Juba",
+    "lat": 4.854,
+    "lon": 31.582,
+    "population": 500088,
+    "capital": true
+   },
+   {
+    "wikidata": "Q276534",
+    "name": "Wau",
+    "lat": 7.7,
+    "lon": 27.983,
+    "population": 320752,
+    "capital": false
+   },
+   {
+    "wikidata": "Q893274",
+    "name": "Bor",
+    "lat": 6.217,
+    "lon": 31.55,
+    "population": 315351,
+    "capital": false
+   },
+   {
+    "wikidata": "Q220049",
+    "name": "Malakal",
+    "lat": 9.533,
+    "lon": 31.65,
+    "population": 147450,
+    "capital": false
+   },
+   {
+    "wikidata": "Q791685",
+    "name": "Aweil",
+    "lat": 8.767,
+    "lon": 27.4,
+    "population": 40054,
+    "capital": false
+   }
+  ],
+  "BEN": [
+   {
+    "wikidata": "Q43595",
+    "name": "Cotonou",
+    "lat": 6.367,
+    "lon": 2.417,
+    "population": 780000,
+    "capital": false
+   },
+   {
+    "wikidata": "Q3799",
+    "name": "Porto-Novo",
+    "lat": 6.483,
+    "lon": 2.617,
+    "population": 234168,
+    "capital": true
+   },
+   {
+    "wikidata": "Q850031",
+    "name": "Ouidah",
+    "lat": 6.367,
+    "lon": 2.083,
+    "population": 162034,
+    "capital": false
+   },
+   {
+    "wikidata": "Q2566827",
+    "name": "Dogbo-Tota",
+    "lat": 6.8,
+    "lon": 1.783,
+    "population": 101870,
+    "capital": false
+   },
+   {
+    "wikidata": "Q21788742",
+    "name": "Savé",
+    "lat": 8.034,
+    "lon": 2.487,
+    "population": 31444,
+    "capital": false
+   }
+  ],
+  "TLS": [
+   {
+    "wikidata": "Q9310",
+    "name": "Dili",
+    "lat": -8.554,
+    "lon": 125.578,
+    "population": 222323,
+    "capital": true
+   }
+  ],
+  "TCD": [
+   {
+    "wikidata": "Q3659",
+    "name": "Niǧāmīnā",
+    "lat": 12.11,
+    "lon": 15.05,
+    "population": 1092066,
+    "capital": true
+   },
+   {
+    "wikidata": "Q333074",
+    "name": "Moundou",
+    "lat": 8.567,
+    "lon": 16.083,
+    "population": 142462,
+    "capital": false
+   },
+   {
+    "wikidata": "Q337530",
+    "name": "Sarh",
+    "lat": 9.15,
+    "lon": 18.383,
+    "population": 108061,
+    "capital": false
+   },
+   {
+    "wikidata": "Q242587",
+    "name": "Abéché",
+    "lat": 13.833,
+    "lon": 20.835,
+    "population": 76492,
+    "capital": false
+   },
+   {
+    "wikidata": "Q9274901",
+    "name": "Goundi",
+    "lat": 9.364,
+    "lon": 17.364,
+    "population": 73141,
+    "capital": false
+   },
+   {
+    "wikidata": "Q3112862",
+    "name": "Goz Beïda",
+    "lat": 12.224,
+    "lon": 21.414,
+    "population": 66107,
+    "capital": false
+   },
+   {
+    "wikidata": "Q3071111",
+    "name": "Fianga",
+    "lat": 9.915,
+    "lon": 15.137,
+    "population": 42606,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1774419",
+    "name": "Pala",
+    "lat": 9.364,
+    "lon": 14.91,
+    "population": 40202,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1070175",
+    "name": "Koumra",
+    "lat": 8.918,
+    "lon": 17.548,
+    "population": 39852,
+    "capital": false
+   },
+   {
+    "wikidata": "Q451529",
+    "name": "Am Timan",
+    "lat": 11.033,
+    "lon": 20.283,
+    "population": 38261,
     "capital": false
    }
   ],
@@ -4365,6 +4655,14 @@
     "capital": false
    },
    {
+    "wikidata": "Q216847",
+    "name": "Cúcuta",
+    "lat": 7.907,
+    "lon": -72.505,
+    "population": 806378,
+    "capital": false
+   },
+   {
     "wikidata": "Q749224",
     "name": "Villavicencio",
     "lat": 4.143,
@@ -4386,14 +4684,6 @@
     "lat": 4.438,
     "lon": -75.201,
     "population": 546003,
-    "capital": false
-   },
-   {
-    "wikidata": "Q376903",
-    "name": "Valledupar",
-    "lat": 10.46,
-    "lon": -73.26,
-    "population": 544134,
     "capital": false
    }
   ],
@@ -4476,264 +4766,6 @@
     "lat": -1.673,
     "lon": -78.648,
     "population": 177213,
-    "capital": false
-   }
-  ],
-  "SSD": [
-   {
-    "wikidata": "Q1947",
-    "name": "Juba",
-    "lat": 4.854,
-    "lon": 31.582,
-    "population": 500088,
-    "capital": true
-   },
-   {
-    "wikidata": "Q276534",
-    "name": "Wau",
-    "lat": 7.7,
-    "lon": 27.983,
-    "population": 320752,
-    "capital": false
-   },
-   {
-    "wikidata": "Q893274",
-    "name": "Bor",
-    "lat": 6.217,
-    "lon": 31.55,
-    "population": 315351,
-    "capital": false
-   },
-   {
-    "wikidata": "Q220049",
-    "name": "Malakal",
-    "lat": 9.533,
-    "lon": 31.65,
-    "population": 147450,
-    "capital": false
-   },
-   {
-    "wikidata": "Q791685",
-    "name": "Aweil",
-    "lat": 8.767,
-    "lon": 27.4,
-    "population": 40054,
-    "capital": false
-   }
-  ],
-  "BEN": [
-   {
-    "wikidata": "Q43595",
-    "name": "Cotonou",
-    "lat": 6.367,
-    "lon": 2.417,
-    "population": 780000,
-    "capital": false
-   },
-   {
-    "wikidata": "Q3799",
-    "name": "Porto-Novo",
-    "lat": 6.483,
-    "lon": 2.617,
-    "population": 234168,
-    "capital": true
-   },
-   {
-    "wikidata": "Q850031",
-    "name": "Ouidah",
-    "lat": 6.367,
-    "lon": 2.083,
-    "population": 162034,
-    "capital": false
-   },
-   {
-    "wikidata": "Q2566827",
-    "name": "Dogbo-Tota",
-    "lat": 6.8,
-    "lon": 1.783,
-    "population": 101870,
-    "capital": false
-   },
-   {
-    "wikidata": "Q21788742",
-    "name": "Savé",
-    "lat": 8.034,
-    "lon": 2.487,
-    "population": 31444,
-    "capital": false
-   }
-  ],
-  "AUS": [
-   {
-    "wikidata": "Q3130",
-    "name": "Sydney",
-    "lat": -33.868,
-    "lon": 151.21,
-    "population": 5450496,
-    "capital": false
-   },
-   {
-    "wikidata": "Q3141",
-    "name": "Melbourne",
-    "lat": -37.814,
-    "lon": 144.963,
-    "population": 5350705,
-    "capital": false
-   },
-   {
-    "wikidata": "Q34932",
-    "name": "Brisbane",
-    "lat": -27.468,
-    "lon": 153.028,
-    "population": 2706966,
-    "capital": false
-   },
-   {
-    "wikidata": "Q3183",
-    "name": "Perth",
-    "lat": -31.956,
-    "lon": 115.86,
-    "population": 2141834,
-    "capital": false
-   },
-   {
-    "wikidata": "Q5112",
-    "name": "Adelaide",
-    "lat": -34.928,
-    "lon": 138.6,
-    "population": 1387290,
-    "capital": false
-   },
-   {
-    "wikidata": "Q140075",
-    "name": "Gold Coast",
-    "lat": -28.017,
-    "lon": 153.4,
-    "population": 607665,
-    "capital": false
-   },
-   {
-    "wikidata": "Q3114",
-    "name": "Canberra",
-    "lat": -35.293,
-    "lon": 149.127,
-    "population": 381488,
-    "capital": true
-   },
-   {
-    "wikidata": "Q187861",
-    "name": "Wollongong",
-    "lat": -34.433,
-    "lon": 150.883,
-    "population": 261896,
-    "capital": false
-   },
-   {
-    "wikidata": "Q1009253",
-    "name": "Ipswich",
-    "lat": -27.617,
-    "lon": 152.767,
-    "population": 232930,
-    "capital": false
-   },
-   {
-    "wikidata": "Q40191",
-    "name": "Hobart",
-    "lat": -42.883,
-    "lon": 147.317,
-    "population": 197451,
-    "capital": false
-   }
-  ],
-  "TLS": [
-   {
-    "wikidata": "Q9310",
-    "name": "Dili",
-    "lat": -8.554,
-    "lon": 125.578,
-    "population": 222323,
-    "capital": true
-   }
-  ],
-  "TCD": [
-   {
-    "wikidata": "Q3659",
-    "name": "N'Djamena",
-    "lat": 12.11,
-    "lon": 15.05,
-    "population": 1092066,
-    "capital": true
-   },
-   {
-    "wikidata": "Q333074",
-    "name": "Moundou",
-    "lat": 8.567,
-    "lon": 16.083,
-    "population": 142462,
-    "capital": false
-   },
-   {
-    "wikidata": "Q337530",
-    "name": "Sarh",
-    "lat": 9.15,
-    "lon": 18.383,
-    "population": 108061,
-    "capital": false
-   },
-   {
-    "wikidata": "Q242587",
-    "name": "Abéché",
-    "lat": 13.833,
-    "lon": 20.835,
-    "population": 76492,
-    "capital": false
-   },
-   {
-    "wikidata": "Q9274901",
-    "name": "Goundi",
-    "lat": 9.364,
-    "lon": 17.364,
-    "population": 73141,
-    "capital": false
-   },
-   {
-    "wikidata": "Q3112862",
-    "name": "Goz Beïda",
-    "lat": 12.224,
-    "lon": 21.414,
-    "population": 66107,
-    "capital": false
-   },
-   {
-    "wikidata": "Q3071111",
-    "name": "Fianga",
-    "lat": 9.915,
-    "lon": 15.137,
-    "population": 42606,
-    "capital": false
-   },
-   {
-    "wikidata": "Q1774419",
-    "name": "Pala",
-    "lat": 9.364,
-    "lon": 14.91,
-    "population": 40202,
-    "capital": false
-   },
-   {
-    "wikidata": "Q1070175",
-    "name": "Koumra",
-    "lat": 8.918,
-    "lon": 17.548,
-    "population": 39852,
-    "capital": false
-   },
-   {
-    "wikidata": "Q451529",
-    "name": "Am Timan",
-    "lat": 11.033,
-    "lon": 20.283,
-    "population": 38261,
     "capital": false
    }
   ],
@@ -5721,6 +5753,16 @@
     "capital": false
    }
   ],
+  "ATG": [
+   {
+    "wikidata": "Q36262",
+    "name": "St. John's",
+    "lat": 17.121,
+    "lon": -61.845,
+    "population": 21394,
+    "capital": true
+   }
+  ],
   "HND": [
    {
     "wikidata": "Q3238",
@@ -5806,7 +5848,7 @@
   "EGY": [
    {
     "wikidata": "Q85",
-    "name": "Cairo",
+    "name": "القاهرة",
     "lat": 30.044,
     "lon": 31.236,
     "population": 9801536,
@@ -6068,7 +6110,7 @@
    },
    {
     "wikidata": "Q2844",
-    "name": "Brasília",
+    "name": "Brasilia",
     "lat": -15.794,
     "lon": -47.883,
     "population": 2996899,
@@ -6142,7 +6184,7 @@
    },
    {
     "wikidata": "Q656",
-    "name": "Saint Petersburg",
+    "name": "Санкт-Петербург",
     "lat": 59.95,
     "lon": 30.317,
     "population": 5652922,
@@ -6240,7 +6282,7 @@
    },
    {
     "wikidata": "Q365",
-    "name": "Cologne",
+    "name": "Köln",
     "lat": 50.942,
     "lon": 6.958,
     "population": 1025523,
@@ -6322,7 +6364,7 @@
    },
    {
     "wikidata": "Q102217",
-    "name": "Vitebsk",
+    "name": "Viciebsk",
     "lat": 55.183,
     "lon": 30.167,
     "population": 357899,
@@ -6330,7 +6372,7 @@
    },
    {
     "wikidata": "Q154835",
-    "name": "Mahilyow",
+    "name": "Магілёў",
     "lat": 53.909,
     "lon": 30.343,
     "population": 352891,
@@ -6346,7 +6388,7 @@
    },
    {
     "wikidata": "Q207294",
-    "name": "Babruysk",
+    "name": "Бабруйск",
     "lat": 53.15,
     "lon": 29.233,
     "population": 204103,
@@ -6354,7 +6396,7 @@
    },
    {
     "wikidata": "Q237655",
-    "name": "Baranavichy",
+    "name": "Баранавічы",
     "lat": 53.133,
     "lon": 26.018,
     "population": 170039,
@@ -6362,7 +6404,7 @@
    },
    {
     "wikidata": "Q19313",
-    "name": "Barysaw",
+    "name": "Barysaŭ",
     "lat": 54.224,
     "lon": 28.512,
     "population": 133700,
@@ -6542,7 +6584,7 @@
    },
    {
     "wikidata": "Q82500",
-    "name": "St. Pölten",
+    "name": "Sankt Pölten",
     "lat": 48.2,
     "lon": 15.617,
     "population": 55514,
@@ -6792,7 +6834,7 @@
    },
    {
     "wikidata": "Q173310",
-    "name": "Kirkuk",
+    "name": "كركوك",
     "lat": 35.467,
     "lon": 44.4,
     "population": 975000,
@@ -6832,7 +6874,7 @@
    },
    {
     "wikidata": "Q199909",
-    "name": "Karbala",
+    "name": "Karbalāʾ",
     "lat": 32.617,
     "lon": 44.033,
     "population": 690100,
@@ -7055,6 +7097,88 @@
     "capital": false
    }
   ],
+  "KEN": [
+   {
+    "wikidata": "Q3870",
+    "name": "Nairobi",
+    "lat": -1.286,
+    "lon": 36.817,
+    "population": 5545000,
+    "capital": true
+   },
+   {
+    "wikidata": "Q225641",
+    "name": "Mombasa",
+    "lat": -4.05,
+    "lon": 39.667,
+    "population": 1208333,
+    "capital": false
+   },
+   {
+    "wikidata": "Q214485",
+    "name": "Kisumu",
+    "lat": -0.1,
+    "lon": 34.75,
+    "population": 397957,
+    "capital": false
+   },
+   {
+    "wikidata": "Q239421",
+    "name": "Nakuru",
+    "lat": -0.283,
+    "lon": 36.067,
+    "population": 307990,
+    "capital": false
+   },
+   {
+    "wikidata": "Q322149",
+    "name": "Eldoret",
+    "lat": 0.517,
+    "lon": 35.283,
+    "population": 289380,
+    "capital": false
+   },
+   {
+    "wikidata": "Q523000",
+    "name": "Kitale",
+    "lat": 1.017,
+    "lon": 35,
+    "population": 162169,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1009199",
+    "name": "Kilifi",
+    "lat": -3.633,
+    "lon": 39.85,
+    "population": 122899,
+    "capital": false
+   },
+   {
+    "wikidata": "Q693093",
+    "name": "Machakos",
+    "lat": -1.517,
+    "lon": 37.267,
+    "population": 114109,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1007719",
+    "name": "Kisii",
+    "lat": -0.67,
+    "lon": 34.767,
+    "population": 112417,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1020110",
+    "name": "Mumias",
+    "lat": 0.333,
+    "lon": 34.483,
+    "population": 99987,
+    "capital": false
+   }
+  ],
   "UGA": [
    {
     "wikidata": "Q3894",
@@ -7161,88 +7285,6 @@
     "lon": 31.133,
     "population": 76218,
     "capital": true
-   }
-  ],
-  "KEN": [
-   {
-    "wikidata": "Q3870",
-    "name": "Nairobi",
-    "lat": -1.286,
-    "lon": 36.817,
-    "population": 5545000,
-    "capital": true
-   },
-   {
-    "wikidata": "Q225641",
-    "name": "Mombasa",
-    "lat": -4.05,
-    "lon": 39.667,
-    "population": 1208333,
-    "capital": false
-   },
-   {
-    "wikidata": "Q214485",
-    "name": "Kisumu",
-    "lat": -0.1,
-    "lon": 34.75,
-    "population": 397957,
-    "capital": false
-   },
-   {
-    "wikidata": "Q322149",
-    "name": "Eldoret",
-    "lat": 0.517,
-    "lon": 35.283,
-    "population": 289380,
-    "capital": false
-   },
-   {
-    "wikidata": "Q523000",
-    "name": "Kitale",
-    "lat": 1.017,
-    "lon": 35,
-    "population": 162169,
-    "capital": false
-   },
-   {
-    "wikidata": "Q1009199",
-    "name": "Kilifi",
-    "lat": -3.633,
-    "lon": 39.85,
-    "population": 122899,
-    "capital": false
-   },
-   {
-    "wikidata": "Q693093",
-    "name": "Machakos",
-    "lat": -1.517,
-    "lon": 37.267,
-    "population": 114109,
-    "capital": false
-   },
-   {
-    "wikidata": "Q1007719",
-    "name": "Kisii",
-    "lat": -0.67,
-    "lon": 34.767,
-    "population": 112417,
-    "capital": false
-   },
-   {
-    "wikidata": "Q1020110",
-    "name": "Mumias",
-    "lat": 0.333,
-    "lon": 34.483,
-    "population": 99987,
-    "capital": false
-   },
-   {
-    "wikidata": "Q302912",
-    "name": "Kakamega",
-    "lat": 0.283,
-    "lon": 34.75,
-    "population": 91778,
-    "capital": false
    }
   ],
   "IRN": [
@@ -7412,7 +7454,7 @@
    },
    {
     "wikidata": "Q33935",
-    "name": "Tel Aviv",
+    "name": "תל אביב-יפו",
     "lat": 32.08,
     "lon": 34.78,
     "population": 467875,
@@ -7436,7 +7478,7 @@
    },
    {
     "wikidata": "Q190828",
-    "name": "Petah Tikva",
+    "name": "פתח תקווה",
     "lat": 32.083,
     "lon": 34.883,
     "population": 236169,
@@ -7756,7 +7798,7 @@
    },
    {
     "wikidata": "Q160173",
-    "name": "Ruse",
+    "name": "Русе",
     "lat": 43.845,
     "lon": 25.954,
     "population": 120282,
@@ -7896,7 +7938,7 @@
    },
    {
     "wikidata": "Q1019431",
-    "name": "M'Bour",
+    "name": "Mbour",
     "lat": 14.41,
     "lon": -16.965,
     "population": 284189,
@@ -8678,7 +8720,7 @@
    },
    {
     "wikidata": "Q25475",
-    "name": "Batumi",
+    "name": "ბათუმი",
     "lat": 41.646,
     "lon": 41.642,
     "population": 235668,
@@ -8710,7 +8752,7 @@
    },
    {
     "wikidata": "Q19583",
-    "name": "Gori",
+    "name": "გორი",
     "lat": 41.982,
     "lon": 44.112,
     "population": 44524,
@@ -8760,7 +8802,7 @@
    },
    {
     "wikidata": "Q485496",
-    "name": "Shymkent",
+    "name": "Шымкент",
     "lat": 42.3,
     "lon": 69.6,
     "population": 1191877,
@@ -9080,7 +9122,7 @@
   "GRD": [
    {
     "wikidata": "Q41547",
-    "name": "St. George's",
+    "name": "Saint George's, Grenada",
     "lat": 12.053,
     "lon": -61.753,
     "population": 33734,
@@ -9262,7 +9304,7 @@
    },
    {
     "wikidata": "Q750443",
-    "name": "Kaysone Phomvihane",
+    "name": "Savannakhet",
     "lat": 16.55,
     "lon": 104.75,
     "population": 124000,
@@ -9404,7 +9446,7 @@
    },
    {
     "wikidata": "Q244154",
-    "name": "Holguin",
+    "name": "Holguín",
     "lat": 20.887,
     "lon": -76.263,
     "population": 350191,
@@ -9512,7 +9554,7 @@
    },
    {
     "wikidata": "Q126148",
-    "name": "Tangier",
+    "name": "Tanger",
     "lat": 35.769,
     "lon": -5.804,
     "population": 1275428,
@@ -9923,6 +9965,32 @@
     "capital": false
    }
   ],
+  "BLZ": [
+   {
+    "wikidata": "Q108223",
+    "name": "Belize City",
+    "lat": 17.499,
+    "lon": -88.189,
+    "population": 63999,
+    "capital": false
+   },
+   {
+    "wikidata": "Q724815",
+    "name": "San Ignacio",
+    "lat": 17.159,
+    "lon": -89.07,
+    "population": 26151,
+    "capital": false
+   },
+   {
+    "wikidata": "Q3043",
+    "name": "Belmopan",
+    "lat": 17.25,
+    "lon": -88.767,
+    "population": 20754,
+    "capital": true
+   }
+  ],
   "BHS": [
    {
     "wikidata": "Q2467",
@@ -10237,30 +10305,54 @@
     "capital": false
    }
   ],
-  "BLZ": [
+  "HRV": [
    {
-    "wikidata": "Q108223",
-    "name": "Belize City",
-    "lat": 17.499,
-    "lon": -88.189,
-    "population": 63999,
-    "capital": false
-   },
-   {
-    "wikidata": "Q724815",
-    "name": "San Ignacio",
-    "lat": 17.159,
-    "lon": -89.07,
-    "population": 26151,
-    "capital": false
-   },
-   {
-    "wikidata": "Q3043",
-    "name": "Belmopan",
-    "lat": 17.25,
-    "lon": -88.767,
-    "population": 20754,
+    "wikidata": "Q1435",
+    "name": "Zagreb",
+    "lat": 45.813,
+    "lon": 15.977,
+    "population": 767131,
     "capital": true
+   },
+   {
+    "wikidata": "Q1663",
+    "name": "Split",
+    "lat": 43.51,
+    "lon": 16.44,
+    "population": 160577,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1647",
+    "name": "Rijeka",
+    "lat": 45.333,
+    "lon": 14.433,
+    "population": 107964,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1640",
+    "name": "Osijek",
+    "lat": 45.56,
+    "lon": 18.67,
+    "population": 96313,
+    "capital": false
+   },
+   {
+    "wikidata": "Q3370",
+    "name": "Zadar",
+    "lat": 44.114,
+    "lon": 15.227,
+    "population": 70779,
+    "capital": false
+   },
+   {
+    "wikidata": "Q5867",
+    "name": "Vukovar",
+    "lat": 45.35,
+    "lon": 19.003,
+    "population": 23175,
+    "capital": false
    }
   ],
   "HTI": [
@@ -10337,6 +10429,72 @@
     "capital": false
    }
   ],
+  "MWI": [
+   {
+    "wikidata": "Q3876",
+    "name": "Lilongwe",
+    "lat": -13.986,
+    "lon": 33.768,
+    "population": 989318,
+    "capital": true
+   },
+   {
+    "wikidata": "Q188693",
+    "name": "Blantyre",
+    "lat": -15.786,
+    "lon": 35.006,
+    "population": 800264,
+    "capital": false
+   },
+   {
+    "wikidata": "Q502216",
+    "name": "Mzuzu",
+    "lat": -11.45,
+    "lon": 34.033,
+    "population": 150100,
+    "capital": false
+   },
+   {
+    "wikidata": "Q219117",
+    "name": "Zomba",
+    "lat": -15.386,
+    "lon": 35.319,
+    "population": 101140,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1890257",
+    "name": "Mangochi",
+    "lat": -14.472,
+    "lon": 35.264,
+    "population": 51429,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1377361",
+    "name": "Liwonde",
+    "lat": -15.067,
+    "lon": 35.233,
+    "population": 36421,
+    "capital": false
+   },
+   {
+    "wikidata": "Q804607",
+    "name": "Balaka Township",
+    "lat": -14.983,
+    "lon": 34.959,
+    "population": 24000,
+    "capital": false
+   },
+   {
+    "wikidata": "Q1865092",
+    "name": "Mulanje",
+    "lat": -16.032,
+    "lon": 35.5,
+    "population": 20870,
+    "capital": false
+   }
+  ],
   "EST": [
    {
     "wikidata": "Q1770",
@@ -10350,93 +10508,11 @@
   "LVA": [
    {
     "wikidata": "Q1773",
-    "name": "Riga",
+    "name": "Rīga",
     "lat": 56.947,
     "lon": 24.107,
     "population": 588911,
     "capital": true
-   }
-  ],
-  "UKR": [
-   {
-    "wikidata": "Q48256",
-    "name": "Dnipro",
-    "lat": 48.468,
-    "lon": 35.04,
-    "population": 968502,
-    "capital": false
-   },
-   {
-    "wikidata": "Q43070",
-    "name": "Donetsk",
-    "lat": 48.016,
-    "lon": 37.803,
-    "population": 901645,
-    "capital": false
-   },
-   {
-    "wikidata": "Q36036",
-    "name": "Lviv",
-    "lat": 49.842,
-    "lon": 24.032,
-    "population": 717273,
-    "capital": false
-   },
-   {
-    "wikidata": "Q157835",
-    "name": "Zaporizhzhia",
-    "lat": 47.85,
-    "lon": 35.117,
-    "population": 710052,
-    "capital": false
-   },
-   {
-    "wikidata": "Q157137",
-    "name": "Kryvyi Rih",
-    "lat": 47.91,
-    "lon": 33.39,
-    "population": 603904,
-    "capital": false
-   },
-   {
-    "wikidata": "Q7525",
-    "name": "Sevastopol",
-    "lat": 44.605,
-    "lon": 33.523,
-    "population": 485386,
-    "capital": false
-   },
-   {
-    "wikidata": "Q157144",
-    "name": "Vinnytsia",
-    "lat": 49.237,
-    "lon": 28.467,
-    "population": 369739,
-    "capital": false
-   },
-   {
-    "wikidata": "Q19566",
-    "name": "Simferopol",
-    "lat": 44.948,
-    "lon": 34.1,
-    "population": 335009,
-    "capital": false
-   },
-   {
-    "wikidata": "Q157725",
-    "name": "Chernivtsi",
-    "lat": 48.291,
-    "lon": 25.934,
-    "population": 265471,
-    "capital": false
-   },
-   {
-    "wikidata": "Q156726",
-    "name": "Ivano-Frankivsk",
-    "lat": 48.923,
-    "lon": 24.711,
-    "population": 238196,
-    "capital": false
    }
   ],
   "ALB": [
@@ -10450,7 +10526,7 @@
    },
    {
     "wikidata": "Q83285",
-    "name": "Durrës",
+    "name": "Durrësi",
     "lat": 41.313,
     "lon": 19.446,
     "population": 101728,
@@ -10521,119 +10597,85 @@
     "capital": false
    }
   ],
-  "MWI": [
+  "UKR": [
    {
-    "wikidata": "Q3876",
-    "name": "Lilongwe",
-    "lat": -13.986,
-    "lon": 33.768,
-    "population": 989318,
-    "capital": true
-   },
-   {
-    "wikidata": "Q188693",
-    "name": "Blantyre",
-    "lat": -15.786,
-    "lon": 35.006,
-    "population": 800264,
+    "wikidata": "Q48256",
+    "name": "Дніпро",
+    "lat": 48.468,
+    "lon": 35.04,
+    "population": 968502,
     "capital": false
    },
    {
-    "wikidata": "Q502216",
-    "name": "Mzuzu",
-    "lat": -11.45,
-    "lon": 34.033,
-    "population": 150100,
+    "wikidata": "Q43070",
+    "name": "Donetsk",
+    "lat": 48.016,
+    "lon": 37.803,
+    "population": 901645,
     "capital": false
    },
    {
-    "wikidata": "Q219117",
-    "name": "Zomba",
-    "lat": -15.386,
-    "lon": 35.319,
-    "population": 101140,
+    "wikidata": "Q36036",
+    "name": "Львів",
+    "lat": 49.842,
+    "lon": 24.032,
+    "population": 717273,
     "capital": false
    },
    {
-    "wikidata": "Q1890257",
-    "name": "Mangochi",
-    "lat": -14.472,
-    "lon": 35.264,
-    "population": 51429,
+    "wikidata": "Q157835",
+    "name": "Запоріжжя",
+    "lat": 47.85,
+    "lon": 35.117,
+    "population": 710052,
     "capital": false
    },
    {
-    "wikidata": "Q1377361",
-    "name": "Liwonde",
-    "lat": -15.067,
-    "lon": 35.233,
-    "population": 36421,
+    "wikidata": "Q157137",
+    "name": "Kryvyi Rih",
+    "lat": 47.91,
+    "lon": 33.39,
+    "population": 603904,
     "capital": false
    },
    {
-    "wikidata": "Q804607",
-    "name": "Balaka Township",
-    "lat": -14.983,
-    "lon": 34.959,
-    "population": 24000,
+    "wikidata": "Q7525",
+    "name": "Севастополь",
+    "lat": 44.605,
+    "lon": 33.523,
+    "population": 485386,
     "capital": false
    },
    {
-    "wikidata": "Q1865092",
-    "name": "Mulanje",
-    "lat": -16.032,
-    "lon": 35.5,
-    "population": 20870,
-    "capital": false
-   }
-  ],
-  "HRV": [
-   {
-    "wikidata": "Q1435",
-    "name": "Zagreb",
-    "lat": 45.813,
-    "lon": 15.977,
-    "population": 767131,
-    "capital": true
-   },
-   {
-    "wikidata": "Q1663",
-    "name": "Split",
-    "lat": 43.51,
-    "lon": 16.44,
-    "population": 160577,
+    "wikidata": "Q157144",
+    "name": "Vinnytsia",
+    "lat": 49.237,
+    "lon": 28.467,
+    "population": 369739,
     "capital": false
    },
    {
-    "wikidata": "Q1647",
-    "name": "Rijeka",
-    "lat": 45.333,
-    "lon": 14.433,
-    "population": 107964,
+    "wikidata": "Q19566",
+    "name": "Сімферополь",
+    "lat": 44.948,
+    "lon": 34.1,
+    "population": 335009,
     "capital": false
    },
    {
-    "wikidata": "Q1640",
-    "name": "Osijek",
-    "lat": 45.56,
-    "lon": 18.67,
-    "population": 96313,
+    "wikidata": "Q157725",
+    "name": "Chernivtsi",
+    "lat": 48.291,
+    "lon": 25.934,
+    "population": 265471,
     "capital": false
    },
    {
-    "wikidata": "Q3370",
-    "name": "Zadar",
-    "lat": 44.114,
-    "lon": 15.227,
-    "population": 70779,
-    "capital": false
-   },
-   {
-    "wikidata": "Q5867",
-    "name": "Vukovar",
-    "lat": 45.35,
-    "lon": 19.003,
-    "population": 23175,
+    "wikidata": "Q156726",
+    "name": "Ivano-Frankivsk",
+    "lat": 48.923,
+    "lon": 24.711,
+    "population": 238196,
     "capital": false
    }
   ],
@@ -10763,8 +10805,8 @@
    {
     "wikidata": "Q864100",
     "name": "Katima Mulilo",
-    "lat": -17.504,
-    "lon": 24.275,
+    "lat": -17.5,
+    "lon": 24.267,
     "population": 46401,
     "capital": false
    },
@@ -10931,16 +10973,6 @@
     "capital": true
    }
   ],
-  "SYC": [
-   {
-    "wikidata": "Q3940",
-    "name": "Victoria",
-    "lat": -4.624,
-    "lon": 55.454,
-    "population": 24701,
-    "capital": true
-   }
-  ],
   "SLE": [
    {
     "wikidata": "Q3780",
@@ -10981,6 +11013,16 @@
     "lon": -12.783,
     "population": 44900,
     "capital": false
+   }
+  ],
+  "SYC": [
+   {
+    "wikidata": "Q3940",
+    "name": "Victoria",
+    "lat": -4.624,
+    "lon": 55.454,
+    "population": 24701,
+    "capital": true
    }
   ],
   "PSE": [

@@ -175,7 +175,9 @@ if (usStates) {
   for (const [fips, st] of Object.entries(usStates)) {
     if (Number(fips) > 56) continue; // territories (Puerto Rico, Guam, …) come later
     const cities = [];
-    for (const c of [...st.cities].sort((a, b) => b.population - a.population)) {
+    const stateExclusions = load('data/city-corrections.json')?.usStatesExclude?.[fips] ?? [];
+    // Metro areas named after two cities use an en dash ('El Paso–Juárez'); real hyphenated cities use a hyphen.
+    for (const c of [...st.cities].filter((x) => !x.name.includes('–') && !stateExclusions.includes(x.name)).sort((a, b) => b.population - a.population)) {
       if (cities.some((k) => k.n === c.name || near(k, c, 0.2))) continue; // duplicates, boroughs, neighbourhoods
       cities.push({ n: c.name, lat: c.lat, lon: c.lon, p: c.population });
     }
@@ -186,7 +188,7 @@ if (usStates) {
     };
   }
   // The handful of cities shown on the national map.
-  const HIGHLIGHTS = [['11', 'Washington, D.C.'], ['36', 'New York City'], ['06', 'Los Angeles'], ['17', 'Chicago'], ['12', 'Miami']];
+  const HIGHLIGHTS = [['11', 'Washington, D.C.'], ['36', 'New York City'], ['06', 'Los Angeles'], ['17', 'Chicago'], ['12', 'Miami'], ['53', 'Seattle'], ['32', 'Las Vegas'], ['48', 'Houston']];
   const highlights = HIGHLIGHTS.map(([fips, name]) => {
     const c = states[fips]?.cities.find((x) => x.n === name) ?? (states[fips]?.capital?.n === name ? states[fips].capital : null);
     return c ? { n: name, lat: c.lat, lon: c.lon, ...(fips === '11' ? { c: 1 } : {}) } : null;
