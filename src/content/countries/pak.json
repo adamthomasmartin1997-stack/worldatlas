@@ -6,5 +6,46 @@
   ],
   "geography": {
     "text": "Northern Pakistan has some of the highest mountains on Earth, where the Himalayas, the Karakoram and the Hindu Kush meet; K2, the world's second-highest peak, is on its border with China. The Indus river flows south through the fertile plains of Punjab and Sindh to the Arabian Sea. The west has dry plateaus and mountains, and the south-east includes part of the Thar Desert."
+  },
+  "history": {
+    "text": "The Indus Valley civilisation flourished in what is now Pakistan more than 4,000 years ago, at cities such as Mohenjo-daro. The region later formed part of the Mughal Empire and British India. Pakistan was created in 1947 under Muhammad Ali Jinnah, and East Pakistan broke away as Bangladesh in 1971. Pakistan has fought several wars with India, mainly over Kashmir, and both countries have nuclear weapons.",
+    "events": [
+      {
+        "year": "2500 BC",
+        "title": "Mohenjo-daro",
+        "text": "One of the world's first great cities flourishes on the Indus."
+      },
+      {
+        "year": "1947",
+        "title": "Pakistan created",
+        "text": "Pakistan becomes independent at the partition of British India.",
+        "related": [
+          "IND",
+          "GBR"
+        ]
+      },
+      {
+        "year": "1971",
+        "title": "Bangladesh breaks away",
+        "text": "East Pakistan becomes Bangladesh after a war.",
+        "related": [
+          "BGD",
+          "IND"
+        ]
+      },
+      {
+        "year": "1998",
+        "title": "Nuclear tests",
+        "text": "Pakistan tests nuclear weapons weeks after India.",
+        "related": [
+          "IND"
+        ]
+      },
+      {
+        "year": "2014",
+        "title": "Malala's Nobel",
+        "text": "Malala Yousafzai becomes the youngest Nobel Peace Prize winner."
+      }
+    ]
   }
 }

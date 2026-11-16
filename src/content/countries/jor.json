@@ -6,5 +6,48 @@
   ],
   "geography": {
     "text": "Most of Jordan is desert, including the dramatic valley of Wadi Rum in the south. In the west, the Jordan Rift Valley runs down to the Dead Sea, the lowest point on land. Jordan's only coast is a short stretch on the Gulf of Aqaba, an arm of the Red Sea."
+  },
+  "history": {
+    "text": "Jordan's history includes the Nabataeans, who carved the city of Petra, and Roman cities such as Jerash. After Ottoman rule, Britain created the Emirate of Transjordan in 1921, which became independent as the Hashemite Kingdom of Jordan in 1946. Jordan has taken in many refugees from conflicts in neighbouring countries and made peace with Israel in 1994.",
+    "events": [
+      {
+        "year": "300s BC",
+        "title": "Petra",
+        "text": "The Nabataeans make Petra their capital."
+      },
+      {
+        "year": "1921",
+        "title": "Transjordan",
+        "text": "Britain creates the Emirate of Transjordan.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1946",
+        "title": "Independence",
+        "text": "Jordan becomes an independent kingdom.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1967",
+        "title": "West Bank lost",
+        "text": "Israel takes the West Bank in the Six-Day War.",
+        "related": [
+          "ISR",
+          "PSE"
+        ]
+      },
+      {
+        "year": "1994",
+        "title": "Peace with Israel",
+        "text": "Jordan and Israel sign a peace treaty.",
+        "related": [
+          "ISR"
+        ]
+      }
+    ]
   }
 }

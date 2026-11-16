@@ -6,5 +6,46 @@
   ],
   "geography": {
     "text": "Laos is mostly mountainous and covered in forest. The Mekong river runs through much of the country and forms a long stretch of the border with Thailand. In the far south it spreads out among the 'Four Thousand Islands' and plunges over the Khone Falls. The Plain of Jars in the north is scattered with large ancient stone jars."
+  },
+  "history": {
+    "text": "The kingdom of Lan Xang, the 'land of a million elephants', was founded in 1353. Laos later came under Siamese control and then became part of French Indochina. It became independent in 1953. During the Vietnam War, the United States dropped more bombs on Laos than it dropped on Germany and Japan together in the Second World War, and the communist Pathet Lao took power in 1975.",
+    "events": [
+      {
+        "year": "1353",
+        "title": "Lan Xang",
+        "text": "Fa Ngum founds the kingdom of Lan Xang."
+      },
+      {
+        "year": "1893",
+        "title": "French rule",
+        "text": "Laos becomes part of French Indochina.",
+        "related": [
+          "FRA",
+          "THA"
+        ]
+      },
+      {
+        "year": "1953",
+        "title": "Independence",
+        "text": "Laos becomes independent.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1964",
+        "title": "Secret bombing",
+        "text": "A US bombing campaign begins that lasts nine years.",
+        "related": [
+          "USA",
+          "VNM"
+        ]
+      },
+      {
+        "year": "1975",
+        "title": "Communist state",
+        "text": "The Pathet Lao take power."
+      }
+    ]
   }
 }

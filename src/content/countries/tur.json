@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Most of Türkiye is the Anatolian peninsula, a high central plateau ringed by mountains. It has coasts on four seas: the Black Sea, the Mediterranean, the Aegean and the Sea of Marmara. In the east are high mountains, including Mount Ararat, the country's highest peak, and the sources of the Tigris and Euphrates rivers. Earthquakes are common."
+  },
+  "history": {
+    "text": "Anatolia was home to some of the world's earliest settlements and to empires such as the Hittites and the Byzantines. In 1453 the Ottomans captured Constantinople, now Istanbul, and their empire ruled much of south-eastern Europe, the Middle East and North Africa for centuries. After its defeat in the First World War, Mustafa Kemal Atatürk founded the modern Republic of Türkiye in 1923.",
+    "events": [
+      {
+        "year": "7000s BC",
+        "title": "Çatalhöyük",
+        "text": "One of the world's earliest large settlements grows on the Anatolian plain."
+      },
+      {
+        "year": "1453",
+        "title": "Constantinople captured",
+        "text": "Sultan Mehmed II takes the Byzantine capital.",
+        "related": [
+          "GRC"
+        ]
+      },
+      {
+        "year": "1529",
+        "title": "Siege of Vienna",
+        "text": "The Ottoman advance into Europe is halted at Vienna.",
+        "related": [
+          "AUT"
+        ]
+      },
+      {
+        "year": "1923",
+        "title": "Republic",
+        "text": "Atatürk founds the Republic of Türkiye."
+      },
+      {
+        "year": "2023",
+        "title": "Earthquakes",
+        "text": "Two huge earthquakes kill more than 50,000 people in Türkiye and Syria.",
+        "related": [
+          "SYR"
+        ]
+      }
+    ]
   }
 }

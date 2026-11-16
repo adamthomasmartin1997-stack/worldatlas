@@ -6,5 +6,56 @@
   ],
   "geography": {
     "text": "The West Bank lies west of the Jordan River. It is mostly hilly, with the Jordan Valley and the shore of the Dead Sea along its eastern edge. The Gaza Strip is a small, flat and very densely populated strip of land on the Mediterranean coast, bordering Israel and Egypt."
+  },
+  "history": {
+    "text": "The region has been home to many peoples and ruled by many empires over thousands of years. After Ottoman rule, Britain governed Palestine from 1920 to 1948. In the war of 1948 around 700,000 Palestinians fled or were expelled, an event Palestinians call the Nakba. Israel occupied the West Bank, East Jerusalem and Gaza in 1967. The Oslo Accords of the 1990s created the Palestinian Authority, but an independent Palestinian state has not been achieved.",
+    "events": [
+      {
+        "year": "1920",
+        "title": "British mandate",
+        "text": "Britain begins governing Palestine.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1948",
+        "title": "The Nakba",
+        "text": "Around 700,000 Palestinians flee or are expelled.",
+        "related": [
+          "ISR"
+        ]
+      },
+      {
+        "year": "1967",
+        "title": "Occupation",
+        "text": "Israel occupies the West Bank, East Jerusalem and Gaza.",
+        "related": [
+          "ISR"
+        ]
+      },
+      {
+        "year": "1993",
+        "title": "Oslo Accords",
+        "text": "Israel and the PLO recognise each other.",
+        "related": [
+          "ISR",
+          "NOR"
+        ]
+      },
+      {
+        "year": "2012",
+        "title": "UN observer state",
+        "text": "The UN General Assembly recognises Palestine as a non-member observer state."
+      },
+      {
+        "year": "2023",
+        "title": "War in Gaza",
+        "text": "War devastates the Gaza Strip.",
+        "related": [
+          "ISR"
+        ]
+      }
+    ]
   }
 }

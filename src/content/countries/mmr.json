@@ -6,5 +6,46 @@
   ],
   "geography": {
     "text": "Myanmar is shaped by mountains that run from north to south, with the Himalayas reaching into the far north. The Irrawaddy river flows down the middle of the country to a large delta on the Andaman Sea, where much of its rice is grown. A long, narrow strip of the country runs south along the coast towards Thailand."
+  },
+  "history": {
+    "text": "From the 1000s the kingdom of Bagan built thousands of Buddhist temples on the plains of central Myanmar. Britain conquered the country in three wars in the 1800s and ruled it as part of British India. Burma became independent in 1948. The military ruled for most of the time after 1962, and after a short period of civilian government it seized power again in 2021.",
+    "events": [
+      {
+        "year": "1044",
+        "title": "Bagan kingdom",
+        "text": "King Anawrahta founds the first Burmese empire."
+      },
+      {
+        "year": "1885",
+        "title": "British conquest",
+        "text": "Britain completes its conquest of Burma.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1948",
+        "title": "Independence",
+        "text": "Burma becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1962",
+        "title": "Military rule",
+        "text": "The army seizes power."
+      },
+      {
+        "year": "1991",
+        "title": "Nobel Peace Prize",
+        "text": "Aung San Suu Kyi wins the prize while under house arrest."
+      },
+      {
+        "year": "2021",
+        "title": "Coup",
+        "text": "The military overthrows the elected government."
+      }
+    ]
   }
 }

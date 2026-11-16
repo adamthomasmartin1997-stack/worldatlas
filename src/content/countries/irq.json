@@ -6,5 +6,50 @@
   ],
   "geography": {
     "text": "The Tigris and Euphrates flow from the north-west to the south-east and join before reaching the Persian Gulf along Iraq's short coastline. The land between them is fertile, while the west is desert. The north-east rises into the Zagros mountains, and the marshes of the south are among the largest wetlands in the Middle East."
+  },
+  "history": {
+    "text": "In ancient Mesopotamia the Sumerians built some of the first cities and invented writing, and later Babylon became a great capital. Baghdad was the centre of the Islamic world under the Abbasid caliphs. After Ottoman and British rule, Iraq became independent in 1932. Saddam Hussein ruled from 1979 until a US-led invasion in 2003, which was followed by years of conflict.",
+    "events": [
+      {
+        "year": "3200 BC",
+        "title": "Writing invented",
+        "text": "Sumerians develop cuneiform, one of the first writing systems."
+      },
+      {
+        "year": "1754 BC",
+        "title": "Hammurabi's laws",
+        "text": "The king of Babylon sets out one of the earliest written law codes."
+      },
+      {
+        "year": "762",
+        "title": "Baghdad founded",
+        "text": "The Abbasid caliph founds Baghdad, which becomes a centre of learning."
+      },
+      {
+        "year": "1932",
+        "title": "Independence",
+        "text": "Iraq becomes independent from British rule.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1980",
+        "title": "Iran–Iraq War",
+        "text": "Iraq invades Iran.",
+        "related": [
+          "IRN"
+        ]
+      },
+      {
+        "year": "2003",
+        "title": "US-led invasion",
+        "text": "Saddam Hussein is overthrown.",
+        "related": [
+          "USA",
+          "GBR"
+        ]
+      }
+    ]
   }
 }

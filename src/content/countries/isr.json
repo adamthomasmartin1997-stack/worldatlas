@@ -6,5 +6,64 @@
   ],
   "geography": {
     "text": "Israel is small but varied. A fertile coastal plain runs along the Mediterranean, hills rise inland, and the Jordan Rift Valley runs down the east, containing the Sea of Galilee and the Dead Sea, the lowest place on land on Earth. The south is the Negev desert, which reaches the Red Sea at Eilat."
+  },
+  "history": {
+    "text": "The land has a long history for Jewish, Christian and Muslim peoples. After the Ottoman Empire, Britain ruled Palestine from 1920. In 1948 Israel declared independence; in the war that followed, around 700,000 Palestinians fled or were driven from their homes. Israel has fought several wars with its neighbours, made peace with Egypt in 1979 and Jordan in 1994, and its conflict with the Palestinians continues.",
+    "events": [
+      {
+        "year": "1917",
+        "title": "Balfour Declaration",
+        "text": "Britain supports a 'national home for the Jewish people' in Palestine.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1948",
+        "title": "Independence",
+        "text": "Israel declares independence; war with its Arab neighbours follows.",
+        "related": [
+          "PSE",
+          "EGY",
+          "JOR",
+          "SYR"
+        ]
+      },
+      {
+        "year": "1967",
+        "title": "Six-Day War",
+        "text": "Israel takes the West Bank, Gaza, Sinai and the Golan Heights.",
+        "related": [
+          "EGY",
+          "JOR",
+          "SYR",
+          "PSE"
+        ]
+      },
+      {
+        "year": "1979",
+        "title": "Peace with Egypt",
+        "text": "Israel and Egypt sign a peace treaty.",
+        "related": [
+          "EGY"
+        ]
+      },
+      {
+        "year": "1994",
+        "title": "Peace with Jordan",
+        "text": "Israel and Jordan sign a peace treaty.",
+        "related": [
+          "JOR"
+        ]
+      },
+      {
+        "year": "2023",
+        "title": "War in Gaza",
+        "text": "A Hamas attack on Israel is followed by a devastating war in Gaza.",
+        "related": [
+          "PSE"
+        ]
+      }
+    ]
   }
 }

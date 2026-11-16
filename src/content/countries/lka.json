@@ -6,5 +6,52 @@
   ],
   "geography": {
     "text": "Sri Lanka has a mountainous centre, where much of its tea is grown, surrounded by lowland plains and a coastline of beaches. Adam's Peak is a sacred mountain for several religions. The climate is tropical, with two monsoon seasons a year."
+  },
+  "history": {
+    "text": "Sri Lanka has a written history going back more than 2,000 years, with ancient capitals at Anuradhapura and Polonnaruwa. The Portuguese, Dutch and British ruled the coast in turn, and Britain controlled the whole island from 1815. As Ceylon it became independent in 1948, and it took the name Sri Lanka in 1972. A civil war between the government and the Tamil Tigers lasted from 1983 to 2009.",
+    "events": [
+      {
+        "year": "200s BC",
+        "title": "Buddhism arrives",
+        "text": "Buddhism reaches the island from India.",
+        "related": [
+          "IND"
+        ]
+      },
+      {
+        "year": "1505",
+        "title": "Portuguese arrive",
+        "text": "The Portuguese reach the island.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1815",
+        "title": "British rule",
+        "text": "Britain conquers the kingdom of Kandy and controls the whole island.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1948",
+        "title": "Independence",
+        "text": "Ceylon becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "2004",
+        "title": "Tsunami",
+        "text": "The Indian Ocean tsunami kills more than 30,000 people."
+      },
+      {
+        "year": "2009",
+        "title": "Civil war ends",
+        "text": "Government forces defeat the Tamil Tigers."
+      }
+    ]
   }
 }

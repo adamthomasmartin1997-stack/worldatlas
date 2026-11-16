@@ -6,5 +6,46 @@
   ],
   "geography": {
     "text": "Japan is made up of four main islands, Honshu, Hokkaido, Kyushu and Shikoku, and thousands of smaller ones. About three-quarters of the land is mountainous, so most people live on narrow coastal plains. Japan sits where several tectonic plates meet, so it has many volcanoes, including Mount Fuji, its highest peak, and frequent earthquakes."
+  },
+  "history": {
+    "text": "Japan was ruled for centuries by emperors and, in practice, by military leaders called shoguns. In 1868 the Meiji Restoration opened Japan to the world and began rapid modernisation. Japan built an empire across East Asia and fought in the Second World War, which ended after the atomic bombings of Hiroshima and Nagasaki in 1945. It then rebuilt into one of the world's largest economies.",
+    "events": [
+      {
+        "year": "1603",
+        "title": "Tokugawa shogunate",
+        "text": "Two and a half centuries of peace and isolation begin."
+      },
+      {
+        "year": "1868",
+        "title": "Meiji Restoration",
+        "text": "The emperor's power is restored and Japan modernises rapidly."
+      },
+      {
+        "year": "1905",
+        "title": "Victory over Russia",
+        "text": "Japan defeats Russia, shocking the European powers.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1945",
+        "title": "Atomic bombings",
+        "text": "Hiroshima and Nagasaki are destroyed and Japan surrenders.",
+        "related": [
+          "USA"
+        ]
+      },
+      {
+        "year": "1964",
+        "title": "Tokyo Olympics",
+        "text": "Japan hosts the Olympics and opens the first high-speed 'bullet train'."
+      },
+      {
+        "year": "2011",
+        "title": "Earthquake and tsunami",
+        "text": "A huge earthquake and tsunami cause a nuclear disaster at Fukushima."
+      }
+    ]
   }
 }

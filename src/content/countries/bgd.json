@@ -6,5 +6,50 @@
   ],
   "geography": {
     "text": "Most of Bangladesh lies on the delta of three great rivers, the Ganges, the Brahmaputra and the Meghna, and is very low and flat, so floods are common. The summer monsoon brings heavy rain. In the south-west, the Sundarbans, the largest mangrove forest in the world, which Bangladesh shares with India, is home to Bengal tigers, and the country has a long coast on the Bay of Bengal."
+  },
+  "history": {
+    "text": "Bengal was home to powerful kingdoms and later part of the Mughal Empire and British India. When British India was divided in 1947, East Bengal became East Pakistan. Anger at rule from West Pakistan led to the Liberation War of 1971, in which Bangladesh won independence. It has since become one of the world's largest clothing exporters.",
+    "events": [
+      {
+        "year": "1757",
+        "title": "Battle of Plassey",
+        "text": "Britain's East India Company takes control of Bengal.",
+        "related": [
+          "GBR",
+          "IND"
+        ]
+      },
+      {
+        "year": "1947",
+        "title": "Partition",
+        "text": "East Bengal becomes part of Pakistan.",
+        "related": [
+          "IND",
+          "PAK"
+        ]
+      },
+      {
+        "year": "1952",
+        "title": "Language Movement",
+        "text": "Students die protesting for Bengali to be an official language; the date is now International Mother Language Day.",
+        "related": [
+          "PAK"
+        ]
+      },
+      {
+        "year": "1971",
+        "title": "Independence",
+        "text": "Bangladesh wins its Liberation War.",
+        "related": [
+          "PAK",
+          "IND"
+        ]
+      },
+      {
+        "year": "2006",
+        "title": "Nobel Peace Prize",
+        "text": "Muhammad Yunus and the Grameen Bank win the prize for pioneering microcredit."
+      }
+    ]
   }
 }

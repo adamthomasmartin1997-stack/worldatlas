@@ -6,5 +6,54 @@
   ],
   "geography": {
     "text": "The Himalayas, the highest mountains on Earth, form India's northern border. South of them lie the wide plains of the Ganges and other great rivers, where many people live. The centre and south form the Deccan Plateau, edged by the Western and Eastern Ghats, and the peninsula is surrounded by the Arabian Sea, the Indian Ocean and the Bay of Bengal. The Thar Desert lies in the north-west, and the summer monsoon brings most of the year's rain."
+  },
+  "history": {
+    "text": "The Indus Valley civilisation was one of the world's earliest. Over thousands of years India saw great empires, including the Maurya, the Gupta and the Mughals. Britain gradually took control from the 1700s. Mahatma Gandhi led a largely non-violent independence movement, and in 1947 British India was divided into India and Pakistan, a partition that caused huge violence and migration.",
+    "events": [
+      {
+        "year": "2600 BC",
+        "title": "Indus cities",
+        "text": "Great planned cities such as Mohenjo-daro flourish.",
+        "related": [
+          "PAK"
+        ]
+      },
+      {
+        "year": "260 BC",
+        "title": "Emperor Ashoka",
+        "text": "The Maurya emperor turns to Buddhism after a bloody war."
+      },
+      {
+        "year": "1526",
+        "title": "Mughal Empire",
+        "text": "Babur founds the Mughal Empire.",
+        "related": [
+          "UZB",
+          "AFG"
+        ]
+      },
+      {
+        "year": "1857",
+        "title": "Indian Rebellion",
+        "text": "A major uprising against British rule; Britain then takes direct control.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1947",
+        "title": "Independence and partition",
+        "text": "India becomes independent and Pakistan is created.",
+        "related": [
+          "PAK",
+          "GBR"
+        ]
+      },
+      {
+        "year": "1950",
+        "title": "Republic",
+        "text": "India adopts its constitution and becomes a republic."
+      }
+    ]
   }
 }

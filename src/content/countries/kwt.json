@@ -6,5 +6,53 @@
   ],
   "geography": {
     "text": "Kuwait is flat, dry desert with extremely hot summers. Kuwait Bay cuts into its coast, and it has a few islands, the largest being Bubiyan. There are no rivers or lakes, and most of its fresh water comes from taking the salt out of seawater."
+  },
+  "history": {
+    "text": "Kuwait grew as a trading and pearl-diving port, ruled by the Al Sabah family since the 1700s. It became a British protectorate in 1899 and found oil in 1938. Kuwait became independent in 1961. In 1990 Iraq invaded and occupied it, until a US-led coalition drove Iraqi forces out in 1991.",
+    "events": [
+      {
+        "year": "1752",
+        "title": "Al Sabah rule",
+        "text": "The Al Sabah family begins ruling Kuwait."
+      },
+      {
+        "year": "1899",
+        "title": "British protection",
+        "text": "Kuwait signs a protection treaty with Britain.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1938",
+        "title": "Oil found",
+        "text": "Huge oil reserves are discovered."
+      },
+      {
+        "year": "1961",
+        "title": "Independence",
+        "text": "Kuwait becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1990",
+        "title": "Iraqi invasion",
+        "text": "Iraq invades and annexes Kuwait.",
+        "related": [
+          "IRQ"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Liberation",
+        "text": "A US-led coalition frees Kuwait.",
+        "related": [
+          "USA",
+          "IRQ"
+        ]
+      }
+    ]
   }
 }

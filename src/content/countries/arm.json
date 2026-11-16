@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Armenia is a mountainous country, and most of it lies more than 1,000 metres above sea level. Lake Sevan, one of the largest high-altitude freshwater lakes in the world, lies in the east. Mount Ararat, a national symbol that can be seen from Yerevan, stands just across the border in Türkiye."
+  },
+  "history": {
+    "text": "Armenia is one of the oldest nations in the world, and in 301 it became the first state to adopt Christianity. Its lands were later fought over by the Persian, Ottoman and Russian empires. During the First World War, between 600,000 and 1.5 million Armenians were killed in the genocide carried out by the Ottoman government. Armenia became independent in 1991.",
+    "events": [
+      {
+        "year": "301",
+        "title": "Christian kingdom",
+        "text": "Armenia becomes the first state to adopt Christianity."
+      },
+      {
+        "year": "405",
+        "title": "Armenian alphabet",
+        "text": "Mesrop Mashtots creates the Armenian alphabet."
+      },
+      {
+        "year": "1915",
+        "title": "Armenian Genocide",
+        "text": "The Ottoman government begins the mass killing and deportation of Armenians.",
+        "related": [
+          "TUR"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Independence",
+        "text": "Armenia becomes independent from the Soviet Union.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "2023",
+        "title": "Nagorno-Karabakh",
+        "text": "Azerbaijan takes full control of the region and its Armenian population flees.",
+        "related": [
+          "AZE"
+        ]
+      }
+    ]
   }
 }

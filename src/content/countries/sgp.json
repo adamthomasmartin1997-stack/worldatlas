@@ -6,5 +6,43 @@
   ],
   "geography": {
     "text": "Singapore is made up of one main island and around 60 smaller ones, separated from Malaysia by the narrow Johor Strait. It is low-lying, and land reclaimed from the sea has made the country about a quarter bigger since the 1960s. Although it is one of the most densely populated countries, it calls itself a 'city in a garden', with many parks and nature reserves."
+  },
+  "history": {
+    "text": "Singapore was a small fishing and trading settlement when Stamford Raffles set up a British trading post there in 1819, and it grew into a major port. Japan occupied it during the Second World War. Singapore joined Malaysia in 1963, became independent in 1965 and, under Lee Kuan Yew, grew into one of the world's richest countries.",
+    "events": [
+      {
+        "year": "1819",
+        "title": "British trading post",
+        "text": "Stamford Raffles founds a British settlement.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1942",
+        "title": "Japanese occupation",
+        "text": "Japan captures Singapore.",
+        "related": [
+          "JPN",
+          "GBR"
+        ]
+      },
+      {
+        "year": "1963",
+        "title": "Joins Malaysia",
+        "text": "Singapore becomes part of Malaysia.",
+        "related": [
+          "MYS"
+        ]
+      },
+      {
+        "year": "1965",
+        "title": "Independence",
+        "text": "Singapore separates from Malaysia.",
+        "related": [
+          "MYS"
+        ]
+      }
+    ]
   }
 }

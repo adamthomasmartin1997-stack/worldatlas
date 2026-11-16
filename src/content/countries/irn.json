@@ -6,5 +6,38 @@
   ],
   "geography": {
     "text": "Most of Iran is a high central plateau ringed by mountains: the Alborz in the north, where Damavand is the highest peak, and the long Zagros range in the west. The centre has two great deserts, the Dasht-e Kavir and the Dasht-e Lut, one of the hottest places on Earth. The north coast on the Caspian Sea is green and wet, while the south faces the Persian Gulf and the Gulf of Oman."
+  },
+  "history": {
+    "text": "Iran is home to one of the world's oldest civilisations. Cyrus the Great founded the Achaemenid Persian Empire in the 500s BC, one of the largest the world had seen. Islam arrived in the 600s, and under the Safavids in the 1500s Shia Islam became the state religion. In 1979 a revolution overthrew the Shah and created the Islamic Republic.",
+    "events": [
+      {
+        "year": "550 BC",
+        "title": "Persian Empire",
+        "text": "Cyrus the Great founds the Achaemenid Empire."
+      },
+      {
+        "year": "651",
+        "title": "Arab conquest",
+        "text": "The last Persian empire falls and Islam spreads."
+      },
+      {
+        "year": "1501",
+        "title": "Safavid dynasty",
+        "text": "The Safavids make Shia Islam the state religion."
+      },
+      {
+        "year": "1979",
+        "title": "Islamic Revolution",
+        "text": "The Shah is overthrown."
+      },
+      {
+        "year": "1980",
+        "title": "Iran–Iraq War",
+        "text": "Iraq invades Iran, starting an eight-year war.",
+        "related": [
+          "IRQ"
+        ]
+      }
+    ]
   }
 }

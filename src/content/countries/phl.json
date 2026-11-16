@@ -6,5 +6,57 @@
   ],
   "geography": {
     "text": "The islands fall into three main groups: Luzon in the north, the Visayas in the middle and Mindanao in the south. Most are mountainous and volcanic, with active volcanoes such as Mayon and Taal. The Philippines lies on the Pacific Ring of Fire and in the path of typhoons, and its seas have some of the richest coral reefs in the world."
+  },
+  "history": {
+    "text": "Ferdinand Magellan's expedition reached the islands in 1521, and Spain ruled them for more than 300 years, naming them after King Philip II. After the Philippine Revolution of 1896 and the Spanish–American War, the United States took control. The Philippines became independent in 1946, and the 'People Power' revolution of 1986 peacefully removed the dictator Ferdinand Marcos.",
+    "events": [
+      {
+        "year": "1521",
+        "title": "Magellan arrives",
+        "text": "Magellan's expedition reaches the islands; he is killed at Mactan.",
+        "related": [
+          "ESP",
+          "PRT"
+        ]
+      },
+      {
+        "year": "1565",
+        "title": "Spanish colony",
+        "text": "Spain begins its colonisation of the islands.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1896",
+        "title": "Philippine Revolution",
+        "text": "Filipinos rise against Spanish rule.",
+        "related": [
+          "ESP"
+        ]
+      },
+      {
+        "year": "1898",
+        "title": "US rule",
+        "text": "Spain gives the Philippines to the United States.",
+        "related": [
+          "USA",
+          "ESP"
+        ]
+      },
+      {
+        "year": "1946",
+        "title": "Independence",
+        "text": "The Philippines becomes independent.",
+        "related": [
+          "USA"
+        ]
+      },
+      {
+        "year": "1986",
+        "title": "People Power",
+        "text": "Peaceful protests end the Marcos dictatorship."
+      }
+    ]
   }
 }

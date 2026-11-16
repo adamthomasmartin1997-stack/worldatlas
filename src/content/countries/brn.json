@@ -6,5 +6,40 @@
   ],
   "geography": {
     "text": "Brunei faces the South China Sea, and most of the country is covered by tropical rainforest, much of it protected. The capital is famous for Kampong Ayer, a 'water village' of houses built on stilts over the Brunei River."
+  },
+  "history": {
+    "text": "In the 1400s and 1500s the Sultanate of Brunei controlled much of Borneo and parts of the southern Philippines. Its territory shrank greatly in the 1800s, and it became a British protectorate in 1888. Oil was found in 1929, and Brunei became fully independent in 1984.",
+    "events": [
+      {
+        "year": "1500s",
+        "title": "Height of the sultanate",
+        "text": "Brunei's power stretches across Borneo and into the Philippines.",
+        "related": [
+          "PHL",
+          "MYS"
+        ]
+      },
+      {
+        "year": "1888",
+        "title": "British protectorate",
+        "text": "Brunei comes under British protection.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1929",
+        "title": "Oil found",
+        "text": "Oil is discovered at Seria."
+      },
+      {
+        "year": "1984",
+        "title": "Independence",
+        "text": "Brunei becomes fully independent.",
+        "related": [
+          "GBR"
+        ]
+      }
+    ]
   }
 }

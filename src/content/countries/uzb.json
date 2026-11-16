@@ -6,5 +6,41 @@
   ],
   "geography": {
     "text": "Most of Uzbekistan is flat desert and steppe, including much of the Kyzylkum Desert. Mountains rise in the east, around the fertile Fergana Valley, where many people live. The Amu Darya and Syr Darya rivers once kept the Aral Sea full, but taking their water to grow cotton made the sea shrink dramatically."
+  },
+  "history": {
+    "text": "Samarkand and Bukhara were great cities on the Silk Road. In the 1300s Timur, also known as Tamerlane, built an empire with Samarkand as its capital. Russia conquered the region in the 1800s, and it became a Soviet republic. Uzbekistan became independent in 1991.",
+    "events": [
+      {
+        "year": "329 BC",
+        "title": "Alexander takes Samarkand",
+        "text": "Alexander the Great captures the city, then called Marakanda.",
+        "related": [
+          "GRC"
+        ]
+      },
+      {
+        "year": "1370",
+        "title": "Timur's empire",
+        "text": "Timur makes Samarkand the capital of a vast empire."
+      },
+      {
+        "year": "1420s",
+        "title": "Ulugh Beg's observatory",
+        "text": "Timur's grandson builds a great astronomical observatory."
+      },
+      {
+        "year": "1868",
+        "title": "Russian rule",
+        "text": "Russia takes Samarkand.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Independence",
+        "text": "Uzbekistan becomes independent."
+      }
+    ]
   }
 }

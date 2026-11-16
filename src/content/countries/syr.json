@@ -6,5 +6,54 @@
   ],
   "geography": {
     "text": "Syria has a short Mediterranean coast backed by mountains. Inland the land becomes drier, and much of the east and south-east is desert. The Euphrates river flows across the north-east and provides water for farming."
+  },
+  "history": {
+    "text": "Damascus and Aleppo are among the oldest continuously inhabited cities in the world. Damascus was the capital of the Umayyad Caliphate in the 600s and 700s. After Ottoman rule and a French mandate, Syria became independent in 1946. The Assad family ruled from 1970; a civil war began in 2011, and Bashar al-Assad's government fell in December 2024.",
+    "events": [
+      {
+        "year": "661",
+        "title": "Umayyad capital",
+        "text": "Damascus becomes capital of the Umayyad Caliphate."
+      },
+      {
+        "year": "1516",
+        "title": "Ottoman rule",
+        "text": "The Ottomans conquer Syria.",
+        "related": [
+          "TUR"
+        ]
+      },
+      {
+        "year": "1920",
+        "title": "French mandate",
+        "text": "France takes control.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1946",
+        "title": "Independence",
+        "text": "French troops leave Syria.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "2011",
+        "title": "Civil war",
+        "text": "Protests turn into a long civil war.",
+        "related": [
+          "TUR",
+          "LBN",
+          "JOR"
+        ]
+      },
+      {
+        "year": "2024",
+        "title": "Assad falls",
+        "text": "Rebel forces take Damascus."
+      }
+    ]
   }
 }

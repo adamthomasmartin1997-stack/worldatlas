@@ -6,5 +6,54 @@
   ],
   "geography": {
     "text": "Vietnam is long and S-shaped, with a long coastline on the South China Sea. The Red River Delta in the north and the vast Mekong Delta in the south are both important rice-growing areas, joined by a narrow middle with mountains along the border with Laos. Ha Long Bay, with its thousands of limestone islands, is one of its best-known sights."
+  },
+  "history": {
+    "text": "Vietnam was under Chinese rule for about a thousand years before winning independence in 938. France colonised it in the 1800s. After defeating France in 1954, Vietnam was divided into North and South. The Vietnam War, in which the United States backed the South, ended with the North's victory in 1975, and the country was reunited in 1976. Economic reforms from 1986 opened it up.",
+    "events": [
+      {
+        "year": "938",
+        "title": "Battle of Bạch Đằng",
+        "text": "Vietnamese forces end a thousand years of Chinese rule.",
+        "related": [
+          "CHN"
+        ]
+      },
+      {
+        "year": "1887",
+        "title": "French Indochina",
+        "text": "France creates French Indochina.",
+        "related": [
+          "FRA",
+          "KHM",
+          "LAO"
+        ]
+      },
+      {
+        "year": "1954",
+        "title": "Dien Bien Phu",
+        "text": "French forces are defeated; Vietnam is divided.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1965",
+        "title": "US troops arrive",
+        "text": "The United States sends combat troops to South Vietnam.",
+        "related": [
+          "USA"
+        ]
+      },
+      {
+        "year": "1975",
+        "title": "Fall of Saigon",
+        "text": "North Vietnamese forces take Saigon, ending the war."
+      },
+      {
+        "year": "1986",
+        "title": "Đổi Mới reforms",
+        "text": "The government begins opening the economy."
+      }
+    ]
   }
 }

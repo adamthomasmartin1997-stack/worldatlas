@@ -6,5 +6,41 @@
   ],
   "geography": {
     "text": "The Greater Caucasus mountains form Georgia's northern border with Russia, with some of the highest peaks in the Caucasus, and the Lesser Caucasus rise in the south. Between them lie valleys and lowlands, warm and humid in the west near the Black Sea and drier in the east. Glaciers cover the highest mountains, and many rivers flow down from them."
+  },
+  "history": {
+    "text": "Georgia was one of the first kingdoms to adopt Christianity, in the 300s, and its medieval kingdom reached a golden age under Queen Tamar around 1200. The Russian Empire absorbed Georgia in the 1800s. After a short independence from 1918 to 1921 it became part of the Soviet Union, and it became independent again in 1991. A short war with Russia in 2008 left two regions outside its control.",
+    "events": [
+      {
+        "year": "300s",
+        "title": "Christianity",
+        "text": "Georgia's kings adopt Christianity."
+      },
+      {
+        "year": "1184",
+        "title": "Queen Tamar",
+        "text": "The reign of Queen Tamar begins a golden age."
+      },
+      {
+        "year": "1801",
+        "title": "Russian annexation",
+        "text": "Russia annexes eastern Georgia.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Independence",
+        "text": "Georgia becomes independent from the Soviet Union."
+      },
+      {
+        "year": "2008",
+        "title": "War with Russia",
+        "text": "A five-day war leaves Abkhazia and South Ossetia under Russian control.",
+        "related": [
+          "RUS"
+        ]
+      }
+    ]
   }
 }

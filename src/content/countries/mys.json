@@ -6,5 +6,56 @@
   ],
   "geography": {
     "text": "Malaysia is split in two by the South China Sea. Peninsular Malaysia has mountains down the middle and coastal plains where most people live. On Borneo, the states of Sabah and Sarawak are covered in rainforest and include Mount Kinabalu, one of the highest mountains in South-East Asia. Malaysia's rainforests are among the oldest in the world."
+  },
+  "history": {
+    "text": "Malacca was a great trading port in the 1400s, linking the Indian Ocean with China. It was taken by the Portuguese in 1511 and later by the Dutch and the British. Malaya became independent from Britain in 1957, and Malaysia was formed in 1963 together with Sabah, Sarawak and, for two years, Singapore.",
+    "events": [
+      {
+        "year": "1400",
+        "title": "Malacca Sultanate",
+        "text": "Malacca is founded and grows into a major port."
+      },
+      {
+        "year": "1511",
+        "title": "Portuguese capture",
+        "text": "The Portuguese take Malacca.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1824",
+        "title": "British control",
+        "text": "A treaty with the Dutch gives Britain control of Malacca.",
+        "related": [
+          "GBR",
+          "NLD"
+        ]
+      },
+      {
+        "year": "1957",
+        "title": "Independence",
+        "text": "Malaya becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1963",
+        "title": "Malaysia formed",
+        "text": "Malaya, Sabah, Sarawak and Singapore form Malaysia.",
+        "related": [
+          "SGP"
+        ]
+      },
+      {
+        "year": "1965",
+        "title": "Singapore leaves",
+        "text": "Singapore separates from Malaysia.",
+        "related": [
+          "SGP"
+        ]
+      }
+    ]
   }
 }

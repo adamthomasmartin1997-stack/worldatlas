@@ -6,5 +6,47 @@
   ],
   "geography": {
     "text": "The Hindu Kush mountains run through the centre and north-east of Afghanistan, where peaks rise above 7,000 metres. The narrow Wakhan Corridor in the far north-east reaches out to a short border with China. The south and west are mostly dry plateaus and desert, and farming depends on rivers fed by melting mountain snow."
+  },
+  "history": {
+    "text": "Afghanistan sat at the crossroads of empires: Alexander the Great, the Kushans, and Persian and Mughal rulers all passed through. The modern state is usually dated to 1747, under Ahmad Shah Durrani. Afghanistan fought three wars with British India and gained full independence in 1919. A Soviet invasion in 1979 began decades of war; the Taliban ruled from 1996 to 2001 and returned to power in 2021.",
+    "events": [
+      {
+        "year": "1747",
+        "title": "Durrani Empire",
+        "text": "Ahmad Shah Durrani founds the modern Afghan state."
+      },
+      {
+        "year": "1919",
+        "title": "Full independence",
+        "text": "Afghanistan gains control of its foreign affairs from Britain.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1979",
+        "title": "Soviet invasion",
+        "text": "Soviet troops invade, beginning a ten-year war.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "2001",
+        "title": "US-led invasion",
+        "text": "The Taliban government is overthrown after the 11 September attacks.",
+        "related": [
+          "USA"
+        ]
+      },
+      {
+        "year": "2021",
+        "title": "Taliban return",
+        "text": "The Taliban take Kabul as US forces withdraw.",
+        "related": [
+          "USA"
+        ]
+      }
+    ]
   }
 }

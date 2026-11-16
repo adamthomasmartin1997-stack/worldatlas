@@ -6,5 +6,38 @@
   ],
   "geography": {
     "text": "Northern Thailand is mountainous and forested. The centre is a fertile plain watered by the Chao Phraya river, one of the world's great rice-growing areas, and the north-east is a dry plateau. The south is a long, narrow peninsula with coasts on the Gulf of Thailand and the Andaman Sea, dotted with islands such as Phuket."
+  },
+  "history": {
+    "text": "The kingdom of Sukhothai in the 1200s is often seen as the first Thai state, followed by Ayutthaya and, from 1782, the Chakri dynasty in Bangkok. Thailand, then called Siam, kept its independence while all its neighbours were colonised. It became a constitutional monarchy in 1932 and changed its name to Thailand in 1939.",
+    "events": [
+      {
+        "year": "1238",
+        "title": "Sukhothai",
+        "text": "The kingdom of Sukhothai is founded."
+      },
+      {
+        "year": "1351",
+        "title": "Ayutthaya",
+        "text": "Ayutthaya becomes the capital of a powerful kingdom."
+      },
+      {
+        "year": "1767",
+        "title": "Ayutthaya destroyed",
+        "text": "A Burmese army sacks the capital.",
+        "related": [
+          "MMR"
+        ]
+      },
+      {
+        "year": "1782",
+        "title": "Bangkok",
+        "text": "The Chakri dynasty makes Bangkok its capital."
+      },
+      {
+        "year": "1932",
+        "title": "Constitutional monarchy",
+        "text": "A revolution ends absolute royal power."
+      }
+    ]
   }
 }

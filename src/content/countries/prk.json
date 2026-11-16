@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "North Korea is mostly mountainous, with narrow coastal plains along the Yellow Sea to the west and the Sea of Japan to the east. Mount Paektu, a volcano on the border with China, is its highest peak. The Yalu and Tumen rivers form most of its northern border."
+  },
+  "history": {
+    "text": "Korea was united for centuries under kingdoms such as Goryeo and Joseon, then ruled by Japan from 1910 to 1945. After the Second World War the north was occupied by the Soviet Union and the south by the United States. Kim Il Sung founded North Korea in 1948 and invaded the South in 1950, starting the Korean War. His family has ruled ever since, and the country has developed nuclear weapons.",
+    "events": [
+      {
+        "year": "1910",
+        "title": "Japanese rule",
+        "text": "Japan annexes Korea.",
+        "related": [
+          "JPN"
+        ]
+      },
+      {
+        "year": "1948",
+        "title": "North Korea founded",
+        "text": "Kim Il Sung becomes leader of the Democratic People's Republic of Korea.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1950",
+        "title": "Korean War",
+        "text": "North Korea invades the South.",
+        "related": [
+          "KOR",
+          "USA",
+          "CHN"
+        ]
+      },
+      {
+        "year": "1953",
+        "title": "Armistice",
+        "text": "Fighting stops, but no peace treaty is signed.",
+        "related": [
+          "KOR"
+        ]
+      },
+      {
+        "year": "2006",
+        "title": "Nuclear test",
+        "text": "North Korea carries out its first nuclear test."
+      }
+    ]
   }
 }

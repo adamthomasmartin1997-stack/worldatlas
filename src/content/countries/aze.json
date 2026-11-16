@@ -6,5 +6,45 @@
   ],
   "geography": {
     "text": "The Greater Caucasus mountains run along Azerbaijan's northern border, and the Lesser Caucasus rise in the west. Between them lies a wide lowland crossed by the Kura river. Parts of the coast are below sea level, because the Caspian Sea itself is below sea level. The region of Nakhchivan is separated from the rest of the country by Armenia."
+  },
+  "history": {
+    "text": "The region was ruled by Persian empires and shaped by Turkic peoples who arrived from the 1000s. Russia took control in the early 1800s. Azerbaijan declared independence in 1918 as one of the first democratic republics in the Muslim world, before being absorbed into the Soviet Union. It became independent again in 1991 and has fought wars with Armenia over Nagorno-Karabakh.",
+    "events": [
+      {
+        "year": "1828",
+        "title": "Russian rule",
+        "text": "Persia gives up the region to Russia.",
+        "related": [
+          "RUS",
+          "IRN"
+        ]
+      },
+      {
+        "year": "1918",
+        "title": "First republic",
+        "text": "The Azerbaijan Democratic Republic is declared."
+      },
+      {
+        "year": "1920",
+        "title": "Soviet takeover",
+        "text": "The Red Army ends the republic.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Independence",
+        "text": "Azerbaijan becomes independent."
+      },
+      {
+        "year": "2023",
+        "title": "Karabakh retaken",
+        "text": "Azerbaijan takes full control of Nagorno-Karabakh.",
+        "related": [
+          "ARM"
+        ]
+      }
+    ]
   }
 }

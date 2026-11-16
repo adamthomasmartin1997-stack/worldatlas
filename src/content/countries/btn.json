@@ -6,5 +6,38 @@
   ],
   "geography": {
     "text": "Bhutan rises from hot, humid lowlands in the south to high Himalayan peaks in the north. Forests cover most of the country, and steep river valleys run from north to south. Gangkhar Puensum, on the border with China, is believed to be the highest mountain in the world that has never been climbed."
+  },
+  "history": {
+    "text": "Bhutan was unified in the 1600s by Zhabdrung Ngawang Namgyal, who built its great fortress-monasteries called dzongs. The Wangchuck dynasty has ruled since 1907. Bhutan stayed largely closed to the outside world until the 1960s, and in 2008 its king introduced democracy and a written constitution.",
+    "events": [
+      {
+        "year": "1616",
+        "title": "Zhabdrung arrives",
+        "text": "Ngawang Namgyal arrives from Tibet and begins unifying Bhutan.",
+        "related": [
+          "CHN"
+        ]
+      },
+      {
+        "year": "1907",
+        "title": "Wangchuck dynasty",
+        "text": "Ugyen Wangchuck becomes the first king."
+      },
+      {
+        "year": "1971",
+        "title": "Joins the UN",
+        "text": "Bhutan becomes a member of the United Nations."
+      },
+      {
+        "year": "1999",
+        "title": "TV and internet arrive",
+        "text": "Bhutan allows television and the internet for the first time."
+      },
+      {
+        "year": "2008",
+        "title": "Democracy",
+        "text": "Bhutan adopts a constitution and holds its first general election."
+      }
+    ]
   }
 }

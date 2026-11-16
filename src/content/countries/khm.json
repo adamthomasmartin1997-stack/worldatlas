@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "Much of Cambodia is a low, flat basin around the Tonlé Sap, the largest freshwater lake in South-East Asia. In the rainy season the Mekong floods so strongly that the Tonlé Sap river reverses its flow and the lake grows several times larger. Forested hills and mountains rise around the edges, and the country has a short coast on the Gulf of Thailand."
+  },
+  "history": {
+    "text": "The Khmer Empire, centred on Angkor, dominated much of mainland South-East Asia between the 800s and the 1400s. Cambodia later became a French protectorate and won independence in 1953. In 1975 the Khmer Rouge took power and caused the deaths of around 1.5 to 2 million people before being driven out in 1979. Peace and UN-run elections followed in the 1990s.",
+    "events": [
+      {
+        "year": "802",
+        "title": "Khmer Empire founded",
+        "text": "Jayavarman II declares himself universal king."
+      },
+      {
+        "year": "1100s",
+        "title": "Angkor Wat",
+        "text": "King Suryavarman II builds Angkor Wat."
+      },
+      {
+        "year": "1863",
+        "title": "French protectorate",
+        "text": "Cambodia comes under French protection.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1953",
+        "title": "Independence",
+        "text": "Cambodia becomes independent.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1975",
+        "title": "Khmer Rouge",
+        "text": "The Khmer Rouge seize power; their rule ends in 1979.",
+        "related": [
+          "VNM"
+        ]
+      },
+      {
+        "year": "1993",
+        "title": "UN elections",
+        "text": "UN-organised elections follow a peace agreement."
+      }
+    ]
   }
 }

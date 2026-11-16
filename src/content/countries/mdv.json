@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "The Maldives is made up of around 1,200 coral islands grouped into 26 atolls. It is the lowest-lying country in the world, with most land only about a metre above sea level, which makes it very vulnerable to rising seas. Its coral reefs and lagoons are famous for their marine life."
+  },
+  "history": {
+    "text": "The Maldives was Buddhist for centuries before converting to Islam in 1153. It was a sultanate for more than 800 years, at times under Portuguese occupation and later under British protection. The Maldives became independent in 1965 and a republic in 1968. The 2004 Indian Ocean tsunami caused major damage.",
+    "events": [
+      {
+        "year": "1153",
+        "title": "Islam adopted",
+        "text": "The king converts to Islam."
+      },
+      {
+        "year": "1558",
+        "title": "Portuguese occupation",
+        "text": "The Portuguese occupy Malé for about fifteen years.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1887",
+        "title": "British protectorate",
+        "text": "The Maldives comes under British protection.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1965",
+        "title": "Independence",
+        "text": "The Maldives becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "2004",
+        "title": "Tsunami",
+        "text": "The Indian Ocean tsunami floods many islands."
+      }
+    ]
   }
 }

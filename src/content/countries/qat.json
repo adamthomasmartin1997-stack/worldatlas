@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Qatar is a low, flat peninsula of desert and gravel plains, with sand dunes in the south-east around Khor Al Adaid, the 'Inland Sea', a tidal bay surrounded by dunes. Summers are extremely hot, there are no rivers, and most of its water comes from desalinating seawater."
+  },
+  "history": {
+    "text": "Qatar was a centre of pearl diving and has been ruled by the Al Thani family since the mid-1800s. It became a British protectorate in 1916, found oil in 1939 and became independent in 1971. Huge offshore gas reserves, found in the 1970s, made it one of the richest countries in the world, and it hosted the 2022 football World Cup.",
+    "events": [
+      {
+        "year": "1868",
+        "title": "Al Thani rule",
+        "text": "Britain recognises the Al Thani family as Qatar's rulers.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1916",
+        "title": "British protectorate",
+        "text": "Qatar signs a protection treaty with Britain.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1939",
+        "title": "Oil found",
+        "text": "Oil is discovered at Dukhan."
+      },
+      {
+        "year": "1971",
+        "title": "Independence",
+        "text": "Qatar becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "2022",
+        "title": "World Cup",
+        "text": "Qatar hosts the first World Cup in the Middle East."
+      }
+    ]
   }
 }

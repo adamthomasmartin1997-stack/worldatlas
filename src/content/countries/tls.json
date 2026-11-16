@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Timor-Leste is mountainous, with a range running along the length of the island and narrow coastal plains. The country also includes the enclave of Oecusse, inside Indonesian West Timor, and the small islands of Atauro and Jaco. The seas around Atauro have some of the richest coral reefs in the world."
+  },
+  "history": {
+    "text": "Portugal colonised Timor from the 1500s. When Portuguese rule ended in 1975, Indonesia invaded, and the occupation that followed cost the lives of more than 100,000 people. In 1999 the East Timorese voted for independence in a UN-run referendum, and the country became independent in 2002.",
+    "events": [
+      {
+        "year": "1500s",
+        "title": "Portuguese arrival",
+        "text": "Portuguese traders and missionaries arrive.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1975",
+        "title": "Indonesian invasion",
+        "text": "Indonesia invades days after independence is declared.",
+        "related": [
+          "IDN"
+        ]
+      },
+      {
+        "year": "1996",
+        "title": "Nobel Peace Prize",
+        "text": "José Ramos-Horta and Bishop Belo share the prize."
+      },
+      {
+        "year": "1999",
+        "title": "Referendum",
+        "text": "East Timorese vote overwhelmingly for independence.",
+        "related": [
+          "IDN"
+        ]
+      },
+      {
+        "year": "2002",
+        "title": "Independence",
+        "text": "Timor-Leste becomes independent."
+      }
+    ]
   }
 }

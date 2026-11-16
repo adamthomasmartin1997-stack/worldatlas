@@ -6,5 +6,33 @@
   ],
   "geography": {
     "text": "Most of Saudi Arabia is desert, including the Rub' al Khali, or Empty Quarter, the largest continuous sand desert in the world. Mountains run along the west, parallel to the Red Sea coast, and the east faces the Persian Gulf. Saudi Arabia is the largest country in the world with no permanent rivers."
+  },
+  "history": {
+    "text": "Islam began in Mecca in the early 600s with the Prophet Muhammad, and the region has been its spiritual heart ever since. In the 1700s the Al Saud family allied with the religious reformer Muhammad ibn Abd al-Wahhab. Abdulaziz Ibn Saud united most of Arabia and founded the Kingdom of Saudi Arabia in 1932, and oil, found in 1938, transformed the country.",
+    "events": [
+      {
+        "year": "622",
+        "title": "The Hijra",
+        "text": "Muhammad and his followers move from Mecca to Medina; the Islamic calendar begins."
+      },
+      {
+        "year": "1744",
+        "title": "Saud–Wahhab alliance",
+        "text": "An alliance forms the first Saudi state."
+      },
+      {
+        "year": "1932",
+        "title": "Kingdom founded",
+        "text": "Ibn Saud proclaims the Kingdom of Saudi Arabia."
+      },
+      {
+        "year": "1938",
+        "title": "Oil found",
+        "text": "Commercial oil is discovered at Dammam.",
+        "related": [
+          "USA"
+        ]
+      }
+    ]
   }
 }

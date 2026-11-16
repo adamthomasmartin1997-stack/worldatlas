@@ -6,5 +6,52 @@
   ],
   "geography": {
     "text": "Mongolia is one of the most thinly populated countries in the world. The north and west have mountains, forests and lakes, the centre and east are vast grassy steppes, and the south is the Gobi Desert, where many dinosaur fossils have been found. Winters are long and bitterly cold."
+  },
+  "history": {
+    "text": "In 1206 Genghis Khan united the Mongol tribes and began building the largest connected land empire in history, which stretched from Korea to eastern Europe. After the empire broke up, Mongolia later came under China's Qing dynasty. It declared independence in 1911 and became a communist state allied with the Soviet Union in 1924. A peaceful revolution in 1990 brought democracy.",
+    "events": [
+      {
+        "year": "1206",
+        "title": "Genghis Khan",
+        "text": "Temüjin is proclaimed Genghis Khan."
+      },
+      {
+        "year": "1271",
+        "title": "Yuan dynasty",
+        "text": "Kublai Khan founds a Mongol dynasty to rule China.",
+        "related": [
+          "CHN"
+        ]
+      },
+      {
+        "year": "1691",
+        "title": "Qing rule",
+        "text": "Mongolia comes under the Qing dynasty.",
+        "related": [
+          "CHN"
+        ]
+      },
+      {
+        "year": "1911",
+        "title": "Independence",
+        "text": "Mongolia declares independence as the Qing collapse.",
+        "related": [
+          "CHN"
+        ]
+      },
+      {
+        "year": "1924",
+        "title": "People's Republic",
+        "text": "A communist state is founded with Soviet support.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1990",
+        "title": "Democratic revolution",
+        "text": "Peaceful protests bring multi-party democracy."
+      }
+    ]
   }
 }

@@ -6,5 +6,41 @@
   ],
   "geography": {
     "text": "Most of the UAE is sandy desert, with high dunes in the south towards the Empty Quarter. The Hajar Mountains rise in the north-east, along the border with Oman. Its long coast on the Persian Gulf has many islands, and some, such as the Palm Islands off Dubai, were built on reclaimed land."
+  },
+  "history": {
+    "text": "The Gulf coast was home to trading and pearling communities for centuries. In the 1800s the local sheikhdoms signed treaties with Britain and became known as the Trucial States. In 1971 six of them formed the United Arab Emirates, and Ras Al Khaimah joined in 1972. Oil wealth, exported from 1962, transformed the country.",
+    "events": [
+      {
+        "year": "1820",
+        "title": "Treaty with Britain",
+        "text": "The sheikhdoms sign the first of several treaties with Britain.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1962",
+        "title": "First oil exports",
+        "text": "Abu Dhabi exports its first oil."
+      },
+      {
+        "year": "1971",
+        "title": "UAE formed",
+        "text": "Six emirates unite.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1972",
+        "title": "Seventh emirate",
+        "text": "Ras Al Khaimah joins the federation."
+      },
+      {
+        "year": "2010",
+        "title": "Burj Khalifa",
+        "text": "The world's tallest building opens in Dubai."
+      }
+    ]
   }
 }

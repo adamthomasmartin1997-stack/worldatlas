@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Bahrain is made up of a main island and dozens of smaller ones. The land is low and mostly desert, and parts of the coast have been extended with land reclaimed from the sea. Freshwater springs, both on land and under the sea, once made it an important stop for ships and pearl divers."
+  },
+  "history": {
+    "text": "Bahrain was the centre of the ancient Dilmun civilisation, a trading hub between Mesopotamia and the Indus Valley. It was ruled by Portugal and Persia before the Al Khalifa family took control in 1783. Bahrain became a British protectorate in the 1800s, found oil in 1932, and became independent in 1971.",
+    "events": [
+      {
+        "year": "1521",
+        "title": "Portuguese rule",
+        "text": "The Portuguese take control of Bahrain.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1783",
+        "title": "Al Khalifa rule",
+        "text": "The Al Khalifa family takes control."
+      },
+      {
+        "year": "1932",
+        "title": "Oil found",
+        "text": "One of the first oil finds in the Gulf."
+      },
+      {
+        "year": "1971",
+        "title": "Independence",
+        "text": "Bahrain becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1986",
+        "title": "Causeway to Saudi Arabia",
+        "text": "A 25-kilometre causeway links Bahrain to the mainland.",
+        "related": [
+          "SAU"
+        ]
+      }
+    ]
   }
 }

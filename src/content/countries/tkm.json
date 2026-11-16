@@ -6,5 +6,36 @@
   ],
   "geography": {
     "text": "Most of Turkmenistan is covered by the Karakum Desert. Mountains run along the border with Iran in the south, and the Amu Darya river flows along part of the north-east. In the desert, the Darvaza gas crater, nicknamed the 'Door to Hell', has been burning for decades."
+  },
+  "history": {
+    "text": "The ancient city of Merv was one of the great cities of the Silk Road. Turkmen tribes lived in the region for centuries before Russia conquered it in the 1880s. Turkmenistan became independent from the Soviet Union in 1991, and its first president, Saparmurat Niyazov, built a powerful personality cult.",
+    "events": [
+      {
+        "year": "1221",
+        "title": "Merv destroyed",
+        "text": "Mongol armies destroy Merv.",
+        "related": [
+          "MNG"
+        ]
+      },
+      {
+        "year": "1881",
+        "title": "Geok Tepe",
+        "text": "Russian forces defeat the Turkmen in a decisive battle.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Independence",
+        "text": "Turkmenistan becomes independent."
+      },
+      {
+        "year": "1995",
+        "title": "Neutrality",
+        "text": "The United Nations recognises Turkmenistan's permanent neutrality."
+      }
+    ]
   }
 }

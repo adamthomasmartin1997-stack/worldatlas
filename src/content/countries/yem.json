@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Yemen has coastal plains along the Red Sea and the Gulf of Aden, and high mountains in the west that get enough rain for farming. The east is mostly desert. The island of Socotra, in the Arabian Sea, is famous for strange plants found nowhere else, such as the dragon's blood tree."
+  },
+  "history": {
+    "text": "Yemen was home to ancient kingdoms such as Saba, linked in legend to the Queen of Sheba, which grew rich trading frankincense and myrrh. In the 1900s the north became independent from the Ottomans, while the south around Aden was a British colony. North and South Yemen united in 1990. A civil war that began in 2014 has caused one of the world's worst humanitarian crises.",
+    "events": [
+      {
+        "year": "700s BC",
+        "title": "Marib Dam",
+        "text": "The kingdom of Saba builds a great dam at Marib."
+      },
+      {
+        "year": "1918",
+        "title": "North independent",
+        "text": "North Yemen becomes independent as the Ottoman Empire collapses.",
+        "related": [
+          "TUR"
+        ]
+      },
+      {
+        "year": "1967",
+        "title": "South independent",
+        "text": "Britain leaves Aden and South Yemen becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1990",
+        "title": "Unification",
+        "text": "North and South Yemen unite."
+      },
+      {
+        "year": "2014",
+        "title": "Civil war",
+        "text": "Houthi forces take Sana'a; a Saudi-led coalition intervenes in 2015.",
+        "related": [
+          "SAU"
+        ]
+      }
+    ]
   }
 }

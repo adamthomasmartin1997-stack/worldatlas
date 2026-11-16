@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "Much of Kazakhstan is flat steppe: vast grassland and semi-desert. Mountains rise in the south-east, around Almaty, and the west borders the Caspian Sea. Lake Balkhash in the east is half fresh water and half salt water, and the Aral Sea, which Kazakhstan shares with Uzbekistan, has shrunk dramatically since the 1960s."
+  },
+  "history": {
+    "text": "The steppes of Kazakhstan were home to nomadic peoples for thousands of years, and the Kazakh Khanate formed in the 1400s. Russia took control in the 1700s and 1800s. Under Soviet rule, a famine in the early 1930s killed more than a million Kazakhs, and the Soviet Union tested nuclear weapons at Semipalatinsk. Kazakhstan became independent in 1991.",
+    "events": [
+      {
+        "year": "1465",
+        "title": "Kazakh Khanate",
+        "text": "The first Kazakh state is founded."
+      },
+      {
+        "year": "1731",
+        "title": "Russian protection",
+        "text": "Kazakh leaders begin accepting Russian protection.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1930",
+        "title": "Famine",
+        "text": "Forced collectivisation causes a famine that kills over a million people.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1949",
+        "title": "Nuclear tests",
+        "text": "The Soviet Union carries out its first nuclear test at Semipalatinsk.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Independence",
+        "text": "Kazakhstan becomes independent."
+      },
+      {
+        "year": "1997",
+        "title": "New capital",
+        "text": "The capital moves from Almaty to Astana."
+      }
+    ]
   }
 }

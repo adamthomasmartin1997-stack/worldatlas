@@ -6,5 +6,41 @@
   ],
   "geography": {
     "text": "Most of Kyrgyzstan is covered by the Tian Shan and Pamir mountain ranges, and nearly all of it lies more than 1,000 metres above sea level. Issyk-Kul in the north-east is one of the largest mountain lakes in the world and does not freeze in winter. The fertile Fergana Valley lies in the south-west."
+  },
+  "history": {
+    "text": "Kyrgyz people have lived as herders in the Tian Shan mountains for centuries, and the Silk Road passed through the region. Russia took control in the 1800s, and it became a Soviet republic. Kyrgyzstan became independent in 1991, and protests have toppled its government several times since.",
+    "events": [
+      {
+        "year": "1876",
+        "title": "Russian conquest",
+        "text": "The region is absorbed into the Russian Empire.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1936",
+        "title": "Soviet republic",
+        "text": "Kirghizia becomes a full Soviet republic.",
+        "related": [
+          "RUS"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Independence",
+        "text": "Kyrgyzstan becomes independent."
+      },
+      {
+        "year": "2005",
+        "title": "Tulip Revolution",
+        "text": "Protests overthrow the president."
+      },
+      {
+        "year": "2010",
+        "title": "Second revolution",
+        "text": "Another uprising topples the government."
+      }
+    ]
   }
 }

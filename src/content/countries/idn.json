@@ -6,5 +6,46 @@
   ],
   "geography": {
     "text": "Indonesia stretches more than 5,000 kilometres from east to west. Its largest islands include Sumatra, Java, Sulawesi, and parts of Borneo and New Guinea, which it shares with its neighbours. It lies on the Pacific Ring of Fire and has more active volcanoes than any other country. Java is one of the most densely populated islands on Earth, and much of the country is covered by tropical rainforest."
+  },
+  "history": {
+    "text": "Indonesia's islands were home to powerful kingdoms such as Srivijaya and Majapahit, which grew rich from trade. The Dutch gradually took control from the 1600s. Indonesia declared independence in 1945 and fought the Dutch until 1949. Suharto ruled from 1967 until 1998, when Indonesia became a democracy.",
+    "events": [
+      {
+        "year": "800s",
+        "title": "Borobudur",
+        "text": "The giant Buddhist temple of Borobudur is built on Java."
+      },
+      {
+        "year": "1293",
+        "title": "Majapahit",
+        "text": "The Majapahit Empire is founded on Java."
+      },
+      {
+        "year": "1602",
+        "title": "Dutch East India Company",
+        "text": "The Dutch begin taking control of the spice trade.",
+        "related": [
+          "NLD"
+        ]
+      },
+      {
+        "year": "1945",
+        "title": "Independence declared",
+        "text": "Sukarno declares independence; the Dutch recognise it in 1949.",
+        "related": [
+          "NLD"
+        ]
+      },
+      {
+        "year": "1998",
+        "title": "Suharto falls",
+        "text": "Protests end 31 years of rule and open the way to democracy."
+      },
+      {
+        "year": "2004",
+        "title": "Tsunami",
+        "text": "An earthquake and tsunami kill about 170,000 people in Aceh."
+      }
+    ]
   }
 }

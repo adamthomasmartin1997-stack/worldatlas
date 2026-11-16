@@ -6,5 +6,42 @@
   ],
   "geography": {
     "text": "Nepal rises from the hot, flat Terai plains in the south to the highest mountains on Earth in the north. Eight of the world's ten highest peaks are in Nepal, including Mount Everest on the border with China. Between them lie hills and valleys, such as the Kathmandu Valley, cut by rivers flowing south towards the Ganges."
+  },
+  "history": {
+    "text": "The Kathmandu Valley has been a centre of Hindu and Buddhist culture for well over a thousand years. In 1768 Prithvi Narayan Shah unified Nepal. Nepal was never colonised, although its Gurkha soldiers have served in the British army for two centuries. A civil war from 1996 to 2006 was followed by the end of the monarchy in 2008.",
+    "events": [
+      {
+        "year": "1768",
+        "title": "Unification",
+        "text": "Prithvi Narayan Shah conquers the Kathmandu Valley and unites Nepal."
+      },
+      {
+        "year": "1816",
+        "title": "Treaty with Britain",
+        "text": "A treaty ends war with the British East India Company.",
+        "related": [
+          "GBR",
+          "IND"
+        ]
+      },
+      {
+        "year": "1953",
+        "title": "Everest climbed",
+        "text": "Tenzing Norgay and Edmund Hillary reach the summit.",
+        "related": [
+          "NZL"
+        ]
+      },
+      {
+        "year": "2008",
+        "title": "Republic",
+        "text": "Nepal abolishes its monarchy."
+      },
+      {
+        "year": "2015",
+        "title": "Earthquake",
+        "text": "A powerful earthquake kills about 9,000 people."
+      }
+    ]
   }
 }

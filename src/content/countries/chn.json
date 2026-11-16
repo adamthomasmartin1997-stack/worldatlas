@@ -6,5 +6,46 @@
   ],
   "geography": {
     "text": "China's land falls from west to east. In the south-west, the Tibetan Plateau, the highest plateau on Earth, is bordered by the Himalayas, including Mount Everest on the border with Nepal. The north and west have deserts such as the Gobi and the Taklamakan, while most people live in the fertile east, along great rivers such as the Yellow River and the Yangtze, the longest river in Asia."
+  },
+  "history": {
+    "text": "China's history stretches back thousands of years through a series of dynasties, beginning with the first unification under the Qin in 221 BC, when the first emperor joined up earlier walls into a Great Wall. The last emperor was overthrown in 1912. After a civil war, the Communist Party founded the People's Republic in 1949. Since economic reforms began in 1978, China has become the world's second-largest economy.",
+    "events": [
+      {
+        "year": "221 BC",
+        "title": "First emperor",
+        "text": "Qin Shi Huang unifies China."
+      },
+      {
+        "year": "1271",
+        "title": "Mongol rule",
+        "text": "Kublai Khan founds the Yuan dynasty.",
+        "related": [
+          "MNG"
+        ]
+      },
+      {
+        "year": "1839",
+        "title": "Opium War",
+        "text": "Britain fights China over the opium trade and takes Hong Kong.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1912",
+        "title": "Republic",
+        "text": "The last emperor abdicates."
+      },
+      {
+        "year": "1949",
+        "title": "People's Republic",
+        "text": "Mao Zedong proclaims the People's Republic of China."
+      },
+      {
+        "year": "1978",
+        "title": "Economic reform",
+        "text": "Deng Xiaoping begins opening up the economy."
+      }
+    ]
   }
 }

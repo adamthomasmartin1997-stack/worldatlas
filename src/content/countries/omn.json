@@ -6,5 +6,39 @@
   ],
   "geography": {
     "text": "Most of Oman is desert, including part of the Rub' al Khali, or Empty Quarter. The Hajar Mountains rise in the north, and a long coastline faces the Arabian Sea and the Gulf of Oman. The Musandam Peninsula, cut off from the rest of the country by the United Arab Emirates, overlooks the Strait of Hormuz, and the south around Salalah turns green during the summer monsoon."
+  },
+  "history": {
+    "text": "Oman was a seafaring nation that traded across the Indian Ocean for centuries. After driving out the Portuguese in 1650, its sultans built an empire that included Zanzibar and parts of the East African coast. Sultan Qaboos, who came to power in 1970, used the country's oil wealth to modernise it.",
+    "events": [
+      {
+        "year": "1507",
+        "title": "Portuguese capture Muscat",
+        "text": "The Portuguese seize Muscat.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1650",
+        "title": "Portuguese expelled",
+        "text": "Omani forces drive the Portuguese out.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1840",
+        "title": "Court moves to Zanzibar",
+        "text": "Sultan Said moves his capital to Zanzibar.",
+        "related": [
+          "TZA"
+        ]
+      },
+      {
+        "year": "1970",
+        "title": "Sultan Qaboos",
+        "text": "Qaboos bin Said begins modernising the country."
+      }
+    ]
   }
 }

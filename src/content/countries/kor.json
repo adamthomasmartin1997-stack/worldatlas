@@ -6,5 +6,43 @@
   ],
   "geography": {
     "text": "About 70 percent of South Korea is mountainous, with the Taebaek Mountains running down the east. Most people live on the plains and in the river valleys of the west. It has coasts on the Yellow Sea, the Korea Strait and the Sea of Japan, and thousands of islands, the largest being Jeju, a volcanic island with the country's highest peak, Hallasan."
+  },
+  "history": {
+    "text": "Korea was united for centuries under kingdoms such as Silla, Goryeo and Joseon; under King Sejong in the 1440s the Korean alphabet, Hangul, was created. Japan ruled Korea from 1910 to 1945. After the Korean War of 1950–53, South Korea grew from one of the poorest countries in the world into a wealthy democracy.",
+    "events": [
+      {
+        "year": "1443",
+        "title": "Hangul",
+        "text": "King Sejong creates the Korean alphabet."
+      },
+      {
+        "year": "1910",
+        "title": "Japanese rule",
+        "text": "Japan annexes Korea.",
+        "related": [
+          "JPN"
+        ]
+      },
+      {
+        "year": "1950",
+        "title": "Korean War",
+        "text": "North Korea invades; UN forces led by the US defend the South.",
+        "related": [
+          "PRK",
+          "USA",
+          "CHN"
+        ]
+      },
+      {
+        "year": "1987",
+        "title": "Democracy",
+        "text": "Mass protests lead to free presidential elections."
+      },
+      {
+        "year": "1988",
+        "title": "Seoul Olympics",
+        "text": "Seoul hosts the Summer Olympics."
+      }
+    ]
   }
 }
