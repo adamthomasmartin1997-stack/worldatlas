@@ -1,0 +1,398 @@
+{
+ "source": "wikimedia-commons",
+ "retrieved": "2026-11-16T18:17:05.312Z",
+ "countries": {
+  "USA": {
+   "title": "Mesa Verde National Park",
+   "kind": "World Heritage Site",
+   "author": "Elaine from Sheffield, England",
+   "licence": "CC BY 2.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mesa_Verde.jpg"
+  },
+  "TUR": {
+   "title": "Selimiye Mosque",
+   "kind": "World Heritage Site",
+   "author": "Nevit Dilmen",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Edirne_7333_Nevit.JPG"
+  },
+  "ZWE": {
+   "title": "Great Zimbabwe",
+   "kind": "World Heritage Site",
+   "author": "Unknown author",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Great-Zimbabwe-6.jpg"
+  },
+  "ESP": {
+   "title": "Cave of Altamira",
+   "kind": "World Heritage Site",
+   "author": "José-Manuel Benito",
+   "licence": "Public domain",
+   "licenceUrl": null,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Techo_de_Altamira_(replica)-Museo_Arqueol%C3%B3gico_Nacional.jpg"
+  },
+  "LKA": {
+   "title": "Sigiriya",
+   "kind": "World Heritage Site",
+   "author": "Binuka poojan",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Beauty_of_Sigiriya_by_Binuka.jpg"
+  },
+  "HUN": {
+   "title": "Hortobágy National Park",
+   "kind": "World Heritage Site",
+   "author": "Andreas Poeschek, fotografikus.hu",
+   "licence": "CC BY 2.0 at",
+   "licenceUrl": "https://creativecommons.org/licenses/by/2.0/at/deed.en",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hortobagy-ziehbrunnen.jpg"
+  },
+  "ARG": {
+   "title": "Inca road system",
+   "kind": "World Heritage Site",
+   "author": "Felipe Guaman Poma de Ayala",
+   "licence": "Public domain",
+   "licenceUrl": null,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qhapaq_%C3%91an_Poma_de_Ayala.jpg"
+  },
+  "CAN": {
+   "title": "Waterton-Glacier International Peace Park",
+   "kind": "World Heritage Site",
+   "author": "Jesse Allen, NASA Earth Observatory, using data obtained courtesy of the University of Maryland’s Global Land Cover Faci",
+   "licence": "Public domain",
+   "licenceUrl": null,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:GlacierNP_L7_20010701.jpg"
+  },
+  "BGD": {
+   "title": "Dhaka",
+   "kind": "Capital city",
+   "author": "Tanweer drmc",
+   "licence": "Public domain",
+   "licenceUrl": null,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dhaka_skyline1.jpg"
+  },
+  "PHL": {
+   "title": "Tubbataha Reef",
+   "kind": "World Heritage Site",
+   "author": "Simon Hefti, Schweiz (de:User:Nikswieweg)",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tubbataha_Shark.jpg"
+  },
+  "AFG": {
+   "title": "Minaret and Archaeological Remains of Jam",
+   "kind": "World Heritage Site",
+   "author": "david adamec",
+   "licence": "Public domain",
+   "licenceUrl": null,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minaret_of_jam_2009_ghor.jpg"
+  },
+  "ECU": {
+   "title": "Inca road system",
+   "kind": "World Heritage Site",
+   "author": "Felipe Guaman Poma de Ayala",
+   "licence": "Public domain",
+   "licenceUrl": null,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qhapaq_%C3%91an_Poma_de_Ayala.jpg"
+  },
+  "AUS": {
+   "title": "Great Barrier Reef",
+   "kind": "World Heritage Site",
+   "author": "NASA, by MISR",
+   "licence": "Public domain",
+   "licenceUrl": null,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:GreatBarrierReef-EO.JPG"
+  },
+  "MLI": {
+   "title": "Timbuktu",
+   "kind": "World Heritage Site",
+   "author": "Senani P",
+   "licence": "CC BY 2.5",
+   "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Timbuktu_Mosque_Sankore.jpg"
+  },
+  "KOR": {
+   "title": "Gochang, Hwasun and Ganghwa Dolmen Sites",
+   "kind": "World Heritage Site",
+   "author": "Elswhs at Dutch Wikipedia (Original text: Els Slots)",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ganghwado.jpg"
+  },
+  "COL": {
+   "title": "Chiribiquete National Park",
+   "kind": "World Heritage Site",
+   "author": "Carlos Castaño Uribe",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chiribiquete_view.jpg"
+  },
+  "MNG": {
+   "title": "Uvs Nuur Basin",
+   "kind": "World Heritage Site",
+   "author": "Unknown author",
+   "licence": "Public domain",
+   "licenceUrl": null,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Uvs-nuur.jpg"
+  },
+  "PRK": {
+   "title": "Goguryeo tombs",
+   "kind": "World Heritage Site",
+   "author": "Unknown authorUnknown author",
+   "licence": "Public domain",
+   "licenceUrl": null,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goguryeo_tomb_mural.jpg"
+  },
+  "TCD": {
+   "title": "Ennedi Plateau",
+   "kind": "World Heritage Site",
+   "author": "Desertman",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:24_Kamele_ziehen_zur_Wasserstelle_im_Ennedi-Gebirge_im_Tschad.jpg"
+  },
+  "URY": {
+   "title": "Montevideo",
+   "kind": "Capital city",
+   "author": "Coquimbo58, Gabboe, Marcos Mendizábal, Beatrizackermann, Michelle Maria, Eduardo Ruggieri, Ismael Cordero.",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Collage_Landmarks_of_Montevideo.jpg"
+  },
+  "ARM": {
+   "title": "Cathedral and Churches of Echmiatsin and the Archaeological Site of Zvartnots",
+   "kind": "World Heritage Site",
+   "author": "Vigen Hakhverdyan",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ejmiadzin_Cathedral2.jpg"
+  },
+  "TLS": {
+   "title": "Dili",
+   "kind": "Capital city",
+   "author": "Jose Fernando Real",
+   "licence": "CC BY-SA 4.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aussenministerium_und_Avenida_de_Portugal.jpg"
+  },
+  "BOL": {
+   "title": "Inca road system",
+   "kind": "World Heritage Site",
+   "author": "Felipe Guaman Poma de Ayala",
+   "licence": "Public domain",
+   "licenceUrl": null,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qhapaq_%C3%91an_Poma_de_Ayala.jpg"
+  },
+  "COD": {
+   "title": "Garamba National Park",
+   "kind": "World Heritage Site",
+   "author": "USAID",
+   "licence": "Public domain",
+   "licenceUrl": null,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Elephants_in_garamba_national_park.jpg"
+  },
+  "CHN": {
+   "title": "Mount Tai",
+   "kind": "World Heritage Site",
+   "author": "Charlie fong",
+   "licence": "Public domain",
+   "licenceUrl": null,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:%E6%B3%B0%E5%B1%B1_%E5%8D%97%E5%A4%A9%E9%97%A8.jpg"
+  },
+  "NZL": {
+   "title": "Tongariro National Park",
+   "kind": "World Heritage Site",
+   "author": "Unknown author",
+   "licence": "CC BY 2.5",
+   "licenceUrl": "https://creativecommons.org/licenses/by/2.5",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tongariro_Mahuia_River_n.jpg"
+  },
+  "SLB": {
+   "title": "East Rennell",
+   "kind": "World Heritage Site",
+   "author": "Unknown author",
+   "licence": "Public domain",
+   "licenceUrl": null,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dugout_canoe_Rennell.jpg"
+  },
+  "KNA": {
+   "title": "Basseterre",
+   "kind": "Capital city",
+   "author": "J. Stephen Conn",
+   "licence": "CC BY-SA 1.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/1.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Basseterre.jpeg"
+  },
+  "PNG": {
+   "title": "Port Moresby",
+   "kind": "Capital city",
+   "author": "MSchlauch",
+   "licence": "Public domain",
+   "licenceUrl": null,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Port_Moresby_Town2_Mschlauch.jpg"
+  },
+  "GAB": {
+   "title": "Ecosystem and Relict Cultural Landscape of Lopé-Okanda",
+   "kind": "World Heritage Site",
+   "author": "FX",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lop%C3%A9_National_Park_river_crop.jpg"
+  },
+  "GMB": {
+   "title": "Kunta Kinteh Island and Related Sites",
+   "kind": "World Heritage Site",
+   "author": "Jose Canedo",
+   "licence": "CC BY-SA 1.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/1.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:River_gambia_galleryfull.jpg"
+  },
+  "IRN": {
+   "title": "Chogha Zanbil",
+   "kind": "World Heritage Site",
+   "author": "Unknown author",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Choghazanbil2.jpg"
+  },
+  "ISR": {
+   "title": "Incense Route – Desert Cities in the Negev",
+   "kind": "World Heritage Site",
+   "author": "Urij at English Wikipedia",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Shivta_ruins_in_the_Negev.jpg"
+  },
+  "SEN": {
+   "title": "Gorée",
+   "kind": "World Heritage Site",
+   "author": "Unknown author",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Senegal_Gor%C3%A9e_island_harbor.jpg"
+  },
+  "MYS": {
+   "title": "Gunung Mulu National Park",
+   "kind": "World Heritage Site",
+   "author": "Juanita at the Japanese wikpedia",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Mulu.JPG"
+  },
+  "CRI": {
+   "title": "Cocos Island National Park",
+   "kind": "World Heritage Site",
+   "author": "J RAWLS",
+   "licence": "CC BY 2.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isla_del_Coco-chatham_beach.jpg"
+  },
+  "RWA": {
+   "title": "Murambi Genocide Memorial",
+   "kind": "World Heritage Site",
+   "author": "taken during the official visit of US Rep. Frank Wolf",
+   "licence": "Public domain",
+   "licenceUrl": null,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rwandan_Genocide_Murambi_skulls.jpg"
+  },
+  "SDN": {
+   "title": "Archaeological Sites of the Island of Meroe",
+   "kind": "World Heritage Site",
+   "author": "Photographer: B N Chagny",
+   "licence": "CC BY-SA 1.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/1.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Sudan_Meroe_Pyramids_2001.JPG"
+  },
+  "SOM": {
+   "title": "Mogadishu",
+   "kind": "Capital city",
+   "author": "CT Snow",
+   "licence": "CC BY 2.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pictures_from_an_armed_convoy_trip_in_Mogadishu.jpg"
+  },
+  "PRI": {
+   "title": "San Juan",
+   "kind": "Capital city",
+   "author": "James Willamor from Raleigh, NC, USA",
+   "licence": "CC BY-SA 2.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:San_Juan,_Puerto_Rico_(2529298606).jpg"
+  },
+  "IOT": {
+   "title": "Diego Garcia",
+   "kind": "Capital city",
+   "author": "Unknown author",
+   "licence": "Public domain",
+   "licenceUrl": null,
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Diegogarcia.jpg"
+  },
+  "NPL": {
+   "title": "Lumbini",
+   "kind": "World Heritage Site",
+   "author": "ผู้สร้างสรรค์ผลงาน/ส่งข้อมูลเก็บในคลังข้อมูลเสรีวิกิมีเดียคอมมอนส์ - เทวประภาส มากคล้าย",
+   "licence": "CC BY 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lumbini_4.jpg"
+  },
+  "CZE": {
+   "title": "Old Town",
+   "kind": "World Heritage Site",
+   "author": "Unknown author",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Prague_from_Klementinum.jpg"
+  },
+  "MDG": {
+   "title": "Tsingy de Bemaraha Strict Nature Reserve",
+   "kind": "World Heritage Site",
+   "author": "My father (who approves of its use)",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tsingy_de_Bemaraha.jpg"
+  },
+  "JAM": {
+   "title": "Kingston",
+   "kind": "Capital city",
+   "author": "The original uploader was Blofeld of SPECTRE at English Wikipedia. (Original text: W. Harris)",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:PortofKingston.jpg"
+  },
+  "MNE": {
+   "title": "The Venetian Works of defence between 15th and 17th centuries",
+   "kind": "World Heritage Site",
+   "author": "IlirikIlirik",
+   "licence": "CC0",
+   "licenceUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cinta_muraria_di_Palmanova.jpg"
+  },
+  "IDN": {
+   "title": "Komodo National Park",
+   "kind": "World Heritage Site",
+   "author": "Adhi Rachdian from Indonesia",
+   "licence": "CC BY 2.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Komodo_dragon_at_Komodo_National_Park.jpg"
+  },
+  "ALB": {
+   "title": "Butrint",
+   "kind": "World Heritage Site",
+   "author": "Marc Morell",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Butrint,_Albania.jpg"
+  },
+  "SXM": {
+   "title": "Philipsburg",
+   "kind": "Capital city",
+   "author": "Clavius66",
+   "licence": "CC BY-SA 3.0",
+   "licenceUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Philipsburg_and_the_Great_Bay,_Sint_Maarten,_Caribbean.jpg"
+  }
+ }
+}
