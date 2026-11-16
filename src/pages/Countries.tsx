@@ -3,6 +3,7 @@ import { Link } from 'react-router-dom';
 import { PageHeader, SourceNote } from '../components/ui';
 import { COUNTRIES, REGIONS, countryPath, fmt } from '../data/countries';
 import { normalize } from '../lib/answers';
+import { flagUrl } from '../lib/difficulty';
 
 export function Countries() {
   const [q, setQ] = useState('');
@@ -43,7 +44,7 @@ export function Countries() {
             <tbody>
               {list.map((c) => (
                 <tr key={c.cca3}>
-                  <th scope="row"><Link to={countryPath(c)}>{c.name}</Link></th>
+                  <th scope="row"><Link to={countryPath(c)} className="country-cell">{c.flag && <img className="flag" src={flagUrl(c)} alt="" width={32} height={24} loading="lazy" />}{c.name}</Link></th>
                   <td>{c.capital.join(', ') || '—'}</td>
                   <td>{c.subregion ?? c.region}</td>
                   <td className="num">{c.area ? fmt.format(c.area.value) : '—'}</td>

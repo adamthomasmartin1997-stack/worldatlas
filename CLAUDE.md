@@ -107,6 +107,10 @@ Keep these five as the top-level sections. New subjects get added inside them, n
 - Check for broken navigation, inaccessible controls and horizontal overflow.
 - Summarise: the files changed, the design decisions you made, and any remaining issues or follow-ups.
 
+## Quizzes and games
+- Multiple-choice games take a difficulty (`?level=easy|medium|hard`, see `src/lib/difficulty.ts`). Easy: better-known countries, wrong answers from far away. Medium: any country, wrong answers from the same region. Hard: lesser-known countries, wrong answers that are close neighbours, just as obscure, or (for flags) share colours. "Well known" is ranked by Wikidata sitelinks and is never shown as a fact.
+- Flags come from flag-icons (MIT), copied to `public/data/flags/<cca3>.svg` by `npm run data:build`.
+
 ## Reference
 - Visual mockups are in the design canvas (https://claude.ai/artifact/Xa6pwUKooFR7TjaivgKExi). The chosen style is **"Green 1 · Atlas Green"**; the homepage headline is "Know the world better than your friends." Match the direction, not pixel-perfect.
 - Inspiration: newworldatlas.com (an atlas plus thematic information) and Gapminder (data storytelling).

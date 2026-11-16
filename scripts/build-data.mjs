@@ -19,6 +19,7 @@
  */
 import { existsSync, mkdirSync, readFileSync, rmSync, writeFileSync } from 'node:fs';
 import { createRequire } from 'node:module';
+import { dirname } from 'node:path';
 
 const require = createRequire(import.meta.url);
 const topo = structuredClone(require('world-atlas/countries-50m.json'));
@@ -48,6 +49,34 @@ const latest = (s) => (s?.length ? s[s.length - 1] : null);
 const citySource = load('data/sources/wikidata-cities.json');
 const geo = load('data/sources/wikidata-geography.json')?.countries ?? {};
 const gov = load('data/sources/wikidata-government.json')?.countries ?? {};
+const fame = load('data/sources/wikidata-fame.json')?.countries ?? {};
+
+/** Flags (flag-icons, MIT): copied per country, plus the colour families each flag uses, for similar-flag quiz options. */
+const FLAG_DIR = dirname(require.resolve('flag-icons/package.json')) + '/flags/4x3';
+function colourFamily(hex) {
+  let h = hex.replace('#', '').toLowerCase();
+  if (h.length === 3) h = [...h].map((x) => x + x).join('');
+  const [r, g, b] = [0, 2, 4].map((i) => parseInt(h.slice(i, i + 2), 16) / 255);
+  const max = Math.max(r, g, b), min = Math.min(r, g, b), l = (max + min) / 2, d = max - min;
+  if (d < 0.12) return l > 0.75 ? 'white' : l < 0.25 ? 'black' : 'grey';
+  let hue = max === r ? ((g - b) / d) % 6 : max === g ? (b - r) / d + 2 : (r - g) / d + 4;
+  hue = (hue * 60 + 360) % 360;
+  if (hue < 15 || hue >= 330) return 'red';
+  if (hue < 40) return 'orange';
+  if (hue < 70) return 'yellow';
+  if (hue < 170) return 'green';
+  if (hue < 260) return 'blue';
+  return 'purple';
+}
+function flagColours(cca2) {
+  const file = `${FLAG_DIR}/${cca2.toLowerCase()}.svg`;
+  if (!existsSync(file)) return null;
+  const svg = readFileSync(file, 'utf8');
+  const counts = {};
+  for (const m of svg.matchAll(/fill(?:=|:)\s*"?(#[0-9a-fA-F]{3,6})\b/g)) counts[colourFamily(m[1])] = (counts[colourFamily(m[1])] ?? 0) + 1;
+  if (/<path(?![^>]*fill)[^>]*>/.test(svg) && !svg.includes('fill="none"')) counts.black = (counts.black ?? 0) + 1; // default fill is black
+  return Object.entries(counts).sort((a, b) => b[1] - a[1]).map(([k]) => k).filter((k) => k !== 'grey').slice(0, 4);
+}
 const orgs = load('data/memberships.json').organisations;
 const cap = (s) => (s ? s[0].toUpperCase() + s.slice(1) : s);
 
@@ -147,11 +176,16 @@ const out = countries
     lifeExpectancy: latest(wb[c.cca3]?.lifeExpectancy) ? { value: Math.round(latest(wb[c.cca3].lifeExpectancy)[1] * 10) / 10, year: latest(wb[c.cca3].lifeExpectancy)[0], source: 'world-bank' } : null,
     government: government(c),
     economyMix: economyMix(c.cca3),
+    flag: flagColours(c.cca2) ? { colours: flagColours(c.cca2) } : null,
+    fame: fame[c.cca3] ?? null,
     hasSeries: Boolean(wb[c.cca3]),
   }))
   .sort((a, b) => a.name.localeCompare(b.name));
 
 writeFileSync('public/data/world-50m.json', JSON.stringify(topo));
+rmSync('public/data/flags', { recursive: true, force: true });
+mkdirSync('public/data/flags', { recursive: true });
+for (const c of out) if (c.flag) writeFileSync(`public/data/flags/${c.cca3.toLowerCase()}.svg`, readFileSync(`${FLAG_DIR}/${c.cca2.toLowerCase()}.svg`));
 writeFileSync('src/data/organisations.json', JSON.stringify(Object.fromEntries(Object.entries(orgs).map(([k, o]) => [k, { name: o.name, text: o.text, url: o.url, the: Boolean(o.the) }])), null, 1));
 writeFileSync(
   'src/data/countries.json',

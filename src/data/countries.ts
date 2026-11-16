@@ -56,6 +56,10 @@ export interface Country {
     exports: { value: number; year: number } | null;
     source: SourceId;
   } | null;
+  /** Flag image is at /data/flags/<cca3>.svg (flag-icons, MIT); colours are its main colour families. */
+  flag: { colours: string[] } | null;
+  /** Wikipedia editions with an article about the country (Wikidata sitelinks). Only used for quiz difficulty. */
+  fame: number | null;
   hasSeries: boolean;
 }
 

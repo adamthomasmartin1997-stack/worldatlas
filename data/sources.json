@@ -37,7 +37,8 @@
         "population (fallback)",
         "total area",
         "highest point (scripts/importers/wikidata.mjs)",
-        "head of state and government offices, anthem, motto (scripts/importers/wikidata-government.mjs)"
+        "head of state and government offices, anthem, motto (scripts/importers/wikidata-government.mjs)",
+        "how well known each country is, for quiz difficulty only (scripts/importers/wikidata-fame.mjs)"
       ]
     },
     "world-bank": {
@@ -58,6 +59,17 @@
       "notes": "Curated by hand in data/memberships.json, with each organisation's own member-list URL. Re-check when membership changes.",
       "usedFor": [
         "memberships of the UN, EU, NATO, African Union and others"
+      ]
+    },
+    "flag-icons": {
+      "name": "flag-icons by Panayiotis Lipiridis",
+      "url": "https://github.com/lipis/flag-icons",
+      "licence": "MIT",
+      "attributionRequired": true,
+      "notes": "SVG flag images. National flags themselves are generally not copyrighted.",
+      "usedFor": [
+        "flag images",
+        "flag games"
       ]
     }
   },

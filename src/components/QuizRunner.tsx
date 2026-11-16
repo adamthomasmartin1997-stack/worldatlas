@@ -51,12 +51,18 @@ export function QuizRunner({ questions, gameId, onRestart, resultsExtra }: { que
       </div>
       <div className="progress-bar" aria-hidden="true"><span style={{ width: `${(i / questions.length) * 100}%` }} /></div>
       <h2 ref={heading} tabIndex={-1} className="quiz-question">{q.q}</h2>
-      <div className="quiz-options" role="group" aria-label="Answers">
+      {q.image && <img className="quiz-flag" src={q.image.src} alt={q.image.alt} width={240} height={180} />}
+      <div className={`quiz-options${q.optionImages ? ' quiz-options-images' : ''}`} role="group" aria-label="Answers">
         {q.options.map((opt, k) => {
           const state = !answered ? '' : k === q.answer ? 'correct' : k === picked ? 'incorrect' : 'faded';
           return (
-            <button key={opt} className={`quiz-option ${state}`} onClick={() => choose(k)} aria-disabled={answered}>
-              <span>{opt}</span>
+            <button key={opt} className={`quiz-option ${state}${q.optionImages ? ' has-image' : ''}`} onClick={() => choose(k)} aria-disabled={answered} aria-label={q.optionImages && !answered ? `Flag ${'ABCD'[k] ?? k + 1}` : undefined}>
+              {q.optionImages ? (
+                <span className="option-image">
+                  <img src={q.optionImages[k]} alt="" width={160} height={120} />
+                  <span className="option-caption">{answered ? opt : `Flag ${'ABCD'[k] ?? k + 1}`}</span>
+                </span>
+              ) : <span>{opt}</span>}
               {state === 'correct' && <Check size={18} aria-label="Correct answer" />}
               {state === 'incorrect' && <X size={18} aria-label="Your answer, incorrect" />}
             </button>

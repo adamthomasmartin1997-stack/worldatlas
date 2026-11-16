@@ -11,6 +11,7 @@ import { COUNTRIES, ORGANISATIONS, countryPath, fmt, getCountry, type Country } 
 import type { SourceId } from '../data/sources';
 import { contentFor, type CountryContent, type Fact as WrittenFact } from '../content/countries';
 import { TOPICS, questionCount, questionsFor, type Topic } from '../lib/quiz';
+import { flagUrl } from '../lib/difficulty';
 import { fmtCompact, fmtPeople, fmtUsd, fmtUsdAxis, fmtYears } from '../lib/format';
 import { NotFound } from './NotFound';
 
@@ -347,7 +348,10 @@ function Profile({ c }: { c: Country }) {
         <div className="country-hero-copy">
           <Breadcrumbs items={[{ to: '/countries', label: 'Countries' }, { to: `/explore?region=${region}`, label: c.region }, { label: c.name }]} />
           <span className="sticker sticker-green">{c.subregion ?? c.region}</span>
-          <h1 id="country-h">{c.name}</h1>
+          <div className="country-title">
+            {c.flag && <img className="flag country-flag" src={flagUrl(c)} alt={`Flag of ${c.name}`} width={96} height={72} />}
+            <h1 id="country-h">{c.name}</h1>
+          </div>
           {c.officialName !== c.name && <p className="country-official">{c.officialName}</p>}
           {!c.sovereign && <span className="tag">{c.status}</span>}
           <p className="country-summary">{summary(c)}</p>
@@ -360,7 +364,7 @@ function Profile({ c }: { c: Country }) {
         <figure className="country-hero-map">
           <CountryMap country={c} />
           <figcaption className="source-note">
-            Map: Natural Earth (public domain). Cities: Wikidata (CC0).
+            Map: Natural Earth (public domain). Cities: Wikidata (CC0). Flag: flag-icons (MIT).
           </figcaption>
         </figure>
       </section>

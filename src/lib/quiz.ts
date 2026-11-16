@@ -1,5 +1,6 @@
 import { COUNTRIES, SOVEREIGN, getCountry, type Country } from '../data/countries';
 import { shuffle } from './answers';
+import { flagSimilarity, flagUrl, pickDistractors, type Difficulty } from './difficulty';
 
 export interface Question {
   q: string;
@@ -7,6 +8,10 @@ export interface Question {
   answer: number;
   explain?: string;
   link?: string;
+  /** A picture to show with the question, e.g. a flag. */
+  image?: { src: string; alt: string };
+  /** Pictures to show instead of the option text (e.g. four flags); names are revealed after answering. */
+  optionImages?: string[];
 }
 
 export const TOPICS = {
@@ -24,8 +29,9 @@ const written = new Map(Object.entries(files).map(([path, data]) => [path.match(
 /** Shuffle options while keeping track of the right answer. */
 export function shuffleOptions(question: Question, rand = Math.random): Question {
   const tagged = question.options.map((text, i) => ({ text, correct: i === question.answer }));
-  const s = shuffle(tagged, rand);
-  return { ...question, options: s.map((o) => o.text), answer: s.findIndex((o) => o.correct) };
+  const tagged2 = tagged.map((o, i) => ({ ...o, image: question.optionImages?.[i] }));
+  const s = shuffle(tagged2, rand);
+  return { ...question, options: s.map((o) => o.text), answer: s.findIndex((o) => o.correct), ...(question.optionImages ? { optionImages: s.map((o) => o.image!) } : {}) };
 }
 
 function distractors(pool: string[], correct: string, n = 3) {
@@ -33,11 +39,16 @@ function distractors(pool: string[], correct: string, n = 3) {
 }
 
 /** Geography questions generated from real data, so every country has a playable quiz. */
-export function geographyQuestions(c: Country): Question[] {
+export function geographyQuestions(c: Country, level: Difficulty = 'medium'): Question[] {
   const qs: Question[] = [];
   const sameRegion = SOVEREIGN.filter((x) => x.region === c.region && x.cca3 !== c.cca3);
   if (c.capital[0]) {
-    qs.push({ q: `What is the capital of ${c.name}?`, options: [c.capital[0], ...distractors(sameRegion.map((x) => x.capital[0]), c.capital[0])], answer: 0 });
+    const others = pickDistractors(c, SOVEREIGN.filter((x) => x.capital[0]), level).map((x) => x.capital[0]).filter((x) => x !== c.capital[0]);
+    qs.push({ q: `What is the capital of ${c.name}?`, options: [c.capital[0], ...new Set(others)], answer: 0 });
+  }
+  if (c.flag) {
+    const others = pickDistractors(c, SOVEREIGN.filter((x) => x.flag), level, 3, level === 'hard' ? flagSimilarity : undefined);
+    qs.push({ q: `Which is the flag of ${c.name}?`, options: [c, ...others].map((x) => x.name), optionImages: [c, ...others].map(flagUrl), answer: 0 });
   }
   if (c.subregion) {
     const subs = [...new Set(COUNTRIES.map((x) => x.subregion).filter((s): s is string => Boolean(s)))];
@@ -66,8 +77,8 @@ export function geographyQuestions(c: Country): Question[] {
   return qs.filter((q) => q.options.length >= 2);
 }
 
-export function questionsFor(c: Country, topic: Topic): Question[] {
-  const qs = topic === 'geography' ? geographyQuestions(c) : (written.get(c.cca3.toLowerCase())?.[topic] ?? []);
+export function questionsFor(c: Country, topic: Topic, level: Difficulty = 'medium'): Question[] {
+  const qs = topic === 'geography' ? geographyQuestions(c, level) : (written.get(c.cca3.toLowerCase())?.[topic] ?? []);
   return qs.map((q) => shuffleOptions(q));
 }
 

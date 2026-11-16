@@ -11,6 +11,7 @@ import { Games } from './pages/Games';
 import { NameTheCountries } from './pages/games/NameTheCountries';
 import { FindOnMap } from './pages/games/FindOnMap';
 import { Capitals } from './pages/games/Capitals';
+import { Flags } from './pages/games/Flags';
 import { Data } from './pages/Data';
 import { DataSources } from './pages/DataSources';
 import { NotFound } from './pages/NotFound';
@@ -31,6 +32,7 @@ const router = createRouter([
       { path: '/games/name-the-countries', element: <NameTheCountries /> },
       { path: '/games/find-on-map', element: <FindOnMap /> },
       { path: '/games/capitals', element: <Capitals /> },
+      { path: '/games/flags', element: <Flags /> },
       { path: '/data', element: <Data /> },
       { path: '/data/sources', element: <DataSources /> },
       { path: '*', element: <NotFound /> },
