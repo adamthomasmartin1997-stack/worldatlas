@@ -50,6 +50,8 @@ const citySource = load('data/sources/wikidata-cities.json');
 const geo = load('data/sources/wikidata-geography.json')?.countries ?? {};
 const gov = load('data/sources/wikidata-government.json')?.countries ?? {};
 const fame = load('data/sources/wikidata-fame.json')?.countries ?? {};
+// Landmark photos (Wikimedia Commons, reusable licences only) from scripts/importers/wikidata-landmarks.mjs.
+const landmarks = load('data/sources/landmarks.json')?.countries ?? {};
 
 /** Flags (flag-icons, MIT): copied per country, plus the colour families each flag uses, for similar-flag quiz options. */
 const FLAG_DIR = dirname(require.resolve('flag-icons/package.json')) + '/flags/4x3';
@@ -191,6 +193,7 @@ const out = countries
     indicators: indicators(c.cca3),
     flag: flagColours(c.cca2) ? { colours: flagColours(c.cca2) } : null,
     fame: fame[c.cca3] ?? null,
+    photo: landmarks[c.cca3] && existsSync(`data/photos/${c.cca3.toLowerCase()}.jpg`) ? landmarks[c.cca3] : null,
     hasSeries: Boolean(wb[c.cca3]),
   }))
   .sort((a, b) => a.name.localeCompare(b.name));
@@ -198,6 +201,9 @@ const out = countries
 writeFileSync('public/data/world-50m.json', JSON.stringify(topo));
 rmSync('public/data/flags', { recursive: true, force: true });
 mkdirSync('public/data/flags', { recursive: true });
+rmSync('public/data/photos', { recursive: true, force: true });
+mkdirSync('public/data/photos', { recursive: true });
+for (const c of out) if (c.photo) writeFileSync(`public/data/photos/${c.cca3.toLowerCase()}.jpg`, readFileSync(`data/photos/${c.cca3.toLowerCase()}.jpg`));
 for (const c of out) if (c.flag) writeFileSync(`public/data/flags/${c.cca3.toLowerCase()}.svg`, readFileSync(`${FLAG_DIR}/${c.cca2.toLowerCase()}.svg`));
 writeFileSync('src/data/organisations.json', JSON.stringify(Object.fromEntries(Object.entries(orgs).map(([k, o]) => [k, { name: o.name, text: o.text, url: o.url, the: Boolean(o.the) }])), null, 1));
 writeFileSync(

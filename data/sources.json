@@ -72,6 +72,16 @@
         "flag images",
         "flag games"
       ]
+    },
+    "wikimedia-commons": {
+      "name": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/",
+      "licence": "Per photo: CC0, public domain, CC BY or CC BY-SA",
+      "attributionRequired": true,
+      "notes": "Only photos whose licence allows reuse are kept. Each photo shows its author and licence next to it (scripts/importers/wikidata-landmarks.mjs).",
+      "usedFor": [
+        "one landmark photo per country"
+      ]
     }
   },
   "doNotUse": {
