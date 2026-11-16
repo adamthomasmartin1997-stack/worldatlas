@@ -100,5 +100,26 @@
     "related": [
       "ARG"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Nigeria has the largest population in Africa.",
+    "Nollywood makes more films each year than almost any other film industry."
+  ],
+  "keyPeople": [
+    {
+      "name": "Chinua Achebe",
+      "role": "Writer",
+      "text": "Wrote Things Fall Apart."
+    },
+    {
+      "name": "Wole Soyinka",
+      "role": "Writer",
+      "text": "Africa's first Nobel Prize winner in Literature, in 1986."
+    },
+    {
+      "name": "Burna Boy",
+      "role": "Musician",
+      "text": "Grammy-winning Afrobeats star."
+    }
+  ]
 }

@@ -84,5 +84,21 @@
         "text": "Triple jump world champion in 2023."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Burkina Faso's name means 'land of upright people'.",
+    "Ouagadougou hosts FESPACO, Africa's biggest film festival."
+  ],
+  "keyPeople": [
+    {
+      "name": "Thomas Sankara",
+      "role": "President",
+      "text": "Renamed the country in 1984."
+    },
+    {
+      "name": "Hugues Fabrice Zango",
+      "role": "Triple jumper",
+      "text": "World champion in 2023."
+    }
+  ]
 }

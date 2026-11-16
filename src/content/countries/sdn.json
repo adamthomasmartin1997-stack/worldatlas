@@ -94,5 +94,16 @@
         "text": "Africa Cup of Nations champions."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Sudan has more pyramids than Egypt.",
+    "The Blue Nile and White Nile meet at Khartoum."
+  ],
+  "keyPeople": [
+    {
+      "name": "Tayeb Salih",
+      "role": "Writer",
+      "text": "Wrote Season of Migration to the North."
+    }
+  ]
 }

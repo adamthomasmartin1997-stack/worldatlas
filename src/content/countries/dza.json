@@ -96,5 +96,26 @@
         "text": "Won Olympic gold on the uneven bars in 2024."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Algeria is the largest country in Africa.",
+    "The Sahara covers more than four-fifths of Algeria."
+  ],
+  "keyPeople": [
+    {
+      "name": "Albert Camus",
+      "role": "Writer",
+      "text": "Born in Algeria; won the Nobel Prize in Literature in 1957."
+    },
+    {
+      "name": "Zinedine Zidane",
+      "role": "Footballer",
+      "text": "Born in France to Algerian parents; won the 1998 World Cup."
+    },
+    {
+      "name": "Kaylia Nemour",
+      "role": "Gymnast",
+      "text": "Won Olympic gold on the uneven bars in 2024."
+    }
+  ]
 }

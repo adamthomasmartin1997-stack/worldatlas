@@ -79,5 +79,16 @@
         "text": "Beat Algeria for their first ever AFCON win."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "The Eye of the Sahara, a giant ring in the desert, is visible from space.",
+    "Mauritania's iron ore trains are among the longest in the world, up to about 2.5 km."
+  ],
+  "keyPeople": [
+    {
+      "name": "Abderrahmane Sissako",
+      "role": "Film director",
+      "text": "His film Timbuktu was nominated for an Oscar."
+    }
+  ]
 }

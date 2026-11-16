@@ -97,5 +97,26 @@
         "text": "Won the Champions League three times."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Cameroon has more than 250 ethnic groups.",
+    "Mount Cameroon is the highest peak in West Africa and an active volcano."
+  ],
+  "keyPeople": [
+    {
+      "name": "Samuel Eto'o",
+      "role": "Footballer",
+      "text": "Won the Champions League three times."
+    },
+    {
+      "name": "Francis Ngannou",
+      "role": "Fighter",
+      "text": "UFC heavyweight champion."
+    },
+    {
+      "name": "Manu Dibango",
+      "role": "Musician",
+      "text": "His saxophone hit 'Soul Makossa' was sampled worldwide."
+    }
+  ]
 }

@@ -85,5 +85,16 @@
         "text": "The national sport, with a yearly championship."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Niger is home to West Africa's last wild giraffes.",
+    "Dinosaur fossils, including Nigersaurus, have been found in Niger's desert."
+  ],
+  "keyPeople": [
+    {
+      "name": "Abdoul Razak Issoufou",
+      "role": "Taekwondo athlete",
+      "text": "Won Olympic silver in 2016."
+    }
+  ]
 }

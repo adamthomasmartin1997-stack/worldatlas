@@ -104,5 +104,26 @@
     "related": [
       "GBR"
     ]
-  }
+  },
+  "didYouKnow": [
+    "The Great Pyramid was the tallest human-made structure in the world for more than 3,800 years.",
+    "About 95% of Egyptians live within a few kilometres of the Nile."
+  ],
+  "keyPeople": [
+    {
+      "name": "Cleopatra VII",
+      "role": "Pharaoh",
+      "text": "The last active ruler of ancient Egypt."
+    },
+    {
+      "name": "Naguib Mahfouz",
+      "role": "Writer",
+      "text": "Won the Nobel Prize in Literature in 1988."
+    },
+    {
+      "name": "Mohamed Salah",
+      "role": "Footballer",
+      "text": "Liverpool and Egypt star."
+    }
+  ]
 }

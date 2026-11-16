@@ -85,5 +85,21 @@
         "text": "Africa Cup of Nations quarter-finalists."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Benin was the birthplace of Vodun, which has its own national holiday every 10 January.",
+    "Ganvié is a whole town built on stilts in a lake."
+  ],
+  "keyPeople": [
+    {
+      "name": "Angélique Kidjo",
+      "role": "Singer",
+      "text": "Has won five Grammy Awards."
+    },
+    {
+      "name": "Djimon Hounsou",
+      "role": "Actor",
+      "text": "Twice nominated for an Oscar."
+    }
+  ]
 }

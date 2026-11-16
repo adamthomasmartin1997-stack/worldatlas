@@ -83,5 +83,16 @@
         "text": "A hard enduro motorcycle race through the mountains."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Lesotho is the only country in the world entirely above 1,000 metres.",
+    "Lesotho is completely surrounded by South Africa."
+  ],
+  "keyPeople": [
+    {
+      "name": "Moshoeshoe I",
+      "role": "King",
+      "text": "United the Basotho nation in the 1800s."
+    }
+  ]
 }

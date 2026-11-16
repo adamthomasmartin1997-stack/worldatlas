@@ -81,5 +81,16 @@
         "text": "Ahmed Salah won Olympic marathon bronze."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Lake Assal in Djibouti is the lowest point in Africa, about 155 metres below sea level.",
+    "Several countries, including the US, France and China, have military bases in Djibouti."
+  ],
+  "keyPeople": [
+    {
+      "name": "Ayanleh Souleiman",
+      "role": "Runner",
+      "text": "World indoor 1,500 m champion in 2014."
+    }
+  ]
 }

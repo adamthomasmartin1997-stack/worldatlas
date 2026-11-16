@@ -101,5 +101,26 @@
     "related": [
       "ETH"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Kenya's Lake Turkana is the world's largest permanent desert lake.",
+    "M-Pesa, launched in Kenya in 2007, was one of the first mobile money services."
+  ],
+  "keyPeople": [
+    {
+      "name": "Wangari Maathai",
+      "role": "Environmentalist",
+      "text": "Won the Nobel Peace Prize in 2004."
+    },
+    {
+      "name": "Eliud Kipchoge",
+      "role": "Runner",
+      "text": "First person to run a marathon in under two hours."
+    },
+    {
+      "name": "Lupita Nyong'o",
+      "role": "Actor",
+      "text": "Won an Oscar in 2014."
+    }
+  ]
 }

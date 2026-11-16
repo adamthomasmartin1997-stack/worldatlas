@@ -87,5 +87,16 @@
         "text": "A traditional sport across the Sahel."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Lake Chad has shrunk by about 90% since the 1960s.",
+    "The Ennedi plateau has natural rock arches and rock paintings thousands of years old."
+  ],
+  "keyPeople": [
+    {
+      "name": "Toumaï",
+      "role": "Fossil",
+      "text": "A 7-million-year-old skull found in Chad, among the oldest known human relatives."
+    }
+  ]
 }

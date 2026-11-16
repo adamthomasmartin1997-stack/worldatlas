@@ -98,5 +98,21 @@
         "text": "Namibia has played at every Rugby World Cup since 1999."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "The Namib is thought to be the oldest desert in the world.",
+    "Namibia was the first country to put environmental protection in its constitution."
+  ],
+  "keyPeople": [
+    {
+      "name": "Sam Nujoma",
+      "role": "President",
+      "text": "Namibia's first President."
+    },
+    {
+      "name": "Frankie Fredericks",
+      "role": "Sprinter",
+      "text": "Won four Olympic silver medals."
+    }
+  ]
 }

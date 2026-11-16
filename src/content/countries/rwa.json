@@ -92,5 +92,21 @@
         "text": "Finals held in Kigali."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Rwanda has the highest share of women in parliament in the world.",
+    "Plastic bags have been banned in Rwanda since 2008."
+  ],
+  "keyPeople": [
+    {
+      "name": "Paul Kagame",
+      "role": "President",
+      "text": "Has led Rwanda since 2000."
+    },
+    {
+      "name": "Immaculée Ilibagiza",
+      "role": "Writer",
+      "text": "Wrote Left to Tell, about surviving the 1994 genocide."
+    }
+  ]
 }

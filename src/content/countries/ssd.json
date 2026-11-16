@@ -87,5 +87,21 @@
         "text": "South Sudan's first Olympic basketball team."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "South Sudan became the world's newest country in 2011.",
+    "The Sudd is one of the largest wetlands in the world."
+  ],
+  "keyPeople": [
+    {
+      "name": "Luol Deng",
+      "role": "Basketball player",
+      "text": "NBA All-Star and president of South Sudan's basketball federation."
+    },
+    {
+      "name": "Manute Bol",
+      "role": "Basketball player",
+      "text": "At 2.31 m, one of the tallest players in NBA history."
+    }
+  ]
 }

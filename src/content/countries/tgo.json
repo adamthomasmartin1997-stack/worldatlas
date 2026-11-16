@@ -87,5 +87,16 @@
         "text": "African Footballer of the Year in 2008."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Togo is long and narrow: about 550 km from north to south, but only about 50 km wide along its coast.",
+    "Lomé's market sells ingredients for traditional Vodun medicine."
+  ],
+  "keyPeople": [
+    {
+      "name": "Emmanuel Adebayor",
+      "role": "Footballer",
+      "text": "African Footballer of the Year in 2008."
+    }
+  ]
 }

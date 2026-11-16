@@ -95,5 +95,16 @@
         "text": "Bruno Julie won boxing bronze."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "The dodo lived only on Mauritius and died out in the 1600s.",
+    "Mauritius's Champ de Mars, opened in 1812, is one of the oldest racecourses in the southern hemisphere."
+  ],
+  "keyPeople": [
+    {
+      "name": "Seewoosagur Ramgoolam",
+      "role": "Prime Minister",
+      "text": "Led Mauritius to independence in 1968."
+    }
+  ]
 }

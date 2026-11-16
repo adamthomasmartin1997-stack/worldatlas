@@ -83,5 +83,16 @@
         "text": "African basketball champions."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "The Central African Republic is one of the least densely populated countries in Africa.",
+    "Dzanga-Sangha reserve has forest elephants and western lowland gorillas."
+  ],
+  "keyPeople": [
+    {
+      "name": "Barthélemy Boganda",
+      "role": "Independence leader",
+      "text": "Founding father of the country."
+    }
+  ]
 }

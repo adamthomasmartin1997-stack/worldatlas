@@ -103,5 +103,26 @@
     "related": [
       "FRA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Lac Rose, near Dakar, is pink because of algae in its very salty water.",
+    "Dakar hosted the 2026 Youth Olympic Games, the first Olympic event in Africa."
+  ],
+  "keyPeople": [
+    {
+      "name": "Léopold Sédar Senghor",
+      "role": "Poet and President",
+      "text": "Senegal's first President."
+    },
+    {
+      "name": "Youssou N'Dour",
+      "role": "Singer",
+      "text": "One of Africa's most famous musicians."
+    },
+    {
+      "name": "Sadio Mané",
+      "role": "Footballer",
+      "text": "Won the Champions League with Liverpool."
+    }
+  ]
 }

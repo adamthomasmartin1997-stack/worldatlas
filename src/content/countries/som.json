@@ -91,5 +91,21 @@
     "related": [
       "GBR"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Somalia has the longest coastline in mainland Africa.",
+    "Somalia has more camels than any other country."
+  ],
+  "keyPeople": [
+    {
+      "name": "Mo Farah",
+      "role": "Runner",
+      "text": "Born in Mogadishu; won four Olympic golds for Great Britain."
+    },
+    {
+      "name": "Iman",
+      "role": "Model",
+      "text": "Born in Mogadishu; a fashion icon."
+    }
+  ]
 }

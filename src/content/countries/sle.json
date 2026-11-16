@@ -90,5 +90,16 @@
         "text": "The men's football team."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Freetown was founded in 1787 as a home for freed slaves.",
+    "Sierra Leone has one of the world's largest natural harbours."
+  ],
+  "keyPeople": [
+    {
+      "name": "Ishmael Beah",
+      "role": "Writer",
+      "text": "Wrote A Long Way Gone about life as a child soldier."
+    }
+  ]
 }

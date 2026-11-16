@@ -91,5 +91,16 @@
         "text": "A regional multi-sport event."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Seychelles is Africa's smallest country by population.",
+    "The coco de mer palm in Seychelles produces the largest seed in the plant world."
+  ],
+  "keyPeople": [
+    {
+      "name": "James Mancham",
+      "role": "President",
+      "text": "First President of Seychelles."
+    }
+  ]
 }

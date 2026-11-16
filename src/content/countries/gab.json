@@ -88,5 +88,21 @@
         "text": "Taekwondo silver, Gabon's first Olympic medal."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "About 88% of Gabon is covered by rainforest.",
+    "Hippos in Gabon's Loango National Park swim in the sea."
+  ],
+  "keyPeople": [
+    {
+      "name": "Pierre-Emerick Aubameyang",
+      "role": "Footballer",
+      "text": "African Footballer of the Year in 2015."
+    },
+    {
+      "name": "Albert Schweitzer",
+      "role": "Doctor",
+      "text": "Founded a hospital at Lambaréné; won the Nobel Peace Prize."
+    }
+  ]
 }

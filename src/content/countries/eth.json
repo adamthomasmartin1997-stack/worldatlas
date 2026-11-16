@@ -104,5 +104,26 @@
       "ITA",
       "KEN"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Ethiopia uses its own calendar, about seven years behind the one used in most of the world.",
+    "Coffee is thought to have first been discovered in Ethiopia."
+  ],
+  "keyPeople": [
+    {
+      "name": "Abebe Bikila",
+      "role": "Runner",
+      "text": "Won the 1960 Olympic marathon barefoot."
+    },
+    {
+      "name": "Haile Selassie",
+      "role": "Emperor",
+      "text": "Ruled Ethiopia from 1930 to 1974."
+    },
+    {
+      "name": "Tirunesh Dibaba",
+      "role": "Runner",
+      "text": "Won three Olympic golds."
+    }
+  ]
 }

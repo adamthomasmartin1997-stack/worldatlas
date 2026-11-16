@@ -104,5 +104,26 @@
       "ESP",
       "PRT"
     ]
-  }
+  },
+  "didYouKnow": [
+    "The University of al-Qarawiyyin in Fez, founded in 859, is often called the oldest working university in the world.",
+    "Morocco is the world's largest exporter of phosphates."
+  ],
+  "keyPeople": [
+    {
+      "name": "Ibn Battuta",
+      "role": "Traveller",
+      "text": "Travelled about 120,000 km across Africa and Asia in the 1300s."
+    },
+    {
+      "name": "Hicham El Guerrouj",
+      "role": "Runner",
+      "text": "Holds the mile world record."
+    },
+    {
+      "name": "Achraf Hakimi",
+      "role": "Footballer",
+      "text": "Star of Morocco's 2022 World Cup team."
+    }
+  ]
 }

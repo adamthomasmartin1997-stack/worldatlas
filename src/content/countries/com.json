@@ -83,5 +83,16 @@
         "text": "Reached the AFCON last 16 at its first tournament."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "The Comoros is one of the world's biggest producers of ylang-ylang, a flower used in perfume.",
+    "The coelacanth, a fish once thought extinct for 66 million years, lives in Comorian waters."
+  ],
+  "keyPeople": [
+    {
+      "name": "Said Mohamed Cheikh",
+      "role": "Politician",
+      "text": "Led the islands in the years before independence."
+    }
+  ]
 }

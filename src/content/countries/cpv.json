@@ -90,5 +90,21 @@
         "text": "Played at the Basketball World Cup."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "More Cape Verdeans live abroad than in Cabo Verde itself.",
+    "Cabo Verde's islands were uninhabited until the Portuguese arrived in the 1400s."
+  ],
+  "keyPeople": [
+    {
+      "name": "Cesária Évora",
+      "role": "Singer",
+      "text": "The 'barefoot diva' of morna music."
+    },
+    {
+      "name": "Amílcar Cabral",
+      "role": "Independence leader",
+      "text": "Led the fight against Portuguese rule."
+    }
+  ]
 }

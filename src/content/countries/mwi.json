@@ -82,5 +82,21 @@
       "NZL",
       "AUS"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Lake Malawi has more species of fish than any other lake in the world.",
+    "Malawi is called 'the warm heart of Africa'."
+  ],
+  "keyPeople": [
+    {
+      "name": "Joyce Banda",
+      "role": "President",
+      "text": "Malawi's first female President."
+    },
+    {
+      "name": "William Kamkwamba",
+      "role": "Inventor",
+      "text": "Built a windmill from scrap as a teenager to power his home."
+    }
+  ]
 }

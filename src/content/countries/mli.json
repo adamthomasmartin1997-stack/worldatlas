@@ -93,5 +93,21 @@
         "text": "Won the Champions League with Barcelona."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "The Great Mosque of Djenné is the largest mud-brick building in the world.",
+    "Mansa Musa of Mali is often called one of the richest people in history."
+  ],
+  "keyPeople": [
+    {
+      "name": "Mansa Musa",
+      "role": "Emperor",
+      "text": "Ruled the Mali Empire in the 1300s."
+    },
+    {
+      "name": "Salif Keita",
+      "role": "Singer",
+      "text": "The 'Golden Voice of Africa'."
+    }
+  ]
 }

@@ -81,5 +81,16 @@
         "text": "The men's national football team."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Eswatini is one of the last absolute monarchies in the world.",
+    "The country changed its name from Swaziland in 2018."
+  ],
+  "keyPeople": [
+    {
+      "name": "Mswati III",
+      "role": "King",
+      "text": "Has reigned since 1986."
+    }
+  ]
 }

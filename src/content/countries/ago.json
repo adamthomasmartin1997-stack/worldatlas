@@ -91,5 +91,21 @@
         "text": "Angola's first men's World Cup."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Angola's Kalandula Falls are among the largest waterfalls in Africa by volume.",
+    "Kizomba dance, now popular worldwide, began in Angola."
+  ],
+  "keyPeople": [
+    {
+      "name": "Queen Nzinga",
+      "role": "Queen",
+      "text": "Resisted Portuguese rule in the 1600s."
+    },
+    {
+      "name": "Bonga",
+      "role": "Singer",
+      "text": "One of Angola's most famous musicians."
+    }
+  ]
 }

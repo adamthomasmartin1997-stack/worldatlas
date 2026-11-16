@@ -83,5 +83,21 @@
         "text": "Vénuste Niyongabo won Olympic 5,000 m gold."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Lake Tanganyika, on Burundi's border, is the second-deepest lake in the world.",
+    "Burundi's royal drummers perform with huge drums balanced on their heads."
+  ],
+  "keyPeople": [
+    {
+      "name": "Vénuste Niyongabo",
+      "role": "Runner",
+      "text": "Won Olympic 5,000 m gold in 1996."
+    },
+    {
+      "name": "Francine Niyonsaba",
+      "role": "Runner",
+      "text": "Olympic 800 m silver medallist in 2016."
+    }
+  ]
 }

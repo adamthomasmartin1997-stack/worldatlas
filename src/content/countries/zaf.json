@@ -104,5 +104,26 @@
     "related": [
       "NZL"
     ]
-  }
+  },
+  "didYouKnow": [
+    "South Africa has three capital cities: Pretoria, Cape Town and Bloemfontein.",
+    "The world's first heart transplant was carried out in Cape Town in 1967."
+  ],
+  "keyPeople": [
+    {
+      "name": "Nelson Mandela",
+      "role": "President",
+      "text": "Spent 27 years in prison and became the first Black president."
+    },
+    {
+      "name": "Desmond Tutu",
+      "role": "Archbishop",
+      "text": "Won the Nobel Peace Prize in 1984."
+    },
+    {
+      "name": "Siya Kolisi",
+      "role": "Rugby player",
+      "text": "Captained the Springboks to two World Cups."
+    }
+  ]
 }

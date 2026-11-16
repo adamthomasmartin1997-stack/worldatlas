@@ -99,5 +99,26 @@
     "related": [
       "URY"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Lake Volta in Ghana is one of the largest artificial lakes in the world by area.",
+    "Ghana was the first country in sub-Saharan Africa to win independence from colonial rule, in 1957."
+  ],
+  "keyPeople": [
+    {
+      "name": "Kwame Nkrumah",
+      "role": "Independence leader",
+      "text": "Ghana's first Prime Minister and President."
+    },
+    {
+      "name": "Kofi Annan",
+      "role": "Diplomat",
+      "text": "UN Secretary-General and Nobel Peace Prize winner."
+    },
+    {
+      "name": "Azumah Nelson",
+      "role": "Boxer",
+      "text": "World champion in two weight classes."
+    }
+  ]
 }

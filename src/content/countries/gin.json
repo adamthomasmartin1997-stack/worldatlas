@@ -79,5 +79,21 @@
         "text": "Africa Cup of Nations runners-up."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Guinea has the world's largest reserves of bauxite, used to make aluminium.",
+    "The Niger, Senegal and Gambia rivers all begin in Guinea's highlands."
+  ],
+  "keyPeople": [
+    {
+      "name": "Ahmed Sékou Touré",
+      "role": "President",
+      "text": "Led Guinea to independence in 1958."
+    },
+    {
+      "name": "Naby Keïta",
+      "role": "Footballer",
+      "text": "Won the Champions League with Liverpool."
+    }
+  ]
 }

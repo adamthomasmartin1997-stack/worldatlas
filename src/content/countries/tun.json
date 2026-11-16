@@ -111,5 +111,26 @@
         "text": "Olympic 400 m freestyle champion in 2021."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Parts of Star Wars were filmed in Tunisia, and a desert town gave its name to Luke Skywalker's home planet, Tatooine.",
+    "Tunisia's revolution in 2011 began the Arab Spring."
+  ],
+  "keyPeople": [
+    {
+      "name": "Hannibal",
+      "role": "General",
+      "text": "Led elephants across the Alps against Rome."
+    },
+    {
+      "name": "Ibn Khaldun",
+      "role": "Historian",
+      "text": "Born in Tunis in 1332; a pioneer of sociology."
+    },
+    {
+      "name": "Ons Jabeur",
+      "role": "Tennis player",
+      "text": "First Arab woman to reach a Grand Slam final."
+    }
+  ]
 }

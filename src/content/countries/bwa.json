@@ -86,5 +86,21 @@
         "text": "Won 800 m silver at the 2012 Olympics."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Botswana has more elephants than any other country, about 130,000.",
+    "The Okavango is a river delta that floods into the desert instead of the sea."
+  ],
+  "keyPeople": [
+    {
+      "name": "Seretse Khama",
+      "role": "President",
+      "text": "Botswana's first President."
+    },
+    {
+      "name": "Letsile Tebogo",
+      "role": "Sprinter",
+      "text": "Olympic 200 m champion in 2024."
+    }
+  ]
 }

@@ -99,5 +99,21 @@
         "text": "Won 400 m hurdles gold in 1972."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "About half of the world's mountain gorillas live in Uganda.",
+    "The White Nile flows out of Lake Victoria at Jinja, in Uganda."
+  ],
+  "keyPeople": [
+    {
+      "name": "Joshua Cheptegei",
+      "role": "Runner",
+      "text": "Holds the 5,000 m and 10,000 m world records."
+    },
+    {
+      "name": "John Akii-Bua",
+      "role": "Hurdler",
+      "text": "Uganda's first Olympic champion, in 1972."
+    }
+  ]
 }

@@ -92,5 +92,21 @@
         "text": "The women's hockey team won Olympic gold."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Zimbabwe printed a 100 trillion dollar banknote in 2009.",
+    "Great Zimbabwe's stone walls were built without mortar."
+  ],
+  "keyPeople": [
+    {
+      "name": "Kirsty Coventry",
+      "role": "Swimmer and IOC President",
+      "text": "Won seven Olympic medals; became IOC President in 2025."
+    },
+    {
+      "name": "Tsitsi Dangarembga",
+      "role": "Writer and filmmaker",
+      "text": "Shortlisted for the Booker Prize in 2020."
+    }
+  ]
 }

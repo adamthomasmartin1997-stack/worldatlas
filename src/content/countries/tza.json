@@ -95,5 +95,26 @@
       "KEN",
       "UGA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Mount Kilimanjaro is the highest free-standing mountain in the world.",
+    "Freddie Mercury of Queen was born in Zanzibar."
+  ],
+  "keyPeople": [
+    {
+      "name": "Julius Nyerere",
+      "role": "President",
+      "text": "Led Tanganyika to independence."
+    },
+    {
+      "name": "Abdulrazak Gurnah",
+      "role": "Writer",
+      "text": "Born in Zanzibar; won the Nobel Prize in Literature in 2021."
+    },
+    {
+      "name": "Freddie Mercury",
+      "role": "Singer",
+      "text": "Born in Stone Town in 1946."
+    }
+  ]
 }

@@ -86,5 +86,16 @@
         "text": "The national team is called Falcões e Papagaios: the falcons and parrots."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "São Tomé and Príncipe was once the world's biggest producer of cocoa, around 1908.",
+    "The equator runs through a small island off São Tomé, Ilhéu das Rolas."
+  ],
+  "keyPeople": [
+    {
+      "name": "Francisco José Tenreiro",
+      "role": "Poet",
+      "text": "A founder of Portuguese-language African poetry."
+    }
+  ]
 }

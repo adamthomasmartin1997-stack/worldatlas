@@ -86,5 +86,16 @@
         "text": "Africa Cup of Nations champions."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Brazzaville and Kinshasa are the closest pair of capital cities in the world, apart from Rome and Vatican City.",
+    "Brazzaville was the capital of Free France during the Second World War."
+  ],
+  "keyPeople": [
+    {
+      "name": "Sony Labou Tansi",
+      "role": "Writer",
+      "text": "A leading African novelist and playwright."
+    }
+  ]
 }

@@ -84,5 +84,21 @@
         "text": "Chelsea legend who helped bring a ceasefire in 2005."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Côte d'Ivoire grows about 40% of the world's cocoa.",
+    "Yamoussoukro's basilica is one of the largest churches in the world."
+  ],
+  "keyPeople": [
+    {
+      "name": "Didier Drogba",
+      "role": "Footballer",
+      "text": "Helped bring a ceasefire in 2005 with a televised appeal."
+    },
+    {
+      "name": "Félix Houphouët-Boigny",
+      "role": "President",
+      "text": "The country's first President."
+    }
+  ]
 }

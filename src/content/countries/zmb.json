@@ -88,5 +88,21 @@
         "text": "Star forward of the women's team."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Victoria Falls, shared with Zimbabwe, is called 'the smoke that thunders'.",
+    "About 10 million fruit bats arrive at Zambia's Kasanka park every year."
+  ],
+  "keyPeople": [
+    {
+      "name": "Kenneth Kaunda",
+      "role": "President",
+      "text": "Zambia's first President."
+    },
+    {
+      "name": "Barbra Banda",
+      "role": "Footballer",
+      "text": "Star of Zambia's women's team."
+    }
+  ]
 }

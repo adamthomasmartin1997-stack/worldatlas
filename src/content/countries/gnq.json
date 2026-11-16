@@ -88,5 +88,16 @@
         "text": "Eric Moussambani had learned to swim just months before the 2000 Olympics."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Equatorial Guinea's capital, Malabo, is on an island, not the mainland.",
+    "It is the only African country with Spanish as an official language."
+  ],
+  "keyPeople": [
+    {
+      "name": "Eric Moussambani",
+      "role": "Swimmer",
+      "text": "Became famous as 'Eric the Eel' at the 2000 Olympics."
+    }
+  ]
 }

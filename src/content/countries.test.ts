@@ -17,6 +17,11 @@ describe('country content', () => {
       if (content.status === 'reviewed') expect(content.sources?.length).toBeGreaterThan(0);
     }
   });
+  it('every country has Did you know? facts and famous people', () => {
+    const missing = SOVEREIGN.filter((c) => !contentFor(c.cca3)?.didYouKnow?.length || !contentFor(c.cca3)?.keyPeople?.length).map((c) => c.cca3);
+    expect(missing).toEqual([]);
+  });
+
   it('related country codes all exist', () => {
     for (const c of SOVEREIGN) {
       const content = contentFor(c.cca3)!;

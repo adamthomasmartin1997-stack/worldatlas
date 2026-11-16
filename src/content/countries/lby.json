@@ -82,5 +82,16 @@
         "text": "Africa Cup of Nations hosts and runners-up."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "One of the highest air temperatures ever reported, 58 °C at Al Aziziyah in 1922, was later ruled invalid.",
+    "More than 90% of Libya is desert."
+  ],
+  "keyPeople": [
+    {
+      "name": "Omar Mukhtar",
+      "role": "Resistance leader",
+      "text": "Led the fight against Italian rule."
+    }
+  ]
 }

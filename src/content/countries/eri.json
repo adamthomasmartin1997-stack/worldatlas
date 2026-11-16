@@ -97,5 +97,21 @@
       "FRA",
       "ITA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Asmara is famous for its 1930s Italian modernist buildings and is a UNESCO site.",
+    "Cycling is Eritrea's favourite sport."
+  ],
+  "keyPeople": [
+    {
+      "name": "Biniam Girmay",
+      "role": "Cyclist",
+      "text": "First Black African to win a Tour de France stage, in 2024."
+    },
+    {
+      "name": "Zersenay Tadese",
+      "role": "Runner",
+      "text": "Set the half-marathon world record in 2010."
+    }
+  ]
 }

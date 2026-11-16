@@ -106,5 +106,26 @@
     "related": [
       "USA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "The Congo River is the deepest river in the world, at over 220 metres in places.",
+    "The DR Congo is the world's biggest producer of cobalt, used in phone batteries."
+  ],
+  "keyPeople": [
+    {
+      "name": "Patrice Lumumba",
+      "role": "Prime Minister",
+      "text": "First Prime Minister after independence in 1960."
+    },
+    {
+      "name": "Dikembe Mutombo",
+      "role": "Basketball player",
+      "text": "NBA Hall of Famer known for blocking shots."
+    },
+    {
+      "name": "Denis Mukwege",
+      "role": "Doctor",
+      "text": "Won the Nobel Peace Prize in 2018."
+    }
+  ]
 }

@@ -79,5 +79,16 @@
         "text": "First Africa Cup of Nations."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "The Bijagós Islands are home to saltwater hippos.",
+    "Guinea-Bissau is one of the world's largest producers of cashew nuts."
+  ],
+  "keyPeople": [
+    {
+      "name": "Amílcar Cabral",
+      "role": "Independence leader",
+      "text": "Led the struggle against Portuguese rule."
+    }
+  ]
 }

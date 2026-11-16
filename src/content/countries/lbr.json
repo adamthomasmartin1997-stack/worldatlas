@@ -77,5 +77,26 @@
         "text": "Ballon d'Or winner who became President."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Liberia is Africa's oldest republic, independent since 1847.",
+    "Monrovia is named after US President James Monroe."
+  ],
+  "keyPeople": [
+    {
+      "name": "Ellen Johnson Sirleaf",
+      "role": "President",
+      "text": "Africa's first elected female head of state; Nobel Peace Prize 2011."
+    },
+    {
+      "name": "George Weah",
+      "role": "Footballer and President",
+      "text": "Won the Ballon d'Or in 1995."
+    },
+    {
+      "name": "Leymah Gbowee",
+      "role": "Peace activist",
+      "text": "Shared the Nobel Peace Prize in 2011."
+    }
+  ]
 }

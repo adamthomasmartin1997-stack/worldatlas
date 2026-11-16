@@ -91,5 +91,26 @@
     "related": [
       "PRT"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Mozambique's flag is the only national flag with a modern rifle on it.",
+    "Mozambique has more than 2,400 km of Indian Ocean coastline."
+  ],
+  "keyPeople": [
+    {
+      "name": "Samora Machel",
+      "role": "President",
+      "text": "First President after independence."
+    },
+    {
+      "name": "Maria Mutola",
+      "role": "Runner",
+      "text": "Olympic 800 m champion in 2000."
+    },
+    {
+      "name": "Eusébio",
+      "role": "Footballer",
+      "text": "Born in Maputo; a Portugal and Benfica legend."
+    }
+  ]
 }

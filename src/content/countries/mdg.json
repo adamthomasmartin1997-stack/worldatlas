@@ -86,5 +86,16 @@
         "text": "The national sport, with huge crowds in Antananarivo."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "About 90% of Madagascar's wildlife is found nowhere else on Earth.",
+    "Madagascar produces most of the world's vanilla."
+  ],
+  "keyPeople": [
+    {
+      "name": "Ranavalona I",
+      "role": "Queen",
+      "text": "Ruled the Merina kingdom in the 1800s."
+    }
+  ]
 }
