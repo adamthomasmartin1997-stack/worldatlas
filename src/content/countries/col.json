@@ -5,7 +5,17 @@
     "Colombia is a country in the north-west of South America, and the only South American country with coastlines on both the Pacific Ocean and the Caribbean Sea. Its capital and largest city is Bogotá. Colombia won independence from Spain in the 1810s and is named after Christopher Columbus. It is one of the world's leading producers of coffee and emeralds."
   ],
   "geography": {
-    "text": "Three ranges of the Andes run north through western Colombia, with fertile valleys between them where most people live. To the east are the grassy plains of the Llanos and the Amazon rainforest. Colombia is one of the most biodiverse countries on Earth, with more kinds of birds than any other country."
+    "text": "Three ranges of the Andes run north through western Colombia, with fertile valleys between them where most people live. To the east are the grassy plains of the Llanos and the Amazon rainforest. Colombia is one of the most biodiverse countries on Earth, with more kinds of birds than any other country.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot on the coasts and in the Amazon, but mild all year in the mountain cities of Bogotá and Medellín."
+      },
+      {
+        "title": "Wildlife",
+        "text": "More bird species than any other country, plus jaguars, spectacled bears and humpback whales off the Pacific coast."
+      }
+    ]
   },
   "history": {
     "text": "Colombia was home to peoples such as the Muisca, whose gold-working inspired the legend of El Dorado. It was the heart of the Spanish colony of New Granada and won independence in 1819 under Simón Bolívar. Decades of conflict between the government, guerrillas, paramilitaries and drug cartels marked the late 1900s, and a peace deal with the FARC rebels was signed in 2016.",
@@ -79,6 +89,20 @@
     "related": [
       "ESP",
       "VEN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Arepas, corn cakes, and bandeja paisa, a huge plate of beans, rice, meat and egg."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Cumbia and vallenato music, reggaeton stars, and the novels of García Márquez."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The Barranquilla Carnival, listed by UNESCO, is one of the biggest in the world."
+      }
     ]
   },
   "sport": {

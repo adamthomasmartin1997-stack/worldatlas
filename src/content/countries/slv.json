@@ -5,7 +5,17 @@
     "El Salvador is the smallest country in Central America and the only one without a Caribbean coastline. Its capital and largest city is San Salvador. El Salvador became independent from Spain in 1821, at first as part of a Central American federation. It uses the US dollar, and in 2021 it became the first country to adopt Bitcoin as legal money."
   ],
   "geography": {
-    "text": "El Salvador faces the Pacific Ocean. A line of volcanoes runs across the country, and earthquakes are common. Between the volcanic highlands and the coastal plain lies a central plateau where most people live, and the Lempa is its main river."
+    "text": "El Salvador faces the Pacific Ocean. A line of volcanoes runs across the country, and earthquakes are common. Between the volcanic highlands and the coastal plain lies a central plateau where most people live, and the Lempa is its main river.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and tropical, with a rainy season from May to October."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Sea turtles nest on the Pacific beaches, and many birds live in the cloud forests."
+      }
+    ]
   },
   "history": {
     "text": "El Salvador was home to the Pipil people before the Spanish conquest. It became independent in 1821 and was dominated for a long time by coffee-growing landowners. A civil war from 1980 to 1992 killed around 75,000 people and ended with peace accords.",
@@ -73,6 +83,20 @@
     "related": [
       "HND",
       "USA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Pupusas, thick tortillas stuffed with cheese, beans or pork."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Painted wooden crafts from La Palma, in bright naïve style, are famous."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "In Nejapa, people throw fireballs at each other in a festival called Las Bolas de Fuego."
+      }
     ]
   },
   "sport": {

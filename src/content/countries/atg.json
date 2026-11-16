@@ -5,7 +5,17 @@
     "Antigua and Barbuda is a small island country in the eastern Caribbean, made up of two main islands and several smaller ones. Its capital, St. John's, is on Antigua. It became independent from the United Kingdom in 1981, and the British monarch is still its head of state. Tourism is by far the biggest part of its economy."
   ],
   "geography": {
-    "text": "Antigua is low and hilly, with a coastline full of bays, beaches and coral reefs; it is often said to have a beach for every day of the year. Barbuda, to the north, is flat and much less populated, and its large lagoon is home to a colony of frigate birds. The islands lie in the path of Atlantic hurricanes."
+    "text": "Antigua is low and hilly, with a coastline full of bays, beaches and coral reefs; it is often said to have a beach for every day of the year. Barbuda, to the north, is flat and much less populated, and its large lagoon is home to a colony of frigate birds. The islands lie in the path of Atlantic hurricanes.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical and sunny, cooled by trade winds; the hurricane season runs from June to November."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Frigatebirds nest in Barbuda's lagoon, and hawksbill turtles lay eggs on the beaches."
+      }
+    ]
   },
   "history": {
     "text": "Antigua was home to Indigenous Arawak and Kalinago peoples before the English settled it in 1632 and built sugar plantations worked by enslaved Africans. Slavery was abolished in 1834. English Harbour became an important base for the British navy. Antigua and Barbuda became independent in 1981.",
@@ -75,6 +85,20 @@
     ],
     "related": [
       "GBR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Fungee and pepperpot, a cornmeal dish with a spicy stew, is the national dish."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Calypso, soca and steel bands fill the islands with music, especially at Carnival."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Carnival, held each summer, celebrates the end of slavery in 1834."
+      }
     ]
   },
   "sport": {

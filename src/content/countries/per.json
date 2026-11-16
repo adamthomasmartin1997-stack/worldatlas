@@ -5,7 +5,17 @@
     "Peru is a country on the west coast of South America. Its capital and largest city is Lima. Peru was the centre of the Inca Empire, and its mountain city of Machu Picchu is one of the most famous archaeological sites in the world. Peru won independence from Spain in 1821. Spanish, Quechua and Aymara are official languages."
   ],
   "geography": {
-    "text": "Peru has three main regions: a narrow desert along the Pacific coast, the high Andes running through the middle, and the Amazon rainforest, which covers more than half the country, in the east. The Amazon river begins in the Peruvian Andes. Lake Titicaca, on the border with Bolivia, is often called the highest navigable lake in the world."
+    "text": "Peru has three main regions: a narrow desert along the Pacific coast, the high Andes running through the middle, and the Amazon rainforest, which covers more than half the country, in the east. The Amazon river begins in the Peruvian Andes. Lake Titicaca, on the border with Bolivia, is often called the highest navigable lake in the world.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Dry desert on the coast, cold in the Andes and hot and wet in the Amazon."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Llamas, alpacas, Andean condors and the pink river dolphins of the Amazon."
+      }
+    ]
   },
   "history": {
     "text": "Peru was home to Caral, part of the oldest known civilisation in the Americas, and later to the Nazca and the Inca, whose empire stretched along the Andes. Spanish conquerors led by Francisco Pizarro defeated the Inca in the 1530s, and Lima became the capital of Spanish South America. Peru declared independence in 1821.",
@@ -82,6 +92,20 @@
     "related": [
       "BOL",
       "ESP"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Ceviche, lomo saltado (stir-fried beef) and thousands of kinds of potato."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Andean weaving and music with pan pipes; Lima's restaurants are among the best in the world."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Inti Raymi, the Inca festival of the Sun, is held in Cusco every June."
+      }
     ]
   },
   "sport": {

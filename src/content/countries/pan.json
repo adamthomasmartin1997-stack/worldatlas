@@ -5,7 +5,17 @@
     "Panama is the southernmost country in Central America, where it joins South America. Its capital and largest city is Panama City. Panama became independent from Colombia in 1903. The Panama Canal, opened in 1914, links the Atlantic and Pacific oceans and is one of the most important shipping routes in the world."
   ],
   "geography": {
-    "text": "Panama is a narrow, S-shaped strip of land with the Caribbean Sea to the north and the Pacific Ocean to the south. Mountains run along its spine, and much of the land is tropical forest. The Darién region, on the border with Colombia, is dense rainforest that no road crosses."
+    "text": "Panama is a narrow, S-shaped strip of land with the Caribbean Sea to the north and the Pacific Ocean to the south. Mountains run along its spine, and much of the land is tropical forest. The Darién region, on the border with Colombia, is dense rainforest that no road crosses.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid, with a rainy season from May to December."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Sloths, howler monkeys, and the harpy eagle, the national bird."
+      }
+    ]
   },
   "history": {
     "text": "Panama's narrow strip of land has always been a crossing point; Spanish treasure from Peru was carried across it to the Atlantic. It became part of Colombia after independence from Spain, then broke away with US support in 1903. The United States built the Panama Canal and controlled it until handing it over to Panama in 1999.",
@@ -80,6 +90,20 @@
     "related": [
       "COL",
       "USA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Sancocho, a chicken and vegetable soup, is the national dish."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Molas, layered textiles made by Guna women."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Carnival is held for four days before Lent, with water trucks soaking the crowds."
+      }
     ]
   },
   "sport": {

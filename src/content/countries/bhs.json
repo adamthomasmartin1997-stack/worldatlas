@@ -5,7 +5,17 @@
     "The Bahamas is a country of around 700 islands and thousands of smaller cays in the Atlantic Ocean, south-east of Florida. Its capital, Nassau, is on the island of New Providence. The Bahamas became independent from the United Kingdom in 1973, and the British monarch is still its head of state. Tourism and banking are the main parts of its economy."
   ],
   "geography": {
-    "text": "The islands are low and flat, built from limestone and coral, and surrounded by shallow, clear turquoise water. They lie in the path of Atlantic hurricanes. Andros is the largest island, and off its coast runs one of the longest barrier reefs in the world."
+    "text": "The islands are low and flat, built from limestone and coral, and surrounded by shallow, clear turquoise water. They lie in the path of Atlantic hurricanes. Andros is the largest island, and off its coast runs one of the longest barrier reefs in the world.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Warm all year, with a hurricane season from June to November."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Flamingos, the national bird, live on Great Inagua; sharks, turtles and swimming pigs draw visitors."
+      }
+    ]
   },
   "history": {
     "text": "The Lucayan people lived on the islands when Columbus made his first landing in the Americas there in 1492; within a few decades they had been wiped out by slavery and disease. The British settled the islands in the 1600s, and Nassau became a base for pirates. The Bahamas became independent in 1973.",
@@ -71,6 +81,20 @@
     "related": [
       "USA",
       "GBR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Conch, a large sea snail, is eaten fried, in salads or in chowder."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Junkanoo music with goatskin drums, cowbells and horns, and rake-and-scrape music played on a carpenter's saw."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Junkanoo parades fill the streets on Boxing Day and New Year's Day."
+      }
     ]
   },
   "sport": {

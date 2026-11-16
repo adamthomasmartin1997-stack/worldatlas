@@ -5,7 +5,17 @@
     "Paraguay is a landlocked country in the centre of South America. Its capital and largest city is Asunción. Paraguay became independent from Spain in 1811. It is one of the few countries where most people speak an Indigenous language, Guarani, and both Guarani and Spanish are official languages."
   ],
   "geography": {
-    "text": "The Paraguay River divides the country in two. The east is greener and more fertile and is home to most people, while the west, called the Chaco, is a hot, dry region of scrubland. The Itaipu Dam on the Paraná river, built together with Brazil, is one of the largest hydroelectric plants in the world."
+    "text": "The Paraguay River divides the country in two. The east is greener and more fertile and is home to most people, while the west, called the Chaco, is a hot, dry region of scrubland. The Itaipu Dam on the Paraná river, built together with Brazil, is one of the largest hydroelectric plants in the world.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Subtropical, with hot summers and mild winters."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Chaco is home to giant anteaters, armadillos and the Chacoan peccary."
+      }
+    ]
   },
   "history": {
     "text": "Guarani peoples lived in Paraguay when the Spanish arrived, and Jesuit missions later organised many of them into settlements. Paraguay became independent in 1811. The War of the Triple Alliance from 1864 to 1870 against Brazil, Argentina and Uruguay killed a huge share of its population. General Alfredo Stroessner ruled as dictator from 1954 to 1989.",
@@ -82,6 +92,20 @@
     "related": [
       "BRA",
       "ARG"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Chipa, cheesy bread rings, and sopa paraguaya, a solid 'soup' that is really cornbread."
+      },
+      {
+        "title": "Music and arts",
+        "text": "The Paraguayan harp is the national instrument."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Tereré, cold herbal tea, is shared with friends, listed by UNESCO."
+      }
     ]
   },
   "sport": {

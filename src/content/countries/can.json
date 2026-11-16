@@ -5,7 +5,17 @@
     "Canada is the second-largest country in the world by area, covering most of the northern half of North America. Its capital is Ottawa and its largest city is Toronto. Canada is a constitutional monarchy and a federation of ten provinces and three territories. English and French are both official languages, and French is the main language in the province of Quebec."
   ],
   "geography": {
-    "text": "Canada has coastlines on three oceans, the Pacific, the Atlantic and the Arctic, and the longest coastline of any country. The Rocky Mountains rise in the west, the Prairies cover the middle, and the ancient rocks of the Canadian Shield, dotted with lakes, cover much of the centre and east. Canada has more lakes than any other country, and most Canadians live in the south, close to the border with the United States."
+    "text": "Canada has coastlines on three oceans, the Pacific, the Atlantic and the Arctic, and the longest coastline of any country. The Rocky Mountains rise in the west, the Prairies cover the middle, and the ancient rocks of the Canadian Shield, dotted with lakes, cover much of the centre and east. Canada has more lakes than any other country, and most Canadians live in the south, close to the border with the United States.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Long, cold winters in most of the country, with warm summers in the south and Arctic conditions in the north."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Moose, beavers, black and grizzly bears, polar bears in the north, and whales off both coasts."
+      }
+    ]
   },
   "history": {
     "text": "Indigenous peoples have lived in Canada for thousands of years. French and British settlers arrived from the 1500s onwards, and Britain took control of New France in 1763. Canada became a self-governing confederation in 1867 and gradually gained full independence, finally bringing its constitution home from Britain in 1982.",
@@ -85,6 +95,20 @@
       "FRA",
       "GBR",
       "USA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Poutine, maple syrup, butter tarts and Nanaimo bars."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Indigenous art, Quebec's French-language music and theatre, and stars from Céline Dion to Drake."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Canada Day, 1 July, is celebrated with fireworks; in spring, Quebec families visit sugar shacks to eat maple taffy on snow."
+      }
     ]
   },
   "sport": {

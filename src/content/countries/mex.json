@@ -5,7 +5,17 @@
     "Mexico is a large country in North America, between the United States and Central America. Its capital, Mexico City, is one of the biggest cities in the world. Mexico was home to great civilisations such as the Maya and the Aztecs, and it won independence from Spain in 1821. It has more Spanish speakers than any other country."
   ],
   "geography": {
-    "text": "Two mountain ranges, the Sierra Madre Occidental and the Sierra Madre Oriental, run down the country, with a high central plateau between them. A belt of volcanoes crosses central Mexico, including Pico de Orizaba, its highest peak. The north is mostly desert, the south has rainforests, and the flat limestone Yucatán Peninsula is dotted with natural sinkhole pools called cenotes."
+    "text": "Two mountain ranges, the Sierra Madre Occidental and the Sierra Madre Oriental, run down the country, with a high central plateau between them. A belt of volcanoes crosses central Mexico, including Pico de Orizaba, its highest peak. The north is mostly desert, the south has rainforests, and the flat limestone Yucatán Peninsula is dotted with natural sinkhole pools called cenotes.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Deserts in the north, tropical forests in the south, and mild weather on the high central plateau."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Monarch butterflies spend the winter in Mexico's forests, and grey whales breed in Baja California's lagoons."
+      }
+    ]
   },
   "history": {
     "text": "Mexico was home to great civilisations, including the Olmecs, the Maya and the Aztecs, whose capital Tenochtitlan stood where Mexico City is now. Spain conquered the Aztecs in 1521. Mexico won independence in 1821, lost much of its northern territory to the United States in 1848, and went through a long revolution from 1910 to 1920.",
@@ -83,6 +93,20 @@
       "ESP",
       "USA",
       "GTM"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Tacos, tamales, mole and chocolate; Mexican cooking is listed by UNESCO."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Murals by Diego Rivera, the paintings of Frida Kahlo, and mariachi music."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "On the Day of the Dead, families build altars with marigolds and sugar skulls to remember loved ones."
+      }
     ]
   },
   "sport": {

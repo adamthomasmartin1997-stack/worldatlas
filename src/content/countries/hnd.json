@@ -5,7 +5,17 @@
     "Honduras is a country in Central America, between Guatemala, El Salvador and Nicaragua. Its capital and largest city is Tegucigalpa. Honduras became independent from Spain in 1821. The ancient Maya city of Copán, in the west of the country, is famous for its carved stone monuments."
   ],
   "geography": {
-    "text": "Honduras is mostly mountainous, with a long Caribbean coastline in the north and a short Pacific coast on the Gulf of Fonseca in the south. Off the north coast lie the Bay Islands, surrounded by coral reefs. The east, called La Mosquitia, is a remote region of rainforest and wetlands."
+    "text": "Honduras is mostly mountainous, with a long Caribbean coastline in the north and a short Pacific coast on the Gulf of Fonseca in the south. Off the north coast lie the Bay Islands, surrounded by coral reefs. The east, called La Mosquitia, is a remote region of rainforest and wetlands.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot on the coasts and cooler in the mountains, with hurricanes some years."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Whale sharks off Utila, and scarlet macaws, the national bird."
+      }
+    ]
   },
   "history": {
     "text": "The Maya city of Copán flourished in western Honduras. Spain conquered the area in the 1500s, and Honduras became independent in 1821. In the 1900s US fruit companies became so powerful there that it was nicknamed a 'banana republic'. Hurricane Mitch devastated the country in 1998.",
@@ -74,6 +84,20 @@
       "GTM",
       "SLV",
       "BLZ"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Baleadas, flour tortillas filled with beans, cream and cheese."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Garifuna punta music and dance from the Caribbean coast."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Holy Week in Comayagua is famous for its sawdust carpets."
+      }
     ]
   },
   "sport": {

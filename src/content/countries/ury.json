@@ -5,7 +5,17 @@
     "Uruguay is a small country in south-eastern South America, between Argentina and Brazil. Its capital and largest city is Montevideo, home to about four in ten Uruguayans. Uruguay declared independence in 1825. It hosted and won the first football World Cup, in 1930."
   ],
   "geography": {
-    "text": "Uruguay is mostly low, rolling grassland, used for raising cattle and sheep. It has a long coast on the wide Río de la Plata estuary and the Atlantic Ocean, with beach resorts such as Punta del Este. The Uruguay River forms its border with Argentina."
+    "text": "Uruguay is mostly low, rolling grassland, used for raising cattle and sheep. It has a long coast on the wide Río de la Plata estuary and the Atlantic Ocean, with beach resorts such as Punta del Este. The Uruguay River forms its border with Argentina.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild, with warm summers and cool winters, and no mountains."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Southern right whales and sea lions along the coast; rheas, large flightless birds, on the grasslands."
+      }
+    ]
   },
   "history": {
     "text": "Uruguay was fought over by Spain and Portugal, and after independence it became a buffer between Argentina and Brazil; its independence was confirmed in 1828. In the early 1900s it built one of the first welfare states in Latin America. It was ruled by the military from 1973 to 1985.",
@@ -78,6 +88,20 @@
     "related": [
       "ARG",
       "BRA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Asado and chivito, a huge steak sandwich."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Candombe drumming and tango, shared with Argentina."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Uruguay's carnival lasts about 40 days, longer than anywhere else."
+      }
     ]
   },
   "sport": {

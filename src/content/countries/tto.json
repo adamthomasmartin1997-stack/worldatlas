@@ -5,7 +5,17 @@
     "Trinidad and Tobago is an island country in the southern Caribbean, just off the coast of Venezuela. Its capital, Port of Spain, is on Trinidad. It became independent from the United Kingdom in 1962. Unlike most Caribbean countries, its economy is built mainly on oil and natural gas. It is the birthplace of the steelpan and calypso music, and its Carnival is world-famous."
   ],
   "geography": {
-    "text": "Trinidad, the larger island, has a range of hills in the north, plains in the centre and south, and swamps along parts of its coast. It is home to the Pitch Lake, the largest natural deposit of asphalt in the world. Tobago, to the north-east, is smaller and hillier, with coral reefs and beaches."
+    "text": "Trinidad, the larger island, has a range of hills in the north, plains in the centre and south, and swamps along parts of its coast. It is home to the Pitch Lake, the largest natural deposit of asphalt in the world. Tobago, to the north-east, is smaller and hillier, with coral reefs and beaches.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical, outside the main hurricane belt."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Scarlet ibis fly into the Caroni Swamp at sunset, and leatherback turtles nest on the beaches."
+      }
+    ]
   },
   "history": {
     "text": "Trinidad was Spanish until Britain captured it in 1797, while Tobago changed hands many times. After slavery ended, workers came from India, and today the country blends African, Indian and other cultures. Trinidad and Tobago became independent in 1962, and oil and gas built its economy.",
@@ -80,6 +90,20 @@
     ],
     "related": [
       "IND"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Doubles, curried chickpeas in fried bread, are the favourite street food."
+      },
+      {
+        "title": "Music and arts",
+        "text": "The steelpan, calypso and soca all began here."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Carnival on the Monday and Tuesday before Lent is one of the world's great street festivals."
+      }
     ]
   },
   "sport": {

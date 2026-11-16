@@ -5,7 +5,17 @@
     "Argentina is the second-largest country in South America, after Brazil. Its capital and largest city is Buenos Aires. Argentina won independence from Spain in 1816. Spanish is the official language, and many Argentines have Spanish or Italian ancestors. The country is famous for tango, beef and football, and its men's team has won the World Cup three times, most recently in 2022."
   ],
   "geography": {
-    "text": "Argentina stretches thousands of kilometres from the tropics in the north to Tierra del Fuego near Antarctica. The Andes run along its western border with Chile and include Aconcagua, the highest mountain outside Asia. The centre is covered by the Pampas, vast flat grasslands used for farming and cattle, while Patagonia in the south is dry, windy and thinly populated."
+    "text": "Argentina stretches thousands of kilometres from the tropics in the north to Tierra del Fuego near Antarctica. The Andes run along its western border with Chile and include Aconcagua, the highest mountain outside Asia. The centre is covered by the Pampas, vast flat grasslands used for farming and cattle, while Patagonia in the south is dry, windy and thinly populated.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Everything from subtropical heat in the north to icy winds in Patagonia and Tierra del Fuego."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Penguins, sea lions and southern right whales along the coast; condors soar over the Andes."
+      }
+    ]
   },
   "history": {
     "text": "Spanish settlers founded Buenos Aires in the 1500s. Argentina declared independence from Spain in 1816, and later millions of immigrants, mostly from Italy and Spain, came to farm its rich land. The 1900s brought the populist government of Juan Perón, military dictatorships, and defeat by Britain in the Falklands War of 1982, after which democracy returned.",
@@ -84,6 +94,20 @@
       "BRA",
       "ESP",
       "ITA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Asado, beef grilled slowly over wood, and empanadas. Dulce de leche, a caramel spread, goes on everything sweet."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Tango, writers like Borges and Cortázar, and a lively film industry."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Friends share mate, a herbal tea, from one gourd and one metal straw, passing it around the circle."
+      }
     ]
   },
   "sport": {

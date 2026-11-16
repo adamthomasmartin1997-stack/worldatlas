@@ -5,7 +5,17 @@
     "Guatemala is a country in Central America, south of Mexico. Its capital, Guatemala City, is the largest city in Central America. Guatemala was at the heart of the ancient Maya civilisation, and ruined cities such as Tikal can still be visited. Many Guatemalans today are Maya and speak Mayan languages as well as Spanish."
   ],
   "geography": {
-    "text": "A chain of volcanoes runs through Guatemala's highlands, some of them still active, such as Volcán de Fuego. Lake Atitlán, ringed by volcanoes, is one of the most famous lakes in the Americas. The north, called Petén, is lowland covered in tropical forest, and the country has coasts on both the Pacific and the Caribbean."
+    "text": "A chain of volcanoes runs through Guatemala's highlands, some of them still active, such as Volcán de Fuego. Lake Atitlán, ringed by volcanoes, is one of the most famous lakes in the Americas. The north, called Petén, is lowland covered in tropical forest, and the country has coasts on both the Pacific and the Caribbean.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot on the coasts, cooler in the highlands, and rainy from May to October."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The quetzal, a bird with a long green tail, is the national bird and the name of the currency."
+      }
+    ]
   },
   "history": {
     "text": "Guatemala was a heartland of the Maya, who built great cities such as Tikal. Spain conquered it in the 1520s, and it became independent in 1821. A US-backed coup in 1954 was followed by a civil war from 1960 to 1996, in which some 200,000 people, most of them Maya, were killed or disappeared.",
@@ -82,6 +92,20 @@
     "related": [
       "MEX",
       "BLZ"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Pepián, a spicy meat stew, and tortillas made fresh every day."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Maya weaving, with patterns that show which village a person comes from."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "In Antigua, the streets are covered in carpets of coloured sawdust and flowers for Holy Week processions."
+      }
     ]
   },
   "sport": {

@@ -5,7 +5,17 @@
     "Saint Lucia is an island country in the eastern Caribbean. Its capital is Castries. It became independent from the United Kingdom in 1979. For a small country it has produced two Nobel Prize winners: the economist Arthur Lewis and the poet Derek Walcott."
   ],
   "geography": {
-    "text": "Saint Lucia is a mountainous volcanic island covered in rainforest. Its best-known landmarks are the Pitons, two steep volcanic peaks rising straight from the sea near Soufrière, which are a UNESCO World Heritage Site. Nearby are bubbling sulphur springs."
+    "text": "Saint Lucia is a mountainous volcanic island covered in rainforest. Its best-known landmarks are the Pitons, two steep volcanic peaks rising straight from the sea near Soufrière, which are a UNESCO World Heritage Site. Nearby are bubbling sulphur springs.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical, with a dry season from December to May."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Saint Lucia parrot lives only on the island."
+      }
+    ]
   },
   "history": {
     "text": "Britain and France fought over Saint Lucia so often that it changed hands 14 times, earning it the nickname 'Helen of the West Indies'. It became British for good in 1814. Saint Lucia became independent in 1979.",
@@ -69,6 +79,20 @@
     "related": [
       "FRA",
       "GBR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Green fig and saltfish, made with green bananas, is the national dish."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Saint Lucia's Jazz Festival and the poetry of Derek Walcott."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Jounen Kwéyòl, Creole Day in October, celebrates the island's language and food."
+      }
     ]
   },
   "sport": {

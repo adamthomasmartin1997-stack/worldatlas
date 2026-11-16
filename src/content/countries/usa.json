@@ -5,7 +5,17 @@
     "The United States is a large country in North America made up of 50 states. Its capital is Washington, D.C., and its largest city is New York. The United States declared independence from Britain in 1776. It has the largest economy in the world and is one of the five permanent members of the UN Security Council."
   ],
   "geography": {
-    "text": "The mainland United States stretches from the Atlantic to the Pacific. The Appalachian Mountains run down the east, the Great Plains cover the centre and the Rocky Mountains rise in the west. The Mississippi is its main river system, and the Great Lakes lie along the border with Canada. Alaska, in the far north-west, and Hawaii, in the middle of the Pacific, are also states."
+    "text": "The mainland United States stretches from the Atlantic to the Pacific. The Appalachian Mountains run down the east, the Great Plains cover the centre and the Rocky Mountains rise in the west. The Mississippi is its main river system, and the Great Lakes lie along the border with Canada. Alaska, in the far north-west, and Hawaii, in the middle of the Pacific, are also states.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Every type of climate, from Alaska's Arctic tundra to Florida's tropics and the deserts of the south-west."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Bald eagles, bison, grizzly bears, alligators and the giant sequoias, the largest trees on Earth."
+      }
+    ]
   },
   "history": {
     "text": "Indigenous peoples had lived in North America for thousands of years before European settlers arrived. Thirteen British colonies declared independence in 1776 and won it in the American Revolution. The country expanded westwards, fought a civil war from 1861 to 1865 that ended slavery, and in the 1900s became a world superpower. The civil rights movement of the 1950s and 1960s fought for equal rights for Black Americans.",
@@ -80,6 +90,20 @@
       "GBR",
       "MEX",
       "CAN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Hamburgers, barbecue, apple pie and the food of immigrants from every part of the world."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Hollywood films, jazz, blues, rock and hip hop all came from the United States."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Thanksgiving, with turkey dinners, and Independence Day on 4 July, with fireworks."
+      }
     ]
   },
   "sport": {

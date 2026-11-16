@@ -5,7 +5,17 @@
     "Grenada is a small island country in the south-eastern Caribbean, made up of the island of Grenada and smaller islands including Carriacou and Petite Martinique. Its capital is St. George's. Grenada became independent from the United Kingdom in 1974. It is known as the 'Isle of Spice' because it grows so much nutmeg, which even appears on its flag."
   ],
   "geography": {
-    "text": "Grenada is a volcanic island with mountains and rainforest in the centre, crater lakes, and beaches around its coast, such as Grand Anse. Its smaller islands to the north are part of the Grenadines chain, which it shares with Saint Vincent and the Grenadines."
+    "text": "Grenada is a volcanic island with mountains and rainforest in the centre, crater lakes, and beaches around its coast, such as Grand Anse. Its smaller islands to the north are part of the Grenadines chain, which it shares with Saint Vincent and the Grenadines.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical, warm and humid, with a rainy season from June to December."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The rare Grenada dove lives only on the island."
+      }
+    ]
   },
   "history": {
     "text": "Grenada's Kalinago people resisted European settlers until the French took the island in the 1650s; it passed to Britain in 1763. Grenada became independent in 1974. In 1979 a revolution brought Maurice Bishop to power, and after he was killed in 1983, the United States invaded.",
@@ -72,6 +82,20 @@
       {
         "title": "Underwater Sculpture Park",
         "text": "Statues placed on the seabed since 2006 to form a reef."
+      }
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Oil down, a one-pot stew cooked in coconut milk, is the national dish."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Calypso and soca, especially at Carnival."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Spicemas, in August, features J'ouvert, when revellers cover themselves in oil and paint."
       }
     ]
   },

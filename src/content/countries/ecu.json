@@ -5,7 +5,17 @@
     "Ecuador is a country in north-western South America, named after the equator, which runs through it. Its capital, Quito, is one of the highest capital cities in the world, and its largest city is Guayaquil. Ecuador became fully independent in 1830. It uses the US dollar as its currency and is one of the world's biggest exporters of bananas."
   ],
   "geography": {
-    "text": "Mainland Ecuador has three very different regions: the Pacific coast, the high Andes with snow-capped volcanoes such as Chimborazo and Cotopaxi, and the Amazon rainforest in the east. Far out in the Pacific are the Galápagos Islands, whose unusual wildlife helped Charles Darwin develop his theory of evolution."
+    "text": "Mainland Ecuador has three very different regions: the Pacific coast, the high Andes with snow-capped volcanoes such as Chimborazo and Cotopaxi, and the Amazon rainforest in the east. Far out in the Pacific are the Galápagos Islands, whose unusual wildlife helped Charles Darwin develop his theory of evolution.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot on the coast and in the Amazon, spring-like all year in the Andes around Quito."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Galápagos have giant tortoises, marine iguanas and blue-footed boobies."
+      }
+    ]
   },
   "history": {
     "text": "Ecuador was part of the Inca Empire before the Spanish conquest in the 1530s, and Quito became a major colonial city. Ecuador won independence as part of Gran Colombia and became a separate country in 1830. In 2000 it replaced its own currency with the US dollar.",
@@ -85,6 +95,20 @@
     "related": [
       "PAN",
       "GBR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Ceviche with popcorn, and locro de papa, a cheesy potato soup."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Weavers in Otavalo sell colourful textiles at one of South America's biggest markets."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "On New Year's Eve, families burn life-size dummies called años viejos to say goodbye to the old year."
+      }
     ]
   },
   "sport": {

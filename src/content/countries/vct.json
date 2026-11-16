@@ -5,7 +5,17 @@
     "Saint Vincent and the Grenadines is an island country in the eastern Caribbean, made up of the main island of Saint Vincent and a chain of smaller islands called the Grenadines. Its capital is Kingstown. It became independent from the United Kingdom in 1979."
   ],
   "geography": {
-    "text": "Saint Vincent is a mountainous, green volcanic island with black sand beaches, and its volcano, La Soufrière, erupted in 2021. The Grenadines to the south are small, low islands surrounded by coral reefs and are popular for sailing."
+    "text": "Saint Vincent is a mountainous, green volcanic island with black sand beaches, and its volcano, La Soufrière, erupted in 2021. The Grenadines to the south are small, low islands surrounded by coral reefs and are popular for sailing.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical, wetter in the volcanic mountains."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Saint Vincent parrot, the national bird, lives only on the island."
+      }
+    ]
   },
   "history": {
     "text": "The Garifuna, descended from Kalinago people and escaped Africans, fought to keep Saint Vincent until the British defeated them in 1797 and deported most of them to Central America. The island became independent in 1979. Its volcano, La Soufrière, has erupted several times, including in 1902, 1979 and 2021.",
@@ -75,6 +85,20 @@
     "related": [
       "HND",
       "BLZ"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Roasted breadfruit with fried jackfish is the national dish."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Calypso and soca, especially at Vincy Mas."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Nine Mornings, before Christmas, sees people gather before dawn for music and parties on nine days in a row."
+      }
     ]
   },
   "sport": {

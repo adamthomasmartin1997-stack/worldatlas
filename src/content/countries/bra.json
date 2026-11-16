@@ -5,7 +5,17 @@
     "Brazil is the largest country in South America and the fifth-largest in the world. Its capital is Brasília, a planned city built in the late 1950s, while São Paulo is its largest city. Brazil was a Portuguese colony until it became independent in 1822, and it is now the largest Portuguese-speaking country in the world. Its men's team has won the football World Cup five times, more than any other country."
   ],
   "geography": {
-    "text": "Most of the Amazon rainforest, the largest rainforest on Earth, lies in Brazil, crossed by the Amazon river and its many tributaries. South of the Amazon are the high plains of central Brazil, covered in a tropical savanna called the cerrado. Brazil has a very long Atlantic coastline, and in the south-west the Pantanal is one of the largest tropical wetlands in the world."
+    "text": "Most of the Amazon rainforest, the largest rainforest on Earth, lies in Brazil, crossed by the Amazon river and its many tributaries. South of the Amazon are the high plains of central Brazil, covered in a tropical savanna called the cerrado. Brazil has a very long Atlantic coastline, and in the south-west the Pantanal is one of the largest tropical wetlands in the world.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mostly tropical, with the hot, wet Amazon in the north and cooler winters in the south."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Amazon and the Pantanal wetlands hold jaguars, capybaras, macaws and pink river dolphins."
+      }
+    ]
   },
   "history": {
     "text": "Indigenous peoples lived in Brazil for thousands of years before Portugal claimed it in 1500 and brought millions of enslaved Africans to work its plantations and mines. Brazil became independent in 1822 as an empire, abolished slavery in 1888, the last country in the Americas to do so, and became a republic in 1889. After military rule from 1964 to 1985, it returned to democracy.",
@@ -79,6 +89,20 @@
     "related": [
       "PRT",
       "AGO"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Feijoada, a black bean stew with pork, is the national dish; pão de queijo cheese bread is a favourite snack."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Samba, bossa nova and funk music, and a huge TV soap opera industry."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Carnival, before Lent, is celebrated with parades, music and dancing across the country."
+      }
     ]
   },
   "sport": {

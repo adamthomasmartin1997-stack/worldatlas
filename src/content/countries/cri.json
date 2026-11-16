@@ -5,7 +5,17 @@
     "Costa Rica is a small country in Central America, between Nicaragua and Panama. Its capital and largest city is San José. Costa Rica abolished its army in 1948 and is known for being peaceful and stable. It protects a large share of its land in national parks and reserves, and nature tourism is a big part of its economy."
   ],
   "geography": {
-    "text": "Costa Rica has coastlines on both the Caribbean Sea and the Pacific Ocean. A chain of mountains and volcanoes runs down the middle of the country, and the Central Valley among them is where most people live. Rainforests, cloud forests and beaches make it one of the most biodiverse places in the world for its size."
+    "text": "Costa Rica has coastlines on both the Caribbean Sea and the Pacific Ocean. A chain of mountains and volcanoes runs down the middle of the country, and the Central Valley among them is where most people live. Rainforests, cloud forests and beaches make it one of the most biodiverse places in the world for its size.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical, with a dry season from December to April and a green, rainy season the rest of the year."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Sloths, toucans, scarlet macaws, and sea turtles nesting on both coasts."
+      }
+    ]
   },
   "history": {
     "text": "Costa Rica was a quiet corner of Spain's Central American empire. It became independent in 1821 and grew coffee, and later bananas, for export. After a short civil war in 1948 it abolished its army, and it has been one of Latin America's most stable democracies ever since.",
@@ -62,6 +72,20 @@
       {
         "title": "Monteverde",
         "text": "A cloud forest full of orchids and hummingbirds."
+      }
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Gallo pinto, rice and beans, is eaten at breakfast."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Painted ox carts and marimba music are national symbols."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Costa Ricans greet each other with 'pura vida', meaning 'pure life'."
       }
     ]
   },

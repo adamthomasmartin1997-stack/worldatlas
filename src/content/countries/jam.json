@@ -5,7 +5,17 @@
     "Jamaica is an island country in the Caribbean, south of Cuba. Its capital and largest city is Kingston. Jamaica became independent from the United Kingdom in 1962. It is the birthplace of reggae music and Bob Marley, and its sprinters, including Usain Bolt, have won many Olympic medals."
   ],
   "geography": {
-    "text": "Jamaica is the third-largest island in the Caribbean. Mountains run along the middle of the island, and the Blue Mountains in the east, where a famous coffee is grown, are the highest. Much of the island is limestone, with caves and underground rivers, and its coast is lined with beaches."
+    "text": "Jamaica is the third-largest island in the Caribbean. Mountains run along the middle of the island, and the Blue Mountains in the east, where a famous coffee is grown, are the highest. Much of the island is limestone, with caves and underground rivers, and its coast is lined with beaches.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical and warm, cooler in the Blue Mountains, with a hurricane season."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The doctor bird, a hummingbird with a long tail, is the national bird."
+      }
+    ]
   },
   "history": {
     "text": "Jamaica's Taíno people were wiped out after Spain arrived in 1494. Britain captured the island in 1655 and turned it into a major sugar colony worked by enslaved Africans, while people who escaped, known as Maroons, formed free communities in the mountains. Slavery ended in 1834, and Jamaica became independent in 1962.",
@@ -84,6 +94,20 @@
     "related": [
       "GBR",
       "USA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Ackee and saltfish is the national dish; jerk chicken is famous worldwide."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Reggae, ska, dub and dancehall all began in Jamaica."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Emancipation Day and Independence Day in early August are celebrated with music and street parties."
+      }
     ]
   },
   "sport": {

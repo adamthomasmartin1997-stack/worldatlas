@@ -5,7 +5,17 @@
     "Dominica is a small island country in the eastern Caribbean. Its capital is Roseau. It became independent from the United Kingdom in 1978. Dominica is home to the Kalinago, the only Indigenous people in the eastern Caribbean who still live on their own territory. It is a different country from the Dominican Republic."
   ],
   "geography": {
-    "text": "Dominica is mountainous and covered in rainforest, which has earned it the nickname 'the Nature Isle of the Caribbean'. It is a volcanic island, with hot springs and the Boiling Lake, a flooded vent that bubbles with volcanic heat. Heavy rainfall feeds its many rivers and waterfalls."
+    "text": "Dominica is mountainous and covered in rainforest, which has earned it the nickname 'the Nature Isle of the Caribbean'. It is a volcanic island, with hot springs and the Boiling Lake, a flooded vent that bubbles with volcanic heat. Heavy rainfall feeds its many rivers and waterfalls.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical and very rainy, especially in the mountains."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Sperm whales live off the coast all year, and the rare Sisserou parrot is on the flag."
+      }
+    ]
   },
   "history": {
     "text": "Dominica's Kalinago people kept European settlers out longer than almost anywhere else in the Caribbean. France and Britain fought over the island until it became British in the late 1700s. Dominica became independent in 1978, and in 2017 Hurricane Maria caused enormous damage.",
@@ -61,6 +71,20 @@
       {
         "title": "Kalinago Territory",
         "text": "Land set aside for the Kalinago people in 1903."
+      }
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Callaloo soup and dishes made with root vegetables and fresh fish."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Bouyon music, a mix of Caribbean styles, was born in Dominica."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The World Creole Music Festival is held every October."
       }
     ]
   },

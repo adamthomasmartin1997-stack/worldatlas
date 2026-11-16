@@ -5,7 +5,17 @@
     "Venezuela is a country on the northern coast of South America. Its capital and largest city is Caracas. Venezuela won independence from Spain in the early 1800s; Simón Bolívar, who led independence movements across South America, was born in Caracas. Venezuela has the largest proven oil reserves in the world."
   ],
   "geography": {
-    "text": "Venezuela has a long Caribbean coastline, with the Andes in the west and the Llanos, wide grassy plains, in the centre. The Orinoco river flows across the country to the Atlantic. In the south-east, flat-topped mountains called tepuis rise from the rainforest, and from one of them falls Angel Falls, the highest waterfall in the world."
+    "text": "Venezuela has a long Caribbean coastline, with the Andes in the west and the Llanos, wide grassy plains, in the centre. The Orinoco river flows across the country to the Atlantic. In the south-east, flat-topped mountains called tepuis rise from the rainforest, and from one of them falls Angel Falls, the highest waterfall in the world.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical, with cooler weather in the Andes and the high tepui mountains."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Anacondas, capybaras and the scarlet ibis on the Llanos plains."
+      }
+    ]
   },
   "history": {
     "text": "Venezuela was the birthplace of Simón Bolívar, who led the wars that freed much of South America from Spain. It became fully independent in 1830, after leaving Gran Colombia. Oil, found in the early 1900s, made it rich, but in the 2010s an economic collapse led millions of Venezuelans to leave the country.",
@@ -80,6 +90,20 @@
     ],
     "related": [
       "COL"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Arepas, corn cakes, and pabellón criollo, shredded beef with rice, beans and plantain."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Joropo music and El Sistema, the free youth orchestra programme."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "At Christmas, families make hallacas together, corn dough parcels filled with stew and wrapped in banana leaves."
+      }
     ]
   },
   "sport": {

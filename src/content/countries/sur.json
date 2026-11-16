@@ -5,7 +5,17 @@
     "Suriname is the smallest country in South America. Its capital and largest city is Paramaribo. Suriname was a Dutch colony until 1975, and it is the only country in South America where Dutch is the official language. Its people have roots in many places, including Africa, India, Indonesia, China and Europe, as well as Indigenous peoples."
   ],
   "geography": {
-    "text": "Most people live along the narrow coastal plain. The rest of Suriname is covered by dense tropical rainforest, making it one of the most forested countries in the world, crossed by rivers flowing north to the Atlantic. The Brokopondo Reservoir, created by a dam in the 1960s, is one of the largest reservoirs in the world."
+    "text": "Most people live along the narrow coastal plain. The rest of Suriname is covered by dense tropical rainforest, making it one of the most forested countries in the world, crossed by rivers flowing north to the Atlantic. The Brokopondo Reservoir, created by a dam in the 1960s, is one of the largest reservoirs in the world.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid all year, with two rainy seasons."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Jaguars, giant otters and leatherback turtles that nest on the beaches."
+      }
+    ]
   },
   "history": {
     "text": "The Dutch took Suriname from the English in 1667, while the English kept New Amsterdam, later New York. Plantations were worked by enslaved Africans, many of whom escaped into the rainforest and formed free Maroon communities. After slavery ended in 1863, workers came from India and Java. Suriname became independent in 1975.",
@@ -82,6 +92,20 @@
       "NLD",
       "IND",
       "IDN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Roti with curry, from Indian roots, and pom, a baked dish from Creole cooking."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Kaseko music mixes African, European and American styles."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Keti Koti, 1 July, celebrates the end of slavery in 1863."
+      }
     ]
   },
   "sport": {

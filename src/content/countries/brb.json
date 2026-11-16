@@ -5,7 +5,17 @@
     "Barbados is an island country in the eastern Caribbean, the most easterly of the Caribbean islands. Its capital is Bridgetown. Barbados became independent from the United Kingdom in 1966, and in 2021 it became a republic, replacing the British monarch with its own president. It is known for cricket, rum and its beaches."
   ],
   "geography": {
-    "text": "Barbados is a fairly flat island made mostly of coral limestone, with gentle hills rising in the centre. The calm west coast faces the Caribbean Sea and has sandy beaches, while the rougher east coast faces the open Atlantic. Coral reefs surround much of the island."
+    "text": "Barbados is a fairly flat island made mostly of coral limestone, with gentle hills rising in the centre. The calm west coast faces the Caribbean Sea and has sandy beaches, while the rougher east coast faces the open Atlantic. Coral reefs surround much of the island.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical and sunny, with a rainy season from June to November."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Green monkeys, brought from West Africa centuries ago, live in the gullies; turtles nest on the beaches."
+      }
+    ]
   },
   "history": {
     "text": "English settlers arrived in Barbados in 1627 and turned it into one of the richest sugar colonies in the world, worked by enslaved Africans. Slavery ended in 1834. Barbados became independent in 1966, and in 2021 it became a republic with its own president.",
@@ -70,6 +80,20 @@
     ],
     "related": [
       "GBR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Cou-cou and flying fish is the national dish. Rum has been made on the island since the 1600s."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Calypso and soca music, and global stars such as Rihanna."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Crop Over, the summer festival, began as a celebration of the end of the sugar cane harvest."
+      }
     ]
   },
   "sport": {

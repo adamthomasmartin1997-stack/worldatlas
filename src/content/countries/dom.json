@@ -5,7 +5,17 @@
     "The Dominican Republic covers the eastern two-thirds of the island of Hispaniola, which it shares with Haiti. Its capital, Santo Domingo, founded in the 1490s, is the oldest European city still standing in the Americas. The country became independent in 1844. Baseball is hugely popular, and many top players in the United States come from the Dominican Republic."
   ],
   "geography": {
-    "text": "The Dominican Republic has both the highest point in the Caribbean, Pico Duarte, and the lowest, Lake Enriquillo, a salty lake below sea level. Between its mountain ranges are fertile valleys, and its coasts have beaches on both the Atlantic Ocean and the Caribbean Sea."
+    "text": "The Dominican Republic has both the highest point in the Caribbean, Pico Duarte, and the lowest, Lake Enriquillo, a salty lake below sea level. Between its mountain ranges are fertile valleys, and its coasts have beaches on both the Atlantic Ocean and the Caribbean Sea.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical, with a hurricane season and cooler air in the mountains of the Cordillera Central."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Humpback whales come to Samaná Bay to breed every winter."
+      }
+    ]
   },
   "history": {
     "text": "Columbus reached Hispaniola in 1492, and Santo Domingo became the first Spanish capital in the Americas. The eastern part of the island was ruled by Haiti from 1822 until 1844, when the Dominican Republic declared independence. In the 1900s it was occupied by the United States and then ruled by the dictator Rafael Trujillo for over 30 years.",
@@ -77,6 +87,20 @@
     "related": [
       "HTI",
       "ESP"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "La bandera, 'the flag': rice, beans and meat, eaten at lunch."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Merengue and bachata, both listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Carnival in February features masked figures called diablos cojuelos."
+      }
     ]
   },
   "sport": {

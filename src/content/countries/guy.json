@@ -5,7 +5,17 @@
     "Guyana is a country on the north-east coast of South America. Its capital and largest city is Georgetown. Guyana was a British colony until 1966, and it is the only South American country where English is the official language. Since large offshore oil fields were discovered in 2015, its economy has grown extremely fast."
   ],
   "geography": {
-    "text": "Most people in Guyana live on a narrow coastal plain, much of it below sea level and protected by sea walls and canals. Inland, the country is covered by dense rainforest crossed by large rivers. Kaieteur Falls on the Potaro River is one of the most powerful single-drop waterfalls in the world."
+    "text": "Most people in Guyana live on a narrow coastal plain, much of it below sea level and protected by sea walls and canals. Inland, the country is covered by dense rainforest crossed by large rivers. Kaieteur Falls on the Potaro River is one of the most powerful single-drop waterfalls in the world.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid, with two rainy seasons a year."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Giant otters, jaguars, and the arapaima, one of the world's largest freshwater fish."
+      }
+    ]
   },
   "history": {
     "text": "The Dutch first colonised the area, and Britain took it in the early 1800s, creating British Guiana. After slavery ended, workers came from India, and today people of Indian and African descent make up most of the population. Guyana became independent in 1966, and the discovery of offshore oil in 2015 began a dramatic economic boom.",
@@ -77,6 +87,20 @@
     "related": [
       "IND",
       "VEN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Pepperpot, a meat stew made with cassava juice, is eaten at Christmas."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Chutney music, mixing Indian and Caribbean styles, and calypso."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Phagwah, the Hindu spring festival, is celebrated by everyone with coloured powder."
+      }
     ]
   },
   "sport": {

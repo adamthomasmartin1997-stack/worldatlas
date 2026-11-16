@@ -5,7 +5,17 @@
     "Cuba is the largest island in the Caribbean. Its capital and largest city is Havana. Cuba was a Spanish colony until 1898. After a revolution in 1959 led by Fidel Castro, it became a communist state, which it remains today. Cuba is known around the world for its music, cigars and classic old cars."
   ],
   "geography": {
-    "text": "Cuba is long and narrow, stretching more than 1,000 kilometres from east to west, and is surrounded by thousands of smaller islands and cays. Most of the land is flat or gently rolling and used for farming, especially sugar cane and tobacco. The highest mountains, the Sierra Maestra, are in the south-east. Cuba lies only about 150 kilometres south of Florida."
+    "text": "Cuba is long and narrow, stretching more than 1,000 kilometres from east to west, and is surrounded by thousands of smaller islands and cays. Most of the land is flat or gently rolling and used for farming, especially sugar cane and tobacco. The highest mountains, the Sierra Maestra, are in the south-east. Cuba lies only about 150 kilometres south of Florida.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical and warm, with a rainy season from May to October and a risk of hurricanes."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The bee hummingbird, the smallest bird in the world, and the Cuban crocodile."
+      }
+    ]
   },
   "history": {
     "text": "Spain ruled Cuba for almost 400 years, and its sugar plantations relied on enslaved Africans. After wars of independence and US intervention in 1898, Cuba became a republic in 1902. Fidel Castro's revolution in 1959 created a communist state, and the Cuban Missile Crisis of 1962 brought the world close to nuclear war.",
@@ -82,6 +92,20 @@
     "related": [
       "ESP",
       "USA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Ropa vieja, shredded beef stew, with rice and black beans."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Son, salsa, rumba and the Buena Vista Social Club; Cuban ballet is world-class."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "In Havana's streets, classic 1950s cars, dominoes and music are part of daily life."
+      }
     ]
   },
   "sport": {

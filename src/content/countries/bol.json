@@ -5,7 +5,17 @@
     "Bolivia is a landlocked country in the heart of South America. Its seat of government is La Paz, while Sucre is the constitutional capital. Bolivia won independence from Spain in 1825 and is named after the independence leader Simón Bolívar. Many Bolivians are of Indigenous descent, and its constitution recognises Spanish and more than 30 Indigenous languages as official."
   ],
   "geography": {
-    "text": "Western Bolivia is high: the Andes surround the Altiplano, a high plateau where La Paz stands and where Lake Titicaca lies on the border with Peru. The Salar de Uyuni on the Altiplano is the largest salt flat in the world. The east of the country is much lower, with tropical rainforest and grasslands in the Amazon basin."
+    "text": "Western Bolivia is high: the Andes surround the Altiplano, a high plateau where La Paz stands and where Lake Titicaca lies on the border with Peru. The Salar de Uyuni on the Altiplano is the largest salt flat in the world. The east of the country is much lower, with tropical rainforest and grasslands in the Amazon basin.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Cold and dry on the high Altiplano, hot and wet in the Amazon lowlands."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Llamas, alpacas and vicuñas in the Andes; flamingos on salt lakes; jaguars and river dolphins in the Amazon."
+      }
+    ]
   },
   "history": {
     "text": "The Bolivian Andes were home to the Tiwanaku civilisation and later became part of the Inca Empire. Under Spanish rule the silver mines of Potosí made it one of the richest places on Earth. Bolivia won independence in 1825 but later lost its coastline to Chile in the War of the Pacific. In 2006 Evo Morales became its first Indigenous president.",
@@ -81,6 +91,20 @@
     "related": [
       "PER",
       "CHL"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Salteñas, juicy baked pastries filled with meat stew, are eaten in the morning."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Andean music with pan pipes and the charango, a small guitar."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The Carnival of Oruro, with devil dancers in huge masks, is listed by UNESCO."
+      }
     ]
   },
   "sport": {

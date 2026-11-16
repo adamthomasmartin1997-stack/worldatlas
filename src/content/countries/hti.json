@@ -5,7 +5,17 @@
     "Haiti covers the western third of the island of Hispaniola, which it shares with the Dominican Republic. Its capital and largest city is Port-au-Prince. In 1804 Haiti became the first country founded by formerly enslaved people, after a successful revolution against French rule, and the second independent country in the Americas. Haitian Creole and French are its official languages."
   ],
   "geography": {
-    "text": "Haiti is very mountainous; its name comes from a Taíno word meaning 'land of high mountains'. Two long peninsulas reach west on either side of the Gulf of Gonâve. Earthquakes and hurricanes have caused great damage, including a devastating earthquake in 2010."
+    "text": "Haiti is very mountainous; its name comes from a Taíno word meaning 'land of high mountains'. Two long peninsulas reach west on either side of the Gulf of Gonâve. Earthquakes and hurricanes have caused great damage, including a devastating earthquake in 2010.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical, with a hurricane season from June to November."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Hispaniolan trogon, the national bird, lives in the mountain forests."
+      }
+    ]
   },
   "history": {
     "text": "Haiti was the French colony of Saint-Domingue, the richest sugar colony in the world, worked by hundreds of thousands of enslaved Africans. In 1791 they rose up, and in 1804 Haiti became the first country founded by formerly enslaved people. Since then Haiti has faced dictatorship, foreign occupation, poverty and natural disasters.",
@@ -86,6 +96,20 @@
     "related": [
       "FRA",
       "DOM"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Griot, fried pork with pikliz, a spicy pickled cabbage."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Haitian painting, metal sculpture and kompa music are famous."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "On Independence Day, 1 January, families eat soup joumou, listed by UNESCO."
+      }
     ]
   },
   "sport": {

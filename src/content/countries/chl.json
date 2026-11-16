@@ -5,7 +5,17 @@
     "Chile is a long, narrow country on the western side of South America, between the Andes and the Pacific Ocean. Its capital and largest city is Santiago. Chile won independence from Spain in 1818. It is one of the world's biggest producers of copper, and it also owns Easter Island, far out in the Pacific, which is famous for its giant stone statues."
   ],
   "geography": {
-    "text": "Chile is more than 4,000 kilometres long but on average less than 200 kilometres wide. In the north is the Atacama Desert, one of the driest places on Earth. The centre has a mild climate and most of the people, while the south breaks up into forests, fjords, glaciers and islands all the way to Cape Horn. The Andes run along the whole eastern border."
+    "text": "Chile is more than 4,000 kilometres long but on average less than 200 kilometres wide. In the north is the Atacama Desert, one of the driest places on Earth. The centre has a mild climate and most of the people, while the south breaks up into forests, fjords, glaciers and islands all the way to Cape Horn. The Andes run along the whole eastern border.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Desert in the north, Mediterranean in the centre, and cold and wet in the far south."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Penguins, guanacos and condors; Torres del Paine in Patagonia is home to pumas."
+      }
+    ]
   },
   "history": {
     "text": "The Mapuche people resisted Spanish conquest in southern Chile for centuries. Chile won independence in 1818 and expanded north after defeating Peru and Bolivia in the War of the Pacific. In 1973 a military coup overthrew President Salvador Allende, and General Augusto Pinochet ruled until democracy returned in 1990.",
@@ -84,6 +94,20 @@
     "related": [
       "ARG",
       "PER"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Empanadas, pastel de choclo (a corn pie) and seafood such as sea urchins."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Poets Pablo Neruda and Gabriela Mistral, and the cueca, the national dance."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Fiestas Patrias in September celebrate independence with dancing, kites and barbecues."
+      }
     ]
   },
   "sport": {
