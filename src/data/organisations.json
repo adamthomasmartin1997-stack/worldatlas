@@ -1,0 +1,86 @@
+{
+ "UN": {
+  "name": "United Nations",
+  "text": "The world's main international organisation, where almost every country has a seat and a vote.",
+  "url": "https://www.un.org/en/about-us/member-states",
+  "the": true
+ },
+ "EU": {
+  "name": "European Union",
+  "text": "A union of European countries that share a single market, many common laws and, for most, the euro.",
+  "url": "https://european-union.europa.eu/principles-countries-history/eu-countries_en",
+  "the": true
+ },
+ "NATO": {
+  "name": "NATO",
+  "text": "A military alliance of countries in Europe and North America that promise to defend each other.",
+  "url": "https://www.nato.int/cps/en/natohq/nato_countries.htm",
+  "the": false
+ },
+ "AU": {
+  "name": "African Union",
+  "text": "An organisation of the countries of Africa that works on peace, trade and development across the continent.",
+  "url": "https://au.int/en/member_states/countryprofiles2",
+  "the": true
+ },
+ "ASEAN": {
+  "name": "ASEAN",
+  "text": "The Association of Southeast Asian Nations, which works on trade and cooperation in South-East Asia.",
+  "url": "https://asean.org/member-states/",
+  "the": false
+ },
+ "COMMONWEALTH": {
+  "name": "Commonwealth of Nations",
+  "text": "A group of countries, most of them once part of the British Empire, that work together on shared goals.",
+  "url": "https://thecommonwealth.org/our-member-countries",
+  "the": true
+ },
+ "OPEC": {
+  "name": "OPEC",
+  "text": "The Organization of the Petroleum Exporting Countries, a group of oil producers that coordinate how much oil they pump.",
+  "url": "https://www.opec.org/opec_web/en/about_us/25.htm",
+  "the": false
+ },
+ "ARAB_LEAGUE": {
+  "name": "Arab League",
+  "text": "An organisation of Arab countries in the Middle East and Africa.",
+  "url": "http://www.leagueofarabstates.net/",
+  "the": true
+ },
+ "GCC": {
+  "name": "Gulf Cooperation Council",
+  "text": "A political and economic union of six Arab countries on the Persian Gulf.",
+  "url": "https://www.gcc-sg.org/",
+  "the": true
+ },
+ "G20": {
+  "name": "G20",
+  "text": "A group of the world's biggest economies whose leaders meet every year. The EU and the African Union are also members.",
+  "url": "https://g20.org/",
+  "the": true
+ },
+ "BRICS": {
+  "name": "BRICS",
+  "text": "A group of large emerging economies, named after its first members: Brazil, Russia, India, China and South Africa.",
+  "url": "https://brics.br/en",
+  "the": false
+ },
+ "MERCOSUR": {
+  "name": "Mercosur",
+  "text": "A South American trade bloc whose members trade with each other without most customs duties.",
+  "url": "https://www.mercosur.int/en/about-mercosur/mercosur-countries/",
+  "the": false
+ },
+ "CARICOM": {
+  "name": "CARICOM",
+  "text": "The Caribbean Community, which links Caribbean countries through trade and cooperation.",
+  "url": "https://caricom.org/member-states-and-associate-members/",
+  "the": false
+ },
+ "PIF": {
+  "name": "Pacific Islands Forum",
+  "text": "The main organisation of countries in the Pacific Ocean, which works on issues such as climate change and fishing.",
+  "url": "https://forumsec.org/member-countries",
+  "the": true
+ }
+}

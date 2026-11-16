@@ -6,7 +6,7 @@
  * Saves yearly series for every country to data/sources/worldbank.json.
  * Regional aggregates (e.g. "Arab World") are dropped; only ISO 3166 countries are kept.
  */
-import { mkdirSync, writeFileSync } from 'node:fs';
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { createRequire } from 'node:module';
 import { getJson } from './http.mjs';
 
@@ -18,13 +18,34 @@ export const INDICATORS = {
   'NY.GDP.MKTP.CD': { key: 'gdp', label: 'GDP', unit: 'current US$' },
   'NY.GDP.PCAP.CD': { key: 'gdpPerCapita', label: 'GDP per person', unit: 'current US$' },
   'SP.DYN.LE00.IN': { key: 'lifeExpectancy', label: 'Life expectancy at birth', unit: 'years' },
+  'NV.AGR.TOTL.ZS': { key: 'agricultureShare', label: 'Farming, forestry and fishing', unit: '% of GDP', since: 2010 },
+  'NV.IND.TOTL.ZS': { key: 'industryShare', label: 'Industry (including construction)', unit: '% of GDP', since: 2010 },
+  'NV.SRV.TOTL.ZS': { key: 'servicesShare', label: 'Services', unit: '% of GDP', since: 2010 },
+  'NE.EXP.GNFS.ZS': { key: 'exportsShare', label: 'Exports of goods and services', unit: '% of GDP', since: 2010 },
   'AG.SRF.TOTL.K2': { key: 'surfaceArea', label: 'Surface area', unit: 'km²' },
 };
 
 const series = {}; // ISO3 -> key -> [[year, value], ...]
+// If the API fails for one indicator, keep that indicator's values from the previous run rather than losing it.
+const previous = existsSync('data/sources/worldbank.json') ? JSON.parse(readFileSync('data/sources/worldbank.json', 'utf8')).series : {};
+// ONLY=key1,key2 refreshes just those indicators and keeps the rest from the previous run.
+const only = process.env.ONLY ? new Set(process.env.ONLY.split(',')) : null;
 for (const [code, meta] of Object.entries(INDICATORS)) {
-  const url = `https://api.worldbank.org/v2/country/all/indicator/${code}?format=json&per_page=20000&date=1960:2030&source=2`;
-  const [info, rows] = await getJson(url);
+  if (only && !only.has(meta.key)) {
+    for (const [iso, s] of Object.entries(previous)) if (s[meta.key]) (series[iso] ??= {})[meta.key] = s[meta.key];
+    continue;
+  }
+  // Indicators only shown as "latest value" are fetched from a recent year to keep the response small.
+  const url = `https://api.worldbank.org/v2/country/all/indicator/${code}?format=json&per_page=20000&date=${meta.since ?? 1960}:2030&source=2`;
+  let info, rows;
+  try {
+    [info, rows] = await getJson(url, { timeoutMs: 600_000 });
+  } catch (e) {
+    let kept = 0;
+    for (const [iso, s] of Object.entries(previous)) if (s[meta.key]) { (series[iso] ??= {})[meta.key] = s[meta.key]; kept++; }
+    console.warn(`${code} (${meta.label}): API failed (${e.message.slice(-60)}); kept previous values for ${kept} countries`);
+    continue;
+  }
   if (info.pages > 1) throw new Error(`${code}: more than one page of results; raise per_page`);
   let kept = 0;
   for (const r of rows ?? []) {

@@ -36,7 +36,8 @@
       "usedFor": [
         "population (fallback)",
         "total area",
-        "highest point (scripts/importers/wikidata.mjs)"
+        "highest point (scripts/importers/wikidata.mjs)",
+        "head of state and government offices, anthem, motto (scripts/importers/wikidata-government.mjs)"
       ]
     },
     "world-bank": {
@@ -45,7 +46,18 @@
       "licence": "CC BY 4.0",
       "attributionRequired": true,
       "usedFor": [
-        "population, GDP per person, life expectancy since 1960 (scripts/importers/worldbank.mjs)"
+        "population, GDP per person, life expectancy since 1960 (scripts/importers/worldbank.mjs)",
+        "economy by sector and exports"
+      ]
+    },
+    "member-lists": {
+      "name": "Official member lists of international organisations",
+      "url": "https://www.un.org/en/about-us/member-states",
+      "licence": "Facts (not copyrightable)",
+      "attributionRequired": false,
+      "notes": "Curated by hand in data/memberships.json, with each organisation's own member-list URL. Re-check when membership changes.",
+      "usedFor": [
+        "memberships of the UN, EU, NATO, African Union and others"
       ]
     }
   },

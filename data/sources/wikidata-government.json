@@ -1,0 +1,2611 @@
+{
+ "source": "wikidata",
+ "licence": "CC0-1.0",
+ "url": "https://query.wikidata.org/sparql",
+ "retrieved": "2026-11-16T11:04:49.386Z",
+ "countries": {
+  "TWN": {
+   "forms": [
+    "democracy",
+    "semi-presidential system",
+    "constitutional republic",
+    "democratic republic"
+   ],
+   "headOfStateOffice": "President of the Republic of China",
+   "headOfGovernmentOffice": "Premier of the Republic of China",
+   "anthem": "National Anthem of the Republic of China"
+  },
+  "SAU": {
+   "forms": [
+    "monarchy",
+    "absolute monarchy",
+    "islamic theocracy"
+   ],
+   "headOfStateOffice": "King of Saudi Arabia",
+   "headOfGovernmentOffice": "Prime Minister of Saudi Arabia",
+   "anthem": "Chant of the Saudi Nation",
+   "motto": {
+    "text": "There is no god but Allah; Muhammad is the messenger of God",
+    "lang": "en"
+   }
+  },
+  "LKA": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of Sri Lanka",
+   "headOfGovernmentOffice": "President of Sri Lanka",
+   "anthem": "Sri Lanka Matha",
+   "motto": {
+    "text": "Refreshingly Sri Lanka... the Wonder of Asia",
+    "lang": "en"
+   }
+  },
+  "TKM": {
+   "forms": [
+    "republic",
+    "presidential system"
+   ],
+   "headOfStateOffice": "President of Turkmenistan",
+   "headOfGovernmentOffice": "President of Turkmenistan",
+   "anthem": "National anthem of Turkmenistan"
+  },
+  "PHL": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of the Philippines",
+   "headOfGovernmentOffice": "President of the Philippines",
+   "anthem": "Lupang Hinirang",
+   "motto": {
+    "text": "It’s more fun in the Philippines",
+    "lang": "en"
+   }
+  },
+  "ZAF": {
+   "forms": [
+    "apartheid",
+    "representative democracy",
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of South Africa",
+   "headOfGovernmentOffice": "President of South Africa",
+   "anthem": "national anthem of Mzansi",
+   "motto": {
+    "text": "ǃke e: ǀxarra ǁke",
+    "lang": "en"
+   }
+  },
+  "CAN": {
+   "forms": [
+    "constitutional monarchy",
+    "federation",
+    "parliamentary system"
+   ],
+   "headOfStateOffice": "monarch of Canada",
+   "headOfGovernmentOffice": "Prime Minister of Canada",
+   "anthem": "O Canada",
+   "motto": {
+    "text": "A mari usque ad mare",
+    "lang": "la"
+   }
+  },
+  "SWE": {
+   "forms": [
+    "constitutional monarchy",
+    "representative democracy"
+   ],
+   "headOfStateOffice": "Monarch of Sweden",
+   "headOfGovernmentOffice": "Prime Minister of Sweden",
+   "anthem": "Du gamla, du fria"
+  },
+  "DNK": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfStateOffice": "Monarch of Denmark",
+   "headOfGovernmentOffice": "Prime Minister of Denmark",
+   "anthem": "Der er et yndigt land",
+   "motto": {
+    "text": "Happiest place on Earth!",
+    "lang": "en"
+   }
+  },
+  "QAT": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfStateOffice": "Emir of the State of Qatar",
+   "headOfGovernmentOffice": "Prime Minister of Qatar",
+   "anthem": "As Salam al Amiri",
+   "motto": {
+    "text": "Where dreams come to life",
+    "lang": "en"
+   }
+  },
+  "THA": {
+   "forms": [
+    "constitutional monarchy",
+    "parliamentary monarchy"
+   ],
+   "headOfStateOffice": "King of Thailand",
+   "headOfGovernmentOffice": "Prime Minister of Thailand",
+   "anthem": "Thai National Anthem",
+   "motto": {
+    "text": "ชาติ ศาสนา พระมหากษัตริย์",
+    "lang": "th"
+   }
+  },
+  "ARE": {
+   "forms": [
+    "constitutional monarchy",
+    "absolute monarchy",
+    "federal monarchy"
+   ],
+   "headOfStateOffice": "President of the United Arab Emirates",
+   "headOfGovernmentOffice": "Prime Minister of the United Arab Emirates",
+   "anthem": "Ishy Bilady"
+  },
+  "DZA": {
+   "forms": [
+    "semi-presidential system",
+    "people's republic"
+   ],
+   "headOfStateOffice": "President of Algeria",
+   "headOfGovernmentOffice": "Prime Minister of Algeria",
+   "anthem": "Kassaman",
+   "motto": {
+    "text": "بالشّعب وللشّعب",
+    "lang": "ar"
+   }
+  },
+  "UZB": {
+   "forms": [
+    "presidential system"
+   ],
+   "headOfStateOffice": "President of Uzbekistan",
+   "headOfGovernmentOffice": "Prime Minister of Uzbekistan",
+   "anthem": "National Anthem of Uzbekistan"
+  },
+  "TJK": {
+   "forms": [
+    "presidential system"
+   ],
+   "headOfStateOffice": "president of Tajikistan",
+   "headOfGovernmentOffice": "Prime Minister of Tajikistan",
+   "anthem": "National anthem of Tajikistan"
+  },
+  "SYR": {
+   "forms": [
+    "provisional government"
+   ],
+   "headOfStateOffice": "President of Syria",
+   "anthem": "Humat ad-Diyar"
+  },
+  "BRN": {
+   "forms": [
+    "absolute monarchy",
+    "unitary state",
+    "Islamic state"
+   ],
+   "headOfStateOffice": "Sultan of Brunei Darussalam",
+   "headOfGovernmentOffice": "Sultan of Brunei Darussalam",
+   "anthem": "Allah Peliharakan Sultan",
+   "motto": {
+    "text": "A kingdom of unexpected treasures",
+    "lang": "en-gb"
+   }
+  },
+  "AFG": {
+   "forms": [
+    "unitary state",
+    "Emirate",
+    "islamic theocracy"
+   ],
+   "headOfStateOffice": "Supreme Leader of Afghanistan",
+   "headOfGovernmentOffice": "Prime Minister of Afghanistan",
+   "anthem": "This Is the Home of the Brave"
+  },
+  "HUN": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Hungary",
+   "headOfGovernmentOffice": "Prime Minister of Hungary",
+   "anthem": "Himnusz"
+  },
+  "FIN": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Finland",
+   "headOfGovernmentOffice": "Prime Minister of Finland",
+   "anthem": "Maamme",
+   "motto": {
+    "text": "I wish I was in Finland",
+    "lang": "en"
+   }
+  },
+  "SGP": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Singapore",
+   "headOfGovernmentOffice": "Prime Minister of Singapore",
+   "anthem": "Onward Singapore",
+   "motto": {
+    "text": "Onward, Singapore",
+    "lang": "en"
+   }
+  },
+  "BGD": {
+   "forms": [
+    "parliamentary republic",
+    "Westminster system"
+   ],
+   "headOfStateOffice": "President of Bangladesh",
+   "headOfGovernmentOffice": "Prime Minister of Bangladesh",
+   "anthem": "Amar Sonar Bangla",
+   "motto": {
+    "text": "Beautiful Bangladesh",
+    "lang": "en"
+   }
+  },
+  "ESP": {
+   "forms": [
+    "parliamentary monarchy"
+   ],
+   "headOfStateOffice": "Monarch of Spain",
+   "headOfGovernmentOffice": "Prime Minister of Spain",
+   "anthem": "Marcha Real",
+   "motto": {
+    "text": "Plus Ultra",
+    "lang": "la"
+   }
+  },
+  "CHL": {
+   "forms": [
+    "democratic republic"
+   ],
+   "headOfStateOffice": "President of Chile",
+   "headOfGovernmentOffice": "President of Chile",
+   "anthem": "National Anthem of Chile",
+   "motto": {
+    "text": "By Right or Might",
+    "lang": "en"
+   }
+  },
+  "TZA": {
+   "forms": [],
+   "headOfStateOffice": "President of Tanzania",
+   "headOfGovernmentOffice": "President of Tanzania",
+   "anthem": "Mungu ibariki Afrika",
+   "motto": {
+    "text": "Azadlıq və Birlik",
+    "lang": "sw"
+   }
+  },
+  "PRK": {
+   "forms": [
+    "republic",
+    "unitary state",
+    "one-party state",
+    "Juche",
+    "socialist state",
+    "family dictatorship",
+    "communist dictatorship"
+   ],
+   "headOfStateOffice": "Supreme Leader of North Korea",
+   "headOfGovernmentOffice": "Premier of North Korea",
+   "anthem": "Aegukka"
+  },
+  "IND": {
+   "forms": [
+    "republic",
+    "constitutional republic",
+    "federal republic",
+    "democratic republic"
+   ],
+   "headOfStateOffice": "President of India",
+   "headOfGovernmentOffice": "Prime Minister of India",
+   "anthem": "Jana Gana Mana",
+   "motto": {
+    "text": "सत्यमेव जयते",
+    "lang": "sa"
+   }
+  },
+  "AGO": {
+   "forms": [
+    "republic",
+    "presidential system"
+   ],
+   "headOfStateOffice": "President of Angola",
+   "headOfGovernmentOffice": "President of Angola",
+   "anthem": "Angola Avante",
+   "motto": {
+    "text": "Virtus Unita Fortior",
+    "lang": "la"
+   }
+  },
+  "JPN": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfStateOffice": "Emperor of Japan",
+   "headOfGovernmentOffice": "Prime Minister of Japan",
+   "anthem": "Kimigayo",
+   "motto": {
+    "text": "Endless discovery",
+    "lang": "en"
+   }
+  },
+  "NOR": {
+   "forms": [
+    "constitutional monarchy",
+    "unitary state",
+    "parliamentary system",
+    "representative democracy"
+   ],
+   "headOfStateOffice": "Monarch of Norway",
+   "headOfGovernmentOffice": "Prime Minister of Norway",
+   "anthem": "Ja, vi elsker dette landet",
+   "motto": {
+    "text": "Alt for Norge",
+    "lang": "no"
+   }
+  },
+  "LIE": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfStateOffice": "Prince of Lichtenstein",
+   "headOfGovernmentOffice": "Prime Minister of Liechtenstein",
+   "anthem": "Oben am jungen Rhein",
+   "motto": {
+    "text": "Für Gott, Fürst und Vaterland",
+    "lang": "de"
+   }
+  },
+  "BHR": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfStateOffice": "monarch of Bahrain",
+   "headOfGovernmentOffice": "Prime Minister of Bahrain",
+   "anthem": "Bahrainona",
+   "motto": {
+    "text": "Ours. Yours. Bahrain",
+    "lang": "en"
+   }
+  },
+  "KHM": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfStateOffice": "King of Cambodia",
+   "headOfGovernmentOffice": "Prime Minister of Cambodia",
+   "anthem": "Nokor Reach",
+   "motto": {
+    "text": "Kingdom of wonder",
+    "lang": "en"
+   }
+  },
+  "BTN": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfStateOffice": "King of Bhutan",
+   "headOfGovernmentOffice": "Prime Minister of Bhutan",
+   "anthem": "Druk Tsenden",
+   "motto": {
+    "text": "Happiness is a place",
+    "lang": "en"
+   }
+  },
+  "TUR": {
+   "forms": [
+    "presidential system",
+    "unitary state"
+   ],
+   "headOfStateOffice": "President of Turkey",
+   "headOfGovernmentOffice": "President of Turkey",
+   "anthem": "İstiklâl Marşı",
+   "motto": {
+    "text": "Yurtta sulh, cihanda sulh",
+    "lang": "tr"
+   }
+  },
+  "PER": {
+   "forms": [
+    "presidential system"
+   ],
+   "headOfStateOffice": "President of Peru",
+   "headOfGovernmentOffice": "President of Peru",
+   "anthem": "National Anthem of Peru",
+   "motto": {
+    "text": "Land of the Incas",
+    "lang": "en"
+   }
+  },
+  "TUN": {
+   "forms": [
+    "presidential system",
+    "semi-presidential system",
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Tunisia",
+   "headOfGovernmentOffice": "Prime Minister of Tunisia",
+   "anthem": "Humat Al Hima",
+   "motto": {
+    "text": "حرية، نظام، عدالة",
+    "lang": "ar"
+   }
+  },
+  "ZMB": {
+   "forms": [
+    "presidential system",
+    "representative democracy"
+   ],
+   "headOfStateOffice": "President of Zambia",
+   "headOfGovernmentOffice": "President of Zambia",
+   "anthem": "Stand and Sing of Zambia, Proud and Free",
+   "motto": {
+    "text": "One Zambia, One Nation",
+    "lang": "en"
+   }
+  },
+  "BEL": {
+   "forms": [
+    "federation"
+   ],
+   "headOfStateOffice": "King of the Belgians",
+   "headOfGovernmentOffice": "Prime Minister of Belgium",
+   "anthem": "The Brabançonne",
+   "motto": {
+    "text": "Einigkeit macht stark",
+    "lang": "de"
+   }
+  },
+  "POL": {
+   "forms": [
+    "semi-presidential system",
+    "unitary state",
+    "parliamentary system"
+   ],
+   "headOfStateOffice": "President of the Republic of Poland",
+   "headOfGovernmentOffice": "Prime Minister of Poland",
+   "anthem": "Poland Is Not Yet Lost",
+   "motto": {
+    "text": "Move your imagination",
+    "lang": "en"
+   }
+  },
+  "LTU": {
+   "forms": [
+    "semi-presidential system",
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of the Republic of Lithuania",
+   "headOfGovernmentOffice": "Prime Minister of Lithuania",
+   "anthem": "Tautiška giesmė",
+   "motto": {
+    "text": "Vienybė težydi",
+    "lang": "lt"
+   }
+  },
+  "MNG": {
+   "forms": [
+    "parliamentary system"
+   ],
+   "headOfStateOffice": "President of Mongolia",
+   "headOfGovernmentOffice": "Prime Minister of Mongolia",
+   "anthem": "National anthem of Mongolia",
+   "motto": {
+    "text": "Go Nomadic, Experience Mongolia",
+    "lang": "en"
+   }
+  },
+  "USA": {
+   "forms": [
+    "constitutional republic",
+    "democratic republic"
+   ],
+   "headOfStateOffice": "President of the United States",
+   "headOfGovernmentOffice": "President of the United States",
+   "anthem": "The Star-Spangled Banner",
+   "motto": {
+    "text": "In God We Trust",
+    "lang": "en"
+   }
+  },
+  "GRC": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Greece",
+   "headOfGovernmentOffice": "Prime Minister of Greece",
+   "anthem": "Hymn to Liberty",
+   "motto": {
+    "text": "All Time Classic",
+    "lang": "en"
+   }
+  },
+  "ARG": {
+   "forms": [
+    "federal republic"
+   ],
+   "headOfStateOffice": "President of Argentina",
+   "headOfGovernmentOffice": "President of Argentina",
+   "anthem": "Argentine National Anthem",
+   "motto": {
+    "text": "Beats to your rhythm",
+    "lang": "en"
+   }
+  },
+  "KIR": {
+   "forms": [],
+   "headOfStateOffice": "President of Kiribati",
+   "headOfGovernmentOffice": "President of Kiribati",
+   "anthem": "Kunan Kiribati",
+   "motto": {
+    "text": "For travellers",
+    "lang": "en"
+   }
+  },
+  "CAF": {
+   "forms": [],
+   "headOfStateOffice": "President of the Central African Republic",
+   "headOfGovernmentOffice": "Prime Minister of the Central African Republic",
+   "anthem": "La Renaissance",
+   "motto": {
+    "text": "Unity, Dignity, Work",
+    "lang": "en"
+   }
+  },
+  "TUV": {
+   "forms": [],
+   "headOfStateOffice": "monarch of Tuvalu",
+   "headOfGovernmentOffice": "Prime Minister of Tuvalu",
+   "anthem": "Tuvalu mo te Atua",
+   "motto": {
+    "text": "Tuvalu for the Almighty",
+    "lang": "en"
+   }
+  },
+  "ZWE": {
+   "forms": [],
+   "headOfStateOffice": "President of Zimbabwe",
+   "headOfGovernmentOffice": "President of Zimbabwe",
+   "anthem": "National Anthem of Zimbabwe",
+   "motto": {
+    "text": "Unity, Freedom, Work",
+    "lang": "en"
+   }
+  },
+  "MHL": {
+   "forms": [],
+   "headOfStateOffice": "President of the Marshall Islands",
+   "headOfGovernmentOffice": "President of the Marshall Islands",
+   "anthem": "Forever Marshall Islands",
+   "motto": {
+    "text": "Accomplishment through joint effort",
+    "lang": "en"
+   }
+  },
+  "PRT": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of Portugal",
+   "headOfGovernmentOffice": "Prime Minister of Portugal",
+   "motto": {
+    "text": "Europe's West Coast",
+    "lang": "en"
+   }
+  },
+  "URY": {
+   "forms": [
+    "republic",
+    "presidential system",
+    "participatory democracy"
+   ],
+   "headOfStateOffice": "President of Uruguay",
+   "headOfGovernmentOffice": "President of Uruguay",
+   "anthem": "National Anthem of Uruguay"
+  },
+  "ARM": {
+   "forms": [
+    "republic",
+    "parliamentary system",
+    "unitary state"
+   ],
+   "headOfStateOffice": "President of Armenia",
+   "headOfGovernmentOffice": "Prime Minister of Armenia",
+   "anthem": "Mer Hayrenik"
+  },
+  "SUR": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of Suriname",
+   "headOfGovernmentOffice": "President of Suriname",
+   "anthem": "God zij met ons Suriname",
+   "motto": {
+    "text": "Justice – Piety – Trust",
+    "lang": "en"
+   }
+  },
+  "ECU": {
+   "forms": [
+    "republic",
+    "presidential system"
+   ],
+   "headOfStateOffice": "President of Ecuador",
+   "headOfGovernmentOffice": "President of Ecuador",
+   "anthem": "Salve, Oh Patria",
+   "motto": {
+    "text": "Duw, Mamwlad a Rhyddid",
+    "lang": "cy"
+   }
+  },
+  "VNM": {
+   "forms": [
+    "republic",
+    "unitary state",
+    "one-party state"
+   ],
+   "headOfStateOffice": "President of Vietnam",
+   "headOfGovernmentOffice": "Prime Minister of Vietnam",
+   "anthem": "Tiến Quân Ca",
+   "motto": {
+    "text": "Independence – Freedom – Happiness",
+    "lang": "en"
+   }
+  },
+  "KOR": {
+   "forms": [
+    "republic",
+    "presidential system"
+   ],
+   "headOfStateOffice": "President of South Korea",
+   "headOfGovernmentOffice": "President of South Korea",
+   "anthem": "Aegukga",
+   "motto": {
+    "text": "Imagine your Korea",
+    "lang": "en"
+   }
+  },
+  "BFA": {
+   "forms": [
+    "republic",
+    "military junta"
+   ],
+   "headOfStateOffice": "military leader",
+   "anthem": "Une Seule Nuit",
+   "motto": {
+    "text": "Unity–Progress–Justice",
+    "lang": "en"
+   }
+  },
+  "LUX": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfStateOffice": "Grand Duke of Luxembourg",
+   "headOfGovernmentOffice": "Prime Minister of Luxembourg",
+   "anthem": "Ons Heemecht"
+  },
+  "AUS": {
+   "forms": [
+    "constitutional monarchy",
+    "federation",
+    "representative democracy"
+   ],
+   "headOfStateOffice": "monarch of Australia",
+   "headOfGovernmentOffice": "Prime Minister of Australia",
+   "anthem": "Advance Australia Fair",
+   "motto": {
+    "text": "There's NOTHING like Australia",
+    "lang": "en"
+   }
+  },
+  "VEN": {
+   "forms": [
+    "presidential system",
+    "federal republic"
+   ],
+   "headOfStateOffice": "President of Venezuela",
+   "headOfGovernmentOffice": "President of Venezuela",
+   "anthem": "gloria al bravo pueblo"
+  },
+  "BDI": {
+   "forms": [
+    "presidential system",
+    "representative democracy"
+   ],
+   "headOfStateOffice": "President of Burundi",
+   "headOfGovernmentOffice": "Prime Minister of Burundi",
+   "anthem": "Burundi Bwacu",
+   "motto": {
+    "text": "Beautiful Burundi",
+    "lang": "en"
+   }
+  },
+  "IRL": {
+   "forms": [
+    "unitary state",
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "president of Ireland",
+   "headOfGovernmentOffice": "Taoiseach",
+   "anthem": "Amhrán na bhFiann",
+   "motto": {
+    "text": "Jump into Ireland",
+    "lang": "en"
+   }
+  },
+  "CHE": {
+   "forms": [
+    "federal republic",
+    "directorial system"
+   ],
+   "headOfStateOffice": "Member of the Swiss Federal Council",
+   "headOfGovernmentOffice": "President of the Swiss Confederation",
+   "anthem": "Swiss Psalm",
+   "motto": {
+    "text": "Unus pro omnibus, omnes pro uno",
+    "lang": "la"
+   }
+  },
+  "FSM": {
+   "forms": [
+    "federal republic"
+   ],
+   "headOfStateOffice": "President of the Federated States of Micronesia",
+   "headOfGovernmentOffice": "President of the Federated States of Micronesia",
+   "anthem": "Patriots of Micronesia",
+   "motto": {
+    "text": "Peace, Unity, Liberty",
+    "lang": "en"
+   }
+  },
+  "ITA": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Italy",
+   "headOfGovernmentOffice": "Prime Minister of Italy",
+   "anthem": "Il Canto degli Italiani"
+  },
+  "SRB": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Serbia",
+   "headOfGovernmentOffice": "Prime Minister of Serbia",
+   "anthem": "Bože pravde"
+  },
+  "GUY": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Guyana",
+   "headOfGovernmentOffice": "Prime Minister of Guyana",
+   "anthem": "National anthem of Guyana",
+   "motto": {
+    "text": "South America Undiscovered",
+    "lang": "en"
+   }
+  },
+  "NRU": {
+   "forms": [],
+   "headOfStateOffice": "President of Nauru",
+   "headOfGovernmentOffice": "President of Nauru",
+   "anthem": "Nauru Bwiema",
+   "motto": {
+    "text": "God's will first",
+    "lang": "en"
+   }
+  },
+  "PRY": {
+   "forms": [],
+   "headOfStateOffice": "President of Paraguay",
+   "headOfGovernmentOffice": "President of Paraguay",
+   "anthem": "national anthem of Paraguay",
+   "motto": {
+    "text": "You have to feel it!",
+    "lang": "en"
+   }
+  },
+  "PLW": {
+   "forms": [],
+   "headOfStateOffice": "President of Palau",
+   "headOfGovernmentOffice": "President of Palau",
+   "anthem": "Belau rekid",
+   "motto": {
+    "text": "Pristime Paradise Palau",
+    "lang": "en"
+   }
+  },
+  "TGO": {
+   "forms": [],
+   "headOfStateOffice": "President of Togo",
+   "headOfGovernmentOffice": "President of the Council of Ministers of Togo",
+   "anthem": "Terre de nos aïeux",
+   "motto": {
+    "text": "Work, Liberty, Homeland",
+    "lang": "en"
+   }
+  },
+  "MLI": {
+   "forms": [],
+   "headOfStateOffice": "President of Mali",
+   "headOfGovernmentOffice": "Prime Minister of Mali",
+   "anthem": "Pour l'Afrique et pour toi",
+   "motto": {
+    "text": "One people, one goal, one faith",
+    "lang": "en"
+   }
+  },
+  "FJI": {
+   "forms": [],
+   "headOfStateOffice": "President of Fiji",
+   "headOfGovernmentOffice": "Prime Minister of Fiji",
+   "anthem": "God Bless Fiji",
+   "motto": {
+    "text": "Where Happiness Finds You",
+    "lang": "en"
+   }
+  },
+  "TLS": {
+   "forms": [
+    "republic",
+    "semi-presidential system",
+    "unitary state"
+   ],
+   "headOfStateOffice": "President of East Timor",
+   "headOfGovernmentOffice": "Prime Minister of East Timor",
+   "anthem": "Pátria",
+   "motto": {
+    "text": "Unidade, Acção, Progresso",
+    "lang": "pt"
+   }
+  },
+  "COL": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of Colombia",
+   "headOfGovernmentOffice": "President of Colombia",
+   "anthem": "National Anthem of Colombia",
+   "motto": {
+    "text": "Freedom and Order",
+    "lang": "en"
+   }
+  },
+  "BOL": {
+   "forms": [
+    "republic",
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "president of Bolivia",
+   "headOfGovernmentOffice": "president of Bolivia",
+   "anthem": "National Anthem of Bolivia",
+   "motto": {
+    "text": "Bolivia awaits you",
+    "lang": "en"
+   }
+  },
+  "BEN": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of the Republic of Benin",
+   "headOfGovernmentOffice": "President of the Republic of Benin",
+   "anthem": "L'Aube Nouvelle",
+   "motto": {
+    "text": "Fraternity, Justice, Labour",
+    "lang": "en"
+   }
+  },
+  "COD": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of the Democratic Republic of the Congo",
+   "headOfGovernmentOffice": "Prime Minister of the Democratic Republic of the Congo",
+   "anthem": "Debout Congolais",
+   "motto": {
+    "text": "Justice – Peace – Work",
+    "lang": "en"
+   }
+  },
+  "CIV": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of the Ivory Coast",
+   "headOfGovernmentOffice": "Prime Minister of Ivory Coast",
+   "anthem": "L'Abidjanaise",
+   "motto": {
+    "text": "Unity – Discipline – Work",
+    "lang": "en"
+   }
+  },
+  "CMR": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of Cameroon",
+   "headOfGovernmentOffice": "Prime Minister of Cameroon",
+   "anthem": "O Cameroon, Cradle of Our Forefathers",
+   "motto": {
+    "text": "Peace – Work – Fatherland",
+    "lang": "en"
+   }
+  },
+  "GHA": {
+   "forms": [
+    "democracy"
+   ],
+   "headOfStateOffice": "President of Ghana",
+   "headOfGovernmentOffice": "President of Ghana",
+   "anthem": "God Bless Our Homeland Ghana",
+   "motto": {
+    "text": "Freedom and Justice",
+    "lang": "en"
+   }
+  },
+  "FRA": {
+   "forms": [
+    "semi-presidential system"
+   ],
+   "headOfStateOffice": "President of the French Republic",
+   "headOfGovernmentOffice": "Prime Minister of France",
+   "anthem": "La Marseillaise",
+   "motto": {
+    "text": "Liberté, égalité, fraternité",
+    "lang": "fr"
+   }
+  },
+  "GBR": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfStateOffice": "Monarch of the United Kingdom",
+   "headOfGovernmentOffice": "Prime Minister of the United Kingdom",
+   "anthem": "God Save the King",
+   "motto": {
+    "text": "Dieu et mon droit",
+    "lang": "fr"
+   }
+  },
+  "SSD": {
+   "forms": [
+    "federal republic"
+   ],
+   "headOfStateOffice": "President of South Sudan",
+   "headOfGovernmentOffice": "President of South Sudan",
+   "anthem": "South Sudan Oyee!",
+   "motto": {
+    "text": "Justice, Liberty, Prosperity",
+    "lang": "en"
+   }
+  },
+  "COM": {
+   "forms": [
+    "federal republic"
+   ],
+   "headOfStateOffice": "President of Comoros",
+   "headOfGovernmentOffice": "President of Comoros",
+   "anthem": "Udzima wa ya Masiwa",
+   "motto": {
+    "text": "وحدة، تضامن، تنمية",
+    "lang": "ar"
+   }
+  },
+  "NZL": {
+   "forms": [
+    "parliamentary monarchy"
+   ],
+   "headOfStateOffice": "monarch of New Zealand",
+   "headOfGovernmentOffice": "Prime Minister of New Zealand",
+   "anthem": "God Defend New Zealand",
+   "motto": {
+    "text": "100% Pure",
+    "lang": "en"
+   }
+  },
+  "TTO": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Trinidad and Tobago",
+   "headOfGovernmentOffice": "Prime Minister of Trinidad and Tobago",
+   "anthem": "Forged from the Love of Liberty",
+   "motto": {
+    "text": "Together We Aspire, Together We Achieve",
+    "lang": "en"
+   }
+  },
+  "BWA": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Botswana",
+   "headOfGovernmentOffice": "President of Botswana",
+   "anthem": "Fatshe leno la rona",
+   "motto": {
+    "text": "Our pride, your destination",
+    "lang": "en"
+   }
+  },
+  "COG": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of the Republic of the Congo",
+   "headOfGovernmentOffice": "Prime Minister of the Republic of the Congo",
+   "anthem": "La Congolaise",
+   "motto": {
+    "text": "Unity, Work, Progress",
+    "lang": "en"
+   }
+  },
+  "CPV": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Cape Verde",
+   "headOfGovernmentOffice": "Prime Minister of Cabo Verde",
+   "anthem": "Cântico da Liberdade",
+   "motto": {
+    "text": "Paz, Trabalho, Pátria",
+    "lang": "pt"
+   }
+  },
+  "VUT": {
+   "forms": [],
+   "headOfStateOffice": "President of Vanuatu",
+   "headOfGovernmentOffice": "Prime Minister of Vanuatu",
+   "anthem": "Yumi, Yumi",
+   "motto": {
+    "text": "In God we stand",
+    "lang": "en"
+   }
+  },
+  "WSM": {
+   "forms": [],
+   "headOfStateOffice": "O le Ao o le Malo",
+   "headOfGovernmentOffice": "Prime Minister of Samoa",
+   "anthem": "The Banner of Freedom",
+   "motto": {
+    "text": "Beautiful Samoa",
+    "lang": "en"
+   }
+  },
+  "TON": {
+   "forms": [],
+   "headOfStateOffice": "Monarch of Tonga",
+   "headOfGovernmentOffice": "Prime Minister of Tonga",
+   "anthem": "Ko e fasi 'o e tu'i 'o e 'Otu Tonga",
+   "motto": {
+    "text": "Ko e ʻOtua mo Tonga ko hoku tofiʻa",
+    "lang": "to"
+   }
+  },
+  "DJI": {
+   "forms": [],
+   "headOfStateOffice": "President of Djibouti",
+   "headOfGovernmentOffice": "Prime Minister of Djibouti",
+   "anthem": "Djibouti",
+   "motto": {
+    "text": "Unity, Equality, Peace",
+    "lang": "en"
+   }
+  },
+  "GNQ": {
+   "forms": [],
+   "headOfStateOffice": "President of Equatorial Guinea",
+   "headOfGovernmentOffice": "Prime Minister of Equatorial Guinea",
+   "anthem": "Caminemos pisando las sendas de nuestra inmensa felicidad",
+   "motto": {
+    "text": "Unidad, Paz, Justicia",
+    "lang": "es"
+   }
+  },
+  "ERI": {
+   "forms": [],
+   "headOfStateOffice": "President of Eritrea",
+   "headOfGovernmentOffice": "President of Eritrea",
+   "anthem": "Ertra, Ertra, Ertra"
+  },
+  "TCD": {
+   "forms": [],
+   "headOfStateOffice": "President of Chad",
+   "headOfGovernmentOffice": "President of Chad",
+   "anthem": "La Tchadienne",
+   "motto": {
+    "text": "Unity, Work, Progress",
+    "lang": "en"
+   }
+  },
+  "SLB": {
+   "forms": [],
+   "headOfStateOffice": "monarch of the Solomon Islands",
+   "headOfGovernmentOffice": "Prime Minister of the Solomon Islands",
+   "anthem": "God Save Our Solomon Islands",
+   "motto": {
+    "text": "To Lead is to Serve",
+    "lang": "en"
+   }
+  },
+  "AUT": {
+   "forms": [
+    "republic",
+    "semi-presidential system",
+    "federal parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Austria",
+   "headOfGovernmentOffice": "Federal Chancellor of Austria",
+   "anthem": "Land der Berge, Land am Strome",
+   "motto": {
+    "text": "Arrive and revive",
+    "lang": "en"
+   }
+  },
+  "EGY": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of Egypt",
+   "headOfGovernmentOffice": "Prime Minister of Egypt",
+   "anthem": "Bilady, Bilady, Bilady",
+   "motto": {
+    "text": "مصر أمّ الدنيا",
+    "lang": "ar"
+   }
+  },
+  "BLR": {
+   "forms": [
+    "republic",
+    "presidential system"
+   ],
+   "headOfStateOffice": "President of Belarus",
+   "headOfGovernmentOffice": "Prime Minister of Belarus",
+   "anthem": "My Belarusy",
+   "motto": {
+    "text": "Ospitalitate dincolo de granițe",
+    "lang": "en"
+   }
+  },
+  "AZE": {
+   "forms": [
+    "republic",
+    "semi-presidential system",
+    "unitary state"
+   ],
+   "headOfStateOffice": "President of Azerbaijan",
+   "headOfGovernmentOffice": "Prime Minister of Azerbaijan",
+   "anthem": "Azərbaycan marşı"
+  },
+  "CYP": {
+   "forms": [
+    "republic",
+    "presidential system"
+   ],
+   "headOfStateOffice": "Padre y esposo Coughlan",
+   "headOfGovernmentOffice": "Padre y esposo Coughlan",
+   "anthem": "Hymn to Liberty",
+   "motto": {
+    "text": "Cyprus in your heart",
+    "lang": "en"
+   }
+  },
+  "HND": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of Honduras",
+   "headOfGovernmentOffice": "President of Honduras",
+   "anthem": "National Anthem of Honduras",
+   "motto": {
+    "text": "Libre, Soberana e Independiente",
+    "lang": "es"
+   }
+  },
+  "GMB": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of the Gambia",
+   "headOfGovernmentOffice": "President of the Gambia",
+   "anthem": "For The Gambia Our Homeland",
+   "motto": {
+    "text": "Progress, Peace, Prosperity",
+    "lang": "en"
+   }
+  },
+  "GIN": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of Guinea",
+   "headOfGovernmentOffice": "Prime Minister of Guinea",
+   "anthem": "Liberté",
+   "motto": {
+    "text": "Work, Justice, Solidarity",
+    "lang": "en"
+   }
+  },
+  "VCT": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfStateOffice": "monarch of Saint Vincent and the Grenadines",
+   "headOfGovernmentOffice": "Prime Minister of Saint Vincent and the Grenadines",
+   "anthem": "Saint Vincent, Land so Beautiful",
+   "motto": {
+    "text": "Discover SVG",
+    "lang": "en"
+   }
+  },
+  "LCA": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfStateOffice": "monarch of Saint Lucia",
+   "headOfGovernmentOffice": "Prime Minister of Saint Lucia",
+   "anthem": "Sons and Daughters of Saint Lucia",
+   "motto": {
+    "text": "The Land, The People, The Light",
+    "lang": "en"
+   }
+  },
+  "KNA": {
+   "forms": [
+    "constitutional monarchy",
+    "federal monarchy"
+   ],
+   "headOfStateOffice": "monarch of Saint Kitts and Nevis",
+   "headOfGovernmentOffice": "Prime Minister of St Kitts and Nevis",
+   "anthem": "O Land of Beauty!",
+   "motto": {
+    "text": "Follow your heart",
+    "lang": "en"
+   }
+  },
+  "ATG": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfStateOffice": "Governor-General of Antigua and Barbuda",
+   "headOfGovernmentOffice": "Prime Minister of Antigua and Barbuda",
+   "anthem": "God Save the King",
+   "motto": {
+    "text": "The beach is just the beginning",
+    "lang": "en"
+   }
+  },
+  "MEX": {
+   "forms": [
+    "empire",
+    "presidential system",
+    "federal republic",
+    "constitutional republic",
+    "democratic republic"
+   ],
+   "headOfStateOffice": "President of Mexico",
+   "headOfGovernmentOffice": "President of Mexico",
+   "anthem": "National Anthem of Mexico"
+  },
+  "BRA": {
+   "forms": [
+    "presidential system",
+    "representative democracy",
+    "federal republic"
+   ],
+   "headOfStateOffice": "President of Brazil",
+   "headOfGovernmentOffice": "President of Brazil",
+   "anthem": "Brazilian National Anthem"
+  },
+  "GAB": {
+   "forms": [
+    "presidential system"
+   ],
+   "headOfStateOffice": "President of Gabon",
+   "headOfGovernmentOffice": "Prime Minister of Gabon",
+   "anthem": "La Concorde",
+   "motto": {
+    "text": "Union, Work, Justice",
+    "lang": "en"
+   }
+  },
+  "UGA": {
+   "forms": [
+    "presidential system"
+   ],
+   "headOfStateOffice": "President of Uganda",
+   "headOfGovernmentOffice": "Prime Minister of Uganda",
+   "anthem": "Oh Uganda, Land of Beauty",
+   "motto": {
+    "text": "For God and My Country",
+    "lang": "en"
+   }
+  },
+  "NGA": {
+   "forms": [
+    "federal republic"
+   ],
+   "headOfStateOffice": "President of Nigeria",
+   "headOfGovernmentOffice": "President of Nigeria",
+   "anthem": "Nigeria, We Hail Thee",
+   "motto": {
+    "text": "Unity and Faith, Peace and Progress",
+    "lang": "en"
+   }
+  },
+  "CHN": {
+   "forms": [
+    "people's republic"
+   ],
+   "headOfStateOffice": "President of the People's Republic of China",
+   "headOfGovernmentOffice": "Premier of the People's Republic of China",
+   "anthem": "March of the Volunteers"
+  },
+  "AND": {
+   "forms": [
+    "parliamentary coprincipality"
+   ],
+   "headOfStateOffice": "Episcopal Co-Prince",
+   "headOfGovernmentOffice": "Prime Minister of Andorra",
+   "anthem": "El gran Carlemany",
+   "motto": {
+    "text": "El País dels Pirineus",
+    "lang": "ca"
+   }
+  },
+  "DEU": {
+   "forms": [
+    "federal parliamentary republic"
+   ],
+   "headOfStateOffice": "president of Germany",
+   "headOfGovernmentOffice": "Federal Chancellor of Germany",
+   "anthem": "third stanza of the Deutschlandlied",
+   "motto": {
+    "text": "Einigkeit und Recht und Freiheit",
+    "lang": "de"
+   }
+  },
+  "RUS": {
+   "forms": [
+    "super-presidential republic"
+   ],
+   "headOfStateOffice": "President of Russia",
+   "headOfGovernmentOffice": "Prime Minister of Russia",
+   "anthem": "State Anthem of the Russian Federation",
+   "motto": {
+    "text": "Reveal your own Russia",
+    "lang": "en"
+   }
+  },
+  "NER": {
+   "forms": [],
+   "headOfStateOffice": "President of Niger",
+   "headOfGovernmentOffice": "Prime Minister of Niger",
+   "anthem": "L'Honneur de la Patrie",
+   "motto": {
+    "text": "Fraternity, Work, Progress",
+    "lang": "en"
+   }
+  },
+  "DMA": {
+   "forms": [],
+   "headOfStateOffice": "president of Dominica",
+   "headOfGovernmentOffice": "Prime Minister of Dominica",
+   "anthem": "Isle of Beauty, Isle of Splendour",
+   "motto": {
+    "text": "The nature island",
+    "lang": "en"
+   }
+  },
+  "GNB": {
+   "forms": [],
+   "headOfStateOffice": "President of Guinea-Bissau",
+   "headOfGovernmentOffice": "Prime Minister of Guinea-Bissau",
+   "anthem": "Esta é a Nossa Pátria bem Amada",
+   "motto": {
+    "text": "Unity, Fight, Progress",
+    "lang": "en"
+   }
+  },
+  "PNG": {
+   "forms": [],
+   "headOfStateOffice": "monarch of Papua New Guinea",
+   "headOfGovernmentOffice": "Prime Minister of Papua New Guinea",
+   "anthem": "O Arise, All You Sons",
+   "motto": {
+    "text": "A million different journeys",
+    "lang": "en"
+   }
+  },
+  "SLV": {
+   "forms": [
+    "republic",
+    "presidential system",
+    "representative democracy"
+   ],
+   "headOfStateOffice": "President of El Salvador",
+   "headOfGovernmentOffice": "President of El Salvador",
+   "anthem": "National anthem of El Salvador",
+   "motto": {
+    "text": "The 45 Minute Country",
+    "lang": "en"
+   }
+  },
+  "YEM": {
+   "forms": [
+    "republic",
+    "presidential system"
+   ],
+   "headOfStateOffice": "President of Yemen",
+   "headOfGovernmentOffice": "Prime Minister of Yemen",
+   "anthem": "National anthem of Yemen",
+   "motto": {
+    "text": "God, Country, Revolution, Unity",
+    "lang": "en"
+   }
+  },
+  "NIC": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of Nicaragua",
+   "headOfGovernmentOffice": "President of Nicaragua",
+   "anthem": "Salve a ti",
+   "motto": {
+    "text": "Unica. Original!",
+    "lang": "en"
+   }
+  },
+  "LBR": {
+   "forms": [
+    "republic",
+    "presidential system",
+    "constitutional republic",
+    "Herrenvolk democracy"
+   ],
+   "headOfStateOffice": "President of Liberia",
+   "headOfGovernmentOffice": "President of Liberia",
+   "anthem": "All Hail, Liberia, Hail!",
+   "motto": {
+    "text": "The Love Of Liberty Brought Us Here",
+    "lang": "en"
+   }
+  },
+  "IRN": {
+   "forms": [
+    "presidential system",
+    "unitary state",
+    "Islamic Republic",
+    "islamic theocracy"
+   ],
+   "headOfStateOffice": "President of Iran",
+   "headOfGovernmentOffice": "President of Iran",
+   "anthem": "National Anthem of the Islamic Republic of Iran",
+   "motto": {
+    "text": "استقلال، آزادی، جمهوری اسلامی",
+    "lang": "fa"
+   }
+  },
+  "PAN": {
+   "forms": [
+    "presidential system"
+   ],
+   "headOfStateOffice": "President of Panama",
+   "headOfGovernmentOffice": "President of Panama",
+   "anthem": "National anthem of Panama",
+   "motto": {
+    "text": "Panama Surprises",
+    "lang": "en"
+   }
+  },
+  "MRT": {
+   "forms": [
+    "presidential system"
+   ],
+   "headOfStateOffice": "President of Mauritania",
+   "headOfGovernmentOffice": "Prime Minister of Mauritania",
+   "anthem": "National anthem of Mauritania",
+   "motto": {
+    "text": "Honor, Fraternity, Justice",
+    "lang": "en"
+   }
+  },
+  "SEN": {
+   "forms": [
+    "presidential system"
+   ],
+   "headOfStateOffice": "President of Senegal",
+   "headOfGovernmentOffice": "President of Senegal",
+   "anthem": "Le Lion rouge",
+   "motto": {
+    "text": "One People, One Goal, One Faith",
+    "lang": "en"
+   }
+  },
+  "RWA": {
+   "forms": [
+    "semi-presidential system"
+   ],
+   "headOfStateOffice": "President of Rwanda",
+   "headOfGovernmentOffice": "Prime Minister of Rwanda",
+   "anthem": "Rwanda Nziza",
+   "motto": {
+    "text": "Unity, Work, Patriotism",
+    "lang": "en"
+   }
+  },
+  "SWZ": {
+   "forms": [
+    "absolute monarchy"
+   ],
+   "headOfStateOffice": "King of Swaziland",
+   "headOfGovernmentOffice": "Prime Minister of Eswatini",
+   "anthem": "Nkulunkulu Mnikati wetibusiso temaSwati",
+   "motto": {
+    "text": "We are a fortress",
+    "lang": "en"
+   }
+  },
+  "ETH": {
+   "forms": [
+    "federal republic"
+   ],
+   "headOfStateOffice": "President of Ethiopia",
+   "headOfGovernmentOffice": "Prime Minister of Ethiopia",
+   "anthem": "March Forward, Dear Mother Ethiopia",
+   "motto": {
+    "text": "Land of origins",
+    "lang": "en"
+   }
+  },
+  "IRQ": {
+   "forms": [
+    "federal republic",
+    "federation"
+   ],
+   "headOfStateOffice": "President of Iraq",
+   "headOfGovernmentOffice": "Prime Minister of Iraq",
+   "anthem": "Mawtini"
+  },
+  "SOM": {
+   "forms": [
+    "federal republic"
+   ],
+   "headOfStateOffice": "President of Somalia",
+   "headOfGovernmentOffice": "Prime Minister of Somalia",
+   "anthem": "Qolobaa Calankeed"
+  },
+  "SDN": {
+   "forms": [
+    "federal republic"
+   ],
+   "headOfStateOffice": "Chairman of the Transitional Military Council",
+   "headOfGovernmentOffice": "Prime Minister of Sudan",
+   "anthem": "Nahnu Jund Allah Jund Al-watan",
+   "motto": {
+    "text": "النصر لنا",
+    "lang": "ar"
+   }
+  },
+  "ISR": {
+   "forms": [
+    "unitary state",
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Israel",
+   "headOfGovernmentOffice": "Prime Minister of Israel",
+   "anthem": "Hatikvah"
+  },
+  "LSO": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfStateOffice": "King of Lesotho",
+   "headOfGovernmentOffice": "Prime Minister of Lesotho",
+   "anthem": "Lesotho Fatse La Bontata Rona",
+   "motto": {
+    "text": "The Kingdom In The Sky",
+    "lang": "en"
+   }
+  },
+  "BGR": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Bulgaria",
+   "headOfGovernmentOffice": "Prime Minister of Bulgaria",
+   "anthem": "Mila Rodino",
+   "motto": {
+    "text": "A discovery to share",
+    "lang": "en"
+   }
+  },
+  "MKD": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of North Macedonia",
+   "headOfGovernmentOffice": "Prime Minister of North Macedonia",
+   "anthem": "Denes nad Makedonija",
+   "motto": {
+    "text": "North Macedonia Timeless",
+    "lang": "en"
+   }
+  },
+  "STP": {
+   "forms": [],
+   "headOfStateOffice": "President of São Tomé and Príncipe",
+   "headOfGovernmentOffice": "Prime Minister of São Tomé and Príncipe",
+   "anthem": "Independência total",
+   "motto": {
+    "text": "Unity, Discipline, Labour",
+    "lang": "en"
+   }
+  },
+  "TKL": {
+   "forms": [],
+   "headOfStateOffice": "monarch of New Zealand",
+   "headOfGovernmentOffice": "Head of Government of Tokelau",
+   "anthem": "God Save the King",
+   "motto": {
+    "text": "Tokelau for the Almighty",
+    "lang": "en"
+   }
+  },
+  "CRI": {
+   "forms": [],
+   "headOfStateOffice": "President of Costa Rica",
+   "headOfGovernmentOffice": "President of Costa Rica",
+   "anthem": "Noble patria, tu hermosa bandera",
+   "motto": {
+    "text": "Essential Costa Rica",
+    "lang": "en"
+   }
+  },
+  "JOR": {
+   "forms": [],
+   "headOfStateOffice": "King of Jordan",
+   "headOfGovernmentOffice": "Prime Minister of Jordan",
+   "anthem": "The Royal Anthem of Jordan",
+   "motto": {
+    "text": "Yes, it's Jordan",
+    "lang": "en"
+   }
+  },
+  "KEN": {
+   "forms": [],
+   "headOfStateOffice": "President of Kenya",
+   "headOfGovernmentOffice": "President of Kenya",
+   "anthem": "Ee Mungu Nguvu Yetu",
+   "motto": {
+    "text": "Magical Kenya",
+    "lang": "en"
+   }
+  },
+  "IOT": {
+   "forms": [],
+   "anthem": "God Save the King",
+   "motto": {
+    "text": "In tutela nostra Limuria",
+    "lang": "la"
+   }
+  },
+  "VAT": {
+   "forms": [
+    "constitutional monarchy",
+    "theocracy",
+    "papacy"
+   ],
+   "headOfStateOffice": "Pope",
+   "headOfGovernmentOffice": "President of the Pontifical Commission for the Vatican City State",
+   "anthem": "Inno e Marcia Pontificale"
+  },
+  "JEY": {
+   "forms": [
+    "constitutional monarchy",
+    "parliamentary democracy",
+    "parliamentary monarchy"
+   ],
+   "headOfStateOffice": "Monarch of the United Kingdom",
+   "headOfGovernmentOffice": "Chief Minister of Jersey",
+   "anthem": "God Save the King"
+  },
+  "MYS": {
+   "forms": [
+    "constitutional monarchy",
+    "federation",
+    "federal monarchy",
+    "elective monarchy",
+    "parliamentary monarchy"
+   ],
+   "headOfStateOffice": "Yang di-Pertuan Agong",
+   "headOfGovernmentOffice": "Prime Minister of Malaysia",
+   "anthem": "Negaraku",
+   "motto": {
+    "text": "Bersekutu Bertambah Mutu",
+    "lang": "ms"
+   }
+  },
+  "MMR": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of Myanmar",
+   "headOfGovernmentOffice": "State Counsellor of Myanmar",
+   "anthem": "Kaba Ma Kyei",
+   "motto": {
+    "text": "Let the journey begin",
+    "lang": "en"
+   }
+  },
+  "GEO": {
+   "forms": [
+    "semi-presidential system",
+    "presidential system",
+    "unitary state",
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Georgia",
+   "headOfGovernmentOffice": "Prime Minister of Georgia",
+   "anthem": "Tavisupleba",
+   "motto": {
+    "text": "ძალა ერთობაშია",
+    "lang": "ka"
+   }
+  },
+  "KAZ": {
+   "forms": [
+    "presidential system"
+   ],
+   "headOfStateOffice": "President of Kazakhstan",
+   "headOfGovernmentOffice": "Prime Minister of Kazakhstan",
+   "anthem": "Menıñ Qazaqstanym"
+  },
+  "GTM": {
+   "forms": [
+    "presidential system",
+    "representative democracy"
+   ],
+   "headOfStateOffice": "president of Guatemala",
+   "headOfGovernmentOffice": "president of Guatemala",
+   "anthem": "National Anthem of Guatemala",
+   "motto": {
+    "text": "Heart of the Mayan World",
+    "lang": "en"
+   }
+  },
+  "CYM": {
+   "forms": [
+    "British Overseas Territories"
+   ],
+   "headOfStateOffice": "Monarch of the United Kingdom",
+   "headOfGovernmentOffice": "Premier of the Cayman Islands",
+   "anthem": "God Save the King",
+   "motto": {
+    "text": "He hath founded it upon the seas",
+    "lang": "en"
+   }
+  },
+  "CUB": {
+   "forms": [
+    "unitary state"
+   ],
+   "headOfStateOffice": "President of Cuba",
+   "headOfGovernmentOffice": "Prime Minister of Cuba",
+   "anthem": "El Himno de Bayamo",
+   "motto": {
+    "text": "Homeland or Death, we shall overcome!",
+    "lang": "en"
+   }
+  },
+  "MLT": {
+   "forms": [
+    "parliamentary democracy"
+   ],
+   "headOfStateOffice": "President of Malta",
+   "headOfGovernmentOffice": "Prime Minister of Malta",
+   "anthem": "L-Innu Malti",
+   "motto": {
+    "text": "Truly Mediterranean",
+    "lang": "en"
+   }
+  },
+  "ISL": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Iceland",
+   "headOfGovernmentOffice": "Prime Minister of Iceland",
+   "anthem": "Lofsöngur",
+   "motto": {
+    "text": "Inspired by Iceland",
+    "lang": "en"
+   }
+  },
+  "MNE": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Montenegro",
+   "headOfGovernmentOffice": "Prime Minister of Montenegro",
+   "anthem": "Oj, svijetla majska zoro",
+   "motto": {
+    "text": "Harddwch gwyllt",
+    "lang": "cy"
+   }
+  },
+  "SMR": {
+   "forms": [
+    "parliamentary republic",
+    "diarchy"
+   ],
+   "headOfStateOffice": "Captain Regent of San Marino",
+   "motto": {
+    "text": "Libertas",
+    "lang": "la"
+   }
+  },
+  "LBN": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Lebanon",
+   "headOfGovernmentOffice": "Prime Minister of Lebanon",
+   "anthem": "Lebanese national anthem",
+   "motto": {
+    "text": "Lebanon Passion for Living",
+    "lang": "en"
+   }
+  },
+  "MUS": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Mauritius",
+   "headOfGovernmentOffice": "Prime Minister of Mauritius",
+   "anthem": "Motherland",
+   "motto": {
+    "text": "Star and Key of the Indian Ocean",
+    "lang": "en"
+   }
+  },
+  "XKS": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Kosovo",
+   "headOfGovernmentOffice": "Prime Minister of Kosovo",
+   "anthem": "Europe"
+  },
+  "DOM": {
+   "forms": [],
+   "headOfStateOffice": "President of the Dominican Republic",
+   "headOfGovernmentOffice": "President of the Dominican Republic",
+   "anthem": "National Anthem of the Dominican Republic",
+   "motto": {
+    "text": "God, Homeland, Freedom",
+    "lang": "en"
+   }
+  },
+  "MDV": {
+   "forms": [],
+   "headOfStateOffice": "President of the Maldives",
+   "headOfGovernmentOffice": "President of the Maldives",
+   "anthem": "Gaumiii salaaam",
+   "motto": {
+    "text": "The sunny side of life",
+    "lang": "en"
+   }
+  },
+  "JAM": {
+   "forms": [],
+   "headOfStateOffice": "monarch of Jamaica",
+   "headOfGovernmentOffice": "Prime Minister of Jamaica",
+   "anthem": "Jamaica, Land We Love",
+   "motto": {
+    "text": "Out of Many, One People",
+    "lang": "en"
+   }
+  },
+  "GRD": {
+   "forms": [],
+   "headOfStateOffice": "monarch of Grenada",
+   "headOfGovernmentOffice": "Prime Minister of Grenada",
+   "anthem": "God Save the King",
+   "motto": {
+    "text": "Pure Grenada",
+    "lang": "en"
+   }
+  },
+  "GIB": {
+   "forms": [],
+   "headOfStateOffice": "Monarch of the United Kingdom",
+   "headOfGovernmentOffice": "Chief Minister of Gibraltar",
+   "anthem": "God Save the King",
+   "motto": {
+    "text": "Badge of the Rock of Gibraltar",
+    "lang": "en"
+   }
+  },
+  "FRO": {
+   "forms": [],
+   "headOfGovernmentOffice": "Prime Minister of the Faroe Islands",
+   "anthem": "Tú alfagra land mítt"
+  },
+  "ALA": {
+   "forms": [],
+   "headOfGovernmentOffice": "lantråd",
+   "anthem": "Ålänningens sång"
+  },
+  "PRI": {
+   "forms": [],
+   "headOfGovernmentOffice": "Governor of Puerto Rico",
+   "anthem": "La Borinqueña",
+   "motto": {
+    "text": "Juan yw ei enw",
+    "lang": "cy"
+   }
+  },
+  "GUF": {
+   "forms": [],
+   "motto": {
+    "text": "Fert Aurum Industria",
+    "lang": "la"
+   }
+  },
+  "LBY": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "Chairman of the Presidential Council",
+   "headOfGovernmentOffice": "Prime Minister of Libya",
+   "anthem": "Libya, Libya, Libya"
+  },
+  "MDG": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of Madagascar",
+   "headOfGovernmentOffice": "Prime Minister of Madagascar",
+   "anthem": "Ry Tanindrazanay malala ô!",
+   "motto": {
+    "text": "Love, Land of Our Ancestors, Progress",
+    "lang": "en"
+   }
+  },
+  "MCO": {
+   "forms": [
+    "constitutional monarchy",
+    "hereditary monarchy"
+   ],
+   "headOfStateOffice": "Prince of Monaco",
+   "headOfGovernmentOffice": "Minister of State of Monaco",
+   "anthem": "Hymne monégasque",
+   "motto": {
+    "text": "Deo Juvante",
+    "lang": "la"
+   }
+  },
+  "BLZ": {
+   "forms": [
+    "constitutional monarchy",
+    "parliamentary monarchy"
+   ],
+   "headOfStateOffice": "monarch of Belize",
+   "headOfGovernmentOffice": "Prime Minister of Belize",
+   "anthem": "God Save the King",
+   "motto": {
+    "text": "Under the shade I flourish",
+    "lang": "en"
+   }
+  },
+  "BHS": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfStateOffice": "monarch of the Bahamas",
+   "headOfGovernmentOffice": "Prime Minister of the Bahamas",
+   "anthem": "March On, Bahamaland",
+   "motto": {
+    "text": "Life Is Grand",
+    "lang": "en"
+   }
+  },
+  "KWT": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfStateOffice": "emir of Kuwait",
+   "headOfGovernmentOffice": "Prime Minister of Kuwait",
+   "anthem": "National Anthem of Kuwait"
+  },
+  "MAR": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfStateOffice": "King of Morocco",
+   "headOfGovernmentOffice": "Prime Minister of Morocco",
+   "anthem": "Cherifian Anthem",
+   "motto": {
+    "text": "الله، الوطن، الملك",
+    "lang": "ar"
+   }
+  },
+  "MDA": {
+   "forms": [
+    "unitary state",
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Moldova",
+   "headOfGovernmentOffice": "Prime Minister of Moldova",
+   "anthem": "Limba noastră",
+   "motto": {
+    "text": "Discover the routes of life",
+    "lang": "en"
+   }
+  },
+  "ROU": {
+   "forms": [
+    "unitary state",
+    "semi-presidential system"
+   ],
+   "headOfStateOffice": "president of Romania",
+   "headOfGovernmentOffice": "Prime Minister of Romania",
+   "anthem": "Deșteaptă-te, române!"
+  },
+  "LAO": {
+   "forms": [
+    "people's republic",
+    "communist dictatorship"
+   ],
+   "headOfStateOffice": "President of Laos",
+   "headOfGovernmentOffice": "Prime Minister of Laos",
+   "anthem": "Pheng Xat Lao",
+   "motto": {
+    "text": "Peace, independence, democracy, unity and prosperity",
+    "lang": "en"
+   }
+  },
+  "NPL": {
+   "forms": [
+    "people's republic",
+    "federal republic"
+   ],
+   "headOfStateOffice": "President of Nepal",
+   "headOfGovernmentOffice": "Prime Minister of Nepal",
+   "anthem": "Sayaun Thunga Phulka",
+   "motto": {
+    "text": "Once is not enough",
+    "lang": "en"
+   }
+  },
+  "CZE": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of the Czech Republic",
+   "headOfGovernmentOffice": "Prime Minister of the Czech Republic",
+   "anthem": "Kde domov můj",
+   "motto": {
+    "text": "Pravda vítězí.",
+    "lang": "cs"
+   }
+  },
+  "SVK": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Slovakia",
+   "headOfGovernmentOffice": "Prime Minister of Slovakia",
+   "anthem": "Nad Tatrou sa blýska",
+   "motto": {
+    "text": "Travel in Slovakia - Good idea",
+    "lang": "en"
+   }
+  },
+  "KGZ": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Kyrgyzstan",
+   "headOfGovernmentOffice": "Prime Minister of Kyrgyzstan",
+   "anthem": "State Anthem of the Kyrgyz Republic",
+   "motto": {
+    "text": "Oasis on the Great Silk Road",
+    "lang": "en"
+   }
+  },
+  "OMN": {
+   "forms": [
+    "absolute monarchy"
+   ],
+   "headOfStateOffice": "Sultan of Oman",
+   "headOfGovernmentOffice": "Sultan of Oman",
+   "anthem": "Nashid as-Salaam as-Sultani",
+   "motto": {
+    "text": "Beauty has an address",
+    "lang": "en"
+   }
+  },
+  "SVN": {
+   "forms": [
+    "democratic republic"
+   ],
+   "headOfStateOffice": "President of Slovenia",
+   "headOfGovernmentOffice": "Prime Minister of Slovenia",
+   "anthem": "Zdravljica",
+   "motto": {
+    "text": "I feel SLOVEnia",
+    "lang": "en"
+   }
+  },
+  "IMN": {
+   "forms": [],
+   "headOfStateOffice": "Lord of Mann",
+   "headOfGovernmentOffice": "Chief Minister of the Isle of Man",
+   "anthem": "Arrane Ashoonagh Vannin",
+   "motto": {
+    "text": "Whithersoever you throw it, it will stand",
+    "lang": "en"
+   }
+  },
+  "MSR": {
+   "forms": [],
+   "headOfStateOffice": "Governor of Montserrat",
+   "headOfGovernmentOffice": "Premier of Montserrat",
+   "anthem": "God Save the King",
+   "motto": {
+    "text": "A people of excellence, moulded by nature, nurtured by God",
+    "lang": "en"
+   }
+  },
+  "FLK": {
+   "forms": [],
+   "headOfStateOffice": "Monarch of the United Kingdom",
+   "anthem": "God Save the King"
+  },
+  "MOZ": {
+   "forms": [],
+   "headOfStateOffice": "President of Mozambique",
+   "headOfGovernmentOffice": "Prime Minister of Mozambique",
+   "anthem": "Pátria Amada",
+   "motto": {
+    "text": "Come to where it all started",
+    "lang": "en"
+   }
+  },
+  "MAC": {
+   "forms": [],
+   "headOfGovernmentOffice": "Chief Executive of Macau",
+   "anthem": "March of the Volunteers"
+  },
+  "VIR": {
+   "forms": [],
+   "headOfGovernmentOffice": "Governor of the United States Virgin Islands",
+   "anthem": "Virgin Islands March",
+   "motto": {
+    "text": "United in Pride and Hope",
+    "lang": "en"
+   }
+  },
+  "HKG": {
+   "forms": [],
+   "headOfGovernmentOffice": "Chief Executive of Hong Kong",
+   "anthem": "March of the Volunteers"
+  },
+  "GUM": {
+   "forms": [],
+   "headOfGovernmentOffice": "Governor of Guam",
+   "anthem": "Stand Ye Guamanians",
+   "motto": {
+    "text": "Tånó I' Man CHamoru",
+    "lang": "ch"
+   }
+  },
+  "ABW": {
+   "forms": [
+    "monarchy"
+   ],
+   "headOfGovernmentOffice": "Prime Minister of Aruba",
+   "anthem": "Aruba Dushi Tera"
+  },
+  "LVA": {
+   "forms": [
+    "republic",
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Latvia",
+   "headOfGovernmentOffice": "Prime Minister of Latvia",
+   "anthem": "Dievs, svētī Latviju!",
+   "motto": {
+    "text": "Best enjoyed slowly",
+    "lang": "en"
+   }
+  },
+  "HRV": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of Croatia",
+   "headOfGovernmentOffice": "Prime Minister of Croatia",
+   "anthem": "Lijepa naša domovino",
+   "motto": {
+    "text": "Full of life",
+    "lang": "en"
+   }
+  },
+  "IDN": {
+   "forms": [
+    "republic",
+    "presidential system"
+   ],
+   "headOfStateOffice": "President of Indonesia",
+   "headOfGovernmentOffice": "President of Indonesia",
+   "anthem": "Indonesia Raya",
+   "motto": {
+    "text": "Wonderful Indonesia",
+    "lang": "en"
+   }
+  },
+  "ALB": {
+   "forms": [
+    "parliamentary system"
+   ],
+   "headOfStateOffice": "President of Albania",
+   "headOfGovernmentOffice": "Prime Minister of Albania",
+   "anthem": "Himni i Flamurit",
+   "motto": {
+    "text": "Go your own way!",
+    "lang": "en"
+   }
+  },
+  "UKR": {
+   "forms": [
+    "semi-presidential system"
+   ],
+   "headOfStateOffice": "President of Ukraine",
+   "headOfGovernmentOffice": "Prime Minister of Ukraine",
+   "anthem": "Shche ne vmerla Ukrainy i slava, i volia"
+  },
+  "BRB": {
+   "forms": [
+    "unitary state",
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Barbados",
+   "headOfGovernmentOffice": "Prime Minister of Barbados",
+   "anthem": "National Anthem of Barbados",
+   "motto": {
+    "text": "Pride and Industry",
+    "lang": "en"
+   }
+  },
+  "BMU": {
+   "forms": [
+    "British Overseas Territories",
+    "constitutional monarchy"
+   ],
+   "headOfGovernmentOffice": "Premier of Bermuda",
+   "anthem": "God Save the King",
+   "motto": {
+    "text": "Whither the Fates carry (us)",
+    "lang": "en"
+   }
+  },
+  "EST": {
+   "forms": [
+    "parliamentary republic"
+   ],
+   "headOfStateOffice": "President of Estonia",
+   "headOfGovernmentOffice": "Prime Minister of Estonia",
+   "anthem": "Mu isamaa, mu õnn ja rõõm",
+   "motto": {
+    "text": "Epic Estonia",
+    "lang": "en"
+   }
+  },
+  "PAK": {
+   "forms": [
+    "parliamentary republic",
+    "federal republic"
+   ],
+   "headOfStateOffice": "President of Pakistan",
+   "headOfGovernmentOffice": "Prime Minister of Pakistan",
+   "anthem": "Qaumi Taranah"
+  },
+  "BIH": {
+   "forms": [
+    "federal parliamentary republic"
+   ],
+   "headOfStateOffice": "Presidency of Bosnia and Herzegovina",
+   "headOfGovernmentOffice": "Chairman of the Council of Ministers of Bosnia and Herzegovina",
+   "anthem": "National Anthem of Bosnia and Herzegovina",
+   "motto": {
+    "text": "The heart shaped land",
+    "lang": "en"
+   }
+  },
+  "GRL": {
+   "forms": [
+    "parliamentary monarchy"
+   ],
+   "headOfGovernmentOffice": "Prime Minister of Greenland",
+   "anthem": "Nuna asiilasooq"
+  },
+  "NAM": {
+   "forms": [],
+   "headOfStateOffice": "President of the Republic of Namibia",
+   "headOfGovernmentOffice": "Prime Minister of the Republic of Namibia",
+   "anthem": "Namibia, Land of the Brave",
+   "motto": {
+    "text": "Unity, Liberty, Justice",
+    "lang": "en"
+   }
+  },
+  "MWI": {
+   "forms": [],
+   "headOfStateOffice": "President of Malawi",
+   "headOfGovernmentOffice": "President of Malawi",
+   "anthem": "Mulungu dalitsa Malaŵi",
+   "motto": {
+    "text": "Unity and Freedom",
+    "lang": "en"
+   }
+  },
+  "HTI": {
+   "forms": [],
+   "headOfStateOffice": "President of Haiti",
+   "headOfGovernmentOffice": "Prime Minister of Haiti",
+   "anthem": "La Dessalinienne",
+   "motto": {
+    "text": "Experience It!",
+    "lang": "en"
+   }
+  },
+  "TCA": {
+   "forms": [],
+   "headOfGovernmentOffice": "Premier of the Turks and Caicos Islands",
+   "anthem": "God Save the King",
+   "motto": {
+    "text": "Each Endeavouring, All Achieving",
+    "lang": "en"
+   }
+  },
+  "ASM": {
+   "forms": [],
+   "headOfGovernmentOffice": "Governor of American Samoa",
+   "anthem": "The Star-Spangled Banner",
+   "motto": {
+    "text": "Samoa, Let God Be First",
+    "lang": "en"
+   }
+  },
+  "MNP": {
+   "forms": [],
+   "headOfGovernmentOffice": "Governor of the Northern Mariana Islands",
+   "anthem": "Gi Talo Gi Halom Tasi"
+  },
+  "REU": {
+   "forms": [],
+   "headOfGovernmentOffice": "President of the Regional Council",
+   "motto": {
+    "text": "Florebo quocumque ferar",
+    "lang": "la"
+   }
+  },
+  "MAF": {
+   "forms": [],
+   "anthem": "La Marseillaise"
+  },
+  "MTQ": {
+   "forms": [],
+   "anthem": "La Marseillaise"
+  },
+  "UMI": {
+   "forms": [],
+   "anthem": "The Star-Spangled Banner"
+  },
+  "AIA": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfGovernmentOffice": "Premier of Anguilla",
+   "anthem": "God Save the King",
+   "motto": {
+    "text": "Unity, Strength and Endurance",
+    "lang": "en"
+   }
+  },
+  "NLD": {
+   "forms": [
+    "constitutional monarchy"
+   ],
+   "headOfStateOffice": "King of the Netherlands",
+   "headOfGovernmentOffice": "Prime Minister of the Netherlands",
+   "anthem": "Wilhelmus",
+   "motto": {
+    "text": "Je maintiendrai",
+    "lang": "fr"
+   }
+  },
+  "SLE": {
+   "forms": [
+    "presidential system"
+   ],
+   "headOfStateOffice": "President of Sierra Leone",
+   "headOfGovernmentOffice": "Chief Minister of Sierra Leone",
+   "anthem": "High We Exalt Thee, Realm of the Free",
+   "motto": {
+    "text": "Unity, Freedom, Justice",
+    "lang": "en"
+   }
+  },
+  "PSE": {
+   "forms": [
+    "semi-presidential system",
+    "parliamentary republic",
+    "unitary state"
+   ],
+   "headOfStateOffice": "president of the State of Palestine",
+   "headOfGovernmentOffice": "Prime Minister of the State of Palestine",
+   "anthem": "Mawtini"
+  },
+  "CUW": {
+   "forms": [
+    "parliamentary democracy"
+   ],
+   "headOfStateOffice": "King of the Netherlands",
+   "headOfGovernmentOffice": "Prime Minister of Curaçao",
+   "anthem": "Himno di Kòrsou"
+  },
+  "GGY": {
+   "forms": [],
+   "headOfStateOffice": "Monarch of the United Kingdom",
+   "headOfGovernmentOffice": "Chief Minister of Guernsey",
+   "anthem": "God Save the King"
+  },
+  "PCN": {
+   "forms": [],
+   "headOfStateOffice": "Monarch of the United Kingdom",
+   "headOfGovernmentOffice": "Mayor of the Pitcairn Islands",
+   "anthem": "Come Ye Blessed"
+  },
+  "SYC": {
+   "forms": [],
+   "headOfStateOffice": "President of Seychelles",
+   "headOfGovernmentOffice": "President of Seychelles",
+   "anthem": "Koste Seselwa",
+   "motto": {
+    "text": "The End Crowns the Work",
+    "lang": "en"
+   }
+  },
+  "COK": {
+   "forms": [],
+   "headOfStateOffice": "monarch of New Zealand",
+   "headOfGovernmentOffice": "Prime Minister of the Cook Islands",
+   "anthem": "Te Atua Mou E"
+  },
+  "NIU": {
+   "forms": [],
+   "headOfStateOffice": "monarch of New Zealand",
+   "headOfGovernmentOffice": "Premier of Niue",
+   "anthem": "Ko e Iki he Lagi"
+  },
+  "BES": {
+   "forms": [],
+   "headOfGovernmentOffice": "Governor of the Caribbean Netherlands"
+  },
+  "VGB": {
+   "forms": [],
+   "headOfGovernmentOffice": "Premier of the Virgin Islands",
+   "anthem": "God Save the King",
+   "motto": {
+    "text": "Be Vigilant",
+    "lang": "en"
+   }
+  },
+  "SXM": {
+   "forms": [],
+   "headOfGovernmentOffice": "Prime Minister of Sint Maarten",
+   "anthem": "O Sweet Saint Martin's Land",
+   "motto": {
+    "text": "Semper pro Grediens",
+    "lang": "la"
+   }
+  },
+  "SHN": {
+   "forms": [],
+   "anthem": "God Save the King",
+   "motto": {
+    "text": "Loyal and Unshakeable",
+    "lang": "en"
+   }
+  },
+  "NFK": {
+   "forms": [],
+   "anthem": "God Save the King",
+   "motto": {
+    "text": "Inasmuch",
+    "lang": "en"
+   }
+  },
+  "CRQ": {
+   "forms": [],
+   "anthem": "God Save the King"
+  },
+  "CXR": {
+   "forms": [],
+   "anthem": "Advance Australia Fair",
+   "motto": {
+    "text": "Advance Australia Fair",
+    "lang": "en"
+   }
+  },
+  "BLM": {
+   "forms": [],
+   "anthem": "La Marseillaise"
+  },
+  "NCL": {
+   "forms": [],
+   "anthem": "Soyons unis, devenons frères"
+  },
+  "PYF": {
+   "forms": [],
+   "anthem": "’Ia ora ’o Tahiti Nui",
+   "motto": {
+    "text": "Liberté, Égalité, Fraternité",
+    "lang": "fr"
+   }
+  },
+  "SPM": {
+   "forms": [
+    "overseas collectivity of France"
+   ],
+   "anthem": "La Marseillaise",
+   "motto": {
+    "text": "A mare labor",
+    "lang": "fr"
+   }
+  },
+  "WLF": {
+   "forms": [
+    "republic"
+   ],
+   "headOfStateOffice": "President of the French Republic",
+   "anthem": "La Marseillaise"
+  },
+  "CCK": {
+   "forms": [],
+   "headOfStateOffice": "monarch of Australia",
+   "motto": {
+    "text": "Onward our island",
+    "lang": "en"
+   }
+  },
+  "ATB": {
+   "forms": [],
+   "anthem": "God Save the King"
+  },
+  "SGS": {
+   "forms": [],
+   "anthem": "God Save the King",
+   "motto": {
+    "text": "Leo Terram Propriam Protegat",
+    "lang": "la"
+   }
+  }
+ }
+}

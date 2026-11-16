@@ -224,3 +224,15 @@ a.chip:hover { color: var(--ink); background: var(--sun); transform: translate(2
 .city-list { margin: 0; padding-left: var(--space-6); display: grid; gap: var(--space-1); grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); font-weight: 600; }
 .city-list li span + span { margin-left: var(--space-2); }
 .state-list { display: flex; flex-wrap: wrap; gap: var(--space-2); }
+
+/* Economy mix: one stacked bar of GDP by sector, with a legend. */
+.mix { margin-top: 24px; }
+.mix-bar { display: flex; height: 32px; border: var(--outline); border-radius: 10px; overflow: hidden; background: var(--surface); }
+.mix-bar span + span { border-left: 2px solid var(--ink); }
+.mix-legend { list-style: none; padding: 0; margin: 12px 0; display: flex; flex-wrap: wrap; gap: 8px 20px; font-size: 15px; }
+.mix-legend li { display: flex; align-items: center; gap: 8px; }
+.mix-legend i { width: 16px; height: 16px; border: var(--outline); border-radius: 4px; flex: none; }
+.mix-services { background: var(--ocean); }
+.mix-industry { background: var(--sun); }
+.mix-farming { background: var(--land-4); }
+.item-title a { color: inherit; }

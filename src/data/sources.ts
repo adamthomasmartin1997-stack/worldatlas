@@ -4,6 +4,7 @@ export const SOURCES = {
   'world-countries': { name: 'mledoze/countries', url: 'https://github.com/mledoze/countries', licence: 'ODbL 1.0' },
   wikidata: { name: 'Wikidata', url: 'https://www.wikidata.org/', licence: 'CC0' },
   'world-bank': { name: 'World Bank Open Data', url: 'https://data.worldbank.org/', licence: 'CC BY 4.0' },
+  'member-lists': { name: 'Official member lists', url: 'https://www.un.org/en/about-us/member-states', licence: 'facts, checked by hand' },
 } as const;
 
 export type SourceId = keyof typeof SOURCES;

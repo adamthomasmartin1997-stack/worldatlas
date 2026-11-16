@@ -64,22 +64,6 @@
       {
         "label": "Constitution",
         "value": "Fifth Republic, since 1958"
-      },
-      {
-        "label": "Head of state",
-        "value": "President"
-      },
-      {
-        "label": "Head of government",
-        "value": "Prime Minister"
-      },
-      {
-        "label": "Motto",
-        "value": "Liberté, égalité, fraternité"
-      },
-      {
-        "label": "Anthem",
-        "value": "La Marseillaise"
       }
     ],
     "memberships": [
@@ -88,8 +72,8 @@
         "text": "A founding member of the European Economic Community in 1957, which became the EU."
       },
       {
-        "title": "UN Security Council",
-        "text": "One of five permanent members, with a veto."
+        "title": "United Nations",
+        "text": "A founding member in 1945, and one of the five permanent members of the Security Council, with a veto."
       },
       {
         "title": "NATO",

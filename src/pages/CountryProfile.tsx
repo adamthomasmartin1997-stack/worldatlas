@@ -7,7 +7,7 @@ import { LineChart } from '../components/LineChart';
 import { useSeries } from '../components/useSeries';
 import { useUsStates, statePath } from '../components/usStates';
 import { Breadcrumbs, ButtonLink, Card, SourceNote } from '../components/ui';
-import { COUNTRIES, countryPath, fmt, getCountry, type Country } from '../data/countries';
+import { COUNTRIES, ORGANISATIONS, countryPath, fmt, getCountry, type Country } from '../data/countries';
 import type { SourceId } from '../data/sources';
 import { contentFor, type CountryContent, type Fact as WrittenFact } from '../content/countries';
 import { TOPICS, questionCount, questionsFor, type Topic } from '../lib/quiz';
@@ -42,6 +42,63 @@ function summary(c: Country) {
   else parts.push(c.landlocked ? 'It is landlocked.' : 'It has no land borders with other countries.');
   if (c.languages.length) parts.push(`${c.languages.length > 1 ? 'Official languages include' : 'The official language is'} ${list(c.languages.slice(0, 3))}.`);
   return parts.join(' ');
+}
+
+/** Government facts from data, for every country. */
+function governmentRows(c: Country): Row[] {
+  const g = c.government;
+  if (!g) return [];
+  const rows: Row[] = [];
+  if (g.headOfState && g.headOfState === g.headOfGovernment) rows.push({ label: 'Head of state and government', value: g.headOfState });
+  else {
+    if (g.headOfState) rows.push({ label: 'Head of state', value: g.headOfState });
+    if (g.headOfGovernment) rows.push({ label: 'Head of government', value: g.headOfGovernment });
+  }
+  if (g.anthem) rows.push({ label: 'National anthem', value: g.anthem });
+  if (g.motto) rows.push({ label: 'Motto', value: <span lang={g.motto.lang}>{g.motto.text}</span> });
+  return rows;
+}
+
+/** Written facts replace data rows with the same label; the rest are added after. */
+function mergeRows(data: Row[], own: Row[]): Row[] {
+  const ownByLabel = new Map(own.map((r) => [r.label, r]));
+  return [...data.map((d) => ownByLabel.get(d.label) ?? d), ...own.filter((r) => !data.some((d) => d.label === r.label))];
+}
+
+function governmentSummary(c: Country) {
+  const g = c.government;
+  if (!g) return undefined;
+  const parts: string[] = [];
+  if (g.headOfState && g.headOfState === g.headOfGovernment) parts.push(`In ${c.name}, the ${g.headOfState} is both head of state and head of the government.`);
+  else if (g.headOfState && g.headOfGovernment) parts.push(`${c.name}'s head of state is the ${g.headOfState}, and the government is led by the ${g.headOfGovernment}.`);
+  const orgs = g.memberships.filter((k) => k !== 'UN').map((k) => (ORGANISATIONS[k].the ? 'the ' : '') + ORGANISATIONS[k].name);
+  if (g.memberships.includes('UN')) parts.push(`It is a member of the United Nations${orgs.length ? `, and also of ${list(orgs)}` : ''}.`);
+  else if (orgs.length) parts.push(`It is a member of ${list(orgs)}.`);
+  return parts.join(' ') || undefined;
+}
+
+/** One stacked bar: how much of the economy comes from services, industry and farming. */
+function EconomyMix({ c }: { c: Country }) {
+  const m = c.economyMix!;
+  // Shares are measured separately (taxes are left out), so scale the three to fill the bar.
+  const total = m.services + m.industry + m.agriculture;
+  const parts = [
+    { key: 'services', label: 'Services', value: m.services, cls: 'mix-services' },
+    { key: 'industry', label: 'Industry', value: m.industry, cls: 'mix-industry' },
+    { key: 'agriculture', label: 'Farming, forestry and fishing', value: m.agriculture, cls: 'mix-farming' },
+  ];
+  return (
+    <figure className="chart mix">
+      <figcaption className="chart-title">What the economy is made of ({m.year})</figcaption>
+      <div className="mix-bar" role="img" aria-label={parts.map((p) => `${p.label} ${Math.round(p.value)}% of GDP`).join(', ')}>
+        {parts.map((p) => <span key={p.key} className={p.cls} style={{ width: `${(p.value / total) * 100}%` }} />)}
+      </div>
+      <ul className="mix-legend">
+        {parts.map((p) => <li key={p.key}><i className={p.cls} aria-hidden="true" />{p.label} <b>{Math.round(p.value)}%</b></li>)}
+      </ul>
+      <SourceNote sources={['world-bank']}>Share of GDP. The three don't always add up to 100% because taxes on products are counted separately.</SourceNote>
+    </figure>
+  );
 }
 
 function Facts({ rows }: { rows: Row[] }) {
@@ -92,7 +149,7 @@ function Profile({ c }: { c: Country }) {
     { id: 'geography', label: 'Geography', color: 'green' },
     { id: 'people', label: 'People', color: 'lime' },
     ...(content?.history ? [{ id: 'history', label: 'History', color: 'sun' } as FolderTab] : []),
-    ...(content?.government ? [{ id: 'government', label: 'Government', color: 'sky' } as FolderTab] : []),
+    ...(content?.government || c.government ? [{ id: 'government', label: 'Government', color: 'sky' } as FolderTab] : []),
     { id: 'economy', label: 'Economy', color: 'leaf' },
     ...(content?.culture ? [{ id: 'culture', label: 'Culture', color: 'coral' } as FolderTab] : []),
     ...(content?.sport ? [{ id: 'sport', label: 'Sport', color: 'ocean' } as FolderTab] : []),
@@ -100,6 +157,12 @@ function Profile({ c }: { c: Country }) {
   const topics = (Object.keys(TOPICS) as Topic[]).filter((t) => questionCount(c, t) > 0);
   const topicColor: Record<Topic, FolderTab['color']> = { geography: 'green', history: 'sun', culture: 'coral', sport: 'ocean' };
   const gameTabs: FolderTab[] = [...topics.map((t) => ({ id: t, label: `${TOPICS[t].label} quiz`, color: topicColor[t] })), { id: 'map', label: 'Map games', color: 'white' }];
+
+  const memberships = (c.government?.memberships ?? []).map((k) => {
+    const o = ORGANISATIONS[k];
+    const own = content?.government?.memberships?.find((m) => m.title === o.name);
+    return { title: o.name, text: own?.text ?? o.text, url: o.url };
+  });
 
   const [tab, setTab] = useState('overview');
   const [game, setGame] = useState(gameTabs[0].id);
@@ -180,14 +243,24 @@ function Profile({ c }: { c: Country }) {
         <p className="muted">A full timeline is on the way. Each event will link to every country involved.</p>
       </Panel>
     ),
-    government: content?.government && (
-      <Panel text={content.government.text} content={content}>
+    government: (content?.government || c.government) && (
+      <Panel
+        text={content?.government?.text}
+        generated={governmentSummary(c)}
+        content={content}
+        sources={c.government ? ['wikidata', 'member-lists'] : undefined}
+      >
         <div className="panel-split">
-          <Facts rows={written(content.government.facts)} />
-          {content.government.memberships && (
+          <Facts rows={mergeRows(governmentRows(c), written(content?.government?.facts))} />
+          {memberships.length > 0 && (
             <div>
               <h3 className="panel-h">Member of</h3>
-              <div className="item-stack">{content.government.memberships.map((m) => <div key={m.title} className="item-card"><span className="item-title">{m.title}</span><span className="muted">{m.text}</span></div>)}</div>
+              <div className="item-stack">{memberships.map((m) => (
+                <div key={m.title} className="item-card">
+                  <span className="item-title">{m.url ? <a href={m.url} target="_blank" rel="noreferrer">{m.title}</a> : m.title}</span>
+                  <span className="muted">{m.text}</span>
+                </div>
+              ))}</div>
             </div>
           )}
         </div>
@@ -206,12 +279,14 @@ function Profile({ c }: { c: Country }) {
             ...(c.gdp ? [{ label: `GDP${year(c.gdp.year)}`, value: fmtUsd(c.gdp.value) }] : []),
             ...(c.gdpPerCapita ? [{ label: `GDP per person${year(c.gdpPerCapita.year)}`, value: fmtUsd(c.gdpPerCapita.value) }] : []),
             { label: 'Currency', value: c.currencies.map((x) => `${x.name} (${x.code})`).join(', ') || '—' },
+            ...(c.economyMix?.exports ? [{ label: `Exports${year(c.economyMix.exports.year)}`, value: `${Math.round(c.economyMix.exports.value)}% of GDP` }] : []),
             ...written(content?.economy?.facts),
           ]} />
           {series?.series.gdpPerCapita && (
             <LineChart title="GDP per person (current US$)" data={series.series.gdpPerCapita} format={fmtUsd} axisFormat={fmtUsdAxis} />
           )}
         </div>
+        {c.economyMix && <EconomyMix c={c} />}
       </Panel>
     ),
     culture: content?.culture && (

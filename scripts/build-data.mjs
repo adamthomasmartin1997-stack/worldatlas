@@ -47,6 +47,40 @@ const wb = worldbank?.series ?? {};
 const latest = (s) => (s?.length ? s[s.length - 1] : null);
 const citySource = load('data/sources/wikidata-cities.json');
 const geo = load('data/sources/wikidata-geography.json')?.countries ?? {};
+const gov = load('data/sources/wikidata-government.json')?.countries ?? {};
+const orgs = load('data/memberships.json').organisations;
+const cap = (s) => (s ? s[0].toUpperCase() + s.slice(1) : s);
+
+/** Government facts: offices, anthem and motto from Wikidata; memberships from the curated list. */
+function government(c) {
+  const g = gov[c.cca3] ?? {};
+  const memberships = Object.entries(orgs)
+    // The UN list is world-countries' unMember flag; Vatican City and Palestine are observer states, not members.
+    .filter(([, o]) => (o.members === 'un-members' ? c.unMember && !['VAT', 'PSE'].includes(c.cca3) : o.members.includes(c.cca3)))
+    .map(([key]) => key);
+  const out = {
+    headOfState: cap(g.headOfStateOffice) ?? null,
+    headOfGovernment: cap(g.headOfGovernmentOffice) ?? null,
+    anthem: cap(g.anthem) ?? null,
+    motto: g.motto ?? null,
+    memberships,
+  };
+  return out.headOfState || memberships.length ? out : null;
+}
+
+/** What the economy is made of: the latest year that has all three sector shares (World Bank). */
+function economyMix(iso) {
+  const s = wb[iso];
+  if (!s?.servicesShare || !s.industryShare || !s.agricultureShare) return null;
+  const years = new Map(s.servicesShare.map(([y, v]) => [y, { services: v }]));
+  for (const [y, v] of s.industryShare) if (years.has(y)) years.get(y).industry = v;
+  for (const [y, v] of s.agricultureShare) if (years.has(y)) years.get(y).agriculture = v;
+  const full = [...years].filter(([, v]) => v.industry != null && v.agriculture != null).sort((a, b) => b[0] - a[0])[0];
+  if (!full) return null;
+  const r1 = (x) => Math.round(x * 10) / 10;
+  const exp = latest(s.exportsShare);
+  return { year: full[0], services: r1(full[1].services), industry: r1(full[1].industry), agriculture: r1(full[1].agriculture), exports: exp ? { value: r1(exp[1]), year: exp[0] } : null, source: 'world-bank' };
+}
 
 /** Lowest point: a coastal country's lowest point can't be above sea level, so such elevations are dropped as source errors. */
 function lowestPoint(c) {
@@ -111,21 +145,25 @@ const out = countries
     gdp: latest(wb[c.cca3]?.gdp) ? { value: Math.round(latest(wb[c.cca3].gdp)[1]), year: latest(wb[c.cca3].gdp)[0], source: 'world-bank' } : null,
     gdpPerCapita: latest(wb[c.cca3]?.gdpPerCapita) ? { value: Math.round(latest(wb[c.cca3].gdpPerCapita)[1]), year: latest(wb[c.cca3].gdpPerCapita)[0], source: 'world-bank' } : null,
     lifeExpectancy: latest(wb[c.cca3]?.lifeExpectancy) ? { value: Math.round(latest(wb[c.cca3].lifeExpectancy)[1] * 10) / 10, year: latest(wb[c.cca3].lifeExpectancy)[0], source: 'world-bank' } : null,
+    government: government(c),
+    economyMix: economyMix(c.cca3),
     hasSeries: Boolean(wb[c.cca3]),
   }))
   .sort((a, b) => a.name.localeCompare(b.name));
 
 writeFileSync('public/data/world-50m.json', JSON.stringify(topo));
+writeFileSync('src/data/organisations.json', JSON.stringify(Object.fromEntries(Object.entries(orgs).map(([k, o]) => [k, { name: o.name, text: o.text, url: o.url, the: Boolean(o.the) }])), null, 1));
 writeFileSync(
   'src/data/countries.json',
-  JSON.stringify({ generatedAt: new Date().toISOString().slice(0, 10), sources: ['natural-earth', 'world-countries', ...(wikidata ? ['wikidata'] : []), ...(worldbank ? ['world-bank'] : [])], countries: out }, null, 0),
+  JSON.stringify({ generatedAt: new Date().toISOString().slice(0, 10), sources: ['natural-earth', 'world-countries', ...(wikidata ? ['wikidata'] : []), ...(worldbank ? ['world-bank'] : []), 'member-lists'], countries: out }, null, 0),
 );
 // Per-country time series for charts, loaded on demand by the country page.
 if (worldbank) {
   rmSync('public/data/series', { recursive: true, force: true });
   mkdirSync('public/data/series', { recursive: true });
   for (const [iso, series] of Object.entries(wb)) {
-    const { surfaceArea, ...charted } = series; // area isn't charted over time
+    // Area and the economy shares aren't charted over time.
+    const { surfaceArea, agricultureShare, industryShare, servicesShare, exportsShare, ...charted } = series;
     writeFileSync(`public/data/series/${iso.toLowerCase()}.json`, JSON.stringify({ retrieved: worldbank.retrieved.slice(0, 10), indicators: worldbank.indicators, series: charted }));
   }
 }

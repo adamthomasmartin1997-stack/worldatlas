@@ -39,8 +39,28 @@ export interface Country {
   gdp: Fact | null;
   gdpPerCapita: Fact | null;
   lifeExpectancy: Fact | null;
+  /** Offices and anthem from Wikidata; memberships (keys of ORGANISATIONS) from the curated member lists. */
+  government: {
+    headOfState: string | null;
+    headOfGovernment: string | null;
+    anthem: string | null;
+    motto: { text: string; lang: string } | null;
+    memberships: string[];
+  } | null;
+  /** Share of GDP by sector, latest year with all three (World Bank). */
+  economyMix: {
+    year: number;
+    services: number;
+    industry: number;
+    agriculture: number;
+    exports: { value: number; year: number } | null;
+    source: SourceId;
+  } | null;
   hasSeries: boolean;
 }
+
+import orgs from './organisations.json';
+export const ORGANISATIONS: Record<string, { name: string; text: string; url: string; the: boolean }> = orgs;
 
 export const DATA_GENERATED = raw.generatedAt;
 export const COUNTRIES: Country[] = raw.countries as Country[];

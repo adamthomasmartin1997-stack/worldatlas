@@ -1,10 +1,10 @@
 // Shared fetch helper for importers: identifies itself, retries politely, fails loudly.
 export const USER_AGENT = 'WorldAtlasDataBuilder/0.2 (open-data importer)';
 
-export async function getJson(url, { headers = {}, retries = 3 } = {}) {
+export async function getJson(url, { headers = {}, retries = 3, timeoutMs = 70_000 } = {}) {
   for (let attempt = 1; ; attempt++) {
     try {
-      const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT, Accept: 'application/json', ...headers }, signal: AbortSignal.timeout(70_000) });
+      const res = await fetch(url, { headers: { 'User-Agent': USER_AGENT, Accept: 'application/json', ...headers }, signal: AbortSignal.timeout(timeoutMs) });
       if (!res.ok) throw new Error(`${res.status} ${res.statusText}`);
       return await res.json();
     } catch (e) {
