@@ -191,8 +191,8 @@ function Profile({ c }: { c: Country }) {
             <figure className="landmark">
               <img src={`${import.meta.env.BASE_URL}data/photos/${c.cca3.toLowerCase()}.jpg`} alt={`${c.photo.title}, ${c.name}`} width={640} height={427} loading="lazy" />
               <figcaption>
-                <strong>{c.photo.title}</strong> <span className="muted">· {c.photo.kind}</span>
-                <span className="source-note">Photo: {c.photo.author}, <a href={c.photo.licenceUrl ?? c.photo.sourceUrl} target="_blank" rel="noreferrer">{c.photo.licence}</a>, via <a href={c.photo.sourceUrl} target="_blank" rel="noreferrer">Wikimedia Commons</a></span>
+                <span><strong>{c.photo.title}</strong> <span className="muted">· {c.photo.kind}</span></span>
+                <span className="source-note">Image: {c.photo.author}, <a href={c.photo.licenceUrl ?? c.photo.sourceUrl} target="_blank" rel="noreferrer">{c.photo.licence}</a>, via <a href={c.photo.sourceUrl} target="_blank" rel="noreferrer">Wikimedia Commons</a></span>
               </figcaption>
             </figure>
           )}

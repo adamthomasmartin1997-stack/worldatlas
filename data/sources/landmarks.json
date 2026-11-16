@@ -46,17 +46,9 @@
    "title": "Hortobágy National Park",
    "kind": "World Heritage Site",
    "author": "Andreas Poeschek, fotografikus.hu",
-   "licence": "CC BY 2.0 at",
+   "licence": "CC BY 2.0 AT",
    "licenceUrl": "https://creativecommons.org/licenses/by/2.0/at/deed.en",
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Hortobagy-ziehbrunnen.jpg"
-  },
-  "ARG": {
-   "title": "Inca road system",
-   "kind": "World Heritage Site",
-   "author": "Felipe Guaman Poma de Ayala",
-   "licence": "Public domain",
-   "licenceUrl": null,
-   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qhapaq_%C3%91an_Poma_de_Ayala.jpg"
   },
   "CAN": {
    "title": "Waterton-Glacier International Peace Park",
@@ -89,14 +81,6 @@
    "licence": "Public domain",
    "licenceUrl": null,
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Minaret_of_jam_2009_ghor.jpg"
-  },
-  "ECU": {
-   "title": "Inca road system",
-   "kind": "World Heritage Site",
-   "author": "Felipe Guaman Poma de Ayala",
-   "licence": "Public domain",
-   "licenceUrl": null,
-   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qhapaq_%C3%91an_Poma_de_Ayala.jpg"
   },
   "AUS": {
    "title": "Great Barrier Reef",
@@ -141,7 +125,7 @@
   "PRK": {
    "title": "Goguryeo tombs",
    "kind": "World Heritage Site",
-   "author": "Unknown authorUnknown author",
+   "author": "Unknown author",
    "licence": "Public domain",
    "licenceUrl": null,
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Goguryeo_tomb_mural.jpg"
@@ -177,14 +161,6 @@
    "licence": "CC BY-SA 4.0",
    "licenceUrl": "https://creativecommons.org/licenses/by-sa/4.0",
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aussenministerium_und_Avenida_de_Portugal.jpg"
-  },
-  "BOL": {
-   "title": "Inca road system",
-   "kind": "World Heritage Site",
-   "author": "Felipe Guaman Poma de Ayala",
-   "licence": "Public domain",
-   "licenceUrl": null,
-   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Qhapaq_%C3%91an_Poma_de_Ayala.jpg"
   },
   "COD": {
    "title": "Garamba National Park",
@@ -290,14 +266,6 @@
    "licenceUrl": "https://creativecommons.org/licenses/by/2.0",
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Isla_del_Coco-chatham_beach.jpg"
   },
-  "RWA": {
-   "title": "Murambi Genocide Memorial",
-   "kind": "World Heritage Site",
-   "author": "taken during the official visit of US Rep. Frank Wolf",
-   "licence": "Public domain",
-   "licenceUrl": null,
-   "sourceUrl": "https://commons.wikimedia.org/wiki/File:Rwandan_Genocide_Murambi_skulls.jpg"
-  },
   "SDN": {
    "title": "Archaeological Sites of the Island of Meroe",
    "kind": "World Heritage Site",
@@ -339,7 +307,7 @@
    "sourceUrl": "https://commons.wikimedia.org/wiki/File:Lumbini_4.jpg"
   },
   "CZE": {
-   "title": "Old Town",
+   "title": "Historic Centre of Prague",
    "kind": "World Heritage Site",
    "author": "Unknown author",
    "licence": "CC BY-SA 3.0",
