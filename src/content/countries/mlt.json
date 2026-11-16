@@ -50,5 +50,51 @@
         "text": "Malta becomes independent."
       }
     ]
+  },
+  "government": {
+    "text": "Malta is a parliamentary republic. Its House of Representatives chooses the Prime Minister, and the President, elected by parliament, is head of state. Malta became a republic in 1974, joined the European Union in 2004 and uses the euro. It is the smallest country in the EU.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism, financial services and online gaming companies are the biggest parts of Malta's economy. Its position in the middle of the Mediterranean makes it important for shipping, and Malta has one of the largest ship registers in the world."
+  },
+  "culture": {
+    "text": "Maltese is the only official language of the European Union that comes from Arabic, and it is written in the Latin alphabet. Malta's prehistoric temples are older than Stonehenge and the Egyptian pyramids. Valletta, the capital, was built by the Knights of St John after 1565.",
+    "items": [
+      {
+        "title": "Megalithic temples",
+        "text": "Built from about 3600 BC, among the oldest free-standing buildings in the world."
+      },
+      {
+        "title": "Valletta",
+        "text": "A fortified city built by the Knights of St John."
+      },
+      {
+        "title": "The Maltese language",
+        "text": "A Semitic language with many Italian and English words."
+      }
+    ],
+    "related": [
+      "ITA",
+      "GBR"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport in Malta, which has followed English and Italian football passionately for decades. Water polo is popular in summer.",
+    "items": [
+      {
+        "title": "Water polo",
+        "text": "A summer sport played by clubs from harbour towns."
+      },
+      {
+        "title": "Malta Marathon",
+        "text": "Run every year since 1986."
+      }
+    ]
   }
 }

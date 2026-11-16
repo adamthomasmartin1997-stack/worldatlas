@@ -46,5 +46,43 @@
         "text": "Moldova declares independence."
       }
     ]
+  },
+  "government": {
+    "text": "Moldova is a parliamentary republic. The 101-member parliament chooses the Prime Minister, while the President is elected directly. Moldova became a candidate to join the European Union in 2022. Transnistria, a strip of land along the Ukrainian border, has been controlled by a breakaway government supported by Russia since 1992.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Moldova is one of the poorest countries in Europe. Farming is very important, especially wine, fruit and walnuts, and many Moldovans work abroad and send money home. The country has worked to reduce its dependence on Russian gas."
+  },
+  "culture": {
+    "text": "Most Moldovans speak Romanian, and the countries share much of their culture and history. Moldova has a long winemaking tradition: Mileștii Mici holds a huge wine collection in 200 kilometres of underground tunnels. Folk dances such as the hora are performed at celebrations.",
+    "items": [
+      {
+        "title": "Mileștii Mici",
+        "text": "Underground wine cellars holding around 1.5 million bottles."
+      },
+      {
+        "title": "Orheiul Vechi",
+        "text": "A cave monastery cut into a cliff above a river bend."
+      }
+    ],
+    "related": [
+      "ROU",
+      "UKR"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport in Moldova. Trântă, a traditional form of wrestling, is a national sport, and Moldovan athletes have won Olympic medals in wrestling, boxing and canoeing.",
+    "items": [
+      {
+        "title": "Trântă",
+        "text": "Traditional belt wrestling, the national sport."
+      }
+    ]
   }
 }

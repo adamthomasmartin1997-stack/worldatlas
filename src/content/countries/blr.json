@@ -50,5 +50,55 @@
         "text": "Belarus becomes independent as the Soviet Union breaks up."
       }
     ]
+  },
+  "government": {
+    "text": "Belarus is officially a presidential republic, but power is concentrated in the hands of the President. Alexander Lukashenko has held the office since 1994. International observers have not judged its elections free and fair, and mass protests after the 2020 election were met with arrests. Belarus is a close ally of Russia.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Belarus kept much of its economy under state control after the Soviet Union broke up. It makes tractors, trucks, fertiliser and refined oil products, and it relies heavily on cheap Russian oil and gas and on trade with Russia. Western sanctions have tightened since 2020."
+  },
+  "culture": {
+    "text": "Belarusian and Russian are both official languages, and Russian is the one most people use day to day. The country has many medieval castles and wooden churches. Marc Chagall, the painter known for his dreamlike floating figures, grew up in Vitebsk.",
+    "items": [
+      {
+        "title": "Mir and Nesvizh castles",
+        "text": "Two castles of the old Grand Duchy of Lithuania, both listed by UNESCO."
+      },
+      {
+        "title": "Białowieża Forest",
+        "text": "One of Europe's last ancient forests, shared with Poland and home to European bison."
+      },
+      {
+        "title": "Marc Chagall",
+        "text": "The artist was born near Vitebsk in 1887."
+      }
+    ],
+    "related": [
+      "POL",
+      "LTU",
+      "FRA"
+    ]
+  },
+  "sport": {
+    "text": "Ice hockey is the most popular sport in Belarus. The country has done well in biathlon, gymnastics and wrestling, and the tennis player Aryna Sabalenka became world number one in 2023.",
+    "items": [
+      {
+        "title": "2002",
+        "text": "Belarus reached the Olympic ice hockey semi-final after a famous win over Sweden."
+      },
+      {
+        "title": "Biathlon",
+        "text": "Darya Domracheva won three gold medals at the 2014 Winter Olympics."
+      }
+    ],
+    "related": [
+      "SWE"
+    ]
   }
 }

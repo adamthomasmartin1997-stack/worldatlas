@@ -42,5 +42,51 @@
         "text": "A major council begins modernising the Catholic Church."
       }
     ]
+  },
+  "government": {
+    "text": "Vatican City is ruled by the Pope, who holds full legislative, executive and judicial power. The Pope is elected for life by the cardinals of the Catholic Church in a secret meeting called a conclave. Day-to-day running of the city-state is handed to a commission. It is the smallest country in the world.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Absolute elective monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "The Vatican has no taxes and no ordinary businesses. Its money comes from donations from Catholics around the world, entry fees to the Vatican Museums, stamps and coins, and investments. It uses the euro and issues its own euro coins."
+  },
+  "culture": {
+    "text": "Vatican City is the centre of the Catholic Church, which has more than a billion members. The Vatican Museums hold one of the world's greatest art collections, and Michelangelo painted the ceiling of the Sistine Chapel. Latin is still used in official documents.",
+    "items": [
+      {
+        "title": "Sistine Chapel",
+        "text": "Its ceiling was painted by Michelangelo between 1508 and 1512."
+      },
+      {
+        "title": "St Peter's Basilica",
+        "text": "One of the largest churches in the world."
+      },
+      {
+        "title": "Swiss Guard",
+        "text": "The Pope's bodyguards since 1506, wearing striped uniforms."
+      }
+    ],
+    "related": [
+      "ITA",
+      "CHE"
+    ]
+  },
+  "sport": {
+    "text": "The Vatican has no national football team in FIFA, but its staff play in a small football league. In 2019 the Vatican created its own athletics team, Athletica Vaticana, made up of priests, nuns and staff.",
+    "items": [
+      {
+        "title": "Athletica Vaticana",
+        "text": "The Vatican's running team, founded in 2019."
+      },
+      {
+        "title": "Clericus Cup",
+        "text": "A football tournament between teams of priests and seminarians in Rome."
+      }
+    ]
   }
 }

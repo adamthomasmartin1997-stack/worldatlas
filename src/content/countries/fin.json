@@ -43,5 +43,51 @@
         "text": "Finland becomes a member of NATO."
       }
     ]
+  },
+  "government": {
+    "text": "Finland is a parliamentary republic. The 200-member parliament, the Eduskunta, chooses the Prime Minister, while the President is elected directly every six years and leads foreign policy together with the government. Finland joined the European Union in 1995 and, after Russia's invasion of Ukraine, NATO in 2023.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Finland's economy is built on forests, technology and engineering. Paper, timber and machinery are major exports, and Nokia, once the world's biggest maker of mobile phones, is Finnish. So are the companies behind the games Angry Birds and Clash of Clans."
+  },
+  "culture": {
+    "text": "Finland has more saunas than cars, and Finnish sauna culture is on UNESCO's intangible heritage list. Its national epic, the Kalevala, inspired J. R. R. Tolkien. The Moomins, the gentle troll family created by Tove Jansson, are loved worldwide.",
+    "items": [
+      {
+        "title": "Saunas",
+        "text": "There are around three million saunas in a country of about 5.6 million people."
+      },
+      {
+        "title": "The Moomins",
+        "text": "Created by Tove Jansson in 1945."
+      },
+      {
+        "title": "Santa Claus Village",
+        "text": "In Rovaniemi on the Arctic Circle in Lapland."
+      }
+    ]
+  },
+  "sport": {
+    "text": "Ice hockey is Finland's favourite sport, and it has won the men's world championship four times. Finland has produced many Formula 1 and rally champions, and its runners, such as Paavo Nurmi, dominated distance running in the 1920s.",
+    "items": [
+      {
+        "title": "Paavo Nurmi",
+        "text": "The 'Flying Finn' won nine Olympic gold medals in the 1920s."
+      },
+      {
+        "title": "1952",
+        "text": "Helsinki hosted the Summer Olympics."
+      },
+      {
+        "title": "Kimi Räikkönen",
+        "text": "Formula 1 world champion in 2007."
+      }
+    ]
   }
 }

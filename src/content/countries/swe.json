@@ -49,5 +49,57 @@
         "text": "The prizes founded by Alfred Nobel are awarded for the first time."
       }
     ]
+  },
+  "government": {
+    "text": "Sweden is a constitutional monarchy. The King is head of state but has no political power. The Riksdag, its parliament, chooses the Prime Minister. Sweden joined the European Union in 1995 but kept its own currency, the krona, and after two centuries of neutrality it joined NATO in 2024.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Sweden has a high-tech, export-driven economy and a large welfare state. Famous Swedish companies include IKEA, Volvo, Ericsson, H&M and Spotify. Forests, iron ore and hydropower are important natural resources."
+  },
+  "culture": {
+    "text": "Sweden gave the world ABBA, Astrid Lindgren's Pippi Longstocking and the game Minecraft, made in Stockholm. The Nobel Prizes, founded by Alfred Nobel, are awarded in Stockholm every December. Swedes celebrate midsummer by dancing around a maypole.",
+    "items": [
+      {
+        "title": "ABBA",
+        "text": "Won Eurovision in 1974 with 'Waterloo'."
+      },
+      {
+        "title": "Pippi Longstocking",
+        "text": "Astrid Lindgren's super-strong girl first appeared in 1945."
+      },
+      {
+        "title": "Fika",
+        "text": "A coffee break with something sweet, a daily habit."
+      }
+    ],
+    "related": [
+      "NOR"
+    ]
+  },
+  "sport": {
+    "text": "Football, ice hockey and skiing are the most popular sports. Sweden has won the ice hockey world championship many times, and its tennis stars include Björn Borg, who won Wimbledon five times in a row. Pole vaulter Armand Duplantis has broken the world record again and again.",
+    "items": [
+      {
+        "title": "Björn Borg",
+        "text": "Won Wimbledon five years in a row, 1976–80."
+      },
+      {
+        "title": "1912",
+        "text": "Stockholm hosted the Summer Olympics."
+      },
+      {
+        "title": "Armand 'Mondo' Duplantis",
+        "text": "Olympic pole vault champion and world record holder."
+      }
+    ],
+    "related": [
+      "GBR"
+    ]
   }
 }

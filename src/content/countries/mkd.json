@@ -47,5 +47,47 @@
         "text": "North Macedonia becomes a member of NATO."
       }
     ]
+  },
+  "government": {
+    "text": "North Macedonia is a parliamentary republic. Its parliament, the Sobranie, chooses the Prime Minister, and the President is elected directly. The country changed its name from Macedonia to North Macedonia in 2019 under an agreement with Greece, which opened the way for it to join NATO in 2020. It is a candidate to join the European Union.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "North Macedonia's economy includes farming, especially tobacco, wine and vegetables, mining, textiles and car parts made by foreign companies in special economic zones. Many people work abroad and send money home."
+  },
+  "culture": {
+    "text": "Lake Ohrid, one of the oldest lakes in the world, is lined with Byzantine churches and monasteries. Macedonian is a South Slavic language written in Cyrillic, and about a quarter of the population is Albanian. Mother Teresa was born in Skopje in 1910.",
+    "items": [
+      {
+        "title": "Lake Ohrid",
+        "text": "More than a million years old, shared with Albania."
+      },
+      {
+        "title": "Mother Teresa",
+        "text": "Born in Skopje to an Albanian family."
+      }
+    ],
+    "related": [
+      "GRC",
+      "ALB"
+    ]
+  },
+  "sport": {
+    "text": "Handball and basketball are very popular in North Macedonia, and club handball side Vardar Skopje has twice been champion of Europe. The footballer Goran Pandev won the Champions League with Inter Milan in 2010.",
+    "items": [
+      {
+        "title": "Euro 2020",
+        "text": "North Macedonia's first major men's football tournament."
+      },
+      {
+        "title": "Handball",
+        "text": "Club Vardar Skopje won the EHF Champions League in 2017 and 2019."
+      }
+    ]
   }
 }

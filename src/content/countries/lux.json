@@ -39,5 +39,52 @@
         "text": "Luxembourg helps found what becomes the European Union."
       }
     ]
+  },
+  "government": {
+    "text": "Luxembourg is the world's only grand duchy. The Grand Duke is head of state, and the Prime Minister leads the government. Its parliament, the Chamber of Deputies, has 60 members. Luxembourg was a founding member of NATO and of what is now the European Union, and several EU institutions are based there.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Luxembourg has the highest income per person in the world. Banking and investment funds are the biggest industry, and many international companies have offices there. Steel was once the main industry; ArcelorMittal, one of the world's largest steelmakers, is still based in the capital. Public transport is free for everyone."
+  },
+  "culture": {
+    "text": "Luxembourgers commonly speak three languages: Luxembourgish, French and German, and most also speak English. The capital is built on cliffs above two rivers, with old fortifications listed by UNESCO.",
+    "items": [
+      {
+        "title": "Three languages",
+        "text": "Luxembourgish, French and German are all used in everyday life."
+      },
+      {
+        "title": "The Bock Casemates",
+        "text": "Tunnels carved into the rock beneath the old fortress."
+      },
+      {
+        "title": "Free public transport",
+        "text": "Since 2020, the first country to make all public transport free."
+      }
+    ],
+    "related": [
+      "BEL",
+      "FRA",
+      "DEU"
+    ]
+  },
+  "sport": {
+    "text": "Cycling is Luxembourg's most successful sport: its riders have won the Tour de France five times, including Andy Schleck in 2010. Football is the most popular sport to play.",
+    "items": [
+      {
+        "title": "Tour de France",
+        "text": "Five wins, from François Faber in 1909 to Andy Schleck in 2010."
+      },
+      {
+        "title": "Josy Barthel",
+        "text": "Won the 1,500 m at the 1952 Olympics, Luxembourg's only Olympic gold."
+      }
+    ]
   }
 }

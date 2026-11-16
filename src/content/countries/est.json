@@ -46,5 +46,51 @@
         "text": "Estonia regains its independence as Soviet rule collapses."
       }
     ]
+  },
+  "government": {
+    "text": "Estonia is a parliamentary republic. The Riigikogu, its parliament, is elected every four years and chooses the Prime Minister. The President is elected by parliament or by a special electoral body. Estonia was the first country to let people vote online in a national election, in 2007.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Estonia has become one of Europe's most digital countries. Almost every government service is online, and its e-Residency scheme lets people around the world start an Estonian company. Skype was built by Estonian programmers, and the money-transfer company Wise was founded by Estonians. Forestry, manufacturing and IT are key industries."
+  },
+  "culture": {
+    "text": "Song and choirs are central to Estonian identity. The Song Festival, held every five years, gathers tens of thousands of singers, and singing at mass gatherings helped Estonia regain independence. Much of the country is covered in forest and bog.",
+    "items": [
+      {
+        "title": "Song Festival",
+        "text": "Held since 1869; up to 30,000 singers perform together on one stage."
+      },
+      {
+        "title": "Tallinn Old Town",
+        "text": "One of the best-preserved medieval towns in northern Europe."
+      },
+      {
+        "title": "Saunas",
+        "text": "Smoke sauna traditions in Võromaa are listed by UNESCO."
+      }
+    ],
+    "related": [
+      "LVA",
+      "LTU"
+    ]
+  },
+  "sport": {
+    "text": "Basketball, football and cross-country skiing are popular in Estonia. The country has produced Olympic champions in decathlon and discus, and the rally driver Ott Tänak became world champion in 2019.",
+    "items": [
+      {
+        "title": "Ott Tänak",
+        "text": "World Rally champion in 2019."
+      },
+      {
+        "title": "Erki Nool",
+        "text": "Olympic decathlon champion in 2000."
+      }
+    ]
   }
 }

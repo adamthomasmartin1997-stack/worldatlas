@@ -53,5 +53,55 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Ireland is a parliamentary republic. Voters elect the Dáil, the lower house of the Oireachtas (parliament), which chooses the Taoiseach, or Prime Minister. The President is elected directly every seven years. Ireland joined what is now the European Union in 1973 and is militarily neutral.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Ireland has one of the highest incomes per person in the world on paper, partly because many large American technology and pharmaceutical companies have their European headquarters there for its low company tax. Farming, especially beef and dairy, food and tourism are also important."
+  },
+  "culture": {
+    "text": "Ireland has produced four Nobel Prize winners in literature, including W. B. Yeats and Samuel Beckett, as well as James Joyce and Oscar Wilde. Irish traditional music and dance spread worldwide. Saint Patrick's Day, 17 March, is celebrated around the world.",
+    "items": [
+      {
+        "title": "Irish language",
+        "text": "Irish (Gaeilge) is the first official language; English is the second."
+      },
+      {
+        "title": "Book of Kells",
+        "text": "A richly decorated manuscript of the Gospels, made around 800."
+      },
+      {
+        "title": "Riverdance",
+        "text": "The 1994 dance show that made Irish dancing famous worldwide."
+      }
+    ],
+    "related": [
+      "GBR",
+      "USA"
+    ]
+  },
+  "sport": {
+    "text": "Ireland's own Gaelic games, hurling and Gaelic football, are its most watched sports, played by amateurs for their local county. Rugby union is also very strong, and the team plays as one side for the whole island. Horse racing is a national passion.",
+    "items": [
+      {
+        "title": "Hurling",
+        "text": "One of the world's fastest field sports, more than 3,000 years old."
+      },
+      {
+        "title": "All-Ireland finals",
+        "text": "Gaelic football and hurling finals fill Croke Park, holding 82,000 people."
+      },
+      {
+        "title": "Six Nations",
+        "text": "Ireland won the rugby Grand Slam in 2009, 2018 and 2023."
+      }
+    ]
   }
 }

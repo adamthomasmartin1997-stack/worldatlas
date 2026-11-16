@@ -45,5 +45,59 @@
         "text": "Vigdís Finnbogadóttir becomes the world's first democratically elected female president."
       }
     ]
+  },
+  "government": {
+    "text": "Iceland is a parliamentary republic. Its parliament, the Althing, first met in 930 and is one of the oldest in the world. It chooses the Prime Minister, while the President is elected directly every four years. Iceland is a founding member of NATO but has no army, and it is not in the European Union.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Fishing was long the base of Iceland's economy and is still a big export. Tourism has grown enormously, drawn by glaciers, volcanoes and the northern lights. Cheap geothermal and hydro power attracts aluminium smelters and data centres. Iceland's banks collapsed in the 2008 financial crisis, and the country recovered quickly afterwards."
+  },
+  "culture": {
+    "text": "Icelanders can still read the medieval sagas written in Old Norse, because their language has changed so little. Most Icelanders have no family surname: their last name comes from their father's or mother's first name, such as Jónsdóttir, 'Jón's daughter'. Iceland also has one of the highest numbers of published writers per person in the world.",
+    "items": [
+      {
+        "title": "The sagas",
+        "text": "Stories of Viking-age families, written down in the 1200s."
+      },
+      {
+        "title": "Geothermal pools",
+        "text": "Hot springs heat most homes and fill outdoor swimming pools."
+      },
+      {
+        "title": "Björk",
+        "text": "The singer is Iceland's best-known musician."
+      }
+    ],
+    "related": [
+      "NOR",
+      "DNK"
+    ]
+  },
+  "sport": {
+    "text": "Handball is Iceland's national sport, and its men won Olympic silver in 2008. In football, Iceland became the smallest country ever to reach a World Cup, in 2018, two years after beating England at Euro 2016. Its fans' 'thunderclap' chant became famous.",
+    "items": [
+      {
+        "title": "Euro 2016",
+        "text": "Iceland beat England 2–1 to reach the quarter-finals."
+      },
+      {
+        "title": "2018",
+        "text": "The smallest country by population to play at a men's World Cup."
+      },
+      {
+        "title": "Strongmen",
+        "text": "Icelanders have won World's Strongest Man many times."
+      }
+    ],
+    "related": [
+      "GBR",
+      "FRA"
+    ]
   }
 }

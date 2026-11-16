@@ -46,5 +46,54 @@
         "text": "Allied occupation ends and Austria declares permanent neutrality."
       }
     ]
+  },
+  "government": {
+    "text": "Austria is a federal republic made up of nine states, called Länder, including the capital, Vienna. Voters elect a President every six years and a parliament every five. The Chancellor leads the government. Austria has been neutral since 1955 and is not a member of NATO.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Austria is one of the richest countries in the European Union. It has strong manufacturing, including machinery, vehicles and steel, and a huge tourist industry built on Alpine skiing and the culture of Vienna and Salzburg. Much of its electricity comes from hydropower."
+  },
+  "culture": {
+    "text": "Austria is famous for classical music. Mozart was born in Salzburg, and Haydn, Schubert and Johann Strauss II were also Austrian. The Vienna Philharmonic's New Year's Concert is watched by millions around the world. Viennese coffee house culture is listed by UNESCO as intangible heritage.",
+    "items": [
+      {
+        "title": "Mozart",
+        "text": "Born in Salzburg in 1756, he wrote more than 600 works before he died at 35."
+      },
+      {
+        "title": "The Sound of Music",
+        "text": "The 1965 film about the von Trapp family was set and filmed around Salzburg."
+      },
+      {
+        "title": "Schönbrunn Palace",
+        "text": "The summer home of the Habsburg emperors in Vienna."
+      }
+    ]
+  },
+  "sport": {
+    "text": "Alpine skiing is Austria's national sport, and Austrians have won more World Cup ski races than any other nation. Football is also very popular, and Vienna co-hosted Euro 2008 with Switzerland.",
+    "items": [
+      {
+        "title": "Hahnenkamm",
+        "text": "The downhill race at Kitzbühel, one of the most feared courses in skiing."
+      },
+      {
+        "title": "1964 · 1976",
+        "text": "Innsbruck has hosted the Winter Olympics twice."
+      },
+      {
+        "title": "Euro 2008",
+        "text": "Co-hosted with Switzerland; the final was in Vienna."
+      }
+    ],
+    "related": [
+      "CHE"
+    ]
   }
 }

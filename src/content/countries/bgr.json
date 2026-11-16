@@ -43,5 +43,54 @@
         "text": "Bulgaria becomes a member of the European Union."
       }
     ]
+  },
+  "government": {
+    "text": "Bulgaria is a parliamentary republic. Voters elect a 240-member National Assembly, which chooses the Prime Minister and government. The President is elected directly every five years. Bulgaria joined NATO in 2004 and the European Union in 2007, and it has had many elections in recent years as parties struggled to form stable governments.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Bulgaria has one of the lower average incomes in the European Union but has grown steadily. Its economy includes IT and outsourcing, manufacturing, farming and tourism on the Black Sea coast and in its ski resorts. Bulgaria grows much of the world's rose oil, used in perfume."
+  },
+  "culture": {
+    "text": "The Cyrillic alphabet was developed in the First Bulgarian Empire, and Bulgarians celebrate it every 24 May. Bulgarian folk music is known for its unusual rhythms and powerful choirs. Bulgarians nod to mean no and shake their heads to mean yes.",
+    "items": [
+      {
+        "title": "Rila Monastery",
+        "text": "A colourful monastery in the mountains, founded in the 900s."
+      },
+      {
+        "title": "Rose Valley",
+        "text": "Rose fields near Kazanlak produce oil for perfumes around the world."
+      },
+      {
+        "title": "Martenitsa",
+        "text": "Red-and-white threads worn on 1 March to welcome spring."
+      }
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport; Bulgaria reached the World Cup semi-finals in 1994, led by Hristo Stoichkov. Bulgaria has also been strong in weightlifting, wrestling and rhythmic gymnastics.",
+    "items": [
+      {
+        "title": "1994",
+        "text": "Bulgaria reached the World Cup semi-finals in the United States."
+      },
+      {
+        "title": "Hristo Stoichkov",
+        "text": "Won the Ballon d'Or in 1994."
+      },
+      {
+        "title": "Rhythmic gymnastics",
+        "text": "Bulgaria won Olympic gold in the group event in 2021."
+      }
+    ],
+    "related": [
+      "USA"
+    ]
   }
 }

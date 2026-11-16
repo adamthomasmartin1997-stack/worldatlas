@@ -46,5 +46,54 @@
         "text": "Denmark joins the European Economic Community."
       }
     ]
+  },
+  "government": {
+    "text": "Denmark is a constitutional monarchy, with a king as head of state and a Prime Minister leading the government. The Folketing, its parliament, has one chamber. Greenland and the Faroe Islands are self-governing parts of the Danish realm. Denmark joined NATO as a founding member and what is now the European Union in 1973, but it uses its own currency, the krone.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Denmark is one of the richest countries in the world and has a large welfare state paid for by high taxes. It is a world leader in wind power: turbines produce around half of its electricity. Medicines, shipping, food and design are major industries."
+  },
+  "culture": {
+    "text": "Danes are known for hygge, a feeling of cosiness and comfort. Hans Christian Andersen, author of The Little Mermaid and The Ugly Duckling, was Danish. So is LEGO, the toy brick invented in Billund, whose name comes from the Danish words for 'play well'.",
+    "items": [
+      {
+        "title": "LEGO",
+        "text": "Founded in Billund in 1932; the plastic brick as we know it dates from 1958."
+      },
+      {
+        "title": "Hans Christian Andersen",
+        "text": "Wrote more than 150 fairy tales, translated into over 100 languages."
+      },
+      {
+        "title": "The Little Mermaid",
+        "text": "A bronze statue in Copenhagen's harbour since 1913."
+      }
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport in Denmark, and the national team won the European Championship in 1992 after being called up at the last minute. Denmark is also one of the world's best handball nations, and cycling is huge both as sport and as everyday transport.",
+    "items": [
+      {
+        "title": "Euro 1992",
+        "text": "Denmark replaced Yugoslavia ten days before the tournament and won it."
+      },
+      {
+        "title": "Handball",
+        "text": "The men's team won Olympic gold in 2016 and 2024."
+      },
+      {
+        "title": "Tour de France 2022",
+        "text": "Started in Copenhagen; a Dane, Jonas Vingegaard, won it."
+      }
+    ],
+    "related": [
+      "FRA"
+    ]
   }
 }

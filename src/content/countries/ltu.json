@@ -49,5 +49,55 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Lithuania is a semi-presidential republic. The President is elected directly every five years and leads foreign and defence policy. The Seimas, the parliament, chooses the Prime Minister. Lithuania was the first Soviet republic to declare independence, in 1990, and joined NATO and the European Union in 2004.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Semi-presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Lithuania has grown quickly since independence. Its economy includes manufacturing, lasers, food, transport and a growing financial technology sector; Vilnius has become a base for many fintech companies. It adopted the euro in 2015."
+  },
+  "culture": {
+    "text": "Lithuanian is one of the oldest living Indo-European languages and keeps many ancient features. Lithuania was the last country in Europe to become Christian, and older traditions survive in festivals and folk songs called sutartinės. The Hill of Crosses holds more than 100,000 crosses.",
+    "items": [
+      {
+        "title": "Hill of Crosses",
+        "text": "A pilgrimage site near Šiauliai covered in crosses of every size."
+      },
+      {
+        "title": "Sutartinės",
+        "text": "Multi-voice folk songs, listed by UNESCO."
+      },
+      {
+        "title": "Trakai Castle",
+        "text": "A red-brick castle on an island in a lake."
+      }
+    ],
+    "related": [
+      "LVA",
+      "POL"
+    ]
+  },
+  "sport": {
+    "text": "Basketball is close to a religion in Lithuania. The men's team won Olympic bronze three times in a row in 1992, 1996 and 2000 and the European Championship three times. Many Lithuanians have played in the NBA.",
+    "items": [
+      {
+        "title": "1992 · 1996 · 2000",
+        "text": "Olympic bronze in men's basketball three times running."
+      },
+      {
+        "title": "Arvydas Sabonis",
+        "text": "A Hall of Fame centre, one of Europe's greatest players."
+      },
+      {
+        "title": "EuroBasket",
+        "text": "Lithuania won in 1937, 1939 and 2003."
+      }
+    ]
   }
 }

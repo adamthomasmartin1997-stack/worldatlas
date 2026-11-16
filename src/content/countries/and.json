@@ -30,5 +30,50 @@
         "text": "Andorra becomes a parliamentary democracy and joins the United Nations."
       }
     ]
+  },
+  "government": {
+    "text": "Andorra has two heads of state, called co-princes: the Bishop of Urgell in Spain and the President of France. Their role is mostly ceremonial. Andorrans elect a parliament, the General Council, which chooses the head of government.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary co-principality"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Andorra's economy is built on tourism. Millions of visitors come each year to ski in winter, hike in summer and shop, because goods have long been cheaper there than in Spain and France. Banking is also important. Andorra uses the euro, although it is not in the European Union."
+  },
+  "culture": {
+    "text": "Catalan is Andorra's only official language, and Andorra is the only country where that is the case. Small stone Romanesque churches dot its valleys. Most people living in Andorra are not Andorran citizens but residents from Spain, Portugal and France.",
+    "items": [
+      {
+        "title": "Romanesque churches",
+        "text": "Small stone churches built from the 1000s to the 1200s, such as Sant Joan de Caselles."
+      },
+      {
+        "title": "Catalan",
+        "text": "The only country in the world where Catalan is the sole official language."
+      }
+    ],
+    "related": [
+      "ESP",
+      "FRA"
+    ]
+  },
+  "sport": {
+    "text": "Skiing is Andorra's best-known sport, and its resorts host World Cup races. The national football team, made up mostly of part-time players, has won only a handful of competitive matches.",
+    "items": [
+      {
+        "title": "Grandvalira",
+        "text": "One of the largest ski areas in the Pyrenees, a regular World Cup venue."
+      },
+      {
+        "title": "2004",
+        "text": "Andorra beat North Macedonia 1–0, its first ever competitive win."
+      }
+    ],
+    "related": [
+      "MKD"
+    ]
   }
 }

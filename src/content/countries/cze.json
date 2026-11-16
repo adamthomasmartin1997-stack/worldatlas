@@ -50,5 +50,54 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Czechia is a parliamentary republic. The Chamber of Deputies, elected every four years, supports a government led by the Prime Minister. Since 2013 the President has been elected directly by the people. Czechia joined NATO in 1999 and the European Union in 2004.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Czechia has one of the strongest economies in central Europe, built on manufacturing. Cars are its biggest industry: Škoda, founded in 1895, makes cars there. Glass, beer and machinery are also important, and Prague is one of Europe's most visited cities."
+  },
+  "culture": {
+    "text": "Prague's old centre, with its castle, Charles Bridge and astronomical clock, is one of the best-preserved in Europe. Czechs drink more beer per person than any other nation, and Pilsner lager was first brewed in Plzeň in 1842. The writer Franz Kafka and the composers Dvořák and Smetana all came from the Czech lands.",
+    "items": [
+      {
+        "title": "Prague Astronomical Clock",
+        "text": "Running since 1410, one of the oldest working clocks of its kind."
+      },
+      {
+        "title": "Pilsner",
+        "text": "The world's first pale lager, brewed in Plzeň in 1842."
+      },
+      {
+        "title": "The word 'robot'",
+        "text": "Coined in a 1920 Czech play by Karel Čapek."
+      }
+    ]
+  },
+  "sport": {
+    "text": "Ice hockey and football are the most popular sports. Czech hockey players won Olympic gold in 1998, and the country has produced tennis stars such as Martina Navratilova and Petra Kvitová. The runner Emil Zátopek won three gold medals at the 1952 Olympics.",
+    "items": [
+      {
+        "title": "1998",
+        "text": "Olympic ice hockey gold at Nagano, beating Russia in the final."
+      },
+      {
+        "title": "Emil Zátopek",
+        "text": "Won the 5,000 m, 10,000 m and marathon at the 1952 Olympics."
+      },
+      {
+        "title": "2024",
+        "text": "World ice hockey champions on home ice in Prague."
+      }
+    ],
+    "related": [
+      "RUS"
+    ]
   }
 }

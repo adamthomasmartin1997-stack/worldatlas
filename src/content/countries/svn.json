@@ -40,5 +40,55 @@
         "text": "Slovenia is the first former communist country to use the euro."
       }
     ]
+  },
+  "government": {
+    "text": "Slovenia is a parliamentary republic. The National Assembly chooses the Prime Minister, and the President is elected directly every five years. Slovenia joined NATO and the European Union in 2004 and was the first former communist country to adopt the euro, in 2007.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Slovenia is the richest of the former Yugoslav republics. It exports cars, medicines, electrical appliances and machinery, and the port of Koper is a key gateway to central Europe. More than half the country is covered in forest."
+  },
+  "culture": {
+    "text": "Slovenia's landscape packs Alps, lakes, caves and a short stretch of coast into a small country. Lake Bled, with its island church, is one of Europe's most photographed places. Beekeeping is a national tradition, and Slovenia's native bee is protected.",
+    "items": [
+      {
+        "title": "Lake Bled",
+        "text": "A lake with a tiny island church and a castle on a cliff."
+      },
+      {
+        "title": "Postojna Cave",
+        "text": "A cave system with a railway running inside it."
+      },
+      {
+        "title": "Beekeeping",
+        "text": "Slovenia proposed World Bee Day, held every 20 May."
+      }
+    ]
+  },
+  "sport": {
+    "text": "Slovenia punches far above its weight in sport. Tadej Pogačar and Primož Roglič are among the world's best cyclists, Luka Dončić is an NBA star, and Janja Garnbret is the world's leading sport climber.",
+    "items": [
+      {
+        "title": "Tadej Pogačar",
+        "text": "Won the Tour de France in 2020, 2021, 2024 and 2025."
+      },
+      {
+        "title": "Janja Garnbret",
+        "text": "Olympic sport climbing champion in 2021 and 2024."
+      },
+      {
+        "title": "Luka Dončić",
+        "text": "One of the NBA's leading scorers."
+      }
+    ],
+    "related": [
+      "FRA",
+      "USA"
+    ]
   }
 }

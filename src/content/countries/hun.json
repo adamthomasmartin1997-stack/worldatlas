@@ -53,5 +53,58 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Hungary is a parliamentary republic. Its single-chamber National Assembly chooses the Prime Minister, who leads the government; the President, elected by parliament, has a mostly ceremonial role. Hungary joined NATO in 1999 and the European Union in 2004, and in recent years EU institutions have raised concerns about the independence of its courts and media.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Hungary has a large manufacturing sector, especially cars: Audi, Mercedes-Benz and BMW all build cars there, and battery factories have grown quickly. Food, medicines and tourism, including Budapest's famous thermal baths, are also important. Hungary uses its own currency, the forint."
+  },
+  "culture": {
+    "text": "Hungarian belongs to a different language family from almost all its neighbours; its distant relatives are Finnish and Estonian. Hungarian inventors created the Rubik's Cube and the ballpoint pen. Paprika is a key spice, used in dishes such as goulash.",
+    "items": [
+      {
+        "title": "Rubik's Cube",
+        "text": "Invented by Ernő Rubik in Budapest in 1974."
+      },
+      {
+        "title": "Thermal baths",
+        "text": "Budapest sits on more than 100 hot springs."
+      },
+      {
+        "title": "Ballpoint pen",
+        "text": "Patented by László Bíró in 1938."
+      }
+    ],
+    "related": [
+      "FIN",
+      "EST"
+    ]
+  },
+  "sport": {
+    "text": "Hungary has won more Olympic gold medals per person than almost any other country. It is especially strong in water polo, swimming, fencing and canoeing. In the 1950s its football team, the 'Golden Team', was the best in the world.",
+    "items": [
+      {
+        "title": "Water polo",
+        "text": "Hungary's men have won Olympic gold nine times."
+      },
+      {
+        "title": "1953",
+        "text": "Hungary beat England 6–3 at Wembley, England's first home defeat by a team from outside the British Isles."
+      },
+      {
+        "title": "Krisztina Egerszegi",
+        "text": "Won five Olympic swimming golds."
+      }
+    ],
+    "related": [
+      "GBR"
+    ]
   }
 }

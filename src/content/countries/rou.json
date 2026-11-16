@@ -43,5 +43,55 @@
         "text": "The communist dictatorship of Ceaușescu is overthrown."
       }
     ]
+  },
+  "government": {
+    "text": "Romania is a semi-presidential republic. The President, elected directly every five years, leads foreign and defence policy, while the Prime Minister leads the government with the support of parliament. Romania joined NATO in 2004 and the European Union in 2007.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Semi-presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Romania's economy has grown fast since it joined the EU. Car making, including Dacia, is a major industry, along with IT services, farming and energy. The country has its own currency, the leu."
+  },
+  "culture": {
+    "text": "Romanian is a Romance language, like Italian and Spanish, with roots in the Latin spoken in the Roman province of Dacia. Transylvania's castles, such as Bran, are linked in legend to Dracula, a character inspired partly by the ruler Vlad the Impaler. The painted monasteries of Bukovina are covered in bright frescoes.",
+    "items": [
+      {
+        "title": "Bran Castle",
+        "text": "Marketed as 'Dracula's Castle'."
+      },
+      {
+        "title": "Painted monasteries",
+        "text": "Outer walls covered in religious paintings from the 1500s."
+      },
+      {
+        "title": "The Danube Delta",
+        "text": "One of Europe's largest wetlands, home to pelicans."
+      }
+    ],
+    "related": [
+      "MDA",
+      "ITA"
+    ]
+  },
+  "sport": {
+    "text": "Gymnastics has brought Romania worldwide fame: Nadia Comăneci scored the first perfect 10 in Olympic history in 1976. Football is the most popular sport, and Gheorghe Hagi led Romania to the 1994 World Cup quarter-finals.",
+    "items": [
+      {
+        "title": "Nadia Comăneci",
+        "text": "Scored the first perfect 10 in Olympic gymnastics, aged 14."
+      },
+      {
+        "title": "Simona Halep",
+        "text": "Won Wimbledon in 2019."
+      },
+      {
+        "title": "Rowing",
+        "text": "Romania's women's eight won Olympic gold four times in a row, from 1996 to 2008."
+      }
+    ]
   }
 }

@@ -47,5 +47,51 @@
         "text": "East and West Germany are reunited."
       }
     ]
+  },
+  "government": {
+    "text": "Germany is a federal republic of 16 states, each with its own government. Voters elect the Bundestag, the national parliament, which chooses the Chancellor, the most powerful person in the government. The President is head of state but mostly has a ceremonial role. Germany's constitution, the Basic Law, dates from 1949.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Germany has the largest economy in Europe. It is famous for engineering and manufacturing, especially cars from companies such as Volkswagen, BMW and Mercedes-Benz, as well as machinery, chemicals and electrical goods. Many of its firms are medium-sized family companies that lead the world in a narrow speciality."
+  },
+  "culture": {
+    "text": "Germany is the land of composers such as Bach, Beethoven and Brahms, of the writer Goethe, and of Gutenberg, whose printing press transformed Europe around 1450. The Brothers Grimm collected fairy tales such as Hansel and Gretel and Snow White. Munich's Oktoberfest is the world's largest beer festival.",
+    "items": [
+      {
+        "title": "Gutenberg's press",
+        "text": "Printing with movable metal type began in Mainz around 1450."
+      },
+      {
+        "title": "Brothers Grimm",
+        "text": "Their collection of fairy tales was first published in 1812."
+      },
+      {
+        "title": "Brandenburg Gate",
+        "text": "Once part of the Berlin Wall's border zone, now a symbol of unity."
+      }
+    ]
+  },
+  "sport": {
+    "text": "Football is by far the most popular sport. The men's team has won the World Cup four times, in 1954, 1974, 1990 and 2014, and the women's team twice. Germany has also produced Formula 1 champions such as Michael Schumacher and tennis stars such as Steffi Graf.",
+    "items": [
+      {
+        "title": "1954 · 1974 · 1990 · 2014",
+        "text": "Men's World Cup wins."
+      },
+      {
+        "title": "2003 · 2007",
+        "text": "Women's World Cup wins."
+      },
+      {
+        "title": "Michael Schumacher",
+        "text": "Seven-time Formula 1 world champion."
+      }
+    ]
   }
 }

@@ -45,5 +45,60 @@
         "text": "Switzerland becomes a member of the United Nations."
       }
     ]
+  },
+  "government": {
+    "text": "Switzerland is a federal republic of 26 cantons. It has no single head of state: the country is led by a seven-member Federal Council, and its presidency rotates every year. Swiss voters decide many issues directly in referendums several times a year. Switzerland is neutral and is not in the European Union or NATO.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal directorial republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Switzerland is one of the richest countries in the world. It is famous for banking, watches, chocolate and cheese, and for global companies in medicine and food, such as Roche, Novartis and Nestlé. It uses its own currency, the Swiss franc."
+  },
+  "culture": {
+    "text": "Switzerland has four national languages: German, French, Italian and Romansh. It is home to the Red Cross, founded in Geneva in 1863, and to many international organisations. Swiss inventions include Velcro and the Swiss Army knife.",
+    "items": [
+      {
+        "title": "Four languages",
+        "text": "German, French, Italian and Romansh are all national languages."
+      },
+      {
+        "title": "The Red Cross",
+        "text": "Founded in Geneva in 1863."
+      },
+      {
+        "title": "The Matterhorn",
+        "text": "A 4,478-metre peak on the border with Italy."
+      }
+    ],
+    "related": [
+      "FRA",
+      "DEU",
+      "ITA",
+      "AUT"
+    ]
+  },
+  "sport": {
+    "text": "Skiing is a national passion, and Switzerland has won many Olympic medals in Alpine skiing. Roger Federer, one of the greatest tennis players of all time, is Swiss. FIFA and the International Olympic Committee both have their headquarters in Switzerland.",
+    "items": [
+      {
+        "title": "Roger Federer",
+        "text": "Won 20 Grand Slam titles, including eight Wimbledons."
+      },
+      {
+        "title": "1928 · 1948",
+        "text": "St. Moritz hosted the Winter Olympics twice."
+      },
+      {
+        "title": "IOC",
+        "text": "The International Olympic Committee is based in Lausanne."
+      }
+    ],
+    "related": [
+      "GBR"
+    ]
   }
 }

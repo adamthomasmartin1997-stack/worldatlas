@@ -43,5 +43,58 @@
         "text": "Croatia becomes the 28th member of the European Union."
       }
     ]
+  },
+  "government": {
+    "text": "Croatia is a parliamentary republic. The Sabor, its parliament, is elected every four years and chooses the Prime Minister, who leads the government. The President is elected every five years and represents the country abroad. Croatia joined NATO in 2009 and the European Union in 2013, and adopted the euro in 2023.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism is the biggest part of Croatia's economy. Millions of visitors come to its Adriatic coast and more than a thousand islands every summer. Shipbuilding, food processing and pharmaceuticals are also important."
+  },
+  "culture": {
+    "text": "Croatia gave the world the necktie: Croatian soldiers' scarves inspired the French cravat in the 1600s. Its coast is full of walled stone towns built by Venice and others. Dubrovnik's old town is a UNESCO site and was used as a filming location for Game of Thrones.",
+    "items": [
+      {
+        "title": "Dubrovnik",
+        "text": "A walled city on the sea, once the rich Republic of Ragusa."
+      },
+      {
+        "title": "Diocletian's Palace",
+        "text": "A Roman emperor's palace in Split that people still live inside."
+      },
+      {
+        "title": "Plitvice Lakes",
+        "text": "Sixteen terraced lakes joined by waterfalls."
+      }
+    ],
+    "related": [
+      "FRA",
+      "ITA"
+    ]
+  },
+  "sport": {
+    "text": "Football is Croatia's biggest sport. For a country of under four million people, its team has done remarkably well: runners-up at the 2018 World Cup and third in 1998 and 2022. Croatia is also strong in handball, water polo and tennis.",
+    "items": [
+      {
+        "title": "2018",
+        "text": "Croatia reached the World Cup final, losing 4–2 to France."
+      },
+      {
+        "title": "Luka Modrić",
+        "text": "Won the Ballon d'Or in 2018."
+      },
+      {
+        "title": "Handball",
+        "text": "Croatia's men won Olympic gold in 1996 and 2004."
+      }
+    ],
+    "related": [
+      "FRA"
+    ]
   }
 }

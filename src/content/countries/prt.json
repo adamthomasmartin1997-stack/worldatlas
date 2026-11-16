@@ -42,5 +42,60 @@
         "text": "A largely peaceful military coup ends dictatorship and leads to democracy."
       }
     ]
+  },
+  "government": {
+    "text": "Portugal is a semi-presidential republic. The President, elected directly every five years, is head of state and can dissolve parliament. The Prime Minister leads the government with the support of the Assembly of the Republic. Portugal was a founding member of NATO and joined what is now the European Union in 1986.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Semi-presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism is a major part of Portugal's economy, alongside textiles, shoes, cork, wine and car parts. Portugal produces about half of the world's cork. In recent years it has become a popular base for technology companies and start-ups, and much of its electricity comes from renewable sources."
+  },
+  "culture": {
+    "text": "Portuguese is spoken by more than 250 million people worldwide, from Brazil to Angola and Mozambique. Fado, a melancholy style of song, is on UNESCO's list of intangible heritage. Portuguese buildings are often decorated with blue-and-white painted tiles called azulejos.",
+    "items": [
+      {
+        "title": "Fado",
+        "text": "Songs of longing, sung in the old quarters of Lisbon and Coimbra."
+      },
+      {
+        "title": "Azulejos",
+        "text": "Painted ceramic tiles covering churches, stations and houses."
+      },
+      {
+        "title": "Pastéis de nata",
+        "text": "Custard tarts first made by monks in Belém."
+      }
+    ],
+    "related": [
+      "BRA",
+      "AGO",
+      "MOZ"
+    ]
+  },
+  "sport": {
+    "text": "Football is Portugal's great passion. Cristiano Ronaldo, born on Madeira, is the leading scorer in men's international football. Portugal won Euro 2016 and the UEFA Nations League in 2019 and 2025.",
+    "items": [
+      {
+        "title": "Euro 2016",
+        "text": "Portugal beat hosts France 1–0 in the final."
+      },
+      {
+        "title": "Cristiano Ronaldo",
+        "text": "The record goalscorer in men's international football."
+      },
+      {
+        "title": "Eusébio",
+        "text": "Born in Mozambique, he starred for Portugal at the 1966 World Cup."
+      }
+    ],
+    "related": [
+      "FRA",
+      "MOZ"
+    ]
   }
 }

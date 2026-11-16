@@ -45,5 +45,55 @@
         "text": "A storm surge kills more than 1,800 people, leading to the Delta Works sea defences."
       }
     ]
+  },
+  "government": {
+    "text": "The Netherlands is a constitutional monarchy, with a king as head of state and a Prime Minister leading the government. Its parliament, the States General, has two chambers. Amsterdam is the capital, but the government and parliament sit in The Hague. Governments are usually coalitions of several parties.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "The Netherlands is a trading nation. Rotterdam is the largest port in Europe, and the country is the world's second-largest exporter of food after the United States, thanks to high-tech greenhouses. It is also strong in chemicals, energy, finance and technology: ASML, which makes the machines used to produce computer chips, is Dutch."
+  },
+  "culture": {
+    "text": "The Netherlands has produced great painters, including Rembrandt, Vermeer and Van Gogh. About a quarter of the country lies below sea level, protected by dykes, dunes and pumps. There are more bicycles than people, and cycling is part of everyday life.",
+    "items": [
+      {
+        "title": "Windmills of Kinderdijk",
+        "text": "Nineteen windmills built to pump water out of the land."
+      },
+      {
+        "title": "Van Gogh",
+        "text": "His paintings hang in the Van Gogh Museum in Amsterdam."
+      },
+      {
+        "title": "Tulips",
+        "text": "Tulips came from Türkiye; in 1637 their bulbs sold for fortunes."
+      }
+    ],
+    "related": [
+      "BEL",
+      "TUR"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. The Dutch men's team has reached three World Cup finals and won Euro 1988, and its 'total football' style changed the game. The Netherlands also dominates speed skating and field hockey.",
+    "items": [
+      {
+        "title": "Euro 1988",
+        "text": "The Netherlands' only major men's title."
+      },
+      {
+        "title": "Speed skating",
+        "text": "The most successful nation in Olympic speed skating."
+      },
+      {
+        "title": "Max Verstappen",
+        "text": "Formula 1 world champion from 2021 to 2024."
+      }
+    ]
   }
 }

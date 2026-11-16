@@ -50,5 +50,60 @@
         "text": "Barcelona hosts the Summer Olympic Games."
       }
     ]
+  },
+  "government": {
+    "text": "Spain is a constitutional monarchy. The King is head of state, and the Prime Minister leads the government with the support of the Cortes Generales, the parliament. Spain is divided into 17 autonomous communities, such as Catalonia and Andalusia, which run their own schools and hospitals. It returned to democracy after General Franco's death in 1975.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Spain has one of the largest economies in Europe. It is one of the most visited countries in the world, and tourism is a huge employer. Spain is the world's biggest producer of olive oil and a major exporter of fruit, vegetables, wine and cars. Zara, the clothing brand, is Spanish."
+  },
+  "culture": {
+    "text": "Spanish is the world's second most widely spoken native language. Spain is the home of flamenco, paella and tapas, and of artists such as Velázquez, Goya, Picasso and Dalí. Barcelona's Sagrada Família basilica, designed by Antoni Gaudí, has been under construction since 1882.",
+    "items": [
+      {
+        "title": "Flamenco",
+        "text": "A music and dance style from Andalusia, listed by UNESCO."
+      },
+      {
+        "title": "Sagrada Família",
+        "text": "Gaudí's basilica in Barcelona, begun in 1882."
+      },
+      {
+        "title": "The Alhambra",
+        "text": "A palace and fortress built by the Muslim rulers of Granada."
+      }
+    ],
+    "related": [
+      "MEX",
+      "ARG",
+      "COL"
+    ]
+  },
+  "sport": {
+    "text": "Football dominates sport in Spain, and Real Madrid and FC Barcelona are two of the most famous clubs in the world. The men's team won the World Cup in 2010 and the women's team in 2023. Spain has also produced tennis greats such as Rafael Nadal, who won the French Open 14 times.",
+    "items": [
+      {
+        "title": "2010",
+        "text": "Men's World Cup winners."
+      },
+      {
+        "title": "2023",
+        "text": "Women's World Cup winners."
+      },
+      {
+        "title": "Rafael Nadal",
+        "text": "Won the French Open a record 14 times."
+      }
+    ],
+    "related": [
+      "NLD",
+      "GBR"
+    ]
   }
 }

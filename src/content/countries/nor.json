@@ -49,5 +49,54 @@
         "text": "Oil is found under the North Sea, transforming the economy."
       }
     ]
+  },
+  "government": {
+    "text": "Norway is a constitutional monarchy. The King is head of state and the Prime Minister leads the government, which must have the support of the Storting, the parliament. Norway is a founding member of NATO but has voted twice, in 1972 and 1994, not to join the European Union.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Oil and gas from the North Sea made Norway one of the richest countries in the world. The government saves much of the money in the world's largest sovereign wealth fund, worth more than all of Norway's yearly economy many times over. Fishing, salmon farming and shipping are also big industries, and almost all of its electricity comes from hydropower."
+  },
+  "culture": {
+    "text": "Norway's landscape of fjords and mountains shaped its culture and folk tales of trolls. The painter Edvard Munch made The Scream, and the playwright Henrik Ibsen wrote A Doll's House. The Nobel Peace Prize is awarded in Oslo every year.",
+    "items": [
+      {
+        "title": "The Scream",
+        "text": "Painted by Edvard Munch in 1893."
+      },
+      {
+        "title": "Fjords",
+        "text": "Long, deep sea inlets carved by glaciers, such as Geirangerfjord."
+      },
+      {
+        "title": "Nobel Peace Prize",
+        "text": "Presented in Oslo every 10 December."
+      }
+    ],
+    "related": [
+      "SWE"
+    ]
+  },
+  "sport": {
+    "text": "Norway is the most successful country in the history of the Winter Olympics, with a huge medal haul in cross-country skiing and biathlon. Footballer Erling Haaland is one of the best strikers in the world.",
+    "items": [
+      {
+        "title": "Winter Olympics",
+        "text": "More medals than any other country in history."
+      },
+      {
+        "title": "1952 · 1994",
+        "text": "Oslo and Lillehammer hosted the Winter Olympics."
+      },
+      {
+        "title": "Magnus Carlsen",
+        "text": "Chess world champion from 2013 to 2023."
+      }
+    ]
   }
 }

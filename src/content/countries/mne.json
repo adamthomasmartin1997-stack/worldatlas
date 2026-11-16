@@ -45,5 +45,51 @@
         "text": "Montenegro becomes a member of NATO."
       }
     ]
+  },
+  "government": {
+    "text": "Montenegro is a parliamentary republic. Its 81-member parliament chooses the Prime Minister, and the President is elected directly every five years. Montenegro joined NATO in 2017 and is a candidate to join the European Union. It uses the euro, even though it is not in the EU.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism on the Adriatic coast is Montenegro's biggest industry. Aluminium, electricity from hydropower and farming are also important. The country is working on new roads to link its coast and mountains."
+  },
+  "culture": {
+    "text": "Montenegro's name means 'black mountain'. Its coast is lined with Venetian-era stone towns such as Kotor, set at the end of a deep bay. In the mountains, the old royal capital of Cetinje keeps the country's monasteries and museums.",
+    "items": [
+      {
+        "title": "Bay of Kotor",
+        "text": "A deep, winding bay with the walled town of Kotor."
+      },
+      {
+        "title": "Ostrog Monastery",
+        "text": "A monastery built into a vertical cliff."
+      },
+      {
+        "title": "Durmitor",
+        "text": "A national park with a canyon more than 1,000 metres deep."
+      }
+    ],
+    "related": [
+      "SRB",
+      "ITA"
+    ]
+  },
+  "sport": {
+    "text": "Water polo is Montenegro's most successful sport; the men's team won the European Championship in 2008. Basketball, handball and football are also popular.",
+    "items": [
+      {
+        "title": "2008",
+        "text": "European water polo champions, two years after independence."
+      },
+      {
+        "title": "2012",
+        "text": "Women's handball silver at the London Olympics, Montenegro's first Olympic medal."
+      }
+    ]
   }
 }

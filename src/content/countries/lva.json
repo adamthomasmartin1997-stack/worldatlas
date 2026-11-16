@@ -55,5 +55,55 @@
         "text": "Latvia regains its independence."
       }
     ]
+  },
+  "government": {
+    "text": "Latvia is a parliamentary republic. The Saeima, its 100-member parliament, chooses the Prime Minister and elects the President. Latvia joined NATO and the European Union in 2004 and adopted the euro in 2014. About a quarter of its people are ethnic Russians.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Latvia's economy relies on services, transport through its Baltic ports, and wood: forests cover more than half the country and timber is a top export. The capital, Riga, is the largest city in the three Baltic states."
+  },
+  "culture": {
+    "text": "Latvians have a huge treasury of short folk songs called dainas; more than a million have been recorded. Like Estonia, Latvia holds a giant Song and Dance Festival, and its midsummer festival, Jāņi, is the biggest holiday of the year. Riga has one of the world's finest collections of Art Nouveau buildings.",
+    "items": [
+      {
+        "title": "Dainas",
+        "text": "Short four-line folk songs, collected by Krišjānis Barons."
+      },
+      {
+        "title": "Riga's Art Nouveau",
+        "text": "About a third of the buildings in Riga's centre are in this style."
+      },
+      {
+        "title": "Jāņi",
+        "text": "Midsummer night, celebrated with bonfires, wreaths and singing."
+      }
+    ],
+    "related": [
+      "EST",
+      "LTU"
+    ]
+  },
+  "sport": {
+    "text": "Ice hockey and basketball are Latvia's most popular sports. Latvia won bronze at the 2023 ice hockey world championship and, in 2024, its men won Olympic gold in 3x3 basketball. Bobsleigh and luge have also brought Latvia Olympic medals.",
+    "items": [
+      {
+        "title": "2023",
+        "text": "Bronze at the ice hockey world championship, co-hosted by Riga."
+      },
+      {
+        "title": "2024",
+        "text": "Olympic gold in men's 3x3 basketball."
+      },
+      {
+        "title": "Bobsleigh",
+        "text": "Latvia has won several Olympic medals on the ice track."
+      }
+    ]
   }
 }

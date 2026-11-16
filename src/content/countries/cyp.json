@@ -46,5 +46,51 @@
         "text": "Cyprus becomes a member of the European Union."
       }
     ]
+  },
+  "government": {
+    "text": "Cyprus is a presidential republic: the President is both head of state and head of government and is elected every five years. Since 1974 the island has been divided. The Republic of Cyprus, a member of the European Union since 2004, governs the south, while the north is run by a Turkish Cypriot administration recognised only by Türkiye. UN peacekeepers patrol the buffer zone between them.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism, shipping and financial services are the main parts of the economy. Cyprus has one of the largest merchant shipping fleets in the European Union. The country went through a banking crisis in 2013 and has since recovered. It uses the euro."
+  },
+  "culture": {
+    "text": "Cyprus mixes Greek and Turkish culture with traces of the many empires that ruled it. Greek myth says the goddess Aphrodite was born from the sea off its coast. Halloumi, a squeaky grilled cheese, comes from Cyprus.",
+    "items": [
+      {
+        "title": "Aphrodite's Rock",
+        "text": "The sea stack where, in Greek myth, Aphrodite came ashore."
+      },
+      {
+        "title": "Painted churches of Troodos",
+        "text": "Mountain churches covered in Byzantine wall paintings."
+      },
+      {
+        "title": "Halloumi",
+        "text": "A cheese made in Cyprus for centuries, good for grilling."
+      }
+    ],
+    "related": [
+      "GRC",
+      "TUR"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport in Cyprus, and APOEL Nicosia reached the quarter-finals of the Champions League in 2012. The sailor Pavlos Kontides won the country's first Olympic medal.",
+    "items": [
+      {
+        "title": "2012",
+        "text": "APOEL reached the Champions League quarter-finals."
+      },
+      {
+        "title": "2012",
+        "text": "Pavlos Kontides won silver in sailing, Cyprus's first Olympic medal."
+      }
+    ]
   }
 }

@@ -52,5 +52,55 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Russia is officially a federal semi-presidential republic, but power is concentrated in the President, who appoints the Prime Minister. Vladimir Putin has been President or Prime Minister since 1999. Opposition politicians and independent media face severe restrictions, and constitutional changes in 2020 allow him to stay in office until 2036. Russia has a permanent seat with a veto on the UN Security Council.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal semi-presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Russia has huge reserves of oil, gas, coal, metals and timber, and energy exports have long paid for much of the state budget. It is also a major exporter of wheat and weapons. Since the full-scale invasion of Ukraine in 2022, Western countries have imposed wide-ranging sanctions, and Russia sells more of its oil to China and India."
+  },
+  "culture": {
+    "text": "Russia has produced some of the world's most famous writers, including Tolstoy, Dostoevsky and Chekhov, and composers such as Tchaikovsky. Russian ballet, especially at the Bolshoi and Mariinsky theatres, is world-renowned. The Trans-Siberian Railway, at about 9,300 kilometres, is the longest railway line in the world.",
+    "items": [
+      {
+        "title": "Swan Lake",
+        "text": "Tchaikovsky's ballet, first performed in Moscow in 1877."
+      },
+      {
+        "title": "Red Square",
+        "text": "Moscow's central square, beside the Kremlin and St Basil's Cathedral."
+      },
+      {
+        "title": "Trans-Siberian Railway",
+        "text": "Runs from Moscow to Vladivostok."
+      }
+    ],
+    "related": [
+      "UKR",
+      "CHN"
+    ]
+  },
+  "sport": {
+    "text": "Russia has long been a sporting power in ice hockey, gymnastics, figure skating and chess. It hosted the 2014 Winter Olympics and the 2018 World Cup. Because of doping and later the invasion of Ukraine, its teams were banned from many international competitions.",
+    "items": [
+      {
+        "title": "2014",
+        "text": "Sochi hosted the Winter Olympics."
+      },
+      {
+        "title": "2018",
+        "text": "Russia hosted the men's World Cup."
+      },
+      {
+        "title": "Chess",
+        "text": "Russian and Soviet players held the world title for most of the 1900s."
+      }
+    ]
   }
 }

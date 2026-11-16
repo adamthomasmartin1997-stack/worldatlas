@@ -46,5 +46,51 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Bosnia and Herzegovina has one of the world's most complicated systems of government, set up by the Dayton Agreement in 1995. It is divided into two entities, the Federation of Bosnia and Herzegovina and Republika Srpska, plus the Brčko District. The presidency is shared by three members, one Bosniak, one Croat and one Serb, and an international High Representative oversees the peace deal.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "The economy was badly damaged by the war of the 1990s and has been rebuilding since. Industry includes metals, wood and furniture, and energy from coal and hydropower. Many young people move abroad for work, and money they send home is an important source of income."
+  },
+  "culture": {
+    "text": "Bosnia sits where Ottoman and Austro-Hungarian worlds met, and its towns mix mosques, Orthodox and Catholic churches and synagogues. Sevdalinka is a style of emotional folk song. Ćevapi, small grilled sausages served in flatbread, are a national favourite.",
+    "items": [
+      {
+        "title": "Stari Most",
+        "text": "The Old Bridge in Mostar, built by the Ottomans in 1566, destroyed in 1993 and rebuilt in 2004."
+      },
+      {
+        "title": "Sarajevo",
+        "text": "A city where a mosque, a cathedral and a synagogue stand within a short walk of each other."
+      },
+      {
+        "title": "Ivo Andrić",
+        "text": "Won the Nobel Prize in Literature in 1961 for novels such as The Bridge on the Drina."
+      }
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and the national team reached the World Cup for the first time in 2014. Basketball and handball are also widely followed. Sarajevo hosted the 1984 Winter Olympics.",
+    "items": [
+      {
+        "title": "1984",
+        "text": "Sarajevo hosted the Winter Olympics, the first held in a communist country."
+      },
+      {
+        "title": "2014",
+        "text": "Bosnia and Herzegovina's first men's World Cup."
+      },
+      {
+        "title": "Bridge diving",
+        "text": "Divers have jumped from Mostar's Old Bridge into the river for centuries."
+      }
+    ]
   }
 }

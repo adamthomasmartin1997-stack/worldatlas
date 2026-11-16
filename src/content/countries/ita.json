@@ -41,5 +41,56 @@
         "text": "Italians vote to end the monarchy."
       }
     ]
+  },
+  "government": {
+    "text": "Italy is a parliamentary republic. Its parliament has two chambers, the Chamber of Deputies and the Senate, and the government is led by the Prime Minister. The President is elected by parliament for seven years. Italy was a founding member of what is now the European Union and of NATO.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Italy has one of the largest economies in Europe. The north is highly industrial, making machinery, cars and luxury goods, with brands such as Ferrari, Fiat, Gucci and Prada. Food and wine, from pasta and parmesan to olive oil, are exported worldwide, and Italy is one of the most visited countries on Earth."
+  },
+  "culture": {
+    "text": "Italy has more UNESCO World Heritage Sites than any other country. It was the heart of the Renaissance, home to artists such as Leonardo da Vinci, Michelangelo and Raphael, and the birthplace of opera. Pizza and pasta, born in Italy, are eaten across the world.",
+    "items": [
+      {
+        "title": "The Colosseum",
+        "text": "Rome's giant amphitheatre, opened in AD 80."
+      },
+      {
+        "title": "Opera",
+        "text": "Born in Italy around 1600; Italian opera singing is listed by UNESCO."
+      },
+      {
+        "title": "Venice",
+        "text": "A city built on more than 100 small islands in a lagoon."
+      }
+    ],
+    "related": [
+      "VAT",
+      "SMR",
+      "FRA"
+    ]
+  },
+  "sport": {
+    "text": "Football is a passion in Italy. The men's team has won the World Cup four times and the European Championship twice. Italy also has a great cycling tradition with the Giro d'Italia, and Ferrari is the oldest and most successful team in Formula 1.",
+    "items": [
+      {
+        "title": "1934 · 1938 · 1982 · 2006",
+        "text": "Men's World Cup wins."
+      },
+      {
+        "title": "Giro d'Italia",
+        "text": "One of cycling's three great races, held since 1909."
+      },
+      {
+        "title": "2026",
+        "text": "Milan and Cortina d'Ampezzo hosted the Winter Olympics."
+      }
+    ]
   }
 }

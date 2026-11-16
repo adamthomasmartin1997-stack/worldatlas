@@ -45,5 +45,55 @@
         "text": "Slovakia starts using the euro."
       }
     ]
+  },
+  "government": {
+    "text": "Slovakia is a parliamentary republic. The 150-member National Council chooses the Prime Minister and government, and the President is elected directly every five years. Slovakia joined NATO and the European Union in 2004 and adopted the euro in 2009.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Slovakia makes more cars per person than any other country in the world. Volkswagen, Kia, Stellantis and Jaguar Land Rover all have factories there. Electronics, machinery and metals are also important."
+  },
+  "culture": {
+    "text": "Slovakia has more castles and castle ruins per person than almost any other country, including the huge Spiš Castle. Its wooden churches in the Carpathian Mountains are listed by UNESCO. Folk music played on the fujara, a long shepherd's flute, is also UNESCO heritage.",
+    "items": [
+      {
+        "title": "Spiš Castle",
+        "text": "One of the largest castle sites in central Europe."
+      },
+      {
+        "title": "Fujara",
+        "text": "A shepherd's flute nearly two metres long."
+      },
+      {
+        "title": "Bratislava",
+        "text": "Once Hungary's coronation city."
+      }
+    ],
+    "related": [
+      "CZE",
+      "HUN"
+    ]
+  },
+  "sport": {
+    "text": "Ice hockey is the most popular sport in Slovakia, and the team won the world championship in 2002. Slovakia is also strong in canoe slalom and skiing; Petra Vlhová won the overall Alpine skiing World Cup in 2021.",
+    "items": [
+      {
+        "title": "2002",
+        "text": "World ice hockey champions."
+      },
+      {
+        "title": "Canoe slalom",
+        "text": "The Hochschorner twins won three Olympic golds in a row."
+      },
+      {
+        "title": "Peter Sagan",
+        "text": "Cycling world road race champion three times in a row."
+      }
+    ]
   }
 }

@@ -53,5 +53,57 @@
         "text": "Solidarity wins elections and communist rule ends."
       }
     ]
+  },
+  "government": {
+    "text": "Poland is a parliamentary republic. Its parliament has two houses, the Sejm and the Senate. The Prime Minister leads the government, while the President, elected directly every five years, can veto laws. Poland joined NATO in 1999 and the European Union in 2004.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Poland was the only EU economy that did not shrink during the 2008–09 financial crisis, and it has grown faster than most of Europe since 1990. It is strong in manufacturing, food, furniture and IT, and the video game company behind The Witcher is Polish. Poland uses its own currency, the złoty."
+  },
+  "culture": {
+    "text": "Poland gave the world the composer Frédéric Chopin, the scientist Marie Curie, the astronomer Copernicus and Pope John Paul II. Its cities were rebuilt after the destruction of the Second World War; Warsaw's Old Town was reconstructed so carefully that UNESCO lists it.",
+    "items": [
+      {
+        "title": "Marie Curie",
+        "text": "Born in Warsaw; the first person to win Nobel Prizes in two sciences."
+      },
+      {
+        "title": "Copernicus",
+        "text": "Argued in 1543 that the Earth moves around the Sun."
+      },
+      {
+        "title": "Pierogi",
+        "text": "Filled dumplings, a national dish."
+      }
+    ],
+    "related": [
+      "FRA"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Robert Lewandowski is one of the greatest strikers of his generation. Volleyball and ski jumping draw huge audiences, and Iga Świątek became tennis world number one.",
+    "items": [
+      {
+        "title": "Robert Lewandowski",
+        "text": "Scored five goals in nine minutes for Bayern Munich in 2015."
+      },
+      {
+        "title": "Volleyball",
+        "text": "Men's world champions in 2014 and 2018."
+      },
+      {
+        "title": "Iga Świątek",
+        "text": "Won the French Open four times."
+      }
+    ],
+    "related": [
+      "FRA"
+    ]
   }
 }

@@ -56,5 +56,58 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Ukraine is a semi-presidential republic. The President, elected directly, is head of state and commander-in-chief. The Verkhovna Rada, the parliament, chooses the Prime Minister. Since Russia's full-scale invasion in 2022, Ukraine has been under martial law, and elections have been postponed. It became a candidate to join the European Union in 2022.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Semi-presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Ukraine has some of the most fertile soil in the world and is a major exporter of grain, sunflower oil and corn, earning it the nickname 'the breadbasket of Europe'. It also has steel and IT industries. The war has caused enormous damage to its cities, ports and power plants."
+  },
+  "culture": {
+    "text": "Ukrainian culture is famous for embroidered shirts called vyshyvanka, painted Easter eggs called pysanky and borscht, a beetroot soup listed by UNESCO in 2022. Kyiv's St Sophia Cathedral dates from the 1000s. Taras Shevchenko is the national poet.",
+    "items": [
+      {
+        "title": "Pysanky",
+        "text": "Easter eggs decorated with wax and dye."
+      },
+      {
+        "title": "Borscht",
+        "text": "Ukrainian borscht cooking was added to UNESCO's endangered heritage list in 2022."
+      },
+      {
+        "title": "Mriya",
+        "text": "The world's largest aircraft, destroyed near Kyiv in 2022."
+      }
+    ],
+    "related": [
+      "POL",
+      "RUS"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Andriy Shevchenko won the Ballon d'Or in 2004. Ukraine co-hosted Euro 2012 with Poland. The pole vaulter Serhiy Bubka set 35 world records, and the high jumper Yaroslava Mahuchikh won Olympic gold in 2024.",
+    "items": [
+      {
+        "title": "Euro 2012",
+        "text": "Co-hosted with Poland; the final was in Kyiv."
+      },
+      {
+        "title": "Serhiy Bubka",
+        "text": "The first person to pole vault over 6 metres."
+      },
+      {
+        "title": "Klitschko brothers",
+        "text": "Vitali and Wladimir both held world heavyweight boxing titles."
+      }
+    ],
+    "related": [
+      "POL"
+    ]
   }
 }

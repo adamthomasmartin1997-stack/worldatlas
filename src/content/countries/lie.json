@@ -39,5 +39,47 @@
         "text": "Liechtenstein becomes a member of the United Nations."
       }
     ]
+  },
+  "government": {
+    "text": "Liechtenstein is a constitutional monarchy. The Prince has more power than most European monarchs: he can veto laws and dismiss the government. The people also have strong powers through referendums. The Landtag, its 25-member parliament, is elected every four years.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Liechtenstein is one of the richest countries in the world per person. Despite its small size, it has a strong high-tech industry, including the world's leading maker of false teeth, and a big financial sector. It uses the Swiss franc, and more people commute in to work each day than live there."
+  },
+  "culture": {
+    "text": "Liechtenstein is a German-speaking country of castles and mountain villages. Vaduz Castle, home of the princely family, overlooks the capital. The Prince's art collection, one of the finest private collections in the world, is shown partly in Vienna.",
+    "items": [
+      {
+        "title": "Vaduz Castle",
+        "text": "The prince's home, high above the capital."
+      },
+      {
+        "title": "Postage stamps",
+        "text": "Liechtenstein's stamps are famous among collectors."
+      }
+    ],
+    "related": [
+      "CHE",
+      "AUT"
+    ]
+  },
+  "sport": {
+    "text": "Skiing is Liechtenstein's most successful sport. Hanni Wenzel won two Olympic gold medals in 1980, and the country has won more Winter Olympic medals per person than any other nation.",
+    "items": [
+      {
+        "title": "Hanni Wenzel",
+        "text": "Won two Olympic golds and a silver in 1980."
+      },
+      {
+        "title": "Winter Olympics",
+        "text": "Ten medals for a country of about 40,000 people."
+      }
+    ]
   }
 }

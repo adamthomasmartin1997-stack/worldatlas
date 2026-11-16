@@ -42,5 +42,54 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Monaco is a constitutional monarchy ruled by the Grimaldi family. The Prince holds strong powers and appoints a Minister of State to lead the government. The National Council, elected every five years, passes laws and the budget. France is responsible for Monaco's defence.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Monaco is famous for its wealth. There is no income tax for most residents, which has drawn many very rich people. Tourism, banking, property and the Monte Carlo casino are the main businesses. It uses the euro."
+  },
+  "culture": {
+    "text": "Monaco is the second-smallest country in the world and the most densely populated. Its Oceanographic Museum, built into the cliff in 1910, was once run by the explorer Jacques Cousteau. Most residents are foreigners; Monégasque citizens are a small minority.",
+    "items": [
+      {
+        "title": "Oceanographic Museum",
+        "text": "Opened in 1910 on the cliff above the sea."
+      },
+      {
+        "title": "Monte Carlo Casino",
+        "text": "Opened in the 1860s and made Monaco rich."
+      }
+    ],
+    "related": [
+      "FRA",
+      "ITA"
+    ]
+  },
+  "sport": {
+    "text": "The Monaco Grand Prix, raced through the city's narrow streets since 1929, is the most famous race in Formula 1. AS Monaco plays in the French football league and has won it several times.",
+    "items": [
+      {
+        "title": "Monaco Grand Prix",
+        "text": "Held on the streets of Monte Carlo since 1929."
+      },
+      {
+        "title": "Charles Leclerc",
+        "text": "The Ferrari driver, born in Monaco, won his home Grand Prix in 2024."
+      },
+      {
+        "title": "AS Monaco",
+        "text": "Champions of France eight times."
+      }
+    ],
+    "related": [
+      "FRA"
+    ]
   }
 }

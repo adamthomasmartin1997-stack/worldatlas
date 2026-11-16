@@ -42,5 +42,59 @@
         "text": "Military rule ends and Greece becomes a republic."
       }
     ]
+  },
+  "government": {
+    "text": "Greece is a parliamentary republic. Its 300-member parliament, the Hellenic Parliament, chooses the Prime Minister, who leads the government. The President, elected by parliament, is head of state. Greece joined what is now the European Union in 1981 and uses the euro.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism and shipping are the pillars of the Greek economy. Greek owners control one of the largest merchant fleets in the world, and tens of millions of tourists visit each year. Greece also produces olive oil, feta and fruit. A deep debt crisis from 2009 led to years of hardship."
+  },
+  "culture": {
+    "text": "Ancient Greece gave the world democracy, the Olympic Games, theatre and philosophers such as Socrates, Plato and Aristotle. Many English words come from Greek. The Mediterranean diet, with olive oil, vegetables and fish, is listed by UNESCO as heritage shared with other countries.",
+    "items": [
+      {
+        "title": "The Acropolis",
+        "text": "The rocky hill in Athens topped by the Parthenon, built in the 400s BC."
+      },
+      {
+        "title": "Greek myths",
+        "text": "Stories of Zeus, Athena and Hercules still inspire books and films."
+      },
+      {
+        "title": "Delphi",
+        "text": "Ancient Greeks believed it was the centre of the world."
+      }
+    ],
+    "related": [
+      "ITA",
+      "CYP"
+    ]
+  },
+  "sport": {
+    "text": "Greece is the birthplace of the Olympics. The first modern Olympics were held in Athens in 1896, and the city hosted again in 2004. In football, Greece shocked Europe by winning Euro 2004, and basketball is hugely popular.",
+    "items": [
+      {
+        "title": "1896 · 2004",
+        "text": "Athens hosted the Summer Olympics."
+      },
+      {
+        "title": "Euro 2004",
+        "text": "Greece won the European Championship as outsiders, beating hosts Portugal in the final."
+      },
+      {
+        "title": "Giannis Antetokounmpo",
+        "text": "NBA champion and two-time Most Valuable Player."
+      }
+    ],
+    "related": [
+      "PRT",
+      "USA"
+    ]
   }
 }

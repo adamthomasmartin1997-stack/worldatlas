@@ -42,5 +42,54 @@
         "text": "Albania becomes a member of the NATO alliance."
       }
     ]
+  },
+  "government": {
+    "text": "Albania is a parliamentary republic. Voters elect the 140-member parliament, which chooses the Prime Minister to run the government and also elects the President, whose role is mostly ceremonial. Albania is a candidate to join the European Union.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Albania was one of the poorest countries in Europe when communism ended in 1991, and it has grown quickly since. Tourism along its Adriatic and Ionian coast now brings in a large share of its income, alongside farming, mining and hydropower, which produces almost all of its electricity. Money sent home by Albanians working abroad is also important."
+  },
+  "culture": {
+    "text": "Albanian is a language of its own, not closely related to any other living language. Albanians follow a code of honour called besa, a promise that must never be broken, which led many families to shelter Jews during the Second World War. Iso-polyphony, a style of folk singing in several voice parts, is on UNESCO's list of intangible cultural heritage.",
+    "items": [
+      {
+        "title": "Bunkers",
+        "text": "Hundreds of thousands of concrete bunkers were built under communism; some are now cafés and museums."
+      },
+      {
+        "title": "Berat and Gjirokastër",
+        "text": "Two Ottoman-era towns of stone houses, listed by UNESCO."
+      },
+      {
+        "title": "Mother Teresa",
+        "text": "The nun famous for her work in India was born to an Albanian family in Skopje."
+      }
+    ],
+    "related": [
+      "IND",
+      "MKD"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport in Albania, and the national team reached its first major tournament at Euro 2016. Weightlifting has brought Albania some of its best international results.",
+    "items": [
+      {
+        "title": "Euro 2016",
+        "text": "Albania's first major football tournament, where it won a group game against Romania."
+      },
+      {
+        "title": "Euro 2024",
+        "text": "Albania qualified again, topping its qualifying group."
+      }
+    ],
+    "related": [
+      "ROU"
+    ]
   }
 }

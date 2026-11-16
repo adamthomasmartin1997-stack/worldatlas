@@ -47,5 +47,59 @@
         "text": "The UK leaves the European Union."
       }
     ]
+  },
+  "government": {
+    "text": "The United Kingdom is a constitutional monarchy. The King is head of state, and the Prime Minister leads the government, which must keep the support of the House of Commons. Parliament also has an unelected House of Lords. Scotland, Wales and Northern Ireland have their own parliaments or assemblies for many matters. The UK has a permanent seat with a veto on the UN Security Council.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "The UK has one of the largest economies in the world. London is a global centre for banking, finance and law, and services make up most of the economy. The UK is also strong in aerospace, medicines, cars, universities, film, music and video games. It left the European Union in 2020."
+  },
+  "culture": {
+    "text": "English, the most widely learned language in the world, comes from England. The UK has given the world Shakespeare, the Beatles, Harry Potter and the BBC. Its four nations, England, Scotland, Wales and Northern Ireland, each have their own traditions, from Welsh choirs to Scottish bagpipes.",
+    "items": [
+      {
+        "title": "Shakespeare",
+        "text": "Wrote about 37 plays, still performed around the world."
+      },
+      {
+        "title": "The Beatles",
+        "text": "The Liverpool band became the best-selling act of all time."
+      },
+      {
+        "title": "Stonehenge",
+        "text": "A prehistoric stone circle built around 5,000 years ago."
+      }
+    ],
+    "related": [
+      "IRL",
+      "USA",
+      "IND"
+    ]
+  },
+  "sport": {
+    "text": "Britain invented or first wrote down the rules of many of the world's sports, including football, rugby, cricket and tennis. England won the men's football World Cup in 1966, and Wimbledon, first played in 1877, is the oldest tennis tournament. London has hosted the Summer Olympics three times.",
+    "items": [
+      {
+        "title": "1966",
+        "text": "England won the men's World Cup at Wembley."
+      },
+      {
+        "title": "1908 · 1948 · 2012",
+        "text": "London has hosted the Summer Olympics three times."
+      },
+      {
+        "title": "Wimbledon",
+        "text": "The oldest tennis tournament in the world, since 1877."
+      }
+    ],
+    "related": [
+      "DEU"
+    ]
   }
 }

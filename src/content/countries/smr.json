@@ -45,5 +45,54 @@
         "text": "San Marino becomes a member of the United Nations."
       }
     ]
+  },
+  "government": {
+    "text": "San Marino has two heads of state, called Captains Regent, who are elected by parliament every six months, a tradition dating back to the 1200s. The Great and General Council, its 60-member parliament, is elected every five years. San Marino is not in the European Union but uses the euro.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary directorial republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism, banking and manufacturing are the main parts of San Marino's economy, which is closely tied to Italy. Its coins and stamps are prized by collectors."
+  },
+  "culture": {
+    "text": "San Marino claims to be the oldest surviving republic in the world. Its three towers on top of Monte Titano appear on its flag and coat of arms, and the historic centre is a UNESCO site.",
+    "items": [
+      {
+        "title": "The Three Towers",
+        "text": "Guaita, Cesta and Montale stand on the peaks of Monte Titano."
+      },
+      {
+        "title": "Captains Regent",
+        "text": "Two heads of state who change every 1 April and 1 October."
+      }
+    ],
+    "related": [
+      "ITA"
+    ]
+  },
+  "sport": {
+    "text": "San Marino's football team is one of the weakest in the world but plays with great pride; it famously scored against England after just 8 seconds in 1993. The San Marino Grand Prix in Formula 1 was actually held in nearby Imola, Italy.",
+    "items": [
+      {
+        "title": "1993",
+        "text": "Davide Gualtieri scored after 8 seconds against England."
+      },
+      {
+        "title": "2024",
+        "text": "San Marino beat Liechtenstein 1–0, its first ever win in a competitive match."
+      },
+      {
+        "title": "2021",
+        "text": "San Marino won its first Olympic medals, in shooting and wrestling."
+      }
+    ],
+    "related": [
+      "GBR",
+      "LIE"
+    ]
   }
 }

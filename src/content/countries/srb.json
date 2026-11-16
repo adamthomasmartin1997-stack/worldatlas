@@ -48,5 +48,55 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Serbia is a parliamentary republic. The National Assembly chooses the Prime Minister, while the President, elected directly every five years, has considerable influence. Serbia is a candidate to join the European Union. It does not recognise Kosovo, which declared independence in 2008.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Serbia's economy includes car manufacturing, farming, food processing, mining and a growing IT sector in Belgrade and Novi Sad. Foreign companies from Europe and China have invested heavily in factories and mines."
+  },
+  "culture": {
+    "text": "Serbian is written in both the Cyrillic and Latin alphabets. Medieval Serbian Orthodox monasteries, such as Studenica, are famous for their wall paintings. The inventor Nikola Tesla, a pioneer of electricity, was an ethnic Serb, and Belgrade's airport and a museum are named after him.",
+    "items": [
+      {
+        "title": "Nikola Tesla",
+        "text": "His work on alternating current helped power the modern world."
+      },
+      {
+        "title": "EXIT Festival",
+        "text": "A huge music festival held in a fortress in Novi Sad."
+      },
+      {
+        "title": "Slava",
+        "text": "A family's yearly feast for its patron saint, listed by UNESCO."
+      }
+    ],
+    "related": [
+      "USA",
+      "HRV"
+    ]
+  },
+  "sport": {
+    "text": "Serbia is a powerhouse in team sports: basketball, water polo and volleyball. Novak Djokovic, from Belgrade, has won more Grand Slam men's singles titles than anyone else. The basketball star Nikola Jokić has won three NBA Most Valuable Player awards.",
+    "items": [
+      {
+        "title": "Novak Djokovic",
+        "text": "24 Grand Slam singles titles and Olympic gold in 2024."
+      },
+      {
+        "title": "Water polo",
+        "text": "Olympic gold in 2016, 2020 and 2024."
+      },
+      {
+        "title": "Nikola Jokić",
+        "text": "NBA champion with Denver in 2023."
+      }
+    ]
   }
 }

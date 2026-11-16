@@ -49,5 +49,56 @@
         "text": "Belgium helps found the European Economic Community, which becomes the EU."
       }
     ]
+  },
+  "government": {
+    "text": "Belgium is a constitutional monarchy with a king as head of state and a Prime Minister leading the government. It is a federal state split into regions and language communities: Dutch-speaking Flanders, French-speaking Wallonia, bilingual Brussels and a small German-speaking area. Forming a government can take a long time; in 2010–11 it took 541 days.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Belgium sits at the heart of Europe's trade routes. The port of Antwerp is one of Europe's largest, and the country is strong in chemicals, medicines, diamonds and food products. Brussels is home to the main institutions of the European Union and the headquarters of NATO."
+  },
+  "culture": {
+    "text": "Belgium is famous for chocolate, waffles, beer and fries, which Belgians insist they invented. It is a powerhouse of comics: Tintin and the Smurfs are Belgian. Painters from the region include Jan van Eyck, Pieter Bruegel and the surrealist René Magritte.",
+    "items": [
+      {
+        "title": "Tintin",
+        "text": "Hergé's young reporter first appeared in 1929 and has been translated into more than 100 languages."
+      },
+      {
+        "title": "Belgian beer culture",
+        "text": "Listed by UNESCO as intangible heritage in 2016."
+      },
+      {
+        "title": "Grand-Place",
+        "text": "The ornate main square of Brussels."
+      }
+    ],
+    "related": [
+      "NLD",
+      "FRA",
+      "DEU"
+    ]
+  },
+  "sport": {
+    "text": "Cycling is a passion in Belgium, which has produced great riders such as Eddy Merckx, who won the Tour de France five times. Football is also hugely popular; the national team, nicknamed the Red Devils, finished third at the 2018 World Cup.",
+    "items": [
+      {
+        "title": "Eddy Merckx",
+        "text": "Often called the greatest cyclist of all time."
+      },
+      {
+        "title": "2018",
+        "text": "Belgium finished third at the World Cup, its best ever result."
+      },
+      {
+        "title": "Spa-Francorchamps",
+        "text": "A famous Formula 1 circuit in the Ardennes hills."
+      }
+    ]
   }
 }
