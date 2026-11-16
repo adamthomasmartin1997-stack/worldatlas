@@ -101,5 +101,26 @@
       "URY",
       "DEU"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Brazil is named after brazilwood, a tree once used to make red dye.",
+    "Brazil shares a border with every South American country except Chile and Ecuador."
+  ],
+  "keyPeople": [
+    {
+      "name": "Pelé",
+      "role": "Footballer",
+      "text": "The only player to win three World Cups."
+    },
+    {
+      "name": "Marta",
+      "role": "Footballer",
+      "text": "Has scored more World Cup goals than any other player, man or woman."
+    },
+    {
+      "name": "Ayrton Senna",
+      "role": "Racing driver",
+      "text": "Three-time Formula 1 world champion."
+    }
+  ]
 }

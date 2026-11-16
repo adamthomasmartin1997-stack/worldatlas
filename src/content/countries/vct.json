@@ -85,5 +85,21 @@
         "text": "The island's cricket ground, which has hosted Test matches."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Mustique, one of the Grenadines, is a private island popular with celebrities.",
+    "La Soufrière volcano erupted in 2021 for the first time since 1979."
+  ],
+  "keyPeople": [
+    {
+      "name": "Joseph Chatoyer",
+      "role": "Garifuna chief",
+      "text": "Led resistance to British rule; a National Hero."
+    },
+    {
+      "name": "Kevin Lyttle",
+      "role": "Singer",
+      "text": "His song 'Turn Me On' was a worldwide hit."
+    }
+  ]
 }

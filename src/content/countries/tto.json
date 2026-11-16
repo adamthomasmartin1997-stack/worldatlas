@@ -98,5 +98,26 @@
         "text": "Keshorn Walcott won Olympic javelin gold."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "The steelpan, made from oil drums, is often called the only acoustic instrument invented in the 1900s.",
+    "Trinidad is home to the world's largest natural deposit of asphalt, Pitch Lake."
+  ],
+  "keyPeople": [
+    {
+      "name": "V. S. Naipaul",
+      "role": "Writer",
+      "text": "Won the Nobel Prize in Literature in 2001."
+    },
+    {
+      "name": "Brian Lara",
+      "role": "Cricketer",
+      "text": "Scored a record 400 not out in a Test match."
+    },
+    {
+      "name": "Nicki Minaj",
+      "role": "Rapper",
+      "text": "Born in Trinidad."
+    }
+  ]
 }

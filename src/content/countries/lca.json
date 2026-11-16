@@ -79,5 +79,26 @@
         "text": "Julien Alfred won the Olympic 100 m."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Saint Lucia is the only country named after a woman.",
+    "Saint Lucia has a 'drive-in volcano' at Sulphur Springs."
+  ],
+  "keyPeople": [
+    {
+      "name": "Derek Walcott",
+      "role": "Poet",
+      "text": "Won the Nobel Prize in Literature in 1992."
+    },
+    {
+      "name": "Arthur Lewis",
+      "role": "Economist",
+      "text": "Won the Nobel Prize in Economics in 1979."
+    },
+    {
+      "name": "Julien Alfred",
+      "role": "Sprinter",
+      "text": "Olympic 100 m champion in 2024."
+    }
+  ]
 }

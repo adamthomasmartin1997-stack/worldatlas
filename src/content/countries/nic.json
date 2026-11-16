@@ -94,5 +94,21 @@
     "related": [
       "USA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Lake Nicaragua is home to bull sharks that swim up the river from the Caribbean.",
+    "Nicaragua is sometimes called the 'land of lakes and volcanoes'."
+  ],
+  "keyPeople": [
+    {
+      "name": "Rubén Darío",
+      "role": "Poet",
+      "text": "Founded the modernismo movement."
+    },
+    {
+      "name": "Román González",
+      "role": "Boxer",
+      "text": "World champion in four weight divisions."
+    }
+  ]
 }

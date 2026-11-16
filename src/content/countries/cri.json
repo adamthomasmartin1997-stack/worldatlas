@@ -82,5 +82,26 @@
       "ITA",
       "GBR"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Costa Rica holds about 5% of the world's plant and animal species on just 0.03% of its land surface.",
+    "Costa Rica has had no army since 1948."
+  ],
+  "keyPeople": [
+    {
+      "name": "Óscar Arias",
+      "role": "President",
+      "text": "Won the Nobel Peace Prize in 1987."
+    },
+    {
+      "name": "Keylor Navas",
+      "role": "Goalkeeper",
+      "text": "Won three Champions Leagues with Real Madrid."
+    },
+    {
+      "name": "Franklin Chang-Díaz",
+      "role": "Astronaut",
+      "text": "Flew on seven Space Shuttle missions."
+    }
+  ]
 }

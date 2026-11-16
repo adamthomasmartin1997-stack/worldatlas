@@ -100,5 +100,26 @@
         "text": "The first athlete to win the same individual Olympic event five times, in wrestling."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Cuba is the largest island in the Caribbean.",
+    "The bee hummingbird, found in Cuba, is the smallest bird in the world."
+  ],
+  "keyPeople": [
+    {
+      "name": "José Martí",
+      "role": "Poet and independence hero",
+      "text": "Wrote the words of 'Guantanamera'."
+    },
+    {
+      "name": "Celia Cruz",
+      "role": "Singer",
+      "text": "Known as the 'Queen of Salsa'."
+    },
+    {
+      "name": "Fidel Castro",
+      "role": "Revolutionary leader",
+      "text": "Led Cuba from 1959 to 2008."
+    }
+  ]
 }

@@ -72,5 +72,21 @@
         "text": "Thea LaFond won Olympic gold in the triple jump."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Dominica has 365 rivers, according to local tradition.",
+    "The Boiling Lake is the second-largest hot lake in the world."
+  ],
+  "keyPeople": [
+    {
+      "name": "Jean Rhys",
+      "role": "Writer",
+      "text": "Born in Dominica; wrote Wide Sargasso Sea."
+    },
+    {
+      "name": "Thea LaFond",
+      "role": "Triple jumper",
+      "text": "Won Dominica's first Olympic gold, in 2024."
+    }
+  ]
 }

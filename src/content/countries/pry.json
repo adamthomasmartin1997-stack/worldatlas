@@ -96,5 +96,21 @@
         "text": "A goalkeeper who scored more than 60 goals, many from free kicks."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Paraguay is one of only two landlocked countries in South America.",
+    "Paraguay's flag has different designs on the front and back."
+  ],
+  "keyPeople": [
+    {
+      "name": "Augusto Roa Bastos",
+      "role": "Writer",
+      "text": "Won the Cervantes Prize in 1989."
+    },
+    {
+      "name": "José Luis Chilavert",
+      "role": "Goalkeeper",
+      "text": "Scored more than 60 goals in his career."
+    }
+  ]
 }

@@ -100,5 +100,26 @@
       "BRA",
       "ARG"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Uruguay has about four cows for every person.",
+    "Uruguay's national anthem is one of the longest in the world, though usually only part is sung."
+  ],
+  "keyPeople": [
+    {
+      "name": "José Mujica",
+      "role": "President",
+      "text": "Known as the 'world's poorest president' because he gave most of his salary away."
+    },
+    {
+      "name": "Luis Suárez",
+      "role": "Footballer",
+      "text": "Uruguay's record goalscorer."
+    },
+    {
+      "name": "Eduardo Galeano",
+      "role": "Writer",
+      "text": "Wrote Open Veins of Latin America."
+    }
+  ]
 }

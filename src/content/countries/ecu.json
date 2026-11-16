@@ -106,5 +106,21 @@
     "related": [
       "QAT"
     ]
-  }
+  },
+  "didYouKnow": [
+    "The top of Mount Chimborazo in Ecuador is the point on Earth farthest from its centre, because of the Earth's bulge.",
+    "Ecuador was the first country to give rights to nature in its constitution, in 2008."
+  ],
+  "keyPeople": [
+    {
+      "name": "Jefferson Pérez",
+      "role": "Race walker",
+      "text": "Won Ecuador's first Olympic gold, in 1996."
+    },
+    {
+      "name": "Richard Carapaz",
+      "role": "Cyclist",
+      "text": "Olympic road race champion in 2021."
+    }
+  ]
 }

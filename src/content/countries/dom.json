@@ -94,5 +94,26 @@
     "related": [
       "USA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Santo Domingo has the oldest cathedral in the Americas, finished in 1541.",
+    "Larimar, a blue stone, is found only in the Dominican Republic."
+  ],
+  "keyPeople": [
+    {
+      "name": "Juan Luis Guerra",
+      "role": "Musician",
+      "text": "Made merengue and bachata famous worldwide."
+    },
+    {
+      "name": "David Ortiz",
+      "role": "Baseball player",
+      "text": "Won three World Series with the Boston Red Sox."
+    },
+    {
+      "name": "Oscar de la Renta",
+      "role": "Fashion designer",
+      "text": "Dressed First Ladies and film stars."
+    }
+  ]
 }

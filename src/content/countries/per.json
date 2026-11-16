@@ -100,5 +100,26 @@
         "text": "Lima hosted the Pan American Games."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Peru grows more than 3,000 kinds of potato.",
+    "Lake Titicaca, on the border with Bolivia, is the highest navigable lake in the world."
+  ],
+  "keyPeople": [
+    {
+      "name": "Mario Vargas Llosa",
+      "role": "Writer",
+      "text": "Won the Nobel Prize in Literature in 2010."
+    },
+    {
+      "name": "Pachacuti",
+      "role": "Inca emperor",
+      "text": "Turned the Inca state into an empire in the 1400s."
+    },
+    {
+      "name": "Paolo Guerrero",
+      "role": "Footballer",
+      "text": "Peru's record goalscorer."
+    }
+  ]
 }

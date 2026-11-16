@@ -103,5 +103,26 @@
     "related": [
       "ITA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Haiti was the first country in the world founded after a successful revolt by enslaved people.",
+    "The Citadelle Laferrière is one of the largest fortresses in the Americas."
+  ],
+  "keyPeople": [
+    {
+      "name": "Toussaint Louverture",
+      "role": "Revolutionary leader",
+      "text": "Led the uprising that ended slavery in Haiti."
+    },
+    {
+      "name": "Wyclef Jean",
+      "role": "Musician",
+      "text": "Founding member of the Fugees."
+    },
+    {
+      "name": "Edwidge Danticat",
+      "role": "Writer",
+      "text": "Award-winning novelist."
+    }
+  ]
 }

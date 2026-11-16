@@ -85,5 +85,21 @@
         "text": "The 'Golden Girls' won Olympic gold in the women's 4 x 100 m relay."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "The Bahamas is made up of about 700 islands and more than 2,000 rocks and cays.",
+    "Pigs swim in the sea at Big Major Cay in the Exumas."
+  ],
+  "keyPeople": [
+    {
+      "name": "Sidney Poitier",
+      "role": "Actor",
+      "text": "Grew up in the Bahamas; the first Black man to win the Oscar for Best Actor."
+    },
+    {
+      "name": "Shaunae Miller-Uibo",
+      "role": "Sprinter",
+      "text": "Olympic 400 m champion twice."
+    }
+  ]
 }

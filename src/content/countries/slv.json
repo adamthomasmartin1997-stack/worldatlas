@@ -87,5 +87,21 @@
         "text": "A government project to bring surfers to the coast."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "El Salvador has more than 20 volcanoes.",
+    "El Salvador is the only Central American country without a Caribbean coast."
+  ],
+  "keyPeople": [
+    {
+      "name": "Óscar Romero",
+      "role": "Archbishop",
+      "text": "Spoke out for the poor; made a saint in 2018."
+    },
+    {
+      "name": "Claribel Alegría",
+      "role": "Poet",
+      "text": "Won the Neustadt Prize for Literature in 2006."
+    }
+  ]
 }

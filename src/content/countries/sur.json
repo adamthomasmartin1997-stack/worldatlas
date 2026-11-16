@@ -95,5 +95,21 @@
     "related": [
       "NLD"
     ]
-  }
+  },
+  "didYouKnow": [
+    "More than 90% of Suriname is covered by forest, one of the highest shares in the world.",
+    "In Paramaribo, a mosque and a synagogue stand side by side."
+  ],
+  "keyPeople": [
+    {
+      "name": "Anthony Nesty",
+      "role": "Swimmer",
+      "text": "Won Suriname's first Olympic gold, in 1988."
+    },
+    {
+      "name": "Clarence Seedorf",
+      "role": "Footballer",
+      "text": "Born in Paramaribo; won the Champions League with three clubs."
+    }
+  ]
 }

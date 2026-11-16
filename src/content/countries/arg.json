@@ -106,5 +106,26 @@
       "FRA",
       "GBR"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Argentina has the highest mountain outside Asia, Aconcagua, at 6,961 metres.",
+    "The ballpoint pen was patented in Argentina by László Bíró after he moved there from Hungary."
+  ],
+  "keyPeople": [
+    {
+      "name": "Lionel Messi",
+      "role": "Footballer",
+      "text": "Won the 2022 World Cup and eight Ballons d'Or."
+    },
+    {
+      "name": "Jorge Luis Borges",
+      "role": "Writer",
+      "text": "Famous for short stories about labyrinths and libraries."
+    },
+    {
+      "name": "Pope Francis",
+      "role": "Pope",
+      "text": "Born in Buenos Aires; led the Catholic Church from 2013 to 2025."
+    }
+  ]
 }

@@ -91,5 +91,21 @@
         "text": "Hosted 2007 Cricket World Cup matches."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Guyana is the only South American country with English as its official language.",
+    "The giant water lily, Victoria amazonica, is Guyana's national flower."
+  ],
+  "keyPeople": [
+    {
+      "name": "Clive Lloyd",
+      "role": "Cricketer",
+      "text": "Captained the West Indies to two World Cup wins."
+    },
+    {
+      "name": "Shivnarine Chanderpaul",
+      "role": "Cricketer",
+      "text": "Scored more than 11,000 Test runs."
+    }
+  ]
 }

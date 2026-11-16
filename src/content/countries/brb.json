@@ -87,5 +87,26 @@
     "related": [
       "IND"
     ]
-  }
+  },
+  "didYouKnow": [
+    "George Washington visited Barbados in 1751, the only time he ever left mainland North America.",
+    "The grapefruit is thought to have first appeared in Barbados in the 1700s."
+  ],
+  "keyPeople": [
+    {
+      "name": "Rihanna",
+      "role": "Singer and businesswoman",
+      "text": "Named a National Hero of Barbados in 2021."
+    },
+    {
+      "name": "Garfield Sobers",
+      "role": "Cricketer",
+      "text": "Often called the greatest all-rounder ever."
+    },
+    {
+      "name": "Mia Mottley",
+      "role": "Prime Minister",
+      "text": "Barbados's first female Prime Minister, from 2018."
+    }
+  ]
 }

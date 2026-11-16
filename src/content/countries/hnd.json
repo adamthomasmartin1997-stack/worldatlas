@@ -91,5 +91,21 @@
     "related": [
       "SLV"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Honduras is home to Utila, one of the cheapest places in the world to learn to scuba dive.",
+    "In Yoro, locals report a 'rain of fish' almost every year."
+  ],
+  "keyPeople": [
+    {
+      "name": "Francisco Morazán",
+      "role": "Statesman",
+      "text": "Led the Federal Republic of Central America in the 1830s."
+    },
+    {
+      "name": "David Suazo",
+      "role": "Footballer",
+      "text": "Starred for Cagliari and Inter Milan."
+    }
+  ]
 }

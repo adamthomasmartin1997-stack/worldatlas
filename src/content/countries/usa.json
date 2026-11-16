@@ -102,5 +102,26 @@
       "CAN",
       "MEX"
     ]
-  }
+  },
+  "didYouKnow": [
+    "The United States has 63 national parks, from Yellowstone, the world's first, to the Gateway Arch.",
+    "Alaska was bought from Russia in 1867 for 7.2 million dollars."
+  ],
+  "keyPeople": [
+    {
+      "name": "Martin Luther King Jr.",
+      "role": "Civil rights leader",
+      "text": "Gave the 'I Have a Dream' speech in 1963."
+    },
+    {
+      "name": "Neil Armstrong",
+      "role": "Astronaut",
+      "text": "First person to walk on the Moon, in 1969."
+    },
+    {
+      "name": "Serena Williams",
+      "role": "Tennis player",
+      "text": "Won 23 Grand Slam singles titles."
+    }
+  ]
 }

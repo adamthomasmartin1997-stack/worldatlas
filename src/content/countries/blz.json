@@ -87,5 +87,21 @@
         "text": "A four-day canoe race across the country."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Belize was the first country in the world to create a jaguar reserve, in 1984.",
+    "Belize is the only country in Central America with English as its official language."
+  ],
+  "keyPeople": [
+    {
+      "name": "George Price",
+      "role": "Politician",
+      "text": "Led Belize to independence in 1981."
+    },
+    {
+      "name": "Andy Palacio",
+      "role": "Musician",
+      "text": "Brought Garifuna music to the world."
+    }
+  ]
 }

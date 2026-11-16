@@ -105,5 +105,26 @@
     "related": [
       "CAN"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Jamaica's Blue Mountain coffee is one of the most expensive coffees in the world.",
+    "Jamaica's first Olympic bobsleigh team, in 1988, inspired the film Cool Runnings."
+  ],
+  "keyPeople": [
+    {
+      "name": "Bob Marley",
+      "role": "Musician",
+      "text": "Took reggae to the world."
+    },
+    {
+      "name": "Usain Bolt",
+      "role": "Sprinter",
+      "text": "World record holder in the 100 m and 200 m."
+    },
+    {
+      "name": "Marcus Garvey",
+      "role": "Activist",
+      "text": "Led a worldwide movement for Black pride and independence."
+    }
+  ]
 }

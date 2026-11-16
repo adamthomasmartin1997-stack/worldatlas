@@ -89,5 +89,21 @@
         "text": "Kim Collins became 100 m world champion."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Saint Kitts and Nevis is the smallest country in the Americas by area and population.",
+    "A sugar train once circled Saint Kitts carrying cane to the mill; tourists ride it today."
+  ],
+  "keyPeople": [
+    {
+      "name": "Alexander Hamilton",
+      "role": "Founding Father of the US",
+      "text": "Born on Nevis."
+    },
+    {
+      "name": "Kim Collins",
+      "role": "Sprinter",
+      "text": "100 m world champion in 2003."
+    }
+  ]
 }

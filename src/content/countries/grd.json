@@ -87,5 +87,21 @@
         "text": "Two bronze medals at the Paris Olympics."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Grenada's flag includes a picture of a nutmeg.",
+    "Grenada's underwater sculpture park was one of the first in the world."
+  ],
+  "keyPeople": [
+    {
+      "name": "Kirani James",
+      "role": "Sprinter",
+      "text": "Won Olympic 400 m gold in 2012."
+    },
+    {
+      "name": "Anderson Peters",
+      "role": "Javelin thrower",
+      "text": "Two-time world champion."
+    }
+  ]
 }

@@ -95,5 +95,21 @@
         "text": "One of the highest international football stadiums in the world."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "La Paz is the highest seat of government in the world, at about 3,600 metres.",
+    "Bolivia has a navy, even though it has no coastline; it patrols Lake Titicaca and rivers."
+  ],
+  "keyPeople": [
+    {
+      "name": "Simón Bolívar",
+      "role": "Liberator",
+      "text": "Bolivia is named after him."
+    },
+    {
+      "name": "Evo Morales",
+      "role": "President",
+      "text": "Bolivia's first Indigenous president, from 2006 to 2019."
+    }
+  ]
 }

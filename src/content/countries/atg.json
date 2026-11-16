@@ -89,5 +89,21 @@
         "text": "A regatta held every year since 1968."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Barbuda's Codrington Lagoon is home to one of the largest frigatebird colonies in the world.",
+    "Antigua's English Harbour was once a base for the British admiral Horatio Nelson."
+  ],
+  "keyPeople": [
+    {
+      "name": "Viv Richards",
+      "role": "Cricketer",
+      "text": "One of the most feared batsmen in cricket history."
+    },
+    {
+      "name": "Jamaica Kincaid",
+      "role": "Writer",
+      "text": "Born in Antigua; her novels include Annie John."
+    }
+  ]
 }

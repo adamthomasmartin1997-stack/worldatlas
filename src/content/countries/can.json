@@ -107,5 +107,26 @@
       "USA",
       "MEX"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Canada has the longest coastline of any country, more than 200,000 km.",
+    "About 60% of the world's lakes are in Canada."
+  ],
+  "keyPeople": [
+    {
+      "name": "Terry Fox",
+      "role": "Runner and campaigner",
+      "text": "Ran across Canada on an artificial leg to raise money for cancer research."
+    },
+    {
+      "name": "Wayne Gretzky",
+      "role": "Ice hockey player",
+      "text": "Holds dozens of NHL records."
+    },
+    {
+      "name": "Drake",
+      "role": "Musician",
+      "text": "Toronto-born rapper and singer."
+    }
+  ]
 }

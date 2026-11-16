@@ -97,5 +97,26 @@
     "related": [
       "USA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Angel Falls is the highest uninterrupted waterfall in the world, at 979 metres.",
+    "Lake Maracaibo has lightning storms on up to 260 nights a year."
+  ],
+  "keyPeople": [
+    {
+      "name": "Simón Bolívar",
+      "role": "Liberator",
+      "text": "Born in Caracas; freed much of South America from Spain."
+    },
+    {
+      "name": "Gustavo Dudamel",
+      "role": "Conductor",
+      "text": "Trained in El Sistema; leads major orchestras."
+    },
+    {
+      "name": "Yulimar Rojas",
+      "role": "Triple jumper",
+      "text": "World record holder and Olympic champion."
+    }
+  ]
 }

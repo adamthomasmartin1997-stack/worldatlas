@@ -100,5 +100,26 @@
     "related": [
       "FRA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Colombia is the only South American country with coastlines on both the Pacific and the Caribbean.",
+    "Caño Cristales is called the 'river of five colours' because of plants that turn it red, yellow and green."
+  ],
+  "keyPeople": [
+    {
+      "name": "Gabriel García Márquez",
+      "role": "Writer",
+      "text": "Wrote One Hundred Years of Solitude."
+    },
+    {
+      "name": "Shakira",
+      "role": "Singer",
+      "text": "One of the best-selling Latin artists of all time."
+    },
+    {
+      "name": "Egan Bernal",
+      "role": "Cyclist",
+      "text": "Won the Tour de France in 2019."
+    }
+  ]
 }

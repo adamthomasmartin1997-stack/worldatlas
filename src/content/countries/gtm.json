@@ -96,5 +96,21 @@
         "text": "Adriana Ruano won Olympic gold in trap shooting."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Guatemala has 37 volcanoes, three of them active.",
+    "Chocolate was drunk by the Maya in Guatemala more than 2,500 years ago."
+  ],
+  "keyPeople": [
+    {
+      "name": "Rigoberta Menchú",
+      "role": "Activist",
+      "text": "Won the Nobel Peace Prize in 1992 for her work for Indigenous rights."
+    },
+    {
+      "name": "Miguel Ángel Asturias",
+      "role": "Writer",
+      "text": "Won the Nobel Prize in Literature in 1967."
+    }
+  ]
 }

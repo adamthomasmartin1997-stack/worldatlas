@@ -105,5 +105,26 @@
       "USA",
       "CAN"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Mexico City is sinking by up to 50 cm a year in some areas, because water is pumped from under it.",
+    "Mexico introduced chocolate, chillies and corn to the rest of the world."
+  ],
+  "keyPeople": [
+    {
+      "name": "Frida Kahlo",
+      "role": "Painter",
+      "text": "Famous for bold self-portraits."
+    },
+    {
+      "name": "Octavio Paz",
+      "role": "Poet",
+      "text": "Won the Nobel Prize in Literature in 1990."
+    },
+    {
+      "name": "Guillermo del Toro",
+      "role": "Film director",
+      "text": "Won Oscars for The Shape of Water."
+    }
+  ]
 }

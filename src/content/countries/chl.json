@@ -105,5 +105,26 @@
     "related": [
       "ARG"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Chile is about 4,300 km long but averages only about 175 km wide.",
+    "Parts of the Atacama Desert have never recorded rain."
+  ],
+  "keyPeople": [
+    {
+      "name": "Pablo Neruda",
+      "role": "Poet",
+      "text": "Won the Nobel Prize in Literature in 1971."
+    },
+    {
+      "name": "Gabriela Mistral",
+      "role": "Poet",
+      "text": "The first Latin American to win the Nobel Prize in Literature, in 1945."
+    },
+    {
+      "name": "Alexis Sánchez",
+      "role": "Footballer",
+      "text": "Chile's record goalscorer."
+    }
+  ]
 }
