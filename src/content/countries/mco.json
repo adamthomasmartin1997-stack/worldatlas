@@ -91,5 +91,21 @@
     "related": [
       "FRA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Monaco is smaller than Central Park in New York.",
+    "Monaco has more police officers per person than almost any other country."
+  ],
+  "keyPeople": [
+    {
+      "name": "Grace Kelly",
+      "role": "Actor and princess",
+      "text": "The Hollywood star married Prince Rainier III in 1956."
+    },
+    {
+      "name": "Charles Leclerc",
+      "role": "Racing driver",
+      "text": "Formula 1 driver for Ferrari, born in Monaco."
+    }
+  ]
 }

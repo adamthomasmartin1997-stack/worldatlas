@@ -95,5 +95,21 @@
         "text": "Cycling world road race champion three times in a row."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Slovakia makes more cars per person than any other country.",
+    "Slovakia has thousands of caves, several listed by UNESCO."
+  ],
+  "keyPeople": [
+    {
+      "name": "Peter Sagan",
+      "role": "Cyclist",
+      "text": "Road race world champion three times in a row."
+    },
+    {
+      "name": "Milan Rastislav Štefánik",
+      "role": "Astronomer and politician",
+      "text": "A founder of Czechoslovakia."
+    }
+  ]
 }

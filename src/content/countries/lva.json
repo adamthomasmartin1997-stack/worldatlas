@@ -105,5 +105,21 @@
         "text": "Latvia has won several Olympic medals on the ice track."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Riga's Christmas tree tradition is said to date back to 1510, one of the earliest recorded.",
+    "Riga has one of the largest collections of Art Nouveau buildings in the world."
+  ],
+  "keyPeople": [
+    {
+      "name": "Mikhail Baryshnikov",
+      "role": "Ballet dancer",
+      "text": "Born in Riga in 1948; one of the greatest dancers of the 1900s."
+    },
+    {
+      "name": "Kristaps Porziņģis",
+      "role": "Basketball player",
+      "text": "NBA champion in 2024."
+    }
+  ]
 }

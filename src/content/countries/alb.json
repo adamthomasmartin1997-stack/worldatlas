@@ -91,5 +91,26 @@
     "related": [
       "ROU"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Albanians nod their head to mean 'no' and shake it to mean 'yes'.",
+    "Under communism, Albania banned private cars; in 1990 there were only a few thousand in the whole country."
+  ],
+  "keyPeople": [
+    {
+      "name": "Skanderbeg",
+      "role": "Military leader",
+      "text": "Held off the Ottoman Empire for 25 years in the 1400s."
+    },
+    {
+      "name": "Mother Teresa",
+      "role": "Nun and Nobel Peace Prize winner",
+      "text": "Born to an Albanian family in Skopje; she worked with the poor in Kolkata."
+    },
+    {
+      "name": "Dua Lipa",
+      "role": "Singer",
+      "text": "Born in London to Albanian parents from Kosovo."
+    }
+  ]
 }

@@ -326,3 +326,12 @@ a.chip:hover { color: var(--ink); background: var(--sun); transform: translate(2
 .compare-bar.is-world span { background: var(--land-5); }
 .compare-value { font-size: 15px; font-variant-numeric: tabular-nums; }
 @media (max-width: 640px) { .compare-row dd { grid-template-columns: 1fr; } .compare-value { margin-bottom: var(--space-1); } }
+
+/* Did you know? stickers: white sticker cards, the first two slightly tilted. */
+.overview-main { display: grid; gap: var(--space-6); min-width: 0; }
+.dyk-list { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--space-4); }
+.dyk-item { padding: var(--space-4); border: var(--outline); border-radius: 14px; background: var(--tint-sun); box-shadow: var(--shadow-sm); max-width: 60ch; }
+.dyk-item:nth-child(1) { transform: rotate(-1.5deg); }
+.dyk-item:nth-child(2) { transform: rotate(1deg); }
+@media (prefers-reduced-motion: reduce) { .dyk-item { transform: none !important; } }
+.person-role { font-size: 14px; font-weight: 600; }

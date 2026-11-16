@@ -129,5 +129,26 @@
     "related": [
       "HRV"
     ]
-  }
+  },
+  "didYouKnow": [
+    "France has more time zones than any other country, 12, thanks to its overseas territories.",
+    "The first photograph that still survives was taken in France around 1826 by Nicéphore Niépce."
+  ],
+  "keyPeople": [
+    {
+      "name": "Marie Curie",
+      "role": "Scientist",
+      "text": "Polish-born; won Nobel Prizes in both physics and chemistry while working in Paris."
+    },
+    {
+      "name": "Napoleon Bonaparte",
+      "role": "Emperor",
+      "text": "Conquered much of Europe and created the Napoleonic Code of laws."
+    },
+    {
+      "name": "Kylian Mbappé",
+      "role": "Footballer",
+      "text": "Scored a hat-trick in the 2022 World Cup final."
+    }
+  ]
 }

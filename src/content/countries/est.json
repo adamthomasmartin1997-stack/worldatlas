@@ -92,5 +92,21 @@
         "text": "Olympic decathlon champion in 2000."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Estonia was the first country to allow online voting in a national election, in 2007.",
+    "About half of Estonia is covered in forest."
+  ],
+  "keyPeople": [
+    {
+      "name": "Arvo Pärt",
+      "role": "Composer",
+      "text": "One of the world's most performed living composers."
+    },
+    {
+      "name": "Ott Tänak",
+      "role": "Rally driver",
+      "text": "World Rally champion in 2019."
+    }
+  ]
 }

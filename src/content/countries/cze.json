@@ -99,5 +99,26 @@
     "related": [
       "RUS"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Sugar cubes were invented in what is now Czechia, in 1843.",
+    "Czechia has more than 2,000 castles, chateaux and castle ruins."
+  ],
+  "keyPeople": [
+    {
+      "name": "Franz Kafka",
+      "role": "Writer",
+      "text": "Wrote The Metamorphosis in Prague."
+    },
+    {
+      "name": "Václav Havel",
+      "role": "Playwright and president",
+      "text": "Led the Velvet Revolution and became president in 1989."
+    },
+    {
+      "name": "Martina Navratilova",
+      "role": "Tennis player",
+      "text": "Won Wimbledon singles a record nine times."
+    }
+  ]
 }

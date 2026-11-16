@@ -93,5 +93,26 @@
         "text": "Seven-time Formula 1 world champion."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Germany has more than 1,500 different kinds of sausage.",
+    "The first printed book in Europe using movable type, the Gutenberg Bible, was made in Mainz around 1455."
+  ],
+  "keyPeople": [
+    {
+      "name": "Albert Einstein",
+      "role": "Physicist",
+      "text": "Born in Ulm in 1879; developed the theory of relativity."
+    },
+    {
+      "name": "Ludwig van Beethoven",
+      "role": "Composer",
+      "text": "Wrote some of his greatest music after going deaf."
+    },
+    {
+      "name": "Angela Merkel",
+      "role": "Chancellor",
+      "text": "Led Germany from 2005 to 2021."
+    }
+  ]
 }

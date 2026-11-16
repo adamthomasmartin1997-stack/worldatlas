@@ -92,5 +92,26 @@
         "text": "Milan and Cortina d'Ampezzo hosted the Winter Olympics."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Italy has more UNESCO World Heritage Sites than any other country.",
+    "The piano was invented in Italy around 1700 by Bartolomeo Cristofori."
+  ],
+  "keyPeople": [
+    {
+      "name": "Leonardo da Vinci",
+      "role": "Artist and inventor",
+      "text": "Painted the Mona Lisa and designed flying machines."
+    },
+    {
+      "name": "Galileo Galilei",
+      "role": "Scientist",
+      "text": "Used a telescope to discover Jupiter's moons in 1610."
+    },
+    {
+      "name": "Maria Montessori",
+      "role": "Educator",
+      "text": "Developed the Montessori method of teaching children."
+    }
+  ]
 }

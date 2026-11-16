@@ -105,5 +105,26 @@
     "related": [
       "FRA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Warsaw's old town was almost completely rebuilt after the Second World War, using old paintings as guides.",
+    "Wieliczka salt mine has a chapel carved entirely from salt."
+  ],
+  "keyPeople": [
+    {
+      "name": "Marie Curie",
+      "role": "Scientist",
+      "text": "Born in Warsaw; the first person to win two Nobel Prizes."
+    },
+    {
+      "name": "Nicolaus Copernicus",
+      "role": "Astronomer",
+      "text": "Showed that the Earth moves around the Sun."
+    },
+    {
+      "name": "Frédéric Chopin",
+      "role": "Composer",
+      "text": "Wrote famous piano music."
+    }
+  ]
 }

@@ -13,6 +13,10 @@ export interface CountryContent {
   economy?: Section;
   culture?: Section & { items?: Item[] };
   sport?: Section & { items?: Item[] };
+  /** Two or three surprising, true facts, shown as stickers on the Overview tab. */
+  didYouKnow?: string[];
+  /** Famous people from the country: name, what they're known for, and a one-line note. */
+  keyPeople?: { name: string; role: string; text: string }[];
 }
 
 const files = import.meta.glob<CountryContent>('./countries/*.json', { eager: true, import: 'default' });

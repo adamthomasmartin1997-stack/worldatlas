@@ -105,5 +105,26 @@
       "NLD",
       "GBR"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Spain's national anthem has no official words.",
+    "Madrid's Sobrino de Botín, opened in 1725, is said to be the oldest restaurant in the world."
+  ],
+  "keyPeople": [
+    {
+      "name": "Pablo Picasso",
+      "role": "Artist",
+      "text": "Co-founded Cubism and painted Guernica."
+    },
+    {
+      "name": "Miguel de Cervantes",
+      "role": "Writer",
+      "text": "Wrote Don Quixote."
+    },
+    {
+      "name": "Rafael Nadal",
+      "role": "Tennis player",
+      "text": "Won the French Open 14 times."
+    }
+  ]
 }

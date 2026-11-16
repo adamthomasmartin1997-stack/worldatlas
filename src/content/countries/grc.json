@@ -96,5 +96,26 @@
       "PRT",
       "USA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Greece has about 6,000 islands, but only around 200 have people living on them.",
+    "The marathon is named after the town of Marathon, from which a messenger is said to have run to Athens."
+  ],
+  "keyPeople": [
+    {
+      "name": "Socrates",
+      "role": "Philosopher",
+      "text": "Taught by asking questions, in Athens in the 400s BC."
+    },
+    {
+      "name": "Hippocrates",
+      "role": "Physician",
+      "text": "Called the father of medicine; doctors still take the Hippocratic oath."
+    },
+    {
+      "name": "Giannis Antetokounmpo",
+      "role": "Basketball player",
+      "text": "Grew up in Athens and became an NBA champion."
+    }
+  ]
 }

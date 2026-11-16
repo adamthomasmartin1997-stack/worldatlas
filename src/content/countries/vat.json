@@ -88,5 +88,21 @@
         "text": "A football tournament between teams of priests and seminarians in Rome."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Vatican City is the smallest country in the world, at about 0.44 km².",
+    "The Vatican has its own post office, newspaper and radio station."
+  ],
+  "keyPeople": [
+    {
+      "name": "Michelangelo",
+      "role": "Artist",
+      "text": "Painted the Sistine Chapel ceiling."
+    },
+    {
+      "name": "Pope Francis",
+      "role": "Pope",
+      "text": "Led the Catholic Church from 2013 until his death in 2025, the first from the Americas."
+    }
+  ]
 }

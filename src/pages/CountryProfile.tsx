@@ -175,7 +175,15 @@ function Profile({ c }: { c: Country }) {
   const panels: Record<string, ReactNode> = {
     overview: (
       <div className="panel-split">
-        <Panel text={content?.overview?.join('\n\n')} generated={numbersSummary(c)} content={content} sources={content?.overview ? undefined : (['world-bank', 'wikidata'] as SourceId[])} />
+        <div className="overview-main">
+          <Panel text={content?.overview?.join('\n\n')} generated={numbersSummary(c)} content={content} sources={content?.overview ? undefined : (['world-bank', 'wikidata'] as SourceId[])} />
+          {content?.didYouKnow && content.didYouKnow.length > 0 && (
+            <section className="dyk" aria-label="Did you know?">
+              <h3 className="panel-h">Did you know?</h3>
+              <ul className="dyk-list">{content.didYouKnow.map((f) => <li key={f} className="dyk-item">{f}</li>)}</ul>
+            </section>
+          )}
+        </div>
         <Facts rows={[
           { label: 'Capital', value: c.capital.join(', ') || '—' },
           { label: `Population${year(c.population?.year)}`, value: c.population ? fmtPeople(c.population.value) : '—' },
@@ -230,6 +238,14 @@ function Profile({ c }: { c: Country }) {
           )}
         </div>
         <WorldCompare c={c} keys={['urban', 'internet', 'literacy']} title={`Life in ${c.name} compared with the world`} />
+        {content?.keyPeople && content.keyPeople.length > 0 && (
+          <section aria-labelledby="key-people-h">
+            <h3 className="panel-h" id="key-people-h">Famous people from {c.name}</h3>
+            <div className="item-grid">{content.keyPeople.map((p) => (
+              <div key={p.name} className="item-card"><span className="item-title">{p.name}</span><span className="person-role">{p.role}</span><span className="muted">{p.text}</span></div>
+            ))}</div>
+          </section>
+        )}
       </Panel>
     ),
     history: content?.history && (

@@ -100,5 +100,26 @@
     "related": [
       "GBR"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Switzerland has enough nuclear shelters for its whole population.",
+    "The World Wide Web was invented at CERN, near Geneva, in 1989."
+  ],
+  "keyPeople": [
+    {
+      "name": "Roger Federer",
+      "role": "Tennis player",
+      "text": "Won 20 Grand Slam singles titles."
+    },
+    {
+      "name": "Henri Dunant",
+      "role": "Founder of the Red Cross",
+      "text": "Won the first Nobel Peace Prize, in 1901."
+    },
+    {
+      "name": "Jean-Jacques Rousseau",
+      "role": "Philosopher",
+      "text": "Born in Geneva; his ideas inspired the French Revolution."
+    }
+  ]
 }

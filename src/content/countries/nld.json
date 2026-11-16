@@ -95,5 +95,26 @@
         "text": "Formula 1 world champion from 2021 to 2024."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "About a quarter of the Netherlands is below sea level.",
+    "The Dutch are the tallest people in the world on average."
+  ],
+  "keyPeople": [
+    {
+      "name": "Vincent van Gogh",
+      "role": "Painter",
+      "text": "Painted The Starry Night; sold very few paintings in his lifetime."
+    },
+    {
+      "name": "Anne Frank",
+      "role": "Diarist",
+      "text": "Her diary, written while hiding in Amsterdam, is read worldwide."
+    },
+    {
+      "name": "Johan Cruyff",
+      "role": "Footballer",
+      "text": "A master of 'total football'."
+    }
+  ]
 }

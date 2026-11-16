@@ -90,5 +90,26 @@
       "FRA",
       "USA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Slovenia is one of the most forested countries in Europe; about 58% is covered in trees.",
+    "Melania Trump, a former First Lady of the United States, was born in Slovenia."
+  ],
+  "keyPeople": [
+    {
+      "name": "Tadej Pogačar",
+      "role": "Cyclist",
+      "text": "Won the Tour de France four times."
+    },
+    {
+      "name": "Luka Dončić",
+      "role": "Basketball player",
+      "text": "One of the NBA's top scorers."
+    },
+    {
+      "name": "Janja Garnbret",
+      "role": "Climber",
+      "text": "Two-time Olympic sport climbing champion."
+    }
+  ]
 }

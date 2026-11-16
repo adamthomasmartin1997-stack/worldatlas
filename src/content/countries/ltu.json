@@ -99,5 +99,21 @@
         "text": "Lithuania won in 1937, 1939 and 2003."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Basketball is so popular in Lithuania that it is sometimes called the 'second religion'.",
+    "The geographical centre of Europe is said to be in Lithuania, near Vilnius."
+  ],
+  "keyPeople": [
+    {
+      "name": "Arvydas Sabonis",
+      "role": "Basketball player",
+      "text": "A Hall of Fame centre who played for Portland in the NBA."
+    },
+    {
+      "name": "Romain Gary",
+      "role": "Writer",
+      "text": "French novelist born in Vilnius in 1914."
+    }
+  ]
 }

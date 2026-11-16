@@ -92,5 +92,26 @@
     "related": [
       "USA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Bulgaria's Rose Valley produces a large share of the world's rose oil, used in perfume.",
+    "Yoghurt bacteria Lactobacillus bulgaricus is named after Bulgaria."
+  ],
+  "keyPeople": [
+    {
+      "name": "Hristo Stoichkov",
+      "role": "Footballer",
+      "text": "Won the Ballon d'Or in 1994."
+    },
+    {
+      "name": "Vasil Levski",
+      "role": "Revolutionary",
+      "text": "Fought for Bulgarian freedom from Ottoman rule; a national hero."
+    },
+    {
+      "name": "John Atanasoff",
+      "role": "Computer pioneer",
+      "text": "American inventor of an early electronic computer, of Bulgarian descent."
+    }
+  ]
 }

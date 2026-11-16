@@ -93,5 +93,26 @@
         "text": "Romania's women's eight won Olympic gold four times in a row, from 1996 to 2008."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Romania's Palace of the Parliament is one of the heaviest buildings in the world.",
+    "In the Merry Cemetery at Săpânța, graves are painted in bright colours with funny poems about the people buried there."
+  ],
+  "keyPeople": [
+    {
+      "name": "Nadia Comăneci",
+      "role": "Gymnast",
+      "text": "Scored the first perfect 10 in Olympic history, in 1976."
+    },
+    {
+      "name": "Constantin Brâncuși",
+      "role": "Sculptor",
+      "text": "A pioneer of modern sculpture."
+    },
+    {
+      "name": "Simona Halep",
+      "role": "Tennis player",
+      "text": "Won the French Open in 2018 and Wimbledon in 2019."
+    }
+  ]
 }

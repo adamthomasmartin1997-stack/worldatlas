@@ -91,5 +91,21 @@
         "text": "Women's handball silver at the London Olympics, Montenegro's first Olympic medal."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Montenegro uses the euro even though it is not in the European Union.",
+    "The Tara River Canyon is one of the deepest in Europe, at about 1,300 metres."
+  ],
+  "keyPeople": [
+    {
+      "name": "Petar II Petrović-Njegoš",
+      "role": "Prince-bishop and poet",
+      "text": "Wrote The Mountain Wreath, a classic of South Slavic literature."
+    },
+    {
+      "name": "Nikola Vučević",
+      "role": "Basketball player",
+      "text": "An NBA All-Star centre."
+    }
+  ]
 }

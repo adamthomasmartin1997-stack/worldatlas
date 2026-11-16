@@ -101,5 +101,26 @@
     "related": [
       "DEU"
     ]
-  }
+  },
+  "didYouKnow": [
+    "The UK has no single written constitution.",
+    "London's Underground, opened in 1863, was the world's first underground railway."
+  ],
+  "keyPeople": [
+    {
+      "name": "William Shakespeare",
+      "role": "Playwright",
+      "text": "Wrote Romeo and Juliet and Hamlet."
+    },
+    {
+      "name": "Isaac Newton",
+      "role": "Scientist",
+      "text": "Described gravity and the laws of motion."
+    },
+    {
+      "name": "Ada Lovelace",
+      "role": "Mathematician",
+      "text": "Wrote what is often called the first computer program."
+    }
+  ]
 }

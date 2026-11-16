@@ -75,5 +75,21 @@
     "related": [
       "MKD"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Andorra has no airport and no railway station.",
+    "Andorra's two heads of state are the President of France and a Spanish bishop."
+  ],
+  "keyPeople": [
+    {
+      "name": "Joan Enric Vives",
+      "role": "Co-prince of Andorra",
+      "text": "Bishop of Urgell and Andorra's co-prince from 2003 to 2025."
+    },
+    {
+      "name": "Albert Pintat",
+      "role": "Politician",
+      "text": "Head of government from 2005 to 2009."
+    }
+  ]
 }

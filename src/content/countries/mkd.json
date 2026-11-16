@@ -89,5 +89,21 @@
         "text": "Club Vardar Skopje won the EHF Champions League in 2017 and 2019."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Lake Ohrid is thought to be more than a million years old.",
+    "North Macedonia's flag shows a golden sun with eight rays."
+  ],
+  "keyPeople": [
+    {
+      "name": "Mother Teresa",
+      "role": "Nun and Nobel Peace Prize winner",
+      "text": "Born in Skopje in 1910."
+    },
+    {
+      "name": "Goran Pandev",
+      "role": "Footballer",
+      "text": "Won the Champions League with Inter Milan in 2010."
+    }
+  ]
 }

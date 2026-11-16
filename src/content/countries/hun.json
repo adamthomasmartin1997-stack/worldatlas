@@ -106,5 +106,26 @@
     "related": [
       "GBR"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Budapest's metro line 1, opened in 1896, is the oldest underground railway in continental Europe.",
+    "Hungarian scientists invented the Rubik's Cube, the ballpoint pen and holography."
+  ],
+  "keyPeople": [
+    {
+      "name": "Ernő Rubik",
+      "role": "Inventor",
+      "text": "Created the Rubik's Cube in 1974."
+    },
+    {
+      "name": "Franz Liszt",
+      "role": "Composer and pianist",
+      "text": "One of the first superstar performers of the 1800s."
+    },
+    {
+      "name": "Katalin Karikó",
+      "role": "Scientist",
+      "text": "Won the 2023 Nobel Prize in Medicine for work behind mRNA vaccines."
+    }
+  ]
 }

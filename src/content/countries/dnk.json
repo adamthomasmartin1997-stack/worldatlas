@@ -95,5 +95,26 @@
     "related": [
       "FRA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Denmark's flag, the Dannebrog, is said to be the oldest national flag still in use.",
+    "There are more bicycles than cars in Copenhagen."
+  ],
+  "keyPeople": [
+    {
+      "name": "Hans Christian Andersen",
+      "role": "Writer",
+      "text": "Wrote The Little Mermaid and The Snow Queen."
+    },
+    {
+      "name": "Niels Bohr",
+      "role": "Physicist",
+      "text": "Won the Nobel Prize in Physics in 1922 for work on the atom."
+    },
+    {
+      "name": "Ole Kirk Christiansen",
+      "role": "Toymaker",
+      "text": "Founded the company that became LEGO."
+    }
+  ]
 }

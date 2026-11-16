@@ -100,5 +100,26 @@
     "related": [
       "SWE"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Belarus has no coastline, but it has more than 10,000 lakes.",
+    "European bison, once nearly extinct, roam the Białowieża Forest on the border with Poland."
+  ],
+  "keyPeople": [
+    {
+      "name": "Marc Chagall",
+      "role": "Painter",
+      "text": "Grew up in Vitebsk and painted dreamlike scenes of village life."
+    },
+    {
+      "name": "Svetlana Alexievich",
+      "role": "Writer",
+      "text": "Won the Nobel Prize in Literature in 2015."
+    },
+    {
+      "name": "Aryna Sabalenka",
+      "role": "Tennis player",
+      "text": "Became world number one in 2023."
+    }
+  ]
 }

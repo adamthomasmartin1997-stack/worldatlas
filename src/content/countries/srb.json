@@ -98,5 +98,26 @@
         "text": "NBA champion with Denver in 2023."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Serbia is one of the world's biggest exporters of raspberries.",
+    "The word 'vampire' entered English partly from Serbian folk tales."
+  ],
+  "keyPeople": [
+    {
+      "name": "Nikola Tesla",
+      "role": "Inventor",
+      "text": "Pioneer of alternating-current electricity."
+    },
+    {
+      "name": "Novak Djokovic",
+      "role": "Tennis player",
+      "text": "Won a record 24 Grand Slam singles titles."
+    },
+    {
+      "name": "Nikola Jokić",
+      "role": "Basketball player",
+      "text": "Three-time NBA Most Valuable Player."
+    }
+  ]
 }

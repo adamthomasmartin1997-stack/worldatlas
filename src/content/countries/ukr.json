@@ -109,5 +109,26 @@
     "related": [
       "POL"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Ukraine is the largest country entirely within Europe.",
+    "Kyiv's Arsenalna station, about 105 metres underground, is one of the deepest metro stations in the world."
+  ],
+  "keyPeople": [
+    {
+      "name": "Taras Shevchenko",
+      "role": "Poet",
+      "text": "Ukraine's national poet."
+    },
+    {
+      "name": "Andriy Shevchenko",
+      "role": "Footballer",
+      "text": "Won the Ballon d'Or in 2004."
+    },
+    {
+      "name": "Serhiy Bubka",
+      "role": "Pole vaulter",
+      "text": "Broke the world record 35 times."
+    }
+  ]
 }

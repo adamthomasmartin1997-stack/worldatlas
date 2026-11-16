@@ -89,5 +89,26 @@
         "text": "Formula 1 world champion in 2007."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Finland has about 188,000 lakes.",
+    "Finland holds world championships in wife-carrying, air guitar and mobile phone throwing."
+  ],
+  "keyPeople": [
+    {
+      "name": "Jean Sibelius",
+      "role": "Composer",
+      "text": "His Finlandia became a symbol of Finnish independence."
+    },
+    {
+      "name": "Tove Jansson",
+      "role": "Writer and artist",
+      "text": "Created the Moomins."
+    },
+    {
+      "name": "Linus Torvalds",
+      "role": "Programmer",
+      "text": "Created Linux, which runs most of the world's servers and every Android phone."
+    }
+  ]
 }

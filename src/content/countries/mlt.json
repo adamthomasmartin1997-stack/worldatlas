@@ -96,5 +96,21 @@
         "text": "Run every year since 1986."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Malta's temples are older than Stonehenge and the pyramids of Giza.",
+    "Malta has no rivers or lakes; much of its water comes from turning seawater into fresh water."
+  ],
+  "keyPeople": [
+    {
+      "name": "Edward de Bono",
+      "role": "Thinker",
+      "text": "Coined the phrase 'lateral thinking'."
+    },
+    {
+      "name": "Roberta Metsola",
+      "role": "Politician",
+      "text": "President of the European Parliament from 2022."
+    }
+  ]
 }

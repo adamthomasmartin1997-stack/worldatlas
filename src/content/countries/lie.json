@@ -81,5 +81,21 @@
         "text": "Ten medals for a country of about 40,000 people."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Liechtenstein is one of only two countries in the world that are doubly landlocked.",
+    "Liechtenstein is one of the world's biggest makers of false teeth."
+  ],
+  "keyPeople": [
+    {
+      "name": "Hanni Wenzel",
+      "role": "Skier",
+      "text": "Won two Olympic golds in 1980."
+    },
+    {
+      "name": "Hans-Adam II",
+      "role": "Prince",
+      "text": "Ruling prince since 1989."
+    }
+  ]
 }

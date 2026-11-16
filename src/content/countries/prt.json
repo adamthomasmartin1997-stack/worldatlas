@@ -97,5 +97,26 @@
       "FRA",
       "MOZ"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Portugal and England signed an alliance in 1386 that is still in force, the oldest in the world.",
+    "Portugal produces about half of the world's cork."
+  ],
+  "keyPeople": [
+    {
+      "name": "Vasco da Gama",
+      "role": "Explorer",
+      "text": "First European to reach India by sea, in 1498."
+    },
+    {
+      "name": "Cristiano Ronaldo",
+      "role": "Footballer",
+      "text": "Record goalscorer in men's international football."
+    },
+    {
+      "name": "José Saramago",
+      "role": "Writer",
+      "text": "Won the Nobel Prize in Literature in 1998."
+    }
+  ]
 }

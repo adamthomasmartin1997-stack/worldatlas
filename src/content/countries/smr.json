@@ -94,5 +94,21 @@
       "GBR",
       "LIE"
     ]
-  }
+  },
+  "didYouKnow": [
+    "San Marino is completely surrounded by Italy.",
+    "San Marino has more vehicles than people."
+  ],
+  "keyPeople": [
+    {
+      "name": "Saint Marinus",
+      "role": "Founder",
+      "text": "According to tradition, founded the community in 301."
+    },
+    {
+      "name": "Alessandra Perilli",
+      "role": "Sport shooter",
+      "text": "Won San Marino's first Olympic medals, in 2021."
+    }
+  ]
 }

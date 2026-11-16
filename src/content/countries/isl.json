@@ -99,5 +99,26 @@
       "GBR",
       "FRA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Iceland has no army; it is defended through NATO.",
+    "About two-thirds of Iceland's people live in and around Reykjavík."
+  ],
+  "keyPeople": [
+    {
+      "name": "Björk",
+      "role": "Musician",
+      "text": "Known for experimental pop music and striking music videos."
+    },
+    {
+      "name": "Leif Erikson",
+      "role": "Explorer",
+      "text": "Born in Iceland around 970; reached North America around 1000."
+    },
+    {
+      "name": "Vigdís Finnbogadóttir",
+      "role": "President",
+      "text": "The world's first democratically elected female president, in 1980."
+    }
+  ]
 }

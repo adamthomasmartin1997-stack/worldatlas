@@ -102,5 +102,26 @@
         "text": "Russian and Soviet players held the world title for most of the 1900s."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Russia spans 11 time zones.",
+    "Lake Baikal in Siberia holds about a fifth of the world's unfrozen fresh surface water."
+  ],
+  "keyPeople": [
+    {
+      "name": "Yuri Gagarin",
+      "role": "Cosmonaut",
+      "text": "First person in space, in 1961."
+    },
+    {
+      "name": "Leo Tolstoy",
+      "role": "Writer",
+      "text": "Wrote War and Peace."
+    },
+    {
+      "name": "Dmitri Mendeleev",
+      "role": "Chemist",
+      "text": "Created the periodic table of the elements."
+    }
+  ]
 }

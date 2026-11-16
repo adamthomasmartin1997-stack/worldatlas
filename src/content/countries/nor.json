@@ -98,5 +98,26 @@
         "text": "Chess world champion from 2013 to 2023."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Norway introduced salmon sushi to Japan in the 1980s.",
+    "In parts of northern Norway, the sun doesn't set for weeks in summer."
+  ],
+  "keyPeople": [
+    {
+      "name": "Roald Amundsen",
+      "role": "Explorer",
+      "text": "Led the first expedition to reach the South Pole, in 1911."
+    },
+    {
+      "name": "Edvard Munch",
+      "role": "Painter",
+      "text": "Painted The Scream."
+    },
+    {
+      "name": "Erling Haaland",
+      "role": "Footballer",
+      "text": "Set the Premier League record for goals in a season."
+    }
+  ]
 }

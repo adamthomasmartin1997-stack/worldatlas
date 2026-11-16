@@ -92,5 +92,21 @@
         "text": "Pavlos Kontides won silver in sailing, Cyprus's first Olympic medal."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Cyprus has two British military bases that are still British territory.",
+    "Nicosia is the last divided capital city in Europe."
+  ],
+  "keyPeople": [
+    {
+      "name": "Zeno of Citium",
+      "role": "Philosopher",
+      "text": "Founded the Stoic school of philosophy in Athens around 300 BC."
+    },
+    {
+      "name": "Christopher Pissarides",
+      "role": "Economist",
+      "text": "Won the Nobel Prize in Economics in 2010."
+    }
+  ]
 }

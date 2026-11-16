@@ -100,5 +100,26 @@
         "text": "A famous Formula 1 circuit in the Ardennes hills."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Belgium has three official languages: Dutch, French and German.",
+    "The saxophone was invented by Adolphe Sax, a Belgian, in the 1840s."
+  ],
+  "keyPeople": [
+    {
+      "name": "Hergé",
+      "role": "Comic artist",
+      "text": "Created Tintin in 1929."
+    },
+    {
+      "name": "Audrey Hepburn",
+      "role": "Actor",
+      "text": "Born in Brussels in 1929."
+    },
+    {
+      "name": "Eddy Merckx",
+      "role": "Cyclist",
+      "text": "Won the Tour de France five times."
+    }
+  ]
 }

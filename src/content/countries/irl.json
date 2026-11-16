@@ -103,5 +103,26 @@
         "text": "Ireland won the rugby Grand Slam in 2009, 2018 and 2023."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Halloween grew out of Samhain, an ancient Celtic festival celebrated in Ireland.",
+    "There are no wild snakes in Ireland."
+  ],
+  "keyPeople": [
+    {
+      "name": "James Joyce",
+      "role": "Writer",
+      "text": "Wrote Ulysses, set in Dublin on a single day."
+    },
+    {
+      "name": "Mary Robinson",
+      "role": "President",
+      "text": "Ireland's first female president, from 1990 to 1997."
+    },
+    {
+      "name": "Paul Mescal",
+      "role": "Actor",
+      "text": "Nominated for an Oscar in 2023."
+    }
+  ]
 }

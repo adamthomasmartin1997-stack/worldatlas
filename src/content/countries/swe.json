@@ -101,5 +101,26 @@
     "related": [
       "GBR"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Sweden has an 'Ice Hotel' rebuilt from river ice every winter.",
+    "Sweden recycles so much waste that it has imported rubbish from other countries to burn for energy."
+  ],
+  "keyPeople": [
+    {
+      "name": "Alfred Nobel",
+      "role": "Inventor",
+      "text": "Invented dynamite and founded the Nobel Prizes."
+    },
+    {
+      "name": "Astrid Lindgren",
+      "role": "Writer",
+      "text": "Created Pippi Longstocking."
+    },
+    {
+      "name": "Greta Thunberg",
+      "role": "Climate activist",
+      "text": "Started school strikes for the climate in 2018."
+    }
+  ]
 }

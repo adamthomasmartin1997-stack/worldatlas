@@ -96,5 +96,26 @@
     "related": [
       "FRA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "The Dalmatian dog breed is named after Dalmatia, a region of Croatia.",
+    "Croatia has more than 1,000 islands, but fewer than 50 are lived on."
+  ],
+  "keyPeople": [
+    {
+      "name": "Nikola Tesla",
+      "role": "Inventor",
+      "text": "Born in 1856 in Smiljan, in today's Croatia, to a Serbian family."
+    },
+    {
+      "name": "Luka Modrić",
+      "role": "Footballer",
+      "text": "Won the Ballon d'Or in 2018."
+    },
+    {
+      "name": "Marco Polo",
+      "role": "Explorer",
+      "text": "Some say he was born on Korčula, though Venice is more likely."
+    }
+  ]
 }

@@ -95,5 +95,26 @@
     "related": [
       "CHE"
     ]
-  }
+  },
+  "didYouKnow": [
+    "The croissant may have started in Vienna as the 'kipferl', a crescent-shaped roll.",
+    "Vienna's Tiergarten Schönbrunn, opened in 1752, is the oldest zoo still running in the world."
+  ],
+  "keyPeople": [
+    {
+      "name": "Wolfgang Amadeus Mozart",
+      "role": "Composer",
+      "text": "Wrote more than 600 works, from operas to symphonies."
+    },
+    {
+      "name": "Sigmund Freud",
+      "role": "Founder of psychoanalysis",
+      "text": "Developed his theories in Vienna."
+    },
+    {
+      "name": "Marie Antoinette",
+      "role": "Queen of France",
+      "text": "Born an Austrian archduchess in Vienna in 1755."
+    }
+  ]
 }

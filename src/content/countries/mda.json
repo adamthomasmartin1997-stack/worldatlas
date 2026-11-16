@@ -84,5 +84,21 @@
         "text": "Traditional belt wrestling, the national sport."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Moldova has the largest wine cellars in the world by number of bottles, at Mileștii Mici.",
+    "Moldova's flag looks almost the same as Romania's; Moldova's has a coat of arms in the middle."
+  ],
+  "keyPeople": [
+    {
+      "name": "O-Zone",
+      "role": "Band",
+      "text": "Their 2003 song 'Dragostea din tei' became a worldwide hit."
+    },
+    {
+      "name": "Maia Sandu",
+      "role": "President",
+      "text": "Moldova's first female president, elected in 2020."
+    }
+  ]
 }

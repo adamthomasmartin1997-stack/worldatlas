@@ -86,5 +86,21 @@
         "text": "Won the 1,500 m at the 1952 Olympics, Luxembourg's only Olympic gold."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Luxembourg was the first country to make all public transport free, in 2020.",
+    "Luxembourg is the world's only remaining grand duchy."
+  ],
+  "keyPeople": [
+    {
+      "name": "Robert Schuman",
+      "role": "Statesman",
+      "text": "Born in Luxembourg; a founding father of the European Union."
+    },
+    {
+      "name": "Andy Schleck",
+      "role": "Cyclist",
+      "text": "Awarded the 2010 Tour de France."
+    }
+  ]
 }

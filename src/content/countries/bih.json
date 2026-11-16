@@ -92,5 +92,21 @@
         "text": "Divers have jumped from Mostar's Old Bridge into the river for centuries."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Sarajevo was one of the first cities in Europe to have a full-time electric tram network, in 1895.",
+    "Bosnia and Herzegovina has only about 20 km of coastline, at the town of Neum."
+  ],
+  "keyPeople": [
+    {
+      "name": "Ivo Andrić",
+      "role": "Novelist",
+      "text": "Won the Nobel Prize in Literature in 1961."
+    },
+    {
+      "name": "Edin Džeko",
+      "role": "Footballer",
+      "text": "His country's all-time leading goalscorer."
+    }
+  ]
 }
