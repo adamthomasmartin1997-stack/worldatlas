@@ -87,5 +87,16 @@
         "text": "A Pacific form of cricket with many players per side."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Tuvalu earns a large share of its income from its internet domain name, .tv.",
+    "Tuvalu's highest point is only about 4.6 metres above sea level."
+  ],
+  "keyPeople": [
+    {
+      "name": "Simon Kofe",
+      "role": "Minister",
+      "text": "Gave a famous climate speech standing knee-deep in the sea in 2021."
+    }
+  ]
 }

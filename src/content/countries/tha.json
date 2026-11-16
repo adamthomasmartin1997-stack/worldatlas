@@ -86,5 +86,21 @@
         "text": "Olympic taekwondo champion in 2021 and 2024."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Thailand is the only country in South-East Asia never colonised by Europeans.",
+    "Bangkok's full ceremonial name is one of the longest place names in the world."
+  ],
+  "keyPeople": [
+    {
+      "name": "King Chulalongkorn",
+      "role": "King",
+      "text": "Modernised Siam and abolished slavery."
+    },
+    {
+      "name": "Panipak Wongpattanakit",
+      "role": "Taekwondo athlete",
+      "text": "Olympic champion in 2021 and 2024."
+    }
+  ]
 }

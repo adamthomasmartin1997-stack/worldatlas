@@ -88,5 +88,16 @@
         "text": "Horseback teams fight over a goat carcass."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "More than 90% of Kyrgyzstan is mountainous.",
+    "The Epic of Manas is one of the longest poems in the world."
+  ],
+  "keyPeople": [
+    {
+      "name": "Chinghiz Aitmatov",
+      "role": "Writer",
+      "text": "His novels, such as Jamilia, are read worldwide."
+    }
+  ]
 }

@@ -86,5 +86,21 @@
         "text": "Reached the Rugby World Cup quarter-finals in 1991 and 1995."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "In 2011 Samoa skipped 30 December to move west of the International Date Line.",
+    "The word 'tattoo' comes from the Samoan word 'tatau'."
+  ],
+  "keyPeople": [
+    {
+      "name": "Fiamē Naomi Mataʻafa",
+      "role": "Prime Minister",
+      "text": "Samoa's first female Prime Minister."
+    },
+    {
+      "name": "Dwayne Johnson",
+      "role": "Actor",
+      "text": "Has Samoan heritage through his mother."
+    }
+  ]
 }

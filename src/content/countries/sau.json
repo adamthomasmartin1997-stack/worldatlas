@@ -88,5 +88,21 @@
       "ARG",
       "PRT"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Saudi Arabia has no rivers.",
+    "The Rub' al Khali, or Empty Quarter, is the largest continuous sand desert in the world."
+  ],
+  "keyPeople": [
+    {
+      "name": "Abdulaziz Ibn Saud",
+      "role": "Founder",
+      "text": "Founded the Kingdom of Saudi Arabia in 1932."
+    },
+    {
+      "name": "Rayyanah Barnawi",
+      "role": "Astronaut",
+      "text": "The first Saudi woman in space, in 2023."
+    }
+  ]
 }

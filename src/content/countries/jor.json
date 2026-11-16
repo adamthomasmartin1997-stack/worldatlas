@@ -100,5 +100,21 @@
         "text": "Won Jordan's first Olympic gold, in taekwondo, in 2016."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Petra was voted one of the New Seven Wonders of the World in 2007.",
+    "The Dead Sea is so salty that you float without trying."
+  ],
+  "keyPeople": [
+    {
+      "name": "Queen Rania",
+      "role": "Queen",
+      "text": "Campaigns for education and children's rights."
+    },
+    {
+      "name": "Ahmad Abughaush",
+      "role": "Taekwondo athlete",
+      "text": "Won Jordan's first Olympic gold, in 2016."
+    }
+  ]
 }

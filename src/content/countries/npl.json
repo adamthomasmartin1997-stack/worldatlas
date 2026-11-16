@@ -89,5 +89,26 @@
         "text": "Nepal played at the T20 World Cup in 2014 and 2024."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Nepal's flag is the only national flag that is not a rectangle.",
+    "Eight of the world's ten highest mountains are in Nepal."
+  ],
+  "keyPeople": [
+    {
+      "name": "Tenzing Norgay",
+      "role": "Mountaineer",
+      "text": "Reached the top of Everest with Edmund Hillary in 1953."
+    },
+    {
+      "name": "Siddhartha Gautama",
+      "role": "The Buddha",
+      "text": "Born in Lumbini."
+    },
+    {
+      "name": "Kami Rita Sherpa",
+      "role": "Mountaineer",
+      "text": "Has climbed Everest a record number of times."
+    }
+  ]
 }

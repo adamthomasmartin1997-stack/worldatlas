@@ -102,5 +102,21 @@
         "text": "First women's World Cup."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Vietnam is the world's second-largest coffee producer.",
+    "Son Doong in Vietnam is the largest known cave in the world."
+  ],
+  "keyPeople": [
+    {
+      "name": "Ho Chi Minh",
+      "role": "Revolutionary leader",
+      "text": "Led Vietnam's fight for independence."
+    },
+    {
+      "name": "Trưng sisters",
+      "role": "Rebel leaders",
+      "text": "Led an uprising against Chinese rule in AD 40."
+    }
+  ]
 }

@@ -79,5 +79,16 @@
         "text": "Commonwealth Games weightlifting champion in 2014."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Kiribati is the only country in all four hemispheres.",
+    "Kiribati's Line Islands are the first place on Earth to welcome the new year."
+  ],
+  "keyPeople": [
+    {
+      "name": "Anote Tong",
+      "role": "President",
+      "text": "Campaigned worldwide on climate change."
+    }
+  ]
 }

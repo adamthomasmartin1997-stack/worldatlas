@@ -95,5 +95,26 @@
         "text": "Has played for Manchester United, Arsenal and Inter Milan."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Armenia was the first country to make Christianity its state religion, in 301.",
+    "Chess is a compulsory subject in Armenian primary schools."
+  ],
+  "keyPeople": [
+    {
+      "name": "Charles Aznavour",
+      "role": "Singer",
+      "text": "French-Armenian star who sold more than 180 million records."
+    },
+    {
+      "name": "Henrikh Mkhitaryan",
+      "role": "Footballer",
+      "text": "Armenia's record goalscorer."
+    },
+    {
+      "name": "Levon Aronian",
+      "role": "Chess grandmaster",
+      "text": "Led Armenia to three Chess Olympiad wins."
+    }
+  ]
 }

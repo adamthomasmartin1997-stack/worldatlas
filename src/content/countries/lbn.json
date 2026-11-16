@@ -84,5 +84,21 @@
         "text": "Lebanon played at the Basketball World Cup."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Lebanon is one of the few places where you can ski in the morning and swim in the sea in the afternoon.",
+    "The word 'Bible' comes from Byblos, a Lebanese port that traded papyrus."
+  ],
+  "keyPeople": [
+    {
+      "name": "Khalil Gibran",
+      "role": "Writer",
+      "text": "Wrote The Prophet, one of the best-selling books of all time."
+    },
+    {
+      "name": "Fairuz",
+      "role": "Singer",
+      "text": "One of the most famous voices in the Arab world."
+    }
+  ]
 }

@@ -84,5 +84,21 @@
         "text": "Timorese athletes competed at the Sydney Olympics."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Timor-Leste became independent in 2002, making it the first new country of the 21st century.",
+    "Timor-Leste joined ASEAN in 2025 as its 11th member."
+  ],
+  "keyPeople": [
+    {
+      "name": "Xanana Gusmão",
+      "role": "Independence leader",
+      "text": "The country's first President."
+    },
+    {
+      "name": "José Ramos-Horta",
+      "role": "President",
+      "text": "Won the Nobel Peace Prize in 1996."
+    }
+  ]
 }

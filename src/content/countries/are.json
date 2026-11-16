@@ -89,5 +89,21 @@
         "text": "One of the world's richest horse races."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Dubai's Burj Khalifa is the tallest building in the world, at 828 metres.",
+    "The UAE sent a probe to Mars, which reached orbit in 2021."
+  ],
+  "keyPeople": [
+    {
+      "name": "Sheikh Zayed bin Sultan Al Nahyan",
+      "role": "Founder",
+      "text": "First President of the UAE."
+    },
+    {
+      "name": "Sultan Al Neyadi",
+      "role": "Astronaut",
+      "text": "The first Arab to carry out a spacewalk, in 2023."
+    }
+  ]
 }

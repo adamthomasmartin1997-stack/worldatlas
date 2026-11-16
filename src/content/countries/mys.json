@@ -103,5 +103,21 @@
         "text": "A motorsport circuit near Kuala Lumpur."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Malaysia's Petronas Towers were the world's tallest buildings from 1998 to 2004.",
+    "Rafflesia, a giant flower that smells of rotting meat, grows in Malaysia's rainforests."
+  ],
+  "keyPeople": [
+    {
+      "name": "Lee Chong Wei",
+      "role": "Badminton player",
+      "text": "World number one for nearly 200 weeks."
+    },
+    {
+      "name": "Michelle Yeoh",
+      "role": "Actor",
+      "text": "Won the Oscar for Best Actress in 2023."
+    }
+  ]
 }

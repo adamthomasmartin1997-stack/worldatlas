@@ -93,5 +93,26 @@
     "related": [
       "USA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Iran has one of the world's oldest continuous civilisations.",
+    "The game of polo may have begun in ancient Persia."
+  ],
+  "keyPeople": [
+    {
+      "name": "Ferdowsi",
+      "role": "Poet",
+      "text": "Wrote the Shahnameh, the Persian Book of Kings."
+    },
+    {
+      "name": "Maryam Mirzakhani",
+      "role": "Mathematician",
+      "text": "The first woman to win the Fields Medal, in 2014."
+    },
+    {
+      "name": "Asghar Farhadi",
+      "role": "Film director",
+      "text": "Won two Oscars for Best Foreign Language Film."
+    }
+  ]
 }

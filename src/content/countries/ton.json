@@ -98,5 +98,21 @@
     "related": [
       "WSM"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Tonga is the only Pacific island kingdom.",
+    "Tonga was never colonised by a European power."
+  ],
+  "keyPeople": [
+    {
+      "name": "Queen Sālote Tupou III",
+      "role": "Queen",
+      "text": "Won hearts at Elizabeth II's coronation in 1953."
+    },
+    {
+      "name": "Pita Taufatofua",
+      "role": "Olympian",
+      "text": "Competed in taekwondo, cross-country skiing and kayaking."
+    }
+  ]
 }

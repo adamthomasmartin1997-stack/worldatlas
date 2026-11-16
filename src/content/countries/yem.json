@@ -87,5 +87,21 @@
         "text": "Yemen's youth teams have won regional titles during the war."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Coffee drinking as we know it began in Yemen in the 1400s.",
+    "Socotra's 'dragon's blood' trees are found nowhere else on Earth."
+  ],
+  "keyPeople": [
+    {
+      "name": "Tawakkol Karman",
+      "role": "Activist",
+      "text": "Won the Nobel Peace Prize in 2011."
+    },
+    {
+      "name": "Queen Arwa",
+      "role": "Queen",
+      "text": "Ruled Yemen for decades in the 1000s and 1100s."
+    }
+  ]
 }

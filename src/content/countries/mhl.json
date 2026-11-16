@@ -89,5 +89,16 @@
         "text": "Canoe races keep traditional boat-building alive."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "The bikini swimsuit was named after Bikini Atoll in 1946.",
+    "The Marshall Islands is one of the lowest-lying countries on Earth."
+  ],
+  "keyPeople": [
+    {
+      "name": "Hilda Heine",
+      "role": "President",
+      "text": "The Marshall Islands' first female President."
+    }
+  ]
 }

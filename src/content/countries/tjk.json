@@ -83,5 +83,16 @@
         "text": "Reached the Asian Cup quarter-finals at its first attempt."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "More than 90% of Tajikistan is mountainous.",
+    "The Fedchenko Glacier in Tajikistan is one of the longest glaciers outside the polar regions."
+  ],
+  "keyPeople": [
+    {
+      "name": "Rudaki",
+      "role": "Poet",
+      "text": "Called the father of Persian poetry."
+    }
+  ]
 }

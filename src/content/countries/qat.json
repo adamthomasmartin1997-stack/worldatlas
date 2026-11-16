@@ -95,5 +95,21 @@
       "ITA",
       "ARG"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Qatar has one of the highest incomes per person in the world.",
+    "Qatar was the smallest country ever to host a men's football World Cup, in 2022."
+  ],
+  "keyPeople": [
+    {
+      "name": "Mutaz Essa Barshim",
+      "role": "High jumper",
+      "text": "Shared Olympic gold in 2021."
+    },
+    {
+      "name": "Nasser Al-Khelaifi",
+      "role": "Sports executive",
+      "text": "President of Paris Saint-Germain."
+    }
+  ]
 }

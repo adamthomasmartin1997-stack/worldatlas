@@ -100,5 +100,26 @@
     "related": [
       "IND"
     ]
-  }
+  },
+  "didYouKnow": [
+    "The Sundarbans, shared with India, is the largest mangrove forest in the world.",
+    "21 February, Bangladesh's Language Martyrs' Day, is now International Mother Language Day."
+  ],
+  "keyPeople": [
+    {
+      "name": "Rabindranath Tagore",
+      "role": "Poet",
+      "text": "Wrote Bangladesh's national anthem; won the Nobel Prize in 1913."
+    },
+    {
+      "name": "Muhammad Yunus",
+      "role": "Economist",
+      "text": "Won the Nobel Peace Prize in 2006 for microcredit."
+    },
+    {
+      "name": "Shakib Al Hasan",
+      "role": "Cricketer",
+      "text": "One of cricket's leading all-rounders."
+    }
+  ]
 }

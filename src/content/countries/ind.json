@@ -111,5 +111,26 @@
       "GBR",
       "PAK"
     ]
-  }
+  },
+  "didYouKnow": [
+    "India has the world's largest population, more than 1.4 billion people.",
+    "Chess, the decimal system and the number zero as a digit all developed in India."
+  ],
+  "keyPeople": [
+    {
+      "name": "Mahatma Gandhi",
+      "role": "Independence leader",
+      "text": "Led non-violent protest against British rule."
+    },
+    {
+      "name": "Sachin Tendulkar",
+      "role": "Cricketer",
+      "text": "Scored 100 international centuries."
+    },
+    {
+      "name": "Kalpana Chawla",
+      "role": "Astronaut",
+      "text": "The first woman of Indian origin in space."
+    }
+  ]
 }

@@ -97,5 +97,26 @@
     "related": [
       "JPN"
     ]
-  }
+  },
+  "didYouKnow": [
+    "South Korea has some of the fastest internet speeds in the world.",
+    "Everyone in South Korea used to turn a year older on New Year's Day; the country officially switched to international age counting in 2023."
+  ],
+  "keyPeople": [
+    {
+      "name": "King Sejong",
+      "role": "King",
+      "text": "Created the Korean alphabet in the 1440s."
+    },
+    {
+      "name": "Son Heung-min",
+      "role": "Footballer",
+      "text": "Won the Premier League Golden Boot in 2022."
+    },
+    {
+      "name": "BTS",
+      "role": "Band",
+      "text": "The first K-pop act to top the US Billboard Hot 100."
+    }
+  ]
 }

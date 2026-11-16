@@ -101,5 +101,26 @@
     "related": [
       "USA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "China uses only one time zone, even though it is as wide as the continental United States.",
+    "Giant pandas are found in the wild only in China."
+  ],
+  "keyPeople": [
+    {
+      "name": "Confucius",
+      "role": "Philosopher",
+      "text": "His teachings shaped Chinese society for over 2,000 years."
+    },
+    {
+      "name": "Tu Youyou",
+      "role": "Scientist",
+      "text": "Won the Nobel Prize in Medicine in 2015 for an antimalaria drug."
+    },
+    {
+      "name": "Yao Ming",
+      "role": "Basketball player",
+      "text": "NBA star and Hall of Famer."
+    }
+  ]
 }

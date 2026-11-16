@@ -90,5 +90,16 @@
         "text": "A rattan ball kicked over a net."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Laos is the most heavily bombed country in history per person, from the Vietnam War era.",
+    "Laos is the only landlocked country in South-East Asia."
+  ],
+  "keyPeople": [
+    {
+      "name": "Fa Ngum",
+      "role": "King",
+      "text": "Founded the kingdom of Lan Xang in 1353."
+    }
+  ]
 }

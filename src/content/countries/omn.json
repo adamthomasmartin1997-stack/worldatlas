@@ -86,5 +86,21 @@
         "text": "A traditional sport across the Gulf."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Frankincense trees grow wild in Oman's Dhofar region.",
+    "Oman is one of the oldest independent states in the Arab world."
+  ],
+  "keyPeople": [
+    {
+      "name": "Ahmad ibn Majid",
+      "role": "Navigator",
+      "text": "A famous Arab sailor and writer on navigation in the 1400s."
+    },
+    {
+      "name": "Qaboos bin Said",
+      "role": "Sultan",
+      "text": "Modernised Oman from 1970 to 2020."
+    }
+  ]
 }

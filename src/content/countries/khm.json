@@ -92,5 +92,21 @@
         "text": "Phnom Penh hosted the Southeast Asian Games."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Angkor Wat is the largest religious monument in the world.",
+    "Cambodia is one of very few countries with a building on its national flag: Angkor Wat."
+  ],
+  "keyPeople": [
+    {
+      "name": "Jayavarman VII",
+      "role": "King",
+      "text": "Built Angkor Thom and its smiling stone faces."
+    },
+    {
+      "name": "Rithy Panh",
+      "role": "Film director",
+      "text": "Made award-winning films about the Khmer Rouge years."
+    }
+  ]
 }

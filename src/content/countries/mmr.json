@@ -94,5 +94,21 @@
         "text": "Burmese bare-knuckle boxing."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Myanmar's Shwedagon Pagoda is covered in gold and topped with thousands of diamonds.",
+    "Myanmar moved its capital from Yangon to Naypyidaw in 2005."
+  ],
+  "keyPeople": [
+    {
+      "name": "Aung San Suu Kyi",
+      "role": "Politician",
+      "text": "Won the Nobel Peace Prize in 1991."
+    },
+    {
+      "name": "U Thant",
+      "role": "Diplomat",
+      "text": "UN Secretary-General from 1961 to 1971."
+    }
+  ]
 }

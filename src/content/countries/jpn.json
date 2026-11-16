@@ -102,5 +102,26 @@
       "KOR",
       "USA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Japan has more than 14,000 islands, according to an official recount in 2023.",
+    "Japan's bullet trains are on average less than a minute late."
+  ],
+  "keyPeople": [
+    {
+      "name": "Hayao Miyazaki",
+      "role": "Animator",
+      "text": "Co-founded Studio Ghibli and made Spirited Away."
+    },
+    {
+      "name": "Shigeru Miyamoto",
+      "role": "Game designer",
+      "text": "Created Mario and Zelda."
+    },
+    {
+      "name": "Naomi Osaka",
+      "role": "Tennis player",
+      "text": "Won four Grand Slam titles."
+    }
+  ]
 }

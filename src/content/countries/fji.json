@@ -90,5 +90,21 @@
         "text": "The golfer was world number one in 2004."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Fiji is made up of about 330 islands.",
+    "Fiji's rugby sevens team won the country's first ever Olympic medal, a gold, in 2016."
+  ],
+  "keyPeople": [
+    {
+      "name": "Vijay Singh",
+      "role": "Golfer",
+      "text": "World number one in 2004."
+    },
+    {
+      "name": "Ratu Sukuna",
+      "role": "Statesman",
+      "text": "A key leader of Fiji under British rule."
+    }
+  ]
 }

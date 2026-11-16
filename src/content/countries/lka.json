@@ -106,5 +106,21 @@
     "related": [
       "AUS"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Sri Lanka elected the world's first female prime minister, Sirimavo Bandaranaike, in 1960.",
+    "Sri Lanka is one of the world's biggest tea exporters."
+  ],
+  "keyPeople": [
+    {
+      "name": "Sirimavo Bandaranaike",
+      "role": "Prime Minister",
+      "text": "The world's first female head of government."
+    },
+    {
+      "name": "Muttiah Muralitharan",
+      "role": "Cricketer",
+      "text": "Took 800 Test wickets."
+    }
+  ]
 }

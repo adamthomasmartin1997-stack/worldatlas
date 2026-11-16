@@ -83,5 +83,16 @@
         "text": "South Asian football champions."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "The Maldives is the flattest country in the world; its highest point is about 2.4 metres above sea level.",
+    "The Maldives is the smallest country in Asia by area and population."
+  ],
+  "keyPeople": [
+    {
+      "name": "Mohamed Nasheed",
+      "role": "President",
+      "text": "Held an underwater cabinet meeting to highlight climate change."
+    }
+  ]
 }

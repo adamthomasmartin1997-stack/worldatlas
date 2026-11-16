@@ -101,5 +101,26 @@
       "IND",
       "GBR"
     ]
-  }
+  },
+  "didYouKnow": [
+    "K2, in Pakistan, is the world's second-highest mountain.",
+    "The Karakoram Highway is one of the highest paved roads in the world."
+  ],
+  "keyPeople": [
+    {
+      "name": "Malala Yousafzai",
+      "role": "Education campaigner",
+      "text": "The youngest Nobel Peace Prize winner, in 2014."
+    },
+    {
+      "name": "Muhammad Ali Jinnah",
+      "role": "Founder of Pakistan",
+      "text": "Led the campaign for a separate state."
+    },
+    {
+      "name": "Imran Khan",
+      "role": "Cricketer and politician",
+      "text": "Captained Pakistan to the 1992 World Cup."
+    }
+  ]
 }

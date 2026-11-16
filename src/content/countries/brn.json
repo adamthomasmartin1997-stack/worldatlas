@@ -78,5 +78,16 @@
         "text": "A martial art practised across the Malay world, listed by UNESCO."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Brunei's Sultan lives in Istana Nurul Iman, one of the world's largest palaces, with about 1,800 rooms.",
+    "Brunei has no personal income tax."
+  ],
+  "keyPeople": [
+    {
+      "name": "Hassanal Bolkiah",
+      "role": "Sultan",
+      "text": "Has reigned since 1967."
+    }
+  ]
 }

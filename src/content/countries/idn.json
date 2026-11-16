@@ -97,5 +97,26 @@
         "text": "Jakarta and Palembang hosted the Asian Games."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Indonesia has more than 17,000 islands.",
+    "Komodo dragons, the world's largest lizards, live only in Indonesia."
+  ],
+  "keyPeople": [
+    {
+      "name": "Sukarno",
+      "role": "Independence leader",
+      "text": "Indonesia's first President."
+    },
+    {
+      "name": "Raden Ajeng Kartini",
+      "role": "Campaigner",
+      "text": "Fought for girls' education in the 1890s."
+    },
+    {
+      "name": "Susi Susanti",
+      "role": "Badminton player",
+      "text": "Won Indonesia's first Olympic gold, in 1992."
+    }
+  ]
 }

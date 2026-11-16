@@ -92,5 +92,21 @@
         "text": "Georgia's first major tournament, reaching the last 16."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Georgia has one of the world's oldest winemaking traditions, around 8,000 years.",
+    "The Georgian alphabet is one of only a handful of unique scripts still used today."
+  ],
+  "keyPeople": [
+    {
+      "name": "Shota Rustaveli",
+      "role": "Poet",
+      "text": "Wrote The Knight in the Panther's Skin in the 1100s."
+    },
+    {
+      "name": "Khvicha Kvaratskhelia",
+      "role": "Footballer",
+      "text": "Won the Champions League with Paris Saint-Germain in 2025."
+    }
+  ]
 }

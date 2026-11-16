@@ -112,5 +112,26 @@
         "text": "Olympic gymnastics floor champion in 2021."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "The Dead Sea, on Israel's border with Jordan, is the lowest point on land.",
+    "Israel has more museums per person than almost any other country."
+  ],
+  "keyPeople": [
+    {
+      "name": "Golda Meir",
+      "role": "Prime Minister",
+      "text": "Israel's first female Prime Minister."
+    },
+    {
+      "name": "Ada Yonath",
+      "role": "Scientist",
+      "text": "Won the Nobel Prize in Chemistry in 2009."
+    },
+    {
+      "name": "Gal Gadot",
+      "role": "Actor",
+      "text": "Played Wonder Woman."
+    }
+  ]
 }

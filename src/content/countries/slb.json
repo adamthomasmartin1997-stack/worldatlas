@@ -95,5 +95,16 @@
         "text": "The Kurukuru team is one of the best in Oceania."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Solomon Islands has nearly 1,000 islands.",
+    "Guadalcanal was the site of a major Second World War battle in 1942–43."
+  ],
+  "keyPeople": [
+    {
+      "name": "Peter Kenilorea",
+      "role": "Prime Minister",
+      "text": "The country's first Prime Minister."
+    }
+  ]
 }

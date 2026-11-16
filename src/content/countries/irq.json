@@ -97,5 +97,21 @@
         "text": "Gulf Cup champions on home soil in Basra."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "The first known writing, cuneiform, was developed in what is now Iraq.",
+    "The wheel was used in Mesopotamia around 3500 BC."
+  ],
+  "keyPeople": [
+    {
+      "name": "Hammurabi",
+      "role": "King of Babylon",
+      "text": "Wrote one of the first law codes."
+    },
+    {
+      "name": "Zaha Hadid",
+      "role": "Architect",
+      "text": "Born in Baghdad; the first woman to win the Pritzker Prize."
+    }
+  ]
 }

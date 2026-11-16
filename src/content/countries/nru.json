@@ -86,5 +86,16 @@
     "related": [
       "AUS"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Nauru is the smallest island country in the world, at about 21 km².",
+    "Nauru has no official capital city."
+  ],
+  "keyPeople": [
+    {
+      "name": "Marcus Stephen",
+      "role": "Weightlifter and President",
+      "text": "Won Commonwealth gold before becoming President."
+    }
+  ]
 }

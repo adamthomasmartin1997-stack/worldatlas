@@ -87,5 +87,16 @@
         "text": "A multi-sport event for the islands of Micronesia."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Yap's giant stone coins, some taller than a person, are still used in traditional exchanges.",
+    "Nan Madol is sometimes called the 'Venice of the Pacific'."
+  ],
+  "keyPeople": [
+    {
+      "name": "Tosiwo Nakayama",
+      "role": "President",
+      "text": "The country's first President."
+    }
+  ]
 }

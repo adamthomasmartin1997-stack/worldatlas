@@ -96,5 +96,16 @@
         "text": "Kuwait played at the men's World Cup."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "The Kuwaiti dinar is the highest-valued currency unit in the world.",
+    "Kuwait has no natural rivers or lakes."
+  ],
+  "keyPeople": [
+    {
+      "name": "Abdullah Al-Salim Al-Sabah",
+      "role": "Emir",
+      "text": "Led Kuwait to independence in 1961."
+    }
+  ]
 }

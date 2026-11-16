@@ -92,5 +92,16 @@
         "text": "Commonwealth Games bronze for the women's team in 2018."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Bungee jumping was inspired by land diving on Vanuatu's Pentecost Island.",
+    "Vanuatu has an underwater post office."
+  ],
+  "keyPeople": [
+    {
+      "name": "Walter Lini",
+      "role": "Prime Minister",
+      "text": "Led Vanuatu to independence in 1980."
+    }
+  ]
 }

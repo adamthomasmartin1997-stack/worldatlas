@@ -102,5 +102,26 @@
       "AUS",
       "NPL"
     ]
-  }
+  },
+  "didYouKnow": [
+    "New Zealand was the first country where women could vote in national elections, in 1893.",
+    "There are about five sheep for every person in New Zealand."
+  ],
+  "keyPeople": [
+    {
+      "name": "Edmund Hillary",
+      "role": "Mountaineer",
+      "text": "Climbed Everest in 1953."
+    },
+    {
+      "name": "Ernest Rutherford",
+      "role": "Scientist",
+      "text": "Split the atom and won the Nobel Prize in Chemistry."
+    },
+    {
+      "name": "Lorde",
+      "role": "Singer",
+      "text": "Won two Grammys for 'Royals'."
+    }
+  ]
 }

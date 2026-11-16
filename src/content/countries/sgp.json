@@ -94,5 +94,21 @@
     "related": [
       "USA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Singapore is one of only three surviving city-states in the world.",
+    "Selling chewing gum has been banned in Singapore since 1992."
+  ],
+  "keyPeople": [
+    {
+      "name": "Lee Kuan Yew",
+      "role": "Prime Minister",
+      "text": "Led Singapore from 1959 to 1990."
+    },
+    {
+      "name": "Joseph Schooling",
+      "role": "Swimmer",
+      "text": "Won Singapore's first Olympic gold, in 2016."
+    }
+  ]
 }

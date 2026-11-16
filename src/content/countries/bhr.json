@@ -86,5 +86,16 @@
         "text": "Bahrain won the football Gulf Cup in 2019 and 2024."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Bahrain is made up of more than 30 islands.",
+    "The Tree of Life, a lone mesquite tree in the desert, is around 400 years old."
+  ],
+  "keyPeople": [
+    {
+      "name": "Isa bin Salman Al Khalifa",
+      "role": "Emir",
+      "text": "Led Bahrain to independence in 1971."
+    }
+  ]
 }

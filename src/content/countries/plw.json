@@ -91,5 +91,16 @@
     "related": [
       "JPN"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Palau created the world's first shark sanctuary, in 2009.",
+    "Visitors to Palau must sign a pledge to protect the environment."
+  ],
+  "keyPeople": [
+    {
+      "name": "Tommy Remengesau Jr.",
+      "role": "President",
+      "text": "Led Palau's ocean conservation efforts."
+    }
+  ]
 }

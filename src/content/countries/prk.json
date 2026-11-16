@@ -95,5 +95,16 @@
     "related": [
       "ITA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "North and South Korea never signed a peace treaty; fighting stopped in 1953 with an armistice.",
+    "Pyongyang's Ryugyong Hotel, begun in 1987, has never fully opened."
+  ],
+  "keyPeople": [
+    {
+      "name": "Kim Il Sung",
+      "role": "Founder",
+      "text": "Led North Korea from 1948 to 1994."
+    }
+  ]
 }

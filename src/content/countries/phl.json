@@ -108,5 +108,26 @@
         "text": "Two gymnastics golds at the 2024 Olympics."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "The Philippines has more than 7,600 islands.",
+    "Jeepneys, the colourful buses of Manila, began as US army jeeps left after the Second World War."
+  ],
+  "keyPeople": [
+    {
+      "name": "José Rizal",
+      "role": "National hero",
+      "text": "His novels inspired the fight against Spanish rule."
+    },
+    {
+      "name": "Manny Pacquiao",
+      "role": "Boxer",
+      "text": "World champion in eight weight divisions."
+    },
+    {
+      "name": "Lea Salonga",
+      "role": "Singer and actor",
+      "text": "Won a Tony award; the singing voice of Disney's Mulan and Jasmine."
+    }
+  ]
 }

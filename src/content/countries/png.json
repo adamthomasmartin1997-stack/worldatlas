@@ -99,5 +99,21 @@
     "related": [
       "AUS"
     ]
-  }
+  },
+  "didYouKnow": [
+    "More than 800 languages are spoken in Papua New Guinea.",
+    "Papua New Guinea has birds of paradise on its flag."
+  ],
+  "keyPeople": [
+    {
+      "name": "Michael Somare",
+      "role": "Prime Minister",
+      "text": "Led Papua New Guinea to independence in 1975."
+    },
+    {
+      "name": "Dika Toua",
+      "role": "Weightlifter",
+      "text": "The first woman to compete at five Olympics in weightlifting."
+    }
+  ]
 }

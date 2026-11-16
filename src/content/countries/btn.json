@@ -88,5 +88,21 @@
     "related": [
       "LKA"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Bhutan is the world's only carbon-negative country.",
+    "Climbing Gangkhar Puensum, possibly the highest unclimbed mountain on Earth, is banned in Bhutan."
+  ],
+  "keyPeople": [
+    {
+      "name": "Jigme Khesar Namgyel Wangchuck",
+      "role": "King",
+      "text": "Fifth King of Bhutan, crowned in 2008."
+    },
+    {
+      "name": "Jigme Singye Wangchuck",
+      "role": "King",
+      "text": "Introduced the idea of Gross National Happiness."
+    }
+  ]
 }

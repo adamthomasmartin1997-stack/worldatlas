@@ -92,5 +92,21 @@
         "text": "A Formula 1 street race since 2016."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Azerbaijan has about half of all the world's mud volcanoes.",
+    "One of the world's first oil wells was drilled near Baku in 1846."
+  ],
+  "keyPeople": [
+    {
+      "name": "Nizami Ganjavi",
+      "role": "Poet",
+      "text": "A great Persian-language poet of the 1100s."
+    },
+    {
+      "name": "Lotfi Zadeh",
+      "role": "Mathematician",
+      "text": "Grew up in Baku and invented fuzzy logic."
+    }
+  ]
 }

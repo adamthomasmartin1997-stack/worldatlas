@@ -102,5 +102,21 @@
     "related": [
       "JPN"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Mongolia is the most sparsely populated country in the world.",
+    "There are more horses than people in Mongolia."
+  ],
+  "keyPeople": [
+    {
+      "name": "Genghis Khan",
+      "role": "Founder of the Mongol Empire",
+      "text": "Built the largest connected land empire in history."
+    },
+    {
+      "name": "Hakuhō Shō",
+      "role": "Sumo wrestler",
+      "text": "Won a record 45 top-division sumo titles."
+    }
+  ]
 }

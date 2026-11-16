@@ -100,5 +100,21 @@
         "text": "Reached the Asian Cup's round of 16 for the first time."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Jericho is one of the oldest continuously inhabited cities in the world, over 10,000 years old.",
+    "Palestinian embroidery, tatreez, was added to UNESCO's heritage list in 2021."
+  ],
+  "keyPeople": [
+    {
+      "name": "Mahmoud Darwish",
+      "role": "Poet",
+      "text": "Palestine's national poet."
+    },
+    {
+      "name": "Edward Said",
+      "role": "Writer and scholar",
+      "text": "Wrote the influential book Orientalism."
+    }
+  ]
 }

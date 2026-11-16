@@ -95,5 +95,26 @@
         "text": "Won the European Championship in 2023."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Istanbul is split between Europe and Asia by the Bosphorus strait.",
+    "Göbekli Tepe, in south-eastern Türkiye, is about 11,000 years old, older than Stonehenge."
+  ],
+  "keyPeople": [
+    {
+      "name": "Mustafa Kemal Atatürk",
+      "role": "Founder of the Republic",
+      "text": "Founded modern Türkiye in 1923."
+    },
+    {
+      "name": "Orhan Pamuk",
+      "role": "Writer",
+      "text": "Won the Nobel Prize in Literature in 2006."
+    },
+    {
+      "name": "Aziz Sancar",
+      "role": "Scientist",
+      "text": "Won the Nobel Prize in Chemistry in 2015."
+    }
+  ]
 }

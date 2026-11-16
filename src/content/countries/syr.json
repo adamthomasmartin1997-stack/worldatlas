@@ -98,5 +98,21 @@
         "text": "Ghada Shouaa won Olympic heptathlon gold."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Damascus is one of the oldest continuously inhabited cities in the world.",
+    "The oldest known musical notation was found at Ugarit in Syria, about 3,400 years old."
+  ],
+  "keyPeople": [
+    {
+      "name": "Nizar Qabbani",
+      "role": "Poet",
+      "text": "One of the Arab world's most loved poets."
+    },
+    {
+      "name": "Ghada Shouaa",
+      "role": "Heptathlete",
+      "text": "Won Syria's first Olympic gold, in 1996."
+    }
+  ]
 }

@@ -100,5 +100,26 @@
         "text": "A Kazakh form of horseback goat-carcass polo."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Kazakhstan is the largest landlocked country in the world.",
+    "Apples are thought to have originated in the mountains near Almaty, whose name means 'full of apples'."
+  ],
+  "keyPeople": [
+    {
+      "name": "Abai Kunanbaev",
+      "role": "Poet",
+      "text": "Founder of modern Kazakh written literature."
+    },
+    {
+      "name": "Elena Rybakina",
+      "role": "Tennis player",
+      "text": "Wimbledon champion in 2022."
+    },
+    {
+      "name": "Gennady Golovkin",
+      "role": "Boxer",
+      "text": "World middleweight champion."
+    }
+  ]
 }

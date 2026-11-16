@@ -102,5 +102,26 @@
       "AUS",
       "IND"
     ]
-  }
+  },
+  "didYouKnow": [
+    "Afghanistan's traditional national sport, buzkashi, is played on horseback by riders fighting over a goat carcass.",
+    "The Persian poet Rumi was born in Balkh, in what is now Afghanistan, in 1207."
+  ],
+  "keyPeople": [
+    {
+      "name": "Rumi",
+      "role": "Poet",
+      "text": "His poems of love and faith are read all over the world."
+    },
+    {
+      "name": "Rashid Khan",
+      "role": "Cricketer",
+      "text": "One of the world's best spin bowlers."
+    },
+    {
+      "name": "Ahmad Shah Durrani",
+      "role": "Founder of Afghanistan",
+      "text": "Created the Afghan state in 1747."
+    }
+  ]
 }

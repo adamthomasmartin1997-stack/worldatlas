@@ -92,5 +92,21 @@
         "text": "Five Olympic boxing golds in 2024."
       }
     ]
-  }
+  },
+  "didYouKnow": [
+    "Uzbekistan is one of only two doubly landlocked countries in the world.",
+    "Ulugh Beg's observatory in Samarkand measured the length of a year almost exactly in the 1400s."
+  ],
+  "keyPeople": [
+    {
+      "name": "Ulugh Beg",
+      "role": "Astronomer and ruler",
+      "text": "Built a great observatory in Samarkand."
+    },
+    {
+      "name": "Al-Khwarizmi",
+      "role": "Mathematician",
+      "text": "Born in Khwarazm; the word 'algorithm' comes from his name."
+    }
+  ]
 }
