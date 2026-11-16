@@ -56,5 +56,55 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "The Democratic Republic of the Congo is a semi-presidential republic. The President, elected every five years, appoints the Prime Minister. In the east, many armed groups operate, and the M23 rebel group, backed by Rwanda according to the UN, captured the cities of Goma and Bukavu in 2025.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Semi-presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "The DR Congo is the world's biggest producer of cobalt, used in phone and electric car batteries, and a major producer of copper. Despite its mineral wealth, most people are very poor. The Congo River could produce huge amounts of hydropower."
+  },
+  "culture": {
+    "text": "The DR Congo is the largest French-speaking country in the world by population. Congolese rumba, played on guitars, spread across Africa and is listed by UNESCO. Kinshasa, the capital, is one of Africa's largest cities.",
+    "items": [
+      {
+        "title": "Congolese rumba",
+        "text": "Guitar dance music listed by UNESCO in 2021."
+      },
+      {
+        "title": "Okapi",
+        "text": "A forest animal related to the giraffe, found only in the DR Congo."
+      },
+      {
+        "title": "Sapeurs",
+        "text": "Men who dress in flamboyant designer suits."
+      }
+    ],
+    "related": [
+      "COG",
+      "BEL",
+      "RWA"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and the DR Congo won the Africa Cup of Nations in 1968 and 1974. As Zaire it was the first sub-Saharan team at a World Cup, in 1974. The 'Rumble in the Jungle', Muhammad Ali's famous fight against George Foreman, took place in Kinshasa in 1974.",
+    "items": [
+      {
+        "title": "1974",
+        "text": "The Rumble in the Jungle in Kinshasa."
+      },
+      {
+        "title": "1968 · 1974",
+        "text": "Africa Cup of Nations champions."
+      }
+    ],
+    "related": [
+      "USA"
+    ]
   }
 }

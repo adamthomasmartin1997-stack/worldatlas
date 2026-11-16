@@ -52,5 +52,52 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Uganda is a presidential republic. Yoweri Museveni has been President since 1986; presidential term and age limits were removed. Opposition supporters often face arrests.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Uganda exports coffee, gold, fish and tea. Oil fields near Lake Albert are being developed with a pipeline to Tanzania."
+  },
+  "culture": {
+    "text": "Uganda is called the 'Pearl of Africa'. Lake Victoria, Africa's largest lake, and the source of the White Nile are there. Bark cloth, made from fig trees, is listed by UNESCO, and Uganda is home to about half of the world's mountain gorillas.",
+    "items": [
+      {
+        "title": "Source of the Nile",
+        "text": "The White Nile flows out of Lake Victoria at Jinja."
+      },
+      {
+        "title": "Bwindi",
+        "text": "Impenetrable forest home to mountain gorillas."
+      },
+      {
+        "title": "Bark cloth",
+        "text": "Listed by UNESCO."
+      }
+    ],
+    "related": [
+      "KEN",
+      "RWA",
+      "TZA"
+    ]
+  },
+  "sport": {
+    "text": "Athletics and football are popular. Joshua Cheptegei holds the 5,000 m and 10,000 m world records and won Olympic gold in 2021 and 2024. Peruth Chemutai won the steeplechase in 2021.",
+    "items": [
+      {
+        "title": "Joshua Cheptegei",
+        "text": "Long-distance world record holder."
+      },
+      {
+        "title": "John Akii-Bua",
+        "text": "Won 400 m hurdles gold in 1972."
+      }
+    ]
   }
 }

@@ -40,5 +40,47 @@
         "text": "The first multi-party elections end Banda's rule."
       }
     ]
+  },
+  "government": {
+    "text": "Malawi is a presidential republic. In 2020 its Constitutional Court overturned a disputed election, one of the first times this happened in Africa, and the rerun was won by the opposition. In 2025 voters returned former President Peter Mutharika to power.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Malawi is one of the poorest countries in the world. Most people are farmers, and tobacco is the main export, along with tea, sugar and macadamia nuts."
+  },
+  "culture": {
+    "text": "Malawi is called 'the warm heart of Africa' for its friendly people. Lake Malawi, covering a fifth of the country, has more species of fish than any other lake. Gule Wamkulu, a masked dance of the Chewa people, is listed by UNESCO.",
+    "items": [
+      {
+        "title": "Lake Malawi",
+        "text": "Home to hundreds of species of colourful cichlid fish."
+      },
+      {
+        "title": "Gule Wamkulu",
+        "text": "A sacred masked dance."
+      }
+    ],
+    "related": [
+      "MOZ",
+      "TZA"
+    ]
+  },
+  "sport": {
+    "text": "Football and netball are the most popular sports. Malawi's netball team, the Queens, is one of the best in the world outside Australia, New Zealand and England.",
+    "items": [
+      {
+        "title": "The Queens",
+        "text": "Malawi's top-ranked national netball team."
+      }
+    ],
+    "related": [
+      "NZL",
+      "AUS"
+    ]
   }
 }

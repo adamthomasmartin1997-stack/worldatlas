@@ -50,5 +50,59 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Egypt is a presidential republic in which the President holds strong powers. Abdel Fattah el-Sisi, a former army chief, took power in 2013 after the military removed the elected president, Mohamed Morsi. Opposition and protests are tightly restricted.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Semi-presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Egypt's economy relies on tourism, money sent home by Egyptians abroad, natural gas, and tolls from the Suez Canal, through which about a tenth of world trade normally passes. Farming along the Nile is also important."
+  },
+  "culture": {
+    "text": "Ancient Egypt gave the world the pyramids, hieroglyphs and the Sphinx. Most of Egypt's 100-plus million people live along the Nile. Cairo is the largest city in the Arab world, and Egyptian films and music are watched across it. The Grand Egyptian Museum opened beside the pyramids in 2025.",
+    "items": [
+      {
+        "title": "Pyramids of Giza",
+        "text": "The only surviving Wonder of the Ancient World."
+      },
+      {
+        "title": "Grand Egyptian Museum",
+        "text": "Holds the treasures of Tutankhamun."
+      },
+      {
+        "title": "Koshari",
+        "text": "Rice, lentils and pasta, a national dish."
+      }
+    ],
+    "related": [
+      "SDN",
+      "ISR",
+      "PSE"
+    ]
+  },
+  "sport": {
+    "text": "Football is Egypt's passion, and it has won the Africa Cup of Nations a record seven times. Mohamed Salah is one of the best players in the world. Egypt also dominates squash.",
+    "items": [
+      {
+        "title": "Africa Cup of Nations",
+        "text": "A record seven titles."
+      },
+      {
+        "title": "Mohamed Salah",
+        "text": "Premier League and Champions League winner with Liverpool."
+      },
+      {
+        "title": "Squash",
+        "text": "Egyptians have often held the top world rankings."
+      }
+    ],
+    "related": [
+      "GBR"
+    ]
   }
 }

@@ -45,5 +45,52 @@
         "text": "A new constitution is adopted."
       }
     ]
+  },
+  "government": {
+    "text": "Rwanda is a presidential republic. Paul Kagame has led the country since 2000, winning elections with official results above 90%. Rwanda has the highest share of women in parliament in the world. Critics say opposition and free speech are tightly limited.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Rwanda's economy has grown fast since the 1994 genocide. Tourism, especially gorilla trekking, coffee, tea and minerals are important, and the government is building it into a hub for business and conferences."
+  },
+  "culture": {
+    "text": "Rwanda is called the 'land of a thousand hills'. Once a month, on Umuganda day, citizens do community work together. Plastic bags were banned in 2008, and Kigali is known as one of Africa's cleanest cities. Intore dancers perform in grass wigs.",
+    "items": [
+      {
+        "title": "Mountain gorillas",
+        "text": "Visitors trek to see gorillas in Volcanoes National Park."
+      },
+      {
+        "title": "Umuganda",
+        "text": "Monthly community service day."
+      },
+      {
+        "title": "Plastic bag ban",
+        "text": "Since 2008."
+      }
+    ],
+    "related": [
+      "BDI",
+      "COD",
+      "UGA"
+    ]
+  },
+  "sport": {
+    "text": "Football, cycling and basketball are popular. The Tour du Rwanda is a big cycling race, and Kigali hosted the first road cycling world championships in Africa in 2025.",
+    "items": [
+      {
+        "title": "2025",
+        "text": "Kigali hosted the road cycling world championships."
+      },
+      {
+        "title": "Basketball Africa League",
+        "text": "Finals held in Kigali."
+      }
+    ]
   }
 }

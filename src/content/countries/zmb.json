@@ -46,5 +46,47 @@
         "text": "Multi-party elections end Kaunda's rule."
       }
     ]
+  },
+  "government": {
+    "text": "Zambia is a presidential republic with a history of peaceful elections. In 2021 opposition leader Hakainde Hichilema won the presidency, the third time power had passed to the opposition.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Copper makes up most of Zambia's exports, and it is one of Africa's biggest producers. Cobalt, emeralds and farming are also important. Zambia defaulted on its debts in 2020 and has restructured them."
+  },
+  "culture": {
+    "text": "Zambia shares Victoria Falls, 'the smoke that thunders', with Zimbabwe. Bats gather in their millions in Kasanka National Park each year in one of the largest mammal migrations on Earth.",
+    "items": [
+      {
+        "title": "Victoria Falls",
+        "text": "One of the largest waterfalls in the world."
+      },
+      {
+        "title": "Kasanka bats",
+        "text": "About 10 million fruit bats arrive each year."
+      }
+    ],
+    "related": [
+      "ZWE",
+      "COD"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. In 2012 Zambia won the Africa Cup of Nations in Gabon, near where the national team died in a plane crash in 1993. The women's team played at its first World Cup in 2023.",
+    "items": [
+      {
+        "title": "2012",
+        "text": "Africa Cup of Nations champions."
+      },
+      {
+        "title": "Barbra Banda",
+        "text": "Star forward of the women's team."
+      }
+    ]
   }
 }

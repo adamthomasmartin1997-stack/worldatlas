@@ -41,5 +41,43 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Guinea-Bissau has had many coups and attempted coups since independence; in November 2025 the military seized power again. The country has struggled with instability for decades.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Semi-presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Guinea-Bissau is one of the world's largest producers of cashew nuts, which make up almost all of its exports. Most people are farmers."
+  },
+  "culture": {
+    "text": "The Bijagós Islands, an archipelago of 88 islands, have their own culture in which women traditionally hold important roles. Kriol, a Portuguese-based creole, is the common language.",
+    "items": [
+      {
+        "title": "Bijagós",
+        "text": "Islands listed as a UNESCO biosphere reserve."
+      },
+      {
+        "title": "Gumbe",
+        "text": "Popular music of Guinea-Bissau."
+      }
+    ],
+    "related": [
+      "PRT",
+      "CPV"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Guinea-Bissau played at the Africa Cup of Nations for the first time in 2017.",
+    "items": [
+      {
+        "title": "2017",
+        "text": "First Africa Cup of Nations."
+      }
+    ]
   }
 }

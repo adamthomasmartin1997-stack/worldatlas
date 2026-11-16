@@ -48,5 +48,43 @@
         "text": "The first multi-party elections are held."
       }
     ]
+  },
+  "government": {
+    "text": "São Tomé and Príncipe is a semi-presidential republic and one of Africa's more stable democracies, with peaceful changes of government.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Semi-presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Cocoa is the main export. Tourism is growing, and the country hopes to find offshore oil. It depends heavily on foreign aid."
+  },
+  "culture": {
+    "text": "São Tomé and Príncipe is Africa's second-smallest country. Its volcanic islands are covered in rainforest, and the Pico Cão Grande, a needle of volcanic rock, rises 300 metres above the jungle. Tchiloli, a theatre form based on a medieval European story, is performed there.",
+    "items": [
+      {
+        "title": "Pico Cão Grande",
+        "text": "A dramatic volcanic spire."
+      },
+      {
+        "title": "Tchiloli",
+        "text": "Street theatre with masks and music."
+      }
+    ],
+    "related": [
+      "PRT",
+      "GAB"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. The country sends small teams to the Olympics, usually in athletics and canoeing.",
+    "items": [
+      {
+        "title": "Football",
+        "text": "The national team is called Falcões e Papagaios: the falcons and parrots."
+      }
+    ]
   }
 }

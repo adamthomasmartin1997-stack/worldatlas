@@ -45,5 +45,43 @@
         "text": "A new union gives each island more control."
       }
     ]
+  },
+  "government": {
+    "text": "The Comoros is a federal presidential republic of three islands. The President is head of state and government. The country has had about 20 coups or attempted coups since independence in 1975.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "The Comoros is one of the world's biggest producers of ylang-ylang, a flower used in perfume, and of vanilla and cloves. Money from Comorians abroad, especially in France, is very important."
+  },
+  "culture": {
+    "text": "Comorian culture mixes African, Arab and Malagasy roots, and almost everyone is Muslim. The 'grand mariage', a hugely expensive wedding celebration, marks a man's status in society.",
+    "items": [
+      {
+        "title": "Ylang-ylang",
+        "text": "Perfume flowers grown across the islands."
+      },
+      {
+        "title": "Grand mariage",
+        "text": "A lavish wedding that can take years of savings."
+      }
+    ],
+    "related": [
+      "FRA",
+      "MDG"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. The Comoros reached the knockout stage of the Africa Cup of Nations at its first attempt in 2022.",
+    "items": [
+      {
+        "title": "2022",
+        "text": "Reached the AFCON last 16 at its first tournament."
+      }
+    ]
   }
 }

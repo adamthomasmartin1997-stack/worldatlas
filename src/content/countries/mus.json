@@ -48,5 +48,52 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Mauritius is a parliamentary republic and one of Africa's strongest democracies. Parliament elects the President, and the Prime Minister leads the government. Elections have been free and fair since independence in 1968.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Mauritius has one of the highest incomes per person in Africa. It moved from sugar to textiles, tourism and financial services. In 2025 Britain agreed to hand over the Chagos Islands to Mauritius."
+  },
+  "culture": {
+    "text": "Most Mauritians have roots in India, while others descend from Africans, Europeans and Chinese. Mauritian Creole is the common language. Sega, a dance and music style, is listed by UNESCO. The dodo lived only on Mauritius.",
+    "items": [
+      {
+        "title": "The dodo",
+        "text": "A flightless bird that died out in the 1600s."
+      },
+      {
+        "title": "Sega",
+        "text": "Music and dance listed by UNESCO."
+      },
+      {
+        "title": "Aapravasi Ghat",
+        "text": "Where indentured workers from India first arrived, listed by UNESCO."
+      }
+    ],
+    "related": [
+      "IND",
+      "FRA",
+      "GBR"
+    ]
+  },
+  "sport": {
+    "text": "Football and horse racing are popular; the Champ de Mars in Port Louis is one of the oldest racecourses in the southern hemisphere. Boxer Bruno Julie won Mauritius's first Olympic medal in 2008.",
+    "items": [
+      {
+        "title": "Champ de Mars",
+        "text": "Horse racing since 1812."
+      },
+      {
+        "title": "2008",
+        "text": "Bruno Julie won boxing bronze."
+      }
+    ]
   }
 }

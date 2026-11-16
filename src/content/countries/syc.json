@@ -49,5 +49,47 @@
         "text": "A new constitution allows opposition parties."
       }
     ]
+  },
+  "government": {
+    "text": "Seychelles is a presidential republic. In 2020 an opposition candidate won the presidency for the first time since independence, a peaceful change of power.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism and tuna fishing are the main industries. Seychelles has one of the highest incomes per person in Africa."
+  },
+  "culture": {
+    "text": "Seychelles is Africa's smallest country by population and area, made up of 115 islands. Its granite islands are famous for their beaches. The coco de mer palm produces the largest seed in the plant world, and the Aldabra atoll is home to around 100,000 giant tortoises.",
+    "items": [
+      {
+        "title": "Coco de mer",
+        "text": "The world's largest seed, found in the Vallée de Mai."
+      },
+      {
+        "title": "Aldabra",
+        "text": "A coral atoll full of giant tortoises."
+      },
+      {
+        "title": "Moutya",
+        "text": "A dance listed by UNESCO."
+      }
+    ],
+    "related": [
+      "MUS",
+      "FRA"
+    ]
+  },
+  "sport": {
+    "text": "Football, basketball and sailing are popular, and Seychelles takes part in the Indian Ocean Island Games.",
+    "items": [
+      {
+        "title": "Indian Ocean Island Games",
+        "text": "A regional multi-sport event."
+      }
+    ]
   }
 }

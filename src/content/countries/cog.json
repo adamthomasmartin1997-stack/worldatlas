@@ -48,5 +48,43 @@
         "text": "Fighting devastates Brazzaville."
       }
     ]
+  },
+  "government": {
+    "text": "The Republic of the Congo is a presidential republic. Denis Sassou Nguesso has been President for most of the time since 1979.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Oil makes up most of the country's exports. Timber is also important, and the economy has struggled with debt."
+  },
+  "culture": {
+    "text": "Brazzaville and Kinshasa face each other across the Congo River, the closest pair of capital cities in the world apart from Rome and Vatican City. The Congo shares a love of rumba music and sapeur fashion with its larger neighbour.",
+    "items": [
+      {
+        "title": "Twin capitals",
+        "text": "Brazzaville and Kinshasa sit on opposite banks of the river."
+      },
+      {
+        "title": "Odzala-Kokoua",
+        "text": "A national park home to western lowland gorillas."
+      }
+    ],
+    "related": [
+      "COD",
+      "FRA"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and the Congo won the Africa Cup of Nations in 1972.",
+    "items": [
+      {
+        "title": "1972",
+        "text": "Africa Cup of Nations champions."
+      }
+    ]
   }
 }

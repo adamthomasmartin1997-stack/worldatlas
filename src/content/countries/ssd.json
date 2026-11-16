@@ -48,5 +48,44 @@
         "text": "Fighting breaks out within the new country."
       }
     ]
+  },
+  "government": {
+    "text": "South Sudan, the world's newest country, is a presidential republic led by Salva Kiir since independence in 2011. A civil war from 2013 to 2018 killed hundreds of thousands. Elections have been repeatedly postponed.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Oil makes up almost all of South Sudan's exports, sent through a pipeline across Sudan. War has disrupted production, and most people depend on farming, herding and aid."
+  },
+  "culture": {
+    "text": "Cattle are central to many South Sudanese cultures, especially for the Dinka and Nuer, and are used for marriages and status. The Sudd is one of the largest wetlands in the world.",
+    "items": [
+      {
+        "title": "The Sudd",
+        "text": "A vast swamp on the White Nile."
+      },
+      {
+        "title": "Cattle camps",
+        "text": "Herders live with their cattle in seasonal camps."
+      }
+    ],
+    "related": [
+      "SDN",
+      "UGA",
+      "KEN"
+    ]
+  },
+  "sport": {
+    "text": "Basketball is the most popular sport. South Sudan's men's team, led by former NBA star Luol Deng as federation president, qualified for the 2023 World Cup and the 2024 Olympics, their first.",
+    "items": [
+      {
+        "title": "2024",
+        "text": "South Sudan's first Olympic basketball team."
+      }
+    ]
   }
 }

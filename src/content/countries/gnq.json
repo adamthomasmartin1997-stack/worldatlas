@@ -46,5 +46,47 @@
         "text": "Large-scale oil production begins."
       }
     ]
+  },
+  "government": {
+    "text": "Equatorial Guinea is a presidential republic in name, but power is held by President Teodoro Obiang, who has ruled since 1979, making him the world's longest-serving president. His son is Vice President.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Oil and gas make up almost all exports. Oil made Equatorial Guinea rich per person on paper, but most people remain poor."
+  },
+  "culture": {
+    "text": "Equatorial Guinea is the only African country with Spanish as an official language. It is made up of a mainland region and islands, including Bioko, where the capital Malabo stands.",
+    "items": [
+      {
+        "title": "Spanish-speaking Africa",
+        "text": "The only Spanish-speaking country in sub-Saharan Africa."
+      },
+      {
+        "title": "Bioko",
+        "text": "A volcanic island with rainforest and monkeys."
+      }
+    ],
+    "related": [
+      "ESP",
+      "CMR"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Equatorial Guinea co-hosted the Africa Cup of Nations in 2012 and hosted it in 2015, reaching the semi-finals. Swimmer Eric Moussambani became famous at the 2000 Olympics.",
+    "items": [
+      {
+        "title": "2015",
+        "text": "Hosted the Africa Cup of Nations and reached the semi-finals."
+      },
+      {
+        "title": "'Eric the Eel'",
+        "text": "Eric Moussambani had learned to swim just months before the 2000 Olympics."
+      }
+    ]
   }
 }

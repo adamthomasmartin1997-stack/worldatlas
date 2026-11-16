@@ -45,5 +45,55 @@
         "text": "Tanganyika and Zanzibar unite."
       }
     ]
+  },
+  "government": {
+    "text": "Tanzania is a presidential republic, a union of the mainland and Zanzibar, which has its own government. The CCM party has governed since independence. Samia Suluhu Hassan became its first female President in 2021. The disputed 2025 election was followed by deadly protests.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tanzania exports gold, cashews, coffee and tobacco. Tourism to Kilimanjaro, Serengeti and Zanzibar is a big earner."
+  },
+  "culture": {
+    "text": "Swahili, spoken across East Africa, is Tanzania's national language. Mount Kilimanjaro is Africa's highest mountain, and the Serengeti hosts the great migration. Zanzibar's Stone Town mixes African, Arab, Indian and European influences.",
+    "items": [
+      {
+        "title": "Kilimanjaro",
+        "text": "Africa's highest mountain, 5,895 metres."
+      },
+      {
+        "title": "Serengeti",
+        "text": "Plains crossed by millions of migrating animals."
+      },
+      {
+        "title": "Stone Town",
+        "text": "Zanzibar's old trading city, listed by UNESCO."
+      }
+    ],
+    "related": [
+      "KEN",
+      "OMN"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Tanzania co-hosts the 2027 Africa Cup of Nations with Kenya and Uganda. Filbert Bayi set the 1,500 m world record in 1974.",
+    "items": [
+      {
+        "title": "2027",
+        "text": "Co-hosts the Africa Cup of Nations."
+      },
+      {
+        "title": "Filbert Bayi",
+        "text": "1,500 m world record holder in 1974."
+      }
+    ],
+    "related": [
+      "KEN",
+      "UGA"
+    ]
   }
 }

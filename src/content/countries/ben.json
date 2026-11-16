@@ -42,5 +42,48 @@
         "text": "A national conference opens the way to free elections."
       }
     ]
+  },
+  "government": {
+    "text": "Benin is a presidential republic. The President, elected every five years, is head of state and government. Benin was praised for its peaceful democratic transitions after 1990, but recent elections have excluded major opposition parties.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Benin is a major cotton producer, and cotton is its biggest export. The port of Cotonou handles much trade with Nigeria and landlocked neighbours. Cashews and farming are also important."
+  },
+  "culture": {
+    "text": "Benin is the birthplace of Vodun, often called voodoo, which is an official religion with a national holiday every January. The royal palaces of Abomey, home to the kings of Dahomey, are a UNESCO site. The singer Angélique Kidjo, a Grammy winner, is from Benin.",
+    "items": [
+      {
+        "title": "Vodun Day",
+        "text": "A national holiday on 10 January."
+      },
+      {
+        "title": "Royal Palaces of Abomey",
+        "text": "Clay palaces decorated with bas-reliefs."
+      },
+      {
+        "title": "Ganvié",
+        "text": "A village of houses on stilts in a lake."
+      }
+    ],
+    "related": [
+      "NGA",
+      "TGO",
+      "FRA"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Benin reached the quarter-finals of the Africa Cup of Nations in 2019. Its fans call the team 'the Cheetahs'.",
+    "items": [
+      {
+        "title": "2019",
+        "text": "Africa Cup of Nations quarter-finalists."
+      }
+    ]
   }
 }

@@ -42,5 +42,48 @@
         "text": "The army overthrows the elected president."
       }
     ]
+  },
+  "government": {
+    "text": "Niger has been ruled by the military since July 2023, when soldiers overthrew the elected President, Mohamed Bazoum. The junta expelled French troops and, with Mali and Burkina Faso, left ECOWAS to form the Alliance of Sahel States.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Military junta"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Niger is one of the poorest countries in the world. It is a major producer of uranium and has begun exporting oil through a pipeline to Benin. Most people are farmers and herders."
+  },
+  "culture": {
+    "text": "Most of Niger is in the Sahara and Sahel. Agadez's mud-brick minaret, one of the tallest in the world, is a UNESCO site. The Gerewol festival of the Wodaabe people, where young men dance to impress women, is famous.",
+    "items": [
+      {
+        "title": "Agadez minaret",
+        "text": "A 27-metre mud-brick minaret."
+      },
+      {
+        "title": "Gerewol",
+        "text": "A Wodaabe festival of dance and beauty."
+      },
+      {
+        "title": "Giraffes of Kouré",
+        "text": "West Africa's last wild giraffes."
+      }
+    ],
+    "related": [
+      "MLI",
+      "NGA",
+      "TCD"
+    ]
+  },
+  "sport": {
+    "text": "Football and traditional wrestling are the most popular sports; the national wrestling championship is a big event. Abdoul Razak Issoufou won taekwondo silver at the 2016 Olympics.",
+    "items": [
+      {
+        "title": "Traditional wrestling",
+        "text": "The national sport, with a yearly championship."
+      }
+    ]
   }
 }

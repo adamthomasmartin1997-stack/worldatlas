@@ -39,5 +39,43 @@
         "text": "Africa's first elected female head of state is voted in; she takes office in January 2006."
       }
     ]
+  },
+  "government": {
+    "text": "Liberia is a presidential republic modelled on the United States. The President is elected for up to two six-year terms. Since civil war ended in 2003, Liberia has had several peaceful elections, including a handover of power to the opposition in 2024.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Iron ore, gold, rubber and timber are Liberia's main exports. Liberia also has one of the largest ship registers in the world. It uses both the Liberian dollar and the US dollar."
+  },
+  "culture": {
+    "text": "Liberia was founded by freed Black Americans, and its flag, capital (Monrovia, named after US President Monroe) and laws show American influence. It is Africa's oldest republic.",
+    "items": [
+      {
+        "title": "Africa's oldest republic",
+        "text": "Independent since 1847."
+      },
+      {
+        "title": "Providence Island",
+        "text": "Where freed American settlers first landed."
+      }
+    ],
+    "related": [
+      "USA",
+      "SLE"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. George Weah, the only African to win the Ballon d'Or, in 1995, later became President of Liberia from 2018 to 2024.",
+    "items": [
+      {
+        "title": "George Weah",
+        "text": "Ballon d'Or winner who became President."
+      }
+    ]
   }
 }

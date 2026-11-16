@@ -42,5 +42,47 @@
         "text": "Protests force out Blaise Compaoré after 27 years."
       }
     ]
+  },
+  "government": {
+    "text": "Burkina Faso has been ruled by the military since two coups in 2022. The junta has delayed elections and, together with Mali and Niger, left the West African bloc ECOWAS to form the Alliance of Sahel States. Armed groups control large parts of the country.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Military junta"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Gold is Burkina Faso's biggest export, and cotton is also important. Most people live from farming. Fighting has forced millions from their homes."
+  },
+  "culture": {
+    "text": "Burkina Faso hosts FESPACO, Africa's largest film festival, in Ouagadougou every two years. The country is also known for mud-brick architecture, bronze casting and masks.",
+    "items": [
+      {
+        "title": "FESPACO",
+        "text": "The Pan-African Film Festival, held since 1969."
+      },
+      {
+        "title": "Painted houses of Tiébélé",
+        "text": "Earth houses decorated with geometric patterns."
+      }
+    ],
+    "related": [
+      "MLI",
+      "NER"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport; Burkina Faso reached the Africa Cup of Nations final in 2013. Triple jumper Hugues Fabrice Zango won the country's first Olympic medal, a bronze, in 2021.",
+    "items": [
+      {
+        "title": "2013",
+        "text": "Africa Cup of Nations finalists."
+      },
+      {
+        "title": "Hugues Fabrice Zango",
+        "text": "Triple jump world champion in 2023."
+      }
+    ]
   }
 }

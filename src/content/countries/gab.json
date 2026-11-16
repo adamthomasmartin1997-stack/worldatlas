@@ -45,5 +45,48 @@
         "text": "The army ends the Bongo family's rule."
       }
     ]
+  },
+  "government": {
+    "text": "Gabon was ruled by the Bongo family for 56 years until a military coup in 2023. The coup leader, Brice Oligui Nguema, won a presidential election in 2025 and was sworn in as civilian President.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Oil makes up most of Gabon's exports, along with manganese and timber. It is richer per person than most African countries, but many people are poor."
+  },
+  "culture": {
+    "text": "About 88% of Gabon is covered by rainforest, and it has more forest elephants than any other country. Bwiti, a spiritual tradition involving music and ceremonies, is practised by many Gabonese.",
+    "items": [
+      {
+        "title": "Lopé National Park",
+        "text": "Rainforest and savanna listed by UNESCO."
+      },
+      {
+        "title": "Surfing hippos",
+        "text": "Hippos at Loango swim in the sea."
+      }
+    ],
+    "related": [
+      "CMR",
+      "COG",
+      "FRA"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Gabon co-hosted the 2012 Africa Cup of Nations and hosted the 2017 edition. Pierre-Emerick Aubameyang, Gabon's record scorer, has starred for Arsenal and Barcelona.",
+    "items": [
+      {
+        "title": "Pierre-Emerick Aubameyang",
+        "text": "African Footballer of the Year in 2015."
+      },
+      {
+        "title": "2012",
+        "text": "Taekwondo silver, Gabon's first Olympic medal."
+      }
+    ]
   }
 }

@@ -50,5 +50,59 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Ethiopia is a federal parliamentary republic of regional states based largely on ethnicity. Parliament chooses the Prime Minister, who holds most power. A war in the Tigray region from 2020 to 2022 killed hundreds of thousands of people. Addis Ababa is home to the African Union.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Ethiopia has one of Africa's fastest-growing economies. Coffee, which originated there, is its biggest export, along with flowers, gold and oilseeds. Ethiopian Airlines is the largest airline in Africa. The Grand Ethiopian Renaissance Dam on the Nile is Africa's biggest hydropower project."
+  },
+  "culture": {
+    "text": "Ethiopia has its own calendar, about seven years behind the Western one, and its own script, Ge'ez. It was never fully colonised. Coffee ceremonies and injera, a spongy flatbread, are central to daily life. The rock-hewn churches of Lalibela are a UNESCO site.",
+    "items": [
+      {
+        "title": "Lalibela",
+        "text": "Eleven churches carved from solid rock."
+      },
+      {
+        "title": "Ethiopian calendar",
+        "text": "Thirteen months; New Year is in September."
+      },
+      {
+        "title": "Coffee",
+        "text": "Legend says a goatherd discovered it in Ethiopia."
+      }
+    ],
+    "related": [
+      "ERI",
+      "DJI"
+    ]
+  },
+  "sport": {
+    "text": "Ethiopia is a distance-running superpower. Abebe Bikila won the 1960 Olympic marathon barefoot, the first Olympic gold for a Black African. Haile Gebrselassie, Tirunesh Dibaba and Kenenisa Bekele are among the greatest runners ever.",
+    "items": [
+      {
+        "title": "1960",
+        "text": "Abebe Bikila won the Olympic marathon barefoot in Rome."
+      },
+      {
+        "title": "Haile Gebrselassie",
+        "text": "Set 27 world records."
+      },
+      {
+        "title": "Kenenisa Bekele",
+        "text": "Held the 5,000 m and 10,000 m world records for over 15 years."
+      }
+    ],
+    "related": [
+      "ITA",
+      "KEN"
+    ]
   }
 }

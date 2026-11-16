@@ -55,5 +55,44 @@
         "text": "Fighting breaks out between the army and the RSF."
       }
     ]
+  },
+  "government": {
+    "text": "Sudan has been at war since April 2023, when fighting broke out between the army and the Rapid Support Forces. The war has caused the world's largest displacement crisis, with millions forced from their homes, and famine in some areas.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Military-led (civil war)"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Before the war, Sudan exported gold, livestock, sesame and gum arabic. The war has wrecked the economy."
+  },
+  "culture": {
+    "text": "Sudan has more pyramids than Egypt, built by the kings of Kush at Meroë. The Blue and White Niles meet at Khartoum. Sudanese culture mixes Arab and African traditions.",
+    "items": [
+      {
+        "title": "Meroë pyramids",
+        "text": "Around 200 steep pyramids of the Kushite kings."
+      },
+      {
+        "title": "Confluence of the Niles",
+        "text": "The Blue and White Nile join at Khartoum."
+      }
+    ],
+    "related": [
+      "EGY",
+      "SSD",
+      "TCD"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Sudan won the Africa Cup of Nations in 1970.",
+    "items": [
+      {
+        "title": "1970",
+        "text": "Africa Cup of Nations champions."
+      }
+    ]
   }
 }

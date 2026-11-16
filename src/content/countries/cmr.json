@@ -50,5 +50,52 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Cameroon is a presidential republic. Paul Biya has been President since 1982, one of the longest-serving leaders in the world. Since 2017 conflict in the English-speaking regions has killed thousands, and armed groups operate in the far north.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Cameroon exports oil, timber, cocoa, coffee, cotton and bananas. Its port of Douala serves landlocked neighbours."
+  },
+  "culture": {
+    "text": "Cameroon is called 'Africa in miniature' because it has deserts, rainforests, mountains and beaches. It has more than 250 ethnic groups, and both French and English are official languages. Makossa music began in Douala.",
+    "items": [
+      {
+        "title": "Mount Cameroon",
+        "text": "An active volcano and West Africa's highest peak."
+      },
+      {
+        "title": "Makossa",
+        "text": "Dance music made famous by Manu Dibango."
+      }
+    ],
+    "related": [
+      "NGA",
+      "FRA",
+      "GBR"
+    ]
+  },
+  "sport": {
+    "text": "Football is a passion. Cameroon won the Africa Cup of Nations five times and became the first African team to reach a World Cup quarter-final, in 1990. Roger Milla, Samuel Eto'o and Francis Ngannou, a UFC champion, are national heroes.",
+    "items": [
+      {
+        "title": "1990",
+        "text": "First African team in a World Cup quarter-final."
+      },
+      {
+        "title": "2000",
+        "text": "Olympic football gold."
+      },
+      {
+        "title": "Samuel Eto'o",
+        "text": "Won the Champions League three times."
+      }
+    ]
   }
 }

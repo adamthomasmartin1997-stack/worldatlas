@@ -45,5 +45,43 @@
         "text": "Peace agreements lead to elections."
       }
     ]
+  },
+  "government": {
+    "text": "Burundi is a presidential republic. Power has been held by the CNDD-FDD party since 2005. Pierre Nkurunziza's decision to seek a third term in 2015 caused a crisis, and many people fled the country.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Burundi is one of the poorest countries in the world. Most people are farmers, and coffee and tea are its main exports."
+  },
+  "culture": {
+    "text": "Royal drumming, in which groups of drummers perform with huge drums balanced on their heads, is Burundi's most famous tradition and is listed by UNESCO. Kirundi is spoken by nearly everyone.",
+    "items": [
+      {
+        "title": "Royal drum dance",
+        "text": "Drummers leap while playing, listed by UNESCO."
+      },
+      {
+        "title": "Lake Tanganyika",
+        "text": "One of the deepest lakes in the world."
+      }
+    ],
+    "related": [
+      "RWA",
+      "TZA"
+    ]
+  },
+  "sport": {
+    "text": "Football and athletics are popular. Runner Vénuste Niyongabo won the 5,000 m at the 1996 Olympics, Burundi's first gold medal, and Francine Niyonsaba won 800 m silver in 2016.",
+    "items": [
+      {
+        "title": "1996",
+        "text": "Vénuste Niyongabo won Olympic 5,000 m gold."
+      }
+    ]
   }
 }

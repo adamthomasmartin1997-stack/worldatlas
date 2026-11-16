@@ -52,5 +52,43 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Sierra Leone is a presidential republic. Since its civil war ended in 2002, it has held regular elections, with power changing hands peacefully in 2007 and 2018.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Mining of iron ore, diamonds, rutile and gold dominates exports. Most people farm, growing rice and cassava."
+  },
+  "culture": {
+    "text": "Krio, an English-based creole, is spoken by nearly everyone. The Cotton Tree in Freetown was a symbol of the city for centuries until a storm toppled it in 2023. Bunce Island is a former slave-trading fort.",
+    "items": [
+      {
+        "title": "Krio",
+        "text": "The common language of Sierra Leone."
+      },
+      {
+        "title": "Cotton Tree",
+        "text": "Freetown's landmark tree, fallen in 2023."
+      }
+    ],
+    "related": [
+      "LBR",
+      "GBR"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. The national team is nicknamed the Leone Stars.",
+    "items": [
+      {
+        "title": "Leone Stars",
+        "text": "The men's football team."
+      }
+    ]
   }
 }

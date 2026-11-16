@@ -41,5 +41,43 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Guinea has been led by the military since a coup in 2021. A new constitution approved in 2025 allowed the coup leader, Mamadi Doumbouya, to run for President.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Military-led transition"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Guinea has the world's largest reserves of bauxite, used to make aluminium, and is one of its biggest exporters. The giant Simandou iron ore mine began exporting in 2025."
+  },
+  "culture": {
+    "text": "Guinea is known for its music and dance, from the griot traditions of the Mande to the famous national ballet, Les Ballets Africains. The Fouta Djallon highlands are called 'the water tower of West Africa' because the Niger, Senegal and Gambia rivers start there.",
+    "items": [
+      {
+        "title": "Les Ballets Africains",
+        "text": "A world-touring dance company founded in 1952."
+      },
+      {
+        "title": "Fouta Djallon",
+        "text": "Highlands where three great rivers begin."
+      }
+    ],
+    "related": [
+      "MLI",
+      "SEN"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Guinea reached the Africa Cup of Nations final in 1976.",
+    "items": [
+      {
+        "title": "1976",
+        "text": "Africa Cup of Nations runners-up."
+      }
+    ]
   }
 }

@@ -48,5 +48,44 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Chad is a presidential republic. Idriss Déby ruled from 1990 until he was killed in 2021; his son Mahamat Déby took over and won an election in 2024. The army is very powerful.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Oil is Chad's main export, along with cotton, cattle and gum arabic. It is one of the poorest countries in the world."
+  },
+  "culture": {
+    "text": "Chad has more than 200 ethnic groups; French and Arabic are official languages. Lake Chad, once one of Africa's largest lakes, has shrunk dramatically. The Ennedi plateau has spectacular rock arches and ancient paintings.",
+    "items": [
+      {
+        "title": "Ennedi Massif",
+        "text": "Sandstone arches and rock art, listed by UNESCO."
+      },
+      {
+        "title": "Lake Chad",
+        "text": "Shrunk by about 90% since the 1960s."
+      }
+    ],
+    "related": [
+      "NER",
+      "NGA",
+      "CMR"
+    ]
+  },
+  "sport": {
+    "text": "Football and basketball are the most popular sports. Traditional wrestling is also widely enjoyed.",
+    "items": [
+      {
+        "title": "Wrestling",
+        "text": "A traditional sport across the Sahel."
+      }
+    ]
   }
 }

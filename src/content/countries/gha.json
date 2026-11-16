@@ -45,5 +45,59 @@
         "text": "A new constitution brings multi-party elections."
       }
     ]
+  },
+  "government": {
+    "text": "Ghana is a presidential republic and one of Africa's most stable democracies, with power changing hands peacefully several times. The President is elected for up to two four-year terms.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Ghana is Africa's largest gold producer and the world's second-largest cocoa producer. It also exports oil. The economy went through a debt crisis in 2022 and has been recovering."
+  },
+  "culture": {
+    "text": "Kente cloth, hand-woven in bright strips, is a symbol of Ghana and listed by UNESCO. Highlife and Afrobeats music, and jollof rice, are part of Ghana's friendly rivalry with Nigeria. Accra's Year of Return in 2019 welcomed people of the African diaspora.",
+    "items": [
+      {
+        "title": "Kente",
+        "text": "Hand-woven strips of colourful cloth."
+      },
+      {
+        "title": "Cape Coast Castle",
+        "text": "A former slave-trading fort, listed by UNESCO."
+      },
+      {
+        "title": "Fantasy coffins",
+        "text": "Coffins shaped like fish, cars or shoes."
+      }
+    ],
+    "related": [
+      "NGA",
+      "CIV",
+      "GBR"
+    ]
+  },
+  "sport": {
+    "text": "Football is Ghana's passion. It has won the Africa Cup of Nations four times and reached the World Cup quarter-finals in 2010. Boxing has produced several world champions, such as Azumah Nelson.",
+    "items": [
+      {
+        "title": "2010",
+        "text": "Reached the World Cup quarter-finals."
+      },
+      {
+        "title": "Africa Cup of Nations",
+        "text": "Four titles."
+      },
+      {
+        "title": "Azumah Nelson",
+        "text": "World boxing champion in two weight classes."
+      }
+    ],
+    "related": [
+      "URY"
+    ]
   }
 }

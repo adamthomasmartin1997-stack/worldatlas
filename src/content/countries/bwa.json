@@ -40,5 +40,51 @@
         "text": "Diamonds are discovered at Orapa."
       }
     ]
+  },
+  "government": {
+    "text": "Botswana is a parliamentary republic in which parliament elects the President, who is head of state and government. It has held free elections since independence in 1966. In 2024 the governing party lost power for the first time, and the change of government was peaceful.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Diamonds turned Botswana from one of the poorest countries in the world into an upper-middle-income country. It is one of the world's largest producers of diamonds by value. Beef and tourism are also important."
+  },
+  "culture": {
+    "text": "Botswana is home to the Okavango Delta, a vast inland wetland teeming with wildlife, and the Kalahari Desert. It has the largest elephant population in the world. The San people have lived in the Kalahari for tens of thousands of years.",
+    "items": [
+      {
+        "title": "Okavango Delta",
+        "text": "A river delta that floods the desert every year, listed by UNESCO."
+      },
+      {
+        "title": "Elephants",
+        "text": "About 130,000 elephants, the most of any country."
+      },
+      {
+        "title": "Tsodilo Hills",
+        "text": "Rock art sacred to the San."
+      }
+    ],
+    "related": [
+      "ZAF",
+      "NAM"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. In 2024 sprinter Letsile Tebogo won the Olympic 200 m, Botswana's first gold medal, and its men's relay team won silver.",
+    "items": [
+      {
+        "title": "2024",
+        "text": "Letsile Tebogo won Olympic gold in the 200 m."
+      },
+      {
+        "title": "Nijel Amos",
+        "text": "Won 800 m silver at the 2012 Olympics."
+      }
+    ]
   }
 }

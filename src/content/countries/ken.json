@@ -48,5 +48,58 @@
         "text": "Wangari Maathai wins for her tree-planting movement."
       }
     ]
+  },
+  "government": {
+    "text": "Kenya is a presidential republic with 47 counties. Its 2010 constitution limits the President to two five-year terms. Elections have sometimes been followed by violence, as in 2007–08. In 2024 youth-led protests forced the government to withdraw tax increases.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Kenya has East Africa's largest economy. It exports tea, flowers and coffee, and tourism, especially safaris, is important. Kenya is a leader in mobile money: M-Pesa, launched in 2007, lets people pay with their phones."
+  },
+  "culture": {
+    "text": "Kenya has more than 40 ethnic groups, and Swahili and English are official. The Maasai Mara's great wildebeest migration is one of the world's great wildlife spectacles. Wangari Maathai won the Nobel Peace Prize in 2004.",
+    "items": [
+      {
+        "title": "Great Migration",
+        "text": "About 1.5 million wildebeest cross the Mara River each year."
+      },
+      {
+        "title": "M-Pesa",
+        "text": "Mobile money used by most adults."
+      },
+      {
+        "title": "Lamu",
+        "text": "A Swahili town listed by UNESCO."
+      }
+    ],
+    "related": [
+      "TZA",
+      "ETH"
+    ]
+  },
+  "sport": {
+    "text": "Kenya is famous for distance running. Eliud Kipchoge became the first person to run a marathon in under two hours in 2019 and won Olympic gold twice. Faith Kipyegon is a three-time Olympic 1,500 m champion. Kenya's rugby sevens team is also strong.",
+    "items": [
+      {
+        "title": "Eliud Kipchoge",
+        "text": "Ran a marathon in 1:59:40 in 2019."
+      },
+      {
+        "title": "Faith Kipyegon",
+        "text": "Olympic 1,500 m champion in 2016, 2021 and 2024."
+      },
+      {
+        "title": "David Rudisha",
+        "text": "800 m world record holder."
+      }
+    ],
+    "related": [
+      "ETH"
+    ]
   }
 }

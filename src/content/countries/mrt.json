@@ -37,5 +37,47 @@
         "text": "Slavery is formally abolished; it becomes a crime in 2007."
       }
     ]
+  },
+  "government": {
+    "text": "Mauritania is a presidential republic. In 2019 it had its first peaceful handover of power between elected presidents since independence.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Iron ore, gold, fish and copper are Mauritania's main exports. A big offshore gas project began production in 2025."
+  },
+  "culture": {
+    "text": "Mauritania is mostly desert. The old trading towns of Chinguetti and Ouadane hold libraries of ancient manuscripts. The Richat Structure, called the 'Eye of the Sahara', is a giant circular landform visible from space.",
+    "items": [
+      {
+        "title": "Eye of the Sahara",
+        "text": "A 40-kilometre wide circular rock formation."
+      },
+      {
+        "title": "Chinguetti",
+        "text": "A desert town of libraries, listed by UNESCO."
+      },
+      {
+        "title": "Iron ore train",
+        "text": "One of the longest trains in the world."
+      }
+    ],
+    "related": [
+      "SEN",
+      "MAR"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Mauritania won its first Africa Cup of Nations match in 2024.",
+    "items": [
+      {
+        "title": "2024",
+        "text": "Beat Algeria for their first ever AFCON win."
+      }
+    ]
   }
 }

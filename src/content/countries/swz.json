@@ -43,5 +43,43 @@
         "text": "The king renames the country."
       }
     ]
+  },
+  "government": {
+    "text": "Eswatini is Africa's last absolute monarchy. King Mswati III, who has reigned since 1986, appoints the Prime Minister and much of parliament. Political parties cannot take part in elections. Protests in 2021 were violently suppressed.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Absolute monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Eswatini's economy is closely tied to South Africa. Sugar, soft drink concentrate and textiles are its main exports."
+  },
+  "culture": {
+    "text": "Swazi traditions remain strong. The Umhlanga, or Reed Dance, brings tens of thousands of young women to the royal residence each year. Incwala is a sacred kingship ceremony.",
+    "items": [
+      {
+        "title": "Umhlanga",
+        "text": "The Reed Dance, a yearly festival."
+      },
+      {
+        "title": "Mlilwane",
+        "text": "A wildlife sanctuary in the Ezulwini Valley."
+      }
+    ],
+    "related": [
+      "ZAF",
+      "MOZ"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and the national team is nicknamed Sihlangu Semnikati, after a royal shield. Wildlife reserves and mountain trails also make Eswatini popular for hiking and cycling.",
+    "items": [
+      {
+        "title": "Sihlangu Semnikati",
+        "text": "The men's national football team."
+      }
+    ]
   }
 }

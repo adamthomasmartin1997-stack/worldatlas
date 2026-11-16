@@ -48,5 +48,47 @@
         "text": "The first multi-party elections are held."
       }
     ]
+  },
+  "government": {
+    "text": "Cabo Verde is a parliamentary republic and one of Africa's most stable democracies, with regular peaceful changes of government since 1991. Parliament chooses the Prime Minister, and the President is elected directly.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Cabo Verde has few natural resources and little rain. Tourism is its biggest industry, and money sent by Cape Verdeans abroad, of whom there are more than in the islands themselves, is also important."
+  },
+  "culture": {
+    "text": "Morna, a melancholy song style made famous by the 'barefoot diva' Cesária Évora, is listed by UNESCO. The islands' Creole culture mixes African and Portuguese roots.",
+    "items": [
+      {
+        "title": "Morna",
+        "text": "Songs of longing, listed by UNESCO in 2019."
+      },
+      {
+        "title": "Cesária Évora",
+        "text": "Grammy-winning singer who performed barefoot."
+      }
+    ],
+    "related": [
+      "PRT",
+      "GNB"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Cabo Verde qualified for its first World Cup in 2026. Basketball is also strong; the men's team played at the 2023 Basketball World Cup.",
+    "items": [
+      {
+        "title": "2026",
+        "text": "First men's football World Cup."
+      },
+      {
+        "title": "2023",
+        "text": "Played at the Basketball World Cup."
+      }
+    ]
   }
 }

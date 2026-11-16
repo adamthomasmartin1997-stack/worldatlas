@@ -49,5 +49,59 @@
         "text": "Power passes peacefully to an opposition leader."
       }
     ]
+  },
+  "government": {
+    "text": "Senegal is a presidential republic and one of Africa's most stable democracies; it has never had a coup. In 2024 Bassirou Diomaye Faye, released from prison days before the vote, was elected President.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Senegal exports fish, gold, phosphates and groundnuts. Oil and gas production began offshore in 2024. Dakar is a regional hub for business."
+  },
+  "culture": {
+    "text": "Senegal is known for teranga, a Wolof word meaning hospitality. Mbalax music, made famous by Youssou N'Dour, and the sabar drums are central to celebrations. Gorée Island, a former slave-trading centre, is a UNESCO site.",
+    "items": [
+      {
+        "title": "Gorée Island",
+        "text": "A memorial to the Atlantic slave trade."
+      },
+      {
+        "title": "Youssou N'Dour",
+        "text": "Singer and former culture minister."
+      },
+      {
+        "title": "Pink Lake",
+        "text": "Lac Rose, coloured by algae."
+      }
+    ],
+    "related": [
+      "GMB",
+      "FRA",
+      "MLI"
+    ]
+  },
+  "sport": {
+    "text": "Football is a passion. Senegal reached the World Cup quarter-finals in 2002, beating holders France, and won the Africa Cup of Nations in 2021. Laamb, Senegalese wrestling, draws huge crowds. In 2026 Dakar hosted the Youth Olympic Games, the first Olympic event held in Africa.",
+    "items": [
+      {
+        "title": "2002",
+        "text": "Beat France and reached the World Cup quarter-finals."
+      },
+      {
+        "title": "2021",
+        "text": "Africa Cup of Nations champions."
+      },
+      {
+        "title": "2026",
+        "text": "Dakar hosted the Youth Olympic Games."
+      }
+    ],
+    "related": [
+      "FRA"
+    ]
   }
 }

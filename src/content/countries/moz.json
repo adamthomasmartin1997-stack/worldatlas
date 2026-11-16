@@ -45,5 +45,51 @@
         "text": "A devastating cyclone hits Beira."
       }
     ]
+  },
+  "government": {
+    "text": "Mozambique is a presidential republic. The FRELIMO party has governed since independence in 1975. Disputed elections in 2024 led to deadly protests. An insurgency in the northern province of Cabo Delgado has displaced many people.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Mozambique exports aluminium, coal, natural gas and electricity. Huge offshore gas fields could transform its economy. Most people are farmers, and it is one of the poorest countries in the world."
+  },
+  "culture": {
+    "text": "Mozambique has a long Indian Ocean coastline and Swahili, Arab and Portuguese influences. Marrabenta music began in Maputo. Mozambique Island, the old colonial capital, is a UNESCO site. Timbila, xylophone orchestras of the Chopi people, are listed by UNESCO.",
+    "items": [
+      {
+        "title": "Mozambique Island",
+        "text": "Colonial capital listed by UNESCO."
+      },
+      {
+        "title": "Timbila",
+        "text": "Chopi xylophone music."
+      }
+    ],
+    "related": [
+      "PRT",
+      "TZA",
+      "ZAF"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Mozambique-born Eusébio starred for Portugal and Benfica. Maria Mutola won the 800 m at the 2000 Olympics, Mozambique's only gold.",
+    "items": [
+      {
+        "title": "Maria Mutola",
+        "text": "Olympic 800 m champion in 2000."
+      },
+      {
+        "title": "Eusébio",
+        "text": "Born in Maputo; the 1966 World Cup top scorer."
+      }
+    ],
+    "related": [
+      "PRT"
+    ]
   }
 }

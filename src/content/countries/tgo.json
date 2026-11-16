@@ -49,5 +49,43 @@
         "text": "Gnassingbé Eyadéma takes power for 38 years."
       }
     ]
+  },
+  "government": {
+    "text": "Togo has been ruled by the Gnassingbé family since 1967. In 2024 a new constitution moved Togo to a parliamentary system, in which President Faure Gnassingbé became President of the Council of Ministers with no term limits.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Togo's deep-water port at Lomé is one of the busiest in West Africa. It exports phosphates, cotton, coffee and cocoa."
+  },
+  "culture": {
+    "text": "Togo is a long, narrow country. The Koutammakou landscape, with tower-shaped mud houses of the Batammariba people, is a UNESCO site. Lomé's fetish market sells ingredients for Vodun ceremonies.",
+    "items": [
+      {
+        "title": "Koutammakou",
+        "text": "Mud tower houses listed by UNESCO."
+      }
+    ],
+    "related": [
+      "GHA",
+      "BEN"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Togo played at the 2006 World Cup. Emmanuel Adebayor was African Footballer of the Year in 2008. Canoeist Benjamin Boukpeti won Togo's first Olympic medal in 2008.",
+    "items": [
+      {
+        "title": "2006",
+        "text": "Togo's first men's World Cup."
+      },
+      {
+        "title": "Emmanuel Adebayor",
+        "text": "African Footballer of the Year in 2008."
+      }
+    ]
   }
 }

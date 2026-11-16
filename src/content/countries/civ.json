@@ -42,5 +42,47 @@
         "text": "Fighting ends with Alassane Ouattara taking office."
       }
     ]
+  },
+  "government": {
+    "text": "Côte d'Ivoire is a presidential republic. The President is elected every five years. Alassane Ouattara has been President since 2011 and won a fourth term in 2025. The official capital is Yamoussoukro, but government business is mostly in Abidjan.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Côte d'Ivoire is the world's largest producer of cocoa, the main ingredient of chocolate, growing about 40% of the world's supply. It also exports cashews, coffee, oil and gold, and has one of Africa's fastest-growing economies."
+  },
+  "culture": {
+    "text": "Côte d'Ivoire is home to more than 60 ethnic groups. Zouglou and coupé-décalé music began in Abidjan. The Basilica of Our Lady of Peace in Yamoussoukro is one of the largest churches in the world.",
+    "items": [
+      {
+        "title": "Basilica of Our Lady of Peace",
+        "text": "Modelled on St Peter's in Rome."
+      },
+      {
+        "title": "Coupé-décalé",
+        "text": "Dance music born among Ivorians in Paris and Abidjan."
+      }
+    ],
+    "related": [
+      "FRA",
+      "GHA"
+    ]
+  },
+  "sport": {
+    "text": "Football is a passion. Côte d'Ivoire won the Africa Cup of Nations in 1992, 2015 and 2024, the last as host. Didier Drogba is one of Africa's greatest players.",
+    "items": [
+      {
+        "title": "1992 · 2015 · 2024",
+        "text": "Africa Cup of Nations wins."
+      },
+      {
+        "title": "Didier Drogba",
+        "text": "Chelsea legend who helped bring a ceasefire in 2005."
+      }
+    ]
   }
 }

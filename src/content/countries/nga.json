@@ -47,5 +47,58 @@
         "text": "Civilian rule returns."
       }
     ]
+  },
+  "government": {
+    "text": "Nigeria is a federal presidential republic of 36 states and the capital territory of Abuja. The President is elected for up to two four-year terms. Civilian rule returned in 1999 after long periods of military government. Nigeria is Africa's most populous country.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Nigeria has one of the largest economies in Africa. Oil makes up most of its exports and government income. It also has a booming tech and fintech scene in Lagos, a big film industry and Africa's largest oil refinery, opened in 2024."
+  },
+  "culture": {
+    "text": "Nigeria has more than 250 ethnic groups, the largest being Hausa-Fulani, Yoruba and Igbo. Nollywood is one of the world's biggest film industries by number of films, and Afrobeats stars such as Burna Boy and Wizkid have fans worldwide. Chinua Achebe and Wole Soyinka, a Nobel winner, are famous writers.",
+    "items": [
+      {
+        "title": "Nollywood",
+        "text": "Makes more than 2,000 films a year."
+      },
+      {
+        "title": "Afrobeats",
+        "text": "Nigerian pop music with fans worldwide."
+      },
+      {
+        "title": "Wole Soyinka",
+        "text": "Won the Nobel Prize in Literature in 1986."
+      }
+    ],
+    "related": [
+      "GHA",
+      "GBR"
+    ]
+  },
+  "sport": {
+    "text": "Football is Nigeria's passion. The men's team won Olympic gold in 1996 and the Africa Cup of Nations three times, and the women's team, the Super Falcons, has won the African title a record ten times. Nigeria is also strong in athletics, boxing and basketball.",
+    "items": [
+      {
+        "title": "1996",
+        "text": "Olympic football gold."
+      },
+      {
+        "title": "Super Falcons",
+        "text": "Ten-time African women's champions."
+      },
+      {
+        "title": "Tobi Amusan",
+        "text": "100 m hurdles world record holder."
+      }
+    ],
+    "related": [
+      "ARG"
+    ]
   }
 }

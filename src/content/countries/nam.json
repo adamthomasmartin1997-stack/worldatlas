@@ -51,5 +51,52 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Namibia is a presidential republic and a stable democracy. SWAPO, which led the independence struggle, has governed since 1990. In 2025 Netumbo Nandi-Ndaitwah became Namibia's first female President.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Mining is the heart of Namibia's economy: it is one of the world's biggest producers of uranium and of gem diamonds, mostly mined from the seabed. Fishing, beef and tourism are also important."
+  },
+  "culture": {
+    "text": "Namibia is one of the least densely populated countries in the world. The Namib is the oldest desert on Earth, with towering red dunes. The Himba people are known for covering their skin and hair with red ochre. Namibia was the first country to put protection of the environment into its constitution.",
+    "items": [
+      {
+        "title": "Sossusvlei",
+        "text": "Red sand dunes over 300 metres high."
+      },
+      {
+        "title": "Skeleton Coast",
+        "text": "A foggy coast of shipwrecks."
+      },
+      {
+        "title": "Etosha",
+        "text": "A national park around a huge salt pan."
+      }
+    ],
+    "related": [
+      "ZAF",
+      "AGO",
+      "DEU"
+    ]
+  },
+  "sport": {
+    "text": "Football and rugby are popular. Frankie Fredericks won four Olympic silver medals in sprinting. Christine Mboma won 200 m silver at the 2021 Olympics.",
+    "items": [
+      {
+        "title": "Frankie Fredericks",
+        "text": "Four Olympic silvers in the 1990s."
+      },
+      {
+        "title": "Rugby",
+        "text": "Namibia has played at every Rugby World Cup since 1999."
+      }
+    ]
   }
 }

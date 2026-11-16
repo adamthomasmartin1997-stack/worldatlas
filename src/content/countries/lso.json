@@ -42,5 +42,46 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Lesotho is a constitutional monarchy. The King is head of state, and the Prime Minister leads the government with the support of the elected National Assembly. The army has interfered in politics several times.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Lesotho is surrounded by South Africa and closely linked to its economy. It sells water to South Africa through the Lesotho Highlands Water Project, and exports clothing and diamonds."
+  },
+  "culture": {
+    "text": "Lesotho is called the 'Kingdom in the Sky': it is the only country entirely above 1,000 metres. The Basotho blanket and the conical mokorotlo hat are national symbols.",
+    "items": [
+      {
+        "title": "Basotho blanket",
+        "text": "Worn as a cloak in the cool highlands."
+      },
+      {
+        "title": "Mokorotlo",
+        "text": "A woven conical hat shown on the flag."
+      },
+      {
+        "title": "Maletsunyane Falls",
+        "text": "A waterfall nearly 200 metres high."
+      }
+    ],
+    "related": [
+      "ZAF"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Pony trekking is a way of life in the mountains, and Lesotho hosts the gruelling Roof of Africa motorbike race.",
+    "items": [
+      {
+        "title": "Roof of Africa",
+        "text": "A hard enduro motorcycle race through the mountains."
+      }
+    ]
   }
 }

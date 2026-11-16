@@ -46,5 +46,52 @@
         "text": "Rebels and armed groups take the north."
       }
     ]
+  },
+  "government": {
+    "text": "Mali has been ruled by the military since coups in 2020 and 2021. The junta has delayed elections and dissolved political parties in 2025. Together with Burkina Faso and Niger, it left ECOWAS to form the Alliance of Sahel States. Armed groups control parts of the north and centre.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Military junta"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Gold is Mali's main export, along with cotton. Most people work in farming and herding along the Niger River."
+  },
+  "culture": {
+    "text": "Mali has a rich musical tradition, from griots who sing family histories to desert blues bands and stars such as Salif Keita and Amadou & Mariam. Timbuktu's ancient manuscripts and the Great Mosque of Djenné, the world's largest mud-brick building, are UNESCO sites.",
+    "items": [
+      {
+        "title": "Great Mosque of Djenné",
+        "text": "Rebuilt in mud every year by the community."
+      },
+      {
+        "title": "Timbuktu manuscripts",
+        "text": "Hundreds of thousands of historic texts."
+      },
+      {
+        "title": "Kora",
+        "text": "Played by griots across the Mande world."
+      }
+    ],
+    "related": [
+      "SEN",
+      "GIN",
+      "NER"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Mali reached the Africa Cup of Nations final in 1972. Basketball is also strong, especially for women.",
+    "items": [
+      {
+        "title": "1972",
+        "text": "Africa Cup of Nations finalists."
+      },
+      {
+        "title": "Seydou Keita",
+        "text": "Won the Champions League with Barcelona."
+      }
+    ]
   }
 }

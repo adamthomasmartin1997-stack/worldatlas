@@ -49,5 +49,60 @@
         "text": "Moroccans march into Western Sahara."
       }
     ]
+  },
+  "government": {
+    "text": "Morocco is a constitutional monarchy. The King holds significant power over religion, the army and foreign policy, and appoints the Prime Minister from the party that wins most seats in parliament. Morocco controls most of Western Sahara, whose status is disputed.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Morocco is the world's largest exporter of phosphates, used in fertiliser. It has become a big car manufacturer and exports fruit, vegetables and textiles. Tourism is major, and Africa's first high-speed railway opened in Morocco in 2018."
+  },
+  "culture": {
+    "text": "Morocco's culture mixes Arab, Amazigh (Berber), African and Andalusian influences. Its old cities, such as Marrakesh and Fez, are full of markets called souks. Tagine, couscous and mint tea are famous, and couscous is listed by UNESCO.",
+    "items": [
+      {
+        "title": "Jemaa el-Fnaa",
+        "text": "Marrakesh's square of storytellers and food stalls."
+      },
+      {
+        "title": "Chefchaouen",
+        "text": "A town painted blue."
+      },
+      {
+        "title": "Couscous",
+        "text": "Listed by UNESCO in 2020."
+      }
+    ],
+    "related": [
+      "ESP",
+      "FRA",
+      "DZA"
+    ]
+  },
+  "sport": {
+    "text": "Football is a national passion. In 2022 Morocco became the first African team to reach a World Cup semi-final. It co-hosts the 2030 World Cup with Spain and Portugal and hosted the 2025 Africa Cup of Nations. Runners such as Hicham El Guerrouj have won Olympic golds.",
+    "items": [
+      {
+        "title": "2022",
+        "text": "First African team in a World Cup semi-final."
+      },
+      {
+        "title": "2030",
+        "text": "Co-hosts the men's World Cup."
+      },
+      {
+        "title": "Hicham El Guerrouj",
+        "text": "Mile and 1,500 m world record holder."
+      }
+    ],
+    "related": [
+      "ESP",
+      "PRT"
+    ]
   }
 }

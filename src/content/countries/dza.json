@@ -45,5 +45,56 @@
         "text": "A cancelled election leads to a decade of conflict."
       }
     ]
+  },
+  "government": {
+    "text": "Algeria is a semi-presidential republic. The President, elected every five years, holds strong powers and appoints the Prime Minister. The army has long had great influence. In 2019 mass peaceful protests, called the Hirak, forced President Bouteflika to resign after 20 years.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Semi-presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Oil and natural gas make up almost all of Algeria's exports, and it is a major gas supplier to Europe through pipelines under the Mediterranean. The state controls much of the economy, and many young people struggle to find jobs."
+  },
+  "culture": {
+    "text": "Algeria is the largest country in Africa. Its culture mixes Arab, Amazigh (Berber) and French influences; Arabic and Tamazight are official languages. Raï music, from Oran, became popular worldwide. The Sahara covers more than four-fifths of the country.",
+    "items": [
+      {
+        "title": "Raï",
+        "text": "Popular music from Oran, listed by UNESCO in 2022."
+      },
+      {
+        "title": "Tassili n'Ajjer",
+        "text": "Thousands of ancient rock paintings in the Sahara."
+      },
+      {
+        "title": "Casbah of Algiers",
+        "text": "An old citadel city listed by UNESCO."
+      }
+    ],
+    "related": [
+      "FRA",
+      "MAR",
+      "TUN"
+    ]
+  },
+  "sport": {
+    "text": "Football is Algeria's passion. It won the Africa Cup of Nations in 1990 and 2019 and reached the last 16 of the 2014 World Cup. Runners such as Noureddine Morceli and Taoufik Makhloufi have won world and Olympic titles.",
+    "items": [
+      {
+        "title": "1990 · 2019",
+        "text": "Africa Cup of Nations champions."
+      },
+      {
+        "title": "Noureddine Morceli",
+        "text": "Olympic 1,500 m champion in 1996."
+      },
+      {
+        "title": "Kaylia Nemour",
+        "text": "Won Olympic gold on the uneven bars in 2024."
+      }
+    ]
   }
 }

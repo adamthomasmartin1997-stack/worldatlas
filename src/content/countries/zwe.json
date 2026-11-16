@@ -45,5 +45,52 @@
         "text": "The army forces Mugabe out after 37 years."
       }
     ]
+  },
+  "government": {
+    "text": "Zimbabwe is a presidential republic. ZANU-PF has governed since independence in 1980. Robert Mugabe ruled until the army removed him in 2017, and Emmerson Mnangagwa took over. Elections have been criticised by observers.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Zimbabwe exports gold, platinum, lithium, tobacco and diamonds. In the 2000s it suffered hyperinflation, printing a 100 trillion dollar note in 2009. It has changed currencies several times."
+  },
+  "culture": {
+    "text": "Great Zimbabwe, a stone city of the 1000s to 1400s, gave the country its name. Mbira music, played on a thumb piano, is listed by UNESCO, and Shona stone sculpture is famous worldwide.",
+    "items": [
+      {
+        "title": "Great Zimbabwe",
+        "text": "Ruins of a medieval stone city."
+      },
+      {
+        "title": "Mbira",
+        "text": "A thumb piano used in spiritual ceremonies."
+      },
+      {
+        "title": "Victoria Falls",
+        "text": "Shared with Zambia."
+      }
+    ],
+    "related": [
+      "ZMB",
+      "ZAF",
+      "MOZ"
+    ]
+  },
+  "sport": {
+    "text": "Football and cricket are popular. Swimmer Kirsty Coventry won seven Olympic medals and in 2025 became the first woman and first African to lead the International Olympic Committee.",
+    "items": [
+      {
+        "title": "Kirsty Coventry",
+        "text": "IOC President from 2025."
+      },
+      {
+        "title": "1980",
+        "text": "The women's hockey team won Olympic gold."
+      }
+    ]
   }
 }

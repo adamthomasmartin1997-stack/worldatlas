@@ -51,5 +51,51 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Eritrea is a one-party state ruled by President Isaias Afwerki since independence in 1993. No national elections have ever been held, the constitution has never come into force, and military service can be indefinite. There is no independent press.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "One-party presidential state"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Eritrea's economy relies on mining, especially gold, copper and zinc, and on farming. Many young people have fled the country."
+  },
+  "culture": {
+    "text": "Asmara, the capital, is famous for its Italian-era modernist buildings from the 1930s and is a UNESCO site. Eritrea has nine ethnic groups, and coffee ceremonies are central to social life.",
+    "items": [
+      {
+        "title": "Asmara",
+        "text": "A city of Art Deco and modernist buildings, listed by UNESCO."
+      },
+      {
+        "title": "Coffee ceremony",
+        "text": "Beans roasted and brewed in front of guests."
+      }
+    ],
+    "related": [
+      "ETH",
+      "ITA"
+    ]
+  },
+  "sport": {
+    "text": "Cycling is Eritrea's favourite sport, introduced by the Italians. Biniam Girmay became the first Black African to win a Tour de France stage, in 2024, and won the green jersey.",
+    "items": [
+      {
+        "title": "2024",
+        "text": "Biniam Girmay won three Tour de France stages and the green jersey."
+      },
+      {
+        "title": "Tour of Eritrea",
+        "text": "A national race since 1946."
+      }
+    ],
+    "related": [
+      "FRA",
+      "ITA"
+    ]
   }
 }

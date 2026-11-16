@@ -60,5 +60,56 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Tunisia began the Arab Spring in 2011 and became a democracy. Since 2021 President Kais Saied has suspended parliament, rewritten the constitution and greatly increased his own powers, and critics have been jailed.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tunisia exports olive oil, clothing, phosphates and car parts, and tourism is important. It is one of the world's largest olive oil producers."
+  },
+  "culture": {
+    "text": "Tunisia's history stretches from Carthage to Roman and Islamic cities such as Kairouan. The Star Wars films were partly shot in its desert, and the set of Luke Skywalker's home in Matmata is a hotel. Harissa, a hot chilli paste, is listed by UNESCO.",
+    "items": [
+      {
+        "title": "Carthage",
+        "text": "Ruins of the ancient city near Tunis."
+      },
+      {
+        "title": "El Djem",
+        "text": "One of the largest Roman amphitheatres."
+      },
+      {
+        "title": "Harissa",
+        "text": "Chilli paste listed by UNESCO in 2022."
+      }
+    ],
+    "related": [
+      "DZA",
+      "LBY",
+      "ITA"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Tunisia won the Africa Cup of Nations in 2004. Ons Jabeur became the first Arab woman to reach a Grand Slam final, and swimmer Ahmed Hafnaoui won Olympic gold in 2021.",
+    "items": [
+      {
+        "title": "2004",
+        "text": "Africa Cup of Nations champions."
+      },
+      {
+        "title": "Ons Jabeur",
+        "text": "Reached three Grand Slam finals."
+      },
+      {
+        "title": "Ahmed Hafnaoui",
+        "text": "Olympic 400 m freestyle champion in 2021."
+      }
+    ]
   }
 }

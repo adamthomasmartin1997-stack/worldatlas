@@ -43,5 +43,44 @@
         "text": "An uprising overthrows Gaddafi."
       }
     ]
+  },
+  "government": {
+    "text": "Libya has been divided since the civil war that followed Muammar Gaddafi's overthrow in 2011. A UN-recognised government is based in Tripoli in the west, while a rival administration backed by Khalifa Haftar's forces controls the east. National elections have been repeatedly delayed.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Contested government"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Libya has Africa's largest proven oil reserves, and oil makes up almost all of its exports and government income. Fighting has often disrupted production."
+  },
+  "culture": {
+    "text": "Libya has some of the best-preserved Roman cities in the world, such as Leptis Magna and Sabratha. Most of the country is Sahara desert. Ghadames, an oasis town of covered alleyways, is a UNESCO site.",
+    "items": [
+      {
+        "title": "Leptis Magna",
+        "text": "A Roman city with a theatre facing the sea."
+      },
+      {
+        "title": "Ghadames",
+        "text": "The 'pearl of the desert'."
+      }
+    ],
+    "related": [
+      "EGY",
+      "TUN",
+      "ITA"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Libya hosted the Africa Cup of Nations in 1982, finishing second.",
+    "items": [
+      {
+        "title": "1982",
+        "text": "Africa Cup of Nations hosts and runners-up."
+      }
+    ]
   }
 }

@@ -43,5 +43,43 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Djibouti is a presidential republic. Ismaïl Omar Guelleh has been President since 1999. Its location at the entrance to the Red Sea makes it home to military bases of the US, France, China, Japan and others.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Djibouti's port and the railway to Addis Ababa handle most of Ethiopia's trade, making it a key gateway. Rent from foreign military bases is also a big income."
+  },
+  "culture": {
+    "text": "Most people are Somali or Afar, and French and Arabic are official languages. Lake Assal, at about 155 metres below sea level, is the lowest point in Africa and saltier than the Dead Sea.",
+    "items": [
+      {
+        "title": "Lake Assal",
+        "text": "The lowest point in Africa."
+      },
+      {
+        "title": "Lac Abbé",
+        "text": "Steaming limestone chimneys in the desert."
+      }
+    ],
+    "related": [
+      "ETH",
+      "FRA"
+    ]
+  },
+  "sport": {
+    "text": "Football and athletics are popular. Ahmed Salah won the bronze in the marathon at the 1988 Olympics, Djibouti's only Olympic medal.",
+    "items": [
+      {
+        "title": "1988",
+        "text": "Ahmed Salah won Olympic marathon bronze."
+      }
+    ]
   }
 }

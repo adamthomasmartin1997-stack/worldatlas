@@ -45,5 +45,51 @@
         "text": "A ceasefire ends 27 years of war."
       }
     ]
+  },
+  "government": {
+    "text": "Angola is a presidential republic. The President, who is the leader of the party that wins the parliamentary election, is head of state and government. The MPLA party has governed since independence in 1975. José Eduardo dos Santos ruled for 38 years until 2017.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Oil makes up most of Angola's exports, and it is one of Africa's biggest oil producers. It also mines diamonds. Despite this wealth, many people live in poverty. Angola left OPEC in 2024."
+  },
+  "culture": {
+    "text": "Portuguese is the official language, and Angolan music and dance, such as semba and kizomba, are popular across the Portuguese-speaking world. Kuduro, an energetic dance music, began in Luanda's streets in the 1990s.",
+    "items": [
+      {
+        "title": "Kizomba",
+        "text": "A slow, close dance from Angola, now popular worldwide."
+      },
+      {
+        "title": "Kuduro",
+        "text": "Fast electronic dance music born in Luanda."
+      },
+      {
+        "title": "Kalandula Falls",
+        "text": "One of Africa's largest waterfalls by volume."
+      }
+    ],
+    "related": [
+      "PRT",
+      "BRA"
+    ]
+  },
+  "sport": {
+    "text": "Basketball is hugely popular, and Angola has won the African championship more than any other country. Its women's handball team is one of Africa's best. Angola played at the 2006 football World Cup.",
+    "items": [
+      {
+        "title": "AfroBasket",
+        "text": "Angola's men have won the African title 11 times."
+      },
+      {
+        "title": "2006",
+        "text": "Angola's first men's World Cup."
+      }
+    ]
   }
 }

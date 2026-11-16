@@ -50,5 +50,59 @@
         "text": "Nelson Mandela becomes president after the first free elections."
       }
     ]
+  },
+  "government": {
+    "text": "South Africa is a parliamentary republic. Parliament elects the President, who is head of state and government. The African National Congress governed alone from 1994 until 2024, when it lost its majority and formed a coalition. South Africa has three capitals: Pretoria, Cape Town and Bloemfontein.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "South Africa has one of the most developed economies in Africa. It is the world's largest producer of platinum and a major producer of gold, coal and chromium. It has a large financial sector based in Johannesburg, but unemployment is very high."
+  },
+  "culture": {
+    "text": "South Africa has 12 official languages, including Zulu, Xhosa, Afrikaans and English, and is called the 'Rainbow Nation'. Nelson Mandela, imprisoned for 27 years, became its first Black president. Archbishop Desmond Tutu and Mandela both won the Nobel Peace Prize.",
+    "items": [
+      {
+        "title": "Robben Island",
+        "text": "Where Mandela was imprisoned, now a museum."
+      },
+      {
+        "title": "Table Mountain",
+        "text": "A flat-topped mountain above Cape Town."
+      },
+      {
+        "title": "Cradle of Humankind",
+        "text": "Caves with some of the oldest human fossils."
+      }
+    ],
+    "related": [
+      "BWA",
+      "NAM",
+      "LSO"
+    ]
+  },
+  "sport": {
+    "text": "Rugby, football and cricket are the biggest sports. The Springboks have won the Rugby World Cup a record four times. South Africa hosted the 2010 football World Cup, the first in Africa. Wayde van Niekerk holds the 400 m world record.",
+    "items": [
+      {
+        "title": "1995 · 2007 · 2019 · 2023",
+        "text": "Rugby World Cup wins."
+      },
+      {
+        "title": "2010",
+        "text": "Hosted the first men's World Cup in Africa."
+      },
+      {
+        "title": "Wayde van Niekerk",
+        "text": "400 m world record holder."
+      }
+    ],
+    "related": [
+      "NZL"
+    ]
   }
 }

@@ -45,5 +45,43 @@
         "text": "Rebels seize the capital, starting years of violence."
       }
     ]
+  },
+  "government": {
+    "text": "The Central African Republic is a presidential republic but has been unstable for decades, with many coups. Since 2013 armed groups have controlled much of the country. UN peacekeepers and Russian military contractors are present.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "The Central African Republic is one of the poorest countries in the world despite having diamonds, gold, uranium and timber. Most people live by subsistence farming."
+  },
+  "culture": {
+    "text": "The country has more than 80 ethnic groups; Sango is spoken by almost everyone alongside French. The Aka people of the forests are known for their polyphonic singing, listed by UNESCO.",
+    "items": [
+      {
+        "title": "Aka polyphonic singing",
+        "text": "Complex forest songs listed by UNESCO."
+      },
+      {
+        "title": "Dzanga-Sangha",
+        "text": "A forest reserve home to forest elephants and gorillas."
+      }
+    ],
+    "related": [
+      "COD",
+      "TCD"
+    ]
+  },
+  "sport": {
+    "text": "Basketball is the most popular sport, and the national team won the African championship in 1974 and 1987.",
+    "items": [
+      {
+        "title": "1974 · 1987",
+        "text": "African basketball champions."
+      }
+    ]
   }
 }

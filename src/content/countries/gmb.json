@@ -48,5 +48,43 @@
         "text": "Yahya Jammeh leaves after losing an election."
       }
     ]
+  },
+  "government": {
+    "text": "The Gambia is a presidential republic. Yahya Jammeh ruled for 22 years until he lost an election in 2016 and left after a regional intervention. Since then the country has held peaceful elections.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Farming, especially groundnuts, tourism and money from Gambians abroad support the economy."
+  },
+  "culture": {
+    "text": "The Gambia is the smallest country on mainland Africa, a narrow strip along the Gambia River surrounded by Senegal. Griots, storytellers and musicians, keep oral history alive, and the kora, a 21-string harp-lute, is a national instrument. The book Roots traced its author's ancestry to Juffureh.",
+    "items": [
+      {
+        "title": "Kunta Kinteh Island",
+        "text": "A former slave-trading post, listed by UNESCO."
+      },
+      {
+        "title": "Kora",
+        "text": "A harp-lute played by griots."
+      }
+    ],
+    "related": [
+      "SEN",
+      "USA"
+    ]
+  },
+  "sport": {
+    "text": "Football and wrestling are popular. The Gambia reached the quarter-finals of the Africa Cup of Nations at its first attempt in 2022.",
+    "items": [
+      {
+        "title": "2022",
+        "text": "Africa Cup of Nations quarter-finalists at the first attempt."
+      }
+    ]
   }
 }

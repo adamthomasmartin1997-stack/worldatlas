@@ -40,5 +40,51 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Madagascar has had several coups and political crises. In October 2025 youth-led protests over water and power cuts were followed by a military takeover, and President Andry Rajoelina fled the country.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Semi-presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Madagascar is the world's largest producer of vanilla. It also exports cloves, nickel, cobalt and textiles. Most people are farmers growing rice, and it is one of the poorest countries in the world."
+  },
+  "culture": {
+    "text": "Madagascar split from other landmasses so long ago that about 90% of its plants and animals are found nowhere else, including all of the world's lemurs. The Avenue of the Baobabs is lined with giant ancient trees. Famadihana, 'the turning of the bones', is a ceremony honouring ancestors.",
+    "items": [
+      {
+        "title": "Lemurs",
+        "text": "More than 100 species, found only in Madagascar."
+      },
+      {
+        "title": "Avenue of the Baobabs",
+        "text": "Giant trees up to 800 years old."
+      },
+      {
+        "title": "Vanilla",
+        "text": "Most of the world's vanilla comes from here."
+      }
+    ],
+    "related": [
+      "FRA",
+      "COM"
+    ]
+  },
+  "sport": {
+    "text": "Rugby union is the national sport and draws huge crowds in Antananarivo. In football, Madagascar reached the Africa Cup of Nations quarter-finals at its first attempt in 2019.",
+    "items": [
+      {
+        "title": "2019",
+        "text": "Africa Cup of Nations quarter-finals at the first attempt."
+      },
+      {
+        "title": "Rugby",
+        "text": "The national sport, with huge crowds in Antananarivo."
+      }
+    ]
   }
 }

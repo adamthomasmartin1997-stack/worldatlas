@@ -45,5 +45,51 @@
         "text": "A federal government is formed."
       }
     ]
+  },
+  "government": {
+    "text": "Somalia is a federal parliamentary republic rebuilding after decades of civil war. Parliament elects the President. The armed group al-Shabaab controls parts of the south. Somaliland in the north has declared independence but is not recognised by other countries.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Livestock, especially camels, goats and sheep, is Somalia's main export. Money sent by Somalis abroad and mobile money are vital. Droughts often cause hunger."
+  },
+  "culture": {
+    "text": "Somalia is often called a 'nation of poets', and oral poetry is highly respected. It has the longest coastline on mainland Africa. Somalia has more camels than any other country.",
+    "items": [
+      {
+        "title": "Oral poetry",
+        "text": "Poems composed and recited from memory."
+      },
+      {
+        "title": "Camels",
+        "text": "Somalia has around 7 million."
+      },
+      {
+        "title": "Laas Geel",
+        "text": "Cave paintings thousands of years old."
+      }
+    ],
+    "related": [
+      "ETH",
+      "KEN",
+      "DJI"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Somalia-born runner Mo Farah won four Olympic golds for Great Britain.",
+    "items": [
+      {
+        "title": "Mo Farah",
+        "text": "Born in Mogadishu; double Olympic champion in 2012 and 2016."
+      }
+    ],
+    "related": [
+      "GBR"
+    ]
   }
 }
