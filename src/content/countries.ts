@@ -21,3 +21,21 @@ const byCode = new Map(Object.entries(files).map(([path, data]) => [path.match(/
 export function contentFor(cca3: string): CountryContent | undefined {
   return byCode.get(cca3.toUpperCase());
 }
+
+export interface DatedEvent { cca3: string; year: number; label: string; title: string; text: string }
+
+/** Parse "1789" or "750 BC" into a number (BC negative). Fuzzy years such as "1500s" return null. */
+export function parseYear(y: string): number | null {
+  const m = y.trim().match(/^(\d{1,4})( BC)?$/);
+  if (!m) return null;
+  return m[2] ? -Number(m[1]) : Number(m[1]);
+}
+
+/** Every history event with an exact year, across all countries. */
+export function datedEvents(): DatedEvent[] {
+  return [...byCode.entries()].flatMap(([cca3, c]) =>
+    (c.history?.events ?? []).flatMap((e) => {
+      const year = parseYear(e.year);
+      return year == null ? [] : [{ cca3, year, label: e.year, title: e.title, text: e.text }];
+    }));
+}

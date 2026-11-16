@@ -15,6 +15,11 @@ import { Flags } from './pages/games/Flags';
 import { Silhouettes } from './pages/games/Silhouettes';
 import { MysteryCountry } from './pages/games/MysteryCountry';
 import { HigherLower } from './pages/games/HigherLower';
+import { BorderChain } from './pages/games/BorderChain';
+import { WhichCameFirst } from './pages/games/WhichCameFirst';
+import { WhoAmI } from './pages/games/WhoAmI';
+import { SpeedRound } from './pages/games/SpeedRound';
+import { NameTheCapitals } from './pages/games/NameTheCapitals';
 import { Data } from './pages/Data';
 import { DataSources } from './pages/DataSources';
 import { NotFound } from './pages/NotFound';
@@ -39,6 +44,11 @@ const router = createRouter([
       { path: '/games/silhouettes', element: <Silhouettes /> },
       { path: '/games/mystery', element: <MysteryCountry /> },
       { path: '/games/higher-lower', element: <HigherLower /> },
+      { path: '/games/border-chain', element: <BorderChain /> },
+      { path: '/games/which-came-first', element: <WhichCameFirst /> },
+      { path: '/games/who-am-i', element: <WhoAmI /> },
+      { path: '/games/speed-round', element: <SpeedRound /> },
+      { path: '/games/name-the-capitals', element: <NameTheCapitals /> },
       { path: '/data', element: <Data /> },
       { path: '/data/sources', element: <DataSources /> },
       { path: '*', element: <NotFound /> },

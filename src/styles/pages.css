@@ -279,3 +279,37 @@ a.chip:hover { color: var(--ink); background: var(--sun); transform: translate(2
 .hl-value { font: 800 clamp(1.4rem, 4vw, 2rem)/1.1 var(--font-display); margin: 0; overflow-wrap: anywhere; }
 .hl-year { margin: 0; font-size: 14px; }
 @media (max-width: 480px) { .hl-pair { grid-template-columns: 1fr; } }
+
+/* Which came first? */
+.order-list { list-style: none; margin: 0 0 var(--space-6); padding: 0; display: grid; gap: var(--space-3); counter-reset: order; }
+.order-item { display: grid; grid-template-columns: auto minmax(0, 1fr) auto; gap: var(--space-3); align-items: center; padding: var(--space-3) var(--space-4); border: var(--outline); border-radius: var(--radius-control); background: var(--surface); counter-increment: order; }
+.order-item::before { content: counter(order); font: 800 1.4rem/1 var(--font-display); width: 1.5em; text-align: center; }
+.order-item.correct { background: var(--green); }
+.order-item.incorrect { background: var(--coral); }
+.order-item.correct .muted, .order-item.incorrect .muted { color: var(--ink); }
+.order-text { display: grid; gap: var(--space-1); min-width: 0; }
+.order-meta { font-size: 14px; }
+.order-moves { display: flex; flex-direction: column; gap: var(--space-2); }
+.icon-btn { display: inline-grid; place-items: center; width: 44px; height: 44px; border: var(--outline); border-radius: var(--radius-control); background: var(--surface); color: var(--ink); cursor: pointer; }
+.icon-btn:hover:not(:disabled) { background: var(--tint-green); }
+.icon-btn:disabled { opacity: 0.35; cursor: default; }
+
+/* Border chain */
+.chain { display: grid; gap: var(--space-4); }
+.chain-list { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: var(--space-2); align-items: center; }
+.chain-list li + li::before { content: '→'; margin-right: var(--space-2); font-weight: 700; }
+.chip-next { border-style: dashed; }
+.chip-goal { background: var(--sun); }
+.chain-message { min-height: 1.5em; margin: 0; }
+
+/* Who am I? */
+.who { display: grid; gap: var(--space-4); }
+.clue-list { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--space-2); }
+.clue-list li { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: var(--space-3); align-items: baseline; padding: var(--space-3) var(--space-4); border: var(--outline); border-radius: var(--radius-control); background: var(--surface); }
+.clue-list li.is-extra { background: var(--tint-green); }
+.clue-points { font-weight: 700; font-size: 14px; padding: 2px 8px; border: var(--outline); border-radius: 999px; background: var(--sun); white-space: nowrap; }
+.who-answer { display: flex; gap: var(--space-3); align-items: center; flex-wrap: wrap; }
+.who-answer .flag { width: 56px; }
+.games-group { display: grid; gap: var(--space-4); margin-bottom: var(--space-12); }
+.games-group > .muted { margin: calc(-1 * var(--space-2)) 0 0; }
+.section-title { font: 800 clamp(1.5rem, 3vw, 2rem)/1.1 var(--font-display); margin: 0; }

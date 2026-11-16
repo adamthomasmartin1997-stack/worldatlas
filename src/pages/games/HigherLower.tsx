@@ -107,7 +107,7 @@ export function HigherLower() {
           {(Object.keys(METRICS) as MetricKey[]).map((k) => <button key={k} className={k === metric ? 'on' : ''} aria-pressed={k === metric} onClick={() => set({ metric: k })}>{METRICS[k].label}</button>)}
         </div>
         <RegionPicker value={region.key} onChange={(k) => set({ region: k })} />
-        <DifficultyPicker value={level} onChange={(d) => set({ level: d })} />
+        <DifficultyPicker blurbs={{ easy: 'The two numbers are far apart.', medium: 'The numbers are fairly close.', hard: 'The numbers are very close together.' }} value={level} onChange={(d) => set({ level: d })} />
 
         <div className="quiz-card">
           <div className="quiz-progress"><span>Streak {streak}</span>{best != null && <span>Best {best}</span>}</div>
