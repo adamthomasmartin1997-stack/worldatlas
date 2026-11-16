@@ -50,5 +50,61 @@
         "text": "Free elections end military rule."
       }
     ]
+  },
+  "government": {
+    "text": "Argentina is a federal presidential republic of 23 provinces and the city of Buenos Aires. The President is elected every four years and is both head of state and head of government. Congress has two chambers, the Chamber of Deputies and the Senate.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Argentina has rich farmland in the Pampas and is one of the world's biggest exporters of soybeans, beef, wheat and corn. It also has large reserves of lithium and shale oil and gas. The economy has gone through repeated crises, with very high inflation and debt defaults."
+  },
+  "culture": {
+    "text": "Tango was born in the working-class neighbourhoods of Buenos Aires in the late 1800s and is on UNESCO's intangible heritage list. Argentines love asado, a slow barbecue, and drink mate, a herbal tea shared from a gourd. The writer Jorge Luis Borges is one of the great authors of the 1900s.",
+    "items": [
+      {
+        "title": "Tango",
+        "text": "A dance and music born in Buenos Aires and Montevideo."
+      },
+      {
+        "title": "Mate",
+        "text": "A bitter herbal tea, sipped through a metal straw and passed around."
+      },
+      {
+        "title": "Iguazú Falls",
+        "text": "Hundreds of waterfalls on the border with Brazil."
+      }
+    ],
+    "related": [
+      "URY",
+      "BRA",
+      "ESP",
+      "ITA"
+    ]
+  },
+  "sport": {
+    "text": "Football is a passion in Argentina. The men's team has won the World Cup three times, most recently in 2022 led by Lionel Messi, and Diego Maradona is a national hero. Argentina is also strong in polo, rugby and basketball.",
+    "items": [
+      {
+        "title": "1978 · 1986 · 2022",
+        "text": "Men's World Cup wins."
+      },
+      {
+        "title": "Lionel Messi",
+        "text": "Won the Ballon d'Or a record eight times."
+      },
+      {
+        "title": "Polo",
+        "text": "Argentina dominates the sport; the Argentine Open is played every year in Buenos Aires."
+      }
+    ],
+    "related": [
+      "FRA",
+      "GBR"
+    ]
   }
 }

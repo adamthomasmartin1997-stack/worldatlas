@@ -47,5 +47,59 @@
         "text": "Military rule ends."
       }
     ]
+  },
+  "government": {
+    "text": "Brazil is a federal presidential republic of 26 states and a federal district, where the capital, Brasília, stands. The President is elected every four years and is head of state and government. Congress has a Chamber of Deputies and a Senate. Voting is compulsory for adults aged 18 to 70.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Brazil has the largest economy in Latin America. It is the world's top exporter of soybeans, coffee, sugar, orange juice and beef, and a major producer of iron ore and oil. It also builds aircraft through Embraer. Most of its electricity comes from hydropower."
+  },
+  "culture": {
+    "text": "Brazil is the largest Portuguese-speaking country in the world. Its culture blends Indigenous, African and European roots. Rio de Janeiro's Carnival is one of the biggest parties on Earth, and Brazil gave the world samba and bossa nova music. The Amazon rainforest covers about 60% of the country.",
+    "items": [
+      {
+        "title": "Carnival",
+        "text": "Samba schools parade through Rio's Sambadrome every year."
+      },
+      {
+        "title": "Christ the Redeemer",
+        "text": "The 30-metre statue above Rio, finished in 1931."
+      },
+      {
+        "title": "Capoeira",
+        "text": "A martial art mixed with dance and music, listed by UNESCO."
+      }
+    ],
+    "related": [
+      "PRT",
+      "AGO"
+    ]
+  },
+  "sport": {
+    "text": "Football is a national obsession. Brazil has won the men's World Cup five times, more than any other country, and has produced legends such as Pelé, Ronaldo and Marta. Rio de Janeiro hosted the 2016 Olympics, the first in South America.",
+    "items": [
+      {
+        "title": "1958 · 1962 · 1970 · 1994 · 2002",
+        "text": "A record five men's World Cups."
+      },
+      {
+        "title": "Pelé",
+        "text": "The only player to win three World Cups."
+      },
+      {
+        "title": "2016",
+        "text": "Rio hosted the first Olympics in South America."
+      }
+    ],
+    "related": [
+      "URY",
+      "DEU"
+    ]
   }
 }

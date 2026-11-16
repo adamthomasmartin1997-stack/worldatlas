@@ -47,5 +47,58 @@
         "text": "The government signs a peace agreement with the FARC."
       }
     ]
+  },
+  "government": {
+    "text": "Colombia is a presidential republic. The President is elected every four years for a single term. Congress has a Senate and a House of Representatives. In 2016 the government signed a peace deal with the FARC rebel group, ending more than 50 years of conflict, though other armed groups remain active.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Colombia exports oil, coal, coffee, flowers and bananas. It is famous for its coffee and is the second-largest exporter of cut flowers in the world. Tourism has grown fast since the peace deal."
+  },
+  "culture": {
+    "text": "Colombia is home to the novelist Gabriel García Márquez, who won the Nobel Prize in 1982, and to musicians such as Shakira and Karol G. Cumbia and vallenato music come from its Caribbean coast. It is one of the most biodiverse countries on Earth, with more bird species than any other.",
+    "items": [
+      {
+        "title": "Gabriel García Márquez",
+        "text": "His novel One Hundred Years of Solitude made magic realism famous."
+      },
+      {
+        "title": "Cartagena",
+        "text": "A walled colonial port on the Caribbean."
+      },
+      {
+        "title": "Birds",
+        "text": "Colombia has recorded more than 1,900 bird species."
+      }
+    ],
+    "related": [
+      "ESP",
+      "VEN"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Colombia won the Copa América in 2001. Cycling is a passion: Egan Bernal became the first Latin American to win the Tour de France in 2019. The country has also won Olympic gold in weightlifting and BMX.",
+    "items": [
+      {
+        "title": "2019",
+        "text": "Egan Bernal won the Tour de France."
+      },
+      {
+        "title": "2001",
+        "text": "Copa América champions on home soil."
+      },
+      {
+        "title": "Mariana Pajón",
+        "text": "Olympic BMX champion in 2012 and 2016."
+      }
+    ],
+    "related": [
+      "FRA"
+    ]
   }
 }

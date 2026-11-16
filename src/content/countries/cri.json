@@ -35,5 +35,52 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Costa Rica is a presidential republic. The President is elected every four years and cannot serve two terms in a row. It abolished its army in 1948 and has been one of Latin America's most stable democracies ever since. Its single-chamber Legislative Assembly has 57 members.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Costa Rica's economy is built on tourism, medical devices, coffee, bananas and pineapples; it is one of the world's biggest pineapple exporters. Almost all of its electricity comes from renewable sources such as hydropower and geothermal energy."
+  },
+  "culture": {
+    "text": "Costa Ricans call themselves 'Ticos' and use the phrase 'pura vida', meaning 'pure life', as a greeting and a way of life. About a quarter of the country is protected as national parks and reserves. Painted ox carts are a national symbol listed by UNESCO.",
+    "items": [
+      {
+        "title": "Pura vida",
+        "text": "Used to say hello, goodbye, thank you and 'all good'."
+      },
+      {
+        "title": "Painted ox carts",
+        "text": "Brightly decorated carts once used to carry coffee."
+      },
+      {
+        "title": "Monteverde",
+        "text": "A cloud forest full of orchids and hummingbirds."
+      }
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Costa Rica surprised the world at the 2014 World Cup by topping a group with Uruguay, Italy and England and reaching the quarter-finals. Surfing is also popular on its Pacific coast.",
+    "items": [
+      {
+        "title": "2014",
+        "text": "Reached the World Cup quarter-finals for the first time."
+      },
+      {
+        "title": "Keylor Navas",
+        "text": "Goalkeeper who won three Champions Leagues with Real Madrid."
+      }
+    ],
+    "related": [
+      "URY",
+      "ITA",
+      "GBR"
+    ]
   }
 }

@@ -49,5 +49,51 @@
         "text": "Evo Morales takes office."
       }
     ]
+  },
+  "government": {
+    "text": "Bolivia is a presidential republic; its constitution calls it a 'plurinational state', recognising its many Indigenous nations. The President is elected every five years. La Paz is the seat of government, while Sucre is the constitutional capital. It recognises 37 official languages.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Bolivia's economy relies on natural gas, mining, especially zinc, silver and tin, and farming. Its salt flats hold some of the world's largest lithium reserves, used in batteries. Many people work in informal jobs."
+  },
+  "culture": {
+    "text": "More than half of Bolivians are Indigenous, mainly Quechua and Aymara. The Carnival of Oruro, with its Diablada devil dance, is listed by UNESCO. Women in La Paz often wear bowler hats and layered skirts, and some compete as 'cholita' wrestlers.",
+    "items": [
+      {
+        "title": "Salar de Uyuni",
+        "text": "The world's largest salt flat, which turns into a giant mirror after rain."
+      },
+      {
+        "title": "Carnival of Oruro",
+        "text": "A festival of masked dances listed by UNESCO."
+      },
+      {
+        "title": "Mi Teleférico",
+        "text": "La Paz's cable cars, the highest urban cable car network in the world."
+      }
+    ],
+    "related": [
+      "PER",
+      "CHL"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Bolivia's capital La Paz sits at about 3,600 metres, and visiting teams often struggle with the thin air. Bolivia won the South American Championship in 1963.",
+    "items": [
+      {
+        "title": "1963",
+        "text": "Bolivia won the Copa América as host."
+      },
+      {
+        "title": "Estadio Hernando Siles",
+        "text": "One of the highest international football stadiums in the world."
+      }
+    ]
   }
 }

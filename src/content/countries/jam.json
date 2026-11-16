@@ -52,5 +52,58 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Jamaica is a constitutional monarchy within the Commonwealth, with the British monarch as head of state, represented by a Governor-General. The Prime Minister leads the government. Jamaica has discussed becoming a republic.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism, money sent home from Jamaicans abroad and bauxite, the ore used to make aluminium, are major parts of the economy. Jamaica also exports coffee, including Blue Mountain coffee, and rum."
+  },
+  "culture": {
+    "text": "Jamaica has had a huge influence on world music. Reggae, made famous by Bob Marley, is on UNESCO's heritage list, and ska, dub and dancehall also began there. Jamaican food such as jerk chicken and ackee and saltfish is popular worldwide.",
+    "items": [
+      {
+        "title": "Reggae",
+        "text": "Listed by UNESCO in 2018."
+      },
+      {
+        "title": "Bob Marley",
+        "text": "His album Exodus was named album of the century by Time magazine."
+      },
+      {
+        "title": "Jerk",
+        "text": "Meat rubbed with spices and smoked over pimento wood."
+      }
+    ],
+    "related": [
+      "GBR",
+      "USA"
+    ]
+  },
+  "sport": {
+    "text": "Jamaica is a sprinting superpower. Usain Bolt holds the world records in the 100 m and 200 m and won eight Olympic golds, and Shelly-Ann Fraser-Pryce and Elaine Thompson-Herah have dominated women's sprinting. Jamaica's bobsleigh team at the 1988 Winter Olympics inspired the film Cool Runnings.",
+    "items": [
+      {
+        "title": "Usain Bolt",
+        "text": "100 m world record of 9.58 seconds, set in 2009."
+      },
+      {
+        "title": "1988",
+        "text": "Jamaica's first bobsleigh team competed in Calgary."
+      },
+      {
+        "title": "Cricket",
+        "text": "Jamaica plays as part of the West Indies."
+      }
+    ],
+    "related": [
+      "CAN"
+    ]
   }
 }

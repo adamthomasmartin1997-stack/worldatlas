@@ -52,5 +52,54 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Panama is a presidential republic. The President is elected for a five-year term and cannot serve two terms in a row. Panama took full control of the Panama Canal from the United States in 1999. It has no army; it abolished it after the US invasion of 1989.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "The Panama Canal is the heart of Panama's economy, earning billions in tolls each year. Banking, shipping, trade through the Colón Free Zone and the Panama ship register, one of the largest in the world, are also important. Panama uses the US dollar alongside its own coins."
+  },
+  "culture": {
+    "text": "Panama sits where North and South America meet, and its culture mixes Indigenous, African, Spanish and Caribbean influences. The Guna people of the San Blas islands make molas, colourful layered textiles. Panama's old town, Casco Viejo, is a UNESCO site.",
+    "items": [
+      {
+        "title": "The Panama Canal",
+        "text": "Opened in 1914; a new set of larger locks opened in 2016."
+      },
+      {
+        "title": "Molas",
+        "text": "Hand-stitched panels made by Guna women."
+      }
+    ],
+    "related": [
+      "COL",
+      "USA"
+    ]
+  },
+  "sport": {
+    "text": "Baseball and football are the most popular sports. Mariano Rivera, from Panama, is Major League Baseball's all-time leader in saves. Panama played at its first men's World Cup in 2018.",
+    "items": [
+      {
+        "title": "Mariano Rivera",
+        "text": "The first player voted unanimously into baseball's Hall of Fame."
+      },
+      {
+        "title": "2018",
+        "text": "Panama's first men's World Cup."
+      },
+      {
+        "title": "2008",
+        "text": "Irving Saladino won Panama's first Olympic gold, in the long jump."
+      }
+    ],
+    "related": [
+      "USA"
+    ]
   }
 }

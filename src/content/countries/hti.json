@@ -54,5 +54,54 @@
         "text": "A devastating earthquake strikes near Port-au-Prince."
       }
     ]
+  },
+  "government": {
+    "text": "Haiti is officially a semi-presidential republic, but its government has been in crisis since President Jovenel Moïse was assassinated in 2021. Elections have not been held for years, and armed gangs control much of the capital, Port-au-Prince. A transitional council and an international security mission have tried to restore order.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Semi-presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Haiti is the poorest country in the Americas. Most people work in farming or informal jobs. Clothing is the main export, and money sent home by Haitians abroad makes up about a fifth of the economy. Earthquakes, hurricanes and violence have repeatedly set the country back."
+  },
+  "culture": {
+    "text": "Haiti was the first country founded by formerly enslaved people, in 1804. Haitian Creole and French are its official languages. Its painters, vodou traditions and kompa music are famous, and soup joumou, a pumpkin soup eaten on Independence Day, is on UNESCO's heritage list.",
+    "items": [
+      {
+        "title": "Citadelle Laferrière",
+        "text": "A huge mountain-top fortress built after independence."
+      },
+      {
+        "title": "Soup joumou",
+        "text": "Pumpkin soup that celebrates freedom, listed by UNESCO."
+      },
+      {
+        "title": "Haitian art",
+        "text": "Bright paintings sold in galleries and markets."
+      }
+    ],
+    "related": [
+      "FRA",
+      "DOM"
+    ]
+  },
+  "sport": {
+    "text": "Football is Haiti's most popular sport. The men's team reached the World Cup in 1974, and the women's team played at its first World Cup in 2023. Haiti qualified for the 2026 men's World Cup.",
+    "items": [
+      {
+        "title": "1974",
+        "text": "Haiti scored against Italy's Dino Zoff, ending his record run without conceding."
+      },
+      {
+        "title": "2023",
+        "text": "First women's World Cup."
+      }
+    ],
+    "related": [
+      "ITA"
+    ]
   }
 }

@@ -49,5 +49,47 @@
         "text": "Large offshore oil fields are found."
       }
     ]
+  },
+  "government": {
+    "text": "Guyana is a republic in which the President is head of both state and government. The National Assembly is elected every five years. It is the only South American country with English as its official language. Venezuela claims the western two-thirds of its territory, a dispute before the International Court of Justice.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Guyana has had one of the fastest-growing economies in the world since oil production began offshore in 2019. Before that, sugar, rice, gold, bauxite and timber were the main exports."
+  },
+  "culture": {
+    "text": "Guyana's people include descendants of enslaved Africans, indentured workers from India, Indigenous peoples and others. It is culturally part of the Caribbean and a member of CARICOM. Kaieteur Falls is one of the most powerful single-drop waterfalls in the world.",
+    "items": [
+      {
+        "title": "Kaieteur Falls",
+        "text": "Water drops 226 metres in a single fall."
+      },
+      {
+        "title": "Phagwah and Mashramani",
+        "text": "Hindu spring festival and Republic Day carnival."
+      }
+    ],
+    "related": [
+      "IND",
+      "VEN"
+    ]
+  },
+  "sport": {
+    "text": "Cricket is Guyana's favourite sport, and it plays as part of the West Indies. Guyanese players have included Clive Lloyd, who captained the West Indies to World Cup wins in 1975 and 1979, and Shivnarine Chanderpaul.",
+    "items": [
+      {
+        "title": "Clive Lloyd",
+        "text": "Captained the West Indies to two World Cup wins."
+      },
+      {
+        "title": "Providence Stadium",
+        "text": "Hosted 2007 Cricket World Cup matches."
+      }
+    ]
   }
 }

@@ -43,5 +43,47 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "The Bahamas is a constitutional monarchy within the Commonwealth. The British monarch is head of state, represented by a Governor-General. The Prime Minister leads the government and must have the support of the elected House of Assembly.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism makes up most of the economy, with millions of visitors arriving by cruise ship and plane each year. Banking and financial services are the second pillar. The Bahamas has no income tax."
+  },
+  "culture": {
+    "text": "Junkanoo, a street parade with goatskin drums, cowbells and huge colourful costumes, takes place on Boxing Day and New Year's Day. Conch, a large sea snail, is the national dish. Many Bahamians have roots among enslaved Africans and Loyalists who arrived after the American Revolution.",
+    "items": [
+      {
+        "title": "Junkanoo",
+        "text": "A late-night street parade on Boxing Day and New Year's Day."
+      },
+      {
+        "title": "Blue holes",
+        "text": "Deep underwater caves, including Dean's Blue Hole, over 200 m deep."
+      }
+    ],
+    "related": [
+      "USA",
+      "GBR"
+    ]
+  },
+  "sport": {
+    "text": "Athletics brings the Bahamas its greatest successes. Shaunae Miller-Uibo won Olympic gold in the 400 m in 2016 and 2020, and the country has won Olympic relay gold. Basketball and baseball are also popular, and several Bahamians have played in the NBA.",
+    "items": [
+      {
+        "title": "Shaunae Miller-Uibo",
+        "text": "Olympic 400 m champion in 2016 and 2020."
+      },
+      {
+        "title": "2000",
+        "text": "The 'Golden Girls' won Olympic gold in the women's 4 x 100 m relay."
+      }
+    ]
   }
 }

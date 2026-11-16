@@ -47,5 +47,43 @@
         "text": "La Soufrière erupts again, forcing thousands to leave their homes."
       }
     ]
+  },
+  "government": {
+    "text": "Saint Vincent and the Grenadines is a constitutional monarchy within the Commonwealth. The British monarch is head of state, represented by a Governor-General. The Prime Minister leads the government. In 2009 voters rejected a proposal to become a republic.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Bananas and other farming, tourism, especially to the Grenadine islands, and money from abroad support the economy. The 2021 eruption of La Soufrière volcano caused serious damage."
+  },
+  "culture": {
+    "text": "The country is made up of the main island, Saint Vincent, and about 30 small islands and cays. The Garifuna, descendants of the Kalinago and escaped Africans, came from Saint Vincent before most were exiled in 1797. Some of the Pirates of the Caribbean films were shot there.",
+    "items": [
+      {
+        "title": "The Grenadines",
+        "text": "Small islands such as Bequia and Mustique."
+      },
+      {
+        "title": "Pirates of the Caribbean",
+        "text": "Wallilabou Bay was used as a film set."
+      }
+    ],
+    "related": [
+      "HND",
+      "BLZ"
+    ]
+  },
+  "sport": {
+    "text": "Cricket is the most popular sport, and Saint Vincent plays as part of the West Indies. Sailing and football are also popular.",
+    "items": [
+      {
+        "title": "Arnos Vale",
+        "text": "The island's cricket ground, which has hosted Test matches."
+      }
+    ]
   }
 }

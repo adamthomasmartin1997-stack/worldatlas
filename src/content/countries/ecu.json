@@ -53,5 +53,58 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Ecuador is a presidential republic. The President is elected every four years. Its National Assembly has one chamber. Ecuador's 2008 constitution was the first in the world to give rights to nature.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Ecuador is one of the world's largest exporters of bananas and shrimp, and it also sells oil, cocoa and flowers. It has used the US dollar as its currency since 2000."
+  },
+  "culture": {
+    "text": "Ecuador is named after the equator, which runs through it. Its capital, Quito, has one of the best-preserved colonial centres in the Americas. The Galápagos Islands, whose animals helped Charles Darwin develop his theory of evolution, belong to Ecuador. The 'Panama hat' actually comes from Ecuador.",
+    "items": [
+      {
+        "title": "Galápagos Islands",
+        "text": "Home to giant tortoises and marine iguanas."
+      },
+      {
+        "title": "Panama hats",
+        "text": "Woven from toquilla straw in Ecuador, listed by UNESCO."
+      },
+      {
+        "title": "Mitad del Mundo",
+        "text": "A monument on the equator north of Quito."
+      }
+    ],
+    "related": [
+      "PAN",
+      "GBR"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Ecuador has qualified for several World Cups, opening the 2022 tournament with a win over hosts Qatar. Race walker Jefferson Pérez won Ecuador's first Olympic gold in 1996, and cyclist Richard Carapaz won the road race in 2021.",
+    "items": [
+      {
+        "title": "1996",
+        "text": "Jefferson Pérez won Olympic gold in the 20 km walk."
+      },
+      {
+        "title": "2021",
+        "text": "Richard Carapaz won Olympic gold in the road race."
+      },
+      {
+        "title": "2022",
+        "text": "Ecuador beat Qatar in the World Cup's opening match."
+      }
+    ],
+    "related": [
+      "QAT"
+    ]
   }
 }

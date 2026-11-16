@@ -47,5 +47,60 @@
         "text": "Apollo 11 astronauts walk on the Moon."
       }
     ]
+  },
+  "government": {
+    "text": "The United States is a federal republic of 50 states. The President, elected every four years for a maximum of two terms, is both head of state and head of government. Congress has two houses, the House of Representatives and the Senate, and the Supreme Court can strike down laws that break the Constitution, which dates from 1787. Each state has its own government and laws.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "The United States has the largest economy in the world. It leads in technology, finance, entertainment, medicine and higher education, with companies such as Apple, Microsoft, Google and Amazon. It is also the world's largest producer of oil and natural gas and a huge farm exporter. The US dollar is the main currency of world trade."
+  },
+  "culture": {
+    "text": "American films, music, television, video games and fast food are known all over the world. Jazz, blues, rock and roll and hip hop all began in the United States. It is a country of immigrants, with people whose families came from every part of the world, as well as Native American nations.",
+    "items": [
+      {
+        "title": "Hollywood",
+        "text": "The centre of the US film industry since the 1910s."
+      },
+      {
+        "title": "Jazz",
+        "text": "Born in New Orleans in the early 1900s."
+      },
+      {
+        "title": "National parks",
+        "text": "Yellowstone, created in 1872, was the world's first national park."
+      }
+    ],
+    "related": [
+      "GBR",
+      "MEX",
+      "CAN"
+    ]
+  },
+  "sport": {
+    "text": "Americans follow American football, basketball and baseball most closely, and the Super Bowl is the biggest TV event of the year. The US has won more Olympic medals than any other country, and its women's football team has won the World Cup four times. It co-hosted the 2026 men's World Cup, and Los Angeles will host the 2028 Olympics.",
+    "items": [
+      {
+        "title": "Olympics",
+        "text": "More Summer Olympic medals than any other country."
+      },
+      {
+        "title": "1991 · 1999 · 2015 · 2019",
+        "text": "Women's World Cup wins."
+      },
+      {
+        "title": "2028",
+        "text": "Los Angeles hosts the Summer Olympics for the third time."
+      }
+    ],
+    "related": [
+      "CAN",
+      "MEX"
+    ]
   }
 }

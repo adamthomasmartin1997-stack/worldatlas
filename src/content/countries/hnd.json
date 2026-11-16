@@ -45,5 +45,51 @@
         "text": "The hurricane kills thousands and destroys much of the country's farmland."
       }
     ]
+  },
+  "government": {
+    "text": "Honduras is a presidential republic. The President is elected every four years. In 2009 the army removed President Manuel Zelaya, causing a political crisis. Xiomara Castro became its first female President in 2022.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Honduras is one of the poorer countries in Latin America. It exports coffee, bananas, palm oil, shrimp and clothing made in factories called maquilas. Money from Hondurans abroad is a large part of the economy."
+  },
+  "culture": {
+    "text": "The ruins of Copán, a Maya city famous for its carved stone monuments and hieroglyphic staircase, are a UNESCO site. The Garifuna people of the Caribbean coast have their own language and music. The Bay Islands are part of the second-largest barrier reef in the world.",
+    "items": [
+      {
+        "title": "Copán",
+        "text": "A Maya city with the longest known Maya inscription."
+      },
+      {
+        "title": "Bay Islands",
+        "text": "Roatán and Utila, known for diving and whale sharks."
+      }
+    ],
+    "related": [
+      "GTM",
+      "SLV",
+      "BLZ"
+    ]
+  },
+  "sport": {
+    "text": "Football is the national passion. Honduras has played at three men's World Cups, in 1982, 2010 and 2014. In 1969, a short war between Honduras and El Salvador broke out after World Cup qualifiers between them.",
+    "items": [
+      {
+        "title": "1982 · 2010 · 2014",
+        "text": "Honduras's men's World Cup appearances."
+      },
+      {
+        "title": "1969",
+        "text": "The 'Football War' with El Salvador."
+      }
+    ],
+    "related": [
+      "SLV"
+    ]
   }
 }

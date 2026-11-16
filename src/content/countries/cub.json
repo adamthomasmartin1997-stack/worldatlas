@@ -50,5 +50,55 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Cuba is a one-party communist state. The Communist Party of Cuba is the only legal party. The National Assembly elects the President, and the Prime Minister runs the government. Fidel Castro led the country from 1959 to 2008, followed by his brother Raúl until 2018.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Communist one-party state"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Most of Cuba's economy is controlled by the state. Tourism, nickel mining, cigars, rum and the export of doctors to other countries bring in money. A US trade embargo has been in place since the early 1960s, and shortages of food, fuel and electricity have caused hardship."
+  },
+  "culture": {
+    "text": "Cuban music, from son and salsa to the rumba, has spread across the world, and rumba is listed by UNESCO. Old Havana is full of colonial buildings and classic 1950s American cars. Cuban cigars are among the most famous in the world.",
+    "items": [
+      {
+        "title": "Old Havana",
+        "text": "A colonial city centre listed by UNESCO."
+      },
+      {
+        "title": "Classic cars",
+        "text": "American cars from the 1950s still drive the streets."
+      },
+      {
+        "title": "Buena Vista Social Club",
+        "text": "A 1997 album that made Cuban son music famous worldwide."
+      }
+    ],
+    "related": [
+      "ESP",
+      "USA"
+    ]
+  },
+  "sport": {
+    "text": "Baseball is Cuba's national sport, and Cuba has won Olympic gold three times. Boxing has brought it dozens of Olympic gold medals, and athletes such as the high jumper Javier Sotomayor, who still holds the world record set in 1993, are national heroes.",
+    "items": [
+      {
+        "title": "Boxing",
+        "text": "Cuba has won more than 40 Olympic boxing golds."
+      },
+      {
+        "title": "Javier Sotomayor",
+        "text": "Set the high jump world record of 2.45 m in 1993."
+      },
+      {
+        "title": "Mijaín López",
+        "text": "The first athlete to win the same individual Olympic event five times, in wrestling."
+      }
+    ]
   }
 }

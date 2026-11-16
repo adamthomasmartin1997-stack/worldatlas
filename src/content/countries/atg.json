@@ -48,5 +48,46 @@
         "text": "The hurricane destroys most buildings on Barbuda."
       }
     ]
+  },
+  "government": {
+    "text": "Antigua and Barbuda is a constitutional monarchy within the Commonwealth. The British monarch is head of state, represented by a Governor-General, while the Prime Minister leads the government. Parliament has an elected House of Representatives and an appointed Senate. Barbuda has its own council.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism is by far the biggest part of the economy, bringing in most of the country's income. Visitors come for the beaches; Antiguans say there is one for every day of the year. Offshore banking and online businesses are also important."
+  },
+  "culture": {
+    "text": "Antiguan culture blends African, British and Caribbean traditions. Carnival, held every summer, celebrates the end of slavery with steel bands, calypso and costumed parades. Nelson's Dockyard, a restored Georgian naval base, is a UNESCO site.",
+    "items": [
+      {
+        "title": "Nelson's Dockyard",
+        "text": "A British naval base from the 1700s, still a working marina."
+      },
+      {
+        "title": "365 beaches",
+        "text": "A popular claim: one beach for every day of the year."
+      }
+    ],
+    "related": [
+      "GBR"
+    ]
+  },
+  "sport": {
+    "text": "Cricket is Antigua's great passion. Viv Richards, one of the greatest batsmen of all time, was born there, and the national stadium is named after him. Sailing Week, held every year since 1968, is one of the Caribbean's top regattas.",
+    "items": [
+      {
+        "title": "Viv Richards",
+        "text": "West Indies captain and one of cricket's most feared batsmen."
+      },
+      {
+        "title": "Antigua Sailing Week",
+        "text": "A regatta held every year since 1968."
+      }
+    ]
   }
 }

@@ -53,5 +53,47 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Suriname is a republic in which the President is head of both state and government. The National Assembly elects the President. Suriname became independent from the Netherlands in 1975. In 2025 Jennifer Geerlings-Simons became its first female President.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Gold and oil are Suriname's main exports, and major new offshore oil finds may change its economy. Bauxite mining was once the largest industry. More than 90% of the country is covered in rainforest."
+  },
+  "culture": {
+    "text": "Suriname is the smallest country in South America and the only one where Dutch is the official language. Its people are among the most diverse in the world, with roots in India, Africa, Java, China and Indigenous and Maroon communities. Sranan Tongo is the common language on the street.",
+    "items": [
+      {
+        "title": "Paramaribo",
+        "text": "A colonial capital of wooden buildings, listed by UNESCO."
+      },
+      {
+        "title": "Rainforest",
+        "text": "More than 90% of the country is covered in forest."
+      }
+    ],
+    "related": [
+      "NLD",
+      "IND",
+      "IDN"
+    ]
+  },
+  "sport": {
+    "text": "Football is very popular, and many great Dutch players have Surinamese roots, including Clarence Seedorf and Ruud Gullit. Swimmer Anthony Nesty won Suriname's first Olympic gold in 1988.",
+    "items": [
+      {
+        "title": "1988",
+        "text": "Anthony Nesty won Olympic gold in the 100 m butterfly."
+      }
+    ],
+    "related": [
+      "NLD"
+    ]
   }
 }

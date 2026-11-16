@@ -50,5 +50,60 @@
         "text": "Mexico City hosts the Summer Olympics."
       }
     ]
+  },
+  "government": {
+    "text": "Mexico is a federal presidential republic of 31 states and Mexico City. The President is elected for one six-year term and can never run again. In 2024 Claudia Sheinbaum became Mexico's first female President. Congress has a Chamber of Deputies and a Senate.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Mexico has the second-largest economy in Latin America. It is a major manufacturer of cars, electronics and medical devices, most of which go to the United States, its biggest trading partner. Oil, silver, avocados, tomatoes and tourism are also important."
+  },
+  "culture": {
+    "text": "Mexico has more native Spanish speakers than any other country. Its food, from tacos to mole, is listed by UNESCO. The Day of the Dead, when families honour relatives who have died with altars and marigolds, is world-famous. Painters Frida Kahlo and Diego Rivera are Mexican.",
+    "items": [
+      {
+        "title": "Day of the Dead",
+        "text": "Celebrated on 1 and 2 November, listed by UNESCO."
+      },
+      {
+        "title": "Chichén Itzá",
+        "text": "A Maya city with a step pyramid built as a calendar."
+      },
+      {
+        "title": "Mariachi",
+        "text": "Music played by bands in charro outfits, listed by UNESCO."
+      }
+    ],
+    "related": [
+      "ESP",
+      "USA",
+      "GTM"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Mexico hosted the World Cup in 1970 and 1986 and co-hosted it in 2026, the first country to host three times. Lucha libre, masked professional wrestling, is hugely popular, and Mexico City hosted the 1968 Olympics.",
+    "items": [
+      {
+        "title": "1970 · 1986 · 2026",
+        "text": "The first country to host the men's World Cup three times."
+      },
+      {
+        "title": "Lucha libre",
+        "text": "Masked wrestling with high-flying moves."
+      },
+      {
+        "title": "1968",
+        "text": "Mexico City hosted the Summer Olympics."
+      }
+    ],
+    "related": [
+      "USA",
+      "CAN"
+    ]
   }
 }

@@ -51,5 +51,43 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Saint Kitts and Nevis is a federal constitutional monarchy within the Commonwealth. The British monarch is head of state, represented by a Governor-General, and the Prime Minister leads the government. Nevis has its own assembly and the right to leave the federation by referendum.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism and the sale of citizenship to foreign investors are the main sources of income. The sugar industry, which dominated for centuries, closed in 2005."
+  },
+  "culture": {
+    "text": "Saint Kitts and Nevis is the smallest country in the Americas. Brimstone Hill Fortress, built by the British, is a UNESCO site. Alexander Hamilton, one of the founders of the United States, was born on Nevis.",
+    "items": [
+      {
+        "title": "Brimstone Hill Fortress",
+        "text": "A hilltop fortress called the 'Gibraltar of the West Indies'."
+      },
+      {
+        "title": "Sugar train",
+        "text": "The old sugar cane railway now carries tourists."
+      }
+    ],
+    "related": [
+      "USA",
+      "GBR"
+    ]
+  },
+  "sport": {
+    "text": "Cricket and athletics are the most popular sports. Kim Collins won the 100 m world championship in 2003, the country's greatest sporting moment.",
+    "items": [
+      {
+        "title": "2003",
+        "text": "Kim Collins became 100 m world champion."
+      }
+    ]
   }
 }

@@ -45,5 +45,54 @@
         "text": "The dictator is assassinated."
       }
     ]
+  },
+  "government": {
+    "text": "The Dominican Republic is a presidential republic. The President is elected every four years. Congress has a Senate and a Chamber of Deputies. It shares the island of Hispaniola with Haiti.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "The Dominican Republic has one of the fastest-growing economies in Latin America. Tourism is huge, especially resorts at Punta Cana. It also exports gold, cigars, cocoa, sugar and medical devices, and many Dominicans abroad send money home."
+  },
+  "culture": {
+    "text": "Merengue and bachata, both born in the Dominican Republic, are listed by UNESCO. Santo Domingo was the first European city in the Americas, and its colonial zone has the oldest cathedral in the Americas.",
+    "items": [
+      {
+        "title": "Merengue",
+        "text": "A fast, two-step dance music, listed by UNESCO in 2016."
+      },
+      {
+        "title": "Bachata",
+        "text": "Guitar-based romantic music, listed by UNESCO in 2019."
+      },
+      {
+        "title": "Colonial Zone",
+        "text": "Santo Domingo's old town, founded in 1496."
+      }
+    ],
+    "related": [
+      "HTI",
+      "ESP"
+    ]
+  },
+  "sport": {
+    "text": "Baseball is the national passion. More players in Major League Baseball come from the Dominican Republic than from any country other than the United States, including stars such as David Ortiz and Pedro Martínez. The country won the World Baseball Classic in 2013.",
+    "items": [
+      {
+        "title": "2013",
+        "text": "Unbeaten winners of the World Baseball Classic."
+      },
+      {
+        "title": "David Ortiz",
+        "text": "Won three World Series with the Boston Red Sox."
+      }
+    ],
+    "related": [
+      "USA"
+    ]
   }
 }

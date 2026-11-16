@@ -50,5 +50,55 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Peru is a presidential republic. The President is elected every five years and cannot serve two terms in a row. Congress has one chamber. Peru has had many Presidents in recent years, several of whom were removed by Congress or prosecuted for corruption.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Peru is one of the world's largest producers of copper, silver, gold and zinc. It also exports fish meal, avocados, blueberries and grapes. Tourism, especially to Machu Picchu, is important."
+  },
+  "culture": {
+    "text": "Peru was the heart of the Inca Empire, and Quechua is still spoken by millions. Its food is one of the most celebrated in the world, with dishes such as ceviche, raw fish 'cooked' in lime juice. Peru has thousands of potato varieties.",
+    "items": [
+      {
+        "title": "Machu Picchu",
+        "text": "An Inca city high in the Andes, built in the 1400s."
+      },
+      {
+        "title": "Ceviche",
+        "text": "A national dish listed by UNESCO in 2023."
+      },
+      {
+        "title": "Nazca Lines",
+        "text": "Giant drawings in the desert, best seen from the air."
+      }
+    ],
+    "related": [
+      "BOL",
+      "ESP"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport; Peru won the Copa América in 1939 and 1975. Women's volleyball won Olympic silver in 1988. Surfer Sofía Mulánovich became world champion in 2004.",
+    "items": [
+      {
+        "title": "1988",
+        "text": "Women's volleyball Olympic silver in Seoul."
+      },
+      {
+        "title": "Sofía Mulánovich",
+        "text": "The first South American world surfing champion."
+      },
+      {
+        "title": "2019",
+        "text": "Lima hosted the Pan American Games."
+      }
+    ]
   }
 }

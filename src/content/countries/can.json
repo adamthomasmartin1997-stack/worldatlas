@@ -52,5 +52,60 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Canada is a federal constitutional monarchy. The British monarch is head of state, represented by a Governor General, and the Prime Minister leads the government with the support of the elected House of Commons. Its ten provinces and three territories have their own governments. Canada was a founding member of NATO.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Canada has one of the world's largest economies. It is rich in natural resources: oil, natural gas, timber, minerals and fresh water. It exports cars and machinery, and most of its trade is with the United States. Services such as banking make up most jobs."
+  },
+  "culture": {
+    "text": "Canada has two official languages, English and French; most French speakers live in Quebec. First Nations, Inuit and Métis peoples have their own cultures and languages. Canadians gave the world basketball, the telephone (through Alexander Graham Bell's work) and poutine: fries with cheese curds and gravy.",
+    "items": [
+      {
+        "title": "Two languages",
+        "text": "English and French are both official across the federal government."
+      },
+      {
+        "title": "Poutine",
+        "text": "Fries, cheese curds and gravy, first served in rural Quebec."
+      },
+      {
+        "title": "Basketball",
+        "text": "Invented by Canadian James Naismith in 1891."
+      }
+    ],
+    "related": [
+      "FRA",
+      "GBR",
+      "USA"
+    ]
+  },
+  "sport": {
+    "text": "Ice hockey is Canada's national winter sport and lacrosse its national summer sport. Canada has won more Olympic gold medals in ice hockey than any other country. It hosted the Summer Olympics in Montreal in 1976 and the Winter Olympics in Calgary in 1988 and Vancouver in 2010, and co-hosted the 2026 World Cup.",
+    "items": [
+      {
+        "title": "Ice hockey",
+        "text": "Canada's men and women have won Olympic hockey gold many times."
+      },
+      {
+        "title": "Wayne Gretzky",
+        "text": "'The Great One' holds dozens of NHL records."
+      },
+      {
+        "title": "2026",
+        "text": "Co-hosted the men's World Cup with the US and Mexico."
+      }
+    ],
+    "related": [
+      "USA",
+      "MEX"
+    ]
   }
 }

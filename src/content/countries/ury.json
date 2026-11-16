@@ -46,5 +46,59 @@
         "text": "An elected government takes over."
       }
     ]
+  },
+  "government": {
+    "text": "Uruguay is a presidential republic and one of the most stable democracies in Latin America. The President is elected every five years and cannot serve two terms in a row. Congress has a Chamber of Representatives and a Senate.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Uruguay exports beef, soybeans, wood pulp and dairy products. Almost all of its electricity comes from renewable sources, especially wind and hydropower. It has one of the highest incomes per person in Latin America."
+  },
+  "culture": {
+    "text": "Uruguay shares tango, mate and asado with Argentina. Candombe, drum music with African roots played in the streets of Montevideo, is listed by UNESCO. Uruguay was one of the first countries to give every school child a laptop, in 2007.",
+    "items": [
+      {
+        "title": "Candombe",
+        "text": "Afro-Uruguayan drumming parades, listed by UNESCO."
+      },
+      {
+        "title": "Plan Ceibal",
+        "text": "A laptop for every child, started in 2007."
+      },
+      {
+        "title": "Colonia del Sacramento",
+        "text": "A Portuguese colonial town, listed by UNESCO."
+      }
+    ],
+    "related": [
+      "ARG",
+      "BRA"
+    ]
+  },
+  "sport": {
+    "text": "Uruguay hosted and won the first ever World Cup in 1930 and won again in 1950, beating hosts Brazil in Rio. It has also won the Copa América 15 times. For a country of about 3.5 million people, its football record is extraordinary.",
+    "items": [
+      {
+        "title": "1930 · 1950",
+        "text": "Men's World Cup wins."
+      },
+      {
+        "title": "1950",
+        "text": "The 'Maracanazo': Uruguay beat Brazil in front of 170,000 fans."
+      },
+      {
+        "title": "Copa América",
+        "text": "Fifteen titles, second only to Argentina."
+      }
+    ],
+    "related": [
+      "BRA",
+      "ARG"
+    ]
   }
 }

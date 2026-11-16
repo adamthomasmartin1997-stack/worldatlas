@@ -52,5 +52,58 @@
         "text": "Pinochet hands over to an elected president."
       }
     ]
+  },
+  "government": {
+    "text": "Chile is a presidential republic. The President is elected every four years and cannot serve two terms in a row. Congress has a Chamber of Deputies and a Senate. Chileans voted on two proposed new constitutions in 2022 and 2023 and rejected both.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Chile is the world's largest producer of copper, which makes up a large share of its exports. It is also a major producer of lithium, wine, salmon, grapes and cherries. It has long been one of the most stable and prosperous economies in Latin America."
+  },
+  "culture": {
+    "text": "Chile has two winners of the Nobel Prize in Literature, the poets Gabriela Mistral and Pablo Neruda. Easter Island, or Rapa Nui, with its giant moai statues, belongs to Chile. The country stretches about 4,300 km from north to south but averages only about 175 km wide.",
+    "items": [
+      {
+        "title": "Moai",
+        "text": "Nearly 1,000 giant stone statues on Rapa Nui."
+      },
+      {
+        "title": "Atacama Desert",
+        "text": "One of the driest places on Earth, home to major telescopes."
+      },
+      {
+        "title": "Pablo Neruda",
+        "text": "The poet won the Nobel Prize in 1971."
+      }
+    ],
+    "related": [
+      "ARG",
+      "PER"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Chile won the Copa América in 2015 and 2016, both times beating Argentina in the final on penalties. Tennis and skiing are popular, and Chile hosted the 1962 World Cup.",
+    "items": [
+      {
+        "title": "2015 · 2016",
+        "text": "Copa América champions."
+      },
+      {
+        "title": "1962",
+        "text": "Chile hosted the men's World Cup."
+      },
+      {
+        "title": "Nicolás Massú",
+        "text": "Won two Olympic tennis golds in 2004."
+      }
+    ],
+    "related": [
+      "ARG"
+    ]
   }
 }

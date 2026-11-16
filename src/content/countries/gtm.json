@@ -50,5 +50,51 @@
         "text": "The long civil war ends."
       }
     ]
+  },
+  "government": {
+    "text": "Guatemala is a presidential republic. The President is elected for a single four-year term. Its Congress has one chamber. In 2023 voters elected Bernardo Arévalo, an anti-corruption candidate, despite attempts by prosecutors to stop him taking office.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Guatemala has the largest economy in Central America. It exports coffee, bananas, cardamom, sugar and clothing; it is the world's biggest exporter of cardamom. Money sent home by Guatemalans in the United States makes up about a fifth of the economy."
+  },
+  "culture": {
+    "text": "More than 40% of Guatemalans are Maya, and over 20 Mayan languages are spoken. Maya women weave colourful clothing whose patterns show their home village. Tikal, a vast Maya city in the jungle, is a UNESCO site.",
+    "items": [
+      {
+        "title": "Tikal",
+        "text": "A Maya city with temples rising above the rainforest."
+      },
+      {
+        "title": "Antigua Guatemala",
+        "text": "A colonial city surrounded by volcanoes."
+      },
+      {
+        "title": "Huipil",
+        "text": "Hand-woven blouses with patterns from each village."
+      }
+    ],
+    "related": [
+      "MEX",
+      "BLZ"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. In 2012 Erick Barrondo won Guatemala's first Olympic medal, a silver in race walking, and shooter Adriana Ruano won its first gold in 2024.",
+    "items": [
+      {
+        "title": "2012",
+        "text": "Erick Barrondo won race-walking silver."
+      },
+      {
+        "title": "2024",
+        "text": "Adriana Ruano won Olympic gold in trap shooting."
+      }
+    ]
   }
 }

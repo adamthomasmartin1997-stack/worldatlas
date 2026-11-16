@@ -50,5 +50,51 @@
         "text": "General Stroessner is overthrown."
       }
     ]
+  },
+  "government": {
+    "text": "Paraguay is a presidential republic. The President is elected for a single five-year term. Congress has a Senate and a Chamber of Deputies. Paraguay was ruled by the dictator Alfredo Stroessner from 1954 to 1989.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Paraguay is a big exporter of soybeans and beef. The Itaipú dam, shared with Brazil, is one of the largest hydroelectric plants in the world and makes Paraguay a major exporter of electricity."
+  },
+  "culture": {
+    "text": "Paraguay is one of the few countries in the Americas where an Indigenous language is spoken by most people: almost everyone speaks Guaraní, and most also speak Spanish. Ñandutí, delicate spider-web lace, and tereré, a cold herbal drink, are national symbols.",
+    "items": [
+      {
+        "title": "Guaraní",
+        "text": "Spoken by most Paraguayans, an official language alongside Spanish."
+      },
+      {
+        "title": "Tereré",
+        "text": "Cold yerba mate tea, listed by UNESCO."
+      },
+      {
+        "title": "Jesuit missions",
+        "text": "Ruined mission towns from the 1600s and 1700s, listed by UNESCO."
+      }
+    ],
+    "related": [
+      "BRA",
+      "ARG"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Paraguay won the Copa América in 1953 and 1979 and reached the World Cup quarter-finals in 2010. The headquarters of CONMEBOL, South American football's governing body, is near Asunción.",
+    "items": [
+      {
+        "title": "2010",
+        "text": "Reached the men's World Cup quarter-finals."
+      },
+      {
+        "title": "José Luis Chilavert",
+        "text": "A goalkeeper who scored more than 60 goals, many from free kicks."
+      }
+    ]
   }
 }

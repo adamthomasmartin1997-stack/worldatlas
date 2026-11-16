@@ -49,5 +49,43 @@
         "text": "The hurricane damages most homes on the island."
       }
     ]
+  },
+  "government": {
+    "text": "Grenada is a constitutional monarchy within the Commonwealth, with the British monarch as head of state, represented by a Governor-General. The Prime Minister leads the government. The country includes the islands of Carriacou and Petite Martinique.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Grenada is called the 'Spice Isle' because it grows nutmeg, mace, cinnamon and cocoa. It is one of the world's largest nutmeg exporters. Tourism and a large medical university also support the economy."
+  },
+  "culture": {
+    "text": "A nutmeg appears on Grenada's flag. The island's Spicemas carnival is held every August. An underwater sculpture park off its coast was one of the first of its kind in the world.",
+    "items": [
+      {
+        "title": "Nutmeg",
+        "text": "Shown on the national flag."
+      },
+      {
+        "title": "Underwater Sculpture Park",
+        "text": "Statues placed on the seabed since 2006 to form a reef."
+      }
+    ]
+  },
+  "sport": {
+    "text": "Athletics brings Grenada its biggest successes. Kirani James won Olympic gold in the 400 m in 2012, Grenada's first Olympic medal, and the country won more Olympic medals per person than almost anyone in 2024. Cricket is also very popular.",
+    "items": [
+      {
+        "title": "2012",
+        "text": "Kirani James won the Olympic 400 m."
+      },
+      {
+        "title": "2024",
+        "text": "Two bronze medals at the Paris Olympics."
+      }
+    ]
   }
 }

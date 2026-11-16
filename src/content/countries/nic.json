@@ -45,5 +45,54 @@
         "text": "Elections bring the Contra war to an end."
       }
     ]
+  },
+  "government": {
+    "text": "Nicaragua is officially a presidential republic, but President Daniel Ortega and his wife, Rosario Murillo, now share power as 'co-presidents' after constitutional changes in 2025. Opposition leaders have been jailed or exiled, and many independent organisations have been closed. International observers did not consider recent elections free or fair.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Nicaragua is one of the poorest countries in the Americas. It exports gold, coffee, beef, sugar and clothing. Money sent home by Nicaraguans abroad is a large part of the economy."
+  },
+  "culture": {
+    "text": "Nicaragua is known as the land of lakes and volcanoes. Lake Nicaragua is the largest lake in Central America and has freshwater sharks. The poet Rubén Darío, who started the modernismo movement in Spanish literature, is a national hero.",
+    "items": [
+      {
+        "title": "Rubén Darío",
+        "text": "The father of modernismo poetry."
+      },
+      {
+        "title": "Lake Nicaragua",
+        "text": "Home to more than 300 small islands."
+      },
+      {
+        "title": "El Güegüense",
+        "text": "A satirical folk play listed by UNESCO."
+      }
+    ],
+    "related": [
+      "CRI",
+      "HND"
+    ]
+  },
+  "sport": {
+    "text": "Unlike most of Central America, Nicaragua's favourite sport is baseball, introduced by Americans in the 1800s. Boxing has also produced world champions, including Alexis Argüello and Román 'Chocolatito' González.",
+    "items": [
+      {
+        "title": "Alexis Argüello",
+        "text": "World boxing champion in three weight classes."
+      },
+      {
+        "title": "Dennis Martínez",
+        "text": "Pitched a perfect game in Major League Baseball in 1991."
+      }
+    ],
+    "related": [
+      "USA"
+    ]
   }
 }

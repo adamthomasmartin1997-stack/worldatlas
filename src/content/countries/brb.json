@@ -43,5 +43,49 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Barbados is a parliamentary republic. In 2021 it removed the British monarch as head of state and elected its first President, Sandra Mason. The Prime Minister leads the government. Parliament has an elected House of Assembly, which has sat since 1639, making it one of the oldest in the Commonwealth.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism is Barbados's main industry, along with offshore finance. Sugar was once everything; Barbados was the first British colony where sugar plantations took off. It still makes rum: Mount Gay claims to be the oldest rum brand in the world."
+  },
+  "culture": {
+    "text": "Crop Over, a festival marking the end of the sugar harvest, is Barbados's biggest celebration, with calypso and soca music. The singer Rihanna, from Bridgetown, was named a National Hero in 2021. Bridgetown's historic centre and its garrison are a UNESCO site.",
+    "items": [
+      {
+        "title": "Crop Over",
+        "text": "A summer festival that grew from the end of the sugar harvest."
+      },
+      {
+        "title": "Rihanna",
+        "text": "The singer and businesswoman, a National Hero of Barbados."
+      }
+    ],
+    "related": [
+      "GBR"
+    ]
+  },
+  "sport": {
+    "text": "Cricket is the national sport, and Barbados has produced many West Indies greats, including Garfield Sobers, often called the best all-rounder of all time. Kensington Oval hosted the 2007 and 2024 Cricket World Cup finals.",
+    "items": [
+      {
+        "title": "Garfield Sobers",
+        "text": "Hit six sixes in one over in 1968."
+      },
+      {
+        "title": "Kensington Oval",
+        "text": "Hosted the 2007 World Cup and 2024 T20 World Cup finals."
+      }
+    ],
+    "related": [
+      "IND"
+    ]
   }
 }

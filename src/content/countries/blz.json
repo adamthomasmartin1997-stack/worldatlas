@@ -41,5 +41,51 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Belize is a constitutional monarchy within the Commonwealth, with the British monarch as head of state, represented by a Governor-General. The Prime Minister leads the government. It is the only country in Central America where English is the official language. Guatemala has long claimed part of its territory, and the dispute is before the International Court of Justice.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism is Belize's biggest industry, drawn by its barrier reef, Maya ruins and rainforest. Sugar, bananas, citrus fruit and seafood are its main exports."
+  },
+  "culture": {
+    "text": "Belize is a mix of peoples: Mestizo, Kriol, Maya, Garifuna, Mennonite and others. Garifuna language, dance and music are listed by UNESCO. The Belize Barrier Reef is the largest in the northern hemisphere and includes the Great Blue Hole, a vast underwater sinkhole.",
+    "items": [
+      {
+        "title": "Great Blue Hole",
+        "text": "A round sinkhole in the sea about 300 m wide."
+      },
+      {
+        "title": "Caracol",
+        "text": "A huge Maya city hidden in the jungle."
+      },
+      {
+        "title": "Garifuna culture",
+        "text": "Music, dance and language listed by UNESCO."
+      }
+    ],
+    "related": [
+      "GTM",
+      "HND"
+    ]
+  },
+  "sport": {
+    "text": "Football and basketball are the most popular sports in Belize. Its biggest sporting event is the Cross Country Cycling Classic, held every Easter since 1928.",
+    "items": [
+      {
+        "title": "Cross Country Classic",
+        "text": "A one-day cycle race held every Easter Saturday."
+      },
+      {
+        "title": "La Ruta Maya",
+        "text": "A four-day canoe race across the country."
+      }
+    ]
   }
 }

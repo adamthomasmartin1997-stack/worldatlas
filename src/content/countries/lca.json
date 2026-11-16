@@ -41,5 +41,43 @@
         "text": "The poet Derek Walcott wins the Nobel Prize in Literature."
       }
     ]
+  },
+  "government": {
+    "text": "Saint Lucia is a constitutional monarchy within the Commonwealth, with the British monarch as head of state, represented by a Governor-General. The Prime Minister leads the government.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism is Saint Lucia's main industry. Bananas were once its biggest export. The island also sells citizenship to investors."
+  },
+  "culture": {
+    "text": "Saint Lucia has produced two Nobel Prize winners, the economist Arthur Lewis and the poet Derek Walcott. Its best-known landmarks are the Pitons, two volcanic peaks rising straight from the sea. Kwéyòl, a French-based Creole, is widely spoken alongside English.",
+    "items": [
+      {
+        "title": "The Pitons",
+        "text": "Two volcanic spires, listed by UNESCO."
+      },
+      {
+        "title": "Two Nobel laureates",
+        "text": "Arthur Lewis (Economics, 1979) and Derek Walcott (Literature, 1992)."
+      }
+    ],
+    "related": [
+      "FRA",
+      "GBR"
+    ]
+  },
+  "sport": {
+    "text": "Cricket is the most popular sport. In 2024 sprinter Julien Alfred won Saint Lucia's first Olympic medal, a gold in the women's 100 m.",
+    "items": [
+      {
+        "title": "2024",
+        "text": "Julien Alfred won the Olympic 100 m."
+      }
+    ]
   }
 }

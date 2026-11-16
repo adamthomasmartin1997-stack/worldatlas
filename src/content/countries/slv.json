@@ -45,5 +45,47 @@
         "text": "A peace agreement ends twelve years of civil war."
       }
     ]
+  },
+  "government": {
+    "text": "El Salvador is a presidential republic. Since 2019 President Nayib Bukele has led a tough crackdown on gangs, with tens of thousands of people imprisoned under a state of emergency. Murders have fallen sharply, but human rights groups have criticised mass arrests and the weakening of courts. A 2021 court ruling allowed him to run for a second term, which he won in 2024.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "El Salvador uses the US dollar. Money sent home by Salvadorans living abroad, mostly in the United States, makes up around a fifth of the economy. Clothing, coffee and sugar are exports. In 2021 it became the first country to make Bitcoin legal tender, a step it largely reversed in 2025."
+  },
+  "culture": {
+    "text": "El Salvador is the smallest country in Central America. Pupusas, thick corn tortillas stuffed with cheese, beans or pork, are the national dish and have their own national day. Joya de Cerén, a Maya village buried by a volcano around 600 AD, is called the 'Pompeii of the Americas'.",
+    "items": [
+      {
+        "title": "Pupusas",
+        "text": "Stuffed corn tortillas, celebrated on National Pupusa Day."
+      },
+      {
+        "title": "Joya de Cerén",
+        "text": "A farming village buried by volcanic ash, listed by UNESCO."
+      }
+    ],
+    "related": [
+      "HND",
+      "USA"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. El Salvador has played at two World Cups, in 1970 and 1982. Surfing is growing on its Pacific coast, which hosted the World Surfing Games.",
+    "items": [
+      {
+        "title": "1970 · 1982",
+        "text": "El Salvador's two men's World Cup appearances."
+      },
+      {
+        "title": "Surf City",
+        "text": "A government project to bring surfers to the coast."
+      }
+    ]
   }
 }

@@ -49,5 +49,53 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Venezuela is officially a federal presidential republic, but power is concentrated in the government of President Nicolás Maduro, who succeeded Hugo Chávez in 2013. Many countries and international observers did not accept the official results of the 2024 election, which the opposition says it won. Millions of Venezuelans have left the country.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Venezuela has the largest proven oil reserves in the world, and oil once made it one of the richest countries in Latin America. From 2014 the economy collapsed, with hyperinflation and shortages of food and medicine. US sanctions have limited its oil exports."
+  },
+  "culture": {
+    "text": "Venezuela is the birthplace of Simón Bolívar, the liberator of much of South America. Its music includes joropo, played on harp and small guitar. El Sistema, a free music education programme started in 1975, has trained hundreds of thousands of young musicians.",
+    "items": [
+      {
+        "title": "Angel Falls",
+        "text": "The world's highest uninterrupted waterfall, 979 metres tall."
+      },
+      {
+        "title": "El Sistema",
+        "text": "Youth orchestras that inspired programmes worldwide."
+      },
+      {
+        "title": "Arepas",
+        "text": "Corn cakes eaten at almost every meal."
+      }
+    ],
+    "related": [
+      "COL"
+    ]
+  },
+  "sport": {
+    "text": "Unlike most of South America, Venezuela's favourite sport is baseball, and many Venezuelans have starred in Major League Baseball. Triple jumper Yulimar Rojas has broken the world record and won Olympic gold in 2021.",
+    "items": [
+      {
+        "title": "Yulimar Rojas",
+        "text": "Triple jump world record holder and Olympic champion."
+      },
+      {
+        "title": "Miguel Cabrera",
+        "text": "Won baseball's Triple Crown in 2012."
+      }
+    ],
+    "related": [
+      "USA"
+    ]
   }
 }

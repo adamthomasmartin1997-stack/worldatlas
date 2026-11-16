@@ -38,5 +38,39 @@
         "text": "The hurricane damages almost every building on the island."
       }
     ]
+  },
+  "government": {
+    "text": "Dominica is a parliamentary republic within the Commonwealth. Parliament elects the President as head of state, and the Prime Minister leads the government. It became independent from Britain in 1978.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Dominica's economy relies on farming, especially bananas, and on eco-tourism. It sells citizenship to foreign investors, which brings in a large share of government income. Hurricanes, especially Maria in 2017, have caused huge damage."
+  },
+  "culture": {
+    "text": "Dominica is called the 'Nature Isle of the Caribbean', with rainforest, waterfalls and the Boiling Lake, a flooded volcanic vent. It is home to the Kalinago, one of the few remaining Indigenous Caribbean communities, who live in their own territory.",
+    "items": [
+      {
+        "title": "Boiling Lake",
+        "text": "The world's second-largest hot lake, in a volcanic crater."
+      },
+      {
+        "title": "Kalinago Territory",
+        "text": "Land set aside for the Kalinago people in 1903."
+      }
+    ]
+  },
+  "sport": {
+    "text": "Cricket is the most popular sport, and Dominica plays as part of the West Indies team. Thea LaFond won Dominica's first Olympic medal, a gold in the triple jump, in 2024.",
+    "items": [
+      {
+        "title": "2024",
+        "text": "Thea LaFond won Olympic gold in the triple jump."
+      }
+    ]
   }
 }
