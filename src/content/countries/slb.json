@@ -53,5 +53,47 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Solomon Islands is a constitutional monarchy within the Commonwealth. The British monarch is head of state, represented by a Governor-General. The Prime Minister leads the government with the support of the National Parliament.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Most people live by farming and fishing. Timber is the biggest export, along with fish, palm oil and cocoa. China has become a major partner."
+  },
+  "culture": {
+    "text": "The country is made up of nearly 1,000 islands and more than 60 languages; Solomon Islands Pijin is the common language. Shell money, strings of small shell discs, is still used in traditional exchanges such as marriages.",
+    "items": [
+      {
+        "title": "Shell money",
+        "text": "Strings of shell beads used in traditional ceremonies."
+      },
+      {
+        "title": "Skull Island",
+        "text": "A shrine of chiefs' skulls in the Western Province."
+      }
+    ],
+    "related": [
+      "PNG",
+      "AUS"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Solomon Islands is one of the strongest football and futsal nations in the Pacific. Honiara hosted the Pacific Games in 2023.",
+    "items": [
+      {
+        "title": "2023",
+        "text": "Honiara hosted the Pacific Games."
+      },
+      {
+        "title": "Futsal",
+        "text": "The Kurukuru team is one of the best in Oceania."
+      }
+    ]
   }
 }

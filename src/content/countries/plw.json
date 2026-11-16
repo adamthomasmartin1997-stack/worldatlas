@@ -50,5 +50,46 @@
         "text": "Palau creates the world's first shark sanctuary."
       }
     ]
+  },
+  "government": {
+    "text": "Palau is a presidential republic. The President, elected every four years, is head of state and government. Its Congress has two chambers. Under a Compact of Free Association, the United States is responsible for Palau's defence.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism, especially diving, is Palau's main industry, along with US aid. Palau makes visitors sign a pledge to protect its environment when they arrive."
+  },
+  "culture": {
+    "text": "Palau is known for its Rock Islands, hundreds of small limestone islands covered in forest. Jellyfish Lake is filled with millions of jellyfish that have lost most of their sting. Palau created the world's first shark sanctuary in 2009.",
+    "items": [
+      {
+        "title": "Rock Islands",
+        "text": "Mushroom-shaped islands listed by UNESCO."
+      },
+      {
+        "title": "Palau Pledge",
+        "text": "Visitors promise to protect the islands, stamped in their passport."
+      }
+    ],
+    "related": [
+      "USA",
+      "JPN"
+    ]
+  },
+  "sport": {
+    "text": "Baseball, introduced during Japanese rule, is the most popular sport. Swimming and athletics are also popular.",
+    "items": [
+      {
+        "title": "Baseball",
+        "text": "Brought to Palau during Japanese rule."
+      }
+    ],
+    "related": [
+      "JPN"
+    ]
   }
 }

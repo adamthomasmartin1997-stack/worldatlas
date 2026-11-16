@@ -42,5 +42,49 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Nauru is a parliamentary republic with no political parties in the usual sense. Its 19-member parliament elects the President, who is both head of state and head of government. Nauru has no official capital; government offices are in Yaren.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Phosphate mining once made Nauru one of the richest countries in the world per person, but the deposits are now mostly used up and much of the island is a stripped landscape. An offshore detention centre run for Australia has been a major source of income."
+  },
+  "culture": {
+    "text": "Nauru is the third-smallest country in the world and the smallest island country. It is a single raised coral island just 21 km² in area. The national language is Nauruan, though English is widely used.",
+    "items": [
+      {
+        "title": "Topside",
+        "text": "The mined-out plateau that covers most of the island."
+      },
+      {
+        "title": "Angam Day",
+        "text": "Celebrates the times Nauru's population recovered to 1,500."
+      }
+    ],
+    "related": [
+      "AUS"
+    ]
+  },
+  "sport": {
+    "text": "Australian rules football is the national sport, and weightlifting has brought Nauru Commonwealth Games medals.",
+    "items": [
+      {
+        "title": "Australian rules football",
+        "text": "Nauru's most popular sport."
+      },
+      {
+        "title": "Marcus Stephen",
+        "text": "Weightlifting champion who later became President."
+      }
+    ],
+    "related": [
+      "AUS"
+    ]
   }
 }

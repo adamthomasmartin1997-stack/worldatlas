@@ -52,5 +52,42 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "The Marshall Islands is a republic with a mixed system: the parliament, the Nitijela, elects the President, who is both head of state and head of government. Under a Compact of Free Association, the United States provides defence and funding.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "The economy depends on US aid, fishing licences and a large international ship register, one of the biggest in the world. Many Marshallese have moved to the United States, which they can enter freely."
+  },
+  "culture": {
+    "text": "Marshallese navigators used stick charts made of palm ribs and shells to map ocean swells. The islands are among the lowest-lying in the world. The legacy of US nuclear testing at Bikini and Enewetak, between 1946 and 1958, still affects communities today.",
+    "items": [
+      {
+        "title": "Stick charts",
+        "text": "Maps of ocean swells made from sticks and shells."
+      },
+      {
+        "title": "Bikini Atoll",
+        "text": "A UNESCO site marking the start of the nuclear age."
+      }
+    ],
+    "related": [
+      "USA"
+    ]
+  },
+  "sport": {
+    "text": "Basketball, volleyball and softball are popular, along with canoe racing in traditional outrigger canoes.",
+    "items": [
+      {
+        "title": "Outrigger canoes",
+        "text": "Canoe races keep traditional boat-building alive."
+      }
+    ]
   }
 }

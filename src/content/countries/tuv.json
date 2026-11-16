@@ -49,5 +49,43 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Tuvalu is a constitutional monarchy within the Commonwealth, with the British monarch as head of state, represented by a Governor-General. There are no political parties. The 16 members of parliament elect the Prime Minister.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tuvalu earns money from fishing licences, a trust fund and selling its internet domain name, .tv, which brings in a large share of government income. Most people live from fishing and farming."
+  },
+  "culture": {
+    "text": "Tuvalu is the fourth-smallest country in the world, made up of nine low islands. Its highest point is about 4.6 metres above sea level, so rising seas threaten its survival. In 2022 Tuvalu said it would create a digital copy of itself to preserve its culture if the islands were lost.",
+    "items": [
+      {
+        "title": "Fatele",
+        "text": "Traditional song and dance performed at community gatherings."
+      },
+      {
+        "title": "Digital nation",
+        "text": "Tuvalu plans to preserve its land and culture online."
+      }
+    ],
+    "related": [
+      "KIR",
+      "AUS"
+    ]
+  },
+  "sport": {
+    "text": "Football, volleyball and kilikiti, a local form of cricket, are popular. Tuvalu's football team is not a FIFA member but plays in Pacific tournaments.",
+    "items": [
+      {
+        "title": "Kilikiti",
+        "text": "A Pacific form of cricket with many players per side."
+      }
+    ]
   }
 }

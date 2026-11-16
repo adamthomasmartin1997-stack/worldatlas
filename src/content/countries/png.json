@@ -50,5 +50,54 @@
         "text": "An agreement ends years of conflict on Bougainville."
       }
     ]
+  },
+  "government": {
+    "text": "Papua New Guinea is a constitutional monarchy within the Commonwealth. The British monarch is head of state, represented by a Governor-General, and the Prime Minister leads the government. Bougainville voted for independence in a 2019 referendum, and talks on its future continue.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Papua New Guinea is rich in natural resources: gold, copper, oil and liquefied natural gas. But most people live by farming in rural villages, growing their own food. Coffee, cocoa and palm oil are important exports."
+  },
+  "culture": {
+    "text": "Papua New Guinea is the most linguistically diverse country in the world, with more than 800 languages. Tok Pisin is the most widely used. Its highlands hold colourful 'sing-sing' gatherings where groups perform in feathers and body paint.",
+    "items": [
+      {
+        "title": "800 languages",
+        "text": "More languages than any other country."
+      },
+      {
+        "title": "Sing-sing",
+        "text": "Festivals of dance, song and traditional dress."
+      },
+      {
+        "title": "Birds of paradise",
+        "text": "Shown on the national flag."
+      }
+    ],
+    "related": [
+      "AUS",
+      "IDN"
+    ]
+  },
+  "sport": {
+    "text": "Rugby league is the national sport and a passion across the country. Papua New Guinea joins Australia's top rugby league competition with its own team in 2028.",
+    "items": [
+      {
+        "title": "Kumuls",
+        "text": "The national rugby league team."
+      },
+      {
+        "title": "2028",
+        "text": "A Papua New Guinea team will join Australia's NRL."
+      }
+    ],
+    "related": [
+      "AUS"
+    ]
   }
 }

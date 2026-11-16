@@ -49,5 +49,42 @@
         "text": "Samoa skips a day to move west of the date line."
       }
     ]
+  },
+  "government": {
+    "text": "Samoa is a parliamentary republic. Parliament elects the head of state, and the Prime Minister leads the government. Only matai, the chiefs of extended families, could be elected to parliament until recently and still dominate politics. In 2021 Fiamē Naomi Mataʻafa became its first female Prime Minister.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Samoa's economy depends on money from Samoans abroad, tourism, farming and fishing. Coconut products and taro are exports."
+  },
+  "culture": {
+    "text": "Fa'a Samoa, the Samoan way of life, centres on extended families and their matai, or chiefs. Traditional tattoos, called tatau, give the English word 'tattoo'. In 2011 Samoa moved west across the International Date Line, skipping 30 December.",
+    "items": [
+      {
+        "title": "Tatau",
+        "text": "Traditional tattooing, the origin of the word 'tattoo'."
+      },
+      {
+        "title": "Fale",
+        "text": "Open-sided houses with no walls."
+      }
+    ],
+    "related": [
+      "NZL"
+    ]
+  },
+  "sport": {
+    "text": "Rugby union is the national sport, and the national team, Manu Samoa, has played at most Rugby World Cups. Many Samoans and people of Samoan heritage star in American football, rugby and wrestling.",
+    "items": [
+      {
+        "title": "Manu Samoa",
+        "text": "Reached the Rugby World Cup quarter-finals in 1991 and 1995."
+      }
+    ]
   }
 }

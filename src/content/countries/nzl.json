@@ -48,5 +48,59 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "New Zealand is a constitutional monarchy. The British monarch is head of state, represented by a Governor-General. The Prime Minister leads the government with the support of Parliament, which has a single chamber. Some seats are reserved for Māori voters. New Zealand has no single written constitution.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "New Zealand exports dairy products, meat, wood, fruit such as kiwifruit, and wine. Tourism is big, and the film industry grew after the Lord of the Rings films were shot there. Most of its electricity comes from renewable sources."
+  },
+  "culture": {
+    "text": "Māori culture is central to New Zealand's identity. Te reo Māori is an official language, and many places have Māori names. The haka, a Māori ceremonial dance, is performed at important events. The country's landscapes became famous worldwide as Middle-earth in the Lord of the Rings films.",
+    "items": [
+      {
+        "title": "The haka",
+        "text": "A Māori ceremonial dance, performed before All Blacks matches."
+      },
+      {
+        "title": "Middle-earth",
+        "text": "The Lord of the Rings and The Hobbit films were shot in New Zealand."
+      },
+      {
+        "title": "Kiwi",
+        "text": "A flightless bird and the nickname for New Zealanders."
+      }
+    ],
+    "related": [
+      "AUS",
+      "GBR"
+    ]
+  },
+  "sport": {
+    "text": "Rugby union is the national sport, and the All Blacks are one of the most successful teams in any sport, with three Rugby World Cup wins. New Zealand also excels in sailing, rowing and netball, and hosted the 2023 Women's World Cup with Australia.",
+    "items": [
+      {
+        "title": "1987 · 2011 · 2015",
+        "text": "Rugby World Cup wins."
+      },
+      {
+        "title": "America's Cup",
+        "text": "New Zealand has won the famous sailing trophy several times."
+      },
+      {
+        "title": "Edmund Hillary",
+        "text": "Climbed Everest in 1953 with Tenzing Norgay."
+      }
+    ],
+    "related": [
+      "AUS",
+      "NPL"
+    ]
   }
 }

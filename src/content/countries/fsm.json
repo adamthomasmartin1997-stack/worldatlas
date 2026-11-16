@@ -49,5 +49,43 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "The Federated States of Micronesia is a federation of four states: Yap, Chuuk, Pohnpei and Kosrae. Its Congress elects the President from among its members. It has a Compact of Free Association with the United States, which provides defence and funding.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "US aid, fishing licences and government jobs make up much of the economy. Most people live from farming and fishing."
+  },
+  "culture": {
+    "text": "Each of the four states has its own language and customs. Yap is famous for its giant stone money discs, some taller than a person, which are still used in traditional exchanges. Nan Madol, a ruined city of stone islets off Pohnpei, is a UNESCO site.",
+    "items": [
+      {
+        "title": "Rai stones",
+        "text": "Giant stone discs used as money on Yap."
+      },
+      {
+        "title": "Nan Madol",
+        "text": "Stone buildings on nearly 100 artificial islets."
+      }
+    ],
+    "related": [
+      "USA",
+      "PLW"
+    ]
+  },
+  "sport": {
+    "text": "Basketball, volleyball and athletics are popular. The Micronesian Games bring together athletes from across the region every four years.",
+    "items": [
+      {
+        "title": "Micronesian Games",
+        "text": "A multi-sport event for the islands of Micronesia."
+      }
+    ]
   }
 }

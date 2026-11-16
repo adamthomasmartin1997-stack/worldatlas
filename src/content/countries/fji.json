@@ -48,5 +48,47 @@
         "text": "The first of several military coups takes place."
       }
     ]
+  },
+  "government": {
+    "text": "Fiji is a parliamentary republic. Parliament elects the President, and the Prime Minister leads the government. Fiji had four coups between 1987 and 2006, partly because of tensions between Indigenous Fijians and Fijians of Indian descent. Elections returned in 2014.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism is the biggest industry, along with sugar, bottled water, fish and timber. Money sent home by Fijians working abroad, including soldiers in UN peacekeeping missions, is also important."
+  },
+  "culture": {
+    "text": "Fijian culture blends Indigenous Melanesian traditions with those of Indo-Fijians, whose ancestors came from India to work on sugar plantations. Kava, a drink made from a pepper plant root, is shared at ceremonies. Fiji has more than 300 islands.",
+    "items": [
+      {
+        "title": "Kava ceremony",
+        "text": "A drink shared to welcome guests and mark important events."
+      },
+      {
+        "title": "Fire walking",
+        "text": "A ceremony on Beqa island where men walk across hot stones."
+      }
+    ],
+    "related": [
+      "IND",
+      "AUS"
+    ]
+  },
+  "sport": {
+    "text": "Rugby is Fiji's national passion. Its sevens team won the first ever Olympic rugby gold in 2016, Fiji's first Olympic medal of any kind, and won again in 2020. Fijian players star in professional rugby around the world.",
+    "items": [
+      {
+        "title": "2016 · 2020",
+        "text": "Olympic rugby sevens gold medals."
+      },
+      {
+        "title": "Vijay Singh",
+        "text": "The golfer was world number one in 2004."
+      }
+    ]
   }
 }

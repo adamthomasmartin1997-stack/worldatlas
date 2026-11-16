@@ -47,5 +47,59 @@
         "text": "The government apologises to the Stolen Generations."
       }
     ]
+  },
+  "government": {
+    "text": "Australia is a federal constitutional monarchy. The British monarch is head of state, represented by a Governor-General, and the Prime Minister leads the government with the support of the House of Representatives. Parliament also has a Senate. Australia has six states and two main territories. Voting is compulsory, and in 1999 Australians voted against becoming a republic.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Australia is one of the world's biggest exporters of iron ore, coal, natural gas, gold and lithium, much of it sold to China. It also exports beef, wheat and wool, and international students and tourism bring in a lot of money. Australia went almost 30 years without a recession, from 1991 to 2020."
+  },
+  "culture": {
+    "text": "Aboriginal and Torres Strait Islander peoples have the oldest continuous cultures on Earth, with art and stories reaching back tens of thousands of years. Australia is famous for its unique animals, such as kangaroos, koalas and platypuses, and for the Great Barrier Reef, the largest coral reef system in the world. The Sydney Opera House is a UNESCO site.",
+    "items": [
+      {
+        "title": "Sydney Opera House",
+        "text": "Opened in 1973; its roof looks like billowing sails."
+      },
+      {
+        "title": "Uluru",
+        "text": "A huge sandstone rock sacred to the Anangu people."
+      },
+      {
+        "title": "Great Barrier Reef",
+        "text": "More than 2,900 reefs, visible from space."
+      }
+    ],
+    "related": [
+      "GBR",
+      "NZL"
+    ]
+  },
+  "sport": {
+    "text": "Australians are mad about sport. Cricket, rugby league, rugby union and Australian rules football, a fast game invented in Melbourne, draw huge crowds. Australia hosted the Summer Olympics in Melbourne in 1956 and Sydney in 2000, and Brisbane hosts in 2032. Swimming has brought it many Olympic golds.",
+    "items": [
+      {
+        "title": "1956 · 2000 · 2032",
+        "text": "Melbourne, Sydney and Brisbane: Olympic host cities."
+      },
+      {
+        "title": "Australian Open",
+        "text": "One of tennis's four Grand Slams, held in Melbourne every January."
+      },
+      {
+        "title": "Cricket World Cup",
+        "text": "Australia's men have won it a record six times."
+      }
+    ],
+    "related": [
+      "GBR",
+      "NZL"
+    ]
   }
 }

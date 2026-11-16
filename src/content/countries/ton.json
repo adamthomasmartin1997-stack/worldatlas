@@ -53,5 +53,50 @@
         "text": "A huge undersea eruption and tsunami hit Tonga."
       }
     ]
+  },
+  "government": {
+    "text": "Tonga is the only kingdom in the Pacific. The King is head of state and still holds significant power. Since reforms in 2010, most members of parliament are elected by the people, while some are chosen by the nobles, and parliament chooses the Prime Minister.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tonga's economy depends heavily on money from Tongans living abroad, mostly in New Zealand, Australia and the United States. Farming, fishing and tourism are also important. A volcanic eruption and tsunami in 2022 caused major damage."
+  },
+  "culture": {
+    "text": "Tonga was never colonised, and its monarchy has deep roots. Tongans make tapa cloth from bark and wear ta'ovala, woven mats wrapped around the waist, on formal occasions. In 2022 the Hunga Tonga eruption was the biggest explosion in the atmosphere ever recorded by modern instruments.",
+    "items": [
+      {
+        "title": "Tapa cloth",
+        "text": "Painted bark cloth used in ceremonies."
+      },
+      {
+        "title": "Ha'amonga 'a Maui",
+        "text": "A stone trilithon built around 1200."
+      }
+    ],
+    "related": [
+      "GBR",
+      "NZL"
+    ]
+  },
+  "sport": {
+    "text": "Rugby union is the national sport. Pita Taufatofua became famous for carrying Tonga's flag shirtless and covered in oil at the 2016 Olympics. Many Tongans play rugby league and union around the world.",
+    "items": [
+      {
+        "title": "Pita Taufatofua",
+        "text": "Competed in taekwondo, cross-country skiing and kayaking at the Olympics."
+      },
+      {
+        "title": "2007",
+        "text": "Tonga beat the USA and Samoa at the Rugby World Cup."
+      }
+    ],
+    "related": [
+      "WSM"
+    ]
   }
 }

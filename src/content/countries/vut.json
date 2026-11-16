@@ -50,5 +50,47 @@
         "text": "One of the strongest cyclones on record strikes the islands."
       }
     ]
+  },
+  "government": {
+    "text": "Vanuatu is a parliamentary republic. The President, elected by parliament and the heads of regional councils, is head of state. The Prime Minister leads the government. A council of chiefs advises on custom and land.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Most people live by farming. Tourism, kava, copra and beef are important, and Vanuatu sells citizenship to foreign investors. Cyclones often cause heavy damage."
+  },
+  "culture": {
+    "text": "Vanuatu has more languages per person than any other country, with about 110 languages for 300,000 people. Bislama is the national language. On Pentecost Island, men leap from tall wooden towers with vines tied to their ankles, the land diving ritual that inspired bungee jumping.",
+    "items": [
+      {
+        "title": "Land diving",
+        "text": "The Pentecost Island ritual that inspired bungee jumping."
+      },
+      {
+        "title": "Mount Yasur",
+        "text": "An active volcano you can walk up to the rim of."
+      },
+      {
+        "title": "Sand drawing",
+        "text": "Patterns traced in sand, listed by UNESCO."
+      }
+    ],
+    "related": [
+      "GBR",
+      "FRA"
+    ]
+  },
+  "sport": {
+    "text": "Football and beach volleyball are popular; Vanuatu's women's beach volleyball team has won medals at the Commonwealth Games.",
+    "items": [
+      {
+        "title": "Beach volleyball",
+        "text": "Commonwealth Games bronze for the women's team in 2018."
+      }
+    ]
   }
 }

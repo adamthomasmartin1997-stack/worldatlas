@@ -42,5 +42,42 @@
         "text": "Kiribati moves the date line so all its islands share one date."
       }
     ]
+  },
+  "government": {
+    "text": "Kiribati is a republic in which the President is elected directly by the people from candidates nominated by parliament. The President is both head of state and head of government.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Kiribati is one of the poorest countries in the Pacific. It earns most of its money by selling fishing licences to foreign fleets that catch tuna in its huge ocean territory. Coconut products and money from a trust fund built up from past phosphate mining also help."
+  },
+  "culture": {
+    "text": "Kiribati is spread across 33 atolls and islands covering an area of ocean larger than India. It is the first country in the world to see each new day. Most islands are only a few metres above sea level, making it highly threatened by rising seas.",
+    "items": [
+      {
+        "title": "First to see the new year",
+        "text": "Kiribati's Line Islands are in the earliest time zone on Earth."
+      },
+      {
+        "title": "Phoenix Islands",
+        "text": "One of the largest marine protected areas in the world."
+      }
+    ],
+    "related": [
+      "TUV"
+    ]
+  },
+  "sport": {
+    "text": "Football and volleyball are popular, and traditional canoe racing is a big part of island life. Weightlifter David Katoatau became famous for dancing after his lifts at the 2016 Olympics, to raise awareness of climate change.",
+    "items": [
+      {
+        "title": "David Katoatau",
+        "text": "Commonwealth Games weightlifting champion in 2014."
+      }
+    ]
   }
 }
