@@ -5,7 +5,17 @@
     "Mauritius is an island country in the Indian Ocean, east of Madagascar. Its capital and largest city is Port Louis. The islands had no people until European settlement, and Mauritius became independent from the United Kingdom in 1968; it has since become one of Africa's most stable and prosperous countries. It was the only home of the dodo, which died out in the 1600s."
   ],
   "geography": {
-    "text": "The main island of Mauritius is volcanic, with a central plateau surrounded by mountains and a coast almost completely ringed by coral reefs. The country also includes the island of Rodrigues and several smaller, more remote islands."
+    "text": "The main island of Mauritius is volcanic, with a central plateau surrounded by mountains and a coast almost completely ringed by coral reefs. The country also includes the island of Rodrigues and several smaller, more remote islands.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical and warm, with a cyclone season."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The pink pigeon and Mauritius kestrel, saved from near-extinction."
+      }
+    ]
   },
   "history": {
     "text": "Mauritius was uninhabited until the Dutch settled it in 1638; the dodo was extinct within a century. France took it in 1715 and brought enslaved Africans to work on sugar plantations. Britain captured it in 1810 and, after slavery ended, brought workers from India. Mauritius became independent in 1968 and is now one of Africa's richest democracies.",
@@ -81,6 +91,20 @@
       "IND",
       "FRA",
       "GBR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Dholl puri, flatbreads filled with split peas."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Sega music and dance, listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Diwali, Chinese New Year and Christmas are all celebrated."
+      }
     ]
   },
   "sport": {

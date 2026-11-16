@@ -5,7 +5,17 @@
     "Malawi is a landlocked country in south-eastern Africa. Its capital is Lilongwe. Malawi became independent from the United Kingdom in 1964. It is often called 'the warm heart of Africa' because of the friendliness of its people. English is the official language, and Chichewa is the most widely spoken."
   ],
   "geography": {
-    "text": "Lake Malawi, one of the largest lakes in Africa, fills much of the Great Rift Valley along the east of the country and has more species of fish than any other lake in the world. West of the lake are plateaus and highlands, and the Shire river flows south from the lake to the Zambezi."
+    "text": "Lake Malawi, one of the largest lakes in Africa, fills much of the Great Rift Valley along the east of the country and has more species of fish than any other lake in the world. West of the lake are plateaus and highlands, and the Shire river flows south from the lake to the Zambezi.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot in the lowlands, cooler in the highlands."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Lake Malawi's colourful cichlid fish and elephants in Liwonde."
+      }
+    ]
   },
   "history": {
     "text": "Bantu-speaking peoples settled the region, and the Maravi kingdom ruled around Lake Malawi from the 1400s. The explorer David Livingstone arrived in 1859, and Britain made the area the protectorate of Nyasaland in 1891. Malawi became independent in 1964. Hastings Banda ruled until 1994, when multi-party elections were held.",
@@ -68,6 +78,20 @@
     "related": [
       "MOZ",
       "TZA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Nsima, maize porridge, with chambo fish from the lake."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Gule Wamkulu masked dance, listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The Lake of Stars music festival is held on the lakeshore."
+      }
     ]
   },
   "sport": {

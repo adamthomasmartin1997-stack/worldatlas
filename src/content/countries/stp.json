@@ -5,7 +5,17 @@
     "São Tomé and Príncipe is a small island country in the Gulf of Guinea, off the west coast of Central Africa, and one of the smallest countries in Africa. Its capital is São Tomé. The islands were uninhabited until the Portuguese arrived in the 1400s, and the country became independent from Portugal in 1975. Portuguese is the official language, and cocoa is the main export."
   ],
   "geography": {
-    "text": "The country is made up of two main volcanic islands, São Tomé and Príncipe, and several small islets, lying just north of the equator. The islands are mountainous and covered in rainforest, with dramatic volcanic spires such as Pico Cão Grande."
+    "text": "The country is made up of two main volcanic islands, São Tomé and Príncipe, and several small islets, lying just north of the equator. The islands are mountainous and covered in rainforest, with dramatic volcanic spires such as Pico Cão Grande.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid, with rainforest."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Many birds found nowhere else, and nesting sea turtles."
+      }
+    ]
   },
   "history": {
     "text": "São Tomé and Príncipe were uninhabited when Portuguese sailors arrived around 1470. Portugal settled them and grew sugar using enslaved Africans, and later cocoa, which made the islands one of the world's largest cocoa producers around 1900. The country became independent in 1975.",
@@ -76,6 +86,20 @@
     "related": [
       "PRT",
       "GAB"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Calulu, a fish or chicken stew with greens."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Tchiloli theatre."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Independence Day, 12 July, is the main celebration."
+      }
     ]
   },
   "sport": {

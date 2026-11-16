@@ -5,7 +5,17 @@
     "Burundi is a small landlocked country in East Africa, at the northern end of Lake Tanganyika. Its capital is Gitega and its largest city is Bujumbura. Burundi became independent from Belgium in 1962. Kirundi, French and English are official languages, and the country is famous for its royal drummers."
   ],
   "geography": {
-    "text": "Burundi is a hilly and mountainous country on the high plateau of central Africa. In the west the land drops down to the shore of Lake Tanganyika, one of the deepest and oldest lakes in the world. One of the most southerly sources of the Nile is in Burundi."
+    "text": "Burundi is a hilly and mountainous country on the high plateau of central Africa. In the west the land drops down to the shore of Lake Tanganyika, one of the deepest and oldest lakes in the world. One of the most southerly sources of the Nile is in Burundi.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild in the highlands, hot along Lake Tanganyika."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Chimpanzees in Kibira forest, and hippos and crocodiles in the lake."
+      }
+    ]
   },
   "history": {
     "text": "The Kingdom of Burundi was ruled by kings, called mwami, from around the 1600s. It became part of German East Africa in the 1890s and was run by Belgium after the First World War. Burundi became independent in 1962. Tensions between Hutu and Tutsi led to mass killings in 1972 and a civil war from 1993 to 2005.",
@@ -73,6 +83,20 @@
     "related": [
       "RWA",
       "TZA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Beans, plantains and sweet potatoes."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Royal drumming, listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The drummers perform at national celebrations and once played for the king."
+      }
     ]
   },
   "sport": {

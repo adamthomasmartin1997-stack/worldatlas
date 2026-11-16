@@ -5,7 +5,17 @@
     "Comoros is an island country in the Indian Ocean, between Mozambique and Madagascar. Its capital and largest city is Moroni, on the island of Grande Comore. Comoros became independent from France in 1975, although the island of Mayotte, also part of the archipelago, chose to stay French. Comoros is a leading producer of ylang-ylang, a flower used in perfume."
   ],
   "geography": {
-    "text": "Comoros is made up of three main volcanic islands: Grande Comore (Ngazidja), Mohéli (Mwali) and Anjouan (Nzwani). Mount Karthala on Grande Comore is one of the largest active volcanoes in the world. The islands have rugged, forested interiors and are fringed by coral reefs."
+    "text": "Comoros is made up of three main volcanic islands: Grande Comore (Ngazidja), Mohéli (Mwali) and Anjouan (Nzwani). Mount Karthala on Grande Comore is one of the largest active volcanoes in the world. The islands have rugged, forested interiors and are fringed by coral reefs.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical and humid, with a cyclone season."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Livingstone's fruit bat and the coelacanth."
+      }
+    ]
   },
   "history": {
     "text": "The Comoros were settled by people from Africa, Arabia and Madagascar and became part of the Swahili trading world. Islam arrived early, and local sultanates ruled the islands. France took control in the 1800s. Three of the four islands became independent in 1975, while Mayotte chose to stay French. The country has had many coups since.",
@@ -73,6 +83,20 @@
     "related": [
       "FRA",
       "MDG"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Fish, rice and coconut, flavoured with vanilla and cloves."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Twarab music, mixing Arab and African sounds."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The grand mariage is the biggest celebration of a lifetime."
+      }
     ]
   },
   "sport": {

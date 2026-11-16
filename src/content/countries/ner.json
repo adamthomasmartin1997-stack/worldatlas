@@ -5,7 +5,17 @@
     "Niger is a large landlocked country in West Africa, named after the Niger river. Its capital and largest city is Niamey. Niger became independent from France in 1960. It has one of the fastest-growing populations in the world and large deposits of uranium."
   ],
   "geography": {
-    "text": "More than three-quarters of Niger is in the Sahara Desert, including the Aïr Mountains and the Ténéré desert. The south is the dry Sahel, where most people live and farm, and the Niger river flows through the south-west, past Niamey."
+    "text": "More than three-quarters of Niger is in the Sahara Desert, including the Aïr Mountains and the Ténéré desert. The south is the dry Sahel, where most people live and farm, and the Niger river flows through the south-west, past Niamey.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Very hot and dry; the Sahara covers most of the country."
+      },
+      {
+        "title": "Wildlife",
+        "text": "West Africa's last wild giraffes and the addax antelope."
+      }
+    ]
   },
   "history": {
     "text": "Parts of Niger belonged to the Songhai Empire and the Hausa city-states, and Agadez was a key stop on trans-Saharan trade routes. France colonised Niger in the early 1900s, and it became independent in 1960. It is a major producer of uranium. The military seized power in 2023.",
@@ -75,6 +85,20 @@
       "MLI",
       "NGA",
       "TCD"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Millet and sorghum dishes."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Tuareg silver jewellery and the Agadez cross."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The Cure Salée festival, when herders bring animals to salty pastures."
+      }
     ]
   },
   "sport": {

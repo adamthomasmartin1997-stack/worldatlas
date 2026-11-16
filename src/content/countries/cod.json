@@ -5,7 +5,17 @@
     "The Democratic Republic of the Congo is the second-largest country in Africa. Its capital, Kinshasa, is one of the largest cities on the continent. The country was a Belgian colony until it became independent in 1960. It is rich in minerals such as cobalt, copper and diamonds, but decades of conflict, especially in the east, have caused great suffering. French is the official language."
   ],
   "geography": {
-    "text": "Much of the country is covered by the Congo Basin rainforest, the second-largest rainforest in the world, crossed by the Congo river, the deepest river in the world. The east rises into mountains and high plateaus along the Great Rift Valley, with large lakes such as Tanganyika and Kivu. The country has only a very short Atlantic coastline."
+    "text": "Much of the country is covered by the Congo Basin rainforest, the second-largest rainforest in the world, crossed by the Congo river, the deepest river in the world. The east rises into mountains and high plateaus along the Great Rift Valley, with large lakes such as Tanganyika and Kivu. The country has only a very short Atlantic coastline.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid, with the world's second-largest rainforest."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Okapi, bonobos, mountain gorillas and forest elephants."
+      }
+    ]
   },
   "history": {
     "text": "The Kingdom of Kongo and the Luba and Lunda kingdoms flourished before Europeans arrived. In 1885 King Leopold II of Belgium took the Congo as his personal property, and millions died under his brutal rubber regime. Belgium took over in 1908, and Congo became independent in 1960. Mobutu ruled for over 30 years, renaming it Zaire, and wars from 1996 drew in many neighbours.",
@@ -89,6 +99,20 @@
       "COG",
       "BEL",
       "RWA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Fufu, a starchy dough, eaten with stews such as moambe."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Congolese rumba, listed by UNESCO, and the fast guitar dance music called soukous."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "La Sape, the art of dressing elegantly, is a famous street fashion culture."
+      }
     ]
   },
   "sport": {

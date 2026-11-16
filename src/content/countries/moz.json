@@ -5,7 +5,17 @@
     "Mozambique is a country in south-eastern Africa, on the Indian Ocean. Its capital and largest city is Maputo. Mozambique became independent from Portugal in 1975, and Portuguese is the official language. It is the only country with a modern rifle, an AK-47, on its national flag."
   ],
   "geography": {
-    "text": "Mozambique has a very long coastline on the Indian Ocean, with beaches, coral reefs and islands such as the Bazaruto Archipelago. Low plains cover the south and the coast, rising to plateaus and mountains in the north-west. The Zambezi river crosses the country, and the Cahora Bassa dam on it has created one of Africa's largest artificial lakes."
+    "text": "Mozambique has a very long coastline on the Indian Ocean, with beaches, coral reefs and islands such as the Bazaruto Archipelago. Low plains cover the south and the coast, rising to plateaus and mountains in the north-west. The Zambezi river crosses the country, and the Cahora Bassa dam on it has created one of Africa's largest artificial lakes.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical, with a cyclone season."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Dugongs, whale sharks and Gorongosa National Park's wildlife."
+      }
+    ]
   },
   "history": {
     "text": "Swahili trading towns grew up along the coast, and inland the Mutapa kingdom traded gold. Portugal ruled Mozambique for centuries. After a ten-year war of independence led by FRELIMO, Mozambique became independent in 1975. A civil war followed until 1992.",
@@ -74,6 +84,20 @@
       "PRT",
       "TZA",
       "ZAF"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Peri-peri chicken and matapa, cassava leaves with peanuts."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Timbila xylophone music and Makonde wood carving."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Marrabenta music festivals in Maputo."
+      }
     ]
   },
   "sport": {

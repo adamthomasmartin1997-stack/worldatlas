@@ -5,7 +5,17 @@
     "Guinea-Bissau is a small country on the Atlantic coast of West Africa. Its capital and largest city is Bissau. Guinea-Bissau won independence from Portugal in 1973–74 after an armed struggle, and Portuguese is the official language. Cashew nuts are its main export."
   ],
   "geography": {
-    "text": "Guinea-Bissau is low-lying, with a coastline cut by wide river mouths and mangroves. Offshore lies the Bijagós Archipelago, dozens of islands rich in wildlife, including hippos that swim in the sea and nesting sea turtles."
+    "text": "Guinea-Bissau is low-lying, with a coastline cut by wide river mouths and mangroves. Offshore lies the Bijagós Archipelago, dozens of islands rich in wildlife, including hippos that swim in the sea and nesting sea turtles.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid, with a rainy season."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Saltwater hippos and turtles in the Bijagós."
+      }
+    ]
   },
   "history": {
     "text": "The region was part of the Kaabu kingdom, linked to the Mali Empire. Portugal traded along the coast from the 1400s and later made it a colony. Amílcar Cabral led a war of independence from 1963, and Guinea-Bissau declared independence in 1973, recognised by Portugal in 1974. The country has had many coups since.",
@@ -69,6 +79,20 @@
     "related": [
       "PRT",
       "CPV"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Jollof rice and fish with palm oil."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Gumbe music."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Carnival in Bissau is a big celebration."
+      }
     ]
   },
   "sport": {

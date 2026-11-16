@@ -5,7 +5,17 @@
     "The Central African Republic is a landlocked country in the heart of Africa. Its capital and largest city is Bangui. It became independent from France in 1960, and Sango and French are its official languages. The country has rich resources such as diamonds and gold, but years of conflict have left it one of the poorest countries in the world."
   ],
   "geography": {
-    "text": "Most of the country is a wide, rolling plateau covered in savanna. Rainforest grows in the south-west, and the north-east is drier. The Ubangi river, which forms much of the southern border, flows into the Congo."
+    "text": "Most of the country is a wide, rolling plateau covered in savanna. Rainforest grows in the south-west, and the north-east is drier. The Ubangi river, which forms much of the southern border, flows into the Congo.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical, with a rainy season."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Forest elephants, gorillas and bongo antelope in Dzanga-Sangha."
+      }
+    ]
   },
   "history": {
     "text": "The region was raided for slaves for centuries by neighbouring states. France colonised it as Ubangi-Shari in the 1890s, and it became independent in 1960. Jean-Bédel Bokassa seized power in 1966 and crowned himself emperor in 1977. Since 2013 the country has suffered serious conflict.",
@@ -73,6 +83,20 @@
     "related": [
       "COD",
       "TCD"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Cassava, peanuts and greens."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Aka polyphonic singing, listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Music and dance are part of village celebrations."
+      }
     ]
   },
   "sport": {

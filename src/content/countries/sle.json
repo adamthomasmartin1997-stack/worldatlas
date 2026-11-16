@@ -5,7 +5,17 @@
     "Sierra Leone is a country on the Atlantic coast of West Africa. Its capital and largest city, Freetown, was founded in the late 1700s as a home for freed enslaved people. Sierra Leone became independent from the United Kingdom in 1961. A civil war from 1991 to 2002 caused great suffering, and the country is rich in diamonds."
   ],
   "geography": {
-    "text": "Sierra Leone has a coast of mangrove swamps and beaches, with the mountainous Freetown Peninsula. Inland are plains and plateaus, rising to mountains in the east, where Mount Bintumani is the highest peak. Heavy rain falls during the rainy season."
+    "text": "Sierra Leone has a coast of mangrove swamps and beaches, with the mountainous Freetown Peninsula. Inland are plains and plateaus, rising to mountains in the east, where Mount Bintumani is the highest peak. Heavy rain falls during the rainy season.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and very wet."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Chimpanzees and pygmy hippos."
+      }
+    ]
   },
   "history": {
     "text": "Temne and Mende peoples lived in the region, and the coast was part of the slave trade. In 1787 British campaigners founded Freetown as a home for freed slaves, and it became a British colony. Sierra Leone became independent in 1961. A brutal civil war from 1991 to 2002 was fought partly over diamonds, and an Ebola epidemic struck in 2014.",
@@ -80,6 +90,20 @@
     "related": [
       "LBR",
       "GBR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Cassava leaf stew and groundnut soup."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Masked dances of the Bondo society."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Lantern parades in Freetown during Ramadan."
+      }
     ]
   },
   "sport": {

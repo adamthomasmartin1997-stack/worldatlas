@@ -5,7 +5,17 @@
     "Gabon is a country on the Atlantic coast of Central Africa, lying across the equator. Its capital and largest city is Libreville. Gabon became independent from France in 1960. Oil has made it one of the wealthier countries in Africa per person, and it protects large areas of its rainforest in national parks."
   ],
   "geography": {
-    "text": "Most of Gabon is covered by rainforest, home to forest elephants and gorillas. The Ogooué river flows across the country to the Atlantic. The coast has lagoons, mangroves and beaches where whales, turtles and even hippos can sometimes be seen."
+    "text": "Most of Gabon is covered by rainforest, home to forest elephants and gorillas. The Ogooué river flows across the country to the Atlantic. The coast has lagoons, mangroves and beaches where whales, turtles and even hippos can sometimes be seen.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid, with a long rainy season."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Forest elephants, gorillas and surfing hippos."
+      }
+    ]
   },
   "history": {
     "text": "Bantu-speaking peoples settled the region's forests centuries ago. Portuguese traders arrived in the 1470s, and France colonised the area in the 1800s, founding Libreville for freed slaves in 1849. Gabon became independent in 1960. The Bongo family ruled for more than 55 years until a military coup in 2023.",
@@ -74,6 +84,20 @@
       "CMR",
       "COG",
       "FRA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Nyembwe chicken, cooked in palm nut sauce."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Fang masks inspired European modern artists."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Bwiti ceremonies with music and dance."
+      }
     ]
   },
   "sport": {

@@ -5,7 +5,17 @@
     "Eswatini, formerly called Swaziland, is a small landlocked country in southern Africa, almost surrounded by South Africa. Its administrative capital is Mbabane, and Lobamba is its royal and legislative capital. Eswatini became independent from the United Kingdom in 1968 and is one of the last absolute monarchies in the world."
   ],
   "geography": {
-    "text": "For its size, Eswatini has very varied landscapes. It steps down from the cool, mountainous highveld in the west, through the hilly middleveld, to the hot, dry lowveld in the east, with the Lebombo Mountains along the border with Mozambique."
+    "text": "For its size, Eswatini has very varied landscapes. It steps down from the cool, mountainous highveld in the west, through the hilly middleveld, to the hot, dry lowveld in the east, with the Lebombo Mountains along the border with Mozambique.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild in the highlands, warmer in the lowveld."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Rhinos, elephants and lions in its reserves."
+      }
+    ]
   },
   "history": {
     "text": "The Swazi kingdom was formed in the 1700s and 1800s under kings such as Sobhuza I and Mswati II, who gave the people their name. Britain made it a protectorate after the Boer War. Eswatini became independent in 1968 and is one of the world's last absolute monarchies. It was known as Swaziland until 2018.",
@@ -71,6 +81,20 @@
     "related": [
       "ZAF",
       "MOZ"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Sishwala, a thick porridge, with meat stews."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Candle making and glass blowing are popular crafts."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The Umhlanga Reed Dance and the Incwala kingship ceremony."
+      }
     ]
   },
   "sport": {

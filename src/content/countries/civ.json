@@ -5,7 +5,17 @@
     "Ivory Coast, also called Côte d'Ivoire, is a country in West Africa, on the Gulf of Guinea. Its official capital is Yamoussoukro, while Abidjan is its largest city and economic centre. It became independent from France in 1960. French is the official language, and Ivory Coast is the world's largest producer of cocoa."
   ],
   "geography": {
-    "text": "The south of Ivory Coast has a coastline of lagoons and beaches, with tropical rainforest inland. Further north the land becomes savanna on a gently rising plateau. The west is hillier, rising to Mount Nimba on the border with Guinea and Liberia."
+    "text": "The south of Ivory Coast has a coastline of lagoons and beaches, with tropical rainforest inland. Further north the land becomes savanna on a gently rising plateau. The west is hillier, rising to Mount Nimba on the border with Guinea and Liberia.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid in the south, drier in the north."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Pygmy hippos and chimpanzees in Taï National Park."
+      }
+    ]
   },
   "history": {
     "text": "Akan, Kru and other peoples lived in the region, which Europeans named after its ivory trade. France made it a colony in 1893. Côte d'Ivoire became independent in 1960 under Félix Houphouët-Boigny and grew into the world's largest cocoa producer. Two civil wars, in 2002 and 2010–11, divided the country before peace returned.",
@@ -70,6 +80,20 @@
     "related": [
       "FRA",
       "GHA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Attiéké, fermented cassava couscous, with grilled fish."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Zouglou and coupé-décalé music; Dan masks."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The Fêtes des Masques bring masked dancers to the west of the country."
+      }
     ]
   },
   "sport": {

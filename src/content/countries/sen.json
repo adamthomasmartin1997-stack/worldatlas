@@ -5,7 +5,17 @@
     "Senegal is a country on the Atlantic coast of West Africa. Its capital and largest city, Dakar, stands on the Cap-Vert peninsula, the westernmost point of mainland Africa. Senegal became independent from France in 1960 and has a long tradition of peaceful democracy. Gorée Island, off Dakar, is a memorial to the Atlantic slave trade."
   ],
   "geography": {
-    "text": "Senegal is mostly low and flat, with savanna in the centre and south and dry Sahel in the north. The Senegal river forms its northern border, and Senegal almost completely surrounds the Gambia. Near Dakar, Lac Rose is a salt lake whose water can turn pink."
+    "text": "Senegal is mostly low and flat, with savanna in the centre and south and dry Sahel in the north. The Senegal river forms its northern border, and Senegal almost completely surrounds the Gambia. Near Dakar, Lac Rose is a salt lake whose water can turn pink.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot, with a rainy season in summer."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Djoudj bird sanctuary hosts millions of migrating birds."
+      }
+    ]
   },
   "history": {
     "text": "The region was part of the Ghana, Mali and Jolof empires. Gorée Island became a slave-trading post, and France gradually took control in the 1800s, making Dakar the capital of French West Africa. Senegal became independent in 1960 under the poet Léopold Sédar Senghor and has never had a military coup.",
@@ -82,6 +92,20 @@
       "GMB",
       "FRA",
       "MLI"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Thieboudienne, rice with fish, listed by UNESCO."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Mbalax music and sabar drumming."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Laamb, Senegalese wrestling, is accompanied by music and rituals."
+      }
     ]
   },
   "sport": {

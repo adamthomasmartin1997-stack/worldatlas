@@ -5,7 +5,17 @@
     "Rwanda is a small landlocked country in East Africa. Its capital and largest city is Kigali. Rwanda became independent from Belgium in 1962. In 1994 a genocide killed around 800,000 people, most of them Tutsi. Since then Rwanda has rebuilt and is known for its clean, safe cities and fast economic growth."
   ],
   "geography": {
-    "text": "Rwanda is called the 'land of a thousand hills' because its landscape is almost entirely hills and mountains. The Virunga volcanoes in the north-west are home to mountain gorillas, and Lake Kivu forms much of the western border. Many people farm the steep, terraced hillsides."
+    "text": "Rwanda is called the 'land of a thousand hills' because its landscape is almost entirely hills and mountains. The Virunga volcanoes in the north-west are home to mountain gorillas, and Lake Kivu forms much of the western border. Many people farm the steep, terraced hillsides.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild all year in the hills."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Mountain gorillas and golden monkeys in Volcanoes National Park."
+      }
+    ]
   },
   "history": {
     "text": "The Kingdom of Rwanda was ruled by a Tutsi king, the mwami. Germany and then Belgium colonised the country, and Belgium hardened divisions between Hutu and Tutsi. Rwanda became independent in 1962. In 1994 extremists killed around 800,000 people, mostly Tutsi, in about 100 days. Since then Rwanda has rebuilt and grown quickly.",
@@ -78,6 +88,20 @@
       "BDI",
       "COD",
       "UGA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Brochettes and isombe, cassava leaves."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Intore dance and imigongo, cow-dung art."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Kwita Izina, the yearly ceremony to name baby gorillas."
+      }
     ]
   },
   "sport": {

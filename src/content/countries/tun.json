@@ -5,7 +5,17 @@
     "Tunisia is the northernmost country in Africa, on the Mediterranean coast. Its capital and largest city is Tunis. In ancient times it was home to Carthage, the great rival of Rome. Tunisia became independent from France in 1956, and its revolution in 2011 sparked the protests known as the Arab Spring. Arabic is the official language."
   ],
   "geography": {
-    "text": "The north of Tunisia is hilly and green, at the eastern end of the Atlas Mountains. The centre has dry plains and large salt lakes such as Chott el Djerid, and the south is part of the Sahara. Its long Mediterranean coastline includes the island of Djerba."
+    "text": "The north of Tunisia is hilly and green, at the eastern end of the Atlas Mountains. The centre has dry plains and large salt lakes such as Chott el Djerid, and the south is part of the Sahara. Its long Mediterranean coastline includes the island of Djerba.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mediterranean in the north, desert in the south."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Flamingos at Lake Ichkeul."
+      }
+    ]
   },
   "history": {
     "text": "Phoenicians founded Carthage near today's Tunis, and it fought Rome in the Punic Wars until it was destroyed in 146 BC. Arab armies brought Islam in the 600s, and Kairouan became a holy city. France ruled Tunisia from 1881 until independence in 1956. In 2010–11 Tunisia's revolution began the Arab Spring.",
@@ -93,6 +103,20 @@
       "DZA",
       "LBY",
       "ITA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Couscous, brik pastries and harissa."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Mosaics and malouf music."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The Festival of the Sahara at Douz."
+      }
     ]
   },
   "sport": {

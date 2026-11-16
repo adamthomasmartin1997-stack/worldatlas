@@ -5,7 +5,17 @@
     "Ghana is a country in West Africa, on the Gulf of Guinea. Its capital and largest city is Accra. In 1957 Ghana became the first country in sub-Saharan Africa to win independence from colonial rule, from the United Kingdom. English is the official language, and Ghana is one of the world's biggest producers of cocoa and gold."
   ],
   "geography": {
-    "text": "Ghana is mostly low and gently rolling, with a sandy coastline dotted with lagoons and old European forts. Tropical forest grows in the south-west, and the north is savanna. Lake Volta, created by the Akosombo Dam in the 1960s, is one of the largest artificial lakes in the world by area."
+    "text": "Ghana is mostly low and gently rolling, with a sandy coastline dotted with lagoons and old European forts. Tropical forest grows in the south-west, and the north is savanna. Lake Volta, created by the Akosombo Dam in the 1960s, is one of the largest artificial lakes in the world by area.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid in the south, drier in the north."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Elephants in Mole National Park and monkeys in the forests."
+      }
+    ]
   },
   "history": {
     "text": "The Ashanti Empire was a powerful state in the region from around 1700, rich in gold. Europeans built forts along the coast, which they called the Gold Coast, and traded gold and enslaved people. Britain made it a colony in 1874. In 1957 Ghana became the first country in sub-Saharan Africa to win independence from colonial rule, led by Kwame Nkrumah.",
@@ -78,6 +88,20 @@
       "NGA",
       "CIV",
       "GBR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Jollof rice, fufu and banku."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Kente cloth, highlife and Afrobeats music."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Homowo, a harvest festival of the Ga people, 'hoots at hunger'."
+      }
     ]
   },
   "sport": {

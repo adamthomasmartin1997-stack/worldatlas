@@ -5,7 +5,17 @@
     "Sudan is a large country in north-east Africa, on the Red Sea. Its capital is Khartoum, where the Blue Nile and the White Nile meet. Sudan has more ancient pyramids than Egypt, built by the kingdom of Kush. It became independent in 1956, and since 2023 it has been devastated by a war between the army and a rival armed force."
   ],
   "geography": {
-    "text": "Northern Sudan is part of the Sahara, while the south is savanna. The Nile flows through the whole country, and most people live along it. In the west is the Darfur region, with the Marrah Mountains, and in the east Sudan has a coastline on the Red Sea."
+    "text": "Northern Sudan is part of the Sahara, while the south is savanna. The Nile flows through the whole country, and most people live along it. In the west is the Darfur region, with the Marrah Mountains, and in the east Sudan has a coastline on the Red Sea.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Desert in the north, savanna in the south."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Red Sea's coral reefs and many migrating birds."
+      }
+    ]
   },
   "history": {
     "text": "The Kingdom of Kush in northern Sudan conquered Egypt around 750 BC, and its kings built more pyramids than Egypt did. Christian and then Muslim kingdoms followed. Egypt and Britain ruled Sudan from 1899, and it became independent in 1956. Long civil wars led to South Sudan's independence in 2011, and a new war began in 2023.",
@@ -84,6 +94,20 @@
       "EGY",
       "SSD",
       "TCD"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Ful medames and kisra bread."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Haqiba music and henna art."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Weddings last several days."
+      }
     ]
   },
   "sport": {

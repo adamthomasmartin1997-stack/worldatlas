@@ -5,7 +5,17 @@
     "Togo is a narrow country in West Africa, between Ghana and Benin, with a short coast on the Gulf of Guinea. Its capital and largest city is Lomé. Togo became independent from France in 1960. French is the official language, and Togo is an important producer of phosphate."
   ],
   "geography": {
-    "text": "Togo stretches more than 500 kilometres inland but is never much more than 150 kilometres wide. The coast has lagoons and sandy beaches, with plateaus behind. A range of hills and mountains crosses the country from south-west to north-east, and the north is savanna."
+    "text": "Togo stretches more than 500 kilometres inland but is never much more than 150 kilometres wide. The coast has lagoons and sandy beaches, with plateaus behind. A range of hills and mountains crosses the country from south-west to north-east, and the north is savanna.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid in the south, drier in the north."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Elephants and buffalo in the north's parks."
+      }
+    ]
   },
   "history": {
     "text": "Ewe and other peoples lived in the region, which was part of the slave-trading 'Slave Coast'. Germany made Togoland a colony in 1884. After the First World War it was split between Britain and France; the British part joined Ghana. French Togo became independent in 1960. The Gnassingbé family has ruled since 1967.",
@@ -73,6 +83,20 @@
     "related": [
       "GHA",
       "BEN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Fufu and spicy sauces."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Kente-style weaving and Vodun art."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The Evala wrestling festival marks the coming of age of young men."
+      }
     ]
   },
   "sport": {

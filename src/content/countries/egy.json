@@ -5,7 +5,17 @@
     "Egypt is a country in the north-east corner of Africa, with the Sinai Peninsula reaching into Asia. Its capital, Cairo, is one of the largest cities in Africa and the Middle East. Ancient Egypt was one of the world's first great civilisations, and its pyramids at Giza are among the most famous monuments on Earth. The Suez Canal, which links the Mediterranean and Red seas, runs through Egypt."
   ],
   "geography": {
-    "text": "Almost all of Egypt is desert, and nearly everyone lives along the Nile, the longest river in Africa, or in its delta on the Mediterranean. The Western Desert has oases and the Qattara Depression, which lies below sea level, while the Eastern Desert and Sinai are mountainous. Lake Nasser, behind the Aswan High Dam, is one of the largest artificial lakes in the world."
+    "text": "Almost all of Egypt is desert, and nearly everyone lives along the Nile, the longest river in Africa, or in its delta on the Mediterranean. The Western Desert has oases and the Qattara Depression, which lies below sea level, while the Eastern Desert and Sinai are mountainous. Lake Nasser, behind the Aswan High Dam, is one of the largest artificial lakes in the world.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and dry, with almost no rain except on the coast."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Red Sea coral reefs and Nile crocodiles in the south."
+      }
+    ]
   },
   "history": {
     "text": "Ancient Egypt was one of the world's first great civilisations. Its pharaohs built the pyramids of Giza around 4,500 years ago. Egypt was later ruled by Greeks, Romans, Arabs, Ottomans and the British. It became independent in 1922, and a revolution in 1952 ended the monarchy. Egypt fought several wars with Israel before signing a peace treaty in 1979.",
@@ -83,6 +93,20 @@
       "SDN",
       "ISR",
       "PSE"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Koshari, ful medames (stewed fava beans) and falafel, called ta'ameya."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Egyptian cinema and music, from Umm Kulthum to modern pop."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Sham el-Nessim, a spring festival thousands of years old, is celebrated with picnics."
+      }
     ]
   },
   "sport": {

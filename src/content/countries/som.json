@@ -5,7 +5,17 @@
     "Somalia is a country in the Horn of Africa with the longest coastline on mainland Africa. Its capital and largest city is Mogadishu. Somalia was formed in 1960 from former British and Italian territories. Since 1991 it has been affected by civil war, and the north-west region of Somaliland has declared independence, though no country recognises it."
   ],
   "geography": {
-    "text": "Somalia's coastline runs along the Gulf of Aden and the Indian Ocean. Most of the country is dry plateau and plain, with mountains in the north. The Jubba and Shabelle rivers in the south are its only permanent rivers, and most farming takes place along them."
+    "text": "Somalia's coastline runs along the Gulf of Aden and the Indian Ocean. Most of the country is dry plateau and plain, with mountains in the north. The Jubba and Shabelle rivers in the south are its only permanent rivers, and most farming takes place along them.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and dry."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Camels, gazelles and the dibatag antelope."
+      }
+    ]
   },
   "history": {
     "text": "Somali coastal cities such as Mogadishu traded across the Indian Ocean for centuries. In the late 1800s the land was divided between Britain, Italy and France. British and Italian Somaliland united as independent Somalia in 1960. Siad Barre ruled from 1969 until 1991, when the government collapsed and civil war began.",
@@ -78,6 +88,20 @@
       "ETH",
       "KEN",
       "DJI"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Canjeero, a spongy pancake, and camel meat."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Poetry is the most respected art form."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Shaah, spiced tea, is shared throughout the day."
+      }
     ]
   },
   "sport": {

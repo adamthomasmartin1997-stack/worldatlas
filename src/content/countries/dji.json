@@ -5,7 +5,17 @@
     "Djibouti is a small country in the Horn of Africa, at the southern entrance to the Red Sea. Most of its people live in its capital, Djibouti City. Djibouti became independent from France in 1977. Its port is vital for shipping and for trade with landlocked Ethiopia, and several countries have military bases there."
   ],
   "geography": {
-    "text": "Djibouti is mostly hot, dry desert and volcanic plateau. Lake Assal, a salt lake, is the lowest point in Africa, more than 150 metres below sea level. The country lies where three tectonic plates are pulling apart, so the land is slowly being split open."
+    "text": "Djibouti is mostly hot, dry desert and volcanic plateau. Lake Assal, a salt lake, is the lowest point in Africa, more than 150 metres below sea level. The country lies where three tectonic plates are pulling apart, so the land is slowly being split open.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Extremely hot and dry, one of the hottest places on Earth."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Whale sharks gather in the Gulf of Tadjoura."
+      }
+    ]
   },
   "history": {
     "text": "The coast was home to Afar and Somali peoples and was part of trade routes across the Red Sea. France took control in the 1880s, and the port of Djibouti grew after a railway to Ethiopia was built. The territory became independent in 1977. Its position at the entrance to the Red Sea makes it home to several foreign military bases.",
@@ -71,6 +81,20 @@
     "related": [
       "ETH",
       "FRA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Skoudehkaris, spiced rice with meat."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Afar and Somali poetry and song."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Tea and coffee are shared with guests."
+      }
     ]
   },
   "sport": {

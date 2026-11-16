@@ -5,7 +5,17 @@
     "Mali is a large landlocked country in West Africa. Its capital and largest city is Bamako. In the past it was the centre of great empires, including the Mali Empire, whose ruler Mansa Musa is often said to be one of the richest people in history, and Timbuktu was a famous centre of learning. Mali became independent from France in 1960."
   ],
   "geography": {
-    "text": "The north of Mali lies in the Sahara Desert, the centre is the dry Sahel, and the south is savanna. The Niger river curves through the country and forms a large inland delta that floods every year, supporting farming and fishing."
+    "text": "The north of Mali lies in the Sahara Desert, the centre is the dry Sahel, and the south is savanna. The Niger river curves through the country and forms a large inland delta that floods every year, supporting farming and fishing.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Desert in the north, savanna in the south."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Desert elephants migrate in the Gourma region."
+      }
+    ]
   },
   "history": {
     "text": "Mali was the heart of great empires. The Mali Empire's ruler Mansa Musa made a famous pilgrimage to Mecca in 1324 with so much gold that he became known as one of the richest people in history. Timbuktu became a centre of learning. France colonised the region in the late 1800s, and Mali became independent in 1960. Conflict in the north began in 2012.",
@@ -79,6 +89,20 @@
       "SEN",
       "GIN",
       "NER"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Tô, millet porridge, and rice with peanut sauce."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Griot music, kora and desert blues."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The annual replastering of Djenné's Great Mosque."
+      }
     ]
   },
   "sport": {

@@ -5,7 +5,17 @@
     "Namibia is a country on the Atlantic coast of southern Africa. Its capital and largest city is Windhoek. Namibia was a German colony and was later run by South Africa, before becoming independent in 1990. It is one of the most thinly populated countries in the world, and English is the official language."
   ],
   "geography": {
-    "text": "The Namib Desert, one of the oldest deserts in the world, runs along the whole coast and has some of the tallest sand dunes on Earth, around Sossusvlei. Inland is a central plateau, and the Kalahari Desert lies in the east. Etosha Pan, a vast salt flat in the north, is surrounded by a famous wildlife park."
+    "text": "The Namib Desert, one of the oldest deserts in the world, runs along the whole coast and has some of the tallest sand dunes on Earth, around Sossusvlei. Inland is a central plateau, and the Kalahari Desert lies in the east. Etosha Pan, a vast salt flat in the north, is surrounded by a famous wildlife park.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Very dry, with fog on the coast."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Desert elephants, black rhinos and cheetahs."
+      }
+    ]
   },
   "history": {
     "text": "San, Nama and Herero peoples lived in the region for a long time. Germany colonised it in 1884, and between 1904 and 1908 German forces killed tens of thousands of Herero and Nama people in what is recognised as a genocide. South Africa took control after the First World War and imposed apartheid. Namibia became independent in 1990.",
@@ -84,6 +94,20 @@
       "ZAF",
       "AGO",
       "DEU"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Kapana, grilled meat sold at street markets."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Rock engravings at Twyfelfontein, listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Herero women wear long Victorian-style dresses and horn-shaped hats."
+      }
     ]
   },
   "sport": {

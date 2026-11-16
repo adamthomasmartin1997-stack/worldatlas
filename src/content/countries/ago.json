@@ -5,7 +5,17 @@
     "Angola is a country on the Atlantic coast of southern Africa. Its capital and largest city is Luanda. Angola became independent from Portugal in 1975, and a long civil war followed that ended in 2002. Portuguese is the official language, and Angola is one of Africa's biggest oil producers; Cabinda, a province cut off from the rest of the country by DR Congo, produces much of the oil."
   ],
   "geography": {
-    "text": "Angola has a narrow coastal plain, behind which the land rises sharply to a high central plateau. The north is covered by tropical forest and grassland, while the south-west includes part of the Namib Desert. Many rivers begin in Angola's highlands, including tributaries of the Congo and the Zambezi."
+    "text": "Angola has a narrow coastal plain, behind which the land rises sharply to a high central plateau. The north is covered by tropical forest and grassland, while the south-west includes part of the Namib Desert. Many rivers begin in Angola's highlands, including tributaries of the Congo and the Zambezi.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical in the north, dry desert in the south-west along the Namib."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Giant sable antelope, a national symbol, and forest elephants."
+      }
+    ]
   },
   "history": {
     "text": "The Kingdom of Kongo and the Ndongo kingdom ruled parts of the region when the Portuguese arrived in the late 1400s. Angola became a centre of the Atlantic slave trade, and Portugal ruled it for centuries. After a long war of independence, Angola became independent in 1975, but a civil war followed that lasted until 2002.",
@@ -77,6 +87,20 @@
     "related": [
       "PRT",
       "BRA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Muamba de galinha, chicken stew with palm oil, and funge, a cassava porridge."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Semba, kizomba and kuduro music."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Luanda's carnival takes place each February."
+      }
     ]
   },
   "sport": {

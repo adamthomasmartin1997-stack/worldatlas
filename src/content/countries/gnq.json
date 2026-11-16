@@ -5,7 +5,17 @@
     "Equatorial Guinea is a small country in Central Africa, made up of a mainland region and several islands. Its capital is Malabo, on the island of Bioko, although a new capital is being built on the mainland. It became independent from Spain in 1968 and is the only country in Africa with Spanish as an official language. Oil has been its main export since the 1990s."
   ],
   "geography": {
-    "text": "The mainland, called Río Muni, lies between Cameroon and Gabon and is covered by rainforest. The island of Bioko, in the Gulf of Guinea, is volcanic and mountainous. The country also includes Annobón, a small island far to the south-west."
+    "text": "The mainland, called Río Muni, lies between Cameroon and Gabon and is covered by rainforest. The island of Bioko, in the Gulf of Guinea, is volcanic and mountainous. The country also includes Annobón, a small island far to the south-west.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid all year."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Drills (a kind of monkey) and sea turtles on Bioko."
+      }
+    ]
   },
   "history": {
     "text": "The island of Bioko was named Fernando Pó after a Portuguese sailor, and Spain took the territory in 1778. It became Spanish Guinea and gained independence in 1968, making it the only African country with Spanish as an official language. Francisco Macías Nguema's rule was brutal; he was overthrown in 1979. Oil was found in the 1990s.",
@@ -74,6 +84,20 @@
     "related": [
       "ESP",
       "CMR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Fish, plantains and cassava."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Fang masks and mvet music."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Independence Day, 12 October, is the main celebration."
+      }
     ]
   },
   "sport": {

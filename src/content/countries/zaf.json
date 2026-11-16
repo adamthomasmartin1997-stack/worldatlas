@@ -5,7 +5,17 @@
     "South Africa is the southernmost country in Africa. It has three capital cities, Pretoria, Cape Town and Bloemfontein, while Johannesburg is its largest city. From 1948 to the early 1990s it was ruled under apartheid, a system of racial segregation; in 1994 it held its first democratic elections and Nelson Mandela became president. It has 12 official languages."
   ],
   "geography": {
-    "text": "South Africa has coasts on both the Atlantic and Indian oceans, which meet near its southern tip. Much of the interior is a high plateau called the Highveld, edged by the Great Escarpment, including the Drakensberg mountains. The west is dry, while the east is greener. Table Mountain overlooks Cape Town, and Kruger National Park is one of Africa's largest wildlife reserves."
+    "text": "South Africa has coasts on both the Atlantic and Indian oceans, which meet near its southern tip. Much of the interior is a high plateau called the Highveld, edged by the Great Escarpment, including the Drakensberg mountains. The west is dry, while the east is greener. Table Mountain overlooks Cape Town, and Kruger National Park is one of Africa's largest wildlife reserves.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mostly sunny; Mediterranean in Cape Town, subtropical in the east."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Big Five, plus penguins on the Cape coast."
+      }
+    ]
   },
   "history": {
     "text": "The ancestors of the San and Khoekhoe lived in South Africa for many thousands of years, and Bantu-speaking peoples arrived later. The Dutch founded Cape Town in 1652, and Britain took over the Cape in 1806. Diamonds and gold brought wealth and war. From 1948 the apartheid system enforced racial segregation, until Nelson Mandela was elected president in 1994.",
@@ -83,6 +93,20 @@
       "BWA",
       "NAM",
       "LSO"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Braai (barbecue), bobotie and biltong."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Amapiano, kwaito and choral music."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Heritage Day, 24 September, is nicknamed 'Braai Day'."
+      }
     ]
   },
   "sport": {

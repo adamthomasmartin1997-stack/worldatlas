@@ -5,7 +5,17 @@
     "Tanzania is a country in East Africa, on the Indian Ocean. Its official capital is Dodoma, while Dar es Salaam is its largest city. Tanzania was formed in 1964 when Tanganyika and the islands of Zanzibar united. Swahili is the national language, and the country is famous for safaris in the Serengeti."
   ],
   "geography": {
-    "text": "Tanzania is home to Mount Kilimanjaro, the highest mountain in Africa, and borders three of Africa's largest lakes: Victoria, Tanganyika and Malawi. Much of the country is a high plateau of savanna crossed by the Great Rift Valley, and the Serengeti and the Ngorongoro Crater are famous for their wildlife."
+    "text": "Tanzania is home to Mount Kilimanjaro, the highest mountain in Africa, and borders three of Africa's largest lakes: Victoria, Tanganyika and Malawi. Much of the country is a high plateau of savanna crossed by the Great Rift Valley, and the Serengeti and the Ngorongoro Crater are famous for their wildlife.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical on the coast, cooler in the highlands."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Serengeti's lions and the wildebeest migration."
+      }
+    ]
   },
   "history": {
     "text": "Swahili city-states such as Kilwa traded across the Indian Ocean, and Zanzibar later became the centre of an Omani trading empire. Germany colonised the mainland, Tanganyika, which Britain took after the First World War. Tanganyika became independent in 1961 under Julius Nyerere and joined with Zanzibar in 1964 to form Tanzania.",
@@ -77,6 +87,20 @@
     "related": [
       "KEN",
       "OMN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Ugali and pilau, spiced rice."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Tingatinga painting and bongo flava music."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Taarab music concerts in Zanzibar."
+      }
     ]
   },
   "sport": {

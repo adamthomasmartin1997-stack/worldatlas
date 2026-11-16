@@ -5,7 +5,17 @@
     "Mauritania is a country in north-west Africa, on the Atlantic coast. Its capital and largest city is Nouakchott. Mauritania became independent from France in 1960, and Arabic is the official language. It is known for ancient desert trading towns such as Chinguetti and Ouadane, and for one of the longest trains in the world, which carries iron ore across the desert."
   ],
   "geography": {
-    "text": "About three-quarters of Mauritania is desert, part of the Sahara. The Senegal river forms its southern border and provides most of its farmland. In the desert, the Richat Structure is a huge circular rock formation so large it can be seen from space, and its coast has rich fishing waters."
+    "text": "About three-quarters of Mauritania is desert, part of the Sahara. The Senegal river forms its southern border and provides most of its farmland. In the desert, the Richat Structure is a huge circular rock formation so large it can be seen from space, and its coast has rich fishing waters.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Very hot and dry desert."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Millions of birds winter in Banc d'Arguin National Park."
+      }
+    ]
   },
   "history": {
     "text": "The region was part of the ancient Ghana Empire, and the Almoravid movement began here in the 1000s. Desert towns such as Chinguetti were centres of trade and learning. France colonised Mauritania in the early 1900s, and it became independent in 1960. In 1981 it became the last country in the world to abolish slavery by law.",
@@ -69,6 +79,20 @@
     "related": [
       "SEN",
       "MAR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Thieboudienne, rice with fish, and camel milk."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Poetry and music by griots called iggawen."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Tea is drunk in three glasses, each sweeter than the last."
+      }
     ]
   },
   "sport": {

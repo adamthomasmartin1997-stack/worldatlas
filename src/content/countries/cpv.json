@@ -5,7 +5,17 @@
     "Cape Verde, also called Cabo Verde, is an island country in the Atlantic Ocean off the coast of West Africa. Its capital and largest city is Praia, on the island of Santiago. The islands were uninhabited until the Portuguese arrived in the 1400s, and Cape Verde became independent from Portugal in 1975. It is known for morna music, made famous by the singer Cesária Évora."
   ],
   "geography": {
-    "text": "Cape Verde is made up of ten volcanic islands, nine of them inhabited. Some, such as Fogo with its still-active volcano, are mountainous, while others are flat and sandy. The climate is dry, and droughts have often been a problem."
+    "text": "Cape Verde is made up of ten volcanic islands, nine of them inhabited. Some, such as Fogo with its still-active volcano, are mountainous, while others are flat and sandy. The climate is dry, and droughts have often been a problem.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Dry and warm, with little rain."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Loggerhead turtles nest on the beaches."
+      }
+    ]
   },
   "history": {
     "text": "Cabo Verde's islands were uninhabited when Portuguese sailors found them around 1456. They became a stop on the Atlantic slave trade, and a Creole culture grew there. Cabo Verde won independence together with Guinea-Bissau's liberation movement and became independent in 1975. It is now one of Africa's most stable democracies.",
@@ -76,6 +86,20 @@
     "related": [
       "PRT",
       "GNB"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Cachupa, a stew of corn, beans and fish or meat."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Morna and coladeira music."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Carnival in Mindelo is the biggest festival."
+      }
     ]
   },
   "sport": {

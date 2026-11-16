@@ -5,7 +5,17 @@
     "Lesotho is a small landlocked kingdom completely surrounded by South Africa. Its capital and largest city is Maseru. Lesotho became independent from the United Kingdom in 1966. Sesotho and English are its official languages, and many people wear the traditional Basotho blanket and hat."
   ],
   "geography": {
-    "text": "Lesotho is the only country in the world that lies entirely above 1,000 metres, which has earned it the nickname 'Kingdom in the Sky'. Much of it is in the Maloti and Drakensberg mountains, and its highlands supply water to South Africa through large dams and tunnels."
+    "text": "Lesotho is the only country in the world that lies entirely above 1,000 metres, which has earned it the nickname 'Kingdom in the Sky'. Much of it is in the Maloti and Drakensberg mountains, and its highlands supply water to South Africa through large dams and tunnels.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Cold winters with snow in the mountains, warm summers."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Bearded vultures soar over the mountains."
+      }
+    ]
   },
   "history": {
     "text": "King Moshoeshoe I united the Basotho people in the early 1800s from his mountain stronghold of Thaba Bosiu. To protect his land from Boer settlers he asked for British protection, and Basutoland became a British protectorate in 1868. Lesotho became independent in 1966. It is entirely surrounded by South Africa.",
@@ -73,6 +83,20 @@
     ],
     "related": [
       "ZAF"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Papa, maize porridge, with vegetables."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Famo music with accordions."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Basotho blankets are given at important life events."
+      }
     ]
   },
   "sport": {

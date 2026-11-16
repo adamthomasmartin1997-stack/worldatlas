@@ -5,7 +5,17 @@
     "Uganda is a landlocked country in East Africa. Its capital and largest city is Kampala. Uganda became independent from the United Kingdom in 1962. English and Swahili are official languages, and the country is home to many ethnic groups. Winston Churchill called it the 'Pearl of Africa'."
   ],
   "geography": {
-    "text": "Uganda sits on a high plateau and includes a large part of Lake Victoria, the largest lake in Africa, from which the Nile begins its long journey north. The Rwenzori Mountains, sometimes called the 'Mountains of the Moon', rise along the western border, and its forests are home to mountain gorillas and chimpanzees."
+    "text": "Uganda sits on a high plateau and includes a large part of Lake Victoria, the largest lake in Africa, from which the Nile begins its long journey north. The Rwenzori Mountains, sometimes called the 'Mountains of the Moon', rise along the western border, and its forests are home to mountain gorillas and chimpanzees.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild and green, near the equator but cooled by height."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Mountain gorillas, chimpanzees and tree-climbing lions."
+      }
+    ]
   },
   "history": {
     "text": "The Kingdom of Buganda was the most powerful of several kingdoms around Lake Victoria. Britain made Uganda a protectorate in 1894, and it became independent in 1962. Idi Amin seized power in 1971 and ruled brutally until 1979, when Tanzanian troops and Ugandan exiles overthrew him. Yoweri Museveni has led the country since 1986.",
@@ -85,6 +95,20 @@
       "KEN",
       "RWA",
       "TZA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Matoke, steamed green bananas, and rolex, an omelette rolled in chapati."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Bark cloth and kadongo kamu music."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Royal drumming and dancing in the kingdom of Buganda."
+      }
     ]
   },
   "sport": {

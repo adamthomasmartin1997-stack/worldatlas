@@ -5,7 +5,17 @@
     "Nigeria is a country in West Africa, on the Gulf of Guinea, and the most populous country in Africa. Its capital is Abuja and its largest city is Lagos, one of the biggest cities in Africa. Nigeria became independent from the United Kingdom in 1960. It has hundreds of ethnic groups, and its film industry, Nollywood, is one of the largest in the world."
   ],
   "geography": {
-    "text": "Southern Nigeria has a coastline of lagoons and the huge, oil-rich Niger Delta, with tropical rainforest inland. The centre is a plateau of savanna, and the north is drier, reaching into the Sahel. The Niger and Benue rivers meet near the city of Lokoja and flow south together to the sea."
+    "text": "Southern Nigeria has a coastline of lagoons and the huge, oil-rich Niger Delta, with tropical rainforest inland. The centre is a plateau of savanna, and the north is drier, reaching into the Sahel. The Niger and Benue rivers meet near the city of Lokoja and flow south together to the sea.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and wet in the south, dry in the north."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Cross River gorillas, among the rarest apes on Earth."
+      }
+    ]
   },
   "history": {
     "text": "Nigeria was home to the Nok culture, famous for its terracotta sculptures, and later to the kingdoms of Benin, Oyo and the Hausa city-states. Britain took control in the 1800s and joined the north and south together in 1914. Nigeria became independent in 1960. A civil war over Biafra from 1967 to 1970 cost up to a million lives, and Nigeria has been a democracy since 1999.",
@@ -79,6 +89,20 @@
     "related": [
       "GHA",
       "GBR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Jollof rice, suya (spicy grilled meat) and egusi soup."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Afrobeats, Nollywood, Benin bronzes and Yoruba sculpture."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The Argungu Fishing Festival and Durbar horse parades in the north."
+      }
     ]
   },
   "sport": {

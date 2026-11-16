@@ -5,7 +5,17 @@
     "Ethiopia is a landlocked country in the Horn of Africa and one of the most populous countries in Africa. Its capital, Addis Ababa, is the headquarters of the African Union. Ethiopia is one of the oldest countries in the world and was never colonised, apart from a short Italian occupation from 1936 to 1941. It is believed to be the birthplace of coffee."
   ],
   "geography": {
-    "text": "Much of Ethiopia is a high plateau split by the Great Rift Valley, with mountain ranges such as the Simien Mountains. Lake Tana, the source of the Blue Nile, lies in the north-west. The lowlands to the north-east include the Danakil Depression, one of the lowest and hottest places on Earth."
+    "text": "Much of Ethiopia is a high plateau split by the Great Rift Valley, with mountain ranges such as the Simien Mountains. Lake Tana, the source of the Blue Nile, lies in the north-west. The lowlands to the north-east include the Danakil Depression, one of the lowest and hottest places on Earth.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild in the highlands, very hot in the Danakil Depression."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Ethiopian wolves and gelada monkeys in the Simien Mountains."
+      }
+    ]
   },
   "history": {
     "text": "Ethiopia is one of the oldest countries in the world. The Kingdom of Aksum adopted Christianity in the 300s, and later kings claimed descent from King Solomon and the Queen of Sheba. At the Battle of Adwa in 1896, Ethiopia defeated Italy and stayed independent. Italy occupied it from 1936 to 1941. Emperor Haile Selassie was overthrown in 1974, and a severe famine struck in the 1980s.",
@@ -82,6 +92,20 @@
     "related": [
       "ERI",
       "DJI"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Injera, a spongy flatbread, with spicy stews called wat."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Ethio-jazz, church paintings and the begena harp."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Timkat, Epiphany in January, is listed by UNESCO."
+      }
     ]
   },
   "sport": {

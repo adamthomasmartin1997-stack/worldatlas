@@ -5,7 +5,17 @@
     "Eritrea is a country in the Horn of Africa, on the Red Sea. Its capital, Asmara, is known for its Italian modernist buildings and is a UNESCO World Heritage Site. Eritrea was an Italian colony and later part of Ethiopia, and it won independence in 1993 after a 30-year war. It is one of the most closed-off countries in the world."
   ],
   "geography": {
-    "text": "Eritrea has a long Red Sea coastline with the Dahlak Archipelago offshore. The central highlands, where Asmara stands, are cooler and wetter, while the coast and lowlands are very hot. The Danakil Depression in the south-east, which dips below sea level, is one of the hottest places on Earth."
+    "text": "Eritrea has a long Red Sea coastline with the Dahlak Archipelago offshore. The central highlands, where Asmara stands, are cooler and wetter, while the coast and lowlands are very hot. The Danakil Depression in the south-east, which dips below sea level, is one of the hottest places on Earth.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot on the coast, cooler on the highland plateau."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Dugongs and coral reefs in the Dahlak Islands."
+      }
+    ]
   },
   "history": {
     "text": "The ancient Kingdom of Aksum included much of what is now Eritrea, and the port of Adulis traded with Rome and India. Italy made Eritrea a colony in 1890. After the Second World War Britain ran it, and in 1952 it was joined to Ethiopia. Eritreans fought a 30-year war for independence, which they won in 1991, and independence was confirmed by a vote in 1993.",
@@ -79,6 +89,20 @@
     "related": [
       "ETH",
       "ITA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Injera with zigni, a spicy meat stew."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Tigrinya music and Italian-era architecture in Asmara."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The coffee ceremony is a daily social event."
+      }
     ]
   },
   "sport": {

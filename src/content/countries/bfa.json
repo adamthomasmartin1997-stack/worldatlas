@@ -5,7 +5,17 @@
     "Burkina Faso is a landlocked country in West Africa. Its capital and largest city is Ouagadougou. It became independent from France in 1960 as Upper Volta and took its current name, meaning 'land of upright people', in 1984. Ouagadougou hosts FESPACO, Africa's biggest film festival."
   ],
   "geography": {
-    "text": "Burkina Faso is mostly a flat or gently rolling plateau. The north is dry Sahel at the edge of the Sahara, while the south is greener savanna. Its three main rivers, the Black, Red and White Volta, flow south towards Ghana."
+    "text": "Burkina Faso is mostly a flat or gently rolling plateau. The north is dry Sahel at the edge of the Sahara, while the south is greener savanna. Its three main rivers, the Black, Red and White Volta, flow south towards Ghana.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot, with a short rainy season and a long dry season."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Elephants and lions in the W–Arly–Pendjari parks."
+      }
+    ]
   },
   "history": {
     "text": "The Mossi kingdoms ruled the region for centuries before France took control in the 1890s. As Upper Volta, it became independent in 1960. In 1984 its leader Thomas Sankara renamed it Burkina Faso, meaning 'land of upright people'. The country has had several military coups, most recently in 2022.",
@@ -70,6 +80,20 @@
     "related": [
       "MLI",
       "NER"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Tô, a millet porridge, eaten with sauces."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Masks, bronze casting and the FESPACO film festival."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Masked dances are performed at funerals and harvests."
+      }
     ]
   },
   "sport": {

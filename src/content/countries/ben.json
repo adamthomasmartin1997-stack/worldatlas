@@ -5,7 +5,17 @@
     "Benin is a country in West Africa, on the Gulf of Guinea. Its official capital is Porto-Novo, while Cotonou is its largest city and seat of government. The area was home to the Kingdom of Dahomey, and Benin became independent from France in 1960. French is the official language, and Benin is the birthplace of the Vodun religion."
   ],
   "geography": {
-    "text": "Benin is long and narrow, stretching north from a short Atlantic coast lined with lagoons. Behind the coast is a fertile plateau, and the north is savanna, rising to the Atacora Mountains in the north-west. Pendjari National Park in the north is one of the last strongholds of lions in West Africa."
+    "text": "Benin is long and narrow, stretching north from a short Atlantic coast lined with lagoons. Behind the coast is a fertile plateau, and the north is savanna, rising to the Atacora Mountains in the north-west. Pendjari National Park in the north is one of the last strongholds of lions in West Africa.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid in the south, drier in the north."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Pendjari National Park has lions, elephants and hippos."
+      }
+    ]
   },
   "history": {
     "text": "The Kingdom of Dahomey, based at Abomey, was a powerful state from the 1600s, known for its female soldiers. It grew rich partly through the slave trade. France conquered Dahomey in 1894, and it became independent in 1960. It took the name Benin in 1975, and in 1990 it became one of the first African countries to move peacefully to multi-party democracy.",
@@ -75,6 +85,20 @@
       "NGA",
       "TGO",
       "FRA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Pâte, a cornmeal dough, eaten with spicy sauces."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Bronze and appliqué cloth from the royal court of Abomey."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Vodun Day, 10 January, brings ceremonies and dancers to Ouidah."
+      }
     ]
   },
   "sport": {

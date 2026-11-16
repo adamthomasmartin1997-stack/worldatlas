@@ -5,7 +5,17 @@
     "Seychelles is an island country in the Indian Ocean, north-east of Madagascar, and the African country with the fewest people. Its capital, Victoria, is on the island of Mahé. Seychelles became independent from the United Kingdom in 1976. Tourism and fishing are the main parts of its economy."
   ],
   "geography": {
-    "text": "Seychelles has about 115 islands. The inner islands, such as Mahé and Praslin, are made of granite, with steep forested hills, while the outer islands are low coral islands. Aldabra, one of the largest atolls in the world, is home to giant tortoises, and the coco de mer palm, with the heaviest seed of any plant, grows wild only on Praslin and Curieuse."
+    "text": "Seychelles has about 115 islands. The inner islands, such as Mahé and Praslin, are made of granite, with steep forested hills, while the outer islands are low coral islands. Aldabra, one of the largest atolls in the world, is home to giant tortoises, and the coco de mer palm, with the heaviest seed of any plant, grows wild only on Praslin and Curieuse.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical and warm all year."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Giant Aldabra tortoises and the coco de mer palm."
+      }
+    ]
   },
   "history": {
     "text": "The Seychelles were uninhabited until French settlers arrived in 1770 with enslaved Africans. Britain took the islands in 1814. Seychelles became independent in 1976, and a coup the next year began a period of one-party rule that lasted until 1993.",
@@ -81,6 +91,20 @@
     "related": [
       "MUS",
       "FRA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Fish curries and breadfruit."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Moutya dance, listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The Festival Kreol each October celebrates Creole culture."
+      }
     ]
   },
   "sport": {

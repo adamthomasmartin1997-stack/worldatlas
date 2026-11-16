@@ -5,7 +5,17 @@
     "Kenya is a country in East Africa, on the Indian Ocean. Its capital and largest city is Nairobi. Kenya became independent from the United Kingdom in 1963. Swahili and English are its official languages. Kenya is famous for wildlife safaris and for its long-distance runners, who have won many Olympic medals."
   ],
   "geography": {
-    "text": "Kenya rises from a coastal strip on the Indian Ocean to high plateaus in the centre and west, split by the Great Rift Valley. Mount Kenya, the second-highest mountain in Africa, stands close to the equator. The north is dry and semi-desert, while the south-west borders Lake Victoria and includes the Maasai Mara, famous for its great wildebeest migration."
+    "text": "Kenya rises from a coastal strip on the Indian Ocean to high plateaus in the centre and west, split by the Great Rift Valley. Mount Kenya, the second-highest mountain in Africa, stands close to the equator. The north is dry and semi-desert, while the south-west borders Lake Victoria and includes the Maasai Mara, famous for its great wildebeest migration.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot on the coast, mild in the highlands around Nairobi."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Lions, elephants, rhinos and the great migration in the Maasai Mara."
+      }
+    ]
   },
   "history": {
     "text": "Some of the oldest human fossils have been found in Kenya. Swahili city-states grew up on the coast and traded across the Indian Ocean. Britain colonised Kenya in the 1890s and took fertile land for white settlers. The Mau Mau uprising of the 1950s was brutally put down, and Kenya became independent in 1963 under Jomo Kenyatta.",
@@ -80,6 +90,20 @@
     "related": [
       "TZA",
       "ETH"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Ugali, a maize porridge, with sukuma wiki (greens) and nyama choma (grilled meat)."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Benga music and Maasai beadwork."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Maasai coming-of-age ceremonies include jumping dances."
+      }
     ]
   },
   "sport": {

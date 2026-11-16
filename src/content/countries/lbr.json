@@ -5,7 +5,17 @@
     "Liberia is a country on the Atlantic coast of West Africa. Its capital and largest city, Monrovia, is named after US President James Monroe. Liberia was founded in the 1820s as a settlement for freed African Americans and became independent in 1847, making it Africa's oldest republic. In 2005 it elected Ellen Johnson Sirleaf, the first elected female head of state in Africa."
   ],
   "geography": {
-    "text": "Liberia has a flat coastal plain with lagoons and mangroves, behind which the land rises to forested hills and low mountains. It has some of the largest remaining areas of rainforest in West Africa, and heavy rainfall feeds many rivers flowing to the Atlantic."
+    "text": "Liberia has a flat coastal plain with lagoons and mangroves, behind which the land rises to forested hills and low mountains. It has some of the largest remaining areas of rainforest in West Africa, and heavy rainfall feeds many rivers flowing to the Atlantic.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and very wet on the coast."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Pygmy hippos and chimpanzees in Sapo National Park."
+      }
+    ]
   },
   "history": {
     "text": "Liberia was founded in the 1820s by the American Colonization Society as a home for freed Black Americans. It declared independence in 1847, making it Africa's oldest republic. Americo-Liberians dominated the country for over a century. Civil wars from 1989 to 2003 killed around 250,000 people, and in 2005 Ellen Johnson Sirleaf became Africa's first elected female head of state.",
@@ -67,6 +77,20 @@
     "related": [
       "USA",
       "SLE"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Palm butter soup and jollof rice."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Masks and carvings of the Dan people."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Independence Day, 26 July, is the biggest holiday."
+      }
     ]
   },
   "sport": {

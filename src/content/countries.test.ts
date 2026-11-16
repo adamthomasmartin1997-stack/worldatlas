@@ -22,6 +22,11 @@ describe('country content', () => {
     expect(missing).toEqual([]);
   });
 
+  it('every country has Climate, Wildlife, Food, Music and arts, and Traditions sub-sections', () => {
+    const missing = SOVEREIGN.filter((c) => (contentFor(c.cca3)?.geography?.subsections?.length ?? 0) < 2 || (contentFor(c.cca3)?.culture?.subsections?.length ?? 0) < 3).map((c) => c.cca3);
+    expect(missing).toEqual([]);
+  });
+
   it('related country codes all exist', () => {
     for (const c of SOVEREIGN) {
       const content = contentFor(c.cca3)!;

@@ -5,7 +5,17 @@
     "Algeria is the largest country in Africa, on the Mediterranean coast of North Africa. Its capital and largest city is Algiers. Algeria was ruled by France from 1830 and won its independence in 1962 after a long war. Arabic and Berber (Tamazight) are official languages, and the country is a major producer of oil and natural gas."
   ],
   "geography": {
-    "text": "More than four-fifths of Algeria lies in the Sahara Desert, with vast seas of sand, rocky plateaus and the Hoggar Mountains in the south. Most people live in the north, along the Mediterranean coast and in the fertile valleys and plains among the Atlas Mountains."
+    "text": "More than four-fifths of Algeria lies in the Sahara Desert, with vast seas of sand, rocky plateaus and the Hoggar Mountains in the south. Most people live in the north, along the Mediterranean coast and in the fertile valleys and plains among the Atlas Mountains.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mediterranean on the coast, and extremely hot and dry in the Sahara."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Fennec foxes, Barbary macaques and dorcas gazelles."
+      }
+    ]
   },
   "history": {
     "text": "Berber kingdoms ruled the region in ancient times, followed by Rome. Arab armies brought Islam in the 600s, and later Algiers was part of the Ottoman world. France invaded in 1830 and ruled for 132 years. After a war of independence from 1954 to 1962, in which hundreds of thousands died, Algeria became independent. A civil war in the 1990s cost many more lives.",
@@ -78,6 +88,20 @@
       "FRA",
       "MAR",
       "TUN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Couscous, listed by UNESCO, and chakhchoukha, a stew with torn flatbread."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Raï music from Oran and Andalusian classical music."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Yennayer, the Amazigh New Year in January, is a national holiday."
+      }
     ]
   },
   "sport": {

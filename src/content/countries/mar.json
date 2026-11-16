@@ -5,7 +5,17 @@
     "Morocco is a country in north-west Africa, with coasts on both the Atlantic Ocean and the Mediterranean Sea. Its capital is Rabat, and its largest city is Casablanca. Morocco is a kingdom and became independent from France and Spain in 1956. Arabic and Berber (Tamazight) are official languages, and cities such as Marrakesh and Fez are famous for their old walled medinas."
   ],
   "geography": {
-    "text": "The Atlas Mountains run across the middle of Morocco, separating the coast from the Sahara Desert in the south-east, and Toubkal in the High Atlas is the highest peak in North Africa. The Rif mountains rise along the Mediterranean coast, and the Atlantic plains are the most fertile part of the country."
+    "text": "The Atlas Mountains run across the middle of Morocco, separating the coast from the Sahara Desert in the south-east, and Toubkal in the High Atlas is the highest peak in North Africa. The Rif mountains rise along the Mediterranean coast, and the Atlantic plains are the most fertile part of the country.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mediterranean in the north, desert in the south, snowy in the Atlas Mountains."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Barbary macaques in the cedar forests of the Atlas."
+      }
+    ]
   },
   "history": {
     "text": "Berber kingdoms ruled the region in ancient times, and Islam arrived in the 600s. Powerful dynasties such as the Almoravids and Almohads ruled from Marrakesh over much of North Africa and Spain. The Alaouite dynasty has ruled since the 1600s. France and Spain divided Morocco in 1912, and it regained independence in 1956.",
@@ -82,6 +92,20 @@
       "ESP",
       "FRA",
       "DZA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Tagine, couscous and mint tea."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Gnawa music, listed by UNESCO, and zellige tilework."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Guests are welcomed with mint tea poured from a height."
+      }
     ]
   },
   "sport": {

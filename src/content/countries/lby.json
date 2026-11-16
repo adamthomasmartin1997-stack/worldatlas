@@ -5,7 +5,17 @@
     "Libya is a large country in North Africa, on the Mediterranean coast. Its capital and largest city is Tripoli. Libya became independent in 1951. It has the largest proven oil reserves in Africa. Since the overthrow of Muammar Gaddafi in 2011, the country has been split between rival governments."
   ],
   "geography": {
-    "text": "About 90 percent of Libya is desert, part of the Sahara, with sand seas and rocky plateaus. Most people live along the Mediterranean coast, especially around Tripoli and Benghazi. Libya has no permanent rivers; a huge network of pipes called the Great Man-Made River carries water from underground reserves in the desert to the coast."
+    "text": "About 90 percent of Libya is desert, part of the Sahara, with sand seas and rocky plateaus. Most people live along the Mediterranean coast, especially around Tripoli and Benghazi. Libya has no permanent rivers; a huge network of pipes called the Great Man-Made River carries water from underground reserves in the desert to the coast.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mediterranean on the coast, very hot desert inland."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Fennec foxes and Barbary sheep."
+      }
+    ]
   },
   "history": {
     "text": "Greeks founded Cyrene in the east and Phoenicians settled the west in ancient times, and the region later became part of Rome. After Arab and Ottoman rule, Italy invaded in 1911. Libya became independent in 1951 as a kingdom. Muammar Gaddafi seized power in 1969 and ruled until he was overthrown in 2011; the country has been divided since.",
@@ -72,6 +82,20 @@
       "EGY",
       "TUN",
       "ITA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Bazeen, a barley dough with stew."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Rock art in the Akakus mountains, listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Hospitality with tea, served three times."
+      }
     ]
   },
   "sport": {

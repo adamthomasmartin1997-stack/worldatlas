@@ -5,7 +5,17 @@
     "South Sudan is a landlocked country in east-central Africa and the youngest country in the world. It became independent from Sudan in 2011, after decades of conflict. Its capital and largest city is Juba. Since independence it has faced civil war and hunger, but it is rich in oil."
   ],
   "geography": {
-    "text": "The White Nile flows north through South Sudan and spreads out into the Sudd, one of the largest wetlands in the world. Much of the country is savanna and floodplain, with forests in the south and the Imatong Mountains near the border with Uganda. Huge herds of antelope migrate across its plains."
+    "text": "The White Nile flows north through South Sudan and spreads out into the Sudd, one of the largest wetlands in the world. Much of the country is savanna and floodplain, with forests in the south and the Imatong Mountains near the border with Uganda. Huge herds of antelope migrate across its plains.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot, with a long rainy season."
+      },
+      {
+        "title": "Wildlife",
+        "text": "One of the largest animal migrations, of antelope such as white-eared kob."
+      }
+    ]
   },
   "history": {
     "text": "South Sudan's peoples, including the Dinka and Nuer, have long lived as cattle herders along the Nile. Under Anglo-Egyptian rule the south was run separately from the north. After independence in 1956, the south fought two long civil wars against Sudan's government. In 2011 South Sudan voted to become independent, making it the world's newest country, but a civil war broke out in 2013.",
@@ -77,6 +87,20 @@
       "SDN",
       "UGA",
       "KEN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Kisra, a sorghum flatbread."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Songs that honour cattle."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Cattle camps are at the heart of many communities."
+      }
     ]
   },
   "sport": {

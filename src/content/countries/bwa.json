@@ -5,7 +5,17 @@
     "Botswana is a landlocked country in southern Africa. Its capital and largest city is Gaborone. Botswana became independent from the United Kingdom in 1966 and has been one of Africa's most stable democracies. It is one of the world's largest producers of diamonds, which helped it grow quickly."
   ],
   "geography": {
-    "text": "About 70 percent of Botswana is covered by the Kalahari Desert, a dry, sandy savanna. In the north-west, the Okavango river spreads out into the Okavango Delta, a huge inland delta that floods every year and draws enormous numbers of animals. The Makgadikgadi Pans in the north-east are among the largest salt flats in the world."
+    "text": "About 70 percent of Botswana is covered by the Kalahari Desert, a dry, sandy savanna. In the north-west, the Okavango river spreads out into the Okavango Delta, a huge inland delta that floods every year and draws enormous numbers of animals. The Makgadikgadi Pans in the north-east are among the largest salt flats in the world.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Dry and sunny, with a short rainy season in summer."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Huge herds of elephants, lions, and wild dogs in the Okavango Delta."
+      }
+    ]
   },
   "history": {
     "text": "Tswana chiefdoms lived in the region when, in 1885, Britain made it the protectorate of Bechuanaland, partly to stop it being taken over by South Africa. Botswana became independent in 1966 as one of the poorest countries in the world. Diamonds were found the next year, and careful use of that wealth made it one of Africa's most stable and prosperous democracies.",
@@ -72,6 +82,20 @@
     "related": [
       "ZAF",
       "NAM"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Seswaa, pounded beef, served with pap, a maize porridge."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Basket weaving from the Okavango region."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Independence Day, 30 September, is celebrated with dancing and singing."
+      }
     ]
   },
   "sport": {

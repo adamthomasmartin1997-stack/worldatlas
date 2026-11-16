@@ -5,7 +5,17 @@
     "Cameroon is a country in Central Africa, on the Gulf of Guinea, where West and Central Africa meet. Its capital is Yaoundé and its largest city is Douala. Cameroon was formed in 1960 and 1961 from former French and British territories, so both French and English are official languages. It is sometimes called 'Africa in miniature' because it has almost every kind of African landscape."
   ],
   "geography": {
-    "text": "Southern Cameroon is covered in rainforest, the centre is a high plateau, and the north is savanna reaching up to Lake Chad. Near the coast in the west, Mount Cameroon is an active volcano and one of the wettest places on Earth."
+    "text": "Southern Cameroon is covered in rainforest, the centre is a high plateau, and the north is savanna reaching up to Lake Chad. Near the coast in the west, Mount Cameroon is an active volcano and one of the wettest places on Earth.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid in the south, dry in the north."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Gorillas, chimpanzees and forest elephants."
+      }
+    ]
   },
   "history": {
     "text": "Many peoples lived in the region, including kingdoms such as Bamum, whose king Njoya invented his own writing system. Germany colonised Kamerun in 1884. After the First World War it was split between France and Britain. French Cameroon became independent in 1960, and part of British Cameroons joined it in 1961. Tensions in the English-speaking regions turned violent from 2017.",
@@ -79,6 +89,20 @@
       "NGA",
       "FRA",
       "GBR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Ndolé, a stew of bitter leaves and peanuts."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Makossa and bikutsi music; Bamileke masks and beadwork."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The Ngondo festival of the Sawa people honours water spirits."
+      }
     ]
   },
   "sport": {

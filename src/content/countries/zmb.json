@@ -5,7 +5,17 @@
     "Zambia is a landlocked country in southern Africa. Its capital and largest city is Lusaka. Zambia became independent from the United Kingdom in 1964. It is one of Africa's biggest producers of copper, and English is the official language."
   ],
   "geography": {
-    "text": "Most of Zambia is a high plateau covered by savanna and woodland. The Zambezi river forms its southern border with Zimbabwe, where it plunges over Victoria Falls, one of the largest waterfalls in the world. Lake Kariba, on the same river, is one of the largest artificial lakes in the world."
+    "text": "Most of Zambia is a high plateau covered by savanna and woodland. The Zambezi river forms its southern border with Zimbabwe, where it plunges over Victoria Falls, one of the largest waterfalls in the world. Lake Kariba, on the same river, is one of the largest artificial lakes in the world.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Warm, with a rainy season."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Wild dogs and leopards in South Luangwa."
+      }
+    ]
   },
   "history": {
     "text": "Bantu-speaking peoples settled the region, and kingdoms such as the Lozi grew up along the Zambezi. Cecil Rhodes's British South Africa Company took control in the 1890s, and the territory became Northern Rhodesia. Copper mining made it valuable. Zambia became independent in 1964 under Kenneth Kaunda.",
@@ -74,6 +84,20 @@
     "related": [
       "ZWE",
       "COD"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Nshima, maize porridge, with relishes."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Kalindula music."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The Kuomboka ceremony, when the Lozi king moves to higher ground by boat."
+      }
     ]
   },
   "sport": {
