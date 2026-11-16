@@ -45,5 +45,46 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Bahrain is a constitutional monarchy ruled by the King from the Al Khalifa family, which holds most power. Parliament has an elected lower house and an upper house appointed by the King. Protests in 2011 were put down with help from Saudi troops.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Bahrain was one of the first Gulf states to find oil, in 1932, but its reserves are smaller than its neighbours'. It has built up banking, aluminium and tourism. The King Fahd Causeway links it to Saudi Arabia."
+  },
+  "culture": {
+    "text": "Bahrain was the centre of the ancient Dilmun civilisation. Pearl diving was its main industry for centuries, and a 'pearling trail' through Muharraq is a UNESCO site. The Qal'at al-Bahrain fort sits on a mound built up over 4,000 years.",
+    "items": [
+      {
+        "title": "Pearling Path",
+        "text": "Houses and oyster beds of the pearl trade, listed by UNESCO."
+      },
+      {
+        "title": "Qal'at al-Bahrain",
+        "text": "A site settled for more than 4,000 years."
+      }
+    ],
+    "related": [
+      "SAU"
+    ]
+  },
+  "sport": {
+    "text": "The Bahrain Grand Prix, first held in 2004, was the first Formula 1 race in the Middle East. Football is the most popular sport to watch and play.",
+    "items": [
+      {
+        "title": "2004",
+        "text": "The first Formula 1 Grand Prix in the Middle East."
+      },
+      {
+        "title": "Gulf Cup",
+        "text": "Bahrain won the football Gulf Cup in 2019 and 2024."
+      }
+    ]
   }
 }

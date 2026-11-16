@@ -51,5 +51,51 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Iraq is a federal parliamentary republic. Voters elect the Council of Representatives, which chooses the President, who then names a Prime Minister. By custom, the Prime Minister is a Shia Arab, the President a Kurd and the Speaker a Sunni Arab. The Kurdistan Region in the north has its own government.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Oil makes up almost all of Iraq's exports and most of government income. It has some of the world's largest reserves. Wars and conflict have damaged its infrastructure, and the government is the largest employer."
+  },
+  "culture": {
+    "text": "Ancient Mesopotamia, in what is now Iraq, was the birthplace of writing, cities and the wheel. Babylon and Ur are among its famous ancient sites. Baghdad was a centre of science and learning in the Middle Ages, home to the House of Wisdom.",
+    "items": [
+      {
+        "title": "Babylon",
+        "text": "Ancient capital of Hammurabi and Nebuchadnezzar."
+      },
+      {
+        "title": "Ziggurat of Ur",
+        "text": "A stepped temple more than 4,000 years old."
+      },
+      {
+        "title": "The marshes",
+        "text": "Wetlands of southern Iraq, home to the Marsh Arabs, listed by UNESCO."
+      }
+    ],
+    "related": [
+      "IRN",
+      "SYR"
+    ]
+  },
+  "sport": {
+    "text": "Football is Iraq's most popular sport. In 2007, during a time of war, Iraq won the Asian Cup, uniting the country in celebration. Iraq also won the Arabian Gulf Cup in 2023.",
+    "items": [
+      {
+        "title": "2007",
+        "text": "Asian Cup champions."
+      },
+      {
+        "title": "2023",
+        "text": "Gulf Cup champions on home soil in Basra."
+      }
+    ]
   }
 }

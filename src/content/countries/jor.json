@@ -49,5 +49,56 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Jordan is a constitutional monarchy. The King, from the Hashemite family, holds wide powers: he appoints the Prime Minister and can dissolve parliament. Parliament has an elected House of Representatives and a Senate appointed by the King.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Jordan has few natural resources and little water. Its economy relies on services, tourism, phosphates and potash, and aid from abroad. It has taken in large numbers of refugees from Palestine, Iraq and Syria."
+  },
+  "culture": {
+    "text": "Petra, a city carved into rose-red rock by the Nabataeans, is one of the New Seven Wonders of the World. The desert of Wadi Rum has been used as a film location for Mars. Mansaf, lamb cooked in fermented yoghurt, is the national dish and on UNESCO's heritage list.",
+    "items": [
+      {
+        "title": "Petra",
+        "text": "A city cut into sandstone cliffs more than 2,000 years ago."
+      },
+      {
+        "title": "Wadi Rum",
+        "text": "A desert valley used to film movies set on Mars."
+      },
+      {
+        "title": "Mansaf",
+        "text": "Lamb and rice with yoghurt sauce, listed by UNESCO."
+      }
+    ],
+    "related": [
+      "ISR",
+      "PSE",
+      "SAU"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Jordan reached the final of the Asian Cup in 2024 and qualified for its first World Cup in 2026. Taekwondo has brought Olympic gold.",
+    "items": [
+      {
+        "title": "2024",
+        "text": "Asian Cup finalists."
+      },
+      {
+        "title": "2026",
+        "text": "Jordan's first men's World Cup."
+      },
+      {
+        "title": "Ahmad Abughaush",
+        "text": "Won Jordan's first Olympic gold, in taekwondo, in 2016."
+      }
+    ]
   }
 }

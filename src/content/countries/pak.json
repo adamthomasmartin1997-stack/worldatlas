@@ -47,5 +47,59 @@
         "text": "Malala Yousafzai becomes the youngest Nobel Peace Prize winner."
       }
     ]
+  },
+  "government": {
+    "text": "Pakistan is a federal parliamentary republic. The National Assembly chooses the Prime Minister, and the President is head of state. The army has ruled directly for long periods and remains very powerful. No elected Prime Minister has completed a full five-year term.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Pakistan's economy depends on farming, especially cotton, wheat and rice, and on textiles, which make up most of its exports. Money sent home by Pakistanis abroad is very important. It has needed repeated loans from the International Monetary Fund."
+  },
+  "culture": {
+    "text": "Pakistan's culture includes Punjabi, Sindhi, Pashtun, Baloch and other peoples. Urdu is the national language, and English is also official. Qawwali, Sufi devotional music made famous by Nusrat Fateh Ali Khan, is loved worldwide. Pakistan has five of the world's 14 mountains above 8,000 metres, including K2.",
+    "items": [
+      {
+        "title": "K2",
+        "text": "The world's second-highest mountain, at 8,611 metres."
+      },
+      {
+        "title": "Qawwali",
+        "text": "Sufi devotional singing."
+      },
+      {
+        "title": "Badshahi Mosque",
+        "text": "A grand Mughal mosque in Lahore."
+      }
+    ],
+    "related": [
+      "IND",
+      "AFG"
+    ]
+  },
+  "sport": {
+    "text": "Cricket is Pakistan's passion. It won the Cricket World Cup in 1992 under Imran Khan, who later became Prime Minister, and the T20 World Cup in 2009. Field hockey brought three Olympic golds, and javelin thrower Arshad Nadeem won gold with an Olympic record in 2024.",
+    "items": [
+      {
+        "title": "1992",
+        "text": "Cricket World Cup champions."
+      },
+      {
+        "title": "Field hockey",
+        "text": "Olympic gold in 1960, 1968 and 1984."
+      },
+      {
+        "title": "Arshad Nadeem",
+        "text": "Olympic javelin champion in 2024."
+      }
+    ],
+    "related": [
+      "IND",
+      "GBR"
+    ]
   }
 }

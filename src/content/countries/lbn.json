@@ -42,5 +42,47 @@
         "text": "A massive blast destroys much of Beirut's port."
       }
     ]
+  },
+  "government": {
+    "text": "Lebanon is a parliamentary republic in which power is shared among religious groups. By custom, the President is a Maronite Christian, the Prime Minister a Sunni Muslim and the Speaker of Parliament a Shia Muslim. Hezbollah, an armed group, has also been powerful. The country went without a President from 2022 until January 2025.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Lebanon was once a banking and trading hub, but since 2019 it has suffered one of the worst economic crises in modern history, with its currency losing most of its value. The 2020 Beirut port explosion and conflict in 2024 added to the damage."
+  },
+  "culture": {
+    "text": "Lebanon's culture mixes Arab, Mediterranean and French influences, and many people speak Arabic, French and English. Its food, from hummus to tabbouleh, is famous across the world. The cedar tree on its flag is an ancient symbol; cedars of Lebanon were used to build temples and ships.",
+    "items": [
+      {
+        "title": "Cedars of God",
+        "text": "One of the last forests of the ancient cedars."
+      },
+      {
+        "title": "Baalbek",
+        "text": "Roman temples with some of the largest stones ever used."
+      },
+      {
+        "title": "Byblos",
+        "text": "One of the oldest continuously inhabited cities."
+      }
+    ],
+    "related": [
+      "SYR",
+      "FRA"
+    ]
+  },
+  "sport": {
+    "text": "Basketball is the most popular sport, and Lebanon has qualified for several Basketball World Cups. Football is also widely followed.",
+    "items": [
+      {
+        "title": "2023",
+        "text": "Lebanon played at the Basketball World Cup."
+      }
+    ]
   }
 }

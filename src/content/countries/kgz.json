@@ -42,5 +42,51 @@
         "text": "Another uprising topples the government."
       }
     ]
+  },
+  "government": {
+    "text": "Kyrgyzstan is a presidential republic. Protests have toppled presidents three times, in 2005, 2010 and 2020. A new constitution in 2021 strengthened the President's powers.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Gold mining is Kyrgyzstan's biggest export industry, and money sent home by Kyrgyz workers in Russia makes up a large share of the economy. Farming, especially herding, is also important."
+  },
+  "culture": {
+    "text": "More than 90% of Kyrgyzstan is mountainous. Nomadic traditions remain strong, including yurts, felt carpets and horse games. The Epic of Manas, one of the longest poems in the world, is recited by storytellers called manaschi.",
+    "items": [
+      {
+        "title": "Epic of Manas",
+        "text": "An oral poem hundreds of thousands of lines long."
+      },
+      {
+        "title": "Issyk-Kul",
+        "text": "A huge mountain lake that never freezes."
+      },
+      {
+        "title": "Kalpak",
+        "text": "A tall white felt hat worn by men."
+      }
+    ],
+    "related": [
+      "KAZ",
+      "CHN"
+    ]
+  },
+  "sport": {
+    "text": "Kyrgyzstan hosts the World Nomad Games, featuring traditional sports such as kok-boru, a horseback game with a goat carcass. Wrestling has brought Olympic medals.",
+    "items": [
+      {
+        "title": "World Nomad Games",
+        "text": "Started in Kyrgyzstan in 2014 and held there again in 2016 and 2018."
+      },
+      {
+        "title": "Kok-boru",
+        "text": "Horseback teams fight over a goat carcass."
+      }
+    ]
   }
 }

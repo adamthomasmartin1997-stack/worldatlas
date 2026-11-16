@@ -55,5 +55,61 @@
         "text": "India adopts its constitution and becomes a republic."
       }
     ]
+  },
+  "government": {
+    "text": "India is the world's largest democracy, a federal parliamentary republic of 28 states and 8 union territories. Voters elect the Lok Sabha, the lower house of parliament, and the leader with a majority becomes Prime Minister. The President is head of state. National elections involve nearly a billion voters and take several weeks.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "India has one of the largest and fastest-growing economies in the world. It is a global centre for IT services and software, a major producer of medicines and a growing manufacturer of phones and cars. Agriculture still employs a large share of people. India is the world's largest producer of milk."
+  },
+  "culture": {
+    "text": "India has hundreds of languages, with Hindi and English used for central government and 22 languages recognised in the constitution. India makes more films than any other country, and Bollywood, based in Mumbai, is its most famous film industry. Yoga, chess and the decimal number system with zero all have roots in India.",
+    "items": [
+      {
+        "title": "Taj Mahal",
+        "text": "A marble tomb built by Shah Jahan for his wife, finished around 1653."
+      },
+      {
+        "title": "Bollywood",
+        "text": "The Hindi-language film industry, one of the largest in the world."
+      },
+      {
+        "title": "Diwali",
+        "text": "The festival of lights, celebrated by Hindus, Sikhs and Jains."
+      }
+    ],
+    "related": [
+      "PAK",
+      "BGD",
+      "NPL",
+      "GBR"
+    ]
+  },
+  "sport": {
+    "text": "Cricket is India's great passion, and the Indian Premier League is one of the richest sports competitions in the world. India has won the men's Cricket World Cup twice, in 1983 and 2011, and the T20 World Cup in 2007 and 2024. Field hockey brought it eight Olympic golds, and Neeraj Chopra won javelin gold in 2021.",
+    "items": [
+      {
+        "title": "1983 · 2011",
+        "text": "Men's Cricket World Cup wins."
+      },
+      {
+        "title": "Field hockey",
+        "text": "Eight Olympic gold medals, a record."
+      },
+      {
+        "title": "Neeraj Chopra",
+        "text": "Olympic javelin champion in 2021."
+      }
+    ],
+    "related": [
+      "GBR",
+      "PAK"
+    ]
   }
 }

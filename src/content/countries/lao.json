@@ -47,5 +47,48 @@
         "text": "The Pathet Lao take power."
       }
     ]
+  },
+  "government": {
+    "text": "Laos is a one-party communist state ruled by the Lao People's Revolutionary Party since 1975. The National Assembly elects the President, who is head of state, and the Prime Minister leads the government.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Communist one-party state"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Most Laotians work in farming, growing rice. Laos sells hydropower to its neighbours and has been called 'the battery of South-East Asia'. A railway to China opened in 2021, but heavy borrowing has left the country with large debts."
+  },
+  "culture": {
+    "text": "Laos is a Buddhist country, and early each morning in Luang Prabang, saffron-robed monks walk the streets collecting alms. Sticky rice is eaten with almost every meal. Unexploded bombs from the Vietnam War still lie in the countryside.",
+    "items": [
+      {
+        "title": "Luang Prabang",
+        "text": "A royal city of temples listed by UNESCO."
+      },
+      {
+        "title": "Plain of Jars",
+        "text": "Thousands of mysterious stone jars more than 2,000 years old."
+      },
+      {
+        "title": "Sticky rice",
+        "text": "Eaten with the hands at almost every meal."
+      }
+    ],
+    "related": [
+      "THA",
+      "VNM",
+      "CHN"
+    ]
+  },
+  "sport": {
+    "text": "Football and sepak takraw, a kind of volleyball played with the feet, are popular. Laos sends small teams to the Olympics.",
+    "items": [
+      {
+        "title": "Sepak takraw",
+        "text": "A rattan ball kicked over a net."
+      }
+    ]
   }
 }

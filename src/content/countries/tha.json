@@ -39,5 +39,52 @@
         "text": "A revolution ends absolute royal power."
       }
     ]
+  },
+  "government": {
+    "text": "Thailand is a constitutional monarchy. The King is highly respected, and criticising the monarchy is a serious crime. The Prime Minister leads the government. The army has staged many coups, most recently in 2014, and courts have removed several prime ministers.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Thailand is a major manufacturer of cars and electronics and the world's biggest exporter of rice at times. Tourism is huge, with tens of millions of visitors a year."
+  },
+  "culture": {
+    "text": "Thailand is a Buddhist country with thousands of temples, called wats. Thai food, such as pad thai and green curry, is popular worldwide. Songkran, the Thai New Year in April, is celebrated with a nationwide water fight. Thailand is the only country in South-East Asia never colonised by Europeans.",
+    "items": [
+      {
+        "title": "Songkran",
+        "text": "New Year water festival, listed by UNESCO."
+      },
+      {
+        "title": "Wat Arun",
+        "text": "The Temple of Dawn in Bangkok."
+      },
+      {
+        "title": "Tom yum",
+        "text": "Hot and sour soup, listed by UNESCO in 2024."
+      }
+    ],
+    "related": [
+      "LAO",
+      "KHM",
+      "MMR"
+    ]
+  },
+  "sport": {
+    "text": "Muay Thai, kickboxing using fists, elbows, knees and shins, is the national sport and is practised worldwide. Football, badminton and volleyball are also popular, and taekwondo has brought Olympic gold.",
+    "items": [
+      {
+        "title": "Muay Thai",
+        "text": "The 'art of eight limbs'."
+      },
+      {
+        "title": "Panipak Wongpattanakit",
+        "text": "Olympic taekwondo champion in 2021 and 2024."
+      }
+    ]
   }
 }

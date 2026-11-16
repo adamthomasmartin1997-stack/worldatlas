@@ -55,5 +55,48 @@
         "text": "Rebel forces take Damascus."
       }
     ]
+  },
+  "government": {
+    "text": "In December 2024 rebel forces led by Hayat Tahrir al-Sham overthrew President Bashar al-Assad, ending more than 50 years of rule by the Assad family. A transitional government led by Ahmed al-Sharaa took over and adopted a temporary constitution in 2025. Parts of the country remain under other groups' control.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Transitional government"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Syria's economy was devastated by the civil war that began in 2011. Before the war it produced oil, cotton and wheat. Millions of people depend on aid, and rebuilding will cost hundreds of billions of dollars. Many sanctions were lifted in 2025."
+  },
+  "culture": {
+    "text": "Syria has some of the oldest cities in the world, including Damascus and Aleppo. Its old souks, mosques and the Roman city of Palmyra show thousands of years of history. Syrian cooking and the craft of Damascus steel and brocade are famous.",
+    "items": [
+      {
+        "title": "Umayyad Mosque",
+        "text": "One of the oldest and largest mosques, in Damascus."
+      },
+      {
+        "title": "Palmyra",
+        "text": "A Roman-era desert city, damaged in the war."
+      },
+      {
+        "title": "Aleppo soap",
+        "text": "Made from olive and laurel oil for centuries."
+      }
+    ],
+    "related": [
+      "LBN",
+      "TUR",
+      "JOR"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Ghada Shouaa won Syria's first Olympic gold, in the heptathlon, in 1996.",
+    "items": [
+      {
+        "title": "1996",
+        "text": "Ghada Shouaa won Olympic heptathlon gold."
+      }
+    ]
   }
 }

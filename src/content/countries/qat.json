@@ -45,5 +45,55 @@
         "text": "Qatar hosts the first World Cup in the Middle East."
       }
     ]
+  },
+  "government": {
+    "text": "Qatar is an absolute monarchy ruled by the Emir from the Al Thani family. Tamim bin Hamad Al Thani has been Emir since 2013. A Consultative Council advises the government. Qatar has played a big role as a mediator in conflicts in the region.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Absolute monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Qatar has huge reserves of natural gas and is one of the world's biggest exporters of liquefied natural gas. That makes it one of the richest countries in the world per person. It also owns Qatar Airways and the Al Jazeera news network."
+  },
+  "culture": {
+    "text": "Qatar's traditions come from Bedouin desert life and the sea: falconry, pearl diving and dhow sailing. Its capital, Doha, has grown rapidly into a city of skyscrapers and museums, such as the Museum of Islamic Art. Most residents are foreign workers.",
+    "items": [
+      {
+        "title": "Falconry",
+        "text": "A desert tradition listed by UNESCO."
+      },
+      {
+        "title": "Museum of Islamic Art",
+        "text": "Designed by architect I. M. Pei, opened in 2008."
+      }
+    ],
+    "related": [
+      "SAU",
+      "ARE"
+    ]
+  },
+  "sport": {
+    "text": "Qatar hosted the 2022 football World Cup, the first in the Middle East, and won the Asian Cup in 2019 and 2023. Mutaz Essa Barshim shared Olympic high jump gold in 2021.",
+    "items": [
+      {
+        "title": "2022",
+        "text": "Hosted the men's World Cup."
+      },
+      {
+        "title": "2019 · 2023",
+        "text": "Asian Cup champions."
+      },
+      {
+        "title": "Mutaz Essa Barshim",
+        "text": "Shared Olympic high jump gold in 2021."
+      }
+    ],
+    "related": [
+      "ITA",
+      "ARG"
+    ]
   }
 }

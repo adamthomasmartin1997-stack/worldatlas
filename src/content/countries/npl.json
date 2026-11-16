@@ -43,5 +43,51 @@
         "text": "A powerful earthquake kills about 9,000 people."
       }
     ]
+  },
+  "government": {
+    "text": "Nepal is a federal parliamentary republic. It abolished its monarchy in 2008. Parliament chooses the Prime Minister, and the President is head of state. Governments change often; in 2025 youth-led protests over a social media ban and corruption brought down the government.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Nepal is one of the poorest countries in Asia. Money sent home by Nepalis working abroad makes up about a quarter of the economy. Tourism, trekking and mountaineering, and farming are also important, and Nepal sells hydropower to India."
+  },
+  "culture": {
+    "text": "Nepal is home to eight of the world's ten highest mountains, including Everest. It is the birthplace of the Buddha, at Lumbini, and most Nepalis are Hindu. Its flag is the only national flag that is not a rectangle.",
+    "items": [
+      {
+        "title": "Mount Everest",
+        "text": "At 8,849 metres, the highest point on Earth."
+      },
+      {
+        "title": "Lumbini",
+        "text": "Birthplace of Siddhartha Gautama, the Buddha."
+      },
+      {
+        "title": "Non-rectangular flag",
+        "text": "Two stacked triangles."
+      }
+    ],
+    "related": [
+      "IND",
+      "CHN"
+    ]
+  },
+  "sport": {
+    "text": "Football and cricket are the most popular sports. Nepali Sherpas are famous for mountaineering; Kami Rita Sherpa has climbed Everest more than 30 times. Volleyball is the official national sport.",
+    "items": [
+      {
+        "title": "Kami Rita Sherpa",
+        "text": "Has climbed Everest a record number of times."
+      },
+      {
+        "title": "Cricket",
+        "text": "Nepal played at the T20 World Cup in 2014 and 2024."
+      }
+    ]
   }
 }

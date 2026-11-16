@@ -45,5 +45,44 @@
         "text": "Timor-Leste becomes independent."
       }
     ]
+  },
+  "government": {
+    "text": "Timor-Leste is a semi-presidential republic. The President is elected directly, and parliament chooses the Prime Minister. It became independent in 2002 and joined ASEAN in 2025 as its eleventh member.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Semi-presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Oil and gas from the Timor Sea have paid for most of the government's spending through a petroleum fund, but these fields are running out. Coffee is the main export apart from oil. Most people depend on farming."
+  },
+  "culture": {
+    "text": "Tetum and Portuguese are official languages. Timorese culture mixes Austronesian, Melanesian and Portuguese influences; it is one of only two mostly Catholic countries in Asia. Tais, hand-woven cloth, is listed by UNESCO.",
+    "items": [
+      {
+        "title": "Tais",
+        "text": "Hand-woven textiles listed by UNESCO in 2021."
+      },
+      {
+        "title": "Cristo Rei",
+        "text": "A giant statue of Jesus overlooking Dili."
+      }
+    ],
+    "related": [
+      "IDN",
+      "PRT",
+      "AUS"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Timor-Leste first competed at the Olympics in 2000, under the Olympic flag.",
+    "items": [
+      {
+        "title": "2000",
+        "text": "Timorese athletes competed at the Sydney Olympics."
+      }
+    ]
   }
 }

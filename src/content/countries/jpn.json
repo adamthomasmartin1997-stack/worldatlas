@@ -47,5 +47,60 @@
         "text": "A huge earthquake and tsunami cause a nuclear disaster at Fukushima."
       }
     ]
+  },
+  "government": {
+    "text": "Japan is a constitutional monarchy. The Emperor is a symbol of the state with no political power. The Diet, the parliament, has two houses and chooses the Prime Minister. The Liberal Democratic Party has led most governments since 1955. In 2025 Sanae Takaichi became Japan's first female Prime Minister.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Japan has one of the largest economies in the world. It is famous for cars, electronics, robots and machinery, from companies such as Toyota, Sony, Nintendo and Honda. Its population is ageing and shrinking, which is a big challenge for its economy."
+  },
+  "culture": {
+    "text": "Japanese culture blends ancient traditions such as tea ceremonies, kimonos, sumo and Shinto shrines with global pop culture: anime, manga, video games and sushi. Cherry blossom season is celebrated with picnics called hanami. Washoku, traditional Japanese food, is on UNESCO's heritage list.",
+    "items": [
+      {
+        "title": "Anime and manga",
+        "text": "From Studio Ghibli to Pokémon, watched and read worldwide."
+      },
+      {
+        "title": "Mount Fuji",
+        "text": "A sacred volcano and a UNESCO site."
+      },
+      {
+        "title": "Shinkansen",
+        "text": "Bullet trains, running since 1964."
+      }
+    ],
+    "related": [
+      "KOR",
+      "CHN",
+      "USA"
+    ]
+  },
+  "sport": {
+    "text": "Baseball is Japan's most popular team sport, and Shohei Ohtani is one of the biggest stars in Major League Baseball. Sumo, Japan's national sport, has rituals dating back centuries. Tokyo hosted the Summer Olympics in 1964 and 2021, and Japan co-hosted the 2002 football World Cup.",
+    "items": [
+      {
+        "title": "1964 · 2021",
+        "text": "Tokyo hosted the Summer Olympics twice."
+      },
+      {
+        "title": "Shohei Ohtani",
+        "text": "Stars as both a pitcher and a hitter."
+      },
+      {
+        "title": "2011",
+        "text": "Japan's women won the football World Cup."
+      }
+    ],
+    "related": [
+      "KOR",
+      "USA"
+    ]
   }
 }

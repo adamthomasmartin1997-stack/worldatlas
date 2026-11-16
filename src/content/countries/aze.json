@@ -46,5 +46,51 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Azerbaijan is a presidential republic in which power is concentrated in the President. Ilham Aliyev has held the office since 2003, after his father Heydar Aliyev. Term limits were removed in 2009. International observers have criticised its elections and treatment of journalists.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Oil and natural gas from the Caspian Sea make up most of Azerbaijan's exports. Pipelines carry them to Türkiye and Europe. The government is trying to grow other industries such as farming and tourism."
+  },
+  "culture": {
+    "text": "Azerbaijan mixes Turkic, Persian and Russian influences. Its music, mugham, is listed by UNESCO, as are its carpets. Baku's Old City, with the Maiden Tower, is a UNESCO site, and the country is called the 'Land of Fire' because of natural gas fires that burn on its hillsides.",
+    "items": [
+      {
+        "title": "Yanar Dag",
+        "text": "A hillside where natural gas has burned for decades."
+      },
+      {
+        "title": "Mugham",
+        "text": "Improvised classical music, listed by UNESCO."
+      },
+      {
+        "title": "Flame Towers",
+        "text": "Three skyscrapers in Baku lit up like flames."
+      }
+    ],
+    "related": [
+      "TUR",
+      "IRN"
+    ]
+  },
+  "sport": {
+    "text": "Wrestling, judo and chess are Azerbaijan's strongest sports. Baku hosted the first European Games in 2015 and has held a Formula 1 Grand Prix through its streets since 2016.",
+    "items": [
+      {
+        "title": "2015",
+        "text": "Baku hosted the first European Games."
+      },
+      {
+        "title": "Baku City Circuit",
+        "text": "A Formula 1 street race since 2016."
+      }
+    ]
   }
 }

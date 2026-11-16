@@ -48,5 +48,59 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Since August 2021 Afghanistan has been ruled by the Taliban, who call the country the Islamic Emirate of Afghanistan. Their Supreme Leader holds ultimate power, and there is no elected parliament. Very few countries formally recognise the Taliban government. Girls are banned from school beyond primary level and women from most jobs.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Islamic emirate (unrecognised)"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Afghanistan is one of the poorest countries in the world. Most people depend on farming. Foreign aid, which once paid for most of the government's budget, was cut sharply after 2021. The country has large untapped reserves of copper, lithium and other minerals."
+  },
+  "culture": {
+    "text": "Afghanistan's culture draws on Persian, Central Asian and South Asian traditions. Pashto and Dari are the main languages. Kite flying, carpets and poetry, especially by the Persian poet Rumi, who was born in Balkh, are part of its heritage. The giant Buddha statues of Bamiyan were destroyed by the Taliban in 2001.",
+    "items": [
+      {
+        "title": "Buddhas of Bamiyan",
+        "text": "Giant statues carved into a cliff around 1,500 years ago, destroyed in 2001."
+      },
+      {
+        "title": "Kite fighting",
+        "text": "Kites with glass-coated strings battle to cut each other loose."
+      },
+      {
+        "title": "Afghan carpets",
+        "text": "Hand-woven rugs known for deep red patterns."
+      }
+    ],
+    "related": [
+      "IRN",
+      "PAK"
+    ]
+  },
+  "sport": {
+    "text": "Cricket has become Afghanistan's most popular sport, and its men's team has beaten major nations, reaching the T20 World Cup semi-finals in 2024. Buzkashi, a rough game in which horse riders fight for a goat carcass, is the traditional national sport.",
+    "items": [
+      {
+        "title": "2024",
+        "text": "Reached the T20 Cricket World Cup semi-finals."
+      },
+      {
+        "title": "Buzkashi",
+        "text": "Horseback riders compete to carry a goat carcass to a goal."
+      },
+      {
+        "title": "Rashid Khan",
+        "text": "One of the world's best spin bowlers."
+      }
+    ],
+    "related": [
+      "AUS",
+      "IND"
+    ]
   }
 }

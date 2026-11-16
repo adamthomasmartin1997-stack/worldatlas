@@ -45,5 +45,47 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Yemen has been divided by civil war since 2014. The internationally recognised government, led by a Presidential Leadership Council, controls the south and east, while the Houthi movement controls the capital, Sana'a, and much of the north. A Saudi-led coalition has fought the Houthis since 2015.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Contested (civil war)"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Yemen is the poorest country in the Arab world. The war has caused one of the world's worst humanitarian crises, with millions needing food aid. Before the war, oil was its main export."
+  },
+  "culture": {
+    "text": "Yemen has a rich history from the ancient kingdom of Saba to the mud-brick skyscrapers of Shibam, called the 'Manhattan of the desert'. Mocha, a Yemeni port, gave its name to a type of coffee, which was first drunk in Yemen.",
+    "items": [
+      {
+        "title": "Shibam",
+        "text": "Mud-brick tower houses up to 30 metres tall."
+      },
+      {
+        "title": "Mocha",
+        "text": "The port from which coffee spread to the world."
+      },
+      {
+        "title": "Socotra",
+        "text": "An island with strange 'dragon's blood' trees."
+      }
+    ],
+    "related": [
+      "SAU",
+      "OMN"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Yemen's young players won the West Asian under-15 championship, a rare source of national celebration during the war.",
+    "items": [
+      {
+        "title": "Football",
+        "text": "Yemen's youth teams have won regional titles during the war."
+      }
+    ]
   }
 }

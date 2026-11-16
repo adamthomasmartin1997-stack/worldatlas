@@ -45,5 +45,55 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Armenia is a parliamentary republic. The National Assembly chooses the Prime Minister, who leads the government, and elects the President, whose role is mostly ceremonial. In 2018 peaceful street protests, called the Velvet Revolution, brought a new government to power.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Armenia's economy includes mining (especially copper), brandy, IT and tourism. Many Armenians live abroad, and money from the diaspora is important. The economy grew quickly after 2022 as many Russians and businesses moved there."
+  },
+  "culture": {
+    "text": "Armenia has its own alphabet, created in 405, and its own branch of Christianity, the Armenian Apostolic Church. Mount Ararat, the mountain where Noah's Ark is said to have landed, is a national symbol though it lies in Türkiye. Lavash, a thin flatbread, is on UNESCO's heritage list.",
+    "items": [
+      {
+        "title": "Armenian alphabet",
+        "text": "Created by Mesrop Mashtots in 405."
+      },
+      {
+        "title": "Lavash",
+        "text": "Thin bread baked in a clay oven, listed by UNESCO."
+      },
+      {
+        "title": "Geghard Monastery",
+        "text": "Partly carved out of a mountain cliff."
+      }
+    ],
+    "related": [
+      "TUR",
+      "GEO"
+    ]
+  },
+  "sport": {
+    "text": "Chess is compulsory in Armenian schools, and Armenia's men's team won the Chess Olympiad three times. Weightlifting and wrestling have brought Olympic medals, and Henrikh Mkhitaryan is the country's best-known footballer.",
+    "items": [
+      {
+        "title": "Chess",
+        "text": "Taught in every school since 2011."
+      },
+      {
+        "title": "2006 · 2008 · 2012",
+        "text": "Chess Olympiad wins."
+      },
+      {
+        "title": "Henrikh Mkhitaryan",
+        "text": "Has played for Manchester United, Arsenal and Inter Milan."
+      }
+    ]
   }
 }

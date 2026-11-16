@@ -50,5 +50,50 @@
         "text": "North Korea carries out its first nuclear test."
       }
     ]
+  },
+  "government": {
+    "text": "North Korea is a one-party dictatorship ruled by the Kim family since its founding in 1948. Kim Jong Un has led the country since 2011. Elections offer only one candidate. It is one of the most isolated countries in the world and has developed nuclear weapons and long-range missiles.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "One-party totalitarian dictatorship"
+      }
+    ]
+  },
+  "economy": {
+    "text": "North Korea has a state-controlled economy and is one of the poorest countries in Asia. Most of its trade is with China. International sanctions over its weapons programmes limit its exports. Severe famine killed hundreds of thousands of people in the 1990s."
+  },
+  "culture": {
+    "text": "North Korea's culture is shaped by state ideology and huge shows of loyalty to its leaders, such as the Mass Games, in which tens of thousands of people perform in synchronised displays. Ordinary citizens have almost no access to the internet or foreign media.",
+    "items": [
+      {
+        "title": "Mass Games",
+        "text": "Huge displays with tens of thousands of performers."
+      },
+      {
+        "title": "Pyongyang",
+        "text": "A planned capital with grand monuments."
+      }
+    ],
+    "related": [
+      "KOR",
+      "CHN"
+    ]
+  },
+  "sport": {
+    "text": "Football, weightlifting and gymnastics are North Korea's strongest sports. Its men's team reached the World Cup quarter-finals in 1966, beating Italy, and its women's team has won the Asian Cup and youth world titles.",
+    "items": [
+      {
+        "title": "1966",
+        "text": "Beat Italy to reach the World Cup quarter-finals."
+      },
+      {
+        "title": "Weightlifting",
+        "text": "North Korea has won several Olympic weightlifting golds."
+      }
+    ],
+    "related": [
+      "ITA"
+    ]
   }
 }

@@ -44,5 +44,58 @@
         "text": "Seoul hosts the Summer Olympics."
       }
     ]
+  },
+  "government": {
+    "text": "South Korea is a presidential republic. The President is elected for a single five-year term and leads the government. The National Assembly has one chamber. In December 2024 President Yoon Suk Yeol briefly declared martial law; he was impeached and removed from office in 2025, and a new President was elected.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "South Korea grew from one of the poorest countries in the world in the 1950s into one of the richest. It is a world leader in computer chips, phones, ships, cars and batteries, through companies such as Samsung, Hyundai and LG."
+  },
+  "culture": {
+    "text": "Korean pop culture, the 'Korean Wave', has spread worldwide through K-pop bands such as BTS and BLACKPINK, films such as Parasite and series such as Squid Game. Kimchi, spicy fermented cabbage, is eaten with almost every meal. The Korean alphabet, Hangul, was invented in the 1440s.",
+    "items": [
+      {
+        "title": "K-pop",
+        "text": "Korean pop music with fans across the world."
+      },
+      {
+        "title": "Parasite",
+        "text": "The first non-English film to win the Oscar for Best Picture, in 2020."
+      },
+      {
+        "title": "Kimjang",
+        "text": "Making kimchi together for winter, listed by UNESCO."
+      }
+    ],
+    "related": [
+      "PRK",
+      "JPN"
+    ]
+  },
+  "sport": {
+    "text": "Baseball and football are the most popular sports. South Korea hosted the 1988 Summer Olympics and the 2018 Winter Olympics, and co-hosted the 2002 World Cup, where it reached the semi-finals. It dominates archery and taekwondo, which began in Korea.",
+    "items": [
+      {
+        "title": "1988 · 2018",
+        "text": "Seoul and Pyeongchang hosted the Olympics."
+      },
+      {
+        "title": "2002",
+        "text": "Reached the World Cup semi-finals as co-host."
+      },
+      {
+        "title": "Archery",
+        "text": "South Korean women have won every Olympic team archery gold since 1988."
+      }
+    ],
+    "related": [
+      "JPN"
+    ]
   }
 }

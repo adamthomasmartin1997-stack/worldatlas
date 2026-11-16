@@ -58,5 +58,55 @@
         "text": "Peaceful protests end the Marcos dictatorship."
       }
     ]
+  },
+  "government": {
+    "text": "The Philippines is a presidential republic modelled on the United States. The President is elected for a single six-year term. Congress has a Senate and a House of Representatives.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "The Philippines has a fast-growing economy built on services, especially call centres and business process outsourcing, and on money sent home by millions of Filipinos working abroad. It also exports electronics, coconut products and bananas."
+  },
+  "culture": {
+    "text": "The Philippines has more than 7,000 islands. Its culture blends Malay, Spanish and American influences; it is mostly Catholic, and Filipino and English are official languages. The Banaue rice terraces, carved into mountains 2,000 years ago, are a UNESCO site.",
+    "items": [
+      {
+        "title": "Banaue rice terraces",
+        "text": "Mountain terraces called the 'eighth wonder of the world'."
+      },
+      {
+        "title": "Jeepneys",
+        "text": "Brightly decorated buses that began as US army jeeps."
+      },
+      {
+        "title": "Karaoke",
+        "text": "Hugely popular; the Karaoke Sing Along System was patented by a Filipino."
+      }
+    ],
+    "related": [
+      "ESP",
+      "USA"
+    ]
+  },
+  "sport": {
+    "text": "Basketball is the national obsession, and the Philippines co-hosted the 2023 Basketball World Cup. Boxer Manny Pacquiao won world titles in eight weight divisions. Gymnast Carlos Yulo won two Olympic golds in 2024.",
+    "items": [
+      {
+        "title": "Manny Pacquiao",
+        "text": "World champion in eight weight classes."
+      },
+      {
+        "title": "Hidilyn Diaz",
+        "text": "Won the Philippines' first Olympic gold, in weightlifting, in 2021."
+      },
+      {
+        "title": "Carlos Yulo",
+        "text": "Two gymnastics golds at the 2024 Olympics."
+      }
+    ]
   }
 }

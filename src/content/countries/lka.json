@@ -53,5 +53,58 @@
         "text": "Government forces defeat the Tamil Tigers."
       }
     ]
+  },
+  "government": {
+    "text": "Sri Lanka is a semi-presidential republic. The President, elected directly, is head of state and government. Parliament chooses the Prime Minister. In 2022 mass protests during an economic crisis forced the President to flee. In 2024 voters elected Anura Kumara Dissanayake, from outside the traditional ruling parties.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Semi-presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Sri Lanka exports tea, clothing, rubber and spices; Ceylon tea is world-famous. Tourism is important. The economy collapsed in 2022, with shortages of fuel, food and medicine, and has been recovering with IMF help."
+  },
+  "culture": {
+    "text": "Sri Lanka has a long Buddhist history, and the Temple of the Tooth in Kandy holds a relic of the Buddha. Sigiriya, a palace built on a giant rock, is a UNESCO site. In 1960 Sri Lanka elected the world's first female Prime Minister, Sirimavo Bandaranaike.",
+    "items": [
+      {
+        "title": "Sigiriya",
+        "text": "A rock fortress with ancient wall paintings."
+      },
+      {
+        "title": "Ceylon tea",
+        "text": "Grown in the hill country since the 1860s."
+      },
+      {
+        "title": "Esala Perahera",
+        "text": "A festival parade of decorated elephants in Kandy."
+      }
+    ],
+    "related": [
+      "IND",
+      "MDV"
+    ]
+  },
+  "sport": {
+    "text": "Cricket is Sri Lanka's favourite sport. It won the Cricket World Cup in 1996 and the T20 World Cup in 2014. Muttiah Muralitharan took 800 Test wickets, more than any other bowler.",
+    "items": [
+      {
+        "title": "1996",
+        "text": "Cricket World Cup champions."
+      },
+      {
+        "title": "Muttiah Muralitharan",
+        "text": "The leading wicket-taker in Test cricket."
+      },
+      {
+        "title": "Volleyball",
+        "text": "The official national sport."
+      }
+    ],
+    "related": [
+      "AUS"
+    ]
   }
 }

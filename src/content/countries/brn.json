@@ -41,5 +41,42 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Brunei is an absolute monarchy. The Sultan is head of state, Prime Minister, finance minister and defence minister. Hassanal Bolkiah has reigned since 1967. There are no national elections, and Islamic law is applied alongside common law.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Absolute monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Oil and natural gas make up most of Brunei's exports and government income. Brunei has no income tax, and citizens receive free healthcare and education. The government is trying to grow other industries."
+  },
+  "culture": {
+    "text": "Brunei is a Malay Muslim monarchy. Kampong Ayer, a 'water village' of houses on stilts, has existed for centuries. The Sultan's palace, Istana Nurul Iman, is one of the largest residential palaces in the world.",
+    "items": [
+      {
+        "title": "Kampong Ayer",
+        "text": "Thousands of people live in houses on stilts over the river."
+      },
+      {
+        "title": "Omar Ali Saifuddien Mosque",
+        "text": "A golden-domed mosque in a lagoon."
+      }
+    ],
+    "related": [
+      "MYS"
+    ]
+  },
+  "sport": {
+    "text": "Football and badminton are popular, and silat, a Malay martial art, is practised widely. Brunei sends small teams to the Olympics.",
+    "items": [
+      {
+        "title": "Silat",
+        "text": "A martial art practised across the Malay world, listed by UNESCO."
+      }
+    ]
   }
 }

@@ -65,5 +65,52 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Israel is a parliamentary republic. Voters elect the 120-member Knesset by proportional representation, and the Prime Minister needs the support of a majority, usually through coalitions of several parties. The President is head of state. Israel has no single written constitution; its Basic Laws fill that role.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Israel has a high-tech economy and is known as the 'start-up nation'. It is strong in software, cybersecurity, medical technology and chips, and also exports diamonds and defence equipment. Drip irrigation, developed in Israel, is used by farmers worldwide."
+  },
+  "culture": {
+    "text": "Israel is the only country with a Jewish majority. Hebrew, revived as an everyday language in the 1800s and 1900s, is the official language, and Arabic has special status. Jerusalem's Old City holds sites sacred to Jews, Christians and Muslims.",
+    "items": [
+      {
+        "title": "Jerusalem's Old City",
+        "text": "Home to the Western Wall, the Church of the Holy Sepulchre and the Al-Aqsa Mosque."
+      },
+      {
+        "title": "The Dead Sea",
+        "text": "The lowest point on land, so salty you float."
+      },
+      {
+        "title": "Revived Hebrew",
+        "text": "A rare case of a language revived for daily use."
+      }
+    ],
+    "related": [
+      "PSE",
+      "JOR",
+      "EGY"
+    ]
+  },
+  "sport": {
+    "text": "Football and basketball are the most popular sports, and Maccabi Tel Aviv has won European basketball's top competition several times. Israel has won Olympic gold in windsurfing, gymnastics and judo.",
+    "items": [
+      {
+        "title": "Maccabi Tel Aviv",
+        "text": "Six-time European basketball champions."
+      },
+      {
+        "title": "Artem Dolgopyat",
+        "text": "Olympic gymnastics floor champion in 2021."
+      }
+    ]
   }
 }

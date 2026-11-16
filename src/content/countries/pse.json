@@ -57,5 +57,48 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "The State of Palestine is recognised by about 150 UN members. The Palestinian Authority, led by a President, governs parts of the West Bank under Israeli occupation. Hamas took control of Gaza in 2007. No national elections have been held since 2006. Palestine is a UN observer state.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Semi-presidential republic (partially recognised)"
+      }
+    ]
+  },
+  "economy": {
+    "text": "The Palestinian economy is heavily restricted by Israeli controls on movement, borders and trade. Many people depend on aid. The war in Gaza since 2023 has destroyed much of its economy, homes and infrastructure."
+  },
+  "culture": {
+    "text": "Palestinian culture is famous for embroidery called tatreez, olive farming and food such as maqluba and knafeh. The keffiyeh scarf is a national symbol. Bethlehem, birthplace of Jesus in Christian tradition, and Hebron's old town are UNESCO sites.",
+    "items": [
+      {
+        "title": "Tatreez",
+        "text": "Cross-stitch embroidery listed by UNESCO in 2021."
+      },
+      {
+        "title": "Olive trees",
+        "text": "Some trees are thought to be more than 1,000 years old."
+      },
+      {
+        "title": "Bethlehem",
+        "text": "The Church of the Nativity, a UNESCO site."
+      }
+    ],
+    "related": [
+      "ISR",
+      "JOR",
+      "EGY"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Palestine's men's team was recognised by FIFA in 1998 and reached the knockout stage of the Asian Cup for the first time in 2024.",
+    "items": [
+      {
+        "title": "2024",
+        "text": "Reached the Asian Cup's round of 16 for the first time."
+      }
+    ]
   }
 }

@@ -50,5 +50,55 @@
         "text": "The capital moves from Almaty to Astana."
       }
     ]
+  },
+  "government": {
+    "text": "Kazakhstan is a presidential republic in which the President holds strong powers. Nursultan Nazarbayev led the country from independence in 1991 until 2019. After deadly unrest in January 2022, reforms limited the President to a single seven-year term.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Kazakhstan has the largest economy in Central Asia, built on oil, gas and minerals. It is the world's largest producer of uranium and also exports copper, zinc and wheat."
+  },
+  "culture": {
+    "text": "Kazakhstan's nomadic heritage lives on in yurts, horse culture and eagle hunting. It is the largest landlocked country in the world. The Baikonur Cosmodrome, from which Yuri Gagarin became the first person in space, is in Kazakhstan.",
+    "items": [
+      {
+        "title": "Baikonur",
+        "text": "The world's first and largest spaceport, still used by Russia."
+      },
+      {
+        "title": "Eagle hunters",
+        "text": "Hunters train golden eagles to catch foxes."
+      },
+      {
+        "title": "Dombra",
+        "text": "A two-stringed lute, a national instrument."
+      }
+    ],
+    "related": [
+      "RUS",
+      "MNG"
+    ]
+  },
+  "sport": {
+    "text": "Boxing, wrestling and weightlifting bring Kazakhstan Olympic medals, and Gennady Golovkin became one of the world's top boxers. Tennis player Elena Rybakina won Wimbledon in 2022. Football and ice hockey are also popular.",
+    "items": [
+      {
+        "title": "Elena Rybakina",
+        "text": "Wimbledon champion in 2022."
+      },
+      {
+        "title": "Gennady Golovkin",
+        "text": "World middleweight boxing champion."
+      },
+      {
+        "title": "Kokpar",
+        "text": "A Kazakh form of horseback goat-carcass polo."
+      }
+    ]
   }
 }

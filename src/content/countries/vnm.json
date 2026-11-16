@@ -55,5 +55,52 @@
         "text": "The government begins opening the economy."
       }
     ]
+  },
+  "government": {
+    "text": "Vietnam is a one-party communist state led by the Communist Party of Vietnam. The party's General Secretary is the most powerful leader. The National Assembly elects the President and Prime Minister.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Communist one-party state"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Vietnam has one of the fastest-growing economies in Asia. It is a major maker of phones, electronics, clothing and shoes, and one of the world's biggest exporters of coffee, rice, cashews and pepper."
+  },
+  "culture": {
+    "text": "Vietnamese culture shows Chinese, Southeast Asian and French influences. Pho, noodle soup, and banh mi, a baguette sandwich, are famous dishes. Ha Long Bay, with thousands of limestone islands, is a UNESCO site, and water puppetry is a traditional art.",
+    "items": [
+      {
+        "title": "Ha Long Bay",
+        "text": "Nearly 2,000 limestone islands rising from the sea."
+      },
+      {
+        "title": "Water puppets",
+        "text": "Puppet shows performed in a pool of water."
+      },
+      {
+        "title": "Áo dài",
+        "text": "A long tunic worn over trousers."
+      }
+    ],
+    "related": [
+      "FRA",
+      "CHN",
+      "LAO"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Vietnam's women's team played at its first World Cup in 2023. Shooter Hoàng Xuân Vinh won Vietnam's first Olympic gold in 2016.",
+    "items": [
+      {
+        "title": "2016",
+        "text": "Hoàng Xuân Vinh won Olympic shooting gold."
+      },
+      {
+        "title": "2023",
+        "text": "First women's World Cup."
+      }
+    ]
   }
 }

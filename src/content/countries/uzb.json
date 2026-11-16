@@ -42,5 +42,55 @@
         "text": "Uzbekistan becomes independent."
       }
     ]
+  },
+  "government": {
+    "text": "Uzbekistan is a presidential republic. Islam Karimov ruled from 1991 until his death in 2016. His successor, Shavkat Mirziyoyev, has opened up the economy, though political opposition remains limited.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Uzbekistan exports gold, natural gas, cotton and copper. It is one of the world's largest cotton producers. Money sent home by Uzbeks working abroad is also important."
+  },
+  "culture": {
+    "text": "Samarkand, Bukhara and Khiva were great cities of the Silk Road, filled with blue-tiled mosques and madrasas. Plov, rice cooked with meat and carrots, is the national dish and listed by UNESCO.",
+    "items": [
+      {
+        "title": "Registan",
+        "text": "Samarkand's square framed by three tiled madrasas."
+      },
+      {
+        "title": "Plov",
+        "text": "Rice dish listed by UNESCO."
+      },
+      {
+        "title": "Khiva",
+        "text": "A walled old town, listed by UNESCO."
+      }
+    ],
+    "related": [
+      "KAZ",
+      "TJK"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Uzbekistan qualified for its first World Cup in 2026. Boxing, wrestling and judo bring Olympic golds, and Uzbekistan's men won the Chess Olympiad in 2022.",
+    "items": [
+      {
+        "title": "2026",
+        "text": "Uzbekistan's first men's World Cup."
+      },
+      {
+        "title": "2022",
+        "text": "Chess Olympiad champions."
+      },
+      {
+        "title": "Boxing",
+        "text": "Five Olympic boxing golds in 2024."
+      }
+    ]
   }
 }

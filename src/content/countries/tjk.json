@@ -45,5 +45,43 @@
         "text": "A peace agreement ends the civil war."
       }
     ]
+  },
+  "government": {
+    "text": "Tajikistan is a presidential republic in which President Emomali Rahmon has held power since 1992. He has been given the title 'Leader of the Nation', and there is little room for opposition.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tajikistan is the poorest country in Central Asia. Money sent home by Tajiks working in Russia makes up around a third of the economy, one of the highest shares in the world. Aluminium, cotton and hydropower are other key industries."
+  },
+  "culture": {
+    "text": "More than 90% of Tajikistan is mountainous, and the Pamir Mountains are called the 'roof of the world'. Tajik is a form of Persian. The Pamir Highway is one of the highest roads in the world.",
+    "items": [
+      {
+        "title": "Pamir Highway",
+        "text": "A mountain road reaching over 4,600 metres."
+      },
+      {
+        "title": "Navruz",
+        "text": "New Year at the spring equinox."
+      }
+    ],
+    "related": [
+      "IRN",
+      "AFG"
+    ]
+  },
+  "sport": {
+    "text": "Wrestling, judo and boxing are popular, and Tajikistan reached the Asian Cup quarter-finals at its first appearance in 2024. Gushtigiri, a traditional wrestling style, is national heritage.",
+    "items": [
+      {
+        "title": "2024",
+        "text": "Reached the Asian Cup quarter-finals at its first attempt."
+      }
+    ]
   }
 }

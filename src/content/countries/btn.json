@@ -39,5 +39,54 @@
         "text": "Bhutan adopts a constitution and holds its first general election."
       }
     ]
+  },
+  "government": {
+    "text": "Bhutan is a constitutional monarchy. The King is head of state, and the Prime Minister leads the government chosen by the elected National Assembly. The King introduced democracy himself in 2008, and the constitution requires the monarch to step down at 65.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Bhutan earns most of its money by selling hydropower electricity to India. Tourism is limited by a daily fee, so the country attracts fewer but higher-paying visitors. Bhutan measures its success by Gross National Happiness as well as by GDP."
+  },
+  "culture": {
+    "text": "Bhutan is a Buddhist kingdom in the Himalayas. By law, citizens wear national dress, the gho for men and the kira for women, at work and on formal occasions. Buildings follow traditional styles. It is the only carbon-negative country in the world.",
+    "items": [
+      {
+        "title": "Tiger's Nest",
+        "text": "Paro Taktsang, a monastery clinging to a cliff."
+      },
+      {
+        "title": "Gross National Happiness",
+        "text": "A measure of wellbeing used to guide government decisions."
+      },
+      {
+        "title": "Tsechu festivals",
+        "text": "Masked dances held at monasteries."
+      }
+    ],
+    "related": [
+      "IND",
+      "CHN"
+    ]
+  },
+  "sport": {
+    "text": "Archery is Bhutan's national sport, played at festivals with singing and dancing between shots. Football is also popular; the national team won its first ever competitive match in 2015.",
+    "items": [
+      {
+        "title": "Archery",
+        "text": "Targets are set about 140 metres away."
+      },
+      {
+        "title": "2015",
+        "text": "Bhutan's football team beat Sri Lanka in World Cup qualifying."
+      }
+    ],
+    "related": [
+      "LKA"
+    ]
   }
 }

@@ -54,5 +54,47 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Kuwait is a constitutional monarchy ruled by an Emir from the Al Sabah family. It had one of the most active elected parliaments in the Gulf, but in 2024 the Emir suspended parliament for up to four years.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Kuwait has some of the largest oil reserves in the world, and oil makes up most of its exports and government income. Kuwaitis pay no income tax, and most work for the government. A large sovereign wealth fund, set up in 1953, invests its oil money."
+  },
+  "culture": {
+    "text": "Before oil, Kuwait lived from pearl diving, fishing and sea trade. The Kuwait Towers, built in the 1970s, are the national symbol. Diwaniya, gatherings where men meet to talk and discuss politics, are a key part of social life.",
+    "items": [
+      {
+        "title": "Kuwait Towers",
+        "text": "Three towers on the coast, opened in 1979."
+      },
+      {
+        "title": "Diwaniya",
+        "text": "Evening gatherings in homes to talk and debate."
+      }
+    ],
+    "related": [
+      "IRQ",
+      "SAU"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Kuwait won the Asian Cup in 1980 and played at the 1982 World Cup. Shooting has brought the country Olympic medals.",
+    "items": [
+      {
+        "title": "1980",
+        "text": "Kuwait won the Asian Cup."
+      },
+      {
+        "title": "1982",
+        "text": "Kuwait played at the men's World Cup."
+      }
+    ]
   }
 }

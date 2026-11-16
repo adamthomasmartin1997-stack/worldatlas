@@ -57,5 +57,51 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Malaysia is a federal constitutional monarchy with a unique system: its king is chosen every five years from among the rulers of nine Malay states. The Prime Minister leads the government with the support of the elected House of Representatives.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal parliamentary elective monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Malaysia is a major exporter of electronics and computer chips, palm oil, rubber and natural gas. The Petronas Twin Towers in Kuala Lumpur were the world's tallest buildings from 1998 to 2004."
+  },
+  "culture": {
+    "text": "Malaysia is a mix of Malay, Chinese, Indian and Indigenous peoples, each with their own festivals, which are national holidays. Food such as nasi lemak and roti canai reflects this mix. The rainforests of Borneo are home to orangutans.",
+    "items": [
+      {
+        "title": "Petronas Towers",
+        "text": "Twin skyscrapers, 452 metres tall."
+      },
+      {
+        "title": "Nasi lemak",
+        "text": "Rice cooked in coconut milk, the national dish."
+      },
+      {
+        "title": "Orangutans",
+        "text": "Great apes found only in Borneo and Sumatra."
+      }
+    ],
+    "related": [
+      "SGP",
+      "IDN"
+    ]
+  },
+  "sport": {
+    "text": "Badminton is Malaysia's most successful sport, and Lee Chong Wei was world number one for years. Football is the most popular to watch. Sepang hosted Formula 1 races from 1999 to 2017 and still holds MotoGP.",
+    "items": [
+      {
+        "title": "Lee Chong Wei",
+        "text": "Won three Olympic silver medals in badminton."
+      },
+      {
+        "title": "Sepang",
+        "text": "A motorsport circuit near Kuala Lumpur."
+      }
+    ]
   }
 }

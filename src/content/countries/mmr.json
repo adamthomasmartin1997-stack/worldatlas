@@ -47,5 +47,52 @@
         "text": "The military overthrows the elected government."
       }
     ]
+  },
+  "government": {
+    "text": "Myanmar has been ruled by the military since a coup in February 2021 removed the elected government of Aung San Suu Kyi's National League for Democracy. Since then a civil war has spread across the country, with many armed groups fighting the army. The army held a widely criticised election in 2025.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Military junta"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Myanmar is one of the poorest countries in Asia. It exports natural gas, rice, clothing, jade and rare-earth minerals. The coup and civil war have caused the economy to shrink sharply."
+  },
+  "culture": {
+    "text": "Myanmar is a mostly Buddhist country with thousands of golden temples and pagodas. The Shwedagon Pagoda in Yangon is covered in gold. Many people wear a longyi, a long sarong, and apply thanaka, a yellow paste made from tree bark, to their faces.",
+    "items": [
+      {
+        "title": "Shwedagon Pagoda",
+        "text": "A gold-covered stupa about 100 metres tall."
+      },
+      {
+        "title": "Bagan",
+        "text": "More than 2,000 temples on a plain, listed by UNESCO."
+      },
+      {
+        "title": "Thanaka",
+        "text": "A paste worn on the face as sunscreen and make-up."
+      }
+    ],
+    "related": [
+      "THA",
+      "IND",
+      "CHN"
+    ]
+  },
+  "sport": {
+    "text": "Football is very popular, and chinlone, in which a team keeps a rattan ball in the air with their feet, is a traditional sport. Lethwei, a fierce form of kickboxing that allows head-butts, is also traditional.",
+    "items": [
+      {
+        "title": "Chinlone",
+        "text": "A team game without opponents, mixing sport and dance."
+      },
+      {
+        "title": "Lethwei",
+        "text": "Burmese bare-knuckle boxing."
+      }
+    ]
   }
 }

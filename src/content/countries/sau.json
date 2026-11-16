@@ -34,5 +34,59 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Saudi Arabia is an absolute monarchy ruled by the Al Saud family. The King is head of state and government, and there is no elected parliament. Crown Prince Mohammed bin Salman runs much of the government day to day. Since 2017 the country has relaxed some social rules, such as allowing women to drive, while cracking down on critics.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Absolute monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Saudi Arabia has some of the world's largest oil reserves and is one of the biggest oil exporters. Saudi Aramco is one of the most valuable companies in the world. Under its Vision 2030 plan, it is spending heavily on tourism, sport, entertainment and giant projects such as the NEOM city."
+  },
+  "culture": {
+    "text": "Saudi Arabia is home to Islam's two holiest cities, Mecca and Medina, and millions of Muslims make the Hajj pilgrimage every year. Coffee and dates are central to hospitality. AlUla, with tombs carved by the Nabataeans, has opened to tourists.",
+    "items": [
+      {
+        "title": "The Hajj",
+        "text": "The pilgrimage to Mecca, a duty for Muslims who are able."
+      },
+      {
+        "title": "Hegra",
+        "text": "Nabataean tombs at AlUla, Saudi Arabia's first UNESCO site."
+      },
+      {
+        "title": "Arabic coffee",
+        "text": "Served with dates as a sign of welcome, listed by UNESCO."
+      }
+    ],
+    "related": [
+      "ARE",
+      "QAT"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Saudi Arabia beat eventual champions Argentina at the 2022 World Cup and will host the 2034 World Cup. Its league has signed stars such as Cristiano Ronaldo.",
+    "items": [
+      {
+        "title": "2022",
+        "text": "Beat Argentina 2–1 at the World Cup."
+      },
+      {
+        "title": "2034",
+        "text": "Saudi Arabia will host the men's World Cup."
+      },
+      {
+        "title": "Asian Cup",
+        "text": "Champions in 1984, 1988 and 1996."
+      }
+    ],
+    "related": [
+      "ARG",
+      "PRT"
+    ]
   }
 }

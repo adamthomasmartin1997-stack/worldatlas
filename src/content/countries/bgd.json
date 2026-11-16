@@ -51,5 +51,54 @@
         "text": "Muhammad Yunus and the Grameen Bank win the prize for pioneering microcredit."
       }
     ]
+  },
+  "government": {
+    "text": "Bangladesh is a parliamentary republic in which the Prime Minister leads the government and the President is head of state. In 2024 student-led protests forced Prime Minister Sheikh Hasina to resign and flee, and an interim government led by Nobel laureate Muhammad Yunus took over, promising reforms and new elections.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Bangladesh is the world's second-largest exporter of clothing, after China; garments make up most of its exports. Money sent home by Bangladeshis abroad, farming and a growing IT sector are also important. Its economy has grown quickly for decades."
+  },
+  "culture": {
+    "text": "Bangladesh is one of the most densely populated countries on Earth. Bengali, its language, was so important to its identity that its defence led to independence. The poet Rabindranath Tagore, who wrote its national anthem, won the Nobel Prize in Literature in 1913. The Sundarbans mangrove forest is home to Bengal tigers.",
+    "items": [
+      {
+        "title": "Sundarbans",
+        "text": "The world's largest mangrove forest, shared with India."
+      },
+      {
+        "title": "Language Martyrs' Day",
+        "text": "21 February, now International Mother Language Day."
+      },
+      {
+        "title": "Rickshaw art",
+        "text": "Brightly painted cycle rickshaws, listed by UNESCO."
+      }
+    ],
+    "related": [
+      "IND",
+      "PAK"
+    ]
+  },
+  "sport": {
+    "text": "Cricket is the most popular sport in Bangladesh, and the national team plays Test cricket. Shakib Al Hasan has been rated the world's best all-rounder. Kabaddi, a tag-and-wrestle team game, is the national sport.",
+    "items": [
+      {
+        "title": "Kabaddi",
+        "text": "The official national sport."
+      },
+      {
+        "title": "Shakib Al Hasan",
+        "text": "One of the leading all-rounders in cricket."
+      }
+    ],
+    "related": [
+      "IND"
+    ]
   }
 }

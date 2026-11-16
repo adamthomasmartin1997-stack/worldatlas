@@ -45,5 +45,43 @@
         "text": "The Indian Ocean tsunami floods many islands."
       }
     ]
+  },
+  "government": {
+    "text": "The Maldives is a presidential republic. The President is elected every five years and is head of state and government. Islam is the state religion, and citizens must be Muslim.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Tourism is the Maldives' main industry, with luxury resorts, many on their own islands. Fishing, especially tuna, is the second most important industry."
+  },
+  "culture": {
+    "text": "The Maldives is made up of about 1,200 coral islands grouped into 26 atolls. It is the lowest country in the world, with an average height of about 1.5 metres above sea level. In 2009 its cabinet held an underwater meeting to warn about rising seas.",
+    "items": [
+      {
+        "title": "Atolls",
+        "text": "Rings of coral islands around lagoons."
+      },
+      {
+        "title": "Underwater cabinet meeting",
+        "text": "Held in 2009 to highlight climate change."
+      }
+    ],
+    "related": [
+      "IND",
+      "LKA"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and the Maldives won the South Asian football championship in 2008 and 2018. Surfing and diving draw visitors from around the world.",
+    "items": [
+      {
+        "title": "2008 · 2018",
+        "text": "South Asian football champions."
+      }
+    ]
   }
 }

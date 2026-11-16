@@ -45,5 +45,55 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Türkiye is a presidential republic. A 2017 referendum gave the President wide powers and abolished the post of Prime Minister. Recep Tayyip Erdoğan has led the country since 2003, first as Prime Minister and then as President. The Grand National Assembly is elected every five years. Türkiye is a NATO member.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Türkiye has a large and varied economy. It makes cars, clothing, steel and appliances, and is a major farm producer of hazelnuts, figs and apricots. Tourism is huge. In recent years it has faced very high inflation."
+  },
+  "culture": {
+    "text": "Türkiye bridges Europe and Asia, with Istanbul spread across both continents. Its heritage includes Byzantine and Ottoman architecture such as Hagia Sophia, as well as Turkish coffee, carpets, kebabs and baklava. The Whirling Dervishes perform a dance of Sufi meditation.",
+    "items": [
+      {
+        "title": "Hagia Sophia",
+        "text": "Built as a church in 537, later a mosque, then a museum, then a mosque again."
+      },
+      {
+        "title": "Cappadocia",
+        "text": "Fairy chimney rock formations and hot-air balloons."
+      },
+      {
+        "title": "Turkish coffee",
+        "text": "Listed by UNESCO in 2013."
+      }
+    ],
+    "related": [
+      "GRC",
+      "AZE"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport, and Türkiye finished third at the 2002 World Cup. Oil wrestling at Kırkpınar, held since 1346, is one of the oldest sporting events in the world. Türkiye's women's volleyball team is among the best in the world.",
+    "items": [
+      {
+        "title": "2002",
+        "text": "Third place at the men's World Cup."
+      },
+      {
+        "title": "Kırkpınar",
+        "text": "Oil wrestling tournament held since 1346."
+      },
+      {
+        "title": "Women's volleyball",
+        "text": "Won the European Championship in 2023."
+      }
+    ]
   }
 }

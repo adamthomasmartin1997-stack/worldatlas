@@ -40,5 +40,51 @@
         "text": "Qaboos bin Said begins modernising the country."
       }
     ]
+  },
+  "government": {
+    "text": "Oman is an absolute monarchy. The Sultan is head of state and government and holds most power. Sultan Qaboos ruled from 1970 to 2020, followed by his cousin Haitham bin Tariq. An elected Consultative Assembly advises the government.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Absolute monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Oil and gas are Oman's main exports, but its reserves are smaller than its neighbours'. It is investing in tourism, logistics, fishing and green hydrogen."
+  },
+  "culture": {
+    "text": "Oman has a long seafaring history, and traditional wooden boats called dhows are still built there. Frankincense trees grow in the south, and the incense trade made the region rich in ancient times. Forts and castles dot the country.",
+    "items": [
+      {
+        "title": "Frankincense",
+        "text": "Aromatic resin traded for thousands of years."
+      },
+      {
+        "title": "Bahla Fort",
+        "text": "A huge mud-brick fort listed by UNESCO."
+      },
+      {
+        "title": "Dhows",
+        "text": "Wooden sailing ships used for trade across the Indian Ocean."
+      }
+    ],
+    "related": [
+      "TZA",
+      "ARE"
+    ]
+  },
+  "sport": {
+    "text": "Football is the most popular sport. Oman has won the Arabian Gulf Cup twice. Sailing is also strong, and camel racing is a traditional pastime.",
+    "items": [
+      {
+        "title": "2009 · 2017",
+        "text": "Gulf Cup champions."
+      },
+      {
+        "title": "Camel racing",
+        "text": "A traditional sport across the Gulf."
+      }
+    ]
   }
 }

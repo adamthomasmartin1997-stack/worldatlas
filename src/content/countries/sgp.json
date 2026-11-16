@@ -44,5 +44,55 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Singapore is a parliamentary republic. The People's Action Party has won every general election since independence in 1965. The Prime Minister leads the government, and the President, elected directly, is head of state. The government is known for being efficient but also for strict laws.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Singapore is one of the richest countries in the world and a global centre for finance, shipping and trade. Its port is one of the busiest on Earth. It also makes computer chips, medicines and chemicals."
+  },
+  "culture": {
+    "text": "Singapore is a mix of Chinese, Malay, Indian and other cultures, and its four official languages are English, Malay, Mandarin and Tamil. Hawker centres, food courts with cheap stalls, are listed by UNESCO. Gardens by the Bay has giant 'supertrees'.",
+    "items": [
+      {
+        "title": "Hawker centres",
+        "text": "Open-air food courts, listed by UNESCO in 2020."
+      },
+      {
+        "title": "Gardens by the Bay",
+        "text": "Futuristic gardens with metal 'supertrees'."
+      },
+      {
+        "title": "Changi Airport",
+        "text": "Has an indoor waterfall."
+      }
+    ],
+    "related": [
+      "MYS",
+      "CHN",
+      "IND"
+    ]
+  },
+  "sport": {
+    "text": "Singapore hosted the first night race in Formula 1 in 2008. Swimmer Joseph Schooling won Singapore's first Olympic gold in 2016, beating his hero Michael Phelps.",
+    "items": [
+      {
+        "title": "2008",
+        "text": "The first Formula 1 night race."
+      },
+      {
+        "title": "2016",
+        "text": "Joseph Schooling won Olympic 100 m butterfly gold."
+      }
+    ],
+    "related": [
+      "USA"
+    ]
   }
 }

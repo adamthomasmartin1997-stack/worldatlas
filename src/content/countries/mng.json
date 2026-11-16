@@ -53,5 +53,54 @@
         "text": "Peaceful protests bring multi-party democracy."
       }
     ]
+  },
+  "government": {
+    "text": "Mongolia is a parliamentary republic and has been a democracy since 1990. The State Great Khural, its parliament, chooses the Prime Minister, and the President is elected directly for a single six-year term.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Mining dominates Mongolia's economy: it exports coal, copper and gold, mostly to China. Herding is still a way of life for many families, and Mongolia has far more livestock than people."
+  },
+  "culture": {
+    "text": "Mongolia is the most sparsely populated country in the world. Around a quarter of the people still live as nomadic herders in round felt tents called gers. Throat singing, known as khöömei, produces two notes at once and is listed by UNESCO.",
+    "items": [
+      {
+        "title": "Gers",
+        "text": "Portable round tents of felt and wood."
+      },
+      {
+        "title": "Khöömei",
+        "text": "Throat singing that makes two notes at once."
+      },
+      {
+        "title": "Genghis Khan statue",
+        "text": "A 40-metre steel statue of the founder of the Mongol Empire."
+      }
+    ],
+    "related": [
+      "CHN",
+      "RUS"
+    ]
+  },
+  "sport": {
+    "text": "The Naadam festival every July features the 'three games of men': wrestling, horse racing and archery, though women now compete in archery and racing. Mongolian wrestlers have dominated Japanese sumo for decades.",
+    "items": [
+      {
+        "title": "Naadam",
+        "text": "Festival of wrestling, horse racing and archery."
+      },
+      {
+        "title": "Sumo",
+        "text": "Many grand champions of Japanese sumo have been Mongolian."
+      }
+    ],
+    "related": [
+      "JPN"
+    ]
   }
 }

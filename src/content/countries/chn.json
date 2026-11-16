@@ -47,5 +47,59 @@
         "text": "Deng Xiaoping begins opening up the economy."
       }
     ]
+  },
+  "government": {
+    "text": "China is a one-party state ruled by the Communist Party of China. The party's General Secretary is the most powerful person in the country and also serves as President. Xi Jinping has held these posts since 2012–13, and term limits on the presidency were removed in 2018. The National People's Congress passes laws but follows party decisions.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Communist one-party state"
+      }
+    ]
+  },
+  "economy": {
+    "text": "China has the second-largest economy in the world and is the world's biggest manufacturer and exporter. It makes most of the world's phones, solar panels, batteries and electric vehicles, and it is also the largest trading partner of many countries. Since economic reforms began in 1978, hundreds of millions of people have been lifted out of poverty."
+  },
+  "culture": {
+    "text": "China has one of the oldest continuous civilisations. It invented paper, printing, gunpowder and the compass. Mandarin Chinese has more native speakers than any other language. Chinese New Year, festivals, calligraphy, tea and kung fu are known around the world.",
+    "items": [
+      {
+        "title": "The Great Wall",
+        "text": "Walls built over 2,000 years, stretching thousands of kilometres."
+      },
+      {
+        "title": "Terracotta Army",
+        "text": "Thousands of life-size clay soldiers buried with the first emperor."
+      },
+      {
+        "title": "Four great inventions",
+        "text": "Paper, printing, gunpowder and the compass."
+      }
+    ],
+    "related": [
+      "MNG",
+      "JPN",
+      "KOR"
+    ]
+  },
+  "sport": {
+    "text": "China is a sporting superpower. It hosted the Summer Olympics in 2008 and the Winter Olympics in 2022, making Beijing the first city to host both. Table tennis, badminton, diving and gymnastics are its strongest sports, and basketball is hugely popular.",
+    "items": [
+      {
+        "title": "2008 · 2022",
+        "text": "Beijing: the first city to host both Summer and Winter Olympics."
+      },
+      {
+        "title": "Table tennis",
+        "text": "China has won most Olympic table tennis golds since 1988."
+      },
+      {
+        "title": "Yao Ming",
+        "text": "Basketball Hall of Famer who starred in the NBA."
+      }
+    ],
+    "related": [
+      "USA"
+    ]
   }
 }

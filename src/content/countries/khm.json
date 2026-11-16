@@ -50,5 +50,47 @@
         "text": "UN-organised elections follow a peace agreement."
       }
     ]
+  },
+  "government": {
+    "text": "Cambodia is a constitutional monarchy with a king as head of state. In practice the Cambodian People's Party has dominated politics since the 1980s. Hun Sen was Prime Minister for almost 40 years and handed power to his son, Hun Manet, in 2023.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary constitutional monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Clothing and shoe factories are Cambodia's biggest export industry, along with rice, tourism and construction. It uses both its own currency, the riel, and the US dollar."
+  },
+  "culture": {
+    "text": "The temples of Angkor, including Angkor Wat, the largest religious monument in the world, show the power of the old Khmer Empire. Angkor Wat appears on Cambodia's flag. Khmer classical dance, performed by dancers in elaborate costumes, is listed by UNESCO.",
+    "items": [
+      {
+        "title": "Angkor Wat",
+        "text": "Built in the 1100s as a Hindu temple, later Buddhist."
+      },
+      {
+        "title": "Royal ballet",
+        "text": "Classical Khmer dance, listed by UNESCO."
+      }
+    ],
+    "related": [
+      "THA",
+      "VNM"
+    ]
+  },
+  "sport": {
+    "text": "Football and kun Khmer, a form of kickboxing, are popular. Cambodia hosted the Southeast Asian Games for the first time in 2023.",
+    "items": [
+      {
+        "title": "Kun Khmer",
+        "text": "Traditional Khmer kickboxing."
+      },
+      {
+        "title": "2023",
+        "text": "Phnom Penh hosted the Southeast Asian Games."
+      }
+    ]
   }
 }

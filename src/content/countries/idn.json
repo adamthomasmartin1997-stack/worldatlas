@@ -47,5 +47,55 @@
         "text": "An earthquake and tsunami kill about 170,000 people in Aceh."
       }
     ]
+  },
+  "government": {
+    "text": "Indonesia is a presidential republic and the world's third-largest democracy. The President is elected directly for up to two five-year terms. The People's Consultative Assembly includes the elected House of Representatives. Indonesia is building a new capital, Nusantara, on the island of Borneo.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Indonesia has the largest economy in South-East Asia. It is the world's biggest producer of palm oil and nickel, which is used in electric vehicle batteries, and a big exporter of coal. Manufacturing, tourism, especially to Bali, and a fast-growing digital economy are also important."
+  },
+  "culture": {
+    "text": "Indonesia is made up of more than 17,000 islands and hundreds of ethnic groups and languages, united by Bahasa Indonesia. It has the largest Muslim population in the world, while Bali is mostly Hindu. Batik, wayang shadow puppets and gamelan music are all listed by UNESCO.",
+    "items": [
+      {
+        "title": "Borobudur",
+        "text": "The world's largest Buddhist temple, built in the 800s."
+      },
+      {
+        "title": "Batik",
+        "text": "Cloth decorated using wax and dye, listed by UNESCO."
+      },
+      {
+        "title": "Komodo dragon",
+        "text": "The world's largest lizard."
+      }
+    ],
+    "related": [
+      "MYS",
+      "NLD"
+    ]
+  },
+  "sport": {
+    "text": "Badminton is Indonesia's most successful sport, with Olympic golds since 1992. Football is the most popular sport to watch, and pencak silat, a martial art, is national heritage.",
+    "items": [
+      {
+        "title": "Badminton",
+        "text": "Indonesia's first Olympic gold came in badminton in 1992."
+      },
+      {
+        "title": "Pencak silat",
+        "text": "A martial art listed by UNESCO."
+      },
+      {
+        "title": "2018",
+        "text": "Jakarta and Palembang hosted the Asian Games."
+      }
+    ]
   }
 }

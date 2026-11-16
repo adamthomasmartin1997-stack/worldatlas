@@ -42,5 +42,52 @@
         "text": "The world's tallest building opens in Dubai."
       }
     ]
+  },
+  "government": {
+    "text": "The United Arab Emirates is a federation of seven emirates, each ruled by its own monarch. The rulers form the Federal Supreme Council, which elects the President, traditionally the ruler of Abu Dhabi, while the ruler of Dubai is Prime Minister. Half of the advisory Federal National Council is elected by a limited group of citizens.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Federal elective monarchy"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Oil, mostly in Abu Dhabi, made the UAE rich, and Dubai has built a global hub for trade, finance, tourism and air travel. Emirates and Etihad airlines link the world through its airports. Most residents are foreign workers."
+  },
+  "culture": {
+    "text": "The UAE combines Bedouin traditions, such as falconry and Arabic poetry, with ultra-modern cities. Dubai's Burj Khalifa is the tallest building in the world. The Louvre Abu Dhabi opened in 2017.",
+    "items": [
+      {
+        "title": "Burj Khalifa",
+        "text": "828 metres tall, opened in 2010."
+      },
+      {
+        "title": "Louvre Abu Dhabi",
+        "text": "An art museum under a giant lattice dome."
+      },
+      {
+        "title": "Hope probe",
+        "text": "The UAE's spacecraft reached Mars orbit in 2021."
+      }
+    ],
+    "related": [
+      "SAU",
+      "OMN",
+      "FRA"
+    ]
+  },
+  "sport": {
+    "text": "The Abu Dhabi Grand Prix often closes the Formula 1 season, and the Dubai World Cup is one of the richest horse races. Cricket is very popular, and the UAE has hosted many international matches.",
+    "items": [
+      {
+        "title": "Yas Marina",
+        "text": "Hosts the Abu Dhabi Grand Prix."
+      },
+      {
+        "title": "Dubai World Cup",
+        "text": "One of the world's richest horse races."
+      }
+    ]
   }
 }

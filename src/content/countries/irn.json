@@ -39,5 +39,59 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Iran is an Islamic republic. The Supreme Leader, a senior cleric, holds the highest power and controls the armed forces and courts. Ali Khamenei has held the role since 1989. Voters elect a President and parliament, but a council of clerics and lawyers decides who may stand. Mass protests in 2022, led by women, were harshly suppressed.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Islamic republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Iran has some of the world's largest reserves of oil and natural gas. International sanctions over its nuclear programme have limited its oil exports and access to world banks, causing high inflation. It also exports petrochemicals, steel, pistachios and saffron."
+  },
+  "culture": {
+    "text": "Iran, also known as Persia, has a history of more than 2,500 years as a state. Persian poets such as Hafez, Rumi and Ferdowsi are loved by Iranians today. Persian carpets, miniature paintings and Nowruz, the Persian New Year at the spring equinox, are world-famous.",
+    "items": [
+      {
+        "title": "Persepolis",
+        "text": "The ceremonial capital of the Persian Empire, built from 518 BC."
+      },
+      {
+        "title": "Nowruz",
+        "text": "New Year at the spring equinox, celebrated across Central Asia."
+      },
+      {
+        "title": "Persian carpets",
+        "text": "Hand-knotted rugs, a craft thousands of years old."
+      }
+    ],
+    "related": [
+      "AFG",
+      "TJK",
+      "IRQ"
+    ]
+  },
+  "sport": {
+    "text": "Football is Iran's most popular sport, and Iran has played at several World Cups. Wrestling is the traditional sport, with many Olympic golds, and Iran is strong in weightlifting and volleyball.",
+    "items": [
+      {
+        "title": "Wrestling",
+        "text": "Iran's most successful Olympic sport."
+      },
+      {
+        "title": "1998",
+        "text": "Iran beat the United States at the World Cup."
+      },
+      {
+        "title": "Zurkhaneh",
+        "text": "Traditional 'house of strength' training, listed by UNESCO."
+      }
+    ],
+    "related": [
+      "USA"
+    ]
   }
 }

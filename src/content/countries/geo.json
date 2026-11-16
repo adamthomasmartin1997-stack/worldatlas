@@ -42,5 +42,55 @@
         ]
       }
     ]
+  },
+  "government": {
+    "text": "Georgia is a parliamentary republic. The Parliament chooses the Prime Minister, and the President has a mostly ceremonial role. Georgia became a candidate to join the European Union in 2023, but in 2024 the government paused the process, sparking months of mass protests. Russia controls the breakaway regions of Abkhazia and South Ossetia.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Parliamentary republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Georgia's economy includes tourism, wine, mining, farming and transport routes linking Asia and Europe. Its wine and mineral water, especially from Borjomi, are exported widely."
+  },
+  "culture": {
+    "text": "Georgia has one of the oldest winemaking traditions in the world, going back about 8,000 years; wine is made in large clay jars called qvevri, a method listed by UNESCO. Georgian has its own unique alphabet, and polyphonic singing in several voices is also UNESCO heritage. Feasts, called supra, are led by a toastmaster called the tamada.",
+    "items": [
+      {
+        "title": "Qvevri wine",
+        "text": "Wine fermented in clay jars buried in the ground."
+      },
+      {
+        "title": "Georgian alphabet",
+        "text": "Its three scripts are listed by UNESCO as living heritage."
+      },
+      {
+        "title": "Supra",
+        "text": "A feast with long, elaborate toasts."
+      }
+    ],
+    "related": [
+      "ARM",
+      "RUS"
+    ]
+  },
+  "sport": {
+    "text": "Rugby union is very popular, and Georgia is the strongest European team outside the Six Nations. Wrestling, judo and weightlifting have brought Olympic medals, and Khvicha Kvaratskhelia is a football star.",
+    "items": [
+      {
+        "title": "Rugby",
+        "text": "Georgia has played at every Rugby World Cup since 2003."
+      },
+      {
+        "title": "Lasha Talakhadze",
+        "text": "Two-time Olympic weightlifting champion and world record holder."
+      },
+      {
+        "title": "Euro 2024",
+        "text": "Georgia's first major tournament, reaching the last 16."
+      }
+    ]
   }
 }

@@ -37,5 +37,47 @@
         "text": "The United Nations recognises Turkmenistan's permanent neutrality."
       }
     ]
+  },
+  "government": {
+    "text": "Turkmenistan is one of the most closed countries in the world. Power is held by the President; Serdar Berdimuhamedow took over from his father in 2022. There is no real opposition or free press.",
+    "facts": [
+      {
+        "label": "System",
+        "value": "Presidential republic"
+      }
+    ]
+  },
+  "economy": {
+    "text": "Turkmenistan has some of the largest natural gas reserves in the world, and gas exports, mostly to China, dominate its economy. Cotton is also important."
+  },
+  "culture": {
+    "text": "Most of Turkmenistan is covered by the Karakum Desert. The Darvaza gas crater, known as the 'Door to Hell', has been burning since 1971. Turkmen carpets and Akhal-Teke horses, with shimmering golden coats, are national symbols.",
+    "items": [
+      {
+        "title": "Door to Hell",
+        "text": "A burning gas crater in the desert."
+      },
+      {
+        "title": "Akhal-Teke",
+        "text": "A horse breed with a metallic coat."
+      },
+      {
+        "title": "Ashgabat",
+        "text": "A city of white marble buildings."
+      }
+    ],
+    "related": [
+      "IRN",
+      "UZB"
+    ]
+  },
+  "sport": {
+    "text": "Weightlifting and wrestling are the most successful sports. Ashgabat hosted the Asian Indoor and Martial Arts Games in 2017.",
+    "items": [
+      {
+        "title": "Polina Guryeva",
+        "text": "Won Turkmenistan's first Olympic medal, in weightlifting, in 2021."
+      }
+    ]
   }
 }
