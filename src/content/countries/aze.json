@@ -5,7 +5,17 @@
     "Azerbaijan is a country in the South Caucasus, on the western shore of the Caspian Sea. Its capital and largest city is Baku. Azerbaijan became independent from the Soviet Union in 1991. Oil and gas are the backbone of its economy, and the area around Baku was one of the world's first major oil-producing regions."
   ],
   "geography": {
-    "text": "The Greater Caucasus mountains run along Azerbaijan's northern border, and the Lesser Caucasus rise in the west. Between them lies a wide lowland crossed by the Kura river. Parts of the coast are below sea level, because the Caspian Sea itself is below sea level. The region of Nakhchivan is separated from the rest of the country by Armenia."
+    "text": "The Greater Caucasus mountains run along Azerbaijan's northern border, and the Lesser Caucasus rise in the west. Between them lies a wide lowland crossed by the Kura river. Parts of the coast are below sea level, because the Caspian Sea itself is below sea level. The region of Nakhchivan is separated from the rest of the country by Armenia.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Ranges from dry semi-desert near Baku to wet subtropical forests in the south."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Gazelles live on the dry plains, and sturgeon swim in the Caspian Sea."
+      }
+    ]
   },
   "history": {
     "text": "The region was ruled by Persian empires and shaped by Turkic peoples who arrived from the 1000s. Russia took control in the early 1800s. Azerbaijan declared independence in 1918 as one of the first democratic republics in the Muslim world, before being absorbed into the Soviet Union. It became independent again in 1991 and has fought wars with Armenia over Nagorno-Karabakh.",
@@ -78,6 +88,20 @@
     "related": [
       "TUR",
       "IRN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Plov, rice with saffron and meat, and dolma."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Mugham music and hand-woven carpets are listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Novruz, the spring festival, involves jumping over bonfires and growing green wheat sprouts called semeni."
+      }
     ]
   },
   "sport": {

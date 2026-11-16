@@ -5,7 +5,17 @@
     "Yemen is a country at the southern end of the Arabian Peninsula. Its capital, Sana'a, is an ancient city famous for its tall mud-brick tower houses. North and South Yemen united in 1990. Since 2014 Yemen has been torn by civil war, which has caused one of the world's worst humanitarian crises."
   ],
   "geography": {
-    "text": "Yemen has coastal plains along the Red Sea and the Gulf of Aden, and high mountains in the west that get enough rain for farming. The east is mostly desert. The island of Socotra, in the Arabian Sea, is famous for strange plants found nowhere else, such as the dragon's blood tree."
+    "text": "Yemen has coastal plains along the Red Sea and the Gulf of Aden, and high mountains in the west that get enough rain for farming. The east is mostly desert. The island of Socotra, in the Arabian Sea, is famous for strange plants found nowhere else, such as the dragon's blood tree.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Very hot on the coasts, milder in the high mountains."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Socotra island has dragon's blood trees and many unique species."
+      }
+    ]
   },
   "history": {
     "text": "Yemen was home to ancient kingdoms such as Saba, linked in legend to the Queen of Sheba, which grew rich trading frankincense and myrrh. In the 1900s the north became independent from the Ottomans, while the south around Aden was a British colony. North and South Yemen united in 1990. A civil war that began in 2014 has caused one of the world's worst humanitarian crises.",
@@ -77,6 +87,20 @@
     "related": [
       "SAU",
       "OMN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Saltah, a spicy stew, is the national dish."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Song of Sana'a, a poetic music tradition, listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Coffee was first brewed in Yemen."
+      }
     ]
   },
   "sport": {

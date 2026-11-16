@@ -5,7 +5,17 @@
     "New Zealand is an island country in the south-west Pacific, made up mainly of the North Island and the South Island. Its capital is Wellington and its largest city is Auckland. Māori settled the islands about 700 years ago, and New Zealand became a British colony in 1840 after the Treaty of Waitangi. Most people speak English, and Māori and New Zealand Sign Language are official languages."
   ],
   "geography": {
-    "text": "New Zealand is long and mountainous. The Southern Alps run down the South Island, with glaciers, lakes and fjords such as Milford Sound. The North Island has volcanoes, geysers and hot springs, especially around Rotorua and Lake Taupō. Because the islands were isolated for so long, they have unique wildlife, including the flightless kiwi."
+    "text": "New Zealand is long and mountainous. The Southern Alps run down the South Island, with glaciers, lakes and fjords such as Milford Sound. The North Island has volcanoes, geysers and hot springs, especially around Rotorua and Lake Taupō. Because the islands were isolated for so long, they have unique wildlife, including the flightless kiwi.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild and wet, with snow in the Southern Alps."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Kiwi birds, kea parrots and tuatara, a reptile from the age of dinosaurs."
+      }
+    ]
   },
   "history": {
     "text": "Polynesian voyagers, the ancestors of the Māori, settled New Zealand about 700 years ago, making it one of the last large landmasses on Earth to be settled by people. The Dutch explorer Abel Tasman reached it in 1642, and James Cook mapped it in 1769. The Treaty of Waitangi was signed between Māori chiefs and the British Crown in 1840. In 1893 New Zealand became the first country where women could vote in national elections.",
@@ -80,6 +90,20 @@
     "related": [
       "AUS",
       "GBR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Hāngī, food cooked in an earth oven, and pavlova."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Māori carving, tattoo (tā moko) and kapa haka performance."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Waitangi Day, 6 February, marks the 1840 treaty."
+      }
     ]
   },
   "sport": {

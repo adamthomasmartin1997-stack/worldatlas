@@ -5,7 +5,17 @@
     "Oman is a country on the south-eastern corner of the Arabian Peninsula. Its capital and largest city is Muscat. Oman is a sultanate and was once a great sea power whose lands stretched as far as Zanzibar in East Africa. Oil and gas are important to its economy."
   ],
   "geography": {
-    "text": "Most of Oman is desert, including part of the Rub' al Khali, or Empty Quarter. The Hajar Mountains rise in the north, and a long coastline faces the Arabian Sea and the Gulf of Oman. The Musandam Peninsula, cut off from the rest of the country by the United Arab Emirates, overlooks the Strait of Hormuz, and the south around Salalah turns green during the summer monsoon."
+    "text": "Most of Oman is desert, including part of the Rub' al Khali, or Empty Quarter. The Hajar Mountains rise in the north, and a long coastline faces the Arabian Sea and the Gulf of Oman. The Musandam Peninsula, cut off from the rest of the country by the United Arab Emirates, overlooks the Strait of Hormuz, and the south around Salalah turns green during the summer monsoon.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Very hot and dry, except in Dhofar, which gets summer mists called the khareef."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Green turtles nest at Ras al Jinz, and Arabian leopards survive in the mountains."
+      }
+    ]
   },
   "history": {
     "text": "Oman was a seafaring nation that traded across the Indian Ocean for centuries. After driving out the Portuguese in 1650, its sultans built an empire that included Zanzibar and parts of the East African coast. Sultan Qaboos, who came to power in 1970, used the country's oil wealth to modernise it.",
@@ -72,6 +82,20 @@
     "related": [
       "TZA",
       "ARE"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Shuwa, lamb marinated and cooked for up to two days in an underground oven."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Silver khanjar daggers and traditional dhow boat-building."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Guests are welcomed with kahwa coffee, dates and halwa sweets."
+      }
     ]
   },
   "sport": {

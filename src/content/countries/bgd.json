@@ -5,7 +5,17 @@
     "Bangladesh is a country in South Asia, almost surrounded by India. Its capital and largest city is Dhaka. Bangladesh was the eastern part of Pakistan until it won independence in 1971. It is one of the most densely populated countries in the world and one of the biggest exporters of clothing. Bengali, also called Bangla, is the official language."
   ],
   "geography": {
-    "text": "Most of Bangladesh lies on the delta of three great rivers, the Ganges, the Brahmaputra and the Meghna, and is very low and flat, so floods are common. The summer monsoon brings heavy rain. In the south-west, the Sundarbans, the largest mangrove forest in the world, which Bangladesh shares with India, is home to Bengal tigers, and the country has a long coast on the Bay of Bengal."
+    "text": "Most of Bangladesh lies on the delta of three great rivers, the Ganges, the Brahmaputra and the Meghna, and is very low and flat, so floods are common. The summer monsoon brings heavy rain. In the south-west, the Sundarbans, the largest mangrove forest in the world, which Bangladesh shares with India, is home to Bengal tigers, and the country has a long coast on the Bay of Bengal.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid, with a heavy monsoon from June to October that often causes floods."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Bengal tigers, spotted deer and river dolphins live in the Sundarbans."
+      }
+    ]
   },
   "history": {
     "text": "Bengal was home to powerful kingdoms and later part of the Mughal Empire and British India. When British India was divided in 1947, East Bengal became East Pakistan. Anger at rule from West Pakistan led to the Liberation War of 1971, in which Bangladesh won independence. It has since become one of the world's largest clothing exporters.",
@@ -83,6 +93,20 @@
     "related": [
       "IND",
       "PAK"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Rice and fish, especially hilsa, the national fish, cooked in mustard sauce."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Baul singers, wandering mystic musicians, are listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Pohela Boishakh, Bengali New Year in April, brings colourful processions."
+      }
     ]
   },
   "sport": {

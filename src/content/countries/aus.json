@@ -5,7 +5,17 @@
     "Australia is made up of the mainland of the Australian continent, the island of Tasmania and many smaller islands. Its capital is Canberra and its largest city is Sydney. Aboriginal and Torres Strait Islander peoples have lived in Australia for at least 50,000 years, and their cultures are among the oldest continuing cultures on Earth. British settlement began in 1788, and the separate colonies joined together as one country in 1901."
   ],
   "geography": {
-    "text": "Australia is the driest inhabited continent. Most of the interior, known as the Outback, is desert or dry grassland, and most people live along the coasts, especially in the south-east. The Great Dividing Range runs down the east, and off the north-east coast lies the Great Barrier Reef, the largest coral reef system in the world. Uluru, a huge sandstone rock in the centre, is sacred to its Aboriginal owners."
+    "text": "Australia is the driest inhabited continent. Most of the interior, known as the Outback, is desert or dry grassland, and most people live along the coasts, especially in the south-east. The Great Dividing Range runs down the east, and off the north-east coast lies the Great Barrier Reef, the largest coral reef system in the world. Uluru, a huge sandstone rock in the centre, is sacred to its Aboriginal owners.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mostly dry or desert inland, tropical in the north, and mild in the south-east."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Kangaroos, koalas, platypuses, wombats and the Great Barrier Reef."
+      }
+    ]
   },
   "history": {
     "text": "Aboriginal and Torres Strait Islander peoples have lived in Australia for at least 50,000 years. Britain founded a convict colony at Sydney in 1788, and settlement spread across the continent, devastating Indigenous communities. The six colonies united as the Commonwealth of Australia in 1901. In 1967 Australians voted to include Aboriginal people in the national census, and in 2008 the government formally apologised to the Stolen Generations.",
@@ -79,6 +89,20 @@
     "related": [
       "GBR",
       "NZL"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Barbecues, meat pies, and Vegemite on toast."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Aboriginal art, one of the oldest art traditions in the world."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Anzac Day, 25 April, remembers those who served in wars."
+      }
     ]
   },
   "sport": {

@@ -5,7 +5,17 @@
     "Saudi Arabia covers most of the Arabian Peninsula. Its capital and largest city is Riyadh. The kingdom was founded in 1932. It is the birthplace of Islam and home to its two holiest cities, Mecca and Medina, which millions of pilgrims visit every year. Saudi Arabia has some of the largest oil reserves in the world."
   ],
   "geography": {
-    "text": "Most of Saudi Arabia is desert, including the Rub' al Khali, or Empty Quarter, the largest continuous sand desert in the world. Mountains run along the west, parallel to the Red Sea coast, and the east faces the Persian Gulf. Saudi Arabia is the largest country in the world with no permanent rivers."
+    "text": "Most of Saudi Arabia is desert, including the Rub' al Khali, or Empty Quarter, the largest continuous sand desert in the world. Mountains run along the west, parallel to the Red Sea coast, and the east faces the Persian Gulf. Saudi Arabia is the largest country in the world with no permanent rivers.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Very hot desert, with cooler mountains in the south-west."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Arabian oryx, sand cats and Red Sea coral reefs."
+      }
+    ]
   },
   "history": {
     "text": "Islam began in Mecca in the early 600s with the Prophet Muhammad, and the region has been its spiritual heart ever since. In the 1700s the Al Saud family allied with the religious reformer Muhammad ibn Abd al-Wahhab. Abdulaziz Ibn Saud united most of Arabia and founded the Kingdom of Saudi Arabia in 1932, and oil, found in 1938, transformed the country.",
@@ -66,6 +76,20 @@
     "related": [
       "ARE",
       "QAT"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Kabsa, spiced rice with meat, and dates."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Al-Ardah, a sword dance, is listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Arabic coffee and dates are served to every guest."
+      }
     ]
   },
   "sport": {

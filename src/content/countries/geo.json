@@ -5,7 +5,17 @@
     "Georgia is a country in the South Caucasus, on the eastern shore of the Black Sea. Its capital and largest city is Tbilisi. Georgia became independent from the Soviet Union in 1991. It has its own unique alphabet and one of the oldest winemaking traditions in the world, going back about 8,000 years. Two regions, Abkhazia and South Ossetia, are outside the government's control."
   ],
   "geography": {
-    "text": "The Greater Caucasus mountains form Georgia's northern border with Russia, with some of the highest peaks in the Caucasus, and the Lesser Caucasus rise in the south. Between them lie valleys and lowlands, warm and humid in the west near the Black Sea and drier in the east. Glaciers cover the highest mountains, and many rivers flow down from them."
+    "text": "The Greater Caucasus mountains form Georgia's northern border with Russia, with some of the highest peaks in the Caucasus, and the Lesser Caucasus rise in the south. Between them lie valleys and lowlands, warm and humid in the west near the Black Sea and drier in the east. Glaciers cover the highest mountains, and many rivers flow down from them.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Subtropical on the Black Sea coast, cold in the Caucasus Mountains."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Brown bears, wolves and the East Caucasian tur, a wild goat."
+      }
+    ]
   },
   "history": {
     "text": "Georgia was one of the first kingdoms to adopt Christianity, in the 300s, and its medieval kingdom reached a golden age under Queen Tamar around 1200. The Russian Empire absorbed Georgia in the 1800s. After a short independence from 1918 to 1921 it became part of the Soviet Union, and it became independent again in 1991. A short war with Russia in 2008 left two regions outside its control.",
@@ -74,6 +84,20 @@
     "related": [
       "ARM",
       "RUS"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Khachapuri, cheese-filled bread, and khinkali, big soup dumplings."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Polyphonic singing in several voices is listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "A supra, a big feast, is led by a tamada, who gives long, poetic toasts."
+      }
     ]
   },
   "sport": {

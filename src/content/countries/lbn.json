@@ -5,7 +5,17 @@
     "Lebanon is a small country on the eastern shore of the Mediterranean, between Syria and Israel. Its capital and largest city is Beirut. Its coast was home to the ancient Phoenicians, who spread an early alphabet around the Mediterranean. Lebanon became independent from France in 1943. It has many religious communities, and political power is shared between them."
   ],
   "geography": {
-    "text": "Two mountain ranges run down Lebanon: the Mount Lebanon range near the coast and the Anti-Lebanon range along the border with Syria. Between them lies the fertile Beqaa Valley. The cedar tree, which grows in the mountains, appears on the national flag."
+    "text": "Two mountain ranges run down Lebanon: the Mount Lebanon range near the coast and the Anti-Lebanon range along the border with Syria. Between them lies the fertile Beqaa Valley. The cedar tree, which grows in the mountains, appears on the national flag.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mediterranean on the coast, with snowy mountains in winter."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Migrating storks and eagles pass over in huge numbers."
+      }
+    ]
   },
   "history": {
     "text": "Lebanon's coast was home to the Phoenician cities of Tyre, Sidon and Byblos, one of the oldest continuously inhabited towns in the world. After Ottoman rule and a French mandate, Lebanon became independent in 1943. A civil war from 1975 to 1990 devastated the country, and in 2020 a huge explosion in Beirut's port killed more than 200 people.",
@@ -74,6 +84,20 @@
     "related": [
       "SYR",
       "FRA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Mezze: hummus, tabbouleh, kibbeh and falafel."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Singers such as Fairuz and a long tradition of poetry and publishing."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Families gather for big Sunday lunches."
+      }
     ]
   },
   "sport": {

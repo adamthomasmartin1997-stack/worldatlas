@@ -5,7 +5,17 @@
     "Armenia is a landlocked country in the South Caucasus, where Europe meets Asia. Its capital and largest city is Yerevan, one of the oldest continuously inhabited cities in the world. In the early 300s Armenia became the first country to adopt Christianity as its official religion. It became independent from the Soviet Union in 1991, and the Armenian language has its own unique alphabet."
   ],
   "geography": {
-    "text": "Armenia is a mountainous country, and most of it lies more than 1,000 metres above sea level. Lake Sevan, one of the largest high-altitude freshwater lakes in the world, lies in the east. Mount Ararat, a national symbol that can be seen from Yerevan, stands just across the border in Türkiye."
+    "text": "Armenia is a mountainous country, and most of it lies more than 1,000 metres above sea level. Lake Sevan, one of the largest high-altitude freshwater lakes in the world, lies in the east. Mount Ararat, a national symbol that can be seen from Yerevan, stands just across the border in Türkiye.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot, dry summers and cold, snowy winters on a high plateau."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The rare Caucasian leopard and the Armenian mouflon live in the mountains."
+      }
+    ]
   },
   "history": {
     "text": "Armenia is one of the oldest nations in the world, and in 301 it became the first state to adopt Christianity. Its lands were later fought over by the Persian, Ottoman and Russian empires. During the First World War, between 600,000 and 1.5 million Armenians were killed in the genocide carried out by the Ottoman government. Armenia became independent in 1991.",
@@ -77,6 +87,20 @@
     "related": [
       "TUR",
       "GEO"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Lavash flatbread, khorovats barbecue and dolma, stuffed vine leaves."
+      },
+      {
+        "title": "Music and arts",
+        "text": "The duduk, a woodwind instrument made from apricot wood, has a haunting sound listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "On Vardavar, a summer festival, people throw water at each other in the streets."
+      }
     ]
   },
   "sport": {

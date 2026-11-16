@@ -5,7 +5,17 @@
     "Kyrgyzstan is a landlocked, mountainous country in Central Asia. Its capital and largest city is Bishkek. Kyrgyzstan became independent from the Soviet Union in 1991. Many Kyrgyz people were traditionally nomadic herders, and yurts and horses are still important in the country's culture."
   ],
   "geography": {
-    "text": "Most of Kyrgyzstan is covered by the Tian Shan and Pamir mountain ranges, and nearly all of it lies more than 1,000 metres above sea level. Issyk-Kul in the north-east is one of the largest mountain lakes in the world and does not freeze in winter. The fertile Fergana Valley lies in the south-west."
+    "text": "Most of Kyrgyzstan is covered by the Tian Shan and Pamir mountain ranges, and nearly all of it lies more than 1,000 metres above sea level. Issyk-Kul in the north-east is one of the largest mountain lakes in the world and does not freeze in winter. The fertile Fergana Valley lies in the south-west.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Cold winters and warm summers, with mountain weather in most of the country."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Snow leopards, Marco Polo sheep and golden eagles."
+      }
+    ]
   },
   "history": {
     "text": "Kyrgyz people have lived as herders in the Tian Shan mountains for centuries, and the Silk Road passed through the region. Russia took control in the 1800s, and it became a Soviet republic. Kyrgyzstan became independent in 1991, and protests have toppled its government several times since.",
@@ -74,6 +84,20 @@
     "related": [
       "KAZ",
       "CHN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Beshbarmak and kymyz, fermented mare's milk."
+      },
+      {
+        "title": "Music and arts",
+        "text": "The Manas epic and the komuz, a three-stringed lute."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Shepherds take their animals to summer pastures, living in yurts."
+      }
     ]
   },
   "sport": {

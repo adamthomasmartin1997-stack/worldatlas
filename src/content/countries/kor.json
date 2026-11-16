@@ -5,7 +5,17 @@
     "South Korea is a country in East Asia, on the southern half of the Korean Peninsula. Its capital and largest city is Seoul. Korea was divided after the Second World War, and the Korean War of 1950–53 ended with a ceasefire but no peace treaty. South Korea grew rapidly into one of the world's leading economies and is known for its technology, cars, films and K-pop."
   ],
   "geography": {
-    "text": "About 70 percent of South Korea is mountainous, with the Taebaek Mountains running down the east. Most people live on the plains and in the river valleys of the west. It has coasts on the Yellow Sea, the Korea Strait and the Sea of Japan, and thousands of islands, the largest being Jeju, a volcanic island with the country's highest peak, Hallasan."
+    "text": "About 70 percent of South Korea is mountainous, with the Taebaek Mountains running down the east. Most people live on the plains and in the river valleys of the west. It has coasts on the Yellow Sea, the Korea Strait and the Sea of Japan, and thousands of islands, the largest being Jeju, a volcanic island with the country's highest peak, Hallasan.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Cold winters, hot humid summers and a rainy season."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The demilitarised zone has become a refuge for cranes and other wildlife."
+      }
+    ]
   },
   "history": {
     "text": "Korea was united for centuries under kingdoms such as Silla, Goryeo and Joseon; under King Sejong in the 1440s the Korean alphabet, Hangul, was created. Japan ruled Korea from 1910 to 1945. After the Korean War of 1950–53, South Korea grew from one of the poorest countries in the world into a wealthy democracy.",
@@ -76,6 +86,20 @@
     "related": [
       "PRK",
       "JPN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Kimchi, bibimbap and Korean barbecue."
+      },
+      {
+        "title": "Music and arts",
+        "text": "K-pop, K-dramas and pansori, a traditional storytelling song listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "At Chuseok, the autumn harvest festival, families visit ancestral homes and make songpyeon rice cakes."
+      }
     ]
   },
   "sport": {

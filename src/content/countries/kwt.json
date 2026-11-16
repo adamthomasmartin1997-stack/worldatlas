@@ -5,7 +5,17 @@
     "Kuwait is a small country at the northern end of the Persian Gulf, between Iraq and Saudi Arabia. Its capital is Kuwait City. Kuwait became independent from British protection in 1961. In 1990 it was invaded by Iraq, and it was freed in the Gulf War of 1991. Oil has made it one of the richest countries in the world."
   ],
   "geography": {
-    "text": "Kuwait is flat, dry desert with extremely hot summers. Kuwait Bay cuts into its coast, and it has a few islands, the largest being Bubiyan. There are no rivers or lakes, and most of its fresh water comes from taking the salt out of seawater."
+    "text": "Kuwait is flat, dry desert with extremely hot summers. Kuwait Bay cuts into its coast, and it has a few islands, the largest being Bubiyan. There are no rivers or lakes, and most of its fresh water comes from taking the salt out of seawater.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Extremely hot summers, often above 50 °C, and mild winters."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Migrating birds stop on the coast and islands."
+      }
+    ]
   },
   "history": {
     "text": "Kuwait grew as a trading and pearl-diving port, ruled by the Al Sabah family since the 1700s. It became a British protectorate in 1899 and found oil in 1938. Kuwait became independent in 1961. In 1990 Iraq invaded and occupied it, until a US-led coalition drove Iraqi forces out in 1991.",
@@ -82,6 +92,20 @@
     "related": [
       "IRQ",
       "SAU"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Machboos, spiced rice with meat, is the national dish."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Sadu weaving, made by Bedouin women, is listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Gergean, in the middle of Ramadan, sees children go door to door for sweets."
+      }
     ]
   },
   "sport": {

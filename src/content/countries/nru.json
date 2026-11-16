@@ -5,7 +5,17 @@
     "Nauru is a tiny island country in the central Pacific and the smallest republic in the world. It has no official capital; government offices are in the district of Yaren. Nauru became independent in 1968. It grew rich from mining phosphate, but most of the phosphate has now been dug up."
   ],
   "geography": {
-    "text": "Nauru is a single raised coral island, ringed by a reef and a narrow coastal strip where most people live. The central plateau, called Topside, was mined for phosphate for decades, leaving a landscape of jagged limestone pinnacles where little can grow."
+    "text": "Nauru is a single raised coral island, ringed by a reef and a narrow coastal strip where most people live. The central plateau, called Topside, was mined for phosphate for decades, leaving a landscape of jagged limestone pinnacles where little can grow.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid all year."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Nauru reed warbler, found only on the island."
+      }
+    ]
   },
   "history": {
     "text": "Nauru was settled by Micronesian and Polynesian peoples. It became a German colony in 1888, and phosphate mining began in 1906. After the First World War it was run jointly by Australia, Britain and New Zealand. Nauru became independent in 1968 and for a time was one of the richest countries in the world per person, until the phosphate began to run out.",
@@ -69,6 +79,20 @@
     ],
     "related": [
       "AUS"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Coconut fish and imported foods."
+      },
+      {
+        "title": "Music and arts",
+        "text": "String figure games are a traditional art."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Angam Day, 26 October, celebrates the survival of the Nauruan people."
+      }
     ]
   },
   "sport": {

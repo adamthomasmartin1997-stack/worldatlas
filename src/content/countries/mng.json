@@ -5,7 +5,17 @@
     "Mongolia is a landlocked country in East Asia, between Russia and China. Its capital, Ulaanbaatar, is home to almost half of the population and is the coldest capital city in the world. In the 1200s Genghis Khan founded the Mongol Empire, which became the largest connected land empire in history. Many Mongolians still herd animals and live in traditional round tents called gers."
   ],
   "geography": {
-    "text": "Mongolia is one of the most thinly populated countries in the world. The north and west have mountains, forests and lakes, the centre and east are vast grassy steppes, and the south is the Gobi Desert, where many dinosaur fossils have been found. Winters are long and bitterly cold."
+    "text": "Mongolia is one of the most thinly populated countries in the world. The north and west have mountains, forests and lakes, the centre and east are vast grassy steppes, and the south is the Gobi Desert, where many dinosaur fossils have been found. Winters are long and bitterly cold.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Very cold winters, often below −30 °C, and short, warm summers."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Wild Przewalski's horses, Bactrian camels and snow leopards."
+      }
+    ]
   },
   "history": {
     "text": "In 1206 Genghis Khan united the Mongol tribes and began building the largest connected land empire in history, which stretched from Korea to eastern Europe. After the empire broke up, Mongolia later came under China's Qing dynasty. It declared independence in 1911 and became a communist state allied with the Soviet Union in 1924. A peaceful revolution in 1990 brought democracy.",
@@ -85,6 +95,20 @@
     "related": [
       "CHN",
       "RUS"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Buuz, steamed meat dumplings, and airag, fermented mare's milk."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Throat singing and the morin khuur, a horsehead fiddle."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Tsagaan Sar, the Lunar New Year, is spent visiting relatives and eating buuz."
+      }
     ]
   },
   "sport": {

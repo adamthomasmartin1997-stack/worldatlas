@@ -5,7 +5,17 @@
     "Nepal is a landlocked country in the Himalayas, between China and India. Its capital and largest city is Kathmandu. Nepal is the birthplace of the Buddha, who was born in Lumbini. It was a kingdom for centuries until it became a federal republic in 2008, and it has the only national flag in the world that is not a rectangle."
   ],
   "geography": {
-    "text": "Nepal rises from the hot, flat Terai plains in the south to the highest mountains on Earth in the north. Eight of the world's ten highest peaks are in Nepal, including Mount Everest on the border with China. Between them lie hills and valleys, such as the Kathmandu Valley, cut by rivers flowing south towards the Ganges."
+    "text": "Nepal rises from the hot, flat Terai plains in the south to the highest mountains on Earth in the north. Eight of the world's ten highest peaks are in Nepal, including Mount Everest on the border with China. Between them lie hills and valleys, such as the Kathmandu Valley, cut by rivers flowing south towards the Ganges.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot in the southern plains and freezing in the Himalaya, with summer monsoon rains."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Bengal tigers, one-horned rhinos, red pandas and snow leopards."
+      }
+    ]
   },
   "history": {
     "text": "The Kathmandu Valley has been a centre of Hindu and Buddhist culture for well over a thousand years. In 1768 Prithvi Narayan Shah unified Nepal. Nepal was never colonised, although its Gurkha soldiers have served in the British army for two centuries. A civil war from 1996 to 2006 was followed by the end of the monarchy in 2008.",
@@ -75,6 +85,20 @@
     "related": [
       "IND",
       "CHN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Dal bhat, lentils with rice, eaten twice a day, and momo dumplings."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Newar woodcarving and metalwork in the Kathmandu Valley."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Dashain, the biggest festival, lasts 15 days and includes flying kites."
+      }
     ]
   },
   "sport": {

@@ -5,7 +5,17 @@
     "North Korea is a country in East Asia, on the northern half of the Korean Peninsula. Its capital and largest city is Pyongyang. Korea was divided after the Second World War, and the Korean War of 1950–53 ended with a ceasefire but no peace treaty. North Korea is ruled by a single party led by one family, and it is one of the most closed-off countries in the world."
   ],
   "geography": {
-    "text": "North Korea is mostly mountainous, with narrow coastal plains along the Yellow Sea to the west and the Sea of Japan to the east. Mount Paektu, a volcano on the border with China, is its highest peak. The Yalu and Tumen rivers form most of its northern border."
+    "text": "North Korea is mostly mountainous, with narrow coastal plains along the Yellow Sea to the west and the Sea of Japan to the east. Mount Paektu, a volcano on the border with China, is its highest peak. The Yalu and Tumen rivers form most of its northern border.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Very cold winters and hot, rainy summers."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Red-crowned cranes and other birds use the demilitarised zone as a wildlife refuge."
+      }
+    ]
   },
   "history": {
     "text": "Korea was united for centuries under kingdoms such as Goryeo and Joseon, then ruled by Japan from 1910 to 1945. After the Second World War the north was occupied by the Soviet Union and the south by the United States. Kim Il Sung founded North Korea in 1948 and invaded the South in 1950, starting the Korean War. His family has ruled ever since, and the country has developed nuclear weapons.",
@@ -78,6 +88,20 @@
     "related": [
       "KOR",
       "CHN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Naengmyeon, cold buckwheat noodles, and kimchi."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Large-scale performances and state-approved music and film."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The Lunar New Year and Chuseok harvest festival are family holidays."
+      }
     ]
   },
   "sport": {

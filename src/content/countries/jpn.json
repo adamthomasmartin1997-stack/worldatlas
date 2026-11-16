@@ -5,7 +5,17 @@
     "Japan is an island country in East Asia, in the Pacific Ocean. Its capital, Tokyo, is the centre of the largest metropolitan area in the world. Japan has an emperor, but power lies with an elected parliament. It has one of the world's largest economies and is known for its technology, cars and food, and for culture ranging from anime to the traditional tea ceremony."
   ],
   "geography": {
-    "text": "Japan is made up of four main islands, Honshu, Hokkaido, Kyushu and Shikoku, and thousands of smaller ones. About three-quarters of the land is mountainous, so most people live on narrow coastal plains. Japan sits where several tectonic plates meet, so it has many volcanoes, including Mount Fuji, its highest peak, and frequent earthquakes."
+    "text": "Japan is made up of four main islands, Honshu, Hokkaido, Kyushu and Shikoku, and thousands of smaller ones. About three-quarters of the land is mountainous, so most people live on narrow coastal plains. Japan sits where several tectonic plates meet, so it has many volcanoes, including Mount Fuji, its highest peak, and frequent earthquakes.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Snowy winters in the north, hot humid summers in the south, and a rainy season in early summer."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Snow monkeys that bathe in hot springs, cranes and the Japanese serow."
+      }
+    ]
   },
   "history": {
     "text": "Japan was ruled for centuries by emperors and, in practice, by military leaders called shoguns. In 1868 the Meiji Restoration opened Japan to the world and began rapid modernisation. Japan built an empire across East Asia and fought in the Second World War, which ended after the atomic bombings of Hiroshima and Nagasaki in 1945. It then rebuilt into one of the world's largest economies.",
@@ -80,6 +90,20 @@
       "KOR",
       "CHN",
       "USA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Sushi, ramen, tempura and miso soup; Japanese food is listed by UNESCO."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Anime, manga, kabuki theatre and woodblock prints such as The Great Wave."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Hanami, picnics under cherry blossoms in spring, and Obon, a summer festival to honour ancestors."
+      }
     ]
   },
   "sport": {

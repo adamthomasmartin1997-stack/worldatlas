@@ -5,7 +5,17 @@
     "The Maldives is an island country in the Indian Ocean, south-west of India. Its capital, Malé, is one of the most densely populated cities in the world. The Maldives became independent from British protection in 1965. Tourism, especially resorts on their own private islands, is the biggest part of its economy."
   ],
   "geography": {
-    "text": "The Maldives is made up of around 1,200 coral islands grouped into 26 atolls. It is the lowest-lying country in the world, with most land only about a metre above sea level, which makes it very vulnerable to rising seas. Its coral reefs and lagoons are famous for their marine life."
+    "text": "The Maldives is made up of around 1,200 coral islands grouped into 26 atolls. It is the lowest-lying country in the world, with most land only about a metre above sea level, which makes it very vulnerable to rising seas. Its coral reefs and lagoons are famous for their marine life.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical and warm all year, with two monsoon seasons."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Manta rays, whale sharks and coral reefs."
+      }
+    ]
   },
   "history": {
     "text": "The Maldives was Buddhist for centuries before converting to Islam in 1153. It was a sultanate for more than 800 years, at times under Portuguese occupation and later under British protection. The Maldives became independent in 1965 and a republic in 1968. The 2004 Indian Ocean tsunami caused major damage.",
@@ -73,6 +83,20 @@
     "related": [
       "IND",
       "LKA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Mas huni, tuna with coconut and onion, eaten for breakfast."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Bodu beru, 'big drum' music and dance."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Eid festivals are marked with music, games and family feasts."
+      }
     ]
   },
   "sport": {

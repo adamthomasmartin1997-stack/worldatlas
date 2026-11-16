@@ -5,7 +5,17 @@
     "Timor-Leste, also called East Timor, is a country in South-East Asia covering the eastern half of the island of Timor. Its capital and largest city is Dili. Timor-Leste was a Portuguese colony for centuries and was occupied by Indonesia from 1975; it became independent in 2002. Tetum and Portuguese are its official languages."
   ],
   "geography": {
-    "text": "Timor-Leste is mountainous, with a range running along the length of the island and narrow coastal plains. The country also includes the enclave of Oecusse, inside Indonesian West Timor, and the small islands of Atauro and Jaco. The seas around Atauro have some of the richest coral reefs in the world."
+    "text": "Timor-Leste is mountainous, with a range running along the length of the island and narrow coastal plains. The country also includes the enclave of Oecusse, inside Indonesian West Timor, and the small islands of Atauro and Jaco. The seas around Atauro have some of the richest coral reefs in the world.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical, with a wet and a dry season."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Coral reefs and whales off the coast of Atauro Island."
+      }
+    ]
   },
   "history": {
     "text": "Portugal colonised Timor from the 1500s. When Portuguese rule ended in 1975, Indonesia invaded, and the occupation that followed cost the lives of more than 100,000 people. In 1999 the East Timorese voted for independence in a UN-run referendum, and the country became independent in 2002.",
@@ -74,6 +84,20 @@
       "IDN",
       "PRT",
       "AUS"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Ikan sabuko, grilled fish, and batar daan, corn and bean stew."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Tais weaving, listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Traditional sacred houses, uma lulik, are central to community life."
+      }
     ]
   },
   "sport": {

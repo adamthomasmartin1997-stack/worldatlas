@@ -5,7 +5,17 @@
     "Singapore is a city-state on the southern tip of the Malay Peninsula. It became independent in 1965, after two years as part of Malaysia, and in a few decades grew into one of the world's richest countries and busiest ports. English, Malay, Mandarin and Tamil are all official languages."
   ],
   "geography": {
-    "text": "Singapore is made up of one main island and around 60 smaller ones, separated from Malaysia by the narrow Johor Strait. It is low-lying, and land reclaimed from the sea has made the country about a quarter bigger since the 1960s. Although it is one of the most densely populated countries, it calls itself a 'city in a garden', with many parks and nature reserves."
+    "text": "Singapore is made up of one main island and around 60 smaller ones, separated from Malaysia by the narrow Johor Strait. It is low-lying, and land reclaimed from the sea has made the country about a quarter bigger since the 1960s. Although it is one of the most densely populated countries, it calls itself a 'city in a garden', with many parks and nature reserves.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid all year, with frequent rain."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Otters live in the city's rivers, and hornbills have returned."
+      }
+    ]
   },
   "history": {
     "text": "Singapore was a small fishing and trading settlement when Stamford Raffles set up a British trading post there in 1819, and it grew into a major port. Japan occupied it during the Second World War. Singapore joined Malaysia in 1963, became independent in 1965 and, under Lee Kuan Yew, grew into one of the world's richest countries.",
@@ -77,6 +87,20 @@
       "MYS",
       "CHN",
       "IND"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Chicken rice, chilli crab and laksa from hawker centres."
+      },
+      {
+        "title": "Music and arts",
+        "text": "A mix of Chinese, Malay and Indian performing arts."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Chinese New Year, Hari Raya and Deepavali are all public holidays."
+      }
     ]
   },
   "sport": {

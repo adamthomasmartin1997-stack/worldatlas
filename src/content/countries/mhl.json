@@ -5,7 +5,17 @@
     "The Marshall Islands is a country of coral atolls and islands in the North Pacific. Its capital is Majuro. Run by the United States after the Second World War, it became independent in 1986 and keeps close ties with the US. In the 1940s and 1950s the United States tested nuclear weapons at Bikini and Enewetak atolls."
   ],
   "geography": {
-    "text": "The country is made up of 29 atolls and 5 single islands, arranged in two roughly parallel chains. The land is low and flat, mostly only a few metres above sea level, and Kwajalein atoll encloses one of the largest lagoons in the world."
+    "text": "The country is made up of 29 atolls and 5 single islands, arranged in two roughly parallel chains. The land is low and flat, mostly only a few metres above sea level, and Kwajalein atoll encloses one of the largest lagoons in the world.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid, with a risk of typhoons."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Coral reefs full of fish and sharks."
+      }
+    ]
   },
   "history": {
     "text": "Marshallese navigators crossed the open ocean using stick charts that mapped the patterns of waves. The islands were claimed by Germany and then Japan, and were captured by the United States in the Second World War. Between 1946 and 1958 the US tested 67 nuclear weapons at Bikini and Enewetak. The Marshall Islands became independent in 1986, in free association with the United States.",
@@ -79,6 +89,20 @@
     ],
     "related": [
       "USA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Breadfruit, pandanus and fish."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Stick charts and woven handicrafts."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "A child's first birthday, kemem, is a big celebration."
+      }
     ]
   },
   "sport": {

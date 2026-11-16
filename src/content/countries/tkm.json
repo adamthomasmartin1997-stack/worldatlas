@@ -5,7 +5,17 @@
     "Turkmenistan is a country in Central Asia, on the eastern shore of the Caspian Sea. Its capital and largest city is Ashgabat, known for its white marble buildings. Turkmenistan became independent from the Soviet Union in 1991. It has some of the largest natural gas reserves in the world and is one of the most closed-off countries."
   ],
   "geography": {
-    "text": "Most of Turkmenistan is covered by the Karakum Desert. Mountains run along the border with Iran in the south, and the Amu Darya river flows along part of the north-east. In the desert, the Darvaza gas crater, nicknamed the 'Door to Hell', has been burning for decades."
+    "text": "Most of Turkmenistan is covered by the Karakum Desert. Mountains run along the border with Iran in the south, and the Amu Darya river flows along part of the north-east. In the desert, the Darvaza gas crater, nicknamed the 'Door to Hell', has been burning for decades.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Very hot summers and cold winters in the desert."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Goitered gazelles and Asiatic wild asses."
+      }
+    ]
   },
   "history": {
     "text": "The ancient city of Merv was one of the great cities of the Silk Road. Turkmen tribes lived in the region for centuries before Russia conquered it in the 1880s. Turkmenistan became independent from the Soviet Union in 1991, and its first president, Saparmurat Niyazov, built a powerful personality cult.",
@@ -69,6 +79,20 @@
     "related": [
       "IRN",
       "UZB"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Plov and dograma, bread with meat broth."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Carpets with gul patterns, shown on the national flag."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "A national holiday celebrates the Akhal-Teke horse every April."
+      }
     ]
   },
   "sport": {

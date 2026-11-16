@@ -5,7 +5,17 @@
     "Qatar is a small country on a peninsula in the Persian Gulf, bordering Saudi Arabia. Its capital and largest city is Doha. Qatar became independent from British protection in 1971 and is ruled by an emir. Its huge reserves of natural gas have made it one of the richest countries in the world, and in 2022 it hosted the football World Cup."
   ],
   "geography": {
-    "text": "Qatar is a low, flat peninsula of desert and gravel plains, with sand dunes in the south-east around Khor Al Adaid, the 'Inland Sea', a tidal bay surrounded by dunes. Summers are extremely hot, there are no rivers, and most of its water comes from desalinating seawater."
+    "text": "Qatar is a low, flat peninsula of desert and gravel plains, with sand dunes in the south-east around Khor Al Adaid, the 'Inland Sea', a tidal bay surrounded by dunes. Summers are extremely hot, there are no rivers, and most of its water comes from desalinating seawater.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Very hot summers and mild winters, with very little rain."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Arabian oryx, the national animal, and dugongs in the Gulf."
+      }
+    ]
   },
   "history": {
     "text": "Qatar was a centre of pearl diving and has been ruled by the Al Thani family since the mid-1800s. It became a British protectorate in 1916, found oil in 1939 and became independent in 1971. Huge offshore gas reserves, found in the 1970s, made it one of the richest countries in the world, and it hosted the 2022 football World Cup.",
@@ -73,6 +83,20 @@
     "related": [
       "SAU",
       "ARE"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Machboos, spiced rice with meat."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Falconry and the Museum of Islamic Art."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "National Day, 18 December, is celebrated with parades and dhow races."
+      }
     ]
   },
   "sport": {

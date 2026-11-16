@@ -5,7 +5,17 @@
     "Türkiye, also known as Turkey, lies mostly in Western Asia, with a small part in south-eastern Europe. Its capital is Ankara, but its largest city is Istanbul, which sits on both sides of the Bosphorus strait. Modern Türkiye was founded in 1923 by Mustafa Kemal Atatürk, after the fall of the Ottoman Empire, which had ruled much of the region for more than 600 years."
   ],
   "geography": {
-    "text": "Most of Türkiye is the Anatolian peninsula, a high central plateau ringed by mountains. It has coasts on four seas: the Black Sea, the Mediterranean, the Aegean and the Sea of Marmara. In the east are high mountains, including Mount Ararat, the country's highest peak, and the sources of the Tigris and Euphrates rivers. Earthquakes are common."
+    "text": "Most of Türkiye is the Anatolian peninsula, a high central plateau ringed by mountains. It has coasts on four seas: the Black Sea, the Mediterranean, the Aegean and the Sea of Marmara. In the east are high mountains, including Mount Ararat, the country's highest peak, and the sources of the Tigris and Euphrates rivers. Earthquakes are common.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mediterranean on the coasts, with cold winters on the Anatolian plateau."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Van cats with odd-coloured eyes, and loggerhead turtles on the beaches."
+      }
+    ]
   },
   "history": {
     "text": "Anatolia was home to some of the world's earliest settlements and to empires such as the Hittites and the Byzantines. In 1453 the Ottomans captured Constantinople, now Istanbul, and their empire ruled much of south-eastern Europe, the Middle East and North Africa for centuries. After its defeat in the First World War, Mustafa Kemal Atatürk founded the modern Republic of Türkiye in 1923.",
@@ -77,6 +87,20 @@
     "related": [
       "GRC",
       "AZE"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Kebabs, meze, baklava and Turkish delight."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Ebru, marbled paper art, and the music of the whirling dervishes."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Tea is offered to guests everywhere, served in tulip-shaped glasses."
+      }
     ]
   },
   "sport": {

@@ -5,7 +5,17 @@
     "Papua New Guinea covers the eastern half of the island of New Guinea and many smaller islands. Its capital and largest city is Port Moresby. It became independent from Australia in 1975. Papua New Guinea is one of the most culturally diverse countries in the world: more than 800 languages are spoken there."
   ],
   "geography": {
-    "text": "A high mountain range runs along the centre of the mainland, with valleys where many people live in small farming communities. Much of the country is covered by tropical rainforest, some of the largest areas of rainforest left in the world. It lies on the Pacific Ring of Fire and has active volcanoes, and its many islands include New Britain and Bougainville."
+    "text": "A high mountain range runs along the centre of the mainland, with valleys where many people live in small farming communities. Much of the country is covered by tropical rainforest, some of the largest areas of rainforest left in the world. It lies on the Pacific Ring of Fire and has active volcanoes, and its many islands include New Britain and Bougainville.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical and humid, cooler in the highlands."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Birds of paradise and tree kangaroos."
+      }
+    ]
   },
   "history": {
     "text": "People have lived in New Guinea for at least 40,000 years, and its highlands were one of the first places in the world where farming developed. In the 1880s the north was claimed by Germany and the south by Britain, which later handed it to Australia. Papua New Guinea became independent from Australia in 1975.",
@@ -82,6 +92,20 @@
     "related": [
       "AUS",
       "IDN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Mumu, food cooked in an earth oven."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Carvings from the Sepik River and bilum string bags."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Highland sing-sing festivals bring together hundreds of groups."
+      }
     ]
   },
   "sport": {

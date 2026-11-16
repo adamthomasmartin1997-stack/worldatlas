@@ -5,7 +5,17 @@
     "Laos is the only landlocked country in South-East Asia. Its capital and largest city is Vientiane. Laos became independent from France in 1953 and has been a communist state since 1975. Most people are Buddhist, and the old royal city of Luang Prabang is a UNESCO World Heritage Site."
   ],
   "geography": {
-    "text": "Laos is mostly mountainous and covered in forest. The Mekong river runs through much of the country and forms a long stretch of the border with Thailand. In the far south it spreads out among the 'Four Thousand Islands' and plunges over the Khone Falls. The Plain of Jars in the north is scattered with large ancient stone jars."
+    "text": "Laos is mostly mountainous and covered in forest. The Mekong river runs through much of the country and forms a long stretch of the border with Thailand. In the far south it spreads out among the 'Four Thousand Islands' and plunges over the Khone Falls. The Plain of Jars in the north is scattered with large ancient stone jars.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical, with a wet monsoon season from May to October."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Asian elephants, and Irrawaddy dolphins in the Mekong."
+      }
+    ]
   },
   "history": {
     "text": "The kingdom of Lan Xang, the 'land of a million elephants', was founded in 1353. Laos later came under Siamese control and then became part of French Indochina. It became independent in 1953. During the Vietnam War, the United States dropped more bombs on Laos than it dropped on Germany and Japan together in the Second World War, and the communist Pathet Lao took power in 1975.",
@@ -80,6 +90,20 @@
       "THA",
       "VNM",
       "CHN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Larb, a minced meat salad with herbs, eaten with sticky rice."
+      },
+      {
+        "title": "Music and arts",
+        "text": "The khaen, a bamboo mouth organ, is listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "At Lao New Year in April, people splash water on each other for good luck."
+      }
     ]
   },
   "sport": {

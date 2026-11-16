@@ -5,7 +5,17 @@
     "Israel is a country in Western Asia, on the eastern shore of the Mediterranean Sea. It declared independence in 1948. Israel considers Jerusalem its capital, but the city's status is disputed and most countries keep their embassies in Tel Aviv. Hebrew is the official language, and Arabic has a special status. The land is sacred to Judaism, Christianity and Islam, and the conflict between Israelis and Palestinians remains unresolved."
   ],
   "geography": {
-    "text": "Israel is small but varied. A fertile coastal plain runs along the Mediterranean, hills rise inland, and the Jordan Rift Valley runs down the east, containing the Sea of Galilee and the Dead Sea, the lowest place on land on Earth. The south is the Negev desert, which reaches the Red Sea at Eilat."
+    "text": "Israel is small but varied. A fertile coastal plain runs along the Mediterranean, hills rise inland, and the Jordan Rift Valley runs down the east, containing the Sea of Galilee and the Dead Sea, the lowest place on land on Earth. The south is the Negev desert, which reaches the Red Sea at Eilat.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mediterranean in the north and centre, desert in the south."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Ibex climb the cliffs of the Negev desert, and millions of birds fly over on migration."
+      }
+    ]
   },
   "history": {
     "text": "The land has a long history for Jewish, Christian and Muslim peoples. After the Ottoman Empire, Britain ruled Palestine from 1920. In 1948 Israel declared independence; in the war that followed, around 700,000 Palestinians fled or were driven from their homes. Israel has fought several wars with its neighbours, made peace with Egypt in 1979 and Jordan in 1994, and its conflict with the Palestinians continues.",
@@ -98,6 +108,20 @@
       "PSE",
       "JOR",
       "EGY"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Falafel, hummus, shakshuka (eggs in tomato sauce) and fresh salads."
+      },
+      {
+        "title": "Music and arts",
+        "text": "A lively music, film and TV industry, and modern dance."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Shabbat, from Friday evening to Saturday evening, is a weekly day of rest."
+      }
     ]
   },
   "sport": {

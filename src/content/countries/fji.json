@@ -5,7 +5,17 @@
     "Fiji is an island country in the South Pacific, made up of more than 300 islands. Its capital and largest city, Suva, is on the main island of Viti Levu. Fiji became independent from the United Kingdom in 1970. Most Fijians are either Indigenous Fijians or Indo-Fijians, whose ancestors came from India, and rugby is the national sport."
   ],
   "geography": {
-    "text": "Most people live on the two largest islands, Viti Levu and Vanua Levu, which are volcanic and mountainous, with rainforest on their wetter eastern sides. Many of the smaller islands are coral islands surrounded by reefs. Fiji lies in the path of tropical cyclones."
+    "text": "Most people live on the two largest islands, Viti Levu and Vanua Levu, which are volcanic and mountainous, with rainforest on their wetter eastern sides. Many of the smaller islands are coral islands surrounded by reefs. Fiji lies in the path of tropical cyclones.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical and warm all year, with a cyclone season."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Coral reefs, and the Fiji crested iguana."
+      }
+    ]
   },
   "history": {
     "text": "Fiji was settled about 3,000 years ago by the Lapita people. Its chiefs gave the islands to Britain in 1874, and the British brought workers from India to work on sugar plantations. Fiji became independent in 1970, and tensions between Indigenous Fijians and Indo-Fijians led to several coups between 1987 and 2006.",
@@ -76,6 +86,20 @@
     "related": [
       "IND",
       "AUS"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Kokoda, raw fish in coconut milk and lime."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Meke dances that tell stories."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Kava ceremonies welcome guests."
+      }
     ]
   },
   "sport": {

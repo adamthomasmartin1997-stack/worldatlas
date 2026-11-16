@@ -5,7 +5,17 @@
     "Thailand is a country in South-East Asia. Its capital and largest city is Bangkok. Thailand is the only country in South-East Asia that was never colonised by a European power. It is a constitutional monarchy, most Thai people are Buddhist, and the country is famous for its food, temples and beaches."
   ],
   "geography": {
-    "text": "Northern Thailand is mountainous and forested. The centre is a fertile plain watered by the Chao Phraya river, one of the world's great rice-growing areas, and the north-east is a dry plateau. The south is a long, narrow peninsula with coasts on the Gulf of Thailand and the Andaman Sea, dotted with islands such as Phuket."
+    "text": "Northern Thailand is mountainous and forested. The centre is a fertile plain watered by the Chao Phraya river, one of the world's great rice-growing areas, and the north-east is a dry plateau. The south is a long, narrow peninsula with coasts on the Gulf of Thailand and the Andaman Sea, dotted with islands such as Phuket.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical, with a hot season, a rainy season and a cooler season."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Asian elephants, the national animal, and gibbons."
+      }
+    ]
   },
   "history": {
     "text": "The kingdom of Sukhothai in the 1200s is often seen as the first Thai state, followed by Ayutthaya and, from 1782, the Chakri dynasty in Bangkok. Thailand, then called Siam, kept its independence while all its neighbours were colonised. It became a constitutional monarchy in 1932 and changed its name to Thailand in 1939.",
@@ -72,6 +82,20 @@
       "LAO",
       "KHM",
       "MMR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Pad thai, green curry and tom yum soup."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Khon masked dance and temple murals."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Songkran, the April New Year, turns into the world's biggest water fight."
+      }
     ]
   },
   "sport": {

@@ -5,7 +5,17 @@
     "Vietnam is a country in South-East Asia, on the eastern side of the Indochinese Peninsula. Its capital is Hanoi and its largest city is Ho Chi Minh City. Vietnam was ruled by France until the 1950s, and after the Vietnam War the country was reunited under communist rule in 1976. It is one of the world's largest exporters of coffee and rice."
   ],
   "geography": {
-    "text": "Vietnam is long and S-shaped, with a long coastline on the South China Sea. The Red River Delta in the north and the vast Mekong Delta in the south are both important rice-growing areas, joined by a narrow middle with mountains along the border with Laos. Ha Long Bay, with its thousands of limestone islands, is one of its best-known sights."
+    "text": "Vietnam is long and S-shaped, with a long coastline on the South China Sea. The Red River Delta in the north and the vast Mekong Delta in the south are both important rice-growing areas, joined by a narrow middle with mountains along the border with Laos. Ha Long Bay, with its thousands of limestone islands, is one of its best-known sights.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical in the south, with a cooler winter in the north."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Saola, one of the rarest mammals in the world, and langurs."
+      }
+    ]
   },
   "history": {
     "text": "Vietnam was under Chinese rule for about a thousand years before winning independence in 938. France colonised it in the 1800s. After defeating France in 1954, Vietnam was divided into North and South. The Vietnam War, in which the United States backed the South, ended with the North's victory in 1975, and the country was reunited in 1976. Economic reforms from 1986 opened it up.",
@@ -88,6 +98,20 @@
       "FRA",
       "CHN",
       "LAO"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Pho noodle soup, banh mi and fresh spring rolls."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Water puppetry and ca trù, a sung poetry tradition."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Tết, the Lunar New Year, is the biggest holiday, with peach blossom and lucky money."
+      }
     ]
   },
   "sport": {

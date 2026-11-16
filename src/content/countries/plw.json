@@ -5,7 +5,17 @@
     "Palau is an island country in the western Pacific, made up of about 340 islands. Its capital is Ngerulmud, and its largest town is Koror. Palau became independent in 1994 and has a close association with the United States. In 2009 it created the world's first shark sanctuary."
   ],
   "geography": {
-    "text": "Palau has volcanic islands, such as Babeldaob, the largest, and many limestone islands. The Rock Islands, small mushroom-shaped islands covered in forest, are a UNESCO World Heritage Site. Its coral reefs and clear water make it one of the best places in the world for diving."
+    "text": "Palau has volcanic islands, such as Babeldaob, the largest, and many limestone islands. The Rock Islands, small mushroom-shaped islands covered in forest, are a UNESCO World Heritage Site. Its coral reefs and clear water make it one of the best places in the world for diving.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid all year."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Jellyfish Lake, manta rays and coral reefs."
+      }
+    ]
   },
   "history": {
     "text": "Palau was settled thousands of years ago. It was ruled by Spain and Germany and then by Japan, which made Koror an important administrative centre. After fierce fighting on the island of Peleliu in 1944, it became part of a UN trust territory run by the United States. Palau became independent in 1994, in free association with the US.",
@@ -78,6 +88,20 @@
     "related": [
       "USA",
       "JPN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Taro, fish and fruit bats are traditional dishes."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Storyboards carved with legends."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Bai, traditional meeting houses, are decorated with painted stories."
+      }
     ]
   },
   "sport": {

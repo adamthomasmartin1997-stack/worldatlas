@@ -5,7 +5,17 @@
     "Vanuatu is an island country in the South Pacific, made up of about 80 islands. Its capital, Port Vila, is on the island of Efate. Vanuatu was ruled jointly by Britain and France until it became independent in 1980. Bislama, English and French are official languages, and more than 100 local languages are spoken."
   ],
   "geography": {
-    "text": "Vanuatu's islands are mostly volcanic and mountainous, covered in rainforest. Several volcanoes are active, including Mount Yasur on Tanna, where visitors can watch eruptions from the crater rim. Earthquakes and tropical cyclones are common."
+    "text": "Vanuatu's islands are mostly volcanic and mountainous, covered in rainforest. Several volcanoes are active, including Mount Yasur on Tanna, where visitors can watch eruptions from the crater rim. Earthquakes and tropical cyclones are common.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical, with a cyclone season."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Dugongs, coral reefs and active volcanoes."
+      }
+    ]
   },
   "history": {
     "text": "Vanuatu was settled about 3,000 years ago. From 1906 Britain and France ran the islands together as the New Hebrides, with two sets of laws, police and schools. Vanuatu became independent in 1980. In 2015 Cyclone Pam caused severe damage.",
@@ -82,6 +92,20 @@
     "related": [
       "GBR",
       "FRA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Lap lap, grated root vegetables baked with coconut cream."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Sand drawing, listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Land diving on Pentecost Island marks the yam harvest."
+      }
     ]
   },
   "sport": {

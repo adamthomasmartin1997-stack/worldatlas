@@ -5,7 +5,17 @@
     "Pakistan is a country in South Asia. Its capital is Islamabad and its largest city is Karachi. Pakistan was created in 1947, when British India was divided, as a homeland for the region's Muslims. It is one of the most populous countries in the world. Urdu and English are its official languages, and cricket is the most popular sport."
   ],
   "geography": {
-    "text": "Northern Pakistan has some of the highest mountains on Earth, where the Himalayas, the Karakoram and the Hindu Kush meet; K2, the world's second-highest peak, is on its border with China. The Indus river flows south through the fertile plains of Punjab and Sindh to the Arabian Sea. The west has dry plateaus and mountains, and the south-east includes part of the Thar Desert."
+    "text": "Northern Pakistan has some of the highest mountains on Earth, where the Himalayas, the Karakoram and the Hindu Kush meet; K2, the world's second-highest peak, is on its border with China. The Indus river flows south through the fertile plains of Punjab and Sindh to the Arabian Sea. The west has dry plateaus and mountains, and the south-east includes part of the Thar Desert.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot plains and deserts, and freezing high mountains in the north."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Snow leopards, markhor (the national animal) and Indus river dolphins."
+      }
+    ]
   },
   "history": {
     "text": "The Indus Valley civilisation flourished in what is now Pakistan more than 4,000 years ago, at cities such as Mohenjo-daro. The region later formed part of the Mughal Empire and British India. Pakistan was created in 1947 under Muhammad Ali Jinnah, and East Pakistan broke away as Bangladesh in 1971. Pakistan has fought several wars with India, mainly over Kashmir, and both countries have nuclear weapons.",
@@ -79,6 +89,20 @@
     "related": [
       "IND",
       "AFG"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Biryani, nihari stew and kebabs."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Qawwali music, truck art and the poetry of Allama Iqbal."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Basant, a kite-flying festival, marks the arrival of spring in Punjab."
+      }
     ]
   },
   "sport": {

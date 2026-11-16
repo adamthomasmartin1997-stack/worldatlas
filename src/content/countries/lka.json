@@ -5,7 +5,17 @@
     "Sri Lanka is an island country in the Indian Ocean, just south of India. Its largest city and main commercial centre is Colombo, and its official capital is Sri Jayawardenepura Kotte. Sri Lanka became independent from the United Kingdom in 1948. It is famous for its tea, and in 1960 it elected the world's first female prime minister, Sirimavo Bandaranaike."
   ],
   "geography": {
-    "text": "Sri Lanka has a mountainous centre, where much of its tea is grown, surrounded by lowland plains and a coastline of beaches. Adam's Peak is a sacred mountain for several religions. The climate is tropical, with two monsoon seasons a year."
+    "text": "Sri Lanka has a mountainous centre, where much of its tea is grown, surrounded by lowland plains and a coastline of beaches. Adam's Peak is a sacred mountain for several religions. The climate is tropical, with two monsoon seasons a year.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical, with two monsoons; the hill country is cooler."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Asian elephants, leopards and blue whales off the south coast."
+      }
+    ]
   },
   "history": {
     "text": "Sri Lanka has a written history going back more than 2,000 years, with ancient capitals at Anuradhapura and Polonnaruwa. The Portuguese, Dutch and British ruled the coast in turn, and Britain controlled the whole island from 1815. As Ceylon it became independent in 1948, and it took the name Sri Lanka in 1972. A civil war between the government and the Tamil Tigers lasted from 1983 to 2009.",
@@ -85,6 +95,20 @@
     "related": [
       "IND",
       "MDV"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Rice and curry and hoppers, bowl-shaped pancakes."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Kandyan dance with drums and elaborate costumes."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Sinhala and Tamil New Year in April is celebrated with games and sweets."
+      }
     ]
   },
   "sport": {

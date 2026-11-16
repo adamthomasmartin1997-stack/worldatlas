@@ -5,7 +5,17 @@
     "Tonga is an island country in the South Pacific and the only kingdom among the Pacific island nations. Its capital, Nuku'alofa, is on the main island of Tongatapu. Tonga was never colonised, although it was a British protected state until 1970. It has about 170 islands, fewer than 40 of which are lived on."
   ],
   "geography": {
-    "text": "Tonga's islands are a mix of low coral islands and higher volcanic ones. Underwater volcanoes are active nearby: in 2022 the eruption of Hunga Tonga–Hunga Ha'apai was one of the most powerful volcanic eruptions in recent history and sent a tsunami across the Pacific."
+    "text": "Tonga's islands are a mix of low coral islands and higher volcanic ones. Underwater volcanoes are active nearby: in 2022 the eruption of Hunga Tonga–Hunga Ha'apai was one of the most powerful volcanic eruptions in recent history and sent a tsunami across the Pacific.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical, slightly cooler than other Pacific islands."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Humpback whales come to breed between July and October."
+      }
+    ]
   },
   "history": {
     "text": "Tonga was settled about 3,000 years ago, and its Tu'i Tonga kings later ruled a sea-based empire across much of the South Pacific. King George Tupou I united Tonga and gave it a constitution in 1875. It became a British protected state in 1900 but was never colonised, and regained full independence in 1970.",
@@ -81,6 +91,20 @@
     "related": [
       "GBR",
       "NZL"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Lu pulu, corned beef with taro leaves and coconut cream."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Lakalaka, a sung dance listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "On Sundays almost everything closes for church and family meals."
+      }
     ]
   },
   "sport": {

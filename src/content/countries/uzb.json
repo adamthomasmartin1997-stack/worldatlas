@@ -5,7 +5,17 @@
     "Uzbekistan is a doubly landlocked country in Central Asia: it is surrounded only by other landlocked countries. Its capital and largest city is Tashkent. Cities such as Samarkand and Bukhara were great centres on the Silk Road and are famous for their blue-tiled mosques and madrasas. Uzbekistan became independent from the Soviet Union in 1991."
   ],
   "geography": {
-    "text": "Most of Uzbekistan is flat desert and steppe, including much of the Kyzylkum Desert. Mountains rise in the east, around the fertile Fergana Valley, where many people live. The Amu Darya and Syr Darya rivers once kept the Aral Sea full, but taking their water to grow cotton made the sea shrink dramatically."
+    "text": "Most of Uzbekistan is flat desert and steppe, including much of the Kyzylkum Desert. Mountains rise in the east, around the fertile Fergana Valley, where many people live. The Amu Darya and Syr Darya rivers once kept the Aral Sea full, but taking their water to grow cotton made the sea shrink dramatically.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot summers and cold winters, mostly desert and steppe."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Bukhara deer and saiga antelope."
+      }
+    ]
   },
   "history": {
     "text": "Samarkand and Bukhara were great cities on the Silk Road. In the 1300s Timur, also known as Tamerlane, built an empire with Samarkand as its capital. Russia conquered the region in the 1800s, and it became a Soviet republic. Uzbekistan became independent in 1991.",
@@ -74,6 +84,20 @@
     "related": [
       "KAZ",
       "TJK"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Plov, rice with carrots and lamb, listed by UNESCO."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Blue-tiled architecture and ikat silk weaving."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Weddings can have hundreds of guests and huge pots of plov."
+      }
     ]
   },
   "sport": {

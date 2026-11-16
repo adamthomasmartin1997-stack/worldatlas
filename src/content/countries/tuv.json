@@ -5,7 +5,17 @@
     "Tuvalu is one of the smallest countries in the world, made up of nine small islands in the central Pacific. Its capital is Funafuti. Tuvalu became independent from the United Kingdom in 1978. It earns money from fishing licences and from its internet domain name, .tv."
   ],
   "geography": {
-    "text": "All of Tuvalu's islands are low coral atolls or reef islands, with the highest land only a few metres above sea level. This makes it one of the countries most threatened by rising seas. There are no rivers, so people depend on collecting rainwater."
+    "text": "All of Tuvalu's islands are low coral atolls or reef islands, with the highest land only a few metres above sea level. This makes it one of the countries most threatened by rising seas. There are no rivers, so people depend on collecting rainwater.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid all year."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Coral reefs and seabirds."
+      }
+    ]
   },
   "history": {
     "text": "Tuvalu was settled by Polynesians. As the Ellice Islands, it was run by Britain together with the Gilbert Islands, today Kiribati. In 1974 the Ellice Islanders voted to separate, and Tuvalu became independent in 1978. In 2023 it signed a treaty with Australia offering residency to Tuvaluans threatened by climate change.",
@@ -77,6 +87,20 @@
     "related": [
       "KIR",
       "AUS"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Pulaka, a giant swamp taro, and fish."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Fatele, community song and dance."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Each island has a falekaupule, a meeting house where elders make decisions."
+      }
     ]
   },
   "sport": {

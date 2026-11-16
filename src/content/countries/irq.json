@@ -5,7 +5,17 @@
     "Iraq is a country in Western Asia. Its capital and largest city is Baghdad. The land between its two great rivers, the Tigris and the Euphrates, was ancient Mesopotamia, where some of the world's first cities and earliest writing developed. Iraq has large oil reserves. Arabic and Kurdish are official languages, and the Kurdistan Region in the north has its own government."
   ],
   "geography": {
-    "text": "The Tigris and Euphrates flow from the north-west to the south-east and join before reaching the Persian Gulf along Iraq's short coastline. The land between them is fertile, while the west is desert. The north-east rises into the Zagros mountains, and the marshes of the south are among the largest wetlands in the Middle East."
+    "text": "The Tigris and Euphrates flow from the north-west to the south-east and join before reaching the Persian Gulf along Iraq's short coastline. The land between them is fertile, while the west is desert. The north-east rises into the Zagros mountains, and the marshes of the south are among the largest wetlands in the Middle East.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Very hot, dry summers and mild winters, with snow in the northern mountains."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Mesopotamian marshes are home to water buffalo and many birds."
+      }
+    ]
   },
   "history": {
     "text": "In ancient Mesopotamia the Sumerians built some of the first cities and invented writing, and later Babylon became a great capital. Baghdad was the centre of the Islamic world under the Abbasid caliphs. After Ottoman and British rule, Iraq became independent in 1932. Saddam Hussein ruled from 1979 until a US-led invasion in 2003, which was followed by years of conflict.",
@@ -83,6 +93,20 @@
     "related": [
       "IRN",
       "SYR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Masgouf, river fish grilled over an open fire, is a national dish."
+      },
+      {
+        "title": "Music and arts",
+        "text": "The maqam, a form of classical music, is listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Families share large meals for the two Eid festivals."
+      }
     ]
   },
   "sport": {

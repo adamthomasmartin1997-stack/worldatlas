@@ -5,7 +5,17 @@
     "Brunei is a small country on the north coast of the island of Borneo, split into two parts by Malaysia. Its capital is Bandar Seri Begawan. Brunei is ruled by a sultan and became independent from the United Kingdom in 1984. Oil and gas have made it one of the wealthiest countries in Asia."
   ],
   "geography": {
-    "text": "Brunei faces the South China Sea, and most of the country is covered by tropical rainforest, much of it protected. The capital is famous for Kampong Ayer, a 'water village' of houses built on stilts over the Brunei River."
+    "text": "Brunei faces the South China Sea, and most of the country is covered by tropical rainforest, much of it protected. The capital is famous for Kampong Ayer, a 'water village' of houses built on stilts over the Brunei River.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid all year, with heavy rain."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Proboscis monkeys, with their long noses, live in the mangroves."
+      }
+    ]
   },
   "history": {
     "text": "In the 1400s and 1500s the Sultanate of Brunei controlled much of Borneo and parts of the southern Philippines. Its territory shrank greatly in the 1800s, and it became a British protectorate in 1888. Oil was found in 1929, and Brunei became fully independent in 1984.",
@@ -68,6 +78,20 @@
     ],
     "related": [
       "MYS"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Ambuyat, a sticky starch from the sago palm, eaten with sauces."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Brassware and silverwork, especially ceremonial cannons and pots."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "On the Sultan's birthday, the country celebrates with parades and fireworks."
+      }
     ]
   },
   "sport": {

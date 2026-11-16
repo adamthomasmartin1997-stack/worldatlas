@@ -5,7 +5,17 @@
     "Syria is a country in Western Asia, on the eastern shore of the Mediterranean. Its capital, Damascus, is one of the oldest continuously inhabited cities in the world. Syria became independent from France in 1946. A civil war began in 2011, forcing millions of people from their homes, and in December 2024 the government of Bashar al-Assad was overthrown."
   ],
   "geography": {
-    "text": "Syria has a short Mediterranean coast backed by mountains. Inland the land becomes drier, and much of the east and south-east is desert. The Euphrates river flows across the north-east and provides water for farming."
+    "text": "Syria has a short Mediterranean coast backed by mountains. Inland the land becomes drier, and much of the east and south-east is desert. The Euphrates river flows across the north-east and provides water for farming.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mediterranean on the coast, with a dry, hot interior."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The northern bald ibis once nested in the Syrian desert."
+      }
+    ]
   },
   "history": {
     "text": "Damascus and Aleppo are among the oldest continuously inhabited cities in the world. Damascus was the capital of the Umayyad Caliphate in the 600s and 700s. After Ottoman rule and a French mandate, Syria became independent in 1946. The Assad family ruled from 1970; a civil war began in 2011, and Bashar al-Assad's government fell in December 2024.",
@@ -88,6 +98,20 @@
       "LBN",
       "TUR",
       "JOR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Kibbeh, muhammara (red pepper dip) and Aleppo pepper."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Damascene inlaid woodwork and the shadow puppet theatre."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Coffee houses where storytellers, called hakawati, tell tales."
+      }
     ]
   },
   "sport": {

@@ -5,7 +5,17 @@
     "Afghanistan is a landlocked country in South and Central Asia. Its capital and largest city is Kabul. For centuries it sat on trade routes linking Persia, India and Central Asia, including the Silk Road. Afghanistan has been through decades of war since the late 1970s, and in 2021 the Taliban took control of the country. Pashto and Dari are its main languages."
   ],
   "geography": {
-    "text": "The Hindu Kush mountains run through the centre and north-east of Afghanistan, where peaks rise above 7,000 metres. The narrow Wakhan Corridor in the far north-east reaches out to a short border with China. The south and west are mostly dry plateaus and desert, and farming depends on rivers fed by melting mountain snow."
+    "text": "The Hindu Kush mountains run through the centre and north-east of Afghanistan, where peaks rise above 7,000 metres. The narrow Wakhan Corridor in the far north-east reaches out to a short border with China. The south and west are mostly dry plateaus and desert, and farming depends on rivers fed by melting mountain snow.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot, dry summers and very cold winters, especially in the Hindu Kush mountains."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Snow leopards, Marco Polo sheep and ibex live in the high mountains of the Wakhan Corridor."
+      }
+    ]
   },
   "history": {
     "text": "Afghanistan sat at the crossroads of empires: Alexander the Great, the Kushans, and Persian and Mughal rulers all passed through. The modern state is usually dated to 1747, under Ahmad Shah Durrani. Afghanistan fought three wars with British India and gained full independence in 1919. A Soviet invasion in 1979 began decades of war; the Taliban ruled from 1996 to 2001 and returned to power in 2021.",
@@ -80,6 +90,20 @@
     "related": [
       "IRN",
       "PAK"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Kabuli pulao, rice with carrots, raisins and lamb, is the national dish. Bread called naan is baked in clay ovens."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Poetry is deeply loved, and the rubab, a lute, is the national instrument."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Nowruz, the spring New Year, has long been celebrated with picnics and kite flying."
+      }
     ]
   },
   "sport": {

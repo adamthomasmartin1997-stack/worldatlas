@@ -5,7 +5,17 @@
     "Samoa is an island country in the South Pacific. Its capital, Apia, is on the island of Upolu. In 1962 Samoa became the first Pacific island country to gain independence in the 20th century, from New Zealand. Traditional Samoan culture, called fa'a Samoa, remains strong, and rugby is very popular."
   ],
   "geography": {
-    "text": "Samoa is made up of two large volcanic islands, Savai'i and Upolu, and several small ones. The islands rise to mountains in the centre, with rainforest, waterfalls and old lava fields, and are ringed by coral reefs and beaches."
+    "text": "Samoa is made up of two large volcanic islands, Savai'i and Upolu, and several small ones. The islands rise to mountains in the centre, with rainforest, waterfalls and old lava fields, and are ringed by coral reefs and beaches.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical, with a wet season."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The manumea, a tooth-billed pigeon found only in Samoa."
+      }
+    ]
   },
   "history": {
     "text": "Samoa was settled about 3,000 years ago. In 1899 the islands were divided: the western part became German and the eastern part American, today American Samoa. New Zealand took over Western Samoa in 1914, and it became independent in 1962. In 2011 Samoa moved to the other side of the International Date Line, skipping 30 December.",
@@ -76,6 +86,20 @@
     ],
     "related": [
       "NZL"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Palusami, taro leaves cooked in coconut cream."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Siva dance and tatau tattooing."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "On Sundays, families prepare an umu, an earth oven feast."
+      }
     ]
   },
   "sport": {

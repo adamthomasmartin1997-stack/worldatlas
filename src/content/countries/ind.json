@@ -5,7 +5,17 @@
     "India is a country in South Asia and the most populous country in the world. Its capital is New Delhi, and its biggest cities include Mumbai and Delhi. India has one of the world's oldest civilisations and is the birthplace of Hinduism, Buddhism, Jainism and Sikhism. It became independent from the United Kingdom in 1947 and is the world's largest democracy. The central government uses Hindi and English, and the constitution recognises 22 languages."
   ],
   "geography": {
-    "text": "The Himalayas, the highest mountains on Earth, form India's northern border. South of them lie the wide plains of the Ganges and other great rivers, where many people live. The centre and south form the Deccan Plateau, edged by the Western and Eastern Ghats, and the peninsula is surrounded by the Arabian Sea, the Indian Ocean and the Bay of Bengal. The Thar Desert lies in the north-west, and the summer monsoon brings most of the year's rain."
+    "text": "The Himalayas, the highest mountains on Earth, form India's northern border. South of them lie the wide plains of the Ganges and other great rivers, where many people live. The centre and south form the Deccan Plateau, edged by the Western and Eastern Ghats, and the peninsula is surrounded by the Arabian Sea, the Indian Ocean and the Bay of Bengal. The Thar Desert lies in the north-west, and the summer monsoon brings most of the year's rain.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot and humid with a summer monsoon in most of the country; freezing in the Himalaya and desert in the west."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Bengal tigers, Asian elephants, one-horned rhinos and peacocks, the national bird."
+      }
+    ]
   },
   "history": {
     "text": "The Indus Valley civilisation was one of the world's earliest. Over thousands of years India saw great empires, including the Maurya, the Gupta and the Mughals. Britain gradually took control from the 1700s. Mahatma Gandhi led a largely non-violent independence movement, and in 1947 British India was divided into India and Pakistan, a partition that caused huge violence and migration.",
@@ -89,6 +99,20 @@
       "BGD",
       "NPL",
       "GBR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Curries, dal, rice and breads such as naan and roti; food changes from region to region."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Classical dance such as Bharatanatyam, sitar music and the Bollywood film industry."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Diwali, the festival of lights, and Holi, the festival of colours, are celebrated across the country."
+      }
     ]
   },
   "sport": {

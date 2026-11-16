@@ -5,7 +5,17 @@
     "Myanmar, also called Burma, is a country in South-East Asia. Its capital is Naypyidaw, while Yangon is its largest city. Myanmar became independent from the United Kingdom in 1948. The military seized power in a coup in 2021, which led to widespread conflict. Most people are Buddhist, and the country is famous for golden pagodas such as Shwedagon."
   ],
   "geography": {
-    "text": "Myanmar is shaped by mountains that run from north to south, with the Himalayas reaching into the far north. The Irrawaddy river flows down the middle of the country to a large delta on the Andaman Sea, where much of its rice is grown. A long, narrow strip of the country runs south along the coast towards Thailand."
+    "text": "Myanmar is shaped by mountains that run from north to south, with the Himalayas reaching into the far north. The Irrawaddy river flows down the middle of the country to a large delta on the Andaman Sea, where much of its rice is grown. A long, narrow strip of the country runs south along the coast towards Thailand.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical monsoon climate, cooler in the northern hills."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Asian elephants, tigers and the Irrawaddy dolphin."
+      }
+    ]
   },
   "history": {
     "text": "From the 1000s the kingdom of Bagan built thousands of Buddhist temples on the plains of central Myanmar. Britain conquered the country in three wars in the 1800s and ruled it as part of British India. Burma became independent in 1948. The military ruled for most of the time after 1962, and after a short period of civilian government it seized power again in 2021.",
@@ -80,6 +90,20 @@
       "THA",
       "IND",
       "CHN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Mohinga, fish noodle soup, is eaten for breakfast."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Puppet theatre and lacquerware from Bagan."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Thingyan, the New Year water festival in April, involves giant water fights."
+      }
     ]
   },
   "sport": {

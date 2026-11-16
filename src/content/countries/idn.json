@@ -5,7 +5,17 @@
     "Indonesia is the world's largest country made up entirely of islands, with more than 17,000 islands between the Indian and Pacific oceans. Its capital is Jakarta, although a new capital, Nusantara, is being built on the island of Borneo. Indonesia declared independence from the Netherlands in 1945. It has the largest Muslim population of any country."
   ],
   "geography": {
-    "text": "Indonesia stretches more than 5,000 kilometres from east to west. Its largest islands include Sumatra, Java, Sulawesi, and parts of Borneo and New Guinea, which it shares with its neighbours. It lies on the Pacific Ring of Fire and has more active volcanoes than any other country. Java is one of the most densely populated islands on Earth, and much of the country is covered by tropical rainforest."
+    "text": "Indonesia stretches more than 5,000 kilometres from east to west. Its largest islands include Sumatra, Java, Sulawesi, and parts of Borneo and New Guinea, which it shares with its neighbours. It lies on the Pacific Ring of Fire and has more active volcanoes than any other country. Java is one of the most densely populated islands on Earth, and much of the country is covered by tropical rainforest.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Tropical and humid, with a wet and a dry season."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Orangutans, Komodo dragons, Sumatran tigers and birds of paradise."
+      }
+    ]
   },
   "history": {
     "text": "Indonesia's islands were home to powerful kingdoms such as Srivijaya and Majapahit, which grew rich from trade. The Dutch gradually took control from the 1600s. Indonesia declared independence in 1945 and fought the Dutch until 1949. Suharto ruled from 1967 until 1998, when Indonesia became a democracy.",
@@ -79,6 +89,20 @@
     "related": [
       "MYS",
       "NLD"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Nasi goreng, fried rice, and rendang, slow-cooked spicy beef."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Gamelan orchestras, wayang shadow puppets and batik cloth, all listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "On Nyepi, the Balinese day of silence, the whole island stops: no lights, travel or noise."
+      }
     ]
   },
   "sport": {

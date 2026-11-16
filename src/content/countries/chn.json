@@ -5,7 +5,17 @@
     "China is a country in East Asia and one of the two most populous countries in the world. Its capital is Beijing, and its largest city is Shanghai. China has one of the world's oldest continuous civilisations, and paper, printing, the compass and gunpowder were all invented there. It has been ruled by the Communist Party since 1949, and today it has the second-largest economy in the world."
   ],
   "geography": {
-    "text": "China's land falls from west to east. In the south-west, the Tibetan Plateau, the highest plateau on Earth, is bordered by the Himalayas, including Mount Everest on the border with Nepal. The north and west have deserts such as the Gobi and the Taklamakan, while most people live in the fertile east, along great rivers such as the Yellow River and the Yangtze, the longest river in Asia."
+    "text": "China's land falls from west to east. In the south-west, the Tibetan Plateau, the highest plateau on Earth, is bordered by the Himalayas, including Mount Everest on the border with Nepal. The north and west have deserts such as the Gobi and the Taklamakan, while most people live in the fertile east, along great rivers such as the Yellow River and the Yangtze, the longest river in Asia.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Everything from Siberian cold in the north-east to tropical heat in the south and dry deserts in the west."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Giant pandas, golden snub-nosed monkeys, and the South China tiger."
+      }
+    ]
   },
   "history": {
     "text": "China's history stretches back thousands of years through a series of dynasties, beginning with the first unification under the Qin in 221 BC, when the first emperor joined up earlier walls into a Great Wall. The last emperor was overthrown in 1912. After a civil war, the Communist Party founded the People's Republic in 1949. Since economic reforms began in 1978, China has become the world's second-largest economy.",
@@ -80,6 +90,20 @@
       "MNG",
       "JPN",
       "KOR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Every region has its own style: spicy Sichuan food, dim sum from Guangdong and Peking duck."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Calligraphy, Beijing opera, porcelain and the guqin, an ancient zither."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Chinese New Year, or Spring Festival, brings red lanterns, dumplings, fireworks and the biggest yearly journey home in the world."
+      }
     ]
   },
   "sport": {

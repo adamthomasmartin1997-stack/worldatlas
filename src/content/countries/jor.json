@@ -5,7 +5,17 @@
     "Jordan is a country in Western Asia, east of the Jordan River. Its capital and largest city is Amman. Jordan is a kingdom and became independent from British administration in 1946. It is home to Petra, an ancient city carved into rose-coloured rock, and it has taken in large numbers of refugees from neighbouring countries."
   ],
   "geography": {
-    "text": "Most of Jordan is desert, including the dramatic valley of Wadi Rum in the south. In the west, the Jordan Rift Valley runs down to the Dead Sea, the lowest point on land. Jordan's only coast is a short stretch on the Gulf of Aqaba, an arm of the Red Sea."
+    "text": "Most of Jordan is desert, including the dramatic valley of Wadi Rum in the south. In the west, the Jordan Rift Valley runs down to the Dead Sea, the lowest point on land. Jordan's only coast is a short stretch on the Gulf of Aqaba, an arm of the Red Sea.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mostly desert, with hot summers and cool winters; the hills can see snow."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Arabian oryx has been reintroduced, and the Red Sea at Aqaba has coral reefs."
+      }
+    ]
   },
   "history": {
     "text": "Jordan's history includes the Nabataeans, who carved the city of Petra, and Roman cities such as Jerash. After Ottoman rule, Britain created the Emirate of Transjordan in 1921, which became independent as the Hashemite Kingdom of Jordan in 1946. Jordan has taken in many refugees from conflicts in neighbouring countries and made peace with Israel in 1994.",
@@ -82,6 +92,20 @@
       "ISR",
       "PSE",
       "SAU"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Mansaf, lamb with yoghurt sauce and rice, is the national dish."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Bedouin weaving and sand bottles from Petra."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Coffee is served to guests as a sign of welcome."
+      }
     ]
   },
   "sport": {
