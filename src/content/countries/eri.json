@@ -6,5 +6,50 @@
   ],
   "geography": {
     "text": "Eritrea has a long Red Sea coastline with the Dahlak Archipelago offshore. The central highlands, where Asmara stands, are cooler and wetter, while the coast and lowlands are very hot. The Danakil Depression in the south-east, which dips below sea level, is one of the hottest places on Earth."
+  },
+  "history": {
+    "text": "The ancient Kingdom of Aksum included much of what is now Eritrea, and the port of Adulis traded with Rome and India. Italy made Eritrea a colony in 1890. After the Second World War Britain ran it, and in 1952 it was joined to Ethiopia. Eritreans fought a 30-year war for independence, which they won in 1991, and independence was confirmed by a vote in 1993.",
+    "events": [
+      {
+        "year": "1890",
+        "title": "Italian colony",
+        "text": "Italy declares Eritrea its colony.",
+        "related": [
+          "ITA"
+        ]
+      },
+      {
+        "year": "1941",
+        "title": "British control",
+        "text": "Britain takes Eritrea from Italy.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1952",
+        "title": "Federation with Ethiopia",
+        "text": "The UN joins Eritrea to Ethiopia.",
+        "related": [
+          "ETH"
+        ]
+      },
+      {
+        "year": "1961",
+        "title": "Independence war",
+        "text": "Eritreans begin fighting for independence.",
+        "related": [
+          "ETH"
+        ]
+      },
+      {
+        "year": "1993",
+        "title": "Independence",
+        "text": "Eritreans vote for independence.",
+        "related": [
+          "ETH"
+        ]
+      }
+    ]
   }
 }

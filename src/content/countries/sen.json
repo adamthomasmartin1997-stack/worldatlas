@@ -6,5 +6,48 @@
   ],
   "geography": {
     "text": "Senegal is mostly low and flat, with savanna in the centre and south and dry Sahel in the north. The Senegal river forms its northern border, and Senegal almost completely surrounds the Gambia. Near Dakar, Lac Rose is a salt lake whose water can turn pink."
+  },
+  "history": {
+    "text": "The region was part of the Ghana, Mali and Jolof empires. Gorée Island became a slave-trading post, and France gradually took control in the 1800s, making Dakar the capital of French West Africa. Senegal became independent in 1960 under the poet Léopold Sédar Senghor and has never had a military coup.",
+    "events": [
+      {
+        "year": "1444",
+        "title": "Portuguese arrive",
+        "text": "Portuguese sailors reach Cap-Vert.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1659",
+        "title": "Saint-Louis",
+        "text": "France founds Saint-Louis.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1902",
+        "title": "Dakar capital",
+        "text": "Dakar becomes capital of French West Africa.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1960",
+        "title": "Independence",
+        "text": "Senegal becomes independent.",
+        "related": [
+          "FRA",
+          "MLI"
+        ]
+      },
+      {
+        "year": "2000",
+        "title": "Peaceful change",
+        "text": "Power passes peacefully to an opposition leader."
+      }
+    ]
   }
 }

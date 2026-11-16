@@ -6,5 +6,47 @@
   ],
   "geography": {
     "text": "Northern Chad is part of the Sahara and contains the Tibesti Mountains, with their volcanic peaks. The centre is the dry Sahel, and the south is wetter savanna, where most people live. Lake Chad in the west has shrunk greatly since the 1960s."
+  },
+  "history": {
+    "text": "The Kanem-Bornu Empire ruled around Lake Chad for about a thousand years. France colonised the region in the early 1900s, and Chad became independent in 1960. Civil wars and conflict with Libya followed. Oil exports began in 2003, and the Déby family has ruled since 1990.",
+    "events": [
+      {
+        "year": "700s",
+        "title": "Kanem Empire",
+        "text": "The Kanem Empire rises near Lake Chad."
+      },
+      {
+        "year": "1900",
+        "title": "Battle of Kousséri",
+        "text": "French forces defeat the warlord Rabih az-Zubayr.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1960",
+        "title": "Independence",
+        "text": "Chad becomes independent.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1987",
+        "title": "Toyota War",
+        "text": "Chad drives Libyan forces out of the north.",
+        "related": [
+          "LBY"
+        ]
+      },
+      {
+        "year": "2003",
+        "title": "Oil exports",
+        "text": "Chad begins exporting oil through Cameroon.",
+        "related": [
+          "CMR"
+        ]
+      }
+    ]
   }
 }

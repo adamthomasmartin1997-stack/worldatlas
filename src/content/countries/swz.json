@@ -6,5 +6,42 @@
   ],
   "geography": {
     "text": "For its size, Eswatini has very varied landscapes. It steps down from the cool, mountainous highveld in the west, through the hilly middleveld, to the hot, dry lowveld in the east, with the Lebombo Mountains along the border with Mozambique."
+  },
+  "history": {
+    "text": "The Swazi kingdom was formed in the 1700s and 1800s under kings such as Sobhuza I and Mswati II, who gave the people their name. Britain made it a protectorate after the Boer War. Eswatini became independent in 1968 and is one of the world's last absolute monarchies. It was known as Swaziland until 2018.",
+    "events": [
+      {
+        "year": "1840",
+        "title": "Mswati II",
+        "text": "Mswati II becomes king and expands the kingdom."
+      },
+      {
+        "year": "1903",
+        "title": "British rule",
+        "text": "Britain takes over after the Boer War.",
+        "related": [
+          "GBR",
+          "ZAF"
+        ]
+      },
+      {
+        "year": "1968",
+        "title": "Independence",
+        "text": "Swaziland becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1973",
+        "title": "Absolute monarchy",
+        "text": "King Sobhuza II suspends the constitution."
+      },
+      {
+        "year": "2018",
+        "title": "Renamed Eswatini",
+        "text": "The king renames the country."
+      }
+    ]
   }
 }

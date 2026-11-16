@@ -6,5 +6,47 @@
   ],
   "geography": {
     "text": "The White Nile flows north through South Sudan and spreads out into the Sudd, one of the largest wetlands in the world. Much of the country is savanna and floodplain, with forests in the south and the Imatong Mountains near the border with Uganda. Huge herds of antelope migrate across its plains."
+  },
+  "history": {
+    "text": "South Sudan's peoples, including the Dinka and Nuer, have long lived as cattle herders along the Nile. Under Anglo-Egyptian rule the south was run separately from the north. After independence in 1956, the south fought two long civil wars against Sudan's government. In 2011 South Sudan voted to become independent, making it the world's newest country, but a civil war broke out in 2013.",
+    "events": [
+      {
+        "year": "1955",
+        "title": "First civil war",
+        "text": "Southern soldiers rebel against the north.",
+        "related": [
+          "SDN"
+        ]
+      },
+      {
+        "year": "1983",
+        "title": "Second civil war",
+        "text": "A second, longer war begins.",
+        "related": [
+          "SDN"
+        ]
+      },
+      {
+        "year": "2005",
+        "title": "Peace agreement",
+        "text": "A deal promises a vote on independence.",
+        "related": [
+          "SDN"
+        ]
+      },
+      {
+        "year": "2011",
+        "title": "Independence",
+        "text": "South Sudan becomes independent.",
+        "related": [
+          "SDN"
+        ]
+      },
+      {
+        "year": "2013",
+        "title": "Civil war",
+        "text": "Fighting breaks out within the new country."
+      }
+    ]
   }
 }

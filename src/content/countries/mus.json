@@ -6,5 +6,47 @@
   ],
   "geography": {
     "text": "The main island of Mauritius is volcanic, with a central plateau surrounded by mountains and a coast almost completely ringed by coral reefs. The country also includes the island of Rodrigues and several smaller, more remote islands."
+  },
+  "history": {
+    "text": "Mauritius was uninhabited until the Dutch settled it in 1638; the dodo was extinct within a century. France took it in 1715 and brought enslaved Africans to work on sugar plantations. Britain captured it in 1810 and, after slavery ended, brought workers from India. Mauritius became independent in 1968 and is now one of Africa's richest democracies.",
+    "events": [
+      {
+        "year": "1638",
+        "title": "Dutch settlement",
+        "text": "The Dutch settle the island.",
+        "related": [
+          "NLD"
+        ]
+      },
+      {
+        "year": "1680s",
+        "title": "Dodo extinct",
+        "text": "The last dodos are seen."
+      },
+      {
+        "year": "1715",
+        "title": "French rule",
+        "text": "France takes the island.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1810",
+        "title": "British capture",
+        "text": "Britain captures Mauritius.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1968",
+        "title": "Independence",
+        "text": "Mauritius becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      }
+    ]
   }
 }

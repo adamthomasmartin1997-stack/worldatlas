@@ -6,5 +6,48 @@
   ],
   "geography": {
     "text": "Seychelles has about 115 islands. The inner islands, such as Mahé and Praslin, are made of granite, with steep forested hills, while the outer islands are low coral islands. Aldabra, one of the largest atolls in the world, is home to giant tortoises, and the coco de mer palm, with the heaviest seed of any plant, grows wild only on Praslin and Curieuse."
+  },
+  "history": {
+    "text": "The Seychelles were uninhabited until French settlers arrived in 1770 with enslaved Africans. Britain took the islands in 1814. Seychelles became independent in 1976, and a coup the next year began a period of one-party rule that lasted until 1993.",
+    "events": [
+      {
+        "year": "1756",
+        "title": "French claim",
+        "text": "France claims the islands.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1770",
+        "title": "First settlers",
+        "text": "French settlers arrive with enslaved Africans.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1814",
+        "title": "British rule",
+        "text": "France gives up the islands to Britain.",
+        "related": [
+          "GBR",
+          "FRA"
+        ]
+      },
+      {
+        "year": "1976",
+        "title": "Independence",
+        "text": "Seychelles becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1993",
+        "title": "Multi-party democracy",
+        "text": "A new constitution allows opposition parties."
+      }
+    ]
   }
 }

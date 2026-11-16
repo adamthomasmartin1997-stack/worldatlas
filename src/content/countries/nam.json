@@ -6,5 +6,50 @@
   ],
   "geography": {
     "text": "The Namib Desert, one of the oldest deserts in the world, runs along the whole coast and has some of the tallest sand dunes on Earth, around Sossusvlei. Inland is a central plateau, and the Kalahari Desert lies in the east. Etosha Pan, a vast salt flat in the north, is surrounded by a famous wildlife park."
+  },
+  "history": {
+    "text": "San, Nama and Herero peoples lived in the region for a long time. Germany colonised it in 1884, and between 1904 and 1908 German forces killed tens of thousands of Herero and Nama people in what is recognised as a genocide. South Africa took control after the First World War and imposed apartheid. Namibia became independent in 1990.",
+    "events": [
+      {
+        "year": "1884",
+        "title": "German colony",
+        "text": "Germany claims South West Africa.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1904",
+        "title": "Herero and Nama genocide",
+        "text": "German troops kill tens of thousands.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1915",
+        "title": "South African rule",
+        "text": "South Africa takes the colony.",
+        "related": [
+          "ZAF"
+        ]
+      },
+      {
+        "year": "1966",
+        "title": "Independence war",
+        "text": "SWAPO begins armed resistance.",
+        "related": [
+          "ZAF"
+        ]
+      },
+      {
+        "year": "1990",
+        "title": "Independence",
+        "text": "Namibia becomes independent.",
+        "related": [
+          "ZAF"
+        ]
+      }
+    ]
   }
 }

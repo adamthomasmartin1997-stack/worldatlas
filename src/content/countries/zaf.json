@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "South Africa has coasts on both the Atlantic and Indian oceans, which meet near its southern tip. Much of the interior is a high plateau called the Highveld, edged by the Great Escarpment, including the Drakensberg mountains. The west is dry, while the east is greener. Table Mountain overlooks Cape Town, and Kruger National Park is one of Africa's largest wildlife reserves."
+  },
+  "history": {
+    "text": "The ancestors of the San and Khoekhoe lived in South Africa for many thousands of years, and Bantu-speaking peoples arrived later. The Dutch founded Cape Town in 1652, and Britain took over the Cape in 1806. Diamonds and gold brought wealth and war. From 1948 the apartheid system enforced racial segregation, until Nelson Mandela was elected president in 1994.",
+    "events": [
+      {
+        "year": "1652",
+        "title": "Cape Town",
+        "text": "The Dutch East India Company founds a supply station.",
+        "related": [
+          "NLD"
+        ]
+      },
+      {
+        "year": "1879",
+        "title": "Battle of Isandlwana",
+        "text": "The Zulu army defeats British forces.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1886",
+        "title": "Gold rush",
+        "text": "Gold is found on the Witwatersrand; Johannesburg grows."
+      },
+      {
+        "year": "1899",
+        "title": "Boer War",
+        "text": "Britain fights the Boer republics.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1948",
+        "title": "Apartheid",
+        "text": "Racial segregation becomes law."
+      },
+      {
+        "year": "1994",
+        "title": "Democracy",
+        "text": "Nelson Mandela becomes president after the first free elections."
+      }
+    ]
   }
 }

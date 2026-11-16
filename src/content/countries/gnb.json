@@ -6,5 +6,40 @@
   ],
   "geography": {
     "text": "Guinea-Bissau is low-lying, with a coastline cut by wide river mouths and mangroves. Offshore lies the Bijagós Archipelago, dozens of islands rich in wildlife, including hippos that swim in the sea and nesting sea turtles."
+  },
+  "history": {
+    "text": "The region was part of the Kaabu kingdom, linked to the Mali Empire. Portugal traded along the coast from the 1400s and later made it a colony. Amílcar Cabral led a war of independence from 1963, and Guinea-Bissau declared independence in 1973, recognised by Portugal in 1974. The country has had many coups since.",
+    "events": [
+      {
+        "year": "1446",
+        "title": "Portuguese arrive",
+        "text": "Portuguese sailors reach the coast.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1963",
+        "title": "Independence war",
+        "text": "The PAIGC begins its armed struggle.",
+        "related": [
+          "PRT",
+          "CPV"
+        ]
+      },
+      {
+        "year": "1973",
+        "title": "Cabral killed",
+        "text": "Amílcar Cabral is assassinated months before independence is declared."
+      },
+      {
+        "year": "1974",
+        "title": "Independence",
+        "text": "Portugal recognises independence.",
+        "related": [
+          "PRT"
+        ]
+      }
+    ]
   }
 }

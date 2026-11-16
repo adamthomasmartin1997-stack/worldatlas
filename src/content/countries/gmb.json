@@ -6,5 +6,47 @@
   ],
   "geography": {
     "text": "The Gambia is a narrow strip of land on both banks of the Gambia River, stretching around 300 kilometres inland but never more than about 50 kilometres wide. The land is low and flat, with mangroves and wetlands near the river and savanna further from it."
+  },
+  "history": {
+    "text": "The Gambia River was part of the Mali Empire's trade routes, and later of the Atlantic slave trade. Britain built a fort on an island in the river and took control of the land along its banks, which is why the country is a long, thin strip surrounded by Senegal. The Gambia became independent in 1965.",
+    "events": [
+      {
+        "year": "1600s",
+        "title": "Kunta Kinteh Island",
+        "text": "European traders use a fort on the river as a slave-trading post.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1816",
+        "title": "Banjul founded",
+        "text": "Britain founds Bathurst, now Banjul.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1965",
+        "title": "Independence",
+        "text": "The Gambia becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1982",
+        "title": "Senegambia",
+        "text": "A short-lived confederation with Senegal begins.",
+        "related": [
+          "SEN"
+        ]
+      },
+      {
+        "year": "2017",
+        "title": "Change of power",
+        "text": "Yahya Jammeh leaves after losing an election."
+      }
+    ]
   }
 }

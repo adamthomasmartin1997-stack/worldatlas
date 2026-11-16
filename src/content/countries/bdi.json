@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Burundi is a hilly and mountainous country on the high plateau of central Africa. In the west the land drops down to the shore of Lake Tanganyika, one of the deepest and oldest lakes in the world. One of the most southerly sources of the Nile is in Burundi."
+  },
+  "history": {
+    "text": "The Kingdom of Burundi was ruled by kings, called mwami, from around the 1600s. It became part of German East Africa in the 1890s and was run by Belgium after the First World War. Burundi became independent in 1962. Tensions between Hutu and Tutsi led to mass killings in 1972 and a civil war from 1993 to 2005.",
+    "events": [
+      {
+        "year": "1890s",
+        "title": "German rule",
+        "text": "Burundi becomes part of German East Africa.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1916",
+        "title": "Belgian control",
+        "text": "Belgian forces take over during the First World War.",
+        "related": [
+          "BEL"
+        ]
+      },
+      {
+        "year": "1962",
+        "title": "Independence",
+        "text": "Burundi becomes independent.",
+        "related": [
+          "BEL"
+        ]
+      },
+      {
+        "year": "1993",
+        "title": "Civil war",
+        "text": "The assassination of the first Hutu president starts a civil war."
+      },
+      {
+        "year": "2005",
+        "title": "New constitution",
+        "text": "Peace agreements lead to elections."
+      }
+    ]
   }
 }

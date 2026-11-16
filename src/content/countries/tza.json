@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Tanzania is home to Mount Kilimanjaro, the highest mountain in Africa, and borders three of Africa's largest lakes: Victoria, Tanganyika and Malawi. Much of the country is a high plateau of savanna crossed by the Great Rift Valley, and the Serengeti and the Ngorongoro Crater are famous for their wildlife."
+  },
+  "history": {
+    "text": "Swahili city-states such as Kilwa traded across the Indian Ocean, and Zanzibar later became the centre of an Omani trading empire. Germany colonised the mainland, Tanganyika, which Britain took after the First World War. Tanganyika became independent in 1961 under Julius Nyerere and joined with Zanzibar in 1964 to form Tanzania.",
+    "events": [
+      {
+        "year": "1100s",
+        "title": "Kilwa",
+        "text": "Kilwa grows rich trading gold."
+      },
+      {
+        "year": "1840",
+        "title": "Omani capital",
+        "text": "The Sultan of Oman moves his court to Zanzibar.",
+        "related": [
+          "OMN"
+        ]
+      },
+      {
+        "year": "1905",
+        "title": "Maji Maji rebellion",
+        "text": "A major uprising against German rule.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1961",
+        "title": "Independence",
+        "text": "Tanganyika becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1964",
+        "title": "Tanzania formed",
+        "text": "Tanganyika and Zanzibar unite."
+      }
+    ]
   }
 }

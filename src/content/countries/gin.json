@@ -6,5 +6,40 @@
   ],
   "geography": {
     "text": "Guinea is often called the 'water tower of West Africa', because great rivers including the Niger, the Senegal and the Gambia begin in its highlands. It has a coastal plain with mangroves, the Fouta Djallon plateau in the centre, savanna in the north-east and forested mountains in the south-east."
+  },
+  "history": {
+    "text": "The region was part of the Mali Empire, and later the Fula state of Futa Jallon rose in the highlands. In the late 1800s Samory Touré led resistance against France. Guinea became a French colony and, in 1958, was the only French colony to vote no to France's offer of continued ties, becoming independent straight away under Ahmed Sékou Touré.",
+    "events": [
+      {
+        "year": "1725",
+        "title": "Futa Jallon",
+        "text": "An Islamic state is founded in the highlands."
+      },
+      {
+        "year": "1898",
+        "title": "Samory Touré captured",
+        "text": "France ends Samory's long resistance.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1958",
+        "title": "Independence",
+        "text": "Guinea votes 'no' and becomes independent.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "2014",
+        "title": "Ebola",
+        "text": "An Ebola epidemic begins in Guinea.",
+        "related": [
+          "LBR",
+          "SLE"
+        ]
+      }
+    ]
   }
 }

@@ -6,5 +6,46 @@
   ],
   "geography": {
     "text": "Southern Nigeria has a coastline of lagoons and the huge, oil-rich Niger Delta, with tropical rainforest inland. The centre is a plateau of savanna, and the north is drier, reaching into the Sahel. The Niger and Benue rivers meet near the city of Lokoja and flow south together to the sea."
+  },
+  "history": {
+    "text": "Nigeria was home to the Nok culture, famous for its terracotta sculptures, and later to the kingdoms of Benin, Oyo and the Hausa city-states. Britain took control in the 1800s and joined the north and south together in 1914. Nigeria became independent in 1960. A civil war over Biafra from 1967 to 1970 cost up to a million lives, and Nigeria has been a democracy since 1999.",
+    "events": [
+      {
+        "year": "500 BC",
+        "title": "Nok culture",
+        "text": "The Nok people make terracotta sculptures."
+      },
+      {
+        "year": "1400s",
+        "title": "Benin bronzes",
+        "text": "Benin's artists create famous brass plaques and sculptures."
+      },
+      {
+        "year": "1914",
+        "title": "Amalgamation",
+        "text": "Britain joins north and south into one colony.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1960",
+        "title": "Independence",
+        "text": "Nigeria becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1967",
+        "title": "Biafran War",
+        "text": "A three-year civil war begins."
+      },
+      {
+        "year": "1999",
+        "title": "Democracy",
+        "text": "Civilian rule returns."
+      }
+    ]
   }
 }

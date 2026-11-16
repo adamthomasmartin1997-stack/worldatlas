@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Most of Gabon is covered by rainforest, home to forest elephants and gorillas. The Ogooué river flows across the country to the Atlantic. The coast has lagoons, mangroves and beaches where whales, turtles and even hippos can sometimes be seen."
+  },
+  "history": {
+    "text": "Bantu-speaking peoples settled the region's forests centuries ago. Portuguese traders arrived in the 1470s, and France colonised the area in the 1800s, founding Libreville for freed slaves in 1849. Gabon became independent in 1960. The Bongo family ruled for more than 55 years until a military coup in 2023.",
+    "events": [
+      {
+        "year": "1472",
+        "title": "Portuguese arrive",
+        "text": "Portuguese sailors reach the Gabon estuary.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1849",
+        "title": "Libreville",
+        "text": "France founds Libreville for people freed from a slave ship.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1913",
+        "title": "Schweitzer's hospital",
+        "text": "Albert Schweitzer opens a hospital at Lambaréné."
+      },
+      {
+        "year": "1960",
+        "title": "Independence",
+        "text": "Gabon becomes independent.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "2023",
+        "title": "Coup",
+        "text": "The army ends the Bongo family's rule."
+      }
+    ]
   }
 }

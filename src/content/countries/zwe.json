@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Most of Zimbabwe is a high plateau, with a central ridge called the Highveld. The Zambezi river forms its northern border with Zambia, where it plunges over Victoria Falls and fills Lake Kariba. The Eastern Highlands rise along the border with Mozambique, and the Limpopo river forms the southern border with South Africa."
+  },
+  "history": {
+    "text": "Between the 1000s and 1400s the stone city of Great Zimbabwe was the capital of a trading kingdom, and the country is named after it. Cecil Rhodes's company colonised the area in the 1890s as Southern Rhodesia. White-minority rule continued after a 1965 declaration of independence, until a liberation war led to independence in 1980. Robert Mugabe ruled until 2017.",
+    "events": [
+      {
+        "year": "1100s",
+        "title": "Great Zimbabwe",
+        "text": "The great stone city is built."
+      },
+      {
+        "year": "1890",
+        "title": "Company rule",
+        "text": "The British South Africa Company occupies the land.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1965",
+        "title": "UDI",
+        "text": "Ian Smith's white-minority government declares independence.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1980",
+        "title": "Independence",
+        "text": "Zimbabwe becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "2017",
+        "title": "Mugabe removed",
+        "text": "The army forces Mugabe out after 37 years."
+      }
+    ]
   }
 }

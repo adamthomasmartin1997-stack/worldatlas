@@ -6,5 +6,55 @@
   ],
   "geography": {
     "text": "Much of the country is covered by the Congo Basin rainforest, the second-largest rainforest in the world, crossed by the Congo river, the deepest river in the world. The east rises into mountains and high plateaus along the Great Rift Valley, with large lakes such as Tanganyika and Kivu. The country has only a very short Atlantic coastline."
+  },
+  "history": {
+    "text": "The Kingdom of Kongo and the Luba and Lunda kingdoms flourished before Europeans arrived. In 1885 King Leopold II of Belgium took the Congo as his personal property, and millions died under his brutal rubber regime. Belgium took over in 1908, and Congo became independent in 1960. Mobutu ruled for over 30 years, renaming it Zaire, and wars from 1996 drew in many neighbours.",
+    "events": [
+      {
+        "year": "1400s",
+        "title": "Kingdom of Kongo",
+        "text": "Kongo is a powerful state at the mouth of the river."
+      },
+      {
+        "year": "1885",
+        "title": "Congo Free State",
+        "text": "Leopold II takes the Congo as his own colony.",
+        "related": [
+          "BEL"
+        ]
+      },
+      {
+        "year": "1908",
+        "title": "Belgian Congo",
+        "text": "Belgium takes over after an international outcry.",
+        "related": [
+          "BEL"
+        ]
+      },
+      {
+        "year": "1960",
+        "title": "Independence",
+        "text": "Patrice Lumumba becomes prime minister; he is killed in 1961.",
+        "related": [
+          "BEL"
+        ]
+      },
+      {
+        "year": "1965",
+        "title": "Mobutu",
+        "text": "Mobutu seizes power and later renames the country Zaire."
+      },
+      {
+        "year": "1998",
+        "title": "Second Congo War",
+        "text": "A war involving nine African countries begins.",
+        "related": [
+          "RWA",
+          "UGA",
+          "AGO",
+          "ZWE"
+        ]
+      }
+    ]
   }
 }

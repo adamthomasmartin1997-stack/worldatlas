@@ -6,5 +6,47 @@
   ],
   "geography": {
     "text": "The country is made up of two main volcanic islands, São Tomé and Príncipe, and several small islets, lying just north of the equator. The islands are mountainous and covered in rainforest, with dramatic volcanic spires such as Pico Cão Grande."
+  },
+  "history": {
+    "text": "São Tomé and Príncipe were uninhabited when Portuguese sailors arrived around 1470. Portugal settled them and grew sugar using enslaved Africans, and later cocoa, which made the islands one of the world's largest cocoa producers around 1900. The country became independent in 1975.",
+    "events": [
+      {
+        "year": "1470",
+        "title": "Portuguese arrive",
+        "text": "Portuguese sailors reach the islands.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1500s",
+        "title": "Sugar islands",
+        "text": "Sugar plantations using enslaved labour spread.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1953",
+        "title": "Batepá massacre",
+        "text": "Hundreds of islanders are killed by colonial forces.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1975",
+        "title": "Independence",
+        "text": "São Tomé and Príncipe becomes independent.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Democracy",
+        "text": "The first multi-party elections are held."
+      }
+    ]
   }
 }

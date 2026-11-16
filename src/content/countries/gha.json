@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Ghana is mostly low and gently rolling, with a sandy coastline dotted with lagoons and old European forts. Tropical forest grows in the south-west, and the north is savanna. Lake Volta, created by the Akosombo Dam in the 1960s, is one of the largest artificial lakes in the world by area."
+  },
+  "history": {
+    "text": "The Ashanti Empire was a powerful state in the region from around 1700, rich in gold. Europeans built forts along the coast, which they called the Gold Coast, and traded gold and enslaved people. Britain made it a colony in 1874. In 1957 Ghana became the first country in sub-Saharan Africa to win independence from colonial rule, led by Kwame Nkrumah.",
+    "events": [
+      {
+        "year": "1482",
+        "title": "Elmina Castle",
+        "text": "The Portuguese build a fort at Elmina.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1701",
+        "title": "Ashanti Empire",
+        "text": "Osei Tutu founds the Ashanti Empire."
+      },
+      {
+        "year": "1874",
+        "title": "British colony",
+        "text": "The Gold Coast becomes a British colony.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1957",
+        "title": "Independence",
+        "text": "Ghana becomes independent under Kwame Nkrumah.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1992",
+        "title": "Democracy",
+        "text": "A new constitution brings multi-party elections."
+      }
+    ]
   }
 }

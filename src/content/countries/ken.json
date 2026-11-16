@@ -6,5 +6,47 @@
   ],
   "geography": {
     "text": "Kenya rises from a coastal strip on the Indian Ocean to high plateaus in the centre and west, split by the Great Rift Valley. Mount Kenya, the second-highest mountain in Africa, stands close to the equator. The north is dry and semi-desert, while the south-west borders Lake Victoria and includes the Maasai Mara, famous for its great wildebeest migration."
+  },
+  "history": {
+    "text": "Some of the oldest human fossils have been found in Kenya. Swahili city-states grew up on the coast and traded across the Indian Ocean. Britain colonised Kenya in the 1890s and took fertile land for white settlers. The Mau Mau uprising of the 1950s was brutally put down, and Kenya became independent in 1963 under Jomo Kenyatta.",
+    "events": [
+      {
+        "year": "1498",
+        "title": "Vasco da Gama",
+        "text": "The Portuguese explorer stops at Malindi.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1895",
+        "title": "British protectorate",
+        "text": "Britain takes control.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1952",
+        "title": "Mau Mau uprising",
+        "text": "A rebellion against colonial rule begins.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1963",
+        "title": "Independence",
+        "text": "Kenya becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "2004",
+        "title": "Nobel Peace Prize",
+        "text": "Wangari Maathai wins for her tree-planting movement."
+      }
+    ]
   }
 }

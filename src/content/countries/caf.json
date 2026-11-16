@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Most of the country is a wide, rolling plateau covered in savanna. Rainforest grows in the south-west, and the north-east is drier. The Ubangi river, which forms much of the southern border, flows into the Congo."
+  },
+  "history": {
+    "text": "The region was raided for slaves for centuries by neighbouring states. France colonised it as Ubangi-Shari in the 1890s, and it became independent in 1960. Jean-Bédel Bokassa seized power in 1966 and crowned himself emperor in 1977. Since 2013 the country has suffered serious conflict.",
+    "events": [
+      {
+        "year": "1889",
+        "title": "French post",
+        "text": "France founds Bangui.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1960",
+        "title": "Independence",
+        "text": "The Central African Republic becomes independent.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1977",
+        "title": "Emperor Bokassa",
+        "text": "Bokassa crowns himself emperor in a lavish ceremony."
+      },
+      {
+        "year": "1979",
+        "title": "Bokassa overthrown",
+        "text": "French troops help remove Bokassa.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "2013",
+        "title": "Conflict",
+        "text": "Rebels seize the capital, starting years of violence."
+      }
+    ]
   }
 }

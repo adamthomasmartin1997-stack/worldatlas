@@ -6,5 +6,51 @@
   ],
   "geography": {
     "text": "Sierra Leone has a coast of mangrove swamps and beaches, with the mountainous Freetown Peninsula. Inland are plains and plateaus, rising to mountains in the east, where Mount Bintumani is the highest peak. Heavy rain falls during the rainy season."
+  },
+  "history": {
+    "text": "Temne and Mende peoples lived in the region, and the coast was part of the slave trade. In 1787 British campaigners founded Freetown as a home for freed slaves, and it became a British colony. Sierra Leone became independent in 1961. A brutal civil war from 1991 to 2002 was fought partly over diamonds, and an Ebola epidemic struck in 2014.",
+    "events": [
+      {
+        "year": "1787",
+        "title": "Freetown",
+        "text": "A settlement for freed slaves is founded.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1808",
+        "title": "British colony",
+        "text": "Freetown becomes a crown colony.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1961",
+        "title": "Independence",
+        "text": "Sierra Leone becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Civil war",
+        "text": "A war begins that lasts eleven years.",
+        "related": [
+          "LBR"
+        ]
+      },
+      {
+        "year": "2014",
+        "title": "Ebola",
+        "text": "Ebola kills nearly 4,000 people.",
+        "related": [
+          "GIN",
+          "LBR"
+        ]
+      }
+    ]
   }
 }

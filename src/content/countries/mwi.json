@@ -6,5 +6,39 @@
   ],
   "geography": {
     "text": "Lake Malawi, one of the largest lakes in Africa, fills much of the Great Rift Valley along the east of the country and has more species of fish than any other lake in the world. West of the lake are plateaus and highlands, and the Shire river flows south from the lake to the Zambezi."
+  },
+  "history": {
+    "text": "Bantu-speaking peoples settled the region, and the Maravi kingdom ruled around Lake Malawi from the 1400s. The explorer David Livingstone arrived in 1859, and Britain made the area the protectorate of Nyasaland in 1891. Malawi became independent in 1964. Hastings Banda ruled until 1994, when multi-party elections were held.",
+    "events": [
+      {
+        "year": "1859",
+        "title": "Livingstone",
+        "text": "David Livingstone reaches Lake Malawi.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1891",
+        "title": "British protectorate",
+        "text": "Britain declares a protectorate.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1964",
+        "title": "Independence",
+        "text": "Malawi becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1994",
+        "title": "Democracy",
+        "text": "The first multi-party elections end Banda's rule."
+      }
+    ]
   }
 }

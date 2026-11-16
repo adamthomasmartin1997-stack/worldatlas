@@ -6,5 +6,36 @@
   ],
   "geography": {
     "text": "About three-quarters of Mauritania is desert, part of the Sahara. The Senegal river forms its southern border and provides most of its farmland. In the desert, the Richat Structure is a huge circular rock formation so large it can be seen from space, and its coast has rich fishing waters."
+  },
+  "history": {
+    "text": "The region was part of the ancient Ghana Empire, and the Almoravid movement began here in the 1000s. Desert towns such as Chinguetti were centres of trade and learning. France colonised Mauritania in the early 1900s, and it became independent in 1960. In 1981 it became the last country in the world to abolish slavery by law.",
+    "events": [
+      {
+        "year": "1000s",
+        "title": "Almoravids",
+        "text": "The Almoravid movement begins among Saharan Berbers."
+      },
+      {
+        "year": "1903",
+        "title": "French protectorate",
+        "text": "France takes control.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1960",
+        "title": "Independence",
+        "text": "Mauritania becomes independent.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1981",
+        "title": "Slavery abolished",
+        "text": "Slavery is formally abolished; it becomes a crime in 2007."
+      }
+    ]
   }
 }

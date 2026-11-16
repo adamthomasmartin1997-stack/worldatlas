@@ -6,5 +6,38 @@
   ],
   "geography": {
     "text": "Liberia has a flat coastal plain with lagoons and mangroves, behind which the land rises to forested hills and low mountains. It has some of the largest remaining areas of rainforest in West Africa, and heavy rainfall feeds many rivers flowing to the Atlantic."
+  },
+  "history": {
+    "text": "Liberia was founded in the 1820s by the American Colonization Society as a home for freed Black Americans. It declared independence in 1847, making it Africa's oldest republic. Americo-Liberians dominated the country for over a century. Civil wars from 1989 to 2003 killed around 250,000 people, and in 2005 Ellen Johnson Sirleaf became Africa's first elected female head of state.",
+    "events": [
+      {
+        "year": "1822",
+        "title": "First settlers",
+        "text": "Freed Black Americans settle at Monrovia.",
+        "related": [
+          "USA"
+        ]
+      },
+      {
+        "year": "1847",
+        "title": "Independence",
+        "text": "Liberia declares independence."
+      },
+      {
+        "year": "1980",
+        "title": "Coup",
+        "text": "Samuel Doe seizes power."
+      },
+      {
+        "year": "1989",
+        "title": "Civil war",
+        "text": "Two civil wars devastate the country until 2003."
+      },
+      {
+        "year": "2005",
+        "title": "Ellen Johnson Sirleaf",
+        "text": "Africa's first elected female president takes office."
+      }
+    ]
   }
 }

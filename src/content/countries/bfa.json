@@ -6,5 +6,41 @@
   ],
   "geography": {
     "text": "Burkina Faso is mostly a flat or gently rolling plateau. The north is dry Sahel at the edge of the Sahara, while the south is greener savanna. Its three main rivers, the Black, Red and White Volta, flow south towards Ghana."
+  },
+  "history": {
+    "text": "The Mossi kingdoms ruled the region for centuries before France took control in the 1890s. As Upper Volta, it became independent in 1960. In 1984 its leader Thomas Sankara renamed it Burkina Faso, meaning 'land of upright people'. The country has had several military coups, most recently in 2022.",
+    "events": [
+      {
+        "year": "1400s",
+        "title": "Mossi kingdoms",
+        "text": "The Mossi kingdoms are established."
+      },
+      {
+        "year": "1896",
+        "title": "French conquest",
+        "text": "France takes Ouagadougou.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1960",
+        "title": "Independence",
+        "text": "Upper Volta becomes independent.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1984",
+        "title": "Renamed",
+        "text": "Thomas Sankara renames the country Burkina Faso."
+      },
+      {
+        "year": "2014",
+        "title": "Uprising",
+        "text": "Protests force out Blaise Compaoré after 27 years."
+      }
+    ]
   }
 }

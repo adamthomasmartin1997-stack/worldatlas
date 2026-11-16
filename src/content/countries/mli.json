@@ -6,5 +6,45 @@
   ],
   "geography": {
     "text": "The north of Mali lies in the Sahara Desert, the centre is the dry Sahel, and the south is savanna. The Niger river curves through the country and forms a large inland delta that floods every year, supporting farming and fishing."
+  },
+  "history": {
+    "text": "Mali was the heart of great empires. The Mali Empire's ruler Mansa Musa made a famous pilgrimage to Mecca in 1324 with so much gold that he became known as one of the richest people in history. Timbuktu became a centre of learning. France colonised the region in the late 1800s, and Mali became independent in 1960. Conflict in the north began in 2012.",
+    "events": [
+      {
+        "year": "1235",
+        "title": "Mali Empire",
+        "text": "Sundiata Keita founds the Mali Empire."
+      },
+      {
+        "year": "1324",
+        "title": "Mansa Musa's pilgrimage",
+        "text": "Mali's ruler travels to Mecca with vast amounts of gold.",
+        "related": [
+          "EGY",
+          "SAU"
+        ]
+      },
+      {
+        "year": "1591",
+        "title": "Songhai falls",
+        "text": "A Moroccan army defeats the Songhai Empire.",
+        "related": [
+          "MAR"
+        ]
+      },
+      {
+        "year": "1960",
+        "title": "Independence",
+        "text": "Mali becomes independent.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "2012",
+        "title": "Northern conflict",
+        "text": "Rebels and armed groups take the north."
+      }
+    ]
   }
 }

@@ -6,5 +6,59 @@
   ],
   "geography": {
     "text": "The north of Tunisia is hilly and green, at the eastern end of the Atlas Mountains. The centre has dry plains and large salt lakes such as Chott el Djerid, and the south is part of the Sahara. Its long Mediterranean coastline includes the island of Djerba."
+  },
+  "history": {
+    "text": "Phoenicians founded Carthage near today's Tunis, and it fought Rome in the Punic Wars until it was destroyed in 146 BC. Arab armies brought Islam in the 600s, and Kairouan became a holy city. France ruled Tunisia from 1881 until independence in 1956. In 2010–11 Tunisia's revolution began the Arab Spring.",
+    "events": [
+      {
+        "year": "814 BC",
+        "title": "Carthage",
+        "text": "Phoenicians found Carthage.",
+        "related": [
+          "LBN"
+        ]
+      },
+      {
+        "year": "218 BC",
+        "title": "Hannibal",
+        "text": "Hannibal crosses the Alps with elephants to attack Rome.",
+        "related": [
+          "ITA"
+        ]
+      },
+      {
+        "year": "146 BC",
+        "title": "Carthage destroyed",
+        "text": "Rome destroys Carthage.",
+        "related": [
+          "ITA"
+        ]
+      },
+      {
+        "year": "1881",
+        "title": "French protectorate",
+        "text": "France takes control.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1956",
+        "title": "Independence",
+        "text": "Tunisia becomes independent.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "2011",
+        "title": "Revolution",
+        "text": "Protests remove President Ben Ali and spark the Arab Spring.",
+        "related": [
+          "EGY",
+          "LBY"
+        ]
+      }
+    ]
   }
 }

@@ -6,5 +6,45 @@
   ],
   "geography": {
     "text": "Most of Zambia is a high plateau covered by savanna and woodland. The Zambezi river forms its southern border with Zimbabwe, where it plunges over Victoria Falls, one of the largest waterfalls in the world. Lake Kariba, on the same river, is one of the largest artificial lakes in the world."
+  },
+  "history": {
+    "text": "Bantu-speaking peoples settled the region, and kingdoms such as the Lozi grew up along the Zambezi. Cecil Rhodes's British South Africa Company took control in the 1890s, and the territory became Northern Rhodesia. Copper mining made it valuable. Zambia became independent in 1964 under Kenneth Kaunda.",
+    "events": [
+      {
+        "year": "1855",
+        "title": "Victoria Falls",
+        "text": "David Livingstone reaches the falls and names them.",
+        "related": [
+          "GBR",
+          "ZWE"
+        ]
+      },
+      {
+        "year": "1890s",
+        "title": "Company rule",
+        "text": "The British South Africa Company takes control.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1920s",
+        "title": "Copperbelt",
+        "text": "Huge copper deposits are developed."
+      },
+      {
+        "year": "1964",
+        "title": "Independence",
+        "text": "Zambia becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Democracy",
+        "text": "Multi-party elections end Kaunda's rule."
+      }
+    ]
   }
 }

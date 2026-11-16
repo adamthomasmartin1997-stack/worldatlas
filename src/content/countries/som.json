@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Somalia's coastline runs along the Gulf of Aden and the Indian Ocean. Most of the country is dry plateau and plain, with mountains in the north. The Jubba and Shabelle rivers in the south are its only permanent rivers, and most farming takes place along them."
+  },
+  "history": {
+    "text": "Somali coastal cities such as Mogadishu traded across the Indian Ocean for centuries. In the late 1800s the land was divided between Britain, Italy and France. British and Italian Somaliland united as independent Somalia in 1960. Siad Barre ruled from 1969 until 1991, when the government collapsed and civil war began.",
+    "events": [
+      {
+        "year": "900s",
+        "title": "Mogadishu",
+        "text": "Mogadishu grows into a major trading city."
+      },
+      {
+        "year": "1880s",
+        "title": "Colonial division",
+        "text": "Britain, Italy and France divide Somali lands.",
+        "related": [
+          "GBR",
+          "ITA",
+          "FRA"
+        ]
+      },
+      {
+        "year": "1960",
+        "title": "Independence",
+        "text": "British and Italian Somaliland unite.",
+        "related": [
+          "GBR",
+          "ITA"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "State collapse",
+        "text": "Siad Barre is overthrown and civil war follows."
+      },
+      {
+        "year": "2012",
+        "title": "New government",
+        "text": "A federal government is formed."
+      }
+    ]
   }
 }

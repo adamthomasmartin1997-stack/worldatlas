@@ -6,5 +6,42 @@
   ],
   "geography": {
     "text": "About 90 percent of Libya is desert, part of the Sahara, with sand seas and rocky plateaus. Most people live along the Mediterranean coast, especially around Tripoli and Benghazi. Libya has no permanent rivers; a huge network of pipes called the Great Man-Made River carries water from underground reserves in the desert to the coast."
+  },
+  "history": {
+    "text": "Greeks founded Cyrene in the east and Phoenicians settled the west in ancient times, and the region later became part of Rome. After Arab and Ottoman rule, Italy invaded in 1911. Libya became independent in 1951 as a kingdom. Muammar Gaddafi seized power in 1969 and ruled until he was overthrown in 2011; the country has been divided since.",
+    "events": [
+      {
+        "year": "631 BC",
+        "title": "Cyrene",
+        "text": "Greek settlers found Cyrene.",
+        "related": [
+          "GRC"
+        ]
+      },
+      {
+        "year": "1911",
+        "title": "Italian invasion",
+        "text": "Italy takes Libya from the Ottomans.",
+        "related": [
+          "ITA",
+          "TUR"
+        ]
+      },
+      {
+        "year": "1951",
+        "title": "Independence",
+        "text": "Libya becomes an independent kingdom."
+      },
+      {
+        "year": "1969",
+        "title": "Gaddafi",
+        "text": "Muammar Gaddafi takes power in a coup."
+      },
+      {
+        "year": "2011",
+        "title": "Revolution",
+        "text": "An uprising overthrows Gaddafi."
+      }
+    ]
   }
 }

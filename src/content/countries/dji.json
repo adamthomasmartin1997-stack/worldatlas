@@ -6,5 +6,42 @@
   ],
   "geography": {
     "text": "Djibouti is mostly hot, dry desert and volcanic plateau. Lake Assal, a salt lake, is the lowest point in Africa, more than 150 metres below sea level. The country lies where three tectonic plates are pulling apart, so the land is slowly being split open."
+  },
+  "history": {
+    "text": "The coast was home to Afar and Somali peoples and was part of trade routes across the Red Sea. France took control in the 1880s, and the port of Djibouti grew after a railway to Ethiopia was built. The territory became independent in 1977. Its position at the entrance to the Red Sea makes it home to several foreign military bases.",
+    "events": [
+      {
+        "year": "1862",
+        "title": "French foothold",
+        "text": "France buys the port of Obock.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1917",
+        "title": "Railway to Addis Ababa",
+        "text": "The railway to Ethiopia is completed.",
+        "related": [
+          "ETH"
+        ]
+      },
+      {
+        "year": "1977",
+        "title": "Independence",
+        "text": "Djibouti becomes independent.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "2017",
+        "title": "Chinese base",
+        "text": "China opens its first overseas military base here.",
+        "related": [
+          "CHN"
+        ]
+      }
+    ]
   }
 }

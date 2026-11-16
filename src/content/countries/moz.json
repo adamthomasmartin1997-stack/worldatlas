@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Mozambique has a very long coastline on the Indian Ocean, with beaches, coral reefs and islands such as the Bazaruto Archipelago. Low plains cover the south and the coast, rising to plateaus and mountains in the north-west. The Zambezi river crosses the country, and the Cahora Bassa dam on it has created one of Africa's largest artificial lakes."
+  },
+  "history": {
+    "text": "Swahili trading towns grew up along the coast, and inland the Mutapa kingdom traded gold. Portugal ruled Mozambique for centuries. After a ten-year war of independence led by FRELIMO, Mozambique became independent in 1975. A civil war followed until 1992.",
+    "events": [
+      {
+        "year": "1498",
+        "title": "Vasco da Gama",
+        "text": "The Portuguese explorer reaches Mozambique Island.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1964",
+        "title": "Independence war",
+        "text": "FRELIMO begins its armed struggle.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1975",
+        "title": "Independence",
+        "text": "Mozambique becomes independent under Samora Machel.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1992",
+        "title": "Peace",
+        "text": "A peace agreement ends the civil war."
+      },
+      {
+        "year": "2019",
+        "title": "Cyclone Idai",
+        "text": "A devastating cyclone hits Beira."
+      }
+    ]
   }
 }

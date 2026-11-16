@@ -6,5 +6,41 @@
   ],
   "geography": {
     "text": "Benin is long and narrow, stretching north from a short Atlantic coast lined with lagoons. Behind the coast is a fertile plateau, and the north is savanna, rising to the Atacora Mountains in the north-west. Pendjari National Park in the north is one of the last strongholds of lions in West Africa."
+  },
+  "history": {
+    "text": "The Kingdom of Dahomey, based at Abomey, was a powerful state from the 1600s, known for its female soldiers. It grew rich partly through the slave trade. France conquered Dahomey in 1894, and it became independent in 1960. It took the name Benin in 1975, and in 1990 it became one of the first African countries to move peacefully to multi-party democracy.",
+    "events": [
+      {
+        "year": "1600s",
+        "title": "Kingdom of Dahomey",
+        "text": "Dahomey is founded on the Abomey plateau."
+      },
+      {
+        "year": "1894",
+        "title": "French conquest",
+        "text": "France takes Dahomey.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1960",
+        "title": "Independence",
+        "text": "Dahomey becomes independent.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1975",
+        "title": "Renamed Benin",
+        "text": "The country becomes the People's Republic of Benin."
+      },
+      {
+        "year": "1990",
+        "title": "Democracy",
+        "text": "A national conference opens the way to free elections."
+      }
+    ]
   }
 }

@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "Much of Ethiopia is a high plateau split by the Great Rift Valley, with mountain ranges such as the Simien Mountains. Lake Tana, the source of the Blue Nile, lies in the north-west. The lowlands to the north-east include the Danakil Depression, one of the lowest and hottest places on Earth."
+  },
+  "history": {
+    "text": "Ethiopia is one of the oldest countries in the world. The Kingdom of Aksum adopted Christianity in the 300s, and later kings claimed descent from King Solomon and the Queen of Sheba. At the Battle of Adwa in 1896, Ethiopia defeated Italy and stayed independent. Italy occupied it from 1936 to 1941. Emperor Haile Selassie was overthrown in 1974, and a severe famine struck in the 1980s.",
+    "events": [
+      {
+        "year": "300s",
+        "title": "Aksum adopts Christianity",
+        "text": "King Ezana makes Christianity the state religion."
+      },
+      {
+        "year": "1100s",
+        "title": "Lalibela churches",
+        "text": "Churches are carved out of solid rock at Lalibela."
+      },
+      {
+        "year": "1896",
+        "title": "Battle of Adwa",
+        "text": "Ethiopia defeats an Italian invasion.",
+        "related": [
+          "ITA"
+        ]
+      },
+      {
+        "year": "1936",
+        "title": "Italian occupation",
+        "text": "Italy occupies Ethiopia until 1941.",
+        "related": [
+          "ITA"
+        ]
+      },
+      {
+        "year": "1974",
+        "title": "Revolution",
+        "text": "Haile Selassie is overthrown."
+      },
+      {
+        "year": "2019",
+        "title": "Nobel Peace Prize",
+        "text": "Abiy Ahmed wins for making peace with Eritrea.",
+        "related": [
+          "ERI"
+        ]
+      }
+    ]
   }
 }

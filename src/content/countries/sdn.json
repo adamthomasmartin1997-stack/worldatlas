@@ -6,5 +6,54 @@
   ],
   "geography": {
     "text": "Northern Sudan is part of the Sahara, while the south is savanna. The Nile flows through the whole country, and most people live along it. In the west is the Darfur region, with the Marrah Mountains, and in the east Sudan has a coastline on the Red Sea."
+  },
+  "history": {
+    "text": "The Kingdom of Kush in northern Sudan conquered Egypt around 750 BC, and its kings built more pyramids than Egypt did. Christian and then Muslim kingdoms followed. Egypt and Britain ruled Sudan from 1899, and it became independent in 1956. Long civil wars led to South Sudan's independence in 2011, and a new war began in 2023.",
+    "events": [
+      {
+        "year": "750 BC",
+        "title": "Kush rules Egypt",
+        "text": "Kushite kings become Egypt's pharaohs.",
+        "related": [
+          "EGY"
+        ]
+      },
+      {
+        "year": "1885",
+        "title": "The Mahdi",
+        "text": "Mahdist forces take Khartoum.",
+        "related": [
+          "GBR",
+          "EGY"
+        ]
+      },
+      {
+        "year": "1956",
+        "title": "Independence",
+        "text": "Sudan becomes independent.",
+        "related": [
+          "GBR",
+          "EGY"
+        ]
+      },
+      {
+        "year": "2003",
+        "title": "Darfur",
+        "text": "Conflict in Darfur kills hundreds of thousands."
+      },
+      {
+        "year": "2011",
+        "title": "South Sudan secedes",
+        "text": "The south becomes independent.",
+        "related": [
+          "SSD"
+        ]
+      },
+      {
+        "year": "2023",
+        "title": "Civil war",
+        "text": "Fighting breaks out between the army and the RSF."
+      }
+    ]
   }
 }

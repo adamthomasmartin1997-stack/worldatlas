@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "Southern Cameroon is covered in rainforest, the centre is a high plateau, and the north is savanna reaching up to Lake Chad. Near the coast in the west, Mount Cameroon is an active volcano and one of the wettest places on Earth."
+  },
+  "history": {
+    "text": "Many peoples lived in the region, including kingdoms such as Bamum, whose king Njoya invented his own writing system. Germany colonised Kamerun in 1884. After the First World War it was split between France and Britain. French Cameroon became independent in 1960, and part of British Cameroons joined it in 1961. Tensions in the English-speaking regions turned violent from 2017.",
+    "events": [
+      {
+        "year": "1884",
+        "title": "German colony",
+        "text": "Germany claims Kamerun.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1896",
+        "title": "Bamum script",
+        "text": "King Njoya creates a writing system for the Bamum language."
+      },
+      {
+        "year": "1916",
+        "title": "Split",
+        "text": "France and Britain divide the territory.",
+        "related": [
+          "FRA",
+          "GBR"
+        ]
+      },
+      {
+        "year": "1960",
+        "title": "Independence",
+        "text": "French Cameroon becomes independent.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1961",
+        "title": "Reunification",
+        "text": "Southern British Cameroons joins; the north joins Nigeria.",
+        "related": [
+          "GBR",
+          "NGA"
+        ]
+      }
+    ]
   }
 }

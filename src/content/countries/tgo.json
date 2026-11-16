@@ -6,5 +6,48 @@
   ],
   "geography": {
     "text": "Togo stretches more than 500 kilometres inland but is never much more than 150 kilometres wide. The coast has lagoons and sandy beaches, with plateaus behind. A range of hills and mountains crosses the country from south-west to north-east, and the north is savanna."
+  },
+  "history": {
+    "text": "Ewe and other peoples lived in the region, which was part of the slave-trading 'Slave Coast'. Germany made Togoland a colony in 1884. After the First World War it was split between Britain and France; the British part joined Ghana. French Togo became independent in 1960. The Gnassingbé family has ruled since 1967.",
+    "events": [
+      {
+        "year": "1884",
+        "title": "German colony",
+        "text": "Germany claims Togoland.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1914",
+        "title": "Split",
+        "text": "Britain and France take the colony.",
+        "related": [
+          "GBR",
+          "FRA"
+        ]
+      },
+      {
+        "year": "1956",
+        "title": "British part joins Ghana",
+        "text": "British Togoland votes to join the Gold Coast.",
+        "related": [
+          "GHA"
+        ]
+      },
+      {
+        "year": "1960",
+        "title": "Independence",
+        "text": "Togo becomes independent.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1967",
+        "title": "Eyadéma",
+        "text": "Gnassingbé Eyadéma takes power for 38 years."
+      }
+    ]
   }
 }

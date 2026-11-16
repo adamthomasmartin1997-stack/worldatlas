@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Comoros is made up of three main volcanic islands: Grande Comore (Ngazidja), Mohéli (Mwali) and Anjouan (Nzwani). Mount Karthala on Grande Comore is one of the largest active volcanoes in the world. The islands have rugged, forested interiors and are fringed by coral reefs."
+  },
+  "history": {
+    "text": "The Comoros were settled by people from Africa, Arabia and Madagascar and became part of the Swahili trading world. Islam arrived early, and local sultanates ruled the islands. France took control in the 1800s. Three of the four islands became independent in 1975, while Mayotte chose to stay French. The country has had many coups since.",
+    "events": [
+      {
+        "year": "1841",
+        "title": "France takes Mayotte",
+        "text": "France acquires Mayotte.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1912",
+        "title": "French colony",
+        "text": "All four islands become a French colony.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1975",
+        "title": "Independence",
+        "text": "The Comoros declares independence; Mayotte stays French.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1997",
+        "title": "Islands break away",
+        "text": "Anjouan and Mohéli try to secede."
+      },
+      {
+        "year": "2001",
+        "title": "New constitution",
+        "text": "A new union gives each island more control."
+      }
+    ]
   }
 }

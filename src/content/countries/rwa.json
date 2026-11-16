@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "Rwanda is called the 'land of a thousand hills' because its landscape is almost entirely hills and mountains. The Virunga volcanoes in the north-west are home to mountain gorillas, and Lake Kivu forms much of the western border. Many people farm the steep, terraced hillsides."
+  },
+  "history": {
+    "text": "The Kingdom of Rwanda was ruled by a Tutsi king, the mwami. Germany and then Belgium colonised the country, and Belgium hardened divisions between Hutu and Tutsi. Rwanda became independent in 1962. In 1994 extremists killed around 800,000 people, mostly Tutsi, in about 100 days. Since then Rwanda has rebuilt and grown quickly.",
+    "events": [
+      {
+        "year": "1890s",
+        "title": "German rule",
+        "text": "Rwanda becomes part of German East Africa.",
+        "related": [
+          "DEU"
+        ]
+      },
+      {
+        "year": "1916",
+        "title": "Belgian rule",
+        "text": "Belgium takes control.",
+        "related": [
+          "BEL"
+        ]
+      },
+      {
+        "year": "1962",
+        "title": "Independence",
+        "text": "Rwanda becomes independent.",
+        "related": [
+          "BEL"
+        ]
+      },
+      {
+        "year": "1994",
+        "title": "Genocide against the Tutsi",
+        "text": "Around 800,000 people are killed in 100 days."
+      },
+      {
+        "year": "2003",
+        "title": "New constitution",
+        "text": "A new constitution is adopted."
+      }
+    ]
   }
 }

@@ -6,5 +6,39 @@
   ],
   "geography": {
     "text": "About 70 percent of Botswana is covered by the Kalahari Desert, a dry, sandy savanna. In the north-west, the Okavango river spreads out into the Okavango Delta, a huge inland delta that floods every year and draws enormous numbers of animals. The Makgadikgadi Pans in the north-east are among the largest salt flats in the world."
+  },
+  "history": {
+    "text": "Tswana chiefdoms lived in the region when, in 1885, Britain made it the protectorate of Bechuanaland, partly to stop it being taken over by South Africa. Botswana became independent in 1966 as one of the poorest countries in the world. Diamonds were found the next year, and careful use of that wealth made it one of Africa's most stable and prosperous democracies.",
+    "events": [
+      {
+        "year": "1885",
+        "title": "British protectorate",
+        "text": "Bechuanaland becomes a British protectorate.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1895",
+        "title": "Chiefs go to London",
+        "text": "Three chiefs travel to Britain to stop their land being handed to a mining company.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1966",
+        "title": "Independence",
+        "text": "Botswana becomes independent under Seretse Khama.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1967",
+        "title": "Diamonds found",
+        "text": "Diamonds are discovered at Orapa."
+      }
+    ]
   }
 }

@@ -6,5 +6,41 @@
   ],
   "geography": {
     "text": "More than three-quarters of Niger is in the Sahara Desert, including the Aïr Mountains and the Ténéré desert. The south is the dry Sahel, where most people live and farm, and the Niger river flows through the south-west, past Niamey."
+  },
+  "history": {
+    "text": "Parts of Niger belonged to the Songhai Empire and the Hausa city-states, and Agadez was a key stop on trans-Saharan trade routes. France colonised Niger in the early 1900s, and it became independent in 1960. It is a major producer of uranium. The military seized power in 2023.",
+    "events": [
+      {
+        "year": "1400s",
+        "title": "Agadez",
+        "text": "Agadez becomes a major desert trading town."
+      },
+      {
+        "year": "1922",
+        "title": "French colony",
+        "text": "Niger becomes a French colony.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1960",
+        "title": "Independence",
+        "text": "Niger becomes independent.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1971",
+        "title": "Uranium mining",
+        "text": "Uranium production begins at Arlit."
+      },
+      {
+        "year": "2023",
+        "title": "Coup",
+        "text": "The army overthrows the elected president."
+      }
+    ]
   }
 }

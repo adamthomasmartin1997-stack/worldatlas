@@ -6,5 +6,41 @@
   ],
   "geography": {
     "text": "Lesotho is the only country in the world that lies entirely above 1,000 metres, which has earned it the nickname 'Kingdom in the Sky'. Much of it is in the Maloti and Drakensberg mountains, and its highlands supply water to South Africa through large dams and tunnels."
+  },
+  "history": {
+    "text": "King Moshoeshoe I united the Basotho people in the early 1800s from his mountain stronghold of Thaba Bosiu. To protect his land from Boer settlers he asked for British protection, and Basutoland became a British protectorate in 1868. Lesotho became independent in 1966. It is entirely surrounded by South Africa.",
+    "events": [
+      {
+        "year": "1824",
+        "title": "Thaba Bosiu",
+        "text": "Moshoeshoe makes the mountain his stronghold."
+      },
+      {
+        "year": "1868",
+        "title": "British protection",
+        "text": "Basutoland becomes a British protectorate.",
+        "related": [
+          "GBR",
+          "ZAF"
+        ]
+      },
+      {
+        "year": "1966",
+        "title": "Independence",
+        "text": "Lesotho becomes independent.",
+        "related": [
+          "GBR"
+        ]
+      },
+      {
+        "year": "1998",
+        "title": "Crisis",
+        "text": "South African and Botswanan troops intervene after a disputed election.",
+        "related": [
+          "ZAF",
+          "BWA"
+        ]
+      }
+    ]
   }
 }

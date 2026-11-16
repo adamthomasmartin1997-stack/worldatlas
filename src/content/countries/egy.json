@@ -6,5 +6,49 @@
   ],
   "geography": {
     "text": "Almost all of Egypt is desert, and nearly everyone lives along the Nile, the longest river in Africa, or in its delta on the Mediterranean. The Western Desert has oases and the Qattara Depression, which lies below sea level, while the Eastern Desert and Sinai are mountainous. Lake Nasser, behind the Aswan High Dam, is one of the largest artificial lakes in the world."
+  },
+  "history": {
+    "text": "Ancient Egypt was one of the world's first great civilisations. Its pharaohs built the pyramids of Giza around 4,500 years ago. Egypt was later ruled by Greeks, Romans, Arabs, Ottomans and the British. It became independent in 1922, and a revolution in 1952 ended the monarchy. Egypt fought several wars with Israel before signing a peace treaty in 1979.",
+    "events": [
+      {
+        "year": "3100 BC",
+        "title": "Unification",
+        "text": "Upper and Lower Egypt are united."
+      },
+      {
+        "year": "2560 BC",
+        "title": "Great Pyramid",
+        "text": "The Great Pyramid of Giza is completed."
+      },
+      {
+        "year": "30 BC",
+        "title": "Roman rule",
+        "text": "Cleopatra dies and Egypt becomes part of Rome.",
+        "related": [
+          "ITA"
+        ]
+      },
+      {
+        "year": "1869",
+        "title": "Suez Canal",
+        "text": "The canal linking the Mediterranean and Red Sea opens.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1952",
+        "title": "Revolution",
+        "text": "Army officers overthrow the king."
+      },
+      {
+        "year": "1979",
+        "title": "Peace with Israel",
+        "text": "Egypt and Israel sign a peace treaty.",
+        "related": [
+          "ISR"
+        ]
+      }
+    ]
   }
 }

@@ -6,5 +6,44 @@
   ],
   "geography": {
     "text": "More than four-fifths of Algeria lies in the Sahara Desert, with vast seas of sand, rocky plateaus and the Hoggar Mountains in the south. Most people live in the north, along the Mediterranean coast and in the fertile valleys and plains among the Atlas Mountains."
+  },
+  "history": {
+    "text": "Berber kingdoms ruled the region in ancient times, followed by Rome. Arab armies brought Islam in the 600s, and later Algiers was part of the Ottoman world. France invaded in 1830 and ruled for 132 years. After a war of independence from 1954 to 1962, in which hundreds of thousands died, Algeria became independent. A civil war in the 1990s cost many more lives.",
+    "events": [
+      {
+        "year": "1830",
+        "title": "French invasion",
+        "text": "France captures Algiers.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1832",
+        "title": "Emir Abdelkader",
+        "text": "Abdelkader leads resistance against France for 15 years."
+      },
+      {
+        "year": "1954",
+        "title": "War of independence",
+        "text": "The FLN begins its armed struggle.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1962",
+        "title": "Independence",
+        "text": "Algeria becomes independent.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Civil war",
+        "text": "A cancelled election leads to a decade of conflict."
+      }
+    ]
   }
 }

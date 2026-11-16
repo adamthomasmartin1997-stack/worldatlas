@@ -6,5 +6,39 @@
   ],
   "geography": {
     "text": "A high central plateau runs down the length of Madagascar, with rainforest on the wetter east side and drier forests, grassland and spiny desert in the west and south. Because the island has been separated from other land for millions of years, most of its animals and plants, including lemurs, are found nowhere else on Earth."
+  },
+  "history": {
+    "text": "Madagascar was settled by people from South-East Asia and East Africa between about 1,500 and 2,000 years ago. The Merina kingdom unified much of the island in the 1800s. France conquered Madagascar in 1895 and brutally put down an uprising in 1947. It became independent in 1960.",
+    "events": [
+      {
+        "year": "1810",
+        "title": "Radama I",
+        "text": "The Merina king begins unifying the island."
+      },
+      {
+        "year": "1895",
+        "title": "French conquest",
+        "text": "France takes Antananarivo.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1947",
+        "title": "Malagasy Uprising",
+        "text": "A revolt against French rule is crushed.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1960",
+        "title": "Independence",
+        "text": "Madagascar becomes independent.",
+        "related": [
+          "FRA"
+        ]
+      }
+    ]
   }
 }

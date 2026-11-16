@@ -6,5 +6,47 @@
   ],
   "geography": {
     "text": "Cape Verde is made up of ten volcanic islands, nine of them inhabited. Some, such as Fogo with its still-active volcano, are mountainous, while others are flat and sandy. The climate is dry, and droughts have often been a problem."
+  },
+  "history": {
+    "text": "Cabo Verde's islands were uninhabited when Portuguese sailors found them around 1456. They became a stop on the Atlantic slave trade, and a Creole culture grew there. Cabo Verde won independence together with Guinea-Bissau's liberation movement and became independent in 1975. It is now one of Africa's most stable democracies.",
+    "events": [
+      {
+        "year": "1456",
+        "title": "Islands discovered",
+        "text": "Portuguese sailors reach the uninhabited islands.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1462",
+        "title": "First settlement",
+        "text": "Ribeira Grande is founded, the first European town in the tropics.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1956",
+        "title": "PAIGC founded",
+        "text": "Amílcar Cabral founds a movement to free Guinea-Bissau and Cabo Verde.",
+        "related": [
+          "GNB"
+        ]
+      },
+      {
+        "year": "1975",
+        "title": "Independence",
+        "text": "Cabo Verde becomes independent.",
+        "related": [
+          "PRT"
+        ]
+      },
+      {
+        "year": "1991",
+        "title": "Democracy",
+        "text": "The first multi-party elections are held."
+      }
+    ]
   }
 }

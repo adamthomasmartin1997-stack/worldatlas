@@ -6,5 +6,41 @@
   ],
   "geography": {
     "text": "The south of Ivory Coast has a coastline of lagoons and beaches, with tropical rainforest inland. Further north the land becomes savanna on a gently rising plateau. The west is hillier, rising to Mount Nimba on the border with Guinea and Liberia."
+  },
+  "history": {
+    "text": "Akan, Kru and other peoples lived in the region, which Europeans named after its ivory trade. France made it a colony in 1893. Côte d'Ivoire became independent in 1960 under Félix Houphouët-Boigny and grew into the world's largest cocoa producer. Two civil wars, in 2002 and 2010–11, divided the country before peace returned.",
+    "events": [
+      {
+        "year": "1893",
+        "title": "French colony",
+        "text": "Côte d'Ivoire becomes a French colony.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1960",
+        "title": "Independence",
+        "text": "Félix Houphouët-Boigny becomes the first president.",
+        "related": [
+          "FRA"
+        ]
+      },
+      {
+        "year": "1983",
+        "title": "New capital",
+        "text": "Yamoussoukro is named the capital."
+      },
+      {
+        "year": "2002",
+        "title": "Civil war",
+        "text": "The country is split between north and south."
+      },
+      {
+        "year": "2011",
+        "title": "Post-election crisis",
+        "text": "Fighting ends with Alassane Ouattara taking office."
+      }
+    ]
   }
 }
