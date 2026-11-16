@@ -15,7 +15,7 @@ const loadCities = () =>
 const W = 600, H = 520, PAD = 28;
 
 /** Keep the main landmass and nearby islands (e.g. Corsica), drop far-off parts (e.g. French Guiana). */
-function homeland(f: CountryFeature): { shape: CountryFeature; trimmed: boolean } {
+export function homeland(f: CountryFeature): { shape: CountryFeature; trimmed: boolean } {
   if (f.geometry.type !== 'MultiPolygon') return { shape: f, trimmed: false };
   const parts = (f.geometry as MultiPolygon).coordinates.map((c) => {
     const poly: Polygon = { type: 'Polygon', coordinates: c };

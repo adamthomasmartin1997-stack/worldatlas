@@ -12,6 +12,9 @@ import { NameTheCountries } from './pages/games/NameTheCountries';
 import { FindOnMap } from './pages/games/FindOnMap';
 import { Capitals } from './pages/games/Capitals';
 import { Flags } from './pages/games/Flags';
+import { Silhouettes } from './pages/games/Silhouettes';
+import { MysteryCountry } from './pages/games/MysteryCountry';
+import { HigherLower } from './pages/games/HigherLower';
 import { Data } from './pages/Data';
 import { DataSources } from './pages/DataSources';
 import { NotFound } from './pages/NotFound';
@@ -33,6 +36,9 @@ const router = createRouter([
       { path: '/games/find-on-map', element: <FindOnMap /> },
       { path: '/games/capitals', element: <Capitals /> },
       { path: '/games/flags', element: <Flags /> },
+      { path: '/games/silhouettes', element: <Silhouettes /> },
+      { path: '/games/mystery', element: <MysteryCountry /> },
+      { path: '/games/higher-lower', element: <HigherLower /> },
       { path: '/data', element: <Data /> },
       { path: '/data/sources', element: <DataSources /> },
       { path: '*', element: <NotFound /> },

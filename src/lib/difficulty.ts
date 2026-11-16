@@ -67,3 +67,10 @@ export function flagSimilarity(a: Country, b: Country): number {
 }
 
 export const flagUrl = (c: Pick<Country, 'cca3'>) => `${import.meta.env.BASE_URL}data/flags/${c.cca3.toLowerCase()}.svg`;
+
+/** How close two countries are in size, 0–1 (1 = same area). Used to pick look-alike outlines. */
+export function sizeSimilarity(a: Country, b: Country): number {
+  const x = a.area?.value, y = b.area?.value;
+  if (!x || !y) return 0;
+  return Math.max(0, 1 - Math.abs(Math.log10(x / y)) / 1.5);
+}

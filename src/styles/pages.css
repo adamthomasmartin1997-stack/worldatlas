@@ -250,3 +250,32 @@ a.chip:hover { color: var(--ink); background: var(--sun); transform: translate(2
 .country-flag { width: clamp(64px, 10vw, 96px); box-shadow: var(--shadow-sm); }
 .country-cell { display: inline-flex; align-items: center; gap: var(--space-3); }
 .country-cell .flag { width: 32px; border-radius: 4px; flex: none; }
+
+/* Country outline for the Silhouettes game: land-green shape on the ocean panel. */
+.silhouette { width: min(320px, 100%); aspect-ratio: 4 / 3; background: var(--ocean); border: var(--outline); border-radius: 18px; box-shadow: var(--shadow-sm); margin: 0 0 var(--space-6); display: grid; place-items: center; }
+.silhouette svg { width: 100%; height: 100%; }
+.silhouette path { fill: var(--land-4); stroke: var(--ink); stroke-width: 2; stroke-linejoin: round; }
+
+/* Mystery country */
+.mystery { display: grid; gap: var(--space-4); }
+.mystery-hints { min-height: 32px; display: flex; align-items: center; }
+.mystery-table { width: 100%; border-collapse: collapse; font-variant-numeric: tabular-nums; }
+.mystery-table th, .mystery-table td { padding: var(--space-2) var(--space-2); border-bottom: 2px solid var(--tint-green); text-align: left; }
+.mystery-table .num { text-align: right; white-space: nowrap; }
+.mystery-table tr.is-correct th, .mystery-table tr.is-correct td { background: var(--green); }
+.dir { display: inline-flex; align-items: center; gap: var(--space-1); white-space: nowrap; }
+.dir svg { transition: transform 250ms; flex: none; }
+.closeness { display: inline-block; width: 48px; height: 10px; border: 2px solid var(--ink); border-radius: 6px; vertical-align: middle; overflow: hidden; background: var(--surface); }
+.closeness span { display: block; height: 100%; background: var(--sun); }
+.mystery-result { display: grid; gap: var(--space-4); justify-items: start; }
+@media (max-width: 640px) { .mystery-table .col-close { display: none; } .mystery-table th, .mystery-table td { padding: var(--space-2) var(--space-1); font-size: 15px; } }
+@media (prefers-reduced-motion: reduce) { .dir svg { transition: none; } }
+
+/* Higher or lower */
+.hl-pair { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: var(--space-4); margin-bottom: var(--space-6); }
+.hl-card { display: grid; gap: var(--space-2); justify-items: start; padding: var(--space-4); border: var(--outline); border-radius: 18px; background: var(--surface); min-width: 0; }
+.hl-card .flag { width: 72px; }
+.hl-card .card-title { overflow-wrap: anywhere; }
+.hl-value { font: 800 clamp(1.4rem, 4vw, 2rem)/1.1 var(--font-display); margin: 0; overflow-wrap: anywhere; }
+.hl-year { margin: 0; font-size: 14px; }
+@media (max-width: 480px) { .hl-pair { grid-template-columns: 1fr; } }

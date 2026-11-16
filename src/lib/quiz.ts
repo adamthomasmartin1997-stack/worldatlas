@@ -10,6 +10,8 @@ export interface Question {
   link?: string;
   /** A picture to show with the question, e.g. a flag. */
   image?: { src: string; alt: string };
+  /** A country (cca3) whose outline is drawn with the question. */
+  shape?: string;
   /** Pictures to show instead of the option text (e.g. four flags); names are revealed after answering. */
   optionImages?: string[];
 }

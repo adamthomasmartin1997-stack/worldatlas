@@ -2,6 +2,7 @@ import { useRef, useState, useEffect, type ReactNode } from 'react';
 import { Link } from 'react-router-dom';
 import { Check, X, ArrowRight, RotateCcw } from 'lucide-react';
 import type { Question } from '../lib/quiz';
+import { Silhouette } from './Silhouette';
 import { saveBest } from '../lib/progress';
 
 /** Multiple-choice quiz: one question at a time, instant feedback, results screen. */
@@ -51,6 +52,7 @@ export function QuizRunner({ questions, gameId, onRestart, resultsExtra }: { que
       </div>
       <div className="progress-bar" aria-hidden="true"><span style={{ width: `${(i / questions.length) * 100}%` }} /></div>
       <h2 ref={heading} tabIndex={-1} className="quiz-question">{q.q}</h2>
+      {q.shape && <Silhouette cca3={q.shape} />}
       {q.image && <img className="quiz-flag" src={q.image.src} alt={q.image.alt} width={240} height={180} />}
       <div className={`quiz-options${q.optionImages ? ' quiz-options-images' : ''}`} role="group" aria-label="Answers">
         {q.options.map((opt, k) => {
