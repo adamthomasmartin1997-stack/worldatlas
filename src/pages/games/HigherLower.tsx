@@ -12,12 +12,15 @@ import { fmtPeople, fmtUsd, fmtYears } from '../../lib/format';
 import { getBest, saveBest } from '../../lib/progress';
 import { parseRegion, sovereignIn } from '../../lib/regions';
 
-type MetricKey = 'population' | 'area' | 'lifeExpectancy' | 'gdpPerCapita';
+type MetricKey = 'population' | 'area' | 'lifeExpectancy' | 'gdpPerCapita' | 'internet' | 'forest' | 'co2';
 const METRICS: Record<MetricKey, { label: string; question: string; get: (c: Country) => Fact | null; format: (v: number) => string; sources: SourceId[]; additive: boolean }> = {
   population: { label: 'Population', question: 'more people', get: (c) => c.population, format: (v) => `${fmtPeople(v)} people`, sources: ['world-bank'], additive: false },
   area: { label: 'Area', question: 'a bigger area', get: (c) => c.area, format: (v) => `${fmt.format(v)} km²`, sources: ['wikidata', 'world-countries'], additive: false },
   lifeExpectancy: { label: 'Life expectancy', question: 'a higher life expectancy', get: (c) => c.lifeExpectancy, format: fmtYears, sources: ['world-bank'], additive: true },
   gdpPerCapita: { label: 'Income per person', question: 'a higher GDP per person', get: (c) => c.gdpPerCapita, format: fmtUsd, sources: ['world-bank'], additive: false },
+  internet: { label: 'Internet use', question: 'a bigger share of people online', get: (c) => c.indicators?.internet ?? null, format: (v) => `${Math.round(v)}% online`, sources: ['world-bank'], additive: true },
+  forest: { label: 'Forest cover', question: 'more of its land covered by forest', get: (c) => c.indicators?.forest ?? null, format: (v) => `${Math.round(v)}% forest`, sources: ['world-bank'], additive: true },
+  co2: { label: 'CO₂ per person', question: 'higher CO₂ emissions per person', get: (c) => c.indicators?.co2 ?? null, format: (v) => `${v.toFixed(1)} t CO₂`, sources: ['world-bank'], additive: false },
 };
 
 /**
@@ -28,7 +31,7 @@ function gapOk(a: number, b: number, level: Difficulty, additive: boolean) {
   if (a === b) return false;
   const gap = additive ? Math.abs(a - b) : Math.max(a, b) / Math.min(a, b);
   const [lo, hi] = additive
-    ? ({ easy: [8, Infinity], medium: [3, 8], hard: [0.3, 3] } as const)[level]
+    ? ({ easy: [12, Infinity], medium: [4, 12], hard: [0.3, 4] } as const)[level]
     : ({ easy: [3, Infinity], medium: [1.3, 3], hard: [1.02, 1.3] } as const)[level];
   return gap >= lo && gap < hi;
 }

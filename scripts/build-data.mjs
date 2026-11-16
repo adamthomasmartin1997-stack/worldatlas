@@ -97,6 +97,18 @@ function government(c) {
   return out.headOfState || memberships.length ? out : null;
 }
 
+/** Extra World Bank indicators, latest value each. Literacy older than 2010 is left out as too out of date. */
+const INDICATOR_KEYS = ['literacy', 'internet', 'urban', 'co2', 'forest'];
+function indicators(iso) {
+  const out = {};
+  for (const k of INDICATOR_KEYS) {
+    const l = latest(wb[iso]?.[k]);
+    if (!l || (k === 'literacy' && l[0] < 2010)) continue;
+    out[k] = { value: Math.round(l[1] * 10) / 10, year: l[0], source: 'world-bank' };
+  }
+  return Object.keys(out).length ? out : null;
+}
+
 /** What the economy is made of: the latest year that has all three sector shares (World Bank). */
 function economyMix(iso) {
   const s = wb[iso];
@@ -176,6 +188,7 @@ const out = countries
     lifeExpectancy: latest(wb[c.cca3]?.lifeExpectancy) ? { value: Math.round(latest(wb[c.cca3].lifeExpectancy)[1] * 10) / 10, year: latest(wb[c.cca3].lifeExpectancy)[0], source: 'world-bank' } : null,
     government: government(c),
     economyMix: economyMix(c.cca3),
+    indicators: indicators(c.cca3),
     flag: flagColours(c.cca2) ? { colours: flagColours(c.cca2) } : null,
     fame: fame[c.cca3] ?? null,
     hasSeries: Boolean(wb[c.cca3]),
@@ -189,15 +202,16 @@ for (const c of out) if (c.flag) writeFileSync(`public/data/flags/${c.cca3.toLow
 writeFileSync('src/data/organisations.json', JSON.stringify(Object.fromEntries(Object.entries(orgs).map(([k, o]) => [k, { name: o.name, text: o.text, url: o.url, the: Boolean(o.the) }])), null, 1));
 writeFileSync(
   'src/data/countries.json',
-  JSON.stringify({ generatedAt: new Date().toISOString().slice(0, 10), sources: ['natural-earth', 'world-countries', ...(wikidata ? ['wikidata'] : []), ...(worldbank ? ['world-bank'] : []), 'member-lists'], countries: out }, null, 0),
+  JSON.stringify({ generatedAt: new Date().toISOString().slice(0, 10), world: indicators('WLD'), sources: ['natural-earth', 'world-countries', ...(wikidata ? ['wikidata'] : []), ...(worldbank ? ['world-bank'] : []), 'member-lists'], countries: out }, null, 0),
 );
 // Per-country time series for charts, loaded on demand by the country page.
 if (worldbank) {
   rmSync('public/data/series', { recursive: true, force: true });
   mkdirSync('public/data/series', { recursive: true });
   for (const [iso, series] of Object.entries(wb)) {
+    if (iso === 'WLD') continue;
     // Area and the economy shares aren't charted over time.
-    const { surfaceArea, agricultureShare, industryShare, servicesShare, exportsShare, ...charted } = series;
+    const { surfaceArea, agricultureShare, industryShare, servicesShare, exportsShare, literacy, internet, urban, co2, forest, ...charted } = series;
     writeFileSync(`public/data/series/${iso.toLowerCase()}.json`, JSON.stringify({ retrieved: worldbank.retrieved.slice(0, 10), indicators: worldbank.indicators, series: charted }));
   }
 }

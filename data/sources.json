@@ -48,7 +48,8 @@
       "attributionRequired": true,
       "usedFor": [
         "population, GDP per person, life expectancy since 1960 (scripts/importers/worldbank.mjs)",
-        "economy by sector and exports"
+        "economy by sector and exports",
+        "literacy, internet use, urban population, CO2 per person and forest cover, with world averages"
       ]
     },
     "member-lists": {

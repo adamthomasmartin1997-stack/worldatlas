@@ -11,7 +11,8 @@ import { createRequire } from 'node:module';
 import { getJson } from './http.mjs';
 
 const require = createRequire(import.meta.url);
-const isoCodes = new Set(require('world-countries').map((c) => c.cca3));
+// Countries, plus the world as a whole (WLD) for comparisons.
+const isoCodes = new Set([...require('world-countries').map((c) => c.cca3), 'WLD']);
 
 export const INDICATORS = {
   'SP.POP.TOTL': { key: 'population', label: 'Population', unit: 'people' },
@@ -22,6 +23,11 @@ export const INDICATORS = {
   'NV.IND.TOTL.ZS': { key: 'industryShare', label: 'Industry (including construction)', unit: '% of GDP', since: 2010 },
   'NV.SRV.TOTL.ZS': { key: 'servicesShare', label: 'Services', unit: '% of GDP', since: 2010 },
   'NE.EXP.GNFS.ZS': { key: 'exportsShare', label: 'Exports of goods and services', unit: '% of GDP', since: 2010 },
+  'SE.ADT.LITR.ZS': { key: 'literacy', label: 'Adult literacy rate', unit: '% of people aged 15+', since: 2000 },
+  'IT.NET.USER.ZS': { key: 'internet', label: 'People using the internet', unit: '% of population', since: 2000 },
+  'SP.URB.TOTL.IN.ZS': { key: 'urban', label: 'People living in towns and cities', unit: '% of population', since: 2000 },
+  'EN.GHG.CO2.PC.CE.AR5': { key: 'co2', label: 'CO₂ emissions per person', unit: 'tonnes per person', since: 2000 },
+  'AG.LND.FRST.ZS': { key: 'forest', label: 'Forest cover', unit: '% of land area', since: 2000 },
   'AG.SRF.TOTL.K2': { key: 'surfaceArea', label: 'Surface area', unit: 'km²' },
 };
 

@@ -2,6 +2,7 @@ import { useMemo, useState, type ReactNode } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { ArrowRight, Play } from 'lucide-react';
 import { CountryMap } from '../components/CountryMap';
+import { WorldCompare } from '../components/WorldCompare';
 import { FolderTabs, type FolderTab } from '../components/FolderTabs';
 import { LineChart } from '../components/LineChart';
 import { useSeries } from '../components/useSeries';
@@ -207,6 +208,7 @@ function Profile({ c }: { c: Country }) {
             <CountryChips codes={neighbours.map((n) => n.cca3)} />
           </div>
         </div>
+        <WorldCompare c={c} keys={['forest', 'co2']} title="Land and environment compared with the world" />
       </Panel>
     ),
     people: (
@@ -227,6 +229,7 @@ function Profile({ c }: { c: Country }) {
             <LineChart title={popStart ? `Population since ${popStart[0]}` : 'Population'} data={series.series.population} format={fmtPeople} axisFormat={fmtCompact} />
           )}
         </div>
+        <WorldCompare c={c} keys={['urban', 'internet', 'literacy']} title={`Life in ${c.name} compared with the world`} />
       </Panel>
     ),
     history: content?.history && (
