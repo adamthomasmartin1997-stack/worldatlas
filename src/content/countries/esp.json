@@ -5,7 +5,17 @@
     "Spain is a country in south-western Europe, covering most of the Iberian Peninsula. Its capital and largest city is Madrid. In the 1500s Spain built a huge empire in the Americas, which is why Spanish is now one of the most widely spoken languages in the world. Spain returned to democracy after the death of the dictator Francisco Franco in 1975, and it joined what is now the European Union in 1986."
   ],
   "geography": {
-    "text": "Much of Spain is a high central plateau called the Meseta, ringed by mountains such as the Pyrenees on the French border and the Sierra Nevada in the south. Spain has coastlines on both the Atlantic and the Mediterranean. Its territory also includes the Balearic Islands, the Canary Islands off north-west Africa, and the cities of Ceuta and Melilla on the north coast of Africa."
+    "text": "Much of Spain is a high central plateau called the Meseta, ringed by mountains such as the Pyrenees on the French border and the Sierra Nevada in the south. Spain has coastlines on both the Atlantic and the Mediterranean. Its territory also includes the Balearic Islands, the Canary Islands off north-west Africa, and the cities of Ceuta and Melilla on the north coast of Africa.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot, dry summers in the south and centre, milder and wetter in the north, and snow in the mountains."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Iberian lynx, Spanish imperial eagle and the bears of the Cantabrian Mountains."
+      }
+    ]
   },
   "history": {
     "text": "Spain's history includes centuries of Roman rule and almost eight centuries of Muslim rule in al-Andalus, which ended in 1492 when Granada fell. In the same year, Columbus crossed the Atlantic, beginning a vast Spanish empire in the Americas. After a civil war from 1936 to 1939, General Franco ruled as a dictator until his death in 1975, when Spain became a democracy.",
@@ -83,6 +93,20 @@
       "MEX",
       "ARG",
       "COL"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Paella, tapas, tortilla de patatas and jamón ibérico ham."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Flamenco, the paintings of Velázquez, Goya, Picasso and Dalí, and the buildings of Gaudí."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "In La Tomatina, in Buñol, people throw tomatoes at each other. At New Year, Spaniards eat 12 grapes at midnight."
+      }
     ]
   },
   "sport": {

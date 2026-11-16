@@ -5,7 +5,17 @@
     "Cyprus is an island country in the eastern Mediterranean, south of Turkey. Its capital is Nicosia. Cyprus became independent from the United Kingdom in 1960. Since 1974 the island has been divided: the Republic of Cyprus controls the south, while the north is run by a Turkish Cypriot administration that only Turkey recognises. Cyprus joined the European Union in 2004."
   ],
   "geography": {
-    "text": "Cyprus is the third-largest island in the Mediterranean, after Sicily and Sardinia. The Troodos Mountains cover much of the centre and west, and the narrow Kyrenia range runs along the north coast. Between them lies the Mesaoria plain, where Nicosia stands. The island has hot, dry summers and mild winters."
+    "text": "Cyprus is the third-largest island in the Mediterranean, after Sicily and Sardinia. The Troodos Mountains cover much of the centre and west, and the narrow Kyrenia range runs along the north coast. Between them lies the Mesaoria plain, where Nicosia stands. The island has hot, dry summers and mild winters.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Long, hot, dry summers and mild, rainy winters; snow falls on the Troodos Mountains."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The mouflon, a wild sheep, is the national animal, and green and loggerhead turtles nest on the beaches."
+      }
+    ]
   },
   "history": {
     "text": "Cyprus has been ruled by many powers, including Greeks, Romans, Byzantines, Venetians and Ottomans, before Britain took control in 1878. It became independent in 1960. In 1974 a coup backed by Greece's military government was followed by a Turkish invasion, and the island has been divided ever since.",
@@ -78,6 +88,20 @@
     "related": [
       "GRC",
       "TUR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Halloumi cheese, souvlaki and meze, many small dishes shared at the table."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Lefkara lace, made by hand in a village in the hills, is listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Kataklysmos, the Festival of the Flood, is celebrated with water fights and boat races by the sea."
+      }
     ]
   },
   "sport": {

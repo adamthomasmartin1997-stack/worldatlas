@@ -335,3 +335,9 @@ a.chip:hover { color: var(--ink); background: var(--sun); transform: translate(2
 .dyk-item:nth-child(2) { transform: rotate(1deg); }
 @media (prefers-reduced-motion: reduce) { .dyk-item { transform: none !important; } }
 .person-role { font-size: 14px; font-weight: 600; }
+
+/* Sub-sections inside a tab (Climate, Wildlife, Food...). */
+.subsections { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); gap: var(--space-4) var(--space-6); }
+.subsection { min-width: 0; }
+.subsection .panel-h { margin: 0 0 var(--space-2); }
+.subsection p { margin: 0; max-width: 65ch; }

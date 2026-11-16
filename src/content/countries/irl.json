@@ -5,7 +5,17 @@
     "Ireland is an island country in north-western Europe. It covers most of the island of Ireland; the north-east of the island is Northern Ireland, which is part of the United Kingdom. Its capital and largest city is Dublin. Ireland became independent from the United Kingdom in the 1920s and joined what is now the European Union in 1973. Irish and English are both official languages."
   ],
   "geography": {
-    "text": "Ireland is often called the Emerald Isle because of its green fields, kept lush by frequent rain from the Atlantic. The centre of the island is a low plain of farmland, lakes and peat bogs, ringed by coastal hills and mountains. The Shannon is the longest river in Ireland and in the British Isles, and the rugged west coast includes the Cliffs of Moher."
+    "text": "Ireland is often called the Emerald Isle because of its green fields, kept lush by frequent rain from the Atlantic. The centre of the island is a low plain of farmland, lakes and peat bogs, ringed by coastal hills and mountains. The Shannon is the longest river in Ireland and in the British Isles, and the rugged west coast includes the Cliffs of Moher.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild and wet all year, which keeps the countryside green; it rarely gets very hot or very cold."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Seals and puffins live on the coasts, and the Irish hare and red deer live inland."
+      }
+    ]
   },
   "history": {
     "text": "Christianity reached Ireland in the 400s, and its monasteries became famous centres of learning. English, and later British, rule tightened from the 1100s onwards. The Great Famine of the 1840s killed about a million people and forced another million to emigrate. After the Easter Rising of 1916 and a war of independence, most of Ireland became independent in 1922.",
@@ -85,6 +95,20 @@
     "related": [
       "GBR",
       "USA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Irish stew, soda bread and the full Irish breakfast. Potatoes have been a staple for centuries."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Traditional music with fiddles, tin whistles and the bodhrán drum is played in pubs across the country."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "On Saint Patrick's Day, 17 March, parades are held around the world. The Gaelic games of hurling and Gaelic football are played in every county."
+      }
     ]
   },
   "sport": {

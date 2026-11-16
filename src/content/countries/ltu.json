@@ -5,7 +5,17 @@
     "Lithuania is the largest and southernmost of the three Baltic states. Its capital is Vilnius. In the Middle Ages, the Grand Duchy of Lithuania was one of the largest countries in Europe. In 1990 Lithuania became the first Soviet republic to declare independence, and it joined NATO and the European Union in 2004."
   ],
   "geography": {
-    "text": "Lithuania is mostly flat, with low hills, many lakes and forests, and the long Neman river. Its short Baltic coast includes part of the Curonian Spit, a narrow strip of sand dunes it shares with Russia's Kaliningrad region. Even the highest point in the country is only about 300 metres above sea level."
+    "text": "Lithuania is mostly flat, with low hills, many lakes and forests, and the long Neman river. Its short Baltic coast includes part of the Curonian Spit, a narrow strip of sand dunes it shares with Russia's Kaliningrad region. Even the highest point in the country is only about 300 metres above sea level.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Cold winters and mild summers, with sandy dunes on the Baltic coast."
+      },
+      {
+        "title": "Wildlife",
+        "text": "White storks nest across the countryside; elk, wolves and beavers live in the forests."
+      }
+    ]
   },
   "history": {
     "text": "Lithuania was united as a state in the 1200s and grew into one of the largest countries in Europe. It was the last country in Europe to adopt Christianity, in 1387. Joined with Poland, it formed the Polish–Lithuanian Commonwealth until it was divided up in the late 1700s. Independent between the World Wars, Lithuania was the first Soviet republic to declare independence, in 1990.",
@@ -81,6 +91,20 @@
     "related": [
       "LVA",
       "POL"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Cepelinai, big potato dumplings stuffed with meat, and cold pink beetroot soup, šaltibarščiai."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Folk songs called sutartinės, sung in overlapping parts, are listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Užgavėnės, at the end of winter, features people in masks, pancakes and the burning of a straw figure called Morė."
+      }
     ]
   },
   "sport": {

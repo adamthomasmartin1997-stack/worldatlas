@@ -5,7 +5,17 @@
     "Denmark is a country in northern Europe, made up of the Jutland peninsula and hundreds of islands. Its capital, Copenhagen, is on the island of Zealand. Denmark is one of the oldest monarchies in the world, and the self-governing territories of Greenland and the Faroe Islands are also part of the Danish realm. It joined what is now the European Union in 1973 but kept its own currency, the krone."
   ],
   "geography": {
-    "text": "Denmark is very low and flat: no point in the country is much more than 170 metres above sea level. Jutland, which joins Germany in the south, makes up most of the land, and the rest is islands such as Zealand, Funen and Bornholm. With the North Sea to the west and the Baltic to the east, nowhere in Denmark is far from the coast."
+    "text": "Denmark is very low and flat: no point in the country is much more than 170 metres above sea level. Jutland, which joins Germany in the south, makes up most of the land, and the rest is islands such as Zealand, Funen and Bornholm. With the North Sea to the west and the Baltic to the east, nowhere in Denmark is far from the coast.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild and windy, with cool summers and damp winters; the sea is never far away."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Seals rest on the sandbanks of the Wadden Sea, and millions of starlings gather there in spring and autumn."
+      }
+    ]
   },
   "history": {
     "text": "Danish Vikings raided and settled across north-western Europe, and at times Danish kings ruled England, Norway and Sweden. Norway stayed under Danish rule until 1814. Denmark adopted a democratic constitution in 1849, was occupied by Germany during the Second World War, and joined what is now the European Union in 1973.",
@@ -73,6 +83,20 @@
       {
         "title": "The Little Mermaid",
         "text": "A bronze statue in Copenhagen's harbour since 1913."
+      }
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Smørrebrød, open sandwiches on rye bread, and pastries the rest of the world calls 'Danish'."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Danish design, from chairs to LEGO, is famous for being simple and useful. The Royal Danish Ballet is one of the oldest in the world."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "At Christmas, Danes dance around the tree holding hands, and at midsummer they burn a witch figure on a bonfire."
       }
     ]
   },

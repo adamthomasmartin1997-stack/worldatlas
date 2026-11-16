@@ -5,7 +5,17 @@
     "Sweden is the largest country in northern Europe, on the Scandinavian peninsula. Its capital and largest city is Stockholm, which is built on a group of islands. Sweden is a constitutional monarchy. It joined the European Union in 1995 and, after two centuries of staying out of military alliances, joined NATO in 2024."
   ],
   "geography": {
-    "text": "Forests cover around two-thirds of Sweden, and it has close to a hundred thousand lakes. The north, reaching beyond the Arctic Circle, is mountainous and thinly populated, while the south is flatter and has most of the farmland and cities. Its long Baltic coastline is fringed with thousands of islands."
+    "text": "Forests cover around two-thirds of Sweden, and it has close to a hundred thousand lakes. The north, reaching beyond the Arctic Circle, is mountainous and thinly populated, while the south is flatter and has most of the farmland and cities. Its long Baltic coastline is fringed with thousands of islands.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Cold winters and mild summers; the far north lies inside the Arctic Circle."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Moose, reindeer, lynx and wolves live in the forests."
+      }
+    ]
   },
   "history": {
     "text": "Swedish Vikings travelled east along the rivers of Russia. Sweden broke away from its union with Denmark in 1523 and became a great power in the 1600s, ruling much of the Baltic coast. It lost Finland to Russia in 1809 and has not fought a war since 1814. In the 1900s it built a famous welfare state.",
@@ -80,6 +90,20 @@
     ],
     "related": [
       "NOR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Meatballs with lingonberry jam, pickled herring and cinnamon buns."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Swedish pop music, from ABBA to modern songwriters, is famous worldwide."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Midsummer is celebrated with flower crowns and dancing around a maypole. On 13 December, Saint Lucia processions light up the darkness."
+      }
     ]
   },
   "sport": {

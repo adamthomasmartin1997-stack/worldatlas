@@ -5,7 +5,17 @@
     "Austria is a landlocked country in Central Europe. Its capital, Vienna, was for centuries the seat of the Habsburg family, who ruled a large empire in central Europe until 1918. Vienna is famous for classical music: Mozart, Haydn and Schubert were Austrian, and Beethoven did much of his work there. Today Austria is a federal republic, a member of the European Union and officially neutral."
   ],
   "geography": {
-    "text": "The Alps cover much of western and southern Austria, where glaciers surround its highest peak, the Grossglockner. The Danube flows across the north of the country from Germany towards Slovakia, passing through Vienna. The east is flatter, with farmland, vineyards and Lake Neusiedl, which Austria shares with Hungary."
+    "text": "The Alps cover much of western and southern Austria, where glaciers surround its highest peak, the Grossglockner. The Danube flows across the north of the country from Germany towards Slovakia, passing through Vienna. The east is flatter, with farmland, vineyards and Lake Neusiedl, which Austria shares with Hungary.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Cold, snowy winters in the Alps and warm summers in the lowlands around Vienna."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Ibex, chamois and marmots live in the Alps, and the Danube wetlands shelter beavers and herons."
+      }
+    ]
   },
   "history": {
     "text": "For more than six centuries Austria was ruled by the Habsburg family, whose empire at its height stretched across central Europe. The empire collapsed at the end of the First World War in 1918. Austria was annexed by Nazi Germany in 1938, occupied by the Allies after 1945, and regained full independence in 1955 as a neutral country.",
@@ -73,6 +83,20 @@
       {
         "title": "Schönbrunn Palace",
         "text": "The summer home of the Habsburg emperors in Vienna."
+      }
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Wiener schnitzel, a thin breaded veal cutlet, and apple strudel are national favourites. Vienna's cafés serve Sachertorte, a chocolate cake."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Classical music is at the heart of Austrian culture, from Mozart to the Vienna Philharmonic. The painter Gustav Klimt is famous for The Kiss."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Krampus, a horned figure, follows Saint Nicholas in early December. Vienna holds hundreds of formal balls each winter."
       }
     ]
   },

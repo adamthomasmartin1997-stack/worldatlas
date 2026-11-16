@@ -5,7 +5,17 @@
     "Croatia is a country in south-eastern Europe, on the Adriatic Sea. Its capital and largest city is Zagreb. Croatia was part of Yugoslavia until it declared independence in 1991. It joined the European Union in 2013 and adopted the euro in 2023. Its coastline, islands and old towns such as Dubrovnik and Split make it one of Europe's most popular holiday destinations."
   ],
   "geography": {
-    "text": "Croatia has an unusual crescent shape. The north and east are part of the flat Pannonian Plain, crossed by the Drava and Sava rivers. The long Adriatic coast is lined with more than a thousand islands, with the Dinaric Alps rising just behind it. The Plitvice Lakes, a chain of lakes linked by waterfalls, are among its best-known natural sights."
+    "text": "Croatia has an unusual crescent shape. The north and east are part of the flat Pannonian Plain, crossed by the Drava and Sava rivers. The long Adriatic coast is lined with more than a thousand islands, with the Dinaric Alps rising just behind it. The Plitvice Lakes, a chain of lakes linked by waterfalls, are among its best-known natural sights.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "A sunny Mediterranean climate on the Adriatic coast, and colder winters inland."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Bears, wolves and lynx roam the forests, and dolphins swim off the islands."
+      }
+    ]
   },
   "history": {
     "text": "Croatia became a kingdom in 925 and from 1102 was joined with Hungary, later becoming part of the Habsburg lands. After the First World War it joined the new state that became Yugoslavia. Croatia declared independence in 1991, fought a war until 1995, and joined the European Union in 2013.",
@@ -75,6 +85,20 @@
     "related": [
       "FRA",
       "ITA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Seafood, olive oil and grilled fish on the coast; inland, štrukli, a cheese pastry, and peka, meat slow-cooked under an iron bell."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Klapa, a style of a cappella singing from Dalmatia, is listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The Sinjska Alka, a horseback tournament held every August since 1715, celebrates a victory over the Ottomans."
+      }
     ]
   },
   "sport": {

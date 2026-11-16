@@ -5,7 +5,17 @@
     "Slovenia is a small country in Central Europe, between the Alps and the Adriatic Sea. Its capital is Ljubljana. Slovenia was the first republic to leave Yugoslavia, declaring independence in 1991. It joined the European Union and NATO in 2004, and in 2007 it became the first former communist country to adopt the euro."
   ],
   "geography": {
-    "text": "More than half of Slovenia is covered by forest. The Julian Alps rise in the north-west, including Triglav, the highest peak, which appears on the national flag. The south-west is karst country, with limestone caves such as Postojna and Škocjan. Slovenia's Adriatic coastline is less than 50 kilometres long."
+    "text": "More than half of Slovenia is covered by forest. The Julian Alps rise in the north-west, including Triglav, the highest peak, which appears on the national flag. The south-west is karst country, with limestone caves such as Postojna and Škocjan. Slovenia's Adriatic coastline is less than 50 kilometres long.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mediterranean on the short coast, Alpine in the mountains, and continental in the east."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Brown bears, and the olm, a blind cave salamander that can live for over 100 years."
+      }
+    ]
   },
   "history": {
     "text": "Slovenes settled the eastern Alps in the 500s and were ruled for centuries by the Habsburgs. Slovenia joined the new Kingdom of Serbs, Croats and Slovenes in 1918, which later became Yugoslavia. In 1991 it declared independence and won it after a war that lasted just ten days.",
@@ -67,6 +77,20 @@
       {
         "title": "Beekeeping",
         "text": "Slovenia proposed World Bee Day, held every 20 May."
+      }
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Potica, a rolled nut cake, and kranjska klobasa, a smoked sausage."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Painted beehive panels are a unique Slovenian folk art."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Kurentovanje in Ptuj features costumed figures with bells who chase winter away."
       }
     ]
   },

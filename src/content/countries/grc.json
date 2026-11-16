@@ -5,7 +5,17 @@
     "Greece is a country in south-eastern Europe, at the southern end of the Balkan peninsula. Its capital, Athens, was a centre of ancient Greek civilisation, which gave the world early ideas of democracy, philosophy and theatre, as well as the Olympic Games. Modern Greece won its independence from the Ottoman Empire in the 1820s, and it joined what is now the European Union in 1981."
   ],
   "geography": {
-    "text": "Greece is a mountainous country with a very long coastline and thousands of islands spread across the Aegean and Ionian seas. Crete is the largest island. Mount Olympus, home of the gods in Greek myths, is the highest mountain. Summers are hot and dry, and winters are mild along the coasts."
+    "text": "Greece is a mountainous country with a very long coastline and thousands of islands spread across the Aegean and Ionian seas. Crete is the largest island. Mount Olympus, home of the gods in Greek myths, is the highest mountain. Summers are hot and dry, and winters are mild along the coasts.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot, dry summers and mild, rainy winters, with snow on the mountains."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Loggerhead sea turtles nest on Greek beaches, and the mountains are home to bears and wolves."
+      }
+    ]
   },
   "history": {
     "text": "Ancient Greek city-states such as Athens and Sparta developed ideas about democracy, philosophy, science and theatre that still shape the world. Greece later became part of the Roman, Byzantine and Ottoman empires. It won independence in the 1820s, was occupied in the Second World War, and after military rule from 1967 to 1974 became a democracy again.",
@@ -74,6 +84,20 @@
     "related": [
       "ITA",
       "CYP"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Olive oil, feta, tomatoes and fish; dishes include moussaka, souvlaki and spanakopita."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Ancient Greek theatre, sculpture and architecture influenced the whole Western world. Rebetiko music is sometimes called the Greek blues."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Easter is the biggest festival: at midnight people light candles, and on Sunday families roast a whole lamb."
+      }
     ]
   },
   "sport": {

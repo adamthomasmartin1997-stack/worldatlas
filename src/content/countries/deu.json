@@ -5,7 +5,17 @@
     "Germany is a country in Central Europe and the most populous member of the European Union. Its capital and largest city is Berlin. After the Second World War, Germany was divided into West and East Germany; the Berlin Wall fell in 1989 and the country reunited in 1990. Germany is a federal republic of 16 states and has one of the largest economies in the world."
   ],
   "geography": {
-    "text": "Germany's landscape rises from north to south. The north is a flat plain facing the North Sea and the Baltic Sea. The centre has wooded hills and low mountains, and in the far south the Alps rise along the border with Austria, where the Zugspitze is the country's highest peak. Its great rivers include the Rhine, the Elbe and the Danube."
+    "text": "Germany's landscape rises from north to south. The north is a flat plain facing the North Sea and the Baltic Sea. The centre has wooded hills and low mountains, and in the far south the Alps rise along the border with Austria, where the Zugspitze is the country's highest peak. Its great rivers include the Rhine, the Elbe and the Danube.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild, damp winters in the north and colder, snowier winters in the south and the mountains."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Red deer and wild boar live in the forests, and wolves have returned in recent years."
+      }
+    ]
   },
   "history": {
     "text": "For centuries the German lands were split into hundreds of states within the Holy Roman Empire. Germany was unified in 1871. After defeat in the First World War, the Nazis took power in 1933, started the Second World War and carried out the Holocaust. Divided after 1945 into West and East Germany, the country was reunited in 1990.",
@@ -74,6 +84,20 @@
       {
         "title": "Brandenburg Gate",
         "text": "Once part of the Berlin Wall's border zone, now a symbol of unity."
+      }
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Bread, sausages, pretzels and sauerkraut are famous, and cakes such as Black Forest gateau are eaten with afternoon coffee."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Germany is the home of composers such as Bach and Beethoven and of the Grimms' fairy tales. Techno music thrives in Berlin."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Christmas markets, with mulled wine and wooden decorations, began in Germany. Carnival is celebrated with parades in the Rhineland."
       }
     ]
   },

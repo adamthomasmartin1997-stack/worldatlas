@@ -1,7 +1,7 @@
 // Written country content (see src/content/countries/README.md). Loaded at build time.
 export interface Fact { label: string; value: string }
 export interface Item { title: string; text: string; related?: string[] }
-export interface Section { text?: string; facts?: Fact[]; related?: string[] }
+export interface Section { text?: string; facts?: Fact[]; related?: string[]; subsections?: { title: string; text: string }[] }
 export interface CountryContent {
   status: 'draft' | 'reviewed';
   sources?: string[];

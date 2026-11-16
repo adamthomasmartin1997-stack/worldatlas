@@ -5,7 +5,17 @@
     "Poland is a country in Central Europe, on the Baltic Sea. Its capital and largest city is Warsaw. In the late 1700s Poland disappeared from the map when its neighbours divided it between them, and it became independent again in 1918. After decades of communist rule it became a democracy in 1989, and it joined NATO in 1999 and the European Union in 2004."
   ],
   "geography": {
-    "text": "Most of Poland is part of the North European Plain: low and flat, with farmland and forests. The Vistula, its longest river, flows north through Kraków and Warsaw to the Baltic Sea. The Masurian Lake District in the north-east has thousands of lakes, and the south rises into the Sudetes and the Carpathians, including the Tatra Mountains."
+    "text": "Most of Poland is part of the North European Plain: low and flat, with farmland and forests. The Vistula, its longest river, flows north through Kraków and Warsaw to the Baltic Sea. The Masurian Lake District in the north-east has thousands of lakes, and the south rises into the Sudetes and the Carpathians, including the Tatra Mountains.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Cold winters and warm summers, with snow in the Tatra Mountains."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Białowieża Forest has wild bison, and the Tatras have bears, chamois and marmots."
+      }
+    ]
   },
   "history": {
     "text": "Poland became a Christian kingdom in 966 and, joined with Lithuania, was one of the largest states in Europe. It was divided up by Russia, Prussia and Austria and disappeared from the map in 1795. Reborn in 1918, Poland was invaded by Germany in 1939, starting the Second World War. The Solidarity movement helped bring down communism in 1989.",
@@ -84,6 +94,20 @@
     ],
     "related": [
       "FRA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Pierogi dumplings, bigos stew and sour rye soup, żurek."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Composer Chopin and film directors such as Andrzej Wajda are celebrated. Polish poster art is world-famous."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "On Christmas Eve, families leave an empty place at the table for an unexpected guest and share a wafer called opłatek."
+      }
     ]
   },
   "sport": {

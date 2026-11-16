@@ -5,7 +5,17 @@
     "Serbia is a landlocked country in the Balkans. Its capital and largest city is Belgrade, which stands where the Sava river joins the Danube. Serbia was the largest republic of Yugoslavia. Kosovo, in the south, declared independence from Serbia in 2008, which Serbia does not recognise."
   ],
   "geography": {
-    "text": "Northern Serbia, a region called Vojvodina, is flat and fertile, part of the Pannonian Plain. Further south the land becomes hilly and then mountainous. The Danube flows through the country and cuts through the dramatic Iron Gates gorge on the border with Romania."
+    "text": "Northern Serbia, a region called Vojvodina, is flat and fertile, part of the Pannonian Plain. Further south the land becomes hilly and then mountainous. The Danube flows through the country and cuts through the dramatic Iron Gates gorge on the border with Romania.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot summers and cold winters, with snow in the southern mountains."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Danube's Iron Gates gorge and national parks shelter wolves, lynx and many birds of prey."
+      }
+    ]
   },
   "history": {
     "text": "The medieval Serbian state reached its height under Emperor Stefan Dušan in the 1300s, before it was defeated by the Ottomans, most famously at the Battle of Kosovo in 1389. Serbia won self-rule and then full independence in 1878. It was the largest part of Yugoslavia from 1918, and after Yugoslavia broke up in wars in the 1990s, it became a separate state again in 2006.",
@@ -80,6 +90,20 @@
     "related": [
       "USA",
       "HRV"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Ćevapi, grilled meat, and kajmak, a creamy dairy spread, are favourites."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Medieval monasteries hold beautiful frescoes, and the EXIT music festival draws crowds from across Europe."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Each family celebrates its slava, a feast day for its patron saint, listed by UNESCO."
+      }
     ]
   },
   "sport": {

@@ -5,7 +5,17 @@
     "San Marino is a tiny landlocked country completely surrounded by Italy. It claims to be the oldest surviving republic in the world, traditionally said to have been founded in 301. Its capital is the City of San Marino. It uses the euro, although it is not a member of the European Union."
   ],
   "geography": {
-    "text": "San Marino sits on and around Monte Titano, in the foothills of the Apennines, not far from Italy's Adriatic coast. Three medieval towers stand on the mountain's peaks, and the old town looks out over the surrounding Italian countryside."
+    "text": "San Marino sits on and around Monte Titano, in the foothills of the Apennines, not far from Italy's Adriatic coast. Three medieval towers stand on the mountain's peaks, and the old town looks out over the surrounding Italian countryside.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild Mediterranean climate on the slopes of Monte Titano, with cold winters at the top."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Foxes, badgers and many birds live in the woods around the mountain."
+      }
+    ]
   },
   "history": {
     "text": "According to tradition, San Marino was founded in 301 by Marinus, a stonemason from the island of Rab who fled the persecution of Christians. Protected by its mountain and by careful diplomacy, it has kept its independence ever since. Napoleon offered to enlarge it, but San Marino politely refused. Its constitution, dating from 1600, is one of the oldest still in force.",
@@ -72,6 +82,20 @@
     ],
     "related": [
       "ITA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Torta Tre Monti, a layered wafer cake named after the three towers."
+      },
+      {
+        "title": "Music and arts",
+        "text": "The medieval historic centre is a UNESCO site."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "On 1 April and 1 October, two new Captains Regent take office in a colourful ceremony."
+      }
     ]
   },
   "sport": {

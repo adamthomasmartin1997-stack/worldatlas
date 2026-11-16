@@ -5,7 +5,17 @@
     "Albania is a country in the Balkans, on the eastern shores of the Adriatic and Ionian seas. Its capital and largest city is Tirana. Albania was ruled by the Ottoman Empire for more than four centuries and declared independence in 1912. After decades of strict communist rule that cut it off from much of the world, it became a multi-party democracy in the early 1990s, and it joined NATO in 2009."
   ],
   "geography": {
-    "text": "Most of Albania is mountainous, with the Albanian Alps in the north and long ranges running down the country. A strip of coastal plain lies along the Adriatic, while the south faces the Ionian Sea. Albania shares three large lakes with its neighbours: Lake Shkodër with Montenegro, Lake Ohrid with North Macedonia, and Lake Prespa with North Macedonia and Greece."
+    "text": "Most of Albania is mountainous, with the Albanian Alps in the north and long ranges running down the country. A strip of coastal plain lies along the Adriatic, while the south faces the Ionian Sea. Albania shares three large lakes with its neighbours: Lake Shkodër with Montenegro, Lake Ohrid with North Macedonia, and Lake Prespa with North Macedonia and Greece.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot, dry summers and mild, wet winters on the coast; the mountains inland are much colder, with heavy snow."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Brown bears, wolves and lynx live in the mountains, and the double-headed eagle on the flag is based on the golden eagle."
+      }
+    ]
   },
   "history": {
     "text": "Albania's lands were part of the Roman and Byzantine empires before the Ottomans took control in the 1400s, despite fierce resistance led by the national hero Skanderbeg. Albania declared independence in 1912. After the Second World War, Enver Hoxha's communist government cut the country off from almost the whole world for four decades, until protests brought multi-party democracy in the early 1990s.",
@@ -74,6 +84,20 @@
     "related": [
       "IND",
       "MKD"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Byrek, flaky pastry filled with cheese or spinach, and tavë kosi, baked lamb with yoghurt, are favourites. Meals often end with strong coffee."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Iso-polyphonic singing, with a drone under several voice parts, is listed by UNESCO. Albanian writer Ismail Kadare is famous worldwide."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Summer Day on 14 March welcomes spring with a special cake called ballokume. Weddings can last several days."
+      }
     ]
   },
   "sport": {

@@ -5,7 +5,17 @@
     "Slovakia is a landlocked country in Central Europe. Its capital, Bratislava, lies on the Danube, close to the borders of both Austria and Hungary. Slovakia became independent on 1 January 1993, when Czechoslovakia peacefully split in two. It joined NATO and the European Union in 2004 and uses the euro."
   ],
   "geography": {
-    "text": "Much of Slovakia is mountainous. The Carpathians cross the north and centre of the country, including the High Tatras, the highest range in the Carpathians, which Slovakia shares with Poland. The south-west is lower and flatter, along the Danube, and the country is known for its many caves."
+    "text": "Much of Slovakia is mountainous. The Carpathians cross the north and centre of the country, including the High Tatras, the highest range in the Carpathians, which Slovakia shares with Poland. The south-west is lower and flatter, along the Danube, and the country is known for its many caves.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Cold winters and warm summers, with snowy peaks in the Tatras."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Carpathian forests are home to bears, wolves and lynx."
+      }
+    ]
   },
   "history": {
     "text": "Slavs settled the area in the 500s, and it was part of Great Moravia before becoming part of the Kingdom of Hungary for about a thousand years. Bratislava, then called Pressburg, was Hungary's capital and coronation city while the Ottomans held Buda. In 1918 Slovakia joined Czechoslovakia, and after a peaceful 'Velvet Divorce' it became independent in 1993.",
@@ -77,6 +87,20 @@
     "related": [
       "CZE",
       "HUN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Bryndzové halušky, potato dumplings with sheep's cheese and bacon, is the national dish."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Folk music played on the fujara, a long shepherd's flute, is listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "At Easter, villages hold folk festivals with music and painted eggs."
+      }
     ]
   },
   "sport": {

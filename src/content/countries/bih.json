@@ -5,7 +5,17 @@
     "Bosnia and Herzegovina is a country in the Balkans. Its capital is Sarajevo. It was part of Yugoslavia until it declared independence in 1992, which was followed by a war that lasted until 1995. Today the country is made up of two main parts, the Federation of Bosnia and Herzegovina and Republika Srpska, plus the small Brčko District."
   ],
   "geography": {
-    "text": "Bosnia and Herzegovina is mostly mountainous, with the Dinaric Alps running from north-west to south-east. Bosnia, the larger northern part, has forests and river valleys, while Herzegovina in the south is drier, with bare limestone hills. The country reaches the Adriatic Sea along only a very short stretch of coast, at the town of Neum."
+    "text": "Bosnia and Herzegovina is mostly mountainous, with the Dinaric Alps running from north-west to south-east. Bosnia, the larger northern part, has forests and river valleys, while Herzegovina in the south is drier, with bare limestone hills. The country reaches the Adriatic Sea along only a very short stretch of coast, at the town of Neum.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot summers and cold, snowy winters inland; the short coast near Neum is Mediterranean."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Brown bears, wolves and chamois live in the mountains, and the Neretva River has rare trout."
+      }
+    ]
   },
   "history": {
     "text": "Medieval Bosnia was an independent kingdom until the Ottomans conquered it in the 1460s. Austria-Hungary took control in 1878, and in 1914 the assassination of Archduke Franz Ferdinand in Sarajevo set off the First World War. After decades in Yugoslavia, Bosnia's independence in 1992 was followed by a devastating war that ended with the Dayton Agreement in 1995.",
@@ -73,6 +83,20 @@
       {
         "title": "Ivo Andrić",
         "text": "Won the Nobel Prize in Literature in 1961 for novels such as The Bridge on the Drina."
+      }
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Ćevapi, small grilled sausages in flatbread with onions, are the national dish. Burek pastry and strong Bosnian coffee are everywhere."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Sevdalinka songs are full of longing, and the city of Sarajevo hosts one of Europe's biggest film festivals."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "In Mostar, divers jump from the Old Bridge into the Neretva every summer in a competition dating back centuries."
       }
     ]
   },

@@ -5,7 +5,17 @@
     "Belgium is a small country in Western Europe on the North Sea. Its capital, Brussels, is home to the main institutions of the European Union and the headquarters of NATO. Belgium has three official languages: Dutch, spoken mainly in Flanders in the north; French, spoken mainly in Wallonia in the south; and German, in a small area in the east. It is known for chocolate, waffles and comic books."
   ],
   "geography": {
-    "text": "Northern Belgium is low and flat, with a short, sandy North Sea coast and farmland crossed by rivers and canals. The land rises towards the south-east into the forested hills of the Ardennes. The Scheldt and the Meuse are its main rivers, and the port of Antwerp on the Scheldt is one of the largest in Europe."
+    "text": "Northern Belgium is low and flat, with a short, sandy North Sea coast and farmland crossed by rivers and canals. The land rises towards the south-east into the forested hills of the Ardennes. The Scheldt and the Meuse are its main rivers, and the port of Antwerp on the Scheldt is one of the largest in Europe.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild and damp all year, with cool summers and few very cold winters."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Ardennes forests in the south are home to wild boar, red deer and black storks."
+      }
+    ]
   },
   "history": {
     "text": "Belgium's land was fought over for centuries by Europe's great powers and ruled in turn by Spain, Austria, France and the Netherlands. It broke away from the Netherlands and became independent in 1830. Belgium was invaded in both World Wars, and after 1945 it became a founding member of what is now the European Union, with Brussels as its main home.",
@@ -82,6 +92,20 @@
       "NLD",
       "FRA",
       "DEU"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Belgian fries, waffles, chocolate and moules-frites (mussels with fries) are famous. Belgium also brews hundreds of kinds of beer."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Belgian comic books are a national art form, from Tintin to the Smurfs. Painters include Bruegel, Rubens and Magritte."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The Carnival of Binche, listed by UNESCO, features dancers called Gilles in wax masks who throw oranges to the crowd."
+      }
     ]
   },
   "sport": {

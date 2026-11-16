@@ -5,7 +5,17 @@
     "Norway is a country in northern Europe, on the western side of the Scandinavian peninsula. Its capital and largest city is Oslo. Norway is a constitutional monarchy and became fully independent from Sweden in 1905. It is not a member of the European Union. Oil and gas from under the North Sea have made it one of the richest countries in the world."
   ],
   "geography": {
-    "text": "Norway is long, narrow and mountainous, with a deeply cut coastline of fjords carved by glaciers. Thousands of islands lie off the coast, and in the far north, beyond the Arctic Circle, the sun does not set in midsummer. The Svalbard islands, far out in the Arctic Ocean, are also part of Norway."
+    "text": "Norway is long, narrow and mountainous, with a deeply cut coastline of fjords carved by glaciers. Thousands of islands lie off the coast, and in the far north, beyond the Arctic Circle, the sun does not set in midsummer. The Svalbard islands, far out in the Arctic Ocean, are also part of Norway.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild on the coast thanks to the Gulf Stream, but cold and snowy inland and in the north."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Reindeer, moose, musk oxen and polar bears on Svalbard; orcas and whales feed off the coast."
+      }
+    ]
   },
   "history": {
     "text": "Norwegian Vikings sailed as far as Iceland, Greenland and North America. Norway was united as a kingdom around the 900s, but from 1380 it was joined with Denmark, and from 1814 with Sweden. It became fully independent in 1905. Occupied by Germany in the Second World War, Norway later grew rich from North Sea oil, discovered in 1969.",
@@ -80,6 +90,20 @@
     ],
     "related": [
       "SWE"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Salmon, cod and brown cheese, brunost, with a sweet caramel taste."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Norway gave the world Ibsen's plays, Munch's paintings and Grieg's music."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "On Constitution Day, 17 May, children march through towns waving flags, and many people wear traditional bunad costumes."
+      }
     ]
   },
   "sport": {

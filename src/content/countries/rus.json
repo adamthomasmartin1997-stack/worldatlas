@@ -5,7 +5,17 @@
     "Russia is the largest country in the world by area, stretching across Eastern Europe and northern Asia. Its capital and largest city is Moscow. Russia was the largest republic of the Soviet Union, which broke up in 1991, and it is one of the five permanent members of the UN Security Council. Since 2014 Russia has occupied parts of Ukraine, and in 2022 it launched a full-scale invasion of the country."
   ],
   "geography": {
-    "text": "Russia spans 11 time zones, from the Baltic Sea to the Pacific Ocean. The Ural Mountains separate European Russia, where most people live, from Siberia, a vast region of forest, frozen tundra and great rivers such as the Ob, the Yenisei and the Lena. Lake Baikal in Siberia is the deepest lake in the world, and the Volga is the longest river in Europe."
+    "text": "Russia spans 11 time zones, from the Baltic Sea to the Pacific Ocean. The Ural Mountains separate European Russia, where most people live, from Siberia, a vast region of forest, frozen tundra and great rivers such as the Ob, the Yenisei and the Lena. Lake Baikal in Siberia is the deepest lake in the world, and the Volga is the longest river in Europe.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Very cold winters across most of the country, especially in Siberia, with warm summers in the south."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Siberian tigers, brown bears, polar bears and the Baikal seal, which lives only in Lake Baikal."
+      }
+    ]
   },
   "history": {
     "text": "Russia grew from the medieval state of Kievan Rus' and the later Grand Duchy of Moscow into a vast empire stretching to the Pacific. The tsars were overthrown in 1917, and the Bolsheviks created the Soviet Union, which lost tens of millions of people in the Second World War and became a superpower. When the Soviet Union broke up in 1991, Russia became its successor state.",
@@ -84,6 +94,20 @@
     "related": [
       "UKR",
       "CHN"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Borscht, blini pancakes and pelmeni dumplings are popular."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Russian literature, ballet and classical music are world-famous, from Tolstoy to Tchaikovsky."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Maslenitsa, a week of pancakes before Lent, ends with burning a straw figure of winter."
+      }
     ]
   },
   "sport": {

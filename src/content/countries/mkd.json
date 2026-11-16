@@ -5,7 +5,17 @@
     "North Macedonia is a landlocked country in the Balkans. Its capital and largest city is Skopje. It became independent from Yugoslavia in 1991, and in 2019 it changed its name from Macedonia to North Macedonia after an agreement with Greece. It joined NATO in 2020."
   ],
   "geography": {
-    "text": "North Macedonia is mostly mountainous, cut through by the valley of the Vardar, its main river, which flows south into Greece. In the south-west it shares two large lakes with its neighbours: Lake Ohrid with Albania, and Lake Prespa with Albania and Greece. Lake Ohrid is one of the oldest and deepest lakes in Europe."
+    "text": "North Macedonia is mostly mountainous, cut through by the valley of the Vardar, its main river, which flows south into Greece. In the south-west it shares two large lakes with its neighbours: Lake Ohrid with Albania, and Lake Prespa with Albania and Greece. Lake Ohrid is one of the oldest and deepest lakes in Europe.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot summers and cold winters, with milder weather around the lakes."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Brown bears, wolves and the rare Balkan lynx live in the mountains; Lake Ohrid has fish found nowhere else."
+      }
+    ]
   },
   "history": {
     "text": "The region was the heartland of ancient Macedon, then part of the Roman and Byzantine empires, and was ruled by the Ottomans for about 500 years. After the Balkan Wars it became part of Serbia and then Yugoslavia. It became independent in 1991, and a long naming dispute with Greece was settled with an agreement in 2018, leading to its new name, North Macedonia, in 2019.",
@@ -75,6 +85,20 @@
     "related": [
       "GRC",
       "ALB"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Tavče gravče, baked beans in a clay pot, is the national dish. Ajvar, a red pepper relish, is made every autumn."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Lake Ohrid's churches hold some of the finest Byzantine icons and wall paintings in the world."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "On Epiphany, men dive into icy rivers and lakes to catch a cross thrown by a priest."
+      }
     ]
   },
   "sport": {

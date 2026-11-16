@@ -5,7 +5,17 @@
     "Luxembourg is a small landlocked country between Belgium, France and Germany. Its capital, Luxembourg City, is one of the official seats of the European Union. It is the only grand duchy left in the world, and its official languages are Luxembourgish, French and German. Luxembourg has one of the highest incomes per person in the world, thanks largely to banking and finance."
   ],
   "geography": {
-    "text": "The north of Luxembourg, called the Ösling, is part of the forested Ardennes uplands. The south, called the Gutland or 'good land', is lower and more fertile, and is where most people live. The Moselle river forms part of the border with Germany, and its valley is lined with vineyards."
+    "text": "The north of Luxembourg, called the Ösling, is part of the forested Ardennes uplands. The south, called the Gutland or 'good land', is lower and more fertile, and is where most people live. The Moselle river forms part of the border with Germany, and its valley is lined with vineyards.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild and damp, with cool summers and cold winters in the hilly north."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Wild boar and deer live in the Ardennes forests in the north."
+      }
+    ]
   },
   "history": {
     "text": "Luxembourg began as a castle built in 963. Over the centuries it was ruled by Burgundy, Spain, Austria and France. It became a grand duchy in 1815 and was declared permanently neutral in 1867. Occupied by Germany in both World Wars, it then became a founding member of NATO and of what is now the European Union.",
@@ -72,6 +82,20 @@
       "BEL",
       "FRA",
       "DEU"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Judd mat Gaardebounen, smoked pork with broad beans, is the national dish."
+      },
+      {
+        "title": "Music and arts",
+        "text": "The capital's old quarters and fortifications are a UNESCO site, and the country hosts many music festivals."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The Dancing Procession of Echternach, listed by UNESCO, sees thousands hop through the streets every Whit Tuesday."
+      }
     ]
   },
   "sport": {

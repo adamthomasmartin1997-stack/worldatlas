@@ -5,7 +5,17 @@
     "The Netherlands is a country in north-western Europe on the North Sea. Its capital is Amsterdam, although the government sits in The Hague. The Netherlands is a constitutional monarchy and was a founding member of what is now the European Union. It is famous for windmills, tulips, cycling and canals, and Rotterdam has the largest port in Europe."
   ],
   "geography": {
-    "text": "The Netherlands is extremely flat, and about a quarter of the land is below sea level. Much of it has been won from the sea and lakes and is protected by dykes, dunes and pumps; this reclaimed land is called polder. The Rhine, the Maas and the Scheldt reach the sea through its delta, and the only real hills are in the far south-east."
+    "text": "The Netherlands is extremely flat, and about a quarter of the land is below sea level. Much of it has been won from the sea and lakes and is protected by dykes, dunes and pumps; this reclaimed land is called polder. The Rhine, the Maas and the Scheldt reach the sea through its delta, and the only real hills are in the far south-east.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild, windy and wet, with cool summers and mild winters."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Wadden Sea, shared with Germany and Denmark, has seals and millions of migrating birds."
+      }
+    ]
   },
   "history": {
     "text": "In 1581 the northern provinces of the Low Countries declared independence from Spain, and in the 1600s the Dutch Republic became a great trading power, in a 'Golden Age' of artists such as Rembrandt and Vermeer. The kingdom was created in 1815. The Netherlands was occupied by Germany in the Second World War, and after the deadly flood of 1953 it built huge sea defences.",
@@ -77,6 +87,20 @@
     "related": [
       "BEL",
       "TUR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Cheese such as Gouda and Edam, herring eaten raw with onions, and stroopwafels, syrup waffles."
+      },
+      {
+        "title": "Music and arts",
+        "text": "The Dutch Golden Age gave the world Rembrandt and Vermeer, and Van Gogh is the most famous Dutch painter of all."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "On King's Day, 27 April, the whole country dresses in orange and holds street markets."
+      }
     ]
   },
   "sport": {

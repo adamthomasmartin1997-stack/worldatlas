@@ -117,6 +117,16 @@ function CountryChips({ codes }: { codes: string[] }) {
   return <div className="chip-row">{cs.map((n) => <Link key={n.cca3} to={countryPath(n)} className="chip">{n.name}</Link>)}</div>;
 }
 
+/** Short headed sub-sections under a tab's main paragraph, e.g. Climate and Wildlife. */
+function Subsections({ items }: { items?: { title: string; text: string }[] }) {
+  if (!items?.length) return null;
+  return (
+    <div className="subsections">
+      {items.map((s) => <section key={s.title} className="subsection"><h3 className="panel-h">{s.title}</h3><p>{s.text}</p></section>)}
+    </div>
+  );
+}
+
 /** Paragraph + body for one folder tab, with an honest note on where the words came from. */
 function Panel({ text, generated, content, children, sources, note }: { text?: string; generated?: string; content?: CountryContent; children?: ReactNode; sources?: SourceId[]; note?: string }) {
   return (
@@ -202,6 +212,7 @@ function Profile({ c }: { c: Country }) {
         sources={['world-countries', ...(c.area?.source === 'wikidata' || c.highestPoint ? (['wikidata'] as SourceId[]) : [])]}
         note={c.area?.source === 'wikidata' ? 'Area includes any overseas regions.' : undefined}
       >
+        <Subsections items={content?.geography?.subsections} />
         <div className="panel-split">
           <Facts rows={[
             { label: 'Area', value: c.area ? `${fmt.format(c.area.value)} km²` : '—' },
@@ -311,6 +322,7 @@ function Profile({ c }: { c: Country }) {
     ),
     culture: content?.culture && (
       <Panel text={content.culture.text} content={content}>
+        <Subsections items={content.culture.subsections} />
         <div className="item-grid">{content.culture.items?.map((i) => <div key={i.title} className="item-card"><span className="item-title">{i.title}</span><span className="muted">{i.text}</span></div>)}</div>
         {content.culture.related && <div><h3 className="panel-h">Connected countries</h3><CountryChips codes={content.culture.related} /></div>}
       </Panel>

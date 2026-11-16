@@ -5,7 +5,17 @@
     "Monaco is a tiny city-state on the Mediterranean coast, surrounded on land by France. It is the second-smallest country in the world, after Vatican City, and one of the most densely populated. Monaco is a principality ruled by the Grimaldi family, and it is famous for its casino in Monte Carlo and the Monaco Grand Prix."
   ],
   "geography": {
-    "text": "Monaco is squeezed onto a narrow, hilly strip of coast at the foot of the Alps, so its buildings are tall and packed closely together. Parts of the country have been built on land reclaimed from the sea. It has no farmland and no rivers or lakes of any size."
+    "text": "Monaco is squeezed onto a narrow, hilly strip of coast at the foot of the Alps, so its buildings are tall and packed closely together. Parts of the country have been built on land reclaimed from the sea. It has no farmland and no rivers or lakes of any size.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild Mediterranean climate, with warm summers and gentle winters."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The sea around Monaco is a protected area for dolphins and fish."
+      }
+    ]
   },
   "history": {
     "text": "The Grimaldi family seized the fortress of Monaco in 1297, reportedly with a soldier disguised as a monk, and has ruled it almost ever since. Monaco lost most of its land in the 1800s, but the Monte Carlo casino made it rich. Prince Rainier III's marriage to the film star Grace Kelly in 1956 made it world-famous.",
@@ -70,6 +80,20 @@
     "related": [
       "FRA",
       "ITA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Barbagiuan, fried pastries filled with chard and cheese, is the national dish."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Monte Carlo has a famous opera house, ballet company and the Oceanographic Museum."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "On the evening before Saint Devota's Day, 27 January, a boat is burned in front of the church dedicated to her."
+      }
     ]
   },
   "sport": {

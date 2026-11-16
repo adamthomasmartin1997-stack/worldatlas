@@ -5,7 +5,17 @@
     "Ukraine is the largest country lying entirely within Europe. Its capital and largest city is Kyiv. Ukraine became independent when the Soviet Union broke up in 1991. Since 2014 parts of the country, including Crimea, have been occupied by Russia, and in 2022 Russia launched a full-scale invasion. Ukrainian is the official language."
   ],
   "geography": {
-    "text": "Most of Ukraine is flat, fertile plain with rich black soil, which has made it one of the world's great grain-growing countries. The Dnieper river flows through the middle of the country, past Kyiv, to the Black Sea. The Carpathian Mountains rise in the far west and the Crimean Mountains in the south. Ukraine has coastlines on the Black Sea and the Sea of Azov."
+    "text": "Most of Ukraine is flat, fertile plain with rich black soil, which has made it one of the world's great grain-growing countries. The Dnieper river flows through the middle of the country, past Kyiv, to the Black Sea. The Carpathian Mountains rise in the far west and the Crimean Mountains in the south. Ukraine has coastlines on the Black Sea and the Sea of Azov.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Cold winters and warm summers; the south and Crimea are milder."
+      },
+      {
+        "title": "Wildlife",
+        "text": "The Carpathians have bears and lynx, and the Danube Delta shelters pelicans."
+      }
+    ]
   },
   "history": {
     "text": "Kyiv was the centre of Kievan Rus', a powerful medieval state, until it was destroyed by the Mongols in 1240. Ukrainian lands were later divided between Poland–Lithuania, the Cossacks and Russia. Under Soviet rule, millions died in the famine of 1932–33, known as the Holodomor. Ukraine became independent in 1991; Russia annexed Crimea in 2014 and launched a full-scale invasion in 2022.",
@@ -88,6 +98,20 @@
     "related": [
       "POL",
       "RUS"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Borscht, varenyky dumplings and salo, cured pork fat."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Petrykivka painting, with bright flowers, is listed by UNESCO, and embroidered vyshyvanka shirts are worn with pride."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "At Christmas, families share 12 meatless dishes and sing carols called koliadky."
+      }
     ]
   },
   "sport": {

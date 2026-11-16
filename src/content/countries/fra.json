@@ -16,6 +16,16 @@
         "label": "Regions",
         "value": "13 in Europe, 5 overseas"
       }
+    ],
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild and wet in the north and west, hot and dry by the Mediterranean, and cold in the Alps and Pyrenees."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Ibex and marmots in the Alps, flamingos in the Camargue wetlands, and bears reintroduced in the Pyrenees."
+      }
     ]
   },
   "people": {
@@ -108,6 +118,20 @@
     ],
     "related": [
       "ITA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Bread, cheese and wine are central; France has hundreds of cheeses. Croissants, crêpes and coq au vin are famous dishes."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Impressionist painters such as Monet and Renoir began in France. Paris is a world centre of fashion, film and museums."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Bastille Day on 14 July brings parades and fireworks. Families share a galette des rois cake in January; whoever finds the hidden charm is king for the day."
+      }
     ]
   },
   "sport": {

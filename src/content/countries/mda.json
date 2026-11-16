@@ -5,7 +5,17 @@
     "Moldova is a landlocked country in Eastern Europe, between Romania and Ukraine. Its capital is Chișinău. Moldova became independent from the Soviet Union in 1991, and its official language is Romanian. A strip of land east of the Dniester river, called Transnistria, has been controlled by a breakaway government since the early 1990s."
   ],
   "geography": {
-    "text": "Moldova is mostly gentle hills and plains with very fertile black soil, which makes it good farming country, especially for vineyards. The Prut river forms the border with Romania, and the Dniester runs through the east. Moldova has no mountains; its highest point is a hill only a few hundred metres high."
+    "text": "Moldova is mostly gentle hills and plains with very fertile black soil, which makes it good farming country, especially for vineyards. The Prut river forms the border with Romania, and the Dniester runs through the east. Moldova has no mountains; its highest point is a hill only a few hundred metres high.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot summers and cold winters, good for growing grapes."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Forests and steppe are home to deer, foxes and many birds."
+      }
+    ]
   },
   "history": {
     "text": "Much of today's Moldova was part of the medieval Principality of Moldavia, which later came under Ottoman control. Russia took its eastern half, called Bessarabia, in 1812. After a period as part of Romania between the World Wars, it became a Soviet republic, and in 1991 it declared independence. A short war in 1992 left Transnistria under a breakaway government.",
@@ -74,6 +84,20 @@
     "related": [
       "ROU",
       "UKR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Mămăligă, a polenta-like cornmeal dish, and plăcintă, pastries filled with cheese or cabbage."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Folk music with the pan flute and dances like the hora are part of every celebration."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "National Wine Day, in October, celebrates the harvest across the country."
+      }
     ]
   },
   "sport": {

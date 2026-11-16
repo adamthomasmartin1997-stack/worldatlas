@@ -5,7 +5,17 @@
     "Montenegro is a small country in the Balkans, on the Adriatic Sea. Its capital is Podgorica. Montenegro was part of Yugoslavia and then of a union with Serbia, until it became independent in 2006. Its name means 'black mountain'. It uses the euro even though it is not a member of the European Union."
   ],
   "geography": {
-    "text": "Montenegro packs a lot into a small space: a sunny Adriatic coastline, including the fjord-like Bay of Kotor, with rugged mountains rising just inland. The north is high and mountainous, with deep canyons such as the Tara River Canyon, one of the deepest in Europe. Lake Skadar, which it shares with Albania, is the largest lake in the Balkans."
+    "text": "Montenegro packs a lot into a small space: a sunny Adriatic coastline, including the fjord-like Bay of Kotor, with rugged mountains rising just inland. The north is high and mountainous, with deep canyons such as the Tara River Canyon, one of the deepest in Europe. Lake Skadar, which it shares with Albania, is the largest lake in the Balkans.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mediterranean on the coast, with cold, snowy winters in the mountains."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Bears and wolves live in the mountains, and Lake Skadar is home to Dalmatian pelicans."
+      }
+    ]
   },
   "history": {
     "text": "Montenegro's mountains helped it keep a large degree of independence through centuries of Ottoman power in the Balkans. It was ruled for long periods by prince-bishops and was recognised as independent in 1878. After the First World War it became part of Yugoslavia, and it became independent again after a referendum in 2006.",
@@ -77,6 +87,20 @@
     "related": [
       "SRB",
       "ITA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Njeguški pršut, smoked ham, and cheese from the mountain village of Njeguši."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Folk singing with the gusle, a one-stringed instrument, tells old stories of heroes."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "The Mimosa Festival in Herceg Novi, every February, celebrates the yellow flowers that bloom on the coast."
+      }
     ]
   },
   "sport": {

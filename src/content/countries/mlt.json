@@ -5,7 +5,17 @@
     "Malta is a small island country in the Mediterranean Sea, south of Sicily. Its capital, Valletta, is one of the smallest capital cities in Europe. Malta was ruled for centuries by the Knights of St John and later by Britain, and it became independent in 1964. Maltese and English are its official languages. Malta joined the European Union in 2004."
   ],
   "geography": {
-    "text": "Malta is an archipelago with three inhabited islands: Malta, Gozo and Comino. The islands are low and rocky, with no rivers or lakes, so much of their fresh water comes from taking the salt out of seawater. The coast has cliffs, bays and deep natural harbours, including Valletta's Grand Harbour."
+    "text": "Malta is an archipelago with three inhabited islands: Malta, Gozo and Comino. The islands are low and rocky, with no rivers or lakes, so much of their fresh water comes from taking the salt out of seawater. The coast has cliffs, bays and deep natural harbours, including Valletta's Grand Harbour.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot, dry summers and mild winters; it hardly ever freezes."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Malta is a stopping point for migrating birds, and its seas are home to dolphins and turtles."
+      }
+    ]
   },
   "history": {
     "text": "Malta's prehistoric temples are among the oldest free-standing buildings in the world. The islands were ruled by Phoenicians, Romans, Arabs and Normans, and in 1530 were given to the Knights of St John, who held off a huge Ottoman siege in 1565. Britain took Malta in 1800, and it became independent in 1964 and a republic in 1974.",
@@ -82,6 +92,20 @@
     "related": [
       "ITA",
       "GBR"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Pastizzi, pastries filled with ricotta or peas, and rabbit stew, the national dish."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Baroque churches, filled with art by painters such as Caravaggio, are found across the islands."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Each village holds a festa for its patron saint, with marching bands, fireworks and decorated streets."
+      }
     ]
   },
   "sport": {

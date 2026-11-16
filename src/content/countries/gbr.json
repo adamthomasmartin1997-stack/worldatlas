@@ -5,7 +5,17 @@
     "The United Kingdom is an island country off the north-west coast of Europe, made up of England, Scotland, Wales and Northern Ireland. Its capital and largest city is London. The UK is a constitutional monarchy. In the 1800s and early 1900s Britain ruled the largest empire in history. It left the European Union in 2020, and it is one of the five permanent members of the UN Security Council."
   ],
   "geography": {
-    "text": "The UK covers the island of Great Britain, the north-east of the island of Ireland and many smaller islands. The north and west, including the Scottish Highlands and much of Wales, are hilly or mountainous, and Ben Nevis in Scotland is the highest peak. The south and east of England are lower and gentler. The UK is surrounded by the Atlantic Ocean, the North Sea, the English Channel and the Irish Sea."
+    "text": "The UK covers the island of Great Britain, the north-east of the island of Ireland and many smaller islands. The north and west, including the Scottish Highlands and much of Wales, are hilly or mountainous, and Ben Nevis in Scotland is the highest peak. The south and east of England are lower and gentler. The UK is surrounded by the Atlantic Ocean, the North Sea, the English Channel and the Irish Sea.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mild and changeable, with frequent rain; the west is wetter and the south-east is warmer and drier."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Red deer, badgers, hedgehogs and seabirds such as puffins and gannets."
+      }
+    ]
   },
   "history": {
     "text": "England and Scotland were separate kingdoms for centuries; the Act of Union joined them as Great Britain in 1707, and Ireland was added in 1801. Britain led the Industrial Revolution and built the largest empire in history. It fought on the winning side in both World Wars, after which most of its colonies became independent. It left the European Union in 2020.",
@@ -80,6 +90,20 @@
       "IRL",
       "USA",
       "IND"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Fish and chips, the Sunday roast, and afternoon tea with scones."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Theatre, from Shakespeare to the West End, pop music from the Beatles to today, and famous museums."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Bonfire Night on 5 November marks a failed plot to blow up Parliament in 1605, with bonfires and fireworks."
+      }
     ]
   },
   "sport": {

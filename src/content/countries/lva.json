@@ -5,7 +5,17 @@
     "Latvia is one of the three Baltic states, between Estonia and Lithuania. Its capital, Riga, is the largest city in the Baltic states and is known for its Art Nouveau buildings. Latvia regained its independence from the Soviet Union in 1991 and joined NATO and the European Union in 2004."
   ],
   "geography": {
-    "text": "Latvia is low and gently rolling, with no mountains. About half of the country is covered by forest, and it has many lakes, bogs and rivers, the largest river being the Daugava. A long coastline of sandy beaches runs along the Baltic Sea and the Gulf of Riga."
+    "text": "Latvia is low and gently rolling, with no mountains. About half of the country is covered by forest, and it has many lakes, bogs and rivers, the largest river being the Daugava. A long coastline of sandy beaches runs along the Baltic Sea and the Gulf of Riga.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Cold, snowy winters and mild summers."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Forests are home to wolves, lynx and elk, and storks nest on rooftops in villages."
+      }
+    ]
   },
   "history": {
     "text": "Riga was founded by German crusaders in 1201, and the land later came under Polish, Swedish and then Russian rule. Latvia declared independence in 1918 but was occupied by the Soviet Union in 1940. In 1989 people joined hands in the Baltic Way, a human chain through Estonia, Latvia and Lithuania, and independence was restored in 1991.",
@@ -87,6 +97,20 @@
     "related": [
       "EST",
       "LTU"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Grey peas with bacon, rye bread and smoked fish are traditional."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Latvia's Song and Dance Festival, held every five years, brings tens of thousands of singers together."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Jāņi, midsummer, is the biggest holiday, with bonfires, oak-leaf crowns for men and flower wreaths for women."
+      }
     ]
   },
   "sport": {

@@ -5,7 +5,17 @@
     "Switzerland is a landlocked country in Central Europe. Its federal capital is Bern, Zurich is its largest city, and Geneva hosts many international organisations, including the Red Cross and offices of the United Nations. Switzerland has four national languages: German, French, Italian and Romansh. It has a long tradition of neutrality and is not a member of the European Union."
   ],
   "geography": {
-    "text": "The Alps cover about 60 percent of Switzerland, with famous peaks such as the Matterhorn and many glaciers. North of the Alps lies the Swiss Plateau, where most people live, and the Jura Mountains run along the border with France. Great rivers such as the Rhine and the Rhône begin in the Swiss Alps, and the country has large lakes, including Lake Geneva and Lake Constance."
+    "text": "The Alps cover about 60 percent of Switzerland, with famous peaks such as the Matterhorn and many glaciers. North of the Alps lies the Swiss Plateau, where most people live, and the Jura Mountains run along the border with France. Great rivers such as the Rhine and the Rhône begin in the Swiss Alps, and the country has large lakes, including Lake Geneva and Lake Constance.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Cold, snowy winters in the Alps and milder weather around the lakes."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Ibex, chamois, marmots and golden eagles live in the mountains."
+      }
+    ]
   },
   "history": {
     "text": "Switzerland traces its beginnings to 1291, when three Alpine communities swore an alliance to defend each other, and over the centuries other cantons joined them. Its neutrality was recognised by Europe's great powers in 1815, and in 1848 it became a modern federal state. Switzerland stayed out of both World Wars and only joined the United Nations in 2002.",
@@ -79,6 +89,20 @@
       "DEU",
       "ITA",
       "AUT"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Cheese fondue, raclette and Swiss chocolate."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Swiss graphic design and typography, including the Helvetica typeface, influenced the world."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "In spring, cows are taken up to mountain pastures decorated with flowers and bells, and brought down again in autumn."
+      }
     ]
   },
   "sport": {

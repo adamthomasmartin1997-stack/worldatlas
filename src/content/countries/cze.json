@@ -5,7 +5,17 @@
     "Czechia, also called the Czech Republic, is a landlocked country in Central Europe. Its capital, Prague, is known for its medieval old town and its castle. Czechoslovakia split peacefully into Czechia and Slovakia on 1 January 1993. Czechia joined NATO in 1999 and the European Union in 2004."
   ],
   "geography": {
-    "text": "Czechia is made up of two main historic lands: Bohemia in the west, a basin ringed by low mountains, and Moravia in the east. The Vltava flows through Prague and joins the Elbe, which carries water north through Germany to the North Sea. The highest mountains are along the borders, including the Krkonoše range on the border with Poland."
+    "text": "Czechia is made up of two main historic lands: Bohemia in the west, a basin ringed by low mountains, and Moravia in the east. The Vltava flows through Prague and joins the Elbe, which carries water north through Germany to the North Sea. The highest mountains are along the borders, including the Krkonoše range on the border with Poland.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Cold winters and warm summers, with rain spread through the year."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Forests cover about a third of the country, home to deer, wild boar and lynx in the border mountains."
+      }
+    ]
   },
   "history": {
     "text": "Bohemia was a powerful kingdom in the Middle Ages, and under Charles IV Prague was the capital of the Holy Roman Empire. From 1526 the Czech lands were ruled by the Habsburgs. Czechoslovakia was created in 1918, occupied by Nazi Germany and then ruled by communists, until the peaceful Velvet Revolution of 1989. In 1993 it split peacefully into two countries.",
@@ -77,6 +87,20 @@
       {
         "title": "The word 'robot'",
         "text": "Coined in a 1920 Czech play by Karel Čapek."
+      }
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Roast pork with dumplings and sauerkraut is a classic, and trdelník, a sweet rolled pastry, is sold in Prague's streets."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Composers Dvořák and Smetana, writer Kafka and puppet theatre are all part of Czech culture; Czech puppetry is listed by UNESCO."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "On Easter Monday, boys traditionally playfully whip girls with braided willow sticks, and girls give them painted eggs."
       }
     ]
   },

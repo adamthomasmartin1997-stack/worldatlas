@@ -5,7 +5,17 @@
     "Iceland is an island country in the North Atlantic, just south of the Arctic Circle. Its capital, Reykjavík, is the northernmost capital of any independent country. Iceland was settled by Norse people in the 800s, and its parliament, the Althing, founded in 930, is one of the oldest in the world. It became fully independent from Denmark in 1944."
   ],
   "geography": {
-    "text": "Iceland sits on the Mid-Atlantic Ridge, where two tectonic plates are pulling apart, which is why it has so many volcanoes, hot springs and geysers. Glaciers cover about a tenth of the land, including Vatnajökull, one of the largest in Europe. Most people live along the coast, while the interior is a high plateau of lava fields and ice where almost nobody lives."
+    "text": "Iceland sits on the Mid-Atlantic Ridge, where two tectonic plates are pulling apart, which is why it has so many volcanoes, hot springs and geysers. Glaciers cover about a tenth of the land, including Vatnajökull, one of the largest in Europe. Most people live along the coast, while the interior is a high plateau of lava fields and ice where almost nobody lives.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Cool summers and mild winters for its latitude, thanks to the Gulf Stream, but windy and changeable."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Millions of puffins nest on the cliffs, and whales feed in the seas around the island."
+      }
+    ]
   },
   "history": {
     "text": "Norse settlers arrived in Iceland from the late 800s, and in 930 they founded the Althing, one of the world's oldest parliaments. Iceland later came under Norwegian and then Danish rule. It became a sovereign kingdom linked to Denmark in 1918 and a fully independent republic in 1944.",
@@ -77,6 +87,20 @@
     "related": [
       "NOR",
       "DNK"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Lamb, fish and skyr, a thick yoghurt-like cheese. Fermented shark, hákarl, is a famous challenge for visitors."
+      },
+      {
+        "title": "Music and arts",
+        "text": "The medieval sagas are Iceland's great literary treasure, and modern bands such as Sigur Rós are famous abroad."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Thirteen mischievous Yule Lads visit children in the days before Christmas, leaving gifts or a potato in shoes left on windowsills."
+      }
     ]
   },
   "sport": {

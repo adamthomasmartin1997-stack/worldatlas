@@ -5,7 +5,17 @@
     "Finland is a country in northern Europe, between Sweden and Russia. Its capital and largest city is Helsinki. Finland was part of Sweden for centuries and then part of the Russian Empire, before becoming independent in 1917. Finnish and Swedish are both official languages. Finland joined the European Union in 1995 and NATO in 2023."
   ],
   "geography": {
-    "text": "Finland is often called the land of a thousand lakes, but it actually has many tens of thousands. Forests cover around three-quarters of the country. The land is mostly low and gently rolling, shaped by ice sheets during the last Ice Age. The north lies within the Arctic Circle, in Lapland, where the sun does not set for weeks in midsummer."
+    "text": "Finland is often called the land of a thousand lakes, but it actually has many tens of thousands. Forests cover around three-quarters of the country. The land is mostly low and gently rolling, shaped by ice sheets during the last Ice Age. The north lies within the Arctic Circle, in Lapland, where the sun does not set for weeks in midsummer.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Long, cold, dark winters and short, bright summers; in Lapland the sun doesn't set for weeks."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Brown bears, wolves, wolverines and the rare Saimaa ringed seal, which lives only in one lake system."
+      }
+    ]
   },
   "history": {
     "text": "For about 600 years Finland was part of the Kingdom of Sweden. In 1809 it became a grand duchy of the Russian Empire, and it declared independence in 1917, during the Russian Revolution. Finland fought the Soviet Union in the Second World War and kept its independence, and later built one of the world's most successful welfare states.",
@@ -70,6 +80,20 @@
       {
         "title": "Santa Claus Village",
         "text": "In Rovaniemi on the Arctic Circle in Lapland."
+      }
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Rye bread, salmon, reindeer stew and Karelian pies, pastries filled with rice porridge."
+      },
+      {
+        "title": "Music and arts",
+        "text": "The national epic, the Kalevala, inspired painters and composers such as Sibelius. Finnish heavy metal is hugely popular."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Juhannus, midsummer, means bonfires at lakeside cottages and a visit to the sauna."
       }
     ]
   },

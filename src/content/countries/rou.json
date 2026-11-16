@@ -5,7 +5,17 @@
     "Romania is a country in south-eastern Europe, on the Black Sea. Its capital and largest city is Bucharest. Romanian is a Romance language, related to Italian, French and Spanish. Romania was a communist state until a revolution in 1989, and it joined NATO in 2004 and the European Union in 2007."
   ],
   "geography": {
-    "text": "The Carpathian Mountains curve through the middle of Romania, around the high Transylvanian plateau. Outside the mountains are wide plains, especially in the south, where the Danube forms much of the border with Serbia and Bulgaria. Before reaching the Black Sea, the Danube spreads out into the Danube Delta, a huge wetland that is home to many birds."
+    "text": "The Carpathian Mountains curve through the middle of Romania, around the high Transylvanian plateau. Outside the mountains are wide plains, especially in the south, where the Danube forms much of the border with Serbia and Bulgaria. Before reaching the Black Sea, the Danube spreads out into the Danube Delta, a huge wetland that is home to many birds.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Hot summers and cold, snowy winters, with the Carpathian Mountains in the middle."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Romania has more brown bears than any other European country outside Russia, and the Danube Delta is home to pelicans."
+      }
+    ]
   },
   "history": {
     "text": "The land of Romania was the Roman province of Dacia, which is where its Latin-based language comes from. The principalities of Wallachia and Moldavia united in 1859 and became independent of the Ottomans in 1878, and Transylvania joined in 1918. Romania was ruled by communists after the Second World War, and the dictator Nicolae Ceaușescu was overthrown in 1989.",
@@ -75,6 +85,20 @@
     "related": [
       "MDA",
       "ITA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Sarmale, cabbage rolls stuffed with meat, and mămăligă, cornmeal porridge."
+      },
+      {
+        "title": "Music and arts",
+        "text": "The painted monasteries of Bukovina and the sculptures of Brâncuși are national treasures."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "On 1 March, people give a mărțișor, a small charm on a red-and-white string, to welcome spring."
+      }
     ]
   },
   "sport": {

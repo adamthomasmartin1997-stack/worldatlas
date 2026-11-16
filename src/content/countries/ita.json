@@ -5,7 +5,17 @@
     "Italy is a country in southern Europe, made up of a boot-shaped peninsula and the islands of Sicily and Sardinia. Its capital, Rome, was the centre of the Roman Empire and surrounds Vatican City. Italy was unified into one kingdom in 1861. It was a founding member of what is now the European Union, and it is famous around the world for its art, architecture, food and fashion."
   ],
   "geography": {
-    "text": "The Alps form Italy's northern border, and the Apennine Mountains run down the length of the peninsula. Between them lies the Po Valley, the country's largest plain and its main farming region. Italy has active volcanoes, including Mount Etna on Sicily and Vesuvius near Naples. Two tiny independent countries, San Marino and Vatican City, lie entirely inside Italy."
+    "text": "The Alps form Italy's northern border, and the Apennine Mountains run down the length of the peninsula. Between them lies the Po Valley, the country's largest plain and its main farming region. Italy has active volcanoes, including Mount Etna on Sicily and Vesuvius near Naples. Two tiny independent countries, San Marino and Vatican City, lie entirely inside Italy.",
+    "subsections": [
+      {
+        "title": "Climate",
+        "text": "Mediterranean in the south and on the coasts; colder, snowy winters in the Alps and the north."
+      },
+      {
+        "title": "Wildlife",
+        "text": "Wolves, Marsican brown bears and chamois live in the Apennines; flamingos visit Sardinia."
+      }
+    ]
   },
   "history": {
     "text": "Rome grew from a small city into an empire that ruled the whole Mediterranean. After it fell, Italy was split into many states, and cities such as Florence and Venice led the Renaissance in art and science. Italy was unified in 1861, became a fascist dictatorship under Benito Mussolini in the 1920s, and voted to become a republic in 1946.",
@@ -74,6 +84,20 @@
       "VAT",
       "SMR",
       "FRA"
+    ],
+    "subsections": [
+      {
+        "title": "Food",
+        "text": "Pasta, pizza, risotto, olive oil and gelato; every region has its own specialities."
+      },
+      {
+        "title": "Music and arts",
+        "text": "Italy gave the world Renaissance painting, opera and many famous designers and film directors."
+      },
+      {
+        "title": "Traditions and festivals",
+        "text": "Venice's Carnival, with elaborate masks, and Siena's Palio horse race, run twice each summer, are world-famous."
+      }
     ]
   },
   "sport": {
