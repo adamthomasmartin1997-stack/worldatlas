@@ -33,5 +33,75 @@
    "term": "Archipelago",
    "meaning": "A group of islands."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Sweden's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Kebnekaise and Abisko",
+    "kind": "mountains",
+    "lat": 68.1,
+    "lon": 18.7,
+    "text": "Sweden's highest mountain and a top spot for the northern lights."
+   },
+   {
+    "name": "Sarek",
+    "kind": "wilderness",
+    "lat": 67.3,
+    "lon": 17.7,
+    "text": "Roadless mountains and glaciers in Lapland."
+   },
+   {
+    "name": "High Coast",
+    "kind": "rising coast",
+    "lat": 63.0,
+    "lon": 18.4,
+    "text": "Land still rising after the Ice Age, faster than almost anywhere."
+   },
+   {
+    "name": "Dalarna",
+    "kind": "lakes and forests",
+    "lat": 61.0,
+    "lon": 14.5,
+    "text": "Red cottages and the home of the Dala horse."
+   },
+   {
+    "name": "Lake Vänern",
+    "kind": "lake",
+    "lat": 58.9,
+    "lon": 13.2,
+    "text": "The EU's largest lake."
+   },
+   {
+    "name": "Bohuslän coast",
+    "kind": "granite coast",
+    "lat": 58.4,
+    "lon": 11.3,
+    "text": "Smooth pink rocks and fishing villages."
+   },
+   {
+    "name": "Stockholm archipelago",
+    "kind": "islands",
+    "lat": 59.4,
+    "lon": 18.8,
+    "text": "Around 30,000 islands."
+   },
+   {
+    "name": "Gotland",
+    "kind": "island",
+    "lat": 57.6,
+    "lon": 18.7,
+    "text": "Limestone sea stacks and medieval Visby."
+   },
+   {
+    "name": "Skåne",
+    "kind": "farmland",
+    "lat": 55.8,
+    "lon": 13.5,
+    "text": "Rolling fields in the far south."
+   }
+  ]
+ }
 }

@@ -22,5 +22,131 @@
    "term": "Skyr",
    "meaning": "A thick, high-protein Icelandic dairy product."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Children of Nature",
+     "subtitle": "1991 · Friðrik Þór Friðriksson",
+     "text": "An old couple's journey; Oscar-nominated."
+    },
+    {
+     "title": "Rams",
+     "subtitle": "2015 · Grímur Hákonarson",
+     "text": "Two brothers and their sheep."
+    },
+    {
+     "title": "Lamb",
+     "subtitle": "2021 · Valdimar Jóhannsson",
+     "text": "A strange creature on a farm."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Njáls saga",
+     "subtitle": "1200s",
+     "text": "A great saga of feuds."
+    },
+    {
+     "title": "Independent People",
+     "subtitle": "1934 · Halldór Laxness",
+     "text": "A farmer's struggle, by the Nobel winner."
+    },
+    {
+     "title": "Jar City",
+     "subtitle": "2000 · Arnaldur Indriðason",
+     "text": "A Reykjavík crime novel."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Human Behaviour",
+     "subtitle": "Björk, 1993",
+     "text": "Her first solo hit."
+    },
+    {
+     "title": "Hoppípolla",
+     "subtitle": "Sigur Rós, 2005",
+     "text": "Heard in countless nature films."
+    },
+    {
+     "title": "Little Talks",
+     "subtitle": "Of Monsters and Men, 2011",
+     "text": "A global folk-pop hit."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Lamb soup",
+     "subtitle": "Everywhere",
+     "text": "A warming soup."
+    },
+    {
+     "title": "Skyr",
+     "subtitle": "Everywhere",
+     "text": "Eaten with berries."
+    },
+    {
+     "title": "Hot dogs",
+     "subtitle": "Reykjavík",
+     "text": "With crispy onions."
+    },
+    {
+     "title": "Hot-spring rye bread",
+     "subtitle": "Mývatn",
+     "text": "Baked in the ground."
+    },
+    {
+     "title": "Fermented shark",
+     "subtitle": "Þorrablót",
+     "text": "An acquired taste."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Þorrablót",
+    "text": "Midwinter feasts of traditional food."
+   },
+   {
+    "month": 6,
+    "name": "National Day",
+    "text": "17 June."
+   },
+   {
+    "month": 8,
+    "name": "Culture Night",
+    "text": "Reykjavík's big street festival."
+   },
+   {
+    "month": 11,
+    "name": "Iceland Airwaves",
+    "text": "A music festival."
+   },
+   {
+    "month": 12,
+    "name": "Yule Lads",
+    "text": "13 visitors before Christmas."
+   }
+  ]
+ }
 }

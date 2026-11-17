@@ -22,5 +22,122 @@
    "term": "Biathlon",
    "meaning": "A winter sport combining cross-country skiing and rifle shooting."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Eliteserien",
+     "subtitle": "Football",
+     "text": "Rosenborg have won the most titles."
+    },
+    {
+     "title": "Holmenkollen",
+     "subtitle": "Skiing",
+     "text": "One of the oldest ski events in the world."
+    },
+    {
+     "title": "Handball",
+     "subtitle": "Women's handball",
+     "text": "Norway's women are among the world's best."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Sonja Henie",
+     "subtitle": "Figure skating",
+     "text": "Three Olympic golds."
+    },
+    {
+     "title": "Grete Waitz",
+     "subtitle": "Running",
+     "text": "Won the New York Marathon nine times."
+    },
+    {
+     "title": "Bjørn Dæhlie",
+     "subtitle": "Cross-country skiing",
+     "text": "Eight Olympic golds."
+    },
+    {
+     "title": "Marit Bjørgen",
+     "subtitle": "Cross-country skiing",
+     "text": "Most Winter Olympic medals ever."
+    },
+    {
+     "title": "Magnus Carlsen",
+     "subtitle": "Chess",
+     "text": "World champion and highest-rated player in history."
+    },
+    {
+     "title": "Erling Haaland",
+     "subtitle": "Football",
+     "text": "A prolific goal-scorer."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Norway's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Oslo: Holmenkollen and Ullevaal",
+    "kind": "venue",
+    "lat": 59.96,
+    "lon": 10.7,
+    "text": "The ski jump and the national football stadium."
+   },
+   {
+    "name": "Lillehammer",
+    "kind": "venue",
+    "lat": 61.115,
+    "lon": 10.466,
+    "text": "Host of the 1994 Winter Olympics."
+   },
+   {
+    "name": "Lerkendal, Trondheim",
+    "kind": "venue",
+    "lat": 63.412,
+    "lon": 10.405,
+    "text": "Home of Rosenborg."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1952",
+    "title": "Oslo Olympics",
+    "text": "Norway hosts the Winter Games."
+   },
+   {
+    "year": "1994",
+    "title": "Lillehammer",
+    "text": "A much-loved Winter Olympics."
+   },
+   {
+    "year": "1998",
+    "title": "Beating Brazil",
+    "text": "A famous World Cup win."
+   },
+   {
+    "year": "2013",
+    "title": "Carlsen champion",
+    "text": "Norway's chess king."
+   },
+   {
+    "year": "2018",
+    "title": "Record medals",
+    "text": "Norway wins 39 at Pyeongchang."
+   }
+  ]
+ }
 }

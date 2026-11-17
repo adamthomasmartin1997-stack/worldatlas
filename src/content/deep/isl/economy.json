@@ -22,5 +22,44 @@
    "term": "Geothermal energy",
    "meaning": "Heat and power from hot water and steam underground."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Iceland",
+   "items": [
+    {
+     "title": "Fish",
+     "subtitle": "Cod and more",
+     "text": "The backbone of the economy."
+    },
+    {
+     "title": "Aluminium",
+     "subtitle": "Smelters",
+     "text": "Made with cheap clean power."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Everywhere",
+     "text": "Millions of visitors a year."
+    },
+    {
+     "title": "Skyr",
+     "subtitle": "Dairies",
+     "text": "A thick dairy food."
+    },
+    {
+     "title": "Prosthetics",
+     "subtitle": "Össur",
+     "text": "Artificial limbs used by athletes."
+    },
+    {
+     "title": "The króna",
+     "subtitle": "ISK",
+     "text": "Iceland's currency."
+    }
+   ],
+   "intro": "Some of the things Iceland makes and sells to the world."
+  }
  ]
 }

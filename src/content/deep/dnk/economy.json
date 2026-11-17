@@ -22,5 +22,44 @@
    "term": "Container ship",
    "meaning": "A ship that carries goods in large standard metal boxes."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Denmark",
+   "items": [
+    {
+     "title": "LEGO",
+     "subtitle": "Billund",
+     "text": "Toy bricks since 1958."
+    },
+    {
+     "title": "Medicines",
+     "subtitle": "Novo Nordisk",
+     "text": "Diabetes and weight-loss drugs."
+    },
+    {
+     "title": "Shipping",
+     "subtitle": "Maersk",
+     "text": "One of the world's biggest container lines."
+    },
+    {
+     "title": "Wind turbines",
+     "subtitle": "Vestas",
+     "text": "Sold worldwide."
+    },
+    {
+     "title": "Food and beer",
+     "subtitle": "Danish Crown, Arla, Carlsberg",
+     "text": "Bacon, butter and beer."
+    },
+    {
+     "title": "Design",
+     "subtitle": "Bang & Olufsen",
+     "text": "Sleek speakers and furniture."
+    }
+   ],
+   "intro": "Some of the things Denmark makes and sells to the world."
+  }
  ]
 }

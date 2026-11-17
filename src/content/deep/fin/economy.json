@@ -22,5 +22,44 @@
    "term": "Pulp",
    "meaning": "Mashed wood fibres used to make paper."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Finland",
+   "items": [
+    {
+     "title": "Mobile networks",
+     "subtitle": "Nokia",
+     "text": "Equipment that runs phone networks."
+    },
+    {
+     "title": "Paper and pulp",
+     "subtitle": "UPM, Stora Enso",
+     "text": "From Finland's forests."
+    },
+    {
+     "title": "Lifts",
+     "subtitle": "Kone",
+     "text": "Elevators and escalators worldwide."
+    },
+    {
+     "title": "Cruise ships",
+     "subtitle": "Turku shipyard",
+     "text": "Some of the world's largest cruise ships."
+    },
+    {
+     "title": "Games",
+     "subtitle": "Supercell, Rovio",
+     "text": "Clash of Clans and Angry Birds."
+    },
+    {
+     "title": "Design",
+     "subtitle": "Marimekko, Fiskars, Iittala",
+     "text": "Bold prints and orange-handled scissors."
+    }
+   ],
+   "intro": "Some of the things Finland makes and sells to the world."
+  }
  ]
 }

@@ -29,5 +29,75 @@
    "term": "Fell",
    "meaning": "A treeless hill or mountain in Lapland."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Finland's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Halti",
+    "kind": "fell",
+    "lat": 69.31,
+    "lon": 21.27,
+    "text": "Finland's highest point, on the Norwegian border."
+   },
+   {
+    "name": "Urho Kekkonen National Park",
+    "kind": "fells",
+    "lat": 68.2,
+    "lon": 27.6,
+    "text": "Wilderness with reindeer."
+   },
+   {
+    "name": "Pyhä-Luosto",
+    "kind": "fells",
+    "lat": 67.07,
+    "lon": 27.0,
+    "text": "Old fells near the Arctic Circle."
+   },
+   {
+    "name": "Oulanka",
+    "kind": "river canyon",
+    "lat": 66.37,
+    "lon": 29.33,
+    "text": "Rapids and suspension bridges."
+   },
+   {
+    "name": "Kvarken",
+    "kind": "rising land",
+    "lat": 63.2,
+    "lon": 21.3,
+    "text": "Land rising out of the sea after the Ice Age."
+   },
+   {
+    "name": "Koli",
+    "kind": "hill",
+    "lat": 63.1,
+    "lon": 29.8,
+    "text": "A famous view over lake Pielinen."
+   },
+   {
+    "name": "Lake Saimaa",
+    "kind": "lakes",
+    "lat": 61.3,
+    "lon": 28.5,
+    "text": "Finland's largest lake, home of the Saimaa seal."
+   },
+   {
+    "name": "Archipelago Sea",
+    "kind": "islands",
+    "lat": 60.2,
+    "lon": 21.8,
+    "text": "Tens of thousands of islands."
+   },
+   {
+    "name": "Åland Islands",
+    "kind": "islands",
+    "lat": 60.2,
+    "lon": 20.0,
+    "text": "Self-governing and Swedish-speaking."
+   }
+  ]
+ }
 }

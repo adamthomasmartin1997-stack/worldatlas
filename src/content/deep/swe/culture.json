@@ -24,5 +24,151 @@
    "term": "Smörgåsbord",
    "meaning": "A buffet of many hot and cold dishes."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Seventh Seal",
+     "subtitle": "1957 · Ingmar Bergman",
+     "text": "A knight plays chess with Death."
+    },
+    {
+     "title": "Let the Right One In",
+     "subtitle": "2008 · Tomas Alfredson",
+     "text": "A boy befriends a vampire."
+    },
+    {
+     "title": "A Man Called Ove",
+     "subtitle": "2015 · Hannes Holm",
+     "text": "A grumpy neighbour softens."
+    },
+    {
+     "title": "Triangle of Sadness",
+     "subtitle": "2022 · Ruben Östlund",
+     "text": "A satire that won the top prize at Cannes."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Wonderful Adventures of Nils",
+     "subtitle": "1906 · Selma Lagerlöf",
+     "text": "A boy flies across Sweden on a goose."
+    },
+    {
+     "title": "Pippi Longstocking",
+     "subtitle": "1945 · Astrid Lindgren",
+     "text": "The world's strongest girl."
+    },
+    {
+     "title": "The Girl with the Dragon Tattoo",
+     "subtitle": "2005 · Stieg Larsson",
+     "text": "A crime thriller."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Dancing Queen",
+     "subtitle": "ABBA, 1976",
+     "text": "ABBA's only US number one."
+    },
+    {
+     "title": "It Must Have Been Love",
+     "subtitle": "Roxette, 1990",
+     "text": "A worldwide hit."
+    },
+    {
+     "title": "Wake Me Up",
+     "subtitle": "Avicii, 2013",
+     "text": "Folk meets dance music."
+    },
+    {
+     "title": "Tattoo",
+     "subtitle": "Loreen, 2023",
+     "text": "Sweden's seventh Eurovision win."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Meatballs",
+     "subtitle": "Everywhere",
+     "text": "With lingonberries and mashed potato."
+    },
+    {
+     "title": "Kanelbulle",
+     "subtitle": "Everywhere",
+     "text": "Cinnamon buns."
+    },
+    {
+     "title": "Gravlax",
+     "subtitle": "Everywhere",
+     "text": "Cured salmon."
+    },
+    {
+     "title": "Princess cake",
+     "subtitle": "Everywhere",
+     "text": "Green marzipan cake."
+    },
+    {
+     "title": "Crayfish",
+     "subtitle": "August",
+     "text": "Eaten at outdoor parties."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Sámi National Day",
+    "text": "6 February."
+   },
+   {
+    "month": 4,
+    "name": "Walpurgis Night",
+    "text": "Bonfires on 30 April."
+   },
+   {
+    "month": 6,
+    "name": "National Day",
+    "text": "6 June."
+   },
+   {
+    "month": 6,
+    "name": "Midsummer",
+    "text": "Maypoles, flowers and dancing."
+   },
+   {
+    "month": 10,
+    "name": "Cinnamon Bun Day",
+    "text": "4 October."
+   },
+   {
+    "month": 12,
+    "name": "Nobel Prize ceremony",
+    "text": "10 December in Stockholm."
+   },
+   {
+    "month": 12,
+    "name": "St Lucia",
+    "text": "Candlelit processions on 13 December."
+   }
+  ]
+ }
 }

@@ -23,5 +23,129 @@
    "term": "Pole vault",
    "meaning": "An athletics event where competitors use a long, bendy pole to jump over a high bar."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Allsvenskan",
+     "subtitle": "Football",
+     "text": "Malmö FF have won the most titles."
+    },
+    {
+     "title": "SHL",
+     "subtitle": "Ice hockey",
+     "text": "One of Europe's best hockey leagues."
+    },
+    {
+     "title": "Vasaloppet",
+     "subtitle": "Skiing · since 1922",
+     "text": "A 90 km cross-country race."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Ingemar Stenmark",
+     "subtitle": "Skiing",
+     "text": "86 World Cup race wins."
+    },
+    {
+     "title": "Björn Borg",
+     "subtitle": "Tennis",
+     "text": "Five Wimbledons in a row."
+    },
+    {
+     "title": "Annika Sörenstam",
+     "subtitle": "Golf",
+     "text": "One of the greatest women golfers."
+    },
+    {
+     "title": "Peter Forsberg",
+     "subtitle": "Ice hockey",
+     "text": "Olympic gold and NHL star."
+    },
+    {
+     "title": "Zlatan Ibrahimović",
+     "subtitle": "Football",
+     "text": "A goal-scoring legend."
+    },
+    {
+     "title": "Armand Duplantis",
+     "subtitle": "Pole vault",
+     "text": "Breaker of world records."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Sweden's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Stockholm: Olympic Stadium and Strawberry Arena",
+    "kind": "venue",
+    "lat": 59.36,
+    "lon": 18.03,
+    "text": "The 1912 Olympic stadium and the national arena."
+   },
+   {
+    "name": "Ullevi, Gothenburg",
+    "kind": "venue",
+    "lat": 57.706,
+    "lon": 11.987,
+    "text": "Hosted the 1958 World Cup."
+   },
+   {
+    "name": "Åre",
+    "kind": "venue",
+    "lat": 63.4,
+    "lon": 13.08,
+    "text": "A ski resort that hosts world championships."
+   },
+   {
+    "name": "Mora",
+    "kind": "venue",
+    "lat": 61.0,
+    "lon": 14.54,
+    "text": "Finish of the Vasaloppet."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1912",
+    "title": "Stockholm Olympics",
+    "text": "The first Games with electronic timing."
+   },
+   {
+    "year": "1958",
+    "title": "World Cup final",
+    "text": "Sweden reaches the final at home."
+   },
+   {
+    "year": "1980",
+    "title": "Borg's fifth Wimbledon",
+    "text": "An unbroken run from 1976."
+   },
+   {
+    "year": "1994",
+    "title": "Third at the World Cup",
+    "text": "Sweden's best modern finish."
+   },
+   {
+    "year": "2024",
+    "title": "Duplantis in Paris",
+    "text": "Olympic gold with a world record."
+   }
+  ]
+ }
 }

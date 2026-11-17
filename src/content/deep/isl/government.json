@@ -37,5 +37,58 @@
    "term": "Coast guard",
    "meaning": "A service that patrols a country's coastal waters."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 4 years",
+     "text": "Can refuse to sign a law, sending it to a referendum."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the government",
+     "text": "Chosen with parliament's support."
+    },
+    {
+     "title": "The Althing",
+     "subtitle": "63 members",
+     "text": "One of the world's oldest parliaments."
+    },
+    {
+     "title": "Supreme Court",
+     "subtitle": "Judges",
+     "text": "The top court."
+    },
+    {
+     "title": "Municipalities",
+     "subtitle": "Local councils",
+     "text": "Run local services."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In the Althing."
+   },
+   {
+    "title": "Three debates",
+    "text": "Members discuss it three times."
+   },
+   {
+    "title": "The President signs",
+    "text": "Or refuses, which leads to a referendum."
+   }
+  ]
+ }
 }

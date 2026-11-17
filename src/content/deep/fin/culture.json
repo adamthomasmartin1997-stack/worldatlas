@@ -22,5 +22,136 @@
    "term": "Kalevala",
    "meaning": "Finland's national epic poem."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Unknown Soldier",
+     "subtitle": "1955 · Edvin Laine",
+     "text": "Soldiers in the Continuation War."
+    },
+    {
+     "title": "The Man Without a Past",
+     "subtitle": "2002 · Aki Kaurismäki",
+     "text": "A man loses his memory; won at Cannes."
+    },
+    {
+     "title": "Fallen Leaves",
+     "subtitle": "2023 · Aki Kaurismäki",
+     "text": "A gentle Helsinki love story."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Kalevala",
+     "subtitle": "1835 · Elias Lönnrot",
+     "text": "The national epic."
+    },
+    {
+     "title": "Moomin books",
+     "subtitle": "from 1945 · Tove Jansson",
+     "text": "The Moomin family's adventures."
+    },
+    {
+     "title": "The Summer Book",
+     "subtitle": "1972 · Tove Jansson",
+     "text": "A girl and her grandmother on an island."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Finlandia",
+     "subtitle": "Jean Sibelius, 1899",
+     "text": "A national hymn of freedom."
+    },
+    {
+     "title": "Hard Rock Hallelujah",
+     "subtitle": "Lordi, 2006",
+     "text": "Monsters win Eurovision."
+    },
+    {
+     "title": "Cha Cha Cha",
+     "subtitle": "Käärijä, 2023",
+     "text": "Won the Eurovision public vote."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Rye bread",
+     "subtitle": "Everywhere",
+     "text": "Dark, sour bread."
+    },
+    {
+     "title": "Karelian pasty",
+     "subtitle": "Everywhere",
+     "text": "Rye crust filled with rice porridge."
+    },
+    {
+     "title": "Salmon soup",
+     "subtitle": "Everywhere",
+     "text": "Creamy fish soup."
+    },
+    {
+     "title": "Sautéed reindeer",
+     "subtitle": "Lapland",
+     "text": "With mash and lingonberries."
+    },
+    {
+     "title": "Salmiakki",
+     "subtitle": "Everywhere",
+     "text": "Salty liquorice."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Runeberg Day",
+    "text": "Special tarts on 5 February."
+   },
+   {
+    "month": 5,
+    "name": "Vappu",
+    "text": "Spring and students' day on 1 May."
+   },
+   {
+    "month": 6,
+    "name": "Juhannus",
+    "text": "Midsummer bonfires and saunas."
+   },
+   {
+    "month": 7,
+    "name": "Wife Carrying Championship",
+    "text": "In Sonkajärvi."
+   },
+   {
+    "month": 8,
+    "name": "Air Guitar World Championships",
+    "text": "In Oulu."
+   },
+   {
+    "month": 12,
+    "name": "Independence Day",
+    "text": "Candles in windows on 6 December."
+   }
+  ]
+ }
 }

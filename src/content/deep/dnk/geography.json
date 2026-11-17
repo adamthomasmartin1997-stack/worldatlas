@@ -31,5 +31,75 @@
    "term": "Peninsula",
    "meaning": "Land surrounded by water on three sides."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Denmark's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Grenen, Skagen",
+    "kind": "sandbar",
+    "lat": 57.74,
+    "lon": 10.64,
+    "text": "Where two seas meet at Denmark's northern tip."
+   },
+   {
+    "name": "Råbjerg Mile",
+    "kind": "moving dune",
+    "lat": 57.65,
+    "lon": 10.4,
+    "text": "A sand dune that moves across the land."
+   },
+   {
+    "name": "Thy National Park",
+    "kind": "dunes and heath",
+    "lat": 56.95,
+    "lon": 8.4,
+    "text": "Wild coast on the North Sea."
+   },
+   {
+    "name": "Limfjord",
+    "kind": "fjord",
+    "lat": 56.9,
+    "lon": 9.0,
+    "text": "A long fjord cutting across Jutland."
+   },
+   {
+    "name": "Himmelbjerget",
+    "kind": "hill",
+    "lat": 56.1,
+    "lon": 9.68,
+    "text": "A famous hill, though only 147 m high."
+   },
+   {
+    "name": "Wadden Sea",
+    "kind": "mudflats",
+    "lat": 55.15,
+    "lon": 8.5,
+    "text": "Seals and huge flocks of birds."
+   },
+   {
+    "name": "Stevns Klint",
+    "kind": "chalk cliff",
+    "lat": 55.29,
+    "lon": 12.45,
+    "text": "Cliffs showing the layer from the dinosaurs' extinction."
+   },
+   {
+    "name": "Møns Klint",
+    "kind": "chalk cliff",
+    "lat": 54.97,
+    "lon": 12.55,
+    "text": "White cliffs over 100 m high."
+   },
+   {
+    "name": "Bornholm",
+    "kind": "rocky island",
+    "lat": 55.1,
+    "lon": 14.9,
+    "text": "A granite island in the Baltic."
+   }
+  ]
+ }
 }

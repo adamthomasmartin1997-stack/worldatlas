@@ -22,5 +22,112 @@
    "term": "Handball",
    "meaning": "A fast team game where players throw a ball into the other team's goal."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Superliga",
+     "subtitle": "Football",
+     "text": "FC Copenhagen have won the most titles."
+    },
+    {
+     "title": "Handball",
+     "subtitle": "Herrehåndboldligaen",
+     "text": "Home of world-champion players."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Michael Laudrup",
+     "subtitle": "Football",
+     "text": "A creative star of the 1980s and 90s."
+    },
+    {
+     "title": "Peter Schmeichel",
+     "subtitle": "Football",
+     "text": "Goalkeeper for the 1992 champions."
+    },
+    {
+     "title": "Caroline Wozniacki",
+     "subtitle": "Tennis",
+     "text": "Australian Open champion in 2018."
+    },
+    {
+     "title": "Mikkel Hansen",
+     "subtitle": "Handball",
+     "text": "A world and Olympic champion."
+    },
+    {
+     "title": "Viktor Axelsen",
+     "subtitle": "Badminton",
+     "text": "Two Olympic golds."
+    },
+    {
+     "title": "Jonas Vingegaard",
+     "subtitle": "Cycling",
+     "text": "Two Tour de France wins."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Denmark's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Parken, Copenhagen",
+    "kind": "venue",
+    "lat": 55.703,
+    "lon": 12.572,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Jyske Bank Boxen, Herning",
+    "kind": "venue",
+    "lat": 56.14,
+    "lon": 8.98,
+    "text": "A home of big handball matches."
+   },
+   {
+    "name": "Ceres Park, Aarhus",
+    "kind": "venue",
+    "lat": 56.14,
+    "lon": 10.2,
+    "text": "A football ground in Denmark's second city."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1992",
+    "title": "Euro champions",
+    "text": "Late call-ups win it all."
+   },
+   {
+    "year": "2021",
+    "title": "Eriksen",
+    "text": "The nation rallies after Christian Eriksen's collapse."
+   },
+   {
+    "year": "2022",
+    "title": "Tour de France",
+    "text": "The race starts in Copenhagen; Vingegaard wins."
+   },
+   {
+    "year": "2025",
+    "title": "Handball four in a row",
+    "text": "A fourth straight world title."
+   }
+  ]
+ }
 }

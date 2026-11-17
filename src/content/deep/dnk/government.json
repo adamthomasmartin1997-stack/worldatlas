@@ -36,5 +36,62 @@
    "term": "Folketing",
    "meaning": "Denmark's parliament."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Inherits the throne",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the government",
+     "text": "Usually a coalition."
+    },
+    {
+     "title": "The Folketing",
+     "subtitle": "179 members",
+     "text": "Parliament, with seats for Greenland and the Faroes."
+    },
+    {
+     "title": "Supreme Court",
+     "subtitle": "Judges",
+     "text": "The top court."
+    },
+    {
+     "title": "Regions and municipalities",
+     "subtitle": "5 regions, 98 municipalities",
+     "text": "Run hospitals and local services."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "Usually by a minister."
+   },
+   {
+    "title": "Three readings",
+    "text": "The Folketing debates it three times."
+   },
+   {
+    "title": "Referendum option",
+    "text": "A third of members can demand a public vote on some laws."
+   },
+   {
+    "title": "Signed",
+    "text": "The King and a minister sign it."
+   }
+  ]
+ }
 }

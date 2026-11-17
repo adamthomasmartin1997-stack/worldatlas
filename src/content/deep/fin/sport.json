@@ -22,5 +22,124 @@
    "term": "Pesäpallo",
    "meaning": "Finnish baseball."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Liiga",
+     "subtitle": "Ice hockey",
+     "text": "Finland's favourite league."
+    },
+    {
+     "title": "Veikkausliiga",
+     "subtitle": "Football",
+     "text": "HJK Helsinki have won the most titles."
+    },
+    {
+     "title": "Superpesis",
+     "subtitle": "Pesäpallo",
+     "text": "Finnish baseball."
+    },
+    {
+     "title": "Rally Finland",
+     "subtitle": "Rallying",
+     "text": "Huge jumps on forest roads."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Paavo Nurmi",
+     "subtitle": "Running",
+     "text": "Nine Olympic golds."
+    },
+    {
+     "title": "Lasse Virén",
+     "subtitle": "Running",
+     "text": "5,000 m and 10,000 m double twice."
+    },
+    {
+     "title": "Teemu Selänne",
+     "subtitle": "Ice hockey",
+     "text": "An NHL scoring star."
+    },
+    {
+     "title": "Mika Häkkinen",
+     "subtitle": "Formula One",
+     "text": "Two world titles."
+    },
+    {
+     "title": "Kimi Räikkönen",
+     "subtitle": "Formula One",
+     "text": "2007 world champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Finland's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Helsinki Olympic Stadium",
+    "kind": "venue",
+    "lat": 60.187,
+    "lon": 24.927,
+    "text": "Main stadium of the 1952 Olympics."
+   },
+   {
+    "name": "Lahti",
+    "kind": "venue",
+    "lat": 60.98,
+    "lon": 25.63,
+    "text": "Ski jumps and world championships."
+   },
+   {
+    "name": "Jyväskylä",
+    "kind": "venue",
+    "lat": 62.24,
+    "lon": 25.75,
+    "text": "Centre of Rally Finland."
+   },
+   {
+    "name": "Nokia Arena, Tampere",
+    "kind": "venue",
+    "lat": 61.495,
+    "lon": 23.77,
+    "text": "Hosted ice hockey world championships."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1924",
+    "title": "Nurmi's five golds",
+    "text": "At the Paris Olympics."
+   },
+   {
+    "year": "1952",
+    "title": "Helsinki Olympics",
+    "text": "Finland hosts the Games."
+   },
+   {
+    "year": "1995",
+    "title": "Ice hockey world champions",
+    "text": "A first world title."
+   },
+   {
+    "year": "2022",
+    "title": "Double gold",
+    "text": "Olympic and world ice hockey titles."
+   }
+  ]
+ }
 }

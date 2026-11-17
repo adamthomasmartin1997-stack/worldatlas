@@ -25,5 +25,95 @@
    "term": "Strongman",
    "meaning": "A sport of feats of strength such as lifting stones and pulling trucks."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Besta deild",
+     "subtitle": "Football",
+     "text": "KR have won the most titles."
+    },
+    {
+     "title": "Handball",
+     "subtitle": "Olís-deild",
+     "text": "Iceland's favourite indoor sport."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Ólafur Stefánsson",
+     "subtitle": "Handball",
+     "text": "Led Iceland to Olympic silver."
+    },
+    {
+     "title": "Jón Páll Sigmarsson",
+     "subtitle": "Strongman",
+     "text": "Four World's Strongest Man titles."
+    },
+    {
+     "title": "Vala Flosadóttir",
+     "subtitle": "Pole vault",
+     "text": "Olympic bronze in 2000."
+    },
+    {
+     "title": "Gylfi Sigurðsson",
+     "subtitle": "Football",
+     "text": "A Premier League midfielder."
+    },
+    {
+     "title": "Katrín Davíðsdóttir",
+     "subtitle": "CrossFit",
+     "text": "Two-time CrossFit Games champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Iceland's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Laugardalur, Reykjavík",
+    "kind": "venue",
+    "lat": 64.143,
+    "lon": -21.877,
+    "text": "The national stadium and sports hall."
+   },
+   {
+    "name": "Hlíðarfjall, Akureyri",
+    "kind": "venue",
+    "lat": 65.67,
+    "lon": -18.2,
+    "text": "Iceland's main ski area."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2008",
+    "title": "Olympic silver",
+    "text": "Handball in Beijing."
+   },
+   {
+    "year": "2016",
+    "title": "Beating England",
+    "text": "At Euro 2016."
+   },
+   {
+    "year": "2018",
+    "title": "World Cup debut",
+    "text": "The Viking thunderclap goes global."
+   }
+  ]
+ }
 }

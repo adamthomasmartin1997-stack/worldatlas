@@ -26,5 +26,131 @@
    "term": "Smørrebrød",
    "meaning": "Danish open sandwiches."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Babette's Feast",
+     "subtitle": "1987 · Gabriel Axel",
+     "text": "A grand dinner in a poor village; won an Oscar."
+    },
+    {
+     "title": "The Celebration",
+     "subtitle": "1998 · Thomas Vinterberg",
+     "text": "A family party goes wrong."
+    },
+    {
+     "title": "Another Round",
+     "subtitle": "2020 · Thomas Vinterberg",
+     "text": "Teachers test a theory; won an Oscar."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Fairy Tales",
+     "subtitle": "from 1835 · Hans Christian Andersen",
+     "text": "The Little Mermaid, The Snow Queen and more."
+    },
+    {
+     "title": "Out of Africa",
+     "subtitle": "1937 · Karen Blixen",
+     "text": "Life on a farm in Kenya."
+    },
+    {
+     "title": "Miss Smilla's Feeling for Snow",
+     "subtitle": "1992 · Peter Høeg",
+     "text": "A thriller set in Copenhagen."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Barbie Girl",
+     "subtitle": "Aqua, 1997",
+     "text": "A worldwide novelty hit."
+    },
+    {
+     "title": "7 Years",
+     "subtitle": "Lukas Graham, 2015",
+     "text": "A song about growing up."
+    },
+    {
+     "title": "Lean On",
+     "subtitle": "Major Lazer and MØ, 2015",
+     "text": "One of the most-streamed songs of its time."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Smørrebrød",
+     "subtitle": "Everywhere",
+     "text": "Open sandwiches on rye bread."
+    },
+    {
+     "title": "Frikadeller",
+     "subtitle": "Everywhere",
+     "text": "Pork meatballs, fried in butter."
+    },
+    {
+     "title": "Æbleskiver",
+     "subtitle": "Christmas",
+     "text": "Round pancake balls."
+    },
+    {
+     "title": "Danish pastry",
+     "subtitle": "Everywhere",
+     "text": "Called wienerbrød, 'Viennese bread'."
+    },
+    {
+     "title": "Hot dogs",
+     "subtitle": "Street stands",
+     "text": "From traditional sausage wagons."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Fastelavn",
+    "text": "Children dress up and knock a barrel."
+   },
+   {
+    "month": 6,
+    "name": "Constitution Day",
+    "text": "5 June."
+   },
+   {
+    "month": 6,
+    "name": "Sankt Hans",
+    "text": "Midsummer bonfires on 23 June."
+   },
+   {
+    "month": 7,
+    "name": "Roskilde Festival",
+    "text": "One of Europe's biggest music festivals."
+   },
+   {
+    "month": 12,
+    "name": "Christmas",
+    "text": "Rice pudding with a hidden almond."
+   }
+  ]
+ }
 }

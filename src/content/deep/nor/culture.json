@@ -23,5 +23,141 @@
    "term": "Stave church",
    "meaning": "A medieval wooden church built with upright posts called staves."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Kon-Tiki",
+     "subtitle": "1950 · Thor Heyerdahl",
+     "text": "A raft voyage across the Pacific; won an Oscar."
+    },
+    {
+     "title": "Elling",
+     "subtitle": "2001 · Petter Næss",
+     "text": "Two friends start a new life."
+    },
+    {
+     "title": "Troll Hunter",
+     "subtitle": "2010 · André Øvredal",
+     "text": "Students film real trolls."
+    },
+    {
+     "title": "The Worst Person in the World",
+     "subtitle": "2021 · Joachim Trier",
+     "text": "A young woman's search for direction."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Peer Gynt",
+     "subtitle": "1867 · Henrik Ibsen",
+     "text": "A dreamer's adventures."
+    },
+    {
+     "title": "Hunger",
+     "subtitle": "1890 · Knut Hamsun",
+     "text": "A starving writer in Kristiania."
+    },
+    {
+     "title": "Sophie's World",
+     "subtitle": "1991 · Jostein Gaarder",
+     "text": "A girl learns the history of philosophy."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "In the Hall of the Mountain King",
+     "subtitle": "Edvard Grieg, 1876",
+     "text": "A famous tune that speeds up."
+    },
+    {
+     "title": "Take On Me",
+     "subtitle": "a-ha, 1985",
+     "text": "With its famous sketch-style video."
+    },
+    {
+     "title": "Fairytale",
+     "subtitle": "Alexander Rybak, 2009",
+     "text": "A record-breaking Eurovision win."
+    },
+    {
+     "title": "Firestone",
+     "subtitle": "Kygo, 2014",
+     "text": "Tropical house from Bergen."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Brown cheese",
+     "subtitle": "Everywhere",
+     "text": "Sweet, caramel-like cheese."
+    },
+    {
+     "title": "Salmon",
+     "subtitle": "Everywhere",
+     "text": "Smoked, grilled or cured."
+    },
+    {
+     "title": "Fårikål",
+     "subtitle": "Everywhere",
+     "text": "Lamb and cabbage, the national dish."
+    },
+    {
+     "title": "Waffles",
+     "subtitle": "Everywhere",
+     "text": "Heart-shaped, with jam and sour cream."
+    },
+    {
+     "title": "Pinnekjøtt",
+     "subtitle": "Christmas",
+     "text": "Salted, dried lamb ribs."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Sámi National Day",
+    "text": "6 February."
+   },
+   {
+    "month": 3,
+    "name": "Holmenkollen Ski Festival",
+    "text": "Ski jumping and races in Oslo."
+   },
+   {
+    "month": 5,
+    "name": "Constitution Day",
+    "text": "17 May, with children's parades."
+   },
+   {
+    "month": 6,
+    "name": "Sankthans",
+    "text": "Midsummer bonfires."
+   },
+   {
+    "month": 12,
+    "name": "Nobel Peace Prize",
+    "text": "Awarded in Oslo on 10 December."
+   }
+  ]
+ }
 }

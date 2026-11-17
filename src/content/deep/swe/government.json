@@ -38,5 +38,62 @@
    "term": "Ombudsman",
    "meaning": "An official who investigates complaints about public bodies."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Inherits the throne",
+     "text": "Ceremonial head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Chosen by the Riksdag",
+     "text": "Leads the government."
+    },
+    {
+     "title": "The Riksdag",
+     "subtitle": "349 members",
+     "text": "A single-chamber parliament."
+    },
+    {
+     "title": "Courts",
+     "subtitle": "Independent judges",
+     "text": "Including the Supreme Court."
+    },
+    {
+     "title": "Regions and municipalities",
+     "subtitle": "21 regions, 290 municipalities",
+     "text": "Run health care, schools and local services."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Inquiry",
+    "text": "Experts investigate the issue first."
+   },
+   {
+    "title": "Consultation",
+    "text": "Organisations and the public comment."
+   },
+   {
+    "title": "Bill and committee",
+    "text": "The government sends a bill; a Riksdag committee studies it."
+   },
+   {
+    "title": "Vote",
+    "text": "The Riksdag votes, and the law is published."
+   }
+  ]
+ }
 }

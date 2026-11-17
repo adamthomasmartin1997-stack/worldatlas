@@ -37,5 +37,75 @@
    "term": "Midnight sun",
    "meaning": "When the sun stays above the horizon all night in summer."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Norway's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Nordkapp",
+    "kind": "cliff",
+    "lat": 71.17,
+    "lon": 25.78,
+    "text": "A cliff near Europe's northern edge."
+   },
+   {
+    "name": "Tromsø",
+    "kind": "Arctic city",
+    "lat": 69.65,
+    "lon": 18.96,
+    "text": "A top place to see the northern lights."
+   },
+   {
+    "name": "Lofoten",
+    "kind": "islands",
+    "lat": 68.2,
+    "lon": 14.0,
+    "text": "Jagged peaks rising from the sea."
+   },
+   {
+    "name": "Dovrefjell",
+    "kind": "mountain plateau",
+    "lat": 62.3,
+    "lon": 9.5,
+    "text": "Home of wild musk oxen."
+   },
+   {
+    "name": "Geirangerfjord",
+    "kind": "fjord",
+    "lat": 62.1,
+    "lon": 7.1,
+    "text": "A World Heritage fjord with waterfalls."
+   },
+   {
+    "name": "Jostedalsbreen",
+    "kind": "glacier",
+    "lat": 61.7,
+    "lon": 7.0,
+    "text": "The largest glacier in mainland Europe."
+   },
+   {
+    "name": "Galdhøpiggen",
+    "kind": "mountain",
+    "lat": 61.64,
+    "lon": 8.31,
+    "text": "Norway's highest peak."
+   },
+   {
+    "name": "Trolltunga",
+    "kind": "rock ledge",
+    "lat": 60.12,
+    "lon": 6.74,
+    "text": "A cliff ledge high above a lake."
+   },
+   {
+    "name": "Preikestolen",
+    "kind": "cliff",
+    "lat": 58.986,
+    "lon": 6.19,
+    "text": "The 'Pulpit Rock' above the Lysefjord."
+   }
+  ]
+ }
 }

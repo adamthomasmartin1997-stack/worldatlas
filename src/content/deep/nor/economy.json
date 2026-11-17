@@ -22,5 +22,44 @@
    "term": "Sovereign wealth fund",
    "meaning": "A national savings fund owned by the government."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Norway",
+   "items": [
+    {
+     "title": "Oil and gas",
+     "subtitle": "Equinor",
+     "text": "Europe's largest gas supplier."
+    },
+    {
+     "title": "Salmon",
+     "subtitle": "Fish farms",
+     "text": "The world's biggest producer of farmed salmon."
+    },
+    {
+     "title": "Aluminium",
+     "subtitle": "Hydro",
+     "text": "Made with hydropower."
+    },
+    {
+     "title": "Ships and offshore tech",
+     "subtitle": "West coast",
+     "text": "Engineering for the sea."
+    },
+    {
+     "title": "Fertilisers",
+     "subtitle": "Yara",
+     "text": "Sold worldwide."
+    },
+    {
+     "title": "The krone",
+     "subtitle": "NOK",
+     "text": "Norway's currency."
+    }
+   ],
+   "intro": "Some of the things Norway makes and sells to the world."
+  }
  ]
 }

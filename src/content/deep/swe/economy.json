@@ -23,5 +23,44 @@
    "term": "Cashless",
    "meaning": "Paying by card or phone instead of notes and coins."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Sweden",
+   "items": [
+    {
+     "title": "Furniture",
+     "subtitle": "IKEA",
+     "text": "Flat-pack furniture sold worldwide."
+    },
+    {
+     "title": "Cars and trucks",
+     "subtitle": "Volvo, Scania",
+     "text": "Known for safety."
+    },
+    {
+     "title": "Telecoms",
+     "subtitle": "Ericsson",
+     "text": "Mobile network equipment."
+    },
+    {
+     "title": "Fashion",
+     "subtitle": "H&M",
+     "text": "One of the world's biggest clothing chains."
+    },
+    {
+     "title": "Music and games",
+     "subtitle": "Spotify, Minecraft",
+     "text": "Streaming and gaming from Stockholm."
+    },
+    {
+     "title": "Steel and iron ore",
+     "subtitle": "Kiruna",
+     "text": "Mined in the far north."
+    }
+   ],
+   "intro": "Some of the things Sweden makes and sells to the world."
+  }
  ]
 }

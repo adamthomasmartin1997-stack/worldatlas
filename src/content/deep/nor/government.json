@@ -42,5 +42,62 @@
    "term": "European Economic Area",
    "meaning": "An agreement letting Norway, Iceland and Liechtenstein take part in the EU's single market."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Inherits the throne",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the government",
+     "text": "Needs support in the Storting."
+    },
+    {
+     "title": "The Storting",
+     "subtitle": "169 members",
+     "text": "Parliament; also chooses the Nobel Peace Prize committee."
+    },
+    {
+     "title": "Sámi Parliament",
+     "subtitle": "Elected by Sámi voters",
+     "text": "Speaks for the Sámi people."
+    },
+    {
+     "title": "Counties and municipalities",
+     "subtitle": "Elected councils",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "The government sends it to the Storting."
+   },
+   {
+    "title": "Committee",
+    "text": "A committee studies it."
+   },
+   {
+    "title": "Debate and vote",
+    "text": "The Storting debates and votes."
+   },
+   {
+    "title": "Royal sanction",
+    "text": "The King in Council confirms it."
+   }
+  ]
+ }
 }

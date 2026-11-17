@@ -28,5 +28,82 @@
    "term": "Geyser",
    "meaning": "A hot spring that shoots water and steam into the air."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Iceland's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Látrabjarg",
+    "kind": "bird cliffs",
+    "lat": 65.5,
+    "lon": -24.5,
+    "text": "Europe's biggest bird cliffs, full of puffins."
+   },
+   {
+    "name": "Dynjandi",
+    "kind": "waterfall",
+    "lat": 65.73,
+    "lon": -23.2,
+    "text": "A waterfall like a bridal veil."
+   },
+   {
+    "name": "Snæfellsjökull",
+    "kind": "volcano",
+    "lat": 64.8,
+    "lon": -23.78,
+    "text": "A glacier-topped volcano."
+   },
+   {
+    "name": "Þingvellir",
+    "kind": "rift valley",
+    "lat": 64.256,
+    "lon": -21.13,
+    "text": "Where two plates pull apart, and the old parliament met."
+   },
+   {
+    "name": "Geysir and Gullfoss",
+    "kind": "geyser and waterfall",
+    "lat": 64.32,
+    "lon": -20.2,
+    "text": "The geyser that gave its name to all others."
+   },
+   {
+    "name": "Reykjanes",
+    "kind": "volcanoes",
+    "lat": 63.88,
+    "lon": -22.4,
+    "text": "Recent eruptions near Grindavík."
+   },
+   {
+    "name": "Reynisfjara",
+    "kind": "black sand beach",
+    "lat": 63.4,
+    "lon": -19.04,
+    "text": "Basalt columns and strong waves."
+   },
+   {
+    "name": "Vatnajökull",
+    "kind": "ice cap",
+    "lat": 64.4,
+    "lon": -16.8,
+    "text": "Europe's largest glacier by volume."
+   },
+   {
+    "name": "Jökulsárlón",
+    "kind": "glacier lagoon",
+    "lat": 64.07,
+    "lon": -16.23,
+    "text": "Icebergs floating to the sea."
+   },
+   {
+    "name": "Mývatn",
+    "kind": "volcanic lake",
+    "lat": 65.6,
+    "lon": -17.0,
+    "text": "Lava formations and hot springs."
+   }
+  ]
+ }
 }
