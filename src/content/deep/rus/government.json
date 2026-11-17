@@ -1,0 +1,61 @@
+{
+ "status": "draft",
+ "intro": "On paper Russia is a federal republic with an elected president and parliament. In practice power is concentrated in the hands of President Vladimir Putin, and elections are not free or fair.",
+ "chapters": [
+  {
+   "id": "president",
+   "title": "A powerful president",
+   "text": [
+    "Russia's 1993 constitution gives the president great power, including over the government, armed forces and foreign policy. Vladimir Putin has been president since 2000, apart from four years as prime minister, and changes to the constitution in 2020 allow him to stay in office until 2036.",
+    "Parliament, the Federal Assembly, has two chambers: the State Duma, with 450 members, and the Federation Council, made up of representatives of the regions. Both nearly always support the president."
+   ]
+  },
+  {
+   "id": "freedom",
+   "title": "Opposition and freedom",
+   "text": [
+    "Independent television channels and newspapers have been closed or forced abroad, and criticising the war in Ukraine can lead to long prison sentences. Opposition leader Alexei Navalny was poisoned in 2020 and died in an Arctic prison in 2024.",
+    "International observers say elections take place without real competition. Many Russians support Putin, citing stability and national pride; many others are afraid to speak out."
+   ]
+  },
+  {
+   "id": "regions",
+   "title": "Regions and symbols",
+   "text": [
+    "Russia is a federation of dozens of regions, including republics, provinces and the cities of Moscow, St Petersburg and Sevastopol. Russia also claims several Ukrainian regions it occupies, which the United Nations does not recognise.",
+    "The flag has white, blue and red stripes, and the coat of arms shows a double-headed eagle. Victory Day, 9 May, marking the defeat of Nazi Germany, is one of the most important holidays."
+   ],
+   "related": [
+    "UKR"
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Russia in the world",
+   "text": [
+    "Russia has the largest stock of nuclear weapons in the world and took over the Soviet Union's permanent seat on the UN Security Council. Since 2022 it has been under heavy sanctions from the US, EU, UK and others, has been expelled from the Council of Europe, and has moved closer to China, Iran and North Korea."
+   ],
+   "related": [
+    "CHN",
+    "USA",
+    "IRN",
+    "PRK",
+    "IND"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Authoritarian",
+   "meaning": "A system where power is held by a leader or small group, without real democratic checks."
+  },
+  {
+   "term": "Sanctions",
+   "meaning": "Penalties such as trade bans placed on a country to pressure it."
+  },
+  {
+   "term": "Duma",
+   "meaning": "The lower house of Russia's parliament."
+  }
+ ]
+}

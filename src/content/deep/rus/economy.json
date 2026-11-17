@@ -1,0 +1,45 @@
+{
+ "status": "draft",
+ "intro": "Russia is an energy superpower, with huge reserves of oil and gas as well as metals, diamonds, timber and wheat. Since 2022 sanctions and war spending have reshaped its economy.",
+ "chapters": [
+  {
+   "id": "energy",
+   "title": "Oil and gas",
+   "text": [
+    "Russia has the world's largest natural gas reserves and is one of the biggest oil producers. For decades pipelines carried its gas to Europe, which depended heavily on it.",
+    "After the invasion of Ukraine, Europe cut most of its purchases, and Russia now sells much more oil and gas to China, India and Turkey, often at discounted prices."
+   ],
+   "related": [
+    "CHN",
+    "IND",
+    "TUR",
+    "DEU"
+   ]
+  },
+  {
+   "id": "resources",
+   "title": "Wheat, metals and diamonds",
+   "text": [
+    "Russia is the world's largest exporter of wheat, grown on the fertile black soils of the south. It is also a leading producer of nickel, palladium, aluminium, timber and diamonds; its company Alrosa mines more diamonds than any other.",
+    "It sells nuclear power stations abroad and launches astronauts and satellites on Soyuz rockets."
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "Much of Russia's wealth is controlled by the state and a small number of oligarchs, and corruption is widespread. Sanctions have cut access to Western technology and finance, and since 2022 a large share of government spending has gone to the military. The currency is the rouble."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Reserves",
+   "meaning": "The amount of oil, gas or minerals known to be in the ground and possible to extract."
+  },
+  {
+   "term": "Black soil",
+   "meaning": "Very fertile dark earth, called chernozem, found in southern Russia and Ukraine."
+  }
+ ]
+}

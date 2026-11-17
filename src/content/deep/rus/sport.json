@@ -1,0 +1,43 @@
+{
+ "status": "draft",
+ "intro": "The Soviet Union and Russia were long among the world's sporting superpowers, especially in ice hockey, chess, gymnastics and figure skating, but doping scandals and the war in Ukraine have led to bans from many international competitions.",
+ "chapters": [
+  {
+   "id": "hockey-chess",
+   "title": "Ice hockey and chess",
+   "text": [
+    "The Soviet ice hockey team dominated the Olympics for decades, though it famously lost to a team of American college players at the 1980 Winter Olympics, the 'Miracle on Ice'. In 2025 Alexander Ovechkin became the NHL's all-time top goal scorer, breaking Wayne Gretzky's record.",
+    "For most of the second half of the 20th century, almost every world chess champion was Soviet, including Anatoly Karpov and Garry Kasparov."
+   ],
+   "related": [
+    "USA",
+    "CAN"
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympic power",
+   "text": [
+    "Soviet and Russian athletes have excelled in gymnastics, figure skating, rhythmic gymnastics, wrestling and synchronised swimming. Moscow hosted the 1980 Summer Olympics, which the US and many other countries boycotted, and Sochi hosted the 2014 Winter Olympics.",
+    "Investigations found a state-run doping programme that cheated at Sochi and other events, and Russian teams were banned or forced to compete under a neutral flag. Since the invasion of Ukraine in 2022, Russia has been banned from most international team competitions."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football and tennis",
+   "text": [
+    "Russia hosted the 2018 World Cup and reached the quarter-finals. Lev Yashin, the Soviet 'Black Spider', is still the only goalkeeper ever to win the Ballon d'Or, in 1963. Tennis stars include Maria Sharapova and Daniil Medvedev."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Doping",
+   "meaning": "Using banned drugs to improve sports performance."
+  },
+  {
+   "term": "Boycott",
+   "meaning": "Refusing to take part in something as a protest."
+  }
+ ]
+}

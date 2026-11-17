@@ -1,0 +1,189 @@
+{
+ "status": "draft",
+ "intro": "Russia grew from a medieval state centred on Kyiv into an empire ruled by tsars, then the communist Soviet Union, a Cold War superpower. Since 1991 it has been the Russian Federation, increasingly ruled by one man, Vladimir Putin.",
+ "chapters": [
+  {
+   "id": "rus",
+   "title": "Kievan Rus' and the Mongols",
+   "text": [
+    "In the 800s, Viking traders called Varangians and local Slavic peoples formed a state known as Kievan Rus', centred on Kyiv, today the capital of Ukraine. In 988 its ruler, Vladimir, adopted Orthodox Christianity from the Byzantine Empire, along with a Cyrillic alphabet based on Greek letters.",
+    "From 1237 Mongol armies conquered the Rus' lands, and for about 240 years the princes had to pay tribute to the Mongol Golden Horde. Moscow, a small town, rose by collecting that tribute and finally threw off Mongol rule in 1480."
+   ],
+   "related": [
+    "UKR",
+    "BLR",
+    "MNG"
+   ]
+  },
+  {
+   "id": "tsars",
+   "title": "The tsars",
+   "text": [
+    "In 1547 Ivan IV, known as Ivan the Terrible, was crowned the first tsar, from the Latin 'Caesar'. Russia expanded east across Siberia and reached the Pacific in the 1630s. The Romanov family ruled from 1613 until 1917.",
+    "Peter the Great, tsar from 1682 to 1725, forced Russia to copy western Europe, built a navy and founded St Petersburg as a new capital on the Baltic. Catherine the Great pushed the empire to the Black Sea.",
+    "In 1812 Napoleon invaded and captured Moscow, but the city burned, winter set in and his army was destroyed during the retreat."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Russia's huge size, gained over centuries of expansion, shaped its history: it was hard to invade, but also hard to govern and defend."
+   },
+   "related": [
+    "FRA",
+    "SWE",
+    "TUR"
+   ]
+  },
+  {
+   "id": "revolution",
+   "title": "Revolution",
+   "text": [
+    "Most Russians were serfs, peasants tied to the land and owned by landlords, until Alexander II freed them in 1861. Industry grew late, and anger at poverty, defeat by Japan in 1905 and huge losses in the First World War exploded in 1917.",
+    "In February 1917 Tsar Nicholas II gave up the throne. In October the Bolsheviks, communists led by Vladimir Lenin, seized power. After a brutal civil war they created the Soviet Union in 1922, and the tsar and his family were shot in 1918."
+   ],
+   "related": [
+    "JPN",
+    "DEU"
+   ]
+  },
+  {
+   "id": "soviet",
+   "title": "The Soviet Union",
+   "text": [
+    "Joseph Stalin, who ruled from the late 1920s until 1953, forced peasants onto collective farms and built heavy industry at great speed. Millions died in famines, including in Ukraine and Kazakhstan, and millions more were executed or sent to Gulag labour camps.",
+    "In June 1941 Nazi Germany invaded. The siege of Leningrad lasted nearly 900 days, and the Battle of Stalingrad in 1942 and 1943 turned the war. About 27 million Soviet citizens died, more than any other country, before the Red Army captured Berlin in May 1945.",
+    "In the Cold War the Soviet Union and the United States competed for world power. The Soviets launched the first satellite, Sputnik, in 1957, and in 1961 Yuri Gagarin became the first human in space."
+   ],
+   "highlight": {
+    "title": "First in space",
+    "text": "Yuri Gagarin's flight on 12 April 1961 lasted 108 minutes. The date is celebrated in Russia as Cosmonautics Day."
+   },
+   "related": [
+    "UKR",
+    "KAZ",
+    "DEU",
+    "USA"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "After the Soviet Union",
+   "text": [
+    "Mikhail Gorbachev tried to reform the system in the late 1980s with more openness, but the Soviet Union broke up in December 1991 into 15 independent countries. The 1990s were chaotic: many people lost jobs and savings, while a few 'oligarchs' grew enormously rich.",
+    "Vladimir Putin became president in 2000 and has dominated Russia ever since, while independent media and opposition have been crushed. Russia fought wars in Chechnya, invaded Georgia in 2008, seized Ukraine's Crimea in 2014 and launched a full-scale invasion of Ukraine in February 2022, starting Europe's largest war since 1945, which has killed or wounded hundreds of thousands of people and brought heavy Western sanctions."
+   ],
+   "related": [
+    "UKR",
+    "GEO",
+    "BLR",
+    "KAZ",
+    "EST",
+    "LVA",
+    "LTU"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "988",
+   "title": "Christianity",
+   "text": "Vladimir of Kyiv adopts Orthodox Christianity."
+  },
+  {
+   "year": "1240",
+   "title": "Mongol conquest",
+   "text": "Kyiv falls to the Mongols."
+  },
+  {
+   "year": "1480",
+   "title": "End of Mongol rule",
+   "text": "Moscow stops paying tribute."
+  },
+  {
+   "year": "1547",
+   "title": "First tsar",
+   "text": "Ivan IV is crowned tsar."
+  },
+  {
+   "year": "1613",
+   "title": "Romanovs",
+   "text": "The Romanov dynasty begins."
+  },
+  {
+   "year": "1703",
+   "title": "St Petersburg",
+   "text": "Peter the Great founds his new capital."
+  },
+  {
+   "year": "1812",
+   "title": "Napoleon's invasion",
+   "text": "The French army is destroyed in the retreat."
+  },
+  {
+   "year": "1861",
+   "title": "Serfs freed",
+   "text": "Alexander II abolishes serfdom."
+  },
+  {
+   "year": "1917",
+   "title": "Revolutions",
+   "text": "The tsar falls; Lenin's Bolsheviks take power."
+  },
+  {
+   "year": "1922",
+   "title": "Soviet Union",
+   "text": "The USSR is created."
+  },
+  {
+   "year": "1941",
+   "title": "Nazi invasion",
+   "text": "Germany attacks the Soviet Union."
+  },
+  {
+   "year": "1961",
+   "title": "Gagarin",
+   "text": "The first human in space."
+  },
+  {
+   "year": "1986",
+   "title": "Chernobyl",
+   "text": "A nuclear disaster in Soviet Ukraine."
+  },
+  {
+   "year": "1991",
+   "title": "End of the USSR",
+   "text": "The Soviet Union breaks into 15 countries."
+  },
+  {
+   "year": "2014",
+   "title": "Crimea",
+   "text": "Russia seizes the Ukrainian peninsula."
+  },
+  {
+   "year": "2022",
+   "title": "Invasion of Ukraine",
+   "text": "Russia launches a full-scale war."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tsar",
+   "meaning": "The title of Russia's emperors."
+  },
+  {
+   "term": "Serf",
+   "meaning": "A peasant who was not free to leave the land and had to work for its owner."
+  },
+  {
+   "term": "Bolsheviks",
+   "meaning": "The communist party led by Lenin that took power in 1917."
+  },
+  {
+   "term": "Gulag",
+   "meaning": "The Soviet system of forced labour camps."
+  },
+  {
+   "term": "Oligarch",
+   "meaning": "A super-rich business person with great political influence."
+  }
+ ]
+}

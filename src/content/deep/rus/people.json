@@ -1,0 +1,51 @@
+{
+ "status": "draft",
+ "intro": "Russia is home to more than 190 ethnic groups, though most people are ethnic Russians. Most live in the European west, in cities such as Moscow and St Petersburg.",
+ "chapters": [
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Moscow, the capital, is one of the largest cities in Europe, and St Petersburg, built by Peter the Great, is the second city. Many smaller towns, especially in Siberia and the north, have been losing people for decades.",
+    "Many families have a dacha, a small country house with a vegetable garden, where they spend summer weekends."
+   ]
+  },
+  {
+   "id": "peoples",
+   "title": "Many peoples",
+   "text": [
+    "Ethnic Russians make up most of the population. The largest minorities include Tatars, Bashkirs, Chechens and Chuvash, and many regions, called republics, are named after a local people and have their own languages alongside Russian.",
+    "Russian, written in the Cyrillic alphabet, is spoken across the country and widely in other former Soviet countries."
+   ]
+  },
+  {
+   "id": "faith",
+   "title": "Faith",
+   "text": [
+    "The Russian Orthodox Church is the largest religion, and its onion-domed churches are a familiar sight. Islam is the second religion, especially in Tatarstan and the North Caucasus, and Buddhism is practised in regions such as Buryatia and Kalmykia."
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Life and school",
+   "text": [
+    "On 1 September, the 'Day of Knowledge', children start the school year carrying flowers for their teachers. Pupils take a national exam, the EGE, at the end of school.",
+    "Russia's population is shrinking. Men live on average more than ten years less than women, and since 2022 hundreds of thousands of people, many of them young and educated, have left the country."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cyrillic",
+   "meaning": "The alphabet used for Russian and several other languages."
+  },
+  {
+   "term": "Dacha",
+   "meaning": "A Russian country cottage, often with a vegetable garden."
+  },
+  {
+   "term": "Republic (in Russia)",
+   "meaning": "A region named after a non-Russian people, with its own languages and some self-government."
+  }
+ ]
+}

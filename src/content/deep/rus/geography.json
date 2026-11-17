@@ -1,0 +1,71 @@
+{
+ "status": "draft",
+ "intro": "Russia is by far the largest country on Earth, spanning eleven time zones across Europe and Asia. Most of it is forest, tundra and frozen ground, and it holds the world's deepest lake.",
+ "chapters": [
+  {
+   "id": "size",
+   "title": "The biggest country",
+   "text": [
+    "Russia covers about one-eighth of the world's land, stretching from the Baltic Sea to the Pacific. When it is morning in Moscow, it is already evening in Kamchatka.",
+    "The Ural Mountains divide European Russia from Asian Russia, or Siberia. About three-quarters of the land is in Asia, but about three-quarters of the people live in the European part. Russia borders 14 countries, joint most in the world with China, and its separate Kaliningrad region lies between Poland and Lithuania."
+   ],
+   "related": [
+    "NOR",
+    "FIN",
+    "EST",
+    "LVA",
+    "LTU",
+    "POL",
+    "BLR",
+    "UKR",
+    "GEO",
+    "AZE",
+    "KAZ",
+    "CHN",
+    "MNG",
+    "PRK"
+   ]
+  },
+  {
+   "id": "landscapes",
+   "title": "Tundra, taiga and steppe",
+   "text": [
+    "In the far north lies the treeless Arctic tundra. South of it is the taiga, the largest forest on Earth, of pine, spruce and larch. Further south are the grasslands of the steppe. Permafrost, ground frozen all year, lies under most of the country.",
+    "Mount Elbrus in the Caucasus, an extinct volcano, is the highest mountain in Europe. Kamchatka, in the far east, has dozens of active volcanoes and geysers."
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Rivers and Lake Baikal",
+   "text": [
+    "The Volga is Europe's longest river and has been called Russia's 'mother river'. In Siberia, the Ob, Yenisei and Lena flow north into the Arctic Ocean.",
+    "Lake Baikal, in southern Siberia, is the deepest lake in the world, more than 1,600 m deep, and probably the oldest, at more than 20 million years. It holds about a fifth of the world's unfrozen fresh surface water and is home to the Baikal seal, the only seal that lives only in fresh water."
+   ],
+   "highlight": {
+    "title": "Freezing records",
+    "text": "The village of Oymyakon in Siberia is one of the coldest places where people live all year: the temperature once fell to about -68°C."
+   }
+  },
+  {
+   "id": "wildlife",
+   "title": "Wildlife",
+   "text": [
+    "Russia is home to brown bears, wolves, lynx, polar bears on the Arctic coast and the Amur tiger, the largest cat on Earth, in the forests of the far east."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Taiga",
+   "meaning": "The great northern forest of conifer trees, also called boreal forest."
+  },
+  {
+   "term": "Permafrost",
+   "meaning": "Ground that stays frozen all year round."
+  },
+  {
+   "term": "Exclave",
+   "meaning": "Part of a country separated from the rest by other countries' land."
+  }
+ ]
+}

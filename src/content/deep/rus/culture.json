@@ -1,0 +1,47 @@
+{
+ "status": "draft",
+ "intro": "Russian culture has given the world great novels, ballet and music, from Tolstoy and Dostoevsky to Swan Lake. It also gave us matryoshka dolls, the periodic table and Tetris.",
+ "chapters": [
+  {
+   "id": "books",
+   "title": "Great writers",
+   "text": [
+    "Alexander Pushkin, often called the father of Russian literature, wrote poems and stories in the early 1800s; his great-grandfather was an African taken to Russia as a boy who became a general. Later in the century Leo Tolstoy wrote War and Peace and Fyodor Dostoevsky wrote Crime and Punishment, novels still read worldwide.",
+    "In the Soviet era, writers such as Boris Pasternak and Alexander Solzhenitsyn, who described the Gulag camps, were persecuted for their work."
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music and ballet",
+   "text": [
+    "Pyotr Tchaikovsky wrote the ballets Swan Lake, The Sleeping Beauty and The Nutcracker, performed every Christmas around the world. Other great composers include Rachmaninoff, Stravinsky and Shostakovich.",
+    "The Bolshoi in Moscow and the Mariinsky in St Petersburg are among the most famous ballet companies in history."
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Art, food and festivals",
+   "text": [
+    "Russian Orthodox icons are religious paintings on wood, and St Petersburg's Hermitage is one of the largest art museums in the world. Matryoshka dolls, wooden dolls nesting inside each other, were first made in the 1890s.",
+    "Traditional foods include pelmeni (dumplings), blini (pancakes), soups such as borscht and shchi, and tea from a samovar. New Year is the biggest family holiday, when Ded Moroz ('Grandfather Frost') brings presents; Orthodox Christmas is on 7 January."
+   ]
+  },
+  {
+   "id": "science",
+   "title": "Science and games",
+   "text": [
+    "Dmitri Mendeleev created the periodic table of the elements in 1869, leaving gaps for elements not yet discovered. In 1984 Alexey Pajitnov, a computer scientist in Moscow, invented Tetris, one of the best-selling video games ever."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Icon",
+   "meaning": "A religious painting of Christ or a saint, used in Orthodox worship."
+  },
+  {
+   "term": "Periodic table",
+   "meaning": "A chart that arranges all the chemical elements by their properties."
+  }
+ ]
+}
