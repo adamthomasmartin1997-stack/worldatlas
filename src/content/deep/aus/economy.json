@@ -1,0 +1,46 @@
+{
+ "status": "draft",
+ "intro": "Australia is one of the world's richest countries, powered by mining, farming, education and tourism. It went almost 30 years without a recession, a record among rich countries.",
+ "chapters": [
+  {
+   "id": "mining",
+   "title": "A quarry for the world",
+   "text": [
+    "Australia is the world's largest exporter of iron ore, used to make steel, and one of the biggest exporters of coal, natural gas and gold. It mines more lithium, needed for batteries, than any other country.",
+    "Most of these resources are shipped to Asia, especially China, which is Australia's biggest trading partner by far."
+   ],
+   "related": [
+    "CHN",
+    "JPN",
+    "KOR",
+    "IND"
+   ]
+  },
+  {
+   "id": "farming-services",
+   "title": "Farms, students and tourists",
+   "text": [
+    "Huge cattle and sheep stations cover the dry interior, and Australia produces more wool than any other country, as well as wheat, beef, wine and barley.",
+    "Most Australians work in services. International education is a big earner: hundreds of thousands of students from abroad study at Australian universities. Tourists come for the beaches, the reef and the Outback."
+   ]
+  },
+  {
+   "id": "inventions",
+   "title": "Clever ideas",
+   "text": [
+    "Australians invented plastic banknotes, first issued in 1988, the black box flight recorder and the bionic ear (cochlear implant), and scientists at the government's CSIRO research agency developed technology behind fast Wi-Fi.",
+    "Big challenges include very high house prices and moving away from coal and gas to cleaner energy. The currency is the Australian dollar."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Recession",
+   "meaning": "When a country's economy shrinks for a sustained period."
+  },
+  {
+   "term": "Station",
+   "meaning": "In Australia, a very large farm, often raising cattle or sheep."
+  }
+ ]
+}

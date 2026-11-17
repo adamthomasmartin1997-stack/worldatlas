@@ -1,0 +1,52 @@
+{
+ "status": "draft",
+ "intro": "Australia is the only country that covers a whole continent. It is the driest inhabited continent, with a vast desert interior, the world's largest coral reef and animals found nowhere else on Earth.",
+ "chapters": [
+  {
+   "id": "continent",
+   "title": "An island continent",
+   "text": [
+    "Australia is the sixth-largest country in the world. Most of its middle is the Outback, a vast, dry, thinly populated land of desert, scrub and red earth. Most Australians live along the coast, especially in the south-east.",
+    "Uluru, a giant sandstone rock in the Northern Territory, is sacred to the Anangu people. Since 2019, visitors are no longer allowed to climb it."
+   ]
+  },
+  {
+   "id": "land",
+   "title": "Mountains, rivers and reef",
+   "text": [
+    "The Great Dividing Range runs down the east coast; Mount Kosciuszko, in the Snowy Mountains, is the highest point on the mainland. The Murray and Darling are the longest rivers, and their basin is Australia's most important farming area.",
+    "The Great Barrier Reef, off Queensland, stretches for about 2,300 km and is the largest coral reef system in the world. Rising sea temperatures have caused several mass coral bleaching events."
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate and bushfires",
+   "text": [
+    "The north is tropical, with a hot wet season and a dry season. The interior is desert. The south has warm summers and mild winters, and the island state of Tasmania is cool and green; the Australian Alps get snow.",
+    "Droughts, floods and bushfires are part of life. In the 'Black Summer' of 2019 and 2020 huge fires burned millions of hectares and killed or displaced an estimated three billion animals."
+   ]
+  },
+  {
+   "id": "wildlife",
+   "title": "Unique wildlife",
+   "text": [
+    "Australia was cut off from other continents for millions of years, so most of its mammals, reptiles and frogs are found nowhere else. Marsupials, such as kangaroos, koalas and wombats, carry their young in pouches, and the platypus and echidna are mammals that lay eggs.",
+    "Australia is also known for venomous snakes and spiders, saltwater crocodiles in the north and huge numbers of colourful birds, from cockatoos to emus."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Outback",
+   "meaning": "The remote, dry interior of Australia."
+  },
+  {
+   "term": "Coral bleaching",
+   "meaning": "When corals turn white and may die because the water is too warm."
+  },
+  {
+   "term": "Marsupial",
+   "meaning": "A mammal whose young develop in a pouch, like a kangaroo."
+  }
+ ]
+}

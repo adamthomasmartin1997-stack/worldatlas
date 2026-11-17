@@ -1,0 +1,156 @@
+{
+ "status": "draft",
+ "intro": "Aboriginal and Torres Strait Islander peoples have lived in Australia for at least 65,000 years, making theirs one of the oldest continuous cultures on Earth. British settlement from 1788 brought convicts, gold rushes and a new nation, but at a terrible cost to the First Australians.",
+ "chapters": [
+  {
+   "id": "first-australians",
+   "title": "The First Australians",
+   "text": [
+    "People reached Australia from Asia by boat at least 65,000 years ago, when sea levels were lower. Over thousands of generations, hundreds of Aboriginal nations developed across the continent, with more than 250 languages, and the Torres Strait Islanders lived on the islands between Australia and New Guinea.",
+    "Aboriginal peoples managed the land carefully, using fire to shape landscapes and encourage new growth, and passed on knowledge through stories, songs, dance and art connected to the Dreaming, which explains how the land and its laws came to be."
+   ],
+   "highlight": {
+    "title": "Ancient art",
+    "text": "Some Aboriginal rock art is tens of thousands of years old, making it among the oldest art in the world."
+   }
+  },
+  {
+   "id": "arrival",
+   "title": "Europeans arrive",
+   "text": [
+    "Dutch sailors charted parts of the coast from 1606, and Abel Tasman sailed past Tasmania in 1642. In 1770 the British navigator James Cook mapped the east coast and claimed it for Britain.",
+    "On 26 January 1788 the First Fleet of 11 ships arrived at Sydney Cove carrying about 1,000 people, many of them convicts. Britain used Australia as a prison colony, and about 162,000 convicts were transported there until 1868.",
+    "For Aboriginal peoples, colonisation was devastating. Diseases such as smallpox spread, land was taken, and violent conflicts known as the frontier wars, including massacres, went on for more than a century."
+   ],
+   "related": [
+    "NLD",
+    "GBR"
+   ]
+  },
+  {
+   "id": "gold",
+   "title": "Gold and a new nation",
+   "text": [
+    "Gold was discovered in New South Wales and Victoria in 1851, and hundreds of thousands of people rushed to the goldfields from around the world, including many from China. In 1854 miners rebelled against unfair licence fees at the Eureka Stockade, an event seen as a step towards democracy.",
+    "On 1 January 1901 six British colonies joined together to form the Commonwealth of Australia. In 1902 most women won the right to vote and stand for national parliament, among the first in the world, though Aboriginal people were excluded. A 'White Australia' policy restricted non-European immigration until the 1960s and 1970s."
+   ],
+   "related": [
+    "CHN",
+    "GBR"
+   ]
+  },
+  {
+   "id": "anzac",
+   "title": "War and the Anzac story",
+   "text": [
+    "In the First World War, Australian and New Zealand troops, the Anzacs, landed at Gallipoli in Turkey on 25 April 1915. The campaign failed, but Anzac Day, 25 April, became one of Australia's most important days of remembrance.",
+    "In the Second World War, Japanese planes bombed Darwin in 1942, and Australian troops fought in New Guinea and elsewhere. After the war, Australia invited millions of migrants from Britain, Italy, Greece and other countries to help build the nation."
+   ],
+   "related": [
+    "NZL",
+    "TUR",
+    "PNG",
+    "JPN",
+    "ITA",
+    "GRC"
+   ]
+  },
+  {
+   "id": "rights",
+   "title": "Recognition and reconciliation",
+   "text": [
+    "From about 1910 to the 1970s, governments took many Aboriginal and Torres Strait Islander children from their families; they are known as the Stolen Generations. In 1967 more than 90% of voters approved a referendum so that Aboriginal people would be counted in the census and the national government could make laws for them.",
+    "In 1992 the High Court's Mabo decision recognised that Indigenous people held rights to land before the British arrived, overturning the idea that Australia had been terra nullius, 'land belonging to no one'. In 2008 Prime Minister Kevin Rudd made a national apology to the Stolen Generations. In 2023 voters rejected a proposal to create an Indigenous Voice to Parliament."
+   ],
+   "highlight": {
+    "title": "Two views of 26 January",
+    "text": "Australia Day marks the arrival of the First Fleet, but many Aboriginal people call it Invasion Day or Survival Day, and there is an ongoing debate about the date."
+   }
+  }
+ ],
+ "timeline": [
+  {
+   "year": "65,000 years ago",
+   "title": "First Australians",
+   "text": "People arrive from Asia by sea."
+  },
+  {
+   "year": "1606",
+   "title": "Dutch sailors",
+   "text": "The first recorded European landing."
+  },
+  {
+   "year": "1770",
+   "title": "James Cook",
+   "text": "Cook maps the east coast and claims it for Britain."
+  },
+  {
+   "year": "1788",
+   "title": "First Fleet",
+   "text": "A British prison colony is founded at Sydney Cove."
+  },
+  {
+   "year": "1851",
+   "title": "Gold rush",
+   "text": "Gold is found and immigrants pour in."
+  },
+  {
+   "year": "1854",
+   "title": "Eureka Stockade",
+   "text": "Gold miners rebel against unfair rules."
+  },
+  {
+   "year": "1901",
+   "title": "Federation",
+   "text": "The Commonwealth of Australia is born."
+  },
+  {
+   "year": "1915",
+   "title": "Gallipoli",
+   "text": "Anzac troops land in Turkey on 25 April."
+  },
+  {
+   "year": "1942",
+   "title": "Darwin bombed",
+   "text": "Japan attacks northern Australia."
+  },
+  {
+   "year": "1967",
+   "title": "Referendum",
+   "text": "Aboriginal people are counted in the census."
+  },
+  {
+   "year": "1992",
+   "title": "Mabo decision",
+   "text": "The High Court recognises native title to land."
+  },
+  {
+   "year": "2000",
+   "title": "Sydney Olympics",
+   "text": "Cathy Freeman lights the flame and wins gold."
+  },
+  {
+   "year": "2008",
+   "title": "National Apology",
+   "text": "The government apologises to the Stolen Generations."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dreaming",
+   "meaning": "Aboriginal beliefs and stories about the creation of the land, its people and its laws."
+  },
+  {
+   "term": "Convict",
+   "meaning": "A person found guilty of a crime and sent to prison or, in this case, to a prison colony."
+  },
+  {
+   "term": "Federation",
+   "meaning": "The joining of Australia's six colonies into one country in 1901."
+  },
+  {
+   "term": "Terra nullius",
+   "meaning": "Latin for 'land belonging to no one', the false legal idea used to justify taking Aboriginal land."
+  }
+ ]
+}

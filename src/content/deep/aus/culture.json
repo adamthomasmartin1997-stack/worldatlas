@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Australian culture mixes the world's oldest living cultures with British roots, migrant influences and a love of the outdoors, from Aboriginal dot paintings to the Sydney Opera House and Bluey.",
+ "chapters": [
+  {
+   "id": "indigenous",
+   "title": "Indigenous culture",
+   "text": [
+    "Aboriginal art includes ancient rock paintings, bark paintings and the famous dot paintings of the Western Desert, a style that grew from the community of Papunya in the 1970s. The didgeridoo, a long wooden wind instrument, comes from northern Australia.",
+    "Many events begin with a 'Welcome to Country' by local Aboriginal elders, or an 'Acknowledgement of Country'."
+   ]
+  },
+  {
+   "id": "icons",
+   "title": "Icons and stories",
+   "text": [
+    "The Sydney Opera House, designed by Danish architect Jørn Utzon and opened in 1973, is a World Heritage Site. Australian screen exports include the Mad Max films and the children's cartoon Bluey, made in Brisbane, which is watched around the world.",
+    "Australian music ranges from AC/DC and Kylie Minogue to Sia and Tame Impala."
+   ],
+   "related": [
+    "DNK"
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Barbecues are a national habit. Favourites include meat pies, Vegemite on toast, lamingtons (sponge cake in chocolate and coconut), Tim Tam biscuits and pavlova, a meringue dessert also claimed by New Zealand.",
+    "Waves of migrants have made Australian cities famous for Italian coffee, Vietnamese pho, Greek food and much more. Indigenous foods such as wattleseed and finger lime, called bush tucker, are increasingly popular."
+   ],
+   "related": [
+    "NZL"
+   ]
+  },
+  {
+   "id": "outdoors",
+   "title": "Beach culture",
+   "text": [
+    "Most Australians live near the coast, and beaches are central to daily life. Volunteer surf lifesavers in red and yellow caps patrol beaches, a tradition that began in Sydney in the early 1900s. Christmas falls in summer, so many families celebrate with a barbecue or a day at the beach."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Welcome to Country",
+   "meaning": "A ceremony by Aboriginal elders welcoming visitors to their traditional land."
+  },
+  {
+   "term": "Bush tucker",
+   "meaning": "Native Australian foods, traditionally eaten by Aboriginal peoples."
+  }
+ ]
+}

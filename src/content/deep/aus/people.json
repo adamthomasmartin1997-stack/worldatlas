@@ -1,0 +1,48 @@
+{
+ "status": "draft",
+ "intro": "Australia is a nation of city-dwellers, beach-goers and migrants: nearly half of all Australians were born overseas or have a parent who was.",
+ "chapters": [
+  {
+   "id": "cities",
+   "title": "Coastal cities",
+   "text": [
+    "Sydney and Melbourne are the biggest cities, followed by Brisbane, Perth and Adelaide. The capital, Canberra, was built from scratch as a compromise because Sydney and Melbourne could not agree which should be the capital.",
+    "Almost nine in ten Australians live in towns and cities, most of them near the coast. In remote areas, children may join lessons over the internet through 'schools of the air', and the Royal Flying Doctor Service brings medical care by plane."
+   ]
+  },
+  {
+   "id": "migrants",
+   "title": "A nation of migrants",
+   "text": [
+    "More than a quarter of Australians were born overseas. The biggest groups come from England, India, China, New Zealand, the Philippines and Vietnam, and Mandarin, Arabic, Vietnamese and Cantonese are commonly spoken at home.",
+    "Aboriginal and Torres Strait Islander peoples make up about 4% of the population. More than a hundred Indigenous languages are still spoken, though many are endangered."
+   ],
+   "related": [
+    "GBR",
+    "IND",
+    "CHN",
+    "NZL",
+    "PHL",
+    "VNM"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Australian life",
+   "text": [
+    "Australian English is famous for its slang and shortened words, such as 'arvo' for afternoon and 'barbie' for barbecue. Outdoor life, beaches and sport are a big part of the culture.",
+    "Christianity is the largest religion, but almost four in ten Australians said they had no religion in the 2021 census."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "School of the air",
+   "meaning": "Lessons given remotely to children living far from any school."
+  },
+  {
+   "term": "Census",
+   "meaning": "An official count of a country's people and how they live."
+  }
+ ]
+}

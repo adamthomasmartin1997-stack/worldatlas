@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Australia is a federal parliamentary democracy and a constitutional monarchy. It is famous for one rule in particular: every adult citizen must vote.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Crown and parliament",
+   "text": [
+    "King Charles III is head of state, represented by the Governor-General. In 1999 Australians voted in a referendum on becoming a republic, but the proposal was rejected.",
+    "Parliament in Canberra has a House of Representatives, where the party with a majority forms the government and its leader becomes prime minister, and a Senate in which every state gets the same number of senators. Anthony Albanese of the Labor Party became prime minister in 2022."
+   ],
+   "facts": [
+    {
+     "label": "States",
+     "value": "6"
+    },
+    {
+     "label": "Main territories",
+     "value": "2"
+    },
+    {
+     "label": "Voting",
+     "value": "Compulsory from 18"
+    }
+   ]
+  },
+  {
+   "id": "voting",
+   "title": "Compulsory voting",
+   "text": [
+    "Since 1924 voting in national elections has been compulsory, and people who don't vote without a good reason can be fined, so turnout is usually around 90%. Voters rank candidates in order of preference.",
+    "Elections are always held on Saturdays, and many polling stations at schools run barbecues, so a 'democracy sausage' is part of election day. Australia also helped pioneer the secret ballot in the 1850s."
+   ]
+  },
+  {
+   "id": "states",
+   "title": "States and territories",
+   "text": [
+    "The six states, New South Wales, Victoria, Queensland, Western Australia, South Australia and Tasmania, have their own parliaments and run schools, hospitals and police. The Northern Territory and the Australian Capital Territory also have their own governments."
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Flags and symbols",
+   "text": [
+    "The Australian flag shows the Union Jack, a large seven-pointed star and the Southern Cross constellation. The Aboriginal flag, black, red and yellow, and the Torres Strait Islander flag have been official national flags since 1995.",
+    "The anthem is Advance Australia Fair. Australia's coat of arms shows a kangaroo and an emu, often said to be chosen because neither can easily walk backwards."
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Australia in the world",
+   "text": [
+    "Australia's closest ally is the United States, through the ANZUS treaty of 1951 and the AUKUS defence partnership with the US and UK from 2021. It works closely with New Zealand and its Pacific neighbours, and its biggest trading partner is China."
+   ],
+   "related": [
+    "USA",
+    "GBR",
+    "NZL",
+    "CHN",
+    "PNG",
+    "FJI"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Compulsory voting",
+   "meaning": "A law that requires all eligible citizens to vote."
+  },
+  {
+   "term": "Preferential voting",
+   "meaning": "Voters number candidates in order of preference, and votes are transferred until one candidate has a majority."
+  },
+  {
+   "term": "Secret ballot",
+   "meaning": "Voting in private so nobody can see or force how you vote."
+  }
+ ]
+}

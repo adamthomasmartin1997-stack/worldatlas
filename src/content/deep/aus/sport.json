@@ -1,0 +1,50 @@
+{
+ "status": "draft",
+ "intro": "Australians are mad about sport. They play four different kinds of football, take cricket very seriously and win far more Olympic medals than their population size would suggest.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Four kinds of football",
+   "text": [
+    "Australian rules football, played on huge oval fields with 18 players a side, is the most watched sport, especially in Victoria, South Australia and Western Australia; its AFL Grand Final is the biggest event of the year. Rugby league is king in New South Wales and Queensland, whose yearly State of Origin series is fiercely fought.",
+    "The Wallabies won the Rugby Union World Cup in 1991 and 1999. Football (soccer) is growing fast: the Matildas reached the semi-finals of the 2023 Women's World Cup, co-hosted by Australia and New Zealand."
+   ],
+   "related": [
+    "NZL"
+   ]
+  },
+  {
+   "id": "cricket",
+   "title": "Cricket",
+   "text": [
+    "Cricket is the main summer sport. Don Bradman, who played in the 1930s and 1940s, had a Test batting average of 99.94, a number many fans know by heart and far above any other player's. The Ashes series against England is the oldest rivalry in the game, and Australia's men and women have won more World Cups than any other team."
+   ],
+   "related": [
+    "GBR",
+    "IND"
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics and beyond",
+   "text": [
+    "Melbourne hosted the 1956 Olympics and Sydney the 2000 Games, and Brisbane will host in 2032. Australia won 18 gold medals at Paris 2024, its best ever, many of them in the swimming pool.",
+    "The Australian Open in Melbourne starts the tennis season every January, and Ash Barty won three Grand Slam titles. The Melbourne Cup horse race, on the first Tuesday of November, is called 'the race that stops a nation'. Australia's netball team is the most successful in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Australian rules football",
+   "meaning": "A fast game played with an oval ball on an oval field, where players kick, punch and catch the ball."
+  },
+  {
+   "term": "Test match",
+   "meaning": "The longest form of international cricket, played over up to five days."
+  },
+  {
+   "term": "State of Origin",
+   "meaning": "A yearly rugby league series between New South Wales and Queensland."
+  }
+ ]
+}
