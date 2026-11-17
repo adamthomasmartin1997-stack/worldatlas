@@ -22,5 +22,111 @@
    "term": "Kolo",
    "meaning": "A traditional circle dance of the Balkans."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Who's Singin' Over There?",
+     "subtitle": "1980 · Slobodan Šijan",
+     "text": "A bus ride before war; a cult comedy."
+    },
+    {
+     "title": "Underground",
+     "subtitle": "1995 · Emir Kusturica",
+     "text": "Won the top prize at Cannes."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Bridge on the Drina",
+     "subtitle": "1945 · Ivo Andrić",
+     "text": "Centuries around one bridge; by the Nobel winner."
+    },
+    {
+     "title": "Dictionary of the Khazars",
+     "subtitle": "1984 · Milorad Pavić",
+     "text": "A novel written as a dictionary."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Molitva",
+     "subtitle": "Marija Šerifović, 2007",
+     "text": "Serbia's Eurovision win."
+    },
+    {
+     "title": "Guča trumpets",
+     "subtitle": "Dragačevo",
+     "text": "A brass band festival."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Ćevapi",
+     "subtitle": "Everywhere",
+     "text": "Small grilled sausages."
+    },
+    {
+     "title": "Pljeskavica",
+     "subtitle": "Everywhere",
+     "text": "A big spiced burger."
+    },
+    {
+     "title": "Ajvar",
+     "subtitle": "Autumn",
+     "text": "Red pepper relish."
+    },
+    {
+     "title": "Kajmak",
+     "subtitle": "Everywhere",
+     "text": "Creamy dairy spread."
+    },
+    {
+     "title": "Sarma",
+     "subtitle": "Winter",
+     "text": "Cabbage rolls."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Orthodox Christmas",
+    "text": "7 January."
+   },
+   {
+    "month": 2,
+    "name": "Statehood Day",
+    "text": "15 February."
+   },
+   {
+    "month": 7,
+    "name": "EXIT",
+    "text": "A huge festival in a fortress in Novi Sad."
+   },
+   {
+    "month": 8,
+    "name": "Guča Trumpet Festival",
+    "text": "Brass bands play for days."
+   }
+  ]
+ }
 }

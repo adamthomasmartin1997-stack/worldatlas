@@ -22,5 +22,39 @@
    "term": "Hydropower",
    "meaning": "Electricity made from flowing water."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Albania",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "The coast",
+     "text": "Growing fast."
+    },
+    {
+     "title": "Clothes and shoes",
+     "subtitle": "Factories",
+     "text": "Sewn for Italian brands."
+    },
+    {
+     "title": "Chromium",
+     "subtitle": "Mines",
+     "text": "Among the world's top producers."
+    },
+    {
+     "title": "Oil",
+     "subtitle": "Fier region",
+     "text": "Onshore oil."
+    },
+    {
+     "title": "Medicinal herbs",
+     "subtitle": "Mountains",
+     "text": "Sage and other herbs."
+    }
+   ],
+   "intro": "Some of the things Albania makes and sells to the world."
+  }
  ]
 }

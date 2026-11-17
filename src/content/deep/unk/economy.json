@@ -22,5 +22,39 @@
    "term": "Lignite",
    "meaning": "Soft brown coal."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Kosovo",
+   "items": [
+    {
+     "title": "Electricity",
+     "subtitle": "Lignite",
+     "text": "Large coal reserves."
+    },
+    {
+     "title": "Metals",
+     "subtitle": "Trepça mines",
+     "text": "Lead and zinc."
+    },
+    {
+     "title": "Construction",
+     "subtitle": "Building",
+     "text": "A big employer."
+    },
+    {
+     "title": "Money from abroad",
+     "subtitle": "Diaspora",
+     "text": "Families abroad send money home."
+    },
+    {
+     "title": "The euro",
+     "subtitle": "Used since 2002",
+     "text": "Without being in the EU."
+    }
+   ],
+   "intro": "Some of the things Kosovo makes and sells to the world."
+  }
  ]
 }

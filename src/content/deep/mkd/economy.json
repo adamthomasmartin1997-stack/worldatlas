@@ -22,5 +22,34 @@
    "term": "Economic zone",
    "meaning": "An area with tax breaks to attract foreign companies."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in North Macedonia",
+   "items": [
+    {
+     "title": "Car parts",
+     "subtitle": "Factories",
+     "text": "Catalysts and wiring for carmakers."
+    },
+    {
+     "title": "Wine",
+     "subtitle": "Tikveš",
+     "text": "Big wine exports."
+    },
+    {
+     "title": "Tobacco",
+     "subtitle": "Prilep",
+     "text": "Long-grown crop."
+    },
+    {
+     "title": "Tomatoes and peppers",
+     "subtitle": "Farms",
+     "text": "Fresh produce exports."
+    }
+   ],
+   "intro": "Some of the things North Macedonia makes and sells to the world."
+  }
  ]
 }

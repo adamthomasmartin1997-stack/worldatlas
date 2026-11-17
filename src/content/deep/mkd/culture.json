@@ -22,5 +22,101 @@
    "term": "Byzantine",
    "meaning": "Relating to the Eastern Roman Empire and its art and churches."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Before the Rain",
+     "subtitle": "1994 · Milcho Manchevski",
+     "text": "Won the Golden Lion; Oscar-nominated."
+    },
+    {
+     "title": "Honeyland",
+     "subtitle": "2019 · Kotevska and Stefanov",
+     "text": "A beekeeper's life; two Oscar nominations."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "White Dawns",
+     "subtitle": "1939 · Kočo Racin",
+     "text": "Poems that helped found modern literature."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Ohrid Summer Festival",
+     "subtitle": "Since 1961",
+     "text": "Music in old churches."
+    },
+    {
+     "title": "Toše Proeski",
+     "subtitle": "Singer",
+     "text": "A much-loved pop star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Tavče gravče",
+     "subtitle": "Everywhere",
+     "text": "Baked beans in a clay pot."
+    },
+    {
+     "title": "Ajvar",
+     "subtitle": "Autumn",
+     "text": "Pepper relish."
+    },
+    {
+     "title": "Shopska salad",
+     "subtitle": "Everywhere",
+     "text": "Tomato, cucumber and white cheese."
+    },
+    {
+     "title": "Ohrid trout",
+     "subtitle": "Lake Ohrid",
+     "text": "A famous fish."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 8,
+    "name": "Ilinden",
+    "text": "2 August, the 1903 uprising."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "8 September, 1991."
+   },
+   {
+    "month": 7,
+    "name": "Ohrid Summer Festival",
+    "text": "Music and theatre."
+   },
+   {
+    "month": 1,
+    "name": "Vasilica",
+    "text": "Masked carnival in Vevčani."
+   }
+  ]
+ }
 }

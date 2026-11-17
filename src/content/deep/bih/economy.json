@@ -22,5 +22,34 @@
    "term": "Remittances",
    "meaning": "Money sent home by people working abroad."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Bosnia and Herzegovina",
+   "items": [
+    {
+     "title": "Metals",
+     "subtitle": "Aluminium and steel",
+     "text": "Mostar and Zenica."
+    },
+    {
+     "title": "Electricity",
+     "subtitle": "Hydro and coal",
+     "text": "Sold to neighbours."
+    },
+    {
+     "title": "Wood and furniture",
+     "subtitle": "Forests",
+     "text": "Over 40% of the land is forest."
+    },
+    {
+     "title": "Car parts",
+     "subtitle": "Factories",
+     "text": "For European carmakers."
+    }
+   ],
+   "intro": "Some of the things Bosnia and Herzegovina makes and sells to the world."
+  }
  ]
 }

@@ -30,5 +30,75 @@
    "term": "Rose oil",
    "meaning": "A precious oil made from rose petals, used in perfume."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Bulgaria's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Belogradchik Rocks",
+    "kind": "rock towers",
+    "lat": 43.62,
+    "lon": 22.68,
+    "text": "Red rock pillars and an old fortress."
+   },
+   {
+    "name": "Danube plain",
+    "kind": "farmland",
+    "lat": 43.6,
+    "lon": 25.0,
+    "text": "Wheat and sunflowers."
+   },
+   {
+    "name": "Balkan Mountains",
+    "kind": "mountains",
+    "lat": 42.75,
+    "lon": 25.0,
+    "text": "The range that named the Balkans."
+   },
+   {
+    "name": "Rose Valley",
+    "kind": "valley",
+    "lat": 42.62,
+    "lon": 25.4,
+    "text": "Fields of roses for perfume oil."
+   },
+   {
+    "name": "Seven Rila Lakes",
+    "kind": "glacial lakes",
+    "lat": 42.2,
+    "lon": 23.32,
+    "text": "Lakes stacked down a mountain."
+   },
+   {
+    "name": "Musala",
+    "kind": "mountain",
+    "lat": 42.18,
+    "lon": 23.585,
+    "text": "The Balkans' highest peak, 2,925 m."
+   },
+   {
+    "name": "Pirin",
+    "kind": "mountains",
+    "lat": 41.75,
+    "lon": 23.42,
+    "text": "Marble peaks and old pines."
+   },
+   {
+    "name": "Rhodopes",
+    "kind": "mountains",
+    "lat": 41.6,
+    "lon": 24.7,
+    "text": "Caves, gorges and folk songs."
+   },
+   {
+    "name": "Black Sea coast",
+    "kind": "beaches",
+    "lat": 42.5,
+    "lon": 27.7,
+    "text": "Beaches and old Nesebar."
+   }
+  ]
+ }
 }

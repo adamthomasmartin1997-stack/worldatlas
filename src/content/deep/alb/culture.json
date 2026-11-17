@@ -22,5 +22,101 @@
    "term": "Polyphony",
    "meaning": "Music with several independent melodies sung or played at once."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Slogans",
+     "subtitle": "2001 · Gjergj Xhuvani",
+     "text": "School life under communism."
+    },
+    {
+     "title": "The Forgiveness of Blood",
+     "subtitle": "2011 · Joshua Marston",
+     "text": "A blood feud's effect on a teenager."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Broken April",
+     "subtitle": "1978 · Ismail Kadare",
+     "text": "A blood feud in the mountains."
+    },
+    {
+     "title": "Chronicle in Stone",
+     "subtitle": "1971 · Ismail Kadare",
+     "text": "A boyhood in Gjirokastër."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Iso-polyphony",
+     "subtitle": "Traditional",
+     "text": "Layered singing; UNESCO-listed."
+    },
+    {
+     "title": "Fuego",
+     "subtitle": "Eleni Foureira, 2018",
+     "text": "An Albanian-born singer for Cyprus."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Tavë kosi",
+     "subtitle": "Elbasan",
+     "text": "Lamb baked in yoghurt."
+    },
+    {
+     "title": "Byrek",
+     "subtitle": "Everywhere",
+     "text": "Filo pie with cheese, spinach or meat."
+    },
+    {
+     "title": "Fërgesë",
+     "subtitle": "Tirana",
+     "text": "Peppers, tomatoes and cheese."
+    },
+    {
+     "title": "Qifqi",
+     "subtitle": "Gjirokastër",
+     "text": "Rice balls."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Summer Day",
+    "text": "14 March, an old spring festival."
+   },
+   {
+    "month": 11,
+    "name": "Independence Day",
+    "text": "28 November, 1912."
+   },
+   {
+    "month": 11,
+    "name": "Liberation Day",
+    "text": "29 November, 1944."
+   }
+  ]
+ }
 }

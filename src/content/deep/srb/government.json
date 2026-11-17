@@ -42,5 +42,58 @@
    "term": "Militarily neutral",
    "meaning": "Not part of any military alliance."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 5 years",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Elected by parliament",
+     "text": "Leads the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "250 members",
+     "text": "A single-chamber parliament."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "Judges",
+     "text": "Checks laws."
+    },
+    {
+     "title": "Vojvodina",
+     "subtitle": "Autonomous province",
+     "text": "Has its own assembly."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government, members or 30,000 voters."
+   },
+   {
+    "title": "Committee and debate",
+    "text": "In the National Assembly."
+   },
+   {
+    "title": "The President",
+    "text": "Signs or returns it once."
+   }
+  ]
+ }
 }

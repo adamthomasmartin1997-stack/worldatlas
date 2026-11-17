@@ -22,5 +22,92 @@
    "term": "Champions League",
    "meaning": "The top competition for club teams in Europe."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "First League",
+     "subtitle": "Football",
+     "text": "Vardar Skopje have won the most titles."
+    },
+    {
+     "title": "Handball",
+     "subtitle": "Vardar",
+     "text": "European champions."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Goran Pandev",
+     "subtitle": "Football",
+     "text": "Champions League winner with Inter."
+    },
+    {
+     "title": "Kiril Lazarov",
+     "subtitle": "Handball",
+     "text": "Record scorer at major tournaments."
+    },
+    {
+     "title": "Darko Pančev",
+     "subtitle": "Football",
+     "text": "European Cup winner with Red Star."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where North Macedonia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Toše Proeski Arena, Skopje",
+    "kind": "venue",
+    "lat": 42.005,
+    "lon": 21.42,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Jane Sandanski Arena",
+    "kind": "venue",
+    "lat": 41.99,
+    "lon": 21.4,
+    "text": "Home of big handball nights."
+   },
+   {
+    "name": "Popova Šapka",
+    "kind": "venue",
+    "lat": 42.01,
+    "lon": 20.88,
+    "text": "Ski resort."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2017",
+    "title": "Vardar win Europe",
+    "text": "Handball Champions League."
+   },
+   {
+    "year": "2019",
+    "title": "Vardar again",
+    "text": "A second European title."
+   },
+   {
+    "year": "2021",
+    "title": "Euro debut",
+    "text": "First major football finals."
+   }
+  ]
+ }
 }

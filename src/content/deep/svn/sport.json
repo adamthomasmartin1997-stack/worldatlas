@@ -22,5 +22,107 @@
    "term": "Ski flying",
    "meaning": "An extreme form of ski jumping on giant hills."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "PrvaLiga",
+     "subtitle": "Football",
+     "text": "Maribor have won the most titles."
+    },
+    {
+     "title": "Planica",
+     "subtitle": "Ski jumping",
+     "text": "Home of ski flying."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Leon Štukelj",
+     "subtitle": "Gymnastics",
+     "text": "Olympic champion; lived to 100."
+    },
+    {
+     "title": "Primož Kozmus",
+     "subtitle": "Hammer",
+     "text": "Olympic champion in 2008."
+    },
+    {
+     "title": "Tina Maze",
+     "subtitle": "Skiing",
+     "text": "Two Olympic golds."
+    },
+    {
+     "title": "Luka Dončić",
+     "subtitle": "Basketball",
+     "text": "An NBA superstar."
+    },
+    {
+     "title": "Tadej Pogačar",
+     "subtitle": "Cycling",
+     "text": "Many Tours de France."
+    },
+    {
+     "title": "Primož Roglič",
+     "subtitle": "Cycling",
+     "text": "Four Vueltas and the Giro."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Slovenia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Planica",
+    "kind": "venue",
+    "lat": 46.48,
+    "lon": 13.72,
+    "text": "Giant ski-flying hills."
+   },
+   {
+    "name": "Stožice, Ljubljana",
+    "kind": "venue",
+    "lat": 46.08,
+    "lon": 14.52,
+    "text": "National stadium and arena."
+   },
+   {
+    "name": "Kranjska Gora",
+    "kind": "venue",
+    "lat": 46.48,
+    "lon": 13.78,
+    "text": "Ski World Cup."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2017",
+    "title": "European champions",
+    "text": "Basketball gold."
+   },
+   {
+    "year": "2020",
+    "title": "Pogačar's first Tour",
+    "text": "Won by a late surprise."
+   },
+   {
+    "year": "2024",
+    "title": "Pogačar's triple",
+    "text": "Giro, Tour and world title."
+   }
+  ]
+ }
 }

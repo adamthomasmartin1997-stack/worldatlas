@@ -30,5 +30,75 @@
    "term": "Landlocked",
    "meaning": "Having no coastline."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of North Macedonia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Skopje",
+    "kind": "capital",
+    "lat": 41.997,
+    "lon": 21.43,
+    "text": "The capital on the Vardar river."
+   },
+   {
+    "name": "Matka Canyon",
+    "kind": "canyon",
+    "lat": 41.95,
+    "lon": 21.3,
+    "text": "A canyon with lakes and caves near Skopje."
+   },
+   {
+    "name": "Šar Mountains",
+    "kind": "mountains",
+    "lat": 42.0,
+    "lon": 20.85,
+    "text": "High pastures in the north-west."
+   },
+   {
+    "name": "Mavrovo",
+    "kind": "national park",
+    "lat": 41.65,
+    "lon": 20.75,
+    "text": "Forests, a lake and a ski resort."
+   },
+   {
+    "name": "Korab",
+    "kind": "mountain",
+    "lat": 41.79,
+    "lon": 20.55,
+    "text": "The country's highest peak, 2,764 m."
+   },
+   {
+    "name": "Lake Ohrid",
+    "kind": "ancient lake",
+    "lat": 41.05,
+    "lon": 20.75,
+    "text": "One of Europe's oldest lakes."
+   },
+   {
+    "name": "Pelister",
+    "kind": "mountain",
+    "lat": 41.0,
+    "lon": 21.2,
+    "text": "Home of the rare Macedonian pine."
+   },
+   {
+    "name": "Lake Prespa",
+    "kind": "lake",
+    "lat": 40.95,
+    "lon": 21.05,
+    "text": "A lake shared by three countries."
+   },
+   {
+    "name": "Tikveš",
+    "kind": "vineyards",
+    "lat": 41.4,
+    "lon": 22.0,
+    "text": "The main wine region."
+   }
+  ]
+ }
 }

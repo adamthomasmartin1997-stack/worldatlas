@@ -39,5 +39,58 @@
    "term": "Peacekeepers",
    "meaning": "International troops sent to keep the peace."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by the Assembly for 5 years",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the government",
+     "text": "Needs the Assembly's support."
+    },
+    {
+     "title": "The Assembly",
+     "subtitle": "120 members",
+     "text": "20 seats set aside for minorities."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "Judges",
+     "text": "Checks laws."
+    },
+    {
+     "title": "Municipalities",
+     "subtitle": "38 municipalities",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Readings",
+    "text": "In the Assembly."
+   },
+   {
+    "title": "Minority votes",
+    "text": "Some laws also need minority members' support."
+   }
+  ]
+ }
 }

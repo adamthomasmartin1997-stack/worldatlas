@@ -37,5 +37,58 @@
    "term": "Entity",
    "meaning": "One of the two self-governing parts of Bosnia and Herzegovina."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Presidency",
+     "subtitle": "3 members",
+     "text": "A Bosniak, a Croat and a Serb share the job."
+    },
+    {
+     "title": "Council of Ministers",
+     "subtitle": "Chair and ministers",
+     "text": "The state government."
+    },
+    {
+     "title": "Parliamentary Assembly",
+     "subtitle": "Two houses",
+     "text": "The state parliament."
+    },
+    {
+     "title": "Two entities",
+     "subtitle": "Federation and Republika Srpska",
+     "text": "Each has its own government."
+    },
+    {
+     "title": "High Representative",
+     "subtitle": "International",
+     "text": "Oversees the 1995 peace deal."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "In the state parliament."
+   },
+   {
+    "title": "Both houses",
+    "text": "Must pass it."
+   },
+   {
+    "title": "Entity veto",
+    "text": "Members can block laws harming their group."
+   }
+  ]
+ }
 }

@@ -22,5 +22,39 @@
    "term": "Export-driven",
    "meaning": "An economy that relies heavily on selling goods abroad."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Slovenia",
+   "items": [
+    {
+     "title": "Medicines",
+     "subtitle": "Krka, Lek",
+     "text": "Drug makers."
+    },
+    {
+     "title": "Home appliances",
+     "subtitle": "Gorenje",
+     "text": "Fridges and ovens."
+    },
+    {
+     "title": "Car parts",
+     "subtitle": "Revoz",
+     "text": "Renault cars made in Novo Mesto."
+    },
+    {
+     "title": "Light aircraft",
+     "subtitle": "Pipistrel",
+     "text": "Electric planes."
+    },
+    {
+     "title": "Skis",
+     "subtitle": "Elan",
+     "text": "Skis and boats."
+    }
+   ],
+   "intro": "Some of the things Slovenia makes and sells to the world."
+  }
  ]
 }

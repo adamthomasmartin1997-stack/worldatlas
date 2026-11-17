@@ -22,5 +22,97 @@
    "term": "Water polo",
    "meaning": "A team sport played in a swimming pool."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "First League",
+     "subtitle": "Football",
+     "text": "Budućnost Podgorica."
+    },
+    {
+     "title": "Water polo",
+     "subtitle": "Clubs and national team",
+     "text": "European champions."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Dejan Savićević",
+     "subtitle": "Football",
+     "text": "Champions League winner with AC Milan."
+    },
+    {
+     "title": "Predrag Mijatović",
+     "subtitle": "Football",
+     "text": "Scored in a Champions League final."
+    },
+    {
+     "title": "Nikola Vučević",
+     "subtitle": "Basketball",
+     "text": "NBA All-Star."
+    },
+    {
+     "title": "Stevan Jovetić",
+     "subtitle": "Football",
+     "text": "Record scorer."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Montenegro's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Podgorica City Stadium",
+    "kind": "venue",
+    "lat": 42.44,
+    "lon": 19.25,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Morača Sports Centre",
+    "kind": "venue",
+    "lat": 42.44,
+    "lon": 19.26,
+    "text": "Basketball and handball."
+   },
+   {
+    "name": "Kotor",
+    "kind": "venue",
+    "lat": 42.42,
+    "lon": 18.77,
+    "text": "Water polo in the sea."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2006",
+    "title": "Independence",
+    "text": "Joins international sport as itself."
+   },
+   {
+    "year": "2008",
+    "title": "European water polo champions",
+    "text": "A first major title."
+   },
+   {
+    "year": "2012",
+    "title": "Olympic silver",
+    "text": "Women's handball in London."
+   }
+  ]
+ }
 }

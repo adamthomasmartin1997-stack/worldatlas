@@ -22,5 +22,39 @@
    "term": "IT outsourcing",
    "meaning": "Doing computer and software work for companies in other countries."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Bulgaria",
+   "items": [
+    {
+     "title": "Rose oil",
+     "subtitle": "Rose Valley",
+     "text": "Much of the world's rose oil."
+    },
+    {
+     "title": "Software",
+     "subtitle": "Sofia",
+     "text": "A tech hub."
+    },
+    {
+     "title": "Copper and metals",
+     "subtitle": "Mines and refineries",
+     "text": "Big exports."
+    },
+    {
+     "title": "Wheat and sunflowers",
+     "subtitle": "Farms",
+     "text": "Grain and oil."
+    },
+    {
+     "title": "Yoghurt",
+     "subtitle": "Lactobacillus bulgaricus",
+     "text": "A bacterium named after the country."
+    }
+   ],
+   "intro": "Some of the things Bulgaria makes and sells to the world."
+  }
  ]
 }

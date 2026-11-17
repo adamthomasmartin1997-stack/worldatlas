@@ -22,5 +22,86 @@
    "term": "Gusle",
    "meaning": "A one-stringed instrument used to accompany epic songs."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Casino Royale",
+     "subtitle": "2006 · Martin Campbell",
+     "text": "James Bond plays poker in Montenegro (filmed elsewhere)."
+    },
+    {
+     "title": "The Beauty of Sin",
+     "subtitle": "1986 · Živko Nikolić",
+     "text": "A classic by Montenegro's best-known director."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Mountain Wreath",
+     "subtitle": "1847 · Petar II Petrović-Njegoš",
+     "text": "The national epic poem."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Gusle",
+     "subtitle": "Traditional",
+     "text": "One-string fiddle with epic songs."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Njeguški pršut",
+     "subtitle": "Njeguši",
+     "text": "Smoked ham."
+    },
+    {
+     "title": "Kačamak",
+     "subtitle": "Mountains",
+     "text": "Cornmeal with cheese."
+    },
+    {
+     "title": "Black risotto",
+     "subtitle": "The coast",
+     "text": "Cuttlefish ink rice."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 5,
+    "name": "Independence Day",
+    "text": "21 May, 2006."
+   },
+   {
+    "month": 7,
+    "name": "Statehood Day",
+    "text": "13 July."
+   },
+   {
+    "month": 8,
+    "name": "Kotor Summer Carnival",
+    "text": "Parades in the old town."
+   }
+  ]
+ }
 }

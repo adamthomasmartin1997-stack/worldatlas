@@ -22,5 +22,111 @@
    "term": "Sevdalinka",
    "meaning": "Traditional Bosnian songs of love and longing."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "No Man's Land",
+     "subtitle": "2001 · Danis Tanović",
+     "text": "Two soldiers stuck in a trench; won an Oscar."
+    },
+    {
+     "title": "Quo Vadis, Aida?",
+     "subtitle": "2020 · Jasmila Žbanić",
+     "text": "Srebrenica, 1995; Oscar-nominated."
+    },
+    {
+     "title": "Grbavica",
+     "subtitle": "2006 · Jasmila Žbanić",
+     "text": "Won the Golden Bear."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Bridge on the Drina",
+     "subtitle": "1945 · Ivo Andrić",
+     "text": "By the Nobel winner who grew up here."
+    },
+    {
+     "title": "Death and the Dervish",
+     "subtitle": "1966 · Meša Selimović",
+     "text": "A classic novel."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Sevdalinka",
+     "subtitle": "Traditional",
+     "text": "Bosnian love songs."
+    },
+    {
+     "title": "Dino Merlin",
+     "subtitle": "Pop",
+     "text": "One of the region's biggest stars."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Ćevapi",
+     "subtitle": "Sarajevo",
+     "text": "Grilled sausages in flatbread."
+    },
+    {
+     "title": "Burek",
+     "subtitle": "Everywhere",
+     "text": "Meat pie in a spiral."
+    },
+    {
+     "title": "Bosnian coffee",
+     "subtitle": "Everywhere",
+     "text": "Strong coffee with Turkish delight."
+    },
+    {
+     "title": "Begova čorba",
+     "subtitle": "Everywhere",
+     "text": "Bey's soup."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Independence Day",
+    "text": "1 March."
+   },
+   {
+    "month": 7,
+    "name": "Mostar Bridge Diving",
+    "text": "Divers leap from the Old Bridge."
+   },
+   {
+    "month": 8,
+    "name": "Sarajevo Film Festival",
+    "text": "The region's biggest film festival."
+   },
+   {
+    "month": 11,
+    "name": "Statehood Day",
+    "text": "25 November."
+   }
+  ]
+ }
 }

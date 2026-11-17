@@ -22,5 +22,85 @@
    "term": "Heritage",
    "meaning": "Traditions, buildings and objects passed down from the past."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Hive",
+     "subtitle": "2021 · Blerta Basholli",
+     "text": "A widow starts a business; won three prizes at Sundance."
+    },
+    {
+     "title": "Shok",
+     "subtitle": "2015 · Jamie Donoughue",
+     "text": "A short film about two boys; Oscar-nominated."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Dua Lipa",
+     "subtitle": "Pop",
+     "text": "Her family is from Kosovo."
+    },
+    {
+     "title": "Rita Ora",
+     "subtitle": "Pop",
+     "text": "Born in Pristina."
+    },
+    {
+     "title": "Era Istrefi",
+     "subtitle": "Pop",
+     "text": "Her 'BonBon' was a global hit."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Flija",
+     "subtitle": "Everywhere",
+     "text": "Layered pancake pie baked under a lid."
+    },
+    {
+     "title": "Pite",
+     "subtitle": "Everywhere",
+     "text": "Filo pie with cheese or meat."
+    },
+    {
+     "title": "Speca me ajkë",
+     "subtitle": "Everywhere",
+     "text": "Peppers in cream."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Independence Day",
+    "text": "17 February, 2008."
+   },
+   {
+    "month": 8,
+    "name": "Dokufest",
+    "text": "A film festival in Prizren."
+   },
+   {
+    "month": 8,
+    "name": "Sunny Hill Festival",
+    "text": "A music festival in Pristina."
+   }
+  ]
+ }
 }

@@ -25,5 +25,39 @@
    "term": "Loan",
    "meaning": "Money borrowed that must be paid back."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Montenegro",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "The coast",
+     "text": "The biggest industry."
+    },
+    {
+     "title": "Aluminium",
+     "subtitle": "Podgorica",
+     "text": "A long-running smelter."
+    },
+    {
+     "title": "Electricity",
+     "subtitle": "Hydro",
+     "text": "Big dams on mountain rivers."
+    },
+    {
+     "title": "Wine",
+     "subtitle": "Plantaže",
+     "text": "One of Europe's largest vineyards."
+    },
+    {
+     "title": "The euro",
+     "subtitle": "Used since 2002",
+     "text": "Without being in the EU."
+    }
+   ],
+   "intro": "Some of the things Montenegro makes and sells to the world."
+  }
  ]
 }

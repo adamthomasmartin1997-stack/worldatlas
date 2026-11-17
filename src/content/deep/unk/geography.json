@@ -29,5 +29,68 @@
    "term": "Gorge",
    "meaning": "A narrow valley with steep sides."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Kosovo's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Rugova Gorge",
+    "kind": "gorge",
+    "lat": 42.67,
+    "lon": 20.15,
+    "text": "A deep gorge near Peja."
+   },
+   {
+    "name": "Gjeravica",
+    "kind": "mountain",
+    "lat": 42.53,
+    "lon": 20.13,
+    "text": "Kosovo's highest peak, 2,656 m."
+   },
+   {
+    "name": "Mirusha waterfalls",
+    "kind": "waterfalls",
+    "lat": 42.52,
+    "lon": 20.58,
+    "text": "A chain of lakes and falls."
+   },
+   {
+    "name": "Pristina",
+    "kind": "capital",
+    "lat": 42.66,
+    "lon": 21.16,
+    "text": "A young, lively capital."
+   },
+   {
+    "name": "Prizren",
+    "kind": "old town",
+    "lat": 42.21,
+    "lon": 20.74,
+    "text": "Ottoman bridges and mosques."
+   },
+   {
+    "name": "Šar Mountains",
+    "kind": "mountains",
+    "lat": 42.1,
+    "lon": 20.9,
+    "text": "A national park in the south."
+   },
+   {
+    "name": "Gadime Cave",
+    "kind": "cave",
+    "lat": 42.48,
+    "lon": 21.2,
+    "text": "A marble cave."
+   },
+   {
+    "name": "Batllava Lake",
+    "kind": "lake",
+    "lat": 42.84,
+    "lon": 21.32,
+    "text": "A lake near Pristina."
+   }
+  ]
+ }
 }

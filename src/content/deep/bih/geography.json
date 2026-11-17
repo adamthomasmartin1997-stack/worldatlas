@@ -28,5 +28,75 @@
    "term": "Primeval forest",
    "meaning": "An ancient forest little touched by people."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Bosnia and Herzegovina's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Una National Park",
+    "kind": "river",
+    "lat": 44.6,
+    "lon": 16.0,
+    "text": "Waterfalls on an emerald river."
+   },
+   {
+    "name": "Pliva waterfall, Jajce",
+    "kind": "waterfall",
+    "lat": 44.34,
+    "lon": 17.27,
+    "text": "A waterfall in the middle of a town."
+   },
+   {
+    "name": "Sarajevo",
+    "kind": "valley city",
+    "lat": 43.856,
+    "lon": 18.413,
+    "text": "A capital ringed by mountains."
+   },
+   {
+    "name": "Sutjeska",
+    "kind": "forest",
+    "lat": 43.3,
+    "lon": 18.7,
+    "text": "Perućica, one of Europe's last primeval forests."
+   },
+   {
+    "name": "Maglić",
+    "kind": "mountain",
+    "lat": 43.28,
+    "lon": 18.73,
+    "text": "The country's highest peak, 2,386 m."
+   },
+   {
+    "name": "Prokoško Lake",
+    "kind": "mountain lake",
+    "lat": 43.98,
+    "lon": 17.93,
+    "text": "A high glacial lake."
+   },
+   {
+    "name": "Kravica",
+    "kind": "waterfalls",
+    "lat": 43.16,
+    "lon": 17.61,
+    "text": "A curtain of waterfalls."
+   },
+   {
+    "name": "Mostar",
+    "kind": "river town",
+    "lat": 43.337,
+    "lon": 17.815,
+    "text": "The Old Bridge over the Neretva."
+   },
+   {
+    "name": "Neum",
+    "kind": "coast",
+    "lat": 42.92,
+    "lon": 17.62,
+    "text": "The country's only 20 km of coast."
+   }
+  ]
+ }
 }

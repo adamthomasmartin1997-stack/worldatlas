@@ -26,5 +26,122 @@
    "term": "Wildcard",
    "meaning": "A special invitation to enter a tournament without qualifying."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "HNL",
+     "subtitle": "Football",
+     "text": "Dinamo Zagreb have won the most titles."
+    },
+    {
+     "title": "Water polo",
+     "subtitle": "National team",
+     "text": "World and Olympic champions."
+    },
+    {
+     "title": "Handball",
+     "subtitle": "National team",
+     "text": "Two Olympic golds."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Dražen Petrović",
+     "subtitle": "Basketball",
+     "text": "A European star in the NBA."
+    },
+    {
+     "title": "Goran Ivanišević",
+     "subtitle": "Tennis",
+     "text": "Won Wimbledon as a wild card."
+    },
+    {
+     "title": "Janica Kostelić",
+     "subtitle": "Skiing",
+     "text": "Four Olympic golds."
+    },
+    {
+     "title": "Blanka Vlašić",
+     "subtitle": "High jump",
+     "text": "Two world titles."
+    },
+    {
+     "title": "Luka Modrić",
+     "subtitle": "Football",
+     "text": "Ballon d'Or 2018."
+    },
+    {
+     "title": "Sandra Perković",
+     "subtitle": "Discus",
+     "text": "Two Olympic golds."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Croatia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Maksimir, Zagreb",
+    "kind": "venue",
+    "lat": 45.818,
+    "lon": 16.018,
+    "text": "Home of Dinamo Zagreb."
+   },
+   {
+    "name": "Poljud, Split",
+    "kind": "venue",
+    "lat": 43.519,
+    "lon": 16.432,
+    "text": "Home of Hajduk Split."
+   },
+   {
+    "name": "Sljeme",
+    "kind": "venue",
+    "lat": 45.9,
+    "lon": 15.95,
+    "text": "Ski World Cup slalom above Zagreb."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1998",
+    "title": "Third at the World Cup",
+    "text": "In Croatia's first tournament."
+   },
+   {
+    "year": "2001",
+    "title": "Goran wins Wimbledon",
+    "text": "A wild card champion."
+   },
+   {
+    "year": "2002",
+    "title": "Kostelić's three golds",
+    "text": "At Salt Lake City."
+   },
+   {
+    "year": "2018",
+    "title": "World Cup final",
+    "text": "Runners-up to France."
+   },
+   {
+    "year": "2022",
+    "title": "Third at the World Cup",
+    "text": "Another medal."
+   }
+  ]
+ }
 }

@@ -22,5 +22,106 @@
    "term": "Kurent",
    "meaning": "A shaggy carnival figure from Slovenian folklore."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Express, Express",
+     "subtitle": "1997 · Igor Šterk",
+     "text": "A playful film set on a train."
+    },
+    {
+     "title": "Kekec",
+     "subtitle": "1951 · Jože Gale",
+     "text": "A shepherd boy's adventures."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Poems",
+     "subtitle": "1847 · France Prešeren",
+     "text": "His poem became the national anthem."
+    },
+    {
+     "title": "Alamut",
+     "subtitle": "1938 · Vladimir Bartol",
+     "text": "A thriller about an old fortress."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Laibach",
+     "subtitle": "Industrial band",
+     "text": "Played in North Korea in 2015."
+    },
+    {
+     "title": "Avsenik brothers",
+     "subtitle": "Polka",
+     "text": "Alpine folk music hits."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Potica",
+     "subtitle": "Holidays",
+     "text": "A rolled nut cake."
+    },
+    {
+     "title": "Kranjska klobasa",
+     "subtitle": "Everywhere",
+     "text": "Carniolan sausage."
+    },
+    {
+     "title": "Prekmurska gibanica",
+     "subtitle": "Prekmurje",
+     "text": "A layered cake."
+    },
+    {
+     "title": "Idrija žlikrofi",
+     "subtitle": "Idrija",
+     "text": "Potato dumplings."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Kurentovanje",
+    "text": "Shaggy masks in Ptuj."
+   },
+   {
+    "month": 2,
+    "name": "Prešeren Day",
+    "text": "8 February, culture day."
+   },
+   {
+    "month": 6,
+    "name": "Statehood Day",
+    "text": "25 June, 1991."
+   },
+   {
+    "month": 12,
+    "name": "Independence Day",
+    "text": "26 December."
+   }
+  ]
+ }
 }

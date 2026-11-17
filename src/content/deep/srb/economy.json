@@ -25,5 +25,44 @@
    "term": "Lithium",
    "meaning": "A metal used in rechargeable batteries."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Serbia",
+   "items": [
+    {
+     "title": "Cars",
+     "subtitle": "Kragujevac",
+     "text": "Electric Fiat cars."
+    },
+    {
+     "title": "Raspberries",
+     "subtitle": "The west",
+     "text": "Among the world's top exporters."
+    },
+    {
+     "title": "Tyres",
+     "subtitle": "Factories",
+     "text": "Big tyre plants."
+    },
+    {
+     "title": "IT",
+     "subtitle": "Belgrade and Novi Sad",
+     "text": "Games and software studios."
+    },
+    {
+     "title": "Copper",
+     "subtitle": "Bor",
+     "text": "Big copper mines."
+    },
+    {
+     "title": "Plum brandy",
+     "subtitle": "Šljivovica",
+     "text": "UNESCO-listed."
+    }
+   ],
+   "intro": "Some of the things Serbia makes and sells to the world."
+  }
  ]
 }

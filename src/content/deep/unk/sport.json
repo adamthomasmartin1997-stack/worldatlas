@@ -25,5 +25,85 @@
    "term": "Judoka",
    "meaning": "Someone who practises judo."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Superliga",
+     "subtitle": "Football",
+     "text": "Prishtina have won the most titles."
+    },
+    {
+     "title": "Judo",
+     "subtitle": "National team",
+     "text": "World and Olympic champions."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Majlinda Kelmendi",
+     "subtitle": "Judo",
+     "text": "Kosovo's first Olympic gold."
+    },
+    {
+     "title": "Distria Krasniqi",
+     "subtitle": "Judo",
+     "text": "Olympic champion in 2021."
+    },
+    {
+     "title": "Nora Gjakova",
+     "subtitle": "Judo",
+     "text": "Olympic champion in 2021."
+    },
+    {
+     "title": "Laura Fazliu",
+     "subtitle": "Judo",
+     "text": "Olympic bronze in 2024."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Kosovo's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Fadil Vokrri Stadium, Pristina",
+    "kind": "venue",
+    "lat": 42.66,
+    "lon": 21.15,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Palace of Youth, Pristina",
+    "kind": "venue",
+    "lat": 42.66,
+    "lon": 21.16,
+    "text": "Sports and concerts."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2016",
+    "title": "Joins FIFA and the IOC",
+    "text": "Kelmendi wins gold."
+   },
+   {
+    "year": "2021",
+    "title": "Two judo golds",
+    "text": "At the Tokyo Olympics."
+   }
+  ]
+ }
 }

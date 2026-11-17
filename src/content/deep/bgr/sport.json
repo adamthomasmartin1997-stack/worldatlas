@@ -22,5 +22,107 @@
    "term": "Rhythmic gymnastics",
    "meaning": "Gymnastics with ribbons, balls, hoops and clubs, set to music."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "First League",
+     "subtitle": "Football",
+     "text": "CSKA Sofia have won the most titles."
+    },
+    {
+     "title": "Weightlifting",
+     "subtitle": "National team",
+     "text": "Many Olympic golds."
+    },
+    {
+     "title": "Rhythmic gymnastics",
+     "subtitle": "National team",
+     "text": "Olympic group gold."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Hristo Stoichkov",
+     "subtitle": "Football",
+     "text": "Ballon d'Or 1994."
+    },
+    {
+     "title": "Stefka Kostadinova",
+     "subtitle": "High jump",
+     "text": "World record since 1987."
+    },
+    {
+     "title": "Dimitar Berbatov",
+     "subtitle": "Football",
+     "text": "Premier League top scorer."
+    },
+    {
+     "title": "Grigor Dimitrov",
+     "subtitle": "Tennis",
+     "text": "ATP Finals champion."
+    },
+    {
+     "title": "Ivet Goranova",
+     "subtitle": "Karate",
+     "text": "Olympic champion in 2021."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Bulgaria's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Vasil Levski Stadium, Sofia",
+    "kind": "venue",
+    "lat": 42.687,
+    "lon": 23.335,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Bansko",
+    "kind": "venue",
+    "lat": 41.84,
+    "lon": 23.49,
+    "text": "Ski World Cup."
+   },
+   {
+    "name": "Arena Sofia",
+    "kind": "venue",
+    "lat": 42.68,
+    "lon": 23.35,
+    "text": "Volleyball and concerts."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1994",
+    "title": "Fourth at the World Cup",
+    "text": "Beat Germany."
+   },
+   {
+    "year": "1987",
+    "title": "Kostadinova's record",
+    "text": "2.09 m, still unbeaten."
+   },
+   {
+    "year": "2021",
+    "title": "Rhythmic gymnastics gold",
+    "text": "Olympic group title."
+   }
+  ]
+ }
 }

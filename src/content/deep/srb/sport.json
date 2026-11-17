@@ -22,5 +22,117 @@
    "term": "MVP",
    "meaning": "Most Valuable Player, an award for the best player of a season."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "SuperLiga",
+     "subtitle": "Football",
+     "text": "Red Star Belgrade have won the most titles."
+    },
+    {
+     "title": "ABA League",
+     "subtitle": "Basketball",
+     "text": "Partizan and Red Star."
+    },
+    {
+     "title": "Water polo",
+     "subtitle": "National team",
+     "text": "Three Olympic golds in a row."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Novak Djokovic",
+     "subtitle": "Tennis",
+     "text": "24 Grand Slam titles and Olympic gold."
+    },
+    {
+     "title": "Monica Seles",
+     "subtitle": "Tennis",
+     "text": "Nine Grand Slam titles."
+    },
+    {
+     "title": "Nikola Jokić",
+     "subtitle": "Basketball",
+     "text": "Three NBA MVPs and a title."
+    },
+    {
+     "title": "Dragan Džajić",
+     "subtitle": "Football",
+     "text": "Red Star legend."
+    },
+    {
+     "title": "Ivana Španović",
+     "subtitle": "Long jump",
+     "text": "World indoor champion."
+    },
+    {
+     "title": "Dejan Stanković",
+     "subtitle": "Football",
+     "text": "Played at four World Cups."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Serbia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Rajko Mitić Stadium, Belgrade",
+    "kind": "venue",
+    "lat": 44.783,
+    "lon": 20.465,
+    "text": "Home of Red Star, the 'Marakana'."
+   },
+   {
+    "name": "Belgrade Arena",
+    "kind": "venue",
+    "lat": 44.814,
+    "lon": 20.42,
+    "text": "Hosts basketball and concerts."
+   },
+   {
+    "name": "Kopaonik",
+    "kind": "venue",
+    "lat": 43.29,
+    "lon": 20.8,
+    "text": "Ski resort."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1991",
+    "title": "Red Star win Europe",
+    "text": "The European Cup."
+   },
+   {
+    "year": "2016 to 2024",
+    "title": "Water polo three-peat",
+    "text": "Three Olympic golds."
+   },
+   {
+    "year": "2023",
+    "title": "Jokić's title",
+    "text": "NBA champion with Denver."
+   },
+   {
+    "year": "2024",
+    "title": "Djokovic gold",
+    "text": "Olympic champion at last."
+   }
+  ]
+ }
 }

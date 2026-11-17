@@ -29,5 +29,75 @@
    "term": "Karst",
    "meaning": "A limestone landscape shaped by water into caves and sinkholes."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Slovenia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Triglav",
+    "kind": "mountain",
+    "lat": 46.378,
+    "lon": 13.836,
+    "text": "Slovenia's highest peak, on the flag."
+   },
+   {
+    "name": "Lake Bled",
+    "kind": "lake",
+    "lat": 46.36,
+    "lon": 14.09,
+    "text": "A church on an island."
+   },
+   {
+    "name": "Lake Bohinj",
+    "kind": "lake",
+    "lat": 46.28,
+    "lon": 13.88,
+    "text": "A quiet glacial lake."
+   },
+   {
+    "name": "Soča valley",
+    "kind": "river",
+    "lat": 46.25,
+    "lon": 13.6,
+    "text": "An emerald river."
+   },
+   {
+    "name": "Ljubljana",
+    "kind": "capital",
+    "lat": 46.05,
+    "lon": 14.51,
+    "text": "A green capital with dragon bridges."
+   },
+   {
+    "name": "Postojna Cave",
+    "kind": "cave",
+    "lat": 45.78,
+    "lon": 14.2,
+    "text": "Home of the 'baby dragon' olm."
+   },
+   {
+    "name": "Škocjan Caves",
+    "kind": "cave",
+    "lat": 45.66,
+    "lon": 13.99,
+    "text": "A river in a giant underground canyon."
+   },
+   {
+    "name": "Piran",
+    "kind": "coast",
+    "lat": 45.53,
+    "lon": 13.57,
+    "text": "Venetian town on a 47 km coast."
+   },
+   {
+    "name": "Logar Valley",
+    "kind": "alpine valley",
+    "lat": 46.39,
+    "lon": 14.63,
+    "text": "Classic Alpine valley."
+   }
+  ]
+ }
 }

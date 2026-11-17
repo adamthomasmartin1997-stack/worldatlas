@@ -30,5 +30,75 @@
    "term": "Canyon",
    "meaning": "A deep, narrow valley with steep sides."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Montenegro's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Durmitor",
+    "kind": "mountains",
+    "lat": 43.13,
+    "lon": 19.03,
+    "text": "Peaks, lakes and the Black Lake."
+   },
+   {
+    "name": "Tara Canyon",
+    "kind": "canyon",
+    "lat": 43.2,
+    "lon": 19.3,
+    "text": "Europe's deepest canyon, about 1,300 m."
+   },
+   {
+    "name": "Biogradska Gora",
+    "kind": "rainforest",
+    "lat": 42.9,
+    "lon": 19.6,
+    "text": "An ancient forest."
+   },
+   {
+    "name": "Zla Kolata",
+    "kind": "mountain",
+    "lat": 42.48,
+    "lon": 19.83,
+    "text": "Montenegro's highest point."
+   },
+   {
+    "name": "Bay of Kotor",
+    "kind": "bay",
+    "lat": 42.45,
+    "lon": 18.7,
+    "text": "A fjord-like bay with old towns."
+   },
+   {
+    "name": "Lovćen",
+    "kind": "mountain",
+    "lat": 42.4,
+    "lon": 18.83,
+    "text": "The mausoleum on top."
+   },
+   {
+    "name": "Lake Skadar",
+    "kind": "lake",
+    "lat": 42.2,
+    "lon": 19.2,
+    "text": "The Balkans' largest lake, shared with Albania."
+   },
+   {
+    "name": "Budva",
+    "kind": "coast",
+    "lat": 42.29,
+    "lon": 18.84,
+    "text": "Beaches and an old town."
+   },
+   {
+    "name": "Ada Bojana",
+    "kind": "river island",
+    "lat": 41.86,
+    "lon": 19.35,
+    "text": "A river island on the Albanian border."
+   }
+  ]
+ }
 }

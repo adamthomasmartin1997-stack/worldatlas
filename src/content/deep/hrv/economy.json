@@ -22,5 +22,44 @@
    "term": "Hypercar",
    "meaning": "An extremely fast, expensive sports car."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Croatia",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "The coast",
+     "text": "About a fifth of the economy."
+    },
+    {
+     "title": "Shipbuilding",
+     "subtitle": "Split, Rijeka, Pula",
+     "text": "A long tradition."
+    },
+    {
+     "title": "Electric cars",
+     "subtitle": "Rimac",
+     "text": "Super-fast electric cars."
+    },
+    {
+     "title": "Medicines",
+     "subtitle": "Pliva",
+     "text": "Drug-maker since 1921."
+    },
+    {
+     "title": "Neckties",
+     "subtitle": "The cravat",
+     "text": "Named after Croatian soldiers."
+    },
+    {
+     "title": "Olive oil and wine",
+     "subtitle": "Istria",
+     "text": "Award-winning producers."
+    }
+   ],
+   "intro": "Some of the things Croatia makes and sells to the world."
+  }
  ]
 }

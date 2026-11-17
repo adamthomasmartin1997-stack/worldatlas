@@ -40,5 +40,58 @@
    "term": "Power-sharing",
    "meaning": "Arrangements that make sure different communities share in government."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 5 years",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the government",
+     "text": "Chosen by the Assembly."
+    },
+    {
+     "title": "The Assembly",
+     "subtitle": "120 members",
+     "text": "A single-chamber parliament."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "Judges",
+     "text": "Checks laws."
+    },
+    {
+     "title": "Municipalities",
+     "subtitle": "80 municipalities",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government, members or 10,000 voters."
+   },
+   {
+    "title": "Readings",
+    "text": "In the Assembly."
+   },
+   {
+    "title": "Badinter majority",
+    "text": "Some laws need support from minority members too."
+   }
+  ]
+ }
 }

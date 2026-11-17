@@ -29,5 +29,82 @@
    "term": "Riviera",
    "meaning": "A stretch of coast popular with holidaymakers."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Albania's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Theth and Valbona",
+    "kind": "Accursed Mountains",
+    "lat": 42.4,
+    "lon": 19.8,
+    "text": "Remote valleys in the Albanian Alps."
+   },
+   {
+    "name": "Lake Koman",
+    "kind": "reservoir",
+    "lat": 42.1,
+    "lon": 19.8,
+    "text": "A ferry ride through a flooded gorge."
+   },
+   {
+    "name": "Korab",
+    "kind": "mountain",
+    "lat": 41.79,
+    "lon": 20.55,
+    "text": "Albania's highest peak, on the border."
+   },
+   {
+    "name": "Tirana",
+    "kind": "capital",
+    "lat": 41.33,
+    "lon": 19.82,
+    "text": "A colourful capital."
+   },
+   {
+    "name": "Berat",
+    "kind": "old town",
+    "lat": 40.7,
+    "lon": 19.95,
+    "text": "The 'town of a thousand windows'."
+   },
+   {
+    "name": "Lake Ohrid",
+    "kind": "ancient lake",
+    "lat": 41.0,
+    "lon": 20.65,
+    "text": "Shared with North Macedonia."
+   },
+   {
+    "name": "Osum Canyon",
+    "kind": "canyon",
+    "lat": 40.5,
+    "lon": 20.1,
+    "text": "A canyon you can raft."
+   },
+   {
+    "name": "Llogara Pass",
+    "kind": "coastal pass",
+    "lat": 40.2,
+    "lon": 19.6,
+    "text": "A road high above the sea."
+   },
+   {
+    "name": "Blue Eye",
+    "kind": "spring",
+    "lat": 39.92,
+    "lon": 20.19,
+    "text": "A deep blue spring."
+   },
+   {
+    "name": "Butrint",
+    "kind": "ruins and lagoon",
+    "lat": 39.75,
+    "lon": 20.02,
+    "text": "Ancient ruins by a lagoon."
+   }
+  ]
+ }
 }

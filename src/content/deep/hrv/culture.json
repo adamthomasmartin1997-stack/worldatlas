@@ -22,5 +22,111 @@
    "term": "Klapa",
    "meaning": "Traditional a cappella singing from Dalmatia."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Tko pjeva zlo ne misli",
+     "subtitle": "1970 · Krešo Golik",
+     "text": "A much-loved family comedy."
+    },
+    {
+     "title": "The High Sun",
+     "subtitle": "2015 · Dalibor Matanić",
+     "text": "Three love stories across the war; won a prize at Cannes."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Gold of Zagreb",
+     "subtitle": "1871 · August Šenoa",
+     "text": "A historical novel."
+    },
+    {
+     "title": "Croatian Tales of Long Ago",
+     "subtitle": "1916 · Ivana Brlić-Mažuranić",
+     "text": "Fairy tales by 'the Croatian Andersen'."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Klapa",
+     "subtitle": "Dalmatia",
+     "text": "Unaccompanied singing groups; UNESCO-listed."
+    },
+    {
+     "title": "Smooth Criminal",
+     "subtitle": "2Cellos, 2011",
+     "text": "Two cellists play rock and pop hits."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Peka",
+     "subtitle": "Dalmatia",
+     "text": "Meat or octopus baked under a bell."
+    },
+    {
+     "title": "Štrukli",
+     "subtitle": "Zagreb",
+     "text": "Cheese-filled pastry."
+    },
+    {
+     "title": "Black risotto",
+     "subtitle": "The coast",
+     "text": "Coloured with cuttlefish ink."
+    },
+    {
+     "title": "Pašticada",
+     "subtitle": "Dalmatia",
+     "text": "Slow-cooked beef."
+    },
+    {
+     "title": "Truffles",
+     "subtitle": "Istria",
+     "text": "White and black truffles."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Rijeka Carnival",
+    "text": "One of Europe's biggest."
+   },
+   {
+    "month": 6,
+    "name": "Statehood Day",
+    "text": "30 May, 1990."
+   },
+   {
+    "month": 8,
+    "name": "Sinjska alka",
+    "text": "A horseback tournament since 1715."
+   },
+   {
+    "month": 8,
+    "name": "Victory Day",
+    "text": "5 August, 1995."
+   }
+  ]
+ }
 }

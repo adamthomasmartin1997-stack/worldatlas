@@ -33,5 +33,75 @@
    "term": "Gorge",
    "meaning": "A deep, narrow valley with steep sides."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Serbia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Fruška Gora",
+    "kind": "hills",
+    "lat": 45.15,
+    "lon": 19.7,
+    "text": "Monasteries and vineyards near Novi Sad."
+   },
+   {
+    "name": "Deliblato Sands",
+    "kind": "sand dunes",
+    "lat": 44.95,
+    "lon": 21.05,
+    "text": "Europe's largest sandy area of its kind."
+   },
+   {
+    "name": "Belgrade",
+    "kind": "river city",
+    "lat": 44.82,
+    "lon": 20.46,
+    "text": "Where the Sava meets the Danube."
+   },
+   {
+    "name": "Iron Gates (Đerdap)",
+    "kind": "Danube gorge",
+    "lat": 44.6,
+    "lon": 22.1,
+    "text": "One of Europe's longest gorges."
+   },
+   {
+    "name": "Tara",
+    "kind": "forest mountains",
+    "lat": 43.88,
+    "lon": 19.4,
+    "text": "Home of the rare Serbian spruce."
+   },
+   {
+    "name": "Uvac",
+    "kind": "meanders",
+    "lat": 43.38,
+    "lon": 19.95,
+    "text": "A river loops through canyons; griffon vultures."
+   },
+   {
+    "name": "Zlatibor",
+    "kind": "plateau",
+    "lat": 43.7,
+    "lon": 19.7,
+    "text": "A mountain resort."
+   },
+   {
+    "name": "Kopaonik",
+    "kind": "mountains",
+    "lat": 43.3,
+    "lon": 20.8,
+    "text": "Serbia's main ski area."
+   },
+   {
+    "name": "Devil's Town",
+    "kind": "rock pillars",
+    "lat": 42.99,
+    "lon": 21.4,
+    "text": "Strange earth pyramids."
+   }
+  ]
+ }
 }

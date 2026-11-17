@@ -22,5 +22,111 @@
    "term": "Kukeri",
    "meaning": "Masked costumed dancers who scare away evil spirits."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Goat Horn",
+     "subtitle": "1972 · Metodi Andonov",
+     "text": "A classic film."
+    },
+    {
+     "title": "Glory",
+     "subtitle": "2016 · Grozeva and Valchanov",
+     "text": "A railway worker and a lost watch."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Under the Yoke",
+     "subtitle": "1894 · Ivan Vazov",
+     "text": "Life before freedom."
+    },
+    {
+     "title": "Time Shelter",
+     "subtitle": "2020 · Georgi Gospodinov",
+     "text": "Won the International Booker."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Izlel e Delyo Haydutin",
+     "subtitle": "Valya Balkanska, 1977",
+     "text": "A Rhodope song sent into space on Voyager."
+    },
+    {
+     "title": "Le Mystère des Voix Bulgares",
+     "subtitle": "Choir",
+     "text": "Famous for its strange harmonies."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Banitsa",
+     "subtitle": "Everywhere",
+     "text": "Cheese pastry."
+    },
+    {
+     "title": "Shopska salad",
+     "subtitle": "Everywhere",
+     "text": "Tomato, cucumber and white cheese."
+    },
+    {
+     "title": "Tarator",
+     "subtitle": "Summer",
+     "text": "Cold yoghurt and cucumber soup."
+    },
+    {
+     "title": "Kebapche",
+     "subtitle": "Everywhere",
+     "text": "Grilled meat sticks."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Baba Marta",
+    "text": "1 March, red-and-white martenitsi."
+   },
+   {
+    "month": 3,
+    "name": "Liberation Day",
+    "text": "3 March, 1878."
+   },
+   {
+    "month": 5,
+    "name": "Alphabet Day",
+    "text": "24 May, Cyrillic script."
+   },
+   {
+    "month": 6,
+    "name": "Rose Festival",
+    "text": "Kazanlak picking roses."
+   },
+   {
+    "month": 1,
+    "name": "Surva",
+    "text": "Masked carnival in Pernik."
+   }
+  ]
+ }
 }

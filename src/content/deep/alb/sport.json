@@ -22,5 +22,90 @@
    "term": "Euro",
    "meaning": "The European Championship in football."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Kategoria Superiore",
+     "subtitle": "Football",
+     "text": "Tirana have won the most titles."
+    },
+    {
+     "title": "Weightlifting",
+     "subtitle": "National team",
+     "text": "Strong results in Europe."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Lorik Cana",
+     "subtitle": "Football",
+     "text": "Captain at Euro 2016."
+    },
+    {
+     "title": "Luiza Gega",
+     "subtitle": "Running",
+     "text": "European steeplechase champion."
+    },
+    {
+     "title": "Chermen Valiev",
+     "subtitle": "Wrestling",
+     "text": "Olympic bronze in 2024."
+    },
+    {
+     "title": "Islam Dudaev",
+     "subtitle": "Wrestling",
+     "text": "Olympic bronze in 2024."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Albania's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Air Albania Stadium, Tirana",
+    "kind": "venue",
+    "lat": 41.318,
+    "lon": 19.824,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Elbasan Arena",
+    "kind": "venue",
+    "lat": 41.11,
+    "lon": 20.08,
+    "text": "A football ground."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2016",
+    "title": "Euro 2016",
+    "text": "First major finals; beat Romania."
+   },
+   {
+    "year": "2022",
+    "title": "Gega European champion",
+    "text": "Albania's first."
+   },
+   {
+    "year": "2024",
+    "title": "Two Olympic medals",
+    "text": "Albania's first ever."
+   }
+  ]
+ }
 }

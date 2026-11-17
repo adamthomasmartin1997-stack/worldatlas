@@ -30,5 +30,75 @@
    "term": "Islet",
    "meaning": "A very small island."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Croatia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Plitvice Lakes",
+    "kind": "lakes and waterfalls",
+    "lat": 44.88,
+    "lon": 15.62,
+    "text": "16 terraced lakes joined by waterfalls."
+   },
+   {
+    "name": "Krka",
+    "kind": "waterfalls",
+    "lat": 43.8,
+    "lon": 15.97,
+    "text": "Waterfalls over limestone steps."
+   },
+   {
+    "name": "Velebit",
+    "kind": "mountains",
+    "lat": 44.6,
+    "lon": 15.1,
+    "text": "The longest range, above the sea."
+   },
+   {
+    "name": "Kornati",
+    "kind": "islands",
+    "lat": 43.8,
+    "lon": 15.3,
+    "text": "A bare, rocky archipelago."
+   },
+   {
+    "name": "Dinara",
+    "kind": "mountain",
+    "lat": 44.06,
+    "lon": 16.39,
+    "text": "Croatia's highest peak, 1,831 m."
+   },
+   {
+    "name": "Zlatni Rat, Brač",
+    "kind": "beach",
+    "lat": 43.256,
+    "lon": 16.635,
+    "text": "A pebble beach that changes shape with the wind."
+   },
+   {
+    "name": "Biokovo",
+    "kind": "coastal mountain",
+    "lat": 43.33,
+    "lon": 17.05,
+    "text": "Cliffs above the Makarska Riviera."
+   },
+   {
+    "name": "Dubrovnik",
+    "kind": "walled city",
+    "lat": 42.64,
+    "lon": 18.11,
+    "text": "Massive walls by the sea."
+   },
+   {
+    "name": "Kopački Rit",
+    "kind": "wetland",
+    "lat": 45.6,
+    "lon": 18.85,
+    "text": "Flood marsh near the Danube."
+   }
+  ]
+ }
 }
