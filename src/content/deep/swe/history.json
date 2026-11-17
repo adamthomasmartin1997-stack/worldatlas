@@ -1,0 +1,115 @@
+{
+ "status": "draft",
+ "intro": "Sweden went from Viking traders to a Baltic great power in the 1600s, then chose a long path of peace: it has not fought a war since 1814. In the 20th century it built one of the world's most generous welfare states.",
+ "chapters": [
+  {
+   "id": "vikings",
+   "title": "Vikings and a kingdom",
+   "text": [
+    "Swedish Vikings mostly travelled east, trading along the rivers of Russia and Ukraine as far as Constantinople and Baghdad. Christianity spread in the 1000s, and a Swedish kingdom slowly took shape.",
+    "In 1397 Sweden joined Denmark and Norway in the Kalmar Union under one monarch. Sweden broke away when Gustav Vasa became king on 6 June 1523, now Sweden's National Day."
+   ],
+   "related": [
+    "DNK",
+    "NOR",
+    "RUS",
+    "UKR"
+   ]
+  },
+  {
+   "id": "great-power",
+   "title": "A great power",
+   "text": [
+    "In the 1600s, under King Gustavus Adolphus, Sweden became a great power that ruled Finland, the Baltic coast and parts of Germany. In 1628 the royal warship Vasa sank on its first voyage, just over a kilometre from the shore; it was raised almost intact in 1961 and now has its own museum in Stockholm.",
+    "Defeat by Russia at Poltava in 1709 ended Sweden's empire, and in 1809 it lost Finland to Russia."
+   ],
+   "related": [
+    "FIN",
+    "EST",
+    "LVA",
+    "DEU",
+    "RUS"
+   ]
+  },
+  {
+   "id": "peace",
+   "title": "Peace and the welfare state",
+   "text": [
+    "Sweden's last war ended in 1814, when Norway was forced into a union with Sweden that lasted until 1905. In the 1800s and early 1900s about 1.3 million Swedes, a fifth of the population, emigrated to North America to escape poverty.",
+    "Alfred Nobel, the Swedish inventor of dynamite, left his fortune to create the Nobel Prizes, first awarded in 1901. Sweden stayed neutral in both world wars and from the 1930s built a 'people's home' welfare state with free schools, healthcare and generous benefits."
+   ],
+   "related": [
+    "NOR",
+    "USA"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Modern Sweden",
+   "text": [
+    "Prime Minister Olof Palme was shot dead in Stockholm in 1986, a murder that shocked the nation. Sweden joined the European Union in 1995, and after Russia's invasion of Ukraine it ended two centuries of military non-alignment by joining NATO in 2024."
+   ],
+   "related": [
+    "UKR",
+    "FIN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 800",
+   "title": "Viking Age",
+   "text": "Swedish Vikings trade to the east."
+  },
+  {
+   "year": "1397",
+   "title": "Kalmar Union",
+   "text": "Sweden, Denmark and Norway share a monarch."
+  },
+  {
+   "year": "1523",
+   "title": "Gustav Vasa",
+   "text": "Sweden becomes independent again."
+  },
+  {
+   "year": "1628",
+   "title": "Vasa sinks",
+   "text": "The warship sinks on its first voyage."
+  },
+  {
+   "year": "1709",
+   "title": "Poltava",
+   "text": "Russia defeats Sweden."
+  },
+  {
+   "year": "1814",
+   "title": "Last war",
+   "text": "Sweden has been at peace ever since."
+  },
+  {
+   "year": "1901",
+   "title": "Nobel Prizes",
+   "text": "The first prizes are awarded."
+  },
+  {
+   "year": "1995",
+   "title": "Joins the EU",
+   "text": "Sweden becomes an EU member."
+  },
+  {
+   "year": "2024",
+   "title": "Joins NATO",
+   "text": "Sweden ends its non-alignment."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Neutrality",
+   "meaning": "Staying out of other countries' wars."
+  },
+  {
+   "term": "Welfare state",
+   "meaning": "A system where the government provides healthcare, education and support for all."
+  }
+ ]
+}

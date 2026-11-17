@@ -1,0 +1,27 @@
+{
+ "status": "draft",
+ "intro": "Norway gave the world The Scream, A Doll's House, 'In the Hall of the Mountain King' and endless stories of trolls.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Painters, writers and composers",
+   "text": [
+    "Edvard Munch painted The Scream in 1893. Henrik Ibsen's plays, such as A Doll's House, changed modern theatre, and Edvard Grieg composed 'In the Hall of the Mountain King'. Jon Fosse won the Nobel Prize in Literature in 2023.",
+    "Pop acts include a-ha, whose Take On Me is one of the most famous songs of the 1980s, and Kygo."
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Trolls and wooden churches",
+   "text": [
+    "Folk tales are full of trolls, who turn to stone in sunlight. Medieval wooden stave churches, with dragon heads on their roofs, survive in the countryside. Brown cheese, waffles and fish dishes are traditional foods, and the handy cheese slicer was invented in Norway in 1925."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Stave church",
+   "meaning": "A medieval wooden church built with upright posts called staves."
+  }
+ ]
+}

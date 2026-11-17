@@ -1,0 +1,28 @@
+{
+ "status": "draft",
+ "intro": "Sweden punches far above its weight in pop music, and it is the home of Pippi Longstocking, the Nobel Prizes and midsummer dancing round a maypole.",
+ "chapters": [
+  {
+   "id": "music-books",
+   "title": "Pop and stories",
+   "text": [
+    "ABBA won Eurovision in 1974 with Waterloo and became one of the best-selling bands ever. Sweden has won Eurovision seven times, and Swedish songwriters such as Max Martin have written hits for many global stars.",
+    "Astrid Lindgren created Pippi Longstocking, and Swedish crime novels and films are popular worldwide."
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Traditions and food",
+   "text": [
+    "At Midsummer in June, people dance around a maypole decorated with flowers, and on 13 December girls in white with candles in their hair celebrate St Lucia. Meatballs, smörgåsbord buffets and cinnamon buns are favourites, and in August many families hold crayfish parties.",
+    "In 2018 a Swedish schoolgirl, Greta Thunberg, began a school strike for climate that inspired protests worldwide."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Smörgåsbord",
+   "meaning": "A buffet of many hot and cold dishes."
+  }
+ ]
+}

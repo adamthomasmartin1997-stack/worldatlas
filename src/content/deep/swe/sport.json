@@ -1,0 +1,27 @@
+{
+ "status": "draft",
+ "intro": "Swedes love ice hockey, football and winter sports, and have produced legends from Björn Borg to Armand Duplantis.",
+ "chapters": [
+  {
+   "id": "stars",
+   "title": "Champions",
+   "text": [
+    "Björn Borg won Wimbledon five times in a row from 1976 to 1980. Pole vaulter Armand Duplantis has broken the world record again and again and won Olympic gold in 2021 and 2024. Zlatan Ibrahimović, from Malmö, became one of football's biggest stars.",
+    "Sweden hosted the 1958 World Cup and reached the final, and Stockholm hosted the 1912 Olympics."
+   ]
+  },
+  {
+   "id": "winter",
+   "title": "Winter sports",
+   "text": [
+    "Ice hockey is hugely popular, and skier Ingemar Stenmark won 86 World Cup races. The Vasaloppet, a 90 km cross-country ski race held since 1922, is one of the oldest and largest ski races in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pole vault",
+   "meaning": "An athletics event where competitors use a long, bendy pole to jump over a high bar."
+  }
+ ]
+}

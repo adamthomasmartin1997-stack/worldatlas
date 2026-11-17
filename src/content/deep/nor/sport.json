@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Norway has won more Winter Olympic medals than any other country, and it has produced chess genius Magnus Carlsen and footballer Erling Haaland.",
+ "chapters": [
+  {
+   "id": "winter",
+   "title": "Winter Olympic champions",
+   "text": [
+    "Cross-country skier Marit Bjørgen won 15 Winter Olympic medals, more than any other athlete, and biathlete Ole Einar Bjørndalen won 13. Oslo hosted the 1952 Winter Olympics and Lillehammer in 1994."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Chess, running and football",
+   "text": [
+    "Magnus Carlsen was world chess champion from 2013 to 2023 and holds the highest rating in history. Karsten Warholm and Jakob Ingebrigtsen are Olympic running champions, and Erling Haaland is one of the most prolific goal-scorers in football."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Biathlon",
+   "meaning": "A winter sport combining cross-country skiing and rifle shooting."
+  }
+ ]
+}

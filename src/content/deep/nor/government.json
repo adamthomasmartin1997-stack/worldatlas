@@ -1,0 +1,46 @@
+{
+ "status": "draft",
+ "intro": "Norway is a constitutional monarchy with a parliamentary democracy. Its 1814 constitution is the oldest still in use in Europe, and Oslo is home to the Nobel Peace Prize.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "King and Storting",
+   "text": [
+    "King Harald V has reigned since 1991. The parliament, the Storting, has 169 members elected by proportional representation and chooses the government.",
+    "A committee chosen by the Storting awards the Nobel Peace Prize each December in Oslo."
+   ],
+   "facts": [
+    {
+     "label": "Storting",
+     "value": "169 members"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    },
+    {
+     "label": "National Day",
+     "value": "17 May"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Norway and Europe",
+   "text": [
+    "Norway is not in the EU, but through the European Economic Area it follows most EU single-market rules and its people can live and work across Europe. It is a founding member of NATO. On 17 May, children's parades fill every town."
+   ],
+   "related": [
+    "SWE",
+    "DNK",
+    "ISL"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "European Economic Area",
+   "meaning": "An agreement letting Norway, Iceland and Liechtenstein take part in the EU's single market."
+  }
+ ]
+}

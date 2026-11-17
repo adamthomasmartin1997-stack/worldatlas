@@ -1,0 +1,114 @@
+{
+ "status": "draft",
+ "intro": "Norway was a land of Vikings and seafarers, ruled for centuries by Denmark and then Sweden. Independent since 1905, it became one of the richest countries on Earth after oil was found under the North Sea.",
+ "chapters": [
+  {
+   "id": "vikings",
+   "title": "Vikings and saints",
+   "text": [
+    "Norwegian Vikings sailed west, raiding Britain and Ireland and settling in Iceland, Greenland and the Faroe Islands. Around 1000, Leif Erikson, son of a Norwegian settler in Greenland, reached North America.",
+    "King Harald Fairhair is said to have united Norway around 872. King Olaf II, killed at the Battle of Stiklestad in 1030, became a saint and helped spread Christianity."
+   ],
+   "related": [
+    "GBR",
+    "IRL",
+    "ISL",
+    "GRL",
+    "CAN"
+   ]
+  },
+  {
+   "id": "unions",
+   "title": "Unions with Denmark and Sweden",
+   "text": [
+    "The Black Death in 1349 killed about half of Norway's people, and Norway fell under Danish rule for more than 400 years. In 1814 Norwegians wrote their own constitution at Eidsvoll, signed on 17 May, now the National Day, but Norway was forced into a union with Sweden.",
+    "In 1905 Norway voted to leave the union peacefully and chose a Danish prince as King Haakon VII."
+   ],
+   "related": [
+    "DNK",
+    "SWE"
+   ]
+  },
+  {
+   "id": "explorers",
+   "title": "Explorers and occupation",
+   "text": [
+    "Norwegian explorers led the way to the poles. Fridtjof Nansen crossed Greenland on skis in 1888, and Roald Amundsen became the first person to reach the South Pole, on 14 December 1911.",
+    "Germany occupied Norway from 1940 to 1945. The collaborator Vidkun Quisling's name became an English word for traitor, while resistance fighters sabotaged a Nazi heavy-water plant needed for nuclear research."
+   ],
+   "related": [
+    "DEU",
+    "GRL"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Oil and peace",
+   "text": [
+    "Oil was found in the North Sea in 1969, transforming the economy. Norway helped found NATO in 1949 but voters rejected joining the European Union in 1972 and 1994. In 2011 a far-right terrorist killed 77 people in Oslo and on the island of Utøya, most of them teenagers at a summer camp."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 872",
+   "title": "Harald Fairhair",
+   "text": "Norway is united."
+  },
+  {
+   "year": "1030",
+   "title": "Stiklestad",
+   "text": "Olaf dies and becomes a saint."
+  },
+  {
+   "year": "1349",
+   "title": "Black Death",
+   "text": "Half the population dies."
+  },
+  {
+   "year": "1814",
+   "title": "Constitution",
+   "text": "Signed at Eidsvoll on 17 May."
+  },
+  {
+   "year": "1905",
+   "title": "Independence",
+   "text": "Norway leaves the union with Sweden."
+  },
+  {
+   "year": "1911",
+   "title": "South Pole",
+   "text": "Amundsen gets there first."
+  },
+  {
+   "year": "1940",
+   "title": "German invasion",
+   "text": "Five years of occupation begin."
+  },
+  {
+   "year": "1969",
+   "title": "Oil found",
+   "text": "The Ekofisk field is discovered."
+  },
+  {
+   "year": "1994",
+   "title": "No to the EU",
+   "text": "Voters reject membership again."
+  },
+  {
+   "year": "2011",
+   "title": "22 July attacks",
+   "text": "77 people are killed."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Union",
+   "meaning": "When two countries share a ruler or government."
+  },
+  {
+   "term": "Quisling",
+   "meaning": "A traitor who helps an enemy occupying their country."
+  }
+ ]
+}

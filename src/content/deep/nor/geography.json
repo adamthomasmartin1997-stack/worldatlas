@@ -1,0 +1,41 @@
+{
+ "status": "draft",
+ "intro": "Norway is a long, mountainous country with one of the most jagged coastlines on Earth, carved into deep fjords by Ice Age glaciers. It reaches far into the Arctic, all the way to Svalbard.",
+ "chapters": [
+  {
+   "id": "fjords",
+   "title": "Fjords and mountains",
+   "text": [
+    "Glaciers carved deep, steep-sided valleys that the sea later flooded, forming fjords. The Sognefjord runs more than 200 km inland, and the Geirangerfjord is a World Heritage Site. Including its many islands, Norway's coastline is about 100,000 km long.",
+    "Mountains cover most of the country; Galdhøpiggen is the highest peak. Norway borders Sweden, Finland and Russia."
+   ],
+   "related": [
+    "SWE",
+    "FIN",
+    "RUS"
+   ]
+  },
+  {
+   "id": "arctic",
+   "title": "Into the Arctic",
+   "text": [
+    "In the north, the midnight sun shines all night in summer and the northern lights glow in winter. A warm ocean current keeps the coast ice-free, much milder than other places so far north.",
+    "Svalbard, an Arctic archipelago, is home to polar bears and the Global Seed Vault, which stores seeds from around the world in case of disaster. Norway also owns Bouvet Island, one of the most remote islands on Earth."
+   ],
+   "related": [
+    "SJM",
+    "BVT"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Fjord",
+   "meaning": "A long, narrow sea inlet between steep cliffs, carved by a glacier."
+  },
+  {
+   "term": "Midnight sun",
+   "meaning": "When the sun stays above the horizon all night in summer."
+  }
+ ]
+}

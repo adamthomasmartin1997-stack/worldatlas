@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Oil and gas made Norway one of the richest countries on Earth, and it saved much of the money in the world's largest sovereign wealth fund.",
+ "chapters": [
+  {
+   "id": "oil",
+   "title": "Oil and the fund",
+   "text": [
+    "Norway is one of the world's biggest exporters of oil and gas and is now Europe's largest supplier of natural gas. Instead of spending all the money, the government puts it into a fund that invests worldwide; it owns small shares in thousands of companies and is worth more than the whole country's yearly economy several times over."
+   ]
+  },
+  {
+   "id": "green",
+   "title": "Fish and electric cars",
+   "text": [
+    "Norway is the world's biggest producer of farmed salmon. Almost all its electricity comes from hydropower, and nearly every new car sold is electric, the highest share in the world. The currency is the krone."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sovereign wealth fund",
+   "meaning": "A national savings fund owned by the government."
+  }
+ ]
+}

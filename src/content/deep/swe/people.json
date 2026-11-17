@@ -1,0 +1,39 @@
+{
+ "status": "draft",
+ "intro": "Swedes are known for equality between men and women, love of nature and the daily coffee break called fika. About one in five people living in Sweden was born abroad.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "Who lives in Sweden",
+   "text": [
+    "Most people live in the south, in cities such as Stockholm, Gothenburg and Malmö. The Sámi, the Indigenous people of the far north, have their own parliament, and some still herd reindeer.",
+    "Sweden has welcomed many refugees and migrants, from Finland, the former Yugoslavia, Iraq, Iran, Syria, Somalia and elsewhere."
+   ],
+   "related": [
+    "FIN",
+    "SYR",
+    "IRQ",
+    "IRN",
+    "SOM"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Swedish life",
+   "text": [
+    "Parents share 480 days of paid parental leave per child. In 1979 Sweden became the first country to ban smacking children. Lagom, meaning 'just the right amount', describes a love of balance.",
+    "Most Swedes are not very religious; the Church of Sweden separated from the state in 2000."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Fika",
+   "meaning": "A Swedish coffee break with something sweet."
+  },
+  {
+   "term": "Sámi",
+   "meaning": "The Indigenous people of northern Scandinavia, Finland and Russia."
+  }
+ ]
+}

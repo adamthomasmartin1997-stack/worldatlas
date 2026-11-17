@@ -1,0 +1,37 @@
+{
+ "status": "draft",
+ "intro": "Sweden is a long country of forests, lakes and islands, stretching from the mild south to Arctic Lapland, where the sun never sets in summer.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Forests and lakes",
+   "text": [
+    "Sweden shares the Scandinavian Peninsula with Norway and borders Finland in the north; since 2000 the Øresund Bridge has linked it to Denmark. Forests cover about two-thirds of the land, and there are tens of thousands of lakes, including Vänern, the largest lake in the EU.",
+    "Stockholm is built on 14 islands where Lake Mälaren meets the Baltic, and the archipelago beyond it has around 30,000 islands."
+   ],
+   "related": [
+    "NOR",
+    "FIN",
+    "DNK"
+   ]
+  },
+  {
+   "id": "north",
+   "title": "The Arctic north",
+   "text": [
+    "North of the Arctic Circle, in Lapland, the sun doesn't set for weeks in midsummer and barely rises in midwinter, when the northern lights fill the sky. Kebnekaise is Sweden's highest mountain.",
+    "Sweden's 'right of public access' lets everyone walk, camp and pick berries almost anywhere in the countryside, as long as they respect nature and landowners. Moose, reindeer, bears and wolves live in the forests."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Arctic Circle",
+   "meaning": "An imaginary line around the far north; beyond it, there is at least one day a year with no sunset and one with no sunrise."
+  },
+  {
+   "term": "Archipelago",
+   "meaning": "A group of islands."
+  }
+ ]
+}

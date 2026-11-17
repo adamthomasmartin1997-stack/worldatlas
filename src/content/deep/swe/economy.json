@@ -1,0 +1,27 @@
+{
+ "status": "draft",
+ "intro": "Sweden is a rich, high-tech economy that gave the world IKEA, Volvo, H&M, Spotify and Minecraft.",
+ "chapters": [
+  {
+   "id": "brands",
+   "title": "Famous companies",
+   "text": [
+    "IKEA, founded in 1943, sells flat-pack furniture worldwide. Other Swedish names include Volvo and Scania, the telecoms company Ericsson, the fashion chain H&M and the music streaming service Spotify, launched in 2006. The game Minecraft was created in Stockholm."
+   ]
+  },
+  {
+   "id": "resources",
+   "title": "Forests, iron and power",
+   "text": [
+    "Forests supply timber and paper, and the far north mines iron ore; the town of Kiruna is being moved several kilometres because the mine is undermining the ground beneath it. Most electricity comes from hydropower and nuclear power.",
+    "Sweden is one of the most cashless societies in the world, and taxes are high to pay for the welfare state. The currency is the krona."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cashless",
+   "meaning": "Paying by card or phone instead of notes and coins."
+  }
+ ]
+}

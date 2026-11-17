@@ -1,0 +1,27 @@
+{
+ "status": "draft",
+ "intro": "Norway has only about 5.6 million people, spread along a long coast. Norwegians love the outdoors, and many say they are 'born with skis on their feet'.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and languages",
+   "text": [
+    "Oslo is the capital and largest city, followed by Bergen, Trondheim and Stavanger. Norwegian has two official written forms, Bokmål and Nynorsk, and Sámi languages are official in the north, where the Sámi have their own parliament.",
+    "Many immigrants have come from Poland, Lithuania, Sweden, Somalia and Syria."
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Outdoor life",
+   "text": [
+    "Friluftsliv, 'open-air life', is a way of life: families hike, ski and spend weekends at simple cabins in the mountains or by the sea. Norway regularly ranks among the happiest and richest countries in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Friluftsliv",
+   "meaning": "Norwegian for spending time outdoors in nature."
+  }
+ ]
+}

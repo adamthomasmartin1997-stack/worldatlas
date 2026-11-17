@@ -1,0 +1,42 @@
+{
+ "status": "draft",
+ "intro": "Sweden is a constitutional monarchy and parliamentary democracy with some of the oldest traditions of open government in the world.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "King and Riksdag",
+   "text": [
+    "King Carl XVI Gustaf, on the throne since 1973, is the longest-reigning monarch in Swedish history but has only ceremonial duties. Since 1980 the eldest child inherits the throne whether a boy or a girl, so Crown Princess Victoria is heir.",
+    "The Riksdag, a single chamber of 349 members elected by proportional representation, chooses the prime minister."
+   ],
+   "facts": [
+    {
+     "label": "Riksdag",
+     "value": "349 members"
+    },
+    {
+     "label": "Counties",
+     "value": "21"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "open",
+   "title": "Open government",
+   "text": [
+    "Sweden passed the world's first law protecting freedom of the press in 1766, and anyone can ask to see most official documents. The word 'ombudsman', an official who investigates complaints against the government, comes from Swedish.",
+    "The blue flag has a yellow Nordic cross. Sweden joined the EU in 1995 and NATO in 2024."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ombudsman",
+   "meaning": "An official who investigates complaints about public bodies."
+  }
+ ]
+}
