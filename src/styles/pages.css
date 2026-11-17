@@ -373,7 +373,8 @@ a.chip:hover { color: var(--ink); background: var(--sun); transform: translate(2
 .deep-terms { margin: 0; display: grid; gap: var(--space-3); max-width: var(--measure); }
 .deep-terms dt { font-weight: 800; font-family: var(--font-display); }
 .deep-terms dd { margin: 0; }
-.deep-next { display: grid; gap: var(--space-4); }
+.deep-next { display: grid; grid-template-columns: minmax(0, 1fr); gap: var(--space-4); }
+.deep-actions .btn { white-space: normal; max-width: 100%; }
 .deep-actions { display: flex; flex-wrap: wrap; align-items: center; gap: var(--space-4); }
 .deep-back { display: inline-flex; align-items: center; gap: var(--space-1); min-height: var(--touch); font-weight: 600; color: var(--ink); }
 @media (min-width: 1025px) {
