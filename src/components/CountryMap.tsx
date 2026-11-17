@@ -15,14 +15,14 @@ const loadCities = () =>
 const W = 600, H = 520, PAD = 28;
 
 /** Keep the main landmass and nearby islands (e.g. Corsica), drop far-off parts (e.g. French Guiana). */
-export function homeland(f: CountryFeature): { shape: CountryFeature; trimmed: boolean } {
+export function homeland(f: CountryFeature, maxArc = 0.26): { shape: CountryFeature; trimmed: boolean } {
   if (f.geometry.type !== 'MultiPolygon') return { shape: f, trimmed: false };
   const parts = (f.geometry as MultiPolygon).coordinates.map((c) => {
     const poly: Polygon = { type: 'Polygon', coordinates: c };
     return { c, area: geoArea(poly), centre: geoCentroid(poly) };
   });
   const main = parts.reduce((a, b) => (b.area > a.area ? b : a));
-  const keep = parts.filter((p) => geoDistance(p.centre, main.centre) < 0.26); // ~15° of arc
+  const keep = parts.filter((p) => geoDistance(p.centre, main.centre) < maxArc); // 0.26 rad is about 15° of arc
   return { shape: { ...f, geometry: { type: 'MultiPolygon', coordinates: keep.map((p) => p.c) } }, trimmed: keep.length < parts.length };
 }
 

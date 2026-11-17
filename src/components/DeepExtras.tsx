@@ -25,7 +25,7 @@ export function PinMap({ country, pins: given, label, insideOnly }: { country: C
   const drawn = useMemo(() => {
     const f = features?.find((x) => x.properties.cca3 === country.cca3);
     if (!f || !country.hasShape) return null;
-    const { shape } = homeland(f);
+    const { shape } = homeland(f, 0.45); // ~26°: keeps outlying parts such as Papua, still drops far-off territories
     const [lon] = geoCentroid(shape);
     const projection = geoNaturalEarth1().rotate([-lon, 0]).fitExtent([[PAD, PAD], [W - PAD, H - PAD]], shape);
     const d = geoPath(projection)(shape) ?? '';
