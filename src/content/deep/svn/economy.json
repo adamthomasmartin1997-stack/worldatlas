@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Slovenia is a small, export-driven economy and one of the richest of the former communist countries.",
+ "chapters": [
+  {
+   "id": "industry",
+   "title": "What Slovenia makes",
+   "text": [
+    "Slovenia exports medicines, household appliances, cars and car parts, and its port of Koper serves much of Central Europe. Pipistrel, a Slovenian company, built the first fully electric aircraft certified for training pilots."
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Tourists come for the Alps, lakes, caves and Ljubljana. The famous white Lipizzaner horses were first bred at Lipica in 1580."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Export-driven",
+   "meaning": "An economy that relies heavily on selling goods abroad."
+  }
+ ]
+}

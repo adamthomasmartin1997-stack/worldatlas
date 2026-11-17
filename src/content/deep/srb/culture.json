@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Serbian culture is known for medieval monasteries, lively brass bands and the inventor Nikola Tesla.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "Famous Serbs",
+   "text": [
+    "Nikola Tesla, the inventor of alternating current electricity systems, was born to a Serb family; Belgrade's airport is named after him. Ivo Andrić won the Nobel Prize in Literature in 1961 for The Bridge on the Drina."
+   ]
+  },
+  {
+   "id": "music-food",
+   "title": "Music and food",
+   "text": [
+    "The Guča Trumpet Festival is a huge celebration of Balkan brass bands, and the EXIT music festival is held in a fortress in Novi Sad. Ćevapi (grilled meat), ajvar (pepper relish) and burek pastry are favourites, and the kolo circle dance is on UNESCO's list."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kolo",
+   "meaning": "A traditional circle dance of the Balkans."
+  }
+ ]
+}

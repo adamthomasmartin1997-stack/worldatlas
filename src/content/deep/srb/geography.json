@@ -1,0 +1,37 @@
+{
+ "status": "draft",
+ "intro": "Serbia is a landlocked country where the Danube meets the Sava, with flat farmland in the north and mountains in the south.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Plains and mountains",
+   "text": [
+    "Belgrade stands where the Sava flows into the Danube. North of the capital, the province of Vojvodina is part of the flat, fertile Pannonian Plain; the south is hilly and mountainous. On the border with Romania, the Danube cuts through the dramatic Iron Gates gorge.",
+    "Serbia borders Hungary, Romania, Bulgaria, North Macedonia, Montenegro, Bosnia and Herzegovina and Croatia, as well as Kosovo, whose independence it disputes."
+   ],
+   "related": [
+    "HUN",
+    "ROU",
+    "BGR",
+    "MKD",
+    "MNE",
+    "BIH",
+    "HRV",
+    "UNK"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Serbia has hot summers and cold winters, with snow in the mountains, where ski resorts such as Kopaonik are popular."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gorge",
+   "meaning": "A deep, narrow valley with steep sides."
+  }
+ ]
+}

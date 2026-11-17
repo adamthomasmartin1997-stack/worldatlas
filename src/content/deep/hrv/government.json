@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Croatia is a parliamentary republic and a member of the EU, NATO, the eurozone and the Schengen area.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Sabor and president",
+   "text": [
+    "The parliament, the Sabor, chooses the prime minister. The president is directly elected for five years. Croatia is divided into 20 counties plus the city of Zagreb."
+   ],
+   "facts": [
+    {
+     "label": "Counties",
+     "value": "20 + Zagreb"
+    },
+    {
+     "label": "Currency",
+     "value": "Euro"
+    },
+    {
+     "label": "EU member",
+     "value": "Since 2013"
+    }
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols",
+   "text": [
+    "The flag shows red, white and blue stripes with a red-and-white checkerboard shield, also worn on Croatia's football shirts. Statehood Day is 30 May."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Schengen area",
+   "meaning": "European countries that have removed passport checks at their shared borders."
+  }
+ ]
+}

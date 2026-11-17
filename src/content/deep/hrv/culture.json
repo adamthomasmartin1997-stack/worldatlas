@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Croatian culture blends Central European and Mediterranean influences, from klapa songs to Dalmatian seafood.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Song and screen",
+   "text": [
+    "Klapa, harmonious singing by small groups of men or women, is on UNESCO's heritage list. Dubrovnik played King's Landing in the TV series Game of Thrones."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "The coast is known for grilled fish, black risotto and peka, meat or octopus slow-cooked under an iron bell. Inland dishes are heartier, with sausages and štrukli, cheese-filled pastry."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Klapa",
+   "meaning": "Traditional a cappella singing from Dalmatia."
+  }
+ ]
+}

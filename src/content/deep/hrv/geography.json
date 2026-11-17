@@ -1,0 +1,34 @@
+{
+ "status": "draft",
+ "intro": "Croatia curves like a boomerang around Bosnia and Herzegovina, with a long Adriatic coast of more than a thousand islands and inland plains and mountains.",
+ "chapters": [
+  {
+   "id": "coast",
+   "title": "Coast and islands",
+   "text": [
+    "The Dalmatian coast is lined with more than 1,200 islands and islets, such as Hvar, Brač and Korčula. Dubrovnik's walled old town sits on the southern coast; since 2022 a bridge to the Pelješac peninsula has linked it by road to the rest of Croatia without crossing Bosnia.",
+    "Croatia borders Slovenia, Hungary, Serbia, Bosnia and Herzegovina and Montenegro."
+   ],
+   "related": [
+    "SVN",
+    "HUN",
+    "SRB",
+    "BIH",
+    "MNE"
+   ]
+  },
+  {
+   "id": "inland",
+   "title": "Lakes and mountains",
+   "text": [
+    "The Plitvice Lakes are 16 turquoise lakes linked by waterfalls, a World Heritage Site. The Dinaric Alps run behind the coast, and the flat plain of Slavonia in the east is good farmland."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Islet",
+   "meaning": "A very small island."
+  }
+ ]
+}

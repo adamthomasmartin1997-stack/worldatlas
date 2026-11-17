@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "For a country of under four million people, Croatia has an astonishing sporting record.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Croatia reached the World Cup final in 2018 and finished third in 1998 and 2022. Luka Modrić won the Ballon d'Or in 2018."
+   ],
+   "related": [
+    "FRA",
+    "ARG"
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Tennis, skiing and more",
+   "text": [
+    "Goran Ivanišević won Wimbledon in 2001 as a wildcard ranked 125th. Skier Janica Kostelić won four Olympic golds, and Croatia is strong in handball and water polo."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Wildcard",
+   "meaning": "A special invitation to enter a tournament without qualifying."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Slovenia has only about two million people, who are known for their love of the outdoors, beekeeping and sport.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and language",
+   "text": [
+    "Ljubljana is the capital and largest city. Slovene has a rare feature: besides singular and plural, it has a special 'dual' form for exactly two of something. Italian and Hungarian minorities have guaranteed rights, and most Slovenes are Catholic."
+   ]
+  },
+  {
+   "id": "bees",
+   "title": "A nation of beekeepers",
+   "text": [
+    "Beekeeping is a national tradition, with painted beehive panels, and the Carniolan honeybee comes from Slovenia. At Slovenia's suggestion, the UN made 20 May World Bee Day."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dual",
+   "meaning": "A grammatical form for exactly two of something."
+  }
+ ]
+}

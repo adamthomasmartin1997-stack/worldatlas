@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Slovenian culture is known for poets, an imaginative architect, cheerful folk traditions and sausages.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Poets and architects",
+   "text": [
+    "France Prešeren is the national poet; Prešeren Day, 8 February, the anniversary of his death, is a cultural holiday. Architect Jože Plečnik reshaped Ljubljana with bridges, markets and parks, now a World Heritage Site."
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Traditions and food",
+   "text": [
+    "At the Kurentovanje carnival in Ptuj, people dress as kurents, shaggy sheepskin figures who chase away winter. Potica, a rolled nut cake, and Carniolan sausage are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kurent",
+   "meaning": "A shaggy carnival figure from Slovenian folklore."
+  }
+ ]
+}

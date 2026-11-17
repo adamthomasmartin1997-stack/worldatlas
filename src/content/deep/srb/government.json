@@ -1,0 +1,46 @@
+{
+ "status": "draft",
+ "intro": "Serbia is a parliamentary republic and a candidate to join the European Union, while also keeping close ties with Russia and China.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "President and assembly",
+   "text": [
+    "The president is directly elected for five years; the 250-member National Assembly chooses the government. Aleksandar Vučić has been president since 2017.",
+    "Serbia is militarily neutral and not a member of NATO."
+   ],
+   "facts": [
+    {
+     "label": "National Assembly",
+     "value": "250 members"
+    },
+    {
+     "label": "Currency",
+     "value": "Dinar"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "kosovo",
+   "title": "Kosovo",
+   "text": [
+    "Serbia considers Kosovo part of its territory. More than a hundred countries recognise Kosovo's independence; others, including Russia and China, do not."
+   ],
+   "related": [
+    "UNK",
+    "RUS",
+    "CHN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Militarily neutral",
+   "meaning": "Not part of any military alliance."
+  }
+ ]
+}

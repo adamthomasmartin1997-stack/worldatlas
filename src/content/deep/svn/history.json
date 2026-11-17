@@ -1,0 +1,74 @@
+{
+ "status": "draft",
+ "intro": "Slovenes lived under Habsburg rule for some 600 years before joining Yugoslavia. Slovenia broke away in 1991 after a ten-day war and became the first former Yugoslav republic to join the EU.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Romans and Slavs",
+   "text": [
+    "The Romans founded Emona, today's Ljubljana. Slavic ancestors of the Slovenes arrived in the 500s, and the Freising Manuscripts, written around 1000, are among the oldest texts in a Slavic language.",
+    "From the late Middle Ages the Habsburgs ruled the Slovene lands. In 1550 Primož Trubar printed the first book in Slovene, and the poet France Prešeren, whose poem is now the national anthem, made Slovene a language of literature."
+   ],
+   "related": [
+    "AUT",
+    "ITA"
+   ]
+  },
+  {
+   "id": "yugoslavia",
+   "title": "Yugoslavia",
+   "text": [
+    "In 1918 Slovenia joined the Kingdom of Serbs, Croats and Slovenes, later Yugoslavia. It was occupied by Germany, Italy and Hungary in the Second World War, then became the richest republic of communist Yugoslavia."
+   ],
+   "related": [
+    "SRB",
+    "HRV"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Slovenia declared independence on 25 June 1991; after a short Ten-Day War the Yugoslav army withdrew. It joined NATO and the EU in 2004, the first former Yugoslav republic to do so, and in 2007 became the first former communist country to adopt the euro."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1000",
+   "title": "Freising Manuscripts",
+   "text": "Early texts in Slovene."
+  },
+  {
+   "year": "1550",
+   "title": "First Slovene book",
+   "text": "Printed by Primož Trubar."
+  },
+  {
+   "year": "1918",
+   "title": "Yugoslavia",
+   "text": "Slovenia joins the new kingdom."
+  },
+  {
+   "year": "1991",
+   "title": "Independence",
+   "text": "After the Ten-Day War."
+  },
+  {
+   "year": "2004",
+   "title": "NATO and EU",
+   "text": "Slovenia joins both."
+  },
+  {
+   "year": "2007",
+   "title": "Euro",
+   "text": "First ex-communist country to adopt it."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ten-Day War",
+   "meaning": "The brief 1991 conflict in which Slovenia secured its independence."
+  }
+ ]
+}

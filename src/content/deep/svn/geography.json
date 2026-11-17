@@ -1,0 +1,33 @@
+{
+ "status": "draft",
+ "intro": "Slovenia packs Alps, caves, forests, lakes and a short Adriatic coast into a small country, and gave its name to a whole type of landscape: karst.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Alps and lakes",
+   "text": [
+    "Triglav, the highest mountain, appears on the national flag. Lake Bled, with a little church on an island, is one of Europe's most photographed places. Slovenia has just 47 km of coast, around Piran and Koper, and forests cover more than half the land, home to about a thousand brown bears.",
+    "Slovenia borders Italy, Austria, Hungary and Croatia."
+   ],
+   "related": [
+    "ITA",
+    "AUT",
+    "HUN",
+    "HRV"
+   ]
+  },
+  {
+   "id": "karst",
+   "title": "Karst and caves",
+   "text": [
+    "The word 'karst', for limestone landscapes full of caves and sinkholes, comes from the Kras region of Slovenia. Postojna Cave is home to the olm, a blind salamander that can live for about 100 years, and the Škocjan Caves contain one of the largest underground canyons in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Karst",
+   "meaning": "A limestone landscape shaped by water into caves and sinkholes."
+  }
+ ]
+}

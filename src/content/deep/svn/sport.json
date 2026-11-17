@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Slovenia may be the most successful sporting nation in the world for its size, with superstars in cycling, basketball and climbing.",
+ "chapters": [
+  {
+   "id": "cycling",
+   "title": "Cycling",
+   "text": [
+    "Tadej Pogačar has won the Tour de France several times and the road world championship, and Primož Roglič has won the Giro d'Italia, the Vuelta and Olympic gold."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Basketball, climbing and snow",
+   "text": [
+    "Luka Dončić is one of the NBA's biggest stars, and Slovenia won the European basketball championship in 2017. Janja Garnbret won Olympic climbing gold in 2021 and 2024, and the ski-flying hill at Planica has hosted many world records."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ski flying",
+   "meaning": "An extreme form of ski jumping on giant hills."
+  }
+ ]
+}

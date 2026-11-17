@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Serbia is a sporting powerhouse, home to tennis legend Novak Djokovic and basketball star Nikola Jokić.",
+ "chapters": [
+  {
+   "id": "tennis",
+   "title": "Djokovic",
+   "text": [
+    "Novak Djokovic has won 24 Grand Slam singles titles, the most of any man, and finally won Olympic gold in 2024."
+   ]
+  },
+  {
+   "id": "team",
+   "title": "Team sports",
+   "text": [
+    "Serbia is a basketball giant, and Nikola Jokić has been named the NBA's Most Valuable Player three times. Its men's water polo team won Olympic gold in 2016, 2021 and 2024, and Red Star Belgrade won football's European Cup in 1991."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "MVP",
+   "meaning": "Most Valuable Player, an award for the best player of a season."
+  }
+ ]
+}

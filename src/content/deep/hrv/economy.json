@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Tourism is Croatia's biggest industry, but it also builds ships and electric supercars.",
+ "chapters": [
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Millions of visitors come for the coast, islands and old towns; tourism makes up about a fifth of the economy, one of the highest shares in Europe."
+   ]
+  },
+  {
+   "id": "industry",
+   "title": "Ships and supercars",
+   "text": [
+    "Croatia has a long shipbuilding tradition, and the company Rimac builds electric hypercars near Zagreb. Olive oil, wine and Istrian truffles are prized exports."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Hypercar",
+   "meaning": "An extremely fast, expensive sports car."
+  }
+ ]
+}

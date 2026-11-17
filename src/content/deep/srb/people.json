@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Serbian is one of the few languages written equally in two alphabets, and family celebrations and hospitality are central to Serbian life.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and language",
+   "text": [
+    "Belgrade, Novi Sad and Niš are the largest cities. Serbian is written in both Cyrillic and Latin letters, and many signs use both. There is a large Hungarian minority in Vojvodina, along with Bosniaks, Roma and others. Most Serbs are Orthodox Christians.",
+    "Each family celebrates its slava, the feast day of its patron saint, a tradition on UNESCO's heritage list."
+   ],
+   "related": [
+    "HUN"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Daily life",
+   "text": [
+    "Coffee with friends can last for hours, and Belgrade is famous for its nightlife, including clubs on river barges."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Slava",
+   "meaning": "A Serbian family's yearly celebration of its patron saint."
+  }
+ ]
+}

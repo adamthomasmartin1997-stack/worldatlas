@@ -1,0 +1,101 @@
+{
+ "status": "draft",
+ "intro": "Croatia was a medieval kingdom, then part of Hungary, Venice and the Habsburg Empire, and later of Yugoslavia. It declared independence in 1991, fought a war to defend it, and joined the EU in 2013.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Romans, kingdom and Ragusa",
+   "text": [
+    "The Roman emperor Diocletian built a huge palace at Split around AD 300, and today the old town still lives inside its walls. Croats settled the region in the 600s, and Tomislav became the first king of Croatia around 925. In 1102 Croatia joined Hungary under one crown.",
+    "Venice ruled much of the Dalmatian coast, but the Republic of Ragusa, today's Dubrovnik, stayed an independent trading republic for centuries and banned the slave trade as early as 1416."
+   ],
+   "related": [
+    "HUN",
+    "ITA"
+   ]
+  },
+  {
+   "id": "empires",
+   "title": "Empires and Yugoslavia",
+   "text": [
+    "Croatia then came under the Habsburgs, guarding a 'military frontier' against the Ottomans. In 1918 it joined the new Kingdom of Serbs, Croats and Slovenes, later Yugoslavia. In the Second World War a fascist puppet state ruled by the Ustaše murdered Serbs, Jews and Roma, notably at the Jasenovac camp, while partisans led by Josip Broz Tito, born in Croatia, fought back.",
+    "After the war Croatia was one of the six republics of communist Yugoslavia under Tito."
+   ],
+   "related": [
+    "AUT",
+    "SRB",
+    "SVN",
+    "BIH"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Croatia declared independence on 25 June 1991. Serb rebels backed by the Yugoslav army seized about a quarter of the country, besieging Vukovar and shelling Dubrovnik. The war ended in 1995 after Croatian offensives, which caused many Serbs to flee.",
+    "Croatia joined NATO in 2009 and became the EU's newest member in 2013, adopting the euro in 2023."
+   ],
+   "related": [
+    "SRB",
+    "BIH"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 305",
+   "title": "Diocletian's Palace",
+   "text": "Built at Split."
+  },
+  {
+   "year": "c. 925",
+   "title": "King Tomislav",
+   "text": "The Kingdom of Croatia is founded."
+  },
+  {
+   "year": "1102",
+   "title": "Union with Hungary",
+   "text": "Croatia shares Hungary's crown."
+  },
+  {
+   "year": "1416",
+   "title": "Ragusa bans slave trade",
+   "text": "Dubrovnik outlaws the trade."
+  },
+  {
+   "year": "1918",
+   "title": "Yugoslavia",
+   "text": "Croatia joins the new state."
+  },
+  {
+   "year": "1991",
+   "title": "Independence",
+   "text": "Declared on 25 June; war follows."
+  },
+  {
+   "year": "1995",
+   "title": "War ends",
+   "text": "Croatia regains its territory."
+  },
+  {
+   "year": "2013",
+   "title": "Joins the EU",
+   "text": "The EU's newest member."
+  },
+  {
+   "year": "2023",
+   "title": "Euro and Schengen",
+   "text": "Croatia adopts the euro."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Partisans",
+   "meaning": "Resistance fighters in occupied Yugoslavia during the Second World War."
+  },
+  {
+   "term": "Republic of Ragusa",
+   "meaning": "The old independent city-state of Dubrovnik."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Serbia's economy mixes farming, car-making and a growing IT industry.",
+ "chapters": [
+  {
+   "id": "farms",
+   "title": "Raspberries and plums",
+   "text": [
+    "Serbia is one of the world's largest producers of raspberries, and its plums are turned into šljivovica, a plum brandy on UNESCO's heritage list."
+   ]
+  },
+  {
+   "id": "industry",
+   "title": "Factories and tech",
+   "text": [
+    "Car factories, Chinese-owned steel and copper plants and a booming IT sector are important. Plans for a large lithium mine have sparked protests over the environment."
+   ],
+   "related": [
+    "CHN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lithium",
+   "meaning": "A metal used in rechargeable batteries."
+  }
+ ]
+}

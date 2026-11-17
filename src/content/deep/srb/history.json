@@ -1,0 +1,113 @@
+{
+ "status": "draft",
+ "intro": "Serbia was a powerful medieval kingdom, then part of the Ottoman Empire for centuries. It won independence in the 1800s, was at the centre of Yugoslavia, and since the wars of the 1990s has been working out its place in Europe.",
+ "chapters": [
+  {
+   "id": "medieval",
+   "title": "Medieval Serbia",
+   "text": [
+    "Slavic peoples settled the Balkans in the 500s and 600s. The Nemanjić dynasty built a powerful Serbian state from 1166; Saint Sava founded an independent Serbian Orthodox Church in 1219, and under Stefan Dušan in the 1300s Serbia became an empire. Its monasteries, such as Studenica, are full of beautiful frescoes.",
+    "In 1389 the Ottomans fought the Serbs at the Battle of Kosovo, a defeat that became a central story in Serbian memory. By 1459 Serbia was under Ottoman rule."
+   ],
+   "related": [
+    "TUR",
+    "GRC"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Uprisings and independence",
+   "text": [
+    "Serbs rose against the Ottomans in 1804 and 1815, winning self-rule, and full independence was recognised in 1878. In 1914 a Bosnian Serb, Gavrilo Princip, assassinated Austria's Archduke Franz Ferdinand in Sarajevo; Austria-Hungary attacked Serbia, starting the First World War, in which Serbia lost a huge share of its people.",
+    "In 1918 Serbia became the core of the new Kingdom of Serbs, Croats and Slovenes, later Yugoslavia, with Belgrade as its capital."
+   ],
+   "related": [
+    "AUT",
+    "BIH",
+    "HRV",
+    "SVN"
+   ]
+  },
+  {
+   "id": "1990s",
+   "title": "Wars and change",
+   "text": [
+    "As Yugoslavia broke up in the 1990s, Serbian leader Slobodan Milošević backed Serb forces in wars in Croatia and Bosnia. In 1999, during a war in Kosovo, NATO bombed Serbia. In 2000 mass protests overthrew Milošević, who was sent to trial at an international court in The Hague.",
+    "Montenegro became independent in 2006, and Kosovo declared independence in 2008, which Serbia does not recognise. Serbia is a candidate to join the EU; since late 2024, student-led protests over corruption, sparked by a deadly roof collapse at Novi Sad railway station, have been among the largest in its history."
+   ],
+   "related": [
+    "HRV",
+    "BIH",
+    "MNE",
+    "UNK"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1166",
+   "title": "Nemanjić dynasty",
+   "text": "A strong Serbian state forms."
+  },
+  {
+   "year": "1219",
+   "title": "Serbian Church",
+   "text": "Saint Sava founds an independent church."
+  },
+  {
+   "year": "1389",
+   "title": "Battle of Kosovo",
+   "text": "Serbs fight the Ottomans."
+  },
+  {
+   "year": "1804",
+   "title": "First Serbian Uprising",
+   "text": "Revolt against Ottoman rule."
+  },
+  {
+   "year": "1878",
+   "title": "Independence",
+   "text": "Recognised at the Congress of Berlin."
+  },
+  {
+   "year": "1914",
+   "title": "First World War",
+   "text": "Austria-Hungary attacks Serbia."
+  },
+  {
+   "year": "1918",
+   "title": "Yugoslavia",
+   "text": "Serbia joins the new kingdom."
+  },
+  {
+   "year": "1999",
+   "title": "NATO bombing",
+   "text": "During the Kosovo war."
+  },
+  {
+   "year": "2000",
+   "title": "Milošević falls",
+   "text": "Mass protests end his rule."
+  },
+  {
+   "year": "2006",
+   "title": "Montenegro leaves",
+   "text": "Serbia becomes fully separate."
+  },
+  {
+   "year": "2008",
+   "title": "Kosovo declares independence",
+   "text": "Serbia does not recognise it."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Yugoslavia",
+   "meaning": "A country of South Slavic peoples from 1918 to the early 1990s."
+  },
+  {
+   "term": "The Hague",
+   "meaning": "The Dutch city where international courts try war crimes."
+  }
+ ]
+}

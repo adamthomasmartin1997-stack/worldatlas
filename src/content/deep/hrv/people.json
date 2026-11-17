@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Most Croats are Catholic and speak Croatian; family, football and the sea are at the heart of life.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Zagreb is the capital and largest city, followed by Split, Rijeka and Osijek. Croatian is the official language, and there is a Serb minority. Many Croats have emigrated to Germany, Ireland and elsewhere, and the population is shrinking."
+   ],
+   "related": [
+    "SRB",
+    "DEU",
+    "IRL"
+   ]
+  },
+  {
+   "id": "inventions",
+   "title": "Croatian firsts",
+   "text": [
+    "The necktie comes from cravats worn by Croatian soldiers in the 1600s; the word 'cravat' comes from 'Croat'. The Dalmatian dog is named after the region of Dalmatia, and the inventor Nikola Tesla was born in Smiljan, in today's Croatia."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cravat",
+   "meaning": "A neck scarf, the ancestor of the tie."
+  }
+ ]
+}

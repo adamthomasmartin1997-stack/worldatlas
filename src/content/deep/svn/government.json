@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Slovenia is a parliamentary republic and a member of the EU, NATO and the eurozone.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Parliament and president",
+   "text": [
+    "The National Assembly has 90 members, two of whom represent the Italian and Hungarian minorities. The president is directly elected; Nataša Pirc Musar became the first woman president in 2022."
+   ],
+   "facts": [
+    {
+     "label": "National Assembly",
+     "value": "90 members"
+    },
+    {
+     "label": "Currency",
+     "value": "Euro"
+    },
+    {
+     "label": "Statehood Day",
+     "value": "25 June"
+    }
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols",
+   "text": [
+    "The flag is white, blue and red with a coat of arms showing Triglav and three stars."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Minority",
+   "meaning": "A smaller group within a country, often with its own language or culture."
+  }
+ ]
+}
