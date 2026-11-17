@@ -342,7 +342,3 @@ a.chip:hover { color: var(--ink); background: var(--sun); transform: translate(2
 .subsection .panel-h { margin: 0 0 var(--space-2); }
 .subsection p { margin: 0; max-width: 65ch; }
 
-/* Landmark photo with its credit line. */
-.landmark { margin: 0; display: grid; gap: var(--space-2); max-width: 640px; }
-.landmark img { width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; border: var(--outline); border-radius: 18px; box-shadow: var(--shadow-card); background: var(--tint-green); }
-.landmark figcaption { display: grid; gap: var(--space-1); }

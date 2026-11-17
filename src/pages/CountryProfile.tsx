@@ -187,15 +187,6 @@ function Profile({ c }: { c: Country }) {
       <div className="panel-split">
         <div className="overview-main">
           <Panel text={content?.overview?.join('\n\n')} generated={numbersSummary(c)} content={content} sources={content?.overview ? undefined : (['world-bank', 'wikidata'] as SourceId[])} />
-          {c.photo && (
-            <figure className="landmark">
-              <img src={`${import.meta.env.BASE_URL}data/photos/${c.cca3.toLowerCase()}.jpg`} alt={`${c.photo.title}, ${c.name}`} width={640} height={427} loading="lazy" />
-              <figcaption>
-                <span><strong>{c.photo.title}</strong> <span className="muted">· {c.photo.kind}</span></span>
-                <span className="source-note">Image: {c.photo.author}, <a href={c.photo.licenceUrl ?? c.photo.sourceUrl} target="_blank" rel="noreferrer">{c.photo.licence}</a>, via <a href={c.photo.sourceUrl} target="_blank" rel="noreferrer">Wikimedia Commons</a></span>
-              </figcaption>
-            </figure>
-          )}
           {content?.didYouKnow && content.didYouKnow.length > 0 && (
             <section className="dyk" aria-label="Did you know?">
               <h3 className="panel-h">Did you know?</h3>

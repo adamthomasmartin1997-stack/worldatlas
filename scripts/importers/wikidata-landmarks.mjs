@@ -1,6 +1,8 @@
 /**
  * One landmark photo per country, from Wikidata + Wikimedia Commons.
  *
+ * Not shown on the site at the moment: kept for a planned gallery of famous images and landmarks.
+ *
  *   node scripts/importers/wikidata-landmarks.mjs
  *
  * For each country, picks its best-known UNESCO World Heritage Site that has a photo (Wikidata P18),

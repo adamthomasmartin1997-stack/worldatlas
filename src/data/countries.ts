@@ -60,8 +60,6 @@ export interface Country {
   indicators: Partial<Record<IndicatorKey, Fact>> | null;
   /** Flag image is at /data/flags/<cca3>.svg (flag-icons, MIT); colours are its main colour families. */
   flag: { colours: string[] } | null;
-  /** One landmark photo (Wikimedia Commons), saved at /data/photos/<cca3>.jpg, with its credit. */
-  photo: { title: string; kind: string; author: string; licence: string; licenceUrl: string | null; sourceUrl: string } | null;
   /** Wikipedia editions with an article about the country (Wikidata sitelinks). Only used for quiz difficulty. */
   fame: number | null;
   hasSeries: boolean;
