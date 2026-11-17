@@ -1,0 +1,57 @@
+{
+ "status": "draft",
+ "intro": "Saudi Arabia is an absolute monarchy ruled by the Al Saud family. The king holds supreme power, there is no elected parliament, and the Quran is officially the constitution.",
+ "chapters": [
+  {
+   "id": "king",
+   "title": "King and crown prince",
+   "text": [
+    "King Salman has reigned since 2015. His son, Crown Prince Mohammed bin Salman, often called MBS, is also prime minister and runs the government day to day. The king's official title is Custodian of the Two Holy Mosques, in Mecca and Medina.",
+    "Every king since 1953 has been a son of the founder, Ibn Saud; MBS is expected to be the first of the next generation."
+   ]
+  },
+  {
+   "id": "law",
+   "title": "Law and rights",
+   "text": [
+    "The Basic Law of 1992 says the constitution is the Quran and the teachings of the Prophet. A Consultative Assembly, or Shura Council, of members appointed by the king, including women since 2013, advises on laws but cannot overrule him. There are no political parties.",
+    "Human rights groups criticise Saudi Arabia for jailing activists and critics, restricting free speech and frequently using the death penalty."
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Flag and symbols",
+   "text": [
+    "The green flag shows the Islamic declaration of faith in Arabic above a sword. Because it carries the name of God, it is never flown at half-mast. National Day, 23 September, marks the founding of the kingdom in 1932."
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Saudi Arabia in the world",
+   "text": [
+    "Saudi Arabia co-founded OPEC in 1960 and leads the group of oil producers that influence world oil prices. It is the only Arab member of the G20 and a close partner of the United States, though it also has strong ties with China. In 2023 it restored relations with its long-time rival, Iran."
+   ],
+   "related": [
+    "USA",
+    "CHN",
+    "IRN",
+    "ARE",
+    "EGY"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Absolute monarchy",
+   "meaning": "A system where the monarch has full power, not limited by elected bodies."
+  },
+  {
+   "term": "Shura",
+   "meaning": "Arabic for 'consultation'; the Shura Council advises the king."
+  },
+  {
+   "term": "OPEC",
+   "meaning": "The Organization of the Petroleum Exporting Countries."
+  }
+ ]
+}

@@ -1,0 +1,39 @@
+{
+ "status": "draft",
+ "intro": "Football is Saudi Arabia's favourite sport, and the kingdom now spends heavily to host the world's biggest events, from Formula One to the 2034 World Cup.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Saudi Arabia has won the Asian Cup three times and has played at several World Cups. In 2022 it pulled off one of the tournament's greatest shocks, beating Argentina, the eventual champions, 2-1. A national holiday was declared the next day.",
+    "Since 2023 Saudi Pro League clubs have signed global stars, starting with Cristiano Ronaldo at Al-Nassr. Saudi Arabia will host the 2034 World Cup."
+   ],
+   "related": [
+    "ARG",
+    "PRT"
+   ]
+  },
+  {
+   "id": "events",
+   "title": "Hosting the world",
+   "text": [
+    "Jeddah has hosted a Formula One Grand Prix on a fast street circuit since 2021, the Dakar Rally has raced across Saudi deserts since 2020, and Riyadh hosts world title boxing fights, tennis finals and the Esports World Cup.",
+    "Critics accuse the kingdom of 'sportswashing', using sport to improve its image; the government says sport is part of opening up the country and getting young Saudis active."
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics",
+   "text": [
+    "Saudi women competed at the Olympics for the first time in 2012, and the country has won a handful of Olympic medals, in sports such as karate, show jumping and athletics."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sportswashing",
+   "meaning": "Using sporting events or teams to improve a country's or company's reputation."
+  }
+ ]
+}

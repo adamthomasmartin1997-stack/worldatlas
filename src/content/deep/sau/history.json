@@ -1,0 +1,144 @@
+{
+ "status": "draft",
+ "intro": "The land that is now Saudi Arabia was the birthplace of Islam. The modern kingdom was founded in 1932 by Ibn Saud, and the discovery of oil a few years later turned a poor desert country into one of the richest and most influential in the world.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Trade routes and ancient kingdoms",
+   "text": [
+    "For thousands of years caravans of camels carried frankincense, myrrh and spices across Arabia from the south of the peninsula to Egypt and the Mediterranean. Towns grew up at oases along the routes.",
+    "In the north-west, the Nabataeans, the same people who built Petra in Jordan, carved grand tombs into the sandstone at Hegra, near today's AlUla, about 2,000 years ago. Hegra became Saudi Arabia's first World Heritage Site."
+   ],
+   "related": [
+    "JOR",
+    "YEM",
+    "OMN",
+    "EGY"
+   ]
+  },
+  {
+   "id": "islam",
+   "title": "The birth of Islam",
+   "text": [
+    "The Prophet Muhammad was born in Mecca around 570. Muslims believe that from 610 he received revelations from God, later written down as the Quran. In 622 he and his followers moved to Medina; this journey, the Hijra, marks the first year of the Islamic calendar.",
+    "By his death in 632 most of Arabia had accepted Islam, and within a century Arab armies had carried it from Spain to Central Asia. The capitals of the Islamic empires moved to Damascus and Baghdad, but Mecca and Medina remained Islam's two holiest cities."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Every day, about a quarter of the world's people turn towards Mecca when they pray."
+   },
+   "related": [
+    "SYR",
+    "IRQ",
+    "ESP"
+   ]
+  },
+  {
+   "id": "saudi-states",
+   "title": "The House of Saud",
+   "text": [
+    "In 1744 Muhammad bin Saud, ruler of the small town of Diriyah near Riyadh, made an alliance with the religious reformer Muhammad ibn Abd al-Wahhab. Their first Saudi state spread across much of Arabia before Ottoman-Egyptian forces destroyed it in 1818; a second state followed later in the 1800s.",
+    "In 1902 a young Abdulaziz ibn Saud recaptured Riyadh with a small band of men. Over the next 30 years he conquered most of the peninsula, including Mecca and Medina in the 1920s, and on 23 September 1932 he proclaimed the Kingdom of Saudi Arabia."
+   ],
+   "related": [
+    "TUR",
+    "EGY"
+   ]
+  },
+  {
+   "id": "oil",
+   "title": "Oil",
+   "text": [
+    "In 1938 American engineers struck oil at Dammam in the east. The oil fields turned out to be among the largest on Earth. Money from oil paid for roads, cities, schools and hospitals, and the kingdom became a key ally of the United States.",
+    "In 1973 Saudi Arabia led an oil embargo against countries that supported Israel, and prices quadrupled. After 1979, when militants seized the Grand Mosque in Mecca, the government gave religious conservatives more control over society."
+   ],
+   "related": [
+    "USA",
+    "ISR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Vision 2030",
+   "text": [
+    "Mohammed bin Salman became crown prince in 2017 and launched Vision 2030, a plan to reduce the country's dependence on oil. Since 2018 women have been allowed to drive, cinemas and concerts have returned, and tourists can visit.",
+    "At the same time, critics have been jailed, and the journalist Jamal Khashoggi was murdered inside the Saudi consulate in Istanbul in 2018. Saudi Arabia has led a military coalition in the war in Yemen since 2015."
+   ],
+   "related": [
+    "TUR",
+    "YEM"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1st century",
+   "title": "Hegra",
+   "text": "The Nabataeans carve tombs near AlUla."
+  },
+  {
+   "year": "c. 570",
+   "title": "Muhammad born",
+   "text": "The Prophet is born in Mecca."
+  },
+  {
+   "year": "622",
+   "title": "The Hijra",
+   "text": "Muhammad moves to Medina; the Islamic calendar begins."
+  },
+  {
+   "year": "1744",
+   "title": "First Saudi state",
+   "text": "The alliance of Diriyah is formed."
+  },
+  {
+   "year": "1902",
+   "title": "Riyadh recaptured",
+   "text": "Ibn Saud begins building a kingdom."
+  },
+  {
+   "year": "1932",
+   "title": "The kingdom",
+   "text": "Saudi Arabia is proclaimed on 23 September."
+  },
+  {
+   "year": "1938",
+   "title": "Oil",
+   "text": "Oil is discovered at Dammam."
+  },
+  {
+   "year": "1960",
+   "title": "OPEC",
+   "text": "Saudi Arabia co-founds the oil exporters' group."
+  },
+  {
+   "year": "1973",
+   "title": "Oil embargo",
+   "text": "Oil prices quadruple."
+  },
+  {
+   "year": "2017",
+   "title": "Vision 2030",
+   "text": "Mohammed bin Salman becomes crown prince."
+  },
+  {
+   "year": "2018",
+   "title": "Women drive",
+   "text": "The ban on women driving ends."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Hijra",
+   "meaning": "Muhammad's journey from Mecca to Medina in 622, the start of the Islamic calendar."
+  },
+  {
+   "term": "Caravan",
+   "meaning": "A group of traders travelling together, usually with camels."
+  },
+  {
+   "term": "Embargo",
+   "meaning": "An official ban on trade with a country."
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Saudi Arabia covers most of the Arabian Peninsula. It is one of the largest countries without a single permanent river, and much of it is desert, including the world's largest continuous sand sea.",
+ "chapters": [
+  {
+   "id": "peninsula",
+   "title": "The Arabian Peninsula",
+   "text": [
+    "Saudi Arabia lies between the Red Sea to the west and the Persian Gulf to the east. It borders Jordan, Iraq, Kuwait, Qatar, the United Arab Emirates, Oman and Yemen, and a 25 km causeway links it to the island kingdom of Bahrain.",
+    "Mountains run along the Red Sea coast, highest in the south-west region of Asir, which catches seasonal rains and is green with terraced fields and juniper forest. The centre is a high, rocky plateau called the Najd, where Riyadh stands."
+   ],
+   "related": [
+    "JOR",
+    "IRQ",
+    "KWT",
+    "QAT",
+    "ARE",
+    "OMN",
+    "YEM",
+    "BHR"
+   ]
+  },
+  {
+   "id": "deserts",
+   "title": "Deserts",
+   "text": [
+    "The Rub' al Khali, or Empty Quarter, in the south is the largest continuous sand desert in the world, with dunes up to 250 m high. The Nafud desert in the north is known for its red sand.",
+    "There are no permanent rivers or lakes; instead, dry valleys called wadis fill with water only after rare storms. Summer temperatures often pass 45°C."
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Water and wildlife",
+   "text": [
+    "With so little rain, Saudi Arabia gets much of its drinking water by removing salt from seawater in desalination plants, and it produces more desalinated water than any other country.",
+    "The Red Sea has spectacular coral reefs. On land, the Arabian oryx, once hunted to extinction in the wild, has been reintroduced, and conservationists are trying to save the critically endangered Arabian leopard."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Wadi",
+   "meaning": "A dry river valley that fills with water only after rain."
+  },
+  {
+   "term": "Desalination",
+   "meaning": "Removing salt from seawater to make fresh water."
+  },
+  {
+   "term": "Oasis",
+   "meaning": "A green, fertile spot in a desert where there is water."
+  }
+ ]
+}

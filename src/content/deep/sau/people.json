@@ -1,0 +1,47 @@
+{
+ "status": "draft",
+ "intro": "Saudi Arabia is a young country, with most citizens under 35, and about four in ten people living there are foreign workers. Its society has changed fast in recent years.",
+ "chapters": [
+  {
+   "id": "who",
+   "title": "Who lives there",
+   "text": [
+    "Most people live in cities: Riyadh, the capital, Jeddah on the Red Sea, the holy cities of Mecca and Medina, and Dammam in the oil-rich east.",
+    "Millions of foreign workers, many from India, Pakistan, Bangladesh, Egypt and the Philippines, do jobs from building and cleaning to engineering and medicine."
+   ],
+   "related": [
+    "IND",
+    "PAK",
+    "BGD",
+    "EGY",
+    "PHL"
+   ]
+  },
+  {
+   "id": "faith",
+   "title": "Faith and pilgrimage",
+   "text": [
+    "Islam shapes daily life. Most Saudis are Sunni Muslims, with a Shia minority in the east, and shops close for prayers. Public worship of other religions is not allowed.",
+    "Every year about two million Muslims from around the world come to Mecca for the Hajj, a pilgrimage every Muslim who can afford it should make once in their life. Only Muslims may enter Mecca."
+   ]
+  },
+  {
+   "id": "changes",
+   "title": "A changing society",
+   "text": [
+    "Until recently, women needed a male relative's permission for many things and could not drive. Since 2018 those rules have been relaxed, women's employment has risen sharply, and concerts, cinemas and mixed public events are now common.",
+    "Arabic is the official language. Many Saudis wear traditional clothing: men in a white thobe and head scarf, women often in a black abaya."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Hajj",
+   "meaning": "The yearly pilgrimage to Mecca, one of the five pillars of Islam."
+  },
+  {
+   "term": "Sunni and Shia",
+   "meaning": "The two main branches of Islam, which split over who should lead Muslims after Muhammad."
+  }
+ ]
+}

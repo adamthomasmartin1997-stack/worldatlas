@@ -1,0 +1,43 @@
+{
+ "status": "draft",
+ "intro": "Saudi Arabia is the world's biggest exporter of crude oil. Its state oil company, Aramco, is one of the most valuable companies on Earth, and the kingdom is spending huge sums to build a future beyond oil.",
+ "chapters": [
+  {
+   "id": "oil",
+   "title": "Oil",
+   "text": [
+    "Saudi Arabia has some of the largest oil reserves in the world, including Ghawar, the largest conventional oil field ever found. Oil sales pay for most of the government's spending, so for a long time Saudis paid no income tax.",
+    "Saudi Aramco, the state oil company, earns more profit than almost any other company in the world. When a small share of it was sold on the stock market in 2019, it was the largest such sale in history."
+   ]
+  },
+  {
+   "id": "vision",
+   "title": "Life after oil",
+   "text": [
+    "Under Vision 2030 the government is investing in tourism, entertainment, mining, manufacturing and technology, and pushing companies to hire more Saudi citizens. Its Public Investment Fund is one of the world's biggest sovereign wealth funds and owns stakes in everything from video game companies to Newcastle United football club.",
+    "Giant projects include new resorts on the Red Sea and NEOM, a planned high-tech region in the north-west. Some projects have been scaled back as costs have grown. The currency, the riyal, is fixed to the US dollar."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "jobs",
+   "title": "Jobs and taxes",
+   "text": [
+    "For decades most Saudi citizens worked for the government, while foreign workers filled private-sector jobs. A policy called Saudization now requires companies to hire set numbers of Saudis, and far more Saudi women have joined the workforce since 2018.",
+    "The government introduced a sales tax (VAT) in 2018, raised to 15% in 2020, to bring in money that does not depend on oil. There is still no income tax on wages."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sovereign wealth fund",
+   "meaning": "A government-owned investment fund, often built from oil money."
+  },
+  {
+   "term": "Diversification",
+   "meaning": "Building new industries so a country doesn't depend on just one."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Saudi culture is rooted in Islam, Bedouin desert traditions and generous hospitality. In recent years it has opened up to concerts, cinema and tourism.",
+ "chapters": [
+  {
+   "id": "hospitality",
+   "title": "Coffee, dates and kabsa",
+   "text": [
+    "Guests are welcomed with Arabic coffee, flavoured with cardamom and poured into small cups, and dates. Refusing is impolite; giving the cup a little shake means you've had enough.",
+    "The national dish is kabsa, spiced rice cooked with chicken or lamb, often eaten from a large shared platter."
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Desert traditions",
+   "text": [
+    "Falconry, training birds of prey to hunt, is a prized tradition. Camels are central to Bedouin life, and there are camel races, now ridden by small robot jockeys, and even camel beauty contests.",
+    "Al-Ardah, a sword dance with drums and poetry, is performed at national celebrations and is on UNESCO's heritage list. Poetry, especially in the Bedouin style called Nabati, is highly respected."
+   ]
+  },
+  {
+   "id": "heritage",
+   "title": "Heritage and new arts",
+   "text": [
+    "Historic sites include the coral-stone houses of old Jeddah, the mud-brick palaces of At-Turaif in Diriyah and the tombs of Hegra. Cinemas were banned for 35 years until 2018; Wadjda (2012), the first feature film shot entirely in Saudi Arabia, was directed by a woman, Haifaa al-Mansour.",
+    "Entertainment festivals such as Riyadh Season now bring concerts, theme parks and sports events to the capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bedouin",
+   "meaning": "Arab peoples who traditionally lived as desert nomads, herding camels and goats."
+  },
+  {
+   "term": "Falconry",
+   "meaning": "Hunting with trained falcons or other birds of prey."
+  }
+ ]
+}
