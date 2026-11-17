@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "A Frenchman revived the Olympic Games, and France gave the world the Tour de France and pétanque. It has won the football World Cup twice and hosted the Summer Olympics in Paris three times.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Football is the most popular sport in France. The men's team, nicknamed Les Bleus, won the World Cup at home in 1998, led by Zinedine Zidane, and again in Russia in 2018, with a teenage Kylian Mbappé among the stars. They also reached the finals of 2006 and 2022.",
+    "The top league is Ligue 1. Olympique de Marseille became the first French club to win the European Champions League in 1993, and Paris Saint-Germain won it in 2025.",
+    "Many France players grew up in the suburbs of big cities, especially around Paris, which is one of the biggest producers of professional footballers in the world."
+   ],
+   "related": [
+    "RUS",
+    "BRA",
+    "ARG",
+    "ITA"
+   ]
+  },
+  {
+   "id": "cycling",
+   "title": "The Tour de France",
+   "text": [
+    "The Tour de France, first held in 1903, is the world's most famous bike race. For three weeks every July riders race around France, over the Alps and Pyrenees, and finish in Paris, usually on the Champs-Élysées.",
+    "The overall leader wears the yellow jersey, introduced in 1919. Millions of people line the roads to watch for free. No French rider has won the race since Bernard Hinault in 1985, which has become a running joke in France."
+   ],
+   "highlight": {
+    "title": "A newspaper's idea",
+    "text": "The Tour was invented by a sports newspaper, L'Auto, to sell more copies. The yellow jersey was yellow because the paper was printed on yellow pages."
+   }
+  },
+  {
+   "id": "olympics",
+   "title": "The Olympic Games",
+   "text": [
+    "A Frenchman, Pierre de Coubertin, revived the Olympic Games and set up the International Olympic Committee in 1894. Paris has hosted the Summer Games three times, in 1900, 1924 and 2024, and the first Winter Olympics were held at Chamonix in 1924.",
+    "At Paris 2024, France won 16 gold medals and 64 medals in all, its best result since 1900. The swimmer Léon Marchand won four individual golds, and the judo star Teddy Riner won the heavyweight title for a third time.",
+    "The French Alps will host the Winter Olympics in 2030."
+   ]
+  },
+  {
+   "id": "rugby",
+   "title": "Rugby, tennis and motor racing",
+   "text": [
+    "Rugby union is hugely popular, especially in the south-west, where towns such as Toulouse have famous clubs. France plays in the Six Nations every year and hosted the Rugby World Cup in 2023, but has never won it, losing three finals.",
+    "The French Open tennis tournament is played on red clay at Roland-Garros in Paris, named after a First World War pilot. It is one of the four Grand Slam tournaments, and the Spanish player Rafael Nadal won it a record 14 times.",
+    "The 24 Hours of Le Mans, held since 1923, is the world's most famous endurance car race: teams of drivers take turns to race through the day and night."
+   ],
+   "related": [
+    "GBR",
+    "IRL",
+    "ITA",
+    "ESP",
+    "NZL"
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Handball, basketball and pétanque",
+   "text": [
+    "France is one of the strongest handball nations in the world, with several world titles and Olympic gold medals for both its men's and women's teams. In basketball, Victor Wembanyama became the NBA's Rookie of the Year in 2024.",
+    "Pétanque, a game of throwing metal balls as close as possible to a small wooden ball, was invented in 1907 in La Ciotat, near Marseille. It is played in village squares all over France, especially in the south."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Les Bleus",
+   "meaning": "'The Blues', the nickname of France's national teams, after the blue shirts they wear."
+  },
+  {
+   "term": "Grand Slam",
+   "meaning": "The four biggest tennis tournaments: the Australian Open, French Open, Wimbledon and US Open."
+  },
+  {
+   "term": "Endurance race",
+   "meaning": "A race that tests how long cars and drivers can keep going, rather than who is fastest over a short distance."
+  }
+ ]
+}

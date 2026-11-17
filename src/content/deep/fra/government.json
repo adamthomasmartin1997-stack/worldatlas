@@ -1,0 +1,98 @@
+{
+ "status": "draft",
+ "intro": "France is a republic with a powerful elected president, a two-chamber parliament and a written constitution from 1958. Its motto is Liberté, égalité, fraternité: liberty, equality, brotherhood.",
+ "chapters": [
+  {
+   "id": "fifth-republic",
+   "title": "The Fifth Republic",
+   "text": [
+    "Since 1792 France has had five republics, two empires and several kings. The current system, the Fifth Republic, began in 1958 when Charles de Gaulle was brought back to power during the crisis over the war in Algeria. He wanted a strong leader who could act quickly, so the new constitution gave the president much more power than before.",
+    "The constitution sets out how laws are made, what the president and parliament can do, and the rights of citizens. A Constitutional Council of nine members checks that new laws follow it."
+   ]
+  },
+  {
+   "id": "president",
+   "title": "President and prime minister",
+   "text": [
+    "The president is elected directly by voters for five years and can serve at most two terms in a row. If no candidate wins more than half the votes in the first round, the top two face each other in a second round two weeks later.",
+    "The president lives in the Élysée Palace in Paris, leads foreign policy, commands the armed forces and controls France's nuclear weapons. They appoint the prime minister, can dissolve the National Assembly and can call referendums.",
+    "The prime minister runs the government day to day and must keep the support of the National Assembly. When the president's opponents win a majority there, the president has to pick a prime minister from the other side. This is called cohabitation, and it happened three times between 1986 and 2002."
+   ],
+   "facts": [
+    {
+     "label": "President's term",
+     "value": "5 years (since 2002)"
+    },
+    {
+     "label": "Term limit",
+     "value": "Two in a row"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "parliament",
+   "title": "Parliament",
+   "text": [
+    "Parliament has two chambers. The National Assembly has 577 deputies, each elected by the voters of one area, usually in two rounds. It has the final say on most laws and can force the government to resign with a vote of no confidence.",
+    "The Senate has 348 senators. They are not elected by the public but by more than 150,000 local officials, such as mayors and councillors, so the Senate tends to speak for small towns and rural areas. It meets in the Luxembourg Palace in Paris."
+   ],
+   "highlight": {
+    "title": "Votes for women",
+    "text": "Women in France won the right to vote in 1944 and voted for the first time in 1945, later than in many other European countries."
+   }
+  },
+  {
+   "id": "local",
+   "title": "Regions, departments and communes",
+   "text": [
+    "France has 18 regions: 13 in mainland Europe and 5 overseas. Regions look after things such as trains and secondary schools. Below them are 101 departments, created during the Revolution, which run social services and roads; their numbers once appeared on every car number plate.",
+    "The smallest unit is the commune. France has almost 35,000 of them, more than any other country in the EU, and each has its own mayor, from Paris to villages with fewer than 100 people."
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols of the Republic",
+   "text": [
+    "The tricolour flag of blue, white and red dates from the Revolution. The national anthem, La Marseillaise, was written in 1792 as a marching song and got its name from volunteer soldiers from Marseille who sang it in Paris.",
+    "Marianne, a woman wearing a red cap, stands for the Republic. Her face appears on stamps and coins and her bust is found in every town hall. The national day is 14 July, with a military parade along the Champs-Élysées."
+   ]
+  },
+  {
+   "id": "world",
+   "title": "France in the world",
+   "text": [
+    "France is one of the five permanent members of the United Nations Security Council, which means it can veto (block) the council's decisions. It is one of only a handful of countries with nuclear weapons.",
+    "It was a founding member of NATO in 1949. De Gaulle took France out of NATO's joint military command in 1966 to keep full control of its forces; it returned in 2009. France is also a founding member of what is now the European Union, and it keeps close ties with many of its former colonies, especially in Africa."
+   ],
+   "related": [
+    "USA",
+    "GBR",
+    "RUS",
+    "CHN",
+    "DEU"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Constitution",
+   "meaning": "The basic set of rules that says how a country is governed."
+  },
+  {
+   "term": "Referendum",
+   "meaning": "A vote in which all citizens decide a single question directly."
+  },
+  {
+   "term": "Cohabitation",
+   "meaning": "When the president and the majority in parliament come from opposing political sides."
+  },
+  {
+   "term": "Veto",
+   "meaning": "The power to block a decision on your own."
+  }
+ ]
+}

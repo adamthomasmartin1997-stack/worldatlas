@@ -1,0 +1,71 @@
+{
+ "status": "draft",
+ "intro": "From cave paintings to comic books, France has influenced how the world eats, dresses, paints, writes and watches films. Its culture is also proudly regional, with each area guarding its own food and traditions.",
+ "chapters": [
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "In 2010 UNESCO listed the 'gastronomic meal of the French' as part of the world's cultural heritage: a long meal with several courses, shared with family or friends. In 2022 the craft of making the baguette was added too.",
+    "Every region has its own dishes: crêpes from Brittany, choucroute (sauerkraut with sausages) from Alsace, bouillabaisse fish stew from Marseille and cassoulet, a slow-cooked bean stew, from the south-west. France makes hundreds of kinds of cheese, from soft Camembert to blue Roquefort.",
+    "Even some 'French' classics have foreign roots. The croissant was inspired by the kipferl, a crescent-shaped bread from Austria."
+   ],
+   "related": [
+    "AUT"
+   ]
+  },
+  {
+   "id": "art",
+   "title": "Art and museums",
+   "text": [
+    "The Louvre in Paris is the most visited art museum in the world. It holds the Mona Lisa, painted by the Italian artist Leonardo da Vinci, who spent his last years in France.",
+    "In the 1870s a group of painters including Claude Monet, Pierre-Auguste Renoir and Berthe Morisot began painting outdoors, capturing light and movement with quick brushstrokes. A critic mocked Monet's painting Impression, Sunrise, and the name stuck: Impressionism.",
+    "In the early 1900s Paris was the centre of the art world. Artists from everywhere, such as the Spaniard Pablo Picasso, came to work there alongside French painters like Henri Matisse."
+   ],
+   "related": [
+    "ITA",
+    "ESP"
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books and big ideas",
+   "text": [
+    "France has more Nobel Prizes in Literature than any other country. Famous writers include Molière, whose comedies are still performed, Victor Hugo, author of Les Misérables and The Hunchback of Notre-Dame, and Jules Verne, who imagined submarines and trips to the Moon long before they existed.",
+    "French thinkers have shaped ideas around the world, from Descartes ('I think, therefore I am') to Enlightenment writers like Voltaire and Rousseau and, in the 1900s, Simone de Beauvoir, a pioneer of feminism."
+   ]
+  },
+  {
+   "id": "film",
+   "title": "Cinema, comics and music",
+   "text": [
+    "On 28 December 1895 the Lumière brothers held one of the first public film screenings for a paying audience, in a café in Paris. Georges Méliès soon followed with special effects, including A Trip to the Moon in 1902. The Cannes Film Festival, held since 1946, is the most famous film festival in the world.",
+    "Comics, called bandes dessinées, are treated as a serious art form, sometimes called 'the ninth art'. Astérix, created in 1959, is about a village of Gauls holding out against Julius Caesar, and the town of Angoulême hosts a huge comics festival every January.",
+    "French music ranges from the chansons of Édith Piaf to the electronic music of Daft Punk. Every 21 June since 1982, the Fête de la Musique fills streets with free concerts by anyone who wants to play."
+   ]
+  },
+  {
+   "id": "landmarks",
+   "title": "Landmarks and fashion",
+   "text": [
+    "The Eiffel Tower was built for the 1889 World's Fair. Many Parisians first thought it was ugly, but it was the tallest structure in the world until 1930 and is now a symbol of France.",
+    "In April 2019 a fire destroyed the roof and spire of Notre-Dame cathedral. After five years of work by hundreds of craftspeople, it reopened in December 2024.",
+    "Paris is one of the world's fashion capitals. Designers such as Coco Chanel and Christian Dior changed how people dressed, and Paris Fashion Week is one of the biggest events in the fashion calendar."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Impressionism",
+   "meaning": "A style of painting from the 1870s that tries to capture light and a passing moment with loose, quick brushstrokes."
+  },
+  {
+   "term": "Bande dessinée",
+   "meaning": "French for comic strip or comic book; often shortened to BD."
+  },
+  {
+   "term": "Intangible heritage",
+   "meaning": "Traditions, skills and customs (rather than buildings) that UNESCO lists as worth protecting."
+  }
+ ]
+}

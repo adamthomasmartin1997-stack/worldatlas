@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "France has one of the world's biggest economies. It is a leader in tourism, food and farming, luxury goods, aircraft and nuclear power, and most people work in services.",
+ "chapters": [
+  {
+   "id": "overview",
+   "title": "How France makes its money",
+   "text": [
+    "Like most rich countries, France earns most of its money from services, such as shops, banks, hospitals, schools, transport and tourism. Industry and farming are smaller parts of the economy but famous around the world.",
+    "France uses the euro, which replaced the French franc: first for banks and businesses in 1999, then as notes and coins in 2002. Its biggest trading partners are its European neighbours, especially Germany, Belgium, Italy and Spain."
+   ],
+   "related": [
+    "DEU",
+    "BEL",
+    "ITA",
+    "ESP"
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "The world's favourite destination",
+   "text": [
+    "France gets more international tourists than any other country. Visitors come for Paris, the beaches of the Riviera, the Alps, castles, vineyards and theme parks such as Disneyland Paris.",
+    "Tourism supports hotels, restaurants, transport and museums across the country, and many coastal and mountain towns depend on it."
+   ]
+  },
+  {
+   "id": "farming",
+   "title": "Farming, food and wine",
+   "text": [
+    "France is the biggest farming country in the European Union. It grows huge amounts of wheat, barley, maize and sugar beet, raises cattle and is one of the world's leading wine producers.",
+    "Many foods are protected by a label, the AOC, that guarantees where and how they are made. Only sparkling wine from the Champagne region can be called champagne, and only cheese made in a certain way around the village of Roquefort can be called Roquefort.",
+    "Farmers receive large payments from the EU's Common Agricultural Policy, and French farmers are known for big protests, sometimes blocking roads with tractors, when they feel their incomes are under threat."
+   ]
+  },
+  {
+   "id": "industry",
+   "title": "Planes, trains, rockets and luxury",
+   "text": [
+    "Toulouse is the main base of Airbus, a European company and one of the world's two largest makers of passenger jets. French Guiana is home to Europe's spaceport, where Ariane rockets are launched.",
+    "France builds high-speed trains: the TGV began running between Paris and Lyon in 1981, and in 2007 a modified TGV set a world speed record for a train on rails of 574.8 km/h. Car makers include Renault, and Peugeot and Citroën, now part of the Stellantis group.",
+    "Luxury is a giant business. LVMH, which owns Louis Vuitton, Dior and many other brands, is the world's largest luxury group, alongside other French names such as Hermès and Chanel."
+   ],
+   "highlight": {
+    "title": "From tyres to stars",
+    "text": "The Michelin tyre company first published its guide in 1900 to encourage people to drive more (and wear out their tyres). Its restaurant stars are now the most famous food awards in the world."
+   }
+  },
+  {
+   "id": "energy",
+   "title": "Nuclear power",
+   "text": [
+    "After the oil crisis of 1973, France decided to build dozens of nuclear power stations so that it would not depend on imported oil. Today about two-thirds of its electricity comes from nuclear power, a bigger share than any other country.",
+    "This means French electricity produces much less carbon dioxide than electricity in countries that burn coal or gas, and France sells electricity to its neighbours. But the reactors are getting old, new ones are expensive to build, and the country is also expanding wind and solar power."
+   ]
+  },
+  {
+   "id": "work",
+   "title": "Work and challenges",
+   "text": [
+    "Since 2000 the standard working week in France has been 35 hours, and workers get at least five weeks of paid holiday a year. Trade unions are powerful, and strikes are a common way to protest against government plans, such as raising the retirement age.",
+    "The French government spends a larger share of the country's wealth than almost any other rich country, on things like pensions, healthcare and schools. Paying for this while keeping government debt under control, and finding jobs for young people, are big debates."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Services",
+   "meaning": "Work that provides help or experiences rather than making things, such as teaching, banking or running a hotel."
+  },
+  {
+   "term": "AOC",
+   "meaning": "Appellation d'origine contrôlée: a label that protects the name of a food or wine made in a particular place and way."
+  },
+  {
+   "term": "Trade union",
+   "meaning": "An organisation of workers that bargains with employers and the government for better pay and conditions."
+  }
+ ]
+}

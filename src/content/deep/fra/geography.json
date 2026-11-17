@@ -1,0 +1,105 @@
+{
+ "status": "draft",
+ "intro": "Mainland France is the largest country in the European Union, with three coastlines, two great mountain ranges and some of Europe's longest rivers. Add its islands and overseas lands, and France reaches every ocean except the Arctic.",
+ "chapters": [
+  {
+   "id": "hexagon",
+   "title": "The Hexagon",
+   "text": [
+    "French people often call mainland France l'Hexagone, 'the Hexagon', because its outline roughly has six sides. Three sides face the sea: the English Channel to the north-west, the Atlantic Ocean to the west and the Mediterranean Sea to the south-east. The other three are land borders.",
+    "Mainland France shares borders with Belgium, Luxembourg, Germany, Switzerland, Italy, Monaco, Andorra and Spain. Some borders follow natural lines, such as the Pyrenees mountains with Spain, the Alps with Italy and the river Rhine with Germany; the north-eastern border with Belgium crosses open farmland and has been fought over many times.",
+    "The island of Corsica, in the Mediterranean, is also part of mainland France. It is so mountainous that it is sometimes called 'a mountain in the sea'."
+   ],
+   "highlight": {
+    "title": "A surprise neighbour",
+    "text": "France's longest land border is not with any European country. It is with Brazil, along the edge of French Guiana in South America."
+   },
+   "related": [
+    "BEL",
+    "LUX",
+    "DEU",
+    "CHE",
+    "ITA",
+    "MCO",
+    "AND",
+    "ESP",
+    "BRA"
+   ]
+  },
+  {
+   "id": "mountains",
+   "title": "Mountains and old volcanoes",
+   "text": [
+    "The French Alps in the south-east hold Mont Blanc, the highest mountain in the Alps, shared with Italy. Glaciers, deep valleys and ski resorts such as Chamonix make it one of the busiest mountain areas in the world.",
+    "The Pyrenees form a long wall between France and Spain, with the tiny country of Andorra tucked in the middle. Smaller ranges include the Jura and the Vosges in the east.",
+    "In the middle of France is the Massif Central, a high plateau of very old rock. Its Chaîne des Puys is a line of about 80 volcanoes. They have not erupted for thousands of years, and the area is a UNESCO World Heritage Site."
+   ]
+  },
+  {
+   "id": "rivers",
+   "title": "Rivers and coasts",
+   "text": [
+    "Four big rivers drain most of France. The Loire, just over 1,000 km long, is the longest river entirely inside France; its valley is famous for its castles, called châteaux. The Seine flows through Paris to the Channel. The Rhône starts in a Swiss glacier and runs south through Lyon to the Mediterranean, and the Garonne flows past Bordeaux before joining the Dordogne to form the wide Gironde estuary.",
+    "The coasts are just as varied. Brittany has rocky cliffs and islands; the Atlantic coast further south has long sandy beaches and the Dune of Pilat, the tallest sand dune in Europe. In Normandy, the tides around the island abbey of Mont-Saint-Michel are among the biggest in Europe, and the sea can race across the sands at walking pace.",
+    "Where the Rhône meets the Mediterranean it splits into the Camargue, a flat delta of marshes, lagoons and salt pans known for pink flamingos, white horses and black bulls."
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Four kinds of weather",
+   "text": [
+    "France has several climates. The west, close to the Atlantic, is mild and damp, with cool summers and soft winters. The east, further from the sea, has colder winters and hotter summers. The mountains are snowy in winter.",
+    "The south coast has a Mediterranean climate: hot, dry summers and mild, wetter winters, which suit olives, lavender and grapes. In the Rhône valley a cold, strong wind called the mistral can blow for days, mostly in winter and spring.",
+    "Like the rest of Europe, France is warming. Heatwaves, droughts and wildfires have become more common, and Alpine glaciers are shrinking fast."
+   ]
+  },
+  {
+   "id": "nature",
+   "title": "Wildlife and national parks",
+   "text": [
+    "France opened its first national park, the Vanoise in the Alps, in 1963 to protect the Alpine ibex, a wild mountain goat that had nearly died out. It now has 11 national parks, including ones in Guadeloupe, Réunion and the Amazon rainforest of French Guiana.",
+    "Wolves have returned to the Alps on their own from Italy, and brown bears were brought back to the Pyrenees from Slovenia starting in 1996. Both are protected, but they remain controversial with sheep farmers.",
+    "Forests cover large parts of the country, from the oak woods of the centre to the pine forest of the Landes in the south-west, which was planted in the 1800s to hold sandy soil in place."
+   ],
+   "related": [
+    "SVN",
+    "ITA"
+   ]
+  },
+  {
+   "id": "overseas",
+   "title": "France around the world",
+   "text": [
+    "France is not only in Europe. Guadeloupe and Martinique in the Caribbean, French Guiana in South America, and Réunion and Mayotte in the Indian Ocean are full parts of France, with the same laws, the euro and seats in the French parliament. They are part of the European Union too.",
+    "Other lands, such as French Polynesia and New Caledonia in the Pacific, have more self-government. France also claims a slice of Antarctica.",
+    "Because of all these places, France has 12 time zones, more than any other country, and controls one of the largest areas of sea in the world."
+   ],
+   "highlight": {
+    "title": "Europe in the Amazon",
+    "text": "French Guiana is the largest area of the European Union outside Europe, and most of it is rainforest. Europe's rockets, including Ariane, are launched from Kourou on its coast."
+   },
+   "related": [
+    "BRA",
+    "SUR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Massif",
+   "meaning": "A large block of high ground or mountains."
+  },
+  {
+   "term": "Estuary",
+   "meaning": "The wide mouth of a river where it meets the sea and fresh and salt water mix."
+  },
+  {
+   "term": "Delta",
+   "meaning": "Flat land formed where a river splits into channels and drops mud and sand before reaching the sea."
+  },
+  {
+   "term": "Overseas department",
+   "meaning": "A part of France outside Europe that is run in the same way as the regions of mainland France."
+  }
+ ]
+}

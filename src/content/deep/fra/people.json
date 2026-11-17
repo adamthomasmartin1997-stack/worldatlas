@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "France is home to people with roots in every corner of the old French empire and beyond, united by the French language and a strong idea of what it means to be a citizen of the Republic.",
+ "chapters": [
+  {
+   "id": "where",
+   "title": "Where people live",
+   "text": [
+    "Paris is by far the biggest city, and almost one in five people in France lives in the Paris region, called Île-de-France. Other large cities include Marseille, Lyon, Toulouse, Nice, Nantes and Lille.",
+    "For centuries most French people were farmers living in villages, and the countryside still matters a lot to how French people see themselves. Today, though, most people live in towns and cities, while some rural areas, especially in the centre of the country, have lost people as young adults move away for work."
+   ]
+  },
+  {
+   "id": "language",
+   "title": "The French language",
+   "text": [
+    "French is the only official language, and the constitution says so. The Académie française, set up in 1635, gives official advice on words and grammar, and there are rules to promote French in advertising and on the radio.",
+    "France also has regional languages, including Breton in Brittany, Basque and Catalan near the Spanish border, Occitan in the south, Corsican, and Alsatian in the east. Most were discouraged at school for a long time and now have far fewer speakers, but they are taught in some schools again.",
+    "More than 300 million people around the world speak French, and more of them live in Africa than in France. Countries where French is widely used work together in an organisation called La Francophonie."
+   ],
+   "related": [
+    "BEL",
+    "CHE",
+    "CAN",
+    "SEN",
+    "CIV",
+    "COD",
+    "HTI"
+   ]
+  },
+  {
+   "id": "origins",
+   "title": "A country of many origins",
+   "text": [
+    "France has been a country of immigration for more than 150 years. Italians, Belgians, Spanish, Portuguese and Poles came to work in mines, farms and factories. After the Second World War many people came from North Africa, especially Algeria, Morocco and Tunisia, and later from West and Central Africa, South-East Asia and Turkey.",
+    "Today about one in ten people living in France was born abroad, and many more have at least one parent or grandparent who was. French food, music, sport and language have all been shaped by these communities.",
+    "The French state treats everyone simply as a citizen and does not collect official statistics on people's ethnic background, unlike the United Kingdom or the United States."
+   ],
+   "related": [
+    "DZA",
+    "MAR",
+    "TUN",
+    "PRT",
+    "ITA",
+    "ESP",
+    "POL",
+    "TUR"
+   ]
+  },
+  {
+   "id": "religion",
+   "title": "Religion and laïcité",
+   "text": [
+    "France has a long Catholic history, and churches stand in almost every village. Today, though, many French people say they have no religion. The country also has some of the largest Muslim and Jewish communities in Europe, as well as Protestants and Buddhists.",
+    "A law from 1905 separated religion from the state. This idea, called laïcité, means the state favours no religion, and religious symbols are not allowed in some public places: since 2004, pupils in state schools may not wear clearly religious clothing or symbols. Supporters say it keeps everyone equal; critics say it can single out minorities."
+   ],
+   "highlight": {
+    "title": "No religion question",
+    "text": "Because of laïcité, the French census does not ask people about their religion, so all figures on religion in France come from surveys."
+   }
+  },
+  {
+   "id": "school",
+   "title": "Growing up in France",
+   "text": [
+    "School is compulsory from age 3, one of the youngest starting ages in the world, until 16. Pupils go from école (primary) to collège (ages 11 to 15) and then lycée, where most take the baccalauréat, known as 'le bac', the exam that opens the way to university.",
+    "School days are long, often running until 4.30 or 5 in the afternoon, with a proper sit-down lunch in the canteen. Many younger pupils have Wednesday afternoon off, traditionally for sport and clubs.",
+    "Martin is the most common surname in France, and the summer holidays are long: about two months, from early July to early September."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Laïcité",
+   "meaning": "The French idea that the state and religion are kept separate and the state treats all beliefs the same."
+  },
+  {
+   "term": "Francophonie",
+   "meaning": "The French-speaking world, and the international organisation of countries that use French."
+  },
+  {
+   "term": "Le bac",
+   "meaning": "The baccalauréat, the exam most French students take at the end of secondary school."
+  }
+ ]
+}

@@ -10,7 +10,7 @@ import { useUsStates, statePath } from '../components/usStates';
 import { Breadcrumbs, ButtonLink, Card, SourceNote } from '../components/ui';
 import { COUNTRIES, ORGANISATIONS, countryPath, fmt, getCountry, type Country } from '../data/countries';
 import type { SourceId } from '../data/sources';
-import { deepTitle, hasDeepDive, isDeepSection } from '../content/deep';
+import { DEEP_SECTIONS, deepTitle, hasDeepDive, isDeepSection } from '../content/deep';
 import { contentFor, type CountryContent, type Fact as WrittenFact } from '../content/countries';
 import { TOPICS, questionCount, questionsFor, type Topic } from '../lib/quiz';
 import { flagUrl } from '../lib/difficulty';
@@ -196,6 +196,14 @@ function Profile({ c }: { c: Country }) {
       <div className="panel-split">
         <div className="overview-main">
           <Panel text={content?.overview?.join('\n\n')} generated={numbersSummary(c)} content={content} sources={content?.overview ? undefined : (['world-bank', 'wikidata'] as SourceId[])} />
+          {DEEP_SECTIONS.some((s) => hasDeepDive(c.cca3, s)) && (
+            <section className="deep-links" aria-label="Go deeper">
+              <h3 className="panel-h">Go deeper</h3>
+              <div className="chip-row">
+                {DEEP_SECTIONS.filter((s) => hasDeepDive(c.cca3, s)).map((s) => <Link key={s} to={`${countryPath(c)}/${s}`} className="chip">{deepTitle(s, c.name)}</Link>)}
+              </div>
+            </section>
+          )}
           {content?.didYouKnow && content.didYouKnow.length > 0 && (
             <section className="dyk" aria-label="Did you know?">
               <h3 className="panel-h">Did you know?</h3>
