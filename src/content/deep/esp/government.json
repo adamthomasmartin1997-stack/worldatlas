@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Spain is a parliamentary monarchy with a king as head of state and a strong system of regional self-government.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "King and parliament",
+   "text": [
+    "King Felipe VI has reigned since 2014. Parliament, the Cortes Generales, has a Congress of Deputies, which chooses the prime minister, and a Senate. Pedro Sánchez of the Socialist Party became prime minister in 2018."
+   ],
+   "facts": [
+    {
+     "label": "Autonomous communities",
+     "value": "17"
+    },
+    {
+     "label": "Congress of Deputies",
+     "value": "350 members"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "regions",
+   "title": "Autonomous communities",
+   "text": [
+    "Spain is divided into 17 autonomous communities, each with its own parliament and government running schools, hospitals and more. The Basque Country and Navarre even collect their own taxes.",
+    "Catalonia has a strong independence movement, and how much freedom the regions should have is one of the biggest questions in Spanish politics."
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols and the world",
+   "text": [
+    "The red and yellow flag carries the royal coat of arms. The national anthem, the Marcha Real, is one of the few anthems with no official words. National Day is 12 October.",
+    "Spain joined NATO in 1982 and the European Community in 1986. In 2005 it became one of the first countries to allow same-sex marriage."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Parliamentary monarchy",
+   "meaning": "A system where a king is head of state but parliament and the government hold power."
+  },
+  {
+   "term": "Autonomous community",
+   "meaning": "One of Spain's 17 self-governing regions."
+  }
+ ]
+}

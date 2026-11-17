@@ -1,0 +1,36 @@
+{
+ "status": "draft",
+ "intro": "Spain is a football giant, home to Real Madrid and Barcelona, and has produced champions in tennis, basketball, cycling and motor racing.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Spain's men won the World Cup in 2010 and have won the European Championship a record four times, in 1964, 2008, 2012 and 2024. Its women won the World Cup in 2023, and Aitana Bonmatí won the Ballon d'Or three years running from 2023.",
+    "Real Madrid has won the Champions League more times than any other club, and its matches against Barcelona, El Clásico, are watched around the world. Spain co-hosts the 2030 World Cup with Portugal and Morocco."
+   ],
+   "related": [
+    "PRT",
+    "MAR"
+   ]
+  },
+  {
+   "id": "tennis",
+   "title": "Tennis and more",
+   "text": [
+    "Rafael Nadal won 22 Grand Slam titles, including a record 14 French Opens, and Carlos Alcaraz has become one of the world's best players. Spain's basketball team, led by Pau Gasol, won the World Cup in 2006 and 2019.",
+    "Miguel Induráin won the Tour de France five times in a row, Fernando Alonso won two Formula One titles, and Marc Márquez is a multiple MotoGP world champion. Barcelona hosted the 1992 Olympics."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "El Clásico",
+   "meaning": "A match between Real Madrid and Barcelona."
+  },
+  {
+   "term": "Grand Slam",
+   "meaning": "One of tennis's four biggest tournaments."
+  }
+ ]
+}

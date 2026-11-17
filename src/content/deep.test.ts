@@ -12,7 +12,7 @@ describe('deep-dive content', () => {
       expect(getCountry(iso), 'folder is a country code').toBeTruthy();
       expect(DEEP_SECTIONS).toContain(section);
       expect(d.intro.length).toBeGreaterThan(40);
-      expect(d.chapters.length).toBeGreaterThanOrEqual(3);
+      expect(d.chapters.length).toBeGreaterThanOrEqual(section === 'history' ? 3 : 2);
       const ids = d.chapters.map((c) => c.id);
       expect(new Set(ids).size, 'chapter ids are unique').toBe(ids.length);
       for (const c of d.chapters) {

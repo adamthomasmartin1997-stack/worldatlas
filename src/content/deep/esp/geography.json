@@ -1,0 +1,47 @@
+{
+ "status": "draft",
+ "intro": "Spain covers most of the Iberian Peninsula, plus the Balearic and Canary Islands and two cities in North Africa. It is one of the most mountainous countries in Europe, with a high, dry central plateau.",
+ "chapters": [
+  {
+   "id": "peninsula",
+   "title": "The Iberian Peninsula",
+   "text": [
+    "Spain shares the peninsula with Portugal and borders France and Andorra across the Pyrenees. Gibraltar, a British territory, sits on its southern tip, and the Spanish cities of Ceuta and Melilla lie on the coast of Morocco. Only about 14 km of sea separates Spain from Africa.",
+    "Most of the centre is the Meseta, a high plateau with hot summers and cold winters, where Madrid stands."
+   ],
+   "related": [
+    "PRT",
+    "FRA",
+    "AND",
+    "GIB",
+    "MAR"
+   ]
+  },
+  {
+   "id": "regions",
+   "title": "Mountains, rivers and islands",
+   "text": [
+    "The Pyrenees, Cantabrian Mountains and Sierra Nevada are among many ranges. The Tagus, the longest river on the peninsula, flows west through Portugal to Lisbon; the Ebro, Guadalquivir and Douro are other major rivers.",
+    "The Balearic Islands, including Mallorca and Ibiza, lie in the Mediterranean. The Canary Islands, off north-west Africa, are volcanic; Mount Teide on Tenerife is Spain's highest point, and in 2021 a volcano on La Palma erupted for nearly three months."
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate and nature",
+   "text": [
+    "The north coast, 'Green Spain', is rainy and lush, while the south and east are hot and dry. The Tabernas area of Almería is so dry that it was used to film 'spaghetti western' cowboy films.",
+    "The Iberian lynx, a wild cat found only on the peninsula, was the world's most endangered cat in the early 2000s, with fewer than 100 left. Thanks to conservation, there are now more than 2,000. The Doñana wetlands are a key stop for migrating birds."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Meseta",
+   "meaning": "The high central plateau of Spain."
+  },
+  {
+   "term": "Iberian Peninsula",
+   "meaning": "The peninsula in south-west Europe shared by Spain and Portugal."
+  }
+ ]
+}

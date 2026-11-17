@@ -1,0 +1,169 @@
+{
+ "status": "draft",
+ "intro": "Spain was shaped by Romans, Visigoths and nearly 800 years of Muslim rule before its Catholic monarchs united the country and launched a global empire. After a civil war and a long dictatorship, it became a democracy in the late 1970s.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Cave painters, Phoenicians and Romans",
+   "text": [
+    "The painted bison of Altamira cave in northern Spain are among the finest prehistoric art in the world. Later, Iberian and Celtic peoples lived on the peninsula, and Phoenician traders founded Gadir, today's Cádiz, one of the oldest cities in western Europe.",
+    "Rome conquered the peninsula over two centuries and called it Hispania. It became one of Rome's richest provinces, and two emperors, Trajan and Hadrian, were born there. Spanish grew out of the Latin spoken in Hispania."
+   ],
+   "related": [
+    "ITA",
+    "LBN",
+    "TUN"
+   ]
+  },
+  {
+   "id": "al-andalus",
+   "title": "Al-Andalus",
+   "text": [
+    "In 711 Muslim armies from North Africa crossed the Strait of Gibraltar and conquered most of the peninsula within a few years. Muslim Spain, called al-Andalus, became one of the most advanced places in Europe. Córdoba, with its great mosque, was among the largest cities on the continent, and scholars translated and studied Greek science and philosophy.",
+    "Christian kingdoms in the north slowly pushed south in a centuries-long campaign later called the Reconquista. The last Muslim kingdom, Granada, built the palace of the Alhambra before it fell in 1492."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Thousands of Spanish words come from Arabic, including many starting with 'al-', such as almohada (pillow) and algodón (cotton)."
+   },
+   "related": [
+    "MAR"
+   ]
+  },
+  {
+   "id": "empire",
+   "title": "1492 and a global empire",
+   "text": [
+    "The marriage of Isabella of Castile and Ferdinand of Aragon in 1469 united Spain's two largest kingdoms. In 1492 they conquered Granada, forced Jews to convert or leave, and paid for Christopher Columbus's voyage across the Atlantic.",
+    "Within decades Spanish conquistadors had toppled the Aztec and Inca empires, and silver from the Americas made Spain the richest power in Europe. Under King Charles V and his son Philip II, Spain ruled lands so widespread it was called 'the empire on which the sun never sets'.",
+    "This 'Golden Age' produced Miguel de Cervantes's Don Quixote and the paintings of Diego Velázquez, but wars and debt slowly weakened the empire."
+   ],
+   "related": [
+    "MEX",
+    "PER",
+    "PHL",
+    "NLD",
+    "BEL",
+    "ITA"
+   ]
+  },
+  {
+   "id": "decline",
+   "title": "Decline and civil war",
+   "text": [
+    "Napoleon invaded in 1808, and in the turmoil most of Spain's American colonies won independence. In 1898 it lost Cuba, Puerto Rico and the Philippines to the United States.",
+    "In 1936 an army rebellion led by General Francisco Franco against the elected Republic started the Spanish Civil War. Hundreds of thousands died; in 1937 German planes helping Franco destroyed the town of Guernica, an attack Pablo Picasso painted. Franco won in 1939 and ruled as dictator until his death in 1975."
+   ],
+   "related": [
+    "FRA",
+    "CUB",
+    "PRI",
+    "PHL",
+    "DEU"
+   ]
+  },
+  {
+   "id": "democracy",
+   "title": "Democracy",
+   "text": [
+    "After Franco, King Juan Carlos helped steer Spain to democracy, and a new constitution was approved in 1978. In 1981 he helped defeat a coup attempt when soldiers stormed parliament.",
+    "Spain joined the European Community in 1986 and hosted the Barcelona Olympics in 1992. The Basque separatist group ETA, which killed more than 800 people, ended its violence in 2011. In 2017 Catalonia's government held an independence referendum ruled illegal by the courts, causing a major political crisis."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1100 BC",
+   "title": "Cádiz",
+   "text": "Phoenicians found one of western Europe's oldest cities."
+  },
+  {
+   "year": "218 BC",
+   "title": "Romans arrive",
+   "text": "The conquest of Hispania begins."
+  },
+  {
+   "year": "711",
+   "title": "Muslim conquest",
+   "text": "Al-Andalus is founded."
+  },
+  {
+   "year": "929",
+   "title": "Caliphate of Córdoba",
+   "text": "Córdoba becomes one of Europe's great cities."
+  },
+  {
+   "year": "1469",
+   "title": "Ferdinand and Isabella",
+   "text": "Their marriage unites Castile and Aragon."
+  },
+  {
+   "year": "1492",
+   "title": "Granada and Columbus",
+   "text": "The Reconquista ends; Columbus reaches the Americas."
+  },
+  {
+   "year": "1588",
+   "title": "The Armada",
+   "text": "Philip II's fleet fails to invade England."
+  },
+  {
+   "year": "1605",
+   "title": "Don Quixote",
+   "text": "Cervantes publishes his novel."
+  },
+  {
+   "year": "1808",
+   "title": "Napoleon invades",
+   "text": "War leads to the loss of the American colonies."
+  },
+  {
+   "year": "1898",
+   "title": "Spanish-American War",
+   "text": "Spain loses Cuba, Puerto Rico and the Philippines."
+  },
+  {
+   "year": "1936",
+   "title": "Civil War",
+   "text": "Three years of war begin."
+  },
+  {
+   "year": "1975",
+   "title": "Franco dies",
+   "text": "Juan Carlos becomes king."
+  },
+  {
+   "year": "1978",
+   "title": "Constitution",
+   "text": "Spain becomes a democracy."
+  },
+  {
+   "year": "1986",
+   "title": "Joins the EC",
+   "text": "Spain joins what becomes the EU."
+  },
+  {
+   "year": "1992",
+   "title": "Barcelona Olympics",
+   "text": "Spain hosts the Summer Games."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Al-Andalus",
+   "meaning": "The Arabic name for the parts of the Iberian Peninsula under Muslim rule."
+  },
+  {
+   "term": "Reconquista",
+   "meaning": "The centuries-long Christian conquest of Muslim Spain, completed in 1492."
+  },
+  {
+   "term": "Conquistador",
+   "meaning": "A Spanish soldier who conquered lands in the Americas."
+  },
+  {
+   "term": "Dictator",
+   "meaning": "A ruler with total power who is not chosen in free elections."
+  }
+ ]
+}

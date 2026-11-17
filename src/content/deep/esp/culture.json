@@ -1,0 +1,44 @@
+{
+ "status": "draft",
+ "intro": "Spain gave the world flamenco, tapas, Don Quixote and painters from Velázquez to Picasso. Its festivals are famous for being loud, colourful and sometimes very messy.",
+ "chapters": [
+  {
+   "id": "art",
+   "title": "Art and architecture",
+   "text": [
+    "Spanish painters include Velázquez, whose Las Meninas hangs in Madrid's Prado Museum, Goya, Picasso, Dalí and Miró. In Barcelona, Antoni Gaudí's Sagrada Família basilica has been under construction for more than 140 years.",
+    "Moorish buildings such as the Alhambra in Granada and the Mezquita in Córdoba are among Spain's most visited sights."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Tapas, small dishes shared with friends, are a way of life. Paella comes from Valencia, gazpacho is a cold tomato soup from Andalusia, and the tortilla is a thick potato omelette. Jamón ibérico, cured ham, hangs in bars everywhere.",
+    "At New Year, Spaniards eat 12 grapes, one on each chime of midnight, for good luck."
+   ]
+  },
+  {
+   "id": "festivals",
+   "title": "Music and festivals",
+   "text": [
+    "Flamenco, a passionate style of song, guitar and dance that grew from Andalusia's Roma communities, is on UNESCO's heritage list. Modern stars such as Rosalía mix it with pop.",
+    "At La Tomatina in Buñol, crowds pelt each other with tomatoes, and in Valencia's Las Fallas giant figures are burned in the streets. In Catalonia, teams build castells, human towers up to ten levels high. Bullfighting is still held but is increasingly controversial."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tapas",
+   "meaning": "Small dishes of food, often shared."
+  },
+  {
+   "term": "Flamenco",
+   "meaning": "A style of music and dance from Andalusia."
+  },
+  {
+   "term": "Castell",
+   "meaning": "A human tower built at festivals in Catalonia."
+  }
+ ]
+}

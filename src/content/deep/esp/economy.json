@@ -1,0 +1,38 @@
+{
+ "status": "draft",
+ "intro": "Spain has one of the largest economies in the European Union, powered by tourism, farming, car-making, fashion and fast-growing renewable energy.",
+ "chapters": [
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Spain is one of the most visited countries in the world, with tens of millions of tourists a year coming for beaches, cities, food and festivals. In some places, such as Barcelona and the Canary Islands, residents have protested that mass tourism pushes up rents."
+   ]
+  },
+  {
+   "id": "farming-industry",
+   "title": "Olive oil, cars and fashion",
+   "text": [
+    "Spain produces more olive oil than any other country, and is a major grower of wine, oranges, lemons and vegetables, many grown in vast greenhouses around Almería. It is Europe's second-biggest car producer.",
+    "Inditex, the company behind Zara, is the world's largest fashion retailer, and Santander is one of Europe's largest banks. Spain's high-speed rail network is the longest in Europe."
+   ]
+  },
+  {
+   "id": "energy",
+   "title": "Sun and wind",
+   "text": [
+    "Wind and solar power now produce a large share of Spain's electricity. Unemployment, especially among young people, has long been higher than in most of Europe, though it has fallen in recent years."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Renewable energy",
+   "meaning": "Energy from sources that don't run out, such as sun and wind."
+  },
+  {
+   "term": "Unemployment",
+   "meaning": "Not having a paid job while looking for one."
+  }
+ ]
+}

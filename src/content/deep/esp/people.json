@@ -1,0 +1,46 @@
+{
+ "status": "draft",
+ "intro": "Spain is a country of strong regional identities and several languages, where people eat late, live long and are proud of their towns and festivals.",
+ "chapters": [
+  {
+   "id": "where",
+   "title": "Cities and regions",
+   "text": [
+    "Madrid, the capital, and Barcelona are the largest cities, followed by Valencia, Seville and Zaragoza. Many inland villages have shrunk as people move to cities and the coast, a problem known as 'empty Spain'."
+   ]
+  },
+  {
+   "id": "languages",
+   "title": "Many languages",
+   "text": [
+    "Spanish, also called Castilian, is spoken everywhere. Catalan is official in Catalonia, Valencia and the Balearic Islands, Galician in Galicia, and Basque in the Basque Country and parts of Navarre.",
+    "Basque is a mystery: it is not related to any other known language and may be older than the arrival of Indo-European languages in Europe."
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Daily life",
+   "text": [
+    "Spaniards traditionally eat lunch around 2 or 3 pm and dinner at 9 or 10 pm. Most people have two surnames, one from their father and one from their mother, and women keep their own names when they marry.",
+    "Spain has one of the highest life expectancies in the world and has led the world in organ donation for more than 30 years. Many immigrants have come from Latin America, Morocco and Romania. Most Spaniards are Catholic by tradition, though fewer go to church than in the past."
+   ],
+   "related": [
+    "MAR",
+    "ROU",
+    "COL",
+    "VEN",
+    "ECU"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Castilian",
+   "meaning": "Another name for the Spanish language, from the kingdom of Castile."
+  },
+  {
+   "term": "Language isolate",
+   "meaning": "A language with no known relatives, like Basque."
+  }
+ ]
+}
