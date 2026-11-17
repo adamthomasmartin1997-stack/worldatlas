@@ -76,5 +76,71 @@
    "term": "Secret ballot",
    "meaning": "Voting in private so nobody can see or force how you vote."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Represented by the Governor-General",
+     "text": "Head of state with mostly ceremonial duties."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leader of the House majority",
+     "text": "Leads the government."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "150 members, 3-year terms",
+     "text": "Decides who governs."
+    },
+    {
+     "title": "The Senate",
+     "subtitle": "76 senators",
+     "text": "12 from each state and 2 from each territory; reviews laws."
+    },
+    {
+     "title": "High Court",
+     "subtitle": "7 justices",
+     "text": "Interprets the constitution."
+    },
+    {
+     "title": "States and territories",
+     "subtitle": "Led by premiers and chief ministers",
+     "text": "Run schools, hospitals and police."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "Usually in the House of Representatives."
+   },
+   {
+    "title": "Second reading",
+    "text": "Members debate the main ideas."
+   },
+   {
+    "title": "Committee and vote",
+    "text": "Details are checked and the House votes."
+   },
+   {
+    "title": "The Senate",
+    "text": "The Senate debates, may amend and votes."
+   },
+   {
+    "title": "Royal Assent",
+    "text": "The Governor-General signs it into law."
+   }
+  ]
+ }
 }

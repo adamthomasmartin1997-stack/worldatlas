@@ -49,5 +49,166 @@
    "term": "Bush tucker",
    "meaning": "Native Australian foods, traditionally eaten by Aboriginal peoples."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Mad Max",
+     "subtitle": "1979 · George Miller",
+     "text": "A cop in a lawless future outback; the series later included Fury Road."
+    },
+    {
+     "title": "Crocodile Dundee",
+     "subtitle": "1986 · Peter Faiman",
+     "text": "An outback crocodile hunter visits New York."
+    },
+    {
+     "title": "Babe",
+     "subtitle": "1995 · Chris Noonan",
+     "text": "A pig who wants to be a sheepdog."
+    },
+    {
+     "title": "Rabbit-Proof Fence",
+     "subtitle": "2002 · Phillip Noyce",
+     "text": "Three Aboriginal girls walk home after being taken from their families."
+    },
+    {
+     "title": "Happy Feet",
+     "subtitle": "2006 · George Miller",
+     "text": "A tap-dancing penguin; won the Oscar for best animated film."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Magic Pudding",
+     "subtitle": "1918 · Norman Lindsay",
+     "text": "A grumpy pudding that never runs out."
+    },
+    {
+     "title": "Picnic at Hanging Rock",
+     "subtitle": "1967 · Joan Lindsay",
+     "text": "Schoolgirls vanish on a summer picnic."
+    },
+    {
+     "title": "Possum Magic",
+     "subtitle": "1983 · Mem Fox",
+     "text": "A little invisible possum; a children's classic."
+    },
+    {
+     "title": "The Book Thief",
+     "subtitle": "2005 · Markus Zusak",
+     "text": "A girl in Nazi Germany steals books, narrated by Death."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Waltzing Matilda",
+     "subtitle": "Banjo Paterson, 1895",
+     "text": "Australia's unofficial national song."
+    },
+    {
+     "title": "Highway to Hell",
+     "subtitle": "AC/DC, 1979",
+     "text": "Hard rock from one of the best-selling bands ever."
+    },
+    {
+     "title": "Treaty",
+     "subtitle": "Yothu Yindi, 1991",
+     "text": "A hit sung partly in the Yolŋu language."
+    },
+    {
+     "title": "Can't Get You Out of My Head",
+     "subtitle": "Kylie Minogue, 2001",
+     "text": "A worldwide number one."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Meat pie",
+     "subtitle": "Everywhere",
+     "text": "Eaten at the footy with tomato sauce."
+    },
+    {
+     "title": "Vegemite on toast",
+     "subtitle": "Everywhere",
+     "text": "A salty yeast spread."
+    },
+    {
+     "title": "Lamingtons",
+     "subtitle": "Everywhere",
+     "text": "Sponge squares dipped in chocolate and coconut."
+    },
+    {
+     "title": "Pavlova",
+     "subtitle": "Everywhere",
+     "text": "A meringue dessert also claimed by New Zealand."
+    },
+    {
+     "title": "Sausage sizzle",
+     "subtitle": "Everywhere",
+     "text": "A sausage in bread, sold at fundraisers and on election day."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Australian Open",
+    "text": "The tennis season's first Grand Slam, in Melbourne."
+   },
+   {
+    "month": 1,
+    "name": "Australia Day",
+    "text": "26 January, a public holiday whose date is debated."
+   },
+   {
+    "month": 2,
+    "name": "Sydney Mardi Gras",
+    "text": "A huge LGBTQ+ parade."
+   },
+   {
+    "month": 4,
+    "name": "Anzac Day",
+    "text": "25 April, with dawn services remembering those who served."
+   },
+   {
+    "month": 6,
+    "name": "Vivid Sydney",
+    "text": "Light shows on the Opera House."
+   },
+   {
+    "month": 7,
+    "name": "NAIDOC Week",
+    "text": "Celebrating Aboriginal and Torres Strait Islander cultures."
+   },
+   {
+    "month": 11,
+    "name": "Melbourne Cup",
+    "text": "'The race that stops a nation'."
+   },
+   {
+    "month": 12,
+    "name": "New Year's Eve",
+    "text": "Fireworks over Sydney Harbour Bridge."
+   }
+  ]
+ }
 }

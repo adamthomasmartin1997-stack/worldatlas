@@ -74,5 +74,71 @@
    "term": "Peacekeeping",
    "meaning": "International forces sent to keep the peace between sides after a conflict."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Represented by the Governor General",
+     "text": "Head of state with ceremonial duties."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leader of the party with most support in the Commons",
+     "text": "Leads the government."
+    },
+    {
+     "title": "House of Commons",
+     "subtitle": "343 MPs elected at least every 5 years",
+     "text": "Makes laws and decides who governs."
+    },
+    {
+     "title": "The Senate",
+     "subtitle": "105 appointed senators",
+     "text": "Reviews laws; members serve until 75."
+    },
+    {
+     "title": "Supreme Court",
+     "subtitle": "9 judges",
+     "text": "Interprets the constitution and the Charter of Rights."
+    },
+    {
+     "title": "Provinces and territories",
+     "subtitle": "Led by premiers",
+     "text": "Run schools, hospitals and natural resources."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "First reading",
+    "text": "A bill is introduced, usually by the government."
+   },
+   {
+    "title": "Second reading and committee",
+    "text": "MPs debate the idea; a committee studies the details."
+   },
+   {
+    "title": "Third reading",
+    "text": "The Commons votes on the final text."
+   },
+   {
+    "title": "The Senate",
+    "text": "Senators go through the same steps."
+   },
+   {
+    "title": "Royal Assent",
+    "text": "The Governor General gives assent and the bill becomes law."
+   }
+  ]
+ }
 }

@@ -56,5 +56,96 @@
    "term": "Enclave",
    "meaning": "A country or area completely surrounded by another country."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Italy's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Gran Paradiso",
+    "kind": "mountains",
+    "lat": 45.52,
+    "lon": 7.27,
+    "text": "Italy's oldest national park, created to protect the Alpine ibex."
+   },
+   {
+    "name": "Lake Como",
+    "kind": "lake",
+    "lat": 46.0,
+    "lon": 9.25,
+    "text": "A deep, Y-shaped lake ringed by villages and villas."
+   },
+   {
+    "name": "Lake Garda",
+    "kind": "lake",
+    "lat": 45.63,
+    "lon": 10.67,
+    "text": "Italy's largest lake."
+   },
+   {
+    "name": "Dolomites",
+    "kind": "mountains",
+    "lat": 46.62,
+    "lon": 12.3,
+    "text": "Pale, jagged peaks such as the Tre Cime di Lavaredo."
+   },
+   {
+    "name": "Venice Lagoon",
+    "kind": "lagoon",
+    "lat": 45.43,
+    "lon": 12.33,
+    "text": "The city of canals sits on islands in a shallow lagoon."
+   },
+   {
+    "name": "Po Delta",
+    "kind": "wetland",
+    "lat": 44.95,
+    "lon": 12.4,
+    "text": "Where Italy's longest river reaches the Adriatic."
+   },
+   {
+    "name": "Cinque Terre",
+    "kind": "coast",
+    "lat": 44.13,
+    "lon": 9.71,
+    "text": "Five colourful villages clinging to cliffs above the sea."
+   },
+   {
+    "name": "Val d'Orcia",
+    "kind": "hills",
+    "lat": 43.06,
+    "lon": 11.6,
+    "text": "Tuscan hills of cypress trees and vineyards."
+   },
+   {
+    "name": "Vesuvius",
+    "kind": "volcano",
+    "lat": 40.82,
+    "lon": 14.43,
+    "text": "The volcano that buried Pompeii, still active above Naples."
+   },
+   {
+    "name": "Amalfi Coast",
+    "kind": "coast",
+    "lat": 40.63,
+    "lon": 14.6,
+    "text": "Steep cliffs with towns of lemon groves and terraces."
+   },
+   {
+    "name": "Mount Etna",
+    "kind": "volcano",
+    "lat": 37.75,
+    "lon": 14.99,
+    "text": "Europe's highest active volcano, on Sicily."
+   },
+   {
+    "name": "Costa Smeralda",
+    "kind": "coast",
+    "lat": 41.1,
+    "lon": 9.55,
+    "text": "Turquoise bays on the island of Sardinia."
+   }
+  ]
+ }
 }

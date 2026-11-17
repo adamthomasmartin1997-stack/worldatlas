@@ -48,5 +48,89 @@
    "term": "Marsupial",
    "meaning": "A mammal whose young develop in a pouch, like a kangaroo."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Australia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Kakadu",
+    "kind": "wetlands and rock art",
+    "lat": -12.8,
+    "lon": 132.5,
+    "text": "Floodplains, crocodiles and ancient Aboriginal rock art."
+   },
+   {
+    "name": "Bungle Bungles",
+    "kind": "rock domes",
+    "lat": -17.5,
+    "lon": 128.3,
+    "text": "Striped beehive-shaped sandstone domes."
+   },
+   {
+    "name": "Shark Bay",
+    "kind": "coast",
+    "lat": -25.8,
+    "lon": 113.7,
+    "text": "Home to dugongs and some of the oldest life forms on Earth."
+   },
+   {
+    "name": "Uluru",
+    "kind": "rock",
+    "lat": -25.344,
+    "lon": 131.036,
+    "text": "A giant sacred sandstone rock in the red centre."
+   },
+   {
+    "name": "Kati Thanda-Lake Eyre",
+    "kind": "salt lake",
+    "lat": -28.37,
+    "lon": 137.37,
+    "text": "Australia's lowest point, a salt lake that rarely fills."
+   },
+   {
+    "name": "Daintree Rainforest",
+    "kind": "rainforest",
+    "lat": -16.17,
+    "lon": 145.42,
+    "text": "One of the oldest rainforests on Earth."
+   },
+   {
+    "name": "Great Barrier Reef",
+    "kind": "coral reef",
+    "lat": -18.29,
+    "lon": 147.7,
+    "text": "The world's largest coral reef system."
+   },
+   {
+    "name": "Blue Mountains",
+    "kind": "mountains",
+    "lat": -33.7,
+    "lon": 150.3,
+    "text": "Eucalyptus forests that give off a blue haze."
+   },
+   {
+    "name": "Mount Kosciuszko",
+    "kind": "mountain",
+    "lat": -36.456,
+    "lon": 148.263,
+    "text": "The highest point on the Australian mainland."
+   },
+   {
+    "name": "Twelve Apostles",
+    "kind": "coast",
+    "lat": -38.66,
+    "lon": 143.1,
+    "text": "Limestone stacks along the Great Ocean Road."
+   },
+   {
+    "name": "Cradle Mountain",
+    "kind": "mountains",
+    "lat": -41.68,
+    "lon": 145.95,
+    "text": "Tasmania's wilderness of lakes and rugged peaks."
+   }
+  ]
+ }
 }

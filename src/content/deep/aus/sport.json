@@ -46,5 +46,163 @@
    "term": "State of Origin",
    "meaning": "A yearly rugby league series between New South Wales and Queensland."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "AFL",
+     "subtitle": "Australian rules football · since 1897",
+     "text": "Carlton, Collingwood and Essendon share the record for most premierships."
+    },
+    {
+     "title": "NRL",
+     "subtitle": "Rugby league",
+     "text": "South Sydney Rabbitohs have won the most titles."
+    },
+    {
+     "title": "A-League",
+     "subtitle": "Football",
+     "text": "Men's and women's professional leagues."
+    },
+    {
+     "title": "Sheffield Shield and Big Bash",
+     "subtitle": "Cricket",
+     "text": "First-class cricket since 1892, and fast T20 games."
+    },
+    {
+     "title": "Super Netball",
+     "subtitle": "Netball",
+     "text": "One of the world's best netball leagues."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Don Bradman",
+     "subtitle": "Cricket",
+     "text": "Test batting average of 99.94."
+    },
+    {
+     "title": "Dawn Fraser",
+     "subtitle": "Swimming",
+     "text": "Won the 100 m freestyle at three Olympics in a row."
+    },
+    {
+     "title": "Rod Laver",
+     "subtitle": "Tennis",
+     "text": "Won all four Grand Slams in one year, twice."
+    },
+    {
+     "title": "Cathy Freeman",
+     "subtitle": "Athletics",
+     "text": "Won the 400 m at the Sydney 2000 Olympics."
+    },
+    {
+     "title": "Ian Thorpe",
+     "subtitle": "Swimming",
+     "text": "Five Olympic gold medals."
+    },
+    {
+     "title": "Ash Barty",
+     "subtitle": "Tennis",
+     "text": "Three Grand Slam titles and world number one."
+    },
+    {
+     "title": "Kurt Fearnley",
+     "subtitle": "Wheelchair racing",
+     "text": "Paralympic champion and marathon winner."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Australia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Melbourne: MCG and Rod Laver Arena",
+    "kind": "venue",
+    "lat": -37.82,
+    "lon": 144.983,
+    "text": "The 100,000-seat MCG and the home of the Australian Open."
+   },
+   {
+    "name": "Sydney: SCG and Stadium Australia",
+    "kind": "venue",
+    "lat": -33.89,
+    "lon": 151.22,
+    "text": "Cricket's SCG and the 2000 Olympic stadium."
+   },
+   {
+    "name": "The Gabba, Brisbane",
+    "kind": "venue",
+    "lat": -27.486,
+    "lon": 153.038,
+    "text": "Famous cricket ground and future Olympic city."
+   },
+   {
+    "name": "Adelaide Oval",
+    "kind": "venue",
+    "lat": -34.916,
+    "lon": 138.596,
+    "text": "One of the world's most beautiful cricket grounds."
+   },
+   {
+    "name": "Perth Stadium",
+    "kind": "venue",
+    "lat": -31.951,
+    "lon": 115.889,
+    "text": "A 60,000-seat stadium on the Swan River."
+   },
+   {
+    "name": "Mount Panorama, Bathurst",
+    "kind": "venue",
+    "lat": -33.448,
+    "lon": 149.556,
+    "text": "Home of the Bathurst 1000 car race."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1877",
+    "title": "First Test match",
+    "text": "Australia beats England at the MCG."
+   },
+   {
+    "year": "1956",
+    "title": "Melbourne Olympics",
+    "text": "The first Olympics in the Southern Hemisphere."
+   },
+   {
+    "year": "1983",
+    "title": "America's Cup",
+    "text": "Australia II ends 132 years of American wins."
+   },
+   {
+    "year": "2000",
+    "title": "Sydney Olympics",
+    "text": "Cathy Freeman lights the flame and wins gold."
+   },
+   {
+    "year": "2023",
+    "title": "Matildas fever",
+    "text": "The women's team reaches the World Cup semi-finals at home."
+   },
+   {
+    "year": "2032",
+    "title": "Brisbane Olympics",
+    "text": "The next Olympics in Australia."
+   }
+  ]
+ }
 }

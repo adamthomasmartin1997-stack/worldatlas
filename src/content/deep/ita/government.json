@@ -68,5 +68,75 @@
    "term": "Organised crime",
    "meaning": "Criminal groups that run illegal businesses over long periods, often using violence and bribery."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 7 years by Parliament and regional delegates",
+     "text": "Head of state; appoints the Prime Minister and can dissolve Parliament."
+    },
+    {
+     "title": "The Prime Minister and Council of Ministers",
+     "subtitle": "Need the confidence of both chambers",
+     "text": "Run the government."
+    },
+    {
+     "title": "Chamber of Deputies",
+     "subtitle": "400 members",
+     "text": "One of two equal chambers of Parliament."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "200 elected senators plus a few for life",
+     "text": "Has almost the same powers as the Chamber."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "15 judges, 9-year terms",
+     "text": "Checks that laws follow the constitution."
+    },
+    {
+     "title": "Regions and comuni",
+     "subtitle": "20 regions, about 7,900 municipalities",
+     "text": "Run health care, transport and local services."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government, members of Parliament, a region or 50,000 citizens."
+   },
+   {
+    "title": "Committee",
+    "text": "A committee of the first chamber studies it."
+   },
+   {
+    "title": "First chamber vote",
+    "text": "The Chamber or Senate approves it."
+   },
+   {
+    "title": "Second chamber vote",
+    "text": "The other chamber must approve exactly the same text."
+   },
+   {
+    "title": "The President signs",
+    "text": "The President can send it back once for reconsideration."
+   },
+   {
+    "title": "Referendum",
+    "text": "With 500,000 signatures, citizens can call a vote to cancel a law."
+   }
+  ]
+ }
 }

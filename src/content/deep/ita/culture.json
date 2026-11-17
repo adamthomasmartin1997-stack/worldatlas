@@ -44,5 +44,181 @@
    "term": "Fresco",
    "meaning": "A painting made on wet plaster, like the Sistine Chapel ceiling."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Bicycle Thieves",
+     "subtitle": "1948 · Vittorio De Sica",
+     "text": "A poor father searches Rome for his stolen bicycle."
+    },
+    {
+     "title": "La Dolce Vita",
+     "subtitle": "1960 · Federico Fellini",
+     "text": "A journalist drifts through glamorous Roman nightlife."
+    },
+    {
+     "title": "The Good, the Bad and the Ugly",
+     "subtitle": "1966 · Sergio Leone",
+     "text": "A famous 'spaghetti western' with music by Ennio Morricone."
+    },
+    {
+     "title": "Cinema Paradiso",
+     "subtitle": "1988 · Giuseppe Tornatore",
+     "text": "A boy's love of films in a Sicilian village."
+    },
+    {
+     "title": "Life Is Beautiful",
+     "subtitle": "1997 · Roberto Benigni",
+     "text": "A father protects his son with imagination in a concentration camp."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Divine Comedy",
+     "subtitle": "1300s · Dante Alighieri",
+     "text": "A journey through Hell, Purgatory and Heaven."
+    },
+    {
+     "title": "The Adventures of Pinocchio",
+     "subtitle": "1883 · Carlo Collodi",
+     "text": "A wooden puppet whose nose grows when he lies."
+    },
+    {
+     "title": "Invisible Cities",
+     "subtitle": "1972 · Italo Calvino",
+     "text": "Marco Polo describes imaginary cities to Kublai Khan."
+    },
+    {
+     "title": "The Name of the Rose",
+     "subtitle": "1980 · Umberto Eco",
+     "text": "A murder mystery in a medieval monastery."
+    },
+    {
+     "title": "My Brilliant Friend",
+     "subtitle": "2011 · Elena Ferrante",
+     "text": "Two girls grow up in a poor district of Naples."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "The Four Seasons",
+     "subtitle": "Antonio Vivaldi, 1725",
+     "text": "Four violin concertos that paint spring, summer, autumn and winter."
+    },
+    {
+     "title": "La donna è mobile",
+     "subtitle": "Giuseppe Verdi, 1851",
+     "text": "A catchy aria from the opera Rigoletto."
+    },
+    {
+     "title": "Nessun dorma",
+     "subtitle": "Giacomo Puccini, 1926",
+     "text": "Made world-famous by Luciano Pavarotti at the 1990 World Cup."
+    },
+    {
+     "title": "Volare",
+     "subtitle": "Domenico Modugno, 1958",
+     "text": "An Italian song that topped the US charts."
+    },
+    {
+     "title": "Zitti e buoni",
+     "subtitle": "Måneskin, 2021",
+     "text": "The rock song that won Eurovision."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Pizza napoletana",
+     "subtitle": "Naples",
+     "text": "Thin, soft pizza baked in a wood-fired oven."
+    },
+    {
+     "title": "Carbonara",
+     "subtitle": "Rome",
+     "text": "Pasta with egg, cheese, pepper and cured pork cheek."
+    },
+    {
+     "title": "Risotto alla milanese",
+     "subtitle": "Milan",
+     "text": "Creamy rice coloured with saffron."
+    },
+    {
+     "title": "Lasagne",
+     "subtitle": "Emilia-Romagna",
+     "text": "Layers of pasta, ragù and béchamel."
+    },
+    {
+     "title": "Tiramisu",
+     "subtitle": "Veneto",
+     "text": "Coffee-soaked biscuits with mascarpone cream."
+    },
+    {
+     "title": "Gelato",
+     "subtitle": "Everywhere",
+     "text": "Dense, smooth Italian ice cream."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "La Befana",
+    "text": "A kind witch brings sweets to children on 6 January."
+   },
+   {
+    "month": 2,
+    "name": "Venice Carnival",
+    "text": "Masks and costumes in Venice."
+   },
+   {
+    "month": 2,
+    "name": "Sanremo Music Festival",
+    "text": "Italy's biggest song contest."
+   },
+   {
+    "month": 6,
+    "name": "Republic Day",
+    "text": "2 June marks the 1946 vote to become a republic."
+   },
+   {
+    "month": 7,
+    "name": "Palio di Siena",
+    "text": "A wild horse race around Siena's main square, also held in August."
+   },
+   {
+    "month": 8,
+    "name": "Ferragosto",
+    "text": "15 August, Italy's big summer holiday."
+   },
+   {
+    "month": 9,
+    "name": "Venice Film Festival",
+    "text": "The world's oldest film festival, starting in late August."
+   },
+   {
+    "month": 12,
+    "name": "Nativity scenes",
+    "text": "Naples is famous for hand-made Christmas cribs."
+   }
+  ]
+ }
 }

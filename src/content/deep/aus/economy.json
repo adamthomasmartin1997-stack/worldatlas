@@ -42,5 +42,54 @@
    "term": "Station",
    "meaning": "In Australia, a very large farm, often raising cattle or sheep."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Australia",
+   "items": [
+    {
+     "title": "Iron ore",
+     "subtitle": "Western Australia",
+     "text": "The world's largest exporter, mostly to China."
+    },
+    {
+     "title": "Coal and gas",
+     "subtitle": "Queensland, Western Australia",
+     "text": "Major energy exports to Asia."
+    },
+    {
+     "title": "Gold and lithium",
+     "subtitle": "Western Australia",
+     "text": "Australia mines more lithium than any other country."
+    },
+    {
+     "title": "Wool and beef",
+     "subtitle": "The outback",
+     "text": "The world's biggest wool producer."
+    },
+    {
+     "title": "Wine",
+     "subtitle": "Barossa Valley and beyond",
+     "text": "Australian wine is sold worldwide."
+    },
+    {
+     "title": "Education",
+     "subtitle": "Universities",
+     "text": "Hundreds of thousands of international students."
+    },
+    {
+     "title": "Design software",
+     "subtitle": "Canva",
+     "text": "Founded in Sydney in 2013."
+    },
+    {
+     "title": "The Aussie dollar",
+     "subtitle": "Since 1966",
+     "text": "Printed on plastic notes, an Australian invention."
+    }
+   ],
+   "intro": "Some of the things Australia makes and sells to the world."
+  }
  ]
 }

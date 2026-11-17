@@ -44,5 +44,156 @@
    "term": "Powwow",
    "meaning": "A gathering of First Nations people with music, dancing and celebration."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Sweet Hereafter",
+     "subtitle": "1997 · Atom Egoyan",
+     "text": "A small town copes after a school bus accident."
+    },
+    {
+     "title": "Atanarjuat: The Fast Runner",
+     "subtitle": "2001 · Zacharias Kunuk",
+     "text": "The first feature film written and acted in Inuktitut."
+    },
+    {
+     "title": "Incendies",
+     "subtitle": "2010 · Denis Villeneuve",
+     "text": "Twins uncover their mother's past."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Anne of Green Gables",
+     "subtitle": "1908 · L. M. Montgomery",
+     "text": "An imaginative orphan girl on Prince Edward Island."
+    },
+    {
+     "title": "The Handmaid's Tale",
+     "subtitle": "1985 · Margaret Atwood",
+     "text": "A chilling story of a society that controls women."
+    },
+    {
+     "title": "Life of Pi",
+     "subtitle": "2001 · Yann Martel",
+     "text": "A boy shares a lifeboat with a Bengal tiger."
+    },
+    {
+     "title": "The Book of Negroes",
+     "subtitle": "2007 · Lawrence Hill",
+     "text": "An enslaved woman's journey from Africa to Nova Scotia."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Big Yellow Taxi",
+     "subtitle": "Joni Mitchell, 1970",
+     "text": "'They paved paradise and put up a parking lot.'"
+    },
+    {
+     "title": "Hallelujah",
+     "subtitle": "Leonard Cohen, 1984",
+     "text": "Covered by hundreds of artists."
+    },
+    {
+     "title": "My Heart Will Go On",
+     "subtitle": "Celine Dion, 1997",
+     "text": "The theme of the film Titanic."
+    },
+    {
+     "title": "Blinding Lights",
+     "subtitle": "The Weeknd, 2019",
+     "text": "One of the most-streamed songs ever."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Poutine",
+     "subtitle": "Quebec",
+     "text": "Chips, cheese curds and gravy."
+    },
+    {
+     "title": "Maple syrup",
+     "subtitle": "Quebec and Ontario",
+     "text": "Poured on pancakes, or as maple taffy on snow."
+    },
+    {
+     "title": "Butter tarts",
+     "subtitle": "Ontario",
+     "text": "Pastry with a gooey sweet filling."
+    },
+    {
+     "title": "Nanaimo bars",
+     "subtitle": "British Columbia",
+     "text": "A no-bake layered chocolate slice."
+    },
+    {
+     "title": "Tourtière",
+     "subtitle": "Quebec",
+     "text": "A spiced meat pie eaten at Christmas."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Quebec Winter Carnival",
+    "text": "Ice palaces and canoe races on the frozen river."
+   },
+   {
+    "month": 2,
+    "name": "Winterlude",
+    "text": "Skating on Ottawa's frozen Rideau Canal."
+   },
+   {
+    "month": 3,
+    "name": "Sugar shacks",
+    "text": "Maple syrup season."
+   },
+   {
+    "month": 6,
+    "name": "National Indigenous Peoples Day",
+    "text": "21 June celebrates First Nations, Inuit and Métis cultures."
+   },
+   {
+    "month": 7,
+    "name": "Canada Day",
+    "text": "1 July, with fireworks and red and white everywhere."
+   },
+   {
+    "month": 7,
+    "name": "Calgary Stampede",
+    "text": "A giant rodeo and festival."
+   },
+   {
+    "month": 9,
+    "name": "Truth and Reconciliation Day",
+    "text": "30 September remembers residential school survivors."
+   },
+   {
+    "month": 10,
+    "name": "Thanksgiving",
+    "text": "Celebrated on the second Monday of October."
+   }
+  ]
+ }
 }

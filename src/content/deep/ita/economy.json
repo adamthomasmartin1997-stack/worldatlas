@@ -41,5 +41,54 @@
    "term": "Government debt",
    "meaning": "Money a government has borrowed and must pay back with interest."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Italy",
+   "items": [
+    {
+     "title": "Fashion",
+     "subtitle": "Gucci, Prada, Armani, Versace",
+     "text": "Milan is one of the world's fashion capitals."
+    },
+    {
+     "title": "Sports cars",
+     "subtitle": "Ferrari, Lamborghini, Maserati",
+     "text": "Many are built around Modena in 'Motor Valley'."
+    },
+    {
+     "title": "Scooters and motorbikes",
+     "subtitle": "Vespa, Ducati",
+     "text": "Italian two-wheelers are style icons."
+    },
+    {
+     "title": "Food",
+     "subtitle": "Pasta, Parmigiano Reggiano, olive oil",
+     "text": "Many products have protected names tied to their region."
+    },
+    {
+     "title": "Wine",
+     "subtitle": "Prosecco, Chianti, Barolo",
+     "text": "Italy is one of the world's biggest wine producers."
+    },
+    {
+     "title": "Coffee",
+     "subtitle": "Lavazza, illy, Bialetti",
+     "text": "The stovetop moka pot was invented in Italy in 1933."
+    },
+    {
+     "title": "Glasses",
+     "subtitle": "Luxottica",
+     "text": "The company behind many of the world's best-known eyewear brands."
+    },
+    {
+     "title": "The euro",
+     "subtitle": "Since 2002",
+     "text": "Italy swapped the lira for the euro."
+    }
+   ],
+   "intro": "Some of the things Italy makes and sells to the world."
+  }
  ]
 }

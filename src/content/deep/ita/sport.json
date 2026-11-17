@@ -42,5 +42,163 @@
    "term": "Tifosi",
    "meaning": "Italian for passionate sports fans."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Serie A",
+     "subtitle": "Football",
+     "text": "Italy's top league; Juventus have won more titles than any other club."
+    },
+    {
+     "title": "Giro d'Italia",
+     "subtitle": "Cycling · since 1909",
+     "text": "Three weeks of racing each May; the leader wears pink."
+    },
+    {
+     "title": "SuperLega",
+     "subtitle": "Volleyball",
+     "text": "One of the strongest volleyball leagues in the world."
+    },
+    {
+     "title": "Lega Basket Serie A",
+     "subtitle": "Basketball",
+     "text": "Olimpia Milano is the most successful club."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Fausto Coppi",
+     "subtitle": "Cycling",
+     "text": "Won the Giro five times and the Tour twice."
+    },
+    {
+     "title": "Paolo Maldini",
+     "subtitle": "Football",
+     "text": "Won five European Cups with AC Milan."
+    },
+    {
+     "title": "Alberto Tomba",
+     "subtitle": "Skiing",
+     "text": "Won three Olympic golds."
+    },
+    {
+     "title": "Valentino Rossi",
+     "subtitle": "Motorcycling",
+     "text": "Nine-time world champion."
+    },
+    {
+     "title": "Federica Pellegrini",
+     "subtitle": "Swimming",
+     "text": "Olympic and world champion in the 200 m freestyle."
+    },
+    {
+     "title": "Bebe Vio",
+     "subtitle": "Wheelchair fencing",
+     "text": "Two-time Paralympic champion."
+    },
+    {
+     "title": "Jannik Sinner",
+     "subtitle": "Tennis",
+     "text": "World number one and multiple Grand Slam winner."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Italy's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "San Siro, Milan",
+    "kind": "venue",
+    "lat": 45.478,
+    "lon": 9.124,
+    "text": "Shared by AC Milan and Inter, and the 2026 Olympic opening venue."
+   },
+   {
+    "name": "Monza",
+    "kind": "venue",
+    "lat": 45.62,
+    "lon": 9.29,
+    "text": "The 'Temple of Speed', home of the Italian Grand Prix."
+   },
+   {
+    "name": "Stadio Olimpico, Rome",
+    "kind": "venue",
+    "lat": 41.934,
+    "lon": 12.455,
+    "text": "Main stadium of the 1960 Olympics."
+   },
+   {
+    "name": "Mugello",
+    "kind": "venue",
+    "lat": 43.997,
+    "lon": 11.372,
+    "text": "A Tuscan circuit famous for MotoGP."
+   },
+   {
+    "name": "Piazza del Campo, Siena",
+    "kind": "venue",
+    "lat": 43.318,
+    "lon": 11.332,
+    "text": "Where the Palio horse race is run."
+   },
+   {
+    "name": "Cortina d'Ampezzo",
+    "kind": "venue",
+    "lat": 46.54,
+    "lon": 12.14,
+    "text": "Co-host of the 1956 and 2026 Winter Olympics."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1909",
+    "title": "First Giro d'Italia",
+    "text": "The great bike race begins."
+   },
+   {
+    "year": "1934",
+    "title": "World champions at home",
+    "text": "Italy wins its first World Cup."
+   },
+   {
+    "year": "1960",
+    "title": "Rome Olympics",
+    "text": "Rome hosts the Summer Games."
+   },
+   {
+    "year": "1982",
+    "title": "Paolo Rossi",
+    "text": "Italy wins its third World Cup."
+   },
+   {
+    "year": "2006",
+    "title": "World champions again",
+    "text": "Italy beats France on penalties in Berlin."
+   },
+   {
+    "year": "2021",
+    "title": "Summer of triumph",
+    "text": "Italy wins the Euros and Olympic 100 m gold."
+   },
+   {
+    "year": "2026",
+    "title": "Milan-Cortina",
+    "text": "Italy hosts the Winter Olympics."
+   }
+  ]
+ }
 }

@@ -52,5 +52,89 @@
    "term": "Tundra",
    "meaning": "Cold, treeless land in the far north where the ground below the surface stays frozen."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Canada's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Mount Logan",
+    "kind": "mountain",
+    "lat": 60.57,
+    "lon": -140.4,
+    "text": "Canada's highest mountain, in Yukon."
+   },
+   {
+    "name": "Haida Gwaii",
+    "kind": "islands",
+    "lat": 53.25,
+    "lon": -132.0,
+    "text": "Rainforest islands that are the home of the Haida Nation."
+   },
+   {
+    "name": "Banff and Lake Louise",
+    "kind": "mountains and lakes",
+    "lat": 51.42,
+    "lon": -116.18,
+    "text": "Turquoise lakes in Canada's first national park, in the Rockies."
+   },
+   {
+    "name": "Nahanni",
+    "kind": "river canyons",
+    "lat": 61.6,
+    "lon": -125.74,
+    "text": "Wild canyons and Virginia Falls, twice the height of Niagara."
+   },
+   {
+    "name": "Great Bear Lake",
+    "kind": "lake",
+    "lat": 66.0,
+    "lon": -121.0,
+    "text": "The largest lake entirely in Canada, crossed by the Arctic Circle."
+   },
+   {
+    "name": "The Prairies",
+    "kind": "grassland",
+    "lat": 52.0,
+    "lon": -106.0,
+    "text": "Flat farmland of wheat and canola."
+   },
+   {
+    "name": "Churchill",
+    "kind": "Arctic coast",
+    "lat": 58.77,
+    "lon": -94.17,
+    "text": "The 'polar bear capital of the world' on Hudson Bay."
+   },
+   {
+    "name": "Algonquin Park",
+    "kind": "forest and lakes",
+    "lat": 45.55,
+    "lon": -78.4,
+    "text": "Lakes and forests of the Canadian Shield."
+   },
+   {
+    "name": "Niagara Falls",
+    "kind": "waterfall",
+    "lat": 43.08,
+    "lon": -79.08,
+    "text": "The Horseshoe Falls are mostly on the Canadian side."
+   },
+   {
+    "name": "Bay of Fundy",
+    "kind": "coast",
+    "lat": 45.3,
+    "lon": -64.9,
+    "text": "The highest tides in the world."
+   },
+   {
+    "name": "Gros Morne",
+    "kind": "mountains and fjords",
+    "lat": 49.6,
+    "lon": -57.75,
+    "text": "Rocks from deep inside the Earth exposed in Newfoundland."
+   }
+  ]
+ }
 }

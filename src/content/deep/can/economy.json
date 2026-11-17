@@ -45,5 +45,54 @@
    "term": "Hydroelectricity",
    "meaning": "Electricity made by water flowing through turbines in a dam."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Canada",
+   "items": [
+    {
+     "title": "Oil and gas",
+     "subtitle": "Alberta",
+     "text": "Canada has some of the world's largest oil reserves."
+    },
+    {
+     "title": "Wood and paper",
+     "subtitle": "British Columbia, Quebec",
+     "text": "Forests supply timber and pulp."
+    },
+    {
+     "title": "Wheat and canola",
+     "subtitle": "The Prairies",
+     "text": "Major food exports."
+    },
+    {
+     "title": "Potash",
+     "subtitle": "Saskatchewan",
+     "text": "Canada produces more of this fertiliser than any other country."
+    },
+    {
+     "title": "Maple syrup",
+     "subtitle": "Quebec",
+     "text": "Most of the world's maple syrup comes from Quebec."
+    },
+    {
+     "title": "Aerospace",
+     "subtitle": "Bombardier, Canadarm",
+     "text": "Business jets and robotic arms for space."
+    },
+    {
+     "title": "Online shopping tech",
+     "subtitle": "Shopify",
+     "text": "Powers millions of online shops."
+    },
+    {
+     "title": "The loonie",
+     "subtitle": "Canadian dollar",
+     "text": "Named after the bird on the $1 coin."
+    }
+   ],
+   "intro": "Some of the things Canada makes and sells to the world."
+  }
  ]
 }

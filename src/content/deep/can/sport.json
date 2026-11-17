@@ -46,5 +46,151 @@
    "term": "Down",
    "meaning": "In North American football, one attempt to move the ball forward."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "NHL",
+     "subtitle": "Ice hockey",
+     "text": "Canada's seven teams chase the Stanley Cup; the Montreal Canadiens have won it most."
+    },
+    {
+     "title": "CFL",
+     "subtitle": "Canadian football",
+     "text": "Teams compete for the Grey Cup, first awarded in 1909."
+    },
+    {
+     "title": "PWHL",
+     "subtitle": "Women's ice hockey · since 2024",
+     "text": "A professional league with Canadian and American teams."
+    },
+    {
+     "title": "NBA and MLB",
+     "subtitle": "Basketball and baseball",
+     "text": "The Toronto Raptors and Blue Jays play in US leagues."
+    },
+    {
+     "title": "NLL",
+     "subtitle": "Lacrosse",
+     "text": "The professional box-lacrosse league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Wayne Gretzky",
+     "subtitle": "Ice hockey",
+     "text": "'The Great One', holder of dozens of NHL records."
+    },
+    {
+     "title": "Terry Fox",
+     "subtitle": "Running",
+     "text": "Ran a marathon a day across Canada on an artificial leg."
+    },
+    {
+     "title": "Hayley Wickenheiser",
+     "subtitle": "Ice hockey",
+     "text": "Won four Olympic gold medals."
+    },
+    {
+     "title": "Sidney Crosby",
+     "subtitle": "Ice hockey",
+     "text": "Scored the 'golden goal' at the 2010 Olympics."
+    },
+    {
+     "title": "Christine Sinclair",
+     "subtitle": "Football",
+     "text": "Has scored more international goals than any other player."
+    },
+    {
+     "title": "Donovan Bailey",
+     "subtitle": "Athletics",
+     "text": "Won the 1996 Olympic 100 m in a world record."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Canada's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Montreal: Bell Centre and Olympic Stadium",
+    "kind": "venue",
+    "lat": 45.52,
+    "lon": -73.57,
+    "text": "Home of the Canadiens and venue of the 1976 Olympics."
+   },
+   {
+    "name": "Toronto: Scotiabank Arena and Rogers Centre",
+    "kind": "venue",
+    "lat": 43.643,
+    "lon": -79.379,
+    "text": "Home of the Maple Leafs, Raptors and Blue Jays."
+   },
+   {
+    "name": "BC Place, Vancouver",
+    "kind": "venue",
+    "lat": 49.277,
+    "lon": -123.112,
+    "text": "Stadium of the 2010 Winter Olympics ceremonies."
+   },
+   {
+    "name": "Whistler",
+    "kind": "venue",
+    "lat": 50.116,
+    "lon": -122.957,
+    "text": "Ski venues of the 2010 Olympics."
+   },
+   {
+    "name": "Calgary",
+    "kind": "venue",
+    "lat": 51.04,
+    "lon": -114.05,
+    "text": "Host of the 1988 Winter Olympics."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1875",
+    "title": "First indoor hockey game",
+    "text": "Played in Montreal."
+   },
+   {
+    "year": "1972",
+    "title": "Summit Series",
+    "text": "Paul Henderson's goal beats the Soviet Union."
+   },
+   {
+    "year": "1976",
+    "title": "Montreal Olympics",
+    "text": "Canada hosts the Summer Games."
+   },
+   {
+    "year": "1993",
+    "title": "Blue Jays repeat",
+    "text": "Toronto wins a second World Series in a row."
+   },
+   {
+    "year": "2010",
+    "title": "Vancouver golds",
+    "text": "Canada wins 14 golds at home."
+   },
+   {
+    "year": "2019",
+    "title": "Raptors champions",
+    "text": "Canada's first NBA title."
+   }
+  ]
+ }
 }
