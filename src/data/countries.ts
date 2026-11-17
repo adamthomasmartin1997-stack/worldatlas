@@ -68,7 +68,7 @@ export interface Country {
 import orgs from './organisations.json';
 export const ORGANISATIONS: Record<string, { name: string; text: string; url: string; the: boolean }> = orgs;
 
-export type IndicatorKey = 'literacy' | 'internet' | 'urban' | 'co2' | 'forest';
+export type IndicatorKey = 'literacy' | 'internet' | 'urban' | 'co2' | 'forest' | 'farmland' | 'rainfall';
 /** World averages for the same indicators, for comparison. */
 export const WORLD: Partial<Record<IndicatorKey, Fact>> = (raw as unknown as { world?: Partial<Record<IndicatorKey, Fact>> }).world ?? {};
 

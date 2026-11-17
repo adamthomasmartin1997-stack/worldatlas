@@ -28,6 +28,8 @@ export const INDICATORS = {
   'SP.URB.TOTL.IN.ZS': { key: 'urban', label: 'People living in towns and cities', unit: '% of population', since: 2000 },
   'EN.GHG.CO2.PC.CE.AR5': { key: 'co2', label: 'CO₂ emissions per person', unit: 'tonnes per person', since: 2000 },
   'AG.LND.FRST.ZS': { key: 'forest', label: 'Forest cover', unit: '% of land area', since: 2000 },
+  'AG.LND.AGRI.ZS': { key: 'farmland', label: 'Farmland', unit: '% of land area', since: 2000 },
+  'AG.LND.PRCP.MM': { key: 'rainfall', label: 'Average rainfall', unit: 'mm per year', since: 1990 },
   'AG.SRF.TOTL.K2': { key: 'surfaceArea', label: 'Surface area', unit: 'km²' },
 };
 

@@ -227,7 +227,7 @@ function Profile({ c }: { c: Country }) {
             <CountryChips codes={neighbours.map((n) => n.cca3)} />
           </div>
         </div>
-        <WorldCompare c={c} keys={['forest', 'co2']} title="Land and environment compared with the world" />
+        <WorldCompare c={c} keys={['forest', 'farmland', 'rainfall', 'co2']} title="Land, rain and environment" />
       </Panel>
     ),
     people: (

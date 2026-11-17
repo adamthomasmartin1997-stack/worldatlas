@@ -99,7 +99,7 @@ function government(c) {
 }
 
 /** Extra World Bank indicators, latest value each. Literacy older than 2010 is left out as too out of date. */
-const INDICATOR_KEYS = ['literacy', 'internet', 'urban', 'co2', 'forest'];
+const INDICATOR_KEYS = ['literacy', 'internet', 'urban', 'co2', 'forest', 'farmland', 'rainfall'];
 function indicators(iso) {
   const out = {};
   for (const k of INDICATOR_KEYS) {
@@ -213,7 +213,7 @@ if (worldbank) {
   for (const [iso, series] of Object.entries(wb)) {
     if (iso === 'WLD') continue;
     // Area and the economy shares aren't charted over time.
-    const { surfaceArea, agricultureShare, industryShare, servicesShare, exportsShare, literacy, internet, urban, co2, forest, ...charted } = series;
+    const { surfaceArea, agricultureShare, industryShare, servicesShare, exportsShare, literacy, internet, urban, co2, forest, farmland, rainfall, ...charted } = series;
     writeFileSync(`public/data/series/${iso.toLowerCase()}.json`, JSON.stringify({ retrieved: worldbank.retrieved.slice(0, 10), indicators: worldbank.indicators, series: charted }));
   }
 }
