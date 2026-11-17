@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Basketball is Lithuania's great passion, and the small country has long competed with the world's best.",
+ "chapters": [
+  {
+   "id": "basketball",
+   "title": "Basketball",
+   "text": [
+    "Lithuania won the European Championship in 1937, 1939 and 2003 and Olympic bronze in 1992, 1996 and 2000. Stars include Arvydas Sabonis and Šarūnas Marčiulionis."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Discus and swimming",
+   "text": [
+    "Discus throwers Virgilijus Alekna and his son Mykolas are champions; Mykolas set the world record in 2024. Rūta Meilutytė won Olympic swimming gold aged 15 in 2012."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Discus",
+   "meaning": "An athletics event where a heavy disc is thrown as far as possible."
+  }
+ ]
+}

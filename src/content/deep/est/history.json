@@ -1,0 +1,97 @@
+{
+ "status": "draft",
+ "intro": "Estonia was ruled by Danes, Germans, Swedes and Russians for centuries. Independent in 1918, occupied by the Soviet Union in 1940, it won freedom again in 1991 through a 'Singing Revolution' and became one of the world's most digital countries.",
+ "chapters": [
+  {
+   "id": "crusades",
+   "title": "Crusaders and empires",
+   "text": [
+    "In the 1200s German and Danish crusaders conquered the Estonians, one of the last pagan peoples in Europe; Tallinn's name probably means 'Danish town'. German nobles and merchants dominated for centuries, while Sweden ruled from the 1500s and the Russian Empire from 1721."
+   ],
+   "related": [
+    "DNK",
+    "DEU",
+    "SWE",
+    "RUS"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence and occupation",
+   "text": [
+    "Estonia declared independence on 24 February 1918 and won a war to defend it. In 1940 the Soviet Union occupied Estonia under a secret deal with Nazi Germany, and tens of thousands of Estonians were deported to Siberia. Nazi Germany occupied it from 1941 to 1944, then Soviet rule returned."
+   ],
+   "related": [
+    "RUS",
+    "DEU"
+   ]
+  },
+  {
+   "id": "singing",
+   "title": "The Singing Revolution",
+   "text": [
+    "From 1987 Estonians protested by gathering in their hundreds of thousands to sing banned national songs. Estonia restored its independence on 20 August 1991, joined NATO and the EU in 2004 and adopted the euro in 2011."
+   ],
+   "highlight": {
+    "title": "Baltic Way",
+    "text": "On 23 August 1989 about two million people held hands to form a human chain more than 600 km long across Estonia, Latvia and Lithuania, protesting against Soviet occupation."
+   },
+   "related": [
+    "LVA",
+    "LTU"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1219",
+   "title": "Danish conquest",
+   "text": "Danes capture Tallinn."
+  },
+  {
+   "year": "1721",
+   "title": "Russian rule",
+   "text": "Estonia becomes part of the Russian Empire."
+  },
+  {
+   "year": "1918",
+   "title": "Independence",
+   "text": "Declared on 24 February."
+  },
+  {
+   "year": "1940",
+   "title": "Soviet occupation",
+   "text": "Estonia is annexed."
+  },
+  {
+   "year": "1989",
+   "title": "Baltic Way",
+   "text": "A human chain across three countries."
+  },
+  {
+   "year": "1991",
+   "title": "Independence restored",
+   "text": "On 20 August."
+  },
+  {
+   "year": "2004",
+   "title": "NATO and EU",
+   "text": "Estonia joins both."
+  },
+  {
+   "year": "2005",
+   "title": "Online voting",
+   "text": "The first country to vote online nationwide."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Occupation",
+   "meaning": "When a foreign army takes control of a country."
+  },
+  {
+   "term": "Deportation",
+   "meaning": "Forcing people to leave their homes and move far away."
+  }
+ ]
+}

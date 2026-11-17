@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Latvian culture is rich in song, folk patterns and Art Nouveau architecture.",
+ "chapters": [
+  {
+   "id": "riga",
+   "title": "Art Nouveau Riga",
+   "text": [
+    "About a third of the buildings in central Riga are in the decorative Art Nouveau style, one of the largest collections in the world. Riga also claims to have had one of the first decorated Christmas trees, in 1510."
+   ]
+  },
+  {
+   "id": "people",
+   "title": "Famous Latvians",
+   "text": [
+    "The painter Mark Rothko and the ballet dancer Mikhail Baryshnikov were born in Latvia. Rye bread, smoked fish and grey peas with bacon are traditional foods."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Art Nouveau",
+   "meaning": "A decorative style with flowing lines, popular around 1900."
+  }
+ ]
+}

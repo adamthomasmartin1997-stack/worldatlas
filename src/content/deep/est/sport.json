@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Estonia has produced champions in wrestling, rally driving, skiing and decathlon.",
+ "chapters": [
+  {
+   "id": "champions",
+   "title": "Champions",
+   "text": [
+    "Erki Nool won Olympic decathlon gold in 2000, and Ott Tänak became World Rally Champion in 2019. Basketball and cross-country skiing are popular."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Wrestling",
+   "text": [
+    "Wrestling has a long tradition; Kristjan Palusalu won two Olympic golds in 1936, and Estonian wrestlers have competed at the top level ever since."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Decathlon",
+   "meaning": "An athletics contest of ten events."
+  }
+ ]
+}

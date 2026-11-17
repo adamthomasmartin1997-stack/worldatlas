@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Latvia is a parliamentary republic and a member of NATO, the EU and the eurozone.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Saeima and president",
+   "text": [
+    "The parliament, the Saeima, has 100 members and chooses the prime minister. Parliament also elects the president; Edgars Rinkēvičs, elected in 2023, became the first openly gay head of state of an EU country."
+   ],
+   "facts": [
+    {
+     "label": "Saeima",
+     "value": "100 members"
+    },
+    {
+     "label": "Currency",
+     "value": "Euro"
+    },
+    {
+     "label": "Independence Day",
+     "value": "18 November"
+    }
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols",
+   "text": [
+    "The flag is dark red with a white stripe, one of the oldest flag designs in the world according to a medieval chronicle."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Saeima",
+   "meaning": "Latvia's parliament."
+  }
+ ]
+}

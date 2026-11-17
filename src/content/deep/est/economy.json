@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Estonia is a small tech powerhouse that has produced more start-up 'unicorns' per person than almost anywhere in Europe.",
+ "chapters": [
+  {
+   "id": "tech",
+   "title": "Start-ups",
+   "text": [
+    "Estonian engineers helped build Skype, and companies such as Wise (money transfers) and Bolt (ride-hailing) began there. Forestry, timber and wooden houses are also important exports."
+   ]
+  },
+  {
+   "id": "energy",
+   "title": "Energy",
+   "text": [
+    "For decades Estonia burned oil shale for electricity, but it is moving to wind and solar power. It uses the euro."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Unicorn",
+   "meaning": "A start-up company valued at more than a billion US dollars."
+  }
+ ]
+}

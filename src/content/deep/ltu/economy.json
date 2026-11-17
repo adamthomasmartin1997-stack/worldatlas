@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Lithuania has a growing high-tech economy known for lasers, fintech and life sciences.",
+ "chapters": [
+  {
+   "id": "tech",
+   "title": "Lasers and fintech",
+   "text": [
+    "Lithuanian companies make a large share of the world's scientific lasers. Vilnius has become a hub for financial technology firms, and biotech is growing fast."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Ports and farms",
+   "text": [
+    "Klaipėda is an ice-free Baltic port, and farming, food processing and furniture-making are important. Lithuania uses the euro."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Fintech",
+   "meaning": "Technology used to provide financial services, such as payment apps."
+  }
+ ]
+}

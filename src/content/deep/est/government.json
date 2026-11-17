@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Estonia is a parliamentary republic and one of the world's leaders in digital government.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Parliament and president",
+   "text": [
+    "The single-chamber parliament, the Riigikogu, has 101 members and chooses the prime minister. The president is elected by parliament and has mostly ceremonial powers."
+   ],
+   "facts": [
+    {
+     "label": "Riigikogu",
+     "value": "101 members"
+    },
+    {
+     "label": "Online voting",
+     "value": "Since 2005"
+    },
+    {
+     "label": "Currency",
+     "value": "Euro"
+    }
+   ]
+  },
+  {
+   "id": "digital",
+   "title": "e-Estonia",
+   "text": [
+    "In 2005 Estonia became the first country to let people vote online in a nationwide election. Its e-Residency programme lets people anywhere in the world set up an Estonian company online. Estonia is a member of NATO and the EU."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "e-Residency",
+   "meaning": "A digital identity Estonia offers to non-residents."
+  }
+ ]
+}

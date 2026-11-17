@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Latvians love ice hockey and basketball, and the small country has celebrated some big upsets.",
+ "chapters": [
+  {
+   "id": "hockey",
+   "title": "Ice hockey",
+   "text": [
+    "When Latvia won its first ever medal at the ice hockey world championship, bronze in 2023, the government declared a public holiday the next day."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Basketball and tennis",
+   "text": [
+    "Latvia won Olympic gold in 3x3 basketball in 2021, and Kristaps Porziņģis is an NBA star. Jeļena Ostapenko won the French Open in 2017 while unseeded."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "3x3 basketball",
+   "meaning": "A fast version of basketball with three players a side and one hoop."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Lithuanian culture is known for ancient songs, amber, and some very pink soup.",
+ "chapters": [
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Cepelinai, large potato dumplings named after zeppelin airships, are the national dish. Šaltibarščiai, a cold beetroot soup, is bright pink."
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Amber jewellery is a Baltic speciality. In Vilnius, the artists' district of Užupis declared itself a 'republic' in 1997, with its own humorous constitution."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Amber",
+   "meaning": "Fossilised tree resin, often golden and used in jewellery."
+  }
+ ]
+}

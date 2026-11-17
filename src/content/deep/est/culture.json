@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Estonian culture is built on song, forests and a love of nature, and its composer Arvo Pärt is one of the most performed living composers in the world.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Song and music",
+   "text": [
+    "The Song Festival tradition is on UNESCO's heritage list. Arvo Pärt's calm, bell-like music is played around the world. The national epic, Kalevipoeg, tells of a giant hero."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food and traditions",
+   "text": [
+    "Dark rye bread is eaten with almost every meal. Midsummer's Eve, with bonfires, is the biggest summer celebration, and saunas, especially smoke saunas, are a cherished tradition."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Smoke sauna",
+   "meaning": "A traditional sauna with no chimney, heated by a wood fire."
+  }
+ ]
+}

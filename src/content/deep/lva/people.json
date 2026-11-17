@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Latvians have collected more than a million folk songs, and their huge Song and Dance Festival is one of the largest choral events in the world.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and language",
+   "text": [
+    "About a third of Latvians live in Riga, the largest city in the Baltic states. Latvian and Lithuanian are the only surviving Baltic languages. About a quarter of the population is Russian-speaking.",
+    "Krišjānis Barons collected more than a million dainas, short folk songs, which are kept in a famous cabinet in Riga."
+   ],
+   "related": [
+    "LTU",
+    "RUS"
+   ]
+  },
+  {
+   "id": "midsummer",
+   "title": "Midsummer",
+   "text": [
+    "Jāņi, the midsummer festival, is the biggest holiday: people wear wreaths of flowers and oak leaves, sing, eat caraway cheese and stay up all night by bonfires."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Daina",
+   "meaning": "A short Latvian folk song."
+  }
+ ]
+}

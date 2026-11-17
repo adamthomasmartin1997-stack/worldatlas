@@ -1,0 +1,111 @@
+{
+ "status": "draft",
+ "intro": "Medieval Lithuania was the last pagan state in Europe and, at its height, one of the largest countries on the continent. It was absorbed by Russia, occupied by the Soviet Union, and in 1990 became the first Soviet republic to declare independence.",
+ "chapters": [
+  {
+   "id": "grand-duchy",
+   "title": "The Grand Duchy",
+   "text": [
+    "Mindaugas was crowned king of Lithuania in 1253. Grand Duke Gediminas founded Vilnius as his capital in the 1320s, and under Vytautas the Great, around 1400, Lithuania stretched from the Baltic almost to the Black Sea. It only became Christian in 1387, the last country in Europe to do so.",
+    "Lithuania joined Poland, first through a royal marriage in 1386 and then as the Polish-Lithuanian Commonwealth in 1569."
+   ],
+   "related": [
+    "POL",
+    "BLR",
+    "UKR"
+   ]
+  },
+  {
+   "id": "russia",
+   "title": "Russian rule",
+   "text": [
+    "Russia took most of Lithuania in 1795. When Russia banned books in the Latin alphabet from 1864 to 1904, 'book smugglers' secretly carried Lithuanian books across the border from Prussia, keeping the language alive.",
+    "Lithuania declared independence on 16 February 1918."
+   ],
+   "related": [
+    "RUS",
+    "DEU"
+   ]
+  },
+  {
+   "id": "occupation",
+   "title": "Occupation and freedom",
+   "text": [
+    "The Soviet Union occupied Lithuania in 1940. Under Nazi occupation about 95% of Lithuania's large Jewish community was murdered; Vilnius had been known as the 'Jerusalem of the North'.",
+    "On 11 March 1990 Lithuania became the first Soviet republic to declare independence. In January 1991 Soviet troops killed 14 unarmed civilians defending Vilnius's TV tower, but Lithuania held firm. It joined NATO and the EU in 2004 and adopted the euro in 2015."
+   ],
+   "highlight": {
+    "title": "Baltic Way",
+    "text": "On 23 August 1989 about two million people held hands to form a human chain more than 600 km long across Estonia, Latvia and Lithuania, protesting against Soviet occupation."
+   },
+   "related": [
+    "RUS",
+    "EST",
+    "LVA",
+    "ISR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1253",
+   "title": "King Mindaugas",
+   "text": "Lithuania's only crowned king."
+  },
+  {
+   "year": "1323",
+   "title": "Vilnius",
+   "text": "Gediminas makes it his capital."
+  },
+  {
+   "year": "1387",
+   "title": "Christianity",
+   "text": "The last pagan state in Europe converts."
+  },
+  {
+   "year": "1569",
+   "title": "Commonwealth",
+   "text": "Union with Poland."
+  },
+  {
+   "year": "1795",
+   "title": "Russian rule",
+   "text": "Lithuania is absorbed by Russia."
+  },
+  {
+   "year": "1918",
+   "title": "Independence",
+   "text": "Declared on 16 February."
+  },
+  {
+   "year": "1940",
+   "title": "Soviet occupation",
+   "text": "Lithuania is annexed."
+  },
+  {
+   "year": "1990",
+   "title": "Independence restored",
+   "text": "The first Soviet republic to break away."
+  },
+  {
+   "year": "1991",
+   "title": "January Events",
+   "text": "Civilians are killed defending the TV tower."
+  },
+  {
+   "year": "2004",
+   "title": "NATO and EU",
+   "text": "Lithuania joins both."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pagan",
+   "meaning": "Following old, pre-Christian religions."
+  },
+  {
+   "term": "Grand Duchy",
+   "meaning": "A state ruled by a grand duke."
+  }
+ ]
+}

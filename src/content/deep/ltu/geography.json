@@ -1,0 +1,33 @@
+{
+ "status": "draft",
+ "intro": "Lithuania is the largest of the Baltic states, a land of lakes, forests and a spectacular strip of sand dunes on the Baltic coast.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Lakes and dunes",
+   "text": [
+    "Lithuania has thousands of lakes and gentle hills; the highest point is under 300 m. The Nemunas River flows to the Curonian Lagoon, cut off from the sea by the Curonian Spit, a thin strip of tall sand dunes shared with Russia's Kaliningrad region and listed as a World Heritage Site.",
+    "Lithuania borders Latvia, Belarus, Poland and Russia. Geographers once calculated that the geographical centre of Europe lies just north of Vilnius."
+   ],
+   "related": [
+    "LVA",
+    "BLR",
+    "POL",
+    "RUS"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Lithuania has cold winters and mild summers. Amber, fossilised tree resin, washes up on its beaches after storms."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Spit",
+   "meaning": "A long, narrow strip of sand sticking out into the sea."
+  }
+ ]
+}

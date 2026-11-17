@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Estonia has only about 1.4 million people. Estonian is closely related to Finnish, and singing is at the heart of the national identity.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and language",
+   "text": [
+    "Tallinn, with its medieval old town, is the capital. Estonian is a Finnic language, unlike the Baltic languages of Latvia and Lithuania. About a quarter of people are Russian speakers, many living in the north-east around Narva.",
+    "Estonia is one of the least religious countries in the world. Every five years around 30,000 singers perform together at the Song Festival in Tallinn."
+   ],
+   "related": [
+    "FIN",
+    "RUS"
+   ]
+  },
+  {
+   "id": "digital",
+   "title": "Digital life",
+   "text": [
+    "Estonians can do almost everything online, from filing taxes in minutes to voting, using a digital ID card. Children learn programming at school."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Finnic",
+   "meaning": "A group of languages including Finnish and Estonian."
+  }
+ ]
+}

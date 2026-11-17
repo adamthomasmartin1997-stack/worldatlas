@@ -1,0 +1,41 @@
+{
+ "status": "draft",
+ "intro": "Lithuania is a parliamentary republic with a directly elected president, and a member of NATO, the EU and the eurozone.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "President and Seimas",
+   "text": [
+    "The president is directly elected for five years and leads foreign policy. The parliament, the Seimas, has 141 members and approves the government.",
+    "Lithuania joined NATO and the EU in 2004. It built a gas import terminal named 'Independence' in 2014 to end its reliance on Russian gas."
+   ],
+   "facts": [
+    {
+     "label": "Seimas",
+     "value": "141 members"
+    },
+    {
+     "label": "Currency",
+     "value": "Euro"
+    },
+    {
+     "label": "Independence Day",
+     "value": "16 February"
+    }
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols",
+   "text": [
+    "The flag is yellow, green and red, and the coat of arms shows a knight on a white horse, called Vytis."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Seimas",
+   "meaning": "Lithuania's parliament."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "Estonia is a flat, forested country on the Baltic Sea with more than 2,000 islands and many bogs.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Forests, bogs and islands",
+   "text": [
+    "About half of Estonia is forest, and bogs, wet peat lands with boardwalk trails, cover much of the rest. Saaremaa and Hiiumaa are the largest of more than 2,000 islands. Suur Munamägi, just over 300 m, is the highest point in the Baltic states.",
+    "Estonia borders Latvia and Russia, and the Gulf of Finland separates it from Finland; Tallinn and Helsinki are just a short ferry ride apart."
+   ],
+   "related": [
+    "LVA",
+    "RUS",
+    "FIN"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Seasons",
+   "text": [
+    "Winters are long and dark, with snow and frozen seas; in severe winters, ice roads have been marked out across the frozen sea to the islands. Summer nights barely get dark."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bog",
+   "meaning": "Wet, spongy ground made of peat."
+  }
+ ]
+}

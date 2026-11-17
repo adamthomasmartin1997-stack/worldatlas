@@ -1,0 +1,33 @@
+{
+ "status": "draft",
+ "intro": "Latvia is a low, green country of forests, rivers and a long, sandy Baltic coast.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Forests and coast",
+   "text": [
+    "More than half of Latvia is forest. The Daugava River flows through Riga to the Gulf of Riga, and about 500 km of beaches line the coast. The land is mostly flat; the highest hill is just over 300 m.",
+    "Latvia borders Estonia, Lithuania, Belarus and Russia. White storks nest on rooftops and poles in the countryside every summer."
+   ],
+   "related": [
+    "EST",
+    "LTU",
+    "BLR",
+    "RUS"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Winters are cold and snowy and summers mild, with very long days around midsummer."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gulf",
+   "meaning": "A large area of sea partly enclosed by land."
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "status": "draft",
+ "intro": "Latvia's land was conquered by German crusaders in the 1200s and later ruled by Poland, Sweden and Russia. Independent in 1918 and occupied by the Soviet Union in 1940, it regained freedom in 1991.",
+ "chapters": [
+  {
+   "id": "riga",
+   "title": "Crusaders and traders",
+   "text": [
+    "Baltic tribes such as the Curonians and Latgalians lived here before German crusaders arrived. Riga was founded in 1201 and became a rich member of the Hanseatic League of trading cities. Over the centuries the land was ruled by the Teutonic Order, Poland-Lithuania, Sweden and, from the 1700s, Russia."
+   ],
+   "related": [
+    "DEU",
+    "POL",
+    "SWE",
+    "RUS"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence and occupation",
+   "text": [
+    "Latvia declared independence on 18 November 1918. The Soviet Union occupied it in 1940; tens of thousands were deported to Siberia, and under Nazi occupation most of Latvia's Jews were murdered. Soviet rule returned in 1944, and many Russian speakers moved in."
+   ],
+   "related": [
+    "RUS",
+    "DEU"
+   ]
+  },
+  {
+   "id": "freedom",
+   "title": "Singing to freedom",
+   "text": [
+    "Latvians joined the Singing Revolution of the late 1980s, and independence was fully restored in August 1991. Latvia joined NATO and the EU in 2004 and adopted the euro in 2014."
+   ],
+   "highlight": {
+    "title": "Baltic Way",
+    "text": "On 23 August 1989 about two million people held hands to form a human chain more than 600 km long across Estonia, Latvia and Lithuania, protesting against Soviet occupation."
+   },
+   "related": [
+    "EST",
+    "LTU"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1201",
+   "title": "Riga founded",
+   "text": "German crusaders found the city."
+  },
+  {
+   "year": "1282",
+   "title": "Hanseatic League",
+   "text": "Riga joins the trading network."
+  },
+  {
+   "year": "1710",
+   "title": "Russian rule",
+   "text": "Russia takes Riga."
+  },
+  {
+   "year": "1918",
+   "title": "Independence",
+   "text": "Declared on 18 November."
+  },
+  {
+   "year": "1940",
+   "title": "Soviet occupation",
+   "text": "Latvia is annexed."
+  },
+  {
+   "year": "1989",
+   "title": "Baltic Way",
+   "text": "A human chain across three countries."
+  },
+  {
+   "year": "1991",
+   "title": "Independence restored",
+   "text": "Latvia is free again."
+  },
+  {
+   "year": "2004",
+   "title": "NATO and EU",
+   "text": "Latvia joins both."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Hanseatic League",
+   "meaning": "A network of trading towns around the Baltic and North Sea."
+  }
+ ]
+}

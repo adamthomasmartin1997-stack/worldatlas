@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Lithuanians speak one of the oldest living Indo-European languages, and basketball is often called their second religion.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and language",
+   "text": [
+    "Vilnius, Kaunas and Klaipėda are the largest cities. Lithuanian has kept many ancient features and is studied by linguists for clues about the ancestor of most European languages. There are Polish and Russian minorities.",
+    "Most Lithuanians are Catholic; at the Hill of Crosses, visitors have left hundreds of thousands of crosses."
+   ],
+   "related": [
+    "POL",
+    "RUS"
+   ]
+  },
+  {
+   "id": "songs",
+   "title": "Song",
+   "text": [
+    "Sutartinės, ancient songs sung in several overlapping parts, are on UNESCO's heritage list, and Lithuania holds a huge Song Festival like its Baltic neighbours."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Indo-European",
+   "meaning": "The large language family that includes most European and many South Asian languages."
+  }
+ ]
+}

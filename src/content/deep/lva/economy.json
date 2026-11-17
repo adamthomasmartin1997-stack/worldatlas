@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Latvia's economy relies on wood, ports and services.",
+ "chapters": [
+  {
+   "id": "sectors",
+   "title": "Wood and ports",
+   "text": [
+    "Timber and wood products are Latvia's biggest exports. The ports of Riga, Ventspils and Liepāja handle trade between the Baltic Sea and the countries to the east."
+   ]
+  },
+  {
+   "id": "people",
+   "title": "Challenges",
+   "text": [
+    "Many young Latvians moved abroad for work after joining the EU, and the population has shrunk. Latvia uses the euro."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Export",
+   "meaning": "Goods sold to another country."
+  }
+ ]
+}
