@@ -1,0 +1,76 @@
+{
+ "status": "draft",
+ "intro": "Germany has more people than any other country in the European Union. German is the most widely spoken first language in the EU, and about a quarter of people in Germany have family roots in other countries.",
+ "chapters": [
+  {
+   "id": "cities",
+   "title": "Cities and regions",
+   "text": [
+    "Berlin is the capital and largest city, followed by Hamburg, Munich, Cologne and Frankfurt. The Ruhr, in the west, is a chain of former coal and steel towns that together form one of Europe's largest urban areas.",
+    "Because Germany was divided into many states for centuries, it has no single dominant city like Paris or London. Regions have strong identities, and Bavarians, Saxons and Rhinelanders each have their own customs and dialects."
+   ]
+  },
+  {
+   "id": "language",
+   "title": "Language",
+   "text": [
+    "German is spoken in Germany, Austria, Liechtenstein, much of Switzerland and parts of Luxembourg, Belgium and Italy. Dialects can be so different that a Bavarian and a speaker of Low German in the far north may struggle to understand each other.",
+    "Small minority languages are protected too: Danish near the Danish border, Frisian on the North Sea coast, Sorbian in the east and Romani."
+   ],
+   "related": [
+    "AUT",
+    "CHE",
+    "LIE",
+    "LUX",
+    "BEL"
+   ]
+  },
+  {
+   "id": "migration",
+   "title": "A country of immigration",
+   "text": [
+    "From the 1950s West Germany invited 'guest workers' from Italy, Greece, Yugoslavia and especially Turkey to fill jobs in factories and mines. Many stayed, and today about 3 million people in Germany have Turkish roots.",
+    "Ethnic Germans returned from Eastern Europe and the former Soviet Union after 1990, about a million refugees arrived in 2015 and 2016, mostly from Syria, Afghanistan and Iraq, and over a million Ukrainians came after 2022. Today roughly one in four people in Germany has a migrant background."
+   ],
+   "related": [
+    "TUR",
+    "ITA",
+    "GRC",
+    "SYR",
+    "AFG",
+    "UKR",
+    "POL"
+   ]
+  },
+  {
+   "id": "religion",
+   "title": "Religion",
+   "text": [
+    "Germany is roughly split between Catholics, who are more common in the south and west, and Protestants, more common in the north and east, the homeland of Martin Luther. Church members pay a church tax collected by the state. Many people have left the churches in recent years.",
+    "Large parts of the former East Germany are among the least religious places in Europe after decades of communist rule. Germany also has a large Muslim community and a growing Jewish community."
+   ]
+  },
+  {
+   "id": "school",
+   "title": "Growing up in Germany",
+   "text": [
+    "Children start school at about six, and on the first day they get a Schultüte, a big paper cone filled with sweets and school supplies. In most states, after four years of primary school, pupils move to different types of secondary school; the Gymnasium leads to the Abitur exam needed for university.",
+    "Many young people choose an apprenticeship instead, combining paid work at a company with lessons at a vocational school. This 'dual system' trains everyone from mechanics to bankers, and other countries copy it."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dialect",
+   "meaning": "A local form of a language with its own words, grammar and pronunciation."
+  },
+  {
+   "term": "Abitur",
+   "meaning": "The final exam at a German Gymnasium, needed to go to university."
+  },
+  {
+   "term": "Apprenticeship",
+   "meaning": "Learning a job by working at a company while also studying."
+  }
+ ]
+}

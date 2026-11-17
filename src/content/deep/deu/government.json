@@ -1,0 +1,84 @@
+{
+ "status": "draft",
+ "intro": "Germany is a federal parliamentary republic of 16 states. After the Nazi dictatorship, its post-war constitution was designed to protect human rights and make it hard for any one person or party to grab power.",
+ "chapters": [
+  {
+   "id": "basic-law",
+   "title": "The Basic Law",
+   "text": [
+    "West Germany's constitution, called the Basic Law, was written in 1949 and became the constitution of reunified Germany in 1990. Its first article says: 'Human dignity shall be inviolable.'",
+    "The Federal Constitutional Court in Karlsruhe can strike down laws that break the Basic Law, and parties that try to destroy democracy can be banned."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "The Basic Law was written with the lessons of the Nazi era in mind. It deliberately spreads power out, between the states and the national government, and between parliament, government and courts."
+   }
+  },
+  {
+   "id": "parliament",
+   "title": "Bundestag and chancellor",
+   "text": [
+    "The Bundestag is the national parliament. Voters have two votes: one for a local candidate and one for a party list, and seats are shared out so that each party's share roughly matches its share of the party vote. A party usually needs at least 5% of votes to get seats, to keep very small parties out.",
+    "The Bundestag elects the Federal Chancellor, who leads the government. Because one party rarely wins a majority, governments are almost always coalitions of two or more parties. Friedrich Merz became chancellor in 2025.",
+    "The Federal President is head of state but has mostly ceremonial duties."
+   ],
+   "facts": [
+    {
+     "label": "Head of government",
+     "value": "Federal Chancellor"
+    },
+    {
+     "label": "Head of state",
+     "value": "Federal President"
+    },
+    {
+     "label": "Voting age",
+     "value": "18 (16 in EU elections)"
+    }
+   ]
+  },
+  {
+   "id": "states",
+   "title": "Sixteen states",
+   "text": [
+    "Germany is made of 16 states, or Länder, including three city-states: Berlin, Hamburg and Bremen. Each has its own parliament and government and controls schools, police and culture, so school rules and holidays differ from state to state.",
+    "The states take part in national law-making through the Bundesrat, a council of state governments."
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols",
+   "text": [
+    "The flag is black, red and gold, colours linked to the movement for a united and democratic Germany in the 1800s. The anthem uses the third verse of an old song, set to a melody by Joseph Haydn, which begins 'Unity and justice and freedom'.",
+    "The national day is German Unity Day, 3 October, marking reunification in 1990. The capital moved from Bonn back to Berlin after reunification, and the Bundestag now meets in the Reichstag building, crowned with a glass dome that visitors can walk up."
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Germany in the world",
+   "text": [
+    "Germany is a founding member of the European Union and its biggest economy, and it has a large say in EU decisions. West Germany joined NATO in 1955.",
+    "Because of its history, Germany was long reluctant to send soldiers abroad, but after Russia's full-scale invasion of Ukraine in 2022 it began spending much more on defence."
+   ],
+   "related": [
+    "FRA",
+    "UKR",
+    "RUS"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Coalition",
+   "meaning": "A government formed by two or more parties working together."
+  },
+  {
+   "term": "Länder",
+   "meaning": "The German word for the 16 federal states."
+  },
+  {
+   "term": "Inviolable",
+   "meaning": "Something that must never be broken or harmed."
+  }
+ ]
+}

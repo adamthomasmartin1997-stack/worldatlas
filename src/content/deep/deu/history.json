@@ -1,0 +1,184 @@
+{
+ "status": "draft",
+ "intro": "For most of its history Germany was a patchwork of hundreds of states. It became one country only in 1871, then lived through two world wars, the crimes of the Nazi era and 41 years of division before reuniting peacefully in 1990.",
+ "chapters": [
+  {
+   "id": "tribes",
+   "title": "Germanic tribes and Rome",
+   "text": [
+    "In Roman times, Germanic tribes lived east of the Rhine. In AD 9, at the Battle of the Teutoburg Forest, tribes led by Arminius wiped out three Roman legions, and Rome never conquered the land beyond the Rhine. Roman cities such as Cologne and Trier grew up on the Roman side of the river.",
+    "After Rome fell, the Franks ruled much of the area. When Charlemagne's empire was split in 843, its eastern part became the starting point of the German lands."
+   ],
+   "related": [
+    "ITA",
+    "FRA"
+   ]
+  },
+  {
+   "id": "empire",
+   "title": "The Holy Roman Empire",
+   "text": [
+    "In 962 the German king Otto I was crowned emperor by the Pope, beginning the Holy Roman Empire. It lasted more than 800 years, but the emperor was often weak: real power lay with hundreds of princes, bishops and free cities, each running their own small state.",
+    "Around 1450, Johannes Gutenberg in Mainz developed printing with movable metal type. Books became much cheaper, and ideas could spread faster than ever before.",
+    "In 1517 a monk named Martin Luther criticised the Catholic Church, starting the Protestant Reformation. Germany split along religious lines, and the Thirty Years' War (1618 to 1648) devastated the land; some regions lost a third or more of their people."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Gutenberg's press helped Luther's ideas spread across Europe within weeks. It is often counted among the most important inventions in history."
+   }
+  },
+  {
+   "id": "unification",
+   "title": "Prussia and unification",
+   "text": [
+    "In the 1700s the kingdom of Prussia, in the north-east, became a major military power. Napoleon ended the old Holy Roman Empire in 1806, and after his defeat Germans increasingly wanted a single nation.",
+    "Prussia's chief minister Otto von Bismarck united the German states through three short wars. In 1871, after defeating France, the King of Prussia was proclaimed German Emperor in the Hall of Mirrors at Versailles. The new empire industrialised quickly and became one of Europe's strongest powers."
+   ],
+   "related": [
+    "FRA",
+    "AUT",
+    "DNK"
+   ]
+  },
+  {
+   "id": "wars",
+   "title": "War, democracy and dictatorship",
+   "text": [
+    "Germany lost the First World War in 1918. The emperor gave up the throne and Germany became a democracy, the Weimar Republic. It struggled with heavy reparations, political violence and hyperinflation in 1923, when money became almost worthless, and then the Great Depression.",
+    "In 1933 Adolf Hitler and his Nazi Party took power and quickly destroyed democracy. The Nazis persecuted Jews, Roma, disabled people, gay people and political opponents. In 1939 Germany invaded Poland, starting the Second World War.",
+    "During the war the Nazi regime carried out the Holocaust: the murder of about six million Jews, as well as millions of others, in shootings and in death camps such as Auschwitz. Germany was defeated in May 1945."
+   ],
+   "highlight": {
+    "title": "Remembering",
+    "text": "Germany teaches the history of the Holocaust in every school. Memorials such as the Memorial to the Murdered Jews of Europe in Berlin, and small brass 'stumbling stones' set into pavements outside victims' homes, keep the memory alive."
+   },
+   "related": [
+    "POL",
+    "FRA",
+    "GBR",
+    "RUS",
+    "USA",
+    "ISR"
+   ]
+  },
+  {
+   "id": "division",
+   "title": "Two Germanys",
+   "text": [
+    "After the war the Allies divided Germany into four zones. In 1949 the American, British and French zones became West Germany, a democracy, and the Soviet zone became East Germany, a communist state controlled by the Soviet Union. Berlin, deep inside East Germany, was divided too.",
+    "So many East Germans fled west that on 13 August 1961 East Germany built the Berlin Wall. For 28 years it split families, and people were shot trying to cross it. West Germany, meanwhile, grew rich in what was called the 'economic miracle'."
+   ]
+  },
+  {
+   "id": "reunified",
+   "title": "Reunification and today",
+   "text": [
+    "In 1989 peaceful protests swept East Germany, and on the night of 9 November the border guards opened the Berlin Wall. Germany reunified on 3 October 1990.",
+    "Germany was a founding member of what became the European Union and adopted the euro. Angela Merkel, who grew up in East Germany, served as Germany's first female chancellor from 2005 to 2021. In 2015 Germany took in about a million refugees, many fleeing the war in Syria."
+   ],
+   "related": [
+    "SYR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "9",
+   "title": "Teutoburg Forest",
+   "text": "Germanic tribes destroy three Roman legions."
+  },
+  {
+   "year": "962",
+   "title": "Holy Roman Empire",
+   "text": "Otto I is crowned emperor."
+  },
+  {
+   "year": "c. 1450",
+   "title": "Printing press",
+   "text": "Gutenberg prints with movable metal type in Mainz."
+  },
+  {
+   "year": "1517",
+   "title": "The Reformation",
+   "text": "Martin Luther challenges the Catholic Church."
+  },
+  {
+   "year": "1618",
+   "title": "Thirty Years' War",
+   "text": "A religious and political war devastates Germany until 1648."
+  },
+  {
+   "year": "1806",
+   "title": "End of the empire",
+   "text": "Napoleon dissolves the Holy Roman Empire."
+  },
+  {
+   "year": "1871",
+   "title": "Unification",
+   "text": "The German Empire is proclaimed at Versailles."
+  },
+  {
+   "year": "1918",
+   "title": "Defeat and a republic",
+   "text": "The emperor abdicates; the Weimar Republic begins."
+  },
+  {
+   "year": "1933",
+   "title": "Nazis take power",
+   "text": "Hitler becomes chancellor and ends democracy."
+  },
+  {
+   "year": "1939",
+   "title": "Second World War",
+   "text": "Germany invades Poland."
+  },
+  {
+   "year": "1945",
+   "title": "Defeat",
+   "text": "Germany surrenders in May; the country is divided."
+  },
+  {
+   "year": "1949",
+   "title": "Two German states",
+   "text": "West Germany and East Germany are founded."
+  },
+  {
+   "year": "1961",
+   "title": "Berlin Wall",
+   "text": "East Germany walls off West Berlin."
+  },
+  {
+   "year": "1989",
+   "title": "The Wall falls",
+   "text": "The border opens on 9 November."
+  },
+  {
+   "year": "1990",
+   "title": "Reunification",
+   "text": "Germany becomes one country again on 3 October."
+  },
+  {
+   "year": "2005",
+   "title": "Angela Merkel",
+   "text": "Germany's first female chancellor takes office."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Reformation",
+   "meaning": "The split in the western Christian Church in the 1500s that created Protestant churches."
+  },
+  {
+   "term": "Hyperinflation",
+   "meaning": "Prices rising so fast that money loses almost all its value."
+  },
+  {
+   "term": "Holocaust",
+   "meaning": "The Nazis' systematic murder of about six million Jews, and millions of others, between 1941 and 1945."
+  },
+  {
+   "term": "Reunification",
+   "meaning": "The joining of East and West Germany into one country in 1990."
+  }
+ ]
+}

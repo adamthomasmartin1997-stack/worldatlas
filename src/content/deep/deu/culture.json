@@ -1,0 +1,52 @@
+{
+ "status": "draft",
+ "intro": "Germany is the land of Bach and Beethoven, the Brothers Grimm and the Bauhaus, Christmas markets and Oktoberfest. It is also home to one of Europe's most exciting club and art scenes, in Berlin.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music",
+   "text": [
+    "Germany produced some of the greatest composers of classical music: Johann Sebastian Bach, Ludwig van Beethoven, born in Bonn, Johannes Brahms and Richard Wagner. Beethoven's Ode to Joy is now the anthem of the European Union.",
+    "In the 1970s the Düsseldorf band Kraftwerk pioneered electronic music, and after the Berlin Wall fell, techno clubs in empty buildings in East Berlin made the city a world capital of dance music."
+   ]
+  },
+  {
+   "id": "ideas",
+   "title": "Stories and ideas",
+   "text": [
+    "The Brothers Grimm collected folk tales such as Cinderella, Snow White and Hansel and Gretel, publishing their first collection in 1812. Johann Wolfgang von Goethe is the most famous German writer, and his play Faust is still performed everywhere.",
+    "German-speaking thinkers such as Immanuel Kant, Karl Marx and Albert Einstein changed philosophy, politics and science. The Bauhaus school, founded in 1919, shaped modern design, from chairs to buildings."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food and drink",
+   "text": [
+    "Germany has hundreds of kinds of bread, and its bread-making is on the country's official list of intangible cultural heritage. Sausages come in more than a thousand regional varieties, alongside pretzels, potato dishes, sauerkraut and Black Forest cake.",
+    "Berlin's street foods include currywurst and the döner kebab, which Turkish immigrants turned into a national favourite. A law from 1516, the Reinheitsgebot, said German beer could only be made from water, barley and hops."
+   ],
+   "related": [
+    "TUR"
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Festivals and traditions",
+   "text": [
+    "Oktoberfest in Munich, first held in 1810 to celebrate a royal wedding, is the world's biggest folk festival. In winter, Christmas markets fill town squares with stalls selling gingerbread and wooden toys.",
+    "Many Christmas customs, including decorated Christmas trees and Advent calendars, spread around the world from Germany. In February, cities such as Cologne celebrate carnival with parades and costumes.",
+    "Castles are everywhere. Neuschwanstein, built by King Ludwig II of Bavaria in the 1800s, inspired the castle in Disney's Sleeping Beauty."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bauhaus",
+   "meaning": "A German art and design school (1919 to 1933) known for simple, practical, modern designs."
+  },
+  {
+   "term": "Carnival",
+   "meaning": "A festival of parades, costumes and parties held before the Christian season of Lent."
+  }
+ ]
+}

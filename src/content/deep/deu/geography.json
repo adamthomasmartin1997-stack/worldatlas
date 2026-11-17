@@ -1,0 +1,69 @@
+{
+ "status": "draft",
+ "intro": "Germany sits in the middle of Europe, with more neighbours than any other European country except Russia. Its land rises from flat plains and sandy coasts in the north to forested hills and the Alps in the south.",
+ "chapters": [
+  {
+   "id": "neighbours",
+   "title": "In the middle of Europe",
+   "text": [
+    "Germany shares borders with nine countries: Denmark, Poland, Czechia, Austria, Switzerland, France, Luxembourg, Belgium and the Netherlands. Its central position has made it a crossroads for trade, travel and, in the past, armies.",
+    "In the north it has two coasts: the North Sea and the Baltic Sea."
+   ],
+   "related": [
+    "DNK",
+    "POL",
+    "CZE",
+    "AUT",
+    "CHE",
+    "FRA",
+    "LUX",
+    "BEL",
+    "NLD"
+   ]
+  },
+  {
+   "id": "landscapes",
+   "title": "Plains, hills and mountains",
+   "text": [
+    "The north is part of the great North European Plain: flat and low, with farmland, heath and lakes. The North Sea coast has the Wadden Sea, a huge area of mudflats uncovered at low tide and protected as a World Heritage Site. On the Baltic, the island of Rügen has white chalk cliffs.",
+    "The centre has wooded hills and low mountains such as the Harz. In the south-west is the Black Forest, and in the far south, the Bavarian Alps hold the Zugspitze, Germany's highest mountain."
+   ]
+  },
+  {
+   "id": "rivers",
+   "title": "Rivers",
+   "text": [
+    "The Rhine is Germany's most important river. It flows from the Alps through Lake Constance and past Cologne to the Netherlands, carrying more barges than any other river in Europe. Its gorge between Bingen and Koblenz, lined with castles and vineyards, is a World Heritage Site.",
+    "The Danube rises in the Black Forest and flows east through ten countries to the Black Sea. The Elbe flows north past Dresden and Hamburg to the North Sea."
+   ],
+   "related": [
+    "NLD",
+    "AUT",
+    "HUN",
+    "ROU"
+   ]
+  },
+  {
+   "id": "climate-nature",
+   "title": "Climate and nature",
+   "text": [
+    "Germany has a temperate climate, milder and wetter near the coast and with colder winters in the east and south. Forests cover about a third of the country, and the forest has a special place in German stories, from fairy tales to poems.",
+    "Wolves returned to Germany in 2000 after being wiped out for about 150 years, and there are now packs in many states. Germany has 16 national parks."
+   ],
+   "highlight": {
+    "title": "Into the woods",
+    "text": "Many of the Brothers Grimm's fairy tales, such as Hansel and Gretel and Little Red Riding Hood, are set in deep, dark German forests."
+   }
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mudflat",
+   "meaning": "Flat coastal land covered by the sea at high tide and uncovered at low tide."
+  },
+  {
+   "term": "Gorge",
+   "meaning": "A narrow valley with steep sides, usually cut by a river."
+  }
+ ]
+}

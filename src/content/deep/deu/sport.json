@@ -1,0 +1,56 @@
+{
+ "status": "draft",
+ "intro": "Football is Germany's great passion, but it is also a world power in motor racing, tennis, handball and winter sports.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Germany's men have won the World Cup four times, in 1954, 1974, 1990 and 2014, and the women's team won it in 2003 and 2007. Stars over the years have included Franz Beckenbauer, Gerd Müller and Thomas Müller.",
+    "The Bundesliga has some of the highest crowds of any football league in the world, thanks to cheap tickets and standing areas such as Borussia Dortmund's 'Yellow Wall'. Bayern Munich is the most successful club. Most clubs are at least half-owned by their members, the fans."
+   ],
+   "highlight": {
+    "title": "50+1",
+    "text": "Under the '50+1 rule', a club's members must hold a majority of the voting rights, so a rich investor cannot simply buy a club outright."
+   }
+  },
+  {
+   "id": "racing-tennis",
+   "title": "Racing and tennis",
+   "text": [
+    "Michael Schumacher won seven Formula One world championships, a joint record, and Sebastian Vettel won four. Mercedes has been one of the most successful F1 teams of recent years.",
+    "In 1985 Boris Becker became the youngest man to win Wimbledon, aged 17. In 1988 Steffi Graf won all four Grand Slam tournaments and Olympic gold in the same year, the only player ever to complete this 'Golden Slam'."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Handball, basketball and winter sports",
+   "text": [
+    "Handball is hugely popular, and Germany's men have won the world title three times. In 2023 Germany's men won the Basketball World Cup, years after Dirk Nowitzki became one of the NBA's great stars.",
+    "Germany is one of the strongest nations at the Winter Olympics, especially in luge, bobsleigh, biathlon and ski jumping."
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympic history",
+   "text": [
+    "Berlin hosted the 1936 Olympics, which the Nazis used for propaganda; the Black American athlete Jesse Owens won four gold medals there. Munich hosted the 1972 Games, which were struck by tragedy when terrorists killed 11 members of the Israeli team.",
+    "The Berlin Marathon is famous for its flat, fast course, and many marathon world records have been set there."
+   ],
+   "related": [
+    "USA",
+    "ISR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bundesliga",
+   "meaning": "Germany's top football league."
+  },
+  {
+   "term": "Golden Slam",
+   "meaning": "Winning all four tennis Grand Slams and Olympic gold in one year."
+  }
+ ]
+}

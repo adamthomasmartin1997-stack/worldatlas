@@ -1,0 +1,62 @@
+{
+ "status": "draft",
+ "intro": "Germany has the largest economy in Europe. It is famous for cars, machines and chemicals, and for thousands of family-owned companies that lead the world in their niches.",
+ "chapters": [
+  {
+   "id": "industry",
+   "title": "Made in Germany",
+   "text": [
+    "Manufacturing makes up a bigger share of the economy in Germany than in most rich countries. Volkswagen, Mercedes-Benz, BMW and Porsche are among the world's best-known car makers, and BASF is the world's biggest chemical company. Siemens makes trains, factory equipment and medical scanners.",
+    "Much of German industry is made up of the Mittelstand: medium-sized, often family-owned companies. Some are 'hidden champions' that most people have never heard of but that lead the world in one product, from screws to industrial pumps."
+   ]
+  },
+  {
+   "id": "exports",
+   "title": "An export giant",
+   "text": [
+    "Germany sells huge amounts abroad, from cars and machinery to medicines. Its biggest trading partners include the United States, China, France and the Netherlands.",
+    "Frankfurt is a major financial centre and home of the European Central Bank, which sets interest rates for the euro."
+   ],
+   "related": [
+    "USA",
+    "CHN",
+    "FRA",
+    "NLD"
+   ]
+  },
+  {
+   "id": "energy",
+   "title": "The energy transition",
+   "text": [
+    "Germany has set out to switch from fossil fuels and nuclear power to renewable energy, a plan called the Energiewende. It switched off its last nuclear power stations in 2023, and renewable sources such as wind and solar now produce more than half of its electricity, though it still burns coal.",
+    "Before 2022 Germany bought much of its gas from Russia. When those supplies were cut after Russia's invasion of Ukraine, energy prices soared and Germany had to find new suppliers quickly."
+   ],
+   "related": [
+    "RUS",
+    "NOR"
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "The economy shrank in 2023 and 2024 as high energy costs, weaker demand from China and competition in electric cars hit industry. Germany's population is ageing, and many companies struggle to find skilled workers.",
+    "Germany's motorways, the Autobahn, are famous because some stretches have no speed limit, but many roads, bridges and railways need expensive repairs."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mittelstand",
+   "meaning": "Germany's small and medium-sized, often family-run, companies."
+  },
+  {
+   "term": "Energiewende",
+   "meaning": "'Energy transition': Germany's plan to replace fossil fuels and nuclear power with renewable energy."
+  },
+  {
+   "term": "Export",
+   "meaning": "Goods or services sold to another country."
+  }
+ ]
+}
