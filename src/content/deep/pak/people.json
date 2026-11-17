@@ -1,0 +1,42 @@
+{
+ "status": "draft",
+ "intro": "Pakistan has one of the world's largest populations, and one of its youngest: most people are under 30.",
+ "chapters": [
+  {
+   "id": "groups",
+   "title": "Many peoples",
+   "text": [
+    "Punjabis are the largest group, followed by Pashtuns, Sindhis, Saraikis, Muhajirs (families who came from India in 1947) and Baloch. Urdu is the national language and English is used in government, but many people's first language is Punjabi, Pashto, Sindhi or another regional tongue.",
+    "Almost everyone is Muslim, mostly Sunni with a large Shia minority. There are small Christian, Hindu and Sikh communities."
+   ],
+   "related": [
+    "AFG",
+    "IND",
+    "IRN"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities and abroad",
+   "text": [
+    "Karachi, the old capital and main port, is one of the biggest cities in the world. Lahore is the cultural capital, and Islamabad was built as a new capital in the 1960s.",
+    "Millions of Pakistanis live abroad, especially in the Gulf states and the United Kingdom, and the money they send home matters a lot to the economy."
+   ],
+   "related": [
+    "GBR",
+    "ARE",
+    "SAU"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Urdu",
+   "meaning": "Pakistan's national language, written in a Persian-Arabic script."
+  },
+  {
+   "term": "Diaspora",
+   "meaning": "People living outside the country their families came from."
+  }
+ ]
+}

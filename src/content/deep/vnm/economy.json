@@ -1,0 +1,71 @@
+{
+ "status": "draft",
+ "intro": "Since the 1990s Vietnam has turned from one of the poorest countries into a manufacturing powerhouse.",
+ "chapters": [
+  {
+   "id": "factories",
+   "title": "Factory of the world",
+   "text": [
+    "Vietnam makes a huge share of the world's smartphones, clothes, shoes and furniture. Samsung makes many of its phones there.",
+    "It is also one of the biggest exporters of rice, coffee, cashews and black pepper."
+   ],
+   "related": [
+    "KOR",
+    "USA",
+    "CHN"
+   ]
+  },
+  {
+   "id": "growth",
+   "title": "Fast growth",
+   "text": [
+    "Poverty has fallen dramatically. Tourism to places like Hội An and Hạ Long Bay has boomed, and VinFast makes electric cars."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Export",
+   "meaning": "Something sold to another country."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Vietnam",
+   "items": [
+    {
+     "title": "Smartphones",
+     "subtitle": "Samsung, near Hanoi",
+     "text": "Millions of phones a year."
+    },
+    {
+     "title": "Clothes and shoes",
+     "subtitle": "Ho Chi Minh City region",
+     "text": "Made for global brands."
+    },
+    {
+     "title": "Coffee",
+     "subtitle": "Central Highlands",
+     "text": "The world's second-largest producer."
+    },
+    {
+     "title": "Rice",
+     "subtitle": "Mekong Delta",
+     "text": "One of the top exporters."
+    },
+    {
+     "title": "Furniture",
+     "subtitle": "Bình Dương",
+     "text": "Wooden furniture sold worldwide."
+    },
+    {
+     "title": "Electric cars",
+     "subtitle": "VinFast",
+     "text": "A new national carmaker."
+    }
+   ],
+   "intro": "Some of the things Vietnam makes and sells to the world."
+  }
+ ]
+}

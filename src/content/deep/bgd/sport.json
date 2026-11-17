@@ -1,0 +1,142 @@
+{
+ "status": "draft",
+ "intro": "Cricket is the biggest sport in Bangladesh, and the national team plays in front of passionate crowds.",
+ "chapters": [
+  {
+   "id": "cricket",
+   "title": "Cricket",
+   "text": [
+    "Bangladesh became a Test nation in 2000. Shakib Al Hasan became one of the world's best all-rounders. The women's team won the Asia Cup in 2018."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Kabaddi is the national sport. Football is popular too, and many fans support Brazil or Argentina during World Cups."
+   ],
+   "related": [
+    "BRA",
+    "ARG"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kabaddi",
+   "meaning": "A tag-and-wrestle team game played on a court."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Bangladesh Premier League",
+     "subtitle": "Cricket · since 2012",
+     "text": "Comilla Victorians have won it the most."
+    },
+    {
+     "title": "Premier League",
+     "subtitle": "Football",
+     "text": "Abahani and Bashundhara Kings are top clubs."
+    },
+    {
+     "title": "Kabaddi",
+     "subtitle": "National sport",
+     "text": "Played in villages everywhere."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Shakib Al Hasan",
+     "subtitle": "Cricket",
+     "text": "Long ranked the world's best all-rounder."
+    },
+    {
+     "title": "Mashrafe Mortaza",
+     "subtitle": "Cricket",
+     "text": "A popular captain."
+    },
+    {
+     "title": "Mushfiqur Rahim",
+     "subtitle": "Cricket",
+     "text": "Wicketkeeper and batter."
+    },
+    {
+     "title": "Salma Khatun",
+     "subtitle": "Cricket",
+     "text": "Captain of the 2018 Asia Cup winners."
+    },
+    {
+     "title": "Sabina Khatun",
+     "subtitle": "Football",
+     "text": "Captain of the 2022 South Asian champions."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Bangladesh's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Sher-e-Bangla Stadium, Mirpur",
+    "kind": "venue",
+    "lat": 23.807,
+    "lon": 90.363,
+    "text": "The home of Bangladesh cricket."
+   },
+   {
+    "name": "Zahur Ahmed Chowdhury Stadium",
+    "kind": "venue",
+    "lat": 22.33,
+    "lon": 91.82,
+    "text": "Cricket in Chittagong."
+   },
+   {
+    "name": "National Stadium, Dhaka",
+    "kind": "venue",
+    "lat": 23.728,
+    "lon": 90.414,
+    "text": "The main football stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1999",
+    "title": "Beating Pakistan",
+    "text": "A first World Cup shock."
+   },
+   {
+    "year": "2000",
+    "title": "Test status",
+    "text": "Bangladesh plays its first Test."
+   },
+   {
+    "year": "2015",
+    "title": "World Cup quarter-final",
+    "text": "Beat England to get there."
+   },
+   {
+    "year": "2018",
+    "title": "Women's Asia Cup",
+    "text": "Beat India in the final."
+   },
+   {
+    "year": "2022",
+    "title": "SAFF champions",
+    "text": "The women's football team wins."
+   }
+  ]
+ }
+}

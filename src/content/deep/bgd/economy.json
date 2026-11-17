@@ -1,0 +1,70 @@
+{
+ "status": "draft",
+ "intro": "Bangladesh has grown fast, built on clothing factories, farming and money sent home by workers abroad.",
+ "chapters": [
+  {
+   "id": "garments",
+   "title": "Made in Bangladesh",
+   "text": [
+    "Bangladesh is one of the world's biggest exporters of clothing, second after China. Millions of workers, most of them women, sew clothes for global brands.",
+    "In 2013 the Rana Plaza factory building collapsed near Dhaka, killing more than 1,100 people. It led to new safety agreements."
+   ],
+   "related": [
+    "CHN",
+    "USA",
+    "DEU"
+   ]
+  },
+  {
+   "id": "growth",
+   "title": "Growing fast",
+   "text": [
+    "Rice, jute and fish are big parts of farming. Bangladesh pioneered microcredit, small loans to poor people, through the Grameen Bank. The Padma Bridge, opened in 2022, linked the south-west to Dhaka by road."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Microcredit",
+   "meaning": "Very small loans to help people start businesses."
+  },
+  {
+   "term": "Jute",
+   "meaning": "A plant fibre used for sacks and rope."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Bangladesh",
+   "items": [
+    {
+     "title": "Clothes",
+     "subtitle": "Dhaka and Chittagong",
+     "text": "T-shirts, jeans and jumpers for global brands."
+    },
+    {
+     "title": "Jute",
+     "subtitle": "Farms and mills",
+     "text": "The 'golden fibre'."
+    },
+    {
+     "title": "Shrimp and fish",
+     "subtitle": "Coast",
+     "text": "Exported frozen."
+    },
+    {
+     "title": "Medicines",
+     "subtitle": "Local makers",
+     "text": "Cheap medicines for many countries."
+    },
+    {
+     "title": "Ships",
+     "subtitle": "Chittagong",
+     "text": "Shipbreaking and small shipbuilding."
+    }
+   ],
+   "intro": "Some of the things Bangladesh makes and sells to the world."
+  }
+ ]
+}

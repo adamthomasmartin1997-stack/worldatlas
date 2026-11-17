@@ -1,0 +1,102 @@
+{
+ "status": "draft",
+ "intro": "Pakistan is a federal parliamentary republic and an Islamic republic, where the army has long held great influence.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The prime minister leads the government and is chosen by the National Assembly. The president is head of state. There are four provinces, Punjab, Sindh, Khyber Pakhtunkhwa and Balochistan, plus the capital territory.",
+    "Pakistan-administered Kashmir and Gilgit-Baltistan have their own special arrangements."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Islamabad"
+    },
+    {
+     "label": "Provinces",
+     "value": "4"
+    },
+    {
+     "label": "Type",
+     "value": "Federal parliamentary republic"
+    }
+   ]
+  },
+  {
+   "id": "army",
+   "title": "The army and politics",
+   "text": [
+    "The army has ruled directly several times, most recently under General Pervez Musharraf from 1999 to 2008. Even under elected governments it remains very powerful, and no prime minister has yet completed a full five-year term."
+   ],
+   "related": [
+    "IND",
+    "AFG"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Federal",
+   "meaning": "A system where power is shared between national and regional governments."
+  },
+  {
+   "term": "Coup",
+   "meaning": "When the army or another group seizes power by force."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by parliament and provincial assemblies",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Chosen by the National Assembly",
+     "text": "Leads the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "336 seats",
+     "text": "Elected by the people; some seats are reserved for women and minorities."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "96 members",
+     "text": "Chosen by the provincial assemblies."
+    },
+    {
+     "title": "Provinces",
+     "subtitle": "4 provinces",
+     "text": "Each has its own assembly and chief minister."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In either house."
+   },
+   {
+    "title": "Both houses",
+    "text": "Must pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Gives assent, or returns it once."
+   }
+  ]
+ }
+}

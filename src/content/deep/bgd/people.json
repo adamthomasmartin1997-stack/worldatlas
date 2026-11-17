@@ -1,0 +1,38 @@
+{
+ "status": "draft",
+ "intro": "Bangladesh is one of the most crowded countries on Earth, with well over 150 million people living in an area smaller than England and Wales together.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "Bengali nation",
+   "text": [
+    "Almost everyone speaks Bengali (Bangla), and most people are Muslim, with a sizeable Hindu minority. Indigenous peoples such as the Chakma and Marma live in the hill tracts.",
+    "Around a million Rohingya refugees from Myanmar live in camps near Cox's Bazar."
+   ],
+   "related": [
+    "MMR",
+    "IND"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Life and cities",
+   "text": [
+    "Dhaka is one of the fastest-growing and most densely packed cities in the world, famous for its cycle rickshaws. Life expectancy and schooling for girls have improved a lot since 1971."
+   ],
+   "related": [
+    "GBR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bangla",
+   "meaning": "Another name for the Bengali language."
+  },
+  {
+   "term": "Rickshaw",
+   "meaning": "A small passenger cart pulled by a bicycle."
+  }
+ ]
+}

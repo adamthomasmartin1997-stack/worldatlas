@@ -1,0 +1,122 @@
+{
+ "status": "draft",
+ "intro": "Vietnam's history is a long story of resisting bigger powers, from China over a thousand years to France, Japan and the United States in the 20th century.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Bronze drums and Chinese rule",
+   "text": [
+    "The Dong Son culture of the Red River valley made huge bronze drums over 2,000 years ago. In 111 BC the Han dynasty of China conquered the north, and Chinese rule lasted on and off for about a thousand years.",
+    "Rebels fought back many times. The Trưng sisters led an uprising in AD 40 and are still national heroes. In 938 Ngô Quyền defeated a Chinese fleet at the Bạch Đằng river, and Vietnam became independent."
+   ],
+   "related": [
+    "CHN"
+   ]
+  },
+  {
+   "id": "dynasties",
+   "title": "Dynasties and expansion",
+   "text": [
+    "Vietnamese dynasties drove off Mongol invasions in the 1200s and slowly pushed south, taking over the Cham kingdom of central Vietnam and later the Mekong Delta from the Khmer.",
+    "The Nguyễn dynasty united the country in 1802 and ruled from Huế, where its walled citadel still stands."
+   ],
+   "related": [
+    "KHM",
+    "MNG",
+    "CHN"
+   ]
+  },
+  {
+   "id": "france",
+   "title": "French rule and independence",
+   "text": [
+    "France conquered Vietnam between 1858 and 1885 and made it part of French Indochina, with Laos and Cambodia. Plantations and taxes made many Vietnamese poor.",
+    "After Japan's occupation in World War Two, Hồ Chí Minh declared independence on 2 September 1945. France fought to return, but lost the decisive battle of Điện Biên Phủ in 1954. Vietnam was then split into a communist North and a US-backed South."
+   ],
+   "related": [
+    "FRA",
+    "JPN",
+    "LAO",
+    "KHM"
+   ]
+  },
+  {
+   "id": "war",
+   "title": "The Vietnam War and after",
+   "text": [
+    "War between North and South grew in the 1960s as the United States sent over half a million troops. Bombing, chemical defoliants like Agent Orange and fighting killed millions of Vietnamese. US forces left in 1973, and on 30 April 1975 northern tanks entered Saigon, uniting the country.",
+    "Hard years followed, including war with Cambodia and China. From 1986 the Đổi Mới reforms opened the economy, and Vietnam became one of the world's fastest-growing countries. Vietnam and the US became partners again."
+   ],
+   "highlight": {
+    "title": "In Vietnam",
+    "text": "Vietnamese people call it the 'American War' or the 'Resistance War against America'."
+   },
+   "related": [
+    "USA",
+    "KHM",
+    "CHN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "111 BC",
+   "title": "Han conquest",
+   "text": "China rules the north."
+  },
+  {
+   "year": "AD 40",
+   "title": "Trưng sisters",
+   "text": "A famous uprising."
+  },
+  {
+   "year": "938",
+   "title": "Bạch Đằng",
+   "text": "Independence from China."
+  },
+  {
+   "year": "1802",
+   "title": "Nguyễn dynasty",
+   "text": "Vietnam united under one ruler."
+  },
+  {
+   "year": "1887",
+   "title": "French Indochina",
+   "text": "France rules the region."
+  },
+  {
+   "year": "1945",
+   "title": "Independence declared",
+   "text": "Hồ Chí Minh speaks in Hanoi."
+  },
+  {
+   "year": "1954",
+   "title": "Điện Biên Phủ",
+   "text": "French defeat; Vietnam is divided."
+  },
+  {
+   "year": "1975",
+   "title": "Reunification",
+   "text": "The war ends."
+  },
+  {
+   "year": "1986",
+   "title": "Đổi Mới",
+   "text": "Economic reforms begin."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Indochina",
+   "meaning": "France's colony covering Vietnam, Laos and Cambodia."
+  },
+  {
+   "term": "Đổi Mới",
+   "meaning": "'Renovation', the reforms that opened Vietnam's economy."
+  },
+  {
+   "term": "Agent Orange",
+   "meaning": "A chemical sprayed to strip forests, which harmed people for generations."
+  }
+ ]
+}

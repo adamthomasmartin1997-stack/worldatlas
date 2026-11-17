@@ -1,0 +1,164 @@
+{
+ "status": "draft",
+ "intro": "Pakistani culture blends Persian, Mughal, South Asian and regional traditions, from Sufi music to truck art.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music and poetry",
+   "text": [
+    "Qawwali is devotional Sufi music; Nusrat Fateh Ali Khan made it famous worldwide. Poetry matters deeply: Allama Iqbal, the national poet, is honoured on 9 November.",
+    "Coke Studio Pakistan mixes folk and pop and has huge audiences across South Asia."
+   ]
+  },
+  {
+   "id": "art",
+   "title": "Art and crafts",
+   "text": [
+    "Trucks and buses are painted with bright flowers, birds and poems, a style known as truck art. Lahore's walled city and the shrines of Sufi saints are centres of culture."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Biryani, nihari, karahi and kebabs are favourites, often eaten with naan or roti. Chai is drunk everywhere."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Qawwali",
+   "meaning": "Sufi devotional singing, often lasting for hours."
+  },
+  {
+   "term": "Sufi",
+   "meaning": "A mystical tradition within Islam."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Jago Hua Savera",
+     "subtitle": "1959 · A. J. Kardar",
+     "text": "Fishermen's lives in East Pakistan."
+    },
+    {
+     "title": "Saving Face",
+     "subtitle": "2012 · Sharmeen Obaid-Chinoy",
+     "text": "A documentary that won Pakistan's first Oscar."
+    },
+    {
+     "title": "Joyland",
+     "subtitle": "2022 · Saim Sadiq",
+     "text": "A family drama that won a prize at Cannes."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Shikwa and Jawab-e-Shikwa",
+     "subtitle": "1909–13 · Allama Iqbal",
+     "text": "Famous poems asking God hard questions."
+    },
+    {
+     "title": "Ice Candy Man",
+     "subtitle": "1988 · Bapsi Sidhwa",
+     "text": "Partition through a young girl's eyes."
+    },
+    {
+     "title": "I Am Malala",
+     "subtitle": "2013 · Malala Yousafzai",
+     "text": "The Nobel winner's own story."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Mast Qalandar",
+     "subtitle": "Nusrat Fateh Ali Khan",
+     "text": "A Sufi qawwali sung around the world."
+    },
+    {
+     "title": "Dil Dil Pakistan",
+     "subtitle": "Vital Signs, 1987",
+     "text": "A much-loved patriotic pop song."
+    },
+    {
+     "title": "Pasoori",
+     "subtitle": "Ali Sethi and Shae Gill, 2022",
+     "text": "A Coke Studio hit with hundreds of millions of views."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Biryani",
+     "subtitle": "Karachi",
+     "text": "Spiced rice with meat."
+    },
+    {
+     "title": "Nihari",
+     "subtitle": "Lahore and Karachi",
+     "text": "Slow-cooked beef stew eaten for breakfast."
+    },
+    {
+     "title": "Chapli kebab",
+     "subtitle": "Peshawar",
+     "text": "Flat, spicy minced-meat patties."
+    },
+    {
+     "title": "Halwa puri",
+     "subtitle": "Weekend breakfast",
+     "text": "Fried bread with semolina pudding and chickpeas."
+    },
+    {
+     "title": "Gol gappay",
+     "subtitle": "Street food",
+     "text": "Crispy hollow balls filled with spicy water."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Basant",
+    "text": "Kite flying to welcome spring, in some years."
+   },
+   {
+    "month": 3,
+    "name": "Pakistan Day",
+    "text": "23 March, the Lahore Resolution of 1940."
+   },
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "14 August, flags and fireworks."
+   },
+   {
+    "month": 11,
+    "name": "Iqbal Day",
+    "text": "9 November, the national poet's birthday."
+   },
+   {
+    "month": 12,
+    "name": "Quaid-e-Azam Day",
+    "text": "25 December, Jinnah's birthday."
+   }
+  ]
+ }
+}

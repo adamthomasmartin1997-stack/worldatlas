@@ -1,0 +1,41 @@
+{
+ "status": "draft",
+ "intro": "Vietnam has around 100 million people, most of them Kinh (ethnic Vietnamese), plus 53 other recognised ethnic groups.",
+ "chapters": [
+  {
+   "id": "groups",
+   "title": "Peoples and language",
+   "text": [
+    "Vietnamese is written in a Latin alphabet with many accent marks for its six tones. Hill peoples such as the Hmong, Tày and Dao live in the mountains, and there are Khmer and Cham communities in the south.",
+    "Many people mix Buddhism, Confucian ideas and the worship of ancestors; there is also a large Catholic community."
+   ],
+   "related": [
+    "KHM",
+    "CHN"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities and motorbikes",
+   "text": [
+    "Ho Chi Minh City (still often called Saigon) is the biggest city and business hub; Hanoi is the capital. Tens of millions of motorbikes fill the streets.",
+    "Millions of Vietnamese live abroad, especially in the United States, France and Australia."
+   ],
+   "related": [
+    "USA",
+    "FRA",
+    "AUS"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kinh",
+   "meaning": "The majority ethnic Vietnamese."
+  },
+  {
+   "term": "Tonal language",
+   "meaning": "A language where the pitch of a word changes its meaning."
+  }
+ ]
+}

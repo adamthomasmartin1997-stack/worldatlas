@@ -1,0 +1,145 @@
+{
+ "status": "draft",
+ "intro": "Muay Thai, the 'art of eight limbs', is Thailand's national sport and is now practised around the world.",
+ "chapters": [
+  {
+   "id": "muay",
+   "title": "Muay Thai",
+   "text": [
+    "Fighters use fists, elbows, knees and shins. Big fights at Bangkok's Lumpinee and Rajadamnern stadiums are accompanied by live music."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Thailand's Olympic golds have mostly come from boxing, weightlifting and taekwondo. Sepak takraw, a kind of volleyball played with the feet, is hugely popular. Football fans follow the Thai League and the national team."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sepak takraw",
+   "meaning": "A game like volleyball played with feet, knees and head."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Thai League 1",
+     "subtitle": "Football",
+     "text": "Buriram United have won it most."
+    },
+    {
+     "title": "Lumpinee Stadium",
+     "subtitle": "Muay Thai",
+     "text": "A famous fight venue."
+    },
+    {
+     "title": "Thailand Open",
+     "subtitle": "Badminton",
+     "text": "A big tournament."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Buakaw Banchamek",
+     "subtitle": "Muay Thai",
+     "text": "A worldwide star."
+    },
+    {
+     "title": "Paradorn Srichaphan",
+     "subtitle": "Tennis",
+     "text": "Reached world No. 9."
+    },
+    {
+     "title": "Ratchanok Intanon",
+     "subtitle": "Badminton",
+     "text": "World champion at 18."
+    },
+    {
+     "title": "Kunlavut Vitidsarn",
+     "subtitle": "Badminton",
+     "text": "2023 world champion."
+    },
+    {
+     "title": "Panipak Wongpattanakit",
+     "subtitle": "Taekwondo",
+     "text": "Two Olympic golds."
+    },
+    {
+     "title": "Chanathip Songkrasin",
+     "subtitle": "Football",
+     "text": "'Messi Jay', star in Japan."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Thailand's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Rajamangala Stadium, Bangkok",
+    "kind": "venue",
+    "lat": 13.755,
+    "lon": 100.622,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Lumpinee Boxing Stadium",
+    "kind": "venue",
+    "lat": 13.87,
+    "lon": 100.6,
+    "text": "The home of Muay Thai."
+   },
+   {
+    "name": "Chang Arena, Buriram",
+    "kind": "venue",
+    "lat": 14.97,
+    "lon": 103.1,
+    "text": "Home of Buriram United."
+   },
+   {
+    "name": "Chang International Circuit",
+    "kind": "venue",
+    "lat": 14.96,
+    "lon": 103.08,
+    "text": "Hosts MotoGP."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1996",
+    "title": "First Olympic gold",
+    "text": "Somluck Kamsing wins boxing."
+   },
+   {
+    "year": "2013",
+    "title": "Intanon world champion",
+    "text": "Badminton gold at 18."
+   },
+   {
+    "year": "2019",
+    "title": "Women's World Cup",
+    "text": "Thailand plays a second World Cup."
+   },
+   {
+    "year": "2024",
+    "title": "Taekwondo gold again",
+    "text": "Panipak's second Olympic title."
+   }
+  ]
+ }
+}

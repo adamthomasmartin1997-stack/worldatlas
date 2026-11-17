@@ -1,0 +1,107 @@
+{
+ "status": "draft",
+ "intro": "Thailand is the only country in Southeast Asia that was never colonised by a European power. Its kingdoms grew from Sukhothai to Ayutthaya to today's Bangkok.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Early kingdoms",
+   "text": [
+    "Thai-speaking peoples moved south from what is now southern China over many centuries. In the 1200s they founded the kingdom of Sukhothai, whose name means 'dawn of happiness'. King Ramkhamhaeng is said to have created the Thai alphabet.",
+    "Before that, much of the region was ruled by the Mon and by the Khmer Empire of Angkor."
+   ],
+   "related": [
+    "KHM",
+    "CHN",
+    "MMR"
+   ]
+  },
+  {
+   "id": "ayutthaya",
+   "title": "Ayutthaya",
+   "text": [
+    "From 1351 Ayutthaya became one of the richest cities in Asia, trading with China, Japan, Persia and Europe. Visitors compared it to Paris and London.",
+    "In 1767 Burmese armies destroyed the city. General Taksin drove them out and founded a new capital, and in 1782 the Chakri dynasty moved it across the river to Bangkok, where the same royal family still reigns."
+   ],
+   "highlight": {
+    "title": "Ruins today",
+    "text": "Ayutthaya's ruined temples, with a Buddha head wrapped in tree roots, are a World Heritage site."
+   },
+   "related": [
+    "MMR",
+    "CHN",
+    "JPN"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Never colonised",
+   "text": [
+    "In the 1800s Britain and France took control of all Siam's neighbours. Kings Mongkut and Chulalongkorn modernised the country, built railways and gave up some territory to stay independent.",
+    "In 1932 a revolution ended absolute monarchy, and in 1939 Siam was renamed Thailand. Since then the army has seized power many times, most recently in 2006 and 2014."
+   ],
+   "related": [
+    "GBR",
+    "FRA",
+    "LAO",
+    "KHM",
+    "MYS"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1238",
+   "title": "Sukhothai",
+   "text": "The first Thai kingdom."
+  },
+  {
+   "year": "1351",
+   "title": "Ayutthaya",
+   "text": "A great trading city is founded."
+  },
+  {
+   "year": "1767",
+   "title": "Ayutthaya falls",
+   "text": "Burmese armies destroy it."
+  },
+  {
+   "year": "1782",
+   "title": "Bangkok",
+   "text": "The Chakri dynasty begins."
+  },
+  {
+   "year": "1932",
+   "title": "Revolution",
+   "text": "Absolute monarchy ends."
+  },
+  {
+   "year": "1939",
+   "title": "Thailand",
+   "text": "Siam takes a new name."
+  },
+  {
+   "year": "2004",
+   "title": "Tsunami",
+   "text": "Thousands die on the Andaman coast."
+  },
+  {
+   "year": "2016",
+   "title": "New king",
+   "text": "King Vajiralongkorn succeeds King Bhumibol."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Siam",
+   "meaning": "The old name for Thailand."
+  },
+  {
+   "term": "Chakri dynasty",
+   "meaning": "Thailand's royal family since 1782."
+  },
+  {
+   "term": "Coup",
+   "meaning": "When the army seizes power."
+  }
+ ]
+}

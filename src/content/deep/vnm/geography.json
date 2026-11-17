@@ -1,0 +1,113 @@
+{
+ "status": "draft",
+ "intro": "Vietnam is a long S-shaped country running about 1,650 km along the South China Sea, from mountains on the Chinese border to the Mekong Delta.",
+ "chapters": [
+  {
+   "id": "shape",
+   "title": "Two rice baskets on a pole",
+   "text": [
+    "Vietnamese people describe their country as two rice baskets on a carrying pole: the Red River Delta in the north and the Mekong Delta in the south, joined by a narrow middle that is only about 50 km wide at its thinnest.",
+    "The Annamite mountains run down the west. Fansipan, at 3,143 m, is the highest peak in Indochina."
+   ],
+   "related": [
+    "CHN",
+    "LAO",
+    "KHM"
+   ]
+  },
+  {
+   "id": "wonders",
+   "title": "Bays and caves",
+   "text": [
+    "Hạ Long Bay has around 1,600 limestone islands rising from green water. Sơn Đoòng in Phong Nha-Kẻ Bàng is the world's largest known cave by volume, with its own jungle and clouds inside."
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The north has cool winters and hot summers; the south is hot all year with wet and dry seasons. Typhoons hit the central coast most years."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Karst",
+   "meaning": "Limestone landscape with caves, towers and sinkholes."
+  },
+  {
+   "term": "Typhoon",
+   "meaning": "A tropical storm in the western Pacific."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Vietnam's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Fansipan",
+    "kind": "mountain",
+    "lat": 22.3,
+    "lon": 103.78,
+    "text": "The highest peak in Indochina, reached by cable car."
+   },
+   {
+    "name": "Hà Giang loop",
+    "kind": "karst mountains",
+    "lat": 23.2,
+    "lon": 105.2,
+    "text": "Mountain roads and rice terraces near China."
+   },
+   {
+    "name": "Hạ Long Bay",
+    "kind": "limestone islands",
+    "lat": 20.9,
+    "lon": 107.1,
+    "text": "About 1,600 islands in emerald water."
+   },
+   {
+    "name": "Tràng An",
+    "kind": "karst and rivers",
+    "lat": 20.25,
+    "lon": 105.9,
+    "text": "Boat trips through caves and rice fields."
+   },
+   {
+    "name": "Phong Nha caves",
+    "kind": "caves",
+    "lat": 17.55,
+    "lon": 106.28,
+    "text": "Home of Sơn Đoòng, the world's largest cave."
+   },
+   {
+    "name": "Hải Vân Pass",
+    "kind": "coastal pass",
+    "lat": 16.2,
+    "lon": 108.13,
+    "text": "A road over mountains above the sea."
+   },
+   {
+    "name": "Central Highlands",
+    "kind": "plateau",
+    "lat": 12.7,
+    "lon": 108.0,
+    "text": "Coffee farms and volcanic soil."
+   },
+   {
+    "name": "Mũi Né dunes",
+    "kind": "sand dunes",
+    "lat": 11.0,
+    "lon": 108.4,
+    "text": "Red and white dunes by the sea."
+   },
+   {
+    "name": "Mekong Delta",
+    "kind": "river delta",
+    "lat": 10.0,
+    "lon": 105.8,
+    "text": "Floating markets and rice fields."
+   }
+  ]
+ }
+}

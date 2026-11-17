@@ -1,0 +1,106 @@
+{
+ "status": "draft",
+ "intro": "Vietnam is a one-party communist state led by the Communist Party of Vietnam.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The party's general secretary is the most powerful leader. The president is head of state and the prime minister runs the government. The National Assembly passes laws; nearly all members belong to the party.",
+    "Opposition parties are not allowed and the media is controlled by the state."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Hanoi"
+    },
+    {
+     "label": "Ruling party",
+     "value": "Communist Party of Vietnam"
+    },
+    {
+     "label": "National Day",
+     "value": "2 September"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Vietnam and the world",
+   "text": [
+    "Vietnam joined ASEAN in 1995 and the WTO in 2007. It keeps close ties with China but also disputes islands in the South China Sea with it."
+   ],
+   "related": [
+    "CHN",
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "One-party state",
+   "meaning": "A country where only one political party is allowed to rule."
+  },
+  {
+   "term": "ASEAN",
+   "meaning": "The Association of Southeast Asian Nations."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "General Secretary",
+     "subtitle": "Chosen by the Communist Party",
+     "text": "The most powerful leader."
+    },
+    {
+     "title": "The President",
+     "subtitle": "Elected by the National Assembly",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Elected by the National Assembly",
+     "text": "Runs the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "Up to 500 members",
+     "text": "Passes laws; elected every five years."
+    },
+    {
+     "title": "Provinces",
+     "subtitle": "34 provinces and cities",
+     "text": "Local government after a 2025 merger."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is drafted",
+    "text": "Often by a ministry."
+   },
+   {
+    "title": "Debate",
+    "text": "Discussed over two sessions."
+   },
+   {
+    "title": "Vote",
+    "text": "The National Assembly votes."
+   },
+   {
+    "title": "Published",
+    "text": "The President announces it."
+   }
+  ]
+ }
+}

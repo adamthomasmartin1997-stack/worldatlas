@@ -1,0 +1,108 @@
+{
+ "status": "draft",
+ "intro": "Pakistan runs from the Arabian Sea to some of the highest mountains on Earth, with the Indus river flowing down its length.",
+ "chapters": [
+  {
+   "id": "mountains",
+   "title": "The great mountains",
+   "text": [
+    "Three of the world's great ranges meet in the north: the Himalayas, the Karakoram and the Hindu Kush. K2, the world's second-highest mountain at 8,611 m, stands on the border with China.",
+    "Outside the polar regions, few places have more glaciers. The Karakoram Highway climbs over the Khunjerab Pass to China, one of the highest paved border crossings in the world."
+   ],
+   "related": [
+    "CHN",
+    "AFG",
+    "IND"
+   ]
+  },
+  {
+   "id": "indus",
+   "title": "The Indus and the plains",
+   "text": [
+    "The Indus rises in Tibet and flows about 3,000 km to the sea. Its plains in Punjab and Sindh are some of the largest irrigated farmland in the world, fed by a huge network of canals.",
+    "In the south-west, Balochistan is a dry land of plateaus and desert. The Thar Desert spreads across the border with India."
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Heat and floods",
+   "text": [
+    "Summers on the plains are very hot; Jacobabad is one of the hottest cities on Earth. The monsoon brings most of the rain in July and August.",
+    "In 2022 monsoon floods covered about a third of the country and affected over 30 million people."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Karakoram",
+   "meaning": "A mountain range in the far north with K2 and huge glaciers."
+  },
+  {
+   "term": "Monsoon",
+   "meaning": "A seasonal wind that brings heavy summer rain."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Pakistan's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "K2",
+    "kind": "mountain",
+    "lat": 35.88,
+    "lon": 76.51,
+    "text": "The world's second-highest mountain, 8,611 m."
+   },
+   {
+    "name": "Hunza Valley",
+    "kind": "mountain valley",
+    "lat": 36.32,
+    "lon": 74.65,
+    "text": "Apricot orchards below snowy peaks."
+   },
+   {
+    "name": "Deosai Plains",
+    "kind": "high plateau",
+    "lat": 35.0,
+    "lon": 75.5,
+    "text": "One of the highest plateaus on Earth, home to brown bears."
+   },
+   {
+    "name": "Swat Valley",
+    "kind": "green valley",
+    "lat": 35.2,
+    "lon": 72.4,
+    "text": "Forests, rivers and Buddhist ruins."
+   },
+   {
+    "name": "Salt Range",
+    "kind": "salt mines",
+    "lat": 32.65,
+    "lon": 73.0,
+    "text": "The Khewra mine, source of pink Himalayan salt."
+   },
+   {
+    "name": "Thar Desert",
+    "kind": "desert",
+    "lat": 25.0,
+    "lon": 70.0,
+    "text": "Sand dunes on the border with India."
+   },
+   {
+    "name": "Indus Delta",
+    "kind": "delta",
+    "lat": 24.0,
+    "lon": 67.5,
+    "text": "Mangroves where the Indus meets the sea."
+   },
+   {
+    "name": "Hingol National Park",
+    "kind": "coast and desert",
+    "lat": 25.5,
+    "lon": 65.5,
+    "text": "Mud volcanoes and a rock shaped like a sphinx."
+   }
+  ]
+ }
+}

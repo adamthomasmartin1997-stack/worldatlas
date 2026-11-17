@@ -1,0 +1,118 @@
+{
+ "status": "draft",
+ "intro": "Bangladesh lies in the old land of Bengal, a rich region of rivers and rice fields. It won independence in 1971 after a war that began with a fight to defend the Bengali language.",
+ "chapters": [
+  {
+   "id": "bengal",
+   "title": "Ancient and medieval Bengal",
+   "text": [
+    "Bengal was home to Buddhist kingdoms such as the Pala Empire, which built great monasteries like Somapura Mahavihara. From the 1200s Muslim rulers took over, and Islam spread widely, especially in the east.",
+    "Under the Mughals, Bengal became one of the richest regions in the world, famous for fine cotton cloth called muslin."
+   ],
+   "highlight": {
+    "title": "Muslin",
+    "text": "Dhaka muslin was so fine that a whole length could be pulled through a ring."
+   },
+   "related": [
+    "IND",
+    "MMR"
+   ]
+  },
+  {
+   "id": "british",
+   "title": "British Bengal",
+   "text": [
+    "The British East India Company won the Battle of Plassey in 1757 and took control of Bengal, its first big foothold in India. A terrible famine in 1770 and another in 1943 killed millions.",
+    "In 1947, when British India was divided, East Bengal became East Pakistan, part of a country whose two halves were separated by India."
+   ],
+   "related": [
+    "GBR",
+    "IND",
+    "PAK"
+   ]
+  },
+  {
+   "id": "language",
+   "title": "The language movement",
+   "text": [
+    "In 1948 Pakistan's leaders announced that Urdu alone would be the national language, though most people in East Pakistan spoke Bengali. On 21 February 1952 police shot students protesting in Dhaka.",
+    "That day is now remembered around the world: UNESCO made 21 February International Mother Language Day."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Few countries trace their birth to a fight over language."
+   },
+   "related": [
+    "PAK"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Liberation War and after",
+   "text": [
+    "After the Awami League, led by Sheikh Mujibur Rahman, won the 1970 election but was kept from power, the Pakistani army launched a crackdown in March 1971. Bengali fighters resisted, millions of refugees fled to India, and India joined the war in December. Pakistan's forces surrendered on 16 December 1971.",
+    "Since then Bangladesh has seen coups, military rule and long rivalry between two parties. In 2024 student-led protests forced Prime Minister Sheikh Hasina to resign and flee the country."
+   ],
+   "related": [
+    "PAK",
+    "IND"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 800",
+   "title": "Pala Empire",
+   "text": "Buddhist kings rule Bengal."
+  },
+  {
+   "year": "1204",
+   "title": "Muslim rule",
+   "text": "Turkic forces take Bengal."
+  },
+  {
+   "year": "1757",
+   "title": "Plassey",
+   "text": "The British take control."
+  },
+  {
+   "year": "1947",
+   "title": "East Pakistan",
+   "text": "Bengal is divided at Partition."
+  },
+  {
+   "year": "1952",
+   "title": "Language Movement",
+   "text": "Students are killed on 21 February."
+  },
+  {
+   "year": "1971",
+   "title": "Independence",
+   "text": "Victory on 16 December."
+  },
+  {
+   "year": "1991",
+   "title": "Return to democracy",
+   "text": "Elections after military rule."
+  },
+  {
+   "year": "2024",
+   "title": "Uprising",
+   "text": "Protests end Sheikh Hasina's rule."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Muslin",
+   "meaning": "A very fine cotton cloth."
+  },
+  {
+   "term": "Mother Language Day",
+   "meaning": "21 February, a world day for protecting languages."
+  },
+  {
+   "term": "Mukti Bahini",
+   "meaning": "The Bengali freedom fighters of 1971."
+  }
+ ]
+}

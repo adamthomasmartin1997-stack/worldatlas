@@ -1,0 +1,70 @@
+{
+ "status": "draft",
+ "intro": "Thailand is one of Southeast Asia's biggest economies, built on cars, electronics, farming and tourism.",
+ "chapters": [
+  {
+   "id": "industry",
+   "title": "Detroit of Asia",
+   "text": [
+    "Thailand is a major car maker, especially pick-up trucks, for Japanese brands like Toyota. It also makes hard drives, electronics and rubber products.",
+    "It is one of the world's top exporters of rice, rubber, sugar and canned tuna."
+   ],
+   "related": [
+    "JPN",
+    "CHN"
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Before 2020 almost 40 million tourists visited each year, and tourism is a huge employer. The 1997 Asian financial crisis began when Thailand's currency, the baht, collapsed."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Baht",
+   "meaning": "Thailand's currency."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Thailand",
+   "items": [
+    {
+     "title": "Cars and pick-ups",
+     "subtitle": "Eastern Seaboard",
+     "text": "A regional car-making hub."
+    },
+    {
+     "title": "Hard drives",
+     "subtitle": "Factories",
+     "text": "A big share of the world's supply."
+    },
+    {
+     "title": "Rice",
+     "subtitle": "Central plains",
+     "text": "Jasmine rice sold worldwide."
+    },
+    {
+     "title": "Rubber",
+     "subtitle": "The south",
+     "text": "The world's largest producer."
+    },
+    {
+     "title": "Canned tuna",
+     "subtitle": "Samut Sakhon",
+     "text": "The world's biggest exporter."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Everywhere",
+     "text": "Tens of millions of visitors."
+    }
+   ],
+   "intro": "Some of the things Thailand makes and sells to the world."
+  }
+ ]
+}

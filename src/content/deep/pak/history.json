@@ -1,0 +1,127 @@
+{
+ "status": "draft",
+ "intro": "The land that is now Pakistan was home to one of the world's first cities, sat on the routes of conquerors from Alexander to the Mughals, and became an independent country in 1947.",
+ "chapters": [
+  {
+   "id": "indus",
+   "title": "The Indus Valley civilisation",
+   "text": [
+    "Around 4,500 years ago, cities such as Mohenjo-daro and Harappa grew up along the Indus river. They had straight streets, brick houses, drains and public baths, and traded as far as Mesopotamia.",
+    "Their writing has never been deciphered, so we still don't know what language they spoke. By about 1900 BC the cities were in decline, possibly because rivers changed course."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "The Indus cities were among the best-planned towns of the ancient world, with sewers centuries ahead of most of Europe."
+   },
+   "related": [
+    "IND",
+    "IRQ"
+   ]
+  },
+  {
+   "id": "empires",
+   "title": "Crossroads of empires",
+   "text": [
+    "Persians, Alexander the Great, the Mauryas and the Kushans all ruled parts of the region. Gandhara, around modern Peshawar and Taxila, became a centre of Buddhist art that mixed Greek and Indian styles.",
+    "Islam arrived in Sindh in 711. Later the Delhi Sultanate and then the Mughal Empire ruled; Lahore, with its Badshahi Mosque and Shalimar Gardens, was one of the great Mughal cities."
+   ],
+   "related": [
+    "IRN",
+    "GRC",
+    "AFG",
+    "IND"
+   ]
+  },
+  {
+   "id": "british",
+   "title": "British rule and Partition",
+   "text": [
+    "Britain took control of the region in the 1800s as part of British India. Muslim leaders, led by Muhammad Ali Jinnah of the Muslim League, came to argue that Muslims needed their own state.",
+    "On 14 August 1947 British India was divided. Pakistan was created in two parts, West and East, about 1,600 km apart. Partition caused one of the largest migrations in history, with millions of people crossing the new borders and hundreds of thousands killed in violence."
+   ],
+   "highlight": {
+    "title": "Partition",
+    "text": "Around 15 million people moved between India and Pakistan in 1947, one of the biggest movements of people ever recorded."
+   },
+   "related": [
+    "GBR",
+    "IND"
+   ]
+  },
+  {
+   "id": "since",
+   "title": "Since independence",
+   "text": [
+    "Pakistan and India have fought several wars, mostly over Kashmir, which both claim. In 1971 East Pakistan broke away after a war and became Bangladesh.",
+    "Pakistan has swung between elected governments and military rule. It tested nuclear weapons in 1998. In 2007 Benazir Bhutto, the first woman to lead a Muslim-majority country, was assassinated."
+   ],
+   "related": [
+    "IND",
+    "BGD",
+    "AFG",
+    "CHN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 2500 BC",
+   "title": "Mohenjo-daro",
+   "text": "Indus cities flourish."
+  },
+  {
+   "year": "326 BC",
+   "title": "Alexander",
+   "text": "Alexander the Great reaches the Indus."
+  },
+  {
+   "year": "711",
+   "title": "Islam arrives",
+   "text": "Arab armies take Sindh."
+  },
+  {
+   "year": "1526",
+   "title": "Mughal Empire",
+   "text": "The Mughals begin their rule."
+  },
+  {
+   "year": "1849",
+   "title": "British take Punjab",
+   "text": "The region becomes part of British India."
+  },
+  {
+   "year": "1947",
+   "title": "Independence",
+   "text": "Pakistan is created at Partition."
+  },
+  {
+   "year": "1971",
+   "title": "Bangladesh",
+   "text": "East Pakistan becomes independent."
+  },
+  {
+   "year": "1998",
+   "title": "Nuclear tests",
+   "text": "Pakistan tests nuclear weapons."
+  },
+  {
+   "year": "2007",
+   "title": "Bhutto killed",
+   "text": "Benazir Bhutto is assassinated."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Partition",
+   "meaning": "The division of British India into India and Pakistan in 1947."
+  },
+  {
+   "term": "Mughal",
+   "meaning": "A Muslim dynasty that ruled much of South Asia from 1526."
+  },
+  {
+   "term": "Gandhara",
+   "meaning": "An ancient region famous for Buddhist art."
+  }
+ ]
+}

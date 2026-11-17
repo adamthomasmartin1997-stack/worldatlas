@@ -1,0 +1,77 @@
+{
+ "status": "draft",
+ "intro": "Pakistan's economy rests on farming, textiles and money sent home by workers abroad, with many people working in the informal economy.",
+ "chapters": [
+  {
+   "id": "farms",
+   "title": "Farms and textiles",
+   "text": [
+    "Cotton, wheat, rice and sugar cane grow on the irrigated plains. Cotton feeds a large textile industry, which makes towels, bedsheets, jeans and clothing for the world.",
+    "Sialkot is famous for making footballs; many World Cup balls have been stitched there."
+   ],
+   "related": [
+    "CHN",
+    "USA"
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "Pakistan has often needed loans from the IMF, and rising prices have been a problem. China has invested heavily in roads, power stations and the port of Gwadar through the China-Pakistan Economic Corridor."
+   ],
+   "related": [
+    "CHN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Remittances",
+   "meaning": "Money sent home by people working abroad."
+  },
+  {
+   "term": "IMF",
+   "meaning": "The International Monetary Fund, which lends to countries in trouble."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Pakistan",
+   "items": [
+    {
+     "title": "Textiles",
+     "subtitle": "Faisalabad and Karachi",
+     "text": "Towels, sheets and clothes; the biggest export."
+    },
+    {
+     "title": "Rice",
+     "subtitle": "Punjab",
+     "text": "Basmati rice sold worldwide."
+    },
+    {
+     "title": "Sports goods",
+     "subtitle": "Sialkot",
+     "text": "Footballs, cricket gear and hockey sticks."
+    },
+    {
+     "title": "Surgical tools",
+     "subtitle": "Sialkot",
+     "text": "Instruments used in hospitals worldwide."
+    },
+    {
+     "title": "Pink salt",
+     "subtitle": "Khewra",
+     "text": "Himalayan rock salt."
+    },
+    {
+     "title": "Mangoes",
+     "subtitle": "Punjab and Sindh",
+     "text": "Sweet varieties like Chaunsa and Sindhri."
+    }
+   ],
+   "intro": "Some of the things Pakistan makes and sells to the world."
+  }
+ ]
+}

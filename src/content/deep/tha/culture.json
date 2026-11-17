@@ -1,0 +1,166 @@
+{
+ "status": "draft",
+ "intro": "Thai culture is famous for its temples, food, festivals and a relaxed attitude called sanuk: life should be fun.",
+ "chapters": [
+  {
+   "id": "temples",
+   "title": "Temples and arts",
+   "text": [
+    "Thailand has over 40,000 Buddhist temples, called wats. Classical dance, the Ramakien epic (Thailand's version of the Ramayana) and Thai boxing are all part of its heritage."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Thai food balances sweet, sour, salty and spicy. Tom yum soup, green curry, pad thai and som tam (papaya salad) are known worldwide, and street food is everywhere."
+   ]
+  },
+  {
+   "id": "pop",
+   "title": "Pop culture",
+   "text": [
+    "Thai TV dramas and 'boys' love' series have big audiences across Asia, and Lisa of BLACKPINK is from Thailand."
+   ],
+   "related": [
+    "KOR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Wat",
+   "meaning": "A Buddhist temple."
+  },
+  {
+   "term": "Sanuk",
+   "meaning": "The Thai idea that life should be enjoyable."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Uncle Boonmee Who Can Recall His Past Lives",
+     "subtitle": "2010 · Apichatpong Weerasethakul",
+     "text": "Won the top prize at Cannes."
+    },
+    {
+     "title": "Ong-Bak",
+     "subtitle": "2003 · Prachya Pinkaew",
+     "text": "Tony Jaa's Muay Thai action film."
+    },
+    {
+     "title": "How to Make Millions Before Grandma Dies",
+     "subtitle": "2024 · Pat Boonnitipat",
+     "text": "A family drama that was a hit across Asia."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Ramakien",
+     "subtitle": "1700s",
+     "text": "Thailand's version of the Ramayana epic."
+    },
+    {
+     "title": "Phra Aphai Mani",
+     "subtitle": "1800s · Sunthorn Phu",
+     "text": "An epic poem by Thailand's great poet."
+    },
+    {
+     "title": "Four Reigns",
+     "subtitle": "1953 · Kukrit Pramoj",
+     "text": "Life in the palace through four kings."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Luk thung",
+     "subtitle": "Country music",
+     "text": "Songs about rural life."
+    },
+    {
+     "title": "Mor lam",
+     "subtitle": "Isan",
+     "text": "Folk music with the khaen mouth organ."
+    },
+    {
+     "title": "LALISA",
+     "subtitle": "Lisa, 2021",
+     "text": "A solo hit by the BLACKPINK star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Tom yum",
+     "subtitle": "Everywhere",
+     "text": "Hot and sour soup."
+    },
+    {
+     "title": "Pad thai",
+     "subtitle": "Everywhere",
+     "text": "Stir-fried rice noodles."
+    },
+    {
+     "title": "Som tam",
+     "subtitle": "Isan",
+     "text": "Green papaya salad."
+    },
+    {
+     "title": "Green curry",
+     "subtitle": "Everywhere",
+     "text": "Coconut curry with Thai basil."
+    },
+    {
+     "title": "Mango sticky rice",
+     "subtitle": "Hot season",
+     "text": "Sweet coconut rice with mango."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Chinese New Year",
+    "text": "Big in Bangkok's Chinatown."
+   },
+   {
+    "month": 4,
+    "name": "Songkran",
+    "text": "Thai New Year, a nationwide water fight."
+   },
+   {
+    "month": 11,
+    "name": "Loy Krathong",
+    "text": "Floating candles on rivers."
+   },
+   {
+    "month": 11,
+    "name": "Yi Peng",
+    "text": "Sky lanterns in Chiang Mai."
+   },
+   {
+    "month": 12,
+    "name": "Father's Day",
+    "text": "5 December, King Bhumibol's birthday."
+   }
+  ]
+ }
+}

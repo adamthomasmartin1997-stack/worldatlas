@@ -1,0 +1,159 @@
+{
+ "status": "draft",
+ "intro": "Vietnamese culture mixes ancient local traditions with Chinese and French influences, from water puppets to bánh mì.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Tết, the Lunar New Year, is the biggest festival. Water puppetry, where puppets dance across a pool, comes from the rice paddies of the north. The áo dài is the elegant national dress."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Phở noodle soup, bánh mì sandwiches (a French baguette with Vietnamese fillings), fresh spring rolls and fish sauce define the cuisine. Vietnamese coffee is strong and sweet, sometimes made with egg."
+   ],
+   "related": [
+    "FRA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tết",
+   "meaning": "Vietnamese Lunar New Year."
+  },
+  {
+   "term": "Áo dài",
+   "meaning": "A long tunic worn over trousers."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Scent of Green Papaya",
+     "subtitle": "1993 · Trần Anh Hùng",
+     "text": "A servant girl in Saigon; Oscar-nominated."
+    },
+    {
+     "title": "Inside the Yellow Cocoon Shell",
+     "subtitle": "2023 · Phạm Thiên Ân",
+     "text": "Won a prize at Cannes."
+    },
+    {
+     "title": "Mai",
+     "subtitle": "2024 · Trấn Thành",
+     "text": "One of Vietnam's biggest box-office hits."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Tale of Kiều",
+     "subtitle": "1820 · Nguyễn Du",
+     "text": "The national epic poem."
+    },
+    {
+     "title": "The Sorrow of War",
+     "subtitle": "1990 · Bảo Ninh",
+     "text": "A soldier remembers the war."
+    },
+    {
+     "title": "The Sympathizer",
+     "subtitle": "2015 · Viet Thanh Nguyen",
+     "text": "A spy novel by a Vietnamese-American; won the Pulitzer."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Ca trù",
+     "subtitle": "Traditional",
+     "text": "Old sung poetry; UNESCO-listed."
+    },
+    {
+     "title": "Nhạc Trịnh",
+     "subtitle": "Trịnh Công Sơn",
+     "text": "Gentle songs about love and war."
+    },
+    {
+     "title": "See Tình",
+     "subtitle": "Hoàng Thùy Linh, 2022",
+     "text": "A pop hit that went viral worldwide."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Phở",
+     "subtitle": "Hanoi",
+     "text": "Beef or chicken noodle soup."
+    },
+    {
+     "title": "Bánh mì",
+     "subtitle": "Ho Chi Minh City",
+     "text": "A baguette with pâté, meat and herbs."
+    },
+    {
+     "title": "Bún chả",
+     "subtitle": "Hanoi",
+     "text": "Grilled pork with noodles."
+    },
+    {
+     "title": "Gỏi cuốn",
+     "subtitle": "Everywhere",
+     "text": "Fresh rice-paper rolls."
+    },
+    {
+     "title": "Egg coffee",
+     "subtitle": "Hanoi",
+     "text": "Coffee topped with whipped egg yolk."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Tết",
+    "text": "Lunar New Year, January or February."
+   },
+   {
+    "month": 4,
+    "name": "Hùng Kings' Day",
+    "text": "Remembering the legendary first kings."
+   },
+   {
+    "month": 4,
+    "name": "Reunification Day",
+    "text": "30 April, 1975."
+   },
+   {
+    "month": 9,
+    "name": "National Day",
+    "text": "2 September, 1945."
+   },
+   {
+    "month": 9,
+    "name": "Mid-Autumn Festival",
+    "text": "Lanterns and mooncakes."
+   }
+  ]
+ }
+}

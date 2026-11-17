@@ -1,0 +1,97 @@
+{
+ "status": "draft",
+ "intro": "Bangladesh is a parliamentary republic. After the 2024 uprising an interim government took over and prepared for new elections.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The prime minister normally leads the government, chosen from the 300-seat Jatiya Sangsad (parliament). The president is head of state. For decades politics was a rivalry between the Awami League and the Bangladesh Nationalist Party."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Dhaka"
+    },
+    {
+     "label": "Parliament",
+     "value": "Jatiya Sangsad"
+    },
+    {
+     "label": "Independence",
+     "value": "1971"
+    }
+   ]
+  },
+  {
+   "id": "interim",
+   "title": "After 2024",
+   "text": [
+    "In August 2024 Nobel Peace Prize winner Muhammad Yunus became chief adviser of an interim government, promising reforms and new elections."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Interim government",
+   "meaning": "A temporary government that rules until an election."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by parliament",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the largest party",
+     "text": "Runs the government."
+    },
+    {
+     "title": "Jatiya Sangsad",
+     "subtitle": "300 elected seats plus 50 for women",
+     "text": "A single-chamber parliament."
+    },
+    {
+     "title": "Supreme Court",
+     "subtitle": "Judges",
+     "text": "The top court."
+    },
+    {
+     "title": "Divisions",
+     "subtitle": "8 divisions",
+     "text": "Large regions for administration."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "Usually by a minister."
+   },
+   {
+    "title": "Committee",
+    "text": "Studied by a committee."
+   },
+   {
+    "title": "Vote",
+    "text": "Passed by parliament."
+   },
+   {
+    "title": "The President",
+    "text": "Gives assent."
+   }
+  ]
+ }
+}

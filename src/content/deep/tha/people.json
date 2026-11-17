@@ -1,0 +1,36 @@
+{
+ "status": "draft",
+ "intro": "Thailand has around 70 million people, most of them Thai-speaking Buddhists.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "Peoples and religion",
+   "text": [
+    "Central Thai is the official language, while Isan speakers in the north-east speak a language close to Lao. There are large Chinese-Thai communities, hill peoples like the Karen and Hmong in the north, and Malay Muslims in the far south.",
+    "Over 90% of people are Theravada Buddhists, and many young men spend time as monks."
+   ],
+   "related": [
+    "LAO",
+    "CHN",
+    "MYS"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Daily life",
+   "text": [
+    "Respect for the monarchy, elders and Buddhism shapes everyday manners; people greet each other with a wai, palms pressed together. Bangkok is a huge city of over 10 million people, and Thailand is ageing quickly."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Wai",
+   "meaning": "A Thai greeting with palms pressed together."
+  },
+  {
+   "term": "Theravada",
+   "meaning": "The oldest surviving school of Buddhism."
+  }
+ ]
+}

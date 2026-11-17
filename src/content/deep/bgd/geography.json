@@ -1,0 +1,113 @@
+{
+ "status": "draft",
+ "intro": "Bangladesh sits on the world's largest river delta, where the Ganges, Brahmaputra and Meghna rivers meet the Bay of Bengal.",
+ "chapters": [
+  {
+   "id": "delta",
+   "title": "A land of rivers",
+   "text": [
+    "Hundreds of rivers cross the country, and most of the land is flat and less than 10 m above sea level. Rivers bring rich silt that makes the soil very fertile, but they also shift course and flood.",
+    "Only the Chittagong Hill Tracts in the south-east are hilly."
+   ],
+   "related": [
+    "IND",
+    "CHN"
+   ]
+  },
+  {
+   "id": "sundarbans",
+   "title": "The Sundarbans",
+   "text": [
+    "The Sundarbans, shared with India, is the largest mangrove forest in the world. It is home to the Bengal tiger, which swims between islands."
+   ],
+   "related": [
+    "IND"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Monsoons and cyclones",
+   "text": [
+    "The monsoon from June to October brings heavy rain, and in a normal year a large part of the country floods. Cyclones from the Bay of Bengal can bring storm surges. Rising sea levels make Bangladesh one of the countries most at risk from climate change.",
+    "Bangladesh has become a world leader in cyclone warnings and shelters, which have saved huge numbers of lives."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Delta",
+   "meaning": "Flat land where a river splits and spreads out before reaching the sea."
+  },
+  {
+   "term": "Mangrove",
+   "meaning": "Trees that grow in salty coastal water."
+  },
+  {
+   "term": "Storm surge",
+   "meaning": "A rise in sea level pushed ashore by a storm."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Bangladesh's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Sundarbans",
+    "kind": "mangrove forest",
+    "lat": 21.95,
+    "lon": 89.2,
+    "text": "The world's largest mangrove forest, home to tigers."
+   },
+   {
+    "name": "Cox's Bazar",
+    "kind": "beach",
+    "lat": 21.43,
+    "lon": 92.0,
+    "text": "One of the world's longest natural sea beaches."
+   },
+   {
+    "name": "Saint Martin's Island",
+    "kind": "coral island",
+    "lat": 20.62,
+    "lon": 92.32,
+    "text": "The country's only coral island."
+   },
+   {
+    "name": "Bandarban hills",
+    "kind": "hills",
+    "lat": 21.9,
+    "lon": 92.4,
+    "text": "The highest hills, near Myanmar."
+   },
+   {
+    "name": "Srimangal",
+    "kind": "tea gardens",
+    "lat": 24.3,
+    "lon": 91.73,
+    "text": "Rolling tea estates."
+   },
+   {
+    "name": "Ratargul",
+    "kind": "swamp forest",
+    "lat": 25.0,
+    "lon": 91.93,
+    "text": "A forest that floods in the monsoon."
+   },
+   {
+    "name": "Padma river",
+    "kind": "great river",
+    "lat": 23.5,
+    "lon": 89.8,
+    "text": "The Ganges as it flows through Bangladesh."
+   },
+   {
+    "name": "Dhaka",
+    "kind": "capital",
+    "lat": 23.81,
+    "lon": 90.41,
+    "text": "A crowded river city."
+   }
+  ]
+ }
+}

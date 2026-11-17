@@ -1,0 +1,133 @@
+{
+ "status": "draft",
+ "intro": "Football is Vietnam's favourite sport, and every big win brings millions of fans out onto the streets on motorbikes.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football fever",
+   "text": [
+    "Vietnam has won the ASEAN Championship (the AFF Cup) several times. When the under-23 team reached the Asian final in 2018, cities erupted in celebration."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Hoàng Xuân Vinh won Vietnam's first Olympic gold in shooting in 2016. Martial arts such as Vovinam are popular, and the women's football team played at the 2023 World Cup."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Vovinam",
+   "meaning": "A Vietnamese martial art."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "V.League 1",
+     "subtitle": "Football",
+     "text": "Hà Nội FC have won it most in recent years."
+    },
+    {
+     "title": "ASEAN Championship",
+     "subtitle": "Football",
+     "text": "Vietnam won in 2008, 2018 and 2024."
+    },
+    {
+     "title": "SEA Games",
+     "subtitle": "Multi-sport",
+     "text": "Vietnam often tops the medal table."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Hoàng Xuân Vinh",
+     "subtitle": "Shooting",
+     "text": "Vietnam's first Olympic gold, 2016."
+    },
+    {
+     "title": "Lê Công Vinh",
+     "subtitle": "Football",
+     "text": "A famous striker."
+    },
+    {
+     "title": "Nguyễn Quang Hải",
+     "subtitle": "Football",
+     "text": "Star of the 2018 under-23 team."
+    },
+    {
+     "title": "Huỳnh Như",
+     "subtitle": "Football",
+     "text": "Women's captain who played in Portugal."
+    },
+    {
+     "title": "Lê Quang Liêm",
+     "subtitle": "Chess",
+     "text": "A top grandmaster."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Vietnam's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Mỹ Đình National Stadium, Hanoi",
+    "kind": "venue",
+    "lat": 21.02,
+    "lon": 105.764,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Thống Nhất Stadium, Ho Chi Minh City",
+    "kind": "venue",
+    "lat": 10.76,
+    "lon": 106.66,
+    "text": "A historic football ground."
+   },
+   {
+    "name": "Hàng Đẫy Stadium, Hanoi",
+    "kind": "venue",
+    "lat": 21.03,
+    "lon": 105.83,
+    "text": "Home of Hà Nội FC."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2008",
+    "title": "First ASEAN title",
+    "text": "Vietnam's first big football trophy."
+   },
+   {
+    "year": "2016",
+    "title": "Olympic gold",
+    "text": "Hoàng Xuân Vinh in Rio."
+   },
+   {
+    "year": "2018",
+    "title": "Under-23 Asian final",
+    "text": "A snowy final in China."
+   },
+   {
+    "year": "2023",
+    "title": "Women's World Cup",
+    "text": "Vietnam's first World Cup."
+   }
+  ]
+ }
+}

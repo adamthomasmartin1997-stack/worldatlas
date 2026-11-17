@@ -1,0 +1,114 @@
+{
+ "status": "draft",
+ "intro": "Thailand stretches from forested northern mountains to the beaches and islands of the far south, with the rice-growing plains of the Chao Phraya river in between.",
+ "chapters": [
+  {
+   "id": "regions",
+   "title": "Four regions",
+   "text": [
+    "The north is mountainous and cooler; Doi Inthanon is the highest peak at 2,565 m. The north-east, called Isan, is a dry plateau bordered by the Mekong. The central plains around Bangkok are fertile rice land.",
+    "The south is a long, narrow peninsula with the Andaman Sea on one side and the Gulf of Thailand on the other."
+   ],
+   "related": [
+    "MMR",
+    "LAO",
+    "KHM",
+    "MYS"
+   ]
+  },
+  {
+   "id": "coasts",
+   "title": "Islands and coasts",
+   "text": [
+    "Phuket, Koh Samui, Koh Phi Phi and hundreds of other islands draw visitors from around the world. Limestone cliffs at Krabi and Phang Nga Bay rise out of the sea."
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Thailand is tropical, with a hot season, a rainy season from about May to October and a cooler dry season. Floods in 2011 swamped parts of Bangkok."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Isan",
+   "meaning": "Thailand's north-eastern region."
+  },
+  {
+   "term": "Peninsula",
+   "meaning": "Land surrounded by water on three sides."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Thailand's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Golden Triangle",
+    "kind": "river border",
+    "lat": 20.35,
+    "lon": 100.08,
+    "text": "Where Thailand, Laos and Myanmar meet on the Mekong."
+   },
+   {
+    "name": "Doi Inthanon",
+    "kind": "mountain",
+    "lat": 18.59,
+    "lon": 98.49,
+    "text": "Thailand's highest peak, 2,565 m."
+   },
+   {
+    "name": "Pai",
+    "kind": "mountain valley",
+    "lat": 19.36,
+    "lon": 98.44,
+    "text": "Hills and rice fields in the north."
+   },
+   {
+    "name": "Mekong river",
+    "kind": "river",
+    "lat": 17.9,
+    "lon": 102.6,
+    "text": "The border with Laos for hundreds of km."
+   },
+   {
+    "name": "Khao Yai",
+    "kind": "national park",
+    "lat": 14.44,
+    "lon": 101.37,
+    "text": "Elephants and waterfalls near Bangkok."
+   },
+   {
+    "name": "Bangkok and the Chao Phraya",
+    "kind": "river city",
+    "lat": 13.75,
+    "lon": 100.5,
+    "text": "A huge city of canals and temples."
+   },
+   {
+    "name": "Khao Sok",
+    "kind": "rainforest",
+    "lat": 8.92,
+    "lon": 98.53,
+    "text": "Ancient rainforest and a lake with limestone cliffs."
+   },
+   {
+    "name": "Phang Nga Bay",
+    "kind": "limestone islands",
+    "lat": 8.27,
+    "lon": 98.5,
+    "text": "Sea cliffs and 'James Bond Island'."
+   },
+   {
+    "name": "Koh Phi Phi",
+    "kind": "islands",
+    "lat": 7.74,
+    "lon": 98.77,
+    "text": "Turquoise bays in the Andaman Sea."
+   }
+  ]
+ }
+}

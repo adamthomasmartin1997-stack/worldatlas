@@ -1,0 +1,154 @@
+{
+ "status": "draft",
+ "intro": "Cricket is close to a national religion in Pakistan, and the country has also been a giant of hockey and squash.",
+ "chapters": [
+  {
+   "id": "cricket",
+   "title": "Cricket",
+   "text": [
+    "Pakistan won the Cricket World Cup in 1992 under Imran Khan, who later became prime minister, and the T20 World Cup in 2009. Matches against India are some of the most watched sporting events on the planet."
+   ],
+   "related": [
+    "IND"
+   ]
+  },
+  {
+   "id": "hockey",
+   "title": "Hockey and squash",
+   "text": [
+    "Pakistan has won three Olympic golds and four World Cups in field hockey. In squash, Jahangir Khan went unbeaten for over five years, and Jansher Khan won eight world titles.",
+    "In 2024 Arshad Nadeem won the Olympic javelin with an Olympic record, Pakistan's first individual Olympic gold."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "T20",
+   "meaning": "A short form of cricket with 20 overs per side."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Pakistan Super League",
+     "subtitle": "Cricket · since 2016",
+     "text": "Islamabad United and Lahore Qalandars have won it most."
+    },
+    {
+     "title": "National T20 Cup",
+     "subtitle": "Cricket",
+     "text": "Domestic teams compete."
+    },
+    {
+     "title": "Shandur Polo Festival",
+     "subtitle": "Polo",
+     "text": "Played on one of the world's highest polo grounds."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Imran Khan",
+     "subtitle": "Cricket",
+     "text": "Captain of the 1992 World Cup winners."
+    },
+    {
+     "title": "Wasim Akram",
+     "subtitle": "Cricket",
+     "text": "One of the greatest fast bowlers."
+    },
+    {
+     "title": "Babar Azam",
+     "subtitle": "Cricket",
+     "text": "A star batter of recent years."
+    },
+    {
+     "title": "Jahangir Khan",
+     "subtitle": "Squash",
+     "text": "Unbeaten in about 555 matches."
+    },
+    {
+     "title": "Sohail Abbas",
+     "subtitle": "Hockey",
+     "text": "A record-breaking penalty-corner scorer."
+    },
+    {
+     "title": "Arshad Nadeem",
+     "subtitle": "Javelin",
+     "text": "Olympic champion in 2024."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Pakistan's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Gaddafi Stadium, Lahore",
+    "kind": "venue",
+    "lat": 31.513,
+    "lon": 74.333,
+    "text": "A famous cricket ground."
+   },
+   {
+    "name": "National Stadium, Karachi",
+    "kind": "venue",
+    "lat": 24.896,
+    "lon": 67.081,
+    "text": "Hosted many Test matches."
+   },
+   {
+    "name": "Shandur Pass",
+    "kind": "venue",
+    "lat": 36.07,
+    "lon": 72.52,
+    "text": "The polo ground at 3,700 m."
+   },
+   {
+    "name": "Rawalpindi Cricket Stadium",
+    "kind": "venue",
+    "lat": 33.65,
+    "lon": 73.08,
+    "text": "A fast-bowling favourite."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1960",
+    "title": "Hockey gold",
+    "text": "Pakistan beat India for Olympic gold in Rome."
+   },
+   {
+    "year": "1992",
+    "title": "Cricket World Cup",
+    "text": "Imran Khan's 'cornered tigers' win in Melbourne."
+   },
+   {
+    "year": "2009",
+    "title": "T20 World Cup",
+    "text": "Won at Lord's."
+   },
+   {
+    "year": "2017",
+    "title": "Champions Trophy",
+    "text": "Beat India in the final."
+   },
+   {
+    "year": "2024",
+    "title": "Nadeem's gold",
+    "text": "An Olympic record throw in Paris."
+   }
+  ]
+ }
+}

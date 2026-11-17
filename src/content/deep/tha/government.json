@@ -1,0 +1,102 @@
+{
+ "status": "draft",
+ "intro": "Thailand is a constitutional monarchy, but the army and the palace have long played big roles in politics.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The king is head of state and deeply respected; criticising him is a crime. The prime minister leads the government, chosen by an elected House of Representatives.",
+    "Thailand has had around 20 constitutions since 1932 and a dozen successful coups."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Bangkok"
+    },
+    {
+     "label": "King",
+     "value": "Vajiralongkorn (Rama X)"
+    },
+    {
+     "label": "Constitutions since 1932",
+     "value": "About 20"
+    }
+   ]
+  },
+  {
+   "id": "protest",
+   "title": "Protests and politics",
+   "text": [
+    "Rival 'Red Shirt' and 'Yellow Shirt' movements clashed in the 2000s and 2010s. In 2020 young people led big protests calling for reform."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Constitutional monarchy",
+   "meaning": "A king or queen reigns, but laws are made by an elected parliament."
+  },
+  {
+   "term": "Lèse-majesté",
+   "meaning": "The crime of insulting the monarch."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Inherits the throne",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Chosen by the House",
+     "text": "Leads the government."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "500 members",
+     "text": "Elected by the people."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "200 members",
+     "text": "Chosen through a selection process among candidates."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "Judges",
+     "text": "Has removed several prime ministers."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "House",
+    "text": "Three readings."
+   },
+   {
+    "title": "Senate",
+    "text": "Reviews and can delay it."
+   },
+   {
+    "title": "Royal assent",
+    "text": "The King signs it."
+   }
+  ]
+ }
+}

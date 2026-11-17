@@ -1,0 +1,147 @@
+{
+ "status": "draft",
+ "intro": "Bengali culture is rich in poetry, music and festivals, and its writers include Asia's first Nobel winner in literature.",
+ "chapters": [
+  {
+   "id": "poetry",
+   "title": "Poets and songs",
+   "text": [
+    "Rabindranath Tagore wrote the national anthem, 'Amar Shonar Bangla'. Kazi Nazrul Islam, the 'rebel poet', is the national poet.",
+    "Baul singers wander the countryside singing mystical folk songs."
+   ],
+   "related": [
+    "IND"
+   ]
+  },
+  {
+   "id": "festivals",
+   "title": "Festivals and food",
+   "text": [
+    "Pohela Boishakh, Bengali New Year on 14 April, fills streets with colour. Eid is the biggest religious festival.",
+    "Rice and fish are the heart of the diet; hilsa is the national fish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Baul",
+   "meaning": "Wandering folk singers of Bengal."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Clay Bird",
+     "subtitle": "2002 · Tareque Masud",
+     "text": "A boy at an Islamic school before 1971; won at Cannes."
+    },
+    {
+     "title": "Television",
+     "subtitle": "2012 · Mostofa Sarwar Farooki",
+     "text": "A village leader bans television."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Gitanjali",
+     "subtitle": "1910 · Rabindranath Tagore",
+     "text": "Poems that won the 1913 Nobel Prize."
+    },
+    {
+     "title": "Bidrohi",
+     "subtitle": "1922 · Kazi Nazrul Islam",
+     "text": "'The Rebel', a famous poem."
+    },
+    {
+     "title": "Nakshi Kanthar Math",
+     "subtitle": "1929 · Jasimuddin",
+     "text": "'The Field of the Embroidered Quilt', a village love story in verse."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Amar Shonar Bangla",
+     "subtitle": "Rabindranath Tagore",
+     "text": "The national anthem."
+    },
+    {
+     "title": "Baul songs",
+     "subtitle": "Lalon Fakir",
+     "text": "Mystical folk songs."
+    },
+    {
+     "title": "Concert for Bangladesh",
+     "subtitle": "George Harrison, 1971",
+     "text": "The first big charity rock concert."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Hilsa",
+     "subtitle": "Everywhere",
+     "text": "The national fish, often cooked with mustard."
+    },
+    {
+     "title": "Biryani",
+     "subtitle": "Old Dhaka",
+     "text": "Spiced rice and meat."
+    },
+    {
+     "title": "Bhorta",
+     "subtitle": "Everywhere",
+     "text": "Mashed vegetables or fish with chilli and mustard oil."
+    },
+    {
+     "title": "Fuchka",
+     "subtitle": "Street food",
+     "text": "Crispy shells with tangy filling."
+    },
+    {
+     "title": "Mishti doi",
+     "subtitle": "Bogura",
+     "text": "Sweet yoghurt."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Mother Language Day",
+    "text": "21 February, flowers at the Shaheed Minar."
+   },
+   {
+    "month": 3,
+    "name": "Independence Day",
+    "text": "26 March."
+   },
+   {
+    "month": 4,
+    "name": "Pohela Boishakh",
+    "text": "Bengali New Year, 14 April."
+   },
+   {
+    "month": 12,
+    "name": "Victory Day",
+    "text": "16 December, 1971."
+   }
+  ]
+ }
+}
