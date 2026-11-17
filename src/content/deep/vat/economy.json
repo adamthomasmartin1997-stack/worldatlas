@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "The Vatican's income comes from museums, donations and investments.",
+ "chapters": [
+  {
+   "id": "income",
+   "title": "Museums and donations",
+   "text": [
+    "Millions of visitors pay to see the Vatican Museums and Sistine Chapel, and Catholics around the world give donations."
+   ]
+  },
+  {
+   "id": "services",
+   "title": "Its own services",
+   "text": [
+    "The Vatican has its own post office, stamps, radio, newspaper and euro coins."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Donation",
+   "meaning": "Money given as a gift."
+  }
+ ]
+}

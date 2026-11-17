@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "Malta is a tiny group of limestone islands between Sicily and North Africa: the smallest and most densely populated country in the EU.",
+ "chapters": [
+  {
+   "id": "islands",
+   "title": "Three main islands",
+   "text": [
+    "The main islands are Malta, Gozo and tiny Comino, famous for its Blue Lagoon. Malta lies about 90 km south of Sicily. There are no rivers or lakes, so much of the drinking water comes from desalinated seawater.",
+    "Limestone cliffs, coves and caves line the coasts."
+   ],
+   "related": [
+    "ITA",
+    "TUN",
+    "LBY"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Summers are long, hot and dry and winters mild, with lots of sunshine all year."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Desalination",
+   "meaning": "Removing salt from seawater to make fresh water."
+  }
+ ]
+}

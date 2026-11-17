@@ -1,0 +1,66 @@
+{
+ "status": "draft",
+ "intro": "Liechtenstein is a tiny Alpine principality named after the noble family that bought it in the early 1700s. It has had no army since 1868.",
+ "chapters": [
+  {
+   "id": "principality",
+   "title": "A principality",
+   "text": [
+    "The Liechtenstein family bought the lordships of Schellenberg and Vaduz and in 1719 the Holy Roman Emperor made them a principality. It became fully sovereign in 1806."
+   ],
+   "related": [
+    "AUT"
+   ]
+  },
+  {
+   "id": "neutral",
+   "title": "Neutral and armyless",
+   "text": [
+    "Liechtenstein abolished its army in 1868. According to a popular story, its last 80 soldiers came home from a campaign with 81 men, having made a friend on the way. It stayed neutral in both world wars."
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Modern Liechtenstein",
+   "text": [
+    "Since 1923 it has had a customs union with Switzerland and uses the Swiss franc. It joined the United Nations in 1990."
+   ],
+   "related": [
+    "CHE"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1719",
+   "title": "Principality",
+   "text": "The emperor creates the Principality of Liechtenstein."
+  },
+  {
+   "year": "1806",
+   "title": "Sovereignty",
+   "text": "Liechtenstein becomes independent."
+  },
+  {
+   "year": "1868",
+   "title": "Army abolished",
+   "text": "Liechtenstein disbands its army."
+  },
+  {
+   "year": "1923",
+   "title": "Customs union",
+   "text": "Close ties with Switzerland begin."
+  },
+  {
+   "year": "1990",
+   "title": "Joins the UN",
+   "text": "Liechtenstein becomes a member."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Principality",
+   "meaning": "A state ruled by a prince."
+  }
+ ]
+}

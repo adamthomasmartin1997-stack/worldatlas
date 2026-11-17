@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Vatican City is an absolute monarchy whose ruler, the Pope, is elected.",
+ "chapters": [
+  {
+   "id": "pope",
+   "title": "An elected monarch",
+   "text": [
+    "When a pope dies or resigns, cardinals gather in the Sistine Chapel for a conclave to elect a successor. Black smoke from the chimney means no decision; white smoke means a new pope."
+   ],
+   "facts": [
+    {
+     "label": "Head of state",
+     "value": "The Pope"
+    },
+    {
+     "label": "Area",
+     "value": "Under 0.5 km²"
+    },
+    {
+     "label": "Currency",
+     "value": "Euro"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "The Holy See in the world",
+   "text": [
+    "The Holy See has diplomatic relations with most countries and is a permanent observer at the United Nations."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Conclave",
+   "meaning": "The secret meeting of cardinals that elects a pope."
+  }
+ ]
+}

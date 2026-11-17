@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Tourism, skiing and shopping drive Andorra's economy.",
+ "chapters": [
+  {
+   "id": "tourism",
+   "title": "Skiing and shopping",
+   "text": [
+    "Millions of visitors come each year to ski at resorts such as Grandvalira and to shop, because taxes are low."
+   ]
+  },
+  {
+   "id": "banking",
+   "title": "Banking",
+   "text": [
+    "Banking is important, though Andorra has worked to shed its image as a tax haven."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tax haven",
+   "meaning": "A place with very low taxes that attracts money from abroad."
+  }
+ ]
+}

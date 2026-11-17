@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "San Marino is a tiny country entirely surrounded by Italy, perched around Mount Titano.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mount Titano",
+   "text": [
+    "Three medieval towers crown the ridges of Mount Titano and appear on the flag; the old town is a World Heritage Site. On clear days you can see the Adriatic Sea."
+   ],
+   "related": [
+    "ITA"
+   ]
+  },
+  {
+   "id": "size",
+   "title": "Size",
+   "text": [
+    "San Marino covers about 61 km², one of the smallest countries in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Enclave",
+   "meaning": "A country completely surrounded by another."
+  }
+ ]
+}

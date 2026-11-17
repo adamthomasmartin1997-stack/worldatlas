@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Liechtenstein is one of the richest countries in the world, with a surprising amount of industry.",
+ "chapters": [
+  {
+   "id": "industry",
+   "title": "Tools and teeth",
+   "text": [
+    "Hilti makes power tools sold worldwide, and Liechtenstein is one of the biggest makers of false teeth. Banking and finance are also important."
+   ]
+  },
+  {
+   "id": "companies",
+   "title": "Companies",
+   "text": [
+    "More companies are registered in Liechtenstein than there are people, many for tax reasons."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Industry",
+   "meaning": "Making goods in factories."
+  }
+ ]
+}

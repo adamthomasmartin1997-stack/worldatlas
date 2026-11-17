@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Maltese culture blends Arab, Italian and British influences, from village festas to colourful fishing boats.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Boats and balconies",
+   "text": [
+    "Brightly painted fishing boats called luzzu carry an eye on the bow, an ancient symbol of protection. Valletta's streets are lined with enclosed wooden balconies in bright colours."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Pastizzi (flaky pastries with ricotta or peas), rabbit stew and ftira bread, on UNESCO's heritage list, are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Luzzu",
+   "meaning": "A traditional, colourfully painted Maltese fishing boat."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "San Marino's culture is Italian with proud republican traditions.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Medieval Days",
+   "text": [
+    "Every summer, Medieval Days fill the old town with crossbow contests, costumes and markets."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Torta Tre Monti, a layered wafer cake named after the three towers, is a local speciality."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Crossbow",
+   "meaning": "A medieval bow fired by a trigger."
+  }
+ ]
+}

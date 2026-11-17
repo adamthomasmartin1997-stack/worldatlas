@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Luxembourg is a constitutional monarchy, the only grand duchy in the world, and home to several EU institutions.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Grand duke and parliament",
+   "text": [
+    "The grand duke is head of state, and the 60-member Chamber of Deputies chooses the government. Luxembourg uses the euro."
+   ],
+   "facts": [
+    {
+     "label": "Chamber of Deputies",
+     "value": "60 members"
+    },
+    {
+     "label": "Currency",
+     "value": "Euro"
+    },
+    {
+     "label": "National Day",
+     "value": "23 June"
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "title": "Heart of Europe",
+   "text": [
+    "Luxembourg hosts the EU's Court of Justice and its investment bank. Its motto is 'We want to remain what we are'."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Court of Justice",
+   "meaning": "The EU's highest court."
+  }
+ ]
+}

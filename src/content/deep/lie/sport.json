@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Liechtenstein has won more Olympic medals per person than any other country, all of them in skiing.",
+ "chapters": [
+  {
+   "id": "skiing",
+   "title": "Skiing",
+   "text": [
+    "Hanni Wenzel won two gold medals at the 1980 Winter Olympics, and Liechtenstein's skiers have won ten Olympic medals in total."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Other sports",
+   "text": [
+    "Football is popular, and Liechtenstein clubs play in the Swiss league."
+   ],
+   "related": [
+    "CHE"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Per person",
+   "meaning": "Divided by the number of people."
+  }
+ ]
+}

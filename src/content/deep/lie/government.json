@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Liechtenstein is a constitutional monarchy in which the prince has unusually strong powers.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Prince and parliament",
+   "text": [
+    "The prince can veto laws and dismiss the government, powers confirmed by a referendum in 2003. The 25-member parliament, the Landtag, makes laws, and citizens can call referendums."
+   ],
+   "facts": [
+    {
+     "label": "Landtag",
+     "value": "25 members"
+    },
+    {
+     "label": "Currency",
+     "value": "Swiss franc"
+    },
+    {
+     "label": "Army",
+     "value": "None"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Liechtenstein in Europe",
+   "text": [
+    "It is not in the EU but is part of the European Economic Area and the Schengen area."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Veto",
+   "meaning": "The power to block a decision."
+  }
+ ]
+}

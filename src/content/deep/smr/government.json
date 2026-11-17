@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "San Marino has one of the most unusual governments in the world: two heads of state who serve for just six months.",
+ "chapters": [
+  {
+   "id": "captains",
+   "title": "Two Captains Regent",
+   "text": [
+    "Every six months, on 1 April and 1 October, the 60-member parliament elects two Captains Regent to serve together as heads of state, a system dating back to the Middle Ages."
+   ],
+   "facts": [
+    {
+     "label": "Heads of state",
+     "value": "2 Captains Regent"
+    },
+    {
+     "label": "Term",
+     "value": "6 months"
+    },
+    {
+     "label": "Currency",
+     "value": "Euro"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "San Marino in Europe",
+   "text": [
+    "It is not in the EU but uses the euro by agreement with the EU."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Captain Regent",
+   "meaning": "One of San Marino's two joint heads of state."
+  }
+ ]
+}

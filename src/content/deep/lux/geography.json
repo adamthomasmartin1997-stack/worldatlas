@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "Luxembourg is a small, landlocked country of forested hills, river valleys and vineyards.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Two regions",
+   "text": [
+    "The hilly, wooded north, the Oesling, is part of the Ardennes; the south, the Gutland ('good land'), is gentler farmland. Vineyards line the Moselle valley on the German border.",
+    "Luxembourg borders Belgium, France and Germany. The capital is built on cliffs above two rivers, with tunnels called casemates carved into the rock."
+   ],
+   "related": [
+    "BEL",
+    "FRA",
+    "DEU"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Luxembourg has a mild climate with cool, wet winters and warm summers."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Casemates",
+   "meaning": "Tunnels and chambers built inside fortress walls."
+  }
+ ]
+}

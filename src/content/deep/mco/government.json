@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Monaco is a constitutional monarchy ruled by Prince Albert II.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Prince and council",
+   "text": [
+    "The prince holds strong powers, and the elected National Council passes laws. France is responsible for Monaco's defence. Monaco is not in the EU but uses the euro."
+   ],
+   "facts": [
+    {
+     "label": "Ruling family",
+     "value": "Grimaldi"
+    },
+    {
+     "label": "Currency",
+     "value": "Euro"
+    },
+    {
+     "label": "National Day",
+     "value": "19 November"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Monaco in the world",
+   "text": [
+    "Monaco joined the United Nations in 1993."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Constitutional monarchy",
+   "meaning": "A monarchy whose powers are set by a constitution."
+  }
+ ]
+}

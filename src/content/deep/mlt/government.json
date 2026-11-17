@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Malta is a parliamentary republic and the smallest member of the European Union.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Parliament and president",
+   "text": [
+    "The House of Representatives chooses the prime minister, and the president, elected by parliament, is head of state. Malta's constitution declares it neutral. It uses the euro."
+   ],
+   "facts": [
+    {
+     "label": "EU member",
+     "value": "Since 2004"
+    },
+    {
+     "label": "Currency",
+     "value": "Euro"
+    },
+    {
+     "label": "Independence Day",
+     "value": "21 September"
+    }
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "The 2017 murder of investigative journalist Daphne Caruana Galizia exposed concerns about corruption and led to big protests."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Neutral",
+   "meaning": "Not joining military alliances."
+  }
+ ]
+}

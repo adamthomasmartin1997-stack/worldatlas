@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Monaco is known for its glamour, its royal family and its ocean science.",
+ "chapters": [
+  {
+   "id": "ocean",
+   "title": "Ocean science",
+   "text": [
+    "The Oceanographic Museum, built into a cliff, was once directed by the famous ocean explorer Jacques Cousteau."
+   ]
+  },
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Monaco has its own ballet company, opera house and a famous circus festival."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Oceanography",
+   "meaning": "The science of the oceans."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Monaco has about 38,000 residents, but only around a fifth are Monégasque citizens.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "French is the official language, and the Monégasque language is taught in schools. Many wealthy people from around the world live in Monaco, partly because there is no income tax for most residents."
+   ],
+   "related": [
+    "FRA",
+    "ITA"
+   ]
+  },
+  {
+   "id": "faith",
+   "title": "Faith",
+   "text": [
+    "Catholicism is the state religion."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Monégasque",
+   "meaning": "A citizen of Monaco, or Monaco's own language."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "San Marino has about 34,000 people, who speak Italian.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most Sammarinese are Catholic. Many more live abroad than at home."
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Daily life",
+   "text": [
+    "Most work in services, tourism and banking, and many cross into Italy every day."
+   ],
+   "related": [
+    "ITA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sammarinese",
+   "meaning": "The people of San Marino."
+  }
+ ]
+}

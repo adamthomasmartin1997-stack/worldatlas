@@ -1,0 +1,60 @@
+{
+ "status": "draft",
+ "intro": "San Marino claims to be the oldest surviving republic in the world, founded in AD 301 on a mountaintop in Italy.",
+ "chapters": [
+  {
+   "id": "founding",
+   "title": "A stonemason's republic",
+   "text": [
+    "According to tradition, a Christian stonemason named Marinus founded a community on Mount Titano in 301 to escape persecution. It has governed itself ever since."
+   ]
+  },
+  {
+   "id": "survival",
+   "title": "Surviving",
+   "text": [
+    "San Marino survived the rise and fall of many Italian states. In 1797 Napoleon offered it more land, but it politely declined. In 1861 it made Abraham Lincoln an honorary citizen. When Italy united, San Marino stayed independent."
+   ],
+   "related": [
+    "ITA",
+    "FRA",
+    "USA"
+   ]
+  },
+  {
+   "id": "today",
+   "title": "Today",
+   "text": [
+    "San Marino joined the United Nations in 1992."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "301",
+   "title": "Founding",
+   "text": "Marinus founds the community."
+  },
+  {
+   "year": "1797",
+   "title": "Napoleon",
+   "text": "San Marino declines extra land."
+  },
+  {
+   "year": "1861",
+   "title": "Lincoln",
+   "text": "Made an honorary citizen."
+  },
+  {
+   "year": "1992",
+   "title": "Joins the UN",
+   "text": "San Marino becomes a member."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Republic",
+   "meaning": "A state without a monarch, led by elected representatives."
+  }
+ ]
+}

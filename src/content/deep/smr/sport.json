@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "San Marino became the smallest country to win an Olympic medal when it won three at the Tokyo Games in 2021.",
+ "chapters": [
+  {
+   "id": "olympics",
+   "title": "Olympic medals",
+   "text": [
+    "At the Tokyo 2020 Olympics, held in 2021, shooter Alessandra Perilli and wrestler Myles Amine won San Marino's first medals."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "San Marino's football team is one of the weakest in the world; its first ever win came in 2004."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Olympic medal",
+   "meaning": "A gold, silver or bronze medal won at the Olympics."
+  }
+ ]
+}

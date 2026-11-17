@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Liechtenstein's culture is Alpine and closely linked to Austria and Switzerland.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Art and stamps",
+   "text": [
+    "The princely family owns one of the world's great private art collections. Liechtenstein's postage stamps are prized by collectors."
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Village festivals, brass bands and Alpine cheese dishes are part of local life."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Philately",
+   "meaning": "Collecting stamps."
+  }
+ ]
+}

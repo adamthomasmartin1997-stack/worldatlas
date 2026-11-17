@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Andorra is a landlocked country high in the Pyrenees between France and Spain.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mountains",
+   "text": [
+    "Andorra is made up of steep mountains and valleys; Coma Pedrosa is the highest peak. Its capital, Andorra la Vella, is the highest capital city in Europe, at more than 1,000 m."
+   ],
+   "related": [
+    "FRA",
+    "ESP"
+   ]
+  },
+  {
+   "id": "access",
+   "title": "Getting there",
+   "text": [
+    "Andorra has no airport and no railway, so visitors arrive by road."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Landlocked",
+   "meaning": "Having no coastline."
+  }
+ ]
+}

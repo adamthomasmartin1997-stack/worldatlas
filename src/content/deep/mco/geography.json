@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Monaco covers about 2 km² on the French Riviera, making it the most densely populated country in the world.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "A tiny coast",
+   "text": [
+    "Monaco is squeezed between the mountains and the Mediterranean and is surrounded by France on land. It has expanded by building new land into the sea, adding about a fifth to its area since the 1960s."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Monaco has a sunny Mediterranean climate with mild winters."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Land reclamation",
+   "meaning": "Creating new land from the sea."
+  }
+ ]
+}

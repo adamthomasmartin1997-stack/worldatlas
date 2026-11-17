@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Luxembourg grew from a castle built in 963 into the world's only grand duchy. Small but central, it helped found the EU and NATO and became one of the richest countries on Earth.",
+ "chapters": [
+  {
+   "id": "fortress",
+   "title": "Castle and fortress",
+   "text": [
+    "In 963 Count Siegfried built a castle on a rocky cliff, the start of Luxembourg. Its counts became powerful in the Middle Ages, even producing Holy Roman Emperors. Over the centuries it was ruled by Burgundy, Spain, France and Austria, and its fortress was so strong it was called 'the Gibraltar of the North'.",
+    "In 1815 it became a grand duchy. In 1867 it was declared neutral and its fortress was pulled down."
+   ],
+   "related": [
+    "BEL",
+    "FRA",
+    "DEU",
+    "NLD",
+    "AUT",
+    "ESP"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Luxembourg lost its western part to Belgium in 1839, which left the borders it has today. It got its own ruling family in 1890."
+   ],
+   "related": [
+    "BEL"
+   ]
+  },
+  {
+   "id": "wars",
+   "title": "Occupation and Europe",
+   "text": [
+    "Germany occupied Luxembourg in both world wars, and the Battle of the Bulge was fought in its north in the winter of 1944 and 1945. Afterwards Luxembourg helped found NATO and the European Communities. In 1985 the Schengen Agreement, which removed border checks across much of Europe, was signed in the Luxembourg village of Schengen.",
+    "Grand Duke Henri stepped down in 2025, and his son became Grand Duke Guillaume V."
+   ],
+   "related": [
+    "DEU",
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "963",
+   "title": "Castle built",
+   "text": "Count Siegfried founds Luxembourg."
+  },
+  {
+   "year": "1815",
+   "title": "Grand Duchy",
+   "text": "Luxembourg becomes a grand duchy."
+  },
+  {
+   "year": "1839",
+   "title": "Independence",
+   "text": "Luxembourg's borders are fixed."
+  },
+  {
+   "year": "1867",
+   "title": "Neutrality",
+   "text": "The fortress is demolished."
+  },
+  {
+   "year": "1940",
+   "title": "German occupation",
+   "text": "Luxembourg is occupied again."
+  },
+  {
+   "year": "1957",
+   "title": "Treaty of Rome",
+   "text": "A founding member of the EEC."
+  },
+  {
+   "year": "1985",
+   "title": "Schengen Agreement",
+   "text": "Signed in Schengen."
+  },
+  {
+   "year": "2025",
+   "title": "Guillaume V",
+   "text": "A new grand duke."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Grand duchy",
+   "meaning": "A country ruled by a grand duke or grand duchess."
+  }
+ ]
+}

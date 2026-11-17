@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Only a few hundred people live in Vatican City, nearly all of them clergy, Swiss Guards or staff.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "Who lives there",
+   "text": [
+    "Citizenship usually comes with a job and ends when the job does. Latin is the official language of the Holy See, and Italian is used day to day."
+   ]
+  },
+  {
+   "id": "guard",
+   "title": "The Swiss Guard",
+   "text": [
+    "The Pope is protected by the Swiss Guard, founded in 1506, whose members wear striped Renaissance-style uniforms."
+   ],
+   "related": [
+    "CHE"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Clergy",
+   "meaning": "Priests and other religious leaders."
+  }
+ ]
+}

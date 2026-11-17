@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Liechtenstein has about 40,000 people, most of whom speak German.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Vaduz is the capital and Schaan the largest town. Many people working in Liechtenstein commute from Switzerland and Austria. Most people are Catholic."
+   ],
+   "related": [
+    "CHE",
+    "AUT"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Daily life",
+   "text": [
+    "On National Day, 15 August, the prince invites everyone to the castle gardens for a drink."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Commute",
+   "meaning": "Travel regularly between home and work."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Luxembourg has more Tour de France winners for its size than any other country.",
+ "chapters": [
+  {
+   "id": "cycling",
+   "title": "Cycling",
+   "text": [
+    "Luxembourg riders have won the Tour de France five times: François Faber, Nicolas Frantz twice, Charly Gaul and Andy Schleck."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Olympics",
+   "text": [
+    "Josy Barthel won the 1,500 m at the 1952 Olympics, Luxembourg's only Olympic gold in a sporting event."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tour de France",
+   "meaning": "The most famous cycling race in the world."
+  }
+ ]
+}

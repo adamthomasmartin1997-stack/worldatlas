@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Vatican City has no Olympic team, but it does have its own sports clubs.",
+ "chapters": [
+  {
+   "id": "clubs",
+   "title": "Clubs",
+   "text": [
+    "Vatican employees play in their own football league, and there is a Vatican cricket club and an athletics team."
+   ]
+  },
+  {
+   "id": "fans",
+   "title": "Fans",
+   "text": [
+    "Many staff support Italian football clubs, and popes have blessed many sports teams."
+   ],
+   "related": [
+    "ITA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "League",
+   "meaning": "A group of teams that play each other in a season."
+  }
+ ]
+}

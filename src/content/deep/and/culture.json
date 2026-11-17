@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Andorran culture is Catalan and mountain-based.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Summer festivals in each parish feature traditional dances, and the Pyrenean fire festivals of midsummer are on UNESCO's heritage list."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Escudella, a hearty meat and vegetable stew, is a winter favourite."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Parish",
+   "meaning": "One of Andorra's seven districts."
+  }
+ ]
+}

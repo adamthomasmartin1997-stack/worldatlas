@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Andorra is a parliamentary co-principality with two heads of state.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Two co-princes",
+   "text": [
+    "The co-princes are the Bishop of Urgell and the President of France, making France's president the only person in the world elected to be a head of state of another country by voters in a different country. They have mostly ceremonial roles; Andorra is governed by its General Council and a head of government."
+   ],
+   "facts": [
+    {
+     "label": "Heads of state",
+     "value": "2 co-princes"
+    },
+    {
+     "label": "Currency",
+     "value": "Euro"
+    },
+    {
+     "label": "UN member",
+     "value": "Since 1993"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Andorra in Europe",
+   "text": [
+    "Andorra is not in the EU but uses the euro by agreement. It has no army."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Parliamentary co-principality",
+   "meaning": "A state with two princes as heads of state and an elected parliament."
+  }
+ ]
+}

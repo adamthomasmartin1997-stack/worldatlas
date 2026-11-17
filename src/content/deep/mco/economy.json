@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Monaco's economy relies on tourism, finance, luxury property and its famous casino.",
+ "chapters": [
+  {
+   "id": "sectors",
+   "title": "Money and tourism",
+   "text": [
+    "Banking, property and tourism are the main businesses. Property is among the most expensive in the world."
+   ]
+  },
+  {
+   "id": "events",
+   "title": "Events",
+   "text": [
+    "The Grand Prix, a yacht show and other glamorous events bring in visitors."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Luxury",
+   "meaning": "Very expensive, high-quality goods and services."
+  }
+ ]
+}

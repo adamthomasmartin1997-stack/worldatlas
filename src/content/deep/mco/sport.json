@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Monaco is world-famous for its Formula One Grand Prix.",
+ "chapters": [
+  {
+   "id": "f1",
+   "title": "The Monaco Grand Prix",
+   "text": [
+    "First held in 1929, the Monaco Grand Prix races through narrow city streets and is one of the most famous races in motorsport. In 2024 Monaco-born Charles Leclerc won his home race."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Football and tennis",
+   "text": [
+    "AS Monaco plays in the French football league, and Monte Carlo hosts a major tennis tournament."
+   ],
+   "related": [
+    "FRA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Street circuit",
+   "meaning": "A racetrack laid out on public roads."
+  }
+ ]
+}

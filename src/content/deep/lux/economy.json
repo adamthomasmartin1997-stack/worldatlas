@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Luxembourg is one of the richest countries in the world per person, thanks to finance, once built on steel.",
+ "chapters": [
+  {
+   "id": "finance",
+   "title": "From steel to finance",
+   "text": [
+    "Steel once made Luxembourg rich, and the steel giant ArcelorMittal is based there. Today banking and investment funds dominate, and many international companies have European headquarters there."
+   ]
+  },
+  {
+   "id": "space",
+   "title": "Space and media",
+   "text": [
+    "Luxembourg is home to SES, a major satellite operator, and passed one of the first laws on mining asteroids. RTL, a big European broadcaster, started there."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Investment fund",
+   "meaning": "A pool of money from many people invested together."
+  }
+ ]
+}

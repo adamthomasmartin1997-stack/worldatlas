@@ -1,0 +1,77 @@
+{
+ "status": "draft",
+ "intro": "Vatican City is the smallest country in the world and the headquarters of the Roman Catholic Church, led by the Pope.",
+ "chapters": [
+  {
+   "id": "papal-states",
+   "title": "From Papal States to Vatican City",
+   "text": [
+    "For more than a thousand years popes ruled the Papal States across central Italy. When Italy united, it took Rome in 1870, and popes refused to leave the Vatican. In 1929 the Lateran Treaty with Italy created Vatican City as an independent state."
+   ],
+   "related": [
+    "ITA"
+   ]
+  },
+  {
+   "id": "st-peters",
+   "title": "St Peter's",
+   "text": [
+    "St Peter's Basilica, built between 1506 and 1626 over the traditional tomb of Saint Peter, is one of the largest churches in the world. Michelangelo designed its dome and painted the ceiling of the Sistine Chapel."
+   ]
+  },
+  {
+   "id": "popes",
+   "title": "Recent popes",
+   "text": [
+    "Pope Francis, from Argentina, led the Church from 2013 until his death in 2025. In May 2025 Leo XIV, born in the United States, became the first pope from the United States."
+   ],
+   "related": [
+    "ARG",
+    "USA",
+    "PER"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1506",
+   "title": "St Peter's begun",
+   "text": "Work starts on the new basilica."
+  },
+  {
+   "year": "1512",
+   "title": "Sistine ceiling",
+   "text": "Michelangelo finishes it."
+  },
+  {
+   "year": "1870",
+   "title": "Rome taken",
+   "text": "The Papal States end."
+  },
+  {
+   "year": "1929",
+   "title": "Lateran Treaty",
+   "text": "Vatican City is created."
+  },
+  {
+   "year": "2013",
+   "title": "Pope Francis",
+   "text": "The first pope from the Americas."
+  },
+  {
+   "year": "2025",
+   "title": "Pope Leo XIV",
+   "text": "The first pope from the United States."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pope",
+   "meaning": "The leader of the Roman Catholic Church."
+  },
+  {
+   "term": "Basilica",
+   "meaning": "A large, important church."
+  }
+ ]
+}

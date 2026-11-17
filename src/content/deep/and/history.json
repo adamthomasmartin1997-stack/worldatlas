@@ -1,0 +1,49 @@
+{
+ "status": "draft",
+ "intro": "Andorra is a tiny mountain country in the Pyrenees that has survived for more than 700 years under two co-princes, one of whom is today the President of France.",
+ "chapters": [
+  {
+   "id": "legend",
+   "title": "Charlemagne and the co-princes",
+   "text": [
+    "Legend says Charlemagne granted Andorra its freedom for helping fight the Moors. In 1278 an agreement split rule between the Bishop of Urgell, in Spain, and the Count of Foix, in France. The French role later passed to France's kings and then its presidents."
+   ],
+   "related": [
+    "ESP",
+    "FRA"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "A modern state",
+   "text": [
+    "For centuries Andorra was a poor farming valley. Its first written constitution came in 1993, making it a parliamentary democracy, and it joined the United Nations the same year."
+   ]
+  },
+  {
+   "id": "today",
+   "title": "Andorra today",
+   "text": [
+    "Roads, ski resorts and shopping transformed Andorra into a wealthy tourist destination in the 20th century."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1278",
+   "title": "Co-princes",
+   "text": "An agreement shares rule between a bishop and a count."
+  },
+  {
+   "year": "1993",
+   "title": "Constitution",
+   "text": "Andorra becomes a parliamentary democracy and joins the UN."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Co-prince",
+   "meaning": "One of two joint heads of state."
+  }
+ ]
+}

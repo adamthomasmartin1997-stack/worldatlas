@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Liechtenstein is a small Alpine country between Switzerland and Austria and one of only two 'doubly landlocked' countries in the world.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Rhine and Alps",
+   "text": [
+    "The Rhine forms its border with Switzerland, and the Alps rise in the east. Liechtenstein is surrounded only by landlocked countries, so reaching the sea means crossing at least two borders; the only other such country is Uzbekistan."
+   ],
+   "related": [
+    "CHE",
+    "AUT",
+    "UZB"
+   ]
+  },
+  {
+   "id": "size",
+   "title": "Size",
+   "text": [
+    "It is about 25 km long and could be walked across in a day."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Doubly landlocked",
+   "meaning": "Surrounded only by countries that also have no coast."
+  }
+ ]
+}

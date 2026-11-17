@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Luxembourg's culture mixes French and German influences with its own traditions.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "The Echternach dancing procession, in which pilgrims hop through the streets, is on UNESCO's heritage list. The Schueberfouer funfair has been held since 1340."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "The national dish is Judd mat Gaardebounen, smoked pork with broad beans. Moselle wines and sparkling crémant are local specialities."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Procession",
+   "meaning": "People moving forward together as part of a ceremony."
+  }
+ ]
+}

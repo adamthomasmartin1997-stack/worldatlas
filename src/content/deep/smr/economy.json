@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "San Marino's economy relies on tourism, banking and manufacturing.",
+ "chapters": [
+  {
+   "id": "sectors",
+   "title": "Tourism and stamps",
+   "text": [
+    "Millions of day-trippers visit the old town, and San Marino's stamps and coins are popular with collectors."
+   ]
+  },
+  {
+   "id": "industry",
+   "title": "Industry",
+   "text": [
+    "Small factories make ceramics, clothes and electronics."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Day-tripper",
+   "meaning": "A visitor who comes for one day."
+  }
+ ]
+}

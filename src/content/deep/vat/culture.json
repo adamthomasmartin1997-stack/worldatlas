@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Vatican City holds some of the world's greatest art treasures.",
+ "chapters": [
+  {
+   "id": "art",
+   "title": "Art treasures",
+   "text": [
+    "The Vatican Museums contain works by Raphael, Leonardo da Vinci and Michelangelo and ancient sculptures."
+   ]
+  },
+  {
+   "id": "ceremony",
+   "title": "Ceremonies",
+   "text": [
+    "Huge crowds gather in St Peter's Square for papal masses at Easter and Christmas."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mass",
+   "meaning": "The main Catholic church service."
+  }
+ ]
+}

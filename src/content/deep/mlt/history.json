@@ -1,0 +1,101 @@
+{
+ "status": "draft",
+ "intro": "Malta's position in the middle of the Mediterranean has made it a prize for every major power, from Phoenicians to the British. Its prehistoric temples are among the oldest free-standing buildings on Earth.",
+ "chapters": [
+  {
+   "id": "temples",
+   "title": "Ancient temples",
+   "text": [
+    "Malta's megalithic temples, such as Ġgantija on Gozo, were built from about 3600 BC, older than Stonehenge and the Egyptian pyramids. The Hypogeum is an underground temple and burial place cut into rock.",
+    "Phoenicians, Carthaginians and Romans followed. According to the Bible, Saint Paul was shipwrecked on Malta around AD 60. Arab rule from 870 shaped the Maltese language."
+   ],
+   "related": [
+    "LBN",
+    "TUN",
+    "ITA"
+   ]
+  },
+  {
+   "id": "knights",
+   "title": "The Knights of Malta",
+   "text": [
+    "In 1530 the island was given to the Knights of St John, a religious order of crusader knights. In the Great Siege of 1565 they and the Maltese held off a huge Ottoman army, and afterwards built the fortified capital, Valletta.",
+    "Napoleon seized Malta in 1798, and the British took over in 1800."
+   ],
+   "related": [
+    "TUR",
+    "FRA",
+    "GBR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Siege and independence",
+   "text": [
+    "In the Second World War Malta was heavily bombed as a key Allied base; in 1942 King George VI awarded the whole island the George Cross for bravery, and it still appears on Malta's flag. Malta became independent in 1964, a republic in 1974, and joined the EU in 2004 as its smallest member."
+   ],
+   "related": [
+    "GBR",
+    "DEU",
+    "ITA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 3600 BC",
+   "title": "Ġgantija",
+   "text": "Megalithic temples are built."
+  },
+  {
+   "year": "c. 60",
+   "title": "Saint Paul",
+   "text": "Shipwrecked on Malta."
+  },
+  {
+   "year": "870",
+   "title": "Arab rule",
+   "text": "Shapes the Maltese language."
+  },
+  {
+   "year": "1530",
+   "title": "Knights of St John",
+   "text": "The knights take Malta."
+  },
+  {
+   "year": "1565",
+   "title": "Great Siege",
+   "text": "The Ottomans are driven off."
+  },
+  {
+   "year": "1800",
+   "title": "British rule",
+   "text": "Malta becomes British."
+  },
+  {
+   "year": "1942",
+   "title": "George Cross",
+   "text": "Awarded to the whole island."
+  },
+  {
+   "year": "1964",
+   "title": "Independence",
+   "text": "Malta becomes independent."
+  },
+  {
+   "year": "2004",
+   "title": "Joins the EU",
+   "text": "The EU's smallest member."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Megalithic",
+   "meaning": "Built with huge stones."
+  },
+  {
+   "term": "Knights of St John",
+   "meaning": "A Christian military and religious order that ruled Malta."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Vatican City covers less than half a square kilometre inside Rome.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "The smallest country",
+   "text": [
+    "The whole country is about the size of a large park, surrounded by walls and by the city of Rome. It includes St Peter's Square, the basilica, palaces, museums and gardens."
+   ],
+   "related": [
+    "ITA"
+   ]
+  },
+  {
+   "id": "beyond",
+   "title": "Beyond the walls",
+   "text": [
+    "The Holy See also owns some buildings in Rome and the papal summer residence at Castel Gandolfo."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Holy See",
+   "meaning": "The government of the Catholic Church, led by the Pope."
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Andorra has under 90,000 people, and only about half are Andorran citizens.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "Language and people",
+   "text": [
+    "Catalan is the official language; Andorra is the only country where it is the sole official language. Many residents come from Spain, Portugal and France. Andorrans have one of the longest life expectancies in the world."
+   ],
+   "related": [
+    "ESP",
+    "PRT",
+    "FRA"
+   ]
+  },
+  {
+   "id": "faith",
+   "title": "Faith",
+   "text": [
+    "Most Andorrans are Catholic, and Romanesque stone churches dot the valleys."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Catalan",
+   "meaning": "A Romance language spoken in Andorra and parts of Spain, France and Italy."
+  }
+ ]
+}

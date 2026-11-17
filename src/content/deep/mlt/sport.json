@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Football is the most popular sport in Malta, followed by water polo.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Maltese fans passionately follow English and Italian clubs as well as their own national team."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Water polo and more",
+   "text": [
+    "Water polo is played in summer in harbour pools, and horse racing with trotting horses draws crowds at Marsa."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Trotting",
+   "meaning": "Horse racing where horses pull a light cart."
+  }
+ ]
+}

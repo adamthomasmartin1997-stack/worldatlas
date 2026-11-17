@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Malta's small economy has grown fast, powered by tourism, online gaming and financial services.",
+ "chapters": [
+  {
+   "id": "sectors",
+   "title": "Tourism and services",
+   "text": [
+    "Tourists come for the sun, sea and history, and many students come to learn English. Malta is a major base for online gaming companies, and its shipping register is one of the largest in the world."
+   ]
+  },
+  {
+   "id": "film",
+   "title": "On screen",
+   "text": [
+    "Malta's forts and coast have appeared in films and TV series such as Gladiator and Game of Thrones."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Shipping register",
+   "meaning": "A list of ships officially flying a country's flag."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Maltese is the only Semitic language that is an official language of the EU, and Malta is one of Europe's most Catholic countries.",
+ "chapters": [
+  {
+   "id": "language",
+   "title": "Language and faith",
+   "text": [
+    "Maltese grew from Arabic but is written in the Latin alphabet and borrows many words from Italian and English; English is also an official language. Most Maltese are Catholic, and each village holds a festa for its patron saint, with processions, brass bands and fireworks."
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Island life",
+   "text": [
+    "Valletta is the capital, but many towns run together on the crowded main island. Many newcomers from other EU countries and beyond now live and work in Malta."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Semitic",
+   "meaning": "A language family that includes Arabic, Hebrew and Maltese."
+  }
+ ]
+}

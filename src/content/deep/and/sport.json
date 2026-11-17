@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Skiing is the main sport in Andorra, whose slopes host top international races.",
+ "chapters": [
+  {
+   "id": "skiing",
+   "title": "Skiing",
+   "text": [
+    "Andorra hosts Alpine skiing World Cup races and the World Cup finals."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Team sports",
+   "text": [
+    "Andorra's football team usually plays against much bigger nations, so any win is celebrated."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "World Cup (skiing)",
+   "meaning": "A season-long series of top ski races."
+  }
+ ]
+}

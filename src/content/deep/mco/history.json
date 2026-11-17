@@ -1,0 +1,67 @@
+{
+ "status": "draft",
+ "intro": "Monaco, the world's second-smallest country, has been ruled by the Grimaldi family for more than 700 years.",
+ "chapters": [
+  {
+   "id": "grimaldi",
+   "title": "The Grimaldis",
+   "text": [
+    "In 1297 François Grimaldi and his men, disguised as monks, captured the fortress on the Rock of Monaco. Two monks with swords still appear on the coat of arms. The Grimaldis have ruled Monaco, with short breaks, ever since."
+   ],
+   "related": [
+    "ITA",
+    "FRA"
+   ]
+  },
+  {
+   "id": "casino",
+   "title": "The casino and Grace Kelly",
+   "text": [
+    "In 1863 a casino opened in Monte Carlo, bringing wealth to a poor country; Monaco's own citizens are not allowed to gamble there. In 1956 Prince Rainier III married the American film star Grace Kelly, making Monaco famous around the world."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "today",
+   "title": "Monaco today",
+   "text": [
+    "Prince Albert II has reigned since 2005. Monaco keeps growing by building new land out into the sea."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1297",
+   "title": "Grimaldi capture",
+   "text": "François Grimaldi seizes the fortress."
+  },
+  {
+   "year": "1863",
+   "title": "Casino",
+   "text": "The Monte Carlo casino opens."
+  },
+  {
+   "year": "1929",
+   "title": "Grand Prix",
+   "text": "The first Monaco Grand Prix."
+  },
+  {
+   "year": "1956",
+   "title": "Grace Kelly",
+   "text": "She marries Prince Rainier III."
+  },
+  {
+   "year": "2005",
+   "title": "Albert II",
+   "text": "He becomes prince."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dynasty",
+   "meaning": "A family that rules for generations."
+  }
+ ]
+}
