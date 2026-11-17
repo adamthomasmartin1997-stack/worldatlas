@@ -1,0 +1,60 @@
+{
+ "status": "draft",
+ "intro": "Iraq has some of the largest oil reserves in the world, and oil pays for almost all of the government's budget.",
+ "chapters": [
+  {
+   "id": "oil",
+   "title": "Oil",
+   "text": [
+    "Most oil comes from the south around Basra and is shipped through the Gulf. Kirkuk in the north is another big oil field.",
+    "Relying so heavily on oil makes the economy swing with oil prices."
+   ],
+   "related": [
+    "CHN",
+    "IND"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Beyond oil",
+   "text": [
+    "Dates were once Iraq's most famous export; the country had millions of date palms. Farming, building and religious tourism employ many people, and the government is the largest employer."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Reserves",
+   "meaning": "Oil known to be in the ground and possible to extract."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Iraq",
+   "items": [
+    {
+     "title": "Crude oil",
+     "subtitle": "Basra and Kirkuk",
+     "text": "Almost all exports."
+    },
+    {
+     "title": "Dates",
+     "subtitle": "Basra and Diyala",
+     "text": "Once the world's largest producer."
+    },
+    {
+     "title": "Cement",
+     "subtitle": "Factories",
+     "text": "For rebuilding."
+    },
+    {
+     "title": "Religious tourism",
+     "subtitle": "Najaf and Karbala",
+     "text": "Millions of pilgrims a year."
+    }
+   ],
+   "intro": "Some of the things Iraq makes and sells to the world."
+  }
+ ]
+}

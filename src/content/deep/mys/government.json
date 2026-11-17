@@ -1,0 +1,102 @@
+{
+ "status": "draft",
+ "intro": "Malaysia is a federal constitutional monarchy with a unique system: its king is chosen in turn from the rulers of nine states.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "A rotating king",
+   "text": [
+    "Nine states have hereditary rulers, mostly sultans. Every five years they choose one of themselves to be king, the Yang di-Pertuan Agong. The prime minister leads the government and needs a majority in parliament.",
+    "There are 13 states and 3 federal territories, and Sabah and Sarawak have extra powers."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Kuala Lumpur"
+    },
+    {
+     "label": "Government centre",
+     "value": "Putrajaya"
+    },
+    {
+     "label": "States",
+     "value": "13"
+    }
+   ]
+  },
+  {
+   "id": "politics",
+   "title": "Politics",
+   "text": [
+    "One coalition ruled from 1957 until 2018. Since then several coalitions have taken turns, and Anwar Ibrahim became prime minister in 2022."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Yang di-Pertuan Agong",
+   "meaning": "Malaysia's king."
+  },
+  {
+   "term": "Federation",
+   "meaning": "A union of states with a central government."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Chosen by nine rulers every 5 years",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the majority in parliament",
+     "text": "Runs the government."
+    },
+    {
+     "title": "Dewan Rakyat",
+     "subtitle": "222 members",
+     "text": "The elected lower house."
+    },
+    {
+     "title": "Dewan Negara",
+     "subtitle": "70 members",
+     "text": "The senate, partly appointed."
+    },
+    {
+     "title": "States",
+     "subtitle": "13 states",
+     "text": "Each has its own assembly."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is tabled",
+    "text": "Usually by a minister."
+   },
+   {
+    "title": "Dewan Rakyat",
+    "text": "Three readings and a vote."
+   },
+   {
+    "title": "Dewan Negara",
+    "text": "Approves it or delays it."
+   },
+   {
+    "title": "Royal assent",
+    "text": "The King signs it."
+   }
+  ]
+ }
+}

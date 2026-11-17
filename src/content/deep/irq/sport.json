@@ -1,0 +1,129 @@
+{
+ "status": "draft",
+ "intro": "Football unites Iraqis, and the national team's 2007 Asian Cup win sparked celebrations across a divided country.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The 'Lions of Mesopotamia' won the 2007 Asian Cup despite years of war, and played at the 1986 World Cup. Iraq also won the Gulf Cup in 2023 at home in Basra.",
+    "Al-Zawraa, Al-Shorta, Al-Quwa Al-Jawiya and Al-Talaba are the big Baghdad clubs."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Iraq's only Olympic medal is a weightlifting bronze from 1960. Wrestling, boxing and bodybuilding are popular."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Asian Cup",
+   "meaning": "Asia's main international football tournament."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Iraq Stars League",
+     "subtitle": "Football",
+     "text": "Al-Zawraa have won the most titles."
+    },
+    {
+     "title": "Gulf Cup",
+     "subtitle": "Football",
+     "text": "Iraq won in 2023."
+    },
+    {
+     "title": "Basketball",
+     "subtitle": "Super League",
+     "text": "A popular indoor sport."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Ammo Baba",
+     "subtitle": "Football",
+     "text": "A legendary striker and coach."
+    },
+    {
+     "title": "Hussein Saeed",
+     "subtitle": "Football",
+     "text": "Iraq's record goal-scorer for decades."
+    },
+    {
+     "title": "Younis Mahmoud",
+     "subtitle": "Football",
+     "text": "Scored the 2007 Asian Cup winner."
+    },
+    {
+     "title": "Abdul Wahid Aziz",
+     "subtitle": "Weightlifting",
+     "text": "Iraq's only Olympic medallist, 1960."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Iraq's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Al-Shaab Stadium, Baghdad",
+    "kind": "venue",
+    "lat": 33.32,
+    "lon": 44.44,
+    "text": "A historic national stadium."
+   },
+   {
+    "name": "Basra International Stadium",
+    "kind": "venue",
+    "lat": 30.4,
+    "lon": 47.73,
+    "text": "Hosted the 2023 Gulf Cup."
+   },
+   {
+    "name": "Franso Hariri Stadium, Erbil",
+    "kind": "venue",
+    "lat": 36.18,
+    "lon": 44.0,
+    "text": "Football in Kurdistan."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1960",
+    "title": "Olympic bronze",
+    "text": "Weightlifting in Rome."
+   },
+   {
+    "year": "1986",
+    "title": "World Cup",
+    "text": "Iraq's first World Cup finals."
+   },
+   {
+    "year": "2007",
+    "title": "Asian champions",
+    "text": "Beat Saudi Arabia 1–0."
+   },
+   {
+    "year": "2023",
+    "title": "Gulf Cup at home",
+    "text": "A big party in Basra."
+   }
+  ]
+ }
+}

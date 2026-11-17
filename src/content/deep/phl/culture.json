@@ -1,0 +1,167 @@
+{
+ "status": "draft",
+ "intro": "Filipino culture mixes Malay, Spanish, American and Chinese influences, with a big love of music, food and celebrations.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music and karaoke",
+   "text": [
+    "Karaoke, or videoke, is a national pastime, and Filipino singers are famous across Asia. The Christmas season starts in September and lasts until January."
+   ]
+  },
+  {
+   "id": "festivals",
+   "title": "Fiestas",
+   "text": [
+    "Every town has a fiesta for its patron saint. Sinulog in Cebu and Ati-Atihan in Aklan feature drums and street dancing. Jeepneys, brightly painted public buses based on old US army jeeps, are a symbol of the country."
+   ],
+   "related": [
+    "USA",
+    "ESP"
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Adobo, sinigang (sour soup), lechon (roast pig) and halo-halo (shaved ice with many toppings) are favourites. Rice is eaten at almost every meal."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Jeepney",
+   "meaning": "A colourful shared bus made from a jeep."
+  },
+  {
+   "term": "Fiesta",
+   "meaning": "A festival, often for a patron saint."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Manila in the Claws of Light",
+     "subtitle": "1975 · Lino Brocka",
+     "text": "A classic about life in the city."
+    },
+    {
+     "title": "Himala",
+     "subtitle": "1982 · Ishmael Bernal",
+     "text": "A girl claims to see a miracle."
+    },
+    {
+     "title": "Ma' Rosa",
+     "subtitle": "2016 · Brillante Mendoza",
+     "text": "Its lead won Best Actress at Cannes."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Noli Me Tángere",
+     "subtitle": "1887 · José Rizal",
+     "text": "The novel that inspired a revolution."
+    },
+    {
+     "title": "Florante at Laura",
+     "subtitle": "1838 · Francisco Balagtas",
+     "text": "A classic poem in Tagalog."
+    },
+    {
+     "title": "America Is in the Heart",
+     "subtitle": "1946 · Carlos Bulosan",
+     "text": "A Filipino migrant in the US."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Bayan Ko",
+     "subtitle": "Traditional",
+     "text": "A protest anthem of People Power."
+    },
+    {
+     "title": "Anak",
+     "subtitle": "Freddie Aguilar, 1978",
+     "text": "One of the best-selling Asian songs."
+    },
+    {
+     "title": "Gento",
+     "subtitle": "SB19, 2023",
+     "text": "A P-pop hit."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Adobo",
+     "subtitle": "Everywhere",
+     "text": "Meat stewed in vinegar, soy and garlic."
+    },
+    {
+     "title": "Sinigang",
+     "subtitle": "Everywhere",
+     "text": "Sour tamarind soup."
+    },
+    {
+     "title": "Lechon",
+     "subtitle": "Cebu",
+     "text": "Whole roast pig."
+    },
+    {
+     "title": "Halo-halo",
+     "subtitle": "Summer",
+     "text": "Shaved ice with beans, jelly and ice cream."
+    },
+    {
+     "title": "Lumpia",
+     "subtitle": "Parties",
+     "text": "Spring rolls."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Sinulog",
+    "text": "Cebu's huge street dance."
+   },
+   {
+    "month": 1,
+    "name": "Ati-Atihan",
+    "text": "Drums and face paint in Kalibo."
+   },
+   {
+    "month": 4,
+    "name": "Holy Week",
+    "text": "Processions across the country."
+   },
+   {
+    "month": 6,
+    "name": "Independence Day",
+    "text": "12 June, 1898."
+   },
+   {
+    "month": 12,
+    "name": "Simbang Gabi",
+    "text": "Nine dawn masses before Christmas."
+   }
+  ]
+ }
+}

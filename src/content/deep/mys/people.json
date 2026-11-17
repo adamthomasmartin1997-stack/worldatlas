@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Malaysia is a multicultural country of Malays, Chinese, Indians and many Indigenous peoples.",
+ "chapters": [
+  {
+   "id": "groups",
+   "title": "Many peoples",
+   "text": [
+    "Malays and other Indigenous groups, called Bumiputera ('sons of the soil'), make up about 70% of citizens. About a fifth are of Chinese descent and around 6% of Indian descent. Sabah and Sarawak are home to peoples such as the Iban and Kadazan-Dusun.",
+    "Malay is the national language, and English, Chinese dialects and Tamil are widely spoken."
+   ],
+   "related": [
+    "CHN",
+    "IND"
+   ]
+  },
+  {
+   "id": "faith",
+   "title": "Faith",
+   "text": [
+    "Islam is the official religion and most Malays are Muslim. Buddhism, Christianity and Hinduism are widely practised, and festivals of every faith are public holidays."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bumiputera",
+   "meaning": "Malays and other Indigenous peoples."
+  }
+ ]
+}

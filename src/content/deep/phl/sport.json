@@ -1,0 +1,148 @@
+{
+ "status": "draft",
+ "intro": "Basketball is the Philippines' great passion, and boxing gave it one of the world's best-known athletes.",
+ "chapters": [
+  {
+   "id": "basketball",
+   "title": "Basketball",
+   "text": [
+    "Hoops hang in nearly every village. The PBA, founded in 1975, is Asia's oldest professional basketball league. The Philippines co-hosted the 2023 Basketball World Cup."
+   ],
+   "related": [
+    "USA",
+    "JPN",
+    "IDN"
+   ]
+  },
+  {
+   "id": "boxing",
+   "title": "Boxing and gold",
+   "text": [
+    "Manny Pacquiao won world titles in eight weight divisions, a record. In 2021 weightlifter Hidilyn Diaz won the country's first Olympic gold, and in 2024 gymnast Carlos Yulo won two more."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "PBA",
+   "meaning": "The Philippine Basketball Association."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "PBA",
+     "subtitle": "Basketball · since 1975",
+     "text": "San Miguel Beermen have won it the most."
+    },
+    {
+     "title": "UAAP",
+     "subtitle": "College basketball",
+     "text": "Huge crowds for university games."
+    },
+    {
+     "title": "PVL",
+     "subtitle": "Volleyball",
+     "text": "A popular women's league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Manny Pacquiao",
+     "subtitle": "Boxing",
+     "text": "Champion in eight divisions."
+    },
+    {
+     "title": "Hidilyn Diaz",
+     "subtitle": "Weightlifting",
+     "text": "First Olympic gold, 2021."
+    },
+    {
+     "title": "Carlos Yulo",
+     "subtitle": "Gymnastics",
+     "text": "Two Olympic golds in 2024."
+    },
+    {
+     "title": "Efren Reyes",
+     "subtitle": "Pool",
+     "text": "'The Magician', a billiards legend."
+    },
+    {
+     "title": "EJ Obiena",
+     "subtitle": "Pole vault",
+     "text": "A world championship medallist."
+    },
+    {
+     "title": "Alex Eala",
+     "subtitle": "Tennis",
+     "text": "A rising star."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where the Philippines' biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Philippine Arena, Bulacan",
+    "kind": "venue",
+    "lat": 14.79,
+    "lon": 120.95,
+    "text": "One of the world's largest indoor arenas."
+   },
+   {
+    "name": "Araneta Coliseum, Quezon City",
+    "kind": "venue",
+    "lat": 14.62,
+    "lon": 121.05,
+    "text": "Venue of the 'Thrilla in Manila'."
+   },
+   {
+    "name": "Rizal Memorial Stadium, Manila",
+    "kind": "venue",
+    "lat": 14.565,
+    "lon": 120.99,
+    "text": "A historic sports complex."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1975",
+    "title": "Thrilla in Manila",
+    "text": "Ali beats Frazier in Quezon City."
+   },
+   {
+    "year": "2009",
+    "title": "Pacquiao's seventh division",
+    "text": "A record run of titles."
+   },
+   {
+    "year": "2021",
+    "title": "First Olympic gold",
+    "text": "Hidilyn Diaz in Tokyo."
+   },
+   {
+    "year": "2023",
+    "title": "Asian Games basketball gold",
+    "text": "The first in 61 years."
+   },
+   {
+    "year": "2024",
+    "title": "Yulo's double",
+    "text": "Two gymnastics golds in Paris."
+   }
+  ]
+ }
+}

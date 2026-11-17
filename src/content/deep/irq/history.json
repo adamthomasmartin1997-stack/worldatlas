@@ -1,0 +1,127 @@
+{
+ "status": "draft",
+ "intro": "Iraq covers most of ancient Mesopotamia, the 'land between the rivers', where the first cities, writing and written laws began.",
+ "chapters": [
+  {
+   "id": "mesopotamia",
+   "title": "Cradle of civilisation",
+   "text": [
+    "Around 3500 BC the Sumerians built cities such as Uruk and Ur between the Tigris and Euphrates. They invented cuneiform writing, pressed into clay tablets, and developed the wheel, maths based on 60 (which is why we have 60 minutes in an hour) and the first known epic, Gilgamesh.",
+    "Later empires rose here: Akkad, Babylon, whose king Hammurabi carved a famous law code, and Assyria, with its capital at Nineveh."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Writing, cities and written laws all appear first in Mesopotamia."
+   },
+   "related": [
+    "IRN",
+    "SYR",
+    "TUR"
+   ]
+  },
+  {
+   "id": "babylon",
+   "title": "Babylon and the empires",
+   "text": [
+    "Nebuchadnezzar II made Babylon one of the greatest cities in the world in the 500s BC, with the blue-tiled Ishtar Gate. Persia conquered Babylon in 539 BC, followed by Alexander the Great, the Parthians and the Sasanians."
+   ],
+   "related": [
+    "IRN",
+    "GRC"
+   ]
+  },
+  {
+   "id": "baghdad",
+   "title": "Baghdad's golden age",
+   "text": [
+    "Arab armies brought Islam in the 600s. In 762 the Abbasid caliphs founded Baghdad, which became perhaps the largest city in the world. Its House of Wisdom gathered scholars who translated Greek works and advanced maths, astronomy and medicine.",
+    "In 1258 the Mongols sacked Baghdad. Later the Ottoman Empire ruled for nearly 400 years."
+   ],
+   "related": [
+    "MNG",
+    "TUR",
+    "SAU"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Modern Iraq",
+   "text": [
+    "After World War One Britain created Iraq from three Ottoman provinces and made it a kingdom; it became independent in 1932. A revolution in 1958 ended the monarchy. Saddam Hussein ruled from 1979, fought a long war with Iran and invaded Kuwait in 1990, leading to the Gulf War.",
+    "In 2003 a US-led invasion overthrew Saddam. Years of violence followed, and in 2014 the extremist group Islamic State seized Mosul and much of the north before being defeated in 2017. Iraq has since been rebuilding."
+   ],
+   "related": [
+    "GBR",
+    "IRN",
+    "KWT",
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 3200 BC",
+   "title": "Writing",
+   "text": "Cuneiform appears in Sumer."
+  },
+  {
+   "year": "c. 1750 BC",
+   "title": "Hammurabi",
+   "text": "Babylon's law code."
+  },
+  {
+   "year": "539 BC",
+   "title": "Persian conquest",
+   "text": "Babylon falls to Cyrus."
+  },
+  {
+   "year": "762",
+   "title": "Baghdad",
+   "text": "Founded by the Abbasids."
+  },
+  {
+   "year": "1258",
+   "title": "Mongol sack",
+   "text": "Baghdad is destroyed."
+  },
+  {
+   "year": "1932",
+   "title": "Independence",
+   "text": "From British rule."
+  },
+  {
+   "year": "1958",
+   "title": "Republic",
+   "text": "The monarchy ends."
+  },
+  {
+   "year": "1980",
+   "title": "Iran–Iraq War",
+   "text": "Lasts eight years."
+  },
+  {
+   "year": "2003",
+   "title": "Invasion",
+   "text": "Saddam Hussein is overthrown."
+  },
+  {
+   "year": "2017",
+   "title": "IS defeated",
+   "text": "Mosul is retaken."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mesopotamia",
+   "meaning": "The 'land between the rivers' Tigris and Euphrates."
+  },
+  {
+   "term": "Cuneiform",
+   "meaning": "Wedge-shaped writing on clay."
+  },
+  {
+   "term": "Caliph",
+   "meaning": "A leader of the Muslim community."
+  }
+ ]
+}

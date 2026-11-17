@@ -1,0 +1,149 @@
+{
+ "status": "draft",
+ "intro": "Badminton is Malaysia's favourite sport, and it has given the country most of its Olympic medals.",
+ "chapters": [
+  {
+   "id": "badminton",
+   "title": "Badminton",
+   "text": [
+    "Malaysia has won the Thomas Cup, the world team championship, five times. Lee Chong Wei was world No. 1 for over 300 weeks and won three Olympic silvers."
+   ],
+   "related": [
+    "CHN",
+    "IDN"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Football, field hockey and sepak takraw are popular. Diver Pandelela Rinong won Olympic medals, and Nicol David was world No. 1 in squash for 109 months in a row. Sepang hosted Formula One from 1999 to 2017 and still hosts MotoGP."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Thomas Cup",
+   "meaning": "The men's world team badminton championship."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Malaysia Super League",
+     "subtitle": "Football",
+     "text": "Johor Darul Ta'zim have won it every year since 2014."
+    },
+    {
+     "title": "Malaysia Open",
+     "subtitle": "Badminton",
+     "text": "A top world tour event."
+    },
+    {
+     "title": "Malaysian MotoGP",
+     "subtitle": "Motorbikes",
+     "text": "A big race at Sepang every year."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Lee Chong Wei",
+     "subtitle": "Badminton",
+     "text": "Three Olympic silvers."
+    },
+    {
+     "title": "Nicol David",
+     "subtitle": "Squash",
+     "text": "World No. 1 for over 9 years."
+    },
+    {
+     "title": "Pandelela Rinong",
+     "subtitle": "Diving",
+     "text": "Two Olympic medals."
+    },
+    {
+     "title": "Azizulhasni Awang",
+     "subtitle": "Track cycling",
+     "text": "Olympic medallist, 'the Pocket Rocketman'."
+    },
+    {
+     "title": "Aaron Chia and Soh Wooi Yik",
+     "subtitle": "Badminton",
+     "text": "2022 world doubles champions."
+    },
+    {
+     "title": "Mokhtar Dahari",
+     "subtitle": "Football",
+     "text": "A legendary striker."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Malaysia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Bukit Jalil National Stadium",
+    "kind": "venue",
+    "lat": 3.055,
+    "lon": 101.69,
+    "text": "One of Asia's biggest stadiums."
+   },
+   {
+    "name": "Axiata Arena",
+    "kind": "venue",
+    "lat": 3.05,
+    "lon": 101.69,
+    "text": "Badminton's home."
+   },
+   {
+    "name": "Sepang International Circuit",
+    "kind": "venue",
+    "lat": 2.76,
+    "lon": 101.74,
+    "text": "MotoGP and once Formula One."
+   },
+   {
+    "name": "Sultan Ibrahim Stadium, Johor",
+    "kind": "venue",
+    "lat": 1.5,
+    "lon": 103.66,
+    "text": "Home of JDT."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1949",
+    "title": "First Thomas Cup",
+    "text": "Malaya wins the first edition."
+   },
+   {
+    "year": "1992",
+    "title": "Thomas Cup again",
+    "text": "A famous home win."
+   },
+   {
+    "year": "1999",
+    "title": "Formula One arrives",
+    "text": "The first Malaysian Grand Prix."
+   },
+   {
+    "year": "2016",
+    "title": "Rio medals",
+    "text": "Medals in badminton, diving and cycling."
+   }
+  ]
+ }
+}

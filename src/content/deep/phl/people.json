@@ -1,0 +1,37 @@
+{
+ "status": "draft",
+ "intro": "The Philippines has over 110 million people, and around 10 million more Filipinos live and work abroad.",
+ "chapters": [
+  {
+   "id": "languages",
+   "title": "Languages",
+   "text": [
+    "Filipino (based on Tagalog) and English are official, and over 170 languages are spoken, including Cebuano and Ilocano. Many people switch between Filipino and English in 'Taglish'."
+   ]
+  },
+  {
+   "id": "faith",
+   "title": "Faith and family",
+   "text": [
+    "About 80% of people are Catholic, making the Philippines one of the largest Catholic countries. Muslims live mainly in Mindanao. Family ties are strong, and celebrations are big.",
+    "Filipino nurses, sailors and domestic workers work all over the world."
+   ],
+   "related": [
+    "USA",
+    "SAU",
+    "ARE",
+    "HKG"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "OFW",
+   "meaning": "Overseas Filipino Worker."
+  },
+  {
+   "term": "Taglish",
+   "meaning": "Mixing Tagalog and English."
+  }
+ ]
+}

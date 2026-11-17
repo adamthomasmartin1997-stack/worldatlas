@@ -1,0 +1,127 @@
+{
+ "status": "draft",
+ "intro": "Iran is a high plateau ringed by mountains, with two great deserts at its centre and seas to the north and south.",
+ "chapters": [
+  {
+   "id": "mountains",
+   "title": "Mountains and plateau",
+   "text": [
+    "The Zagros mountains run down the west and the Alborz along the north. Mount Damavand, a dormant volcano, is the highest peak in the Middle East at about 5,600 m.",
+    "Most of Iran sits on a plateau over 1,000 m high, and much of the population lives in the mountain foothills."
+   ],
+   "related": [
+    "IRQ",
+    "TUR",
+    "AFG"
+   ]
+  },
+  {
+   "id": "deserts",
+   "title": "Deserts",
+   "text": [
+    "The Dasht-e Kavir (salt desert) and Dasht-e Lut fill the centre. Satellites have measured some of the hottest ground temperatures on Earth in the Lut desert, over 70 °C.",
+    "Ancient underground canals called qanats carry water from mountains to towns and farms."
+   ]
+  },
+  {
+   "id": "seas",
+   "title": "Two seas",
+   "text": [
+    "The Caspian coast in the north is green, rainy and covered in forest. In the south, the Persian Gulf and the Strait of Hormuz carry a large share of the world's oil."
+   ],
+   "related": [
+    "AZE",
+    "TKM",
+    "ARE",
+    "OMN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Qanat",
+   "meaning": "An underground water channel."
+  },
+  {
+   "term": "Plateau",
+   "meaning": "A large, high, fairly flat area."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Iran's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Mount Damavand",
+    "kind": "volcano",
+    "lat": 35.95,
+    "lon": 52.11,
+    "text": "The highest peak in the Middle East."
+   },
+   {
+    "name": "Caspian forests",
+    "kind": "Hyrcanian forest",
+    "lat": 36.6,
+    "lon": 51.5,
+    "text": "Ancient forests along the Caspian Sea."
+   },
+   {
+    "name": "Alamut valley",
+    "kind": "mountain valley",
+    "lat": 36.44,
+    "lon": 50.59,
+    "text": "Castles high in the Alborz."
+   },
+   {
+    "name": "Dasht-e Kavir",
+    "kind": "salt desert",
+    "lat": 34.5,
+    "lon": 54.5,
+    "text": "A huge desert of salt crusts."
+   },
+   {
+    "name": "Isfahan",
+    "kind": "oasis city",
+    "lat": 32.65,
+    "lon": 51.67,
+    "text": "A city on the Zayandeh river."
+   },
+   {
+    "name": "Dasht-e Lut",
+    "kind": "desert",
+    "lat": 30.5,
+    "lon": 58.5,
+    "text": "Among the hottest places on Earth."
+   },
+   {
+    "name": "Zagros mountains",
+    "kind": "mountains",
+    "lat": 32.0,
+    "lon": 50.5,
+    "text": "Oak forests and nomad pastures."
+   },
+   {
+    "name": "Persepolis",
+    "kind": "ruins",
+    "lat": 29.935,
+    "lon": 52.89,
+    "text": "The ancient capital of Darius."
+   },
+   {
+    "name": "Hormuz Island",
+    "kind": "rainbow island",
+    "lat": 27.06,
+    "lon": 56.46,
+    "text": "Red, yellow and purple soils."
+   },
+   {
+    "name": "Qeshm",
+    "kind": "island",
+    "lat": 26.8,
+    "lon": 55.9,
+    "text": "Mangroves and canyons in the Gulf."
+   }
+  ]
+ }
+}

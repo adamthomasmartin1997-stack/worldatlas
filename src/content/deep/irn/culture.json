@@ -1,0 +1,163 @@
+{
+ "status": "draft",
+ "intro": "Persian culture is famous for poetry, carpets, gardens and architecture that influenced much of Asia.",
+ "chapters": [
+  {
+   "id": "poetry",
+   "title": "Poetry",
+   "text": [
+    "Ferdowsi's Shahnameh, the 'Book of Kings', tells Iran's legendary history in about 50,000 couplets. Iranians quote Hafez and Saadi in daily life, and many homes keep a book of Hafez's poems."
+   ]
+  },
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Persian carpets are prized around the world. Blue-tiled mosques in Isfahan and walled Persian gardens are on UNESCO's list. Iranian cinema, from Abbas Kiarostami to Asghar Farhadi, has won top international prizes."
+   ]
+  },
+  {
+   "id": "nowruz",
+   "title": "Nowruz",
+   "text": [
+    "Nowruz, the Persian New Year at the spring equinox, is the biggest celebration, with a table of seven symbolic items starting with the letter 's'."
+   ],
+   "related": [
+    "AFG",
+    "TJK",
+    "AZE"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Shahnameh",
+   "meaning": "Iran's national epic."
+  },
+  {
+   "term": "Nowruz",
+   "meaning": "The Persian New Year."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Where Is the Friend's House?",
+     "subtitle": "1987 · Abbas Kiarostami",
+     "text": "A boy tries to return a friend's notebook."
+    },
+    {
+     "title": "Children of Heaven",
+     "subtitle": "1997 · Majid Majidi",
+     "text": "A brother and sister share one pair of shoes."
+    },
+    {
+     "title": "A Separation",
+     "subtitle": "2011 · Asghar Farhadi",
+     "text": "A family drama; won an Oscar."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Shahnameh",
+     "subtitle": "c. 1010 · Ferdowsi",
+     "text": "The 'Book of Kings'."
+    },
+    {
+     "title": "The Divan",
+     "subtitle": "1300s · Hafez",
+     "text": "Love poems still read every day."
+    },
+    {
+     "title": "Persepolis",
+     "subtitle": "2000 · Marjane Satrapi",
+     "text": "A graphic memoir of growing up during the revolution."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Persian classical music",
+     "subtitle": "Radif",
+     "text": "Music built on old melodic patterns."
+    },
+    {
+     "title": "Mohammad-Reza Shajarian",
+     "subtitle": "Singer",
+     "text": "Master of classical vocal music."
+    },
+    {
+     "title": "Baraye",
+     "subtitle": "Shervin Hajipour, 2022",
+     "text": "The anthem of the 2022 protests; won a Grammy."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Chelo kebab",
+     "subtitle": "Everywhere",
+     "text": "Saffron rice with grilled kebab."
+    },
+    {
+     "title": "Ghormeh sabzi",
+     "subtitle": "Everywhere",
+     "text": "Herb stew with beans."
+    },
+    {
+     "title": "Tahdig",
+     "subtitle": "Everywhere",
+     "text": "The crispy rice at the bottom of the pot."
+    },
+    {
+     "title": "Fesenjan",
+     "subtitle": "Gilan",
+     "text": "Walnut and pomegranate stew."
+    },
+    {
+     "title": "Saffron ice cream",
+     "subtitle": "Everywhere",
+     "text": "With pistachios and rosewater."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Nowruz",
+    "text": "Persian New Year, 20 or 21 March."
+   },
+   {
+    "month": 4,
+    "name": "Sizdah Bedar",
+    "text": "Picnics on the 13th day of the year."
+   },
+   {
+    "month": 12,
+    "name": "Yalda Night",
+    "text": "Longest night: pomegranates and poetry."
+   },
+   {
+    "month": 3,
+    "name": "Chaharshanbe Suri",
+    "text": "Jumping over bonfires before Nowruz."
+   }
+  ]
+ }
+}

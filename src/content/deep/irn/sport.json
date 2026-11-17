@@ -1,0 +1,147 @@
+{
+ "status": "draft",
+ "intro": "Wrestling is Iran's most successful Olympic sport, while football draws the biggest crowds.",
+ "chapters": [
+  {
+   "id": "wrestling",
+   "title": "Wrestling and weightlifting",
+   "text": [
+    "Wrestling has an ancient tradition in Iran, including the zurkhaneh ('house of strength'), where athletes train to drums and poetry. Most of Iran's Olympic golds come from wrestling, weightlifting and taekwondo."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Team Melli has qualified for several World Cups and won the Asian Cup three times. For decades women were barred from watching men's matches in stadiums, a ban that has been eased only partly."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Zurkhaneh",
+   "meaning": "A traditional Persian gym."
+  },
+  {
+   "term": "Team Melli",
+   "meaning": "Iran's national football team."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Persian Gulf Pro League",
+     "subtitle": "Football",
+     "text": "Persepolis and Esteghlal are the giant rivals."
+    },
+    {
+     "title": "Wrestling",
+     "subtitle": "Freestyle and Greco-Roman",
+     "text": "Iran's top medal sport."
+    },
+    {
+     "title": "Volleyball",
+     "subtitle": "Super League",
+     "text": "Iran's men are an Asian powerhouse."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Gholamreza Takhti",
+     "subtitle": "Wrestling",
+     "text": "Olympic champion and national hero."
+    },
+    {
+     "title": "Ali Daei",
+     "subtitle": "Football",
+     "text": "Scored 108 goals for Iran."
+    },
+    {
+     "title": "Hossein Rezazadeh",
+     "subtitle": "Weightlifting",
+     "text": "Two Olympic golds; once the world's strongest man."
+    },
+    {
+     "title": "Kimia Alizadeh",
+     "subtitle": "Taekwondo",
+     "text": "Iran's first female Olympic medallist."
+    },
+    {
+     "title": "Hassan Yazdani",
+     "subtitle": "Wrestling",
+     "text": "Olympic champion."
+    },
+    {
+     "title": "Mehdi Taremi",
+     "subtitle": "Football",
+     "text": "A top European striker."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Iran's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Azadi Stadium, Tehran",
+    "kind": "venue",
+    "lat": 35.725,
+    "lon": 51.276,
+    "text": "One of Asia's largest stadiums."
+   },
+   {
+    "name": "Naghsh-e Jahan Stadium, Isfahan",
+    "kind": "venue",
+    "lat": 32.6,
+    "lon": 51.6,
+    "text": "Home of Sepahan."
+   },
+   {
+    "name": "Dizin",
+    "kind": "venue",
+    "lat": 36.06,
+    "lon": 51.4,
+    "text": "Iran's top ski resort."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1968",
+    "title": "Asian Cup",
+    "text": "The first of three in a row."
+   },
+   {
+    "year": "1998",
+    "title": "Beating the USA",
+    "text": "A famous World Cup win."
+   },
+   {
+    "year": "2000",
+    "title": "Rezazadeh gold",
+    "text": "Weightlifting champion in Sydney."
+   },
+   {
+    "year": "2016",
+    "title": "Kimia Alizadeh",
+    "text": "A taekwondo bronze in Rio."
+   },
+   {
+    "year": "2022",
+    "title": "Beating Wales",
+    "text": "At the World Cup in Qatar."
+   }
+  ]
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "status": "draft",
+ "intro": "Malaysia is split in two by the South China Sea: Peninsular Malaysia on the mainland, and Sabah and Sarawak on the island of Borneo.",
+ "chapters": [
+  {
+   "id": "two",
+   "title": "Two halves",
+   "text": [
+    "Peninsular Malaysia has a mountainous spine, the Titiwangsa range, with cool hill stations like the Cameron Highlands. East Malaysia, on Borneo, is larger and wilder, with huge rivers and rainforest.",
+    "Mount Kinabalu in Sabah, 4,095 m, is the highest mountain in the country."
+   ],
+   "related": [
+    "IDN",
+    "BRN",
+    "SGP",
+    "THA"
+   ]
+  },
+  {
+   "id": "rainforest",
+   "title": "Rainforest and wildlife",
+   "text": [
+    "Malaysia's rainforests are among the oldest on Earth, home to orangutans, proboscis monkeys, hornbills and the giant rafflesia, the world's largest flower. Much forest has been cleared for oil palm plantations.",
+    "The Mulu caves in Sarawak include one of the largest cave chambers in the world."
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Malaysia is hot and humid all year, with monsoon rains that flood the east coast from November to February."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Rafflesia",
+   "meaning": "A giant flower that smells of rotting meat."
+  },
+  {
+   "term": "Hill station",
+   "meaning": "A cool mountain town built as a retreat."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Malaysia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Langkawi",
+    "kind": "islands",
+    "lat": 6.35,
+    "lon": 99.8,
+    "text": "Rainforest islands with a sky bridge."
+   },
+   {
+    "name": "Penang",
+    "kind": "island city",
+    "lat": 5.41,
+    "lon": 100.33,
+    "text": "George Town's shophouses and street art."
+   },
+   {
+    "name": "Cameron Highlands",
+    "kind": "hill station",
+    "lat": 4.47,
+    "lon": 101.38,
+    "text": "Tea plantations in cool hills."
+   },
+   {
+    "name": "Taman Negara",
+    "kind": "rainforest",
+    "lat": 4.6,
+    "lon": 102.4,
+    "text": "One of the world's oldest rainforests."
+   },
+   {
+    "name": "Kuala Lumpur",
+    "kind": "capital",
+    "lat": 3.14,
+    "lon": 101.69,
+    "text": "The Petronas Towers and a huge skyline."
+   },
+   {
+    "name": "Malacca",
+    "kind": "historic port",
+    "lat": 2.2,
+    "lon": 102.25,
+    "text": "Portuguese, Dutch and British buildings."
+   },
+   {
+    "name": "Mulu caves",
+    "kind": "caves",
+    "lat": 4.05,
+    "lon": 114.85,
+    "text": "Giant caves and limestone pinnacles in Sarawak."
+   },
+   {
+    "name": "Mount Kinabalu",
+    "kind": "mountain",
+    "lat": 6.08,
+    "lon": 116.56,
+    "text": "The highest peak, 4,095 m."
+   },
+   {
+    "name": "Sipadan",
+    "kind": "coral island",
+    "lat": 4.11,
+    "lon": 118.63,
+    "text": "A famous diving spot with turtles."
+   },
+   {
+    "name": "Kinabatangan river",
+    "kind": "river",
+    "lat": 5.5,
+    "lon": 118.2,
+    "text": "Orangutans and proboscis monkeys."
+   }
+  ]
+ }
+}

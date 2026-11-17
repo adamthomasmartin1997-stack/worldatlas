@@ -1,0 +1,71 @@
+{
+ "status": "draft",
+ "intro": "Malaysia moved from tin and rubber to electronics, palm oil and oil and gas, and is now an upper-middle-income country.",
+ "chapters": [
+  {
+   "id": "industry",
+   "title": "Chips and palm oil",
+   "text": [
+    "Penang is a major centre for testing and packaging computer chips. Malaysia is the world's second-biggest producer of palm oil after Indonesia, and also exports oil and liquefied gas through the state company Petronas.",
+    "Rubber gloves made in Malaysia are used all over the world."
+   ],
+   "related": [
+    "IDN",
+    "SGP",
+    "CHN"
+   ]
+  },
+  {
+   "id": "growth",
+   "title": "Growth",
+   "text": [
+    "Tourism, Islamic finance and services have grown. Kuala Lumpur's skyline is one of the most famous in Asia."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Palm oil",
+   "meaning": "Oil from oil palm fruit, used in food and cosmetics."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Malaysia",
+   "items": [
+    {
+     "title": "Computer chips",
+     "subtitle": "Penang",
+     "text": "Testing and packaging chips."
+    },
+    {
+     "title": "Palm oil",
+     "subtitle": "Sabah and Johor",
+     "text": "The second-largest producer."
+    },
+    {
+     "title": "Rubber gloves",
+     "subtitle": "Factories",
+     "text": "A large share of the world's medical gloves."
+    },
+    {
+     "title": "Oil and gas",
+     "subtitle": "Petronas",
+     "text": "Exported as liquefied gas."
+    },
+    {
+     "title": "Cars",
+     "subtitle": "Proton and Perodua",
+     "text": "National car brands."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Everywhere",
+     "text": "Millions of visitors."
+    }
+   ],
+   "intro": "Some of the things Malaysia makes and sells to the world."
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "status": "draft",
+ "intro": "The Philippines is an archipelago of over 7,600 islands in the western Pacific, grouped into Luzon, the Visayas and Mindanao.",
+ "chapters": [
+  {
+   "id": "islands",
+   "title": "Islands and volcanoes",
+   "text": [
+    "Luzon in the north and Mindanao in the south are the biggest islands. The Philippines sits on the Pacific Ring of Fire, with active volcanoes like Mayon, famous for its perfect cone, and Taal, inside a lake.",
+    "The Mount Pinatubo eruption of 1991 was one of the largest of the 20th century and cooled the whole planet slightly."
+   ]
+  },
+  {
+   "id": "seas",
+   "title": "Seas and reefs",
+   "text": [
+    "Philippine waters are in the Coral Triangle, which has the richest sea life on Earth. Tubbataha Reef is a protected World Heritage site.",
+    "The country has one of the longest coastlines in the world."
+   ],
+   "related": [
+    "IDN",
+    "MYS"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Typhoons",
+   "text": [
+    "About 20 tropical storms enter Philippine waters each year. Typhoon Haiyan in 2013 was one of the strongest storms ever to hit land and killed over 6,000 people."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Archipelago",
+   "meaning": "A group of islands."
+  },
+  {
+   "term": "Ring of Fire",
+   "meaning": "A belt of volcanoes and earthquakes around the Pacific."
+  },
+  {
+   "term": "Coral Triangle",
+   "meaning": "A sea area with the most coral species on Earth."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of the Philippines' landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Batanes",
+    "kind": "northern islands",
+    "lat": 20.45,
+    "lon": 121.97,
+    "text": "Stone houses and green hills facing Taiwan."
+   },
+   {
+    "name": "Banaue rice terraces",
+    "kind": "rice terraces",
+    "lat": 16.92,
+    "lon": 121.06,
+    "text": "Carved into the mountains 2,000 years ago."
+   },
+   {
+    "name": "Mount Pinatubo",
+    "kind": "volcano",
+    "lat": 15.14,
+    "lon": 120.35,
+    "text": "A crater lake after the 1991 eruption."
+   },
+   {
+    "name": "Taal Volcano",
+    "kind": "lake volcano",
+    "lat": 14.0,
+    "lon": 121.0,
+    "text": "A volcano on an island in a lake."
+   },
+   {
+    "name": "Mayon",
+    "kind": "volcano",
+    "lat": 13.26,
+    "lon": 123.69,
+    "text": "A near-perfect cone."
+   },
+   {
+    "name": "El Nido, Palawan",
+    "kind": "limestone islands",
+    "lat": 11.2,
+    "lon": 119.4,
+    "text": "Lagoons and cliffs."
+   },
+   {
+    "name": "Puerto Princesa Underground River",
+    "kind": "underground river",
+    "lat": 10.2,
+    "lon": 118.92,
+    "text": "A river flowing through a cave to the sea."
+   },
+   {
+    "name": "Chocolate Hills, Bohol",
+    "kind": "hills",
+    "lat": 9.83,
+    "lon": 124.17,
+    "text": "Over 1,000 hills that turn brown in the dry season."
+   },
+   {
+    "name": "Tubbataha Reef",
+    "kind": "coral reef",
+    "lat": 8.95,
+    "lon": 119.9,
+    "text": "A remote reef full of sea life."
+   },
+   {
+    "name": "Mount Apo",
+    "kind": "mountain",
+    "lat": 6.99,
+    "lon": 125.27,
+    "text": "The country's highest peak, 2,954 m."
+   }
+  ]
+ }
+}

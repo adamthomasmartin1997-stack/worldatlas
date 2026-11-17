@@ -1,0 +1,143 @@
+{
+ "status": "draft",
+ "intro": "Iraq's culture draws on thousands of years of history, Arab and Kurdish traditions, and a love of poetry and music.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Poetry and music",
+   "text": [
+    "Baghdad was a centre of Arabic poetry and storytelling; some tales of the Thousand and One Nights are set there. Iraqi maqam, a classical singing style, is on UNESCO's heritage list.",
+    "Al-Mutanabbi Street in Baghdad is famous for its booksellers."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food and tea",
+   "text": [
+    "Masgouf, a river carp grilled by an open fire, is a national dish. Dolma, kubba and flatbreads are common, and small glasses of sweet tea are drunk all day."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Maqam",
+   "meaning": "A system of melodies in Arabic music."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Son of Babylon",
+     "subtitle": "2009 · Mohamed Al-Daradji",
+     "text": "A boy searches for his father."
+    },
+    {
+     "title": "Turtles Can Fly",
+     "subtitle": "2004 · Bahman Ghobadi",
+     "text": "Kurdish children near the border in 2003."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Epic of Gilgamesh",
+     "subtitle": "c. 2100 BC",
+     "text": "The oldest great story ever written."
+    },
+    {
+     "title": "Frankenstein in Baghdad",
+     "subtitle": "2013 · Ahmed Saadawi",
+     "text": "A dark tale of war-torn Baghdad."
+    },
+    {
+     "title": "Poems",
+     "subtitle": "1950s · Badr Shakir al-Sayyab",
+     "text": "A pioneer of modern Arabic poetry."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Iraqi maqam",
+     "subtitle": "Traditional",
+     "text": "Classical singing; UNESCO-listed."
+    },
+    {
+     "title": "Kadim Al Sahir",
+     "subtitle": "Singer",
+     "text": "The 'Caesar of Arabic song'."
+    },
+    {
+     "title": "Naseer Shamma",
+     "subtitle": "Oud player",
+     "text": "A master of the oud."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Masgouf",
+     "subtitle": "Baghdad",
+     "text": "Carp grilled on the riverbank."
+    },
+    {
+     "title": "Dolma",
+     "subtitle": "Everywhere",
+     "text": "Stuffed vine leaves and vegetables."
+    },
+    {
+     "title": "Kubba",
+     "subtitle": "Mosul",
+     "text": "Bulgur shells filled with meat."
+    },
+    {
+     "title": "Kahi and geymar",
+     "subtitle": "Breakfast",
+     "text": "Pastry with clotted cream and syrup."
+    },
+    {
+     "title": "Dates",
+     "subtitle": "Everywhere",
+     "text": "Hundreds of varieties."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Nowruz",
+    "text": "Kurdish New Year with bonfires."
+   },
+   {
+    "month": 7,
+    "name": "Republic Day",
+    "text": "14 July, 1958."
+   },
+   {
+    "month": 10,
+    "name": "National Day",
+    "text": "3 October, 1932."
+   },
+   {
+    "month": 8,
+    "name": "Arbaeen",
+    "text": "Pilgrims walk to Karbala (date moves each year)."
+   }
+  ]
+ }
+}

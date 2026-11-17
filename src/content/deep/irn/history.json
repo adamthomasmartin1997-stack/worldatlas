@@ -1,0 +1,130 @@
+{
+ "status": "draft",
+ "intro": "Iran, long known in the West as Persia, is home to one of the world's oldest civilisations. Its empires once stretched from Egypt to India, and its 1979 revolution changed the Middle East.",
+ "chapters": [
+  {
+   "id": "persia",
+   "title": "The Persian Empire",
+   "text": [
+    "In 550 BC Cyrus the Great founded the Achaemenid Empire, the largest the world had yet seen. His cylinder is sometimes called an early statement of rights because it let conquered peoples keep their religions. Darius I built the palace city of Persepolis and a royal road with postal stations.",
+    "Alexander the Great conquered Persia in 330 BC and burned Persepolis. Later the Parthians and then the Sasanians built new Persian empires that rivalled Rome."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Persian ideas about government, roads and tolerance influenced empires for centuries."
+   },
+   "related": [
+    "GRC",
+    "IRQ",
+    "EGY",
+    "TUR"
+   ]
+  },
+  {
+   "id": "islam",
+   "title": "Islam and Persian culture",
+   "text": [
+    "Arab armies conquered Persia in the 600s and brought Islam. Persian language and culture survived and flourished: poets like Ferdowsi, Hafez and Rumi wrote in Persian, and scholars like Avicenna and al-Khwarizmi shaped medicine and maths.",
+    "In 1501 the Safavid dynasty made Shia Islam the state religion, which most Iranians still follow. Shah Abbas built the stunning city of Isfahan."
+   ],
+   "related": [
+    "SAU",
+    "IRQ",
+    "AFG",
+    "TUR"
+   ]
+  },
+  {
+   "id": "shahs",
+   "title": "Shahs, oil and change",
+   "text": [
+    "In the 1800s Iran lost land to Russia and was squeezed by Britain and Russia. Oil was found in 1908. In 1953 a coup backed by the US and Britain removed elected prime minister Mohammad Mossadegh, who had nationalised the oil industry.",
+    "Shah Mohammad Reza Pahlavi modernised the country quickly but ruled harshly."
+   ],
+   "related": [
+    "RUS",
+    "GBR",
+    "USA"
+   ]
+  },
+  {
+   "id": "revolution",
+   "title": "The Islamic Republic",
+   "text": [
+    "In 1979 a revolution overthrew the shah, and Ayatollah Ruhollah Khomeini founded an Islamic Republic. Students held US diplomats hostage for 444 days. Iraq invaded in 1980, beginning an eight-year war that killed hundreds of thousands.",
+    "Since then Iran has faced sanctions over its nuclear programme and waves of protest, including the 'Woman, Life, Freedom' movement in 2022. In 2025 Israel and the United States struck Iranian nuclear and military sites."
+   ],
+   "related": [
+    "IRQ",
+    "USA",
+    "ISR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "550 BC",
+   "title": "Cyrus the Great",
+   "text": "The Achaemenid Empire begins."
+  },
+  {
+   "year": "330 BC",
+   "title": "Alexander",
+   "text": "Persepolis is burned."
+  },
+  {
+   "year": "224",
+   "title": "Sasanian Empire",
+   "text": "A new Persian empire."
+  },
+  {
+   "year": "651",
+   "title": "Arab conquest",
+   "text": "Islam arrives."
+  },
+  {
+   "year": "1501",
+   "title": "Safavids",
+   "text": "Shia Islam becomes the state religion."
+  },
+  {
+   "year": "1935",
+   "title": "Iran",
+   "text": "Persia is renamed Iran."
+  },
+  {
+   "year": "1953",
+   "title": "Coup",
+   "text": "Mossadegh is removed."
+  },
+  {
+   "year": "1979",
+   "title": "Revolution",
+   "text": "The Islamic Republic is founded."
+  },
+  {
+   "year": "1980",
+   "title": "Iran–Iraq War",
+   "text": "Lasts until 1988."
+  },
+  {
+   "year": "2022",
+   "title": "Protests",
+   "text": "'Woman, Life, Freedom'."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Shah",
+   "meaning": "The title of Iran's kings."
+  },
+  {
+   "term": "Shia",
+   "meaning": "The second-largest branch of Islam."
+  },
+  {
+   "term": "Ayatollah",
+   "meaning": "A high-ranking Shia religious scholar."
+  }
+ ]
+}

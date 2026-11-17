@@ -1,0 +1,73 @@
+{
+ "status": "draft",
+ "intro": "The Philippine economy is driven by services, money from workers abroad and electronics exports.",
+ "chapters": [
+  {
+   "id": "services",
+   "title": "Call centres and remittances",
+   "text": [
+    "The Philippines is one of the world's biggest centres for call centres and business services, thanks to its English speakers. Money sent home by overseas workers is a large part of the economy.",
+    "Electronics and semiconductors are the biggest exports."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "farms",
+   "title": "Farms and seas",
+   "text": [
+    "Rice, coconuts, bananas and pineapples are major crops, and the country is a big exporter of bananas. Fishing is important for millions of families."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Remittances",
+   "meaning": "Money sent home by workers abroad."
+  },
+  {
+   "term": "Outsourcing",
+   "meaning": "Companies paying others, often abroad, to do work for them."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in the Philippines",
+   "items": [
+    {
+     "title": "Semiconductors",
+     "subtitle": "Laguna and Cebu",
+     "text": "Chips and electronics are the top export."
+    },
+    {
+     "title": "Call centres",
+     "subtitle": "Manila and Cebu",
+     "text": "Customer service for the world."
+    },
+    {
+     "title": "Bananas",
+     "subtitle": "Mindanao",
+     "text": "A top exporter."
+    },
+    {
+     "title": "Coconut products",
+     "subtitle": "Everywhere",
+     "text": "Oil and dried coconut."
+    },
+    {
+     "title": "Nickel",
+     "subtitle": "Mines",
+     "text": "A big supplier."
+    },
+    {
+     "title": "Seafarers",
+     "subtitle": "Worldwide",
+     "text": "A large share of the world's ship crews."
+    }
+   ],
+   "intro": "Some of the things the Philippines makes and sells to the world."
+  }
+ ]
+}

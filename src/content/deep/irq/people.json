@@ -1,0 +1,36 @@
+{
+ "status": "draft",
+ "intro": "Iraq has over 45 million people, most of them Arabs, with a large Kurdish population in the north.",
+ "chapters": [
+  {
+   "id": "groups",
+   "title": "Peoples and faiths",
+   "text": [
+    "Arabs make up most of the population and Kurds perhaps a fifth; there are also Turkmen, Assyrians, Yazidis and other groups. Arabic and Kurdish are both official.",
+    "Most Iraqis are Muslim, with Shia Muslims the majority and a large Sunni minority. The holy cities of Najaf and Karbala draw millions of Shia pilgrims."
+   ],
+   "related": [
+    "IRN",
+    "TUR",
+    "SYR"
+   ]
+  },
+  {
+   "id": "young",
+   "title": "A young country",
+   "text": [
+    "Iraq's population is young and growing fast. Baghdad, Basra, Mosul and Erbil are the largest cities."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Yazidis",
+   "meaning": "A religious minority mainly in northern Iraq."
+  },
+  {
+   "term": "Arbaeen",
+   "meaning": "A huge pilgrimage to Karbala."
+  }
+ ]
+}

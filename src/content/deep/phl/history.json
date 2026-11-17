@@ -1,0 +1,112 @@
+{
+ "status": "draft",
+ "intro": "The Philippines is a nation of over 7,000 islands that was ruled by Spain for more than 300 years and by the United States for nearly 50, before becoming independent in 1946.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Islands and sultanates",
+   "text": [
+    "People reached the islands tens of thousands of years ago, and Austronesian seafarers spread through them from about 3000 BC. Small communities called barangays traded with China, Japan and the Malay world.",
+    "Islam arrived in the south in the 1300s, and the sultanates of Sulu and Maguindanao became powerful. The Ifugao people carved huge rice terraces into the mountains of Luzon."
+   ],
+   "related": [
+    "CHN",
+    "IDN",
+    "MYS"
+   ]
+  },
+  {
+   "id": "spain",
+   "title": "Spanish rule",
+   "text": [
+    "Ferdinand Magellan arrived in 1521 and was killed in battle by the chief Lapulapu on Mactan. Spain returned and from 1565 conquered most of the islands, naming them after King Philip II. Manila became a hub of the galleon trade between Asia and Mexico.",
+    "Spain spread Catholicism, which most Filipinos still follow. In the 1800s writers like José Rizal called for reform; his execution in 1896 helped spark a revolution."
+   ],
+   "highlight": {
+    "title": "The galleon trade",
+    "text": "For 250 years, ships carried Chinese silk and porcelain from Manila to Acapulco and returned with Mexican silver."
+   },
+   "related": [
+    "ESP",
+    "MEX",
+    "PRT"
+   ]
+  },
+  {
+   "id": "usa",
+   "title": "American rule and war",
+   "text": [
+    "Revolutionaries declared independence in 1898, but Spain sold the islands to the United States. A bitter war followed between Filipino forces and the US. American rule brought English and public schools.",
+    "Japan invaded in 1941, and Manila was nearly destroyed in 1945. The Philippines became independent on 4 July 1946."
+   ],
+   "related": [
+    "USA",
+    "JPN"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Dictatorship and People Power",
+   "text": [
+    "Ferdinand Marcos ruled under martial law from 1972. After opposition leader Benigno Aquino Jr. was shot in 1983, millions protested. In 1986 the peaceful 'People Power' revolution forced Marcos out, and Corazon Aquino became president.",
+    "In 2022 Marcos's son, Ferdinand 'Bongbong' Marcos Jr., was elected president."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1521",
+   "title": "Magellan",
+   "text": "Lapulapu defeats Magellan's men."
+  },
+  {
+   "year": "1565",
+   "title": "Spanish rule",
+   "text": "Spain conquers the islands."
+  },
+  {
+   "year": "1896",
+   "title": "Revolution",
+   "text": "Rizal is executed; revolt begins."
+  },
+  {
+   "year": "1898",
+   "title": "Independence declared",
+   "text": "Then sold to the US."
+  },
+  {
+   "year": "1942",
+   "title": "Japanese occupation",
+   "text": "During World War Two."
+  },
+  {
+   "year": "1946",
+   "title": "Independence",
+   "text": "4 July."
+  },
+  {
+   "year": "1972",
+   "title": "Martial law",
+   "text": "Marcos rules as dictator."
+  },
+  {
+   "year": "1986",
+   "title": "People Power",
+   "text": "Marcos is forced out."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Barangay",
+   "meaning": "A village or neighbourhood, originally a boat community."
+  },
+  {
+   "term": "Galleon",
+   "meaning": "A large sailing ship."
+  },
+  {
+   "term": "People Power",
+   "meaning": "The peaceful 1986 uprising."
+  }
+ ]
+}

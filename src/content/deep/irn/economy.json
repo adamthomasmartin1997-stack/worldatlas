@@ -1,0 +1,74 @@
+{
+ "status": "draft",
+ "intro": "Iran has some of the world's largest oil and gas reserves, but sanctions have held its economy back.",
+ "chapters": [
+  {
+   "id": "oil",
+   "title": "Oil and gas",
+   "text": [
+    "Iran has the world's second-largest gas reserves and huge oil reserves. Oil has long paid for much of the government's budget.",
+    "International sanctions over its nuclear programme have limited oil exports, caused high inflation and weakened the currency, the rial."
+   ],
+   "related": [
+    "CHN",
+    "USA"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Beyond oil",
+   "text": [
+    "Iran makes cars, steel and petrochemicals, and is famous for pistachios, saffron, carpets and caviar. It produces most of the world's saffron."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sanctions",
+   "meaning": "Penalties that limit trade with a country."
+  },
+  {
+   "term": "Inflation",
+   "meaning": "Rising prices over time."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Iran",
+   "items": [
+    {
+     "title": "Oil and gas",
+     "subtitle": "Khuzestan and South Pars",
+     "text": "Huge reserves."
+    },
+    {
+     "title": "Saffron",
+     "subtitle": "Khorasan",
+     "text": "Most of the world's saffron."
+    },
+    {
+     "title": "Pistachios",
+     "subtitle": "Kerman",
+     "text": "A top producer."
+    },
+    {
+     "title": "Carpets",
+     "subtitle": "Tabriz, Kashan, Isfahan",
+     "text": "Hand-knotted rugs."
+    },
+    {
+     "title": "Cars",
+     "subtitle": "Iran Khodro, Saipa",
+     "text": "The Middle East's biggest car industry."
+    },
+    {
+     "title": "Steel",
+     "subtitle": "Mobarakeh",
+     "text": "Large steel mills."
+    }
+   ],
+   "intro": "Some of the things Iran makes and sells to the world."
+  }
+ ]
+}

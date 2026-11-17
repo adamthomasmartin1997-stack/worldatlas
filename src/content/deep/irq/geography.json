@@ -1,0 +1,124 @@
+{
+ "status": "draft",
+ "intro": "Iraq is shaped by two great rivers, the Tigris and the Euphrates, which flow from Turkey to the Gulf.",
+ "chapters": [
+  {
+   "id": "rivers",
+   "title": "Two rivers",
+   "text": [
+    "Most Iraqis live along the rivers, which have watered farms for thousands of years. They join near Basra to form the Shatt al-Arab, which flows into the Gulf.",
+    "Dams upstream in Turkey and Iran, and drought, have reduced the rivers' flow."
+   ],
+   "related": [
+    "TUR",
+    "SYR",
+    "IRN"
+   ]
+  },
+  {
+   "id": "land",
+   "title": "Mountains, desert and marshes",
+   "text": [
+    "The north-east is mountainous Kurdistan. The west is desert reaching into Syria, Jordan and Saudi Arabia. In the south, the Mesopotamian Marshes are home to the Marsh Arabs, who build houses from reeds; Saddam drained much of them in the 1990s, but they have partly recovered."
+   ],
+   "related": [
+    "JOR",
+    "SAU"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Heat",
+   "text": [
+    "Summers are extremely hot: Basra often passes 50 °C. Dust storms are common."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Shatt al-Arab",
+   "meaning": "The river formed where the Tigris and Euphrates meet."
+  },
+  {
+   "term": "Marsh Arabs",
+   "meaning": "People who live in the southern wetlands."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Iraq's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Kurdistan mountains",
+    "kind": "mountains",
+    "lat": 36.6,
+    "lon": 44.5,
+    "text": "Valleys, waterfalls and snowy peaks."
+   },
+   {
+    "name": "Rawanduz gorge",
+    "kind": "gorge",
+    "lat": 36.6,
+    "lon": 44.48,
+    "text": "A deep canyon in the north."
+   },
+   {
+    "name": "Mosul and the Tigris",
+    "kind": "river city",
+    "lat": 36.34,
+    "lon": 43.13,
+    "text": "Near the ruins of Nineveh."
+   },
+   {
+    "name": "Samarra",
+    "kind": "spiral minaret",
+    "lat": 34.2,
+    "lon": 43.88,
+    "text": "A giant spiral minaret from the 800s."
+   },
+   {
+    "name": "Baghdad",
+    "kind": "capital",
+    "lat": 33.31,
+    "lon": 44.37,
+    "text": "Built on both banks of the Tigris."
+   },
+   {
+    "name": "Babylon",
+    "kind": "ruins",
+    "lat": 32.54,
+    "lon": 44.42,
+    "text": "The ancient city by the Euphrates."
+   },
+   {
+    "name": "Western desert",
+    "kind": "desert",
+    "lat": 33.0,
+    "lon": 41.0,
+    "text": "Dry plateau toward Syria and Jordan."
+   },
+   {
+    "name": "Ur",
+    "kind": "ruins",
+    "lat": 30.96,
+    "lon": 46.1,
+    "text": "Its great ziggurat still stands."
+   },
+   {
+    "name": "Mesopotamian Marshes",
+    "kind": "wetlands",
+    "lat": 31.0,
+    "lon": 47.0,
+    "text": "Reed islands and water buffalo."
+   },
+   {
+    "name": "Shatt al-Arab",
+    "kind": "river",
+    "lat": 30.4,
+    "lon": 48.1,
+    "text": "Where the two rivers meet."
+   }
+  ]
+ }
+}

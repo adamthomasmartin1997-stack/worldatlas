@@ -1,0 +1,157 @@
+{
+ "status": "draft",
+ "intro": "Malaysian culture is a blend of Malay, Chinese, Indian and Borneo traditions, celebrated with open houses and famous street food.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "During festivals like Hari Raya, Chinese New Year and Deepavali, families hold 'open houses' where anyone can drop in to eat. Batik fabric, wau kites and wayang kulit shadow puppets are traditional arts.",
+    "Peranakan culture, from early Chinese settlers who married locally, has its own food, clothes and architecture."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Nasi lemak (coconut rice with sambal) is the national favourite. Laksa, satay, roti canai and char kway teow are eaten at hawker stalls day and night."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Open house",
+   "meaning": "A festival tradition of welcoming all visitors."
+  },
+  {
+   "term": "Peranakan",
+   "meaning": "Descendants of early Chinese settlers who mixed with local cultures."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "P. Ramlee films",
+     "subtitle": "1950s–60s · P. Ramlee",
+     "text": "The golden age of Malay cinema."
+    },
+    {
+     "title": "Upin & Ipin",
+     "subtitle": "2007 · Les' Copaque",
+     "text": "An animated series loved across Southeast Asia."
+    },
+    {
+     "title": "Tiger Stripes",
+     "subtitle": "2023 · Amanda Nell Eu",
+     "text": "A girl's body changes; won a prize at Cannes."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Hikayat Hang Tuah",
+     "subtitle": "1600s",
+     "text": "The tale of a legendary Malay warrior."
+    },
+    {
+     "title": "The Garden of Evening Mists",
+     "subtitle": "2012 · Tan Twan Eng",
+     "text": "A story of memory in the Cameron Highlands."
+    },
+    {
+     "title": "Salina",
+     "subtitle": "1961 · A. Samad Said",
+     "text": "A classic Malay novel."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Negaraku",
+     "subtitle": "National anthem",
+     "text": "Based on an old state anthem."
+    },
+    {
+     "title": "Dikir barat",
+     "subtitle": "Kelantan",
+     "text": "Group singing with call and response."
+    },
+    {
+     "title": "Siti Nurhaliza",
+     "subtitle": "Pop",
+     "text": "Malaysia's best-known singer."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Nasi lemak",
+     "subtitle": "Everywhere",
+     "text": "Coconut rice with sambal and anchovies."
+    },
+    {
+     "title": "Laksa",
+     "subtitle": "Penang",
+     "text": "Sour fish noodle soup."
+    },
+    {
+     "title": "Roti canai",
+     "subtitle": "Mamak stalls",
+     "text": "Flaky flatbread with curry."
+    },
+    {
+     "title": "Satay",
+     "subtitle": "Everywhere",
+     "text": "Grilled skewers with peanut sauce."
+    },
+    {
+     "title": "Durian",
+     "subtitle": "Seasonal",
+     "text": "The 'king of fruits', with a strong smell."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Thaipusam",
+    "text": "Pilgrims climb to Batu Caves."
+   },
+   {
+    "month": 2,
+    "name": "Chinese New Year",
+    "text": "Lion dances and open houses."
+   },
+   {
+    "month": 8,
+    "name": "Merdeka Day",
+    "text": "31 August, 1957."
+   },
+   {
+    "month": 9,
+    "name": "Malaysia Day",
+    "text": "16 September, 1963."
+   },
+   {
+    "month": 10,
+    "name": "Deepavali",
+    "text": "The festival of lights."
+   }
+  ]
+ }
+}

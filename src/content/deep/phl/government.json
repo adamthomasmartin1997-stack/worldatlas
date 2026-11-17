@@ -1,0 +1,102 @@
+{
+ "status": "draft",
+ "intro": "The Philippines is a presidential republic modelled partly on the United States.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for a single six-year term and leads the government. Congress has a House of Representatives and a 24-member Senate.",
+    "The Bangsamoro region in Mindanao has its own autonomous government after a peace deal with Muslim rebels."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Manila"
+    },
+    {
+     "label": "President's term",
+     "value": "6 years, no re-election"
+    },
+    {
+     "label": "Senate",
+     "value": "24 members"
+    }
+   ]
+  },
+  {
+   "id": "issues",
+   "title": "Big debates",
+   "text": [
+    "President Rodrigo Duterte's 'war on drugs' from 2016 led to thousands of killings, and in 2025 he was arrested and sent to the International Criminal Court. The Philippines also disputes islands in the South China Sea with China."
+   ],
+   "related": [
+    "CHN",
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Autonomous region",
+   "meaning": "An area with its own government for some matters."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for one 6-year term",
+     "text": "Leads the government and the armed forces."
+    },
+    {
+     "title": "Vice President",
+     "subtitle": "Elected separately",
+     "text": "Can come from a different party."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "24 members",
+     "text": "Elected nationwide."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "Over 300 members",
+     "text": "Districts plus party-list seats."
+    },
+    {
+     "title": "Bangsamoro",
+     "subtitle": "Autonomous region",
+     "text": "Self-rule in Muslim Mindanao."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is filed",
+    "text": "In the House or Senate."
+   },
+   {
+    "title": "Three readings",
+    "text": "In each chamber."
+   },
+   {
+    "title": "Bicameral committee",
+    "text": "Settles differences."
+   },
+   {
+    "title": "The President",
+    "text": "Signs or vetoes it; Congress can override."
+   }
+  ]
+ }
+}

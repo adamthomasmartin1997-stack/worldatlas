@@ -1,0 +1,114 @@
+{
+ "status": "draft",
+ "intro": "Malaysia grew from trading ports on one of the world's busiest sea lanes. Ruled by Portugal, the Netherlands and Britain, it became independent in 1957 and took its present shape in 1963.",
+ "chapters": [
+  {
+   "id": "malacca",
+   "title": "The Malacca Sultanate",
+   "text": [
+    "Around 1400 a prince from Sumatra founded Malacca on the Strait of Malacca. It grew into a great port where traders from China, India, Arabia and the islands met, and its rulers became Muslim.",
+    "Malay became the common trading language of the region, and Malacca's court set the model for later Malay sultanates."
+   ],
+   "related": [
+    "IDN",
+    "CHN",
+    "IND"
+   ]
+  },
+  {
+   "id": "colonial",
+   "title": "Europeans arrive",
+   "text": [
+    "Portugal captured Malacca in 1511, the Dutch took it in 1641, and Britain gained control in the 1800s, founding Penang and Singapore. The British brought in Chinese workers for tin mines and Indian workers for rubber plantations, which shaped Malaysia's mix of peoples.",
+    "In northern Borneo, Sarawak was ruled by an English family, the 'White Rajahs', for a century."
+   ],
+   "related": [
+    "PRT",
+    "NLD",
+    "GBR",
+    "SGP"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence and federation",
+   "text": [
+    "Japan occupied the region from 1942 to 1945. After a long communist insurgency called the Emergency, Malaya became independent on 31 August 1957 under Tunku Abdul Rahman.",
+    "In 1963 Malaya joined with Sabah, Sarawak and Singapore to form Malaysia. Singapore left in 1965. Race riots in 1969 led to policies favouring the Malay majority."
+   ],
+   "related": [
+    "JPN",
+    "SGP",
+    "IDN"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Modern Malaysia",
+   "text": [
+    "Under Mahathir Mohamad from 1981, Malaysia industrialised and built the Petronas Towers. A huge scandal over the 1MDB state fund led to the first change of government in 2018, and former prime minister Najib Razak was jailed."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1400",
+   "title": "Malacca founded",
+   "text": "A great trading port."
+  },
+  {
+   "year": "1511",
+   "title": "Portuguese Malacca",
+   "text": "Portugal captures the city."
+  },
+  {
+   "year": "1786",
+   "title": "Penang",
+   "text": "Britain founds a base."
+  },
+  {
+   "year": "1942",
+   "title": "Japanese occupation",
+   "text": "Until 1945."
+  },
+  {
+   "year": "1957",
+   "title": "Merdeka",
+   "text": "Malaya becomes independent."
+  },
+  {
+   "year": "1963",
+   "title": "Malaysia",
+   "text": "The federation is formed."
+  },
+  {
+   "year": "1965",
+   "title": "Singapore leaves",
+   "text": "It becomes independent."
+  },
+  {
+   "year": "1998",
+   "title": "Petronas Towers",
+   "text": "Opened as the world's tallest."
+  },
+  {
+   "year": "2018",
+   "title": "Change of government",
+   "text": "First defeat of the ruling coalition."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Merdeka",
+   "meaning": "Malay for 'independence'."
+  },
+  {
+   "term": "Sultanate",
+   "meaning": "A state ruled by a sultan."
+  },
+  {
+   "term": "Strait",
+   "meaning": "A narrow sea passage between two land masses."
+  }
+ ]
+}

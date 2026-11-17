@@ -1,0 +1,37 @@
+{
+ "status": "draft",
+ "intro": "Iran has around 90 million people from many ethnic groups, united by Persian language and a long shared history.",
+ "chapters": [
+  {
+   "id": "groups",
+   "title": "Many peoples",
+   "text": [
+    "Persians are the largest group, with large numbers of Azerbaijanis (Azeris), Kurds, Lurs, Arabs, Baloch and Turkmen. Persian (Farsi) is the official language.",
+    "Most people are Shia Muslims; there are also Sunni Muslims, Christians, Jews, Zoroastrians and Baha'is."
+   ],
+   "related": [
+    "AZE",
+    "IRQ",
+    "AFG"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Young and urban",
+   "text": [
+    "Most Iranians live in cities; Tehran has over 9 million people. Many young people are university educated, and more than half of university students have been women.",
+    "Women must wear a headscarf in public by law, a rule many have protested against."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Farsi",
+   "meaning": "The Persian language."
+  },
+  {
+   "term": "Zoroastrianism",
+   "meaning": "An ancient Persian religion."
+  }
+ ]
+}
