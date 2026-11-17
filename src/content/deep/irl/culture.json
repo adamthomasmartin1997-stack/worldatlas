@@ -1,0 +1,27 @@
+{
+ "status": "draft",
+ "intro": "Ireland punches far above its size in literature and music, and its festivals, from St Patrick's Day to Halloween, are celebrated worldwide.",
+ "chapters": [
+  {
+   "id": "words",
+   "title": "Writers",
+   "text": [
+    "Ireland has four Nobel Prize winners in Literature: W. B. Yeats, George Bernard Shaw, Samuel Beckett and Seamus Heaney. James Joyce, Oscar Wilde, Jonathan Swift and Bram Stoker, author of Dracula, were also Irish."
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music and festivals",
+   "text": [
+    "Traditional music uses the fiddle, tin whistle, bodhrán drum and uilleann pipes. U2, The Cranberries and Hozier are famous Irish acts, and Ireland has won Eurovision seven times, a joint record.",
+    "Halloween grew from the ancient Celtic festival of Samhain, which marked the start of winter."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Samhain",
+   "meaning": "A Celtic festival marking the end of harvest, the origin of Halloween."
+  }
+ ]
+}

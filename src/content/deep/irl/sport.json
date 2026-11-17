@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Ireland's own Gaelic games draw huge crowds, and its rugby team is one of the best in the world.",
+ "chapters": [
+  {
+   "id": "gaelic",
+   "title": "Gaelic games",
+   "text": [
+    "Gaelic football and hurling, a fast stick-and-ball game with ancient roots, are run by the Gaelic Athletic Association, founded in 1884. Players are amateurs, representing their local parish and county, yet All-Ireland finals fill Dublin's Croke Park with more than 80,000 fans."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Rugby, boxing and more",
+   "text": [
+    "Ireland's rugby team represents the whole island and has won several Six Nations Grand Slams. Boxer Katie Taylor won Olympic gold in 2012 and later became undisputed professional world champion, and Kellie Harrington won Olympic gold in 2021 and 2024."
+   ],
+   "related": [
+    "GBR",
+    "FRA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Hurling",
+   "meaning": "An Irish game played with a wooden stick called a hurley and a small ball."
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "status": "draft",
+ "intro": "Ireland is an island of ancient monuments and monasteries that spent centuries under English and British rule. A terrible famine drove millions abroad, and after a war of independence most of the island became a free state in 1922.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Ancient Ireland",
+   "text": [
+    "Newgrange, a huge passage tomb built around 3200 BC, is older than Stonehenge and the Egyptian pyramids; on the winter solstice, sunlight shines down its passage to light the chamber. Celtic culture and the Irish language spread later, and Rome never conquered Ireland.",
+    "In the 400s Saint Patrick helped spread Christianity. Irish monasteries became centres of learning, producing beautifully illustrated books such as the Book of Kells. Vikings raided and founded Dublin, and Normans from England arrived in 1169."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "While much of Europe was in turmoil after Rome fell, Irish monks preserved learning and sent missionaries across Britain and Europe."
+   },
+   "related": [
+    "GBR",
+    "NOR"
+   ]
+  },
+  {
+   "id": "british",
+   "title": "English rule and the Great Famine",
+   "text": [
+    "English and later British control grew over the centuries. Protestant settlers were given land, especially in Ulster, while Catholics lost land and rights. In 1801 Ireland was joined to Britain in the United Kingdom.",
+    "From 1845 a disease destroyed the potato crop, the main food of the poor. In the Great Famine about a million people died and more than a million emigrated, many to America; the population of the island has still not returned to its level before the famine."
+   ],
+   "related": [
+    "GBR",
+    "USA",
+    "CAN",
+    "AUS"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "In the Easter Rising of 1916 Irish republicans seized buildings in Dublin; the rising was crushed and its leaders executed, but public opinion swung towards independence. After a War of Independence, a treaty in 1921 created the Irish Free State in 1922, while six northern counties stayed in the UK as Northern Ireland. A short civil war followed over the treaty.",
+    "Ireland adopted a new constitution in 1937 and became a republic in 1949."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Modern Ireland",
+   "text": [
+    "Ireland joined the European Community in 1973. In the 1990s it boomed as the 'Celtic Tiger', crashed in 2008 and recovered. The Good Friday Agreement of 1998 helped bring peace to Northern Ireland.",
+    "Once one of the most conservative countries in Europe, Ireland became in 2015 the first country to approve same-sex marriage by popular vote."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 3200 BC",
+   "title": "Newgrange",
+   "text": "The great passage tomb is built."
+  },
+  {
+   "year": "c. 432",
+   "title": "Saint Patrick",
+   "text": "Christianity spreads in Ireland."
+  },
+  {
+   "year": "c. 800",
+   "title": "Book of Kells",
+   "text": "Monks create the illuminated gospel book."
+  },
+  {
+   "year": "841",
+   "title": "Dublin founded",
+   "text": "Vikings set up a base on the Liffey."
+  },
+  {
+   "year": "1169",
+   "title": "Normans arrive",
+   "text": "English involvement in Ireland begins."
+  },
+  {
+   "year": "1801",
+   "title": "Act of Union",
+   "text": "Ireland joins the United Kingdom."
+  },
+  {
+   "year": "1845",
+   "title": "Great Famine",
+   "text": "Potato blight causes mass death and emigration."
+  },
+  {
+   "year": "1916",
+   "title": "Easter Rising",
+   "text": "Republicans rise in Dublin."
+  },
+  {
+   "year": "1922",
+   "title": "Irish Free State",
+   "text": "Most of Ireland becomes independent."
+  },
+  {
+   "year": "1949",
+   "title": "Republic",
+   "text": "Ireland leaves the Commonwealth."
+  },
+  {
+   "year": "1973",
+   "title": "Joins the EC",
+   "text": "Ireland joins with the UK and Denmark."
+  },
+  {
+   "year": "1998",
+   "title": "Good Friday Agreement",
+   "text": "Peace deal for Northern Ireland."
+  },
+  {
+   "year": "2015",
+   "title": "Marriage equality",
+   "text": "Voters approve same-sex marriage."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Famine",
+   "meaning": "An extreme shortage of food causing widespread hunger and death."
+  },
+  {
+   "term": "Partition",
+   "meaning": "The division of Ireland into two parts in the 1920s."
+  }
+ ]
+}

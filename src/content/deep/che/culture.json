@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Swiss culture brings together German, French, Italian and Romansh traditions, from fondue and yodelling to Heidi and the Dada art movement.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Mountain traditions",
+   "text": [
+    "Fondue and raclette (melted cheese dishes) and rösti (crispy potatoes) are national favourites. Yodelling and the long wooden alphorn come from the Alps, and Johanna Spyri's novel Heidi (1881) is set in the Swiss mountains."
+   ]
+  },
+  {
+   "id": "ideas",
+   "title": "Ideas and art",
+   "text": [
+    "Albert Einstein developed his theory of relativity in 1905 while working at the patent office in Bern. The Dada art movement began in Zürich in 1916, and the Swiss Army knife was first made in 1891."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Fondue",
+   "meaning": "Melted cheese in a shared pot, eaten by dipping bread."
+  }
+ ]
+}

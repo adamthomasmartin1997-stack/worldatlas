@@ -1,0 +1,39 @@
+{
+ "status": "draft",
+ "intro": "Switzerland is a small, landlocked country dominated by the Alps, with thousands of lakes and the sources of some of Europe's great rivers.",
+ "chapters": [
+  {
+   "id": "alps",
+   "title": "Alps, plateau and Jura",
+   "text": [
+    "The Alps cover about 60% of Switzerland, with famous peaks such as the Matterhorn and Dufourspitze, the highest. Most people live on the Swiss Plateau between the Alps and the Jura mountains. Switzerland borders Germany, France, Italy, Austria and Liechtenstein.",
+    "The Gotthard Base Tunnel, opened in 2016, is the longest railway tunnel in the world at 57 km."
+   ],
+   "related": [
+    "DEU",
+    "FRA",
+    "ITA",
+    "AUT",
+    "LIE"
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Water tower of Europe",
+   "text": [
+    "The Rhine and the Rhône both begin in Swiss glaciers, which is why Switzerland is called 'the water tower of Europe'. Lake Geneva and Lake Constance are shared with France and with Germany and Austria.",
+    "The Aletsch Glacier is the largest in the Alps, but Swiss glaciers are shrinking fast as the climate warms."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Landlocked",
+   "meaning": "Having no coastline."
+  },
+  {
+   "term": "Glacier",
+   "meaning": "A slow-moving mass of ice."
+  }
+ ]
+}

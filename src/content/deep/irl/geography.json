@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Ireland is a green, rainy island on the edge of the Atlantic, with a low central plain ringed by coastal hills, dramatic cliffs and peat bogs.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "The Emerald Isle",
+   "text": [
+    "The Republic of Ireland covers about five-sixths of the island; its only land border is with Northern Ireland, part of the UK. The centre is a low plain of farmland, lakes and peat bogs, surrounded by mountains near the coast, where Carrauntoohil is the highest peak.",
+    "The River Shannon is the longest river in Ireland and Britain. The Cliffs of Moher, the limestone landscape of the Burren and the island monastery of Skellig Michael are famous sights."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Mild and wet",
+   "text": [
+    "Atlantic winds bring a mild, damp climate with frequent rain, which keeps the grass bright green. Snow is rare. Ireland has no native snakes; legend credits Saint Patrick, but in fact snakes never arrived after the last Ice Age."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Peat bog",
+   "meaning": "Wet ground made of partly rotted plants, which can be dried and burned as fuel."
+  }
+ ]
+}

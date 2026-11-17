@@ -1,0 +1,104 @@
+{
+ "status": "draft",
+ "intro": "Switzerland grew from an alliance of mountain valleys in 1291 into a federation of 26 cantons famous for neutrality, direct democracy and humanitarian work.",
+ "chapters": [
+  {
+   "id": "confederacy",
+   "title": "The Swiss Confederacy",
+   "text": [
+    "In Roman times the land was home to the Celtic Helvetii, which is why Switzerland's Latin name is Helvetia. In 1291 three mountain communities, Uri, Schwyz and Unterwalden, swore to defend each other against outside rulers; this alliance grew into the Swiss Confederacy.",
+    "Legend says the hero William Tell was forced to shoot an apple off his son's head. Swiss soldiers defeated the Habsburgs and became Europe's most feared mercenaries; the Pope's Swiss Guard, founded in 1506, still protects the Vatican."
+   ],
+   "related": [
+    "AUT",
+    "VAT"
+   ]
+  },
+  {
+   "id": "reform",
+   "title": "Reformation and neutrality",
+   "text": [
+    "In the 1500s Zürich and Geneva became centres of the Protestant Reformation, led by Huldrych Zwingli and John Calvin. In 1815 the great powers recognised Swiss neutrality.",
+    "After a brief civil war in 1847, a federal constitution in 1848 created the modern state, with Bern as the federal city. In 1863 Henri Dunant founded the Red Cross in Geneva."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "The Geneva Conventions, first signed in 1864, set rules for treating wounded soldiers, prisoners and civilians in war, and still apply today."
+   }
+  },
+  {
+   "id": "modern",
+   "title": "Neutral Switzerland",
+   "text": [
+    "Switzerland stayed out of both world wars, though its dealings with Nazi Germany, including accepting looted gold, were later criticised. Women did not get the vote in national elections until 1971.",
+    "Swiss voters rejected joining the European Economic Area in 1992 and only joined the United Nations in 2002, after a referendum."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "58 BC",
+   "title": "Helvetii defeated",
+   "text": "Julius Caesar defeats the Helvetii."
+  },
+  {
+   "year": "1291",
+   "title": "Federal Charter",
+   "text": "Three cantons form an alliance."
+  },
+  {
+   "year": "1315",
+   "title": "Morgarten",
+   "text": "The Swiss defeat a Habsburg army."
+  },
+  {
+   "year": "1506",
+   "title": "Swiss Guard",
+   "text": "Swiss soldiers begin guarding the Pope."
+  },
+  {
+   "year": "1648",
+   "title": "Independence recognised",
+   "text": "At the Peace of Westphalia."
+  },
+  {
+   "year": "1815",
+   "title": "Neutrality",
+   "text": "Europe recognises Swiss neutrality."
+  },
+  {
+   "year": "1848",
+   "title": "Federal constitution",
+   "text": "The modern Swiss state is founded."
+  },
+  {
+   "year": "1863",
+   "title": "Red Cross",
+   "text": "Founded in Geneva."
+  },
+  {
+   "year": "1971",
+   "title": "Women's vote",
+   "text": "Women vote in federal elections."
+  },
+  {
+   "year": "2002",
+   "title": "Joins the UN",
+   "text": "After a referendum."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Canton",
+   "meaning": "One of the 26 states that make up Switzerland."
+  },
+  {
+   "term": "Mercenary",
+   "meaning": "A soldier paid to fight for another country."
+  },
+  {
+   "term": "Neutrality",
+   "meaning": "Not taking sides in other countries' wars."
+  }
+ ]
+}

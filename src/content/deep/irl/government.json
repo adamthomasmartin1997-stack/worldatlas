@@ -1,0 +1,45 @@
+{
+ "status": "draft",
+ "intro": "Ireland is a parliamentary republic and a neutral country that is a member of the EU but not NATO.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "President and Dáil",
+   "text": [
+    "The president is directly elected for seven years and is mainly ceremonial. The parliament, the Oireachtas, has the Dáil, whose members choose the prime minister, called the Taoiseach, and the Seanad. Voters rank candidates using the single transferable vote.",
+    "The 1937 constitution can be changed only by a referendum, so Irish people vote directly on major issues."
+   ],
+   "facts": [
+    {
+     "label": "Taoiseach",
+     "value": "The prime minister"
+    },
+    {
+     "label": "Counties",
+     "value": "26"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols",
+   "text": [
+    "The flag is green, white and orange: green for the Gaelic tradition, orange for Protestants and white for peace between them. The harp is the national emblem. St Patrick's Day, 17 March, is celebrated with parades around the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Taoiseach",
+   "meaning": "Irish for 'chief', the title of Ireland's prime minister."
+  },
+  {
+   "term": "Single transferable vote",
+   "meaning": "A system where voters number candidates in order of preference."
+  }
+ ]
+}

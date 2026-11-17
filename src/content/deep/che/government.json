@@ -1,0 +1,45 @@
+{
+ "status": "draft",
+ "intro": "Switzerland is a federal republic famous for direct democracy: citizens vote on national issues several times a year.",
+ "chapters": [
+  {
+   "id": "direct",
+   "title": "Direct democracy",
+   "text": [
+    "Any law passed by parliament can be challenged in a referendum if 50,000 people sign a petition, and 100,000 signatures can force a national vote on a change to the constitution. In two small cantons, citizens still vote by raising their hands in an open-air assembly."
+   ]
+  },
+  {
+   "id": "system",
+   "title": "Seven leaders",
+   "text": [
+    "Switzerland has no single head of state. A Federal Council of seven ministers leads the country together, and one of them serves as president for just one year. The parliament has a National Council and a Council of States.",
+    "The red square flag with a white cross is one of only two square national flags, with the Vatican's. Geneva hosts many UN agencies and the Red Cross, Lausanne the International Olympic Committee and Zürich FIFA."
+   ],
+   "facts": [
+    {
+     "label": "Cantons",
+     "value": "26"
+    },
+    {
+     "label": "Federal Council",
+     "value": "7 members"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Direct democracy",
+   "meaning": "When citizens vote on laws themselves."
+  },
+  {
+   "term": "Federal Council",
+   "meaning": "The seven-member group that leads the Swiss government."
+  }
+ ]
+}

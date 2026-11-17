@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Switzerland is one of the richest countries in the world, known for banks, watches, chocolate and medicines.",
+ "chapters": [
+  {
+   "id": "industries",
+   "title": "Banks, watches and medicine",
+   "text": [
+    "Swiss banks manage enormous amounts of the world's wealth. Roche and Novartis are among the largest drug companies, Nestlé is the world's largest food company, and Rolex, Omega and Swatch make world-famous watches."
+   ]
+  },
+  {
+   "id": "science",
+   "title": "Science and chocolate",
+   "text": [
+    "CERN, the particle physics laboratory near Geneva, runs the Large Hadron Collider; the World Wide Web was invented there in 1989. Swiss chocolate makers invented milk chocolate in 1875. The Swiss franc is seen as one of the world's safest currencies."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "CERN",
+   "meaning": "The European Organization for Nuclear Research, near Geneva."
+  }
+ ]
+}

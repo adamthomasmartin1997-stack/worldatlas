@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Ireland went from one of Western Europe's poorer countries to one of its richest, with many of the world's biggest technology and drug companies running their European operations from Dublin.",
+ "chapters": [
+  {
+   "id": "multinationals",
+   "title": "Tech and pharma",
+   "text": [
+    "Low company taxes and an English-speaking workforce attracted firms such as Google, Apple, Meta, Microsoft and Pfizer. In 2024 the EU's top court ruled that Apple owed Ireland about €13 billion in back taxes."
+   ]
+  },
+  {
+   "id": "land",
+   "title": "Farms and challenges",
+   "text": [
+    "Farming is important, especially beef and dairy, and Ireland exports butter and cheese worldwide. Tourism and drinks such as Guinness are big too. House prices and rents have risen sharply, causing a housing crisis. Ireland uses the euro."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Multinational",
+   "meaning": "A company that operates in many countries."
+  }
+ ]
+}

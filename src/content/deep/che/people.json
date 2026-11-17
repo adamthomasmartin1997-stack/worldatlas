@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "Switzerland has four national languages, and about a quarter of the people living there are foreign citizens.",
+ "chapters": [
+  {
+   "id": "languages",
+   "title": "Four languages",
+   "text": [
+    "Most Swiss speak German, usually a Swiss German dialect, while French is spoken in the west, Italian in the south and Romansh by a small number in the canton of Graubünden. Many Swiss speak several languages.",
+    "Zürich is the largest city, and Geneva, Basel, Lausanne and Bern, the federal city, are other important centres."
+   ],
+   "related": [
+    "DEU",
+    "FRA",
+    "ITA"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Swiss life",
+   "text": [
+    "The Swiss are known for punctual trains, strict recycling rules and military service for men. Switzerland has enough nuclear bunkers to shelter its whole population."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Romansh",
+   "meaning": "A Romance language spoken in eastern Switzerland."
+  }
+ ]
+}

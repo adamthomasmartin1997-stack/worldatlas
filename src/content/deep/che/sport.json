@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Switzerland is a skiing superpower and the home of tennis great Roger Federer.",
+ "chapters": [
+  {
+   "id": "snow",
+   "title": "Skiing and winter sports",
+   "text": [
+    "Switzerland is one of the top Alpine skiing nations, with stars such as Marco Odermatt and Lara Gut-Behrami. St Moritz hosted the Winter Olympics in 1928 and 1948. Schwingen, Swiss wrestling in sawdust rings, is a traditional sport."
+   ]
+  },
+  {
+   "id": "tennis",
+   "title": "Tennis and more",
+   "text": [
+    "Roger Federer won 20 Grand Slam titles, including eight Wimbledons. Despite having no coast, Switzerland won sailing's America's Cup in 2003, the first European team to do so. Switzerland hosted the 1954 men's World Cup and the 2025 Women's Euros."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "America's Cup",
+   "meaning": "The oldest international trophy in sailing."
+  }
+ ]
+}

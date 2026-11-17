@@ -1,0 +1,35 @@
+{
+ "status": "draft",
+ "intro": "Ireland has a young, fast-growing population, and tens of millions of people around the world have Irish ancestors.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and languages",
+   "text": [
+    "Dublin is by far the largest city, followed by Cork, Limerick and Galway. Irish (Gaelic) is the first official language and is taught in schools, but English is spoken by almost everyone; Irish is the everyday language mainly in areas called the Gaeltacht.",
+    "Around 70 million people worldwide claim Irish ancestry. Today Ireland itself attracts immigrants, from Poland, the UK, India, Brazil and beyond."
+   ],
+   "related": [
+    "USA",
+    "GBR",
+    "AUS",
+    "POL",
+    "IND",
+    "BRA"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Irish life",
+   "text": [
+    "Most Irish people are Catholic by tradition, though the church's influence has fallen sharply. Local Gaelic sports clubs, music sessions in pubs and storytelling are central to community life."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gaeltacht",
+   "meaning": "Areas of Ireland where Irish is the main spoken language."
+  }
+ ]
+}
