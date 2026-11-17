@@ -208,7 +208,10 @@ for (const c of out) if (c.flag) writeFileSync(`public/data/flags/${c.cca3.toLow
 {
   const heritage = load('data/sources/wikidata-heritage.json');
   if (heritage) {
-    const top = Object.fromEntries(Object.entries(heritage.countries).map(([iso, list]) => [iso, list.slice(0, 15).map(({ n, lat, lon, kind }) => ({ n, lat, lon, kind }))]));
+    const count = new Map();
+    for (const list of Object.values(heritage.countries)) for (const s of list) count.set(s.n, (count.get(s.n) ?? 0) + 1);
+    // shared: a site listed under several countries (its single point may lie in another country)
+    const top = Object.fromEntries(Object.entries(heritage.countries).map(([iso, list]) => [iso, list.slice(0, 15).map(({ n, lat, lon, kind }) => ({ n, lat, lon, kind, ...(count.get(n) > 1 ? { shared: 1 } : {}) }))]));
     writeFileSync('public/data/heritage.json', JSON.stringify({ retrieved: heritage.retrieved, countries: top }));
   }
   const structure = load('data/sources/worldbank-structure.json');

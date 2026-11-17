@@ -1,13 +1,13 @@
 // Building blocks for deep-dive pages: a numbered-pin map, a population pyramid, comparison bars,
 // card groups, a festival calendar and step lists. All are plain, accessible HTML/SVG.
 import { useEffect, useMemo, useState } from 'react';
-import { geoCentroid, geoNaturalEarth1, geoPath } from 'd3-geo';
+import { geoCentroid, geoContains, geoNaturalEarth1, geoPath } from 'd3-geo';
 import { useWorld } from './useWorld';
 import { homeland } from './CountryMap';
 import { SourceNote } from './ui';
 import type { Country } from '../data/countries';
 
-export interface Pin { name: string; lat: number; lon: number; kind?: string; text?: string }
+export interface Pin { name: string; lat: number; lon: number; kind?: string; text?: string; shared?: boolean }
 
 const W = 600, H = 520, PAD = 28;
 
@@ -15,8 +15,13 @@ const W = 600, H = 520, PAD = 28;
  * The country's outline with numbered pins, plus a numbered list underneath (the list is the accessible
  * alternative to the map). Pins outside the main landmass (e.g. overseas islands) are listed without a number.
  */
-export function PinMap({ country, pins, label }: { country: Country; pins: Pin[]; label: string }) {
+export function PinMap({ country, pins: given, label, insideOnly }: { country: Country; pins: Pin[]; label: string; insideOnly?: boolean }) {
   const { features } = useWorld();
+  // For shared (transnational) sites, drop points that fall outside this country's borders.
+  const pins = useMemo(() => {
+    const f = features?.find((x) => x.properties.cca3 === country.cca3);
+    return insideOnly && f ? given.filter((p) => !p.shared || geoContains(f, [p.lon, p.lat])) : given;
+  }, [features, country.cca3, given, insideOnly]);
   const drawn = useMemo(() => {
     const f = features?.find((x) => x.properties.cca3 === country.cca3);
     if (!f || !country.hasShape) return null;
@@ -80,7 +85,7 @@ export function PinMap({ country, pins, label }: { country: Country; pins: Pin[]
 type Ages = { year: number; male: Record<string, number>; female: Record<string, number> };
 type Jobs = { year: number; farming?: number; industry?: number; services?: number };
 interface Structure { retrieved: string; countries: Record<string, { ages?: Ages; jobs?: Jobs }> }
-interface Heritage { retrieved: string; countries: Record<string, { n: string; lat: number; lon: number; kind: string }[]> }
+interface Heritage { retrieved: string; countries: Record<string, { n: string; lat: number; lon: number; kind: string; shared?: 1 }[]> }
 
 const cache = new Map<string, Promise<unknown>>();
 function useData<T>(file: string): T | null {
@@ -102,7 +107,7 @@ export function HeritageMap({ country, kinds, title }: { country: Country; kinds
   return (
     <figure className="chart deep-figure">
       <figcaption className="chart-title">{title}</figcaption>
-      <PinMap country={country} label={title} pins={sites.map((s) => ({ name: s.n[0].toUpperCase() + s.n.slice(1), lat: s.lat, lon: s.lon, kind: s.kind === 'cultural' ? undefined : s.kind }))} />
+      <PinMap country={country} label={title} insideOnly pins={sites.map((s) => ({ name: s.n[0].toUpperCase() + s.n.slice(1), lat: s.lat, lon: s.lon, kind: s.kind === 'cultural' ? undefined : s.kind, shared: Boolean(s.shared) }))} />
       <SourceNote sources={['wikidata']}>UNESCO World Heritage Sites, best known first.</SourceNote>
     </figure>
   );
