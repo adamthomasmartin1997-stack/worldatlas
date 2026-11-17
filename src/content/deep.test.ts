@@ -15,6 +15,17 @@ describe('deep-dive content', () => {
       expect(d.chapters.length).toBeGreaterThanOrEqual(section === 'history' ? 3 : 2);
       const ids = d.chapters.map((c) => c.id);
       expect(new Set(ids).size, 'chapter ids are unique').toBe(ids.length);
+      for (const p of d.places?.items ?? []) {
+        expect(Math.abs(p.lat), `${p.name} latitude`).toBeLessThanOrEqual(90);
+        expect(Math.abs(p.lon), `${p.name} longitude`).toBeLessThanOrEqual(180);
+        expect(p.text.length).toBeGreaterThan(10);
+      }
+      for (const e of d.calendar?.items ?? []) expect(e.month >= 1 && e.month <= 12, `${e.name} month`).toBe(true);
+      for (const g of d.cardGroups ?? []) {
+        expect(g.items.length, `${g.title} has cards`).toBeGreaterThan(0);
+        for (const c of g.items) expect(c.text.length, c.title).toBeGreaterThan(10);
+      }
+      for (const s of d.steps?.items ?? []) expect(s.text.length).toBeGreaterThan(10);
       for (const c of d.chapters) {
         expect(c.text.length).toBeGreaterThan(0);
         for (const r of c.related ?? []) expect(getCountry(r), `related ${r}`).toBeTruthy();

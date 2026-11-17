@@ -101,5 +101,82 @@
    "term": "Overseas department",
    "meaning": "A part of France outside Europe that is run in the same way as the regions of mainland France."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Ten places that show how varied France's landscapes are. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Mont Blanc",
+    "kind": "mountain",
+    "lat": 45.833,
+    "lon": 6.865,
+    "text": "The highest mountain in the Alps, on the border with Italy, with glaciers that flow down towards Chamonix."
+   },
+   {
+    "name": "Verdon Gorge",
+    "kind": "canyon",
+    "lat": 43.75,
+    "lon": 6.33,
+    "text": "A turquoise river at the bottom of limestone cliffs up to about 700 m high, one of Europe's most spectacular canyons."
+   },
+   {
+    "name": "The Camargue",
+    "kind": "wetland",
+    "lat": 43.55,
+    "lon": 4.5,
+    "text": "The Rhône delta's marshes and lagoons, home to pink flamingos, white horses and black bulls."
+   },
+   {
+    "name": "Cirque de Gavarnie",
+    "kind": "mountain",
+    "lat": 42.695,
+    "lon": -0.01,
+    "text": "A giant bowl of cliffs in the Pyrenees with one of the highest waterfalls in Europe."
+   },
+   {
+    "name": "Dune of Pilat",
+    "kind": "coast",
+    "lat": 44.589,
+    "lon": -1.213,
+    "text": "The tallest sand dune in Europe, on the Atlantic coast near Bordeaux."
+   },
+   {
+    "name": "Chaîne des Puys",
+    "kind": "volcanoes",
+    "lat": 45.775,
+    "lon": 2.966,
+    "text": "A line of about 80 sleeping volcanoes in the Massif Central, including the Puy de Dôme."
+   },
+   {
+    "name": "Loire Valley",
+    "kind": "river valley",
+    "lat": 47.39,
+    "lon": 0.69,
+    "text": "France's longest river winds past vineyards and hundreds of châteaux."
+   },
+   {
+    "name": "Mont-Saint-Michel Bay",
+    "kind": "coast",
+    "lat": 48.636,
+    "lon": -1.511,
+    "text": "An island abbey surrounded by some of the biggest tides in Europe."
+   },
+   {
+    "name": "Étretat cliffs",
+    "kind": "coast",
+    "lat": 49.707,
+    "lon": 0.198,
+    "text": "White chalk cliffs and natural arches on the Normandy coast, painted by Monet."
+   },
+   {
+    "name": "Calanques of Piana",
+    "kind": "coast",
+    "lat": 42.24,
+    "lon": 8.63,
+    "text": "Red granite cliffs and pinnacles plunging into the sea on the island of Corsica."
+   }
+  ]
+ }
 }

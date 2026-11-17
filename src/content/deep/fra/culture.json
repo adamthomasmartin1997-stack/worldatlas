@@ -67,5 +67,187 @@
    "term": "Intangible heritage",
    "meaning": "Traditions, skills and customs (rather than buildings) that UNESCO lists as worth protecting."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "A Trip to the Moon",
+     "subtitle": "1902 · Georges Méliès",
+     "text": "Rocket scientists land in the eye of the Man in the Moon: one of the first science-fiction films."
+    },
+    {
+     "title": "The 400 Blows",
+     "subtitle": "1959 · François Truffaut",
+     "text": "A troubled Paris schoolboy runs away; a landmark of the French 'New Wave'."
+    },
+    {
+     "title": "Amélie",
+     "subtitle": "2001 · Jean-Pierre Jeunet",
+     "text": "A shy Paris café waitress secretly sets out to make other people happy."
+    },
+    {
+     "title": "The Intouchables",
+     "subtitle": "2011 · Olivier Nakache and Éric Toledano",
+     "text": "The true-story friendship between a wealthy man who is paralysed and his carer, one of France's biggest hits."
+    },
+    {
+     "title": "The Artist",
+     "subtitle": "2011 · Michel Hazanavicius",
+     "text": "A silent, black-and-white film that became the first French production to win the Oscar for Best Picture."
+    },
+    {
+     "title": "Anatomy of a Fall",
+     "subtitle": "2023 · Justine Triet",
+     "text": "A courtroom drama that won the top prize at Cannes and an Oscar for its screenplay."
+    }
+   ],
+   "intro": "A starter list across more than a century of French cinema."
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Three Musketeers",
+     "subtitle": "1844 · Alexandre Dumas",
+     "text": "D'Artagnan joins three swordsmen in adventures at the court of Louis XIII."
+    },
+    {
+     "title": "Les Misérables",
+     "subtitle": "1862 · Victor Hugo",
+     "text": "Ex-prisoner Jean Valjean tries to build a new life while a policeman hunts him; later a famous musical."
+    },
+    {
+     "title": "Twenty Thousand Leagues Under the Seas",
+     "subtitle": "1870 · Jules Verne",
+     "text": "Captain Nemo's submarine, the Nautilus, explores the oceans long before real submarines could."
+    },
+    {
+     "title": "The Little Prince",
+     "subtitle": "1943 · Antoine de Saint-Exupéry",
+     "text": "A pilot stranded in the desert meets a boy from a tiny planet; one of the most translated books in the world."
+    },
+    {
+     "title": "Astérix",
+     "subtitle": "from 1959 · Goscinny and Uderzo",
+     "text": "A village of Gauls, powered by a magic potion, holds out against Julius Caesar's Romans."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Clair de lune",
+     "subtitle": "Claude Debussy",
+     "text": "A gentle, dreamy piano piece, one of the most famous in classical music."
+    },
+    {
+     "title": "La Vie en rose",
+     "subtitle": "Édith Piaf, 1947",
+     "text": "The signature song of France's most famous singer."
+    },
+    {
+     "title": "One More Time",
+     "subtitle": "Daft Punk, 2000",
+     "text": "The Paris duo in robot helmets helped make French electronic music famous worldwide."
+    },
+    {
+     "title": "Djadja",
+     "subtitle": "Aya Nakamura, 2018",
+     "text": "A global hit that made Aya Nakamura one of the most-streamed French-language singers."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Croissant",
+     "subtitle": "Everywhere",
+     "text": "A buttery crescent pastry, inspired by an Austrian bread."
+    },
+    {
+     "title": "Crêpes",
+     "subtitle": "Brittany",
+     "text": "Thin pancakes; savoury buckwheat galettes are the Breton classic."
+    },
+    {
+     "title": "Bouillabaisse",
+     "subtitle": "Marseille",
+     "text": "A fish stew flavoured with saffron and served with garlic sauce."
+    },
+    {
+     "title": "Ratatouille",
+     "subtitle": "Provence",
+     "text": "Slow-cooked summer vegetables: aubergine, courgette, peppers and tomatoes."
+    },
+    {
+     "title": "Choucroute",
+     "subtitle": "Alsace",
+     "text": "Sauerkraut with sausages and pork, showing German influence."
+    },
+    {
+     "title": "Macarons",
+     "subtitle": "Paris",
+     "text": "Colourful almond biscuits with a creamy filling."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Galette des Rois",
+    "text": "Families share an almond cake hiding a tiny charm; whoever finds it is king or queen for the day."
+   },
+   {
+    "month": 2,
+    "name": "Nice Carnival",
+    "text": "Giant floats and flower battles fill the streets of Nice."
+   },
+   {
+    "month": 4,
+    "name": "Easter",
+    "text": "Children are told the church bells fly to Rome and return with chocolate eggs."
+   },
+   {
+    "month": 5,
+    "name": "Cannes Film Festival",
+    "text": "Stars gather on the Riviera for the world's most famous film festival."
+   },
+   {
+    "month": 6,
+    "name": "Fête de la Musique",
+    "text": "On 21 June anyone can play music in the street, in towns all over France."
+   },
+   {
+    "month": 7,
+    "name": "Bastille Day",
+    "text": "14 July brings a military parade in Paris and fireworks everywhere; the Tour de France races on."
+   },
+   {
+    "month": 9,
+    "name": "Heritage Days",
+    "text": "Palaces, ministries and historic buildings open their doors to the public for free."
+   },
+   {
+    "month": 11,
+    "name": "Armistice Day",
+    "text": "On 11 November France remembers the end of the First World War."
+   },
+   {
+    "month": 12,
+    "name": "Festival of Lights",
+    "text": "Lyon glows with candles in windows and light shows on buildings; Christmas markets open in Alsace."
+   }
+  ]
+ }
 }

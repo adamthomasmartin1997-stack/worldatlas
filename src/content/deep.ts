@@ -28,6 +28,16 @@ export interface DeepDive {
   timeline?: { year: string; title: string; text: string }[];
   /** Words a reader may not know, explained in plain English. */
   keyTerms?: { term: string; meaning: string }[];
+  /** Places pinned on the country map (Geography: landscape tour; Sport: stadiums). */
+  places?: { id: string; title: string; intro?: string; items: { name: string; lat: number; lon: number; kind?: string; text: string }[] };
+  /** Groups of cards (Economy: what it makes; Culture: films, books, music, food; Sport: leagues, legends). */
+  cardGroups?: { id: string; title: string; intro?: string; items: { title: string; subtitle?: string; text: string; tag?: string }[] }[];
+  /** Culture: festivals through the year (month 1-12). */
+  calendar?: { title: string; items: { month: number; name: string; text: string }[] };
+  /** Government: numbered steps, such as how a law is made. */
+  steps?: { id: string; title: string; intro?: string; items: { title: string; text: string }[] };
+  /** A second timeline with its own heading (Sport: big moments). */
+  moments?: { title: string; items: { year: string; title: string; text: string }[] };
 }
 
 const files = import.meta.glob<DeepDive>('./deep/*/*.json', { import: 'default' });

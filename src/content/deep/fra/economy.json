@@ -76,5 +76,59 @@
    "term": "Trade union",
    "meaning": "An organisation of workers that bargains with employers and the government for better pay and conditions."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in-france",
+   "title": "Made in France",
+   "items": [
+    {
+     "title": "Airbus planes",
+     "subtitle": "Toulouse",
+     "text": "Airbus, a European company with its main base in Toulouse, is one of the world's two biggest makers of passenger jets."
+    },
+    {
+     "title": "Ariane rockets",
+     "subtitle": "Kourou, French Guiana",
+     "text": "Europe's Ariane rockets lift off from the Guiana Space Centre near the equator."
+    },
+    {
+     "title": "High-speed trains",
+     "subtitle": "Alstom",
+     "text": "French-built TGV trains carry passengers at up to 320 km/h, and Alstom sells trains worldwide."
+    },
+    {
+     "title": "Cars",
+     "subtitle": "Renault, Peugeot, Citroën",
+     "text": "France's car brands have been making vehicles since the 1890s."
+    },
+    {
+     "title": "Luxury and beauty",
+     "subtitle": "LVMH, Hermès, Chanel, L'Oréal",
+     "text": "France is home to the world's largest luxury group and the world's largest cosmetics company."
+    },
+    {
+     "title": "Wine and champagne",
+     "subtitle": "Bordeaux, Burgundy, Champagne",
+     "text": "France is one of the world's top wine producers; only sparkling wine from Champagne may carry its name."
+    },
+    {
+     "title": "Cheese",
+     "subtitle": "Hundreds of kinds",
+     "text": "From Camembert to Roquefort, many French cheeses have protected names tied to the place they come from."
+    },
+    {
+     "title": "Nuclear electricity",
+     "subtitle": "EDF",
+     "text": "France's dozens of nuclear reactors make about two-thirds of its electricity, and it sells power to its neighbours."
+    },
+    {
+     "title": "The euro",
+     "subtitle": "Since 2002",
+     "text": "France swapped the franc for euro coins and notes in 2002. French euro coins show Marianne, a tree of life and a sower."
+    }
+   ],
+   "intro": "Some of the things France makes and sells to the world."
+  }
  ]
 }

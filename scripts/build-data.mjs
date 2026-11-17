@@ -201,6 +201,30 @@ rmSync('public/data/flags', { recursive: true, force: true });
 mkdirSync('public/data/flags', { recursive: true });
 rmSync('public/data/photos', { recursive: true, force: true });
 for (const c of out) if (c.flag) writeFileSync(`public/data/flags/${c.cca3.toLowerCase()}.svg`, readFileSync(`${FLAG_DIR}/${c.cca2.toLowerCase()}.svg`));
+
+// Deep-dive extras, loaded on demand by the deep-dive pages:
+// - heritage.json: each country's best-known World Heritage Sites with coordinates (Wikidata, CC0)
+// - structure.json: population by age and sex, and jobs by sector (World Bank, CC BY 4.0)
+{
+  const heritage = load('data/sources/wikidata-heritage.json');
+  if (heritage) {
+    const top = Object.fromEntries(Object.entries(heritage.countries).map(([iso, list]) => [iso, list.slice(0, 15).map(({ n, lat, lon, kind }) => ({ n, lat, lon, kind }))]));
+    writeFileSync('public/data/heritage.json', JSON.stringify({ retrieved: heritage.retrieved, countries: top }));
+  }
+  const structure = load('data/sources/worldbank-structure.json');
+  if (structure) {
+    const out = {};
+    for (const [key, byIso] of Object.entries(structure.values)) {
+      const [kind, a, b] = key.split(':');
+      for (const [iso, [year, v]] of Object.entries(byIso)) {
+        const c = (out[iso] ??= {});
+        if (kind === 'age') ((c.ages ??= { year, male: {}, female: {} })[a === 'MA' ? 'male' : 'female'])[b] = v;
+        else (c.jobs ??= { year })[a] = v;
+      }
+    }
+    writeFileSync('public/data/structure.json', JSON.stringify({ retrieved: structure.retrieved, countries: out }));
+  }
+}
 writeFileSync('src/data/organisations.json', JSON.stringify(Object.fromEntries(Object.entries(orgs).map(([k, o]) => [k, { name: o.name, text: o.text, url: o.url, the: Boolean(o.the) }])), null, 1));
 writeFileSync(
   'src/data/countries.json',

@@ -94,5 +94,75 @@
    "term": "Veto",
    "meaning": "The power to block a decision on your own."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by voters every 5 years",
+     "text": "Leads foreign policy and the armed forces, appoints the Prime Minister and can dissolve the National Assembly."
+    },
+    {
+     "title": "The Prime Minister and government",
+     "subtitle": "Appointed by the President",
+     "text": "Run the country day to day and propose most new laws, but need the support of the National Assembly."
+    },
+    {
+     "title": "The National Assembly",
+     "subtitle": "577 deputies elected by voters every 5 years",
+     "text": "Votes on laws and the budget, and can force the government to resign."
+    },
+    {
+     "title": "The Senate",
+     "subtitle": "348 senators chosen by local officials",
+     "text": "Reviews and amends laws; half the senators are chosen every 3 years for 6-year terms."
+    },
+    {
+     "title": "The Constitutional Council",
+     "subtitle": "9 members appointed for 9 years",
+     "text": "Checks that laws follow the constitution. The President and the heads of both chambers each appoint three members."
+    },
+    {
+     "title": "Mayors and councils",
+     "subtitle": "Elected by local voters",
+     "text": "Almost 35,000 communes, plus departments and regions, run local services such as schools and roads."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is written",
+    "text": "Most bills come from the government; members of parliament can propose them too."
+   },
+   {
+    "title": "A committee studies it",
+    "text": "A small group of deputies or senators examines the text and suggests changes."
+   },
+   {
+    "title": "Both chambers debate and vote",
+    "text": "The bill goes back and forth between the National Assembly and the Senate until they agree on the same text."
+   },
+   {
+    "title": "A joint committee settles disagreements",
+    "text": "If they still disagree, 7 deputies and 7 senators try to find a compromise; if that fails, the National Assembly has the final say."
+   },
+   {
+    "title": "The Constitutional Council may check it",
+    "text": "The President, the Prime Minister, the heads of either chamber or 60 deputies or senators can ask the Council to check the law."
+   },
+   {
+    "title": "The President signs it",
+    "text": "The President must sign the law within 15 days, and it is published in the official journal."
+   }
+  ]
+ }
 }

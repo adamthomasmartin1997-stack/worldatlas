@@ -76,5 +76,178 @@
    "term": "Endurance race",
    "meaning": "A race that tests how long cars and drivers can keep going, rather than who is fastest over a short distance."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Ligue 1",
+     "subtitle": "Football · since 1932",
+     "text": "France's top football league. Paris Saint-Germain has won it more times than any other club and became European champions in 2025."
+    },
+    {
+     "title": "Top 14",
+     "subtitle": "Rugby union",
+     "text": "One of the strongest rugby leagues in the world; Stade Toulousain has won more French titles than any other club."
+    },
+    {
+     "title": "Betclic Élite",
+     "subtitle": "Basketball",
+     "text": "The top basketball league; ASVEL from Lyon-Villeurbanne is its most successful club."
+    },
+    {
+     "title": "Starligue",
+     "subtitle": "Handball",
+     "text": "France's top handball league, dominated in recent years by Paris Saint-Germain."
+    },
+    {
+     "title": "Tour de France",
+     "subtitle": "Cycling · since 1903",
+     "text": "Not a league, but France's biggest sporting event: three weeks of racing every July."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Zinedine Zidane",
+     "subtitle": "Football",
+     "text": "Scored twice in the 1998 World Cup final and later coached Real Madrid to three Champions League titles."
+    },
+    {
+     "title": "Kylian Mbappé",
+     "subtitle": "Football",
+     "text": "Won the World Cup at 19 in 2018 and scored a hat-trick in the 2022 final."
+    },
+    {
+     "title": "Teddy Riner",
+     "subtitle": "Judo",
+     "text": "Three-time Olympic heavyweight champion and winner of many world titles."
+    },
+    {
+     "title": "Antoine Dupont",
+     "subtitle": "Rugby",
+     "text": "Often called the best rugby player in the world; led France to Olympic rugby sevens gold in 2024."
+    },
+    {
+     "title": "Marie-José Pérec",
+     "subtitle": "Athletics",
+     "text": "Won three Olympic gold medals in sprinting, including the 200 m and 400 m double in 1996."
+    },
+    {
+     "title": "Tony Parker",
+     "subtitle": "Basketball",
+     "text": "Won four NBA titles with the San Antonio Spurs."
+    },
+    {
+     "title": "Bernard Hinault",
+     "subtitle": "Cycling",
+     "text": "Won the Tour de France five times."
+    },
+    {
+     "title": "Léon Marchand",
+     "subtitle": "Swimming",
+     "text": "Won four individual Olympic golds at Paris 2024."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "stadiums",
+  "title": "Famous venues",
+  "intro": "Where France's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Paris: Stade de France, Parc des Princes, Roland-Garros",
+    "kind": "venue",
+    "lat": 48.92,
+    "lon": 2.36,
+    "text": "The 80,000-seat national stadium, PSG's home ground and the clay courts of the French Open."
+   },
+   {
+    "name": "Orange Vélodrome, Marseille",
+    "kind": "venue",
+    "lat": 43.27,
+    "lon": 5.396,
+    "text": "Olympique de Marseille's home, the largest club football stadium in France."
+   },
+   {
+    "name": "Groupama Stadium, Lyon",
+    "kind": "venue",
+    "lat": 45.765,
+    "lon": 4.982,
+    "text": "Home of Olympique Lyonnais."
+   },
+   {
+    "name": "Stade Ernest-Wallon, Toulouse",
+    "kind": "venue",
+    "lat": 43.623,
+    "lon": 1.415,
+    "text": "Home of rugby giants Stade Toulousain."
+   },
+   {
+    "name": "Circuit de la Sarthe, Le Mans",
+    "kind": "venue",
+    "lat": 47.95,
+    "lon": 0.207,
+    "text": "Where the 24 Hours of Le Mans has been raced since 1923."
+   },
+   {
+    "name": "Chamonix",
+    "kind": "venue",
+    "lat": 45.924,
+    "lon": 6.87,
+    "text": "Host of the first Winter Olympics in 1924."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1903",
+    "title": "First Tour de France",
+    "text": "60 riders set off from Paris on a race of nearly 2,500 km."
+   },
+   {
+    "year": "1924",
+    "title": "Paris and Chamonix Olympics",
+    "text": "Paris hosts the Summer Games and Chamonix the first Winter Games."
+   },
+   {
+    "year": "1984",
+    "title": "European champions",
+    "text": "Michel Platini scores nine goals as France win Euro 84 at home."
+   },
+   {
+    "year": "1998",
+    "title": "World champions at home",
+    "text": "France beat Brazil 3-0 in the World Cup final at the Stade de France."
+   },
+   {
+    "year": "2018",
+    "title": "Second World Cup",
+    "text": "France beat Croatia 4-2 in the final in Moscow."
+   },
+   {
+    "year": "2023",
+    "title": "Rugby World Cup host",
+    "text": "France hosts the Rugby World Cup."
+   },
+   {
+    "year": "2024",
+    "title": "Paris Olympics",
+    "text": "France wins 16 gold medals, its best result since 1900."
+   },
+   {
+    "year": "2025",
+    "title": "PSG win the Champions League",
+    "text": "Paris Saint-Germain become European club champions for the first time."
+   }
+  ]
+ }
 }
