@@ -1,0 +1,172 @@
+{
+ "status": "draft",
+ "intro": "Turkey's land, Anatolia, has one of the richest histories on Earth: the world's oldest known temple, the Hittites, Troy, Greek cities, the Byzantine Empire and the Ottoman Empire. The modern republic was founded by Mustafa Kemal Atatürk in 1923.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Temples, towns and coins",
+   "text": [
+    "Göbekli Tepe, in south-eastern Turkey, has huge carved stone pillars set up around 9500 BC, before farming, pottery or writing. It is often called the world's oldest known temple. Çatalhöyük, from around 7400 BC, was one of the first towns, where people entered their houses through holes in the roof.",
+    "The Hittites built a powerful empire in central Anatolia; around 1259 BC they signed one of the earliest known peace treaties, with Egypt. The kingdom of Lydia minted some of the world's first coins in the 600s BC, and Greek cities such as Ephesus flourished along the Aegean coast. The legendary city of Troy stood near the Dardanelles."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Göbekli Tepe showed that hunter-gatherers could build monuments before they settled down to farm, changing ideas about how civilisation began."
+   },
+   "related": [
+    "EGY",
+    "GRC"
+   ]
+  },
+  {
+   "id": "byzantium",
+   "title": "Constantinople",
+   "text": [
+    "Anatolia was ruled by Persians, Alexander the Great and then Rome. In 330 the emperor Constantine made the Greek town of Byzantium his new capital, Constantinople. It became the centre of the Byzantine Empire, which lasted a thousand years after the western Roman Empire fell.",
+    "The church of Hagia Sophia, finished in 537, was the largest church in the world for nearly a thousand years."
+   ],
+   "related": [
+    "ITA",
+    "GRC",
+    "IRN"
+   ]
+  },
+  {
+   "id": "ottomans",
+   "title": "The Ottoman Empire",
+   "text": [
+    "Turkic peoples from Central Asia arrived in Anatolia after the Seljuk Turks defeated the Byzantines in 1071. Around 1299 a chief called Osman founded the Ottoman state. On 29 May 1453 Sultan Mehmed II captured Constantinople, which became the Ottoman capital, Istanbul.",
+    "Under Suleiman the Magnificent in the 1500s, the empire stretched across south-eastern Europe, the Middle East and North Africa, and its armies besieged Vienna. It was a multi-faith empire of Muslims, Christians and Jews, famous for its architecture, law and art.",
+    "From the 1700s the empire weakened and lost territory, and Europeans called it 'the sick man of Europe'. It fought on Germany's side in the First World War. In 1915 it defeated the Allied invasion at Gallipoli, but the same year Ottoman authorities carried out the mass deportation and killing of more than a million Armenians, recognised as genocide by many countries and historians; Turkey rejects that term."
+   ],
+   "related": [
+    "HUN",
+    "AUT",
+    "EGY",
+    "SAU",
+    "SRB",
+    "ARM",
+    "AUS",
+    "NZL"
+   ]
+  },
+  {
+   "id": "republic",
+   "title": "Atatürk's republic",
+   "text": [
+    "After the war the Allies planned to divide Anatolia. Mustafa Kemal, a hero of Gallipoli, led a War of Independence, and on 29 October 1923 the Republic of Turkey was proclaimed with Ankara as its capital and Kemal as president.",
+    "He transformed the country at astonishing speed: he abolished the caliphate, made the state secular, replaced Arabic script with the Latin alphabet in 1928, gave women the vote in national elections in 1934 and required everyone to take a surname. Parliament gave him the surname Atatürk, 'Father of the Turks'."
+   ],
+   "highlight": {
+    "title": "A minute of silence",
+    "text": "Atatürk died on 10 November 1938 at 9.05 am. Every year at that moment, sirens sound and the whole country stops in silence."
+   }
+  },
+  {
+   "id": "modern",
+   "title": "Modern Turkey",
+   "text": [
+    "Turkey joined NATO in 1952. The army overthrew governments several times, in 1960, 1971 and 1980, and a conflict with the Kurdish militant group PKK, which began in 1984, killed tens of thousands; the PKK announced it was disbanding in 2025.",
+    "Recep Tayyip Erdoğan became prime minister in 2003 and president in 2014. A coup attempt in 2016 failed, and in 2017 voters approved a stronger presidency. On 6 February 2023 two huge earthquakes struck the south-east, killing more than 50,000 people in Turkey."
+   ],
+   "related": [
+    "SYR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 9500 BC",
+   "title": "Göbekli Tepe",
+   "text": "Hunter-gatherers raise giant carved pillars."
+  },
+  {
+   "year": "c. 7400 BC",
+   "title": "Çatalhöyük",
+   "text": "One of the world's first towns."
+  },
+  {
+   "year": "c. 1259 BC",
+   "title": "Hittite peace treaty",
+   "text": "One of the earliest known peace treaties, with Egypt."
+  },
+  {
+   "year": "c. 600 BC",
+   "title": "First coins",
+   "text": "Lydia mints some of the world's first coins."
+  },
+  {
+   "year": "330",
+   "title": "Constantinople",
+   "text": "Constantine's new capital."
+  },
+  {
+   "year": "537",
+   "title": "Hagia Sophia",
+   "text": "The great church is completed."
+  },
+  {
+   "year": "1071",
+   "title": "Manzikert",
+   "text": "The Seljuk Turks defeat the Byzantines."
+  },
+  {
+   "year": "1453",
+   "title": "Fall of Constantinople",
+   "text": "The Ottomans capture the city."
+  },
+  {
+   "year": "1529",
+   "title": "Siege of Vienna",
+   "text": "The high point of Ottoman expansion in Europe."
+  },
+  {
+   "year": "1915",
+   "title": "Gallipoli",
+   "text": "The Allied landings are defeated."
+  },
+  {
+   "year": "1923",
+   "title": "Republic",
+   "text": "Atatürk proclaims the Republic of Turkey on 29 October."
+  },
+  {
+   "year": "1928",
+   "title": "New alphabet",
+   "text": "Turkish switches to the Latin alphabet."
+  },
+  {
+   "year": "1952",
+   "title": "NATO",
+   "text": "Turkey joins the alliance."
+  },
+  {
+   "year": "2016",
+   "title": "Coup attempt",
+   "text": "A military coup attempt fails."
+  },
+  {
+   "year": "2023",
+   "title": "Earthquakes",
+   "text": "Devastating earthquakes hit the south-east."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Anatolia",
+   "meaning": "The large Asian peninsula that makes up most of Turkey; also called Asia Minor."
+  },
+  {
+   "term": "Sultan",
+   "meaning": "The ruler of the Ottoman Empire."
+  },
+  {
+   "term": "Caliphate",
+   "meaning": "The office of the caliph, a leader of the Muslim world; abolished by Turkey in 1924."
+  },
+  {
+   "term": "Secular",
+   "meaning": "Separate from religion."
+  }
+ ]
+}

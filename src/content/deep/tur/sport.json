@@ -1,0 +1,43 @@
+{
+ "status": "draft",
+ "intro": "Football is Turkey's passion, especially the rivalry between Istanbul's big clubs. Turkey also excels at wrestling, weightlifting and women's volleyball, and has one of the oldest continuous sports events in the world.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Istanbul's Galatasaray, Fenerbahçe and Beşiktaş have some of the loudest fans in football. In 2000 Galatasaray became the first Turkish club to win a European trophy, the UEFA Cup. The national team finished third at the 2002 World Cup, and Turkey will co-host Euro 2032 with Italy."
+   ],
+   "related": [
+    "ITA",
+    "KOR"
+   ]
+  },
+  {
+   "id": "wrestling",
+   "title": "Oil wrestling and strength sports",
+   "text": [
+    "At the Kırkpınar festival near Edirne, held for more than 650 years, wrestlers cover themselves in olive oil and grapple in leather trousers. It is one of the oldest continuously held sporting events in the world.",
+    "Turkey has won many Olympic medals in wrestling and weightlifting; Naim Süleymanoğlu, the 'Pocket Hercules', won three Olympic golds and once lifted three times his own body weight."
+   ]
+  },
+  {
+   "id": "volleyball",
+   "title": "Volleyball, basketball and more",
+   "text": [
+    "Turkey's women's volleyball team is one of the best in the world and won the European Championship in 2023, and Turkish clubs such as VakıfBank have won the women's Champions League many times. Turkish basketball clubs have won the EuroLeague several times.",
+    "At the 2024 Olympics, shooter Yusuf Dikeç won a silver medal and went viral for competing with one hand in his pocket and no special equipment."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Oil wrestling",
+   "meaning": "Traditional Turkish wrestling in which competitors are covered in olive oil."
+  },
+  {
+   "term": "Derby",
+   "meaning": "A match between two rival teams from the same city."
+  }
+ ]
+}

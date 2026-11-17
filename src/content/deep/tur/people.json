@@ -1,0 +1,48 @@
+{
+ "status": "draft",
+ "intro": "Turkey has a young and growing population. Most people are Turkish, with a large Kurdish minority, and for years it hosted more refugees than any other country.",
+ "chapters": [
+  {
+   "id": "cities",
+   "title": "Istanbul and Ankara",
+   "text": [
+    "Istanbul, with more than 15 million people, is Turkey's biggest city and one of the largest in Europe; it is the only major city spread across two continents. Ankara, in the centre of Anatolia, became the capital in 1923. Izmir, Bursa and Antalya are other big cities."
+   ]
+  },
+  {
+   "id": "peoples",
+   "title": "Peoples and languages",
+   "text": [
+    "Turkish is the official language. It belongs to the Turkic family, related to languages spoken from Azerbaijan to Kazakhstan and Uzbekistan, and is known for 'vowel harmony', where vowels in a word must match.",
+    "Kurds are the largest minority, living mainly in the south-east, and many speak Kurdish. Turkey is also home to Arabs, Laz, Circassians and small Armenian, Greek and Jewish communities. After the war in Syria began in 2011, Turkey took in millions of Syrian refugees."
+   ],
+   "related": [
+    "AZE",
+    "KAZ",
+    "UZB",
+    "SYR"
+   ]
+  },
+  {
+   "id": "faith",
+   "title": "Faith and daily life",
+   "text": [
+    "Most Turks are Muslim, mainly Sunni, with a large Alevi minority, though the state is officially secular. The call to prayer rings out from mosques five times a day.",
+    "Turks drink more tea per person than people in any other country, served in small tulip-shaped glasses. Several million people of Turkish origin live in Germany."
+   ],
+   "related": [
+    "DEU"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Turkic languages",
+   "meaning": "A family of related languages spoken from Turkey to Central Asia and Siberia."
+  },
+  {
+   "term": "Alevi",
+   "meaning": "A branch of Islam in Turkey with its own traditions and places of worship."
+  }
+ ]
+}

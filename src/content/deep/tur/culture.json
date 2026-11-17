@@ -1,0 +1,44 @@
+{
+ "status": "draft",
+ "intro": "Turkish culture blends Central Asian, Persian, Arab, Byzantine and European influences, from grand mosques and bazaars to kebabs, Turkish delight and TV dramas watched across the world.",
+ "chapters": [
+  {
+   "id": "food",
+   "title": "Food and drink",
+   "text": [
+    "Turkish cooking includes kebabs of every kind, mezes (small shared dishes), stuffed vegetables, simit (sesame bread rings) and sweets such as baklava and Turkish delight. A Turkish breakfast spreads cheese, olives, tomatoes, eggs, honey and bread across the table.",
+    "Turkish coffee, boiled in a small pot and served with the grounds, is on UNESCO's heritage list; some people read fortunes in the leftover grounds."
+   ]
+  },
+  {
+   "id": "buildings",
+   "title": "Mosques, palaces and bazaars",
+   "text": [
+    "The Ottoman architect Mimar Sinan designed hundreds of buildings in the 1500s, including Istanbul's Süleymaniye Mosque. The Blue Mosque, Topkapı Palace, where sultans lived, and Hagia Sophia, a church, then a mosque, then a museum and since 2020 a mosque again, are nearby.",
+    "The Grand Bazaar, begun in the 1400s, is one of the oldest and largest covered markets in the world, with thousands of shops selling carpets, lamps, jewellery and spices."
+   ]
+  },
+  {
+   "id": "arts",
+   "title": "Arts and stories",
+   "text": [
+    "The Mevlevi, followers of the poet Rumi, perform the Sema, a spinning ceremony; they are known in English as whirling dervishes. Ebru, the art of marbling paper by floating paint on water, and Iznik tiles with blue and red flowers are famous crafts.",
+    "Orhan Pamuk won the Nobel Prize in Literature in 2006. The jokes of Nasreddin Hodja, a wise fool, are told across the Middle East and Central Asia, and Turkish TV dramas are exported to more than a hundred countries."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Meze",
+   "meaning": "Small dishes served together as a starter or snack."
+  },
+  {
+   "term": "Bazaar",
+   "meaning": "A market, often covered, with many small shops."
+  },
+  {
+   "term": "Dervish",
+   "meaning": "A member of a Sufi Muslim religious order."
+  }
+ ]
+}

@@ -1,0 +1,69 @@
+{
+ "status": "draft",
+ "intro": "Turkey straddles two continents. A small part lies in Europe and most of it in Asia, divided by the narrow Bosphorus strait that runs through Istanbul. It is a land of mountains, plateaus, four seas and frequent earthquakes.",
+ "chapters": [
+  {
+   "id": "two-continents",
+   "title": "Between Europe and Asia",
+   "text": [
+    "Thrace, the small European part of Turkey, is separated from Anatolia, the Asian part, by the Bosphorus, the Sea of Marmara and the Dardanelles. These straits are the only sea route between the Black Sea and the Mediterranean, so they have been fought over for thousands of years.",
+    "Turkey has coasts on the Black Sea, the Sea of Marmara, the Aegean and the Mediterranean. It borders Greece, Bulgaria, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria."
+   ],
+   "related": [
+    "GRC",
+    "BGR",
+    "GEO",
+    "ARM",
+    "AZE",
+    "IRN",
+    "IRQ",
+    "SYR"
+   ]
+  },
+  {
+   "id": "landscapes",
+   "title": "Mountains and fairy chimneys",
+   "text": [
+    "Central Anatolia is a high, dry plateau ringed by mountains. In the far east, snow-capped Mount Ararat, an old volcano, is Turkey's highest mountain; according to tradition, Noah's Ark came to rest there.",
+    "In Cappadocia, ash from ancient volcanoes has worn into strange cones called fairy chimneys. People carved homes, churches and even whole underground cities into the soft rock, and today hot-air balloons float over the valleys at sunrise. At Pamukkale, hot springs have built white terraces of mineral rock."
+   ]
+  },
+  {
+   "id": "water-quakes",
+   "title": "Rivers and earthquakes",
+   "text": [
+    "The Tigris and Euphrates, the rivers of ancient Mesopotamia, both begin in the mountains of eastern Turkey. Lake Van is a large salty lake, home to the Van cat, which is said to love swimming.",
+    "Turkey sits on active faults, including the North Anatolian Fault, so earthquakes are common and sometimes deadly."
+   ],
+   "related": [
+    "IRQ",
+    "SYR"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The Aegean and Mediterranean coasts have hot, dry summers, ideal for beach holidays. The Black Sea coast is green and rainy, where tea and hazelnuts grow, while the eastern highlands have bitterly cold winters.",
+    "Tulips grew wild in this region and were prized by the Ottomans before they reached the Netherlands in the 1500s."
+   ],
+   "related": [
+    "NLD"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Strait",
+   "meaning": "A narrow channel of sea joining two larger seas."
+  },
+  {
+   "term": "Fairy chimney",
+   "meaning": "A tall cone of rock shaped by erosion, as in Cappadocia."
+  },
+  {
+   "term": "Fault",
+   "meaning": "A crack in Earth's crust where earthquakes happen."
+  }
+ ]
+}

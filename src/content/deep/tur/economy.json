@@ -1,0 +1,44 @@
+{
+ "status": "draft",
+ "intro": "Turkey has one of the largest economies in Europe and the Middle East. It makes cars, clothes, fridges and drones, grows most of the world's hazelnuts and welcomes tens of millions of tourists, but has suffered very high inflation.",
+ "chapters": [
+  {
+   "id": "industry",
+   "title": "Factories",
+   "text": [
+    "Turkey makes clothes and textiles for European shops, cars and vans for international brands, and household appliances; the company Arçelik, which owns the Beko brand, is one of Europe's largest makers of washing machines and fridges. Its defence industry builds drones, such as the Bayraktar TB2, sold to many countries.",
+    "Turkey's biggest export market is Germany, and it has had a customs union with the EU since 1995."
+   ],
+   "related": [
+    "DEU",
+    "GBR",
+    "ITA"
+   ]
+  },
+  {
+   "id": "farming-tourism",
+   "title": "Farms and tourists",
+   "text": [
+    "Turkey grows most of the world's hazelnuts, used in chocolate spreads, and dried apricots, as well as figs, cherries and tea. Tourism is a major earner: beach resorts on the Mediterranean, Istanbul's history and Cappadocia's balloons draw tens of millions of visitors a year.",
+    "Turkish Airlines flies to more countries than any other airline, from Istanbul's huge new airport."
+   ]
+  },
+  {
+   "id": "inflation",
+   "title": "Inflation",
+   "text": [
+    "In 2021 and 2022 the lira lost much of its value and inflation rose above 80%, so prices in shops changed constantly. The government has since raised interest rates to bring inflation down."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Customs union",
+   "meaning": "An agreement where countries trade without tariffs and charge the same tariffs on goods from outside."
+  },
+  {
+   "term": "Lira",
+   "meaning": "Turkey's currency."
+  }
+ ]
+}

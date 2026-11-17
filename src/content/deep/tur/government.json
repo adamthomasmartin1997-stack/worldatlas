@@ -1,0 +1,67 @@
+{
+ "status": "draft",
+ "intro": "Turkey, officially the Republic of Türkiye, is a presidential republic. Its founder's principle of secularism is in the constitution, though critics say democracy has weakened as power has become concentrated in the president.",
+ "chapters": [
+  {
+   "id": "president",
+   "title": "A presidential system",
+   "text": [
+    "Since 2018 the president has been both head of state and head of government, with wide powers. Recep Tayyip Erdoğan has led Turkey since 2003, first as prime minister and then as president.",
+    "The Grand National Assembly in Ankara has 600 members elected by proportional representation. Turkey is divided into 81 provinces."
+   ],
+   "facts": [
+    {
+     "label": "Assembly",
+     "value": "600 members"
+    },
+    {
+     "label": "Provinces",
+     "value": "81"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "democracy",
+   "title": "Democracy under strain",
+   "text": [
+    "Elections are competitive and turnout is high, but rights groups say journalists, opposition politicians and protesters face prosecution. In 2025 the arrest of Istanbul's mayor, Ekrem İmamoğlu, a leading opposition figure, sparked the largest street protests in years."
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Flag and Atatürk",
+   "text": [
+    "The red flag shows a white crescent and star. Atatürk's portrait hangs in every school and government office, and his mausoleum in Ankara, Anıtkabir, is a national shrine. Republic Day, 29 October, is the main national holiday.",
+    "In 2022 the country asked the United Nations to use its Turkish name, Türkiye, in English."
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Turkey in the world",
+   "text": [
+    "Turkey has been a NATO member since 1952 and has one of the alliance's largest armies. It has been a candidate to join the EU since 1999, though talks have stalled. It controls shipping through the Bosphorus and Dardanelles, and helped broker a deal in 2022 to let Ukraine export grain by sea during the war."
+   ],
+   "related": [
+    "UKR",
+    "RUS",
+    "GRC",
+    "USA",
+    "DEU"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Presidential system",
+   "meaning": "A government led by an elected president who is not part of parliament."
+  },
+  {
+   "term": "EU candidate",
+   "meaning": "A country officially recognised as working towards joining the European Union."
+  }
+ ]
+}
