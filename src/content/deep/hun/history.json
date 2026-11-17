@@ -1,0 +1,116 @@
+{
+ "status": "draft",
+ "intro": "The Hungarians, or Magyars, rode into the Carpathian Basin from the east more than 1,100 years ago. Their kingdom survived Mongol and Ottoman invasions and Habsburg rule, lost two-thirds of its land after the First World War and rose against Soviet rule in 1956.",
+ "chapters": [
+  {
+   "id": "kingdom",
+   "title": "Magyars and a Christian kingdom",
+   "text": [
+    "Magyar tribes led by Árpád arrived around 895, speaking a language unrelated to their neighbours'. In the year 1000 Stephen I was crowned the first Christian king of Hungary; his feast day, 20 August, is the national holiday.",
+    "The Mongols devastated Hungary in 1241. King Matthias Corvinus, in the 1400s, made his court a centre of the Renaissance. In 1526 the Ottomans won the Battle of Mohács and occupied central Hungary for 150 years."
+   ],
+   "related": [
+    "MNG",
+    "TUR"
+   ]
+  },
+  {
+   "id": "habsburg",
+   "title": "Habsburgs and Trianon",
+   "text": [
+    "Hungary then came under the Habsburgs. Its 1848 revolution, which began on 15 March, was crushed, but in 1867 a compromise created Austria-Hungary, with Hungary running its own affairs. Buda and Pest joined to form Budapest in 1873.",
+    "After defeat in the First World War, the Treaty of Trianon in 1920 took about two-thirds of Hungary's land, leaving millions of Hungarians in neighbouring countries, a wound still felt today."
+   ],
+   "related": [
+    "AUT",
+    "ROU",
+    "SVK",
+    "SRB"
+   ]
+  },
+  {
+   "id": "war-communism",
+   "title": "War, 1956 and freedom",
+   "text": [
+    "Hungary fought alongside Nazi Germany in the Second World War. In 1944, after Germany occupied the country, more than 400,000 Hungarian Jews were deported to Auschwitz in a few weeks. Soviet forces then took Hungary, and a communist government followed.",
+    "In October 1956 Hungarians rose up against Soviet control; Soviet tanks crushed the revolution, and around 200,000 people fled. In 1989 Hungary opened its border with Austria, letting thousands of East Germans escape west and helping bring down the Iron Curtain. Hungary joined NATO in 1999 and the EU in 2004."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Opening the Hungarian border in 1989 was one of the first cracks in the Iron Curtain, months before the Berlin Wall fell."
+   },
+   "related": [
+    "RUS",
+    "AUT",
+    "DEU"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "895",
+   "title": "Magyar arrival",
+   "text": "Hungarian tribes settle the Carpathian Basin."
+  },
+  {
+   "year": "1000",
+   "title": "Stephen I",
+   "text": "Hungary's first Christian king is crowned."
+  },
+  {
+   "year": "1241",
+   "title": "Mongol invasion",
+   "text": "Hungary is devastated."
+  },
+  {
+   "year": "1526",
+   "title": "Mohács",
+   "text": "The Ottomans defeat Hungary."
+  },
+  {
+   "year": "1848",
+   "title": "Revolution",
+   "text": "Hungarians rise against the Habsburgs."
+  },
+  {
+   "year": "1867",
+   "title": "Austria-Hungary",
+   "text": "The Dual Monarchy is formed."
+  },
+  {
+   "year": "1920",
+   "title": "Trianon",
+   "text": "Hungary loses two-thirds of its land."
+  },
+  {
+   "year": "1944",
+   "title": "Deportations",
+   "text": "Hungarian Jews are sent to Auschwitz."
+  },
+  {
+   "year": "1956",
+   "title": "Revolution",
+   "text": "An uprising is crushed by Soviet tanks."
+  },
+  {
+   "year": "1989",
+   "title": "Border opens",
+   "text": "East Germans escape west through Hungary."
+  },
+  {
+   "year": "2004",
+   "title": "Joins the EU",
+   "text": "Hungary becomes an EU member."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Magyar",
+   "meaning": "The Hungarians' name for themselves."
+  },
+  {
+   "term": "Iron Curtain",
+   "meaning": "The heavily guarded border between communist and non-communist Europe."
+  }
+ ]
+}

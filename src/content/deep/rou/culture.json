@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Romanian culture blends Latin roots, Orthodox traditions and folk art, and has given the world sculptor Constantin Brâncuși and the legend of Dracula.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Art and legends",
+   "text": [
+    "Constantin Brâncuși's smooth, simple sculptures, such as the Endless Column, changed modern art. Bram Stoker's Dracula made Transylvania famous, and Bran Castle is marketed as 'Dracula's Castle'. At the Merry Cemetery in Săpânța, painted wooden crosses tell funny stories about the dead."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Sarmale (cabbage rolls), mămăligă (a maize porridge like polenta), mici (grilled sausages) and cozonac (sweet bread) are favourites. Romanian films won top prizes at Cannes in the 2000s."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Polenta",
+   "meaning": "A thick porridge made from maize."
+  }
+ ]
+}

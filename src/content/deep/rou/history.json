@@ -1,0 +1,98 @@
+{
+ "status": "draft",
+ "intro": "Romania's people descend from Dacians and Romans and speak a Latin language. Its principalities of Wallachia and Moldavia united in 1859, Transylvania joined in 1918, and in 1989 Romanians overthrew a harsh communist dictator.",
+ "chapters": [
+  {
+   "id": "dacia",
+   "title": "Dacians and Romans",
+   "text": [
+    "The Dacians, skilled in gold-mining and metalwork, were conquered by the Roman emperor Trajan in AD 106, a victory carved on Trajan's Column in Rome. Romanian grew from the Latin spoken in Roman Dacia, which is why it is a Romance language like Italian and Spanish.",
+    "In the Middle Ages the principalities of Wallachia and Moldavia fought to survive between Hungary, Poland and the Ottoman Empire. Vlad III, called 'the Impaler' for his cruelty, ruled Wallachia in the 1400s and later inspired the name of Bram Stoker's Dracula."
+   ],
+   "related": [
+    "ITA",
+    "TUR",
+    "HUN"
+   ]
+  },
+  {
+   "id": "unification",
+   "title": "A united Romania",
+   "text": [
+    "In 1859 Wallachia and Moldavia elected the same prince, uniting them; Romania won full independence from the Ottomans in 1878. On 1 December 1918, now the National Day, Transylvania and other regions joined, creating Greater Romania.",
+    "Romania fought with Germany in the Second World War until switching sides in 1944, and Romanian forces killed hundreds of thousands of Jews and Roma."
+   ],
+   "related": [
+    "TUR",
+    "HUN",
+    "MDA",
+    "DEU"
+   ]
+  },
+  {
+   "id": "ceausescu",
+   "title": "Ceaușescu and revolution",
+   "text": [
+    "Nicolae Ceaușescu ruled the communist state from 1965. He built a huge palace in Bucharest, now the Palace of the Parliament, one of the largest buildings in the world, while ordinary people faced food shortages and heating cuts.",
+    "In December 1989 protests spread from Timișoara to Bucharest; Ceaușescu and his wife were captured and executed on Christmas Day. Romania joined NATO in 2004 and the EU in 2007."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "106",
+   "title": "Roman conquest",
+   "text": "Trajan conquers Dacia."
+  },
+  {
+   "year": "1456",
+   "title": "Vlad III",
+   "text": "Vlad the Impaler rules Wallachia."
+  },
+  {
+   "year": "1600",
+   "title": "Michael the Brave",
+   "text": "Briefly unites the Romanian lands."
+  },
+  {
+   "year": "1859",
+   "title": "Union",
+   "text": "Wallachia and Moldavia unite."
+  },
+  {
+   "year": "1878",
+   "title": "Independence",
+   "text": "Recognised after the war with the Ottomans."
+  },
+  {
+   "year": "1918",
+   "title": "Great Union",
+   "text": "Transylvania joins on 1 December."
+  },
+  {
+   "year": "1965",
+   "title": "Ceaușescu",
+   "text": "He takes power."
+  },
+  {
+   "year": "1989",
+   "title": "Revolution",
+   "text": "The dictatorship falls."
+  },
+  {
+   "year": "2007",
+   "title": "Joins the EU",
+   "text": "Romania becomes an EU member."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Principality",
+   "meaning": "A state ruled by a prince."
+  },
+  {
+   "term": "Romance language",
+   "meaning": "A language descended from Latin."
+  }
+ ]
+}

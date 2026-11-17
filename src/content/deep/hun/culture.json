@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Hungarian culture is known for goulash and paprika, thermal baths, folk embroidery and great composers.",
+ "chapters": [
+  {
+   "id": "music-words",
+   "title": "Music and literature",
+   "text": [
+    "Franz Liszt, Béla Bartók and Zoltán Kodály, who created a famous way of teaching children music, were Hungarian. Imre Kertész and László Krasznahorkai have won the Nobel Prize in Literature."
+   ]
+  },
+  {
+   "id": "food-fun",
+   "title": "Food and festivals",
+   "text": [
+    "Gulyás (goulash) is a paprika-spiced beef soup, and lángos (fried bread) and chimney cake are street favourites. At the Busójárás carnival in Mohács, men in horned wooden masks chase away winter."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Goulash",
+   "meaning": "A Hungarian soup or stew of beef and paprika."
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "status": "draft",
+ "intro": "The Carpathian Mountains curve through Romania like a giant arc, wrapping around Transylvania, and the Danube ends its long journey in a vast delta on the Black Sea.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Carpathians and Transylvania",
+   "text": [
+    "The Carpathians form a great arc through the middle of the country; Moldoveanu is the highest peak, and the Transfăgărășan road twists dramatically over the mountains. Inside the arc is the plateau of Transylvania, with fortified villages and castles.",
+    "Romania borders Ukraine, Moldova, Bulgaria, Serbia and Hungary, and has a coast on the Black Sea."
+   ],
+   "related": [
+    "UKR",
+    "MDA",
+    "BGR",
+    "SRB",
+    "HUN"
+   ]
+  },
+  {
+   "id": "nature",
+   "title": "Delta and wildlife",
+   "text": [
+    "The Danube Delta is one of Europe's largest and best-preserved wetlands, home to pelicans and hundreds of other bird species. Romania's forests shelter more brown bears than any other European country outside Russia, along with wolves and lynx."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Delta",
+   "meaning": "Flat wetland where a river splits into channels before reaching the sea."
+  }
+ ]
+}

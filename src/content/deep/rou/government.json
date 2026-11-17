@@ -1,0 +1,45 @@
+{
+ "status": "draft",
+ "intro": "Romania is a semi-presidential republic and a member of the EU and NATO.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "President and parliament",
+   "text": [
+    "The president is directly elected for five years and shares power with a prime minister, who needs the support of the two-chamber parliament. In 2024 a presidential election was cancelled over evidence of foreign interference; the re-run in 2025 was won by Nicușor Dan, the mayor of Bucharest.",
+    "Romania has 41 counties plus Bucharest and uses its own currency, the leu. The flag has vertical blue, yellow and red stripes."
+   ],
+   "facts": [
+    {
+     "label": "Counties",
+     "value": "41 + Bucharest"
+    },
+    {
+     "label": "President's term",
+     "value": "5 years"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Romania in the world",
+   "text": [
+    "Romania joined NATO in 2004 and the EU in 2007. Its position on the Black Sea next to Ukraine has made it important to NATO's defence since 2022."
+   ],
+   "related": [
+    "UKR",
+    "MDA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Semi-presidential",
+   "meaning": "A system where an elected president and a prime minister share power."
+  }
+ ]
+}

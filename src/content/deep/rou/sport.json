@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Romania is famous for gymnastics, especially Nadia Comăneci, the first gymnast to score a perfect 10.",
+ "chapters": [
+  {
+   "id": "gymnastics",
+   "title": "Gymnastics",
+   "text": [
+    "At the 1976 Olympics in Montreal, 14-year-old Nadia Comăneci scored the first perfect 10 in Olympic gymnastics history; the scoreboard could only show '1.00'. Romanian gymnasts went on to win many more medals."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Tennis, football and swimming",
+   "text": [
+    "Ilie Năstase was the first world number one in men's tennis, and Simona Halep won the French Open and Wimbledon. Steaua Bucharest won the European Cup in 1986, and swimmer David Popovici won Olympic gold in 2024."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Perfect 10",
+   "meaning": "The highest possible score in gymnastics under the old system."
+  }
+ ]
+}

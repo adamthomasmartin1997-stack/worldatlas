@@ -1,0 +1,41 @@
+{
+ "status": "draft",
+ "intro": "Hungary is a parliamentary republic and a member of the EU and NATO, though its government has often clashed with the EU.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Parliament and government",
+   "text": [
+    "The National Assembly, a single chamber of 199 members, chooses the prime minister. The president, elected by parliament, is head of state. A new constitution, the Fundamental Law, came into force in 2012.",
+    "From 2010 Viktor Orbán's governments described Hungary as an 'illiberal democracy'; the EU froze some funds over concerns about the courts, media and corruption."
+   ],
+   "facts": [
+    {
+     "label": "National Assembly",
+     "value": "199 members"
+    },
+    {
+     "label": "Counties",
+     "value": "19 + Budapest"
+    },
+    {
+     "label": "Currency",
+     "value": "Forint"
+    }
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols",
+   "text": [
+    "The flag is red, white and green. National holidays mark the 1848 revolution (15 March), St Stephen's Day (20 August) and the 1956 revolution (23 October)."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Illiberal democracy",
+   "meaning": "A system with elections but weak checks on power and limited freedoms."
+  }
+ ]
+}

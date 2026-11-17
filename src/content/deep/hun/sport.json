@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Hungary has won more Olympic gold medals per person than almost any other country, especially in water polo, swimming and fencing.",
+ "chapters": [
+  {
+   "id": "water",
+   "title": "Water polo and swimming",
+   "text": [
+    "Hungary is the most successful water polo nation in Olympic history, with nine men's gold medals. Swimmers such as Krisztina Egerszegi, Katinka Hosszú and Kristóf Milák are Olympic champions."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "The Golden Team",
+   "text": [
+    "In the 1950s Hungary's 'Golden Team', led by Ferenc Puskás, beat England 6-3 at Wembley, the first time a team from outside Britain and Ireland had beaten England at home. The Hungarian Grand Prix, first held in 1986, was the first Formula One race behind the Iron Curtain."
+   ],
+   "related": [
+    "GBR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Water polo",
+   "meaning": "A team sport played in a swimming pool, scoring goals with a ball."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Hungary lies in the Carpathian Basin, a lowland ringed by mountains, and is famous for its great plain, the Danube and its many hot springs.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Plain and rivers",
+   "text": [
+    "The Great Hungarian Plain covers much of the country; its grasslands, the puszta, are known for horsemen and grey cattle. The Danube flows south through Budapest, dividing hilly Buda from flat Pest, and the Tisza crosses the east. Kékes, in the northern hills, is the highest point.",
+    "Hungary borders Austria, Slovakia, Ukraine, Romania, Serbia, Croatia and Slovenia."
+   ],
+   "related": [
+    "AUT",
+    "SVK",
+    "UKR",
+    "ROU",
+    "SRB",
+    "HRV",
+    "SVN"
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Lakes and hot springs",
+   "text": [
+    "Lake Balaton is the largest lake in Central Europe and Hungary's favourite summer holiday spot. Hungary has more than a thousand thermal springs; at Hévíz, people swim in a large natural warm lake all year round."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Puszta",
+   "meaning": "The grassy plains of Hungary."
+  },
+  {
+   "term": "Thermal spring",
+   "meaning": "A spring of naturally warm water from underground."
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "status": "draft",
+ "intro": "Most Romanians are Orthodox Christians who speak a Latin-based language, and millions of them now live and work in other European countries.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and languages",
+   "text": [
+    "Bucharest is the capital and largest city, followed by Cluj-Napoca, Timișoara and Iași. Romanian is the official language; there is a large Hungarian minority in Transylvania, and a Roma community.",
+    "Millions of Romanians have moved abroad to work, especially in Italy, Spain, Germany and the UK."
+   ],
+   "related": [
+    "HUN",
+    "ITA",
+    "ESP",
+    "DEU",
+    "GBR"
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Faith and traditions",
+   "text": [
+    "Most Romanians are Orthodox. In northern Moldavia, monasteries are covered inside and out with colourful painted scenes. On 1 March, people give each other mărțișor, a red and white token, to welcome spring."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mărțișor",
+   "meaning": "A red-and-white token given on 1 March to celebrate spring."
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "status": "draft",
+ "intro": "Hungarians speak one of Europe's most unusual languages and are proud of an outsized record in science and invention.",
+ "chapters": [
+  {
+   "id": "language",
+   "title": "A unique language",
+   "text": [
+    "Hungarian belongs to the Uralic family, distantly related to Finnish and Estonian, and is famously hard to learn. Hungarians put their family name first, as in Rubik Ernő. About two million ethnic Hungarians live in neighbouring countries.",
+    "Budapest is the capital and by far the largest city. Most Hungarians are Catholic or Protestant, and there is a large Roma minority."
+   ],
+   "related": [
+    "FIN",
+    "EST",
+    "ROU",
+    "SVK",
+    "SRB"
+   ]
+  },
+  {
+   "id": "inventors",
+   "title": "Inventors and scientists",
+   "text": [
+    "Hungarians invented the Rubik's Cube (1974) and helped develop holography and the ballpoint pen. Katalin Karikó shared the 2023 Nobel Prize in Medicine for work that made mRNA COVID-19 vaccines possible."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Uralic",
+   "meaning": "A language family including Hungarian, Finnish and Estonian."
+  }
+ ]
+}

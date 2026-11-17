@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Hungary's economy relies heavily on car-making, exports to Germany and a growing number of Asian battery and car factories.",
+ "chapters": [
+  {
+   "id": "industry",
+   "title": "Cars and batteries",
+   "text": [
+    "Audi, Mercedes-Benz and BMW build cars in Hungary, and Chinese companies are building electric car and battery factories. The pharmaceutical company Gedeon Richter is one of the largest in Central Europe."
+   ],
+   "related": [
+    "DEU",
+    "CHN"
+   ]
+  },
+  {
+   "id": "farms-tourism",
+   "title": "Paprika, wine and spas",
+   "text": [
+    "Hungary is famous for paprika and Tokaji, a sweet wine once called 'the wine of kings'. Budapest's thermal baths draw millions of tourists. Hungary uses its own currency, the forint."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Paprika",
+   "meaning": "A red spice made from dried peppers."
+  }
+ ]
+}

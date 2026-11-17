@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Romania's economy has grown fast since joining the EU, with car factories, farms and a strong IT industry.",
+ "chapters": [
+  {
+   "id": "industry",
+   "title": "Cars and code",
+   "text": [
+    "Dacia, owned by Renault, builds affordable cars in Romania, and Ford makes cars in Craiova. Romania has fast internet and a booming software sector; companies such as UiPath and Bitdefender started there."
+   ]
+  },
+  {
+   "id": "land",
+   "title": "Farms and energy",
+   "text": [
+    "Romania is one of the EU's biggest growers of wheat, maize and sunflowers, and it has oil and gas, with a large new gas field being developed under the Black Sea."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "IT sector",
+   "meaning": "Businesses that make software and digital services."
+  }
+ ]
+}
