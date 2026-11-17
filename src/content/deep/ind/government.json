@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "India is the world's largest democracy: a federal republic where hundreds of millions of people vote in elections that take weeks to complete.",
+ "chapters": [
+  {
+   "id": "constitution",
+   "title": "The constitution",
+   "text": [
+    "India's constitution, adopted in 1950, is the longest written national constitution in the world. It guarantees equality before the law, freedom of speech and religion, and bans discrimination by religion, caste, sex or place of birth.",
+    "The Supreme Court in New Delhi can strike down laws that break the constitution."
+   ]
+  },
+  {
+   "id": "parliament",
+   "title": "Parliament and prime minister",
+   "text": [
+    "The Lok Sabha, or House of the People, has 543 elected members, chosen by first past the post. The party or alliance with a majority there forms the government, and its leader becomes prime minister. Narendra Modi of the Bharatiya Janata Party (BJP) has been prime minister since 2014.",
+    "The Rajya Sabha, or Council of States, is mostly elected by state assemblies. The President is head of state, elected by members of parliament and state assemblies, and mostly acts on the government's advice."
+   ],
+   "facts": [
+    {
+     "label": "Elected seats in the Lok Sabha",
+     "value": "543"
+    },
+    {
+     "label": "States",
+     "value": "28, plus 8 union territories"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "title": "The biggest election on Earth",
+   "text": [
+    "In the 2024 general election, more than 640 million people voted, the largest number of voters in any election in history. Voting took place in seven stages over six weeks, using electronic voting machines.",
+    "The rules say no voter should have to travel more than 2 km to vote, so officials trek to remote mountains, islands and forests; for years a polling station was set up in Gujarat's Gir Forest for a single voter, a temple priest."
+   ]
+  },
+  {
+   "id": "states",
+   "title": "States and symbols",
+   "text": [
+    "India has 28 states and 8 union territories, each state with its own elected government that runs police, health and much of education. The capital is New Delhi.",
+    "The flag has bands of saffron, white and green, with a navy-blue wheel, the Ashoka Chakra, in the centre. The national anthem, Jana Gana Mana, was written by Rabindranath Tagore, who also wrote Bangladesh's anthem. Independence Day is 15 August and Republic Day 26 January."
+   ],
+   "related": [
+    "BGD"
+   ]
+  },
+  {
+   "id": "world",
+   "title": "India in the world",
+   "text": [
+    "India has nuclear weapons and one of the largest armies in the world. It was a founder of the Non-Aligned Movement, countries that refused to take sides in the Cold War, and is a member of the G20 and BRICS.",
+    "It has long-running border disputes with Pakistan, especially over Kashmir, and with China in the Himalayas."
+   ],
+   "related": [
+    "PAK",
+    "CHN",
+    "RUS",
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lok Sabha",
+   "meaning": "The lower, elected house of India's parliament."
+  },
+  {
+   "term": "Union territory",
+   "meaning": "An area run directly by India's central government."
+  },
+  {
+   "term": "Non-aligned",
+   "meaning": "Not allied with either side in the Cold War."
+  }
+ ]
+}

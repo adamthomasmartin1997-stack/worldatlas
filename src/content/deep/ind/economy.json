@@ -1,0 +1,48 @@
+{
+ "status": "draft",
+ "intro": "India is one of the world's largest and fastest-growing major economies. It is a giant in software, medicines and farming, but many of its people still earn very little.",
+ "chapters": [
+  {
+   "id": "growth",
+   "title": "From reform to boom",
+   "text": [
+    "For decades after independence the government controlled much of the economy. After a financial crisis in 1991, India opened up to foreign trade and investment, and growth sped up dramatically.",
+    "Today services, especially IT, drive the economy. Bengaluru is called India's Silicon Valley, and companies such as Tata Consultancy Services and Infosys run computer systems for businesses all over the world."
+   ]
+  },
+  {
+   "id": "farming",
+   "title": "Farming",
+   "text": [
+    "Farming employs close to half of India's workers, though it makes a much smaller share of the economy. India is the world's largest producer of milk, a leading grower of rice, wheat, sugar cane, cotton and tea, and the biggest exporter of rice.",
+    "Most farms are small, and farmers depend on the monsoon, so a bad rainy season can hurt millions of families."
+   ]
+  },
+  {
+   "id": "making",
+   "title": "Medicines, space and digital money",
+   "text": [
+    "India is called 'the pharmacy of the world' because it makes a large share of the world's cheap generic medicines and vaccines. Its space agency, ISRO, is known for low-cost missions: in 2014 it reached orbit around Mars on its first attempt.",
+    "India built a huge digital system: almost everyone has an Aadhaar ID number, and people pay for everything from vegetables to train tickets by scanning QR codes with the UPI system, which handles more real-time digital payments than any other in the world."
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "Wealth is unevenly shared, and many people work in informal jobs with low pay and no protection. Creating enough good jobs for the millions of young people who start looking for work each year is the biggest challenge.",
+    "Air pollution in northern cities such as Delhi is among the worst in the world, especially in winter. The currency is the Indian rupee."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Generic medicine",
+   "meaning": "A cheaper copy of a branded medicine, made after the original's patent runs out."
+  },
+  {
+   "term": "Informal work",
+   "meaning": "Jobs without a contract, pension or legal protection, such as street selling or day labour."
+  }
+ ]
+}

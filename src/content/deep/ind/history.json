@@ -1,0 +1,190 @@
+{
+ "status": "draft",
+ "intro": "India is the birthplace of one of the world's first civilisations, of four major religions and of the number zero. After great empires and two centuries of British rule, it won independence in 1947 and became the world's largest democracy.",
+ "chapters": [
+  {
+   "id": "indus",
+   "title": "The Indus Valley",
+   "text": [
+    "Around 2600 BC, cities grew up along the Indus River, in what is now Pakistan and north-west India. Harappa and Mohenjo-daro had straight streets laid out in grids, brick houses, public baths and covered drains, far ahead of most cities of the time.",
+    "The Indus people traded with Mesopotamia and used a script that nobody has yet been able to read. Their cities declined after about 1900 BC, possibly because rivers changed course and the climate dried."
+   ],
+   "highlight": {
+    "title": "A mystery",
+    "text": "Hundreds of Indus seals with short inscriptions have been found, but the script has never been deciphered, so we still don't know what the Indus people called themselves."
+   },
+   "related": [
+    "PAK"
+   ]
+  },
+  {
+   "id": "religions",
+   "title": "Religions and empires",
+   "text": [
+    "Over the next thousand years the Vedas, ancient hymns in Sanskrit, were composed, and the traditions that became Hinduism took shape. Around the 500s BC, Siddhartha Gautama, the Buddha, taught in northern India, founding Buddhism, and Mahavira taught Jainism.",
+    "The Maurya Empire united most of the subcontinent. Its emperor Ashoka was so horrified by the bloodshed of his conquest of Kalinga, around 260 BC, that he turned to Buddhism and non-violence and had his messages carved on pillars across his empire.",
+    "Under the Gupta Empire (about 320 to 550), scholars developed the decimal number system with zero, which travelled through the Arab world to Europe. The game that became chess was first played in India too."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "The numbers almost everyone uses today, 0 to 9, are often called 'Arabic numerals', but they were developed in India."
+   },
+   "related": [
+    "NPL",
+    "LKA"
+   ]
+  },
+  {
+   "id": "mughals",
+   "title": "Sultans and Mughals",
+   "text": [
+    "From 1206 Muslim sultans ruled northern India from Delhi. In 1526 Babur, a descendant of Genghis Khan, founded the Mughal Empire, which at its height ruled almost all of the subcontinent.",
+    "The emperor Akbar was known for welcoming different religions at his court. His grandson Shah Jahan built the Taj Mahal in Agra as a tomb for his wife Mumtaz Mahal. In Punjab, Guru Nanak founded the Sikh religion around 1500."
+   ],
+   "related": [
+    "AFG",
+    "UZB"
+   ]
+  },
+  {
+   "id": "british",
+   "title": "The British Raj",
+   "text": [
+    "European traders arrived after the Portuguese explorer Vasco da Gama reached India by sea in 1498. The British East India Company, a trading business with its own army, won the Battle of Plassey in 1757 and gradually took control of much of India.",
+    "After a major uprising in 1857, the British government ruled India directly; this period is called the Raj. The British built railways and universities, but drained wealth from India, and famines killed millions, the last of them in Bengal in 1943."
+   ],
+   "related": [
+    "GBR",
+    "PRT"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Freedom and partition",
+   "text": [
+    "The Indian National Congress, founded in 1885, led the campaign for self-rule. Mohandas Gandhi, called Mahatma ('great soul'), led huge non-violent protests, such as the Salt March of 1930, when he walked 385 km to the sea to make salt in defiance of a British tax.",
+    "India became independent on 15 August 1947, but British India was partitioned into India and Pakistan, a separate state for Muslims. Around 15 million people crossed the new borders, and hundreds of thousands were killed in violence between Hindus, Muslims and Sikhs. Gandhi was assassinated in January 1948.",
+    "India's constitution came into force on 26 January 1950, making it a republic. Its chief author was B. R. Ambedkar, who was born into a community treated as 'untouchable' and fought all his life against caste discrimination."
+   ],
+   "highlight": {
+    "title": "Non-violence",
+    "text": "Gandhi's methods of peaceful protest inspired civil rights leaders around the world, including Martin Luther King Jr in the United States and Nelson Mandela in South Africa."
+   },
+   "related": [
+    "PAK",
+    "BGD",
+    "USA",
+    "ZAF"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Modern India",
+   "text": [
+    "Jawaharlal Nehru, the first prime minister, set out to build a modern, democratic and non-religious state. India fought wars with Pakistan, including in 1971, when East Pakistan became Bangladesh, and with China in 1962. Indira Gandhi became the first woman prime minister in 1966.",
+    "In the 1960s the 'Green Revolution' brought new seeds and farming methods that ended India's dependence on food imports. Economic reforms in 1991 opened the economy and growth took off.",
+    "In 2023 India became the world's most populous country, and its Chandrayaan-3 mission became the first to land near the Moon's south pole."
+   ],
+   "related": [
+    "PAK",
+    "BGD",
+    "CHN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 2600 BC",
+   "title": "Indus cities",
+   "text": "Harappa and Mohenjo-daro flourish."
+  },
+  {
+   "year": "c. 500 BC",
+   "title": "The Buddha",
+   "text": "Siddhartha Gautama teaches in northern India."
+  },
+  {
+   "year": "c. 260 BC",
+   "title": "Ashoka",
+   "text": "The Mauryan emperor turns to Buddhism after the Kalinga war."
+  },
+  {
+   "year": "c. 320",
+   "title": "Gupta Empire",
+   "text": "A golden age of science and mathematics begins."
+  },
+  {
+   "year": "1206",
+   "title": "Delhi Sultanate",
+   "text": "Muslim sultans rule from Delhi."
+  },
+  {
+   "year": "1526",
+   "title": "Mughal Empire",
+   "text": "Babur wins the Battle of Panipat."
+  },
+  {
+   "year": "1632",
+   "title": "Taj Mahal",
+   "text": "Shah Jahan begins building the tomb."
+  },
+  {
+   "year": "1757",
+   "title": "Battle of Plassey",
+   "text": "The East India Company gains control of Bengal."
+  },
+  {
+   "year": "1858",
+   "title": "The Raj",
+   "text": "The British Crown rules India directly."
+  },
+  {
+   "year": "1930",
+   "title": "Salt March",
+   "text": "Gandhi leads a protest against the salt tax."
+  },
+  {
+   "year": "1947",
+   "title": "Independence and partition",
+   "text": "India and Pakistan become independent on 14 and 15 August."
+  },
+  {
+   "year": "1950",
+   "title": "Republic",
+   "text": "The constitution comes into force on 26 January."
+  },
+  {
+   "year": "1966",
+   "title": "Indira Gandhi",
+   "text": "India's first woman prime minister."
+  },
+  {
+   "year": "1991",
+   "title": "Economic reforms",
+   "text": "India opens its economy."
+  },
+  {
+   "year": "2023",
+   "title": "Moon landing",
+   "text": "Chandrayaan-3 lands near the lunar south pole."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Subcontinent",
+   "meaning": "A large part of a continent; in South Asia, the land of India, Pakistan, Bangladesh, Nepal, Bhutan and Sri Lanka."
+  },
+  {
+   "term": "Raj",
+   "meaning": "Hindi for 'rule'; the period of British rule over India from 1858 to 1947."
+  },
+  {
+   "term": "Partition",
+   "meaning": "The division of British India into India and Pakistan in 1947."
+  },
+  {
+   "term": "Caste",
+   "meaning": "An inherited social group; India's constitution bans discrimination by caste."
+  }
+ ]
+}

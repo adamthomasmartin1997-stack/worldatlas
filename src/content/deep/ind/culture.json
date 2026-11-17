@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "India's culture is ancient and endlessly varied: epic poems, classical dance, yoga, spicy regional food, colourful festivals and the world's busiest film industry.",
+ "chapters": [
+  {
+   "id": "festivals",
+   "title": "Festivals",
+   "text": [
+    "Diwali, the festival of lights, celebrates the victory of light over darkness with lamps, fireworks and sweets. Holi welcomes spring with crowds throwing coloured powder and water at each other. Eid, Christmas, Durga Puja, Pongal and many more are celebrated across the country.",
+    "The Kumbh Mela, a Hindu pilgrimage held at sacred rivers, is the largest gathering of people on Earth; tens of millions bathe in the waters on its busiest days."
+   ]
+  },
+  {
+   "id": "film-music",
+   "title": "Film and music",
+   "text": [
+    "India makes more films than any other country. Mumbai's Hindi film industry, Bollywood, is famous for songs and dances, and films in Tamil, Telugu, Malayalam and other languages are just as popular. The song Naatu Naatu from the Telugu film RRR won an Oscar in 2023.",
+    "Indian classical music is built on ragas, patterns of notes for different moods and times of day; the sitar player Ravi Shankar made it famous worldwide. Classical dances such as Bharatanatyam and Kathak tell stories through precise movements of the hands, eyes and feet."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Indian food varies hugely by region: wheat breads like roti and naan in the north, rice, dosas and coconut in the south, fish in Bengal and Kerala. Spices such as turmeric, cumin, cardamom and chilli are at the heart of it.",
+    "Many Indians are vegetarian, for religious reasons, and India has more vegetarians than any other country. Chai, sweet milky tea with spices, is drunk everywhere."
+   ]
+  },
+  {
+   "id": "ideas",
+   "title": "Stories and ideas",
+   "text": [
+    "The Ramayana and the Mahabharata, two ancient epic poems, are still told in books, TV series and comics. The Mahabharata is one of the longest poems ever written.",
+    "Yoga began in India thousands of years ago and is now practised worldwide; 21 June is International Day of Yoga. In 1913 Rabindranath Tagore became the first person from outside Europe to win the Nobel Prize in Literature.",
+    "The Taj Mahal, built of white marble, is one of the most famous buildings in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Raga",
+   "meaning": "A pattern of notes that forms the basis of a piece of Indian classical music."
+  },
+  {
+   "term": "Epic",
+   "meaning": "A very long poem telling the story of heroes and gods."
+  },
+  {
+   "term": "Bollywood",
+   "meaning": "The Hindi-language film industry based in Mumbai (once called Bombay)."
+  }
+ ]
+}

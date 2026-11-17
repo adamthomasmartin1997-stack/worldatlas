@@ -1,0 +1,57 @@
+{
+ "status": "draft",
+ "intro": "Cricket is close to a religion in India, but the country also has a proud record in hockey, chess, badminton, wrestling and shooting, and its own traditional sport, kabaddi.",
+ "chapters": [
+  {
+   "id": "cricket",
+   "title": "Cricket",
+   "text": [
+    "Cricket arrived with the British and became India's great passion. India won the World Cup in 1983 and 2011, and the T20 World Cup in 2007 and 2024. The Indian Premier League, started in 2008, is one of the richest sports leagues in the world.",
+    "Sachin Tendulkar, the 'Little Master', scored 100 international centuries, a record, and Virat Kohli and Rohit Sharma are among the modern greats. In 2025 India's women won the Cricket World Cup for the first time."
+   ],
+   "related": [
+    "PAK",
+    "AUS",
+    "GBR",
+    "ZAF"
+   ]
+  },
+  {
+   "id": "hockey",
+   "title": "Hockey and Olympic heroes",
+   "text": [
+    "India's men's field hockey team has won eight Olympic gold medals, more than any other country, including six in a row from 1928 to 1956.",
+    "In 2008 the shooter Abhinav Bindra won India's first individual Olympic gold, and in 2021 Neeraj Chopra won gold in the javelin, India's first Olympic athletics gold. Badminton star P. V. Sindhu has won two Olympic medals."
+   ]
+  },
+  {
+   "id": "chess",
+   "title": "Chess and kabaddi",
+   "text": [
+    "Chess grew from an Indian game called chaturanga. Viswanathan Anand was world champion five times, and in 2024 D. Gukesh became the youngest undisputed world champion ever, aged 18.",
+    "Kabaddi is a fast contact sport in which a 'raider' runs into the other team's half while chanting 'kabaddi, kabaddi' without taking a breath, tagging opponents and racing back. A professional league has made it hugely popular on TV."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Football is especially popular in West Bengal, Kerala, Goa and the north-east. Kolkata's Mohun Bagan and East Bengal have one of Asia's oldest rivalries, and the Indian Super League began in 2014."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Century",
+   "meaning": "In cricket, 100 runs scored by one batter in a single innings."
+  },
+  {
+   "term": "T20",
+   "meaning": "A short form of cricket where each team bats for 20 overs, lasting about three hours."
+  },
+  {
+   "term": "Kabaddi",
+   "meaning": "A team contact sport from South Asia, played without any equipment."
+  }
+ ]
+}

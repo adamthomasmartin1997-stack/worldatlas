@@ -1,0 +1,61 @@
+{
+ "status": "draft",
+ "intro": "India fills most of the South Asian subcontinent, walled off from the rest of Asia by the Himalayas. Its land runs from snowy peaks through huge river plains and desert to tropical coasts, all shaped by the summer monsoon.",
+ "chapters": [
+  {
+   "id": "shape",
+   "title": "A subcontinent",
+   "text": [
+    "India shares land borders with Pakistan, China, Nepal, Bhutan, Bangladesh and Myanmar, and Sri Lanka lies just across a narrow strait. Its long coastline faces the Arabian Sea to the west and the Bay of Bengal to the east, meeting at the southern tip, Kanyakumari.",
+    "Millions of years ago the land that is now India was an island that drifted north and crashed into Asia. That collision pushed up the Himalayas, and it is still going on: the mountains are still rising."
+   ],
+   "related": [
+    "PAK",
+    "CHN",
+    "NPL",
+    "BTN",
+    "BGD",
+    "MMR",
+    "LKA"
+   ]
+  },
+  {
+   "id": "regions",
+   "title": "Mountains, plains and plateau",
+   "text": [
+    "The Himalayas run along the north, with Kangchenjunga, the highest point in India, on the border with Nepal. South of them, the Ganges and Brahmaputra rivers have built one of the largest and most fertile plains on Earth, home to hundreds of millions of people.",
+    "In the west is the Thar Desert. Most of the south is the Deccan Plateau, edged by two ranges of hills, the Western and Eastern Ghats. The Western Ghats' rainforests are one of the richest places for wildlife in the world."
+   ]
+  },
+  {
+   "id": "monsoon",
+   "title": "The monsoon",
+   "text": [
+    "Most of India's rain falls in a few months, from about June to September, when the south-west monsoon blows in from the ocean. Farmers depend on it: a weak monsoon can mean drought and poor harvests, while a strong one can bring floods.",
+    "Villages in the hills of Meghalaya in the north-east, such as Mawsynram, are among the wettest places on Earth. Before the monsoon, northern plains can bake in temperatures of more than 45°C."
+   ]
+  },
+  {
+   "id": "wildlife",
+   "title": "Tigers and more",
+   "text": [
+    "India is home to about three-quarters of the world's wild tigers, protected in dozens of tiger reserves. The Gir Forest in Gujarat is the last home of the Asiatic lion, and Kaziranga in Assam protects most of the world's greater one-horned rhinos.",
+    "Asian elephants, leopards, snow leopards and many kinds of monkeys live in India too. The peacock is the national bird."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Monsoon",
+   "meaning": "A seasonal wind; in India, the summer winds that bring most of the year's rain."
+  },
+  {
+   "term": "Plateau",
+   "meaning": "A large area of high, fairly flat land."
+  },
+  {
+   "term": "Ghats",
+   "meaning": "The ranges of hills along India's west and east coasts; also steps leading down to a river."
+  }
+ ]
+}

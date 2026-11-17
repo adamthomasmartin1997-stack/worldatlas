@@ -1,0 +1,66 @@
+{
+ "status": "draft",
+ "intro": "India has more people than any other country, and they are young: about half are under 30. Hundreds of languages, many religions and thousands of communities make it one of the most diverse countries on Earth.",
+ "chapters": [
+  {
+   "id": "where",
+   "title": "Cities and villages",
+   "text": [
+    "India has some of the world's biggest cities, including Delhi, Mumbai, Kolkata, Bengaluru, Chennai and Hyderabad. Even so, about two-thirds of Indians still live in villages and small towns.",
+    "Mumbai is the country's financial capital and the home of Bollywood. Delhi, the capital region, is one of the largest urban areas in the world."
+   ]
+  },
+  {
+   "id": "languages",
+   "title": "Languages",
+   "text": [
+    "There is no single national language. The central government works in Hindi and English, and the constitution lists 22 official languages, from Bengali and Telugu to Tamil, Urdu and Marathi; hundreds more are spoken. Banknotes carry their value written in 17 languages.",
+    "After independence, many states were redrawn so that each was based on a main language. Many Indians speak two, three or more languages, and English is widely used in business, universities and courts."
+   ]
+  },
+  {
+   "id": "religion",
+   "title": "Religions",
+   "text": [
+    "About four in five Indians are Hindu, and India has one of the largest Muslim populations in the world. There are also many Christians, Sikhs, Buddhists and Jains.",
+    "India is the birthplace of four of the world's religions: Hinduism, Buddhism, Jainism and Sikhism. Its constitution describes it as a secular state that treats all religions equally, though tensions between religious communities, especially Hindus and Muslims, remain a big issue."
+   ]
+  },
+  {
+   "id": "caste",
+   "title": "Caste and change",
+   "text": [
+    "For centuries Indian society was divided into castes, inherited groups linked to traditional jobs. Those at the bottom, once called 'untouchables' and now known as Dalits, faced terrible discrimination.",
+    "The constitution banned untouchability and set aside places in universities, government jobs and parliament for disadvantaged castes and tribal communities. Caste still affects marriage, politics and jobs, especially in villages, but it matters less in big cities."
+   ]
+  },
+  {
+   "id": "school",
+   "title": "Growing up in India",
+   "text": [
+    "Education is free and compulsory from 6 to 14. Students take big 'board exams' at the end of Class 10 and Class 12, and millions compete in entrance exams such as the JEE, for engineering, and NEET, for medicine.",
+    "More Indians live abroad than people from any other country, from doctors and engineers in the US and UK to workers in the Gulf states."
+   ],
+   "related": [
+    "USA",
+    "GBR",
+    "ARE",
+    "SAU"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Secular",
+   "meaning": "Not connected with any religion; a secular state doesn't favour one faith."
+  },
+  {
+   "term": "Dalit",
+   "meaning": "The name used by communities once treated as 'untouchable' under the caste system."
+  },
+  {
+   "term": "Diaspora",
+   "meaning": "People who live outside the country their family comes from."
+  }
+ ]
+}
