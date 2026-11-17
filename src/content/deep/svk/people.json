@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Slovakia is a small country with strong folk traditions, a large Hungarian minority and a mostly Catholic population.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Bratislava and Košice are the largest cities. Slovak, closely related to Czech, is the official language. Hungarians make up a large minority in the south, and Slovakia has a sizeable Roma population, many of whom face poverty and discrimination.",
+    "Folk music and dress remain alive; the fujara, a long shepherd's flute, is on UNESCO's heritage list."
+   ],
+   "related": [
+    "HUN",
+    "CZE"
+   ]
+  },
+  {
+   "id": "faith",
+   "title": "Faith",
+   "text": [
+    "Most Slovaks are Roman Catholic, and religious holidays such as Christmas and Easter are important family occasions."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Roma",
+   "meaning": "A people with origins in India who have lived across Europe for centuries."
+  }
+ ]
+}

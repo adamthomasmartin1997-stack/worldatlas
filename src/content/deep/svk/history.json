@@ -1,0 +1,90 @@
+{
+ "status": "draft",
+ "intro": "For about a thousand years Slovakia was part of the Kingdom of Hungary. It joined the Czechs in Czechoslovakia in 1918 and became an independent country in 1993.",
+ "chapters": [
+  {
+   "id": "hungary",
+   "title": "Under the Hungarian crown",
+   "text": [
+    "Slavic peoples were part of Great Moravia in the 800s. After its fall the land became part of the Kingdom of Hungary for about a thousand years. When the Ottomans occupied central Hungary, Bratislava (then called Pressburg or Pozsony) became the kingdom's capital, and Hungarian kings were crowned there from 1563 to 1830.",
+    "In the 1840s Ľudovít Štúr created the standard Slovak language, helping build a Slovak national identity."
+   ],
+   "related": [
+    "HUN",
+    "AUT"
+   ]
+  },
+  {
+   "id": "czechoslovakia",
+   "title": "Czechoslovakia",
+   "text": [
+    "In 1918 Slovakia joined the Czech lands to form Czechoslovakia. During the Second World War a Slovak state allied with Nazi Germany deported most of Slovakia's Jews, but in 1944 the Slovak National Uprising rose against the Nazis.",
+    "After the war Czechoslovakia became communist, until the Velvet Revolution of 1989."
+   ],
+   "related": [
+    "CZE",
+    "DEU"
+   ]
+  },
+  {
+   "id": "independent",
+   "title": "Independent Slovakia",
+   "text": [
+    "Slovakia became independent on 1 January 1993, joined NATO and the EU in 2004 and adopted the euro in 2009. In 2018 the murder of investigative journalist Ján Kuciak and his fiancée led to the largest protests since 1989, and in 2024 Prime Minister Robert Fico survived an assassination attempt."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 830",
+   "title": "Great Moravia",
+   "text": "A Slavic state rises."
+  },
+  {
+   "year": "1563",
+   "title": "Coronation city",
+   "text": "Hungarian kings are crowned in Bratislava."
+  },
+  {
+   "year": "1843",
+   "title": "Standard Slovak",
+   "text": "Ľudovít Štúr codifies the language."
+  },
+  {
+   "year": "1918",
+   "title": "Czechoslovakia",
+   "text": "The joint state is founded."
+  },
+  {
+   "year": "1944",
+   "title": "Slovak National Uprising",
+   "text": "An uprising against the Nazis."
+  },
+  {
+   "year": "1989",
+   "title": "Velvet Revolution",
+   "text": "Communism ends."
+  },
+  {
+   "year": "1993",
+   "title": "Independence",
+   "text": "Slovakia becomes a separate country."
+  },
+  {
+   "year": "2004",
+   "title": "NATO and EU",
+   "text": "Slovakia joins both."
+  },
+  {
+   "year": "2009",
+   "title": "Euro",
+   "text": "Slovakia adopts the euro."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Coronation",
+   "meaning": "The ceremony of crowning a king or queen."
+  }
+ ]
+}

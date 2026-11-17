@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Slovakia makes more cars per person than any other country in the world.",
+ "chapters": [
+  {
+   "id": "cars",
+   "title": "Car country",
+   "text": [
+    "Volkswagen, Kia, Stellantis and Jaguar Land Rover all have large factories in Slovakia, which together build about a million cars a year for a country of under six million people."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Beyond cars",
+   "text": [
+    "Slovakia also makes electronics and steel, and the antivirus company ESET was founded in Bratislava. The capital region is one of the richest in Central Europe, while the east is poorer."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Per person",
+   "meaning": "Divided by the number of people, to compare countries of different sizes."
+  }
+ ]
+}

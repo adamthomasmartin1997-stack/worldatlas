@@ -1,0 +1,27 @@
+{
+ "status": "draft",
+ "intro": "Czechs are known for their love of beer, hiking, puppets and dark humour, and Czechia is one of the least religious countries in the world.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and language",
+   "text": [
+    "Prague is the capital and largest city, followed by Brno and Ostrava. Czech is a West Slavic language famous for the sound written ř, found in almost no other language.",
+    "Most Czechs say they have no religion. Many families own a small country cottage where they spend weekends, and hiking is a national hobby, with tens of thousands of kilometres of marked trails."
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Czechs drink more beer per person than any other nation. At Christmas many families keep a live carp in the bathtub before cooking it for Christmas Eve dinner."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Slavic",
+   "meaning": "A family of languages including Czech, Polish and Russian."
+  }
+ ]
+}

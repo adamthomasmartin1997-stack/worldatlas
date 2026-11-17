@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Czechs love ice hockey, football and tennis, and have produced some remarkable champions.",
+ "chapters": [
+  {
+   "id": "hockey",
+   "title": "Ice hockey",
+   "text": [
+    "Czechia's ice hockey team won Olympic gold in 1998, beating the stars of the NHL, and became world champion at home in Prague in 2024. Jaromír Jágr is one of the NHL's all-time great scorers."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Running, tennis and football",
+   "text": [
+    "Emil Zátopek won the 5,000 m, 10,000 m and marathon at the 1952 Olympics, a feat never repeated. Prague-born Martina Navratilova won Wimbledon nine times. Czechoslovakia won football's European Championship in 1976 with a famous chipped penalty by Antonín Panenka."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Panenka",
+   "meaning": "A penalty kick chipped gently down the middle, named after Antonín Panenka."
+  }
+ ]
+}

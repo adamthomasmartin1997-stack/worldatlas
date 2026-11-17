@@ -1,0 +1,34 @@
+{
+ "status": "draft",
+ "intro": "Slovakia is a mountainous, landlocked country in the Carpathians, with the dramatic High Tatras and some of Europe's most spectacular caves.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Tatras and the Danube",
+   "text": [
+    "The High Tatras, the highest part of the Carpathians, hold Slovakia's highest peak, Gerlachovský štít. In the south-west the Danube flows past Bratislava, the only capital that borders two other countries, Austria and Hungary. Bratislava and Vienna are only about 55 km apart.",
+    "Slovakia borders Czechia, Poland, Ukraine, Hungary and Austria."
+   ],
+   "related": [
+    "CZE",
+    "POL",
+    "UKR",
+    "HUN",
+    "AUT"
+   ]
+  },
+  {
+   "id": "caves",
+   "title": "Caves and castles",
+   "text": [
+    "Slovakia has thousands of caves, including ice caves and the Ochtinská aragonite cave, one of only a few like it in the world. Its countryside is scattered with castle ruins, such as the huge Spiš Castle."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Aragonite",
+   "meaning": "A mineral that can form delicate, branching crystals in caves."
+  }
+ ]
+}

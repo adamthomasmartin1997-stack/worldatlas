@@ -1,0 +1,41 @@
+{
+ "status": "draft",
+ "intro": "Czechia is a parliamentary republic and a member of the EU and NATO.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "President and parliament",
+   "text": [
+    "Since 2013 the president has been elected directly; Petr Pavel took office in 2023. The government, led by the prime minister, needs the support of the Chamber of Deputies, which has 200 members; there is also a Senate.",
+    "Czechia is divided into 14 regions and uses its own currency, the koruna, rather than the euro. National holidays include 28 October, Independence Day, and 17 November, remembering the Velvet Revolution."
+   ],
+   "facts": [
+    {
+     "label": "Regions",
+     "value": "14"
+    },
+    {
+     "label": "Chamber of Deputies",
+     "value": "200 members"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Czechia in the world",
+   "text": [
+    "Czechia joined NATO in 1999 and the European Union in 2004, and it took over the EU's rotating presidency in 2009 and 2022."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Koruna",
+   "meaning": "The Czech currency, meaning 'crown'."
+  }
+ ]
+}

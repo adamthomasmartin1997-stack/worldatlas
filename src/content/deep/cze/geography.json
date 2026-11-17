@@ -1,0 +1,33 @@
+{
+ "status": "draft",
+ "intro": "Czechia is a landlocked country in the heart of Europe, made up of Bohemia and Moravia, ringed by low mountains and dotted with castles.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Bohemia and Moravia",
+   "text": [
+    "Bohemia, in the west, is a basin rimmed by mountains; the Krkonoše range on the Polish border holds the highest peak, Sněžka. The Vltava flows through Prague to join the Elbe. Moravia, in the east, has rolling hills and vineyards. Czechia borders Germany, Poland, Slovakia and Austria.",
+    "With around 2,000 castles and châteaux, Czechia has one of the highest densities of castles in the world."
+   ],
+   "related": [
+    "DEU",
+    "POL",
+    "SVK",
+    "AUT"
+   ]
+  },
+  {
+   "id": "nature",
+   "title": "Rock towns",
+   "text": [
+    "In places such as Bohemian Switzerland and Bohemian Paradise, wind and water have carved sandstone into towers, arches and 'rock towns'."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Basin",
+   "meaning": "A large, bowl-shaped area of land surrounded by higher ground."
+  }
+ ]
+}

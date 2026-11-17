@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Prague's spires, Kafka's stories, Dvořák's music and the word 'robot' all come from the Czech lands.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Writers and composers",
+   "text": [
+    "Franz Kafka wrote his strange, unsettling stories in Prague, and the Czech writer Karel Čapek introduced the word 'robot' in a 1920 play. Antonín Dvořák wrote the New World Symphony, and Alfons Mucha's posters defined Art Nouveau."
+   ]
+  },
+  {
+   "id": "prague",
+   "title": "Prague and puppets",
+   "text": [
+    "Prague's astronomical clock, installed in 1410, is the oldest astronomical clock still working. Puppet theatre is a beloved Czech tradition, and the cartoon Little Mole (Krtek) has charmed children worldwide."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Art Nouveau",
+   "meaning": "A decorative style of the 1890s to 1910s with flowing lines and natural shapes."
+  }
+ ]
+}

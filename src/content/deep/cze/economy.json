@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Czechia is one of the most industrial economies in Europe, building cars, machinery and glass, and brewing world-famous beer.",
+ "chapters": [
+  {
+   "id": "industry",
+   "title": "Cars and glass",
+   "text": [
+    "Škoda, now part of Volkswagen, is one of Europe's best-selling car brands, and Czechia makes more cars per person than almost any other country. Bohemian crystal glass has been prized for centuries."
+   ],
+   "related": [
+    "DEU"
+   ]
+  },
+  {
+   "id": "beer",
+   "title": "Beer and tech",
+   "text": [
+    "In 1842 brewers in Plzeň created the first pale lager, Pilsner, a style now brewed around the world. Czech software companies such as Avast and game studios have also become successful."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lager",
+   "meaning": "A type of beer brewed at cool temperatures."
+  }
+ ]
+}

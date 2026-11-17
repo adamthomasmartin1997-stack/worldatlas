@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Slovakia loves ice hockey and has produced champions in cycling and canoe slalom.",
+ "chapters": [
+  {
+   "id": "hockey",
+   "title": "Ice hockey and football",
+   "text": [
+    "Slovakia won the ice hockey world championship in 2002. Its football team reached the last 16 at the 2010 World Cup after beating the reigning champions, Italy."
+   ],
+   "related": [
+    "ITA"
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Cycling and canoeing",
+   "text": [
+    "Peter Sagan won three road cycling world championships in a row from 2015 to 2017 and a record seven green jerseys at the Tour de France. Slovak paddlers are among the best in canoe slalom, winning several Olympic golds."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Canoe slalom",
+   "meaning": "Racing a canoe or kayak through gates on a white-water course."
+  }
+ ]
+}

@@ -1,0 +1,110 @@
+{
+ "status": "draft",
+ "intro": "The Czech lands of Bohemia and Moravia were home to a powerful medieval kingdom, then part of the Habsburg Empire. Czechoslovakia was born in 1918, lived through Nazi occupation and communism, and split peacefully in 1993.",
+ "chapters": [
+  {
+   "id": "kingdom",
+   "title": "The Kingdom of Bohemia",
+   "text": [
+    "In the 800s the missionaries Cyril and Methodius brought Christianity and a Slavic alphabet to Great Moravia. Bohemia later became a kingdom, and under Charles IV, who was also Holy Roman Emperor in the 1300s, Prague became one of the great cities of Europe. He founded Charles University in 1348 and began the Charles Bridge.",
+    "In 1415 the church reformer Jan Hus was burned at the stake, sparking the Hussite wars. In 1618 Protestant nobles threw royal officials out of a window in Prague Castle, an event that helped start the Thirty Years' War."
+   ]
+  },
+  {
+   "id": "czechoslovakia",
+   "title": "Czechoslovakia",
+   "text": [
+    "After centuries of Habsburg rule, Czechoslovakia was created on 28 October 1918 under President Tomáš Masaryk. In 1938 Britain and France agreed at Munich to let Hitler take its border regions, and in 1939 Germany occupied the rest.",
+    "Communists seized power in 1948. In 1968 the 'Prague Spring' reforms promised 'socialism with a human face', until Soviet-led tanks crushed them."
+   ],
+   "related": [
+    "SVK",
+    "DEU",
+    "GBR",
+    "FRA",
+    "RUS"
+   ]
+  },
+  {
+   "id": "velvet",
+   "title": "Velvet Revolution and divorce",
+   "text": [
+    "In November 1989 peaceful mass protests, the Velvet Revolution, ended communist rule, and the playwright Václav Havel became president. On 1 January 1993 Czechia and Slovakia separated peacefully in the 'Velvet Divorce'. Czechia joined NATO in 1999 and the EU in 2004."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Czechoslovakia is a rare example of a country splitting in two without any violence."
+   },
+   "related": [
+    "SVK"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "863",
+   "title": "Cyril and Methodius",
+   "text": "Missionaries arrive in Great Moravia."
+  },
+  {
+   "year": "1348",
+   "title": "Charles University",
+   "text": "The oldest university in Central Europe."
+  },
+  {
+   "year": "1415",
+   "title": "Jan Hus burned",
+   "text": "The Hussite movement begins."
+  },
+  {
+   "year": "1618",
+   "title": "Defenestration of Prague",
+   "text": "A trigger of the Thirty Years' War."
+  },
+  {
+   "year": "1918",
+   "title": "Czechoslovakia",
+   "text": "Independence on 28 October."
+  },
+  {
+   "year": "1938",
+   "title": "Munich Agreement",
+   "text": "Border regions are handed to Germany."
+  },
+  {
+   "year": "1948",
+   "title": "Communist coup",
+   "text": "The communists take power."
+  },
+  {
+   "year": "1968",
+   "title": "Prague Spring",
+   "text": "Reforms are crushed by Soviet-led tanks."
+  },
+  {
+   "year": "1989",
+   "title": "Velvet Revolution",
+   "text": "Communism ends peacefully."
+  },
+  {
+   "year": "1993",
+   "title": "Velvet Divorce",
+   "text": "Czechia and Slovakia separate."
+  },
+  {
+   "year": "2004",
+   "title": "Joins the EU",
+   "text": "Czechia becomes an EU member."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Defenestration",
+   "meaning": "Throwing someone out of a window."
+  },
+  {
+   "term": "Velvet Revolution",
+   "meaning": "The peaceful protests that ended communist rule in 1989."
+  }
+ ]
+}

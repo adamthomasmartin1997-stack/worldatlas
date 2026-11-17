@@ -1,0 +1,27 @@
+{
+ "status": "draft",
+ "intro": "Slovak culture is rooted in mountain villages, wooden churches and folk songs.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Folk traditions",
+   "text": [
+    "Wooden churches in the Carpathians and the log village of Vlkolínec are World Heritage Sites. Juraj Jánošík, an 18th-century outlaw said to steal from the rich and give to the poor, is a folk hero.",
+    "The national dish is bryndzové halušky, small potato dumplings with sheep's cheese and bacon. Andy Warhol's parents came from a Slovak village, and there is a museum of his work in north-eastern Slovakia."
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music and dance",
+   "text": [
+    "Folk festivals bring together musicians and dancers in colourful costumes every summer, and the fujara's deep sound is a symbol of Slovak shepherd life."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bryndza",
+   "meaning": "A soft, salty sheep's cheese."
+  }
+ ]
+}

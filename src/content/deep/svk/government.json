@@ -1,0 +1,45 @@
+{
+ "status": "draft",
+ "intro": "Slovakia is a parliamentary republic and a member of the EU, NATO and the eurozone.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "President and parliament",
+   "text": [
+    "The president is elected directly for five years. The National Council, a single chamber of 150 members, chooses the government led by the prime minister. Slovakia has eight regions.",
+    "The flag is white, blue and red with a coat of arms showing a double cross on three hills."
+   ],
+   "facts": [
+    {
+     "label": "National Council",
+     "value": "150 members"
+    },
+    {
+     "label": "Regions",
+     "value": "8"
+    },
+    {
+     "label": "Currency",
+     "value": "Euro"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Slovakia in the world",
+   "text": [
+    "Slovakia joined NATO and the EU in 2004 and the eurozone in 2009. Its politics are often divided over relations with Russia, Ukraine and the EU."
+   ],
+   "related": [
+    "UKR",
+    "RUS"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Eurozone",
+   "meaning": "The group of EU countries that use the euro."
+  }
+ ]
+}
