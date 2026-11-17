@@ -1,0 +1,44 @@
+{
+ "status": "draft",
+ "intro": "South Korea went from one of the poorest countries on Earth in the 1950s to one of the richest in two generations. It is a world leader in computer chips, phones, ships, cars and batteries.",
+ "chapters": [
+  {
+   "id": "miracle",
+   "title": "The Miracle on the Han River",
+   "text": [
+    "After the Korean War, South Korea had few resources and little industry. From the 1960s the government steered money into export industries such as textiles, then steel, ships, cars and electronics. Growth was so fast it was called the 'Miracle on the Han River'.",
+    "In the 1997 Asian financial crisis, millions of people donated their gold jewellery to help the country pay its debts."
+   ]
+  },
+  {
+   "id": "chaebol",
+   "title": "Giant companies",
+   "text": [
+    "The economy is dominated by huge family-run business groups called chaebol. Samsung is the world's biggest maker of memory chips and one of the largest phone makers; Hyundai and Kia build cars; SK and LG make chips, batteries and electronics.",
+    "South Korean shipyards are among the largest in the world, and the country has more industrial robots per worker than anywhere else."
+   ]
+  },
+  {
+   "id": "today",
+   "title": "Today",
+   "text": [
+    "South Korea has some of the world's fastest internet, and its films, music, games, food and beauty products are exported worldwide. Its challenges include an ageing workforce, very high house prices in Seoul and the power of the chaebol. The currency is the won."
+   ],
+   "related": [
+    "CHN",
+    "USA",
+    "VNM"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Chaebol",
+   "meaning": "A large, family-controlled South Korean business group."
+  },
+  {
+   "term": "Semiconductor",
+   "meaning": "A material used to make computer chips."
+  }
+ ]
+}

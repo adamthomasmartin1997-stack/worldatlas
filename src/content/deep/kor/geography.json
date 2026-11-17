@@ -1,0 +1,45 @@
+{
+ "status": "draft",
+ "intro": "South Korea covers the southern half of the Korean Peninsula. It is mostly mountainous, surrounded on three sides by sea, and has thousands of islands, the largest of which, Jeju, is a volcano.",
+ "chapters": [
+  {
+   "id": "peninsula",
+   "title": "Half a peninsula",
+   "text": [
+    "South Korea's only land border is with North Korea, across the Demilitarised Zone. The rest of the country is surrounded by the Yellow Sea to the west, the Korea Strait to the south and the East Sea (Sea of Japan) to the east.",
+    "Because almost nobody has entered the DMZ for 70 years, it has become an accidental nature reserve for cranes, bears and other rare wildlife."
+   ],
+   "related": [
+    "PRK",
+    "JPN",
+    "CHN"
+   ]
+  },
+  {
+   "id": "land",
+   "title": "Mountains and islands",
+   "text": [
+    "About 70% of South Korea is mountains and hills, so cities and farms are squeezed into valleys and along the coasts. The Han River flows through Seoul.",
+    "There are more than 3,000 islands, especially off the south and west coasts. Jeju, a volcanic island, has South Korea's highest peak, Hallasan, and lava tubes and craters listed as a World Heritage Site. The west coast has huge tidal mudflats, home to migrating birds."
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Four strong seasons",
+   "text": [
+    "Winters are cold and dry, with icy winds from Siberia, while summers are hot and humid, with a rainy season, called jangma, from late June to July. Typhoons can strike in late summer.",
+    "Spring brings cherry blossoms, and autumn turns the mountains red and gold, when hiking is a hugely popular hobby."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Peninsula",
+   "meaning": "Land surrounded by water on three sides."
+  },
+  {
+   "term": "Tidal flat",
+   "meaning": "Muddy coast uncovered at low tide and covered at high tide."
+  }
+ ]
+}

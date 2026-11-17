@@ -1,0 +1,47 @@
+{
+ "status": "draft",
+ "intro": "South Korea gave the world taekwondo, dominates Olympic archery and short-track skating, and is a powerhouse in esports.",
+ "chapters": [
+  {
+   "id": "taekwondo-archery",
+   "title": "Taekwondo and archery",
+   "text": [
+    "Taekwondo, a martial art known for its high, fast kicks, developed in Korea and became an Olympic sport in 2000. Millions of children around the world learn it.",
+    "South Korea's women's archery team has won Olympic gold in every team event since it began in 1988, ten in a row up to Paris 2024. Short-track speed skating is another sport where Korea regularly wins gold."
+   ]
+  },
+  {
+   "id": "football-baseball",
+   "title": "Football and baseball",
+   "text": [
+    "South Korea co-hosted the 2002 World Cup with Japan and reached the semi-finals. Son Heung-min became one of the Premier League's best forwards and captained Tottenham to the Europa League title in 2025.",
+    "Baseball is the most popular team sport, with lively crowds, cheerleaders and team songs."
+   ],
+   "related": [
+    "JPN",
+    "GBR"
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Olympics, golf and esports",
+   "text": [
+    "Seoul hosted the 1988 Summer Olympics and Pyeongchang the 2018 Winter Olympics, where North and South Korea marched together and fielded a joint women's ice hockey team. Kim Yuna won Olympic figure skating gold in 2010.",
+    "South Korean women are among the best golfers in the world. Esports are watched like traditional sports, and Faker is one of the most famous League of Legends players ever."
+   ],
+   "related": [
+    "PRK"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Taekwondo",
+   "meaning": "A Korean martial art focused on kicks, now an Olympic sport."
+  },
+  {
+   "term": "Esports",
+   "meaning": "Competitive video gaming, often watched by large audiences."
+  }
+ ]
+}

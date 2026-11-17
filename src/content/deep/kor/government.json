@@ -1,0 +1,57 @@
+{
+ "status": "draft",
+ "intro": "South Korea is a presidential democracy. Since winning free elections in 1987, its people have twice seen presidents removed from office through the courts after mass protests.",
+ "chapters": [
+  {
+   "id": "president",
+   "title": "President and Assembly",
+   "text": [
+    "The president is elected directly for a single five-year term and leads the government and armed forces. Lee Jae-myung was elected in June 2025.",
+    "The National Assembly has 300 members in a single chamber. It can impeach the president, and the Constitutional Court then decides whether the president must leave office, as happened in 2017 and 2025."
+   ],
+   "facts": [
+    {
+     "label": "President's term",
+     "value": "5 years, once only"
+    },
+    {
+     "label": "National Assembly",
+     "value": "300 members"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "north",
+   "title": "The North",
+   "text": [
+    "The two Koreas are technically still at war, as the 1953 armistice was never replaced by a peace treaty. North Korea has nuclear weapons and often tests missiles.",
+    "South Korean leaders have alternated between engagement, such as summits with the North in 2000 and 2018, and tougher approaches. Tens of thousands of US troops are based in South Korea under a defence treaty."
+   ],
+   "related": [
+    "PRK",
+    "USA"
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols",
+   "text": [
+    "The flag, the Taegukgi, shows a red and blue circle representing balance between opposite forces, surrounded by four black trigrams standing for heaven, earth, water and fire. Liberation Day, 15 August, marks the end of Japanese rule."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Impeach",
+   "meaning": "To formally accuse a top official of serious wrongdoing, which can lead to removal from office."
+  },
+  {
+   "term": "Trigram",
+   "meaning": "A symbol made of three lines, each solid or broken."
+  }
+ ]
+}

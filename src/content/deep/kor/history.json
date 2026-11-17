@@ -1,0 +1,157 @@
+{
+ "status": "draft",
+ "intro": "Korea's kingdoms lasted for more than a thousand years before Japan colonised the peninsula in 1910. Divided after 1945 and devastated by the Korean War, the South rose from poverty to become a rich democracy and a cultural superpower.",
+ "chapters": [
+  {
+   "id": "kingdoms",
+   "title": "Ancient kingdoms",
+   "text": [
+    "According to legend, the first Korean kingdom, Gojoseon, was founded in 2333 BC by Dangun, the grandson of the god of heaven. By the first centuries AD three kingdoms, Goguryeo, Baekje and Silla, competed for the peninsula, and Silla united most of it in 668.",
+    "The Goryeo dynasty, from 918, gave Korea its name in English. Its craftsmen made beautiful pale-green celadon pottery, and in 1377 Korean monks printed Jikji, the oldest surviving book printed with movable metal type, 78 years before Gutenberg's Bible."
+   ],
+   "related": [
+    "CHN",
+    "PRK"
+   ]
+  },
+  {
+   "id": "joseon",
+   "title": "The Joseon dynasty",
+   "text": [
+    "The Joseon dynasty ruled from 1392 to 1910, one of the longest-lasting royal dynasties in history, and built its society on Confucian ideas of learning, loyalty and respect for elders.",
+    "In the 1440s King Sejong the Great created Hangul, a simple alphabet designed so that ordinary people could learn to read and write. In the 1590s Japan invaded, and Admiral Yi Sun-sin used armoured 'turtle ships' to defeat Japanese fleets.",
+    "Later, Joseon tried to keep foreigners out and became known as the 'Hermit Kingdom'."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Hangul is one of the few alphabets whose inventor and purpose are known. Its shapes are based on the position of the mouth and tongue when making each sound, and it can be learned in a few days."
+   },
+   "related": [
+    "JPN"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Japanese rule",
+   "text": [
+    "Japan took control of Korea in 1905 and made it a colony in 1910. It tried to erase Korean identity, forcing people to take Japanese names and banning the Korean language in schools. Many Koreans were forced to work for Japan's war effort, and many women were forced into sexual slavery for the Japanese army.",
+    "On 1 March 1919 Koreans across the country peacefully declared independence; the protests were crushed but are remembered every year."
+   ],
+   "related": [
+    "JPN"
+   ]
+  },
+  {
+   "id": "division",
+   "title": "Division and the Korean War",
+   "text": [
+    "When Japan surrendered in 1945, the US and the Soviet Union divided Korea along the 38th parallel. In 1948 two states were created: the Republic of Korea in the south and the communist Democratic People's Republic of Korea in the north.",
+    "In June 1950 North Korea invaded the South. UN forces led by the US, and later Chinese troops on the North's side, joined the Korean War. Fighting stopped with an armistice in 1953, but no peace treaty has ever been signed, and the two Koreas are still divided by the heavily guarded Demilitarised Zone (DMZ)."
+   ],
+   "related": [
+    "PRK",
+    "USA",
+    "CHN",
+    "RUS"
+   ]
+  },
+  {
+   "id": "democracy",
+   "title": "From dictatorship to democracy",
+   "text": [
+    "After the war South Korea was one of the poorest countries in the world. General Park Chung-hee seized power in 1961 and drove rapid industrialisation, while crushing opposition. In 1980 soldiers killed hundreds of pro-democracy protesters in the city of Gwangju.",
+    "Huge protests in June 1987 forced the government to allow free presidential elections, and Seoul hosted the 1988 Olympics. Democracy has been tested since: in 2017 President Park Geun-hye was removed from office after peaceful 'candlelight' protests, and in December 2024 President Yoon Suk Yeol declared martial law, only for parliament to overturn it within hours; he was removed from office in 2025."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "2333 BC",
+   "title": "Gojoseon (legend)",
+   "text": "Dangun founds the first Korean kingdom."
+  },
+  {
+   "year": "668",
+   "title": "Silla unites Korea",
+   "text": "Most of the peninsula comes under one kingdom."
+  },
+  {
+   "year": "918",
+   "title": "Goryeo",
+   "text": "The dynasty that gives Korea its name."
+  },
+  {
+   "year": "1377",
+   "title": "Jikji printed",
+   "text": "The oldest surviving book printed with metal type."
+  },
+  {
+   "year": "1392",
+   "title": "Joseon dynasty",
+   "text": "A dynasty that lasts more than 500 years."
+  },
+  {
+   "year": "1446",
+   "title": "Hangul",
+   "text": "King Sejong publishes the Korean alphabet."
+  },
+  {
+   "year": "1592",
+   "title": "Japanese invasions",
+   "text": "Admiral Yi's turtle ships fight back."
+  },
+  {
+   "year": "1910",
+   "title": "Japanese colony",
+   "text": "Korea is annexed by Japan."
+  },
+  {
+   "year": "1919",
+   "title": "March 1st Movement",
+   "text": "Koreans declare independence peacefully."
+  },
+  {
+   "year": "1945",
+   "title": "Liberation and division",
+   "text": "Korea is split at the 38th parallel."
+  },
+  {
+   "year": "1950",
+   "title": "Korean War",
+   "text": "North Korea invades; fighting ends in 1953."
+  },
+  {
+   "year": "1987",
+   "title": "Democracy",
+   "text": "Mass protests win free elections."
+  },
+  {
+   "year": "1988",
+   "title": "Seoul Olympics",
+   "text": "South Korea hosts the Summer Games."
+  },
+  {
+   "year": "2024",
+   "title": "Martial law overturned",
+   "text": "Parliament rejects the president's declaration within hours."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Hangul",
+   "meaning": "The Korean alphabet, created in the 1440s."
+  },
+  {
+   "term": "Armistice",
+   "meaning": "An agreement to stop fighting, which is not the same as a peace treaty."
+  },
+  {
+   "term": "DMZ",
+   "meaning": "The Demilitarised Zone, a 4 km-wide strip of land separating North and South Korea."
+  },
+  {
+   "term": "Martial law",
+   "meaning": "When the army takes over normal government and suspends ordinary rights."
+  }
+ ]
+}

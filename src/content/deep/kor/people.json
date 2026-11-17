@@ -1,0 +1,51 @@
+{
+ "status": "draft",
+ "intro": "South Korea is a crowded, fast-paced country where half the people live in and around Seoul. It has the lowest birth rate in the world and one of the most competitive education systems.",
+ "chapters": [
+  {
+   "id": "cities",
+   "title": "Seoul and beyond",
+   "text": [
+    "About half of South Koreans live in the Seoul Capital Area, which includes Seoul, the port of Incheon and the surrounding province. Busan, on the south coast, is the second city. Most people live in high-rise apartment blocks.",
+    "Kim, Lee and Park are such common surnames that together they belong to nearly half the population."
+   ]
+  },
+  {
+   "id": "families",
+   "title": "Fewer babies",
+   "text": [
+    "South Korea has the lowest birth rate in the world, well under one child per woman. High housing and education costs and long working hours are often blamed. The population is ageing fast and has started to shrink.",
+    "Most Koreans are ethnically Korean, but the number of foreign workers, students and marriage migrants is rising."
+   ]
+  },
+  {
+   "id": "beliefs",
+   "title": "Beliefs",
+   "text": [
+    "About half of South Koreans say they have no religion. Of the rest, most are Protestant Christians, Buddhists or Catholics, and Confucian values such as respect for parents and elders shape daily life, from how people speak to how they bow."
+   ]
+  },
+  {
+   "id": "school",
+   "title": "School and service",
+   "text": [
+    "Education is intensely competitive. On the day of the national university entrance exam, the suneung, offices open late to keep roads clear, police give lifts to late students, and planes are grounded during the English listening test.",
+    "Many students go to private evening academies, called hagwons, after school. Most young men must do around 18 to 21 months of military service."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Suneung",
+   "meaning": "South Korea's national university entrance exam."
+  },
+  {
+   "term": "Hagwon",
+   "meaning": "A private after-school academy."
+  },
+  {
+   "term": "Birth rate",
+   "meaning": "How many babies are born, often measured as the average number of children per woman."
+  }
+ ]
+}

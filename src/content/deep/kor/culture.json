@@ -1,0 +1,44 @@
+{
+ "status": "draft",
+ "intro": "The 'Korean Wave' of pop music, films, TV dramas, webtoons and food has spread around the world, built on a culture that values family, food and festivals.",
+ "chapters": [
+  {
+   "id": "hallyu",
+   "title": "The Korean Wave",
+   "text": [
+    "K-pop groups such as BTS and BLACKPINK have topped charts worldwide with tightly choreographed songs and huge fan communities. Korean TV dramas are watched across Asia and beyond.",
+    "In 2020 Parasite became the first film not in English to win the Oscar for Best Picture, Squid Game became one of Netflix's most-watched series, and in 2024 the novelist Han Kang won the Nobel Prize in Literature."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Meals come with many small side dishes, called banchan, and kimchi, spicy fermented cabbage, is served with almost everything. Families make huge batches together in autumn, a tradition called kimjang that is on UNESCO's heritage list.",
+    "Bibimbap (rice mixed with vegetables), bulgogi (marinated beef), Korean barbecue, tteokbokki (spicy rice cakes) and Korean fried chicken are popular worldwide."
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "The biggest holidays are Seollal, the Lunar New Year, and Chuseok, the autumn harvest festival, when families travel home, honour their ancestors and eat special foods. People may wear hanbok, traditional clothes with flowing skirts and jackets.",
+    "Korean homes have long used ondol, heating under the floor, so people often sit and even sleep on the floor."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Hallyu",
+   "meaning": "The 'Korean Wave', the global popularity of Korean culture."
+  },
+  {
+   "term": "Banchan",
+   "meaning": "Small side dishes served with a Korean meal."
+  },
+  {
+   "term": "Webtoon",
+   "meaning": "A comic designed to be read by scrolling on a phone, first popular in South Korea."
+  }
+ ]
+}
