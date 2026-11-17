@@ -103,6 +103,13 @@ function EconomyMix({ c }: { c: Country }) {
   );
 }
 
+/** A height fact: the number large, the place's name small underneath; 0 m reads as "Sea level". */
+function point(p: { name: string; elevation?: number | null }) {
+  if (p.elevation == null) return p.name;
+  const height = p.elevation === 0 ? 'Sea level' : `${fmt.format(p.elevation)}\u00a0m`;
+  return <>{height}<span className="fact-sub">{p.name}</span></>;
+}
+
 function Facts({ rows }: { rows: Row[] }) {
   return (
     <dl className="fact-grid">
@@ -216,11 +223,11 @@ function Profile({ c }: { c: Country }) {
         <div className="panel-split">
           <Facts rows={[
             { label: 'Area', value: c.area ? `${fmt.format(c.area.value)} km²` : '—' },
-            ...(c.highestPoint ? [{ label: 'Highest point', value: `${c.highestPoint.name}${c.highestPoint.elevation ? `, ${fmt.format(c.highestPoint.elevation)} m` : ''}` }] : []),
-            ...(c.lowestPoint ? [{ label: 'Lowest point', value: `${c.lowestPoint.name}${c.lowestPoint.elevation != null ? `, ${fmt.format(c.lowestPoint.elevation)} m` : ''}` }] : []),
+            ...(c.highestPoint ? [{ label: 'Highest point', value: point(c.highestPoint) }] : []),
+            ...(c.lowestPoint ? [{ label: 'Lowest point', value: point(c.lowestPoint) }] : []),
             { label: c.landlocked ? 'Coastline' : c.seas.length > 1 ? 'Coasts' : 'Coast', value: c.landlocked ? 'None (landlocked)' : c.seas.length ? c.seas.join(', ') : 'Yes' },
             ...written(content?.geography?.facts),
-            { label: 'Approx. centre', value: `${Math.abs(c.latlng[0])}°${c.latlng[0] >= 0 ? 'N' : 'S'}, ${Math.abs(c.latlng[1])}°${c.latlng[1] >= 0 ? 'E' : 'W'}` },
+            { label: 'Approx. centre', value: `${Math.abs(c.latlng[0]).toFixed(1)}°${c.latlng[0] >= 0 ? 'N' : 'S'}, ${Math.abs(c.latlng[1]).toFixed(1)}°${c.latlng[1] >= 0 ? 'E' : 'W'}` },
           ]} />
           <div>
             <h3 className="panel-h">{neighbours.length ? `${neighbours.length} land neighbour${neighbours.length > 1 ? 's' : ''}` : 'No land neighbours'}</h3>
