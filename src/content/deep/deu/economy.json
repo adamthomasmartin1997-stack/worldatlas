@@ -58,5 +58,49 @@
    "term": "Export",
    "meaning": "Goods or services sold to another country."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Germany",
+   "items": [
+    {
+     "title": "Cars",
+     "subtitle": "Volkswagen, BMW, Mercedes-Benz, Porsche",
+     "text": "Germany's most famous export."
+    },
+    {
+     "title": "Machines and robots",
+     "subtitle": "Thousands of family firms",
+     "text": "Germany builds the machines that build things in factories worldwide."
+    },
+    {
+     "title": "Chemicals",
+     "subtitle": "BASF",
+     "text": "The world's largest chemical company is based on the Rhine."
+    },
+    {
+     "title": "Medicines and vaccines",
+     "subtitle": "Bayer, BioNTech",
+     "text": "BioNTech, from Mainz, developed the first approved mRNA COVID-19 vaccine with Pfizer in 2020."
+    },
+    {
+     "title": "Trains and scanners",
+     "subtitle": "Siemens",
+     "text": "High-speed ICE trains and medical equipment."
+    },
+    {
+     "title": "Sportswear",
+     "subtitle": "adidas, Puma",
+     "text": "Both started in the small town of Herzogenaurach, founded by two brothers who fell out."
+    },
+    {
+     "title": "The euro",
+     "subtitle": "Since 2002",
+     "text": "Germany swapped the Deutsche Mark for the euro; the European Central Bank is in Frankfurt."
+    }
+   ],
+   "intro": "Some of the things Germany makes and sells to the world."
+  }
  ]
 }

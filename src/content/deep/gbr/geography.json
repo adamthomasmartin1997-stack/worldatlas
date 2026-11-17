@@ -86,5 +86,82 @@
    "term": "Moor",
    "meaning": "Open, high land covered with rough grass and heather, with few trees."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of the United Kingdom's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Ben Nevis",
+    "kind": "mountain",
+    "lat": 56.797,
+    "lon": -5.004,
+    "text": "The highest mountain in the UK, in the Scottish Highlands."
+   },
+   {
+    "name": "Loch Ness",
+    "kind": "lake",
+    "lat": 57.3,
+    "lon": -4.45,
+    "text": "A deep, dark loch holding more water than all the lakes of England and Wales together, and home of the Loch Ness Monster legend."
+   },
+   {
+    "name": "Isle of Skye",
+    "kind": "island",
+    "lat": 57.27,
+    "lon": -6.2,
+    "text": "Jagged mountains, sea cliffs and fairy pools on the largest island of the Inner Hebrides."
+   },
+   {
+    "name": "Giant's Causeway",
+    "kind": "coast",
+    "lat": 55.241,
+    "lon": -6.512,
+    "text": "About 40,000 stone columns made by cooling lava in Northern Ireland."
+   },
+   {
+    "name": "Lake District",
+    "kind": "lakes and fells",
+    "lat": 54.46,
+    "lon": -3.09,
+    "text": "England's largest national park, with its highest mountain and deepest lake."
+   },
+   {
+    "name": "Peak District",
+    "kind": "hills",
+    "lat": 53.35,
+    "lon": -1.8,
+    "text": "Moors and limestone dales; the UK's first national park, opened in 1951."
+   },
+   {
+    "name": "Yr Wyddfa (Snowdon)",
+    "kind": "mountain",
+    "lat": 53.068,
+    "lon": -4.076,
+    "text": "The highest mountain in Wales, in Eryri national park."
+   },
+   {
+    "name": "The Broads",
+    "kind": "wetland",
+    "lat": 52.7,
+    "lon": 1.55,
+    "text": "Rivers and shallow lakes in Norfolk, created by medieval peat digging."
+   },
+   {
+    "name": "White Cliffs of Dover",
+    "kind": "coast",
+    "lat": 51.13,
+    "lon": 1.35,
+    "text": "Chalk cliffs facing France across the narrowest part of the Channel."
+   },
+   {
+    "name": "Jurassic Coast",
+    "kind": "coast",
+    "lat": 50.62,
+    "lon": -2.45,
+    "text": "185 million years of rock history and fossils along the Dorset and Devon coast."
+   }
+  ]
+ }
 }

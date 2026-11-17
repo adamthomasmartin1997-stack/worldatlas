@@ -55,5 +55,168 @@
    "term": "Scholarship",
    "meaning": "Money given to a student to pay for their education, sometimes for their sporting talent."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "NFL",
+     "subtitle": "American football",
+     "text": "32 teams; the season ends with the Super Bowl."
+    },
+    {
+     "title": "MLB",
+     "subtitle": "Baseball",
+     "text": "The season ends with the World Series; the New York Yankees have won it more times than any other team."
+    },
+    {
+     "title": "NBA",
+     "subtitle": "Basketball",
+     "text": "The Boston Celtics have won the most championships."
+    },
+    {
+     "title": "NHL",
+     "subtitle": "Ice hockey",
+     "text": "Shared with Canada; teams compete for the Stanley Cup."
+    },
+    {
+     "title": "MLS and NWSL",
+     "subtitle": "Soccer",
+     "text": "Men's and women's professional soccer leagues, growing fast."
+    },
+    {
+     "title": "College sports",
+     "subtitle": "NCAA",
+     "text": "University football and basketball draw crowds as big as professional games."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Jesse Owens",
+     "subtitle": "Athletics",
+     "text": "Won four gold medals at the 1936 Berlin Olympics."
+    },
+    {
+     "title": "Jackie Robinson",
+     "subtitle": "Baseball",
+     "text": "In 1947 became the first Black player in modern Major League Baseball."
+    },
+    {
+     "title": "Muhammad Ali",
+     "subtitle": "Boxing",
+     "text": "Three-time world heavyweight champion and campaigner for civil rights."
+    },
+    {
+     "title": "Michael Jordan",
+     "subtitle": "Basketball",
+     "text": "Won six NBA titles with the Chicago Bulls."
+    },
+    {
+     "title": "Serena Williams",
+     "subtitle": "Tennis",
+     "text": "Won 23 Grand Slam singles titles."
+    },
+    {
+     "title": "Michael Phelps",
+     "subtitle": "Swimming",
+     "text": "Won 28 Olympic medals, more than anyone in history."
+    },
+    {
+     "title": "Simone Biles",
+     "subtitle": "Gymnastics",
+     "text": "The most decorated gymnast of all time."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where the United States's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "New York: Madison Square Garden, Yankee Stadium, MetLife",
+    "kind": "venue",
+    "lat": 40.75,
+    "lon": -73.99,
+    "text": "Famous arenas and stadiums; MetLife hosts the 2026 World Cup final."
+   },
+   {
+    "name": "Fenway Park, Boston",
+    "kind": "venue",
+    "lat": 42.347,
+    "lon": -71.097,
+    "text": "The oldest Major League ballpark, opened in 1912."
+   },
+   {
+    "name": "Indianapolis Motor Speedway",
+    "kind": "venue",
+    "lat": 39.795,
+    "lon": -86.235,
+    "text": "Home of the Indy 500, held since 1911."
+   },
+   {
+    "name": "Lambeau Field, Green Bay",
+    "kind": "venue",
+    "lat": 44.501,
+    "lon": -88.062,
+    "text": "Home of the Green Bay Packers, owned by their fans."
+   },
+   {
+    "name": "Augusta National",
+    "kind": "venue",
+    "lat": 33.503,
+    "lon": -82.02,
+    "text": "Where golf's Masters tournament is played each April."
+   },
+   {
+    "name": "Los Angeles: Coliseum and Rose Bowl",
+    "kind": "venue",
+    "lat": 34.05,
+    "lon": -118.2,
+    "text": "Olympic venue in 1932 and 1984, and again in 2028."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1891",
+    "title": "Basketball invented",
+    "text": "James Naismith hangs peach baskets in a gym in Massachusetts."
+   },
+   {
+    "year": "1947",
+    "title": "Jackie Robinson",
+    "text": "Baseball's colour barrier is broken."
+   },
+   {
+    "year": "1967",
+    "title": "First Super Bowl",
+    "text": "The Green Bay Packers win."
+   },
+   {
+    "year": "1980",
+    "title": "Miracle on Ice",
+    "text": "US college players beat the mighty Soviet ice hockey team."
+   },
+   {
+    "year": "1999",
+    "title": "Women's World Cup",
+    "text": "The US wins in front of 90,000 fans at the Rose Bowl."
+   },
+   {
+    "year": "2026",
+    "title": "World Cup",
+    "text": "The US co-hosts the first 48-team men's World Cup."
+   }
+  ]
+ }
 }

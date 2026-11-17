@@ -62,5 +62,176 @@
    "term": "Grime",
    "meaning": "A style of fast rap music that grew up in east London in the early 2000s."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Lawrence of Arabia",
+     "subtitle": "1962 · David Lean",
+     "text": "An epic about a British officer in the First World War Arab revolt."
+    },
+    {
+     "title": "Dr. No",
+     "subtitle": "1962 · Terence Young",
+     "text": "The first James Bond film."
+    },
+    {
+     "title": "Monty Python and the Holy Grail",
+     "subtitle": "1975 · Terry Gilliam and Terry Jones",
+     "text": "King Arthur's quest, played for laughs with coconut-shell horses."
+    },
+    {
+     "title": "Harry Potter and the Philosopher's Stone",
+     "subtitle": "2001 · Chris Columbus",
+     "text": "The first Harry Potter film, made with a British cast in British studios."
+    },
+    {
+     "title": "Paddington 2",
+     "subtitle": "2017 · Paul King",
+     "text": "A marmalade-loving bear from Peru gets into trouble in London."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Pride and Prejudice",
+     "subtitle": "1813 · Jane Austen",
+     "text": "Elizabeth Bennet and Mr Darcy misjudge each other in Regency England."
+    },
+    {
+     "title": "Oliver Twist",
+     "subtitle": "1838 · Charles Dickens",
+     "text": "An orphan boy falls in with a gang of pickpockets in London."
+    },
+    {
+     "title": "Alice's Adventures in Wonderland",
+     "subtitle": "1865 · Lewis Carroll",
+     "text": "Alice falls down a rabbit hole into a world of nonsense."
+    },
+    {
+     "title": "Nineteen Eighty-Four",
+     "subtitle": "1949 · George Orwell",
+     "text": "A chilling story of a state that watches everyone."
+    },
+    {
+     "title": "Harry Potter and the Philosopher's Stone",
+     "subtitle": "1997 · J.K. Rowling",
+     "text": "A boy discovers he is a wizard and goes to Hogwarts."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Hey Jude",
+     "subtitle": "The Beatles, 1968",
+     "text": "One of the best-selling singles by the band from Liverpool."
+    },
+    {
+     "title": "Bohemian Rhapsody",
+     "subtitle": "Queen, 1975",
+     "text": "A six-minute mini-opera that became a rock classic."
+    },
+    {
+     "title": "Wannabe",
+     "subtitle": "Spice Girls, 1996",
+     "text": "The debut single that made them the best-selling girl group ever."
+    },
+    {
+     "title": "Rolling in the Deep",
+     "subtitle": "Adele, 2010",
+     "text": "A global hit from the London singer."
+    },
+    {
+     "title": "Shape of You",
+     "subtitle": "Ed Sheeran, 2017",
+     "text": "One of the most-streamed songs of all time."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Fish and chips",
+     "subtitle": "Everywhere",
+     "text": "Battered fish with thick chips, best eaten by the sea."
+    },
+    {
+     "title": "Sunday roast",
+     "subtitle": "Everywhere",
+     "text": "Roast meat, potatoes, vegetables, gravy and Yorkshire puddings."
+    },
+    {
+     "title": "Haggis",
+     "subtitle": "Scotland",
+     "text": "A savoury pudding eaten with neeps and tatties on Burns Night."
+    },
+    {
+     "title": "Cornish pasty",
+     "subtitle": "Cornwall",
+     "text": "A pastry filled with beef, potato and swede."
+    },
+    {
+     "title": "Scones",
+     "subtitle": "Afternoon tea",
+     "text": "With clotted cream and jam; Devon and Cornwall argue about which goes first."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Burns Night",
+    "text": "Scots celebrate the poet Robert Burns with haggis and poetry on 25 January."
+   },
+   {
+    "month": 3,
+    "name": "St David's Day",
+    "text": "Wales celebrates its patron saint on 1 March with daffodils and leeks."
+   },
+   {
+    "month": 6,
+    "name": "Glastonbury",
+    "text": "One of the world's biggest music festivals, on a farm in Somerset."
+   },
+   {
+    "month": 8,
+    "name": "Edinburgh Festival Fringe",
+    "text": "The world's largest arts festival takes over Scotland's capital."
+   },
+   {
+    "month": 8,
+    "name": "Notting Hill Carnival",
+    "text": "Caribbean music, costumes and food fill west London."
+   },
+   {
+    "month": 11,
+    "name": "Bonfire Night",
+    "text": "Fireworks on 5 November remember the Gunpowder Plot of 1605."
+   },
+   {
+    "month": 11,
+    "name": "Remembrance Sunday",
+    "text": "Poppies and a two-minute silence for those killed in war."
+   },
+   {
+    "month": 12,
+    "name": "Hogmanay",
+    "text": "Scotland's New Year's Eve, with fireworks over Edinburgh Castle."
+   }
+  ]
+ }
 }

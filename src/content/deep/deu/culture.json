@@ -48,5 +48,171 @@
    "term": "Carnival",
    "meaning": "A festival of parades, costumes and parties held before the Christian season of Lent."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Metropolis",
+     "subtitle": "1927 · Fritz Lang",
+     "text": "A silent science-fiction film about a city of workers and rulers, with a famous robot."
+    },
+    {
+     "title": "Das Boot",
+     "subtitle": "1981 · Wolfgang Petersen",
+     "text": "Life aboard a cramped German submarine in the Second World War."
+    },
+    {
+     "title": "Run Lola Run",
+     "subtitle": "1998 · Tom Tykwer",
+     "text": "Lola has 20 minutes to save her boyfriend, told three different ways."
+    },
+    {
+     "title": "Good Bye, Lenin!",
+     "subtitle": "2003 · Wolfgang Becker",
+     "text": "A son hides the fall of the Berlin Wall from his sick mother."
+    },
+    {
+     "title": "All Quiet on the Western Front",
+     "subtitle": "2022 · Edward Berger",
+     "text": "A First World War story that won four Oscars."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Grimms' Fairy Tales",
+     "subtitle": "1812 · the Brothers Grimm",
+     "text": "Snow White, Rapunzel, Hansel and Gretel and many more."
+    },
+    {
+     "title": "Faust",
+     "subtitle": "1808 · Johann Wolfgang von Goethe",
+     "text": "A scholar makes a deal with the devil."
+    },
+    {
+     "title": "Emil and the Detectives",
+     "subtitle": "1929 · Erich Kästner",
+     "text": "A boy and a gang of Berlin children track down a thief."
+    },
+    {
+     "title": "The Neverending Story",
+     "subtitle": "1979 · Michael Ende",
+     "text": "A boy reading a magical book is drawn into its world."
+    },
+    {
+     "title": "Inkheart",
+     "subtitle": "2003 · Cornelia Funke",
+     "text": "Characters escape from books when they are read aloud."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Symphony No. 9",
+     "subtitle": "Ludwig van Beethoven, 1824",
+     "text": "Its 'Ode to Joy' is now the anthem of the European Union."
+    },
+    {
+     "title": "Brandenburg Concertos",
+     "subtitle": "Johann Sebastian Bach, 1721",
+     "text": "Six lively pieces by the great baroque composer."
+    },
+    {
+     "title": "Autobahn",
+     "subtitle": "Kraftwerk, 1974",
+     "text": "Electronic pioneers who influenced pop, techno and hip hop."
+    },
+    {
+     "title": "99 Luftballons",
+     "subtitle": "Nena, 1983",
+     "text": "A Cold War protest song that became a worldwide hit."
+    },
+    {
+     "title": "Satellite",
+     "subtitle": "Lena, 2010",
+     "text": "Germany's most recent Eurovision winner."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Bratwurst and currywurst",
+     "subtitle": "Everywhere",
+     "text": "Grilled sausages; Berlin's currywurst comes with curry ketchup."
+    },
+    {
+     "title": "Pretzels",
+     "subtitle": "Bavaria and Swabia",
+     "text": "Twisted bread with coarse salt."
+    },
+    {
+     "title": "Black Forest gâteau",
+     "subtitle": "Black Forest",
+     "text": "Chocolate cake with cherries and cream."
+    },
+    {
+     "title": "Spätzle",
+     "subtitle": "Swabia",
+     "text": "Soft egg noodles, often baked with cheese."
+    },
+    {
+     "title": "Döner kebab",
+     "subtitle": "Berlin",
+     "text": "Turned into a national favourite by Turkish immigrants."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Carnival",
+    "text": "Costumed parades in Cologne, Düsseldorf and Mainz, especially on Rose Monday."
+   },
+   {
+    "month": 2,
+    "name": "Berlinale",
+    "text": "One of the world's biggest film festivals."
+   },
+   {
+    "month": 6,
+    "name": "Kiel Week",
+    "text": "The world's largest sailing event."
+   },
+   {
+    "month": 9,
+    "name": "Oktoberfest",
+    "text": "Munich's huge folk festival begins in late September."
+   },
+   {
+    "month": 10,
+    "name": "German Unity Day",
+    "text": "3 October marks reunification in 1990."
+   },
+   {
+    "month": 11,
+    "name": "Start of carnival season",
+    "text": "Carnival officially begins at 11:11 on 11 November."
+   },
+   {
+    "month": 12,
+    "name": "Christmas markets",
+    "text": "Gingerbread, mulled drinks and wooden toys in town squares."
+   }
+  ]
+ }
 }

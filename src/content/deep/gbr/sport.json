@@ -71,5 +71,168 @@
    "term": "Six Nations",
    "meaning": "A yearly rugby tournament between England, France, Ireland, Italy, Scotland and Wales."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Premier League",
+     "subtitle": "Football · since 1992",
+     "text": "The world's most watched football league; Manchester United have won it more times than any other club."
+    },
+    {
+     "title": "Scottish Premiership",
+     "subtitle": "Football",
+     "text": "Dominated by Glasgow's Celtic and Rangers, who have won most Scottish titles."
+    },
+    {
+     "title": "Premiership Rugby",
+     "subtitle": "Rugby union",
+     "text": "England's top rugby league."
+    },
+    {
+     "title": "County Championship",
+     "subtitle": "Cricket · since 1890",
+     "text": "First-class cricket between English counties, alongside the short-form Hundred."
+    },
+    {
+     "title": "Super League",
+     "subtitle": "Rugby league",
+     "text": "Strongest in the north of England."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Bobby Moore",
+     "subtitle": "Football",
+     "text": "Captained England to the 1966 World Cup."
+    },
+    {
+     "title": "Steve Redgrave",
+     "subtitle": "Rowing",
+     "text": "Won gold at five Olympics in a row."
+    },
+    {
+     "title": "Mo Farah",
+     "subtitle": "Athletics",
+     "text": "Won the 5,000 m and 10,000 m at both the 2012 and 2016 Olympics."
+    },
+    {
+     "title": "Jessica Ennis-Hill",
+     "subtitle": "Athletics",
+     "text": "Olympic heptathlon champion in London in 2012."
+    },
+    {
+     "title": "Lewis Hamilton",
+     "subtitle": "Formula One",
+     "text": "Seven-time world champion."
+    },
+    {
+     "title": "Andy Murray",
+     "subtitle": "Tennis",
+     "text": "Two-time Wimbledon champion and double Olympic gold medallist."
+    },
+    {
+     "title": "Tanni Grey-Thompson",
+     "subtitle": "Wheelchair racing",
+     "text": "Won 11 Paralympic gold medals."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where the United Kingdom's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "London: Wembley, Lord's and Wimbledon",
+    "kind": "venue",
+    "lat": 51.556,
+    "lon": -0.2796,
+    "text": "England's 90,000-seat national stadium, the 'home of cricket' and the oldest tennis tournament."
+   },
+   {
+    "name": "Old Trafford and Anfield",
+    "kind": "venue",
+    "lat": 53.46,
+    "lon": -2.6,
+    "text": "The homes of Manchester United and Liverpool."
+   },
+   {
+    "name": "Murrayfield, Edinburgh",
+    "kind": "venue",
+    "lat": 55.942,
+    "lon": -3.241,
+    "text": "Scotland's national rugby stadium."
+   },
+   {
+    "name": "Principality Stadium, Cardiff",
+    "kind": "venue",
+    "lat": 51.478,
+    "lon": -3.183,
+    "text": "The home of Welsh rugby, with a retractable roof."
+   },
+   {
+    "name": "St Andrews",
+    "kind": "venue",
+    "lat": 56.343,
+    "lon": -2.803,
+    "text": "The 'home of golf', where the game has been played for 600 years."
+   },
+   {
+    "name": "Silverstone",
+    "kind": "venue",
+    "lat": 52.079,
+    "lon": -1.017,
+    "text": "Host of the first Formula One World Championship race in 1950."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1863",
+    "title": "Football's rules",
+    "text": "The Football Association writes the first official rules."
+   },
+   {
+    "year": "1877",
+    "title": "First Wimbledon",
+    "text": "The oldest tennis tournament begins."
+   },
+   {
+    "year": "1966",
+    "title": "World champions",
+    "text": "England beat West Germany 4-2 at Wembley."
+   },
+   {
+    "year": "2003",
+    "title": "Rugby World Cup",
+    "text": "Jonny Wilkinson's last-minute drop goal wins England the trophy."
+   },
+   {
+    "year": "2012",
+    "title": "London Olympics",
+    "text": "On 'Super Saturday' Team GB wins three athletics golds in under an hour."
+   },
+   {
+    "year": "2022",
+    "title": "Lionesses' triumph",
+    "text": "England's women win the Euros at Wembley."
+   },
+   {
+    "year": "2025",
+    "title": "Red Roses",
+    "text": "England's women win the Rugby World Cup at home."
+   }
+  ]
+ }
 }

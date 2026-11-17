@@ -95,5 +95,75 @@
    "term": "Unionist / nationalist",
    "meaning": "In Northern Ireland, people who want to stay in the UK, and people who want to join the Republic of Ireland."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The monarch",
+     "subtitle": "Inherits the throne",
+     "text": "Head of state. Opens Parliament and signs laws but, by custom, always follows the government's advice."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leader of the largest party in the Commons",
+     "text": "Leads the government and chooses the Cabinet."
+    },
+    {
+     "title": "The House of Commons",
+     "subtitle": "650 MPs elected at least every 5 years",
+     "text": "Makes laws, votes on taxes and spending, and can remove the government."
+    },
+    {
+     "title": "The House of Lords",
+     "subtitle": "Members mostly appointed for life",
+     "text": "Checks and suggests changes to laws, but cannot block the Commons for long."
+    },
+    {
+     "title": "The Supreme Court",
+     "subtitle": "12 justices",
+     "text": "The highest court; it interprets laws but cannot strike down an Act of Parliament."
+    },
+    {
+     "title": "Devolved governments",
+     "subtitle": "Scotland, Wales, Northern Ireland",
+     "text": "Run health, schools and much more in their own nations."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "First reading",
+    "text": "A bill is introduced in the Commons or the Lords, usually by the government."
+   },
+   {
+    "title": "Second reading",
+    "text": "MPs or peers debate the main ideas and vote on whether it should continue."
+   },
+   {
+    "title": "Committee and report stages",
+    "text": "A committee goes through the bill line by line and suggests changes."
+   },
+   {
+    "title": "Third reading",
+    "text": "A final debate and vote in the first House."
+   },
+   {
+    "title": "The other House",
+    "text": "The second House goes through the same stages; changes bounce back and forth until both agree."
+   },
+   {
+    "title": "Royal Assent",
+    "text": "The monarch formally agrees, and the bill becomes an Act of Parliament."
+   }
+  ]
+ }
 }

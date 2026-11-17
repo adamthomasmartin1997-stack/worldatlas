@@ -52,5 +52,156 @@
    "term": "Golden Slam",
    "meaning": "Winning all four tennis Grand Slams and Olympic gold in one year."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Bundesliga",
+     "subtitle": "Football · since 1963",
+     "text": "Known for huge crowds; Bayern Munich has won it far more times than any other club."
+    },
+    {
+     "title": "Handball-Bundesliga",
+     "subtitle": "Handball",
+     "text": "Often called the strongest handball league in the world."
+    },
+    {
+     "title": "Basketball Bundesliga",
+     "subtitle": "Basketball",
+     "text": "Germany's top basketball league."
+    },
+    {
+     "title": "DEL",
+     "subtitle": "Ice hockey",
+     "text": "The top ice hockey league."
+    },
+    {
+     "title": "Frauen-Bundesliga",
+     "subtitle": "Women's football",
+     "text": "Home to strong clubs such as Wolfsburg and Bayern."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Franz Beckenbauer",
+     "subtitle": "Football",
+     "text": "Won the World Cup as captain in 1974 and as coach in 1990."
+    },
+    {
+     "title": "Gerd Müller",
+     "subtitle": "Football",
+     "text": "One of the greatest goal-scorers in history."
+    },
+    {
+     "title": "Steffi Graf",
+     "subtitle": "Tennis",
+     "text": "Won all four Grand Slams and Olympic gold in 1988."
+    },
+    {
+     "title": "Michael Schumacher",
+     "subtitle": "Formula One",
+     "text": "Seven-time world champion."
+    },
+    {
+     "title": "Birgit Fischer",
+     "subtitle": "Canoeing",
+     "text": "Won eight Olympic gold medals over 24 years."
+    },
+    {
+     "title": "Dirk Nowitzki",
+     "subtitle": "Basketball",
+     "text": "NBA champion and MVP with the Dallas Mavericks."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Germany's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Allianz Arena, Munich",
+    "kind": "venue",
+    "lat": 48.219,
+    "lon": 11.625,
+    "text": "Bayern Munich's home, whose outside can glow in different colours."
+   },
+   {
+    "name": "Signal Iduna Park, Dortmund",
+    "kind": "venue",
+    "lat": 51.493,
+    "lon": 7.452,
+    "text": "Home of the 'Yellow Wall', Europe's biggest standing terrace."
+   },
+   {
+    "name": "Olympiastadion, Berlin",
+    "kind": "venue",
+    "lat": 52.515,
+    "lon": 13.24,
+    "text": "Built for the 1936 Olympics; it hosted the 2006 World Cup final."
+   },
+   {
+    "name": "Nürburgring",
+    "kind": "venue",
+    "lat": 50.336,
+    "lon": 6.948,
+    "text": "A famous and fearsome racing circuit in the Eifel hills."
+   },
+   {
+    "name": "Hockenheimring",
+    "kind": "venue",
+    "lat": 49.328,
+    "lon": 8.566,
+    "text": "A circuit that has often hosted the German Grand Prix."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1936",
+    "title": "Berlin Olympics",
+    "text": "Jesse Owens wins four golds at the Nazi-era Games."
+   },
+   {
+    "year": "1954",
+    "title": "Miracle of Bern",
+    "text": "West Germany wins its first World Cup."
+   },
+   {
+    "year": "1972",
+    "title": "Munich Olympics",
+    "text": "Games overshadowed by a terrorist attack."
+   },
+   {
+    "year": "1988",
+    "title": "Golden Slam",
+    "text": "Steffi Graf wins all four Grand Slams and Olympic gold."
+   },
+   {
+    "year": "2006",
+    "title": "Summer fairy tale",
+    "text": "Germany hosts a joyful World Cup."
+   },
+   {
+    "year": "2014",
+    "title": "Champions again",
+    "text": "Germany beats Brazil 7-1 and wins the World Cup."
+   },
+   {
+    "year": "2023",
+    "title": "Basketball champions",
+    "text": "Germany wins the Basketball World Cup."
+   }
+  ]
+ }
 }

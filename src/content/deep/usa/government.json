@@ -97,5 +97,70 @@
    "term": "Electoral College",
    "meaning": "The system of state-by-state electoral votes used to choose the president."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected every 4 years; two terms at most",
+     "text": "Leads the government and armed forces and can veto laws."
+    },
+    {
+     "title": "The Senate",
+     "subtitle": "100 senators, 6-year terms",
+     "text": "Two senators per state. Approves treaties and the President's choices for judges and ministers."
+    },
+    {
+     "title": "The House of Representatives",
+     "subtitle": "435 members, 2-year terms",
+     "text": "Seats are shared out by population. Tax laws must start here."
+    },
+    {
+     "title": "The Supreme Court",
+     "subtitle": "9 justices, appointed for life",
+     "text": "Nominated by the President and confirmed by the Senate; can strike down laws that break the Constitution."
+    },
+    {
+     "title": "The states",
+     "subtitle": "Governors and state legislatures",
+     "text": "Make their own laws on many things, from schools to driving."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "A member of the House or Senate introduces it."
+   },
+   {
+    "title": "Committee",
+    "text": "A committee studies, changes and votes on it."
+   },
+   {
+    "title": "Floor vote",
+    "text": "The full chamber debates and votes."
+   },
+   {
+    "title": "The other chamber",
+    "text": "The other chamber must pass exactly the same text; differences are worked out between them."
+   },
+   {
+    "title": "The President decides",
+    "text": "The President signs it into law or vetoes it."
+   },
+   {
+    "title": "Override",
+    "text": "Congress can override a veto with a two-thirds vote in both chambers."
+   }
+  ]
+ }
 }

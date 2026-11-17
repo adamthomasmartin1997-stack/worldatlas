@@ -80,5 +80,75 @@
    "term": "Inviolable",
    "meaning": "Something that must never be broken or harmed."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The Federal President",
+     "subtitle": "Chosen every 5 years by a special assembly",
+     "text": "Head of state, with mostly ceremonial powers."
+    },
+    {
+     "title": "The Chancellor",
+     "subtitle": "Elected by the Bundestag",
+     "text": "Leads the government, usually a coalition of several parties."
+    },
+    {
+     "title": "The Bundestag",
+     "subtitle": "630 members elected every 4 years",
+     "text": "The national parliament; it makes laws and elects the Chancellor."
+    },
+    {
+     "title": "The Bundesrat",
+     "subtitle": "Members from the 16 state governments",
+     "text": "Represents the states; many laws need its approval."
+    },
+    {
+     "title": "The Federal Constitutional Court",
+     "subtitle": "16 judges, 12-year terms",
+     "text": "Can strike down laws that break the Basic Law."
+    },
+    {
+     "title": "The 16 states",
+     "subtitle": "Each with its own parliament",
+     "text": "Run schools, police and culture."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the federal government, members of the Bundestag or the Bundesrat."
+   },
+   {
+    "title": "The Bundesrat comments",
+    "text": "Government bills go to the Bundesrat for an opinion first."
+   },
+   {
+    "title": "Three readings",
+    "text": "The Bundestag debates the bill, committees examine it, and members vote."
+   },
+   {
+    "title": "The Bundesrat votes",
+    "text": "Laws affecting the states need its approval; for others it can object."
+   },
+   {
+    "title": "Mediation",
+    "text": "If they disagree, a joint committee tries to find a compromise."
+   },
+   {
+    "title": "Signed and published",
+    "text": "The Federal President signs the law, and it is published."
+   }
+  ]
+ }
 }

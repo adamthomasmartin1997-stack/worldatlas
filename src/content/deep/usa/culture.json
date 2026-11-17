@@ -56,5 +56,176 @@
    "term": "Soul food",
    "meaning": "Traditional cooking of Black Americans in the South, such as fried chicken, collard greens and cornbread."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Wizard of Oz",
+     "subtitle": "1939 · Victor Fleming",
+     "text": "Dorothy is whisked from Kansas to the land of Oz."
+    },
+    {
+     "title": "Star Wars",
+     "subtitle": "1977 · George Lucas",
+     "text": "A farm boy joins a rebellion in a galaxy far, far away."
+    },
+    {
+     "title": "E.T. the Extra-Terrestrial",
+     "subtitle": "1982 · Steven Spielberg",
+     "text": "A boy befriends a lost alien."
+    },
+    {
+     "title": "Toy Story",
+     "subtitle": "1995 · John Lasseter",
+     "text": "The first feature film made entirely by computer animation."
+    },
+    {
+     "title": "Black Panther",
+     "subtitle": "2018 · Ryan Coogler",
+     "text": "A Marvel hero becomes king of the hidden African nation of Wakanda."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Adventures of Huckleberry Finn",
+     "subtitle": "1884 · Mark Twain",
+     "text": "Huck and Jim, who has escaped slavery, travel down the Mississippi."
+    },
+    {
+     "title": "The Great Gatsby",
+     "subtitle": "1925 · F. Scott Fitzgerald",
+     "text": "A mysterious millionaire throws dazzling parties in 1920s New York."
+    },
+    {
+     "title": "The Cat in the Hat",
+     "subtitle": "1957 · Dr. Seuss",
+     "text": "A rhyming cat causes chaos on a rainy day."
+    },
+    {
+     "title": "To Kill a Mockingbird",
+     "subtitle": "1960 · Harper Lee",
+     "text": "A girl's father defends a Black man wrongly accused in the segregated South."
+    },
+    {
+     "title": "The Hunger Games",
+     "subtitle": "2008 · Suzanne Collins",
+     "text": "Katniss fights to survive a televised battle."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Hound Dog",
+     "subtitle": "Elvis Presley, 1956",
+     "text": "An early rock and roll hit."
+    },
+    {
+     "title": "What a Wonderful World",
+     "subtitle": "Louis Armstrong, 1967",
+     "text": "The jazz trumpeter's famous song."
+    },
+    {
+     "title": "Rapper's Delight",
+     "subtitle": "The Sugarhill Gang, 1979",
+     "text": "The song that took hip hop into the charts."
+    },
+    {
+     "title": "Thriller",
+     "subtitle": "Michael Jackson, 1982",
+     "text": "From the best-selling album of all time."
+    },
+    {
+     "title": "Shake It Off",
+     "subtitle": "Taylor Swift, 2014",
+     "text": "A worldwide pop hit."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Hamburger",
+     "subtitle": "Everywhere",
+     "text": "Brought by German immigrants and turned into a national icon."
+    },
+    {
+     "title": "Barbecue",
+     "subtitle": "Texas, Kansas City, the Carolinas",
+     "text": "Slow-smoked meat, with fierce regional rivalries."
+    },
+    {
+     "title": "Pizza",
+     "subtitle": "New York and Chicago",
+     "text": "Thin New York slices or deep-dish Chicago pies."
+    },
+    {
+     "title": "Gumbo",
+     "subtitle": "Louisiana",
+     "text": "A spicy stew from the cooking of New Orleans."
+    },
+    {
+     "title": "Apple pie",
+     "subtitle": "Everywhere",
+     "text": "So loved it gave rise to the phrase 'as American as apple pie'."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Martin Luther King Jr. Day",
+    "text": "A holiday honouring the civil rights leader."
+   },
+   {
+    "month": 2,
+    "name": "Super Bowl Sunday",
+    "text": "Parties across the country for the NFL final."
+   },
+   {
+    "month": 2,
+    "name": "Mardi Gras",
+    "text": "Parades, masks and beads in New Orleans."
+   },
+   {
+    "month": 3,
+    "name": "St Patrick's Day",
+    "text": "Parades and green rivers, such as Chicago's."
+   },
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "Fireworks and barbecues on 4 July."
+   },
+   {
+    "month": 10,
+    "name": "Halloween",
+    "text": "Costumes, pumpkins and trick-or-treating on 31 October."
+   },
+   {
+    "month": 11,
+    "name": "Thanksgiving",
+    "text": "Families share turkey on the fourth Thursday of November."
+   },
+   {
+    "month": 12,
+    "name": "New Year's Eve",
+    "text": "A giant ball drops in New York's Times Square."
+   }
+  ]
+ }
 }

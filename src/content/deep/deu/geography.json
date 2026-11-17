@@ -65,5 +65,82 @@
    "term": "Gorge",
    "meaning": "A narrow valley with steep sides, usually cut by a river."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Germany's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Zugspitze",
+    "kind": "mountain",
+    "lat": 47.421,
+    "lon": 10.985,
+    "text": "Germany's highest mountain, on the Austrian border."
+   },
+   {
+    "name": "Lake Constance",
+    "kind": "lake",
+    "lat": 47.63,
+    "lon": 9.37,
+    "text": "A huge lake shared with Austria and Switzerland."
+   },
+   {
+    "name": "Black Forest",
+    "kind": "forest",
+    "lat": 47.95,
+    "lon": 8.15,
+    "text": "Dark, wooded mountains where the Danube begins."
+   },
+   {
+    "name": "Rhine Gorge",
+    "kind": "river",
+    "lat": 50.14,
+    "lon": 7.73,
+    "text": "Castles and vineyards line the river around the Loreley rock."
+   },
+   {
+    "name": "Saxon Switzerland",
+    "kind": "rock towers",
+    "lat": 50.92,
+    "lon": 14.07,
+    "text": "Sandstone pillars and gorges along the Elbe near Dresden."
+   },
+   {
+    "name": "Harz",
+    "kind": "mountains",
+    "lat": 51.8,
+    "lon": 10.62,
+    "text": "Forested hills crowned by the Brocken, said to be where witches gather."
+   },
+   {
+    "name": "Spreewald",
+    "kind": "wetland",
+    "lat": 51.88,
+    "lon": 14.0,
+    "text": "A maze of small canals where people travel by punt."
+   },
+   {
+    "name": "Lüneburg Heath",
+    "kind": "heath",
+    "lat": 53.2,
+    "lon": 10.0,
+    "text": "Rolling heathland that turns purple when the heather flowers."
+   },
+   {
+    "name": "North Sea coast",
+    "kind": "coast",
+    "lat": 53.87,
+    "lon": 8.69,
+    "text": "Mudflats of the Wadden Sea, uncovered at low tide."
+   },
+   {
+    "name": "Rügen",
+    "kind": "island",
+    "lat": 54.57,
+    "lon": 13.66,
+    "text": "White chalk cliffs on Germany's largest island, in the Baltic."
+   }
+  ]
+ }
 }

@@ -73,5 +73,96 @@
    "term": "Geyser",
    "meaning": "A hot spring that shoots water and steam into the air from time to time."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of the United States's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Grand Canyon",
+    "kind": "canyon",
+    "lat": 36.1,
+    "lon": -112.1,
+    "text": "The Colorado River has carved a canyon up to about 1.8 km deep in Arizona."
+   },
+   {
+    "name": "Yellowstone",
+    "kind": "volcano and geysers",
+    "lat": 44.43,
+    "lon": -110.59,
+    "text": "The world's first national park sits on a supervolcano full of geysers."
+   },
+   {
+    "name": "Yosemite",
+    "kind": "mountains",
+    "lat": 37.86,
+    "lon": -119.54,
+    "text": "Granite cliffs, giant sequoias and waterfalls in California."
+   },
+   {
+    "name": "Death Valley",
+    "kind": "desert",
+    "lat": 36.5,
+    "lon": -117.1,
+    "text": "Holder of the record for the hottest air temperature ever measured."
+   },
+   {
+    "name": "Rocky Mountains",
+    "kind": "mountains",
+    "lat": 40.34,
+    "lon": -105.68,
+    "text": "The great mountain chain of the west, here in Colorado."
+   },
+   {
+    "name": "Great Plains",
+    "kind": "plains",
+    "lat": 38.5,
+    "lon": -98.8,
+    "text": "Flat grassland now covered with farms, and the heart of Tornado Alley."
+   },
+   {
+    "name": "Mississippi River",
+    "kind": "river",
+    "lat": 38.63,
+    "lon": -90.2,
+    "text": "Part of one of the longest river systems in the world, here at St Louis."
+   },
+   {
+    "name": "Great Smoky Mountains",
+    "kind": "mountains",
+    "lat": 35.61,
+    "lon": -83.49,
+    "text": "Misty, forested peaks of the Appalachians and America's most visited national park."
+   },
+   {
+    "name": "Niagara Falls",
+    "kind": "waterfall",
+    "lat": 43.08,
+    "lon": -79.07,
+    "text": "Waterfalls on the border with Canada."
+   },
+   {
+    "name": "Everglades",
+    "kind": "wetland",
+    "lat": 25.29,
+    "lon": -80.9,
+    "text": "A vast subtropical wetland in Florida, home to alligators and manatees."
+   },
+   {
+    "name": "Denali",
+    "kind": "mountain",
+    "lat": 63.07,
+    "lon": -151.0,
+    "text": "North America's highest peak, in Alaska."
+   },
+   {
+    "name": "Kīlauea",
+    "kind": "volcano",
+    "lat": 19.42,
+    "lon": -155.29,
+    "text": "One of the world's most active volcanoes, on Hawaii."
+   }
+  ]
+ }
 }

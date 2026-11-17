@@ -53,5 +53,54 @@
    "term": "Tariff",
    "meaning": "A tax on goods brought in from another country."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in the USA",
+   "items": [
+    {
+     "title": "Phones and computers",
+     "subtitle": "Apple, Microsoft, Google",
+     "text": "American companies design many of the world's devices and apps."
+    },
+    {
+     "title": "Computer chips",
+     "subtitle": "Nvidia, Intel",
+     "text": "Chips that power phones, games and artificial intelligence."
+    },
+    {
+     "title": "Aircraft",
+     "subtitle": "Boeing",
+     "text": "One of the world's two biggest makers of passenger jets."
+    },
+    {
+     "title": "Films and streaming",
+     "subtitle": "Hollywood, Netflix, Disney",
+     "text": "American entertainment is watched worldwide."
+    },
+    {
+     "title": "Crops",
+     "subtitle": "Corn and soybeans",
+     "text": "The US grows more maize than any other country."
+    },
+    {
+     "title": "Oil and gas",
+     "subtitle": "Texas and beyond",
+     "text": "The world's biggest producer of both."
+    },
+    {
+     "title": "Cars",
+     "subtitle": "Ford, General Motors, Tesla",
+     "text": "From the first assembly-line cars to electric ones."
+    },
+    {
+     "title": "The US dollar",
+     "subtitle": "Since 1792",
+     "text": "The world's main currency for trade and savings."
+    }
+   ],
+   "intro": "Some of the things the United States makes and sells to the world."
+  }
  ]
 }

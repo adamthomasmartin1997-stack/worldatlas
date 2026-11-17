@@ -64,5 +64,54 @@
    "term": "Offshore wind",
    "meaning": "Wind turbines built out at sea, where winds are stronger and steadier."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in the UK",
+   "items": [
+    {
+     "title": "Cars",
+     "subtitle": "Mini, Jaguar Land Rover, Nissan",
+     "text": "British factories build cars for export, from Oxford to Sunderland."
+    },
+    {
+     "title": "Jet engines",
+     "subtitle": "Rolls-Royce",
+     "text": "Rolls-Royce engines power many of the world's long-haul planes."
+    },
+    {
+     "title": "Medicines",
+     "subtitle": "AstraZeneca, GSK",
+     "text": "Big drug companies and universities make the UK a leader in medical research."
+    },
+    {
+     "title": "Scotch whisky",
+     "subtitle": "Scotland",
+     "text": "One of the UK's biggest food and drink exports."
+    },
+    {
+     "title": "Finance",
+     "subtitle": "The City of London",
+     "text": "Banks, insurers and traders serve customers worldwide."
+    },
+    {
+     "title": "Video games",
+     "subtitle": "Edinburgh, Guildford, Leamington Spa",
+     "text": "British studios made Grand Theft Auto and many other hits."
+    },
+    {
+     "title": "TV and music",
+     "subtitle": "BBC, Bake Off, Adele",
+     "text": "British TV formats and music are sold around the world."
+    },
+    {
+     "title": "The pound",
+     "subtitle": "Sterling",
+     "text": "One of the oldest currencies still in use, issued by the Bank of England since 1694."
+    }
+   ],
+   "intro": "Some of the things the United Kingdom makes and sells to the world."
+  }
  ]
 }
