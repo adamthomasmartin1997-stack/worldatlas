@@ -51,5 +51,49 @@
    "term": "Extreme poverty",
    "meaning": "Living on so little money that basic needs like food cannot be met."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in China",
+   "items": [
+    {
+     "title": "Phones and electronics",
+     "subtitle": "Huawei, Xiaomi, Lenovo",
+     "text": "China also assembles many of the world's iPhones and laptops."
+    },
+    {
+     "title": "Electric cars and batteries",
+     "subtitle": "BYD, CATL",
+     "text": "China makes most of the world's electric-car batteries."
+    },
+    {
+     "title": "Solar panels",
+     "subtitle": "Everywhere",
+     "text": "China makes most of the world's solar panels."
+    },
+    {
+     "title": "Drones",
+     "subtitle": "DJI",
+     "text": "The world's leading maker of camera drones."
+    },
+    {
+     "title": "Ships and steel",
+     "subtitle": "Shanghai, Dalian",
+     "text": "China builds more ships and makes more steel than any other country."
+    },
+    {
+     "title": "Apps",
+     "subtitle": "TikTok, WeChat",
+     "text": "Chinese apps used by billions of people."
+    },
+    {
+     "title": "The renminbi",
+     "subtitle": "Yuan",
+     "text": "China's currency."
+    }
+   ],
+   "intro": "Some of the things China makes and sells to the world."
+  }
  ]
 }

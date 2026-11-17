@@ -51,5 +51,156 @@
    "term": "Judo",
    "meaning": "A Japanese martial art of throws and holds, meaning 'the gentle way'."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Nippon Professional Baseball",
+     "subtitle": "Baseball",
+     "text": "Japan's most popular league; the Yomiuri Giants have won the most titles."
+    },
+    {
+     "title": "J.League",
+     "subtitle": "Football · since 1993",
+     "text": "Professional football that helped Japan become an Asian power."
+    },
+    {
+     "title": "Grand Sumo",
+     "subtitle": "Sumo",
+     "text": "Six 15-day tournaments a year."
+    },
+    {
+     "title": "B.League",
+     "subtitle": "Basketball · since 2016",
+     "text": "A fast-growing basketball league."
+    },
+    {
+     "title": "WE League",
+     "subtitle": "Women's football · since 2021",
+     "text": "Japan's professional women's league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Shohei Ohtani",
+     "subtitle": "Baseball",
+     "text": "Pitches and hits at the top level in the US Major Leagues."
+    },
+    {
+     "title": "Ichiro Suzuki",
+     "subtitle": "Baseball",
+     "text": "Over 4,000 hits in Japan and the US combined."
+    },
+    {
+     "title": "Saori Yoshida",
+     "subtitle": "Wrestling",
+     "text": "Won three Olympic golds and 13 world titles."
+    },
+    {
+     "title": "Kohei Uchimura",
+     "subtitle": "Gymnastics",
+     "text": "Olympic all-around champion in 2012 and 2016."
+    },
+    {
+     "title": "Yuzuru Hanyu",
+     "subtitle": "Figure skating",
+     "text": "Olympic champion in 2014 and 2018."
+    },
+    {
+     "title": "Naomi Osaka",
+     "subtitle": "Tennis",
+     "text": "Four-time Grand Slam singles champion."
+    },
+    {
+     "title": "Homare Sawa",
+     "subtitle": "Football",
+     "text": "Led Japan to the 2011 Women's World Cup."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Japan's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Tokyo: National Stadium, Ryōgoku Kokugikan, Tokyo Dome",
+    "kind": "venue",
+    "lat": 35.69,
+    "lon": 139.73,
+    "text": "The Olympic stadium, the home of sumo and the 'Big Egg' baseball dome."
+   },
+   {
+    "name": "Koshien Stadium",
+    "kind": "venue",
+    "lat": 34.721,
+    "lon": 135.362,
+    "text": "Home of the national high school baseball championship."
+   },
+   {
+    "name": "Suzuka Circuit",
+    "kind": "venue",
+    "lat": 34.843,
+    "lon": 136.541,
+    "text": "Host of the Japanese Grand Prix."
+   },
+   {
+    "name": "Nagano",
+    "kind": "venue",
+    "lat": 36.65,
+    "lon": 138.18,
+    "text": "Host of the 1998 Winter Olympics."
+   },
+   {
+    "name": "Sapporo",
+    "kind": "venue",
+    "lat": 43.06,
+    "lon": 141.35,
+    "text": "Host of the 1972 Winter Olympics."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1964",
+    "title": "Tokyo Olympics",
+    "text": "Japan hosts Asia's first Olympics."
+   },
+   {
+    "year": "1998",
+    "title": "Nagano",
+    "text": "Japan hosts the Winter Olympics."
+   },
+   {
+    "year": "2002",
+    "title": "World Cup",
+    "text": "Co-hosted with South Korea."
+   },
+   {
+    "year": "2011",
+    "title": "World champions",
+    "text": "Japan's women win the World Cup months after the tsunami."
+   },
+   {
+    "year": "2015",
+    "title": "Brighton Miracle",
+    "text": "Japan's rugby team beats South Africa."
+   },
+   {
+    "year": "2021",
+    "title": "Tokyo Olympics",
+    "text": "Held a year late because of the pandemic."
+   }
+  ]
+ }
 }

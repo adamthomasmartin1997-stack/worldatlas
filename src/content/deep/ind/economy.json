@@ -44,5 +44,54 @@
    "term": "Informal work",
    "meaning": "Jobs without a contract, pension or legal protection, such as street selling or day labour."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in India",
+   "items": [
+    {
+     "title": "Software and IT services",
+     "subtitle": "Bengaluru, Hyderabad, Pune",
+     "text": "Companies such as Tata Consultancy Services and Infosys serve the world."
+    },
+    {
+     "title": "Medicines and vaccines",
+     "subtitle": "Hyderabad, Pune",
+     "text": "India makes a huge share of the world's generic medicines and vaccines."
+    },
+    {
+     "title": "Tea",
+     "subtitle": "Assam and Darjeeling",
+     "text": "India is one of the world's biggest tea producers."
+    },
+    {
+     "title": "Rice and spices",
+     "subtitle": "Everywhere",
+     "text": "India is the world's biggest rice exporter and the largest producer of spices such as turmeric."
+    },
+    {
+     "title": "Motorbikes and cars",
+     "subtitle": "Hero, Bajaj, Tata, Mahindra",
+     "text": "Huge numbers of two-wheelers and cars for India and abroad."
+    },
+    {
+     "title": "Smartphones",
+     "subtitle": "Assembled in India",
+     "text": "India has become a major centre for assembling phones, including iPhones."
+    },
+    {
+     "title": "Films",
+     "subtitle": "Bollywood and beyond",
+     "text": "India makes more films than any other country."
+    },
+    {
+     "title": "The rupee",
+     "subtitle": "₹",
+     "text": "India's currency."
+    }
+   ],
+   "intro": "Some of the things India makes and sells to the world."
+  }
  ]
 }

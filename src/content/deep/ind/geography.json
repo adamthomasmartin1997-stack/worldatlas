@@ -57,5 +57,89 @@
    "term": "Ghats",
    "meaning": "The ranges of hills along India's west and east coasts; also steps leading down to a river."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of India's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Pangong Lake, Ladakh",
+    "kind": "high lake",
+    "lat": 33.75,
+    "lon": 78.66,
+    "text": "A blue lake at about 4,200 m in the high Himalayan desert."
+   },
+   {
+    "name": "Kangchenjunga",
+    "kind": "mountain",
+    "lat": 27.7,
+    "lon": 88.15,
+    "text": "India's highest mountain, on the border with Nepal."
+   },
+   {
+    "name": "Thar Desert",
+    "kind": "desert",
+    "lat": 26.9,
+    "lon": 70.9,
+    "text": "Sand dunes and desert towns such as Jaisalmer."
+   },
+   {
+    "name": "Rann of Kutch",
+    "kind": "salt desert",
+    "lat": 23.8,
+    "lon": 69.8,
+    "text": "A vast white salt flat that floods in the monsoon."
+   },
+   {
+    "name": "Ganges at Varanasi",
+    "kind": "river",
+    "lat": 25.31,
+    "lon": 83.01,
+    "text": "The holy river, where pilgrims bathe on stone steps called ghats."
+   },
+   {
+    "name": "Sundarbans",
+    "kind": "mangroves",
+    "lat": 21.95,
+    "lon": 88.9,
+    "text": "The world's largest mangrove forest, home to Bengal tigers."
+   },
+   {
+    "name": "Kaziranga",
+    "kind": "grassland",
+    "lat": 26.58,
+    "lon": 93.17,
+    "text": "Home to most of the world's greater one-horned rhinos."
+   },
+   {
+    "name": "Meghalaya",
+    "kind": "rainy hills",
+    "lat": 25.3,
+    "lon": 91.58,
+    "text": "One of the wettest places on Earth, with bridges grown from tree roots."
+   },
+   {
+    "name": "Western Ghats",
+    "kind": "mountains",
+    "lat": 10.09,
+    "lon": 77.06,
+    "text": "Rainforest-covered hills with tea plantations around Munnar."
+   },
+   {
+    "name": "Kerala backwaters",
+    "kind": "waterways",
+    "lat": 9.5,
+    "lon": 76.35,
+    "text": "Lagoons and canals explored by houseboat."
+   },
+   {
+    "name": "Andaman Islands",
+    "kind": "islands",
+    "lat": 11.6,
+    "lon": 92.7,
+    "text": "Tropical islands far out in the Bay of Bengal."
+   }
+  ]
+ }
 }

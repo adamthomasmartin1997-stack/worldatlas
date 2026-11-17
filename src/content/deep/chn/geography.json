@@ -68,5 +68,89 @@
    "term": "Loess",
    "meaning": "Fine, yellowish soil blown by the wind, which makes fertile farmland."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of China's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Mount Everest (north side)",
+    "kind": "mountain",
+    "lat": 28.0,
+    "lon": 86.9,
+    "text": "The world's highest mountain, on the border with Nepal."
+   },
+   {
+    "name": "Taklamakan Desert",
+    "kind": "desert",
+    "lat": 38.9,
+    "lon": 82.0,
+    "text": "A vast sea of shifting sand dunes in the far west."
+   },
+   {
+    "name": "Qinghai Lake",
+    "kind": "lake",
+    "lat": 36.9,
+    "lon": 100.2,
+    "text": "China's largest lake, high on the Tibetan Plateau."
+   },
+   {
+    "name": "Jiuzhaigou",
+    "kind": "lakes",
+    "lat": 33.2,
+    "lon": 103.9,
+    "text": "Valleys of turquoise lakes and waterfalls."
+   },
+   {
+    "name": "Wolong",
+    "kind": "panda reserve",
+    "lat": 31.0,
+    "lon": 103.2,
+    "text": "Mountain bamboo forests and a famous giant panda centre."
+   },
+   {
+    "name": "Gobi Desert",
+    "kind": "desert",
+    "lat": 42.5,
+    "lon": 105.0,
+    "text": "A stony desert shared with Mongolia."
+   },
+   {
+    "name": "Hukou Waterfall",
+    "kind": "waterfall",
+    "lat": 36.15,
+    "lon": 110.44,
+    "text": "The Yellow River crashes through a narrow gorge."
+   },
+   {
+    "name": "Three Gorges",
+    "kind": "river gorges",
+    "lat": 30.83,
+    "lon": 110.95,
+    "text": "Dramatic gorges on the Yangtze, now dammed by the world's largest power station."
+   },
+   {
+    "name": "Zhangjiajie",
+    "kind": "stone pillars",
+    "lat": 29.32,
+    "lon": 110.43,
+    "text": "Thousands of sandstone pillars that inspired the floating mountains in the film Avatar."
+   },
+   {
+    "name": "Guilin and the Li River",
+    "kind": "karst hills",
+    "lat": 24.78,
+    "lon": 110.5,
+    "text": "Limestone peaks rising from rivers and rice fields."
+   },
+   {
+    "name": "Huangshan",
+    "kind": "mountains",
+    "lat": 30.13,
+    "lon": 118.17,
+    "text": "Granite peaks and twisted pines above the clouds."
+   }
+  ]
+ }
 }

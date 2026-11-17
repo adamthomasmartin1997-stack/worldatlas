@@ -58,5 +58,82 @@
    "term": "Typhoon",
    "meaning": "A tropical storm in the western Pacific, called a hurricane in the Atlantic."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Japan's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Mount Fuji",
+    "kind": "volcano",
+    "lat": 35.36,
+    "lon": 138.73,
+    "text": "Japan's highest and most famous mountain, a nearly perfect volcanic cone."
+   },
+   {
+    "name": "Japanese Alps",
+    "kind": "mountains",
+    "lat": 36.25,
+    "lon": 137.64,
+    "text": "High, snowy peaks in the middle of Honshu."
+   },
+   {
+    "name": "Jigokudani",
+    "kind": "hot springs",
+    "lat": 36.73,
+    "lon": 138.46,
+    "text": "Where snow monkeys bathe in hot springs in winter."
+   },
+   {
+    "name": "Shiretoko",
+    "kind": "wild coast",
+    "lat": 44.07,
+    "lon": 145.0,
+    "text": "A remote peninsula in Hokkaido with brown bears and winter sea ice."
+   },
+   {
+    "name": "Matsushima Bay",
+    "kind": "bay",
+    "lat": 38.37,
+    "lon": 141.06,
+    "text": "More than 200 pine-covered islets, one of Japan's three most famous views."
+   },
+   {
+    "name": "Lake Biwa",
+    "kind": "lake",
+    "lat": 35.25,
+    "lon": 136.08,
+    "text": "Japan's largest lake, one of the oldest lakes in the world."
+   },
+   {
+    "name": "Tottori Sand Dunes",
+    "kind": "dunes",
+    "lat": 35.54,
+    "lon": 134.23,
+    "text": "Huge sand dunes on the Sea of Japan coast."
+   },
+   {
+    "name": "Mount Aso",
+    "kind": "volcano",
+    "lat": 32.88,
+    "lon": 131.1,
+    "text": "An active volcano inside one of the largest calderas on Earth."
+   },
+   {
+    "name": "Yakushima",
+    "kind": "island forest",
+    "lat": 30.35,
+    "lon": 130.53,
+    "text": "Mossy forests with cedar trees thought to be thousands of years old."
+   },
+   {
+    "name": "Kerama Islands",
+    "kind": "coral reefs",
+    "lat": 26.2,
+    "lon": 127.3,
+    "text": "Turquoise water and coral reefs in Okinawa."
+   }
+  ]
+ }
 }

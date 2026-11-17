@@ -48,5 +48,171 @@
    "term": "Anime",
    "meaning": "Japanese animation."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Seven Samurai",
+     "subtitle": "1954 · Akira Kurosawa",
+     "text": "Villagers hire seven samurai to defend them from bandits."
+    },
+    {
+     "title": "Godzilla",
+     "subtitle": "1954 · Ishirō Honda",
+     "text": "A giant monster rises from the sea, a symbol of nuclear fears."
+    },
+    {
+     "title": "My Neighbor Totoro",
+     "subtitle": "1988 · Hayao Miyazaki",
+     "text": "Two sisters meet friendly forest spirits."
+    },
+    {
+     "title": "Spirited Away",
+     "subtitle": "2001 · Hayao Miyazaki",
+     "text": "A girl must work in a spirits' bathhouse to save her parents."
+    },
+    {
+     "title": "Your Name",
+     "subtitle": "2016 · Makoto Shinkai",
+     "text": "Two teenagers mysteriously swap bodies."
+    },
+    {
+     "title": "Drive My Car",
+     "subtitle": "2021 · Ryusuke Hamaguchi",
+     "text": "Won the Oscar for best international feature."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Tale of Genji",
+     "subtitle": "c. 1000 · Murasaki Shikibu",
+     "text": "Life at the imperial court, often called the first novel."
+    },
+    {
+     "title": "Norwegian Wood",
+     "subtitle": "1987 · Haruki Murakami",
+     "text": "A student looks back on love and loss in 1960s Tokyo."
+    },
+    {
+     "title": "One Piece",
+     "subtitle": "from 1997 · Eiichiro Oda",
+     "text": "The best-selling manga series of all time, about a pirate crew."
+    },
+    {
+     "title": "Convenience Store Woman",
+     "subtitle": "2016 · Sayaka Murata",
+     "text": "A woman finds her place working in a 24-hour shop."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Sukiyaki",
+     "subtitle": "Kyu Sakamoto, 1961",
+     "text": "Went to number one in the US in 1963, still the only Japanese-language song to do so."
+    },
+    {
+     "title": "Super Mario Bros. theme",
+     "subtitle": "Koji Kondo, 1985",
+     "text": "One of the most recognised tunes in the world."
+    },
+    {
+     "title": "Plastic Love",
+     "subtitle": "Mariya Takeuchi, 1984",
+     "text": "A 'city pop' song rediscovered by millions online."
+    },
+    {
+     "title": "Idol",
+     "subtitle": "YOASOBI, 2023",
+     "text": "An anime theme that topped global charts."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Sushi",
+     "subtitle": "Everywhere",
+     "text": "Vinegared rice with raw fish or other toppings."
+    },
+    {
+     "title": "Ramen",
+     "subtitle": "Everywhere",
+     "text": "Noodle soup with regional styles from miso to pork-bone broth."
+    },
+    {
+     "title": "Tempura",
+     "subtitle": "Everywhere",
+     "text": "Seafood and vegetables in light, crispy batter."
+    },
+    {
+     "title": "Okonomiyaki",
+     "subtitle": "Osaka and Hiroshima",
+     "text": "A savoury pancake cooked on a hot plate."
+    },
+    {
+     "title": "Mochi",
+     "subtitle": "Everywhere",
+     "text": "Chewy rice cakes, eaten especially at New Year."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "New Year",
+    "text": "Families visit shrines in the first days of the year."
+   },
+   {
+    "month": 2,
+    "name": "Sapporo Snow Festival",
+    "text": "Giant snow and ice sculptures in Hokkaido."
+   },
+   {
+    "month": 3,
+    "name": "Hina Matsuri",
+    "text": "Girls' Day on 3 March, with displays of dolls."
+   },
+   {
+    "month": 4,
+    "name": "Hanami",
+    "text": "Picnics under the cherry blossom."
+   },
+   {
+    "month": 5,
+    "name": "Children's Day",
+    "text": "Carp-shaped streamers fly on 5 May."
+   },
+   {
+    "month": 7,
+    "name": "Gion Matsuri",
+    "text": "Kyoto's month-long festival with giant floats."
+   },
+   {
+    "month": 8,
+    "name": "Obon",
+    "text": "Families honour ancestors with lanterns and dances."
+   },
+   {
+    "month": 12,
+    "name": "New Year's Eve",
+    "text": "Temple bells ring 108 times at midnight."
+   }
+  ]
+ }
 }

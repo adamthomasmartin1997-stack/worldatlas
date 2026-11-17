@@ -49,5 +49,54 @@
    "term": "Karōshi",
    "meaning": "Japanese for 'death from overwork'."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Japan",
+   "items": [
+    {
+     "title": "Cars",
+     "subtitle": "Toyota, Honda, Nissan",
+     "text": "Toyota is the world's biggest car maker by sales."
+    },
+    {
+     "title": "Cameras and electronics",
+     "subtitle": "Sony, Canon, Nikon, Panasonic",
+     "text": "Japanese brands lead in cameras and image sensors."
+    },
+    {
+     "title": "Video games",
+     "subtitle": "Nintendo, Sony PlayStation",
+     "text": "Mario, Pokémon and the PlayStation all come from Japan."
+    },
+    {
+     "title": "Industrial robots",
+     "subtitle": "Fanuc, Yaskawa",
+     "text": "Robots that build cars and electronics worldwide."
+    },
+    {
+     "title": "Anime and manga",
+     "subtitle": "Studio Ghibli, Shueisha",
+     "text": "Comics and cartoons enjoyed around the world."
+    },
+    {
+     "title": "Bullet trains",
+     "subtitle": "Shinkansen",
+     "text": "Japan's high-speed trains have run since 1964."
+    },
+    {
+     "title": "Clothes",
+     "subtitle": "Uniqlo",
+     "text": "One of the world's biggest clothing brands."
+    },
+    {
+     "title": "The yen",
+     "subtitle": "Since 1871",
+     "text": "Japan's currency."
+    }
+   ],
+   "intro": "Some of the things Japan makes and sells to the world."
+  }
  ]
 }

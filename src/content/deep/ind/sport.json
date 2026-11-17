@@ -53,5 +53,156 @@
    "term": "Kabaddi",
    "meaning": "A team contact sport from South Asia, played without any equipment."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Indian Premier League",
+     "subtitle": "Cricket · since 2008",
+     "text": "One of the richest leagues in sport; Mumbai Indians and Chennai Super Kings have the most titles."
+    },
+    {
+     "title": "Women's Premier League",
+     "subtitle": "Cricket · since 2023",
+     "text": "Professional women's T20 cricket."
+    },
+    {
+     "title": "Ranji Trophy",
+     "subtitle": "Cricket · since 1934",
+     "text": "India's main domestic first-class competition."
+    },
+    {
+     "title": "Indian Super League",
+     "subtitle": "Football · since 2014",
+     "text": "India's top football league."
+    },
+    {
+     "title": "Pro Kabaddi League",
+     "subtitle": "Kabaddi · since 2014",
+     "text": "Made kabaddi a TV hit."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Dhyan Chand",
+     "subtitle": "Hockey",
+     "text": "Won three Olympic golds; his birthday is National Sports Day."
+    },
+    {
+     "title": "Kapil Dev",
+     "subtitle": "Cricket",
+     "text": "Captained India to the 1983 World Cup."
+    },
+    {
+     "title": "Sachin Tendulkar",
+     "subtitle": "Cricket",
+     "text": "Scored 100 international centuries."
+    },
+    {
+     "title": "Mithali Raj",
+     "subtitle": "Cricket",
+     "text": "One of the greatest run-scorers in women's cricket."
+    },
+    {
+     "title": "Mary Kom",
+     "subtitle": "Boxing",
+     "text": "Six-time world champion and Olympic medallist."
+    },
+    {
+     "title": "Neeraj Chopra",
+     "subtitle": "Athletics",
+     "text": "Olympic javelin champion in 2021."
+    },
+    {
+     "title": "P. V. Sindhu",
+     "subtitle": "Badminton",
+     "text": "Two-time Olympic medallist."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where India's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Narendra Modi Stadium, Ahmedabad",
+    "kind": "venue",
+    "lat": 23.092,
+    "lon": 72.597,
+    "text": "The largest cricket stadium in the world."
+   },
+   {
+    "name": "Wankhede Stadium, Mumbai",
+    "kind": "venue",
+    "lat": 18.939,
+    "lon": 72.826,
+    "text": "Where India won the 2011 World Cup final."
+   },
+   {
+    "name": "Eden Gardens, Kolkata",
+    "kind": "venue",
+    "lat": 22.565,
+    "lon": 88.343,
+    "text": "A huge, historic cricket ground."
+   },
+   {
+    "name": "Chepauk, Chennai",
+    "kind": "venue",
+    "lat": 13.063,
+    "lon": 80.279,
+    "text": "One of India's oldest cricket grounds."
+   },
+   {
+    "name": "Jawaharlal Nehru Stadium, Delhi",
+    "kind": "venue",
+    "lat": 28.58,
+    "lon": 77.234,
+    "text": "Main stadium of the 2010 Commonwealth Games."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1928",
+    "title": "First hockey gold",
+    "text": "India begins a run of six straight Olympic hockey titles."
+   },
+   {
+    "year": "1983",
+    "title": "World champions",
+    "text": "India beats the West Indies at Lord's."
+   },
+   {
+    "year": "2008",
+    "title": "Bindra's gold and the IPL",
+    "text": "India's first individual Olympic gold; the IPL begins."
+   },
+   {
+    "year": "2011",
+    "title": "World Cup at home",
+    "text": "India wins in Mumbai."
+   },
+   {
+    "year": "2021",
+    "title": "Chopra's javelin",
+    "text": "India's first Olympic athletics gold."
+   },
+   {
+    "year": "2025",
+    "title": "Women's World Cup",
+    "text": "India's women win cricket's World Cup."
+   }
+  ]
+ }
 }

@@ -49,5 +49,181 @@
    "term": "Bollywood",
    "meaning": "The Hindi-language film industry based in Mumbai (once called Bombay)."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Pather Panchali",
+     "subtitle": "1955 · Satyajit Ray",
+     "text": "A poor village family's life, a landmark of world cinema."
+    },
+    {
+     "title": "Mother India",
+     "subtitle": "1957 · Mehboob Khan",
+     "text": "A mother's struggle to raise her sons."
+    },
+    {
+     "title": "Sholay",
+     "subtitle": "1975 · Ramesh Sippy",
+     "text": "Two outlaws hunt a bandit; one of India's most loved films."
+    },
+    {
+     "title": "Lagaan",
+     "subtitle": "2001 · Ashutosh Gowariker",
+     "text": "Villagers challenge British officers to a cricket match."
+    },
+    {
+     "title": "3 Idiots",
+     "subtitle": "2009 · Rajkumar Hirani",
+     "text": "Three engineering students question the pressure to succeed."
+    },
+    {
+     "title": "RRR",
+     "subtitle": "2022 · S. S. Rajamouli",
+     "text": "Two revolutionaries fight the British; its song won an Oscar."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Ramayana",
+     "subtitle": "Ancient · Valmiki",
+     "text": "Prince Rama's quest to rescue Sita."
+    },
+    {
+     "title": "Gitanjali",
+     "subtitle": "1910 · Rabindranath Tagore",
+     "text": "Poems that won the Nobel Prize."
+    },
+    {
+     "title": "Malgudi Days",
+     "subtitle": "1943 · R. K. Narayan",
+     "text": "Stories of life in an imaginary South Indian town."
+    },
+    {
+     "title": "Midnight's Children",
+     "subtitle": "1981 · Salman Rushdie",
+     "text": "Children born at the moment of independence have magical powers."
+    },
+    {
+     "title": "The God of Small Things",
+     "subtitle": "1997 · Arundhati Roy",
+     "text": "Twins in Kerala; won the Booker Prize."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Ravi Shankar's sitar",
+     "subtitle": "Classical",
+     "text": "Took Indian classical music to the world."
+    },
+    {
+     "title": "Lag Jaa Gale",
+     "subtitle": "Lata Mangeshkar, 1964",
+     "text": "From the 'Nightingale of India', who recorded thousands of songs."
+    },
+    {
+     "title": "Jai Ho",
+     "subtitle": "A. R. Rahman, 2008",
+     "text": "Won the Oscar for best song."
+    },
+    {
+     "title": "Tum Hi Ho",
+     "subtitle": "Arijit Singh, 2013",
+     "text": "From one of India's most-streamed singers."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Biryani",
+     "subtitle": "Hyderabad, Lucknow and more",
+     "text": "Spiced rice layered with meat or vegetables."
+    },
+    {
+     "title": "Dosa",
+     "subtitle": "The south",
+     "text": "A thin, crispy pancake of rice and lentils."
+    },
+    {
+     "title": "Butter chicken",
+     "subtitle": "Delhi",
+     "text": "Chicken in a creamy tomato sauce."
+    },
+    {
+     "title": "Samosa",
+     "subtitle": "Everywhere",
+     "text": "Fried pastry filled with spiced potato."
+    },
+    {
+     "title": "Masala chai",
+     "subtitle": "Everywhere",
+     "text": "Sweet, spiced milky tea."
+    },
+    {
+     "title": "Gulab jamun",
+     "subtitle": "Everywhere",
+     "text": "Fried milk balls soaked in syrup."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Republic Day",
+    "text": "A grand parade in New Delhi on 26 January."
+   },
+   {
+    "month": 1,
+    "name": "Makar Sankranti",
+    "text": "Harvest festival; kites fill the skies in Gujarat."
+   },
+   {
+    "month": 3,
+    "name": "Holi",
+    "text": "Coloured powder and water welcome spring."
+   },
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "15 August, with the flag raised at Delhi's Red Fort."
+   },
+   {
+    "month": 9,
+    "name": "Ganesh Chaturthi",
+    "text": "Giant statues of Ganesh are paraded in Mumbai."
+   },
+   {
+    "month": 10,
+    "name": "Durga Puja",
+    "text": "Kolkata's festival of artistic shrines, on UNESCO's list."
+   },
+   {
+    "month": 11,
+    "name": "Diwali",
+    "text": "The festival of lights, in October or November."
+   },
+   {
+    "month": 12,
+    "name": "Hornbill Festival",
+    "text": "The cultures of Nagaland's peoples on show."
+   }
+  ]
+ }
 }

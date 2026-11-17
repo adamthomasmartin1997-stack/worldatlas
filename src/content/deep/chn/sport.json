@@ -42,5 +42,144 @@
    "term": "Cuju",
    "meaning": "An ancient Chinese game of kicking a ball through a net."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Chinese Super League",
+     "subtitle": "Football",
+     "text": "China's top football league."
+    },
+    {
+     "title": "CBA",
+     "subtitle": "Basketball",
+     "text": "The Chinese Basketball Association, where Yao Ming started."
+    },
+    {
+     "title": "Table Tennis Super League",
+     "subtitle": "Table tennis",
+     "text": "The world's strongest table tennis league."
+    },
+    {
+     "title": "LPL",
+     "subtitle": "Esports",
+     "text": "One of the biggest League of Legends leagues in the world."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Deng Yaping",
+     "subtitle": "Table tennis",
+     "text": "Won four Olympic golds in the 1990s."
+    },
+    {
+     "title": "Ma Long",
+     "subtitle": "Table tennis",
+     "text": "Often called the greatest table tennis player of all time."
+    },
+    {
+     "title": "Yao Ming",
+     "subtitle": "Basketball",
+     "text": "NBA All-Star who opened the league to Chinese fans."
+    },
+    {
+     "title": "Liu Xiang",
+     "subtitle": "Athletics",
+     "text": "Won the 110 m hurdles at the 2004 Olympics."
+    },
+    {
+     "title": "Li Na",
+     "subtitle": "Tennis",
+     "text": "The first Asian player to win a Grand Slam singles title."
+    },
+    {
+     "title": "Guo Jingjing",
+     "subtitle": "Diving",
+     "text": "Four Olympic gold medals."
+    },
+    {
+     "title": "Eileen Gu",
+     "subtitle": "Freestyle skiing",
+     "text": "Won two golds at the 2022 Beijing Winter Olympics."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where China's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Beijing: Bird's Nest and Water Cube",
+    "kind": "venue",
+    "lat": 39.993,
+    "lon": 116.396,
+    "text": "Venues of the 2008 Summer and 2022 Winter Olympics."
+   },
+   {
+    "name": "Zhangjiakou",
+    "kind": "venue",
+    "lat": 40.97,
+    "lon": 115.45,
+    "text": "Ski and snowboard venues of the 2022 Winter Olympics."
+   },
+   {
+    "name": "Shanghai International Circuit",
+    "kind": "venue",
+    "lat": 31.338,
+    "lon": 121.22,
+    "text": "Host of the Chinese Grand Prix."
+   },
+   {
+    "name": "Hangzhou Olympic Sports Centre",
+    "kind": "venue",
+    "lat": 30.23,
+    "lon": 120.23,
+    "text": "The 'Big Lotus' stadium of the 2023 Asian Games."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1971",
+    "title": "Ping-pong diplomacy",
+    "text": "American players visit, warming US-China relations."
+   },
+   {
+    "year": "1984",
+    "title": "First Olympic gold",
+    "text": "Shooter Xu Haifeng wins China's first gold."
+   },
+   {
+    "year": "2004",
+    "title": "Liu Xiang",
+    "text": "China's first men's Olympic athletics gold."
+   },
+   {
+    "year": "2008",
+    "title": "Beijing Olympics",
+    "text": "China tops the gold medal table at home."
+   },
+   {
+    "year": "2011",
+    "title": "Li Na",
+    "text": "Wins the French Open."
+   },
+   {
+    "year": "2022",
+    "title": "Winter Olympics",
+    "text": "Beijing becomes the first city to host both Games."
+   }
+  ]
+ }
 }

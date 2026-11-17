@@ -79,5 +79,71 @@
    "term": "Non-aligned",
    "meaning": "Not allied with either side in the Cold War."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by MPs and state legislators for 5 years",
+     "text": "Head of state; acts on the government's advice."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leader of the Lok Sabha majority",
+     "text": "Leads the government."
+    },
+    {
+     "title": "The Lok Sabha",
+     "subtitle": "543 elected members, 5-year terms",
+     "text": "The House of the People; decides who governs."
+    },
+    {
+     "title": "The Rajya Sabha",
+     "subtitle": "Mostly chosen by state assemblies",
+     "text": "The Council of States; reviews laws."
+    },
+    {
+     "title": "The Supreme Court",
+     "subtitle": "Chief Justice and other judges",
+     "text": "Protects the constitution and can strike down laws."
+    },
+    {
+     "title": "States and villages",
+     "subtitle": "28 states; about 250,000 village councils",
+     "text": "States run police and much more; village councils, called panchayats, handle local matters."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In either house; money bills must start in the Lok Sabha."
+   },
+   {
+    "title": "Debate and committee",
+    "text": "Members debate it and a committee may study it closely."
+   },
+   {
+    "title": "Both houses pass it",
+    "text": "The Lok Sabha and Rajya Sabha must agree on the same text."
+   },
+   {
+    "title": "Joint sitting",
+    "text": "If they deadlock on an ordinary bill, both houses can meet together to vote."
+   },
+   {
+    "title": "The President's assent",
+    "text": "The President signs it, and it becomes an Act."
+   }
+  ]
+ }
 }

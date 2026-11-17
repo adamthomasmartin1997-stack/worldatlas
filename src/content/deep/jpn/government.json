@@ -80,5 +80,75 @@
    "term": "Renounce",
    "meaning": "To formally give something up."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The Emperor",
+     "subtitle": "Inherits the throne",
+     "text": "A symbol of the nation with no political power; performs ceremonies."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Chosen by the Diet",
+     "text": "Leads the government and picks the Cabinet."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "465 members, up to 4-year terms",
+     "text": "The more powerful chamber; it has the final say on the budget and choosing the Prime Minister."
+    },
+    {
+     "title": "House of Councillors",
+     "subtitle": "248 members, 6-year terms",
+     "text": "Half are elected every 3 years; it reviews laws."
+    },
+    {
+     "title": "The Supreme Court",
+     "subtitle": "15 justices",
+     "text": "Can rule laws unconstitutional."
+    },
+    {
+     "title": "47 prefectures",
+     "subtitle": "Elected governors and assemblies",
+     "text": "Run local services across Japan."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is submitted",
+    "text": "Most come from the Cabinet; members of the Diet can propose them too."
+   },
+   {
+    "title": "Committee",
+    "text": "A committee examines the bill and may change it."
+   },
+   {
+    "title": "First chamber votes",
+    "text": "The full house debates and votes."
+   },
+   {
+    "title": "Second chamber votes",
+    "text": "The other house considers it in the same way."
+   },
+   {
+    "title": "If they disagree",
+    "text": "The House of Representatives can pass the bill again with a two-thirds majority."
+   },
+   {
+    "title": "Promulgation",
+    "text": "The Emperor formally announces the law on the Cabinet's advice."
+   }
+  ]
+ }
 }

@@ -65,5 +65,66 @@
    "term": "Censorship",
    "meaning": "Controlling or blocking what people can read, watch or say."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The Communist Party leadership",
+     "subtitle": "General Secretary and Politburo Standing Committee",
+     "text": "The party's top leaders make the big decisions."
+    },
+    {
+     "title": "The President",
+     "subtitle": "Chosen by the National People's Congress",
+     "text": "Head of state; the post is held by the party's leader."
+    },
+    {
+     "title": "The National People's Congress",
+     "subtitle": "About 3,000 delegates",
+     "text": "Officially the highest law-making body; it meets once a year."
+    },
+    {
+     "title": "The State Council",
+     "subtitle": "Led by the Premier",
+     "text": "Runs the government and economy day to day."
+    },
+    {
+     "title": "The Central Military Commission",
+     "subtitle": "Chaired by the party leader",
+     "text": "Commands the People's Liberation Army."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Party priorities",
+    "text": "The Communist Party sets the main direction for new laws."
+   },
+   {
+    "title": "Drafting",
+    "text": "Ministries or committees of the NPC write the draft."
+   },
+   {
+    "title": "Review",
+    "text": "The NPC Standing Committee usually reads and discusses a draft three times."
+   },
+   {
+    "title": "Vote",
+    "text": "The NPC or its Standing Committee votes on it."
+   },
+   {
+    "title": "Promulgation",
+    "text": "The President signs an order announcing the law."
+   }
+  ]
+ }
 }

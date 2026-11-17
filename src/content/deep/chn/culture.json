@@ -44,5 +44,166 @@
    "term": "Zodiac",
    "meaning": "In China, a cycle of 12 years, each named after an animal."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Raise the Red Lantern",
+     "subtitle": "1991 · Zhang Yimou",
+     "text": "Life inside a wealthy household in the 1920s."
+    },
+    {
+     "title": "Farewell My Concubine",
+     "subtitle": "1993 · Chen Kaige",
+     "text": "Two Peking opera actors across 50 years of history; won the top prize at Cannes."
+    },
+    {
+     "title": "Hero",
+     "subtitle": "2002 · Zhang Yimou",
+     "text": "A colourful martial-arts tale about the first emperor."
+    },
+    {
+     "title": "The Wandering Earth",
+     "subtitle": "2019 · Frant Gwo",
+     "text": "Humanity tries to steer Earth away from a dying Sun."
+    },
+    {
+     "title": "Ne Zha 2",
+     "subtitle": "2025 · Jiaozi",
+     "text": "Became the highest-earning animated film ever."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Analects",
+     "subtitle": "c. 400s BC · Confucius' followers",
+     "text": "Sayings of Confucius about respect, learning and good government."
+    },
+    {
+     "title": "Romance of the Three Kingdoms",
+     "subtitle": "1300s · Luo Guanzhong",
+     "text": "Heroes and generals battle as the Han dynasty collapses."
+    },
+    {
+     "title": "Journey to the West",
+     "subtitle": "1500s · Wu Cheng'en",
+     "text": "The Monkey King escorts a monk to India."
+    },
+    {
+     "title": "Dream of the Red Chamber",
+     "subtitle": "1700s · Cao Xueqin",
+     "text": "The rise and fall of a great family."
+    },
+    {
+     "title": "The Three-Body Problem",
+     "subtitle": "2008 · Liu Cixin",
+     "text": "Contact with an alien civilisation; a global science-fiction hit."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Mo Li Hua (Jasmine Flower)",
+     "subtitle": "Folk song",
+     "text": "One of China's best-known tunes, played at the 2008 Olympics."
+    },
+    {
+     "title": "Butterfly Lovers Violin Concerto",
+     "subtitle": "He Zhanhao and Chen Gang, 1959",
+     "text": "A famous concerto based on a tragic love story."
+    },
+    {
+     "title": "Nothing to My Name",
+     "subtitle": "Cui Jian, 1986",
+     "text": "The song that launched Chinese rock music."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Peking duck",
+     "subtitle": "Beijing",
+     "text": "Crispy roast duck wrapped in thin pancakes."
+    },
+    {
+     "title": "Jiaozi",
+     "subtitle": "The north",
+     "text": "Dumplings eaten especially at Spring Festival."
+    },
+    {
+     "title": "Mapo tofu",
+     "subtitle": "Sichuan",
+     "text": "Tofu in a fiery, numbing chilli sauce."
+    },
+    {
+     "title": "Dim sum",
+     "subtitle": "Guangdong",
+     "text": "Small dishes such as dumplings and buns, eaten with tea."
+    },
+    {
+     "title": "Lanzhou noodles",
+     "subtitle": "Gansu",
+     "text": "Hand-pulled noodles in beef broth."
+    },
+    {
+     "title": "Hot pot",
+     "subtitle": "Chongqing",
+     "text": "Diners cook food in a bubbling, spicy shared pot."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Harbin Ice Festival",
+    "text": "A city of giant ice sculptures lit up at night."
+   },
+   {
+    "month": 2,
+    "name": "Spring Festival",
+    "text": "Chinese New Year, usually in late January or February, with family feasts and fireworks."
+   },
+   {
+    "month": 2,
+    "name": "Lantern Festival",
+    "text": "Lanterns light the 15th day of the new year."
+   },
+   {
+    "month": 4,
+    "name": "Qingming",
+    "text": "Families sweep and tend their ancestors' graves."
+   },
+   {
+    "month": 6,
+    "name": "Dragon Boat Festival",
+    "text": "Boat races and sticky rice dumplings."
+   },
+   {
+    "month": 9,
+    "name": "Mid-Autumn Festival",
+    "text": "Mooncakes under the full moon, sometimes in early October."
+   },
+   {
+    "month": 10,
+    "name": "National Day",
+    "text": "1 October begins the 'Golden Week' holiday."
+   }
+  ]
+ }
 }
