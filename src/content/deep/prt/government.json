@@ -1,0 +1,50 @@
+{
+ "status": "draft",
+ "intro": "Portugal is a democratic republic with an elected president and parliament, a founding member of NATO and a member of the EU.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "President and parliament",
+   "text": [
+    "The president is elected directly for five years. The Assembly of the Republic, with 230 members, chooses the government, led by the prime minister. The Azores and Madeira are autonomous regions with their own governments.",
+    "In 2001 Portugal stopped treating possession of small amounts of drugs as a crime, treating addiction as a health problem instead, an approach studied worldwide."
+   ],
+   "facts": [
+    {
+     "label": "Assembly",
+     "value": "230 members"
+    },
+    {
+     "label": "Autonomous regions",
+     "value": "Azores, Madeira"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols",
+   "text": [
+    "The green and red flag shows an armillary sphere, a navigation instrument, recalling the Age of Discovery. Freedom Day, 25 April, marks the Carnation Revolution. Portugal leads a community of Portuguese-speaking countries."
+   ],
+   "related": [
+    "BRA",
+    "AGO",
+    "MOZ",
+    "CPV",
+    "GNB",
+    "STP",
+    "TLS"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Autonomous region",
+   "meaning": "A region that governs many of its own affairs."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Portugal's economy runs on tourism, services, exports such as cork, wine, shoes and cars, and a fast-growing share of renewable energy.",
+ "chapters": [
+  {
+   "id": "sectors",
+   "title": "What Portugal makes",
+   "text": [
+    "Tourists flock to Lisbon, Porto, the Algarve and Madeira. Portugal is famous for port wine from the Douro Valley, cork, textiles, shoes and cars from a large Volkswagen factory."
+   ]
+  },
+  {
+   "id": "energy",
+   "title": "Green power",
+   "text": [
+    "Wind, hydro and solar power produce most of Portugal's electricity, and in 2023 the country ran on renewable power alone for six days in a row. After a debt crisis it needed an international bailout in 2011, but its economy has since recovered. Portugal uses the euro."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Renewable energy",
+   "meaning": "Power from sources such as wind, water and sun."
+  }
+ ]
+}

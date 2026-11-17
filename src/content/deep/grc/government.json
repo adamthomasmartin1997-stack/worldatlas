@@ -1,0 +1,46 @@
+{
+ "status": "draft",
+ "intro": "Greece, the birthplace of democracy, is a parliamentary republic and a member of the EU and NATO.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Parliament and president",
+   "text": [
+    "The Hellenic Parliament has 300 members and chooses the prime minister, who leads the government. The president, elected by parliament, is head of state. The monarchy was abolished by referendum in 1974.",
+    "Mount Athos, a peninsula of 20 Orthodox monasteries, governs itself; women have not been allowed to visit for more than a thousand years."
+   ],
+   "facts": [
+    {
+     "label": "Parliament",
+     "value": "300 members"
+    },
+    {
+     "label": "Regions",
+     "value": "13"
+    },
+    {
+     "label": "Voting age",
+     "value": "17"
+    }
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols and the world",
+   "text": [
+    "The flag's nine blue and white stripes are often said to stand for the nine syllables of 'Freedom or Death', the cry of the War of Independence. Independence Day is 25 March.",
+    "Greece joined NATO in 1952 and the EU in 1981. Its relations with neighbouring Turkey, over the Aegean Sea and Cyprus, are often tense."
+   ],
+   "related": [
+    "TUR",
+    "CYP"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Referendum",
+   "meaning": "A vote by all citizens on a single question."
+  }
+ ]
+}

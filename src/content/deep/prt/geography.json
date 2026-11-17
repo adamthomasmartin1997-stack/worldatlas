@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Portugal sits on the western edge of Europe, facing the Atlantic, with green hills in the north, rolling plains in the south and island groups far out at sea.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mainland Portugal",
+   "text": [
+    "Portugal's only land neighbour is Spain. Cabo da Roca, near Lisbon, is the westernmost point of mainland Europe. The north is green and hilly, with the terraced vineyards of the Douro Valley, while the south has the plains of the Alentejo and the cliffs and beaches of the Algarve.",
+    "At Nazaré, an underwater canyon creates some of the biggest surfable waves on Earth."
+   ],
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "islands",
+   "title": "Islands and cork",
+   "text": [
+    "The Azores, volcanic islands in the middle of the Atlantic, hold Portugal's highest point, Mount Pico. Madeira, closer to Africa, is known for its steep green mountains.",
+    "Portugal's cork oak forests produce about half of the world's cork, harvested by peeling the bark every nine years without cutting down the trees."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cork",
+   "meaning": "The thick, light bark of the cork oak, used for bottle stoppers and much more."
+  }
+ ]
+}

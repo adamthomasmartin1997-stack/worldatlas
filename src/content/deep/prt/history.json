@@ -1,0 +1,128 @@
+{
+ "status": "draft",
+ "intro": "Portugal, one of Europe's oldest nations, led the Age of Discovery and built a global empire. After a long dictatorship, a peaceful revolution in 1974 made it a democracy.",
+ "chapters": [
+  {
+   "id": "kingdom",
+   "title": "A kingdom is born",
+   "text": [
+    "Romans, Visigoths and Moors all ruled the land before Afonso Henriques became the first king of Portugal in the 1100s and captured Lisbon in 1147. Portugal's borders were fixed in 1297, making them among the oldest in Europe.",
+    "In 1373 Portugal and England signed an alliance that is still in force, the oldest in the world."
+   ],
+   "related": [
+    "ESP",
+    "GBR"
+   ]
+  },
+  {
+   "id": "discovery",
+   "title": "The Age of Discovery",
+   "text": [
+    "In the 1400s Portuguese sailors in small, nimble ships called caravels explored the coast of Africa. Bartolomeu Dias rounded the southern tip of Africa in 1488, Vasco da Gama reached India by sea in 1498, and Pedro Álvares Cabral landed in Brazil in 1500.",
+    "Portugal built a trading empire from Brazil to Angola, Mozambique, Goa, Macau and Timor. It also carried more enslaved Africans across the Atlantic than any other country."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Portuguese voyages opened the first direct sea route between Europe and Asia, starting a new era of global trade."
+   },
+   "related": [
+    "BRA",
+    "AGO",
+    "MOZ",
+    "IND",
+    "CHN",
+    "TLS",
+    "CPV",
+    "ZAF"
+   ]
+  },
+  {
+   "id": "earthquake",
+   "title": "Earthquake and dictatorship",
+   "text": [
+    "On 1 November 1755 a huge earthquake, tsunami and fires destroyed much of Lisbon. The city was rebuilt with some of the first earthquake-resistant buildings. When Napoleon invaded in 1807, the royal family fled to Brazil, which became independent in 1822.",
+    "Portugal became a republic in 1910, but from the 1930s António Salazar ruled as a dictator, and the country fought long wars against independence movements in its African colonies."
+   ],
+   "related": [
+    "BRA",
+    "FRA"
+   ]
+  },
+  {
+   "id": "revolution",
+   "title": "The Carnation Revolution",
+   "text": [
+    "On 25 April 1974 army officers overthrew the dictatorship in an almost bloodless coup. Crowds put red carnations in the soldiers' rifles, and it became known as the Carnation Revolution. The African colonies became independent in 1975.",
+    "Portugal joined the European Community in 1986. In 1999 it handed Macau to China, ending the last European colony in Asia."
+   ],
+   "related": [
+    "AGO",
+    "MOZ",
+    "GNB",
+    "CHN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1143",
+   "title": "Kingdom recognised",
+   "text": "Portugal becomes an independent kingdom."
+  },
+  {
+   "year": "1373",
+   "title": "English alliance",
+   "text": "The world's oldest alliance still in force."
+  },
+  {
+   "year": "1488",
+   "title": "Cape of Good Hope",
+   "text": "Dias rounds Africa."
+  },
+  {
+   "year": "1498",
+   "title": "Route to India",
+   "text": "Vasco da Gama reaches India."
+  },
+  {
+   "year": "1500",
+   "title": "Brazil",
+   "text": "Cabral lands in Brazil."
+  },
+  {
+   "year": "1755",
+   "title": "Lisbon earthquake",
+   "text": "The city is destroyed."
+  },
+  {
+   "year": "1910",
+   "title": "Republic",
+   "text": "The monarchy is overthrown."
+  },
+  {
+   "year": "1974",
+   "title": "Carnation Revolution",
+   "text": "The dictatorship falls."
+  },
+  {
+   "year": "1986",
+   "title": "Joins the EC",
+   "text": "Portugal joins what becomes the EU."
+  },
+  {
+   "year": "1999",
+   "title": "Macau handover",
+   "text": "The last European colony in Asia is returned."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Caravel",
+   "meaning": "A small, fast sailing ship used by Portuguese explorers."
+  },
+  {
+   "term": "Coup",
+   "meaning": "A sudden seizure of power, often by the army."
+  }
+ ]
+}

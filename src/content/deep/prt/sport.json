@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Football rules in Portugal, home of Cristiano Ronaldo, and the country is also a top surfing and roller hockey nation.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Portugal won the European Championship in 2016 and the Nations League in 2019 and 2025. Cristiano Ronaldo has scored more international goals than any other man in history and won the Ballon d'Or five times. Benfica, Porto and Sporting are the biggest clubs, and Portugal co-hosts the 2030 World Cup."
+   ],
+   "related": [
+    "ESP",
+    "MAR",
+    "FRA"
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Waves and wheels",
+   "text": [
+    "Surfers travel to Nazaré to ride giant winter waves, and Portugal is one of the strongest nations in roller hockey. Rosa Mota won the Olympic marathon in 1988."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Roller hockey",
+   "meaning": "A form of hockey played on roller skates."
+  }
+ ]
+}

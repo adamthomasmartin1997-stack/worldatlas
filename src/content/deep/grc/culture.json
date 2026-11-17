@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Greek culture gave the world theatre, the Olympics, philosophy and myths that are still retold, along with a cuisine at the heart of the Mediterranean diet.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Myths and ideas",
+   "text": [
+    "Greek myths of Zeus, Athena, Heracles and Odysseus still inspire books, films and games. Ancient Greeks invented tragedy and comedy, and thinkers such as Pythagoras, Euclid and Hippocrates shaped maths and medicine.",
+    "Sculptures from the Parthenon, removed in the early 1800s and now in the British Museum, are the subject of a long campaign for their return to Athens."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "food-music",
+   "title": "Food and music",
+   "text": [
+    "Favourites include moussaka, souvlaki, gyros, Greek salad with feta, spanakopita and tzatziki. Rebetiko music, played on the bouzouki, grew in port cities in the early 1900s."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mediterranean diet",
+   "meaning": "A way of eating based on olive oil, vegetables, fish, grains and fruit."
+  }
+ ]
+}

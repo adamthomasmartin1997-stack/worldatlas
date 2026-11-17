@@ -1,0 +1,131 @@
+{
+ "status": "draft",
+ "intro": "Ancient Greece gave the world democracy, philosophy, theatre and the Olympic Games. After centuries under Roman, Byzantine and Ottoman rule, modern Greece won independence in 1830.",
+ "chapters": [
+  {
+   "id": "bronze-age",
+   "title": "Minoans and Mycenaeans",
+   "text": [
+    "On Crete, the Minoans built palaces such as Knossos around 2000 BC, decorated with bright wall paintings of dolphins and bull-leaping. On the mainland the Mycenaeans built fortress cities and wrote an early form of Greek. Their world inspired the stories of the Trojan War told in Homer's Iliad and Odyssey."
+   ]
+  },
+  {
+   "id": "classical",
+   "title": "City-states and democracy",
+   "text": [
+    "Greece was divided into rival city-states such as Athens and Sparta. In 508 BC Athens introduced democracy, in which male citizens voted on decisions themselves. The first recorded Olympic Games were held at Olympia in 776 BC.",
+    "Greek city-states defeated huge Persian invasions at Marathon in 490 BC and Salamis in 480 BC. In the golden age that followed, Athens built the Parthenon, and thinkers such as Socrates, Plato and Aristotle laid the foundations of Western philosophy."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Words such as democracy, politics, history, theatre and mathematics all come from ancient Greek."
+   },
+   "related": [
+    "IRN"
+   ]
+  },
+  {
+   "id": "empires",
+   "title": "Alexander, Rome and Byzantium",
+   "text": [
+    "Alexander the Great of Macedon conquered an empire from Egypt to India before dying in 323 BC, spreading Greek culture across the Middle East. Rome conquered Greece in 146 BC but adopted much of its culture.",
+    "The Greek-speaking Byzantine Empire, centred on Constantinople, lasted until 1453, when the Ottomans captured the city. Most of Greece then lived under Ottoman rule for nearly 400 years."
+   ],
+   "related": [
+    "EGY",
+    "IND",
+    "ITA",
+    "TUR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and modern Greece",
+   "text": [
+    "The Greek War of Independence began in 1821, and Greece was recognised as independent in 1830. In 1923 Greece and Turkey exchanged populations, uprooting more than a million people. On 28 October 1940 Greece refused Mussolini's demand to let Italian troops in, an act remembered as 'Ochi' ('No') Day.",
+    "After German occupation and a civil war, Greece was ruled by a military junta from 1967 to 1974. Since then it has been a democratic republic, joining the European Community in 1981 and hosting the 2004 Olympics. A debt crisis from 2009 shrank the economy by about a quarter."
+   ],
+   "related": [
+    "TUR",
+    "ITA",
+    "DEU"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 2000 BC",
+   "title": "Minoan palaces",
+   "text": "Knossos flourishes on Crete."
+  },
+  {
+   "year": "776 BC",
+   "title": "First Olympics",
+   "text": "Games held at Olympia."
+  },
+  {
+   "year": "508 BC",
+   "title": "Democracy",
+   "text": "Athens introduces democracy."
+  },
+  {
+   "year": "480 BC",
+   "title": "Salamis",
+   "text": "The Greek fleet defeats Persia."
+  },
+  {
+   "year": "447 BC",
+   "title": "Parthenon",
+   "text": "Work begins on the temple."
+  },
+  {
+   "year": "323 BC",
+   "title": "Alexander dies",
+   "text": "His empire breaks apart."
+  },
+  {
+   "year": "1453",
+   "title": "Fall of Constantinople",
+   "text": "Ottoman rule begins."
+  },
+  {
+   "year": "1821",
+   "title": "War of Independence",
+   "text": "Greeks rise against the Ottomans."
+  },
+  {
+   "year": "1940",
+   "title": "Ochi Day",
+   "text": "Greece says no to Mussolini."
+  },
+  {
+   "year": "1974",
+   "title": "Democracy restored",
+   "text": "The junta falls."
+  },
+  {
+   "year": "1981",
+   "title": "Joins the EC",
+   "text": "Greece joins what becomes the EU."
+  },
+  {
+   "year": "2004",
+   "title": "Athens Olympics",
+   "text": "The Games return home."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "City-state",
+   "meaning": "A city that governs itself and its surrounding land as an independent state."
+  },
+  {
+   "term": "Democracy",
+   "meaning": "Government by the people, from Greek demos (people) and kratos (power)."
+  },
+  {
+   "term": "Junta",
+   "meaning": "A group of military officers ruling a country."
+  }
+ ]
+}

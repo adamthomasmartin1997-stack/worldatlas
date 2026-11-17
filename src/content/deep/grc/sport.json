@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Greece is the home of the Olympic Games, and modern Greeks love football and basketball.",
+ "chapters": [
+  {
+   "id": "olympics",
+   "title": "Home of the Olympics",
+   "text": [
+    "The first modern Olympics were held in Athens in 1896, and the Olympic flame is still lit at Olympia before every Games. The marathon is named after the legend of a messenger who ran from Marathon to Athens. Long jumper Miltiadis Tentoglou won Olympic gold in 2021 and 2024."
+   ]
+  },
+  {
+   "id": "ball",
+   "title": "Football and basketball",
+   "text": [
+    "In 2004 Greece shocked the world by winning the European Championship. Basketball is hugely popular, and Giannis Antetokounmpo, who grew up in Athens, won the NBA title in 2021."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Marathon",
+   "meaning": "A running race of 42.195 km."
+  }
+ ]
+}

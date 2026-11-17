@@ -1,0 +1,35 @@
+{
+ "status": "draft",
+ "intro": "Portuguese is spoken by more than 250 million people worldwide, most of them in Brazil, and Portuguese communities live across the globe.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and language",
+   "text": [
+    "Lisbon and Porto are the two largest cities. Portuguese is the official language, and Mirandese is recognised in a corner of the north-east. Many Portuguese have emigrated to France, Switzerland, Luxembourg, the United States and Brazil, while newcomers arrive from Brazil, Angola, Cape Verde and South Asia.",
+    "Most Portuguese are Catholic, and the shrine of Fátima draws huge pilgrimages. Saudade, a deep longing for something or someone missing, is often called the most Portuguese of feelings."
+   ],
+   "related": [
+    "BRA",
+    "FRA",
+    "LUX",
+    "CHE",
+    "AGO",
+    "CPV"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Daily life",
+   "text": [
+    "Coffee is drunk strong and short, and families gather for long weekend lunches. In June, cities celebrate their patron saints with street parties, sardines and music."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Saudade",
+   "meaning": "A Portuguese word for a deep, nostalgic longing."
+  }
+ ]
+}

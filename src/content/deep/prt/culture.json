@@ -1,0 +1,27 @@
+{
+ "status": "draft",
+ "intro": "Portuguese culture is known for fado music, blue-and-white tiles, custard tarts and a great seafaring literature.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Fado, tiles and books",
+   "text": [
+    "Fado, mournful songs of longing sung in Lisbon and Coimbra, is on UNESCO's heritage list; Amália Rodrigues is its most famous voice. Buildings are covered in azulejos, painted tiles.",
+    "Luís de Camões's epic poem The Lusiads celebrates Vasco da Gama's voyage, and José Saramago won the Nobel Prize in Literature in 1998."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "The Portuguese are said to have a recipe for salt cod, bacalhau, for every day of the year. Pastéis de nata, custard tarts first made by monks in Lisbon's Belém district, are loved worldwide, as are grilled sardines and Porto's francesinha sandwich."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Azulejo",
+   "meaning": "A painted ceramic tile, often blue and white."
+  }
+ ]
+}

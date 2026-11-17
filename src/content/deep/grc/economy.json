@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Tourism and shipping are the twin engines of the Greek economy, which is still recovering from a severe debt crisis.",
+ "chapters": [
+  {
+   "id": "sea",
+   "title": "Tourism and shipping",
+   "text": [
+    "Tens of millions of tourists visit each year for islands, beaches and ancient sites. Greek shipowners control the largest merchant fleet in the world, carrying goods across every ocean."
+   ]
+  },
+  {
+   "id": "farms-crisis",
+   "title": "Olives and the crisis",
+   "text": [
+    "Greece is a major producer of olive oil, olives, feta cheese and yoghurt. After 2009 Greece could not pay its debts, needed three international bailouts and endured years of cuts and unemployment; the economy has been growing again since. Greece uses the euro."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bailout",
+   "meaning": "Emergency loans to a country or company in financial trouble."
+  }
+ ]
+}

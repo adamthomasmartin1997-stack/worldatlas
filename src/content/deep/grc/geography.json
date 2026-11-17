@@ -1,0 +1,34 @@
+{
+ "status": "draft",
+ "intro": "Greece is a land of mountains and sea at the southern tip of the Balkans, with thousands of islands and the longest coastline in the Mediterranean.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mountains and islands",
+   "text": [
+    "Most of mainland Greece is mountainous. Mount Olympus, the highest peak, was believed to be the home of the gods. At Meteora, monasteries perch on top of towering rock pillars. Greece borders Albania, North Macedonia, Bulgaria and Turkey.",
+    "Greece has about 6,000 islands, a few hundred of them inhabited. Crete is the largest; others include the Cyclades, such as Santorini and Mykonos, and the Ionian Islands, such as Corfu."
+   ],
+   "related": [
+    "ALB",
+    "MKD",
+    "BGR",
+    "TUR"
+   ]
+  },
+  {
+   "id": "volcanoes",
+   "title": "Volcanoes, quakes and wildlife",
+   "text": [
+    "Santorini is the remains of a volcano that exploded about 3,600 years ago in one of the largest eruptions in human history. Earthquakes are common. Hot, dry summers bring wildfires.",
+    "Loggerhead sea turtles nest on beaches such as those of Zakynthos, and rare Mediterranean monk seals live in Greek waters."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Caldera",
+   "meaning": "A huge crater formed when a volcano collapses after erupting."
+  }
+ ]
+}

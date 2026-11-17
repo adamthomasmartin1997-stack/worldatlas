@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "Greeks speak one of the oldest recorded languages in the world, and the Orthodox Church and family are at the heart of daily life.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and language",
+   "text": [
+    "About a third of Greeks live in and around Athens; Thessaloniki is the second city. Greek has been written for more than 3,000 years, and the Greek alphabet was the model for the Latin and Cyrillic alphabets.",
+    "Millions of people of Greek origin live abroad, especially in the United States and Australia; Melbourne has one of the largest Greek communities outside Greece."
+   ],
+   "related": [
+    "USA",
+    "AUS",
+    "CYP"
+   ]
+  },
+  {
+   "id": "faith",
+   "title": "Faith and festivals",
+   "text": [
+    "Most Greeks belong to the Greek Orthodox Church, and Easter is the biggest celebration, with candlelit processions, fireworks at midnight, red-dyed eggs and roast lamb. Many Greeks celebrate their name day more than their birthday."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Orthodox Church",
+   "meaning": "The eastern branch of Christianity, followed in Greece, Russia and much of Eastern Europe."
+  }
+ ]
+}
