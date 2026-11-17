@@ -43,5 +43,54 @@
    "term": "Deforestation",
    "meaning": "Cutting down forests, usually to make way for farms, mines or roads."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Brazil",
+   "items": [
+    {
+     "title": "Coffee",
+     "subtitle": "Minas Gerais, São Paulo",
+     "text": "The world's biggest producer for more than 150 years."
+    },
+    {
+     "title": "Soybeans",
+     "subtitle": "Mato Grosso",
+     "text": "The world's largest exporter."
+    },
+    {
+     "title": "Beef and chicken",
+     "subtitle": "Everywhere",
+     "text": "Brazil is a leading meat exporter."
+    },
+    {
+     "title": "Orange juice",
+     "subtitle": "São Paulo",
+     "text": "Most of the world's orange juice exports."
+    },
+    {
+     "title": "Passenger jets",
+     "subtitle": "Embraer",
+     "text": "Regional jets flown by airlines worldwide."
+    },
+    {
+     "title": "Iron ore and oil",
+     "subtitle": "Vale, Petrobras",
+     "text": "Mines and deep-sea oil fields."
+    },
+    {
+     "title": "Flip-flops",
+     "subtitle": "Havaianas",
+     "text": "Rubber sandals sold around the world since 1962."
+    },
+    {
+     "title": "The real",
+     "subtitle": "Since 1994",
+     "text": "The currency that ended hyperinflation."
+    }
+   ],
+   "intro": "Some of the things Brazil makes and sells to the world."
+  }
  ]
 }

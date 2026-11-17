@@ -58,5 +58,82 @@
    "term": "Savanna",
    "meaning": "Grassland with scattered trees in a warm climate with wet and dry seasons."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Brazil's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Pico da Neblina",
+    "kind": "mountain",
+    "lat": 0.8,
+    "lon": -66.0,
+    "text": "Brazil's highest peak, in remote Amazon rainforest."
+   },
+   {
+    "name": "Meeting of the Waters",
+    "kind": "rivers",
+    "lat": -3.14,
+    "lon": -59.9,
+    "text": "Near Manaus, dark and sandy rivers flow side by side for kilometres before mixing."
+   },
+   {
+    "name": "Lençóis Maranhenses",
+    "kind": "dunes and lagoons",
+    "lat": -2.55,
+    "lon": -43.1,
+    "text": "White sand dunes that fill with blue rain-water lagoons."
+   },
+   {
+    "name": "Fernando de Noronha",
+    "kind": "islands",
+    "lat": -3.85,
+    "lon": -32.42,
+    "text": "Islands far offshore with dolphins and turtles."
+   },
+   {
+    "name": "Chapada Diamantina",
+    "kind": "plateau",
+    "lat": -12.5,
+    "lon": -41.4,
+    "text": "Table mountains, caves and waterfalls."
+   },
+   {
+    "name": "Chapada dos Veadeiros",
+    "kind": "savanna",
+    "lat": -14.1,
+    "lon": -47.6,
+    "text": "Ancient rocks and waterfalls in the Cerrado."
+   },
+   {
+    "name": "Pantanal",
+    "kind": "wetland",
+    "lat": -18.0,
+    "lon": -56.5,
+    "text": "The world's largest tropical wetland, home to jaguars."
+   },
+   {
+    "name": "Serra do Mar",
+    "kind": "Atlantic Forest",
+    "lat": -23.6,
+    "lon": -45.4,
+    "text": "Some of the last stretches of coastal rainforest."
+   },
+   {
+    "name": "Sugarloaf Mountain",
+    "kind": "granite peak",
+    "lat": -22.95,
+    "lon": -43.16,
+    "text": "Rising above Rio de Janeiro's bay."
+   },
+   {
+    "name": "Iguaçu Falls",
+    "kind": "waterfalls",
+    "lat": -25.69,
+    "lon": -54.44,
+    "text": "About 275 waterfalls on the border with Argentina."
+   }
+  ]
+ }
 }

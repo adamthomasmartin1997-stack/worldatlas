@@ -39,5 +39,49 @@
    "term": "Remittances",
    "meaning": "Money sent home by people working in another country."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Mexico",
+   "items": [
+    {
+     "title": "Cars and trucks",
+     "subtitle": "Puebla, Guanajuato, Coahuila",
+     "text": "Mexico is one of the world's biggest vehicle exporters."
+    },
+    {
+     "title": "Electronics",
+     "subtitle": "Tijuana, Guadalajara",
+     "text": "TVs, computers and medical devices."
+    },
+    {
+     "title": "Avocados",
+     "subtitle": "Michoacán",
+     "text": "The world's largest producer."
+    },
+    {
+     "title": "Silver",
+     "subtitle": "Zacatecas",
+     "text": "The world's largest silver producer."
+    },
+    {
+     "title": "Tequila and mezcal",
+     "subtitle": "Jalisco and Oaxaca",
+     "text": "Spirits made from agave plants."
+    },
+    {
+     "title": "Beer",
+     "subtitle": "Corona, Modelo",
+     "text": "Mexico exports more beer than any other country."
+    },
+    {
+     "title": "The peso",
+     "subtitle": "$",
+     "text": "Mexico's currency, which uses the same sign as the dollar."
+    }
+   ],
+   "intro": "Some of the things Mexico makes and sells to the world."
+  }
  ]
 }

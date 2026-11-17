@@ -43,5 +43,134 @@
    "term": "Charrería",
    "meaning": "Mexican rodeo, with skilled riding and roping by charros."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Liga MX",
+     "subtitle": "Football",
+     "text": "Club América have won the most titles."
+    },
+    {
+     "title": "Liga MX Femenil",
+     "subtitle": "Women's football · since 2017",
+     "text": "Draws some of the biggest women's crowds in the Americas."
+    },
+    {
+     "title": "Mexican Baseball League",
+     "subtitle": "Baseball · since 1925",
+     "text": "Popular in the north and on the coasts."
+    },
+    {
+     "title": "CMLL",
+     "subtitle": "Lucha libre · since 1933",
+     "text": "The oldest professional wrestling promotion in the world."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Hugo Sánchez",
+     "subtitle": "Football",
+     "text": "A record-breaking goal-scorer for Real Madrid."
+    },
+    {
+     "title": "Julio César Chávez",
+     "subtitle": "Boxing",
+     "text": "Won world titles in three weight classes."
+    },
+    {
+     "title": "Fernando Valenzuela",
+     "subtitle": "Baseball",
+     "text": "His pitching caused 'Fernandomania' in Los Angeles."
+    },
+    {
+     "title": "Ana Guevara",
+     "subtitle": "Athletics",
+     "text": "400 m world champion in 2003."
+    },
+    {
+     "title": "Lorena Ochoa",
+     "subtitle": "Golf",
+     "text": "World number one from 2007 to 2010."
+    },
+    {
+     "title": "Saúl 'Canelo' Álvarez",
+     "subtitle": "Boxing",
+     "text": "Became the first undisputed super-middleweight champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Mexico's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Mexico City: Estadio Azteca, Arena México, Autódromo",
+    "kind": "venue",
+    "lat": 19.35,
+    "lon": -99.13,
+    "text": "The World Cup stadium, the home of lucha libre and the Grand Prix track."
+   },
+   {
+    "name": "Estadio Akron, Guadalajara",
+    "kind": "venue",
+    "lat": 20.68,
+    "lon": -103.46,
+    "text": "Home of Chivas and a 2026 World Cup venue."
+   },
+   {
+    "name": "Estadio BBVA, Monterrey",
+    "kind": "venue",
+    "lat": 25.67,
+    "lon": -100.24,
+    "text": "A 2026 World Cup venue in the mountains."
+   },
+   {
+    "name": "Acapulco",
+    "kind": "venue",
+    "lat": 16.85,
+    "lon": -99.88,
+    "text": "Home of the Mexican Open tennis tournament."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1968",
+    "title": "Mexico City Olympics",
+    "text": "The first Olympics in Latin America."
+   },
+   {
+    "year": "1970",
+    "title": "Game of the Century",
+    "text": "Italy beat West Germany 4-3 at the Azteca."
+   },
+   {
+    "year": "1986",
+    "title": "Hand of God",
+    "text": "Maradona's World Cup at the Azteca."
+   },
+   {
+    "year": "2012",
+    "title": "Olympic gold",
+    "text": "Mexico beats Brazil in the football final."
+   },
+   {
+    "year": "2026",
+    "title": "Third World Cup",
+    "text": "The Azteca hosts the opening match."
+   }
+  ]
+ }
 }

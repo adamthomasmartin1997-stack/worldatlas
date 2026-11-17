@@ -43,5 +43,166 @@
    "term": "Mural",
    "meaning": "A large painting made directly on a wall."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Los olvidados",
+     "subtitle": "1950 · Luis Buñuel",
+     "text": "Street children in Mexico City."
+    },
+    {
+     "title": "Like Water for Chocolate",
+     "subtitle": "1992 · Alfonso Arau",
+     "text": "A woman's cooking carries her emotions."
+    },
+    {
+     "title": "Y tu mamá también",
+     "subtitle": "2001 · Alfonso Cuarón",
+     "text": "A road trip across Mexico."
+    },
+    {
+     "title": "Pan's Labyrinth",
+     "subtitle": "2006 · Guillermo del Toro",
+     "text": "A girl escapes into a dark fairy-tale world."
+    },
+    {
+     "title": "Roma",
+     "subtitle": "2018 · Alfonso Cuarón",
+     "text": "A year in the life of a housekeeper in 1970s Mexico City; won three Oscars."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Poems",
+     "subtitle": "1600s · Sor Juana Inés de la Cruz",
+     "text": "A nun who was one of the great poets of her age."
+    },
+    {
+     "title": "The Labyrinth of Solitude",
+     "subtitle": "1950 · Octavio Paz",
+     "text": "Essays on Mexican identity by the Nobel winner."
+    },
+    {
+     "title": "Pedro Páramo",
+     "subtitle": "1955 · Juan Rulfo",
+     "text": "A man visits a village of ghosts."
+    },
+    {
+     "title": "Like Water for Chocolate",
+     "subtitle": "1989 · Laura Esquivel",
+     "text": "A love story told through recipes."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Cielito Lindo",
+     "subtitle": "Traditional, 1882",
+     "text": "Its 'Ay, ay, ay, ay' chorus is sung everywhere."
+    },
+    {
+     "title": "Bésame Mucho",
+     "subtitle": "Consuelo Velázquez, 1940",
+     "text": "One of the most recorded songs in the world."
+    },
+    {
+     "title": "La Bamba",
+     "subtitle": "Traditional son jarocho",
+     "text": "A Veracruz folk song made famous by Ritchie Valens."
+    },
+    {
+     "title": "Ella Baila Sola",
+     "subtitle": "Eslabón Armado and Peso Pluma, 2023",
+     "text": "A regional Mexican song that reached the US top 10."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Tacos al pastor",
+     "subtitle": "Mexico City",
+     "text": "Spit-roasted pork, inspired by Lebanese immigrants' shawarma."
+    },
+    {
+     "title": "Mole poblano",
+     "subtitle": "Puebla",
+     "text": "A rich sauce of chillies, spices and chocolate."
+    },
+    {
+     "title": "Tamales",
+     "subtitle": "Everywhere",
+     "text": "Maize dough steamed in husks."
+    },
+    {
+     "title": "Chiles en nogada",
+     "subtitle": "Puebla",
+     "text": "Green, white and red like the flag."
+    },
+    {
+     "title": "Cochinita pibil",
+     "subtitle": "Yucatán",
+     "text": "Slow-roasted pork marinated in citrus."
+    },
+    {
+     "title": "Churros",
+     "subtitle": "Everywhere",
+     "text": "Fried dough dipped in hot chocolate."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Three Kings Day",
+    "text": "Families share a ring-shaped cake called rosca."
+   },
+   {
+    "month": 3,
+    "name": "Spring equinox",
+    "text": "A shadow serpent slides down the pyramid at Chichén Itzá."
+   },
+   {
+    "month": 7,
+    "name": "Guelaguetza",
+    "text": "Oaxaca's festival of dance and costume."
+   },
+   {
+    "month": 9,
+    "name": "Independence",
+    "text": "The 'Grito' on the night of 15 September."
+   },
+   {
+    "month": 11,
+    "name": "Day of the Dead",
+    "text": "Altars and marigolds on 1 and 2 November."
+   },
+   {
+    "month": 12,
+    "name": "Our Lady of Guadalupe",
+    "text": "Millions visit the basilica on 12 December."
+   },
+   {
+    "month": 12,
+    "name": "Posadas",
+    "text": "Nine nights of processions and piñatas before Christmas."
+   }
+  ]
+ }
 }

@@ -48,5 +48,161 @@
    "term": "Milonga",
    "meaning": "A tango dance hall or event, and also a lively style of tango music."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Official Story",
+     "subtitle": "1985 · Luis Puenzo",
+     "text": "A teacher learns her adopted daughter's past; won an Oscar."
+    },
+    {
+     "title": "Nine Queens",
+     "subtitle": "2000 · Fabián Bielinsky",
+     "text": "Two con men try a big swindle."
+    },
+    {
+     "title": "The Secret in Their Eyes",
+     "subtitle": "2009 · Juan José Campanella",
+     "text": "A retired investigator revisits an old case; won an Oscar."
+    },
+    {
+     "title": "Wild Tales",
+     "subtitle": "2014 · Damián Szifron",
+     "text": "Six darkly funny stories of revenge."
+    },
+    {
+     "title": "Argentina, 1985",
+     "subtitle": "2022 · Santiago Mitre",
+     "text": "The trial of the dictatorship's leaders."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Martín Fierro",
+     "subtitle": "1872 · José Hernández",
+     "text": "The national poem about a gaucho."
+    },
+    {
+     "title": "Ficciones",
+     "subtitle": "1944 · Jorge Luis Borges",
+     "text": "Stories of labyrinths and infinite libraries."
+    },
+    {
+     "title": "Hopscotch",
+     "subtitle": "1963 · Julio Cortázar",
+     "text": "A novel that can be read in different orders."
+    },
+    {
+     "title": "Mafalda",
+     "subtitle": "1964-1973 · Quino",
+     "text": "A girl who worries about the world."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Por una Cabeza",
+     "subtitle": "Carlos Gardel, 1935",
+     "text": "A famous tango."
+    },
+    {
+     "title": "Libertango",
+     "subtitle": "Astor Piazzolla, 1974",
+     "text": "Tango mixed with jazz."
+    },
+    {
+     "title": "De música ligera",
+     "subtitle": "Soda Stereo, 1990",
+     "text": "A classic of Latin American rock."
+    },
+    {
+     "title": "Muchachos",
+     "subtitle": "La Mosca, 2022",
+     "text": "The fans' anthem of the World Cup win."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Asado",
+     "subtitle": "Everywhere",
+     "text": "Slow-grilled beef over wood coals."
+    },
+    {
+     "title": "Empanadas",
+     "subtitle": "Everywhere",
+     "text": "Baked or fried pastries with regional fillings."
+    },
+    {
+     "title": "Dulce de leche",
+     "subtitle": "Everywhere",
+     "text": "A caramel spread."
+    },
+    {
+     "title": "Alfajores",
+     "subtitle": "Everywhere",
+     "text": "Biscuits sandwiched with dulce de leche."
+    },
+    {
+     "title": "Locro",
+     "subtitle": "Everywhere",
+     "text": "A hearty stew eaten on 25 May."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Cosquín Folk Festival",
+    "text": "Nine nights of folk music in Córdoba."
+   },
+   {
+    "month": 2,
+    "name": "Gualeguaychú Carnival",
+    "text": "Argentina's biggest carnival."
+   },
+   {
+    "month": 3,
+    "name": "Vendimia",
+    "text": "Mendoza's grape harvest festival."
+   },
+   {
+    "month": 5,
+    "name": "May Revolution",
+    "text": "25 May, with locro and flags."
+   },
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "9 July."
+   },
+   {
+    "month": 8,
+    "name": "Tango Festival",
+    "text": "Buenos Aires hosts the tango world championship."
+   },
+   {
+    "month": 11,
+    "name": "Day of Tradition",
+    "text": "10 November celebrates gaucho culture."
+   }
+  ]
+ }
 }

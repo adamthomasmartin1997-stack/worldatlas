@@ -62,5 +62,96 @@
    "term": "Biodiversity",
    "meaning": "The variety of living things in a place."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Mexico's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Sonoran Desert",
+    "kind": "desert",
+    "lat": 31.8,
+    "lon": -113.5,
+    "text": "Giant cacti and volcanic craters near the US border."
+   },
+   {
+    "name": "San Ignacio Lagoon",
+    "kind": "whale lagoon",
+    "lat": 26.8,
+    "lon": -113.2,
+    "text": "Grey whales give birth in Baja California's lagoons."
+   },
+   {
+    "name": "Copper Canyon",
+    "kind": "canyons",
+    "lat": 27.5,
+    "lon": -107.8,
+    "text": "A canyon system larger and in places deeper than the Grand Canyon."
+   },
+   {
+    "name": "Cuatro Ciénegas",
+    "kind": "desert pools",
+    "lat": 26.98,
+    "lon": -102.06,
+    "text": "Blue pools in the desert with species found nowhere else."
+   },
+   {
+    "name": "Monarch Butterfly Reserve",
+    "kind": "forest",
+    "lat": 19.6,
+    "lon": -100.25,
+    "text": "Millions of butterflies spend the winter here."
+   },
+   {
+    "name": "Xochimilco",
+    "kind": "canals",
+    "lat": 19.26,
+    "lon": -99.1,
+    "text": "Floating gardens and the last home of the wild axolotl."
+   },
+   {
+    "name": "Popocatépetl",
+    "kind": "volcano",
+    "lat": 19.02,
+    "lon": -98.62,
+    "text": "An active volcano near Mexico City."
+   },
+   {
+    "name": "Pico de Orizaba",
+    "kind": "volcano",
+    "lat": 19.03,
+    "lon": -97.27,
+    "text": "Mexico's highest mountain."
+   },
+   {
+    "name": "Hierve el Agua",
+    "kind": "rock waterfalls",
+    "lat": 16.87,
+    "lon": -96.28,
+    "text": "Mineral springs that look like frozen waterfalls."
+   },
+   {
+    "name": "Sumidero Canyon",
+    "kind": "canyon",
+    "lat": 16.82,
+    "lon": -93.08,
+    "text": "Cliffs up to 1,000 m above a river in Chiapas."
+   },
+   {
+    "name": "Yucatán cenotes",
+    "kind": "sinkholes",
+    "lat": 20.69,
+    "lon": -88.2,
+    "text": "Underground water-filled caves sacred to the Maya."
+   },
+   {
+    "name": "Sian Ka'an",
+    "kind": "coral and wetlands",
+    "lat": 19.6,
+    "lon": -87.6,
+    "text": "Reefs, lagoons and mangroves on the Caribbean."
+   }
+  ]
+ }
 }

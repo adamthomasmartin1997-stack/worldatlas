@@ -65,5 +65,66 @@
    "term": "Mercosur",
    "meaning": "A South American trade group of Brazil, Argentina, Paraguay, Uruguay and Bolivia."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected every 4 years; one re-election allowed",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Chamber of Deputies",
+     "subtitle": "513 members",
+     "text": "Shared out among the states by population."
+    },
+    {
+     "title": "Federal Senate",
+     "subtitle": "81 senators, 8-year terms",
+     "text": "Three for each state and the Federal District."
+    },
+    {
+     "title": "Supreme Federal Court",
+     "subtitle": "11 justices",
+     "text": "Guards the 1988 constitution."
+    },
+    {
+     "title": "States and municipalities",
+     "subtitle": "26 states, the Federal District and about 5,570 municipalities",
+     "text": "Each with elected governors or mayors."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the President, members of Congress, courts or citizens with enough signatures."
+   },
+   {
+    "title": "Chamber of Deputies",
+    "text": "Committees study it and deputies vote."
+   },
+   {
+    "title": "Senate",
+    "text": "Senators review and vote."
+   },
+   {
+    "title": "The President decides",
+    "text": "The President signs it or vetoes all or part of it."
+   },
+   {
+    "title": "Override",
+    "text": "Congress can override a veto in a joint session."
+   }
+  ]
+ }
 }

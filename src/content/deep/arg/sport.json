@@ -44,5 +44,156 @@
    "term": "Superclásico",
    "meaning": "A match between the two biggest rival clubs, Boca Juniors and River Plate."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Liga Profesional",
+     "subtitle": "Football",
+     "text": "River Plate have won the most titles."
+    },
+    {
+     "title": "Copa Libertadores",
+     "subtitle": "Football",
+     "text": "Independiente hold the record for most wins."
+    },
+    {
+     "title": "Argentine Open",
+     "subtitle": "Polo · since 1893",
+     "text": "The world's most important polo tournament, in Palermo."
+    },
+    {
+     "title": "Liga Nacional",
+     "subtitle": "Basketball",
+     "text": "The professional basketball league."
+    },
+    {
+     "title": "Turismo Carretera",
+     "subtitle": "Motor racing · since 1937",
+     "text": "One of the oldest motor-racing series still running."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Juan Manuel Fangio",
+     "subtitle": "Formula One",
+     "text": "Five world titles in the 1950s."
+    },
+    {
+     "title": "Guillermo Vilas",
+     "subtitle": "Tennis",
+     "text": "Won four Grand Slams."
+    },
+    {
+     "title": "Diego Maradona",
+     "subtitle": "Football",
+     "text": "Led Argentina to the 1986 World Cup."
+    },
+    {
+     "title": "Gabriela Sabatini",
+     "subtitle": "Tennis",
+     "text": "Won the US Open in 1990."
+    },
+    {
+     "title": "Manu Ginóbili",
+     "subtitle": "Basketball",
+     "text": "Olympic gold and four NBA titles."
+    },
+    {
+     "title": "Luciana Aymar",
+     "subtitle": "Field hockey",
+     "text": "Named world's best player eight times."
+    },
+    {
+     "title": "Lionel Messi",
+     "subtitle": "Football",
+     "text": "2022 world champion and record eight-time Ballon d'Or winner."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Argentina's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Buenos Aires: La Bombonera, El Monumental, Palermo",
+    "kind": "venue",
+    "lat": -34.59,
+    "lon": -58.42,
+    "text": "The homes of Boca Juniors and River Plate, and the polo field of Palermo."
+   },
+   {
+    "name": "Rosario",
+    "kind": "venue",
+    "lat": -32.95,
+    "lon": -60.66,
+    "text": "Messi's home city."
+   },
+   {
+    "name": "Mario Kempes Stadium, Córdoba",
+    "kind": "venue",
+    "lat": -31.37,
+    "lon": -64.25,
+    "text": "A 1978 World Cup venue."
+   },
+   {
+    "name": "Termas de Río Hondo",
+    "kind": "venue",
+    "lat": -27.5,
+    "lon": -64.9,
+    "text": "Host of MotoGP races."
+   },
+   {
+    "name": "Cerro Catedral, Bariloche",
+    "kind": "venue",
+    "lat": -41.16,
+    "lon": -71.43,
+    "text": "South America's largest ski area."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1930",
+    "title": "First World Cup final",
+    "text": "Argentina lose to Uruguay."
+   },
+   {
+    "year": "1978",
+    "title": "World champions",
+    "text": "Argentina win at home."
+   },
+   {
+    "year": "1986",
+    "title": "Maradona's World Cup",
+    "text": "The 'Hand of God' and the 'goal of the century'."
+   },
+   {
+    "year": "2004",
+    "title": "Double gold",
+    "text": "Olympic football and basketball titles in Athens."
+   },
+   {
+    "year": "2021",
+    "title": "Copa América",
+    "text": "Argentina beat Brazil at the Maracanã."
+   },
+   {
+    "year": "2022",
+    "title": "Third World Cup",
+    "text": "Messi lifts the trophy in Qatar."
+   }
+  ]
+ }
 }

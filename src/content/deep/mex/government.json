@@ -60,5 +60,66 @@
    "term": "Cartel",
    "meaning": "A powerful criminal organisation, especially one that smuggles drugs."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "One 6-year term only",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "The Senate",
+     "subtitle": "128 senators",
+     "text": "Represents the states."
+    },
+    {
+     "title": "Chamber of Deputies",
+     "subtitle": "500 deputies",
+     "text": "Makes laws and approves the budget."
+    },
+    {
+     "title": "Supreme Court",
+     "subtitle": "Justices elected by voters since 2025",
+     "text": "Rules on the constitution."
+    },
+    {
+     "title": "States",
+     "subtitle": "31 states and Mexico City",
+     "text": "Each with an elected governor and congress."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the President, members of Congress, state legislatures or citizens."
+   },
+   {
+    "title": "First chamber",
+    "text": "Committees review it and the chamber votes."
+   },
+   {
+    "title": "Second chamber",
+    "text": "The other chamber reviews and votes."
+   },
+   {
+    "title": "The President",
+    "text": "Publishes the law or sends it back with objections."
+   },
+   {
+    "title": "Override",
+    "text": "Congress can override with a two-thirds vote."
+   }
+  ]
+ }
 }

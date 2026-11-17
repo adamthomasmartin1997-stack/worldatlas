@@ -44,5 +44,139 @@
    "term": "Futsal",
    "meaning": "A five-a-side, indoor version of football, hugely popular in Brazil."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Brasileirão",
+     "subtitle": "Football",
+     "text": "Brazil's top league; Palmeiras have won it the most."
+    },
+    {
+     "title": "Copa Libertadores",
+     "subtitle": "Football",
+     "text": "South America's club championship; Brazilian clubs won every final from 2019 to 2025."
+    },
+    {
+     "title": "Superliga",
+     "subtitle": "Volleyball",
+     "text": "One of the strongest volleyball leagues."
+    },
+    {
+     "title": "NBB",
+     "subtitle": "Basketball",
+     "text": "The national basketball league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Pelé",
+     "subtitle": "Football",
+     "text": "Won three World Cups."
+    },
+    {
+     "title": "Maria Esther Bueno",
+     "subtitle": "Tennis",
+     "text": "Won seven Grand Slam singles titles in the 1950s and 60s."
+    },
+    {
+     "title": "Ayrton Senna",
+     "subtitle": "Formula One",
+     "text": "Three-time world champion and national hero."
+    },
+    {
+     "title": "Gustavo Kuerten",
+     "subtitle": "Tennis",
+     "text": "Won the French Open three times."
+    },
+    {
+     "title": "Marta",
+     "subtitle": "Football",
+     "text": "Top scorer in Women's World Cup history."
+    },
+    {
+     "title": "Rebeca Andrade",
+     "subtitle": "Gymnastics",
+     "text": "Brazil's most decorated Olympian."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Brazil's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Rio: Maracanã and Copacabana",
+    "kind": "venue",
+    "lat": -22.94,
+    "lon": -43.2,
+    "text": "The legendary stadium and the beach of the 2016 Olympic beach volleyball."
+   },
+   {
+    "name": "São Paulo: Interlagos",
+    "kind": "venue",
+    "lat": -23.7,
+    "lon": -46.697,
+    "text": "Home of the Brazilian Grand Prix."
+   },
+   {
+    "name": "Mineirão, Belo Horizonte",
+    "kind": "venue",
+    "lat": -19.866,
+    "lon": -43.971,
+    "text": "Where Brazil lost 7-1 to Germany in 2014."
+   },
+   {
+    "name": "Arena da Amazônia, Manaus",
+    "kind": "venue",
+    "lat": -3.083,
+    "lon": -60.028,
+    "text": "A World Cup stadium in the rainforest."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1950",
+    "title": "Maracanazo",
+    "text": "Brazil loses the World Cup final at home to Uruguay."
+   },
+   {
+    "year": "1958",
+    "title": "First World Cup",
+    "text": "A 17-year-old Pelé stars in Sweden."
+   },
+   {
+    "year": "1970",
+    "title": "Third title",
+    "text": "Brazil's great team wins in Mexico."
+   },
+   {
+    "year": "2002",
+    "title": "Fifth star",
+    "text": "Ronaldo scores twice in the final."
+   },
+   {
+    "year": "2016",
+    "title": "Rio Olympics",
+    "text": "Brazil wins football gold at the Maracanã."
+   },
+   {
+    "year": "2027",
+    "title": "Women's World Cup",
+    "text": "The first in South America."
+   }
+  ]
+ }
 }

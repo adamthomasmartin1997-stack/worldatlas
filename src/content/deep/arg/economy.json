@@ -39,5 +39,54 @@
    "term": "Shale",
    "meaning": "Rock that holds oil and gas, extracted by fracking."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Argentina",
+   "items": [
+    {
+     "title": "Soy",
+     "subtitle": "The Pampas",
+     "text": "The world's top exporter of soybean meal and oil."
+    },
+    {
+     "title": "Beef",
+     "subtitle": "The Pampas",
+     "text": "Famous grass-fed beef."
+    },
+    {
+     "title": "Wine",
+     "subtitle": "Mendoza",
+     "text": "Malbec is Argentina's signature wine."
+    },
+    {
+     "title": "Lithium",
+     "subtitle": "Salta, Jujuy, Catamarca",
+     "text": "Part of the 'lithium triangle'."
+    },
+    {
+     "title": "Shale oil and gas",
+     "subtitle": "Vaca Muerta",
+     "text": "One of the world's largest deposits."
+    },
+    {
+     "title": "Yerba mate",
+     "subtitle": "Misiones",
+     "text": "The leaves for Argentina's national drink."
+    },
+    {
+     "title": "Online shopping",
+     "subtitle": "Mercado Libre",
+     "text": "Latin America's largest e-commerce company."
+    },
+    {
+     "title": "The peso",
+     "subtitle": "$",
+     "text": "Argentina's currency, which has suffered high inflation."
+    }
+   ],
+   "intro": "Some of the things Argentina makes and sells to the world."
+  }
  ]
 }

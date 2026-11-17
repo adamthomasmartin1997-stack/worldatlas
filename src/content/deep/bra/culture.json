@@ -43,5 +43,166 @@
    "term": "Capoeira",
    "meaning": "An Afro-Brazilian martial art that combines fighting moves, acrobatics and music."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Central Station",
+     "subtitle": "1998 · Walter Salles",
+     "text": "A retired teacher helps a boy search for his father."
+    },
+    {
+     "title": "City of God",
+     "subtitle": "2002 · Fernando Meirelles and Kátia Lund",
+     "text": "Growing up amid gang violence in a Rio favela."
+    },
+    {
+     "title": "The Second Mother",
+     "subtitle": "2015 · Anna Muylaert",
+     "text": "A live-in housekeeper and the family she works for."
+    },
+    {
+     "title": "I'm Still Here",
+     "subtitle": "2024 · Walter Salles",
+     "text": "A mother searches for her husband, taken by the dictatorship; won an Oscar."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Dom Casmurro",
+     "subtitle": "1899 · Machado de Assis",
+     "text": "A jealous husband tells his own unreliable story."
+    },
+    {
+     "title": "Captains of the Sands",
+     "subtitle": "1937 · Jorge Amado",
+     "text": "A gang of street children in Salvador."
+    },
+    {
+     "title": "The Hour of the Star",
+     "subtitle": "1977 · Clarice Lispector",
+     "text": "A poor young woman in Rio."
+    },
+    {
+     "title": "The Alchemist",
+     "subtitle": "1988 · Paulo Coelho",
+     "text": "A shepherd follows his dream to Egypt; one of the best-selling books ever."
+    },
+    {
+     "title": "Monica's Gang",
+     "subtitle": "from 1959 · Mauricio de Sousa",
+     "text": "Brazil's best-loved comic strip."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Aquarela do Brasil",
+     "subtitle": "Ary Barroso, 1939",
+     "text": "A samba love letter to Brazil."
+    },
+    {
+     "title": "Mas que Nada",
+     "subtitle": "Jorge Ben, 1963",
+     "text": "A samba hit known around the world."
+    },
+    {
+     "title": "The Girl from Ipanema",
+     "subtitle": "Tom Jobim and Vinicius de Moraes, 1962",
+     "text": "The bossa nova classic."
+    },
+    {
+     "title": "Envolver",
+     "subtitle": "Anitta, 2022",
+     "text": "A global hit from Brazil's biggest pop star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Feijoada",
+     "subtitle": "Everywhere",
+     "text": "Black beans and pork with rice, kale and orange."
+    },
+    {
+     "title": "Pão de queijo",
+     "subtitle": "Minas Gerais",
+     "text": "Chewy cheese bread."
+    },
+    {
+     "title": "Churrasco",
+     "subtitle": "Rio Grande do Sul",
+     "text": "Barbecued meat on long skewers."
+    },
+    {
+     "title": "Acarajé",
+     "subtitle": "Bahia",
+     "text": "Fried bean fritters from Afro-Brazilian cooking."
+    },
+    {
+     "title": "Açaí",
+     "subtitle": "Pará",
+     "text": "Frozen purple berry purée from the Amazon."
+    },
+    {
+     "title": "Brigadeiro",
+     "subtitle": "Everywhere",
+     "text": "Chocolate truffles at every birthday party."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Carnival",
+    "text": "Samba parades and street parties in February or March."
+   },
+   {
+    "month": 6,
+    "name": "Festa Junina",
+    "text": "Bonfires, square dances and corn sweets."
+   },
+   {
+    "month": 6,
+    "name": "Parintins Festival",
+    "text": "Two teams compete with giant floats in the Amazon."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "7 September."
+   },
+   {
+    "month": 10,
+    "name": "Círio de Nazaré",
+    "text": "One of the world's biggest Catholic processions, in Belém."
+   },
+   {
+    "month": 11,
+    "name": "Black Consciousness Day",
+    "text": "20 November honours Zumbi of Palmares."
+   },
+   {
+    "month": 12,
+    "name": "New Year's Eve",
+    "text": "Millions in white on Copacabana beach."
+   }
+  ]
+ }
 }

@@ -62,5 +62,66 @@
    "term": "Federal",
    "meaning": "A system where power is shared between the national government and provinces or states."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "4-year term; one re-election in a row",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Chamber of Deputies",
+     "subtitle": "257 members",
+     "text": "Half are elected every two years."
+    },
+    {
+     "title": "The Senate",
+     "subtitle": "72 senators",
+     "text": "Three for each province and the city of Buenos Aires."
+    },
+    {
+     "title": "Supreme Court",
+     "subtitle": "5 justices",
+     "text": "The highest court."
+    },
+    {
+     "title": "Provinces",
+     "subtitle": "23 provinces and Buenos Aires city",
+     "text": "Each with an elected governor."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In either chamber."
+   },
+   {
+    "title": "Committee and vote",
+    "text": "The chamber studies and approves it."
+   },
+   {
+    "title": "Second chamber",
+    "text": "The other chamber approves or changes it; changes go back to the first."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates the law or vetoes all or part of it."
+   },
+   {
+    "title": "Override",
+    "text": "Congress can override a veto with two-thirds of both chambers."
+   }
+  ]
+ }
 }

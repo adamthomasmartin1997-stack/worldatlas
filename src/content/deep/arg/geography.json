@@ -67,5 +67,89 @@
    "term": "Estuary",
    "meaning": "The wide mouth of a river where it meets the sea."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Argentina's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Quebrada de Humahuaca",
+    "kind": "valley",
+    "lat": -23.2,
+    "lon": -65.35,
+    "text": "A canyon with rocks striped in many colours."
+   },
+   {
+    "name": "Salinas Grandes",
+    "kind": "salt flat",
+    "lat": -23.6,
+    "lon": -65.9,
+    "text": "A dazzling white salt plain high in the Andes."
+   },
+   {
+    "name": "Iguazú Falls",
+    "kind": "waterfalls",
+    "lat": -25.69,
+    "lon": -54.44,
+    "text": "Shared with Brazil, including the 'Devil's Throat'."
+   },
+   {
+    "name": "Iberá Wetlands",
+    "kind": "wetland",
+    "lat": -28.5,
+    "lon": -57.2,
+    "text": "Marshes where jaguars have been reintroduced."
+   },
+   {
+    "name": "Ischigualasto",
+    "kind": "desert valley",
+    "lat": -30.0,
+    "lon": -67.9,
+    "text": "The 'Valley of the Moon', rich in early dinosaur fossils."
+   },
+   {
+    "name": "Aconcagua",
+    "kind": "mountain",
+    "lat": -32.65,
+    "lon": -70.01,
+    "text": "The highest mountain outside Asia."
+   },
+   {
+    "name": "The Pampas",
+    "kind": "grassland",
+    "lat": -36.0,
+    "lon": -61.0,
+    "text": "Flat, fertile plains of cattle and crops."
+   },
+   {
+    "name": "Valdés Peninsula",
+    "kind": "coast",
+    "lat": -42.5,
+    "lon": -64.0,
+    "text": "Whales, sea lions and penguins."
+   },
+   {
+    "name": "Mount Fitz Roy",
+    "kind": "mountain",
+    "lat": -49.27,
+    "lon": -73.04,
+    "text": "A jagged granite peak in Patagonia."
+   },
+   {
+    "name": "Perito Moreno Glacier",
+    "kind": "glacier",
+    "lat": -50.47,
+    "lon": -73.03,
+    "text": "A wall of ice that drops huge blocks into a lake."
+   },
+   {
+    "name": "Tierra del Fuego",
+    "kind": "islands",
+    "lat": -54.8,
+    "lon": -68.3,
+    "text": "The 'land of fire' at the tip of South America."
+   }
+  ]
+ }
 }
