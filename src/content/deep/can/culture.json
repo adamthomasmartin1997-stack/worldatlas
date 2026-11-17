@@ -1,0 +1,48 @@
+{
+ "status": "draft",
+ "intro": "Canadian culture blends Indigenous traditions, French and British roots and influences from around the world, and has produced a remarkable number of global music stars.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music and screen",
+   "text": [
+    "Canada has produced some of the world's biggest music stars: Celine Dion, Justin Bieber, Drake, The Weeknd, Shania Twain, Joni Mitchell and Leonard Cohen. Many Hollywood actors and comedians are Canadian too, and the Toronto International Film Festival is one of the most important in the world.",
+    "Writers include Margaret Atwood, author of The Handmaid's Tale, and Lucy Maud Montgomery, whose Anne of Green Gables (1908) is set on Prince Edward Island."
+   ]
+  },
+  {
+   "id": "indigenous",
+   "title": "Indigenous art",
+   "text": [
+    "Pacific coast nations carve towering totem poles telling family and clan histories, and Inuit artists are famous for stone sculptures and prints. Powwows bring First Nations together for drumming, dancing and celebration.",
+    "Indigenous words appear all over Canada's map, from Ottawa and Toronto to Saskatchewan and Yukon."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Poutine, from Quebec, is chips topped with cheese curds and gravy. Other favourites include maple syrup on pancakes, butter tarts, Nanaimo bars and bannock, a bread with Indigenous and Scottish roots.",
+    "Coffee and doughnut chains are part of everyday life, especially on the way to early-morning hockey practice."
+   ]
+  },
+  {
+   "id": "inventions",
+   "title": "Inventions and festivals",
+   "text": [
+    "Insulin, the hormone that keeps people with diabetes alive, was discovered in Toronto in 1921. Basketball was invented by a Canadian, and IMAX cinema screens were developed in Canada.",
+    "The Calgary Stampede is a huge rodeo and festival every July, and the Quebec Winter Carnival has ice palaces, snow sculptures and canoe races across the frozen St Lawrence River."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Totem pole",
+   "meaning": "A tall carved post made by Pacific coast First Nations, showing family crests and stories."
+  },
+  {
+   "term": "Powwow",
+   "meaning": "A gathering of First Nations people with music, dancing and celebration."
+  }
+ ]
+}

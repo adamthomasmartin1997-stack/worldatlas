@@ -1,0 +1,167 @@
+{
+ "status": "draft",
+ "intro": "Canada grew from Indigenous nations, French and British colonies and a peaceful union in 1867 into one of the world's most diverse democracies. It gained independence step by step, without a revolution, and is still coming to terms with how Indigenous peoples were treated.",
+ "chapters": [
+  {
+   "id": "first-peoples",
+   "title": "First Peoples",
+   "text": [
+    "Indigenous peoples have lived in what is now Canada for thousands of years. They include the First Nations, with hundreds of different nations and languages, the Inuit of the Arctic, and later the Métis, of mixed First Nations and European ancestry.",
+    "Ways of life ranged from salmon fishing and cedar plank houses on the Pacific coast to buffalo hunting on the Plains and farming villages around the Great Lakes, where the Haudenosaunee (Iroquois) Confederacy linked several nations under a shared constitution."
+   ]
+  },
+  {
+   "id": "new-france",
+   "title": "Vikings, French and British",
+   "text": [
+    "Around the year 1000, Norse Vikings built a settlement at L'Anse aux Meadows in Newfoundland, the earliest known European site in the Americas. They did not stay long.",
+    "The French explorer Jacques Cartier sailed up the St Lawrence River in 1534. The name Canada probably comes from kanata, an Iroquoian word for 'village'. In 1608 Samuel de Champlain founded Quebec City, the heart of New France, and the fur trade with Indigenous peoples drove the colony's economy.",
+    "Britain and France fought for control of North America. In 1759 the British won the Battle of the Plains of Abraham outside Quebec City, and in 1763 France gave up Canada. French-speaking Canadians kept their language, religion and laws."
+   ],
+   "related": [
+    "NOR",
+    "FRA",
+    "GBR"
+   ]
+  },
+  {
+   "id": "confederation",
+   "title": "Confederation",
+   "text": [
+    "After the American Revolution, thousands of 'Loyalists' who wanted to stay British moved north. In the War of 1812 American invasions of Canada were driven back.",
+    "On 1 July 1867 four colonies, Ontario, Quebec, Nova Scotia and New Brunswick, joined to form the Dominion of Canada, with John A. Macdonald as first prime minister. Other provinces joined later, and a railway across the country was completed in 1885 to tie it together; Newfoundland was the last to join, in 1949.",
+    "As Canada expanded west, Métis leader Louis Riel led two resistance movements to protect his people's land and rights. He was hanged in 1885 and is now seen by many as a founder of Manitoba."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "residential",
+   "title": "Residential schools",
+   "text": [
+    "From the 1880s until 1996, about 150,000 First Nations, Inuit and Métis children were taken from their families and sent to residential schools run by churches for the government. The aim was to wipe out their languages and cultures. Many children suffered abuse, and thousands died.",
+    "A Truth and Reconciliation Commission reported in 2015 and called this 'cultural genocide'. Since 2021, 30 September has been the National Day for Truth and Reconciliation."
+   ],
+   "highlight": {
+    "title": "Reconciliation",
+    "text": "Today many Canadian events begin with a 'land acknowledgement' recognising the Indigenous peoples on whose traditional territory they take place."
+   }
+  },
+  {
+   "id": "independence",
+   "title": "Becoming independent",
+   "text": [
+    "Canadian troops fought bravely in the First World War, especially at Vimy Ridge in 1917, and the country won more independence afterwards. In the Second World War Canadians landed at Juno Beach on D-Day.",
+    "Canada adopted the red maple leaf flag in 1965. In 1982 it took full control of its own constitution and added the Charter of Rights and Freedoms."
+   ],
+   "related": [
+    "FRA",
+    "GBR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Modern Canada",
+   "text": [
+    "In the 1960s Quebec went through a 'Quiet Revolution', modernising quickly and asserting its French identity. Quebec voted on leaving Canada in 1980 and again in 1995, when the 'No' side won by just over one percentage point.",
+    "In 1971 Canada became the first country to adopt multiculturalism as official policy. In 1999 the Inuit-majority territory of Nunavut was created in the Arctic, and in 2005 Canada became one of the first countries to allow same-sex marriage."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1000",
+   "title": "Vikings in Newfoundland",
+   "text": "Norse settlers build at L'Anse aux Meadows."
+  },
+  {
+   "year": "1534",
+   "title": "Jacques Cartier",
+   "text": "The French explorer reaches the St Lawrence."
+  },
+  {
+   "year": "1608",
+   "title": "Quebec City",
+   "text": "Champlain founds the capital of New France."
+  },
+  {
+   "year": "1759",
+   "title": "Plains of Abraham",
+   "text": "Britain defeats France at Quebec."
+  },
+  {
+   "year": "1812",
+   "title": "War of 1812",
+   "text": "American invasions are driven back."
+  },
+  {
+   "year": "1867",
+   "title": "Confederation",
+   "text": "Canada is created on 1 July."
+  },
+  {
+   "year": "1885",
+   "title": "Railway complete",
+   "text": "The Canadian Pacific Railway reaches the Pacific; Louis Riel is hanged."
+  },
+  {
+   "year": "1917",
+   "title": "Vimy Ridge",
+   "text": "A famous Canadian victory in the First World War."
+  },
+  {
+   "year": "1949",
+   "title": "Newfoundland joins",
+   "text": "The tenth province."
+  },
+  {
+   "year": "1965",
+   "title": "Maple leaf flag",
+   "text": "Canada adopts its new flag."
+  },
+  {
+   "year": "1971",
+   "title": "Multiculturalism",
+   "text": "The first country to make it official policy."
+  },
+  {
+   "year": "1982",
+   "title": "Charter of Rights",
+   "text": "Canada takes full control of its constitution."
+  },
+  {
+   "year": "1995",
+   "title": "Quebec referendum",
+   "text": "Quebec narrowly votes to stay in Canada."
+  },
+  {
+   "year": "1999",
+   "title": "Nunavut",
+   "text": "A new Inuit-majority territory is created."
+  },
+  {
+   "year": "2015",
+   "title": "Truth and Reconciliation",
+   "text": "The report on residential schools is published."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "First Nations",
+   "meaning": "The many Indigenous peoples of Canada who are not Inuit or Métis."
+  },
+  {
+   "term": "Métis",
+   "meaning": "A distinct Indigenous people with mixed First Nations and European roots."
+  },
+  {
+   "term": "Confederation",
+   "meaning": "The joining of colonies to create Canada in 1867."
+  },
+  {
+   "term": "Reconciliation",
+   "meaning": "Repairing the relationship between Indigenous and non-Indigenous Canadians."
+  }
+ ]
+}

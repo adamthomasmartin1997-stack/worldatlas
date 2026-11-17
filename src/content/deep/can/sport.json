@@ -1,0 +1,50 @@
+{
+ "status": "draft",
+ "intro": "Ice hockey is Canada's great passion, but Canadians also invented basketball, play their own version of football and won more gold medals than any other country when they hosted the 2010 Winter Olympics.",
+ "chapters": [
+  {
+   "id": "hockey",
+   "title": "Hockey",
+   "text": [
+    "Canada's national winter sport is ice hockey, and its summer sport is lacrosse, a game invented by Indigenous peoples. Children learn to skate on frozen ponds and backyard rinks.",
+    "The National Hockey League has teams in both Canada and the US, and Wayne Gretzky, 'The Great One', holds dozens of scoring records. Canada's men's and women's teams have won many Olympic gold medals."
+   ]
+  },
+  {
+   "id": "football-basketball",
+   "title": "Basketball, football and baseball",
+   "text": [
+    "Basketball was invented in 1891 by the Canadian James Naismith. The Toronto Raptors won the NBA title in 2019, and Shai Gilgeous-Alexander was the NBA's Most Valuable Player in 2025.",
+    "Canadian football has 12 players a side and only three attempts, or downs, to move the ball forward; its championship is the Grey Cup. Baseball's Toronto Blue Jays won the World Series in 1992 and 1993."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympic moments",
+   "text": [
+    "Montreal hosted the Summer Olympics in 1976 and Calgary the Winter Olympics in 1988. At the Vancouver 2010 Winter Games, Canada won 14 gold medals, a record at the time.",
+    "At Paris 2024, swimmer Summer McIntosh won three gold medals. Canada's women won Olympic football gold in 2021, and Canada co-hosts the 2026 men's World Cup."
+   ]
+  },
+  {
+   "id": "hero",
+   "title": "Terry Fox",
+   "text": [
+    "In 1980 Terry Fox, who had lost a leg to cancer, set out to run across Canada on an artificial leg to raise money for cancer research. He ran a marathon a day for 143 days before the cancer returned and he had to stop. Terry Fox Runs are now held every year around the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lacrosse",
+   "meaning": "A team game played with a ball and long-handled sticks with nets, invented by Indigenous peoples."
+  },
+  {
+   "term": "Down",
+   "meaning": "In North American football, one attempt to move the ball forward."
+  }
+ ]
+}

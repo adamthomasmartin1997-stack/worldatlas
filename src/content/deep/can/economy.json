@@ -1,0 +1,49 @@
+{
+ "status": "draft",
+ "intro": "Canada is one of the world's richest countries, built on vast natural resources, from oil and minerals to forests, farms and fresh water, and on close trade with the United States.",
+ "chapters": [
+  {
+   "id": "resources",
+   "title": "Natural riches",
+   "text": [
+    "Canada has some of the largest oil reserves in the world, much of it in the oil sands of Alberta. It is also a major producer of natural gas, uranium, gold, nickel and potash, a fertiliser it produces more of than any other country.",
+    "Forests supply timber and paper, and the Prairies grow huge amounts of wheat and canola. Rivers provide hydroelectricity, which generates more than half of Canada's electricity."
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Beyond resources",
+   "text": [
+    "Most Canadians work in services such as banking, healthcare, education and technology. Canada built the Canadarm, robotic arms used on the Space Shuttle and the International Space Station, and companies such as Shopify started there.",
+    "Quebec produces most of the world's maple syrup and even keeps a strategic reserve of it."
+   ],
+   "highlight": {
+    "title": "Sweet security",
+    "text": "Quebec's maple syrup producers keep a reserve of tens of millions of pounds of syrup in case of bad harvests. In 2012 thieves stole about 3,000 tonnes of it."
+   }
+  },
+  {
+   "id": "trade",
+   "title": "Trade with the US",
+   "text": [
+    "About three-quarters of Canada's exports go to the United States, including oil, cars and car parts, wood and metals. The two economies are so connected that parts can cross the border several times before a car is finished.",
+    "When the US placed tariffs on Canadian goods in 2025, many Canadians responded by buying Canadian products and holidaying at home. The currency is the Canadian dollar."
+   ],
+   "related": [
+    "USA",
+    "MEX",
+    "CHN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Oil sands",
+   "meaning": "Sand soaked in thick, heavy oil, which has to be dug or steamed out of the ground."
+  },
+  {
+   "term": "Hydroelectricity",
+   "meaning": "Electricity made by water flowing through turbines in a dam."
+  }
+ ]
+}

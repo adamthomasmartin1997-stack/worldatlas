@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Canada is one of the most diverse countries on Earth. Almost one in four people living there was born in another country, and it has two official languages, English and French.",
+ "chapters": [
+  {
+   "id": "cities",
+   "title": "Where Canadians live",
+   "text": [
+    "Toronto is the largest city, followed by Montreal, Vancouver, Calgary and Edmonton. The capital, Ottawa, lies on the border between English-speaking Ontario and French-speaking Quebec.",
+    "The far north is very thinly populated: Nunavut covers about a fifth of Canada but has only around 40,000 people, most of them Inuit."
+   ]
+  },
+  {
+   "id": "languages",
+   "title": "Two official languages",
+   "text": [
+    "English and French are both official languages of the national government, and products are labelled in both. About one in five Canadians speaks French as their first language, most of them in Quebec, where French is the only official language. New Brunswick is officially bilingual.",
+    "Many English-speaking children go to 'French immersion' schools. Indigenous languages such as Cree, Ojibwe and Inuktitut are spoken too, and Inuktitut is an official language of Nunavut."
+   ]
+  },
+  {
+   "id": "diversity",
+   "title": "A country of immigrants",
+   "text": [
+    "Canada welcomes more immigrants for its size than almost any other large country. Newcomers come from India, the Philippines, China, Syria and many more places, and Toronto is one of the most diverse cities in the world.",
+    "Indigenous peoples, First Nations, Métis and Inuit, make up about one in twenty Canadians and are the fastest-growing part of the population."
+   ],
+   "related": [
+    "IND",
+    "PHL",
+    "CHN",
+    "SYR"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Everyday life",
+   "text": [
+    "Most Canadians who are religious are Christian, but more than a third say they have no religion. Education is run by each province, and public healthcare is free when you need it.",
+    "Canadians are famous, perhaps unfairly, for being very polite and saying 'sorry' a lot."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bilingual",
+   "meaning": "Using two languages."
+  },
+  {
+   "term": "French immersion",
+   "meaning": "School programmes where English-speaking pupils are taught mostly in French."
+  }
+ ]
+}

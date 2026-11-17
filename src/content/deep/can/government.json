@@ -1,0 +1,78 @@
+{
+ "status": "draft",
+ "intro": "Canada is a federation of ten provinces and three territories, a parliamentary democracy and a constitutional monarchy that shares its king with the United Kingdom.",
+ "chapters": [
+  {
+   "id": "monarchy",
+   "title": "A king and a governor general",
+   "text": [
+    "King Charles III is Canada's head of state. Because he lives in the UK, a Governor General, appointed on the prime minister's advice, carries out his duties in Canada, such as signing laws and opening Parliament.",
+    "Canada's constitution includes the Charter of Rights and Freedoms, added in 1982, which protects freedoms of speech, religion and equality."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "parliament",
+   "title": "Parliament",
+   "text": [
+    "Parliament meets in Ottawa. Members of the House of Commons are elected by first past the post, and the leader of the party that can command a majority becomes prime minister. Mark Carney of the Liberal Party became prime minister in 2025.",
+    "The Senate's members are appointed, not elected, and serve until 75. They review laws but rarely block them."
+   ],
+   "facts": [
+    {
+     "label": "Provinces",
+     "value": "10"
+    },
+    {
+     "label": "Territories",
+     "value": "3"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "provinces",
+   "title": "Provinces and territories",
+   "text": [
+    "The provinces control schools, hospitals and natural resources and have a lot of power. Quebec uses a civil law system based on French law for private matters, while the rest of Canada uses English-style common law.",
+    "The three northern territories, Yukon, the Northwest Territories and Nunavut, have their own governments but fewer powers. Many Indigenous nations have treaties with the Crown and run their own affairs."
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols",
+   "text": [
+    "The flag shows a red maple leaf between two red bars on white. The anthem is O Canada, sung in English and French. Canada Day, 1 July, marks Confederation.",
+    "The $1 coin shows a loon, so Canadians call it a 'loonie', and the $2 coin is a 'toonie'."
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Canada in the world",
+   "text": [
+    "Canada was a founding member of NATO in 1949 and is part of the G7. The Canadian diplomat Lester Pearson helped invent United Nations peacekeeping forces during the Suez Crisis of 1956 and won the Nobel Peace Prize.",
+    "Its closest relationship is with the United States, its largest trading partner and military ally, though disputes over trade have sometimes strained ties."
+   ],
+   "related": [
+    "USA",
+    "GBR",
+    "FRA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Governor General",
+   "meaning": "The king's representative in Canada."
+  },
+  {
+   "term": "Peacekeeping",
+   "meaning": "International forces sent to keep the peace between sides after a conflict."
+  }
+ ]
+}

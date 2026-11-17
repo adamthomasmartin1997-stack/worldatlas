@@ -1,0 +1,56 @@
+{
+ "status": "draft",
+ "intro": "Canada is the second-largest country on Earth, touching three oceans, with more lakes than any other country, vast forests and Arctic islands. Yet most of its people live in a narrow band close to the United States.",
+ "chapters": [
+  {
+   "id": "size",
+   "title": "A giant land",
+   "text": [
+    "Canada stretches from the Atlantic to the Pacific and north into the Arctic Ocean. It has the longest coastline of any country, thanks to thousands of Arctic islands. Its only land neighbour is the United States, and their border is the longest between any two countries.",
+    "Because the north is so cold, most Canadians live in the south, within a few hundred kilometres of the US border."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "regions",
+   "title": "Shield, prairies and mountains",
+   "text": [
+    "The Canadian Shield, a huge horseshoe of ancient rock scraped bare by Ice Age glaciers, covers about half the country around Hudson Bay. It is dotted with countless lakes and rich in minerals.",
+    "The Prairies of Manitoba, Saskatchewan and Alberta are flat grasslands now planted with wheat and canola. In the west rise the Rocky Mountains and the Coast Mountains, and Mount Logan in Yukon is Canada's highest peak.",
+    "The Great Lakes and the St Lawrence River, where Toronto, Ottawa and Montreal stand, form the most crowded region. On the Atlantic coast, the Bay of Fundy has the highest tides in the world, rising and falling by up to 16 m."
+   ]
+  },
+  {
+   "id": "water-ice",
+   "title": "Lakes, forests and ice",
+   "text": [
+    "Canada has more lakes than any other country, and some of the largest supplies of fresh water on Earth. Niagara Falls is shared with the US; the largest part, the Horseshoe Falls, is mostly on the Canadian side.",
+    "The boreal forest, a belt of spruce, pine and birch, stretches right across the country. Further north is treeless tundra and Arctic ice, where the northern lights often dance in the sky."
+   ]
+  },
+  {
+   "id": "climate-wildlife",
+   "title": "Climate and wildlife",
+   "text": [
+    "Winters are long and cold in most of Canada: temperatures in the Prairies and the north can fall below -40°C. The Pacific coast around Vancouver is much milder and wetter.",
+    "Canada is home to moose, beavers, bears, wolves, caribou and loons, the bird on the $1 coin. In autumn, polar bears gather around Churchill in Manitoba, waiting for Hudson Bay to freeze so they can hunt seals."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Canadian Shield",
+   "meaning": "A huge area of very old, hard rock covering much of central and eastern Canada."
+  },
+  {
+   "term": "Boreal forest",
+   "meaning": "The cold northern forest of conifer trees that circles the Arctic."
+  },
+  {
+   "term": "Tundra",
+   "meaning": "Cold, treeless land in the far north where the ground below the surface stays frozen."
+  }
+ ]
+}
