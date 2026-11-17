@@ -1,0 +1,66 @@
+{
+ "status": "draft",
+ "intro": "Indonesia is a presidential republic and, since 1998, a democracy: one of the largest in the world, where more than 200 million people can vote.",
+ "chapters": [
+  {
+   "id": "president",
+   "title": "President and parliament",
+   "text": [
+    "The president is elected directly for five years and can serve two terms. Prabowo Subianto became president in 2024, after Joko Widodo, known as Jokowi, a former furniture seller who had served two terms.",
+    "The People's Representative Council makes laws. Together with a Regional Representative Council, it forms the People's Consultative Assembly, which can change the constitution."
+   ],
+   "facts": [
+    {
+     "label": "President's term",
+     "value": "5 years, two at most"
+    },
+    {
+     "label": "Provinces",
+     "value": "38"
+    },
+    {
+     "label": "Voting age",
+     "value": "17 (or younger if married)"
+    }
+   ]
+  },
+  {
+   "id": "pancasila",
+   "title": "Pancasila and the motto",
+   "text": [
+    "Pancasila's five principles are: belief in one God, a just and civilised humanity, the unity of Indonesia, democracy guided by wisdom, and social justice for all.",
+    "The national motto, Bhinneka Tunggal Ika, comes from an old Javanese poem and means 'Unity in Diversity'. The flag is red over white, and Independence Day is 17 August."
+   ]
+  },
+  {
+   "id": "regions",
+   "title": "Regions",
+   "text": [
+    "Indonesia has 38 provinces. Aceh, at the tip of Sumatra, has special autonomy and applies Islamic law, and in Yogyakarta the sultan also serves as governor. Papua has a long-running independence movement."
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Indonesia in the world",
+   "text": [
+    "In 1955 Indonesia hosted the Bandung Conference of newly independent Asian and African countries, which led to the Non-Aligned Movement. It was a founder of ASEAN, whose headquarters is in Jakarta, is a member of the G20 and joined the BRICS group in 2025."
+   ],
+   "related": [
+    "MYS",
+    "SGP",
+    "THA",
+    "PHL"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Autonomy",
+   "meaning": "The right of a region to govern some of its own affairs."
+  },
+  {
+   "term": "ASEAN",
+   "meaning": "The Association of Southeast Asian Nations, a group of ten (now eleven) countries."
+  }
+ ]
+}

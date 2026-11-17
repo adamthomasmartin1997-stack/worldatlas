@@ -1,0 +1,46 @@
+{
+ "status": "draft",
+ "intro": "Indonesia's culture is as varied as its islands, from Javanese shadow puppets and gamelan orchestras to Balinese temple dances and some of the world's best-loved dishes.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Batik, wayang and gamelan",
+   "text": [
+    "Batik is cloth decorated by drawing patterns in wax and then dyeing it; Indonesians wear it to work and on special occasions. Wayang kulit, shadow puppet plays using intricately cut leather puppets, can last all night and tell stories from the Ramayana and Mahabharata.",
+    "Gamelan orchestras of bronze gongs, metallophones and drums accompany dance and puppetry. Batik, wayang and gamelan are all on UNESCO's heritage lists."
+   ],
+   "related": [
+    "IND"
+   ]
+  },
+  {
+   "id": "bali",
+   "title": "Bali",
+   "text": [
+    "Hindu Bali has thousands of temples, daily offerings of flowers and rice, and elaborate dances. On Nyepi, the Balinese New Year, the whole island goes silent for a day: no lights, no traffic, and even the airport closes."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Rice is at the centre of most meals. Nasi goreng (fried rice), satay (grilled skewers with peanut sauce), gado-gado (vegetables with peanut sauce) and rendang, a rich slow-cooked beef dish from West Sumatra, are favourites; rendang often appears on lists of the world's most delicious foods.",
+    "Tempeh, a cake of fermented soybeans, was invented on Java, and almost every meal comes with sambal, a fiery chilli sauce."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Batik",
+   "meaning": "A way of decorating cloth using wax and dye."
+  },
+  {
+   "term": "Gamelan",
+   "meaning": "A traditional orchestra of gongs and metal percussion instruments."
+  },
+  {
+   "term": "Wayang kulit",
+   "meaning": "Shadow puppet theatre from Java and Bali."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "status": "draft",
+ "intro": "Indonesia is the world's largest island country: about 17,000 islands stretched along the equator for more than 5,000 km. It has more active volcanoes than any other country and some of the richest rainforests and coral reefs on Earth.",
+ "chapters": [
+  {
+   "id": "islands",
+   "title": "Seventeen thousand islands",
+   "text": [
+    "Indonesia stretches further from east to west than the mainland United States. The biggest islands are Sumatra, Java, Sulawesi and parts of Borneo and New Guinea, which it shares with Malaysia, Brunei and Papua New Guinea. It also has land borders with Timor-Leste.",
+    "The sea links rather than divides the country: ferries and planes connect thousands of inhabited islands."
+   ],
+   "related": [
+    "MYS",
+    "BRN",
+    "PNG",
+    "TLS"
+   ]
+  },
+  {
+   "id": "volcanoes",
+   "title": "On the Ring of Fire",
+   "text": [
+    "Indonesia sits where several of Earth's plates meet and has around 130 active volcanoes, more than any other country. Volcanic ash makes soils very fertile, especially on Java, but eruptions and earthquakes are a constant danger.",
+    "In 1815 Mount Tambora erupted in the largest eruption in recorded history, cooling the whole planet and causing a 'year without a summer' in 1816. The 1883 eruption of Krakatoa was heard thousands of kilometres away."
+   ],
+   "highlight": {
+    "title": "Heard around the world",
+    "text": "Krakatoa's explosion was one of the loudest sounds in recorded history, heard on islands near Mauritius, almost 4,800 km away."
+   }
+  },
+  {
+   "id": "wildlife",
+   "title": "Rainforests and reefs",
+   "text": [
+    "Rainforests on Sumatra and Borneo are home to orangutans, Sumatran tigers, elephants and rhinos. Komodo and nearby islands are the only home of the Komodo dragon, the world's largest lizard, and Papua has birds of paradise.",
+    "Indonesia's seas are part of the Coral Triangle, which has more kinds of coral and reef fish than anywhere else on Earth. Large areas of forest have been cleared for palm oil plantations, mines and paper, threatening wildlife."
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Life on the equator",
+   "text": [
+    "The equator runs through Indonesia, so it is hot and humid all year, with a wet season and a dry season instead of summer and winter. Puncak Jaya in Papua is high enough to have had tropical glaciers, which are now almost gone."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ring of Fire",
+   "meaning": "A zone of earthquakes and volcanoes around the Pacific Ocean."
+  },
+  {
+   "term": "Coral Triangle",
+   "meaning": "The ocean area around Indonesia, the Philippines and Papua New Guinea with the world's richest coral reefs."
+  }
+ ]
+}

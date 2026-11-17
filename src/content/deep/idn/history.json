@@ -1,0 +1,154 @@
+{
+ "status": "draft",
+ "intro": "Indonesia's islands were home to some of the earliest humans outside Africa, great Hindu and Buddhist kingdoms and the spice trade that drew Europeans across the world. After 350 years of Dutch control, it declared independence in 1945 and is now the world's third-largest democracy.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Ancient islands",
+   "text": [
+    "Fossils of 'Java Man', an early human species, show that people lived on Java more than a million years ago. On the island of Flores, scientists found a tiny human species nicknamed 'the hobbit'. Cave paintings on Sulawesi, more than 50,000 years old, are among the oldest known pictures of animals and people.",
+    "Around 4,000 years ago Austronesian seafarers spread through the islands, bringing farming, and their descendants later sailed as far as Madagascar and the Pacific."
+   ],
+   "related": [
+    "MDG"
+   ]
+  },
+  {
+   "id": "kingdoms",
+   "title": "Kingdoms of the islands",
+   "text": [
+    "From the 600s, the Buddhist kingdom of Srivijaya, based on Sumatra, grew rich by controlling sea trade between India and China. On Java, rulers built Borobudur around 800, the largest Buddhist temple in the world, and the Hindu temples of Prambanan nearby.",
+    "The Majapahit Empire, from 1293, ruled from eastern Java and claimed influence over much of today's Indonesia. Islam arrived with traders from India and the Middle East and spread through the islands from the 1200s, eventually becoming the main religion."
+   ],
+   "related": [
+    "IND",
+    "CHN",
+    "MYS"
+   ]
+  },
+  {
+   "id": "spices",
+   "title": "Spices and the Dutch",
+   "text": [
+    "The Maluku Islands, the 'Spice Islands', were the only source of nutmeg and cloves, worth more than gold in Europe. The Portuguese arrived in 1512, followed by the Dutch East India Company, which founded Batavia, today's Jakarta, in 1619 and used brutal force to control the spice trade.",
+    "The Dutch gradually conquered the islands. In the 1800s they forced farmers to grow crops such as coffee and sugar for export, causing famines. Prince Diponegoro led a long war against them on Java from 1825 to 1830."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "The search for Indonesia's spices helped drive Europe's age of exploration, including Columbus's voyage west and Magellan's around the world."
+   },
+   "related": [
+    "NLD",
+    "PRT"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "One nation",
+   "text": [
+    "In 1928 young nationalists made the Youth Pledge: one homeland, one nation and one language, Indonesian. Japan occupied the islands from 1942 to 1945, and two days after Japan surrendered, on 17 August 1945, Sukarno and Mohammad Hatta declared independence. The Dutch fought to return, but recognised Indonesia in 1949.",
+    "In 1965 and 1966, after a failed coup blamed on communists, the army and its allies killed at least half a million people. General Suharto then ruled for over 30 years, bringing economic growth but also corruption and repression, including a brutal occupation of East Timor from 1975."
+   ],
+   "related": [
+    "NLD",
+    "JPN",
+    "TLS"
+   ]
+  },
+  {
+   "id": "reformasi",
+   "title": "Reform and democracy",
+   "text": [
+    "The Asian financial crisis of 1997 and 1998 brought mass protests, and Suharto resigned in May 1998. This 'Reformasi' period made Indonesia a democracy with free elections, a free press and more power for the regions. East Timor became independent in 2002.",
+    "On 26 December 2004 a huge earthquake and tsunami killed more than 160,000 people in Indonesia, most in Aceh, and helped end a long rebellion there. The country is now building a new capital, Nusantara, on Borneo, because Jakarta is crowded and sinking."
+   ],
+   "related": [
+    "TLS",
+    "LKA",
+    "THA",
+    "IND"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 800",
+   "title": "Borobudur",
+   "text": "The great Buddhist temple is built on Java."
+  },
+  {
+   "year": "1293",
+   "title": "Majapahit",
+   "text": "The Javanese empire is founded."
+  },
+  {
+   "year": "1512",
+   "title": "Portuguese arrive",
+   "text": "Europeans reach the Spice Islands."
+  },
+  {
+   "year": "1619",
+   "title": "Batavia",
+   "text": "The Dutch found today's Jakarta."
+  },
+  {
+   "year": "1815",
+   "title": "Tambora erupts",
+   "text": "The largest eruption in recorded history."
+  },
+  {
+   "year": "1825",
+   "title": "Java War",
+   "text": "Prince Diponegoro fights the Dutch until 1830."
+  },
+  {
+   "year": "1928",
+   "title": "Youth Pledge",
+   "text": "One nation, one people, one language."
+  },
+  {
+   "year": "1942",
+   "title": "Japanese occupation",
+   "text": "Japan seizes the Dutch East Indies."
+  },
+  {
+   "year": "1945",
+   "title": "Independence",
+   "text": "Sukarno and Hatta declare independence on 17 August."
+  },
+  {
+   "year": "1949",
+   "title": "Dutch recognition",
+   "text": "The Netherlands accepts Indonesian independence."
+  },
+  {
+   "year": "1965",
+   "title": "Mass killings",
+   "text": "Hundreds of thousands are killed; Suharto rises to power."
+  },
+  {
+   "year": "1998",
+   "title": "Reformasi",
+   "text": "Suharto resigns and democracy begins."
+  },
+  {
+   "year": "2004",
+   "title": "Indian Ocean tsunami",
+   "text": "Aceh is devastated."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Archipelago",
+   "meaning": "A group or chain of islands."
+  },
+  {
+   "term": "Spice trade",
+   "meaning": "Trade in spices such as nutmeg, cloves and pepper, once among the world's most valuable goods."
+  },
+  {
+   "term": "Reformasi",
+   "meaning": "The period of political reform after Suharto's fall in 1998."
+  }
+ ]
+}

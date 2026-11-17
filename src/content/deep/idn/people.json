@@ -1,0 +1,44 @@
+{
+ "status": "draft",
+ "intro": "Indonesia has the fourth-largest population in the world and more Muslims than any other country. Its people belong to more than a thousand ethnic groups and speak around 700 languages, united by one national language.",
+ "chapters": [
+  {
+   "id": "where",
+   "title": "Crowded Java",
+   "text": [
+    "More than half of Indonesians live on Java, one of the most densely populated islands on Earth. Jakarta, the capital, is a megacity, and other big cities include Surabaya, Bandung and Medan.",
+    "At the end of Ramadan, tens of millions of people travel back to their home villages for Eid, a journey called mudik."
+   ]
+  },
+  {
+   "id": "diversity",
+   "title": "Unity in diversity",
+   "text": [
+    "The Javanese are the largest ethnic group, followed by the Sundanese, but there are more than 1,300 groups, from the Minangkabau of Sumatra to the Dayak of Borneo and the Papuan peoples.",
+    "Around 700 languages are spoken. Bahasa Indonesia, based on Malay and chosen as the national language in 1928, is taught in every school and lets everyone communicate; most Indonesians also speak a local language at home."
+   ]
+  },
+  {
+   "id": "religion",
+   "title": "Religion",
+   "text": [
+    "About nine in ten Indonesians are Muslim. The island of Bali is mostly Hindu, and there are Christian majorities in parts of Sulawesi, Nusa Tenggara and Papua. The state recognises six religions: Islam, Protestantism, Catholicism, Hinduism, Buddhism and Confucianism.",
+    "Indonesia is not an Islamic state: its founding principles, called Pancasila, include belief in God but protect the freedom of different faiths."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bahasa Indonesia",
+   "meaning": "The national language of Indonesia."
+  },
+  {
+   "term": "Mudik",
+   "meaning": "The mass journey home for the Eid holiday."
+  },
+  {
+   "term": "Pancasila",
+   "meaning": "The five founding principles of the Indonesian state."
+  }
+ ]
+}

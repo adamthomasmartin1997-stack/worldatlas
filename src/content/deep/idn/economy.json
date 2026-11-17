@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Indonesia has the largest economy in South-East Asia. It is the world's biggest producer of palm oil and nickel, and its young, growing population is turning it into a major consumer market.",
+ "chapters": [
+  {
+   "id": "resources",
+   "title": "Palm oil, nickel and coal",
+   "text": [
+    "Indonesia produces more palm oil than any other country, used in foods, cosmetics and fuel; the plantations bring jobs but have cleared huge areas of rainforest.",
+    "It also mines more nickel than any other country, a metal needed for electric car batteries. Instead of just exporting the ore, Indonesia banned raw nickel exports in 2020 so that it would be processed in local smelters. It is one of the largest coal exporters, too."
+   ]
+  },
+  {
+   "id": "farming",
+   "title": "Rice, coffee and spices",
+   "text": [
+    "Millions of Indonesians farm. Rice grows in terraced paddies on Java and Bali, many still watered by a cooperative system called subak that dates back about a thousand years and is on UNESCO's heritage list.",
+    "Indonesia is one of the world's leading growers of coffee, cocoa and rubber, and still produces nutmeg, cloves and other spices that once drew traders from across the world."
+   ]
+  },
+  {
+   "id": "growth",
+   "title": "A growing market",
+   "text": [
+    "Hundreds of millions of young, connected consumers have made Indonesia a big market for phones, online shopping and ride-hailing apps such as Gojek, which started with motorbike taxis in Jakarta.",
+    "Tourism, especially to Bali, is a major earner. Big challenges include poverty in the eastern islands, traffic and floods in Jakarta, and protecting forests. The currency is the rupiah."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Palm oil",
+   "meaning": "An oil from the fruit of the oil palm, found in many foods and products."
+  },
+  {
+   "term": "Smelter",
+   "meaning": "A plant that heats ore to extract metal."
+  }
+ ]
+}

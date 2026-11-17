@@ -1,0 +1,43 @@
+{
+ "status": "draft",
+ "intro": "Indonesians are passionate about badminton, which has brought most of their Olympic gold medals, and about football. Traditional sports such as pencak silat are popular too.",
+ "chapters": [
+  {
+   "id": "badminton",
+   "title": "Badminton",
+   "text": [
+    "Badminton is Indonesia's most successful sport. At the 1992 Olympics, Susi Susanti and Alan Budikusuma won Indonesia's first ever gold medals, and Indonesia has won the Thomas Cup, the men's world team championship, more times than any other country."
+   ],
+   "related": [
+    "CHN",
+    "MYS",
+    "DNK"
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Football is the most-watched sport, with huge, passionate crowds. As the Dutch East Indies, Indonesia became the first Asian team to play at a World Cup, in 1938."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Martial arts and more",
+   "text": [
+    "Pencak silat, a martial art from the Malay world, is taught across Indonesia and is on UNESCO's heritage list. Sepak takraw, a kind of volleyball played with the feet, is popular across South-East Asia.",
+    "At Paris 2024 Indonesia won gold in weightlifting and in speed climbing. The island of Lombok hosts a MotoGP race, and Bali's waves draw surfers from around the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Thomas Cup",
+   "meaning": "The world team championship for men's badminton."
+  },
+  {
+   "term": "Pencak silat",
+   "meaning": "A martial art from Indonesia and the Malay world."
+  }
+ ]
+}
