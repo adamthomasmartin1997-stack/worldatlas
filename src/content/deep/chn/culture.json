@@ -1,0 +1,48 @@
+{
+ "status": "draft",
+ "intro": "Chinese culture is thousands of years old and shared by more than a billion people, from its writing and festivals to its food, which ranges from fiery Sichuan dishes to Cantonese dim sum.",
+ "chapters": [
+  {
+   "id": "festivals",
+   "title": "Festivals",
+   "text": [
+    "The biggest festival is the Spring Festival, or Chinese New Year, in January or February. Families gather for a reunion dinner, children get red envelopes of money, and fireworks scare away bad luck. The journeys home make it the largest yearly human migration on Earth.",
+    "Each year is linked to one of 12 animals of the zodiac, from the Rat to the Pig. At the Mid-Autumn Festival people eat mooncakes under the full moon, and at the Dragon Boat Festival teams race long boats with dragon heads."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Each region has its own cooking: spicy, numbing Sichuan dishes; Cantonese dim sum; Beijing's roast Peking duck; Shanghai's soup dumplings. Rice is the staple in the south and noodles and buns in the north. People eat with chopsticks from shared dishes.",
+    "Tea was first drunk in China thousands of years ago, and the English word 'tea' comes from Chinese."
+   ]
+  },
+  {
+   "id": "arts",
+   "title": "Arts and stories",
+   "text": [
+    "Calligraphy, the art of beautiful writing with a brush and ink, is one of the most respected arts. Porcelain was so linked with China that English speakers still call fine plates 'china'.",
+    "Journey to the West, a novel from the 1500s, tells the adventures of the Monkey King and has inspired countless films, cartoons and games. Peking opera combines singing, acrobatics and painted faces, and kung fu has been made famous worldwide by films."
+   ]
+  },
+  {
+   "id": "landmarks",
+   "title": "Landmarks",
+   "text": [
+    "The Great Wall is not one wall but many, built and rebuilt over 2,000 years; the walls of the Ming dynasty alone run for about 8,800 km. Contrary to a popular myth, it cannot be seen with the naked eye from the Moon.",
+    "The Forbidden City in Beijing, the palace of 24 emperors, is the largest palace complex in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Calligraphy",
+   "meaning": "The art of beautiful handwriting."
+  },
+  {
+   "term": "Zodiac",
+   "meaning": "In China, a cycle of 12 years, each named after an animal."
+  }
+ ]
+}

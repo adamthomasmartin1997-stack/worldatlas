@@ -1,0 +1,69 @@
+{
+ "status": "draft",
+ "intro": "China is a one-party state. The Chinese Communist Party controls the government, the army, the courts and the media, and its leader, Xi Jinping, is the most powerful person in the country.",
+ "chapters": [
+  {
+   "id": "party",
+   "title": "The Communist Party",
+   "text": [
+    "The Chinese Communist Party has ruled since 1949 and has more than 95 million members. Other parties exist but must accept its leadership, and there are no free national elections.",
+    "Power sits at the top: the party's General Secretary and a small Politburo Standing Committee make the big decisions. Xi Jinping became General Secretary in 2012 and also serves as President; in 2018 the limit of two terms for the presidency was removed."
+   ]
+  },
+  {
+   "id": "state",
+   "title": "The state",
+   "text": [
+    "The National People's Congress, with about 3,000 delegates, is officially the highest law-making body, but it meets for only a couple of weeks a year and almost always approves what the party decides. The State Council, led by the Premier, runs the government day to day.",
+    "China is divided into provinces, autonomous regions, big cities run directly by the national government, such as Beijing and Shanghai, and two special administrative regions: Hong Kong and Macau."
+   ]
+  },
+  {
+   "id": "hong-kong-taiwan",
+   "title": "Hong Kong and Taiwan",
+   "text": [
+    "When Hong Kong returned to China in 1997, it was promised 'one country, two systems': its own laws and freedoms for 50 years. After huge protests in 2019, Beijing imposed a national security law in 2020, and many opposition politicians and activists have been jailed.",
+    "The People's Republic says Taiwan is part of China and has not ruled out using force to take it. Taiwan has governed itself since 1949 and is a democracy with its own elected leaders."
+   ],
+   "related": [
+    "TWN"
+   ]
+  },
+  {
+   "id": "control",
+   "title": "Control and censorship",
+   "text": [
+    "The media is controlled by the state, and the 'Great Firewall' blocks foreign websites such as Google, YouTube and Instagram; Chinese people use their own apps, such as WeChat, instead. Criticism of the party can lead to arrest.",
+    "Supporters say one-party rule has brought stability and fast growth; critics point to the lack of free speech, independent courts and human rights."
+   ]
+  },
+  {
+   "id": "world",
+   "title": "China in the world",
+   "text": [
+    "China has been a permanent member of the UN Security Council since 1971, has nuclear weapons and has the world's largest navy by number of ships. Its Belt and Road Initiative, launched in 2013, has funded ports, railways and roads in dozens of countries.",
+    "The flag is red with five yellow stars, and the national day is 1 October."
+   ],
+   "related": [
+    "USA",
+    "RUS",
+    "PAK",
+    "KEN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "One-party state",
+   "meaning": "A country where only one political party is allowed to hold power."
+  },
+  {
+   "term": "Politburo",
+   "meaning": "The small group of top leaders that runs the Communist Party."
+  },
+  {
+   "term": "Censorship",
+   "meaning": "Controlling or blocking what people can read, watch or say."
+  }
+ ]
+}

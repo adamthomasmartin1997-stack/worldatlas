@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "China is one of the largest countries on Earth. Its land drops like a giant staircase from the Himalayas and the Tibetan Plateau in the west to fertile plains and a long coast in the east, where most people live.",
+ "chapters": [
+  {
+   "id": "size",
+   "title": "A giant country",
+   "text": [
+    "China shares land borders with 14 countries, joint most in the world with Russia, from North Korea and Russia to India, Pakistan and Vietnam. Despite stretching across about 5,000 km from east to west, the whole country uses one time zone: Beijing time.",
+    "Most people live in the east and south-east. A famous line drawn in 1935 from Heihe in the north-east to Tengchong in the south-west still roughly splits China into a crowded east and an empty west."
+   ],
+   "related": [
+    "RUS",
+    "MNG",
+    "KAZ",
+    "IND",
+    "PAK",
+    "NPL",
+    "VNM",
+    "PRK",
+    "MMR",
+    "LAO",
+    "BTN",
+    "AFG",
+    "KGZ",
+    "TJK"
+   ]
+  },
+  {
+   "id": "west",
+   "title": "The roof of the world",
+   "text": [
+    "The Tibetan Plateau, averaging more than 4,500 m above sea level, is the highest large plateau on Earth and is called 'the roof of the world'. On its southern edge are the Himalayas, including Mount Everest on the border with Nepal.",
+    "To the north lie deserts: the Taklamakan, a sea of sand dunes, and the Gobi, a stony desert shared with Mongolia."
+   ],
+   "related": [
+    "NPL",
+    "MNG"
+   ]
+  },
+  {
+   "id": "rivers",
+   "title": "Two great rivers",
+   "text": [
+    "The Yangtze is the longest river in Asia and the third-longest in the world. The Three Gorges Dam across it is the world's largest power station.",
+    "The Yellow River gets its colour from the fine yellow soil, called loess, that it carries. It is called China's 'mother river' because Chinese civilisation began on its banks, but it has also flooded so badly that it was known as 'China's sorrow'."
+   ]
+  },
+  {
+   "id": "climate-nature",
+   "title": "Climate and wildlife",
+   "text": [
+    "The south is warm and wet, with summer monsoon rains and typhoons on the coast. The north has hot summers and freezing, dry winters: the city of Harbin holds a famous ice and snow festival. The west is dry desert and high, cold mountains.",
+    "Giant pandas live in the mountain bamboo forests of Sichuan and nearby provinces. Thanks to conservation work, they were moved from 'endangered' to 'vulnerable' in 2016. The limestone peaks around Guilin, rising from rivers and rice fields, appear in countless paintings."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Plateau",
+   "meaning": "A large area of high, fairly flat land."
+  },
+  {
+   "term": "Monsoon",
+   "meaning": "A seasonal wind that brings heavy summer rain."
+  },
+  {
+   "term": "Loess",
+   "meaning": "Fine, yellowish soil blown by the wind, which makes fertile farmland."
+  }
+ ]
+}

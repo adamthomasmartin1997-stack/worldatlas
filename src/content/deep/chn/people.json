@@ -1,0 +1,60 @@
+{
+ "status": "draft",
+ "intro": "China has about 1.4 billion people, more than any country except India. Most belong to the Han majority, but China officially recognises 55 other ethnic groups, and its people speak many different varieties of Chinese.",
+ "chapters": [
+  {
+   "id": "cities",
+   "title": "From villages to megacities",
+   "text": [
+    "In 1980 only about one in five Chinese people lived in cities. Today about two in three do, after one of the biggest migrations in history, as hundreds of millions left farms for factory and office jobs.",
+    "Shanghai, Beijing, Chongqing, Guangzhou and Shenzhen are among the biggest cities in the world. Shenzhen was a small town until 1980, when it became a special zone for foreign business; it now has more than 17 million people."
+   ]
+  },
+  {
+   "id": "groups",
+   "title": "Many peoples",
+   "text": [
+    "About nine in ten people are Han Chinese. The 55 recognised minority groups include the Zhuang, Hui, Uyghurs, Tibetans and Mongols. Many live in 'autonomous regions' such as Tibet and Xinjiang.",
+    "The government has been strongly criticised for its treatment of Uyghurs and other Muslim minorities in Xinjiang, where around a million or more people were held in detention camps, and for restricting religion and culture in Tibet. China says its policies fight extremism and bring development."
+   ]
+  },
+  {
+   "id": "language",
+   "title": "Language",
+   "text": [
+    "The official language is Standard Chinese, or Mandarin, based on the Beijing dialect. Other varieties, such as Cantonese in the south and Shanghainese, are so different that speakers can't understand each other, but they share the same written characters.",
+    "Children learn characters at school using pinyin, a system of writing Chinese sounds in the Latin alphabet. An educated adult knows several thousand characters."
+   ]
+  },
+  {
+   "id": "families",
+   "title": "Families and beliefs",
+   "text": [
+    "From 1980 to 2015 most couples were allowed only one child. The policy slowed population growth but left China with far more old people than young ones. Now families may have three children, but birth rates are very low, and the population began shrinking in 2022.",
+    "The state is officially atheist, and the Communist Party controls religious groups. Many people follow a mix of Buddhism, Taoism, Confucian values and folk traditions such as honouring ancestors; there are also millions of Christians and Muslims."
+   ]
+  },
+  {
+   "id": "school",
+   "title": "Growing up in China",
+   "text": [
+    "School days are long and competition is intense. At the end of secondary school, more than 13 million students a year sit the gaokao, the national university entrance exam, which can decide which university, and so which career, they get.",
+    "Many students take extra classes in the evenings and at weekends, though the government restricted private tutoring in 2021 to reduce pressure on families."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Han",
+   "meaning": "China's largest ethnic group, named after the Han dynasty."
+  },
+  {
+   "term": "Autonomous region",
+   "meaning": "A Chinese region with a large minority population and, officially, some self-government."
+  },
+  {
+   "term": "Gaokao",
+   "meaning": "China's national university entrance exam."
+  }
+ ]
+}

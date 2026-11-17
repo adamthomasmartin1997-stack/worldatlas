@@ -1,0 +1,55 @@
+{
+ "status": "draft",
+ "intro": "China has the world's second-largest economy and is its biggest manufacturer and exporter. Its rise since 1978 lifted hundreds of millions of people out of poverty and changed the whole world economy.",
+ "chapters": [
+  {
+   "id": "factory",
+   "title": "The world's factory",
+   "text": [
+    "When China opened up after 1978, foreign companies built factories to use its huge, low-paid workforce. China became the world's biggest manufacturer, making a large share of the world's phones, laptops, clothes, toys and steel.",
+    "According to the World Bank, about 800 million Chinese people rose out of extreme poverty in four decades, one of the fastest falls in poverty anywhere in history."
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Technology and electric cars",
+   "text": [
+    "Chinese companies now lead in many high-tech areas. Huawei makes telecom equipment and phones, Tencent runs WeChat, Alibaba is a giant of online shopping, and ByteDance created TikTok.",
+    "China is the world's largest maker and buyer of electric cars, led by companies such as BYD, and makes most of the world's solar panels and batteries. It also has the world's longest high-speed rail network, built mostly since 2008."
+   ]
+  },
+  {
+   "id": "energy",
+   "title": "Energy and pollution",
+   "text": [
+    "China burns more coal and produces more carbon dioxide than any other country, and air pollution in its cities was once among the worst in the world. At the same time it is building more wind and solar power than the rest of the world put together.",
+    "It also mines and processes most of the world's rare earths, metals needed for magnets in phones, wind turbines and electric motors."
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "Growth has slowed. A crisis in the property industry, where giant developers borrowed too much, hit families' savings. The population is ageing, and many young graduates struggle to find jobs.",
+    "Trade disputes with the United States, which has put high taxes on Chinese goods and limited sales of advanced computer chips to China, are a major worry. China's currency is the renminbi, counted in yuan."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Manufacturing",
+   "meaning": "Making goods in factories."
+  },
+  {
+   "term": "Rare earths",
+   "meaning": "A group of 17 metals used in electronics, magnets and batteries."
+  },
+  {
+   "term": "Extreme poverty",
+   "meaning": "Living on so little money that basic needs like food cannot be met."
+  }
+ ]
+}

@@ -1,0 +1,186 @@
+{
+ "status": "draft",
+ "intro": "China has one of the world's oldest continuous civilisations. For more than 2,000 years it was ruled by a series of dynasties, then went through a century of invasion and revolution before the Communist Party took power in 1949 and turned it into a global superpower.",
+ "chapters": [
+  {
+   "id": "beginnings",
+   "title": "River beginnings",
+   "text": [
+    "Farming began along China's two great rivers about 9,000 years ago: millet in the dry north by the Yellow River, and rice in the wet south by the Yangtze.",
+    "The Shang dynasty, from about 1600 BC, left the earliest Chinese writing, carved on animal bones and turtle shells used to ask questions of the gods. Modern Chinese characters descend from these 'oracle bones'.",
+    "Around 500 BC the teacher Confucius taught that society works best when people respect their parents, rulers act fairly and everyone does their duty. His ideas shaped Chinese government and family life for more than two thousand years."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Chinese is one of the oldest writing systems still in use: a reader today can recognise many characters written more than 2,000 years ago."
+   }
+  },
+  {
+   "id": "first-emperor",
+   "title": "The first emperor",
+   "text": [
+    "After centuries of war between rival states, the king of Qin conquered them all in 221 BC and called himself Qin Shi Huang, 'First Emperor'. He made everyone use the same writing, coins, weights and measures, and joined up older walls to keep out northern raiders.",
+    "He was buried with an army of about 8,000 life-size clay soldiers, the Terracotta Army, discovered by farmers digging a well in 1974.",
+    "The Han dynasty (206 BC to AD 220) that followed was so important that most Chinese people still call themselves Han. Silk Road trade routes linked Han China with Central Asia, India and, indirectly, Rome."
+   ],
+   "related": [
+    "MNG",
+    "IND",
+    "ITA",
+    "IRN"
+   ]
+  },
+  {
+   "id": "dynasties",
+   "title": "Golden ages and great inventions",
+   "text": [
+    "Under the Tang (618 to 907) and Song (960 to 1279) dynasties, China was the richest and most advanced country on Earth. Its cities were the largest in the world, and poets such as Li Bai are still learned by heart.",
+    "China gave the world paper, printing, the magnetic compass and gunpowder, as well as silk, porcelain and paper money. In the 1200s the Mongols conquered China, and Kublai Khan founded the Yuan dynasty.",
+    "The Ming dynasty (1368 to 1644) built the Forbidden City in Beijing and most of the Great Wall that tourists visit today. Between 1405 and 1433 Admiral Zheng He led huge fleets as far as East Africa."
+   ],
+   "related": [
+    "MNG",
+    "KEN"
+   ]
+  },
+  {
+   "id": "humiliation",
+   "title": "A century of humiliation",
+   "text": [
+    "The last dynasty, the Qing, was founded by the Manchus in 1644. In the 1800s Britain went to war to force China to accept opium from India; after the First Opium War (1839 to 1842) China had to hand Hong Kong to Britain.",
+    "European powers, Russia and Japan seized ports and territory. Huge rebellions, such as the Taiping Rebellion, killed millions. Chinese people often call this period the 'century of humiliation', and it still shapes how China sees the world.",
+    "In 1911 a revolution overthrew the Qing, and in 1912 China became a republic. But it was soon split between warlords and then by civil war between the Nationalists and the Communists, while Japan invaded in 1931 and 1937."
+   ],
+   "related": [
+    "GBR",
+    "JPN",
+    "RUS",
+    "FRA"
+   ]
+  },
+  {
+   "id": "mao",
+   "title": "Mao's China",
+   "text": [
+    "In 1949 the Communists, led by Mao Zedong, won the civil war and founded the People's Republic of China on 1 October. The Nationalists fled to the island of Taiwan.",
+    "Mao's Great Leap Forward (1958 to 1962), a campaign to industrialise quickly, caused a famine in which tens of millions of people died. In the Cultural Revolution (1966 to 1976) young Red Guards attacked teachers, officials and anything seen as old-fashioned or foreign, and millions were persecuted."
+   ],
+   "related": [
+    "TWN"
+   ]
+  },
+  {
+   "id": "rise",
+   "title": "China rises",
+   "text": [
+    "After Mao died in 1976, Deng Xiaoping opened China to foreign trade and allowed private business from 1978. The economy grew faster than any major economy in history, and hundreds of millions of people escaped poverty.",
+    "Economic freedom did not bring political freedom. In 1989 the army crushed pro-democracy protests centred on Tiananmen Square in Beijing, killing many people. Hong Kong returned to China in 1997 and Macau in 1999. Beijing hosted the Summer Olympics in 2008, and Xi Jinping has led the country since 2012."
+   ],
+   "related": [
+    "GBR",
+    "PRT",
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1600 BC",
+   "title": "Shang dynasty",
+   "text": "The first Chinese writing, on oracle bones."
+  },
+  {
+   "year": "c. 500 BC",
+   "title": "Confucius",
+   "text": "The teacher whose ideas shape Chinese society."
+  },
+  {
+   "year": "221 BC",
+   "title": "First emperor",
+   "text": "Qin Shi Huang unites China."
+  },
+  {
+   "year": "206 BC",
+   "title": "Han dynasty",
+   "text": "The Silk Road begins to link China with the West."
+  },
+  {
+   "year": "618",
+   "title": "Tang dynasty",
+   "text": "A golden age of poetry, trade and art."
+  },
+  {
+   "year": "1271",
+   "title": "Yuan dynasty",
+   "text": "Kublai Khan's Mongols rule China."
+  },
+  {
+   "year": "1405",
+   "title": "Zheng He's voyages",
+   "text": "Treasure fleets sail to Africa."
+  },
+  {
+   "year": "1644",
+   "title": "Qing dynasty",
+   "text": "The Manchus found China's last dynasty."
+  },
+  {
+   "year": "1842",
+   "title": "Opium War ends",
+   "text": "Hong Kong is handed to Britain."
+  },
+  {
+   "year": "1912",
+   "title": "Republic of China",
+   "text": "The last emperor gives up the throne."
+  },
+  {
+   "year": "1949",
+   "title": "People's Republic",
+   "text": "Mao Zedong's Communists take power."
+  },
+  {
+   "year": "1966",
+   "title": "Cultural Revolution",
+   "text": "A decade of political upheaval begins."
+  },
+  {
+   "year": "1978",
+   "title": "Reform and opening",
+   "text": "Deng Xiaoping's economic reforms begin."
+  },
+  {
+   "year": "1989",
+   "title": "Tiananmen Square",
+   "text": "Pro-democracy protests are crushed."
+  },
+  {
+   "year": "1997",
+   "title": "Hong Kong returns",
+   "text": "British rule ends after 156 years."
+  },
+  {
+   "year": "2008",
+   "title": "Beijing Olympics",
+   "text": "China hosts the Summer Games."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dynasty",
+   "meaning": "A family that rules a country for generations."
+  },
+  {
+   "term": "Silk Road",
+   "meaning": "A network of trade routes linking China with Central Asia, the Middle East and Europe."
+  },
+  {
+   "term": "Communism",
+   "meaning": "A political system where the state, run by one party, owns or controls most property and business."
+  },
+  {
+   "term": "Confucianism",
+   "meaning": "The teachings of Confucius about respect, duty, family and good government."
+  }
+ ]
+}

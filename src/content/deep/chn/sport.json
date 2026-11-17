@@ -1,0 +1,46 @@
+{
+ "status": "draft",
+ "intro": "China is an Olympic superpower, dominant in table tennis, diving and badminton. Beijing is the only city to have hosted both the Summer and Winter Olympics.",
+ "chapters": [
+  {
+   "id": "olympics",
+   "title": "Olympic superpower",
+   "text": [
+    "Beijing hosted the 2008 Summer Olympics, where China topped the gold medal table, and the 2022 Winter Olympics, making it the first city to host both. At Paris 2024 China won 40 gold medals, the same number as the United States.",
+    "Chinese athletes are especially strong in diving, weightlifting, gymnastics, shooting and table tennis, many trained in state sports schools from a young age."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "table-tennis",
+   "title": "Table tennis and badminton",
+   "text": [
+    "Table tennis, called ping pong, is almost a national sport, played in parks, schools and homes. China has won the large majority of Olympic table tennis gold medals since the sport joined the Games in 1988.",
+    "In 1971 a visit by American table tennis players helped thaw relations between China and the US, an event known as 'ping-pong diplomacy'. Badminton is also hugely popular."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "football-basketball",
+   "title": "Football and basketball",
+   "text": [
+    "Football has many fans, and a game called cuju, kicked around more than 2,000 years ago, is recognised by FIFA as the earliest form of football. Yet China's men have reached the World Cup only once, in 2002. The women's team is much stronger and reached the World Cup final in 1999.",
+    "Basketball is very popular. Yao Ming, a 2.29 m tall centre, became an NBA star in the 2000s, and in 2011 Li Na won the French Open, the first Grand Slam singles title for an Asian player."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ping-pong diplomacy",
+   "meaning": "The 1971 exchange of table tennis players that helped improve relations between China and the US."
+  },
+  {
+   "term": "Cuju",
+   "meaning": "An ancient Chinese game of kicking a ball through a net."
+  }
+ ]
+}
