@@ -1,0 +1,52 @@
+{
+ "status": "draft",
+ "intro": "The Netherlands is a constitutional monarchy and parliamentary democracy. The Hague, its seat of government, is also home to the world's top international courts.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "King and parliament",
+   "text": [
+    "King Willem-Alexander has reigned since 2013. The House of Representatives has 150 members elected by proportional representation with a very low threshold, so many parties win seats and governments are always coalitions. Provincial politicians choose the 75-member Senate."
+   ],
+   "facts": [
+    {
+     "label": "Provinces",
+     "value": "12"
+    },
+    {
+     "label": "House of Representatives",
+     "value": "150 members"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "water-boards",
+   "title": "Water boards and The Hague",
+   "text": [
+    "Water boards, which manage dikes and water levels, are among the oldest democratic institutions in the world, dating back to the 1200s; people still elect their members.",
+    "The Hague hosts the International Court of Justice and the International Criminal Court, earning it the nickname 'the legal capital of the world'."
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols",
+   "text": [
+    "The flag is red, white and blue, and the anthem, the Wilhelmus, is one of the oldest national anthems in the world. King's Day on 27 April turns the country orange. The Netherlands was a founding member of NATO and the European Union."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Coalition",
+   "meaning": "A government made up of several parties."
+  },
+  {
+   "term": "Proportional representation",
+   "meaning": "Parties win seats in proportion to their share of the vote."
+  }
+ ]
+}

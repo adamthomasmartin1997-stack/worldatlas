@@ -1,0 +1,44 @@
+{
+ "status": "draft",
+ "intro": "The name Netherlands means 'low lands'. About a quarter of the country lies below sea level, protected by dikes, dunes and dams, and much of the land was once under water.",
+ "chapters": [
+  {
+   "id": "below-sea",
+   "title": "Below the sea",
+   "text": [
+    "For centuries the Dutch have built dikes and drained lakes and marshes with windmills, and later pumps, to create new land called polders. Flevoland, finished in the 1960s and 1980s, is the largest artificial island in the world.",
+    "A 32 km dam, the Afsluitdijk, turned a sea inlet into a freshwater lake, the IJsselmeer, in 1932. Without its defences, more than half the country could flood."
+   ],
+   "highlight": {
+    "title": "God created the world...",
+    "text": "An old saying goes: 'God created the world, but the Dutch created the Netherlands.'"
+   }
+  },
+  {
+   "id": "land",
+   "title": "Rivers, dunes and islands",
+   "text": [
+    "The Rhine, Maas (Meuse) and Scheldt rivers reach the sea through a wide delta in the south-west. Sand dunes line the North Sea coast, and the Wadden Islands lie off the north. Almost all the land is flat; the highest hill in the European part, the Vaalserberg, is just 322 m high.",
+    "The Netherlands borders Germany and Belgium. The Kingdom of the Netherlands also includes the Caribbean islands of Aruba, Curaçao and Sint Maarten, and Bonaire, Sint Eustatius and Saba, where Mount Scenery is the highest point in the kingdom."
+   ],
+   "related": [
+    "DEU",
+    "BEL",
+    "ABW",
+    "CUW",
+    "SXM",
+    "BES"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Polder",
+   "meaning": "Low land reclaimed from water and protected by dikes."
+  },
+  {
+   "term": "Delta",
+   "meaning": "Land where a river splits into many channels before reaching the sea."
+  }
+ ]
+}

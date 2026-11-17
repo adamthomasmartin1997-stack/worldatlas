@@ -1,0 +1,34 @@
+{
+ "status": "draft",
+ "intro": "The Dutch are among the tallest people in the world, among the best English speakers outside English-speaking countries, and own more bicycles than there are people.",
+ "chapters": [
+  {
+   "id": "where",
+   "title": "A crowded country",
+   "text": [
+    "The Netherlands is one of the most densely populated countries in Europe. Amsterdam is the capital, but the government and parliament sit in The Hague. Rotterdam, Utrecht and Eindhoven are other big cities.",
+    "About a quarter of people have a migrant background, with large communities of Turkish, Moroccan, Surinamese and Indonesian origin."
+   ],
+   "related": [
+    "TUR",
+    "MAR",
+    "SUR",
+    "IDN"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Dutch life",
+   "text": [
+    "Dutch is the main language, and Frisian is official in the northern province of Friesland. Most Dutch people speak excellent English.",
+    "Cycling is everywhere: there are more bikes than people and dedicated cycle paths across the country. Most Dutch people say they are not religious, and the Dutch are known for being very direct."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Population density",
+   "meaning": "How many people live in an area, such as per square kilometre."
+  }
+ ]
+}

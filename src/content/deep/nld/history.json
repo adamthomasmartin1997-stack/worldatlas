@@ -1,0 +1,129 @@
+{
+ "status": "draft",
+ "intro": "The Netherlands won its independence from Spain in a long revolt, then became the world's leading trading nation in the 1600s. Its people have spent centuries holding back the sea.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Low lands",
+   "text": [
+    "The Roman Empire's northern border ran along the Rhine through what is now the Netherlands. Later, Frisian and Frankish peoples lived here, and in the Middle Ages towns grew rich from trade and cloth, while farmers began building dikes and draining marshes.",
+    "By the 1500s the Low Countries, today's Netherlands and Belgium, belonged to the Spanish Habsburgs."
+   ],
+   "related": [
+    "BEL",
+    "ESP"
+   ]
+  },
+  {
+   "id": "revolt",
+   "title": "The Dutch Revolt",
+   "text": [
+    "Heavy taxes and the persecution of Protestants led to a revolt against Spain in 1568, led by William of Orange, remembered as 'father of the fatherland'. The northern provinces declared themselves a republic, and after the Eighty Years' War Spain recognised Dutch independence in 1648.",
+    "The royal family's colour, orange, is still the national colour, worn by fans at every football match."
+   ],
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "golden-age",
+   "title": "The Golden Age",
+   "text": [
+    "In the 1600s the small Dutch Republic became the richest trading nation in the world. The Dutch East India Company, founded in 1602, was the first company to sell shares to the public on a stock exchange, in Amsterdam. Dutch ships traded from Japan to the Caribbean, and Dutch settlers founded New Amsterdam, which became New York.",
+    "It was a golden age of art and science, with painters such as Rembrandt and Vermeer. But Dutch wealth also came from colonies in Indonesia, Suriname and the Caribbean, and from the Atlantic slave trade."
+   ],
+   "highlight": {
+    "title": "Tulip mania",
+    "text": "In 1637 prices for rare tulip bulbs rose so high that a single bulb could cost as much as a house, then suddenly crashed. It is often called one of the first financial bubbles."
+   },
+   "related": [
+    "IDN",
+    "SUR",
+    "USA",
+    "JPN",
+    "ZAF"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Kingdom, occupation and floods",
+   "text": [
+    "After French rule under Napoleon, the Kingdom of the Netherlands was created in 1815; Belgium broke away in 1830. In the Second World War Germany invaded in 1940 and bombed Rotterdam. About three-quarters of Dutch Jews were murdered, including Anne Frank, whose diary, written while hiding in Amsterdam, became one of the most read books in the world.",
+    "In 1953 a North Sea storm flood killed more than 1,800 people, leading to the Delta Works, a huge system of dams and storm barriers. Indonesia became independent in 1949 and Suriname in 1975. In 2001 the Netherlands became the first country in the world to allow same-sex marriage."
+   ],
+   "related": [
+    "DEU",
+    "FRA",
+    "BEL",
+    "IDN",
+    "SUR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1568",
+   "title": "Revolt",
+   "text": "The Dutch rise against Spanish rule."
+  },
+  {
+   "year": "1602",
+   "title": "East India Company",
+   "text": "The world's first publicly traded company."
+  },
+  {
+   "year": "1625",
+   "title": "New Amsterdam",
+   "text": "Dutch settlers found the future New York."
+  },
+  {
+   "year": "1637",
+   "title": "Tulip mania",
+   "text": "Tulip prices crash."
+  },
+  {
+   "year": "1648",
+   "title": "Independence",
+   "text": "Spain recognises the Dutch Republic."
+  },
+  {
+   "year": "1815",
+   "title": "Kingdom",
+   "text": "The Kingdom of the Netherlands is founded."
+  },
+  {
+   "year": "1940",
+   "title": "German invasion",
+   "text": "Five years of occupation begin."
+  },
+  {
+   "year": "1953",
+   "title": "North Sea flood",
+   "text": "More than 1,800 people die."
+  },
+  {
+   "year": "1975",
+   "title": "Suriname independent",
+   "text": "The former colony becomes independent."
+  },
+  {
+   "year": "2001",
+   "title": "Same-sex marriage",
+   "text": "The first country to allow it."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dike",
+   "meaning": "A wall or bank built to keep out the sea or a river."
+  },
+  {
+   "term": "Republic",
+   "meaning": "A state without a king, led by elected representatives."
+  },
+  {
+   "term": "Stock exchange",
+   "meaning": "A market where shares in companies are bought and sold."
+  }
+ ]
+}

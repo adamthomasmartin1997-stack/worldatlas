@@ -1,0 +1,28 @@
+{
+ "status": "draft",
+ "intro": "The Netherlands gave the world Rembrandt, Vermeer and Van Gogh, Miffy and some of the best-known DJs on Earth, along with cheese, stroopwafels and windmills.",
+ "chapters": [
+  {
+   "id": "art",
+   "title": "Painters",
+   "text": [
+    "Rembrandt's Night Watch hangs in Amsterdam's Rijksmuseum, and Vermeer painted Girl with a Pearl Earring. Vincent van Gogh, Piet Mondrian, with his grids of primary colours, and M. C. Escher, famous for impossible staircases, were also Dutch.",
+    "Amsterdam's canal ring and the windmills of Kinderdijk are World Heritage Sites."
+   ]
+  },
+  {
+   "id": "food-fun",
+   "title": "Food and festivals",
+   "text": [
+    "Gouda and Edam cheeses, stroopwafels (syrup waffles), poffertjes (tiny pancakes), raw herring and hagelslag, chocolate sprinkles on buttered bread, are Dutch favourites.",
+    "Sinterklaas brings presents on 5 December. Dutch DJs such as Tiësto, Armin van Buuren and Martin Garrix are global stars, and Dick Bruna created the rabbit Miffy."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Stroopwafel",
+   "meaning": "Two thin waffles with caramel syrup between them."
+  }
+ ]
+}

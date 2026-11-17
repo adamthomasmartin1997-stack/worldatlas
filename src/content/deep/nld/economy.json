@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "The Netherlands is a small country with a big trading economy. It has Europe's largest port and is the world's second-largest exporter of food by value.",
+ "chapters": [
+  {
+   "id": "trade",
+   "title": "Gateway to Europe",
+   "text": [
+    "Rotterdam is the largest port in Europe, and goods arriving there travel on by river, rail and road across the continent. Amsterdam's Schiphol is one of Europe's busiest airports.",
+    "Big Dutch companies include Philips, Heineken and ASML, which makes the only machines in the world able to print the most advanced computer chips."
+   ]
+  },
+  {
+   "id": "farming",
+   "title": "Greenhouses and flowers",
+   "text": [
+    "Despite its size, the Netherlands exports more food by value than any country except the United States, thanks to high-tech greenhouses that grow tomatoes, peppers and flowers. Aalsmeer has one of the largest flower auctions in the world.",
+    "A huge gas field under Groningen supplied Europe for decades, but drilling caused earthquakes and it was closed in 2024. The Netherlands uses the euro."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Export",
+   "meaning": "Goods sold to another country."
+  },
+  {
+   "term": "Greenhouse",
+   "meaning": "A glass building where plants grow in controlled warmth and light."
+  }
+ ]
+}

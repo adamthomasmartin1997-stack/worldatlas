@@ -1,0 +1,27 @@
+{
+ "status": "draft",
+ "intro": "The Netherlands is famous for 'Total Football', Olympic speed skaters and Formula One champion Max Verstappen.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Total Football",
+   "text": [
+    "In the 1970s Johan Cruyff and the Dutch team played 'Total Football', where players swapped positions freely. The Netherlands has reached three World Cup finals without winning, but won the European Championship in 1988. The women's team won the Euros in 2017."
+   ]
+  },
+  {
+   "id": "ice-wheels",
+   "title": "Ice and wheels",
+   "text": [
+    "The Netherlands has won more Olympic speed skating medals than any other country. When canals freeze hard enough, the Elfstedentocht, a 200 km skating race through eleven Frisian towns, can be held; it last happened in 1997.",
+    "Max Verstappen won four Formula One world titles in a row from 2021 to 2024, and Sifan Hassan won the Olympic marathon in 2024. Korfball, a mixed-team game like netball, was invented in Amsterdam in 1902."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Total Football",
+   "meaning": "A style of play where any player can take over any position."
+  }
+ ]
+}
