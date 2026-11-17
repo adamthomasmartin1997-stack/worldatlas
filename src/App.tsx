@@ -23,6 +23,7 @@ import { NameTheCapitals } from './pages/games/NameTheCapitals';
 import { Data } from './pages/Data';
 import { DataSources } from './pages/DataSources';
 import { NotFound } from './pages/NotFound';
+import { DeepDive } from './pages/DeepDive';
 
 const createRouter = import.meta.env.VITE_HASH_ROUTER ? createHashRouter : createBrowserRouter;
 const router = createRouter([
@@ -35,6 +36,7 @@ const router = createRouter([
       { path: '/countries/:code', element: <CountryProfile /> },
       { path: '/countries/:code/quiz/:topic', element: <CountryQuiz /> },
       { path: '/countries/:code/states/:state', element: <StateProfile /> },
+      { path: '/countries/:code/:section', element: <DeepDive /> },
       { path: '/history', element: <History /> },
       { path: '/games', element: <Games /> },
       { path: '/games/name-the-countries', element: <NameTheCountries /> },

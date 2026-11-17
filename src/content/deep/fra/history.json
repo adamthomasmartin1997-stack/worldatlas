@@ -1,0 +1,268 @@
+{
+ "status": "draft",
+ "intro": "France grew from Roman Gaul and a Frankish kingdom into one of Europe's great powers. Its revolution in 1789 changed how people everywhere thought about kings, rights and nations, and its wars and empire shaped the modern world.",
+ "chapters": [
+  {
+   "id": "gaul",
+   "title": "Cave painters, Gauls and Romans",
+   "text": [
+    "People have lived in what is now France for hundreds of thousands of years. Some of the world's most famous prehistoric art is here: the painted caves of Lascaux and Chauvet in the south show horses, bulls, lions and rhinos drawn tens of thousands of years ago.",
+    "By around 500 BC much of the land was home to Celtic peoples the Romans called Gauls. They lived in tribes, built hill forts, traded with Greek colonies on the Mediterranean coast such as Massalia (today's Marseille) and were skilled metalworkers.",
+    "Between 58 and 50 BC the Roman general Julius Caesar conquered Gaul. The Gaulish leader Vercingetorix united many tribes against him but surrendered after the siege of Alesia in 52 BC. For the next five centuries Gaul was part of the Roman Empire: Latin became the everyday language that later turned into French, and the Romans built roads, cities, arenas and aqueducts such as the Pont du Gard."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "French is a Romance language: it grew out of the Latin spoken in Roman Gaul. That is why French shares so many words with Spanish, Italian and Portuguese."
+   },
+   "related": [
+    "ITA"
+   ]
+  },
+  {
+   "id": "franks",
+   "title": "The Franks build a kingdom",
+   "text": [
+    "As Roman power collapsed in the 400s, Germanic peoples moved in. The most successful were the Franks, who gave France its name. Their king Clovis united most of Gaul and became a Christian around the year 500, tying the kingdom closely to the Catholic Church.",
+    "The greatest Frankish ruler, Charlemagne, built an empire stretching across much of western Europe. On Christmas Day in 800 the Pope crowned him emperor in Rome. After his death his grandsons split the empire in the Treaty of Verdun in 843; the western part slowly became France and the eastern part became the lands that grew into Germany.",
+    "In 987 the nobles chose Hugh Capet as king. His family, the Capetians, and the branches that came from it ruled France for most of the next 800 years. At first the king really controlled only the area around Paris, and powerful dukes ran much of the rest."
+   ],
+   "related": [
+    "DEU",
+    "BEL"
+   ]
+  },
+  {
+   "id": "middle-ages",
+   "title": "Knights, plague and the Hundred Years' War",
+   "text": [
+    "In 911 Viking raiders were given land at the mouth of the Seine, which became Normandy. In 1066 the Duke of Normandy, William, crossed the Channel and conquered England, so for centuries English kings also held land in France.",
+    "That tangle of claims led to the Hundred Years' War (1337 to 1453), a long series of wars between the kings of England and France. In the middle of it, the Black Death arrived in 1348 and killed perhaps a third of the population.",
+    "The war turned in 1429 when a teenage peasant girl, Joan of Arc, said that God had sent her to save France. She helped end the siege of Orléans and saw the king crowned at Reims. She was captured and burned by the English in 1431, but by 1453 the English had lost almost everything they held in France. Joan is now a national heroine and a saint."
+   ],
+   "highlight": {
+    "title": "Cathedral builders",
+    "text": "The Gothic style of architecture, with pointed arches, flying buttresses and huge stained-glass windows, began in France in the 1100s. Notre-Dame de Paris, Chartres and Reims cathedrals are famous examples."
+   },
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "kings",
+   "title": "Wars of religion and the Sun King",
+   "text": [
+    "In the 1500s Protestant ideas split France. Catholics and Protestants (called Huguenots) fought a series of civil wars, and thousands of Protestants were killed in the St Bartholomew's Day massacre of 1572. King Henry IV, a former Protestant, ended the wars with the Edict of Nantes in 1598, which gave Protestants some rights.",
+    "In the 1600s French kings built up their power. Louis XIV, the 'Sun King', reigned for 72 years, from 1643 to 1715, one of the longest reigns in European history. He believed a king's power came from God and answered to no one: this is called absolute monarchy.",
+    "Louis turned a hunting lodge outside Paris into the Palace of Versailles and made the most powerful nobles live there, where he could keep an eye on them. France became Europe's leading power and its language and fashions were copied across the continent, but endless wars left the country deep in debt."
+   ],
+   "highlight": {
+    "title": "Versailles",
+    "text": "Its Hall of Mirrors has 357 mirrors. In 1919 the treaty that officially ended the First World War was signed in the same room."
+   }
+  },
+  {
+   "id": "revolution",
+   "title": "The French Revolution",
+   "text": [
+    "By the 1780s the government was nearly bankrupt, bread was expensive and new ideas from writers of the Enlightenment, such as Voltaire and Rousseau, questioned why kings and nobles should have so much power. In 1789 King Louis XVI called a meeting of representatives to raise money. Instead, the representatives of ordinary people declared themselves a National Assembly and demanded a constitution.",
+    "On 14 July 1789 crowds in Paris stormed the Bastille, a royal fortress and prison. In August the Assembly abolished the privileges of the nobles and published the Declaration of the Rights of Man and of the Citizen, which said that people are born free and equal in rights.",
+    "In 1792 France became a republic. Louis XVI was put on trial and executed in January 1793. Revolutionary France went to war with most of Europe, and at home a period called the Terror (1793 to 1794) saw thousands of people accused of being enemies of the revolution sent to the guillotine."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Ideas from the Revolution, such as equal rights for citizens, government by elected representatives and the nation belonging to its people, spread around the world. France's national day, 14 July, remembers the storming of the Bastille."
+   }
+  },
+  {
+   "id": "napoleon",
+   "title": "Napoleon and a century of change",
+   "text": [
+    "Out of the chaos came Napoleon Bonaparte, a young general from Corsica. He seized power in 1799 and crowned himself emperor in 1804. His armies conquered much of Europe, and his Civil Code, a single clear set of laws, is still the basis of French law and influenced legal systems in many other countries.",
+    "Napoleon's invasion of Russia in 1812 was a disaster, and he was finally defeated at Waterloo, in today's Belgium, in 1815. He died in exile on the island of Saint Helena in the South Atlantic in 1821.",
+    "The 1800s were restless. Kings returned, then were overthrown again in revolutions in 1830 and 1848. Napoleon's nephew ruled as Emperor Napoleon III until France lost the Franco-Prussian War in 1870 and a new republic, the Third Republic, began. During this century France also built a large empire, starting with the invasion of Algeria in 1830 and spreading across West and Central Africa, Madagascar and Indochina."
+   ],
+   "related": [
+    "BEL",
+    "RUS",
+    "DZA",
+    "VNM",
+    "SEN",
+    "MDG"
+   ]
+  },
+  {
+   "id": "world-wars",
+   "title": "Two world wars",
+   "text": [
+    "Much of the First World War (1914 to 1918) was fought on French soil, in trenches stretching across the north-east. The Battle of Verdun in 1916 lasted ten months. About 1.4 million French soldiers died in the war, and many towns and villages were destroyed.",
+    "In 1940, early in the Second World War, Nazi Germany defeated France in six weeks. The north was occupied, and in the south a government based in the town of Vichy worked with the Germans, including helping to deport Jews to death camps. General Charles de Gaulle led the 'Free French' from London, and inside France the Resistance spied, sabotaged and hid people.",
+    "On 6 June 1944, D-Day, Allied troops landed on the beaches of Normandy in the largest seaborne invasion in history. Paris was liberated in August 1944."
+   ],
+   "highlight": {
+    "title": "Remembering",
+    "text": "Almost every town and village in France has a war memorial listing local people killed in the First World War. 11 November, the day fighting stopped in 1918, is a public holiday."
+   },
+   "related": [
+    "DEU",
+    "GBR",
+    "USA",
+    "CAN"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Modern France",
+   "text": [
+    "After the war France rebuilt quickly, but it fought long wars to keep its empire: in Indochina until 1954 and in Algeria from 1954 to 1962. Most French colonies in Africa became independent around 1960. Some overseas lands, such as Guadeloupe, Martinique, French Guiana and Réunion, chose to stay part of France.",
+    "The crisis over Algeria brought de Gaulle back to power in 1958, and a new constitution created the Fifth Republic, which still governs France today. In May 1968 huge student protests and strikes shook the country and changed attitudes to authority, work and family life.",
+    "France worked with its old enemy Germany to build what became the European Union: it was a founding member of the European Coal and Steel Community in 1951 and signed the Treaty of Rome in 1957. In 2002 euro coins and notes replaced the French franc."
+   ],
+   "related": [
+    "DZA",
+    "VNM",
+    "DEU",
+    "BEL",
+    "ITA",
+    "NLD",
+    "LUX"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "52 BC",
+   "title": "Siege of Alesia",
+   "text": "Vercingetorix surrenders to Julius Caesar, completing the Roman conquest of Gaul."
+  },
+  {
+   "year": "c. 500",
+   "title": "Clovis becomes a Christian",
+   "text": "The king of the Franks unites most of Gaul and joins the Catholic Church."
+  },
+  {
+   "year": "800",
+   "title": "Charlemagne crowned emperor",
+   "text": "The Pope crowns the Frankish king emperor in Rome."
+  },
+  {
+   "year": "843",
+   "title": "Treaty of Verdun",
+   "text": "Charlemagne's empire is split into three; the western part becomes France."
+  },
+  {
+   "year": "987",
+   "title": "Hugh Capet becomes king",
+   "text": "The start of the Capetian dynasty."
+  },
+  {
+   "year": "1066",
+   "title": "Norman conquest of England",
+   "text": "William, Duke of Normandy, becomes king of England."
+  },
+  {
+   "year": "1337",
+   "title": "Hundred Years' War begins",
+   "text": "English and French kings fight on and off until 1453."
+  },
+  {
+   "year": "1429",
+   "title": "Joan of Arc at Orléans",
+   "text": "Joan helps end the siege and the war turns in France's favour."
+  },
+  {
+   "year": "1598",
+   "title": "Edict of Nantes",
+   "text": "Henry IV ends the Wars of Religion and grants Protestants some rights."
+  },
+  {
+   "year": "1643",
+   "title": "Louis XIV becomes king",
+   "text": "The 'Sun King' reigns for 72 years and builds Versailles."
+  },
+  {
+   "year": "1789",
+   "title": "The French Revolution",
+   "text": "The Bastille is stormed on 14 July; the Declaration of the Rights of Man follows in August."
+  },
+  {
+   "year": "1792",
+   "title": "First Republic",
+   "text": "The monarchy is abolished; Louis XVI is executed the next year."
+  },
+  {
+   "year": "1804",
+   "title": "Napoleon becomes emperor",
+   "text": "His Civil Code is published the same year."
+  },
+  {
+   "year": "1815",
+   "title": "Battle of Waterloo",
+   "text": "Napoleon's final defeat."
+  },
+  {
+   "year": "1870",
+   "title": "Third Republic",
+   "text": "France loses the Franco-Prussian War and becomes a republic again."
+  },
+  {
+   "year": "1914",
+   "title": "First World War",
+   "text": "Four years of war, much of it in northern and eastern France."
+  },
+  {
+   "year": "1940",
+   "title": "Defeat and occupation",
+   "text": "Germany occupies northern France; the Vichy regime governs the south."
+  },
+  {
+   "year": "1944",
+   "title": "D-Day and liberation",
+   "text": "Allied landings in Normandy on 6 June; Paris is freed in August."
+  },
+  {
+   "year": "1958",
+   "title": "Fifth Republic",
+   "text": "A new constitution gives the president strong powers."
+  },
+  {
+   "year": "1962",
+   "title": "Algeria independent",
+   "text": "The end of an eight-year war."
+  },
+  {
+   "year": "2002",
+   "title": "The euro",
+   "text": "Euro notes and coins replace the franc."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gaul",
+   "meaning": "The Roman name for the land of the Celtic peoples, covering today's France, Belgium and parts of nearby countries."
+  },
+  {
+   "term": "Dynasty",
+   "meaning": "A family whose members rule one after another."
+  },
+  {
+   "term": "Absolute monarchy",
+   "meaning": "A system where the king or queen holds all power and is not limited by a parliament or constitution."
+  },
+  {
+   "term": "Republic",
+   "meaning": "A country with no king or queen, led by people who are elected or chosen."
+  },
+  {
+   "term": "Enlightenment",
+   "meaning": "A movement of thinkers in the 1700s who argued for reason, science, free speech and limits on power."
+  },
+  {
+   "term": "Resistance",
+   "meaning": "People who secretly fought the German occupation of France during the Second World War."
+  },
+  {
+   "term": "Colony",
+   "meaning": "A land ruled by another, usually distant, country."
+  }
+ ]
+}

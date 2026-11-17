@@ -1,6 +1,6 @@
 import { useMemo, useState, type ReactNode } from 'react';
-import { Link, useParams } from 'react-router-dom';
-import { ArrowRight, Play } from 'lucide-react';
+import { Link, useParams, useSearchParams } from 'react-router-dom';
+import { ArrowRight, BookOpen, Play } from 'lucide-react';
 import { CountryMap } from '../components/CountryMap';
 import { WorldCompare } from '../components/WorldCompare';
 import { FolderTabs, type FolderTab } from '../components/FolderTabs';
@@ -10,6 +10,7 @@ import { useUsStates, statePath } from '../components/usStates';
 import { Breadcrumbs, ButtonLink, Card, SourceNote } from '../components/ui';
 import { COUNTRIES, ORGANISATIONS, countryPath, fmt, getCountry, type Country } from '../data/countries';
 import type { SourceId } from '../data/sources';
+import { deepTitle, hasDeepDive, isDeepSection } from '../content/deep';
 import { contentFor, type CountryContent, type Fact as WrittenFact } from '../content/countries';
 import { TOPICS, questionCount, questionsFor, type Topic } from '../lib/quiz';
 import { flagUrl } from '../lib/difficulty';
@@ -183,7 +184,8 @@ function Profile({ c }: { c: Country }) {
     return { title: o.name, text: own?.text ?? o.text, url: o.url };
   });
 
-  const [tab, setTab] = useState('overview');
+  const [params] = useSearchParams();
+  const [tab, setTab] = useState(() => { const t = params.get('tab'); return t && profileTabs.some((x) => x.id === t) ? t : 'overview'; });
   const [game, setGame] = useState(gameTabs[0].id);
   const region = c.region.toLowerCase();
   const lifeStart = series?.series.lifeExpectancy?.[0];
@@ -278,7 +280,7 @@ function Profile({ c }: { c: Country }) {
             </li>
           ))}
         </ol>
-        <p className="muted">A full timeline is on the way. Each event will link to every country involved.</p>
+        {!hasDeepDive(c.cca3, 'history') && <p className="muted">A fuller history page is on the way.</p>}
       </Panel>
     ),
     government: (content?.government || c.government) && (
@@ -413,6 +415,11 @@ function Profile({ c }: { c: Country }) {
         <h2 id="glance-h">{c.name} at a glance</h2>
         <FolderTabs label={`${c.name} profile`} tabs={profileTabs} value={tab} onChange={setTab}>
           {panels[tab]}
+          {isDeepSection(tab) && hasDeepDive(c.cca3, tab) && (
+            <div className="deep-cta">
+              <ButtonLink to={`${countryPath(c)}/${tab}`} variant="primary"><BookOpen size={18} aria-hidden="true" /> Read the deep dive: {deepTitle(tab, c.name)} <ArrowRight size={18} aria-hidden="true" /></ButtonLink>
+            </div>
+          )}
         </FolderTabs>
       </section>
 
