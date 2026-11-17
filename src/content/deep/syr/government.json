@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Since the fall of the Assad government in December 2024, Syria has been run by a transitional government.",
+ "chapters": [
+  {
+   "id": "transition",
+   "title": "Transition",
+   "text": [
+    "Ahmed al-Sharaa, leader of the rebel group that took Damascus, became interim president. A temporary constitution was announced in 2025, and the government is trying to unite a divided country and rebuild."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Damascus"
+    },
+    {
+     "label": "Independence",
+     "value": "1946"
+    },
+    {
+     "label": "Status",
+     "value": "Transitional government since 2024"
+    }
+   ]
+  },
+  {
+   "id": "past",
+   "title": "The old system",
+   "text": [
+    "Under the Assads, Syria was a one-party state run by the Baath Party, with feared security services."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Transitional government",
+   "meaning": "A temporary government after big political change."
+  },
+  {
+   "term": "Baath Party",
+   "meaning": "The party that ruled Syria from 1963 to 2024."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Interim President",
+     "subtitle": "Since 2025",
+     "text": "Ahmed al-Sharaa."
+    },
+    {
+     "title": "Government",
+     "subtitle": "Ministers",
+     "text": "Appointed by the president."
+    },
+    {
+     "title": "People's Assembly",
+     "subtitle": "Transitional",
+     "text": "A temporary parliament."
+    },
+    {
+     "title": "Constitutional declaration",
+     "subtitle": "2025",
+     "text": "A temporary set of rules."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Interim rules",
+    "text": "A temporary constitution sets how laws are made."
+   },
+   {
+    "title": "Assembly",
+    "text": "Debates and passes laws."
+   },
+   {
+    "title": "The President",
+    "text": "Signs them."
+   }
+  ]
+ }
+}

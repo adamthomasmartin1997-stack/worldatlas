@@ -1,0 +1,141 @@
+{
+ "status": "draft",
+ "intro": "Football and basketball are Israel's most popular sports. Israeli teams compete in European competitions.",
+ "chapters": [
+  {
+   "id": "basketball",
+   "title": "Basketball",
+   "text": [
+    "Maccabi Tel Aviv has won the EuroLeague six times, and Deni Avdija plays in the NBA."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Olympics and more",
+   "text": [
+    "Israel's Olympic golds have come in windsurfing and gymnastics. In 1972, eleven Israeli athletes and coaches were murdered by Palestinian militants at the Munich Olympics."
+   ],
+   "related": [
+    "DEU"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "EuroLeague",
+   "meaning": "Europe's top club basketball competition."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Israeli Premier League",
+     "subtitle": "Football",
+     "text": "Maccabi Tel Aviv and Maccabi Haifa lead the roll."
+    },
+    {
+     "title": "Ligat HaAl",
+     "subtitle": "Basketball",
+     "text": "Maccabi Tel Aviv dominate."
+    },
+    {
+     "title": "EuroLeague",
+     "subtitle": "Basketball",
+     "text": "Maccabi Tel Aviv have six titles."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Tal Brody",
+     "subtitle": "Basketball",
+     "text": "Led Maccabi's first EuroLeague win in 1977."
+    },
+    {
+     "title": "Gal Fridman",
+     "subtitle": "Windsurfing",
+     "text": "Israel's first Olympic gold, 2004."
+    },
+    {
+     "title": "Linoy Ashram",
+     "subtitle": "Rhythmic gymnastics",
+     "text": "Olympic champion in 2021."
+    },
+    {
+     "title": "Artem Dolgopyat",
+     "subtitle": "Gymnastics",
+     "text": "Olympic floor champion in 2021."
+    },
+    {
+     "title": "Deni Avdija",
+     "subtitle": "Basketball",
+     "text": "An NBA player."
+    },
+    {
+     "title": "Shahar Pe'er",
+     "subtitle": "Tennis",
+     "text": "Reached the world top 15."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Israel's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Bloomfield Stadium, Tel Aviv",
+    "kind": "venue",
+    "lat": 32.052,
+    "lon": 34.762,
+    "text": "A famous football ground."
+   },
+   {
+    "name": "Teddy Stadium, Jerusalem",
+    "kind": "venue",
+    "lat": 31.751,
+    "lon": 35.19,
+    "text": "Home of Beitar Jerusalem."
+   },
+   {
+    "name": "Menora Mivtachim Arena",
+    "kind": "venue",
+    "lat": 32.069,
+    "lon": 34.791,
+    "text": "Home of Maccabi Tel Aviv basketball."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1964",
+    "title": "Asian Cup",
+    "text": "Israel wins as hosts."
+   },
+   {
+    "year": "1977",
+    "title": "EuroLeague champions",
+    "text": "Maccabi Tel Aviv's first title."
+   },
+   {
+    "year": "2004",
+    "title": "First Olympic gold",
+    "text": "Gal Fridman in Athens."
+   },
+   {
+    "year": "2021",
+    "title": "Two golds",
+    "text": "In gymnastics in Tokyo."
+   }
+  ]
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "status": "draft",
+ "intro": "Palestine is recognised as a state by most UN members, but it does not control its borders, and its people are governed by different authorities.",
+ "chapters": [
+  {
+   "id": "authority",
+   "title": "Who governs",
+   "text": [
+    "The Palestinian Authority, led by President Mahmoud Abbas of the Fatah party, governs parts of the West Bank from Ramallah. Hamas has controlled Gaza since 2007. Israel controls borders, most of the West Bank's land and movement in and out.",
+    "No national elections have been held since 2006."
+   ],
+   "facts": [
+    {
+     "label": "Proclaimed capital",
+     "value": "Jerusalem (East)"
+    },
+    {
+     "label": "Administrative centre",
+     "value": "Ramallah"
+    },
+    {
+     "label": "UN status",
+     "value": "Observer state since 2012"
+    }
+   ]
+  },
+  {
+   "id": "recognition",
+   "title": "Recognition",
+   "text": [
+    "More than 140 UN members recognise the State of Palestine; in 2024 and 2025 several more, including Spain, Ireland, Norway, the UK, France, Canada and Australia, did so."
+   ],
+   "related": [
+    "ESP",
+    "IRL",
+    "NOR",
+    "GBR",
+    "FRA",
+    "CAN",
+    "AUS"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Palestinian Authority",
+   "meaning": "The government created by the Oslo Accords."
+  },
+  {
+   "term": "Recognition",
+   "meaning": "When a country formally accepts another as a state."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected in 2005",
+     "text": "Mahmoud Abbas leads the Palestinian Authority."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Appointed by the President",
+     "text": "Runs the government in Ramallah."
+    },
+    {
+     "title": "Legislative Council",
+     "subtitle": "132 seats",
+     "text": "Has not met since 2007."
+    },
+    {
+     "title": "PLO",
+     "subtitle": "Represents Palestinians abroad",
+     "text": "Speaks for Palestinians at the UN."
+    },
+    {
+     "title": "Hamas in Gaza",
+     "subtitle": "Since 2007",
+     "text": "A separate administration."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Decree",
+    "text": "With no working parliament, the President issues laws by decree."
+   },
+   {
+    "title": "Courts",
+    "text": "Review laws and disputes."
+   },
+   {
+    "title": "Elections",
+    "text": "Long promised but repeatedly postponed."
+   }
+  ]
+ }
+}

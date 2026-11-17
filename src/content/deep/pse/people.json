@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "Around 5.5 million Palestinians live in the West Bank and Gaza, and millions more live in Israel, Jordan, Lebanon, Syria and around the world.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and faith",
+   "text": [
+    "Most Palestinians are Sunni Muslim, with a Christian community in places like Bethlehem and Ramallah. Arabic is the language. The population is young.",
+    "Many families are descended from 1948 refugees, and UN refugee camps have become crowded neighbourhoods."
+   ],
+   "related": [
+    "JOR",
+    "LBN",
+    "SYR"
+   ]
+  },
+  {
+   "id": "education",
+   "title": "Learning",
+   "text": [
+    "Palestinians have high literacy rates, and universities like Birzeit are important centres of learning. War has destroyed most of Gaza's schools and universities."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "UNRWA",
+   "meaning": "The UN agency for Palestinian refugees."
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "status": "draft",
+ "intro": "Basketball and football are the most popular sports in Lebanon.",
+ "chapters": [
+  {
+   "id": "basketball",
+   "title": "Basketball",
+   "text": [
+    "Lebanon has played at several Basketball World Cups. Clubs Al-Riyadi and Sagesse have won Asian titles."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Mountains and more",
+   "text": [
+    "Skiing at resorts like Mzaar and the Cedars, and the Beirut Marathon, are popular."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "FIBA",
+   "meaning": "Basketball's world governing body."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Lebanese Basketball League",
+     "subtitle": "Basketball",
+     "text": "Al-Riyadi and Sagesse dominate."
+    },
+    {
+     "title": "Lebanese Premier League",
+     "subtitle": "Football",
+     "text": "Al-Ahed and Nejmeh are top clubs."
+    },
+    {
+     "title": "Beirut Marathon",
+     "subtitle": "Running",
+     "text": "Since 2003."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Fadi El Khatib",
+     "subtitle": "Basketball",
+     "text": "'The Tiger', Lebanon's basketball star."
+    },
+    {
+     "title": "Hassan Maatouk",
+     "subtitle": "Football",
+     "text": "Record goal-scorer."
+    },
+    {
+     "title": "Rony Seikaly",
+     "subtitle": "Basketball",
+     "text": "An NBA player of the 1990s."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Lebanon's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Camille Chamoun Sports City Stadium",
+    "kind": "venue",
+    "lat": 33.865,
+    "lon": 35.49,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Mzaar Kfardebian",
+    "kind": "venue",
+    "lat": 34.0,
+    "lon": 35.84,
+    "text": "The largest ski resort."
+   },
+   {
+    "name": "Nouhad Nawfal Arena",
+    "kind": "venue",
+    "lat": 33.97,
+    "lon": 35.62,
+    "text": "Basketball in Zouk Mikael."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2002",
+    "title": "Basketball World Cup",
+    "text": "Lebanon's first appearance."
+   },
+   {
+    "year": "2019",
+    "title": "Al-Ahed win AFC Cup",
+    "text": "A first Asian club football title."
+   }
+  ]
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "status": "draft",
+ "intro": "Lebanon's economy was built on banking, trade and tourism, but suffered one of the world's worst financial crises from 2019.",
+ "chapters": [
+  {
+   "id": "crisis",
+   "title": "Collapse",
+   "text": [
+    "From 2019 the Lebanese pound lost over 90% of its value, banks froze people's savings, and many people fell into poverty."
+   ]
+  },
+  {
+   "id": "strengths",
+   "title": "Strengths",
+   "text": [
+    "Lebanese wine, food, design and fashion are known worldwide, and money from Lebanese abroad keeps many families going."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Currency crisis",
+   "meaning": "When money suddenly loses much of its value."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Lebanon",
+   "items": [
+    {
+     "title": "Wine",
+     "subtitle": "Beqaa Valley",
+     "text": "Château Musar and others."
+    },
+    {
+     "title": "Jewellery",
+     "subtitle": "Beirut",
+     "text": "Gold and design."
+    },
+    {
+     "title": "Fashion",
+     "subtitle": "Beirut",
+     "text": "Elie Saab and Zuhair Murad."
+    },
+    {
+     "title": "Food",
+     "subtitle": "Everywhere",
+     "text": "Exported sweets and mezze."
+    },
+    {
+     "title": "Fruit",
+     "subtitle": "Beqaa and the coast",
+     "text": "Apples and citrus."
+    }
+   ],
+   "intro": "Some of the things Lebanon makes and sells to the world."
+  }
+ ]
+}

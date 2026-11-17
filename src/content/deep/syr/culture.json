@@ -1,0 +1,117 @@
+{
+ "status": "draft",
+ "intro": "Syrian culture is famous for its old cities, crafts, music and some of the best food in the Middle East.",
+ "chapters": [
+  {
+   "id": "crafts",
+   "title": "Crafts and heritage",
+   "text": [
+    "Damascus steel, brocade cloth and Aleppo soap made from olive and laurel oil are historic crafts. Six Syrian sites are on the World Heritage list, though several were badly damaged in the war."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Aleppo is famous for its kebabs and its peppers. Muhammara, kibbeh, fattoush and sweets like baklava are loved across the region."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Damask",
+   "meaning": "A patterned fabric named after Damascus."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Dupes",
+     "subtitle": "1972 · Tawfiq Saleh",
+     "text": "Based on a Kanafani novel."
+    },
+    {
+     "title": "For Sama",
+     "subtitle": "2019 · Waad al-Kateab",
+     "text": "A mother films life in Aleppo; Oscar-nominated."
+    },
+    {
+     "title": "The Cave",
+     "subtitle": "2019 · Feras Fayyad",
+     "text": "An underground hospital; Oscar-nominated."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Poems",
+     "subtitle": "20th century · Nizar Qabbani",
+     "text": "Loved love poems."
+    },
+    {
+     "title": "The Shell",
+     "subtitle": "2008 · Mustafa Khalifa",
+     "text": "A prison memoir in novel form."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Sabah Fakhri",
+     "subtitle": "Singer",
+     "text": "Master of Aleppo's tarab music."
+    },
+    {
+     "title": "Omar Souleyman",
+     "subtitle": "Singer",
+     "text": "Syrian dabke went global."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Kibbeh",
+     "subtitle": "Aleppo",
+     "text": "Dozens of varieties."
+    },
+    {
+     "title": "Muhammara",
+     "subtitle": "Aleppo",
+     "text": "Red pepper and walnut dip."
+    },
+    {
+     "title": "Fattet hummus",
+     "subtitle": "Damascus",
+     "text": "Chickpeas, yoghurt and bread."
+    },
+    {
+     "title": "Baklava",
+     "subtitle": "Everywhere",
+     "text": "Nut pastry with syrup."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Evacuation Day",
+    "text": "17 April, French troops left in 1946."
+   }
+  ]
+ }
+}

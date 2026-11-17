@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "The Palestinian economy is small and depends heavily on aid, farming and jobs in Israel, with restrictions on movement and trade.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "Work and trade",
+   "text": [
+    "Olives and olive oil, stone quarrying, farming and small factories are important. Many Palestinians have worked in Israel or its settlements. Israel collects many taxes on the Palestinian Authority's behalf.",
+    "Gaza's economy has been under a blockade since 2007, and the war has destroyed most of it."
+   ],
+   "related": [
+    "ISR",
+    "JOR"
+   ]
+  },
+  {
+   "id": "aid",
+   "title": "Aid",
+   "text": [
+    "International aid pays for much of the budget, schools and health care."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Blockade",
+   "meaning": "Restricting goods and people going in or out of an area."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Palestine",
+   "items": [
+    {
+     "title": "Olive oil",
+     "subtitle": "West Bank",
+     "text": "A cherished crop."
+    },
+    {
+     "title": "Stone and marble",
+     "subtitle": "Hebron and Bethlehem",
+     "text": "Quarried and cut."
+    },
+    {
+     "title": "Nablus soap",
+     "subtitle": "Nablus",
+     "text": "Made with olive oil."
+    },
+    {
+     "title": "Hebron glass",
+     "subtitle": "Hebron",
+     "text": "Hand-blown blue glass."
+    },
+    {
+     "title": "Dates",
+     "subtitle": "Jericho",
+     "text": "Medjool dates."
+    }
+   ],
+   "intro": "Some of the things Palestine makes and sells to the world."
+  }
+ ]
+}

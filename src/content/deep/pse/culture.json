@@ -1,0 +1,151 @@
+{
+ "status": "draft",
+ "intro": "Palestinian culture is rich in embroidery, poetry, music and food, and is a strong part of Palestinian identity.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Tatreez embroidery, with patterns that once showed which village a woman came from, is on UNESCO's heritage list. Mahmoud Darwish is the national poet. The dabke is a line dance performed at weddings."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Musakhan (roast chicken with onions and sumac on flatbread), maqluba ('upside down' rice), knafeh from Nablus, za'atar and olive oil are classic foods."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tatreez",
+   "meaning": "Traditional Palestinian embroidery."
+  },
+  {
+   "term": "Dabke",
+   "meaning": "A folk line dance."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Paradise Now",
+     "subtitle": "2005 · Hany Abu-Assad",
+     "text": "Oscar-nominated drama."
+    },
+    {
+     "title": "Omar",
+     "subtitle": "2013 · Hany Abu-Assad",
+     "text": "A young baker's story; Oscar-nominated."
+    },
+    {
+     "title": "No Other Land",
+     "subtitle": "2024 · Basel Adra and others",
+     "text": "A documentary that won an Oscar."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Poems",
+     "subtitle": "from 1960s · Mahmoud Darwish",
+     "text": "Poems of land, exile and love."
+    },
+    {
+     "title": "Men in the Sun",
+     "subtitle": "1962 · Ghassan Kanafani",
+     "text": "Three refugees try to reach Kuwait."
+    },
+    {
+     "title": "Mornings in Jenin",
+     "subtitle": "2010 · Susan Abulhawa",
+     "text": "A family across generations."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Dabke music",
+     "subtitle": "Traditional",
+     "text": "Played at weddings."
+    },
+    {
+     "title": "Mohammed Assaf",
+     "subtitle": "Singer",
+     "text": "Won Arab Idol in 2013."
+    },
+    {
+     "title": "Mawtini",
+     "subtitle": "Song",
+     "text": "Widely sung as an anthem."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Musakhan",
+     "subtitle": "Everywhere",
+     "text": "Chicken, onions and sumac on taboon bread."
+    },
+    {
+     "title": "Maqluba",
+     "subtitle": "Everywhere",
+     "text": "Rice dish flipped upside down."
+    },
+    {
+     "title": "Knafeh",
+     "subtitle": "Nablus",
+     "text": "Sweet cheese pastry."
+    },
+    {
+     "title": "Za'atar",
+     "subtitle": "Everywhere",
+     "text": "Thyme and sesame mix with olive oil."
+    },
+    {
+     "title": "Falafel",
+     "subtitle": "Everywhere",
+     "text": "A street food classic."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Easter",
+    "text": "Celebrated in Bethlehem and Jerusalem."
+   },
+   {
+    "month": 5,
+    "name": "Nakba Day",
+    "text": "15 May, remembrance."
+   },
+   {
+    "month": 10,
+    "name": "Olive harvest",
+    "text": "Families gather to pick olives."
+   },
+   {
+    "month": 12,
+    "name": "Christmas",
+    "text": "Celebrations in Bethlehem."
+   }
+  ]
+ }
+}

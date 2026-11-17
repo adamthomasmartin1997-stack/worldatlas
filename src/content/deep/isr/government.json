@@ -1,0 +1,105 @@
+{
+ "status": "draft",
+ "intro": "Israel is a parliamentary democracy with no written constitution, governed instead by a set of Basic Laws.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Voters elect the 120-member Knesset by proportional representation, so governments are always coalitions. The prime minister leads the government, and the president is a ceremonial head of state.",
+    "Israel considers Jerusalem its capital, but most countries keep their embassies in Tel Aviv because the city's status is disputed."
+   ],
+   "facts": [
+    {
+     "label": "Parliament",
+     "value": "Knesset, 120 seats"
+    },
+    {
+     "label": "Seat of government",
+     "value": "Jerusalem (disputed)"
+    },
+    {
+     "label": "Independence",
+     "value": "1948"
+    }
+   ]
+  },
+  {
+   "id": "debates",
+   "title": "Big debates",
+   "text": [
+    "In 2023 plans to limit the power of the Supreme Court led to some of the largest protests in Israel's history. The future of the occupied territories and Israeli settlements remains the biggest question."
+   ],
+   "related": [
+    "PSE"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Knesset",
+   "meaning": "Israel's parliament."
+  },
+  {
+   "term": "Coalition",
+   "meaning": "Several parties governing together."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by the Knesset for 7 years",
+     "text": "Ceremonial head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the governing coalition",
+     "text": "Runs the government."
+    },
+    {
+     "title": "Knesset",
+     "subtitle": "120 members",
+     "text": "Elected by proportional representation."
+    },
+    {
+     "title": "Supreme Court",
+     "subtitle": "15 judges",
+     "text": "Can strike down government decisions."
+    },
+    {
+     "title": "Basic Laws",
+     "subtitle": "In place of a constitution",
+     "text": "Set out how the state works."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is tabled",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Preliminary and first readings",
+    "text": "The Knesset debates it."
+   },
+   {
+    "title": "Committee",
+    "text": "Prepares the final version."
+   },
+   {
+    "title": "Second and third readings",
+    "text": "The Knesset votes it into law."
+   }
+  ]
+ }
+}

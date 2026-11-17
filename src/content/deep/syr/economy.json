@@ -1,0 +1,58 @@
+{
+ "status": "draft",
+ "intro": "War destroyed much of Syria's economy, which once rested on farming, oil and trade.",
+ "chapters": [
+  {
+   "id": "before",
+   "title": "Before the war",
+   "text": [
+    "Syria grew wheat, cotton and olives and produced some oil. Aleppo was an industrial and trading centre."
+   ]
+  },
+  {
+   "id": "rebuild",
+   "title": "Rebuilding",
+   "text": [
+    "Cities, power stations and farms need rebuilding. Many sanctions were lifted in 2025, which may help recovery."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sanctions",
+   "meaning": "Penalties that limit trade with a country."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Syria",
+   "items": [
+    {
+     "title": "Olive oil and soap",
+     "subtitle": "Aleppo",
+     "text": "Famous Aleppo soap."
+    },
+    {
+     "title": "Wheat and cotton",
+     "subtitle": "North-east",
+     "text": "Major crops."
+    },
+    {
+     "title": "Textiles",
+     "subtitle": "Damascus and Aleppo",
+     "text": "Damask and brocade."
+    },
+    {
+     "title": "Pistachios",
+     "subtitle": "Aleppo region",
+     "text": "Prized nuts."
+    }
+   ],
+   "intro": "Some of the things Syria makes and sells to the world."
+  }
+ ]
+}

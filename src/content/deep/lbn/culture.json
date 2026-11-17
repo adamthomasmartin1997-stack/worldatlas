@@ -1,0 +1,147 @@
+{
+ "status": "draft",
+ "intro": "Lebanon is famous for its food, music and lively cultural life.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Music and writing",
+   "text": [
+    "The singer Fairuz is loved across the Arab world. Khalil Gibran's The Prophet is one of the best-selling poetry books ever."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Mezze, a spread of small dishes like hummus, tabbouleh, fattoush and kibbeh, is a Lebanese speciality. Manakish flatbread with za'atar is a classic breakfast."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mezze",
+   "meaning": "A selection of small shared dishes."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Caramel",
+     "subtitle": "2007 · Nadine Labaki",
+     "text": "Five women in a Beirut beauty salon."
+    },
+    {
+     "title": "Capernaum",
+     "subtitle": "2018 · Nadine Labaki",
+     "text": "A boy sues his parents; Oscar-nominated."
+    },
+    {
+     "title": "The Insult",
+     "subtitle": "2017 · Ziad Doueiri",
+     "text": "A dispute goes to court; Oscar-nominated."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Prophet",
+     "subtitle": "1923 · Khalil Gibran",
+     "text": "Poetic essays on life."
+    },
+    {
+     "title": "Beirut Nightmares",
+     "subtitle": "1976 · Ghada al-Samman",
+     "text": "Life during the civil war."
+    },
+    {
+     "title": "The Rock of Tanios",
+     "subtitle": "1993 · Amin Maalouf",
+     "text": "A village legend; won the Goncourt."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Fairuz",
+     "subtitle": "Singer",
+     "text": "The voice of Lebanon."
+    },
+    {
+     "title": "Mashrou' Leila",
+     "subtitle": "Band",
+     "text": "Indie rock in Arabic."
+    },
+    {
+     "title": "Dabke",
+     "subtitle": "Traditional",
+     "text": "A line dance at weddings."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Hummus",
+     "subtitle": "Everywhere",
+     "text": "Chickpea dip with tahini."
+    },
+    {
+     "title": "Tabbouleh",
+     "subtitle": "Everywhere",
+     "text": "Parsley and bulgur salad."
+    },
+    {
+     "title": "Kibbeh",
+     "subtitle": "Everywhere",
+     "text": "Bulgur and meat."
+    },
+    {
+     "title": "Manakish",
+     "subtitle": "Breakfast",
+     "text": "Flatbread with za'atar."
+    },
+    {
+     "title": "Shawarma",
+     "subtitle": "Street food",
+     "text": "Spit-roasted meat wraps."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 7,
+    "name": "Baalbeck Festival",
+    "text": "Music in the Roman temples."
+   },
+   {
+    "month": 8,
+    "name": "Byblos Festival",
+    "text": "Concerts by the sea."
+   },
+   {
+    "month": 11,
+    "name": "Independence Day",
+    "text": "22 November, 1943."
+   },
+   {
+    "month": 12,
+    "name": "Christmas",
+    "text": "Celebrated by many communities."
+   }
+  ]
+ }
+}

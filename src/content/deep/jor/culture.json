@@ -1,0 +1,122 @@
+{
+ "status": "draft",
+ "intro": "Jordanian culture centres on Bedouin hospitality, coffee and food shared from a big platter.",
+ "chapters": [
+  {
+   "id": "hospitality",
+   "title": "Hospitality",
+   "text": [
+    "Guests are offered bitter Arabic coffee with cardamom. The red-and-white checked keffiyeh is a national symbol."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Mansaf, lamb cooked in fermented dried yoghurt and served on rice, is the national dish, eaten from a shared tray. Falafel, hummus and knafeh are everyday favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mansaf",
+   "meaning": "Jordan's national dish of lamb, yoghurt and rice."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Theeb",
+     "subtitle": "2014 · Naji Abu Nowar",
+     "text": "A Bedouin boy in 1916; Oscar-nominated."
+    },
+    {
+     "title": "Lawrence of Arabia",
+     "subtitle": "1962 · David Lean",
+     "text": "Filmed partly in Wadi Rum."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Cities of Salt",
+     "subtitle": "1984 · Abdelrahman Munif",
+     "text": "How oil changed desert life."
+    },
+    {
+     "title": "Seven Pillars of Wisdom",
+     "subtitle": "1926 · T. E. Lawrence",
+     "text": "A British view of the Arab Revolt."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Bedouin songs",
+     "subtitle": "Traditional",
+     "text": "Sung with the rababa fiddle."
+    },
+    {
+     "title": "Jerash Festival",
+     "subtitle": "Since 1981",
+     "text": "Music in Roman ruins."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Mansaf",
+     "subtitle": "Everywhere",
+     "text": "Lamb with jameed yoghurt and rice."
+    },
+    {
+     "title": "Maqluba",
+     "subtitle": "Everywhere",
+     "text": "Upside-down rice."
+    },
+    {
+     "title": "Falafel",
+     "subtitle": "Amman",
+     "text": "Hashem's restaurant is famous."
+    },
+    {
+     "title": "Knafeh",
+     "subtitle": "Everywhere",
+     "text": "Sweet cheese pastry."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 5,
+    "name": "Independence Day",
+    "text": "25 May, 1946."
+   },
+   {
+    "month": 7,
+    "name": "Jerash Festival",
+    "text": "Music and dance in the ruins."
+   },
+   {
+    "month": 6,
+    "name": "Army Day",
+    "text": "10 June, remembering the Arab Revolt of 1916."
+   }
+  ]
+ }
+}

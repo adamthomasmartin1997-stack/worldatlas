@@ -1,0 +1,98 @@
+{
+ "status": "draft",
+ "intro": "Lebanon is a parliamentary republic where top jobs are divided between religious communities.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Sharing power",
+   "text": [
+    "By custom, the president is a Maronite Christian, the prime minister a Sunni Muslim, and the speaker of parliament a Shia Muslim. Parliament's 128 seats are split equally between Christians and Muslims.",
+    "Deadlock is common: Lebanon went without a president for over two years before Joseph Aoun was elected in January 2025."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Beirut"
+    },
+    {
+     "label": "Parliament",
+     "value": "128 seats"
+    },
+    {
+     "label": "Independence",
+     "value": "1943"
+    }
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "Hezbollah's armed wing, corruption and the collapse of the banks have weakened the state."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Deadlock",
+   "meaning": "When no decision can be made."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by parliament for 6 years",
+     "text": "By custom a Maronite Christian."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Named by the President after consultations",
+     "text": "By custom a Sunni Muslim."
+    },
+    {
+     "title": "Parliament",
+     "subtitle": "128 members",
+     "text": "Seats split by religion."
+    },
+    {
+     "title": "Speaker",
+     "subtitle": "Elected by parliament",
+     "text": "By custom a Shia Muslim."
+    },
+    {
+     "title": "Governorates",
+     "subtitle": "9 governorates",
+     "text": "Regional administration."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Committee",
+    "text": "Studied in parliament."
+   },
+   {
+    "title": "Vote",
+    "text": "Passed by parliament."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it or sends it back."
+   }
+  ]
+ }
+}

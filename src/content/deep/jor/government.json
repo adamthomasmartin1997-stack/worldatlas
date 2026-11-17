@@ -1,0 +1,102 @@
+{
+ "status": "draft",
+ "intro": "Jordan is a constitutional monarchy where the king holds wide powers.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The king appoints the prime minister and the Senate and can dissolve parliament. Voters elect the House of Representatives. Jordan is seen as a stable country in a troubled region."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Amman"
+    },
+    {
+     "label": "King",
+     "value": "Abdullah II"
+    },
+    {
+     "label": "Independence",
+     "value": "1946"
+    }
+   ]
+  },
+  {
+   "id": "role",
+   "title": "A role in the region",
+   "text": [
+    "Jordan is the official custodian of Muslim and Christian holy sites in Jerusalem and works closely with Western and Gulf countries."
+   ],
+   "related": [
+    "USA",
+    "SAU",
+    "ISR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Custodian",
+   "meaning": "A guardian or protector."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Inherits the throne",
+     "text": "Head of state with wide powers."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Appointed by the King",
+     "text": "Leads the government."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "138 members",
+     "text": "Elected by voters."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "Up to half the size of the House",
+     "text": "Appointed by the King."
+    },
+    {
+     "title": "Governorates",
+     "subtitle": "12 governorates",
+     "text": "Regional administration."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is drafted",
+    "text": "By the government."
+   },
+   {
+    "title": "House",
+    "text": "Debates and votes."
+   },
+   {
+    "title": "Senate",
+    "text": "Approves it."
+   },
+   {
+    "title": "The King",
+    "text": "Signs it, or sends it back."
+   }
+  ]
+ }
+}

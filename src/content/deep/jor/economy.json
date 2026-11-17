@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Jordan has few natural resources, so its economy relies on services, tourism, phosphates and help from abroad.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How Jordan earns",
+   "text": [
+    "Jordan mines phosphates and potash from the Dead Sea and sells fertilisers. Tourism to Petra, Wadi Rum and the Dead Sea is important, and many Jordanians work in the Gulf.",
+    "Unemployment, especially among young people, is high."
+   ],
+   "related": [
+    "SAU",
+    "ARE"
+   ]
+  },
+  {
+   "id": "aqaba",
+   "title": "Aqaba",
+   "text": [
+    "Aqaba is Jordan's only port and a special economic zone on the Red Sea."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Phosphate",
+   "meaning": "A mineral used in fertilisers."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Jordan",
+   "items": [
+    {
+     "title": "Phosphates",
+     "subtitle": "South of the country",
+     "text": "A big exporter."
+    },
+    {
+     "title": "Potash",
+     "subtitle": "Dead Sea",
+     "text": "For fertilisers."
+    },
+    {
+     "title": "Medicines",
+     "subtitle": "Hikma",
+     "text": "Generic medicines sold worldwide."
+    },
+    {
+     "title": "Clothes",
+     "subtitle": "Industrial zones",
+     "text": "Made for US brands."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Petra and the Dead Sea",
+     "text": "A key industry."
+    }
+   ],
+   "intro": "Some of the things Jordan makes and sells to the world."
+  }
+ ]
+}

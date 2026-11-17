@@ -1,0 +1,35 @@
+{
+ "status": "draft",
+ "intro": "Jordan has around 11 million people, including many of Palestinian origin and large numbers of refugees.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are Arab and Sunni Muslim, with Christian, Circassian and Chechen communities. A large share have Palestinian roots. Bedouin traditions of hospitality remain important.",
+    "Most people live in cities, especially Amman, Zarqa and Irbid."
+   ],
+   "related": [
+    "PSE",
+    "SYR",
+    "IRQ"
+   ]
+  },
+  {
+   "id": "refugees",
+   "title": "Refugees",
+   "text": [
+    "Jordan hosts hundreds of thousands of Syrian refugees, many in camps like Zaatari, one of the largest in the world."
+   ],
+   "related": [
+    "SYR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bedouin",
+   "meaning": "Arab desert peoples, traditionally herders."
+  }
+ ]
+}

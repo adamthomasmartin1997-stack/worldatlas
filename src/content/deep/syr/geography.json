@@ -1,0 +1,96 @@
+{
+ "status": "draft",
+ "intro": "Syria has a short Mediterranean coast, mountains, the fertile Euphrates valley and wide deserts.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Coast to desert",
+   "text": [
+    "A narrow coast is backed by mountains. Inland, Damascus sits at the foot of the Anti-Lebanon range, and Mount Hermon rises on the border. The Euphrates flows across the north-east, with farmland around it.",
+    "Much of the centre and south-east is the Syrian Desert, stretching into Iraq and Jordan."
+   ],
+   "related": [
+    "LBN",
+    "TUR",
+    "IRQ",
+    "JOR"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate and drought",
+   "text": [
+    "The coast is mild and wet; the interior is hot and dry. A severe drought from 2006 to 2010 drove many farmers to the cities."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Steppe",
+   "meaning": "Dry grassland."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Syria's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Aleppo",
+    "kind": "old city",
+    "lat": 36.2,
+    "lon": 37.16,
+    "text": "A citadel above one of the oldest cities."
+   },
+   {
+    "name": "Euphrates valley",
+    "kind": "river",
+    "lat": 35.9,
+    "lon": 39.0,
+    "text": "Farmland along the great river."
+   },
+   {
+    "name": "Krak des Chevaliers",
+    "kind": "castle",
+    "lat": 34.76,
+    "lon": 36.29,
+    "text": "A huge Crusader castle."
+   },
+   {
+    "name": "Palmyra",
+    "kind": "desert ruins",
+    "lat": 34.55,
+    "lon": 38.27,
+    "text": "An oasis city of colonnades."
+   },
+   {
+    "name": "Maaloula",
+    "kind": "mountain village",
+    "lat": 33.84,
+    "lon": 36.55,
+    "text": "Where Aramaic is still spoken."
+   },
+   {
+    "name": "Damascus",
+    "kind": "capital",
+    "lat": 33.51,
+    "lon": 36.29,
+    "text": "One of the oldest cities in the world."
+   },
+   {
+    "name": "Bosra",
+    "kind": "Roman theatre",
+    "lat": 32.52,
+    "lon": 36.48,
+    "text": "A theatre built of black basalt."
+   },
+   {
+    "name": "Latakia coast",
+    "kind": "coast",
+    "lat": 35.52,
+    "lon": 35.78,
+    "text": "The main port on the Mediterranean."
+   }
+  ]
+ }
+}

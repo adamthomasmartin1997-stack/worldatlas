@@ -1,0 +1,101 @@
+{
+ "status": "draft",
+ "intro": "Football is Syria's most popular sport, and its fans followed the national team through years of war.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Syria came close to qualifying for the 2018 World Cup. Al-Jaish and Al-Ittihad of Aleppo have won Asian club competitions."
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics",
+   "text": [
+    "Ghada Shouaa won Syria's only Olympic gold, in the heptathlon in 1996."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Heptathlon",
+   "meaning": "A seven-event athletics contest for women."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Syrian Premier League",
+     "subtitle": "Football",
+     "text": "Al-Jaish have won the most titles."
+    },
+    {
+     "title": "Basketball",
+     "subtitle": "League",
+     "text": "Al-Wahda and Al-Ittihad."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Ghada Shouaa",
+     "subtitle": "Heptathlon",
+     "text": "Olympic champion 1996."
+    },
+    {
+     "title": "Omar Al Somah",
+     "subtitle": "Football",
+     "text": "Scored goals in Saudi Arabia for years."
+    },
+    {
+     "title": "Firas Al-Khatib",
+     "subtitle": "Football",
+     "text": "A national team star."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Syria's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Abbasiyyin Stadium, Damascus",
+    "kind": "venue",
+    "lat": 33.53,
+    "lon": 36.32,
+    "text": "A football stadium."
+   },
+   {
+    "name": "Aleppo International Stadium",
+    "kind": "venue",
+    "lat": 36.22,
+    "lon": 37.08,
+    "text": "The biggest stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1996",
+    "title": "Olympic gold",
+    "text": "Ghada Shouaa in Atlanta."
+   },
+   {
+    "year": "2017",
+    "title": "World Cup playoff",
+    "text": "Syria nearly qualifies."
+   }
+  ]
+ }
+}

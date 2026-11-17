@@ -1,0 +1,69 @@
+{
+ "status": "draft",
+ "intro": "Israel is a high-tech economy, sometimes called the 'Start-up Nation'.",
+ "chapters": [
+  {
+   "id": "tech",
+   "title": "Start-up Nation",
+   "text": [
+    "Israel has more start-ups per person than almost anywhere. Companies there developed USB flash drives, the Waze map app and key computer chip designs. Cybersecurity, medical devices and medicines are also big.",
+    "Large gas fields found off the coast now supply much of the country's energy."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "costs",
+   "title": "Costs of living and war",
+   "text": [
+    "Housing and food are expensive. Wars and reserve call-ups disrupt the economy."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Start-up",
+   "meaning": "A young company trying to grow quickly."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Israel",
+   "items": [
+    {
+     "title": "Software and cybersecurity",
+     "subtitle": "Tel Aviv",
+     "text": "A world tech hub."
+    },
+    {
+     "title": "Computer chips",
+     "subtitle": "Intel and others",
+     "text": "Chip design and factories."
+    },
+    {
+     "title": "Medicines",
+     "subtitle": "Teva",
+     "text": "One of the world's biggest makers of generic drugs."
+    },
+    {
+     "title": "Diamonds",
+     "subtitle": "Ramat Gan",
+     "text": "Cut and polished stones."
+    },
+    {
+     "title": "Drip irrigation",
+     "subtitle": "Netafim",
+     "text": "Farming technology used worldwide."
+    },
+    {
+     "title": "Natural gas",
+     "subtitle": "Offshore fields",
+     "text": "Leviathan and Tamar."
+    }
+   ],
+   "intro": "Some of the things Israel makes and sells to the world."
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+ "status": "draft",
+ "intro": "Syria's people are mostly Arab, with Kurds, Armenians, Assyrians, Turkmen and others, and many religious communities.",
+ "chapters": [
+  {
+   "id": "groups",
+   "title": "Peoples and faiths",
+   "text": [
+    "Most Syrians are Sunni Muslim. There are Alawite, Druze, Ismaili and Christian communities, and Kurds live mainly in the north-east.",
+    "Arabic is the official language; Kurdish, Armenian and Aramaic are also spoken. Aramaic, the language of Jesus, survives in the village of Maaloula."
+   ],
+   "related": [
+    "TUR",
+    "IRQ",
+    "ARM"
+   ]
+  },
+  {
+   "id": "displaced",
+   "title": "Displaced",
+   "text": [
+    "Millions of Syrians live abroad as refugees, and many have begun returning since 2024."
+   ],
+   "related": [
+    "TUR",
+    "LBN",
+    "JOR",
+    "DEU"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Aramaic",
+   "meaning": "An ancient language once spoken across the Middle East."
+  }
+ ]
+}

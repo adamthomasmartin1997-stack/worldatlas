@@ -1,0 +1,105 @@
+{
+ "status": "draft",
+ "intro": "Lebanon packs sea, mountains and a fertile valley into an area smaller than many regions of Europe.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Two mountain ranges",
+   "text": [
+    "A narrow coastal plain runs along the Mediterranean. Behind it rises Mount Lebanon, snowy in winter, where you can ski in the morning and swim in the afternoon. The Beqaa Valley, Lebanon's farm belt, lies between it and the Anti-Lebanon range on the Syrian border.",
+    "The cedar tree on the flag once covered the mountains; only small groves remain."
+   ],
+   "related": [
+    "SYR",
+    "ISR"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The coast has hot, humid summers and mild, rainy winters. The mountains get heavy snow."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Beqaa Valley",
+   "meaning": "Lebanon's main farming valley."
+  },
+  {
+   "term": "Cedar",
+   "meaning": "An evergreen tree and national symbol."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Lebanon's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Qadisha Valley",
+    "kind": "holy valley",
+    "lat": 34.25,
+    "lon": 35.95,
+    "text": "Cave monasteries in a deep gorge."
+   },
+   {
+    "name": "Cedars of God",
+    "kind": "cedar grove",
+    "lat": 34.24,
+    "lon": 36.05,
+    "text": "Ancient cedar trees."
+   },
+   {
+    "name": "Byblos",
+    "kind": "ancient port",
+    "lat": 34.12,
+    "lon": 35.65,
+    "text": "One of the oldest towns in the world."
+   },
+   {
+    "name": "Jeita Grotto",
+    "kind": "caves",
+    "lat": 33.94,
+    "lon": 35.64,
+    "text": "Huge limestone caves with an underground river."
+   },
+   {
+    "name": "Beirut",
+    "kind": "capital",
+    "lat": 33.89,
+    "lon": 35.5,
+    "text": "A seaside city with Pigeon Rocks."
+   },
+   {
+    "name": "Beqaa Valley",
+    "kind": "farmland",
+    "lat": 33.85,
+    "lon": 36.0,
+    "text": "Vineyards and fields."
+   },
+   {
+    "name": "Baalbek",
+    "kind": "Roman temples",
+    "lat": 34.007,
+    "lon": 36.204,
+    "text": "Some of the biggest Roman temples."
+   },
+   {
+    "name": "Shouf Cedar Reserve",
+    "kind": "forest",
+    "lat": 33.7,
+    "lon": 35.7,
+    "text": "The largest nature reserve."
+   },
+   {
+    "name": "Tyre",
+    "kind": "ancient port",
+    "lat": 33.27,
+    "lon": 35.2,
+    "text": "Phoenician and Roman ruins by the sea."
+   }
+  ]
+ }
+}

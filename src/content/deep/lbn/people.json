@@ -1,0 +1,34 @@
+{
+ "status": "draft",
+ "intro": "Lebanon is home to around 18 recognised religious communities, and many more Lebanese live abroad than at home.",
+ "chapters": [
+  {
+   "id": "faiths",
+   "title": "Many faiths",
+   "text": [
+    "Sunni and Shia Muslims, Maronite and other Christians, and Druze are the largest groups. No official census has been held since 1932 because of how sensitive the balance is.",
+    "Arabic is the official language, and French and English are widely spoken."
+   ]
+  },
+  {
+   "id": "diaspora",
+   "title": "Lebanese abroad",
+   "text": [
+    "Millions of people of Lebanese descent live in Brazil, the US, Australia, West Africa and elsewhere. Lebanon also hosts many Syrian and Palestinian refugees."
+   ],
+   "related": [
+    "BRA",
+    "USA",
+    "AUS",
+    "SYR",
+    "PSE"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Census",
+   "meaning": "An official count of a population."
+  }
+ ]
+}

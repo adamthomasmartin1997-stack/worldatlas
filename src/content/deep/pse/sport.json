@@ -1,0 +1,110 @@
+{
+ "status": "draft",
+ "intro": "Football is the most popular sport, and the national team plays in Asian competitions.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Palestine joined FIFA in 1998. The men's team reached the Asian Cup for the first time in 2015 and the knockout stage in 2024. Because of travel restrictions, the team often plays home games abroad."
+   ],
+   "related": [
+    "JOR",
+    "QAT"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Palestine has sent athletes to every Summer Olympics since 1996. Running events like the Palestine Marathon in Bethlehem draw international runners."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "FIFA",
+   "meaning": "Football's world governing body."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "West Bank Premier League",
+     "subtitle": "Football",
+     "text": "The top league in the West Bank."
+    },
+    {
+     "title": "Gaza Strip League",
+     "subtitle": "Football",
+     "text": "Gaza's league, halted by war."
+    },
+    {
+     "title": "Palestine Marathon",
+     "subtitle": "Running",
+     "text": "Run in Bethlehem."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Ashraf Nu'man",
+     "subtitle": "Football",
+     "text": "Scorer of famous free kicks."
+    },
+    {
+     "title": "Oday Dabbagh",
+     "subtitle": "Football",
+     "text": "A striker who plays in Europe."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Palestine's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Faisal Al-Husseini Stadium, Al-Ram",
+    "kind": "venue",
+    "lat": 31.84,
+    "lon": 35.23,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Dura Stadium",
+    "kind": "venue",
+    "lat": 31.5,
+    "lon": 35.03,
+    "text": "Near Hebron."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1998",
+    "title": "Joins FIFA",
+    "text": "Palestine becomes a member."
+   },
+   {
+    "year": "2014",
+    "title": "AFC Challenge Cup",
+    "text": "Wins and qualifies for the Asian Cup."
+   },
+   {
+    "year": "2024",
+    "title": "Asian Cup knockouts",
+    "text": "A first-ever knockout round."
+   }
+  ]
+ }
+}

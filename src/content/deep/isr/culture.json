@@ -1,0 +1,156 @@
+{
+ "status": "draft",
+ "intro": "Israeli culture blends Jewish traditions from around the world with Middle Eastern food, music and modern Hebrew art.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Festivals",
+   "text": [
+    "Jewish holidays like Passover, Yom Kippur and Hanukkah shape the calendar. Christians celebrate in Nazareth and Bethlehem, and Muslims in Jerusalem and Arab towns."
+   ]
+  },
+  {
+   "id": "arts",
+   "title": "Arts and food",
+   "text": [
+    "Hebrew writers like Amos Oz and David Grossman are read worldwide, and Israeli TV series like Fauda have been remade abroad. Falafel, hummus, shakshuka and sabich are everyday foods shared with the wider region."
+   ],
+   "related": [
+    "LBN",
+    "PSE"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Hanukkah",
+   "meaning": "The eight-day Jewish festival of lights."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Waltz with Bashir",
+     "subtitle": "2008 · Ari Folman",
+     "text": "An animated war memoir; Oscar-nominated."
+    },
+    {
+     "title": "The Band's Visit",
+     "subtitle": "2007 · Eran Kolirin",
+     "text": "An Egyptian band lost in a small Israeli town."
+    },
+    {
+     "title": "Footnote",
+     "subtitle": "2011 · Joseph Cedar",
+     "text": "Rivalry between a father and son."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "A Tale of Love and Darkness",
+     "subtitle": "2002 · Amos Oz",
+     "text": "A memoir of growing up in Jerusalem."
+    },
+    {
+     "title": "To the End of the Land",
+     "subtitle": "2008 · David Grossman",
+     "text": "A mother's walk across the country."
+    },
+    {
+     "title": "Sapiens",
+     "subtitle": "2011 · Yuval Noah Harari",
+     "text": "A global bestseller on human history."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Hava Nagila",
+     "subtitle": "Folk song",
+     "text": "Sung at celebrations worldwide."
+    },
+    {
+     "title": "Jerusalem of Gold",
+     "subtitle": "Naomi Shemer, 1967",
+     "text": "A famous song about the city."
+    },
+    {
+     "title": "Toy",
+     "subtitle": "Netta, 2018",
+     "text": "Won Eurovision."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Falafel",
+     "subtitle": "Everywhere",
+     "text": "Fried chickpea balls in pitta."
+    },
+    {
+     "title": "Hummus",
+     "subtitle": "Everywhere",
+     "text": "Chickpea dip with tahini."
+    },
+    {
+     "title": "Shakshuka",
+     "subtitle": "Breakfast",
+     "text": "Eggs poached in tomato sauce."
+    },
+    {
+     "title": "Sabich",
+     "subtitle": "Everywhere",
+     "text": "Pitta with aubergine and egg."
+    },
+    {
+     "title": "Challah",
+     "subtitle": "Shabbat",
+     "text": "Braided bread."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Passover",
+    "text": "Remembering the Exodus from Egypt."
+   },
+   {
+    "month": 5,
+    "name": "Independence Day",
+    "text": "Yom Ha'atzmaut, in spring."
+   },
+   {
+    "month": 9,
+    "name": "Rosh Hashanah",
+    "text": "The Jewish New Year."
+   },
+   {
+    "month": 10,
+    "name": "Yom Kippur",
+    "text": "The day of atonement, roads empty."
+   },
+   {
+    "month": 12,
+    "name": "Hanukkah",
+    "text": "Eight nights of candles."
+   }
+  ]
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "status": "draft",
+ "intro": "Jordan is a young kingdom in a very old land, home to the rose-red city of Petra and a crossroads of empires and trade routes.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Ancient peoples",
+   "text": [
+    "Ain Ghazal, near Amman, has some of the oldest large statues ever made, about 9,000 years old. Ancient kingdoms such as Edom, Moab and Ammon appear in the Bible.",
+    "The Nabataeans, Arab traders who controlled incense routes, carved Petra out of pink sandstone cliffs over 2,000 years ago. Rome took over in AD 106 and built cities like Jerash."
+   ],
+   "highlight": {
+    "title": "Petra",
+    "text": "Petra's Treasury, carved into a cliff face, is one of the New Seven Wonders of the World."
+   },
+   "related": [
+    "ITA",
+    "SAU",
+    "ISR"
+   ]
+  },
+  {
+   "id": "islamic",
+   "title": "Islamic and Ottoman eras",
+   "text": [
+    "Muslim armies arrived in the 630s, and the Umayyad caliphs built desert castles in the east. The Crusaders built castles at Karak and Shobak. The Ottomans ruled from 1516 to 1918."
+   ],
+   "related": [
+    "TUR",
+    "SYR"
+   ]
+  },
+  {
+   "id": "kingdom",
+   "title": "The Hashemite kingdom",
+   "text": [
+    "After the Arab Revolt against the Ottomans in 1916, Britain created the Emirate of Transjordan in 1921 under Emir Abdullah of the Hashemite family. It became independent in 1946.",
+    "Jordan controlled the West Bank from 1948 to 1967 and took in large numbers of Palestinian refugees. King Hussein ruled from 1952 to 1999 and made peace with Israel in 1994. King Abdullah II has ruled since 1999.",
+    "Jordan has also welcomed many refugees from Iraq and Syria."
+   ],
+   "related": [
+    "GBR",
+    "PSE",
+    "ISR",
+    "IRQ",
+    "SYR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 7000 BC",
+   "title": "Ain Ghazal",
+   "text": "Early statues are made."
+  },
+  {
+   "year": "c. 300 BC",
+   "title": "Petra",
+   "text": "The Nabataean capital grows."
+  },
+  {
+   "year": "AD 106",
+   "title": "Roman rule",
+   "text": "Rome annexes the region."
+  },
+  {
+   "year": "1516",
+   "title": "Ottoman rule",
+   "text": "Lasts four centuries."
+  },
+  {
+   "year": "1916",
+   "title": "Arab Revolt",
+   "text": "Rising against the Ottomans."
+  },
+  {
+   "year": "1921",
+   "title": "Transjordan",
+   "text": "An emirate under Abdullah."
+  },
+  {
+   "year": "1946",
+   "title": "Independence",
+   "text": "The kingdom is born."
+  },
+  {
+   "year": "1994",
+   "title": "Peace with Israel",
+   "text": "A treaty is signed."
+  },
+  {
+   "year": "1999",
+   "title": "Abdullah II",
+   "text": "Becomes king."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Nabataeans",
+   "meaning": "Ancient Arab traders who built Petra."
+  },
+  {
+   "term": "Hashemite",
+   "meaning": "Jordan's royal family, descended from the Prophet Muhammad's family."
+  }
+ ]
+}

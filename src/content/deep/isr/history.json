@@ -1,0 +1,130 @@
+{
+ "status": "draft",
+ "intro": "Israel lies in a land holy to Jews, Christians and Muslims. The modern state was founded in 1948, and its conflict with Palestinians and neighbours has shaped the region ever since.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "An ancient land",
+   "text": [
+    "Around 1000 BC, according to the Hebrew Bible, King David made Jerusalem the capital of a kingdom of Israel, and his son Solomon built the First Temple. The Babylonians destroyed it in 586 BC; the Second Temple was later rebuilt and expanded by King Herod.",
+    "After Jewish revolts against Rome, the Romans destroyed the Second Temple in AD 70, and many Jews were scattered around the world, a dispersal called the diaspora. Jesus lived and died in this land, making it central to Christianity too."
+   ],
+   "related": [
+    "IRQ",
+    "EGY",
+    "ITA"
+   ]
+  },
+  {
+   "id": "empires",
+   "title": "Empires and holy places",
+   "text": [
+    "The land was ruled by the Byzantines, then from the 600s by Muslim caliphs, who built the Dome of the Rock in Jerusalem. Crusaders from Europe held it for parts of the 1100s and 1200s, followed by the Mamluks and, from 1517, the Ottoman Empire.",
+    "For centuries most of the population was Arab, with Jewish, Christian and other communities."
+   ],
+   "related": [
+    "TUR",
+    "EGY",
+    "SYR"
+   ]
+  },
+  {
+   "id": "zionism",
+   "title": "Zionism and the British Mandate",
+   "text": [
+    "In the late 1800s, facing persecution in Europe, a movement called Zionism called for a Jewish homeland. Britain took control of Palestine after World War One and in the 1917 Balfour Declaration supported a 'national home for the Jewish people'. Jewish immigration grew, and so did conflict with Arab Palestinians.",
+    "The Holocaust, in which Nazi Germany murdered six million Jews, increased support for a Jewish state. In 1947 the UN proposed dividing Palestine into Jewish and Arab states."
+   ],
+   "related": [
+    "GBR",
+    "DEU",
+    "POL"
+   ]
+  },
+  {
+   "id": "state",
+   "title": "The State of Israel",
+   "text": [
+    "Israel declared independence on 14 May 1948. Neighbouring Arab states attacked, and in the war that followed around 700,000 Palestinians fled or were expelled, an event Palestinians call the Nakba ('catastrophe'). In 1967 Israel captured the West Bank, Gaza, East Jerusalem, the Golan Heights and Sinai.",
+    "Israel made peace with Egypt in 1979 and Jordan in 1994, and the Oslo Accords of the 1990s created a Palestinian Authority, but a final peace was never agreed. On 7 October 2023 Hamas attacked southern Israel, killing about 1,200 people and taking around 250 hostages. Israel's war in Gaza that followed killed tens of thousands of Palestinians and caused a humanitarian crisis. A ceasefire began in October 2025."
+   ],
+   "highlight": {
+    "title": "Two stories",
+    "text": "The same events are remembered very differently by Israelis and Palestinians; both experiences are part of this history."
+   },
+   "related": [
+    "PSE",
+    "EGY",
+    "JOR",
+    "SYR",
+    "LBN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1000 BC",
+   "title": "King David",
+   "text": "Jerusalem becomes a capital."
+  },
+  {
+   "year": "586 BC",
+   "title": "First Temple destroyed",
+   "text": "By Babylon."
+  },
+  {
+   "year": "AD 70",
+   "title": "Second Temple destroyed",
+   "text": "By Rome."
+  },
+  {
+   "year": "691",
+   "title": "Dome of the Rock",
+   "text": "Built in Jerusalem."
+  },
+  {
+   "year": "1917",
+   "title": "Balfour Declaration",
+   "text": "Britain backs a Jewish national home."
+  },
+  {
+   "year": "1948",
+   "title": "Independence",
+   "text": "And the first Arab–Israeli war."
+  },
+  {
+   "year": "1967",
+   "title": "Six-Day War",
+   "text": "Israel takes new territories."
+  },
+  {
+   "year": "1979",
+   "title": "Peace with Egypt",
+   "text": "The first peace treaty with an Arab state."
+  },
+  {
+   "year": "1993",
+   "title": "Oslo Accords",
+   "text": "A peace process begins."
+  },
+  {
+   "year": "2023",
+   "title": "7 October",
+   "text": "Hamas attack and war in Gaza."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Zionism",
+   "meaning": "The movement for a Jewish homeland in the Land of Israel."
+  },
+  {
+   "term": "Diaspora",
+   "meaning": "A people scattered away from their homeland."
+  },
+  {
+   "term": "Nakba",
+   "meaning": "Arabic for 'catastrophe': the Palestinians' loss of homes in 1948."
+  }
+ ]
+}

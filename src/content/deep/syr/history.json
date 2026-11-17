@@ -1,0 +1,109 @@
+{
+ "status": "draft",
+ "intro": "Syria is home to some of the oldest cities on Earth, like Damascus and Aleppo. In modern times it lived through decades of dictatorship and a devastating civil war, before the fall of the Assad family in 2024.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Ancient cities",
+   "text": [
+    "Farming began in this region over 10,000 years ago. Ebla and Ugarit were great Bronze Age cities; Ugarit's scribes wrote one of the earliest alphabets. Damascus and Aleppo both claim to be among the oldest continuously inhabited cities in the world.",
+    "Assyrians, Persians, Greeks and Romans ruled in turn. Palmyra, a desert trading city, rebelled against Rome under Queen Zenobia in the 270s."
+   ],
+   "related": [
+    "IRQ",
+    "LBN",
+    "ITA"
+   ]
+  },
+  {
+   "id": "islamic",
+   "title": "Damascus, capital of an empire",
+   "text": [
+    "Arab Muslim armies took Damascus in 634. From 661 it was the capital of the Umayyad Caliphate, which stretched from Spain to Central Asia, and its Great Mosque is one of the oldest in the world.",
+    "Crusaders, Saladin, the Mamluks and, from 1516, the Ottomans followed. Aleppo grew rich on the Silk Road."
+   ],
+   "related": [
+    "ESP",
+    "TUR",
+    "EGY"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "France, independence and the Assads",
+   "text": [
+    "France ruled Syria after World War One and it became independent in 1946. After many coups, Hafez al-Assad seized power in 1970 and ruled with a strong security state. His son Bashar took over in 2000.",
+    "In 2011 peaceful protests were met with force and turned into a civil war involving many armed groups and foreign powers. More than half the population was forced from their homes, and hundreds of thousands were killed. Rebel forces captured Damascus in December 2024, and Bashar al-Assad fled to Russia."
+   ],
+   "highlight": {
+    "title": "Refugees",
+    "text": "Syrians became one of the largest refugee populations in the world, especially in Turkey, Lebanon, Jordan and Germany."
+   },
+   "related": [
+    "FRA",
+    "RUS",
+    "TUR",
+    "IRN",
+    "LBN",
+    "JOR",
+    "DEU"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 2400 BC",
+   "title": "Ebla",
+   "text": "A great Bronze Age city."
+  },
+  {
+   "year": "272",
+   "title": "Zenobia",
+   "text": "Palmyra's queen is defeated by Rome."
+  },
+  {
+   "year": "661",
+   "title": "Umayyads",
+   "text": "Damascus rules a vast empire."
+  },
+  {
+   "year": "1516",
+   "title": "Ottoman rule",
+   "text": "Until 1918."
+  },
+  {
+   "year": "1946",
+   "title": "Independence",
+   "text": "French troops leave."
+  },
+  {
+   "year": "1970",
+   "title": "Hafez al-Assad",
+   "text": "Takes power."
+  },
+  {
+   "year": "2011",
+   "title": "Uprising",
+   "text": "Protests turn into civil war."
+  },
+  {
+   "year": "2024",
+   "title": "Fall of Assad",
+   "text": "Rebels take Damascus."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Caliphate",
+   "meaning": "A state led by a caliph, a successor of the Prophet."
+  },
+  {
+   "term": "Civil war",
+   "meaning": "A war between groups within the same country."
+  },
+  {
+   "term": "Refugee",
+   "meaning": "Someone forced to flee their country."
+  }
+ ]
+}

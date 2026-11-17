@@ -1,0 +1,37 @@
+{
+ "status": "draft",
+ "intro": "Israel has about 10 million people. Around three-quarters are Jewish and about a fifth are Arab citizens.",
+ "chapters": [
+  {
+   "id": "groups",
+   "title": "Peoples",
+   "text": [
+    "Jewish Israelis have roots in Europe, the Middle East, North Africa, Ethiopia and the former Soviet Union. Arab citizens are mostly Muslim, with Christian and Druze communities. Hebrew is the main language, and Arabic has a special status.",
+    "Hebrew was revived as a spoken everyday language in the 1800s and 1900s after centuries used mainly for prayer and study."
+   ],
+   "related": [
+    "RUS",
+    "ETH",
+    "MAR",
+    "USA"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Daily life",
+   "text": [
+    "Most Jewish Israelis do military service at 18. The weekly Shabbat, from Friday evening to Saturday evening, slows the country down. Communities range from very religious to secular."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Shabbat",
+   "meaning": "The Jewish day of rest."
+  },
+  {
+   "term": "Druze",
+   "meaning": "A religious community found in Israel, Lebanon and Syria."
+  }
+ ]
+}

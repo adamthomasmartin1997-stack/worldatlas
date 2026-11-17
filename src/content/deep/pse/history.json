@@ -1,0 +1,125 @@
+{
+ "status": "draft",
+ "intro": "Palestine refers here to the West Bank, including East Jerusalem, and the Gaza Strip. Palestinians have lived in the land for centuries and have long sought a state of their own.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "An ancient crossroads",
+   "text": [
+    "Jericho, in the West Bank, is one of the oldest continuously inhabited towns in the world, settled over 10,000 years ago. Canaanites, Israelites, Philistines (whose name gave us 'Palestine'), Persians, Greeks and Romans all lived in or ruled the land.",
+    "Bethlehem is the birthplace of Jesus in Christian tradition, and Jerusalem's Al-Aqsa Mosque is one of Islam's holiest sites."
+   ],
+   "related": [
+    "ISR",
+    "JOR",
+    "EGY"
+   ]
+  },
+  {
+   "id": "ottoman",
+   "title": "Arab and Ottoman centuries",
+   "text": [
+    "After the Muslim conquest in the 600s, Arabic became the main language and most people became Muslim, while Christian and Jewish communities remained. The Ottoman Empire ruled from 1517 until World War One.",
+    "Palestinian towns like Nablus, Hebron and Jaffa were known for olive oil, soap, glass and oranges."
+   ],
+   "related": [
+    "TUR",
+    "SYR"
+   ]
+  },
+  {
+   "id": "mandate",
+   "title": "The Mandate and 1948",
+   "text": [
+    "Britain ruled Palestine from 1920. Its promise of a Jewish national home and growing Jewish immigration led to Arab revolts in the 1930s. In 1947 the UN proposed splitting the land into two states.",
+    "In the 1948 war around 700,000 Palestinians fled or were driven from their homes and were not allowed to return. Palestinians call this the Nakba. Jordan then controlled the West Bank and Egypt controlled Gaza."
+   ],
+   "highlight": {
+    "title": "Refugees",
+    "text": "Millions of Palestinians today are descendants of the 1948 refugees, living in camps and cities across the region."
+   },
+   "related": [
+    "GBR",
+    "ISR",
+    "JOR",
+    "EGY",
+    "LBN",
+    "SYR"
+   ]
+  },
+  {
+   "id": "occupation",
+   "title": "Occupation and the search for a state",
+   "text": [
+    "Israel occupied the West Bank, East Jerusalem and Gaza in 1967. The Palestine Liberation Organization (PLO), led by Yasser Arafat, campaigned for a Palestinian state. Uprisings called intifadas broke out in 1987 and 2000.",
+    "The Oslo Accords of 1993 created the Palestinian Authority to govern parts of the West Bank and Gaza, but peace talks failed. Hamas took control of Gaza in 2007. After Hamas's attack on Israel on 7 October 2023, Israel's war in Gaza killed tens of thousands of Palestinians and destroyed most of its buildings. A ceasefire began in October 2025."
+   ],
+   "related": [
+    "ISR",
+    "EGY",
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 9000 BC",
+   "title": "Jericho",
+   "text": "One of the world's first towns."
+  },
+  {
+   "year": "1517",
+   "title": "Ottoman rule",
+   "text": "Lasts four centuries."
+  },
+  {
+   "year": "1920",
+   "title": "British Mandate",
+   "text": "Britain rules Palestine."
+  },
+  {
+   "year": "1948",
+   "title": "Nakba",
+   "text": "Hundreds of thousands become refugees."
+  },
+  {
+   "year": "1967",
+   "title": "Occupation",
+   "text": "Israel takes the West Bank and Gaza."
+  },
+  {
+   "year": "1987",
+   "title": "First Intifada",
+   "text": "A mass uprising."
+  },
+  {
+   "year": "1993",
+   "title": "Oslo Accords",
+   "text": "The Palestinian Authority is created."
+  },
+  {
+   "year": "2012",
+   "title": "UN observer state",
+   "text": "Palestine's status is upgraded."
+  },
+  {
+   "year": "2023",
+   "title": "War in Gaza",
+   "text": "After the 7 October attack."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Nakba",
+   "meaning": "The 1948 displacement of Palestinians."
+  },
+  {
+   "term": "Intifada",
+   "meaning": "Arabic for 'uprising'."
+  },
+  {
+   "term": "Occupation",
+   "meaning": "When a country's army controls land outside its recognised borders."
+  }
+ ]
+}

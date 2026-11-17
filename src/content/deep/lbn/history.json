@@ -1,0 +1,105 @@
+{
+ "status": "draft",
+ "intro": "Lebanon is a small country with a huge history: home of the Phoenicians, who spread the alphabet, and later a meeting point of many religious communities.",
+ "chapters": [
+  {
+   "id": "phoenicia",
+   "title": "The Phoenicians",
+   "text": [
+    "From about 1200 BC, the Phoenician cities of Byblos, Tyre and Sidon traded across the Mediterranean, founding colonies such as Carthage. They made purple dye from sea snails and built ships from cedar wood.",
+    "Their alphabet of 22 letters was adopted by the Greeks and became the ancestor of the Latin letters used to write this page."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Most of the world's alphabets descend from the Phoenician one."
+   },
+   "related": [
+    "TUN",
+    "GRC",
+    "CYP"
+   ]
+  },
+  {
+   "id": "empires",
+   "title": "Empires and mountains",
+   "text": [
+    "Assyrians, Persians, Alexander the Great and the Romans ruled the coast; the Romans built the huge temples of Baalbek. Arab Muslim rule began in the 600s. The mountains became a refuge for minorities such as Maronite Christians and Druze.",
+    "The Ottoman Empire ruled from 1516 to 1918."
+   ],
+   "related": [
+    "SYR",
+    "TUR",
+    "ITA"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and war",
+   "text": [
+    "France ruled Lebanon after World War One and drew its borders in 1920. It became independent in 1943, with an agreement that shared power among religious groups. Beirut became a banking and cultural centre, the 'Paris of the Middle East'.",
+    "A civil war from 1975 to 1990 killed around 150,000 people, and Israel and Syria both occupied parts of the country. Since then Lebanon has faced assassinations, a 2006 war between Israel and Hezbollah, a financial collapse from 2019, and the huge Beirut port explosion of 2020. Fighting between Israel and Hezbollah escalated again in 2024."
+   ],
+   "related": [
+    "FRA",
+    "SYR",
+    "ISR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1200 BC",
+   "title": "Phoenician cities",
+   "text": "Trade across the Mediterranean."
+  },
+  {
+   "year": "64 BC",
+   "title": "Roman rule",
+   "text": "Baalbek's temples are built."
+  },
+  {
+   "year": "1516",
+   "title": "Ottoman rule",
+   "text": "Until 1918."
+  },
+  {
+   "year": "1920",
+   "title": "Greater Lebanon",
+   "text": "Borders drawn under France."
+  },
+  {
+   "year": "1943",
+   "title": "Independence",
+   "text": "The National Pact shares power."
+  },
+  {
+   "year": "1975",
+   "title": "Civil war",
+   "text": "Lasts until 1990."
+  },
+  {
+   "year": "2006",
+   "title": "War",
+   "text": "Israel and Hezbollah fight."
+  },
+  {
+   "year": "2020",
+   "title": "Beirut explosion",
+   "text": "The port is destroyed."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Phoenicians",
+   "meaning": "Ancient seafaring traders from the Lebanese coast."
+  },
+  {
+   "term": "Confessionalism",
+   "meaning": "A system that shares power between religious groups."
+  },
+  {
+   "term": "Hezbollah",
+   "meaning": "A Shia political party and armed group."
+  }
+ ]
+}

@@ -1,0 +1,106 @@
+{
+ "status": "draft",
+ "intro": "Jordan is mostly desert, with the Jordan Valley and Dead Sea in the west and a short coast on the Red Sea at Aqaba.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Valley, highlands, desert",
+   "text": [
+    "The Jordan Rift Valley runs down the western border to the Dead Sea, the lowest point on land. East of it rise highlands where most people live. The rest, about three-quarters of the country, is desert.",
+    "Wadi Rum in the south is a desert of red sand and towering rock mountains."
+   ],
+   "related": [
+    "ISR",
+    "PSE",
+    "SAU"
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Water",
+   "text": [
+    "Jordan is one of the most water-scarce countries in the world, and the Dead Sea is shrinking by about a metre a year."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Rift valley",
+   "meaning": "A long valley formed where the Earth's crust pulls apart."
+  },
+  {
+   "term": "Wadi",
+   "meaning": "A dry valley that fills with water after rain."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Jordan's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Umm Qais",
+    "kind": "hilltop ruins",
+    "lat": 32.65,
+    "lon": 35.68,
+    "text": "Views over the Sea of Galilee."
+   },
+   {
+    "name": "Jerash",
+    "kind": "Roman city",
+    "lat": 32.28,
+    "lon": 35.89,
+    "text": "Colonnaded streets and theatres."
+   },
+   {
+    "name": "Amman",
+    "kind": "capital",
+    "lat": 31.95,
+    "lon": 35.93,
+    "text": "A city built on hills."
+   },
+   {
+    "name": "Azraq",
+    "kind": "desert oasis",
+    "lat": 31.83,
+    "lon": 36.82,
+    "text": "Wetlands and a black basalt castle."
+   },
+   {
+    "name": "Dead Sea",
+    "kind": "salt lake",
+    "lat": 31.55,
+    "lon": 35.57,
+    "text": "Float in water ten times saltier than the ocean."
+   },
+   {
+    "name": "Wadi Mujib",
+    "kind": "canyon",
+    "lat": 31.45,
+    "lon": 35.6,
+    "text": "Hike through a river gorge."
+   },
+   {
+    "name": "Petra",
+    "kind": "rock city",
+    "lat": 30.33,
+    "lon": 35.44,
+    "text": "The rose-red city carved in stone."
+   },
+   {
+    "name": "Wadi Rum",
+    "kind": "desert",
+    "lat": 29.58,
+    "lon": 35.42,
+    "text": "Red sand and towering rocks."
+   },
+   {
+    "name": "Aqaba",
+    "kind": "Red Sea coast",
+    "lat": 29.53,
+    "lon": 35.0,
+    "text": "Coral reefs and Jordan's only port."
+   }
+  ]
+ }
+}

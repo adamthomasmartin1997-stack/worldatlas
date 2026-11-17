@@ -1,0 +1,119 @@
+{
+ "status": "draft",
+ "intro": "Football is Jordan's biggest sport, and the national team has risen fast in Asia.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Jordan reached the final of the 2023 Asian Cup, played in early 2024, and qualified for its first World Cup in 2026. Al-Faisaly and Al-Wehdat are the big rival clubs."
+   ],
+   "related": [
+    "QAT"
+   ]
+  },
+  {
+   "id": "taekwondo",
+   "title": "Taekwondo",
+   "text": [
+    "Ahmad Abughaush won Jordan's first Olympic gold in taekwondo in 2016."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Taekwondo",
+   "meaning": "A Korean martial art with high kicks."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Jordanian Pro League",
+     "subtitle": "Football",
+     "text": "Al-Faisaly have won the most titles."
+    },
+    {
+     "title": "Basketball",
+     "subtitle": "Premier League",
+     "text": "Jordan played at the Basketball World Cup."
+    },
+    {
+     "title": "Dead Sea Ultra",
+     "subtitle": "Running",
+     "text": "A race to the lowest point on Earth."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Ahmad Abughaush",
+     "subtitle": "Taekwondo",
+     "text": "First Olympic gold, 2016."
+    },
+    {
+     "title": "Musa Al-Taamari",
+     "subtitle": "Football",
+     "text": "A winger in France's top league."
+    },
+    {
+     "title": "Yazan Al-Naimat",
+     "subtitle": "Football",
+     "text": "A star of the 2023 Asian Cup."
+    },
+    {
+     "title": "Saleh Elsharabaty",
+     "subtitle": "Taekwondo",
+     "text": "Olympic silver in 2021."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Jordan's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Amman International Stadium",
+    "kind": "venue",
+    "lat": 31.985,
+    "lon": 35.9,
+    "text": "The national stadium."
+   },
+   {
+    "name": "King Abdullah II Stadium",
+    "kind": "venue",
+    "lat": 31.98,
+    "lon": 35.95,
+    "text": "A football ground in Amman."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2016",
+    "title": "Olympic gold",
+    "text": "Abughaush in Rio."
+   },
+   {
+    "year": "2024",
+    "title": "Asian Cup final",
+    "text": "Jordan reach their first final."
+   },
+   {
+    "year": "2025",
+    "title": "World Cup qualification",
+    "text": "Jordan book a place at their first World Cup."
+   }
+  ]
+ }
+}

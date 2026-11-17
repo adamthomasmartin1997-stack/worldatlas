@@ -1,0 +1,108 @@
+{
+ "status": "draft",
+ "intro": "Israel is small but varied, with a Mediterranean coast, green hills in the north and the Negev desert covering more than half of the land.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "From snow to desert",
+   "text": [
+    "The coastal plain holds most of the people and cities like Tel Aviv and Haifa. In the north are the hills of Galilee and the Sea of Galilee, a freshwater lake. The south is the Negev desert, reaching down to Eilat on the Red Sea.",
+    "The Jordan River runs south into the Dead Sea, the lowest point on land on Earth, about 430 m below sea level."
+   ],
+   "related": [
+    "JOR",
+    "EGY",
+    "LBN",
+    "SYR",
+    "PSE"
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Water",
+   "text": [
+    "Water is scarce, so Israel became a leader in drip irrigation and desalination, turning seawater into drinking water. Much of its tap water now comes from the sea."
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Summers are long, hot and dry; winters are mild with most of the rain. Snow sometimes falls in Jerusalem."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Desalination",
+   "meaning": "Removing salt from seawater to make fresh water."
+  },
+  {
+   "term": "Drip irrigation",
+   "meaning": "Watering plants a drop at a time at their roots."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Israel's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Hula Valley",
+    "kind": "wetland",
+    "lat": 33.1,
+    "lon": 35.61,
+    "text": "Millions of migrating birds stop here each year."
+   },
+   {
+    "name": "Sea of Galilee",
+    "kind": "freshwater lake",
+    "lat": 32.83,
+    "lon": 35.59,
+    "text": "The lowest freshwater lake on Earth."
+   },
+   {
+    "name": "Haifa and Mount Carmel",
+    "kind": "coastal hills",
+    "lat": 32.8,
+    "lon": 35.0,
+    "text": "A port city with terraced gardens."
+   },
+   {
+    "name": "Tel Aviv",
+    "kind": "coastal city",
+    "lat": 32.08,
+    "lon": 34.78,
+    "text": "Beaches and white Bauhaus buildings."
+   },
+   {
+    "name": "Ein Gedi and the Dead Sea",
+    "kind": "oasis and salt lake",
+    "lat": 31.46,
+    "lon": 35.39,
+    "text": "A desert oasis beside the lowest land on Earth."
+   },
+   {
+    "name": "Masada",
+    "kind": "desert fortress",
+    "lat": 31.32,
+    "lon": 35.35,
+    "text": "Herod's palace fortress above the Dead Sea."
+   },
+   {
+    "name": "Ramon Crater",
+    "kind": "erosion crater",
+    "lat": 30.6,
+    "lon": 34.8,
+    "text": "A giant crater in the Negev."
+   },
+   {
+    "name": "Eilat",
+    "kind": "Red Sea coast",
+    "lat": 29.55,
+    "lon": 34.95,
+    "text": "Coral reefs at the southern tip."
+   }
+  ]
+ }
+}

@@ -1,0 +1,109 @@
+{
+ "status": "draft",
+ "intro": "The Palestinian territories are two separate areas: the hilly West Bank beside the Jordan River, and the small, flat, crowded Gaza Strip on the Mediterranean.",
+ "chapters": [
+  {
+   "id": "westbank",
+   "title": "The West Bank",
+   "text": [
+    "The West Bank is mostly hills covered in olive groves and terraces, falling steeply to the Jordan Valley and the Dead Sea in the east. Jericho, near the Dead Sea, lies about 250 m below sea level.",
+    "Israeli settlements, roads and checkpoints divide the land, and the Israeli-built separation barrier runs through and around it."
+   ],
+   "related": [
+    "ISR",
+    "JOR"
+   ]
+  },
+  {
+   "id": "gaza",
+   "title": "The Gaza Strip",
+   "text": [
+    "Gaza is about 41 km long and up to 12 km wide, with over two million people, one of the most densely populated places on Earth. It borders Israel and Egypt."
+   ],
+   "related": [
+    "EGY",
+    "ISR"
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Water and climate",
+   "text": [
+    "Summers are hot and dry. Water is scarce, and much of Gaza's groundwater is too salty to drink."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Settlement",
+   "meaning": "An Israeli community built in occupied territory."
+  },
+  {
+   "term": "Separation barrier",
+   "meaning": "A wall and fence built by Israel in and around the West Bank."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Palestine's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Nablus",
+    "kind": "valley city",
+    "lat": 32.22,
+    "lon": 35.26,
+    "text": "An old city between two mountains."
+   },
+   {
+    "name": "Wadi Qelt",
+    "kind": "desert canyon",
+    "lat": 31.84,
+    "lon": 35.4,
+    "text": "A monastery clinging to a cliff."
+   },
+   {
+    "name": "Jericho",
+    "kind": "oasis",
+    "lat": 31.86,
+    "lon": 35.46,
+    "text": "An ancient oasis below sea level."
+   },
+   {
+    "name": "Ramallah",
+    "kind": "hill city",
+    "lat": 31.9,
+    "lon": 35.2,
+    "text": "The administrative centre."
+   },
+   {
+    "name": "Bethlehem",
+    "kind": "hill town",
+    "lat": 31.7,
+    "lon": 35.2,
+    "text": "The Church of the Nativity."
+   },
+   {
+    "name": "Battir",
+    "kind": "terraces",
+    "lat": 31.73,
+    "lon": 35.14,
+    "text": "Ancient farming terraces; World Heritage."
+   },
+   {
+    "name": "Hebron",
+    "kind": "old city",
+    "lat": 31.53,
+    "lon": 35.1,
+    "text": "Famous for glass and pottery."
+   },
+   {
+    "name": "Gaza City",
+    "kind": "coast",
+    "lat": 31.5,
+    "lon": 34.46,
+    "text": "Gaza's largest city, by the sea."
+   }
+  ]
+ }
+}
