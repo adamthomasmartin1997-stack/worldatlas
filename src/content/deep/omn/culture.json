@@ -1,0 +1,116 @@
+{
+ "status": "draft",
+ "intro": "Omani culture is known for its forts, frankincense, silver daggers and hospitality.",
+ "chapters": [
+  {
+   "id": "heritage",
+   "title": "Heritage",
+   "text": [
+    "Oman has hundreds of forts and castles, such as Nizwa and Bahla. The khanjar, a curved dagger, appears on the national emblem. Ancient aflaj irrigation channels still water farms."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Shuwa, lamb slow-cooked in an underground pit, is made for Eid. Omani halwa and kahwa coffee are offered to guests."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Khanjar",
+   "meaning": "A curved Omani dagger."
+  },
+  {
+   "term": "Aflaj",
+   "meaning": "Ancient water channels."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Al Boom",
+     "subtitle": "2006 · Khalid Al Zadjali",
+     "text": "Oman's first feature film."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Celestial Bodies",
+     "subtitle": "2010 · Jokha Alharthi",
+     "text": "Won the International Booker Prize in 2019."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Razha",
+     "subtitle": "Traditional",
+     "text": "A sword dance with poetry."
+    },
+    {
+     "title": "Royal Opera House Muscat",
+     "subtitle": "Since 2011",
+     "text": "The Gulf's first opera house."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Shuwa",
+     "subtitle": "Eid",
+     "text": "Lamb cooked underground."
+    },
+    {
+     "title": "Omani halwa",
+     "subtitle": "Everywhere",
+     "text": "A sticky sweet with rosewater."
+    },
+    {
+     "title": "Kahwa",
+     "subtitle": "Everywhere",
+     "text": "Coffee with cardamom and dates."
+    },
+    {
+     "title": "Mashuai",
+     "subtitle": "Coast",
+     "text": "Grilled kingfish with rice."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Muscat Nights",
+    "text": "A winter festival."
+   },
+   {
+    "month": 7,
+    "name": "Khareef season",
+    "text": "Salalah turns green."
+   },
+   {
+    "month": 11,
+    "name": "National Day",
+    "text": "Celebrated in November with fireworks."
+   }
+  ]
+ }
+}

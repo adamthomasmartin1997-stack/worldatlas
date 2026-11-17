@@ -1,0 +1,56 @@
+{
+ "status": "draft",
+ "intro": "Oil provides almost all of Kuwait's export earnings and government income.",
+ "chapters": [
+  {
+   "id": "oil",
+   "title": "Oil wealth",
+   "text": [
+    "Kuwait has some of the world's largest oil reserves. In 1953 it created the first sovereign wealth fund, which invests for future generations."
+   ],
+   "related": [
+    "CHN",
+    "IND",
+    "JPN",
+    "KOR"
+   ]
+  },
+  {
+   "id": "jobs",
+   "title": "Jobs",
+   "text": [
+    "Most Kuwaiti citizens work for the government, while foreign workers fill most private-sector jobs."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sovereign wealth fund",
+   "meaning": "A national savings fund that invests abroad."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Kuwait",
+   "items": [
+    {
+     "title": "Crude oil",
+     "subtitle": "Burgan and others",
+     "text": "Almost all exports."
+    },
+    {
+     "title": "Refined fuels",
+     "subtitle": "Al-Zour",
+     "text": "A giant refinery."
+    },
+    {
+     "title": "Petrochemicals",
+     "subtitle": "Shuaiba",
+     "text": "Plastics and chemicals."
+    }
+   ],
+   "intro": "Some of the things Kuwait makes and sells to the world."
+  }
+ ]
+}

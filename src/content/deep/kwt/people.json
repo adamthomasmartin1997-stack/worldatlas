@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "Kuwait has about 5 million people, but only around a third are Kuwaiti citizens.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most residents come from India, Egypt, Bangladesh, the Philippines and elsewhere. Most citizens are Sunni Muslim, with a large Shia minority. Arabic is the official language."
+   ],
+   "related": [
+    "IND",
+    "EGY",
+    "BGD",
+    "PHL"
+   ]
+  },
+  {
+   "id": "bidoon",
+   "title": "Stateless people",
+   "text": [
+    "Tens of thousands of people known as Bidoon have no citizenship, a long-running issue."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bidoon",
+   "meaning": "Stateless residents of Kuwait, from the Arabic for 'without'."
+  }
+ ]
+}

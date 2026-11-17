@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Bahrain is an archipelago of over 30 natural islands and many reclaimed ones, linked to Saudi Arabia by a 25 km causeway.",
+ "chapters": [
+  {
+   "id": "islands",
+   "title": "Islands",
+   "text": [
+    "Bahrain Island is the largest and mostly flat desert. The highest point, Jebel Dukhan, is only 134 m. Large areas of land have been reclaimed from the sea for new towns."
+   ],
+   "related": [
+    "SAU",
+    "QAT"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Summers are very hot and humid; winters are mild. A lone acacia called the Tree of Life survives in the desert."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Causeway",
+   "meaning": "A raised road across water."
+  },
+  {
+   "term": "Reclaimed land",
+   "meaning": "Land made by filling in the sea."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Bahrain's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Manama",
+    "kind": "capital",
+    "lat": 26.22,
+    "lon": 50.58,
+    "text": "Skyscrapers and an old souq."
+   },
+   {
+    "name": "Muharraq",
+    "kind": "old town",
+    "lat": 26.26,
+    "lon": 50.61,
+    "text": "The pearling path."
+   },
+   {
+    "name": "Qal'at al-Bahrain",
+    "kind": "ancient fort",
+    "lat": 26.23,
+    "lon": 50.52,
+    "text": "A Dilmun capital and later a Portuguese fort."
+   },
+   {
+    "name": "A'ali burial mounds",
+    "kind": "burial mounds",
+    "lat": 26.15,
+    "lon": 50.53,
+    "text": "Giant Dilmun tombs."
+   },
+   {
+    "name": "Tree of Life",
+    "kind": "desert tree",
+    "lat": 25.99,
+    "lon": 50.58,
+    "text": "A 400-year-old tree in the desert."
+   },
+   {
+    "name": "Hawar Islands",
+    "kind": "islands",
+    "lat": 25.66,
+    "lon": 50.77,
+    "text": "A bird reserve near Qatar."
+   }
+  ]
+ }
+}

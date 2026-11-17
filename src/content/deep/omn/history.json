@@ -1,0 +1,94 @@
+{
+ "status": "draft",
+ "intro": "Oman is one of the oldest independent states in the Arab world. Its sailors once ruled an empire stretching to East Africa.",
+ "chapters": [
+  {
+   "id": "frankincense",
+   "title": "Frankincense and copper",
+   "text": [
+    "Ancient Oman, called Magan, exported copper to Mesopotamia. In the south, Dhofar grew frankincense, a precious resin burned in temples from Egypt to Rome; the ruins of Sumhuram and Ubar were part of this trade.",
+    "Omanis adopted Islam in the 600s, many following the Ibadi school, which is still the main tradition."
+   ],
+   "related": [
+    "IRQ",
+    "EGY",
+    "ITA"
+   ]
+  },
+  {
+   "id": "empire",
+   "title": "A sea empire",
+   "text": [
+    "Portugal seized Muscat in 1507, but the Omanis drove them out in 1650. Oman then built a maritime empire, ruling Zanzibar, Mombasa and parts of the East African coast, and trading with India.",
+    "In 1832 the sultan even moved his capital to Zanzibar, which became a separate state in 1861."
+   ],
+   "highlight": {
+    "title": "Ocean traders",
+    "text": "Omani dhows sailed the monsoon winds between Arabia, India and Africa for centuries."
+   },
+   "related": [
+    "PRT",
+    "TZA",
+    "KEN",
+    "IND"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Renaissance",
+   "text": [
+    "By the 1960s Oman was isolated and poor, with only a few kilometres of paved road. In 1970 Sultan Qaboos took power from his father and used oil money to build schools, hospitals and roads, a period called the Renaissance. He ruled until his death in 2020 and was succeeded by Sultan Haitham."
+   ],
+   "related": [
+    "GBR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 2500 BC",
+   "title": "Magan",
+   "text": "Copper trade with Mesopotamia."
+  },
+  {
+   "year": "630s",
+   "title": "Islam",
+   "text": "Oman accepts Islam."
+  },
+  {
+   "year": "1507",
+   "title": "Portuguese",
+   "text": "Muscat is captured."
+  },
+  {
+   "year": "1650",
+   "title": "Portuguese expelled",
+   "text": "Oman rises as a sea power."
+  },
+  {
+   "year": "1698",
+   "title": "Zanzibar",
+   "text": "Oman takes the East African coast."
+  },
+  {
+   "year": "1970",
+   "title": "Sultan Qaboos",
+   "text": "The Renaissance begins."
+  },
+  {
+   "year": "2020",
+   "title": "Sultan Haitham",
+   "text": "A new ruler."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Frankincense",
+   "meaning": "A sweet-smelling tree resin."
+  },
+  {
+   "term": "Ibadi",
+   "meaning": "A branch of Islam found mainly in Oman."
+  }
+ ]
+}

@@ -1,0 +1,134 @@
+{
+ "status": "draft",
+ "intro": "The UAE hosts global sporting events, from Formula One to cricket, and loves traditional sports like camel racing.",
+ "chapters": [
+  {
+   "id": "events",
+   "title": "Big events",
+   "text": [
+    "The Abu Dhabi Grand Prix is often the last race of the Formula One season. Dubai hosts the Dubai World Cup horse race, the ICC (cricket's world body) and big tennis and golf events."
+   ],
+   "related": [
+    "GBR",
+    "IND"
+   ]
+  },
+  {
+   "id": "athletes",
+   "title": "Athletes",
+   "text": [
+    "Sheikh Ahmed bin Hasher Al Maktoum won the UAE's first Olympic gold, in shooting, in 2004."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "ICC",
+   "meaning": "The International Cricket Council."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "UAE Pro League",
+     "subtitle": "Football",
+     "text": "Al Ain and Shabab Al Ahli are big clubs."
+    },
+    {
+     "title": "Dubai World Cup",
+     "subtitle": "Horse racing",
+     "text": "One of the richest races."
+    },
+    {
+     "title": "Abu Dhabi Grand Prix",
+     "subtitle": "Formula One",
+     "text": "Since 2009."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Ahmed bin Hasher Al Maktoum",
+     "subtitle": "Shooting",
+     "text": "Olympic gold in 2004."
+    },
+    {
+     "title": "Omar Abdulrahman",
+     "subtitle": "Football",
+     "text": "Asian Footballer of the Year 2016."
+    },
+    {
+     "title": "Ali Mabkhout",
+     "subtitle": "Football",
+     "text": "Record goal-scorer."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where the United Arab Emirates' biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Yas Marina Circuit",
+    "kind": "venue",
+    "lat": 24.47,
+    "lon": 54.6,
+    "text": "Formula One."
+   },
+   {
+    "name": "Zayed Sports City Stadium",
+    "kind": "venue",
+    "lat": 24.42,
+    "lon": 54.45,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Meydan Racecourse",
+    "kind": "venue",
+    "lat": 25.16,
+    "lon": 55.3,
+    "text": "Home of the Dubai World Cup."
+   },
+   {
+    "name": "Dubai International Stadium",
+    "kind": "venue",
+    "lat": 25.05,
+    "lon": 55.22,
+    "text": "Hosts big cricket matches."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1990",
+    "title": "World Cup debut",
+    "text": "The UAE play in Italy."
+   },
+   {
+    "year": "2004",
+    "title": "Olympic gold",
+    "text": "A first medal, in shooting."
+   },
+   {
+    "year": "2009",
+    "title": "First Grand Prix",
+    "text": "At Yas Marina."
+   },
+   {
+    "year": "2024",
+    "title": "Al Ain win Asia",
+    "text": "AFC Champions League title."
+   }
+  ]
+ }
+}

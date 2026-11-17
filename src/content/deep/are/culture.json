@@ -1,0 +1,134 @@
+{
+ "status": "draft",
+ "intro": "Emirati culture keeps Bedouin and seafaring traditions alive alongside an international, modern lifestyle.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Falconry, camel racing, Arabic coffee with dates and the majlis, a sitting room where people meet and talk, are part of daily life. Men often wear the white kandura and women the black abaya."
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Museums and food",
+   "text": [
+    "The Louvre Abu Dhabi and the Museum of the Future are landmarks. Machboos (spiced rice with meat) and luqaimat (sweet dumplings) are traditional foods."
+   ],
+   "related": [
+    "FRA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Majlis",
+   "meaning": "A place for gathering and discussion."
+  },
+  {
+   "term": "Falconry",
+   "meaning": "Hunting with trained falcons."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Sea Shadow",
+     "subtitle": "2011 · Nawaf Al-Janahi",
+     "text": "A coming-of-age story in Ras Al Khaimah."
+    },
+    {
+     "title": "Star Wars: The Force Awakens",
+     "subtitle": "2015",
+     "text": "Desert scenes were filmed at Liwa."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Poems",
+     "subtitle": "20th century · Sheikh Zayed and others",
+     "text": "Nabati poetry is popular."
+    },
+    {
+     "title": "The Sand Fish",
+     "subtitle": "2011 · Maha Gargash",
+     "text": "A young woman in 1950s Ras Al Khaimah."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Al-Ayyala",
+     "subtitle": "Traditional",
+     "text": "A stick-dance performance; UNESCO-listed."
+    },
+    {
+     "title": "Hussain Al Jassmi",
+     "subtitle": "Singer",
+     "text": "One of the Gulf's biggest stars."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Machboos",
+     "subtitle": "Everywhere",
+     "text": "Spiced rice with meat or fish."
+    },
+    {
+     "title": "Luqaimat",
+     "subtitle": "Everywhere",
+     "text": "Sweet dumplings with date syrup."
+    },
+    {
+     "title": "Harees",
+     "subtitle": "Ramadan",
+     "text": "Wheat and meat porridge."
+    },
+    {
+     "title": "Camel milk",
+     "subtitle": "Everywhere",
+     "text": "Even made into chocolate."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Dubai Shopping Festival",
+    "text": "Fireworks and sales."
+   },
+   {
+    "month": 11,
+    "name": "Abu Dhabi Grand Prix",
+    "text": "Formula One at night."
+   },
+   {
+    "month": 12,
+    "name": "National Day",
+    "text": "2 December, 1971."
+   },
+   {
+    "month": 12,
+    "name": "Al Dhafra Festival",
+    "text": "Camel beauty contests."
+   }
+  ]
+ }
+}

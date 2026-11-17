@@ -1,0 +1,85 @@
+{
+ "status": "draft",
+ "intro": "Kuwaiti culture centres on the diwaniya, the sea and Gulf music and theatre.",
+ "chapters": [
+  {
+   "id": "diwaniya",
+   "title": "The diwaniya",
+   "text": [
+    "Men, and increasingly women, gather in diwaniyas, reception rooms where friends meet in the evening to talk about everything from football to politics."
+   ]
+  },
+  {
+   "id": "arts",
+   "title": "Arts and food",
+   "text": [
+    "Kuwaiti TV dramas and plays are popular across the Gulf. Machboos with fish or chicken is the national dish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Diwaniya",
+   "meaning": "A reception room and the gatherings held in it."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Sawt",
+     "subtitle": "Traditional",
+     "text": "A Gulf song style with oud and drums."
+    },
+    {
+     "title": "Nabeel Shuail",
+     "subtitle": "Singer",
+     "text": "A popular Kuwaiti singer."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Machboos",
+     "subtitle": "Everywhere",
+     "text": "Spiced rice with chicken or fish."
+    },
+    {
+     "title": "Mutabbaq samak",
+     "subtitle": "Everywhere",
+     "text": "Fish on rice."
+    },
+    {
+     "title": "Gers ogaily",
+     "subtitle": "Tea time",
+     "text": "Saffron cake."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "National Day",
+    "text": "25 February."
+   },
+   {
+    "month": 2,
+    "name": "Liberation Day",
+    "text": "26 February, 1991."
+   },
+   {
+    "month": 2,
+    "name": "Hala February",
+    "text": "A month of festivals."
+   }
+  ]
+ }
+}

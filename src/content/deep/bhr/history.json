@@ -1,0 +1,94 @@
+{
+ "status": "draft",
+ "intro": "Bahrain is an island kingdom that was once the centre of the ancient Dilmun civilisation and later the first Gulf state to find oil.",
+ "chapters": [
+  {
+   "id": "dilmun",
+   "title": "Dilmun",
+   "text": [
+    "Around 4,000 years ago Bahrain was the heart of Dilmun, a trading power between Mesopotamia and the Indus valley. Mesopotamian stories called it a paradise. Tens of thousands of burial mounds from that time still dot the island.",
+    "Bahrain's fresh-water springs and pearls made it valuable for thousands of years."
+   ],
+   "related": [
+    "IRQ",
+    "PAK",
+    "IND"
+   ]
+  },
+  {
+   "id": "rulers",
+   "title": "Rulers and Britain",
+   "text": [
+    "Persians and Portuguese held Bahrain at times. The Al Khalifa family, who still rule, took control in 1783. Britain signed treaties with Bahrain in the 1800s and protected it."
+   ],
+   "related": [
+    "IRN",
+    "PRT",
+    "GBR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Oil and independence",
+   "text": [
+    "In 1932 Bahrain became the first place on the Arab side of the Gulf to strike oil. It became independent in 1971 and a kingdom in 2002. In 2011 large protests, many led by the Shia majority, were put down with help from Saudi forces."
+   ],
+   "related": [
+    "SAU",
+    "GBR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 2000 BC",
+   "title": "Dilmun",
+   "text": "A great trading centre."
+  },
+  {
+   "year": "1521",
+   "title": "Portuguese",
+   "text": "Portugal takes the islands."
+  },
+  {
+   "year": "1783",
+   "title": "Al Khalifa",
+   "text": "The ruling family takes control."
+  },
+  {
+   "year": "1932",
+   "title": "Oil",
+   "text": "The first oil strike in the Arab Gulf."
+  },
+  {
+   "year": "1971",
+   "title": "Independence",
+   "text": "From British protection."
+  },
+  {
+   "year": "1986",
+   "title": "King Fahd Causeway",
+   "text": "A bridge to Saudi Arabia."
+  },
+  {
+   "year": "2002",
+   "title": "Kingdom",
+   "text": "Bahrain becomes a kingdom."
+  },
+  {
+   "year": "2011",
+   "title": "Protests",
+   "text": "Put down with Gulf help."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dilmun",
+   "meaning": "An ancient trading civilisation centred on Bahrain."
+  },
+  {
+   "term": "Burial mound",
+   "meaning": "A heap of earth built over a grave."
+  }
+ ]
+}

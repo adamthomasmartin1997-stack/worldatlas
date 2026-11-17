@@ -1,0 +1,27 @@
+{
+ "status": "draft",
+ "intro": "Yemen has over 35 million people, one of the youngest populations in the Arab world.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Almost all Yemenis are Arab Muslims, with Zaydi Shia in the north and Sunni Muslims elsewhere. Most people live in villages in the highlands.",
+    "War has forced millions from their homes, and most people need humanitarian aid."
+   ]
+  },
+  {
+   "id": "tribes",
+   "title": "Tribes",
+   "text": [
+    "Tribes play a big part in society, especially in the north."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Zaydi",
+   "meaning": "A branch of Shia Islam found in northern Yemen."
+  }
+ ]
+}

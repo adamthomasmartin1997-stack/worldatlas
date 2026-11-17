@@ -1,0 +1,66 @@
+{
+ "status": "draft",
+ "intro": "Oil made the UAE rich, but Dubai shows how it has diversified into trade, tourism, aviation and finance.",
+ "chapters": [
+  {
+   "id": "oil",
+   "title": "Oil and beyond",
+   "text": [
+    "Abu Dhabi holds most of the oil, and its sovereign wealth funds are among the largest in the world. Dubai has little oil and grew through its port at Jebel Ali, its airline Emirates and tourism.",
+    "Dubai International is one of the busiest airports in the world for international passengers."
+   ],
+   "related": [
+    "SAU",
+    "IND",
+    "CHN"
+   ]
+  },
+  {
+   "id": "future",
+   "title": "Future",
+   "text": [
+    "The UAE is investing in solar power, nuclear power at Barakah and artificial intelligence."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sovereign wealth fund",
+   "meaning": "A national savings fund that invests around the world."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in the UAE",
+   "items": [
+    {
+     "title": "Oil and gas",
+     "subtitle": "Abu Dhabi",
+     "text": "ADNOC is the national company."
+    },
+    {
+     "title": "Aluminium",
+     "subtitle": "EGA",
+     "text": "One of the world's largest makers."
+    },
+    {
+     "title": "Air travel",
+     "subtitle": "Emirates and Etihad",
+     "text": "Global airlines."
+    },
+    {
+     "title": "Ports and logistics",
+     "subtitle": "DP World",
+     "text": "Runs ports worldwide."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Dubai",
+     "text": "Tens of millions of visitors."
+    }
+   ],
+   "intro": "Some of the things the United Arab Emirates makes and sells to the world."
+  }
+ ]
+}

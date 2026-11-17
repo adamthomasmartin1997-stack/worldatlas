@@ -1,0 +1,98 @@
+{
+ "status": "draft",
+ "intro": "The United Arab Emirates is a union of seven emirates that went from pearl diving and fishing villages to gleaming cities in about fifty years.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Ancient trade",
+   "text": [
+    "People have lived here for over 100,000 years. In the Bronze Age, the land called Magan traded copper with Mesopotamia; tombs at Hili and Umm an-Nar date from that time.",
+    "Islam arrived in the 600s. Coastal towns lived from fishing, trade and pearl diving, while Bedouin herded camels inland and farmers grew dates in oases like Al Ain and Liwa."
+   ],
+   "related": [
+    "IRQ",
+    "OMN"
+   ]
+  },
+  {
+   "id": "trucial",
+   "title": "The Trucial States",
+   "text": [
+    "In the 1800s Britain signed truces with the local sheikhs to stop attacks on shipping, and the area became known as the Trucial States. Britain controlled their foreign affairs.",
+    "The pearl trade collapsed in the 1930s when Japan invented cultured pearls, bringing hard times."
+   ],
+   "related": [
+    "GBR",
+    "JPN"
+   ]
+  },
+  {
+   "id": "union",
+   "title": "Oil and union",
+   "text": [
+    "Oil was found in Abu Dhabi in 1958 and exports began in 1962. When Britain left in 1971, six emirates joined together on 2 December under Sheikh Zayed bin Sultan Al Nahyan; Ras Al Khaimah joined in 1972.",
+    "Oil money built roads, schools and hospitals. Dubai turned itself into a trading, tourism and finance hub, and in 2020 the UAE sent a probe to Mars."
+   ],
+   "highlight": {
+    "title": "Fast change",
+    "text": "In 1960 Dubai had no paved roads; today it has the world's tallest building."
+   },
+   "related": [
+    "SAU",
+    "QAT",
+    "OMN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 2500 BC",
+   "title": "Umm an-Nar",
+   "text": "Bronze Age trade with Mesopotamia."
+  },
+  {
+   "year": "1820",
+   "title": "Truce with Britain",
+   "text": "The Trucial States begin."
+  },
+  {
+   "year": "1930s",
+   "title": "Pearl crash",
+   "text": "Cultured pearls ruin the trade."
+  },
+  {
+   "year": "1962",
+   "title": "First oil exports",
+   "text": "From Abu Dhabi."
+  },
+  {
+   "year": "1971",
+   "title": "Union",
+   "text": "The UAE is formed on 2 December."
+  },
+  {
+   "year": "2010",
+   "title": "Burj Khalifa",
+   "text": "The world's tallest building opens."
+  },
+  {
+   "year": "2020",
+   "title": "Hope probe",
+   "text": "Launched to Mars."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Emirate",
+   "meaning": "A state ruled by an emir or sheikh."
+  },
+  {
+   "term": "Trucial States",
+   "meaning": "The old British name for the emirates."
+  },
+  {
+   "term": "Cultured pearl",
+   "meaning": "A pearl grown with human help on a farm."
+  }
+ ]
+}

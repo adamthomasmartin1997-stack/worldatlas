@@ -1,0 +1,106 @@
+{
+ "status": "draft",
+ "intro": "Football is Kuwait's main sport, and its team was once the best in Asia.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Kuwait won the Asian Cup in 1980 and played at the 1982 World Cup, the first Arab team from Asia to do so. It has won the Gulf Cup many times."
+   ]
+  },
+  {
+   "id": "shooting",
+   "title": "Shooting",
+   "text": [
+    "Fehaid Al-Deehani won Olympic gold in 2016 while competing under the Olympic flag, as Kuwait was suspended."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gulf Cup",
+   "meaning": "A football tournament between Gulf countries."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Kuwait Premier League",
+     "subtitle": "Football",
+     "text": "Al-Kuwait and Al-Qadsia are top clubs."
+    },
+    {
+     "title": "Gulf Cup",
+     "subtitle": "Football",
+     "text": "Kuwait have won it ten times."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Jasem Yaqoub",
+     "subtitle": "Football",
+     "text": "Star of the 1980 Asian Cup."
+    },
+    {
+     "title": "Bashar Abdullah",
+     "subtitle": "Football",
+     "text": "A record goal-scorer."
+    },
+    {
+     "title": "Fehaid Al-Deehani",
+     "subtitle": "Shooting",
+     "text": "Olympic champion 2016."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Kuwait's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Jaber Al-Ahmad Stadium",
+    "kind": "venue",
+    "lat": 29.27,
+    "lon": 47.92,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Al-Sadaqua Walsalam Stadium",
+    "kind": "venue",
+    "lat": 29.33,
+    "lon": 48.0,
+    "text": "Home of Al-Kuwait."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1980",
+    "title": "Asian Cup",
+    "text": "Kuwait win at home."
+   },
+   {
+    "year": "1982",
+    "title": "World Cup",
+    "text": "A first appearance."
+   },
+   {
+    "year": "2016",
+    "title": "Olympic gold",
+    "text": "Al-Deehani under the Olympic flag."
+   }
+  ]
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "status": "draft",
+ "intro": "Qatari culture mixes Bedouin and seafaring traditions with big investments in museums and art.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Falconry, camel racing and the majlis are central. Souq Waqif in Doha is a traditional market.",
+    "The Museum of Islamic Art and the National Museum, shaped like a desert rose crystal, are landmarks."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Machboos and harees are traditional dishes, and karak tea is everywhere."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Desert rose",
+   "meaning": "A crystal formation found in the desert."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Ardah",
+     "subtitle": "Traditional",
+     "text": "A sword dance with drums."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Machboos",
+     "subtitle": "Everywhere",
+     "text": "Spiced rice with meat."
+    },
+    {
+     "title": "Karak tea",
+     "subtitle": "Everywhere",
+     "text": "Strong spiced tea with milk."
+    },
+    {
+     "title": "Harees",
+     "subtitle": "Ramadan",
+     "text": "Wheat and meat porridge."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 12,
+    "name": "National Day",
+    "text": "18 December."
+   },
+   {
+    "month": 2,
+    "name": "National Sport Day",
+    "text": "Second Tuesday of February, a public holiday."
+   }
+  ]
+ }
+}

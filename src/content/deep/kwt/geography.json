@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Kuwait is a small, flat desert country at the head of the Gulf, with a large bay and several islands.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Desert and bay",
+   "text": [
+    "Kuwait Bay cuts deep into the land. The desert is flat and gravelly, rising slightly to the west. Bubiyan is the largest island."
+   ],
+   "related": [
+    "IRQ",
+    "SAU"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Kuwait is one of the hottest places on Earth: Mitribah recorded about 54 °C in 2016. Dust storms are common."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bay",
+   "meaning": "Part of the sea partly surrounded by land."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Kuwait's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Bubiyan Island",
+    "kind": "island",
+    "lat": 29.8,
+    "lon": 48.2,
+    "text": "The largest island, with mudflats."
+   },
+   {
+    "name": "Failaka Island",
+    "kind": "historic island",
+    "lat": 29.43,
+    "lon": 48.33,
+    "text": "Ancient ruins."
+   },
+   {
+    "name": "Kuwait Towers",
+    "kind": "landmark",
+    "lat": 29.39,
+    "lon": 48.0,
+    "text": "Water towers by the sea."
+   },
+   {
+    "name": "Al Jahra",
+    "kind": "farmland",
+    "lat": 29.34,
+    "lon": 47.66,
+    "text": "Farms and a reserve."
+   },
+   {
+    "name": "Burgan oil field",
+    "kind": "oil field",
+    "lat": 28.9,
+    "lon": 47.95,
+    "text": "One of the world's largest."
+   }
+  ]
+ }
+}

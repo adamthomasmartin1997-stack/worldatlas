@@ -1,0 +1,106 @@
+{
+ "status": "draft",
+ "intro": "Bahrain was the first Middle Eastern country to host a Formula One Grand Prix.",
+ "chapters": [
+  {
+   "id": "f1",
+   "title": "Formula One",
+   "text": [
+    "The Bahrain Grand Prix, first held in 2004, often opens the season. Bahrain's Sakhir circuit is lit for night races."
+   ]
+  },
+  {
+   "id": "athletics",
+   "title": "Athletics",
+   "text": [
+    "Bahrain's Olympic medals have come in athletics, including Winfred Yavi's steeplechase gold in 2024."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Grand Prix",
+   "meaning": "A major motor race."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Bahraini Premier League",
+     "subtitle": "Football",
+     "text": "Muharraq have won the most titles."
+    },
+    {
+     "title": "Bahrain Grand Prix",
+     "subtitle": "Formula One",
+     "text": "Since 2004."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Winfred Yavi",
+     "subtitle": "Steeplechase",
+     "text": "Olympic champion 2024."
+    },
+    {
+     "title": "Salwa Eid Naser",
+     "subtitle": "400 m",
+     "text": "World champion 2019."
+    },
+    {
+     "title": "Ruth Jebet",
+     "subtitle": "Steeplechase",
+     "text": "Olympic champion 2016."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Bahrain's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Bahrain International Circuit",
+    "kind": "venue",
+    "lat": 26.03,
+    "lon": 50.51,
+    "text": "Formula One."
+   },
+   {
+    "name": "Bahrain National Stadium",
+    "kind": "venue",
+    "lat": 26.15,
+    "lon": 50.53,
+    "text": "Football and athletics."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2004",
+    "title": "First Grand Prix",
+    "text": "The Middle East's first F1 race."
+   },
+   {
+    "year": "2016",
+    "title": "Olympic gold",
+    "text": "Ruth Jebet in Rio."
+   },
+   {
+    "year": "2025",
+    "title": "Gulf Cup",
+    "text": "Bahrain win their second Gulf Cup."
+   }
+  ]
+ }
+}

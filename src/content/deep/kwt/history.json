@@ -1,0 +1,94 @@
+{
+ "status": "draft",
+ "intro": "Kuwait grew from a small trading port into an oil-rich state, and survived invasion by Iraq in 1990.",
+ "chapters": [
+  {
+   "id": "port",
+   "title": "A trading port",
+   "text": [
+    "Failaka Island had a Bronze Age settlement and later a Greek outpost founded under Alexander the Great. In the 1700s families from Arabia settled Kuwait town, and in 1756 they chose the Al Sabah family to lead them; it still rules today.",
+    "Kuwaitis built wooden dhows and sailed to India and East Africa, and dived for pearls."
+   ],
+   "related": [
+    "GRC",
+    "SAU",
+    "IND"
+   ]
+  },
+  {
+   "id": "british",
+   "title": "Protection and oil",
+   "text": [
+    "To stay independent of the Ottomans, Kuwait signed a protection treaty with Britain in 1899. Oil was discovered at Burgan in 1938, one of the largest oil fields in the world. Kuwait became independent in 1961."
+   ],
+   "related": [
+    "GBR",
+    "TUR"
+   ]
+  },
+  {
+   "id": "invasion",
+   "title": "Invasion and liberation",
+   "text": [
+    "On 2 August 1990 Saddam Hussein's Iraq invaded and annexed Kuwait. A US-led coalition of many countries drove Iraqi forces out in February 1991. Retreating troops set over 600 oil wells on fire, which burned for months."
+   ],
+   "highlight": {
+    "title": "The Gulf War",
+    "text": "The 1991 liberation was one of the largest military coalitions since World War Two."
+   },
+   "related": [
+    "IRQ",
+    "USA",
+    "SAU",
+    "GBR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 2000 BC",
+   "title": "Failaka",
+   "text": "A Bronze Age settlement."
+  },
+  {
+   "year": "1756",
+   "title": "Al Sabah",
+   "text": "The ruling family is chosen."
+  },
+  {
+   "year": "1899",
+   "title": "British treaty",
+   "text": "Protection from the Ottomans."
+  },
+  {
+   "year": "1938",
+   "title": "Oil",
+   "text": "Burgan field found."
+  },
+  {
+   "year": "1961",
+   "title": "Independence",
+   "text": "19 June."
+  },
+  {
+   "year": "1990",
+   "title": "Iraqi invasion",
+   "text": "2 August."
+  },
+  {
+   "year": "1991",
+   "title": "Liberation",
+   "text": "26 February."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dhow",
+   "meaning": "A traditional wooden sailing boat."
+  },
+  {
+   "term": "Annex",
+   "meaning": "To take over another country's land and make it your own."
+  }
+ ]
+}

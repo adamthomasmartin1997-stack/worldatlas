@@ -1,0 +1,73 @@
+{
+ "status": "draft",
+ "intro": "Qatar is a low, flat desert peninsula jutting into the Gulf, about 160 km long.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Desert and sea",
+   "text": [
+    "Most of Qatar is stony desert with some sand dunes in the south. Khor Al Adaid, the 'Inland Sea', is a tidal bay surrounded by dunes on the Saudi border.",
+    "Its only land border is with Saudi Arabia."
+   ],
+   "related": [
+    "SAU",
+    "BHR"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Summers are extremely hot and humid; winters are mild. The World Cup was moved to November and December to avoid the heat."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Peninsula",
+   "meaning": "Land surrounded by water on three sides."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Qatar's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Al Zubarah",
+    "kind": "old pearling town",
+    "lat": 25.98,
+    "lon": 51.03,
+    "text": "Ruins of a pearling town; World Heritage."
+   },
+   {
+    "name": "Purple Island",
+    "kind": "mangroves",
+    "lat": 25.82,
+    "lon": 51.55,
+    "text": "Mangroves near Al Khor."
+   },
+   {
+    "name": "Doha",
+    "kind": "capital",
+    "lat": 25.29,
+    "lon": 51.53,
+    "text": "A skyline around a bay."
+   },
+   {
+    "name": "Zekreet",
+    "kind": "desert rocks",
+    "lat": 25.48,
+    "lon": 50.84,
+    "text": "Mushroom-shaped rock formations."
+   },
+   {
+    "name": "Khor Al Adaid",
+    "kind": "inland sea",
+    "lat": 24.6,
+    "lon": 51.33,
+    "text": "Where the sea meets the dunes."
+   }
+  ]
+ }
+}

@@ -1,0 +1,135 @@
+{
+ "status": "draft",
+ "intro": "Qatar has spent heavily on sport, hosting the 2022 World Cup and many world championships.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Qatar won the Asian Cup in 2019 and again at home in 2024. Its investment fund owns Paris Saint-Germain."
+   ],
+   "related": [
+    "FRA",
+    "ARG"
+   ]
+  },
+  {
+   "id": "athletes",
+   "title": "Athletes",
+   "text": [
+    "High jumper Mutaz Essa Barshim shared the Olympic gold in 2021 with Italy's Gianmarco Tamberi. Fares Elbakh won Qatar's first Olympic gold in weightlifting in 2021."
+   ],
+   "related": [
+    "ITA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Asian Cup",
+   "meaning": "Asia's main national-team football tournament."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Qatar Stars League",
+     "subtitle": "Football",
+     "text": "Al Sadd have won the most titles."
+    },
+    {
+     "title": "Qatar Grand Prix",
+     "subtitle": "Formula One and MotoGP",
+     "text": "Night races at Lusail."
+    },
+    {
+     "title": "Diamond League",
+     "subtitle": "Athletics",
+     "text": "The Doha meeting."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Mutaz Essa Barshim",
+     "subtitle": "High jump",
+     "text": "Olympic champion and three-time world champion."
+    },
+    {
+     "title": "Akram Afif",
+     "subtitle": "Football",
+     "text": "Asian Player of the Year 2023."
+    },
+    {
+     "title": "Almoez Ali",
+     "subtitle": "Football",
+     "text": "Record scorer at an Asian Cup."
+    },
+    {
+     "title": "Fares Elbakh",
+     "subtitle": "Weightlifting",
+     "text": "Olympic champion 2021."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Qatar's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Lusail Stadium",
+    "kind": "venue",
+    "lat": 25.42,
+    "lon": 51.49,
+    "text": "Hosted the 2022 World Cup final."
+   },
+   {
+    "name": "Khalifa International Stadium",
+    "kind": "venue",
+    "lat": 25.26,
+    "lon": 51.45,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Lusail International Circuit",
+    "kind": "venue",
+    "lat": 25.49,
+    "lon": 51.45,
+    "text": "F1 and MotoGP."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2019",
+    "title": "Asian Cup",
+    "text": "A first Asian title."
+   },
+   {
+    "year": "2021",
+    "title": "Two Olympic golds",
+    "text": "Barshim and Elbakh in Tokyo."
+   },
+   {
+    "year": "2022",
+    "title": "World Cup",
+    "text": "Messi lifts the trophy in Lusail."
+   },
+   {
+    "year": "2024",
+    "title": "Asian Cup again",
+    "text": "Won at home."
+   }
+  ]
+ }
+}

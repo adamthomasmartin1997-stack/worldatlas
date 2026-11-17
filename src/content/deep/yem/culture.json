@@ -1,0 +1,96 @@
+{
+ "status": "draft",
+ "intro": "Yemen has a rich heritage of architecture, poetry and music.",
+ "chapters": [
+  {
+   "id": "towers",
+   "title": "Mud-brick towers",
+   "text": [
+    "Shibam, in Hadhramaut, is called the 'Manhattan of the desert' for its mud-brick tower houses up to 30 m tall. Sanaa's old city has houses decorated with white gypsum patterns."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food and coffee",
+   "text": [
+    "Saltah, a bubbling stew with fenugreek froth, is the national dish. Yemeni coffee and honey are famous."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gypsum",
+   "meaning": "A white mineral used for decoration."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "A New Day in Old Sana'a",
+     "subtitle": "2005 · Bader Ben Hirsi",
+     "text": "A love story in the old city."
+    },
+    {
+     "title": "10 Days Before the Wedding",
+     "subtitle": "2018 · Amr Gamal",
+     "text": "A couple in war-torn Aden."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Sanaani song",
+     "subtitle": "Traditional",
+     "text": "Song of Sanaa; UNESCO-listed."
+    },
+    {
+     "title": "Abu Bakr Salem",
+     "subtitle": "Singer",
+     "text": "A famous Hadhrami singer."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Saltah",
+     "subtitle": "Everywhere",
+     "text": "Stew with fenugreek froth."
+    },
+    {
+     "title": "Mandi",
+     "subtitle": "Everywhere",
+     "text": "Rice and meat cooked in a pit."
+    },
+    {
+     "title": "Bint al-sahn",
+     "subtitle": "Everywhere",
+     "text": "Layered honey bread."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 5,
+    "name": "Unity Day",
+    "text": "22 May, 1990."
+   },
+   {
+    "month": 9,
+    "name": "Revolution Day",
+    "text": "26 September, 1962."
+   }
+  ]
+ }
+}

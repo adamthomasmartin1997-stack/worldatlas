@@ -1,0 +1,106 @@
+{
+ "status": "draft",
+ "intro": "Oman wraps around the south-east corner of Arabia, with mountains, deserts, green wadis and over 3,000 km of coastline.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mountains and deserts",
+   "text": [
+    "The Hajar Mountains run along the north; Jebel Shams is the highest peak at about 3,000 m, beside a deep canyon. The Wahiba Sands are a sea of dunes, and the Empty Quarter covers the west.",
+    "The Musandam peninsula, separated from the rest of Oman by the UAE, overlooks the Strait of Hormuz with fjord-like inlets."
+   ],
+   "related": [
+    "ARE",
+    "SAU",
+    "YEM"
+   ]
+  },
+  {
+   "id": "dhofar",
+   "title": "Monsoon in Dhofar",
+   "text": [
+    "In summer the khareef monsoon turns the hills around Salalah green and misty, while the rest of Arabia bakes."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Khareef",
+   "meaning": "The summer monsoon season in southern Oman."
+  },
+  {
+   "term": "Wadi",
+   "meaning": "A valley that fills with water after rain."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Oman's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Musandam",
+    "kind": "fjords",
+    "lat": 26.2,
+    "lon": 56.25,
+    "text": "Rocky inlets on the Strait of Hormuz."
+   },
+   {
+    "name": "Muscat",
+    "kind": "capital",
+    "lat": 23.59,
+    "lon": 58.41,
+    "text": "A city between mountains and sea."
+   },
+   {
+    "name": "Jebel Shams",
+    "kind": "mountain",
+    "lat": 23.24,
+    "lon": 57.26,
+    "text": "Oman's highest peak and its 'Grand Canyon'."
+   },
+   {
+    "name": "Nizwa",
+    "kind": "oasis town",
+    "lat": 22.93,
+    "lon": 57.53,
+    "text": "A great round fort."
+   },
+   {
+    "name": "Wadi Shab",
+    "kind": "wadi",
+    "lat": 22.84,
+    "lon": 59.24,
+    "text": "Turquoise pools in a gorge."
+   },
+   {
+    "name": "Wahiba Sands",
+    "kind": "dunes",
+    "lat": 22.0,
+    "lon": 58.8,
+    "text": "Golden dunes and Bedouin camps."
+   },
+   {
+    "name": "Ras al Jinz",
+    "kind": "turtle beach",
+    "lat": 22.42,
+    "lon": 59.83,
+    "text": "Green turtles nest here."
+   },
+   {
+    "name": "Salalah",
+    "kind": "monsoon coast",
+    "lat": 17.02,
+    "lon": 54.09,
+    "text": "Green hills in the khareef."
+   },
+   {
+    "name": "Ubar",
+    "kind": "lost city",
+    "lat": 18.25,
+    "lon": 53.65,
+    "text": "A frankincense trading post."
+   }
+  ]
+ }
+}

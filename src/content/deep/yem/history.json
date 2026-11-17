@@ -1,0 +1,104 @@
+{
+ "status": "draft",
+ "intro": "Yemen was once 'Arabia Felix', happy Arabia, rich from incense and spices. Today it is suffering from one of the world's worst humanitarian crises.",
+ "chapters": [
+  {
+   "id": "sheba",
+   "title": "Kingdoms of incense",
+   "text": [
+    "Ancient kingdoms such as Saba (Sheba), Qataban and Himyar grew rich trading frankincense and myrrh. The Marib Dam, built around 2,700 years ago, watered a huge oasis. The Bible and the Qur'an tell of the Queen of Sheba.",
+    "The Romans called the region Arabia Felix because of its green terraced mountains and wealth."
+   ],
+   "related": [
+    "OMN",
+    "ETH",
+    "SAU"
+   ]
+  },
+  {
+   "id": "islam",
+   "title": "Islam and imams",
+   "text": [
+    "Yemen accepted Islam in the 600s. Zaydi imams ruled the northern highlands for about a thousand years. The Ottomans controlled parts of the country at different times, and Britain held the port of Aden from 1839.",
+    "Yemen was the first great exporter of coffee, shipped from the port of Mocha, which gave its name to a drink."
+   ],
+   "highlight": {
+    "title": "Coffee",
+    "text": "Coffee drinking as we know it began in Yemen's Sufi monasteries in the 1400s."
+   },
+   "related": [
+    "TUR",
+    "GBR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Division, unity and war",
+   "text": [
+    "North Yemen became a republic after a revolution in 1962; South Yemen became independent from Britain in 1967 and later communist. They united in 1990.",
+    "After protests in 2011, Ali Abdullah Saleh stepped down. In 2014 the Houthi movement took the capital, Sanaa, and in 2015 a Saudi-led coalition intervened. The war has caused hunger, disease and the displacement of millions."
+   ],
+   "related": [
+    "SAU",
+    "IRN",
+    "ARE"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 700 BC",
+   "title": "Marib Dam",
+   "text": "Kingdom of Saba."
+  },
+  {
+   "year": "630s",
+   "title": "Islam",
+   "text": "Yemen accepts Islam."
+  },
+  {
+   "year": "1400s",
+   "title": "Coffee",
+   "text": "Exported from Mocha."
+  },
+  {
+   "year": "1839",
+   "title": "British Aden",
+   "text": "Britain takes the port."
+  },
+  {
+   "year": "1962",
+   "title": "North Yemen republic",
+   "text": "The imamate ends."
+  },
+  {
+   "year": "1967",
+   "title": "South Yemen",
+   "text": "Independent from Britain."
+  },
+  {
+   "year": "1990",
+   "title": "Unification",
+   "text": "North and South unite."
+  },
+  {
+   "year": "2014",
+   "title": "Houthis take Sanaa",
+   "text": "War follows."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Frankincense and myrrh",
+   "meaning": "Precious tree resins used for incense and medicine."
+  },
+  {
+   "term": "Houthi",
+   "meaning": "A movement from northern Yemen that controls Sanaa."
+  },
+  {
+   "term": "Humanitarian crisis",
+   "meaning": "A disaster where many people lack food, water or safety."
+  }
+ ]
+}

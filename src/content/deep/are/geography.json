@@ -1,0 +1,105 @@
+{
+ "status": "draft",
+ "intro": "The UAE is mostly sandy desert, with a long Gulf coast, mangrove islands and the rocky Hajar Mountains in the east.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Sand, sea and mountains",
+   "text": [
+    "The Rub' al Khali, the 'Empty Quarter', reaches into the south at Liwa, with some of the highest dunes in the world. The east coast at Fujairah faces the Gulf of Oman, below the Hajar Mountains.",
+    "Dubai and Abu Dhabi have built artificial islands like Palm Jumeirah."
+   ],
+   "related": [
+    "SAU",
+    "OMN"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Heat",
+   "text": [
+    "Summer temperatures often pass 45 °C with high humidity. Rain is rare, so most drinking water comes from desalination plants."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Empty Quarter",
+   "meaning": "The largest continuous sand desert on Earth."
+  },
+  {
+   "term": "Desalination",
+   "meaning": "Turning seawater into fresh water."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of the United Arab Emirates' landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Jebel Jais",
+    "kind": "mountain",
+    "lat": 25.95,
+    "lon": 56.15,
+    "text": "The highest peak, with the world's longest zipline."
+   },
+   {
+    "name": "Fujairah coast",
+    "kind": "coast",
+    "lat": 25.4,
+    "lon": 56.35,
+    "text": "Beaches facing the Gulf of Oman."
+   },
+   {
+    "name": "Hatta",
+    "kind": "mountain dam",
+    "lat": 24.8,
+    "lon": 56.12,
+    "text": "Kayaking in the Hajar Mountains."
+   },
+   {
+    "name": "Dubai",
+    "kind": "city",
+    "lat": 25.2,
+    "lon": 55.27,
+    "text": "The Burj Khalifa and Palm Jumeirah."
+   },
+   {
+    "name": "Abu Dhabi",
+    "kind": "capital",
+    "lat": 24.45,
+    "lon": 54.38,
+    "text": "The Sheikh Zayed Grand Mosque."
+   },
+   {
+    "name": "Mangrove National Park",
+    "kind": "mangroves",
+    "lat": 24.45,
+    "lon": 54.4,
+    "text": "Kayak among mangroves in the city."
+   },
+   {
+    "name": "Al Ain",
+    "kind": "oasis",
+    "lat": 24.2,
+    "lon": 55.75,
+    "text": "Date palms and ancient tombs."
+   },
+   {
+    "name": "Jebel Hafeet",
+    "kind": "mountain",
+    "lat": 24.06,
+    "lon": 55.78,
+    "text": "A road winds up a desert mountain."
+   },
+   {
+    "name": "Liwa Oasis",
+    "kind": "dunes",
+    "lat": 23.1,
+    "lon": 53.8,
+    "text": "Giant dunes at the edge of the Empty Quarter."
+   }
+  ]
+ }
+}

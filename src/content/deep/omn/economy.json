@@ -1,0 +1,55 @@
+{
+ "status": "draft",
+ "intro": "Oil and gas pay most of Oman's way, and it is working to grow tourism, fishing and logistics.",
+ "chapters": [
+  {
+   "id": "oil",
+   "title": "Oil and gas",
+   "text": [
+    "Oman produces less oil than its neighbours, and its reserves will not last as long, so it is investing in ports at Duqm and Sohar and in green hydrogen."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other work",
+   "text": [
+    "Dates, fish, frankincense and tourism to mountains, beaches and forts are important."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Green hydrogen",
+   "meaning": "Hydrogen fuel made with renewable energy."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Oman",
+   "items": [
+    {
+     "title": "Oil and gas",
+     "subtitle": "Inland fields",
+     "text": "Most exports."
+    },
+    {
+     "title": "Frankincense",
+     "subtitle": "Dhofar",
+     "text": "The best in the world, some say."
+    },
+    {
+     "title": "Dates",
+     "subtitle": "Oases",
+     "text": "Many varieties."
+    },
+    {
+     "title": "Fish",
+     "subtitle": "The coast",
+     "text": "Tuna and kingfish."
+    }
+   ],
+   "intro": "Some of the things Oman makes and sells to the world."
+  }
+ ]
+}

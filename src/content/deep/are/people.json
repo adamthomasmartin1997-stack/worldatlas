@@ -1,0 +1,34 @@
+{
+ "status": "draft",
+ "intro": "Around 9 out of 10 people living in the UAE are foreign residents, from more than 200 nationalities.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "A mixed population",
+   "text": [
+    "Emirati citizens are a small minority. Most residents come from India, Pakistan, Bangladesh, the Philippines, Egypt and elsewhere, working in building, services and business.",
+    "Arabic is the official language, but English is the everyday common language in shops and offices."
+   ],
+   "related": [
+    "IND",
+    "PAK",
+    "BGD",
+    "PHL",
+    "EGY"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Life",
+   "text": [
+    "Islam is the official religion, and other faiths have places of worship. Most people live in Dubai, Abu Dhabi and Sharjah."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Expatriate",
+   "meaning": "Someone living outside their home country."
+  }
+ ]
+}

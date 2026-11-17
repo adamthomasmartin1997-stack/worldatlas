@@ -1,0 +1,33 @@
+{
+ "status": "draft",
+ "intro": "Qatar has around 3 million people, but only about one in ten is a Qatari citizen.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "Citizens and workers",
+   "text": [
+    "Most residents are workers from South Asia, the Philippines, Egypt and elsewhere. Almost everyone lives in or near Doha.",
+    "Arabic is the official language and English is widely used."
+   ],
+   "related": [
+    "IND",
+    "NPL",
+    "BGD",
+    "PHL"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Life",
+   "text": [
+    "Islam is the state religion. Qatari citizens receive free education, health care and other benefits."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kafala",
+   "meaning": "A system that tied migrant workers to their employers; Qatar reformed it."
+  }
+ ]
+}

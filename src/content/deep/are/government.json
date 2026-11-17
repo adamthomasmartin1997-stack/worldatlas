@@ -1,0 +1,102 @@
+{
+ "status": "draft",
+ "intro": "The UAE is a federation of seven monarchies, each ruled by a royal family.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The seven rulers form the Federal Supreme Council, which chooses the president, by tradition the ruler of Abu Dhabi. The ruler of Dubai is usually vice president and prime minister.",
+    "The Federal National Council advises the government; half its members are elected by a limited group of citizens."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Abu Dhabi"
+    },
+    {
+     "label": "Emirates",
+     "value": "7"
+    },
+    {
+     "label": "National Day",
+     "value": "2 December"
+    }
+   ]
+  },
+  {
+   "id": "emirates",
+   "title": "Seven emirates",
+   "text": [
+    "They are Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah and Fujairah. Each manages much of its own affairs."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Federation",
+   "meaning": "A union of states."
+  },
+  {
+   "term": "Absolute monarchy",
+   "meaning": "Rule by a monarch without elected limits."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Federal Supreme Council",
+     "subtitle": "The 7 rulers",
+     "text": "The top authority."
+    },
+    {
+     "title": "The President",
+     "subtitle": "Chosen by the rulers",
+     "text": "By tradition the ruler of Abu Dhabi."
+    },
+    {
+     "title": "Vice President and Prime Minister",
+     "subtitle": "Chosen by the rulers",
+     "text": "By tradition the ruler of Dubai."
+    },
+    {
+     "title": "Federal National Council",
+     "subtitle": "40 members",
+     "text": "Half elected, half appointed; advises on laws."
+    },
+    {
+     "title": "Emirate governments",
+     "subtitle": "7 emirates",
+     "text": "Each runs its own affairs."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A law is drafted",
+    "text": "By the cabinet."
+   },
+   {
+    "title": "Federal National Council",
+    "text": "Discusses it and can suggest changes."
+   },
+   {
+    "title": "Supreme Council",
+    "text": "Approves it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

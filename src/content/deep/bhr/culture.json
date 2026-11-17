@@ -1,0 +1,75 @@
+{
+ "status": "draft",
+ "intro": "Bahraini culture is shaped by the sea, pearling, and a long history of trade.",
+ "chapters": [
+  {
+   "id": "pearling",
+   "title": "The pearling trail",
+   "text": [
+    "Muharraq's pearling path, with merchants' houses and oyster beds, is on the World Heritage list."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Machboos, halwa and fresh fish like hamour are local favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pearling",
+   "meaning": "Diving for oysters to find pearls."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Fijiri",
+     "subtitle": "Traditional",
+     "text": "Work songs once sung by pearl divers."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Machboos",
+     "subtitle": "Everywhere",
+     "text": "Spiced rice with fish."
+    },
+    {
+     "title": "Halwa",
+     "subtitle": "Everywhere",
+     "text": "A sticky saffron sweet."
+    },
+    {
+     "title": "Muhammar",
+     "subtitle": "Everywhere",
+     "text": "Sweet rice with dates."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Bahrain Grand Prix",
+    "text": "Usually early in the year."
+   },
+   {
+    "month": 12,
+    "name": "National Day",
+    "text": "16 December."
+   }
+  ]
+ }
+}

@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Bahrain has less oil than its neighbours, so it built a banking and services economy.",
+ "chapters": [
+  {
+   "id": "money",
+   "title": "Banking and aluminium",
+   "text": [
+    "Bahrain was an early Gulf banking centre and is strong in Islamic finance. Its aluminium smelter, Alba, is one of the largest in the world."
+   ]
+  },
+  {
+   "id": "oil",
+   "title": "Oil",
+   "text": [
+    "Oil and gas still pay much of the government's budget; much of the oil comes from the offshore Abu Safah field, shared with Saudi Arabia."
+   ],
+   "related": [
+    "SAU"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Islamic finance",
+   "meaning": "Banking that follows Islamic rules, such as not charging interest."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Bahrain",
+   "items": [
+    {
+     "title": "Aluminium",
+     "subtitle": "Alba",
+     "text": "One of the world's biggest smelters."
+    },
+    {
+     "title": "Banking",
+     "subtitle": "Bahrain Financial Harbour",
+     "text": "Islamic finance."
+    },
+    {
+     "title": "Oil refining",
+     "subtitle": "Sitra",
+     "text": "Fuels for export."
+    }
+   ],
+   "intro": "Some of the things Bahrain makes and sells to the world."
+  }
+ ]
+}

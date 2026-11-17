@@ -1,0 +1,79 @@
+{
+ "status": "draft",
+ "intro": "Football is the most popular sport in Yemen, despite years of war.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Yemen qualified for the Asian Cup in 2019 for the first time as a united country. The under-15 team won the West Asian Championship in 2021."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Traditional sports include camel racing and dancing with the jambiya dagger."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Jambiya",
+   "meaning": "A curved dagger worn on a belt."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Yemeni League",
+     "subtitle": "Football",
+     "text": "Al-Ahli Sanaa and Al-Tilal are well-known clubs."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Ali Al-Nono",
+     "subtitle": "Football",
+     "text": "A record goal-scorer."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Yemen's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Ali Muhesen Stadium, Sanaa",
+    "kind": "venue",
+    "lat": 15.36,
+    "lon": 44.19,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2019",
+    "title": "Asian Cup",
+    "text": "A first appearance as a united country."
+   },
+   {
+    "year": "2021",
+    "title": "Youth title",
+    "text": "Under-15 West Asian champions."
+   }
+  ]
+ }
+}

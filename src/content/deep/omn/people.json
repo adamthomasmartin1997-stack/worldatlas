@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Oman has about 5 million people, with many foreign workers alongside Omanis.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most Omanis are Ibadi Muslims, with Sunni and Shia minorities. Arabic is official, and Baluchi, Swahili and South Arabian languages like Mehri are also spoken, a sign of old links across the sea."
+   ],
+   "related": [
+    "PAK",
+    "TZA"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Life",
+   "text": [
+    "Omanis are known for hospitality and tolerance. Men wear the dishdasha and an embroidered cap or turban."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dishdasha",
+   "meaning": "A long robe worn by Omani men."
+  }
+ ]
+}

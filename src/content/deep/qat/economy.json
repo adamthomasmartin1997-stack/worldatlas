@@ -1,0 +1,61 @@
+{
+ "status": "draft",
+ "intro": "Qatar is one of the world's biggest exporters of liquefied natural gas and one of the richest countries per person.",
+ "chapters": [
+  {
+   "id": "gas",
+   "title": "Gas",
+   "text": [
+    "LNG tankers carry Qatari gas to Asia and Europe. The Qatar Investment Authority owns stakes in companies and buildings around the world."
+   ],
+   "related": [
+    "JPN",
+    "KOR",
+    "CHN",
+    "GBR"
+   ]
+  },
+  {
+   "id": "airline",
+   "title": "Air hub",
+   "text": [
+    "Qatar Airways and Hamad International Airport connect the world through Doha."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Investment authority",
+   "meaning": "A state fund that invests abroad."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Qatar",
+   "items": [
+    {
+     "title": "Liquefied gas",
+     "subtitle": "Ras Laffan",
+     "text": "A world leader."
+    },
+    {
+     "title": "Fertilisers",
+     "subtitle": "Qafco",
+     "text": "Made from gas."
+    },
+    {
+     "title": "Air travel",
+     "subtitle": "Qatar Airways",
+     "text": "A global airline."
+    },
+    {
+     "title": "Media",
+     "subtitle": "Al Jazeera",
+     "text": "News in Arabic and English."
+    }
+   ],
+   "intro": "Some of the things Qatar makes and sells to the world."
+  }
+ ]
+}

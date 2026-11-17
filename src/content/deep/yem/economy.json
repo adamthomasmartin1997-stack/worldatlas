@@ -1,0 +1,58 @@
+{
+ "status": "draft",
+ "intro": "Yemen was the poorest country in the Arab world even before the war, which has wrecked its economy.",
+ "chapters": [
+  {
+   "id": "before",
+   "title": "Before the war",
+   "text": [
+    "Oil and gas exports, farming and money from Yemenis working in Saudi Arabia supported the economy."
+   ],
+   "related": [
+    "SAU"
+   ]
+  },
+  {
+   "id": "now",
+   "title": "Today",
+   "text": [
+    "Coffee, honey and fish are prized exports. Many people depend on food aid, and the currency has collapsed."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Food aid",
+   "meaning": "Food given to people who cannot get enough."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Yemen",
+   "items": [
+    {
+     "title": "Coffee",
+     "subtitle": "Highlands",
+     "text": "Prized Mocha beans."
+    },
+    {
+     "title": "Honey",
+     "subtitle": "Hadhramaut",
+     "text": "Sidr honey, among the most expensive in the world."
+    },
+    {
+     "title": "Fish",
+     "subtitle": "Coast",
+     "text": "Tuna and shrimp."
+    },
+    {
+     "title": "Oil and gas",
+     "subtitle": "Marib and Shabwa",
+     "text": "Exports mostly halted by war."
+    }
+   ],
+   "intro": "Some of the things Yemen makes and sells to the world."
+  }
+ ]
+}

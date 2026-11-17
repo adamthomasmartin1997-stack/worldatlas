@@ -1,0 +1,79 @@
+{
+ "status": "draft",
+ "intro": "Yemen is divided by war, with rival authorities controlling different parts of the country and the UN trying to broker peace.",
+ "chapters": [
+  {
+   "id": "rivals",
+   "title": "Rival powers",
+   "text": [
+    "The internationally recognised government, led by a Presidential Leadership Council, is based in Aden. The Houthis control Sanaa and much of the north-west, where most people live. Southern separatist groups have also held areas in the south at times."
+   ],
+   "facts": [
+    {
+     "label": "Official capital",
+     "value": "Sanaa"
+    },
+    {
+     "label": "Government seat",
+     "value": "Aden"
+    },
+    {
+     "label": "Unification",
+     "value": "1990"
+    }
+   ]
+  },
+  {
+   "id": "redsea",
+   "title": "The Red Sea",
+   "text": [
+    "Since late 2023 Houthi attacks on ships in the Red Sea have disrupted world trade."
+   ],
+   "related": [
+    "ISR",
+    "USA",
+    "EGY"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Separatist",
+   "meaning": "Someone who wants their region to become a separate country."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Presidential Leadership Council",
+     "subtitle": "8 members",
+     "text": "Leads the recognised government."
+    },
+    {
+     "title": "Houthi authorities",
+     "subtitle": "In Sanaa",
+     "text": "Control the north-west."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Divided rule",
+    "text": "Different authorities make rules in different areas."
+   },
+   {
+    "title": "Peace talks",
+    "text": "UN-led efforts seek a deal."
+   }
+  ]
+ }
+}

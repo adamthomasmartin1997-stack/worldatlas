@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Bahrain has about 1.6 million people, around half of them foreign residents.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most citizens are Muslim, with a Shia majority and a Sunni ruling family. Bahrain also has small Christian, Hindu and Jewish communities. Arabic is official and English is widely spoken."
+   ],
+   "related": [
+    "IND",
+    "PAK",
+    "BGD"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Life",
+   "text": [
+    "Most people live in the capital Manama and nearby towns."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Shia",
+   "meaning": "The second-largest branch of Islam."
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Bahrain is a constitutional monarchy where the king holds most power.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "King Hamad bin Isa Al Khalifa appoints the government and the upper house. Voters elect the 40-member Council of Representatives."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Manama"
+    },
+    {
+     "label": "Kingdom since",
+     "value": "2002"
+    },
+    {
+     "label": "National Day",
+     "value": "16 December"
+    }
+   ]
+  },
+  {
+   "id": "ties",
+   "title": "Allies",
+   "text": [
+    "The US Navy's Fifth Fleet is based in Bahrain. In 2020 Bahrain agreed to normal relations with Israel."
+   ],
+   "related": [
+    "USA",
+    "ISR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Upper house",
+   "meaning": "The second chamber of a parliament."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Inherits the throne",
+     "text": "Holds executive power."
+    },
+    {
+     "title": "Crown Prince and Prime Minister",
+     "subtitle": "Appointed by the King",
+     "text": "Leads the government."
+    },
+    {
+     "title": "Council of Representatives",
+     "subtitle": "40 elected members",
+     "text": "The lower house."
+    },
+    {
+     "title": "Shura Council",
+     "subtitle": "40 appointed members",
+     "text": "The upper house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Both chambers",
+    "text": "Must approve it."
+   },
+   {
+    "title": "The King",
+    "text": "Ratifies it."
+   }
+  ]
+ }
+}

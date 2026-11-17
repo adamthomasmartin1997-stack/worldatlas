@@ -1,0 +1,104 @@
+{
+ "status": "draft",
+ "intro": "Football and sailing are big in Oman, along with traditional camel and horse racing.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Oman won the Gulf Cup in 2009 and 2017. Goalkeeper Ali Al-Habsi played for years in the English Premier League."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "sailing",
+   "title": "Sailing",
+   "text": [
+    "Oman has a strong sailing programme and hosts international races. Beach sports and the Tour of Oman cycling race are popular too."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gulf Cup",
+   "meaning": "A football tournament between Gulf countries."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Oman Professional League",
+     "subtitle": "Football",
+     "text": "Dhofar and Al-Seeb are top clubs."
+    },
+    {
+     "title": "Tour of Oman",
+     "subtitle": "Cycling",
+     "text": "A stage race in the mountains."
+    },
+    {
+     "title": "Sailing",
+     "subtitle": "Oman Sail",
+     "text": "National sailing programme."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Ali Al-Habsi",
+     "subtitle": "Football",
+     "text": "A Premier League goalkeeper."
+    },
+    {
+     "title": "Barakat Al-Harthi",
+     "subtitle": "Sprinting",
+     "text": "Oman's fastest man, an Olympic sprinter."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Oman's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Sultan Qaboos Sports Complex",
+    "kind": "venue",
+    "lat": 23.59,
+    "lon": 58.39,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Mussanah Sports City",
+    "kind": "venue",
+    "lat": 23.8,
+    "lon": 57.6,
+    "text": "Hosted the Asian Beach Games."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2009",
+    "title": "Gulf Cup",
+    "text": "A first title, at home."
+   },
+   {
+    "year": "2017",
+    "title": "Gulf Cup again",
+    "text": "Won in Kuwait."
+   }
+  ]
+ }
+}

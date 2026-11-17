@@ -1,0 +1,90 @@
+{
+ "status": "draft",
+ "intro": "Qatar is a small peninsula that went from pearl diving to being one of the richest countries on Earth thanks to natural gas, and in 2022 hosted the football World Cup.",
+ "chapters": [
+  {
+   "id": "pearls",
+   "title": "Pearls and trade",
+   "text": [
+    "For centuries people on the Qatar peninsula lived by fishing, herding and pearl diving. Zubarah, on the north-west coast, was a busy pearling town in the 1700s and is now a World Heritage site.",
+    "The Al Thani family became the leading family in the 1800s and still rules today."
+   ],
+   "related": [
+    "BHR",
+    "SAU"
+   ]
+  },
+  {
+   "id": "british",
+   "title": "British protection",
+   "text": [
+    "Qatar came under the Ottomans and then, from 1916, British protection. The collapse of the pearl trade in the 1930s caused great hardship."
+   ],
+   "related": [
+    "GBR",
+    "TUR",
+    "JPN"
+   ]
+  },
+  {
+   "id": "gas",
+   "title": "Oil, gas and independence",
+   "text": [
+    "Oil was found in 1939, and Qatar became independent in 1971. In the 1990s it began exporting liquefied gas from the North Field, one of the largest gas fields in the world, shared with Iran.",
+    "Qatar launched the Al Jazeera news channel in 1996 and hosted the 2022 FIFA World Cup, the first in the Arab world. The treatment of migrant workers who built its stadiums drew worldwide criticism and some reforms."
+   ],
+   "related": [
+    "IRN",
+    "ARG",
+    "FRA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1760s",
+   "title": "Zubarah",
+   "text": "A thriving pearl town."
+  },
+  {
+   "year": "1868",
+   "title": "Al Thani",
+   "text": "The family's rule is recognised."
+  },
+  {
+   "year": "1916",
+   "title": "British protection",
+   "text": "Until 1971."
+  },
+  {
+   "year": "1939",
+   "title": "Oil found",
+   "text": "At Dukhan."
+  },
+  {
+   "year": "1971",
+   "title": "Independence",
+   "text": "3 September."
+  },
+  {
+   "year": "1996",
+   "title": "Al Jazeera",
+   "text": "The news channel launches."
+  },
+  {
+   "year": "2022",
+   "title": "World Cup",
+   "text": "Hosted in Qatar."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "LNG",
+   "meaning": "Liquefied natural gas, cooled to a liquid for shipping."
+  },
+  {
+   "term": "Emir",
+   "meaning": "A ruler, used for Qatar's head of state."
+  }
+ ]
+}

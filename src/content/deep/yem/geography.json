@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Yemen has high green mountains, desert valleys and the remarkable island of Socotra.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mountains and valleys",
+   "text": [
+    "The western highlands rise above 3,000 m; Jabal an-Nabi Shu'ayb is the highest peak in Arabia. Farmers have built terraces up steep slopes for thousands of years. To the east, Hadhramaut is a long valley with mud-brick towns.",
+    "A coastal plain called the Tihama runs along the Red Sea."
+   ],
+   "related": [
+    "SAU",
+    "OMN"
+   ]
+  },
+  {
+   "id": "socotra",
+   "title": "Socotra",
+   "text": [
+    "Socotra's dragon's blood trees and many other plants and animals are found nowhere else on Earth."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Terrace",
+   "meaning": "A flat step cut into a hillside for farming."
+  },
+  {
+   "term": "Endemic",
+   "meaning": "Found naturally in only one place."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Yemen's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Sanaa",
+    "kind": "highland capital",
+    "lat": 15.35,
+    "lon": 44.2,
+    "text": "A walled old city of tower houses."
+   },
+   {
+    "name": "Haraz Mountains",
+    "kind": "terraces",
+    "lat": 15.15,
+    "lon": 43.75,
+    "text": "Villages perched on peaks."
+   },
+   {
+    "name": "Jabal an-Nabi Shu'ayb",
+    "kind": "mountain",
+    "lat": 15.3,
+    "lon": 43.98,
+    "text": "The highest peak in Arabia."
+   },
+   {
+    "name": "Marib",
+    "kind": "ancient dam",
+    "lat": 15.4,
+    "lon": 45.3,
+    "text": "Ruins of the great dam."
+   },
+   {
+    "name": "Shibam",
+    "kind": "mud-brick towers",
+    "lat": 15.93,
+    "lon": 48.63,
+    "text": "The 'Manhattan of the desert'."
+   },
+   {
+    "name": "Aden",
+    "kind": "port",
+    "lat": 12.8,
+    "lon": 45.03,
+    "text": "A port in an old volcano crater."
+   },
+   {
+    "name": "Socotra",
+    "kind": "island",
+    "lat": 12.5,
+    "lon": 53.8,
+    "text": "Dragon's blood trees."
+   }
+  ]
+ }
+}
