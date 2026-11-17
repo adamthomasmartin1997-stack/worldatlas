@@ -1,0 +1,66 @@
+{
+ "status": "draft",
+ "intro": "Most people in the UK live in England, many of them in and around London. Modern Britain is one of the most diverse countries in Europe, with families whose roots lie across the old empire and beyond.",
+ "chapters": [
+  {
+   "id": "cities",
+   "title": "Where people live",
+   "text": [
+    "London is by far the biggest city, with around 9 million people, and is one of the most visited cities in the world. Other big cities include Birmingham, Manchester, Glasgow, Leeds and Liverpool. Edinburgh is the capital of Scotland, Cardiff of Wales and Belfast of Northern Ireland.",
+    "England has most of the people, and the south-east is the most crowded part. Large areas of the Scottish Highlands and mid-Wales have very few people."
+   ]
+  },
+  {
+   "id": "languages",
+   "title": "Languages",
+   "text": [
+    "English is the main language, spoken in many different accents: you can often tell which town or region someone is from by how they talk.",
+    "Welsh is an official language in Wales, where road signs are in both languages and many children go to Welsh-speaking schools; around one in six people in Wales can speak it. Scottish Gaelic is spoken in parts of the Highlands and Islands, and Scots and Irish are recognised too. British Sign Language became an official language in 2022.",
+    "London is one of the most multilingual cities on Earth: hundreds of languages are spoken in its homes and schools."
+   ]
+  },
+  {
+   "id": "diversity",
+   "title": "A diverse country",
+   "text": [
+    "People have moved to Britain for centuries. After 1948 many came from the Caribbean, India, Pakistan, Bangladesh and Africa, invited to help rebuild the country after the war. More recently many came from Poland, Romania and other EU countries, and from places such as Nigeria and Hong Kong.",
+    "Today around one in six people in England and Wales was born abroad. British food, music, fashion and language have all been shaped by these communities."
+   ],
+   "related": [
+    "JAM",
+    "IND",
+    "PAK",
+    "BGD",
+    "NGA",
+    "POL",
+    "ROU"
+   ]
+  },
+  {
+   "id": "religion",
+   "title": "Religion",
+   "text": [
+    "The Church of England is the official church in England, and the monarch is its Supreme Governor. Scotland has its own national church, the Church of Scotland.",
+    "At the 2021 census, fewer than half of people in England and Wales described themselves as Christian for the first time, and more than a third said they had no religion. Islam is the second-largest religion, and there are also large Hindu, Sikh, Jewish and Buddhist communities."
+   ]
+  },
+  {
+   "id": "school",
+   "title": "Growing up in the UK",
+   "text": [
+    "Education is run separately in each of the four nations. In England, children start school at 4 or 5 and stay in education or training until 18. At 16 most take GCSE exams, and many then take A levels to go to university; Scotland has its own exams called Nationals and Highers.",
+    "Most pupils wear a school uniform, something that is less common in much of Europe. Hobbies, sports clubs and part-time jobs are common, and many teenagers take the Duke of Edinburgh's Award, which involves volunteering and expeditions."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Census",
+   "meaning": "An official count of everyone in a country, with questions about their lives, held every ten years in the UK."
+  },
+  {
+   "term": "GCSE",
+   "meaning": "General Certificate of Secondary Education: the exams most pupils in England, Wales and Northern Ireland take at 16."
+  }
+ ]
+}

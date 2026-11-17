@@ -1,0 +1,66 @@
+{
+ "status": "draft",
+ "intro": "From Shakespeare to the Beatles, Harry Potter to grime, British culture is exported all over the world, and it mixes old traditions with influences from every community that has made its home there.",
+ "chapters": [
+  {
+   "id": "books",
+   "title": "Writers and stories",
+   "text": [
+    "William Shakespeare, born in Stratford-upon-Avon in 1564, is often called the greatest writer in the English language. His plays, such as Romeo and Juliet, Hamlet and Macbeth, are performed and studied around the world, and he invented or first recorded many everyday words and phrases.",
+    "Other famous British writers include Jane Austen, Charles Dickens, the Brontë sisters, J.R.R. Tolkien, Roald Dahl and J.K. Rowling, whose first Harry Potter book came out in 1997 and became one of the best-selling series ever."
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music",
+   "text": [
+    "In the 1960s the Beatles, from Liverpool, became the most successful band in history and led a 'British Invasion' of the American charts, followed by the Rolling Stones. Later decades brought Queen, David Bowie, the Spice Girls and Oasis, and today Adele, Ed Sheeran and Dua Lipa sell records worldwide.",
+    "Black British music has shaped the sound of the country, from reggae and drum and bass to grime and UK drill, with artists such as Stormzy. Glastonbury, held on a farm in Somerset since 1970, is one of the world's best-known music festivals."
+   ],
+   "related": [
+    "USA",
+    "JAM"
+   ]
+  },
+  {
+   "id": "screen",
+   "title": "Film and TV",
+   "text": [
+    "The BBC, founded in 1922, is the oldest national broadcaster in the world and is paid for by a licence fee rather than adverts. Doctor Who, first shown in 1963, is the longest-running science-fiction TV series.",
+    "James Bond has been on cinema screens since 1962, and studios near London have made films from Harry Potter to Star Wars. Bristol's Aardman studio makes the clay animations of Wallace and Gromit."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food and drink",
+   "text": [
+    "Classic British dishes include fish and chips, the Sunday roast with Yorkshire puddings, the full English breakfast, pies and crumbles. Scotland has haggis and Wales has cawl, a lamb and vegetable stew.",
+    "Food from around the world is part of everyday life, and curry houses run by families of Bangladeshi and Pakistani origin made curry one of the nation's favourite meals. Britain is famous for tea drinking, usually with milk."
+   ],
+   "related": [
+    "BGD",
+    "PAK",
+    "IND"
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Festivals and traditions",
+   "text": [
+    "On 5 November people set off fireworks and light bonfires for Bonfire Night, remembering the failed Gunpowder Plot of 1605, a plan to blow up Parliament and King James I.",
+    "London's Notting Hill Carnival, started by the Caribbean community in the 1960s, is one of the largest street festivals in Europe. Wales holds the Eisteddfod, a festival of poetry and music in Welsh, and Scotland has Highland Games with tossing the caber, and Burns Night celebrating the poet Robert Burns.",
+    "Most of the UK's big national museums, including the British Museum and the Natural History Museum, are free to visit."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Licence fee",
+   "meaning": "A yearly payment by households that watch live TV, which pays for the BBC."
+  },
+  {
+   "term": "Grime",
+   "meaning": "A style of fast rap music that grew up in east London in the early 2000s."
+  }
+ ]
+}

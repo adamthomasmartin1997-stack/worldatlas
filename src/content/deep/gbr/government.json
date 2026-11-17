@@ -1,0 +1,99 @@
+{
+ "status": "draft",
+ "intro": "The United Kingdom is a constitutional monarchy: King Charles III is head of state, but the country is run by a prime minister and government who answer to an elected Parliament in London.",
+ "chapters": [
+  {
+   "id": "constitution",
+   "title": "A constitution that isn't written down",
+   "text": [
+    "Unlike most countries, the UK has no single document called 'the constitution'. Its rules come from many laws passed over centuries, from Magna Carta to the Bill of Rights, together with court decisions and long-standing customs called conventions.",
+    "This makes the system flexible: Parliament can change almost any law by a simple vote. Critics say it also makes it harder to protect rights, because no law is above Parliament."
+   ]
+  },
+  {
+   "id": "monarch",
+   "title": "The monarch",
+   "text": [
+    "King Charles III became king in 2022. The monarch opens Parliament each year, signs laws, meets the prime minister every week and appoints the government, but by convention always follows the advice of elected politicians and stays out of politics.",
+    "The King is also head of state of 14 other countries, including Canada, Australia, New Zealand and Jamaica, and head of the Commonwealth."
+   ],
+   "related": [
+    "CAN",
+    "AUS",
+    "NZL",
+    "JAM"
+   ]
+  },
+  {
+   "id": "parliament",
+   "title": "Parliament and the prime minister",
+   "text": [
+    "Parliament meets in the Palace of Westminster in London. The House of Commons has 650 Members of Parliament (MPs), each elected by the voters of one area, called a constituency. Whoever gets the most votes in a constituency wins, even if they get less than half: this is called first past the post.",
+    "The party with a majority of MPs forms the government, and its leader becomes prime minister, living at 10 Downing Street. The prime minister chooses a Cabinet of ministers to run departments such as health and education. General elections must be held at least every five years.",
+    "The House of Lords is the second chamber. Its members are not elected: most are appointed for life, alongside some bishops and a small number who inherited their seats. It checks and suggests changes to laws but cannot block the Commons for long."
+   ],
+   "facts": [
+    {
+     "label": "Members of the Commons",
+     "value": "650"
+    },
+    {
+     "label": "Voting age",
+     "value": "18 (16 in Scottish and Welsh elections)"
+    },
+    {
+     "label": "Longest gap between elections",
+     "value": "5 years"
+    }
+   ]
+  },
+  {
+   "id": "devolution",
+   "title": "Devolution",
+   "text": [
+    "Since 1999 Scotland, Wales and Northern Ireland have had their own parliaments or assemblies, which make laws on things such as schools, health and transport. Scotland's parliament is at Holyrood in Edinburgh, and the Welsh Parliament is the Senedd in Cardiff.",
+    "Northern Ireland's Assembly uses 'power sharing': the largest unionist party (which wants to stay in the UK) and the largest nationalist party (which wants a united Ireland) must govern together. England has no parliament of its own; its laws are made at Westminster."
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Flag and symbols",
+   "text": [
+    "The Union Flag, often called the Union Jack, combines the red cross of St George for England, the white diagonal cross of St Andrew for Scotland and the red diagonal cross of St Patrick for Ireland. Wales has no part in it because it was treated as part of England when the flag was designed; the Welsh flag has a red dragon.",
+    "The national anthem is God Save the King. Each nation also has its own patron saint and national day, such as St Andrew's Day for Scotland and St David's Day for Wales."
+   ]
+  },
+  {
+   "id": "world",
+   "title": "The UK in the world",
+   "text": [
+    "The UK is one of the five permanent members of the UN Security Council, a nuclear power and a founding member of NATO. It is part of the G7 group of large economies and leads the Commonwealth.",
+    "It left the European Union in 2020 but still works closely with its European neighbours, and has a long 'special relationship' with the United States."
+   ],
+   "related": [
+    "USA",
+    "FRA",
+    "RUS",
+    "CHN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Convention",
+   "meaning": "An unwritten rule that everyone follows, such as the monarch always signing laws Parliament has passed."
+  },
+  {
+   "term": "Constituency",
+   "meaning": "An area whose voters elect one MP."
+  },
+  {
+   "term": "First past the post",
+   "meaning": "A voting system where the candidate with the most votes wins, even without a majority."
+  },
+  {
+   "term": "Unionist / nationalist",
+   "meaning": "In Northern Ireland, people who want to stay in the UK, and people who want to join the Republic of Ireland."
+  }
+ ]
+}

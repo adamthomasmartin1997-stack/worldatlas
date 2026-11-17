@@ -1,0 +1,75 @@
+{
+ "status": "draft",
+ "intro": "Britain gave the world the rules of football, rugby, cricket, tennis and golf. It plays most team sports as four separate nations, but competes together as Team GB at the Olympics.",
+ "chapters": [
+  {
+   "id": "inventors",
+   "title": "The birthplace of modern sport",
+   "text": [
+    "Many of the world's most popular sports took their modern form in Britain in the 1800s. The Football Association wrote the first official rules of football in 1863. Rugby is named after Rugby School, and the Rugby Football Union was formed in 1871. Wimbledon, first held in 1877, is the oldest tennis tournament in the world, and St Andrews in Scotland is called 'the home of golf'.",
+    "British sailors, soldiers, teachers and workers then spread these games across the empire and beyond."
+   ],
+   "highlight": {
+    "title": "Four teams, one country",
+    "text": "In football and rugby, England, Scotland, Wales and Northern Ireland have their own national teams, because each nation set up its own sports association before international competitions began."
+   }
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Premier League, launched in 1992, is the most watched football league in the world, with clubs such as Manchester United, Liverpool, Arsenal, Chelsea and Manchester City followed by fans everywhere.",
+    "England won the men's World Cup in 1966, at home. The women's team, the Lionesses, won the European Championship in 2022 and again in 2025. Scotland's Celtic and Rangers, both from Glasgow, have one of the fiercest rivalries in football."
+   ]
+  },
+  {
+   "id": "rugby-cricket",
+   "title": "Rugby and cricket",
+   "text": [
+    "Rugby is especially loved in Wales, where it is the national sport. England, Scotland and Wales play in the Six Nations every year, and Ireland's rugby team represents the whole island, including Northern Ireland. England's men won the Rugby World Cup in 2003, and the women's team, the Red Roses, won it at home in 2025.",
+    "Cricket is played every summer, and Lord's in London is called 'the home of cricket'. Matches between England and Australia, called the Ashes, have been played since 1882."
+   ],
+   "related": [
+    "AUS",
+    "IRL",
+    "FRA",
+    "ITA",
+    "NZL"
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics and Paralympics",
+   "text": [
+    "London was the first city to host the Summer Olympics three times, in 1908, 1948 and 2012. Team GB has been among the top medal winners at recent Games, especially in cycling, rowing and sailing.",
+    "The Paralympic movement began in Britain: in 1948 Dr Ludwig Guttmann organised games for injured soldiers at Stoke Mandeville hospital, which grew into the Paralympic Games."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "The Stoke Mandeville games changed how the world saw disabled athletes. The Paralympics are now one of the biggest sporting events on Earth."
+   }
+  },
+  {
+   "id": "more",
+   "title": "Racing, tennis and more",
+   "text": [
+    "The first Formula One World Championship race was held at Silverstone in 1950, and many F1 teams are based in England. Lewis Hamilton has won seven world titles, a joint record.",
+    "In tennis, Andy Murray became the first British man in 77 years to win Wimbledon in 2013, and Emma Raducanu won the US Open in 2021 as a qualifier, something no player had done before. Other popular sports include darts, snooker, horse racing and netball."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Team GB",
+   "meaning": "The name for the United Kingdom's team at the Olympic Games."
+  },
+  {
+   "term": "The Ashes",
+   "meaning": "The cricket series between England and Australia, played for a tiny urn."
+  },
+  {
+   "term": "Six Nations",
+   "meaning": "A yearly rugby tournament between England, France, Ireland, Italy, Scotland and Wales."
+  }
+ ]
+}

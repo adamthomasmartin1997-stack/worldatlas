@@ -1,0 +1,68 @@
+{
+ "status": "draft",
+ "intro": "The country that started the Industrial Revolution now earns most of its money from services such as finance, science and the creative industries, with London as one of the world's great financial centres.",
+ "chapters": [
+  {
+   "id": "services",
+   "title": "A services economy",
+   "text": [
+    "About four in five jobs in the UK are in services: shops, offices, hospitals, schools, transport and tourism. The City of London, the old financial district, is one of the world's biggest centres for banking, insurance and currency trading.",
+    "The currency, the pound sterling, is one of the oldest currencies still in use. The Bank of England, set up in 1694, controls interest rates to try to keep prices steady."
+   ]
+  },
+  {
+   "id": "industry",
+   "title": "From coal and steel to cars and planes",
+   "text": [
+    "In the 1800s Britain led the world in coal, iron, steel, textiles and shipbuilding. Many of these industries shrank in the 1970s and 1980s as they faced cheaper competition from abroad, and coal mines, steelworks and shipyards closed, hitting towns in the north of England, Scotland and Wales hard.",
+    "Manufacturing still matters. Rolls-Royce makes jet engines, BAE Systems builds military aircraft and ships, and car plants make Minis, Jaguars, Land Rovers and Nissans. The UK is also strong in medicines: the Oxford–AstraZeneca vaccine was one of the first COVID-19 vaccines."
+   ]
+  },
+  {
+   "id": "creative",
+   "title": "Science and creative industries",
+   "text": [
+    "British universities such as Oxford and Cambridge are among the best known in the world, and the UK is a leader in science, medicine and artificial intelligence research.",
+    "Film, TV, music, fashion, design and video games are big earners. The Harry Potter and James Bond films were made in British studios, and some of the world's best-selling video games, including Grand Theft Auto, were made in Scotland."
+   ]
+  },
+  {
+   "id": "energy",
+   "title": "Energy",
+   "text": [
+    "Oil and gas were found under the North Sea in the 1960s and 1970s, bringing jobs and money to Aberdeen and the north-east of Scotland. Production has been falling for years.",
+    "The UK has built more offshore wind farms than almost any other country, thanks to its windy, shallow seas. In 2024 its last coal-fired power station closed, making it the first large industrial economy to stop using coal for electricity."
+   ],
+   "highlight": {
+    "title": "From coal to wind",
+    "text": "The country whose coal powered the Industrial Revolution now gets far more of its electricity from wind than from coal."
+   }
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "Wealth is spread unevenly: London and the south-east are much richer than many parts of the north, Wales and Northern Ireland. Leaving the EU made trade with European neighbours more complicated, and the cost of food, energy and housing rose sharply after 2021.",
+    "The UK's biggest trading partners include the United States, Germany, the Netherlands, France, China and Ireland."
+   ],
+   "related": [
+    "USA",
+    "DEU",
+    "NLD",
+    "FRA",
+    "CHN",
+    "IRL"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Interest rate",
+   "meaning": "The cost of borrowing money. Central banks raise it to slow price rises and lower it to encourage spending."
+  },
+  {
+   "term": "Offshore wind",
+   "meaning": "Wind turbines built out at sea, where winds are stronger and steadier."
+  }
+ ]
+}

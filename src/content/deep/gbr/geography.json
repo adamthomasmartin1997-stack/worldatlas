@@ -1,0 +1,90 @@
+{
+ "status": "draft",
+ "intro": "The United Kingdom is made of four nations on two big islands and thousands of small ones. It has rugged mountains in the north and west, gentle farmland in the south and east, and nowhere is very far from the sea.",
+ "chapters": [
+  {
+   "id": "four-nations",
+   "title": "Four nations, many islands",
+   "text": [
+    "The UK is made up of England, Scotland and Wales, which share the island of Great Britain, and Northern Ireland, in the north-east of the island of Ireland. England is the largest and has most of the people; Scotland covers about a third of the land.",
+    "There are thousands of smaller islands too, from the Isle of Wight and Anglesey to the Hebrides, Orkney and Shetland off Scotland. The Isle of Man and the Channel Islands, such as Jersey and Guernsey, belong to the British Crown but are not part of the UK.",
+    "The UK's only land border is with the Republic of Ireland. Since 1994 the Channel Tunnel, running under the sea, has linked England to France."
+   ],
+   "highlight": {
+    "title": "Never far from the sea",
+    "text": "Nowhere in the UK is more than about 115 km (70 miles) from the coast."
+   },
+   "related": [
+    "IRL",
+    "FRA"
+   ]
+  },
+  {
+   "id": "highlands",
+   "title": "Highlands and lowlands",
+   "text": [
+    "An imaginary line from the River Tees in north-east England to the River Exe in the south-west roughly splits Great Britain in two. North and west of it the land is older, harder rock: mountains, moors and lakes. South and east of it are lower hills and flat farmland.",
+    "The Scottish Highlands hold Ben Nevis, the highest mountain in the UK, and deep lochs such as Loch Ness. Wales has the mountains of Eryri (Snowdonia), and England has the Lake District and the Pennines, a chain of hills called 'the backbone of England'.",
+    "The south-east, around London, is the flattest and driest part of the country, and the fens of eastern England are so low that some land lies below sea level."
+   ]
+  },
+  {
+   "id": "rivers-coasts",
+   "title": "Rivers, lakes and coasts",
+   "text": [
+    "The longest river is the Severn, which flows from the Welsh mountains to the Bristol Channel. The Thames flows through Oxford and London to the North Sea. Lough Neagh in Northern Ireland is the largest lake in the UK by area.",
+    "The coastline is full of famous sights: the white chalk cliffs of Dover, the Jurassic Coast in Dorset where people hunt for fossils, and the Giant's Causeway in Northern Ireland, made of about 40,000 stone columns formed by cooling lava."
+   ],
+   "highlight": {
+    "title": "A giant's path",
+    "text": "Legend says the Giant's Causeway was built by the giant Finn McCool so he could walk to Scotland. Geologists say it formed from lava about 60 million years ago."
+   }
+  },
+  {
+   "id": "weather",
+   "title": "The weather",
+   "text": [
+    "The UK has a mild, damp climate. Winds from the Atlantic and a warm ocean current called the North Atlantic Drift keep winters milder than in other places this far north, such as Moscow or southern Canada.",
+    "The west, facing the Atlantic, is the wettest part, especially the mountains of Scotland, Wales and the Lake District. The south-east is warmer and drier. The weather changes quickly, which is one reason British people talk about it so much.",
+    "Summers are getting hotter: in July 2022 the temperature reached 40.3°C in Lincolnshire, the first time the UK had ever passed 40°C."
+   ]
+  },
+  {
+   "id": "nature",
+   "title": "Nature and national parks",
+   "text": [
+    "Most of the UK's ancient forests were cleared long ago for farming, and today it has fewer trees than most European countries. Moors, hedgerows, farmland and parks are home to badgers, foxes, hedgehogs and many birds. Red deer are the largest wild land animals, and puffins nest on cliffs and islands.",
+    "The UK has 15 national parks. The first, the Peak District, opened in 1951 after years of campaigning by walkers for the right to roam the countryside."
+   ]
+  },
+  {
+   "id": "overseas",
+   "title": "Overseas territories",
+   "text": [
+    "The UK still looks after 14 British Overseas Territories, the last pieces of its empire. They include Gibraltar at the tip of Spain, Bermuda and the Cayman Islands in the Atlantic and Caribbean, the Falkland Islands in the South Atlantic and a large claim in Antarctica.",
+    "Most are small islands with their own governments, while the UK handles defence and foreign affairs."
+   ],
+   "related": [
+    "GIB",
+    "BMU",
+    "CYM",
+    "FLK",
+    "SHN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Great Britain",
+   "meaning": "The largest island, shared by England, Scotland and Wales. The 'United Kingdom' adds Northern Ireland."
+  },
+  {
+   "term": "Loch / lough",
+   "meaning": "The Scottish and Irish words for a lake or a narrow arm of the sea."
+  },
+  {
+   "term": "Moor",
+   "meaning": "Open, high land covered with rough grass and heather, with few trees."
+  }
+ ]
+}
