@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Austria is a wealthy country with strong industry, a big tourism sector and electricity that comes mostly from renewable sources.",
+ "chapters": [
+  {
+   "id": "industry",
+   "title": "Industry and brands",
+   "text": [
+    "Austrian factories make machinery, steel and car parts; Magna Steyr in Graz even builds complete cars for other brands. Red Bull and Swarovski crystal are Austrian companies."
+   ]
+  },
+  {
+   "id": "tourism-energy",
+   "title": "Tourism and energy",
+   "text": [
+    "Ski resorts, lakes and Vienna make tourism a major industry. Rivers and mountains provide hydropower, and most of Austria's electricity comes from renewable sources. Austria uses the euro."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Hydropower",
+   "meaning": "Electricity made from flowing water."
+  }
+ ]
+}

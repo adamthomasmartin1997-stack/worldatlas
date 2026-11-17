@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Austria is one of the strongest skiing nations on Earth, and has produced champions in motor racing and football.",
+ "chapters": [
+  {
+   "id": "skiing",
+   "title": "Skiing",
+   "text": [
+    "Austrian skiers have won more Alpine skiing World Cup races than any other nation. Marcel Hirscher won eight overall World Cup titles in a row, and Hermann Maier and Annemarie Moser-Pröll are legends. Innsbruck hosted the Winter Olympics in 1964 and 1976."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Racing and football",
+   "text": [
+    "Niki Lauda won three Formula One titles and returned to racing weeks after a terrible crash in 1976. Austria co-hosted Euro 2008 with Switzerland, and Dominic Thiem won the US Open in 2020."
+   ],
+   "related": [
+    "CHE"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Alpine skiing",
+   "meaning": "Downhill ski racing, including slalom and downhill events."
+  }
+ ]
+}

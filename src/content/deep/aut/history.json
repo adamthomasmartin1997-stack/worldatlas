@@ -1,0 +1,119 @@
+{
+ "status": "draft",
+ "intro": "For more than 600 years Austria was the heart of the Habsburg Empire, one of Europe's great powers. After the empire collapsed in 1918, it became a small republic, was swallowed by Nazi Germany, and re-emerged in 1955 as a neutral state.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Salt, Romans and Habsburgs",
+   "text": [
+    "Iron Age people grew rich mining salt at Hallstatt, so famous that a whole period of European prehistory is named after the town. The Romans guarded the Danube frontier, with a fort at Vindobona, today's Vienna.",
+    "In 1278 the Habsburg family took control of Austria. Through wars and clever marriages they came to rule lands across Europe and, for centuries, held the title of Holy Roman Emperor. Ottoman armies besieged Vienna in 1529 and 1683 but were driven back."
+   ],
+   "related": [
+    "TUR",
+    "DEU",
+    "HUN",
+    "CZE"
+   ]
+  },
+  {
+   "id": "empire",
+   "title": "Empress and composers",
+   "text": [
+    "Maria Theresa, who ruled from 1740 to 1780, was the only woman to head the Habsburg lands; she reformed schools and the army and had 16 children. Vienna became the capital of music, home to Haydn, Mozart, Beethoven and Schubert.",
+    "In 1867 the empire became Austria-Hungary. Emperor Franz Joseph reigned for 68 years. In 1914 his heir, Archduke Franz Ferdinand, was assassinated in Sarajevo, triggering the First World War."
+   ],
+   "related": [
+    "HUN",
+    "BIH",
+    "SRB"
+   ]
+  },
+  {
+   "id": "republic",
+   "title": "Republic, annexation and neutrality",
+   "text": [
+    "Defeat in 1918 broke up the empire, leaving a small German-speaking republic. In 1938 Nazi Germany annexed Austria in the Anschluss, and many Austrians took part in Nazi crimes; Austria's Jewish community was destroyed.",
+    "After 1945 Austria was occupied by the four Allied powers. They left in 1955, when Austria declared permanent neutrality, celebrated every 26 October. Austria joined the EU in 1995, and Vienna became one of the headquarters of the United Nations."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Austria's neutrality kept it out of the Cold War's military alliances, and Vienna became a meeting place between East and West."
+   },
+   "related": [
+    "DEU",
+    "USA",
+    "GBR",
+    "FRA",
+    "RUS"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 800 BC",
+   "title": "Hallstatt",
+   "text": "Salt mining makes the region rich."
+  },
+  {
+   "year": "1278",
+   "title": "Habsburgs",
+   "text": "The Habsburg family takes Austria."
+  },
+  {
+   "year": "1683",
+   "title": "Siege of Vienna",
+   "text": "The Ottoman army is defeated."
+  },
+  {
+   "year": "1740",
+   "title": "Maria Theresa",
+   "text": "She begins her 40-year reign."
+  },
+  {
+   "year": "1756",
+   "title": "Mozart born",
+   "text": "In Salzburg."
+  },
+  {
+   "year": "1867",
+   "title": "Austria-Hungary",
+   "text": "The Dual Monarchy is created."
+  },
+  {
+   "year": "1914",
+   "title": "Sarajevo",
+   "text": "Franz Ferdinand is assassinated."
+  },
+  {
+   "year": "1918",
+   "title": "Republic",
+   "text": "The empire collapses."
+  },
+  {
+   "year": "1938",
+   "title": "Anschluss",
+   "text": "Nazi Germany annexes Austria."
+  },
+  {
+   "year": "1955",
+   "title": "State Treaty",
+   "text": "Austria becomes independent and neutral."
+  },
+  {
+   "year": "1995",
+   "title": "Joins the EU",
+   "text": "Austria becomes an EU member."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Habsburgs",
+   "meaning": "The royal family that ruled Austria and much of Europe for centuries."
+  },
+  {
+   "term": "Anschluss",
+   "meaning": "German for 'joining': Nazi Germany's annexation of Austria in 1938."
+  }
+ ]
+}

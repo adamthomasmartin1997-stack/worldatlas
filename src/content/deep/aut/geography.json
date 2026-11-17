@@ -1,0 +1,37 @@
+{
+ "status": "draft",
+ "intro": "Austria is a landlocked Alpine country: about two-thirds of it is mountains, and the Danube flows across the north.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Alps and Danube",
+   "text": [
+    "The Alps cover most of Austria, and the Grossglockner is the highest peak. Lakes, waterfalls such as the Krimml Falls and huge ice caves draw visitors. The Danube flows past Linz and Vienna, and in the east lies the shallow steppe lake of Neusiedl.",
+    "Austria borders eight countries: Germany, Czechia, Slovakia, Hungary, Slovenia, Italy, Switzerland and Liechtenstein."
+   ],
+   "related": [
+    "DEU",
+    "CZE",
+    "SVK",
+    "HUN",
+    "SVN",
+    "ITA",
+    "CHE",
+    "LIE"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Winters bring deep snow to the mountains and make Austria one of the world's great skiing destinations; summers are warm. About half the country is forest."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Landlocked",
+   "meaning": "Having no coastline."
+  }
+ ]
+}

@@ -1,0 +1,117 @@
+{
+ "status": "draft",
+ "intro": "Belgium sits on one of Europe's great crossroads and has often been its battlefield. Independent since 1830, it became an early industrial power, ruled a brutal colony in the Congo, and today is home to the EU and NATO.",
+ "chapters": [
+  {
+   "id": "crossroads",
+   "title": "Cloth towns and crossroads",
+   "text": [
+    "Julius Caesar wrote that the Belgae were the bravest of the Gauls. In the Middle Ages, towns in Flanders such as Bruges, Ghent and Ypres grew rich from weaving cloth and trade, and painters such as Jan van Eyck worked there.",
+    "For centuries the land was ruled by Burgundy, Spain, Austria and France. In 1815 Napoleon was finally defeated at Waterloo, just south of Brussels."
+   ],
+   "related": [
+    "FRA",
+    "ESP",
+    "AUT",
+    "NLD"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence and industry",
+   "text": [
+    "After 15 years as part of the Netherlands, Belgians rebelled in 1830 and created an independent kingdom. Belgium became the first country in continental Europe to industrialise, with coal mines, steelworks and, in 1835, the continent's first passenger railway."
+   ],
+   "related": [
+    "NLD"
+   ]
+  },
+  {
+   "id": "congo",
+   "title": "The Congo",
+   "text": [
+    "In 1885 King Leopold II took the vast Congo Free State in Central Africa as his personal property. To collect rubber, his agents used forced labour, hostage-taking and mutilation, and millions of Congolese died. International outrage forced the Belgian state to take over the colony in 1908; Congo became independent in 1960, and Rwanda and Burundi, also ruled by Belgium, in 1962."
+   ],
+   "highlight": {
+    "title": "Facing the past",
+    "text": "Belgium has begun to confront this history, returning some objects taken from Congo and expressing regret, while debate continues about statues of Leopold II."
+   },
+   "related": [
+    "COD",
+    "RWA",
+    "BDI"
+   ]
+  },
+  {
+   "id": "wars",
+   "title": "Wars and Europe",
+   "text": [
+    "Despite its neutrality, Belgium was invaded by Germany in both world wars. Around Ypres, fields of poppies became a symbol of remembrance, and the Last Post is still played every evening at the Menin Gate.",
+    "After 1945 Belgium helped found NATO and the European Communities, and Brussels became home to their headquarters. Since the 1970s the country has become a federation to manage tensions between Dutch and French speakers."
+   ],
+   "related": [
+    "DEU",
+    "GBR",
+    "LUX",
+    "NLD"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1302",
+   "title": "Battle of the Golden Spurs",
+   "text": "Flemish townsmen defeat French knights."
+  },
+  {
+   "year": "1432",
+   "title": "Ghent Altarpiece",
+   "text": "Jan van Eyck's masterpiece is finished."
+  },
+  {
+   "year": "1815",
+   "title": "Waterloo",
+   "text": "Napoleon is defeated near Brussels."
+  },
+  {
+   "year": "1830",
+   "title": "Independence",
+   "text": "Belgium breaks away from the Netherlands."
+  },
+  {
+   "year": "1885",
+   "title": "Congo Free State",
+   "text": "Leopold II takes the Congo."
+  },
+  {
+   "year": "1914",
+   "title": "German invasion",
+   "text": "Belgium becomes a battlefield."
+  },
+  {
+   "year": "1958",
+   "title": "EEC",
+   "text": "Brussels becomes home to the European Community."
+  },
+  {
+   "year": "1960",
+   "title": "Congo independent",
+   "text": "Colonial rule ends."
+  },
+  {
+   "year": "1993",
+   "title": "Federal state",
+   "text": "Belgium officially becomes a federation."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Colony",
+   "meaning": "A land ruled by another country."
+  },
+  {
+   "term": "Federation",
+   "meaning": "A country made of regions that share power with a central government."
+  }
+ ]
+}

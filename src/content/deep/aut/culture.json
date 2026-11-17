@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Austria is synonymous with classical music, Vienna's coffee houses and balls, and some of Europe's most famous cakes.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music",
+   "text": [
+    "Mozart was born in Salzburg, and Vienna was home to Haydn, Beethoven, Schubert and the waltz king Johann Strauss. The Vienna Philharmonic's New Year's Concert is broadcast around the world, and the Vienna Boys' Choir dates back to 1498. The Sound of Music was set in Salzburg."
+   ]
+  },
+  {
+   "id": "ideas-food",
+   "title": "Ideas and food",
+   "text": [
+    "Sigmund Freud developed psychoanalysis in Vienna, and Gustav Klimt painted The Kiss. Wiener Schnitzel, apple strudel and Sachertorte, a rich chocolate cake, are national treats, and Vienna holds hundreds of formal balls each winter."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Waltz",
+   "meaning": "A dance in three-four time, made famous in Vienna."
+  }
+ ]
+}

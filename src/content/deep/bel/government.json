@@ -1,0 +1,41 @@
+{
+ "status": "draft",
+ "intro": "Belgium is a federal constitutional monarchy with one of the most complicated systems of government in the world, and Brussels is the capital of the European Union.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Regions and communities",
+   "text": [
+    "King Philippe has reigned since 2013. Power is shared between the federal government, three regions (Flanders, Wallonia and Brussels) and three language communities (Dutch, French and German), each with its own parliament.",
+    "Forming coalition governments can take a very long time; after the 2010 election Belgium went 541 days without a new government."
+   ],
+   "facts": [
+    {
+     "label": "Regions",
+     "value": "3"
+    },
+    {
+     "label": "Language communities",
+     "value": "3"
+    },
+    {
+     "label": "Voting",
+     "value": "Compulsory"
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "title": "Capital of Europe",
+   "text": [
+    "Brussels hosts the European Commission, the Council of the EU and NATO's headquarters. The flag has vertical black, yellow and red bands, and National Day is 21 July."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Compulsory voting",
+   "meaning": "A rule that citizens must vote."
+  }
+ ]
+}

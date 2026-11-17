@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Cycling is almost a religion in Belgium, and its 'golden generation' of footballers made it the world's top-ranked team for years.",
+ "chapters": [
+  {
+   "id": "cycling",
+   "title": "Cycling",
+   "text": [
+    "Eddy Merckx, 'the Cannibal', won the Tour de France five times and is often called the greatest cyclist ever. Races over cobbled hills, such as the Tour of Flanders, are national events. In 2024 Remco Evenepoel became the first man to win both the Olympic road race and time trial at the same Games."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Football, athletics and racing",
+   "text": [
+    "Belgium's football team, the Red Devils, was ranked number one in the world for several years and finished third at the 2018 World Cup. Heptathlete Nafi Thiam won Olympic gold in 2016, 2021 and 2024, and the Spa-Francorchamps circuit hosts the Belgian Grand Prix."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Heptathlon",
+   "meaning": "An athletics contest of seven events."
+  }
+ ]
+}

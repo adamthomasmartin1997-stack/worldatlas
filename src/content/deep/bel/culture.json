@@ -1,0 +1,27 @@
+{
+ "status": "draft",
+ "intro": "Belgium gave the world Tintin and the Smurfs, the saxophone, Flemish painting and a beer culture recognised by UNESCO.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Painters and comics",
+   "text": [
+    "Flemish painters such as Jan van Eyck, Pieter Bruegel and Peter Paul Rubens are among the greatest in history, and René Magritte painted surrealist puzzles. Hergé created Tintin in 1929, and Peyo the Smurfs in 1958; murals of comic characters cover walls in Brussels.",
+    "Adolphe Sax, from Dinant, invented the saxophone in the 1840s."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food and festivals",
+   "text": [
+    "Belgians say they invented chips (fries), served with mayonnaise. Waffles, mussels, chocolate and speculoos biscuits are national treats, and Belgium brews hundreds of different beers. The Carnival of Binche and the dance festival Tomorrowland draw huge crowds."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Surrealism",
+   "meaning": "An art movement that painted dreamlike, impossible scenes."
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "status": "draft",
+ "intro": "Most Austrians speak German and live in or near the Alps or along the Danube; Vienna is often ranked among the world's most liveable cities.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "About a fifth of Austrians live in Vienna. Austrian German has its own words and dialects, and Slovene, Croatian and Hungarian minorities live in the south and east. Many people have roots in Germany, Turkey, Serbia, Bosnia, Romania and Syria.",
+    "Most Austrians are Catholic by tradition. Vienna's coffee houses, where people linger for hours over coffee and newspapers, are on UNESCO's heritage list."
+   ],
+   "related": [
+    "DEU",
+    "TUR",
+    "SRB",
+    "BIH",
+    "ROU"
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "On 5 December, people dressed as Krampus, a horned demon, roam the streets in the Alps to scare naughty children. The Christmas carol Silent Night was first sung in the Austrian village of Oberndorf in 1818."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dialect",
+   "meaning": "A local form of a language."
+  }
+ ]
+}

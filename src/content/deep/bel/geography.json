@@ -1,0 +1,33 @@
+{
+ "status": "draft",
+ "intro": "Belgium is a small, crowded country with a short North Sea coast, flat Flanders in the north and the forested hills of the Ardennes in the south.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Flanders and the Ardennes",
+   "text": [
+    "The north is flat and fertile, crossed by canals; Antwerp lies on the River Scheldt. The south rises into the Ardennes, a region of forests, rivers and caves, where the Signal de Botrange is the highest point.",
+    "Belgium borders France, Luxembourg, Germany and the Netherlands. In the town of Baarle, tiny pieces of Belgium and the Netherlands are mixed together so that the border runs through houses and cafés."
+   ],
+   "related": [
+    "FRA",
+    "LUX",
+    "DEU",
+    "NLD"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The climate is mild and rainy, with cool summers and gentle winters. Belgium has only about 66 km of coast, linked by one of the world's longest tram lines."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ardennes",
+   "meaning": "A hilly, forested region in Belgium, Luxembourg and France."
+  }
+ ]
+}

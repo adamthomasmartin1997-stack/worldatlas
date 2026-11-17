@@ -1,0 +1,33 @@
+{
+ "status": "draft",
+ "intro": "Belgium is split between Dutch-speaking Flanders and French-speaking Wallonia, with a small German-speaking community and a very international capital.",
+ "chapters": [
+  {
+   "id": "languages",
+   "title": "Three languages",
+   "text": [
+    "About six in ten Belgians speak Dutch, often called Flemish, in the north; most of the rest speak French, in the south. A small German-speaking community lives in the east. Brussels is officially bilingual, though mostly French-speaking.",
+    "Brussels is one of Europe's most diverse cities, with many residents from Morocco, Turkey, Congo and other EU countries."
+   ],
+   "related": [
+    "MAR",
+    "TUR",
+    "COD",
+    "ITA"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Belgian life",
+   "text": [
+    "Belgium's main cities include Brussels, Antwerp, Ghent, Charleroi and Liège. Most Belgians are Catholic by tradition, and voting in elections is compulsory."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Flemish",
+   "meaning": "The Dutch spoken in Flanders."
+  }
+ ]
+}

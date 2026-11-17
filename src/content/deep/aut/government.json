@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Austria is a federal parliamentary republic of nine states and has been permanently neutral since 1955.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "President and chancellor",
+   "text": [
+    "The president is directly elected for six years. The chancellor leads the government and needs the support of the National Council, the main chamber of parliament. In 2007 Austria became the first EU country to let 16-year-olds vote in national elections."
+   ],
+   "facts": [
+    {
+     "label": "States",
+     "value": "9"
+    },
+    {
+     "label": "Voting age",
+     "value": "16"
+    },
+    {
+     "label": "National Day",
+     "value": "26 October"
+    }
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols and the world",
+   "text": [
+    "The red-white-red flag is one of the oldest national flags in the world. Austria is neutral and not a member of NATO. Vienna hosts UN agencies, OPEC and the Organization for Security and Co-operation in Europe."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Chancellor",
+   "meaning": "The head of government in Austria and Germany."
+  }
+ ]
+}
