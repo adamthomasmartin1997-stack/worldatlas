@@ -1,0 +1,35 @@
+{
+ "status": "draft",
+ "intro": "Since the end of communism, Poland has been one of Europe's biggest success stories, growing fast for three decades.",
+ "chapters": [
+  {
+   "id": "growth",
+   "title": "From shock therapy to boom",
+   "text": [
+    "In 1990 Poland switched almost overnight from a planned economy to a market economy, a painful 'shock therapy' that was followed by years of strong growth. In 2009 it was the only EU country to avoid a recession.",
+    "Factories make cars, furniture, household appliances and parts for German companies, and big international firms run offices in Kraków and Wrocław. Poland is the EU's biggest apple grower."
+   ],
+   "related": [
+    "DEU"
+   ]
+  },
+  {
+   "id": "games-energy",
+   "title": "Games and energy",
+   "text": [
+    "CD Projekt, from Warsaw, created The Witcher games and Cyberpunk 2077, making Poland a major force in video games.",
+    "Coal still produces a large share of Poland's electricity, and the country is building wind farms and planning its first nuclear power station. It uses its own currency, the złoty, not the euro."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Planned economy",
+   "meaning": "An economy run by the government, which decides what is made and at what price."
+  },
+  {
+   "term": "Market economy",
+   "meaning": "An economy where businesses and buyers decide what is made and prices."
+  }
+ ]
+}

@@ -1,0 +1,150 @@
+{
+ "status": "draft",
+ "intro": "Poland was once one of Europe's largest states, then vanished from the map for 123 years. It suffered terribly in the Second World War, lived under communism, and in 1989 led the peaceful revolutions that ended Soviet control of Eastern Europe.",
+ "chapters": [
+  {
+   "id": "kingdom",
+   "title": "Kingdom and Commonwealth",
+   "text": [
+    "Poland's story as a state begins in 966, when its ruler Mieszko I was baptised a Christian. Kraków became the royal capital. In 1386 Poland's queen Jadwiga married the Grand Duke of Lithuania, and in 1410 their joint army defeated the Teutonic Knights at Grunwald, one of the largest battles of medieval Europe.",
+    "In 1569 the two states formed the Polish-Lithuanian Commonwealth, one of the largest countries in Europe. Its nobles elected their kings and had unusual freedoms. In 1543 the astronomer Nicolaus Copernicus, from the Polish city of Toruń, argued that Earth goes round the Sun."
+   ],
+   "related": [
+    "LTU",
+    "BLR",
+    "UKR",
+    "DEU"
+   ]
+  },
+  {
+   "id": "partitions",
+   "title": "Wiped off the map",
+   "text": [
+    "On 3 May 1791 Poland adopted a written constitution, the first of its kind in Europe and the second in the world after the United States. But its powerful neighbours, Russia, Prussia and Austria, had already begun carving it up, and by 1795 Poland had disappeared entirely.",
+    "For 123 years Poles lived under foreign rule, rising up in 1830 and 1863. Polish language and culture survived: the composer Frédéric Chopin and the scientist Marie Curie, who won two Nobel Prizes, were born in Poland during this time."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Poland's national anthem begins 'Poland has not yet perished, as long as we live', written when the country had just vanished from the map."
+   },
+   "related": [
+    "RUS",
+    "AUT",
+    "DEU",
+    "FRA"
+   ]
+  },
+  {
+   "id": "war",
+   "title": "Independence and war",
+   "text": [
+    "Poland regained independence on 11 November 1918. On 1 September 1939 Nazi Germany invaded, starting the Second World War, and the Soviet Union invaded from the east weeks later.",
+    "Occupied Poland suffered horribly. The Nazis built death camps such as Auschwitz on Polish soil, and about three million Polish Jews, nine in ten, were murdered in the Holocaust, along with millions of other Polish citizens. The Soviets murdered thousands of Polish officers at Katyn. Warsaw rose up twice, in the Ghetto Uprising of 1943 and the Warsaw Uprising of 1944, and afterwards the city was almost completely destroyed."
+   ],
+   "related": [
+    "DEU",
+    "RUS",
+    "ISR"
+   ]
+  },
+  {
+   "id": "solidarity",
+   "title": "Communism and Solidarity",
+   "text": [
+    "After the war Poland's borders were moved west, and it became a communist state under Soviet control. In 1978 the Archbishop of Kraków became Pope John Paul II, inspiring many Poles.",
+    "In 1980 workers at the Gdańsk shipyard, led by electrician Lech Wałęsa, founded Solidarity, the first independent trade union in the Soviet bloc. It was banned under martial law in 1981 but could not be crushed. In 1989 talks led to partly free elections, which Solidarity won, and Poland became the first country in the bloc with a non-communist government."
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Modern Poland",
+   "text": [
+    "Poland joined NATO in 1999 and the European Union in 2004, and its economy grew faster than almost any other in Europe. Since Russia's full-scale invasion of Ukraine in 2022, it has taken in millions of Ukrainian refugees and become one of Ukraine's strongest supporters."
+   ],
+   "related": [
+    "UKR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "966",
+   "title": "Baptism of Poland",
+   "text": "Mieszko I becomes a Christian."
+  },
+  {
+   "year": "1410",
+   "title": "Grunwald",
+   "text": "Poland and Lithuania defeat the Teutonic Knights."
+  },
+  {
+   "year": "1543",
+   "title": "Copernicus",
+   "text": "He publishes his theory that Earth orbits the Sun."
+  },
+  {
+   "year": "1569",
+   "title": "Commonwealth",
+   "text": "Poland and Lithuania unite."
+  },
+  {
+   "year": "1791",
+   "title": "Constitution of 3 May",
+   "text": "Europe's first modern written constitution."
+  },
+  {
+   "year": "1795",
+   "title": "Third Partition",
+   "text": "Poland disappears from the map."
+  },
+  {
+   "year": "1918",
+   "title": "Independence",
+   "text": "Poland is reborn on 11 November."
+  },
+  {
+   "year": "1939",
+   "title": "Invasion",
+   "text": "Germany and the Soviet Union invade."
+  },
+  {
+   "year": "1944",
+   "title": "Warsaw Uprising",
+   "text": "The city rises against the Nazis."
+  },
+  {
+   "year": "1978",
+   "title": "Pope John Paul II",
+   "text": "A Polish pope is elected."
+  },
+  {
+   "year": "1980",
+   "title": "Solidarity",
+   "text": "An independent trade union is founded in Gdańsk."
+  },
+  {
+   "year": "1989",
+   "title": "Free elections",
+   "text": "Communist rule ends."
+  },
+  {
+   "year": "2004",
+   "title": "Joins the EU",
+   "text": "Poland becomes an EU member."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Partition",
+   "meaning": "The division of a country's land between other countries."
+  },
+  {
+   "term": "Commonwealth",
+   "meaning": "Here, the joint Polish-Lithuanian state from 1569 to 1795."
+  },
+  {
+   "term": "Trade union",
+   "meaning": "An organisation of workers that campaigns for their rights."
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "status": "draft",
+ "intro": "Poland is a parliamentary republic and a member of the EU and NATO. It spends more on defence, compared with the size of its economy, than any other NATO member.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "President and parliament",
+   "text": [
+    "The president is elected directly for five years and can veto laws; Karol Nawrocki took office in 2025. The prime minister, chosen by parliament, leads the government; Donald Tusk became prime minister again in 2023. Parliament has two chambers, the Sejm with 460 members and the Senate with 100."
+   ],
+   "facts": [
+    {
+     "label": "Regions (voivodeships)",
+     "value": "16"
+    },
+    {
+     "label": "Sejm",
+     "value": "460 members"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "debates",
+   "title": "Debates",
+   "text": [
+    "Between 2015 and 2023, changes to the courts by the then government led to a long dispute with the EU over the rule of law. Questions about abortion, the role of the church and judges remain hotly debated."
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols and the world",
+   "text": [
+    "The flag is white over red, and the coat of arms shows a white eagle. Independence Day is 11 November and Constitution Day is 3 May.",
+    "Poland joined NATO in 1999 and the EU in 2004. Fearing Russia, it has built up one of the largest armies in Europe."
+   ],
+   "related": [
+    "UKR",
+    "RUS",
+    "DEU",
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sejm",
+   "meaning": "The lower house of Poland's parliament."
+  },
+  {
+   "term": "Rule of law",
+   "meaning": "The principle that everyone, including the government, must follow the law, judged by independent courts."
+  }
+ ]
+}

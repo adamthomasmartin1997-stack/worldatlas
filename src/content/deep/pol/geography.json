@@ -1,0 +1,52 @@
+{
+ "status": "draft",
+ "intro": "Poland lies on the great North European Plain, between the Baltic Sea and the Carpathian Mountains, with thousands of lakes and one of Europe's last ancient forests.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Plains, lakes and mountains",
+   "text": [
+    "Most of Poland is flat or gently rolling. In the north, the Baltic coast has sandy beaches and moving dunes, and the Masurian Lake District has around 2,000 lakes. In the far south, the Tatra Mountains, shared with Slovakia, hold Poland's highest peak.",
+    "The Vistula, Poland's longest river, flows from the mountains past Kraków and Warsaw to the Baltic at Gdańsk. The Oder forms much of the border with Germany. Poland also borders Czechia, Slovakia, Ukraine, Belarus, Lithuania and Russia's Kaliningrad region."
+   ],
+   "related": [
+    "DEU",
+    "CZE",
+    "SVK",
+    "UKR",
+    "BLR",
+    "LTU",
+    "RUS"
+   ]
+  },
+  {
+   "id": "nature",
+   "title": "Forests and salt",
+   "text": [
+    "The Białowieża Forest, on the border with Belarus, is one of the last surviving parts of the forest that once covered lowland Europe. It is home to European bison, which died out in the wild and were brought back from zoos.",
+    "Near Kraków, the Wieliczka salt mine was worked for 700 years; miners carved whole chapels, statues and chandeliers out of salt."
+   ],
+   "highlight": {
+    "title": "Rescued from zoos",
+    "text": "By 1927 the last wild European bison had been killed. A few dozen survived in zoos, and today thousands roam free again, many in Poland."
+   }
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Poland has warm summers and cold winters, colder in the east and in the mountains. Zakopane, at the foot of the Tatras, is a popular ski resort."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Plain",
+   "meaning": "A large area of flat land."
+  },
+  {
+   "term": "Primeval forest",
+   "meaning": "An ancient forest little changed by people."
+  }
+ ]
+}

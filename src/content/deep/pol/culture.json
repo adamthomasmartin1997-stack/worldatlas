@@ -1,0 +1,38 @@
+{
+ "status": "draft",
+ "intro": "Poland's culture has survived partitions and occupation. It is the land of Chopin, five Nobel Prize-winning writers, pierogi and The Witcher.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Music, books and film",
+   "text": [
+    "Frédéric Chopin's piano music is played worldwide, and Warsaw hosts the famous Chopin Piano Competition every five years. Poland has five Nobel Prize winners in Literature, including the poet Wisława Szymborska and the novelist Olga Tokarczuk.",
+    "Stanisław Lem wrote classic science fiction, and Andrzej Sapkowski's Witcher stories became games and a TV series. Directors such as Andrzej Wajda and Krzysztof Kieślowski are celebrated worldwide."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Pierogi, dumplings stuffed with potato and cheese, meat or fruit, are a national favourite, along with bigos (hunter's stew), żurek (sour rye soup) and kiełbasa sausage. On Fat Thursday before Lent, Poles eat millions of pączki, jam doughnuts."
+   ]
+  },
+  {
+   "id": "heritage",
+   "title": "Old towns",
+   "text": [
+    "Kraków's old town was on the first ever list of World Heritage Sites in 1978. Warsaw's old town was so carefully rebuilt after the war, partly using 18th-century paintings as a guide, that it too became a World Heritage Site."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pierogi",
+   "meaning": "Polish filled dumplings."
+  },
+  {
+   "term": "World Heritage Site",
+   "meaning": "A place of outstanding value listed by UNESCO."
+  }
+ ]
+}

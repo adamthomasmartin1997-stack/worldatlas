@@ -1,0 +1,44 @@
+{
+ "status": "draft",
+ "intro": "Most people in Poland are Polish and Catholic, and family traditions run deep. Millions of Poles also live abroad, and since 2022 Poland has become home to many Ukrainians.",
+ "chapters": [
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Warsaw, the capital, was rebuilt after the war and is now a modern business centre. Kraków, the old royal capital, survived the war almost undamaged, and Łódź, Wrocław, Poznań and Gdańsk are other big cities."
+   ]
+  },
+  {
+   "id": "language-faith",
+   "title": "Language and faith",
+   "text": [
+    "Polish is a West Slavic language written in the Latin alphabet with extra letters such as ą, ę, ł and ż, and is famous for tongue-twisters full of consonants. Most Poles are Roman Catholic, and the church played a big role in resisting communism.",
+    "Millions of people of Polish origin live in the United States, Germany and the UK. Since 2022, more than a million Ukrainians have settled in Poland."
+   ],
+   "related": [
+    "USA",
+    "DEU",
+    "GBR",
+    "UKR"
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Family traditions",
+   "text": [
+    "Many Poles celebrate their name day, the feast of the saint they are named after, as much as their birthday. On Christmas Eve families share a meatless supper of twelve dishes and leave an empty place at the table for an unexpected guest. On Easter Monday, people soak each other with water."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Name day",
+   "meaning": "A celebration on the feast day of the saint who shares your name."
+  },
+  {
+   "term": "Slavic languages",
+   "meaning": "A family of languages including Polish, Russian, Czech and Ukrainian."
+  }
+ ]
+}

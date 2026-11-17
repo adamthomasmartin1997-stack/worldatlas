@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Poles love football, volleyball, ski jumping and speedway, and the country has produced stars from Robert Lewandowski to Iga Świątek.",
+ "chapters": [
+  {
+   "id": "football-tennis",
+   "title": "Football and tennis",
+   "text": [
+    "Robert Lewandowski is Poland's all-time top scorer and one of the best strikers of his generation. Poland finished third at the World Cup in 1974 and 1982 and co-hosted Euro 2012 with Ukraine.",
+    "Iga Świątek became world number one and has won several Grand Slam titles, including four French Opens and Wimbledon in 2025."
+   ],
+   "related": [
+    "UKR"
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Volleyball, ski jumping and speedway",
+   "text": [
+    "Poland's men's volleyball team won the world championship in 2014 and 2018, and matches fill huge arenas. Ski jumpers Adam Małysz and Kamil Stoch are national heroes; Stoch won three Olympic golds.",
+    "Speedway, motorbike racing on oval dirt tracks, draws big crowds, and Poland has the strongest league in the world. Hammer thrower Anita Włodarczyk won three Olympic golds."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Speedway",
+   "meaning": "Motorbike racing on an oval dirt track, with no brakes."
+  }
+ ]
+}
