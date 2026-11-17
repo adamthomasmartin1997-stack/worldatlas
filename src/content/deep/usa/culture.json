@@ -1,0 +1,60 @@
+{
+ "status": "draft",
+ "intro": "American films, music, food and sport are known in almost every country. Much of what the world sees as 'American culture' was created by immigrants and by Black Americans.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music",
+   "text": [
+    "Many of the world's most popular styles of music began in the US, often in Black communities. The blues grew in the Mississippi Delta, jazz in New Orleans, and rock and roll in the 1950s with stars such as Chuck Berry and Elvis Presley. Detroit's Motown label made soul music famous in the 1960s.",
+    "Hip hop was born at block parties in the Bronx, New York, in the 1970s and is now one of the most listened-to genres in the world. Country music, from Nashville, Tennessee, is hugely popular too, and stars like Taylor Swift and Beyoncé fill stadiums worldwide."
+   ]
+  },
+  {
+   "id": "screen",
+   "title": "Film, TV and comics",
+   "text": [
+    "Hollywood, in Los Angeles, has been the centre of the film industry since the 1910s. Disney, founded in 1923, created Mickey Mouse and now owns Pixar, Marvel and Star Wars.",
+    "Superman first appeared in 1938, and superhero comics from DC and Marvel became some of the biggest films of the 21st century."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Hamburgers, hot dogs and pizza came to America with German and Italian immigrants and became national favourites. Each region has its own food: barbecue in Texas and the South, soul food created by Black Southern cooks, Tex-Mex near the Mexican border and seafood in New England.",
+    "On Thanksgiving, the fourth Thursday in November, families gather for roast turkey with stuffing, cranberry sauce and pumpkin pie."
+   ],
+   "related": [
+    "DEU",
+    "ITA",
+    "MEX"
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books and museums",
+   "text": [
+    "Famous American writers include Mark Twain, author of The Adventures of Huckleberry Finn, Toni Morrison, who won the Nobel Prize in Literature in 1993, and Dr. Seuss, whose rhyming books have taught generations of children to read.",
+    "The Smithsonian Institution in Washington, D.C., is the world's largest museum complex, and its museums are free. New York's Metropolitan Museum of Art is one of the largest art museums in the world."
+   ]
+  },
+  {
+   "id": "holidays",
+   "title": "Holidays",
+   "text": [
+    "Halloween, on 31 October, is a huge celebration with costumes, carved pumpkins and trick-or-treating. Independence Day brings fireworks, and Super Bowl Sunday, the final of the American football season, is practically a national holiday."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Hip hop",
+   "meaning": "A culture and style of music built on rapping, DJing, breakdancing and graffiti, born in New York in the 1970s."
+  },
+  {
+   "term": "Soul food",
+   "meaning": "Traditional cooking of Black Americans in the South, such as fried chicken, collard greens and cornbread."
+  }
+ ]
+}

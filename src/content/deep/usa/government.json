@@ -1,0 +1,101 @@
+{
+ "status": "draft",
+ "intro": "The United States is a federal republic. Power is split between the national government in Washington, D.C., and the 50 states, and the national government is split again into three branches that check each other.",
+ "chapters": [
+  {
+   "id": "constitution",
+   "title": "The Constitution",
+   "text": [
+    "The Constitution, written in 1787, is the oldest written national constitution still in use. It has been changed only 27 times. The first ten changes, or amendments, are called the Bill of Rights and protect freedoms such as free speech, religion, a free press and the right to a fair trial; the Second Amendment protects the right to keep and bear arms.",
+    "Its authors feared both kings and mobs, so they divided power to stop any one person or group from taking control."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "The idea of 'checks and balances' between separate branches of government has been copied by many countries."
+   }
+  },
+  {
+   "id": "branches",
+   "title": "Three branches",
+   "text": [
+    "Congress makes the laws. It has two parts: the Senate, with two senators from every state, and the House of Representatives, with 435 members shared out by population, so California has many and Wyoming has one.",
+    "The president leads the government, commands the armed forces and can veto laws, though Congress can override a veto with a two-thirds vote. Presidents serve four-year terms and can be elected only twice.",
+    "The Supreme Court has nine judges, called justices, appointed for life. It decides whether laws and government actions follow the Constitution."
+   ],
+   "facts": [
+    {
+     "label": "President's term",
+     "value": "4 years, two terms at most"
+    },
+    {
+     "label": "Senators",
+     "value": "100 (two per state)"
+    },
+    {
+     "label": "Representatives",
+     "value": "435"
+    },
+    {
+     "label": "Supreme Court justices",
+     "value": "9"
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "title": "Elections",
+   "text": [
+    "Americans vote for president every four years, in November. The winner is not simply whoever gets the most votes nationally: each state has a number of votes in the Electoral College, and in almost every state the candidate who wins the most votes there takes all of that state's electoral votes. A candidate needs 270 of the 538 electoral votes to win.",
+    "Two parties dominate politics: the Democrats and the Republicans. Voting age is 18."
+   ]
+  },
+  {
+   "id": "states",
+   "title": "The states",
+   "text": [
+    "Each state has its own constitution, governor, legislature and courts, and makes many of its own laws, so rules on things like driving age, taxes and the death penalty differ from state to state.",
+    "Cities, counties and school districts run local services. Native American tribal nations have their own governments too."
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols",
+   "text": [
+    "The flag, the Stars and Stripes, has 50 stars for the states and 13 stripes for the original colonies. The anthem, The Star-Spangled Banner, was written in 1814 during a British attack on Baltimore.",
+    "Independence Day, 4 July, is celebrated with parades and fireworks. The Statue of Liberty in New York Harbor was a gift from France in 1886."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "world",
+   "title": "The US in the world",
+   "text": [
+    "The US has the largest military budget in the world, is a permanent member of the UN Security Council and was a founding member of NATO. The headquarters of the United Nations is in New York.",
+    "American alliances, trade and culture reach almost every country, and American decisions on everything from interest rates to climate affect the whole world."
+   ],
+   "related": [
+    "GBR",
+    "FRA",
+    "RUS",
+    "CHN",
+    "CAN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Federal",
+   "meaning": "A system where power is shared between a national government and states or provinces."
+  },
+  {
+   "term": "Veto",
+   "meaning": "The president's power to reject a law passed by Congress."
+  },
+  {
+   "term": "Electoral College",
+   "meaning": "The system of state-by-state electoral votes used to choose the president."
+  }
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "status": "draft",
+ "intro": "The United States has the third-largest population in the world and is often called a nation of immigrants: Native Americans, the descendants of enslaved Africans and newcomers from every continent all shape American life.",
+ "chapters": [
+  {
+   "id": "cities",
+   "title": "Where Americans live",
+   "text": [
+    "New York is the biggest city, followed by Los Angeles, Chicago, Houston and Phoenix. Most Americans live in cities and their suburbs, where many families have houses with gardens and depend on cars to get around.",
+    "For decades people have moved from the north-east and Midwest to the warmer 'Sun Belt' in the south and west, so states such as Texas and Florida have grown fast."
+   ]
+  },
+  {
+   "id": "origins",
+   "title": "A nation of immigrants",
+   "text": [
+    "Native Americans are the original peoples; there are more than 570 federally recognised tribes, many with their own governments and lands called reservations. About one in eight Americans is Black, many descended from people who were enslaved.",
+    "Immigrants have come in waves: from Britain, Ireland, Germany, Italy and Eastern Europe, and more recently from Mexico, Central America, China, India, the Philippines and many more places. About one in five Americans is Hispanic or Latino, and Asian Americans are the fastest-growing group. More people living in the US were born abroad than in any other country."
+   ],
+   "related": [
+    "MEX",
+    "IND",
+    "CHN",
+    "PHL",
+    "IRL",
+    "ITA",
+    "DEU"
+   ]
+  },
+  {
+   "id": "language",
+   "title": "Language and religion",
+   "text": [
+    "English is the main language. For most of its history the US had no official language, until a presidential order made English official in 2025. Spanish is spoken at home by tens of millions of people, and many signs and services are in both languages.",
+    "Freedom of religion is in the Constitution, and the government cannot favour one faith. Most Americans are Christian, belonging to many different churches, but a growing share say they have no religion, and there are large Jewish, Muslim, Hindu and Buddhist communities."
+   ]
+  },
+  {
+   "id": "school",
+   "title": "Growing up in the US",
+   "text": [
+    "Children go to school from kindergarten, at about 5, through 12th grade, at about 18. The four years of high school have their own names: freshman, sophomore, junior and senior.",
+    "School life often includes sports teams, marching bands, yearbooks and a prom at the end of high school. Many students take tests such as the SAT to apply to college, which can be very expensive, so many students take out loans."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Reservation",
+   "meaning": "Land set aside for a Native American nation, which runs many of its own affairs."
+  },
+  {
+   "term": "Hispanic or Latino",
+   "meaning": "People with roots in Spanish-speaking countries or Latin America."
+  }
+ ]
+}

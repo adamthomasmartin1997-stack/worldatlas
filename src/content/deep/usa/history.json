@@ -1,0 +1,228 @@
+{
+ "status": "draft",
+ "intro": "The United States grew from thirteen British colonies on the Atlantic coast into a continent-wide country and the world's most powerful nation. Its story is one of freedom and opportunity, but also of slavery, the loss of Native American lands and a long struggle for equal rights.",
+ "chapters": [
+  {
+   "id": "first-peoples",
+   "title": "The first Americans",
+   "text": [
+    "People first reached the Americas from Asia at least 15,000 years ago, and perhaps much earlier, probably crossing a land bridge where the Bering Strait is today and travelling along the Pacific coast. Over thousands of years they spread across the continent and formed hundreds of nations with their own languages and ways of life.",
+    "Some built large settlements. Cahokia, near today's St Louis, was a city of earthen pyramids that may have had 15,000 or more people around the year 1100. In the south-west, Ancestral Puebloans built homes into cliffs at places such as Mesa Verde.",
+    "When Europeans arrived, diseases such as smallpox, to which Native Americans had no resistance, killed a huge share of the population, often before the newcomers had even met them."
+   ]
+  },
+  {
+   "id": "colonies",
+   "title": "Colonies",
+   "text": [
+    "Spain founded St Augustine in Florida in 1565, the oldest city in the mainland US that has been lived in ever since. The first lasting English colony was Jamestown, Virginia, in 1607, and in 1620 the Pilgrims, religious refugees, landed at Plymouth in Massachusetts. France and the Netherlands set up colonies too; New York was first the Dutch town of New Amsterdam.",
+    "By the 1700s Britain had thirteen colonies along the Atlantic coast. Their economies depended heavily on enslaved Africans, the first of whom were brought to Virginia in 1619. By independence, hundreds of thousands of enslaved people worked on plantations growing tobacco, rice and later cotton."
+   ],
+   "related": [
+    "GBR",
+    "ESP",
+    "FRA",
+    "NLD"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Revolution and a new nation",
+   "text": [
+    "After 1763 Britain taxed the colonies to pay for its wars, but the colonists had no say in Parliament: 'no taxation without representation'. In 1773 protesters in Boston threw a shipload of British tea into the harbour, and in 1775 fighting broke out.",
+    "On 4 July 1776 the colonies issued the Declaration of Independence, written mainly by Thomas Jefferson, which said that 'all men are created equal' with rights to 'life, liberty and the pursuit of happiness'. With help from France, the Americans led by George Washington won the war, and Britain recognised the United States in 1783.",
+    "In 1787 leaders wrote the Constitution, which set up the government that still runs the country, and in 1789 Washington became the first president. The promise of equality did not yet include enslaved people, Native Americans or women."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "The American Revolution was the first time colonies broke away from a European empire to form a republic. It inspired the French Revolution and independence movements across Latin America."
+   },
+   "related": [
+    "GBR",
+    "FRA"
+   ]
+  },
+  {
+   "id": "west",
+   "title": "Moving west",
+   "text": [
+    "In 1803 the US bought the vast Louisiana territory from France, doubling its size. Settlers pushed west, and the government forced Native American nations off their lands; in the 1830s tens of thousands of Cherokee and other peoples were marched west on what became known as the Trail of Tears, and thousands died.",
+    "After a war with Mexico from 1846 to 1848, the US took California and most of the south-west. Gold was found in California in 1848, and in 1869 the first railroad across the continent was completed."
+   ],
+   "related": [
+    "FRA",
+    "MEX"
+   ]
+  },
+  {
+   "id": "civil-war",
+   "title": "Civil war and the end of slavery",
+   "text": [
+    "The North and South split over slavery, which the southern economy relied on. When Abraham Lincoln, who opposed spreading slavery, was elected president in 1860, eleven southern states left the Union to form the Confederacy.",
+    "The Civil War (1861 to 1865) was the deadliest war in American history: more than 600,000 soldiers died. Lincoln's Emancipation Proclamation of 1863 declared enslaved people in the rebel states free, and the 13th Amendment abolished slavery across the country in 1865. Days after the war ended, Lincoln was assassinated.",
+    "Formerly enslaved people gained citizenship and, for men, the vote, but by the 1890s southern states had passed 'Jim Crow' laws that segregated Black Americans and stopped most of them from voting."
+   ]
+  },
+  {
+   "id": "industry",
+   "title": "Factories and immigrants",
+   "text": [
+    "By 1900 the US was the world's biggest industrial economy, with railways, steel mills, oil fields and inventions such as Thomas Edison's light bulb. In 1913 Henry Ford began building cars on a moving assembly line, making them cheap enough for ordinary families.",
+    "Millions of immigrants came from Europe, many passing through Ellis Island in New York Harbor, where more than 12 million people arrived between 1892 and 1954. In 1920 women won the right to vote across the country."
+   ],
+   "related": [
+    "IRL",
+    "ITA",
+    "DEU",
+    "POL"
+   ]
+  },
+  {
+   "id": "superpower",
+   "title": "A world superpower",
+   "text": [
+    "The US joined the First World War in 1917. After the stock market crash of 1929, the Great Depression left millions without work, and President Franklin D. Roosevelt's 'New Deal' created jobs and a social safety net.",
+    "Japan's attack on Pearl Harbor in Hawaii on 7 December 1941 brought the US into the Second World War. In August 1945 the US dropped atomic bombs on Hiroshima and Nagasaki, and Japan surrendered.",
+    "After the war the US and the Soviet Union became rival superpowers in the Cold War, competing in weapons, space and influence without fighting each other directly. On 20 July 1969 the astronauts of Apollo 11 became the first people to walk on the Moon."
+   ],
+   "related": [
+    "JPN",
+    "RUS",
+    "DEU",
+    "GBR"
+   ]
+  },
+  {
+   "id": "rights",
+   "title": "Civil rights and modern America",
+   "text": [
+    "In the 1950s and 1960s the civil rights movement fought segregation. In 1955 Rosa Parks refused to give up her bus seat to a white passenger in Montgomery, Alabama, starting a year-long bus boycott, and in 1963 Martin Luther King Jr gave his 'I Have a Dream' speech in Washington. The Civil Rights Act of 1964 and the Voting Rights Act of 1965 outlawed segregation and protected Black Americans' right to vote.",
+    "The Cold War ended when the Soviet Union collapsed in 1991. On 11 September 2001 terrorists flew hijacked planes into the World Trade Center in New York and the Pentagon, killing nearly 3,000 people, and the US went to war in Afghanistan and Iraq. In 2009 Barack Obama became the first Black president."
+   ],
+   "related": [
+    "AFG",
+    "IRQ",
+    "VNM"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1100",
+   "title": "Cahokia",
+   "text": "The largest city north of Mexico flourishes near the Mississippi."
+  },
+  {
+   "year": "1565",
+   "title": "St Augustine",
+   "text": "Spain founds the oldest continuously inhabited European city in the mainland US."
+  },
+  {
+   "year": "1607",
+   "title": "Jamestown",
+   "text": "The first lasting English colony, in Virginia."
+  },
+  {
+   "year": "1619",
+   "title": "Enslaved Africans arrive",
+   "text": "The first recorded arrival of enslaved Africans in Virginia."
+  },
+  {
+   "year": "1776",
+   "title": "Declaration of Independence",
+   "text": "The thirteen colonies declare themselves independent on 4 July."
+  },
+  {
+   "year": "1787",
+   "title": "The Constitution",
+   "text": "Still the basis of the US government."
+  },
+  {
+   "year": "1803",
+   "title": "Louisiana Purchase",
+   "text": "The US doubles in size by buying land from France."
+  },
+  {
+   "year": "1838",
+   "title": "Trail of Tears",
+   "text": "The Cherokee are forced off their lands in the south-east."
+  },
+  {
+   "year": "1861",
+   "title": "Civil War begins",
+   "text": "Four years of war between North and South."
+  },
+  {
+   "year": "1865",
+   "title": "Slavery abolished",
+   "text": "The 13th Amendment ends slavery; Lincoln is assassinated."
+  },
+  {
+   "year": "1869",
+   "title": "Transcontinental railroad",
+   "text": "Railways link the Atlantic and Pacific coasts."
+  },
+  {
+   "year": "1920",
+   "title": "Votes for women",
+   "text": "The 19th Amendment gives women the vote."
+  },
+  {
+   "year": "1929",
+   "title": "Wall Street Crash",
+   "text": "The start of the Great Depression."
+  },
+  {
+   "year": "1941",
+   "title": "Pearl Harbor",
+   "text": "The US enters the Second World War."
+  },
+  {
+   "year": "1964",
+   "title": "Civil Rights Act",
+   "text": "Segregation and discrimination are outlawed."
+  },
+  {
+   "year": "1969",
+   "title": "Moon landing",
+   "text": "Neil Armstrong and Buzz Aldrin walk on the Moon."
+  },
+  {
+   "year": "1991",
+   "title": "End of the Cold War",
+   "text": "The Soviet Union breaks up."
+  },
+  {
+   "year": "2001",
+   "title": "9/11 attacks",
+   "text": "Nearly 3,000 people are killed in terrorist attacks."
+  },
+  {
+   "year": "2009",
+   "title": "Barack Obama",
+   "text": "The first Black president takes office."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Colony",
+   "meaning": "A land settled and ruled by people from another country."
+  },
+  {
+   "term": "Amendment",
+   "meaning": "A change or addition to the Constitution."
+  },
+  {
+   "term": "Segregation",
+   "meaning": "Keeping people apart by race, for example in schools, buses and restaurants."
+  },
+  {
+   "term": "Cold War",
+   "meaning": "The rivalry between the US and the Soviet Union from 1947 to 1991, fought with threats, spying and proxy wars rather than direct battles."
+  },
+  {
+   "term": "Civil rights",
+   "meaning": "The rights of every citizen to equal treatment under the law."
+  }
+ ]
+}

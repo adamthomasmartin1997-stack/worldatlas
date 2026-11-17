@@ -1,0 +1,77 @@
+{
+ "status": "draft",
+ "intro": "The United States stretches across North America from the Atlantic to the Pacific, plus Alaska and the islands of Hawaii. It has almost every kind of landscape, from Arctic tundra and deserts to rainforest and coral reefs.",
+ "chapters": [
+  {
+   "id": "states",
+   "title": "Fifty states",
+   "text": [
+    "The US has 50 states. Forty-eight of them form one block between Canada and Mexico, often called the 'lower 48'. Alaska lies to the north-west of Canada and is the largest state by far, and Hawaii is a chain of volcanic islands in the middle of the Pacific Ocean.",
+    "The border with Canada, including Alaska, is the longest land border between two countries in the world. The capital, Washington, D.C., is not in any state; it sits in its own federal district.",
+    "The US also governs territories such as Puerto Rico and the US Virgin Islands in the Caribbean and Guam and American Samoa in the Pacific."
+   ],
+   "related": [
+    "CAN",
+    "MEX",
+    "PRI",
+    "VIR",
+    "GUM",
+    "ASM"
+   ]
+  },
+  {
+   "id": "land",
+   "title": "Mountains, plains and canyons",
+   "text": [
+    "In the east, the old, worn-down Appalachian Mountains run from Alabama to Maine. West of them lie the Great Plains, flat grassland that is now some of the world's richest farmland.",
+    "The Rocky Mountains rise in the west, and beyond them are deserts, salt flats and more ranges before the Pacific coast. In Arizona the Colorado River has carved the Grand Canyon, up to about 1.8 km deep. The highest peak in North America, Denali, is in Alaska.",
+    "California sits on the San Andreas Fault, where two of Earth's plates slide past each other, so it gets frequent earthquakes."
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Rivers and lakes",
+   "text": [
+    "The Mississippi and its longest branch, the Missouri, together form one of the longest river systems in the world, draining most of the land between the Rockies and the Appalachians into the Gulf of Mexico.",
+    "The five Great Lakes, shared with Canada, are the largest group of freshwater lakes on Earth. Lake Superior has a larger surface than any other freshwater lake, and Niagara Falls pours between Lake Erie and Lake Ontario."
+   ],
+   "related": [
+    "CAN"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Extreme weather",
+   "text": [
+    "Because it is so big, the US has many climates: Arctic in northern Alaska, tropical in Hawaii and southern Florida, desert in the south-west, and hot summers with cold, snowy winters in the Midwest and north-east.",
+    "The US has more tornadoes than any other country, especially in 'Tornado Alley' on the Great Plains, where warm, wet air from the Gulf meets cold, dry air from Canada. Hurricanes hit the Gulf and Atlantic coasts in late summer and autumn. Death Valley in California holds the record for the highest air temperature ever measured on Earth: 56.7°C in 1913."
+   ]
+  },
+  {
+   "id": "parks",
+   "title": "National parks",
+   "text": [
+    "Yellowstone, created in 1872, was the first national park in the world. It sits on top of a giant volcano and has more geysers than anywhere else on Earth, including Old Faithful.",
+    "The US now has 63 national parks, from the giant sequoia trees of California, the largest living things by volume, to the swamps of the Everglades in Florida. American bison, which were hunted almost to extinction in the 1800s, have recovered in parks and reserves, and the bald eagle, the national bird, has come back from near-extinction."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "The idea of protecting wild land for everyone, rather than for a king or a private owner, spread from Yellowstone to countries all over the world."
+   }
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Territory",
+   "meaning": "An area governed by the US that is not a state, such as Puerto Rico."
+  },
+  {
+   "term": "Fault",
+   "meaning": "A crack in Earth's crust where blocks of rock move, causing earthquakes."
+  },
+  {
+   "term": "Geyser",
+   "meaning": "A hot spring that shoots water and steam into the air from time to time."
+  }
+ ]
+}

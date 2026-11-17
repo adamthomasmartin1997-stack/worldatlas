@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Americans love their own sports most: American football, baseball, basketball and ice hockey. The US has also won more Olympic medals than any other country.",
+ "chapters": [
+  {
+   "id": "big-four",
+   "title": "The big four",
+   "text": [
+    "American football is the most watched sport. The National Football League's final, the Super Bowl, is usually the most watched TV broadcast of the year, and its adverts are famous in their own right.",
+    "Baseball is called 'the national pastime', and the season ends with the World Series. Basketball was invented in 1891 by James Naismith, a Canadian teacher in Springfield, Massachusetts, and the NBA is now followed around the world. Ice hockey's NHL has teams in both the US and Canada."
+   ],
+   "highlight": {
+    "title": "Made in Massachusetts",
+    "text": "Volleyball was also invented in Massachusetts, in 1895, as a gentler game than basketball."
+   },
+   "related": [
+    "CAN"
+   ]
+  },
+  {
+   "id": "college",
+   "title": "School and college sport",
+   "text": [
+    "Sport is a big part of school and college life. College football and basketball draw huge crowds, and the national college basketball tournament in March is known as 'March Madness'.",
+    "Many top athletes win sports scholarships to pay for university."
+   ]
+  },
+  {
+   "id": "soccer",
+   "title": "Soccer",
+   "text": [
+    "Football, which Americans call soccer, has grown fast. The women's national team is one of the most successful in the world, with four World Cups and five Olympic gold medals.",
+    "The US, Canada and Mexico host the men's World Cup in 2026, the first with 48 teams."
+   ],
+   "related": [
+    "CAN",
+    "MEX"
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympic champions",
+   "text": [
+    "The US has won more Olympic medals than any other country, and topped the medal table again at Paris 2024. Swimmer Michael Phelps won 28 Olympic medals, 23 of them gold, more than anyone in history, and gymnast Simone Biles is the most decorated gymnast of all time.",
+    "Los Angeles will host the Summer Olympics for the third time in 2028, after 1932 and 1984. Other American sporting legends include the boxer Muhammad Ali and the tennis star Serena Williams, who won 23 Grand Slam singles titles."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Super Bowl",
+   "meaning": "The championship game of the National Football League."
+  },
+  {
+   "term": "Scholarship",
+   "meaning": "Money given to a student to pay for their education, sometimes for their sporting talent."
+  }
+ ]
+}

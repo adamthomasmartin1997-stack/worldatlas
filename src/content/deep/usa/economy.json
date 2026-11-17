@@ -1,0 +1,57 @@
+{
+ "status": "draft",
+ "intro": "The United States has the largest economy in the world. It leads in technology, finance, entertainment and farming, and the US dollar is used for trade and savings all over the world.",
+ "chapters": [
+  {
+   "id": "big-picture",
+   "title": "The world's biggest economy",
+   "text": [
+    "The US produces more goods and services each year than any other country. Most of its economy is services, and spending by ordinary shoppers drives much of it.",
+    "The US dollar is the world's main currency for trade and savings: oil is usually priced in dollars, and central banks around the world hold dollars. Wall Street in New York is home to the world's biggest stock exchange."
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Technology and entertainment",
+   "text": [
+    "Silicon Valley, near San Francisco, is the world's best-known centre of technology. Many of the largest companies on Earth, including Apple, Microsoft, Google, Amazon, Meta and Nvidia, began in the US.",
+    "Hollywood films, American TV, music and video games are sold worldwide, and so are brands like Coca-Cola, McDonald's and Nike."
+   ]
+  },
+  {
+   "id": "land",
+   "title": "Farms, oil and factories",
+   "text": [
+    "The US is one of the world's biggest food producers and exporters. It grows more maize (corn) than any other country, along with huge amounts of soybeans, wheat and beef.",
+    "New drilling methods, including fracking, made the US the world's largest producer of both oil and natural gas. It also builds aircraft (Boeing), cars (Ford, General Motors and Tesla), medicines and weapons."
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "The gap between rich and poor is wider than in most rich countries. Healthcare is mostly paid for through insurance linked to jobs, and costs are among the highest in the world.",
+    "The US trades most with Mexico, Canada and China. Arguments over trade, especially with China, and over taxes on imports, called tariffs, have become big political issues."
+   ],
+   "related": [
+    "MEX",
+    "CAN",
+    "CHN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Stock exchange",
+   "meaning": "A market where shares in companies are bought and sold."
+  },
+  {
+   "term": "Fracking",
+   "meaning": "Pumping water, sand and chemicals into rock at high pressure to release oil and gas."
+  },
+  {
+   "term": "Tariff",
+   "meaning": "A tax on goods brought in from another country."
+  }
+ ]
+}
