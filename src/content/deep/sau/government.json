@@ -53,5 +53,62 @@
    "term": "OPEC",
    "meaning": "The Organization of the Petroleum Exporting Countries."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Rules for life",
+     "text": "Holds supreme power and is Custodian of the Two Holy Mosques."
+    },
+    {
+     "title": "Crown Prince and Prime Minister",
+     "subtitle": "Chosen by the Allegiance Council",
+     "text": "Runs the government day to day."
+    },
+    {
+     "title": "Council of Ministers",
+     "subtitle": "Appointed by the King",
+     "text": "Drafts laws and runs ministries."
+    },
+    {
+     "title": "Shura Council",
+     "subtitle": "150 appointed members",
+     "text": "Advises on laws, including women since 2013."
+    },
+    {
+     "title": "Provinces",
+     "subtitle": "13 provinces",
+     "text": "Each led by an emir from the royal family."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Drafting",
+    "text": "Ministries or the Council of Ministers draft a regulation."
+   },
+   {
+    "title": "Shura Council review",
+    "text": "The Shura discusses it and suggests changes."
+   },
+   {
+    "title": "Council of Ministers",
+    "text": "Ministers approve the text."
+   },
+   {
+    "title": "Royal decree",
+    "text": "The King issues it as a decree."
+   }
+  ]
+ }
 }

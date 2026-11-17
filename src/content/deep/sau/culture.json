@@ -36,5 +36,126 @@
    "term": "Falconry",
    "meaning": "Hunting with trained falcons or other birds of prey."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Wadjda",
+     "subtitle": "2012 · Haifaa al-Mansour",
+     "text": "A girl saves up for a bicycle; the first feature film shot entirely in Saudi Arabia."
+    },
+    {
+     "title": "Barakah Meets Barakah",
+     "subtitle": "2016 · Mahmoud Sabbagh",
+     "text": "A romantic comedy in Jeddah."
+    },
+    {
+     "title": "Hajjan",
+     "subtitle": "2023 · Abu Bakr Shawky",
+     "text": "A boy and his racing camel."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Cities of Salt",
+     "subtitle": "1984 · Abdul Rahman Munif",
+     "text": "How oil changed a desert oasis."
+    },
+    {
+     "title": "Girls of Riyadh",
+     "subtitle": "2005 · Rajaa Alsanea",
+     "text": "Four young women's lives, told in emails."
+    },
+    {
+     "title": "The Dove's Necklace",
+     "subtitle": "2010 · Raja Alem",
+     "text": "A Mecca mystery; won the Arabic Booker Prize."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Al-Ardah",
+     "subtitle": "Traditional",
+     "text": "A sword dance with drums and poetry, on UNESCO's list."
+    },
+    {
+     "title": "Mohammed Abdu",
+     "subtitle": "Singer",
+     "text": "Known as the 'Artist of the Arabs'."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Kabsa",
+     "subtitle": "Everywhere",
+     "text": "Spiced rice with chicken or lamb."
+    },
+    {
+     "title": "Mandi",
+     "subtitle": "The south",
+     "text": "Meat and rice cooked in an underground oven."
+    },
+    {
+     "title": "Arabic coffee and dates",
+     "subtitle": "Everywhere",
+     "text": "Offered to every guest."
+    },
+    {
+     "title": "Jareesh",
+     "subtitle": "Najd",
+     "text": "Cracked wheat cooked with meat and yoghurt."
+    },
+    {
+     "title": "Mutabbaq",
+     "subtitle": "Hejaz",
+     "text": "Stuffed, folded pancake sold on the street."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Camel Festival",
+    "text": "A huge festival of camel races and beauty contests."
+   },
+   {
+    "month": 2,
+    "name": "Founding Day",
+    "text": "22 February marks the founding of the first Saudi state."
+   },
+   {
+    "month": 9,
+    "name": "National Day",
+    "text": "23 September."
+   },
+   {
+    "month": 10,
+    "name": "Riyadh Season",
+    "text": "Months of concerts, sport and theme parks."
+   },
+   {
+    "month": 12,
+    "name": "Winter at Tantora",
+    "text": "Music and culture festival in AlUla."
+   }
+  ]
+ }
 }

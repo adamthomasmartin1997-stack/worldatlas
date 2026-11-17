@@ -65,5 +65,89 @@
    "term": "Fault",
    "meaning": "A crack in Earth's crust where earthquakes happen."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Turkey's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Bosphorus",
+    "kind": "strait",
+    "lat": 41.1,
+    "lon": 29.05,
+    "text": "The strait through Istanbul between Europe and Asia."
+   },
+   {
+    "name": "Uzungöl",
+    "kind": "mountain lake",
+    "lat": 40.62,
+    "lon": 40.29,
+    "text": "A lake village in the green Black Sea mountains."
+   },
+   {
+    "name": "Kaçkar Mountains",
+    "kind": "mountains",
+    "lat": 40.83,
+    "lon": 41.15,
+    "text": "Alpine meadows above the Black Sea."
+   },
+   {
+    "name": "Lake Tuz",
+    "kind": "salt lake",
+    "lat": 38.75,
+    "lon": 33.4,
+    "text": "A shallow salt lake that turns pink in summer."
+   },
+   {
+    "name": "Cappadocia",
+    "kind": "rock formations",
+    "lat": 38.64,
+    "lon": 34.83,
+    "text": "Fairy chimneys and cave churches."
+   },
+   {
+    "name": "Mount Ararat",
+    "kind": "volcano",
+    "lat": 39.7,
+    "lon": 44.3,
+    "text": "Turkey's highest mountain."
+   },
+   {
+    "name": "Lake Van",
+    "kind": "soda lake",
+    "lat": 38.6,
+    "lon": 42.9,
+    "text": "Turkey's largest lake."
+   },
+   {
+    "name": "Pamukkale",
+    "kind": "travertine terraces",
+    "lat": 37.92,
+    "lon": 29.12,
+    "text": "White terraces of mineral water."
+   },
+   {
+    "name": "Köprülü Canyon",
+    "kind": "canyon",
+    "lat": 37.2,
+    "lon": 31.2,
+    "text": "A rafting river through a deep gorge."
+   },
+   {
+    "name": "Ölüdeniz",
+    "kind": "coast",
+    "lat": 36.55,
+    "lon": 29.12,
+    "text": "A blue lagoon on the Lycian coast."
+   },
+   {
+    "name": "Atatürk Dam",
+    "kind": "reservoir",
+    "lat": 37.48,
+    "lon": 38.32,
+    "text": "A huge dam on the Euphrates."
+   }
+  ]
+ }
 }

@@ -63,5 +63,62 @@
    "term": "EU candidate",
    "meaning": "A country officially recognised as working towards joining the European Union."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected; 5-year terms",
+     "text": "Head of state and government since 2018."
+    },
+    {
+     "title": "Vice presidents and ministers",
+     "subtitle": "Appointed by the President",
+     "text": "Run government departments."
+    },
+    {
+     "title": "Grand National Assembly",
+     "subtitle": "600 members",
+     "text": "Makes laws."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "15 judges",
+     "text": "Reviews laws."
+    },
+    {
+     "title": "Provinces",
+     "subtitle": "81 provinces",
+     "text": "Governors are appointed; mayors are elected."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By members of the Assembly."
+   },
+   {
+    "title": "Committee",
+    "text": "A committee studies it."
+   },
+   {
+    "title": "Plenary votes",
+    "text": "The Assembly votes."
+   },
+   {
+    "title": "The President",
+    "text": "Signs within 15 days or sends it back; the Assembly can pass it again."
+   }
+  ]
+ }
 }

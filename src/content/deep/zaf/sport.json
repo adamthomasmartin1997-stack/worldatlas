@@ -43,5 +43,139 @@
    "term": "Ultramarathon",
    "meaning": "A running race longer than a marathon's 42.2 km."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Premiership",
+     "subtitle": "Football",
+     "text": "The Soweto derby between Kaizer Chiefs and Orlando Pirates is the biggest game."
+    },
+    {
+     "title": "Currie Cup",
+     "subtitle": "Rugby · since 1892",
+     "text": "South Africa's oldest rugby competition."
+    },
+    {
+     "title": "SA20",
+     "subtitle": "Cricket · since 2023",
+     "text": "A fast-growing T20 league."
+    },
+    {
+     "title": "Comrades Marathon",
+     "subtitle": "Running · since 1921",
+     "text": "About 90 km between Durban and Pietermaritzburg."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Gary Player",
+     "subtitle": "Golf",
+     "text": "Won nine major championships."
+    },
+    {
+     "title": "Penny Heyns",
+     "subtitle": "Swimming",
+     "text": "Won both breaststroke golds at the 1996 Olympics."
+    },
+    {
+     "title": "Natalie du Toit",
+     "subtitle": "Swimming",
+     "text": "A Paralympic champion who also competed at the Olympics."
+    },
+    {
+     "title": "Lucas Radebe",
+     "subtitle": "Football",
+     "text": "Captain of Bafana Bafana and Leeds United."
+    },
+    {
+     "title": "Wayde van Niekerk",
+     "subtitle": "Athletics",
+     "text": "400 m world record holder."
+    },
+    {
+     "title": "Siya Kolisi",
+     "subtitle": "Rugby",
+     "text": "Captained two World Cup wins."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where South Africa's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Johannesburg: FNB Stadium, Ellis Park, Kyalami",
+    "kind": "venue",
+    "lat": -26.15,
+    "lon": 28.05,
+    "text": "The 2010 World Cup final stadium, rugby's Ellis Park and a racing circuit."
+   },
+   {
+    "name": "Loftus Versfeld, Pretoria",
+    "kind": "venue",
+    "lat": -25.75,
+    "lon": 28.22,
+    "text": "A famous rugby stadium."
+   },
+   {
+    "name": "Moses Mabhida Stadium, Durban",
+    "kind": "venue",
+    "lat": -29.83,
+    "lon": 31.03,
+    "text": "A World Cup stadium with an arch you can climb."
+   },
+   {
+    "name": "Cape Town: Newlands and Cape Town Stadium",
+    "kind": "venue",
+    "lat": -33.92,
+    "lon": 18.43,
+    "text": "Cricket at Newlands below Table Mountain."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1992",
+    "title": "Back in world sport",
+    "text": "South Africa returns after the apartheid ban."
+   },
+   {
+    "year": "1995",
+    "title": "Rugby World Cup",
+    "text": "Mandela hands the trophy to the Springboks."
+   },
+   {
+    "year": "1996",
+    "title": "African champions",
+    "text": "Bafana Bafana win the Africa Cup of Nations at home."
+   },
+   {
+    "year": "2010",
+    "title": "World Cup",
+    "text": "The first in Africa."
+   },
+   {
+    "year": "2016",
+    "title": "World record",
+    "text": "Van Niekerk wins 400 m gold from lane 8."
+   },
+   {
+    "year": "2023",
+    "title": "Fourth Rugby World Cup",
+    "text": "A record fourth title."
+   }
+  ]
+ }
 }

@@ -55,5 +55,89 @@
    "term": "Big Five",
    "meaning": "Lion, leopard, elephant, buffalo and rhino, once the animals hunters found hardest to catch."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of South Africa's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Kruger National Park",
+    "kind": "savanna",
+    "lat": -24.0,
+    "lon": 31.5,
+    "text": "The Big Five in one of Africa's largest reserves."
+   },
+   {
+    "name": "Blyde River Canyon",
+    "kind": "canyon",
+    "lat": -24.58,
+    "lon": 30.82,
+    "text": "One of the largest canyons on Earth, and green with forest."
+   },
+   {
+    "name": "Vredefort Dome",
+    "kind": "impact crater",
+    "lat": -27.0,
+    "lon": 27.5,
+    "text": "The largest known impact crater on Earth."
+   },
+   {
+    "name": "iSimangaliso Wetland",
+    "kind": "wetland",
+    "lat": -27.8,
+    "lon": 32.6,
+    "text": "Hippos, crocodiles and coral reefs."
+   },
+   {
+    "name": "Drakensberg",
+    "kind": "mountains",
+    "lat": -29.0,
+    "lon": 29.4,
+    "text": "The 'Dragon Mountains', with ancient San rock art."
+   },
+   {
+    "name": "Augrabies Falls",
+    "kind": "waterfall",
+    "lat": -28.59,
+    "lon": 20.34,
+    "text": "The Orange River thunders into a granite gorge."
+   },
+   {
+    "name": "Namaqualand",
+    "kind": "flower desert",
+    "lat": -30.0,
+    "lon": 17.6,
+    "text": "Carpets of wild flowers after winter rain."
+   },
+   {
+    "name": "The Karoo",
+    "kind": "semi-desert",
+    "lat": -32.3,
+    "lon": 22.5,
+    "text": "Vast dry plains with famous fossils."
+   },
+   {
+    "name": "Garden Route",
+    "kind": "coast",
+    "lat": -34.0,
+    "lon": 22.9,
+    "text": "Forests, lagoons and beaches."
+   },
+   {
+    "name": "Table Mountain",
+    "kind": "mountain",
+    "lat": -33.96,
+    "lon": 18.41,
+    "text": "The flat-topped mountain above Cape Town."
+   },
+   {
+    "name": "Cape Agulhas",
+    "kind": "cape",
+    "lat": -34.83,
+    "lon": 20.0,
+    "text": "The southern tip of Africa, where two oceans meet."
+   }
+  ]
+ }
 }

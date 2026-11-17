@@ -39,5 +39,49 @@
    "term": "Diversification",
    "meaning": "Building new industries so a country doesn't depend on just one."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Saudi Arabia",
+   "items": [
+    {
+     "title": "Crude oil",
+     "subtitle": "Saudi Aramco",
+     "text": "The world's largest crude oil exporter."
+    },
+    {
+     "title": "Plastics and chemicals",
+     "subtitle": "SABIC",
+     "text": "Made from oil and gas."
+    },
+    {
+     "title": "Dates",
+     "subtitle": "Al-Ahsa, Qassim",
+     "text": "Hundreds of kinds; one of the world's top producers."
+    },
+    {
+     "title": "Fertilisers",
+     "subtitle": "Ma'aden",
+     "text": "From phosphate mined in the desert."
+    },
+    {
+     "title": "Desalinated water",
+     "subtitle": "Coastal plants",
+     "text": "More than any other country."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "AlUla, the Red Sea",
+     "text": "New resorts and heritage sites."
+    },
+    {
+     "title": "The riyal",
+     "subtitle": "SAR",
+     "text": "Fixed to the US dollar."
+    }
+   ],
+   "intro": "Some of the things Saudi Arabia makes and sells to the world."
+  }
  ]
 }

@@ -40,5 +40,54 @@
    "term": "Lira",
    "meaning": "Turkey's currency."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Turkey",
+   "items": [
+    {
+     "title": "Clothes and textiles",
+     "subtitle": "Istanbul, Bursa",
+     "text": "Supplies many European shops."
+    },
+    {
+     "title": "Cars and buses",
+     "subtitle": "Bursa, Kocaeli",
+     "text": "Including the Turkish electric car TOGG."
+    },
+    {
+     "title": "Appliances",
+     "subtitle": "Arçelik (Beko), Vestel",
+     "text": "Fridges and washing machines for Europe."
+    },
+    {
+     "title": "Hazelnuts",
+     "subtitle": "Black Sea coast",
+     "text": "Most of the world's hazelnuts."
+    },
+    {
+     "title": "Dried fruit",
+     "subtitle": "Malatya, Aydın",
+     "text": "Apricots and figs."
+    },
+    {
+     "title": "Drones",
+     "subtitle": "Baykar",
+     "text": "Bayraktar drones sold to many countries."
+    },
+    {
+     "title": "Airline",
+     "subtitle": "Turkish Airlines",
+     "text": "Flies to more countries than any other airline."
+    },
+    {
+     "title": "The lira",
+     "subtitle": "₺",
+     "text": "Turkey's currency."
+    }
+   ],
+   "intro": "Some of the things Turkey makes and sells to the world."
+  }
  ]
 }

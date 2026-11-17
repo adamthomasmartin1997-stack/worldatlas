@@ -63,5 +63,66 @@
    "term": "Proportional representation",
    "meaning": "A voting system where parties get seats in proportion to their share of votes."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by the National Assembly",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "400 members",
+     "text": "Elected by proportional representation."
+    },
+    {
+     "title": "National Council of Provinces",
+     "subtitle": "90 delegates",
+     "text": "Represents the nine provinces."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "11 judges",
+     "text": "Guards the 1996 constitution."
+    },
+    {
+     "title": "Provinces and traditional leaders",
+     "subtitle": "9 provinces",
+     "text": "Premiers run provinces; kings and chiefs lead communities."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "Usually in the National Assembly."
+   },
+   {
+    "title": "Committee and public comment",
+    "text": "Members of the public can comment."
+   },
+   {
+    "title": "National Assembly vote",
+    "text": "Members vote."
+   },
+   {
+    "title": "NCOP vote",
+    "text": "The provinces have their say."
+   },
+   {
+    "title": "The President signs",
+    "text": "Or sends it to the Constitutional Court if unsure it is constitutional."
+   }
+  ]
+ }
 }

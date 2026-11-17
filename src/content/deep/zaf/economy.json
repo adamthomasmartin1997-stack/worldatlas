@@ -35,5 +35,44 @@
    "term": "Platinum",
    "meaning": "A rare, valuable metal used in jewellery and in devices that clean car exhaust."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in South Africa",
+   "items": [
+    {
+     "title": "Platinum",
+     "subtitle": "Bushveld",
+     "text": "South Africa mines most of the world's platinum."
+    },
+    {
+     "title": "Gold and diamonds",
+     "subtitle": "Witwatersrand, Kimberley",
+     "text": "Mining built Johannesburg."
+    },
+    {
+     "title": "Cars",
+     "subtitle": "Gqeberha, Pretoria, Durban",
+     "text": "Car factories export to Europe."
+    },
+    {
+     "title": "Fruit and wine",
+     "subtitle": "Western Cape",
+     "text": "A leading exporter of citrus."
+    },
+    {
+     "title": "Rooibos",
+     "subtitle": "Cederberg",
+     "text": "A red bush tea found only here."
+    },
+    {
+     "title": "The rand",
+     "subtitle": "R",
+     "text": "Named after the gold-rich Witwatersrand."
+    }
+   ],
+   "intro": "Some of the things South Africa makes and sells to the world."
+  }
  ]
 }

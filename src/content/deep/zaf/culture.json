@@ -36,5 +36,161 @@
    "term": "Amapiano",
    "meaning": "A South African style of house music with piano melodies and deep bass."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Gods Must Be Crazy",
+     "subtitle": "1980 · Jamie Uys",
+     "text": "A Coke bottle drops from the sky into the Kalahari."
+    },
+    {
+     "title": "Sarafina!",
+     "subtitle": "1992 · Darrell Roodt",
+     "text": "Students rise up in Soweto."
+    },
+    {
+     "title": "Tsotsi",
+     "subtitle": "2005 · Gavin Hood",
+     "text": "A young gangster in Johannesburg; won an Oscar."
+    },
+    {
+     "title": "District 9",
+     "subtitle": "2009 · Neill Blomkamp",
+     "text": "Stranded aliens live in a Johannesburg slum."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Cry, the Beloved Country",
+     "subtitle": "1948 · Alan Paton",
+     "text": "A Zulu pastor searches for his son in Johannesburg."
+    },
+    {
+     "title": "Long Walk to Freedom",
+     "subtitle": "1994 · Nelson Mandela",
+     "text": "Mandela's autobiography."
+    },
+    {
+     "title": "Disgrace",
+     "subtitle": "1999 · J. M. Coetzee",
+     "text": "A Booker-winning novel by the Nobel laureate."
+    },
+    {
+     "title": "Born a Crime",
+     "subtitle": "2016 · Trevor Noah",
+     "text": "Growing up under apartheid."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Nkosi Sikelel' iAfrika",
+     "subtitle": "Enoch Sontonga, 1897",
+     "text": "A hymn that became part of the national anthem."
+    },
+    {
+     "title": "Pata Pata",
+     "subtitle": "Miriam Makeba, 1967",
+     "text": "A worldwide hit."
+    },
+    {
+     "title": "Jerusalema",
+     "subtitle": "Master KG, 2019",
+     "text": "Its dance challenge spread around the world."
+    },
+    {
+     "title": "Water",
+     "subtitle": "Tyla, 2023",
+     "text": "Won the first Grammy for Best African Music Performance."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Braai and boerewors",
+     "subtitle": "Everywhere",
+     "text": "Barbecue with spiced sausage."
+    },
+    {
+     "title": "Bunny chow",
+     "subtitle": "Durban",
+     "text": "Curry served in a hollowed-out loaf."
+    },
+    {
+     "title": "Bobotie",
+     "subtitle": "Cape",
+     "text": "Spiced minced meat with an egg topping."
+    },
+    {
+     "title": "Biltong",
+     "subtitle": "Everywhere",
+     "text": "Air-dried meat."
+    },
+    {
+     "title": "Pap and chakalaka",
+     "subtitle": "Everywhere",
+     "text": "Maize porridge with spicy relish."
+    },
+    {
+     "title": "Malva pudding",
+     "subtitle": "Everywhere",
+     "text": "A sticky sponge pudding."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Cape Town Minstrel Carnival",
+    "text": "Street parades on 2 January."
+   },
+   {
+    "month": 3,
+    "name": "Human Rights Day",
+    "text": "21 March remembers Sharpeville."
+   },
+   {
+    "month": 4,
+    "name": "Freedom Day",
+    "text": "27 April, the first democratic election."
+   },
+   {
+    "month": 6,
+    "name": "Youth Day",
+    "text": "16 June remembers Soweto 1976."
+   },
+   {
+    "month": 6,
+    "name": "National Arts Festival",
+    "text": "Makhanda hosts Africa's biggest arts festival."
+   },
+   {
+    "month": 7,
+    "name": "Mandela Day",
+    "text": "18 July: 67 minutes of service."
+   },
+   {
+    "month": 9,
+    "name": "Heritage Day",
+    "text": "24 September, also called National Braai Day."
+   }
+  ]
+ }
 }

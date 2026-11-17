@@ -39,5 +39,134 @@
    "term": "Derby",
    "meaning": "A match between two rival teams from the same city."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Süper Lig",
+     "subtitle": "Football",
+     "text": "Galatasaray have won the most titles."
+    },
+    {
+     "title": "Basketbol Süper Ligi",
+     "subtitle": "Basketball",
+     "text": "Home of EuroLeague winners Anadolu Efes and Fenerbahçe."
+    },
+    {
+     "title": "Sultanlar Ligi",
+     "subtitle": "Women's volleyball",
+     "text": "One of the strongest women's leagues in the world."
+    },
+    {
+     "title": "Kırkpınar",
+     "subtitle": "Oil wrestling",
+     "text": "Held for more than 650 years."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Naim Süleymanoğlu",
+     "subtitle": "Weightlifting",
+     "text": "Three Olympic golds."
+    },
+    {
+     "title": "Hakan Şükür",
+     "subtitle": "Football",
+     "text": "Scored the fastest goal in World Cup history, after 11 seconds."
+    },
+    {
+     "title": "Hidayet Türkoğlu",
+     "subtitle": "Basketball",
+     "text": "An NBA star."
+    },
+    {
+     "title": "Taha Akgül",
+     "subtitle": "Wrestling",
+     "text": "Olympic champion in 2016."
+    },
+    {
+     "title": "Mete Gazoz",
+     "subtitle": "Archery",
+     "text": "Olympic champion in 2021."
+    },
+    {
+     "title": "Busenaz Sürmeneli",
+     "subtitle": "Boxing",
+     "text": "Olympic champion in 2021."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Turkey's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Istanbul: Atatürk Olympic Stadium and Rams Park",
+    "kind": "venue",
+    "lat": 41.05,
+    "lon": 28.9,
+    "text": "Scene of the 2005 Champions League final."
+   },
+   {
+    "name": "Istanbul Park",
+    "kind": "venue",
+    "lat": 40.95,
+    "lon": 29.405,
+    "text": "A Formula One circuit."
+   },
+   {
+    "name": "Edirne",
+    "kind": "venue",
+    "lat": 41.69,
+    "lon": 26.56,
+    "text": "Home of Kırkpınar oil wrestling."
+   },
+   {
+    "name": "Belek, Antalya",
+    "kind": "venue",
+    "lat": 36.86,
+    "lon": 31.06,
+    "text": "A centre for golf and winter football camps."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1936",
+    "title": "First Olympic gold",
+    "text": "Yaşar Erkan wins in wrestling."
+   },
+   {
+    "year": "2000",
+    "title": "European trophies",
+    "text": "Galatasaray win the UEFA Cup and Super Cup."
+   },
+   {
+    "year": "2002",
+    "title": "World Cup third place",
+    "text": "Turkey's best finish."
+   },
+   {
+    "year": "2005",
+    "title": "Miracle of Istanbul",
+    "text": "A famous Champions League final comeback."
+   },
+   {
+    "year": "2023",
+    "title": "Volleyball queens",
+    "text": "European and Nations League champions."
+   }
+  ]
+ }
 }

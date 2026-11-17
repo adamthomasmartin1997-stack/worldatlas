@@ -40,5 +40,151 @@
    "term": "Dervish",
    "meaning": "A member of a Sufi Muslim religious order."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Yol",
+     "subtitle": "1982 · Şerif Gören and Yılmaz Güney",
+     "text": "Prisoners on leave; won the top prize at Cannes."
+    },
+    {
+     "title": "Once Upon a Time in Anatolia",
+     "subtitle": "2011 · Nuri Bilge Ceylan",
+     "text": "A night-long search for a body."
+    },
+    {
+     "title": "Winter Sleep",
+     "subtitle": "2014 · Nuri Bilge Ceylan",
+     "text": "A hotel owner in Cappadocia; won at Cannes."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Tales of Nasreddin Hodja",
+     "subtitle": "Traditional",
+     "text": "Funny stories of a wise fool."
+    },
+    {
+     "title": "Memed, My Hawk",
+     "subtitle": "1955 · Yaşar Kemal",
+     "text": "A young bandit fights a cruel landlord."
+    },
+    {
+     "title": "My Name Is Red",
+     "subtitle": "1998 · Orhan Pamuk",
+     "text": "A murder mystery among Ottoman painters."
+    },
+    {
+     "title": "The Bastard of Istanbul",
+     "subtitle": "2006 · Elif Şafak",
+     "text": "Two families, two histories."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Mehter",
+     "subtitle": "Ottoman",
+     "text": "The world's oldest military band tradition."
+    },
+    {
+     "title": "Şımarık",
+     "subtitle": "Tarkan, 1997",
+     "text": "The 'Kiss Kiss' song, a Europe-wide hit."
+    },
+    {
+     "title": "Everyway That I Can",
+     "subtitle": "Sertab Erener, 2003",
+     "text": "Turkey's Eurovision winner."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Kebabs",
+     "subtitle": "Everywhere",
+     "text": "From döner to İskender with yoghurt and butter."
+    },
+    {
+     "title": "Lahmacun",
+     "subtitle": "The south-east",
+     "text": "Thin flatbread with spiced meat."
+    },
+    {
+     "title": "Baklava",
+     "subtitle": "Gaziantep",
+     "text": "Layers of pastry, pistachios and syrup."
+    },
+    {
+     "title": "Simit",
+     "subtitle": "Istanbul",
+     "text": "Sesame bread rings."
+    },
+    {
+     "title": "Turkish breakfast",
+     "subtitle": "Everywhere",
+     "text": "Cheese, olives, eggs, honey and tea."
+    },
+    {
+     "title": "Menemen",
+     "subtitle": "Everywhere",
+     "text": "Eggs scrambled with tomatoes and peppers."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Children's Day",
+    "text": "On 23 April children take seats in parliament."
+   },
+   {
+    "month": 4,
+    "name": "Istanbul Tulip Festival",
+    "text": "Millions of tulips in the parks."
+   },
+   {
+    "month": 5,
+    "name": "Youth and Sports Day",
+    "text": "19 May."
+   },
+   {
+    "month": 7,
+    "name": "Kırkpınar",
+    "text": "Oil wrestling in Edirne."
+   },
+   {
+    "month": 10,
+    "name": "Republic Day",
+    "text": "29 October."
+   },
+   {
+    "month": 11,
+    "name": "Atatürk Remembrance",
+    "text": "At 9.05 on 10 November the country stops."
+   },
+   {
+    "month": 12,
+    "name": "Şeb-i Arus",
+    "text": "Whirling dervish ceremonies in Konya."
+   }
+  ]
+ }
 }

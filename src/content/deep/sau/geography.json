@@ -50,5 +50,82 @@
    "term": "Oasis",
    "meaning": "A green, fertile spot in a desert where there is water."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Saudi Arabia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Nafud Desert",
+    "kind": "red sand desert",
+    "lat": 28.3,
+    "lon": 41.0,
+    "text": "Rolling red dunes in the north."
+   },
+   {
+    "name": "Hegra and AlUla",
+    "kind": "sandstone valley",
+    "lat": 26.79,
+    "lon": 37.95,
+    "text": "Rock-cut tombs and desert canyons."
+   },
+   {
+    "name": "Red Sea coral reefs",
+    "kind": "reefs",
+    "lat": 26.2,
+    "lon": 36.4,
+    "text": "Colourful reefs off the north-west coast."
+   },
+   {
+    "name": "Harrat Khaybar",
+    "kind": "lava fields",
+    "lat": 25.7,
+    "lon": 39.9,
+    "text": "Black lava fields and old volcanic cones."
+   },
+   {
+    "name": "Edge of the World",
+    "kind": "escarpment",
+    "lat": 24.93,
+    "lon": 45.98,
+    "text": "Cliffs dropping sharply to a desert plain near Riyadh."
+   },
+   {
+    "name": "Al-Ahsa Oasis",
+    "kind": "oasis",
+    "lat": 25.4,
+    "lon": 49.6,
+    "text": "One of the world's largest palm oases."
+   },
+   {
+    "name": "Al Wahbah crater",
+    "kind": "crater",
+    "lat": 22.9,
+    "lon": 41.14,
+    "text": "A huge crater with white salt at its bottom."
+   },
+   {
+    "name": "Empty Quarter",
+    "kind": "sand desert",
+    "lat": 20.5,
+    "lon": 50.5,
+    "text": "The largest continuous sand desert on Earth."
+   },
+   {
+    "name": "Jabal Sawda and Asir",
+    "kind": "mountains",
+    "lat": 18.27,
+    "lon": 42.37,
+    "text": "Green, cool highlands with the country's highest peak."
+   },
+   {
+    "name": "Farasan Islands",
+    "kind": "islands",
+    "lat": 16.7,
+    "lon": 42.0,
+    "text": "Islands with gazelles and nesting turtles."
+   }
+  ]
+ }
 }

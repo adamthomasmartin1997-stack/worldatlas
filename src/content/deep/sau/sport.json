@@ -35,5 +35,110 @@
    "term": "Sportswashing",
    "meaning": "Using sporting events or teams to improve a country's or company's reputation."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Saudi Pro League",
+     "subtitle": "Football",
+     "text": "Al Hilal have won the most titles; global stars play here."
+    },
+    {
+     "title": "Camel racing",
+     "subtitle": "Traditional",
+     "text": "Races with robot jockeys."
+    },
+    {
+     "title": "Esports World Cup",
+     "subtitle": "Esports",
+     "text": "A huge yearly tournament in Riyadh."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Majed Abdullah",
+     "subtitle": "Football",
+     "text": "Saudi Arabia's all-time top scorer."
+    },
+    {
+     "title": "Sami Al-Jaber",
+     "subtitle": "Football",
+     "text": "Played at four World Cups."
+    },
+    {
+     "title": "Tareg Hamedi",
+     "subtitle": "Karate",
+     "text": "Won Olympic silver in 2021."
+    },
+    {
+     "title": "Salem Al-Dawsari",
+     "subtitle": "Football",
+     "text": "Scored the winner against Argentina in 2022."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Saudi Arabia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Riyadh: King Fahd Stadium and Diriyah",
+    "kind": "venue",
+    "lat": 24.75,
+    "lon": 46.7,
+    "text": "National stadium and the Formula E street circuit."
+   },
+   {
+    "name": "Jeddah: Corniche Circuit and King Abdullah Sports City",
+    "kind": "venue",
+    "lat": 21.7,
+    "lon": 39.13,
+    "text": "The fast F1 street track and a big football stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1984",
+    "title": "Asian champions",
+    "text": "Saudi Arabia wins its first Asian Cup."
+   },
+   {
+    "year": "1994",
+    "title": "Owairan's goal",
+    "text": "A solo goal against Belgium at the World Cup."
+   },
+   {
+    "year": "2012",
+    "title": "Women at the Olympics",
+    "text": "Saudi women compete for the first time."
+   },
+   {
+    "year": "2021",
+    "title": "Formula One",
+    "text": "The first Saudi Arabian Grand Prix."
+   },
+   {
+    "year": "2022",
+    "title": "Beating Argentina",
+    "text": "A famous World Cup upset."
+   },
+   {
+    "year": "2034",
+    "title": "World Cup",
+    "text": "Saudi Arabia will host."
+   }
+  ]
+ }
 }
