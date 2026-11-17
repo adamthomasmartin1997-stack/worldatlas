@@ -40,5 +40,82 @@
    "term": "Delta",
    "meaning": "Land where a river splits into many channels before reaching the sea."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of the Netherlands's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Texel and the Wadden Islands",
+    "kind": "islands",
+    "lat": 53.07,
+    "lon": 4.8,
+    "text": "Dunes, beaches and seals."
+   },
+   {
+    "name": "Afsluitdijk",
+    "kind": "dam",
+    "lat": 53.0,
+    "lon": 5.2,
+    "text": "A 32 km dam that created a lake."
+   },
+   {
+    "name": "Giethoorn",
+    "kind": "village of canals",
+    "lat": 52.74,
+    "lon": 6.08,
+    "text": "A village with no roads, only canals."
+   },
+   {
+    "name": "Keukenhof bulb fields",
+    "kind": "flower fields",
+    "lat": 52.27,
+    "lon": 4.55,
+    "text": "Stripes of tulips each spring."
+   },
+   {
+    "name": "Oostvaardersplassen",
+    "kind": "wetland",
+    "lat": 52.45,
+    "lon": 5.35,
+    "text": "Wild land on reclaimed Flevoland."
+   },
+   {
+    "name": "Veluwe",
+    "kind": "heath and forest",
+    "lat": 52.1,
+    "lon": 5.85,
+    "text": "Woodland with deer and wild boar."
+   },
+   {
+    "name": "Kinderdijk",
+    "kind": "windmills",
+    "lat": 51.88,
+    "lon": 4.64,
+    "text": "19 windmills that drained the land."
+   },
+   {
+    "name": "Biesbosch",
+    "kind": "river wetland",
+    "lat": 51.75,
+    "lon": 4.8,
+    "text": "Creeks and willow forests."
+   },
+   {
+    "name": "Delta Works",
+    "kind": "storm barrier",
+    "lat": 51.65,
+    "lon": 3.7,
+    "text": "Giant gates that hold back the sea."
+   },
+   {
+    "name": "Vaalserberg",
+    "kind": "hill",
+    "lat": 50.75,
+    "lon": 6.02,
+    "text": "The highest point in the European Netherlands, just 322 m."
+   }
+  ]
+ }
 }

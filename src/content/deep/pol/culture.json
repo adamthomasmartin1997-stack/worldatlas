@@ -34,5 +34,151 @@
    "term": "World Heritage Site",
    "meaning": "A place of outstanding value listed by UNESCO."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Ashes and Diamonds",
+     "subtitle": "1958 · Andrzej Wajda",
+     "text": "A young resistance fighter on the last day of the war."
+    },
+    {
+     "title": "Three Colours: Blue",
+     "subtitle": "1993 · Krzysztof Kieślowski",
+     "text": "The first of a famous trilogy."
+    },
+    {
+     "title": "Ida",
+     "subtitle": "2013 · Paweł Pawlikowski",
+     "text": "A young nun discovers her Jewish family; won an Oscar."
+    },
+    {
+     "title": "Cold War",
+     "subtitle": "2018 · Paweł Pawlikowski",
+     "text": "A love story across the Iron Curtain."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Quo Vadis",
+     "subtitle": "1896 · Henryk Sienkiewicz",
+     "text": "Love and faith in Nero's Rome."
+    },
+    {
+     "title": "Solaris",
+     "subtitle": "1961 · Stanisław Lem",
+     "text": "A living ocean on a distant planet."
+    },
+    {
+     "title": "The Witcher",
+     "subtitle": "1990s · Andrzej Sapkowski",
+     "text": "Monster-hunter Geralt's adventures."
+    },
+    {
+     "title": "Flights",
+     "subtitle": "2007 · Olga Tokarczuk",
+     "text": "Won the International Booker Prize."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Polonaise 'Heroic'",
+     "subtitle": "Frédéric Chopin, 1842",
+     "text": "A proud, stirring piano piece."
+    },
+    {
+     "title": "Symphony No. 3",
+     "subtitle": "Henryk Górecki, 1976",
+     "text": "A recording of it sold over a million copies."
+    },
+    {
+     "title": "Małomiasteczkowy",
+     "subtitle": "Dawid Podsiadło, 2018",
+     "text": "A modern Polish pop hit."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Pierogi",
+     "subtitle": "Everywhere",
+     "text": "Dumplings with potato and cheese, meat or fruit."
+    },
+    {
+     "title": "Bigos",
+     "subtitle": "Everywhere",
+     "text": "Hunter's stew of cabbage and meat."
+    },
+    {
+     "title": "Żurek",
+     "subtitle": "Everywhere",
+     "text": "Sour rye soup, often at Easter."
+    },
+    {
+     "title": "Oscypek",
+     "subtitle": "Tatra mountains",
+     "text": "Smoked sheep's cheese."
+    },
+    {
+     "title": "Pączki",
+     "subtitle": "Everywhere",
+     "text": "Jam doughnuts on Fat Thursday."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Fat Thursday",
+    "text": "Millions of doughnuts are eaten."
+   },
+   {
+    "month": 4,
+    "name": "Śmigus-dyngus",
+    "text": "Water fights on Easter Monday."
+   },
+   {
+    "month": 5,
+    "name": "Constitution Day",
+    "text": "3 May."
+   },
+   {
+    "month": 6,
+    "name": "Wianki",
+    "text": "Wreaths floated on rivers at midsummer."
+   },
+   {
+    "month": 11,
+    "name": "All Saints' Day",
+    "text": "Cemeteries glow with candles on 1 November."
+   },
+   {
+    "month": 11,
+    "name": "Independence Day",
+    "text": "11 November."
+   },
+   {
+    "month": 12,
+    "name": "Wigilia",
+    "text": "Christmas Eve supper of twelve dishes."
+   }
+  ]
+ }
 }

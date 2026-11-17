@@ -23,5 +23,141 @@
    "term": "Total Football",
    "meaning": "A style of play where any player can take over any position."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Eredivisie",
+     "subtitle": "Football",
+     "text": "Ajax have won it the most."
+    },
+    {
+     "title": "Hoofdklasse",
+     "subtitle": "Field hockey",
+     "text": "One of the strongest hockey leagues."
+    },
+    {
+     "title": "Korfbal League",
+     "subtitle": "Korfball",
+     "text": "The top league of a Dutch-invented sport."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Fanny Blankers-Koen",
+     "subtitle": "Athletics",
+     "text": "Four golds at the 1948 Olympics."
+    },
+    {
+     "title": "Johan Cruyff",
+     "subtitle": "Football",
+     "text": "The star of Total Football."
+    },
+    {
+     "title": "Ireen Wüst",
+     "subtitle": "Speed skating",
+     "text": "Won Olympic gold at five Games."
+    },
+    {
+     "title": "Esther Vergeer",
+     "subtitle": "Wheelchair tennis",
+     "text": "Unbeaten for about ten years."
+    },
+    {
+     "title": "Max Verstappen",
+     "subtitle": "Formula One",
+     "text": "Four world titles."
+    },
+    {
+     "title": "Femke Bol",
+     "subtitle": "Athletics",
+     "text": "World champion in the 400 m hurdles."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where the Netherlands's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Johan Cruijff ArenA, Amsterdam",
+    "kind": "venue",
+    "lat": 52.314,
+    "lon": 4.942,
+    "text": "Home of Ajax."
+   },
+   {
+    "name": "De Kuip, Rotterdam",
+    "kind": "venue",
+    "lat": 51.894,
+    "lon": 4.523,
+    "text": "Feyenoord's famous stadium."
+   },
+   {
+    "name": "Zandvoort",
+    "kind": "venue",
+    "lat": 52.389,
+    "lon": 4.541,
+    "text": "A Formula One circuit in the dunes."
+   },
+   {
+    "name": "Thialf, Heerenveen",
+    "kind": "venue",
+    "lat": 52.94,
+    "lon": 5.94,
+    "text": "The 'cathedral' of speed skating."
+   },
+   {
+    "name": "Assen",
+    "kind": "venue",
+    "lat": 52.96,
+    "lon": 6.52,
+    "text": "The TT motorbike circuit."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1928",
+    "title": "Amsterdam Olympics",
+    "text": "The first Olympic flame."
+   },
+   {
+    "year": "1948",
+    "title": "Fanny's four golds",
+    "text": "A housewife and mother becomes a star."
+   },
+   {
+    "year": "1974",
+    "title": "Total Football",
+    "text": "A dazzling run to the World Cup final."
+   },
+   {
+    "year": "1988",
+    "title": "European champions",
+    "text": "Van Basten's famous volley."
+   },
+   {
+    "year": "1997",
+    "title": "Elfstedentocht",
+    "text": "The last time the 200 km race is held."
+   },
+   {
+    "year": "2017",
+    "title": "Women's Euros",
+    "text": "Champions at home."
+   }
+  ]
+ }
 }

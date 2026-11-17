@@ -43,5 +43,82 @@
    "term": "Iberian Peninsula",
    "meaning": "The peninsula in south-west Europe shared by Spain and Portugal."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Spain's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Rías Baixas",
+    "kind": "coastal inlets",
+    "lat": 42.4,
+    "lon": -8.8,
+    "text": "Long, fjord-like sea inlets in Galicia."
+   },
+   {
+    "name": "Picos de Europa",
+    "kind": "mountains",
+    "lat": 43.2,
+    "lon": -4.85,
+    "text": "Limestone peaks close to the Atlantic."
+   },
+   {
+    "name": "Bardenas Reales",
+    "kind": "badlands",
+    "lat": 42.2,
+    "lon": -1.5,
+    "text": "A desert of eroded clay towers in Navarre."
+   },
+   {
+    "name": "Ordesa Canyon",
+    "kind": "mountains",
+    "lat": 42.65,
+    "lon": 0.05,
+    "text": "A deep canyon in the Pyrenees."
+   },
+   {
+    "name": "Ebro Delta",
+    "kind": "wetland",
+    "lat": 40.7,
+    "lon": 0.75,
+    "text": "Rice fields and flamingos at the mouth of the Ebro."
+   },
+   {
+    "name": "Serra de Tramuntana",
+    "kind": "mountains",
+    "lat": 39.75,
+    "lon": 2.75,
+    "text": "Mountains along Mallorca's north coast."
+   },
+   {
+    "name": "Doñana",
+    "kind": "wetland",
+    "lat": 37.0,
+    "lon": -6.4,
+    "text": "Marshes and dunes, home to the Iberian lynx."
+   },
+   {
+    "name": "Sierra Nevada",
+    "kind": "mountains",
+    "lat": 37.05,
+    "lon": -3.31,
+    "text": "The highest peaks on the mainland, with ski slopes above Granada."
+   },
+   {
+    "name": "Tabernas Desert",
+    "kind": "desert",
+    "lat": 37.05,
+    "lon": -2.4,
+    "text": "Europe's driest landscape, where westerns were filmed."
+   },
+   {
+    "name": "Mount Teide",
+    "kind": "volcano",
+    "lat": 28.27,
+    "lon": -16.64,
+    "text": "Spain's highest mountain, on Tenerife in the Canary Islands."
+   }
+  ]
+ }
 }

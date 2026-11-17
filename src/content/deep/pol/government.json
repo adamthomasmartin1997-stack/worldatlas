@@ -54,5 +54,62 @@
    "term": "Rule of law",
    "meaning": "The principle that everyone, including the government, must follow the law, judged by independent courts."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 5 years",
+     "text": "Head of state; can veto laws."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the Council of Ministers",
+     "text": "Runs the government."
+    },
+    {
+     "title": "The Sejm",
+     "subtitle": "460 members",
+     "text": "The main chamber of parliament."
+    },
+    {
+     "title": "The Senate",
+     "subtitle": "100 senators",
+     "text": "Reviews laws."
+    },
+    {
+     "title": "Constitutional Tribunal",
+     "subtitle": "15 judges",
+     "text": "Checks laws against the constitution."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government, deputies, the Senate, the President or 100,000 citizens."
+   },
+   {
+    "title": "Sejm readings",
+    "text": "The Sejm debates and votes."
+   },
+   {
+    "title": "Senate",
+    "text": "Can propose changes, which the Sejm can reject."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it, vetoes it or sends it to the Constitutional Tribunal."
+   }
+  ]
+ }
 }

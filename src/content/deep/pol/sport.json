@@ -27,5 +27,141 @@
    "term": "Speedway",
    "meaning": "Motorbike racing on an oval dirt track, with no brakes."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Ekstraklasa",
+     "subtitle": "Football",
+     "text": "Legia Warsaw is the best-known club."
+    },
+    {
+     "title": "PlusLiga",
+     "subtitle": "Volleyball",
+     "text": "One of the strongest volleyball leagues in the world."
+    },
+    {
+     "title": "Speedway Ekstraliga",
+     "subtitle": "Speedway",
+     "text": "The world's top motorbike speedway league."
+    },
+    {
+     "title": "Superliga",
+     "subtitle": "Handball",
+     "text": "Kielce won the Champions League in 2016."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Irena Szewińska",
+     "subtitle": "Athletics",
+     "text": "Won seven Olympic medals."
+    },
+    {
+     "title": "Robert Korzeniowski",
+     "subtitle": "Race walking",
+     "text": "Won four Olympic golds."
+    },
+    {
+     "title": "Adam Małysz",
+     "subtitle": "Ski jumping",
+     "text": "Four World Cup titles."
+    },
+    {
+     "title": "Robert Lewandowski",
+     "subtitle": "Football",
+     "text": "Poland's record goal-scorer."
+    },
+    {
+     "title": "Anita Włodarczyk",
+     "subtitle": "Hammer",
+     "text": "Three Olympic golds."
+    },
+    {
+     "title": "Iga Świątek",
+     "subtitle": "Tennis",
+     "text": "World number one."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Poland's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "National Stadium, Warsaw",
+    "kind": "venue",
+    "lat": 52.239,
+    "lon": 21.046,
+    "text": "Opened for Euro 2012."
+   },
+   {
+    "name": "Gdańsk Stadium",
+    "kind": "venue",
+    "lat": 54.39,
+    "lon": 18.64,
+    "text": "Built to look like a lump of amber."
+   },
+   {
+    "name": "Wielka Krokiew, Zakopane",
+    "kind": "venue",
+    "lat": 49.28,
+    "lon": 19.97,
+    "text": "A famous ski jump."
+   },
+   {
+    "name": "Spodek, Katowice",
+    "kind": "venue",
+    "lat": 50.266,
+    "lon": 19.025,
+    "text": "A flying-saucer-shaped arena."
+   },
+   {
+    "name": "Leszno",
+    "kind": "venue",
+    "lat": 51.84,
+    "lon": 16.58,
+    "text": "A speedway capital."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1974",
+    "title": "Third at the World Cup",
+    "text": "Grzegorz Lato is top scorer."
+   },
+   {
+    "year": "2012",
+    "title": "Euro 2012",
+    "text": "Co-hosted with Ukraine."
+   },
+   {
+    "year": "2014",
+    "title": "Volleyball world champions",
+    "text": "At home."
+   },
+   {
+    "year": "2020",
+    "title": "Świątek in Paris",
+    "text": "A first Grand Slam."
+   },
+   {
+    "year": "2025",
+    "title": "Wimbledon",
+    "text": "Świątek wins the final 6-0 6-0."
+   }
+  ]
+ }
 }

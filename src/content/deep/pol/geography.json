@@ -48,5 +48,68 @@
    "term": "Primeval forest",
    "meaning": "An ancient forest little changed by people."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Poland's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Słowiński dunes",
+    "kind": "moving dunes",
+    "lat": 54.73,
+    "lon": 17.45,
+    "text": "Sand dunes that move across the Baltic coast."
+   },
+   {
+    "name": "Hel Peninsula",
+    "kind": "sandspit",
+    "lat": 54.62,
+    "lon": 18.8,
+    "text": "A thin strip of land reaching into the Baltic."
+   },
+   {
+    "name": "Masurian Lakes",
+    "kind": "lakes",
+    "lat": 53.8,
+    "lon": 21.6,
+    "text": "About 2,000 lakes joined by rivers and canals."
+   },
+   {
+    "name": "Biebrza Marshes",
+    "kind": "wetland",
+    "lat": 53.5,
+    "lon": 22.6,
+    "text": "One of Europe's wildest wetlands, full of birds."
+   },
+   {
+    "name": "Białowieża Forest",
+    "kind": "ancient forest",
+    "lat": 52.7,
+    "lon": 23.85,
+    "text": "Home of the European bison."
+   },
+   {
+    "name": "Wieliczka Salt Mine",
+    "kind": "underground",
+    "lat": 49.98,
+    "lon": 20.06,
+    "text": "Chapels and statues carved from salt."
+   },
+   {
+    "name": "Morskie Oko",
+    "kind": "mountain lake",
+    "lat": 49.2,
+    "lon": 20.07,
+    "text": "A lake below the Tatra peaks."
+   },
+   {
+    "name": "Bieszczady",
+    "kind": "mountains",
+    "lat": 49.1,
+    "lon": 22.6,
+    "text": "Remote hills with wolves and bears."
+   }
+  ]
+ }
 }

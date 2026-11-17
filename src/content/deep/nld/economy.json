@@ -28,5 +28,44 @@
    "term": "Greenhouse",
    "meaning": "A glass building where plants grow in controlled warmth and light."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in the Netherlands",
+   "items": [
+    {
+     "title": "Chip-making machines",
+     "subtitle": "ASML",
+     "text": "The only maker of the machines for the most advanced chips."
+    },
+    {
+     "title": "Flowers and vegetables",
+     "subtitle": "Westland, Aalsmeer",
+     "text": "Greenhouses and a huge flower auction."
+    },
+    {
+     "title": "Cheese",
+     "subtitle": "Gouda, Edam",
+     "text": "Exported worldwide."
+    },
+    {
+     "title": "Beer",
+     "subtitle": "Heineken",
+     "text": "One of the world's biggest brewers."
+    },
+    {
+     "title": "Port and trade",
+     "subtitle": "Rotterdam",
+     "text": "Europe's biggest port."
+    },
+    {
+     "title": "Bicycles",
+     "subtitle": "Gazelle and others",
+     "text": "A nation of cyclists."
+    }
+   ],
+   "intro": "Some of the things the Netherlands makes and sells to the world."
+  }
  ]
 }

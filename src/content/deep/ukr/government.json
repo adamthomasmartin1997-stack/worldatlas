@@ -49,5 +49,62 @@
    "term": "Oblast",
    "meaning": "A province or region of Ukraine."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 5 years",
+     "text": "Leads defence and foreign policy."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Approved by the Rada",
+     "text": "Leads the Cabinet."
+    },
+    {
+     "title": "Verkhovna Rada",
+     "subtitle": "450 seats",
+     "text": "Ukraine's parliament."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "18 judges",
+     "text": "Checks laws."
+    },
+    {
+     "title": "Oblasts and hromadas",
+     "subtitle": "Regions and communities",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "By the President, members of parliament or the Cabinet."
+   },
+   {
+    "title": "Committee",
+    "text": "A committee studies it."
+   },
+   {
+    "title": "Readings",
+    "text": "The Rada usually votes twice."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it or vetoes it; the Rada can override with two-thirds."
+   }
+  ]
+ }
 }

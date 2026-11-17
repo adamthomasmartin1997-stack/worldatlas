@@ -49,5 +49,62 @@
    "term": "Autonomous community",
    "meaning": "One of Spain's 17 self-governing regions."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Inherits the throne",
+     "text": "Head of state with mainly ceremonial duties."
+    },
+    {
+     "title": "President of the Government",
+     "subtitle": "Chosen by the Congress",
+     "text": "Spain's prime minister, who leads the government."
+    },
+    {
+     "title": "Congress of Deputies",
+     "subtitle": "350 members",
+     "text": "The more powerful chamber of parliament."
+    },
+    {
+     "title": "The Senate",
+     "subtitle": "Represents the regions",
+     "text": "Reviews and can amend laws."
+    },
+    {
+     "title": "Autonomous communities",
+     "subtitle": "17 regions",
+     "text": "Each with its own parliament and government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "Usually by the government."
+   },
+   {
+    "title": "Congress",
+    "text": "Committees study it and deputies vote."
+   },
+   {
+    "title": "Senate",
+    "text": "The Senate can amend or veto; Congress can overrule it."
+   },
+   {
+    "title": "The King signs",
+    "text": "The law is published in the official gazette."
+   }
+  ]
+ }
 }

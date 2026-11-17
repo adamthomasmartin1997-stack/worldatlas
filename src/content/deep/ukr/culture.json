@@ -28,5 +28,141 @@
    "term": "Vyshyvanka",
    "meaning": "A traditional embroidered shirt."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Earth",
+     "subtitle": "1930 · Oleksandr Dovzhenko",
+     "text": "A silent masterpiece about village life."
+    },
+    {
+     "title": "Shadows of Forgotten Ancestors",
+     "subtitle": "1965 · Sergei Parajanov",
+     "text": "A Carpathian love story."
+    },
+    {
+     "title": "20 Days in Mariupol",
+     "subtitle": "2023 · Mstyslav Chernov",
+     "text": "Journalists trapped in a besieged city; won an Oscar."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Kobzar",
+     "subtitle": "1840 · Taras Shevchenko",
+     "text": "Ukraine's best-loved poetry."
+    },
+    {
+     "title": "The Forest Song",
+     "subtitle": "1911 · Lesya Ukrainka",
+     "text": "A forest spirit falls in love with a human."
+    },
+    {
+     "title": "Death and the Penguin",
+     "subtitle": "1996 · Andrey Kurkov",
+     "text": "A writer and his pet penguin in Kyiv."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Shchedryk",
+     "subtitle": "Mykola Leontovych, 1916",
+     "text": "Became Carol of the Bells."
+    },
+    {
+     "title": "Wild Dances",
+     "subtitle": "Ruslana, 2004",
+     "text": "Ukraine's first Eurovision win."
+    },
+    {
+     "title": "Stefania",
+     "subtitle": "Kalush Orchestra, 2022",
+     "text": "A Eurovision winner."
+    },
+    {
+     "title": "Okean Elzy",
+     "subtitle": "Rock band",
+     "text": "Ukraine's biggest rock band."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Borscht",
+     "subtitle": "Everywhere",
+     "text": "Beetroot soup."
+    },
+    {
+     "title": "Varenyky",
+     "subtitle": "Everywhere",
+     "text": "Dumplings with potato, cheese or cherries."
+    },
+    {
+     "title": "Holubtsi",
+     "subtitle": "Everywhere",
+     "text": "Cabbage rolls."
+    },
+    {
+     "title": "Deruny",
+     "subtitle": "Everywhere",
+     "text": "Potato pancakes."
+    },
+    {
+     "title": "Chicken Kyiv",
+     "subtitle": "Kyiv",
+     "text": "Breaded chicken filled with garlic butter."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Malanka",
+    "text": "Costumed street celebrations."
+   },
+   {
+    "month": 5,
+    "name": "Vyshyvanka Day",
+    "text": "People wear embroidered shirts."
+   },
+   {
+    "month": 7,
+    "name": "Ivana Kupala",
+    "text": "Midsummer bonfires and flower wreaths."
+   },
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "24 August."
+   },
+   {
+    "month": 11,
+    "name": "Holodomor Remembrance",
+    "text": "Candles on the fourth Saturday."
+   },
+   {
+    "month": 12,
+    "name": "Christmas",
+    "text": "Celebrated on 25 December since 2023."
+   }
+  ]
+ }
 }

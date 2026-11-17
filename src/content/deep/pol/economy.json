@@ -31,5 +31,49 @@
    "term": "Market economy",
    "meaning": "An economy where businesses and buyers decide what is made and prices."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Poland",
+   "items": [
+    {
+     "title": "Furniture",
+     "subtitle": "Everywhere",
+     "text": "Poland is one of the world's biggest furniture exporters."
+    },
+    {
+     "title": "Cars and buses",
+     "subtitle": "Tychy, Poznań",
+     "text": "Buses, cars and car parts."
+    },
+    {
+     "title": "Video games",
+     "subtitle": "CD Projekt",
+     "text": "Makers of The Witcher and Cyberpunk 2077."
+    },
+    {
+     "title": "Food",
+     "subtitle": "Apples and poultry",
+     "text": "The EU's biggest producer of apples and chicken."
+    },
+    {
+     "title": "Copper and silver",
+     "subtitle": "KGHM",
+     "text": "One of the world's biggest silver producers."
+    },
+    {
+     "title": "Amber",
+     "subtitle": "Gdańsk",
+     "text": "Baltic amber jewellery."
+    },
+    {
+     "title": "The złoty",
+     "subtitle": "zł",
+     "text": "Poland's currency."
+    }
+   ],
+   "intro": "Some of the things Poland makes and sells to the world."
+  }
  ]
 }

@@ -26,5 +26,117 @@
    "term": "Undisputed champion",
    "meaning": "A boxer who holds all the major world title belts at once."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Premier League",
+     "subtitle": "Football",
+     "text": "Dynamo Kyiv have won the most titles."
+    },
+    {
+     "title": "Superleague",
+     "subtitle": "Basketball",
+     "text": "Ukraine's top basketball league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Oleh Blokhin",
+     "subtitle": "Football",
+     "text": "Ballon d'Or winner in 1975."
+    },
+    {
+     "title": "Sergey Bubka",
+     "subtitle": "Pole vault",
+     "text": "Broke the world record 35 times."
+    },
+    {
+     "title": "Lilia Podkopayeva",
+     "subtitle": "Gymnastics",
+     "text": "Olympic all-around champion in 1996."
+    },
+    {
+     "title": "Andriy Shevchenko",
+     "subtitle": "Football",
+     "text": "Ballon d'Or winner in 2004."
+    },
+    {
+     "title": "Oleksandr Usyk",
+     "subtitle": "Boxing",
+     "text": "Undisputed heavyweight champion."
+    },
+    {
+     "title": "Yaroslava Mahuchikh",
+     "subtitle": "High jump",
+     "text": "World record and Olympic gold in 2024."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Ukraine's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Olympic Stadium, Kyiv",
+    "kind": "venue",
+    "lat": 50.433,
+    "lon": 30.522,
+    "text": "Hosted the Euro 2012 final."
+   },
+   {
+    "name": "Lviv Arena",
+    "kind": "venue",
+    "lat": 49.775,
+    "lon": 24.03,
+    "text": "A Euro 2012 venue."
+   },
+   {
+    "name": "Bukovel",
+    "kind": "venue",
+    "lat": 48.36,
+    "lon": 24.4,
+    "text": "Ukraine's biggest ski resort."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1975",
+    "title": "Dynamo Kyiv",
+    "text": "A European trophy and a Ballon d'Or."
+   },
+   {
+    "year": "1985",
+    "title": "Six metres",
+    "text": "Bubka clears 6 m for the first time."
+   },
+   {
+    "year": "2009",
+    "title": "UEFA Cup",
+    "text": "Shakhtar Donetsk win."
+   },
+   {
+    "year": "2012",
+    "title": "Euro 2012",
+    "text": "Co-hosted with Poland."
+   },
+   {
+    "year": "2024",
+    "title": "Gold in Paris",
+    "text": "Mahuchikh wins the high jump."
+   }
+  ]
+ }
 }

@@ -40,5 +40,161 @@
    "term": "Castell",
    "meaning": "A human tower built at festivals in Catalonia."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Women on the Verge of a Nervous Breakdown",
+     "subtitle": "1988 · Pedro Almodóvar",
+     "text": "A colourful comedy from Spain's best-known director."
+    },
+    {
+     "title": "The Others",
+     "subtitle": "2001 · Alejandro Amenábar",
+     "text": "A ghost story starring Nicole Kidman."
+    },
+    {
+     "title": "The Orphanage",
+     "subtitle": "2007 · J. A. Bayona",
+     "text": "A haunting mystery in an old orphanage."
+    },
+    {
+     "title": "Society of the Snow",
+     "subtitle": "2023 · J. A. Bayona",
+     "text": "Survivors of a plane crash in the Andes."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Don Quixote",
+     "subtitle": "1605 · Miguel de Cervantes",
+     "text": "A man who believes he is a knight goes on adventures."
+    },
+    {
+     "title": "Platero and I",
+     "subtitle": "1914 · Juan Ramón Jiménez",
+     "text": "Prose poems about a man and his donkey."
+    },
+    {
+     "title": "Blood Wedding",
+     "subtitle": "1932 · Federico García Lorca",
+     "text": "A tragic play set in the Andalusian countryside."
+    },
+    {
+     "title": "The Shadow of the Wind",
+     "subtitle": "2001 · Carlos Ruiz Zafón",
+     "text": "A boy discovers a mysterious book in Barcelona."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Concierto de Aranjuez",
+     "subtitle": "Joaquín Rodrigo, 1939",
+     "text": "A famous concerto for guitar."
+    },
+    {
+     "title": "Entre dos aguas",
+     "subtitle": "Paco de Lucía, 1973",
+     "text": "Flamenco guitar that reached a worldwide audience."
+    },
+    {
+     "title": "Macarena",
+     "subtitle": "Los del Río, 1993",
+     "text": "The dance craze that swept the world."
+    },
+    {
+     "title": "Malamente",
+     "subtitle": "Rosalía, 2018",
+     "text": "Flamenco mixed with pop."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Paella",
+     "subtitle": "Valencia",
+     "text": "Rice cooked in a wide pan with rabbit, chicken or seafood."
+    },
+    {
+     "title": "Tortilla española",
+     "subtitle": "Everywhere",
+     "text": "A thick potato omelette."
+    },
+    {
+     "title": "Gazpacho",
+     "subtitle": "Andalusia",
+     "text": "Cold tomato soup."
+    },
+    {
+     "title": "Pintxos",
+     "subtitle": "Basque Country",
+     "text": "Small snacks on bread."
+    },
+    {
+     "title": "Churros con chocolate",
+     "subtitle": "Everywhere",
+     "text": "Fried dough dipped in thick hot chocolate."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Three Kings",
+    "text": "Parades on 5 January bring sweets and presents."
+   },
+   {
+    "month": 3,
+    "name": "Las Fallas",
+    "text": "Valencia burns giant papier-mâché figures."
+   },
+   {
+    "month": 4,
+    "name": "Seville Fair",
+    "text": "A week of flamenco dresses and dancing."
+   },
+   {
+    "month": 6,
+    "name": "San Juan",
+    "text": "Bonfires on the beach on midsummer night."
+   },
+   {
+    "month": 7,
+    "name": "San Fermín",
+    "text": "Pamplona's festival with the running of the bulls."
+   },
+   {
+    "month": 8,
+    "name": "La Tomatina",
+    "text": "A giant tomato fight in Buñol."
+   },
+   {
+    "month": 10,
+    "name": "National Day",
+    "text": "12 October."
+   },
+   {
+    "month": 12,
+    "name": "Twelve grapes",
+    "text": "One grape for each chime at midnight on New Year's Eve."
+   }
+  ]
+ }
 }

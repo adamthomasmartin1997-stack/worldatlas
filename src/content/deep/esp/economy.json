@@ -34,5 +34,49 @@
    "term": "Unemployment",
    "meaning": "Not having a paid job while looking for one."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Spain",
+   "items": [
+    {
+     "title": "Olive oil",
+     "subtitle": "Andalusia",
+     "text": "Spain produces more olive oil than any other country."
+    },
+    {
+     "title": "Cars",
+     "subtitle": "Martorell, Valencia, Vigo",
+     "text": "Spain is Europe's second-biggest car maker."
+    },
+    {
+     "title": "Fashion",
+     "subtitle": "Zara (Inditex), Mango",
+     "text": "The world's largest fashion retailer is Spanish."
+    },
+    {
+     "title": "Wine and cava",
+     "subtitle": "Rioja, Catalonia",
+     "text": "Famous wines and sparkling cava."
+    },
+    {
+     "title": "Fruit and vegetables",
+     "subtitle": "Almería, Valencia",
+     "text": "Oranges and greenhouse vegetables for Europe."
+    },
+    {
+     "title": "Trains",
+     "subtitle": "Talgo, CAF",
+     "text": "High-speed and city trains."
+    },
+    {
+     "title": "Renewable energy",
+     "subtitle": "Iberdrola",
+     "text": "A world leader in wind and solar power."
+    }
+   ],
+   "intro": "Some of the things Spain makes and sells to the world."
+  }
  ]
 }

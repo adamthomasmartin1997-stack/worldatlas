@@ -37,5 +37,75 @@
    "term": "Steppe",
    "meaning": "Large, flat grassland with few trees."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Ukraine's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Shatsk Lakes",
+    "kind": "lakes",
+    "lat": 51.5,
+    "lon": 23.85,
+    "text": "Clear lakes in the north-west forests."
+   },
+   {
+    "name": "Chornobyl Zone",
+    "kind": "exclusion zone",
+    "lat": 51.27,
+    "lon": 30.22,
+    "text": "Wildlife has returned since 1986."
+   },
+   {
+    "name": "Dnipro at Kyiv",
+    "kind": "river",
+    "lat": 50.45,
+    "lon": 30.55,
+    "text": "The great river through the capital."
+   },
+   {
+    "name": "Synevyr",
+    "kind": "mountain lake",
+    "lat": 48.62,
+    "lon": 23.68,
+    "text": "The 'pearl of the Carpathians'."
+   },
+   {
+    "name": "Hoverla",
+    "kind": "mountain",
+    "lat": 48.16,
+    "lon": 24.5,
+    "text": "Ukraine's highest peak."
+   },
+   {
+    "name": "Kamianets-Podilskyi",
+    "kind": "river canyon",
+    "lat": 48.68,
+    "lon": 26.58,
+    "text": "A fortress town in a river loop."
+   },
+   {
+    "name": "Askania-Nova",
+    "kind": "steppe reserve",
+    "lat": 46.45,
+    "lon": 33.87,
+    "text": "Protected steppe with Przewalski's horses."
+   },
+   {
+    "name": "Danube Delta",
+    "kind": "delta",
+    "lat": 45.4,
+    "lon": 29.6,
+    "text": "Waterways where the Danube meets the Black Sea."
+   },
+   {
+    "name": "Crimean Mountains",
+    "kind": "mountains",
+    "lat": 44.45,
+    "lon": 34.06,
+    "text": "Cliffs above the Black Sea, occupied by Russia since 2014."
+   }
+  ]
+ }
 }

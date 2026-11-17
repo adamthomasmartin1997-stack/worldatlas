@@ -24,5 +24,146 @@
    "term": "Stroopwafel",
    "meaning": "Two thin waffles with caramel syrup between them."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Turkish Delight",
+     "subtitle": "1973 · Paul Verhoeven",
+     "text": "The most-watched Dutch film ever."
+    },
+    {
+     "title": "Antonia's Line",
+     "subtitle": "1995 · Marleen Gorris",
+     "text": "Four generations of women; won an Oscar."
+    },
+    {
+     "title": "Character",
+     "subtitle": "1997 · Mike van Diem",
+     "text": "A son and his cruel father; won an Oscar."
+    },
+    {
+     "title": "Black Book",
+     "subtitle": "2006 · Paul Verhoeven",
+     "text": "A Jewish woman in the wartime resistance."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Max Havelaar",
+     "subtitle": "1860 · Multatuli",
+     "text": "A novel exposing colonial abuse in Indonesia."
+    },
+    {
+     "title": "The Diary of a Young Girl",
+     "subtitle": "1947 · Anne Frank",
+     "text": "Anne's diary from her hiding place."
+    },
+    {
+     "title": "Miffy",
+     "subtitle": "1955 · Dick Bruna",
+     "text": "A little rabbit for small children."
+    },
+    {
+     "title": "The Discomfort of Evening",
+     "subtitle": "2018 · Marieke Lucas Rijneveld",
+     "text": "Won the International Booker Prize."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Venus",
+     "subtitle": "Shocking Blue, 1969",
+     "text": "A US number one."
+    },
+    {
+     "title": "Animals",
+     "subtitle": "Martin Garrix, 2013",
+     "text": "A dance hit by a 17-year-old DJ."
+    },
+    {
+     "title": "Arcade",
+     "subtitle": "Duncan Laurence, 2019",
+     "text": "A Eurovision winner."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Stroopwafels",
+     "subtitle": "Gouda",
+     "text": "Syrup waffles."
+    },
+    {
+     "title": "Raw herring",
+     "subtitle": "Everywhere",
+     "text": "Eaten with onions."
+    },
+    {
+     "title": "Bitterballen",
+     "subtitle": "Everywhere",
+     "text": "Crispy meat-ragout balls."
+    },
+    {
+     "title": "Hagelslag",
+     "subtitle": "Everywhere",
+     "text": "Chocolate sprinkles on bread."
+    },
+    {
+     "title": "Oliebollen",
+     "subtitle": "New Year",
+     "text": "Fried dough balls."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "King's Day",
+    "text": "27 April: orange clothes and street markets."
+   },
+   {
+    "month": 5,
+    "name": "Liberation Day",
+    "text": "5 May, after Remembrance on 4 May."
+   },
+   {
+    "month": 8,
+    "name": "Amsterdam Pride",
+    "text": "A canal parade."
+   },
+   {
+    "month": 9,
+    "name": "Prinsjesdag",
+    "text": "The King's speech, with a golden coach."
+   },
+   {
+    "month": 10,
+    "name": "Amsterdam Dance Event",
+    "text": "A huge electronic music festival."
+   },
+   {
+    "month": 12,
+    "name": "Sinterklaas",
+    "text": "Gifts and poems on 5 December."
+   }
+  ]
+ }
 }

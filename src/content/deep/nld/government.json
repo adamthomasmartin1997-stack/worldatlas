@@ -48,5 +48,66 @@
    "term": "Proportional representation",
    "meaning": "Parties win seats in proportion to their share of the vote."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Inherits the throne",
+     "text": "Head of state; signs laws with a minister."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the coalition",
+     "text": "Heads the government."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "150 members",
+     "text": "Elected by proportional representation."
+    },
+    {
+     "title": "The Senate",
+     "subtitle": "75 members",
+     "text": "Chosen by provincial councils; can only accept or reject laws."
+    },
+    {
+     "title": "Water boards",
+     "subtitle": "Elected locally",
+     "text": "Manage dikes and water."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is drafted",
+    "text": "Usually by a minister."
+   },
+   {
+    "title": "Council of State",
+    "text": "Gives advice."
+   },
+   {
+    "title": "House of Representatives",
+    "text": "Debates, amends and votes."
+   },
+   {
+    "title": "Senate",
+    "text": "Votes yes or no, without changes."
+   },
+   {
+    "title": "Signed",
+    "text": "The King and the minister sign it."
+   }
+  ]
+ }
 }

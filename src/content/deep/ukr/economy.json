@@ -28,5 +28,44 @@
    "term": "Breadbasket",
    "meaning": "A region that produces huge amounts of grain."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Ukraine",
+   "items": [
+    {
+     "title": "Sunflower oil",
+     "subtitle": "The steppe",
+     "text": "The world's largest exporter."
+    },
+    {
+     "title": "Grain",
+     "subtitle": "Everywhere",
+     "text": "Wheat and maize for the world."
+    },
+    {
+     "title": "Steel",
+     "subtitle": "The east",
+     "text": "Iron ore and steel."
+    },
+    {
+     "title": "Software",
+     "subtitle": "Kyiv, Lviv",
+     "text": "Grammarly began in Kyiv."
+    },
+    {
+     "title": "Drones",
+     "subtitle": "Everywhere",
+     "text": "A booming industry in wartime."
+    },
+    {
+     "title": "The hryvnia",
+     "subtitle": "₴",
+     "text": "Ukraine's currency."
+    }
+   ],
+   "intro": "Some of the things Ukraine makes and sells to the world."
+  }
  ]
 }
