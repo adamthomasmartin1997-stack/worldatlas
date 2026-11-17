@@ -1,0 +1,137 @@
+{
+ "status": "draft",
+ "intro": "Georgia is famous for polyphonic singing, ancient wine and hearty food.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Singing and dance",
+   "text": [
+    "Georgian polyphonic singing, with three-part harmonies, is on UNESCO's heritage list. National dances are fast and acrobatic."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Khachapuri (cheese bread), khinkali (dumplings), churchkhela (nut sweets) and qvevri wine are classics."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Polyphony",
+   "meaning": "Several melodies sung at the same time."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Repentance",
+     "subtitle": "1984 · Tengiz Abuladze",
+     "text": "A satire of dictatorship; won at Cannes."
+    },
+    {
+     "title": "Tangerines",
+     "subtitle": "2013 · Zaza Urushadze",
+     "text": "A Georgian-Estonian war film; Oscar-nominated."
+    },
+    {
+     "title": "And Then We Danced",
+     "subtitle": "2019 · Levan Akin",
+     "text": "A young dancer in Tbilisi."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Knight in the Panther's Skin",
+     "subtitle": "1100s · Shota Rustaveli",
+     "text": "The national epic."
+    },
+    {
+     "title": "Data Tutashkhia",
+     "subtitle": "1975 · Chabua Amirejibi",
+     "text": "An outlaw's adventures."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Chakrulo",
+     "subtitle": "Traditional",
+     "text": "A polyphonic song sent into space on Voyager."
+    },
+    {
+     "title": "Suliko",
+     "subtitle": "Folk song",
+     "text": "A famous love song."
+    },
+    {
+     "title": "Katie Melua",
+     "subtitle": "Singer",
+     "text": "A Georgian-born pop star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Khachapuri",
+     "subtitle": "Everywhere",
+     "text": "Cheese bread; the Adjarian kind has an egg."
+    },
+    {
+     "title": "Khinkali",
+     "subtitle": "Mountains",
+     "text": "Dumplings filled with meat and broth."
+    },
+    {
+     "title": "Churchkhela",
+     "subtitle": "Everywhere",
+     "text": "Nuts dipped in grape juice."
+    },
+    {
+     "title": "Badrijani",
+     "subtitle": "Everywhere",
+     "text": "Aubergine rolls with walnut."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Alilo",
+    "text": "Christmas processions on 7 January."
+   },
+   {
+    "month": 5,
+    "name": "Independence Day",
+    "text": "26 May, 1918."
+   },
+   {
+    "month": 10,
+    "name": "Rtveli",
+    "text": "The grape harvest."
+   },
+   {
+    "month": 10,
+    "name": "Tbilisoba",
+    "text": "Tbilisi's city festival."
+   }
+  ]
+ }
+}

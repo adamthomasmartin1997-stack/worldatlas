@@ -1,0 +1,103 @@
+{
+ "status": "draft",
+ "intro": "Georgia packs glaciers, subtropical beaches, forests and semi-desert into a small country between the Black Sea and the Greater Caucasus.",
+ "chapters": [
+  {
+   "id": "mountains",
+   "title": "The Great Caucasus",
+   "text": [
+    "The Greater Caucasus forms the northern border with Russia. Shkhara, about 5,200 m, is the highest peak in Georgia, above the medieval tower villages of Svaneti.",
+    "The Lesser Caucasus rises in the south."
+   ],
+   "related": [
+    "RUS",
+    "ARM",
+    "AZE",
+    "TUR"
+   ]
+  },
+  {
+   "id": "lowlands",
+   "title": "Coast and valleys",
+   "text": [
+    "The Black Sea coast around Batumi is warm and wet, growing tea and citrus. The east, around Tbilisi and the Kakheti wine region, is drier."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Subtropical",
+   "meaning": "Warm and humid, just outside the tropics."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Georgia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Svaneti",
+    "kind": "tower villages",
+    "lat": 43.0,
+    "lon": 42.75,
+    "text": "Stone towers below glaciers."
+   },
+   {
+    "name": "Shkhara",
+    "kind": "mountain",
+    "lat": 43.0,
+    "lon": 43.11,
+    "text": "Georgia's highest peak."
+   },
+   {
+    "name": "Kazbegi",
+    "kind": "mountains",
+    "lat": 42.66,
+    "lon": 44.64,
+    "text": "A church on a hill below Mount Kazbek."
+   },
+   {
+    "name": "Batumi",
+    "kind": "Black Sea coast",
+    "lat": 41.64,
+    "lon": 41.64,
+    "text": "A seaside city."
+   },
+   {
+    "name": "Martvili Canyon",
+    "kind": "canyon",
+    "lat": 42.46,
+    "lon": 42.38,
+    "text": "Boat rides through a green gorge."
+   },
+   {
+    "name": "Vardzia",
+    "kind": "cave city",
+    "lat": 41.38,
+    "lon": 43.28,
+    "text": "A monastery carved into a cliff."
+   },
+   {
+    "name": "Tbilisi",
+    "kind": "capital",
+    "lat": 41.72,
+    "lon": 44.79,
+    "text": "Sulphur baths and balconies."
+   },
+   {
+    "name": "Kakheti",
+    "kind": "wine valley",
+    "lat": 41.9,
+    "lon": 45.8,
+    "text": "Vineyards under the mountains."
+   },
+   {
+    "name": "David Gareja",
+    "kind": "desert monastery",
+    "lat": 41.45,
+    "lon": 45.37,
+    "text": "Cave monasteries in semi-desert."
+   }
+  ]
+ }
+}

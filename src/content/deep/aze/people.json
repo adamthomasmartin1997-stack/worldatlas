@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Azerbaijan has about 10 million people, mostly Azerbaijanis, a Turkic people.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Azerbaijani is a Turkic language close to Turkish. Most people are Shia Muslims, though the state is secular. There are Lezgin, Talysh and Russian minorities.",
+    "Many more ethnic Azerbaijanis live in northern Iran."
+   ],
+   "related": [
+    "TUR",
+    "IRN"
+   ]
+  },
+  {
+   "id": "baku",
+   "title": "Baku",
+   "text": [
+    "Baku is home to about a quarter of the population, with a walled old city next to modern towers."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Turkic",
+   "meaning": "A family of languages including Turkish, Azerbaijani and Kazakh."
+  }
+ ]
+}

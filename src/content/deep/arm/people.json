@@ -1,0 +1,33 @@
+{
+ "status": "draft",
+ "intro": "About 3 million people live in Armenia, but millions more Armenians live around the world.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Almost everyone is Armenian and speaks Armenian, an Indo-European language with its own branch. Most belong to the Armenian Apostolic Church."
+   ]
+  },
+  {
+   "id": "diaspora",
+   "title": "A global diaspora",
+   "text": [
+    "Large Armenian communities live in Russia, the United States, France, Lebanon and Argentina. Famous people of Armenian descent include Charles Aznavour and Kim Kardashian."
+   ],
+   "related": [
+    "RUS",
+    "USA",
+    "FRA",
+    "LBN",
+    "ARG"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Apostolic",
+   "meaning": "Tracing its founding to Jesus's apostles."
+  }
+ ]
+}

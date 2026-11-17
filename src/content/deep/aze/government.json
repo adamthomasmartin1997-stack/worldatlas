@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Azerbaijan is a presidential republic in which power is concentrated in the president and his family.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "President Ilham Aliyev has ruled since 2003, after his father. His wife Mehriban is first vice-president. International observers have criticised elections and the jailing of journalists."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Baku"
+    },
+    {
+     "label": "Independence",
+     "value": "1991"
+    },
+    {
+     "label": "Parliament",
+     "value": "Milli Majlis, 125 seats"
+    }
+   ]
+  },
+  {
+   "id": "ties",
+   "title": "Neighbours",
+   "text": [
+    "Azerbaijan is a close ally of Turkey. In 2025 it agreed the text of a peace deal with Armenia."
+   ],
+   "related": [
+    "TUR",
+    "ARM"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Milli Majlis",
+   "meaning": "Azerbaijan's parliament."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 7 years",
+     "text": "Holds most power."
+    },
+    {
+     "title": "First Vice-President",
+     "subtitle": "Appointed by the President",
+     "text": "Second in line."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed by the President",
+     "text": "Runs ministries."
+    },
+    {
+     "title": "Milli Majlis",
+     "subtitle": "125 members",
+     "text": "The parliament."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "Mostly by the President's office."
+   },
+   {
+    "title": "Milli Majlis",
+    "text": "Three readings."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

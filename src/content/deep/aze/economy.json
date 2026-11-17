@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Oil and gas from the Caspian Sea make up most of Azerbaijan's exports.",
+ "chapters": [
+  {
+   "id": "oil",
+   "title": "Oil and gas",
+   "text": [
+    "Pipelines carry Azerbaijani oil and gas to Turkey and Europe through Georgia, avoiding Russia."
+   ],
+   "related": [
+    "GEO",
+    "TUR",
+    "ITA"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Beyond oil",
+   "text": [
+    "Farming, carpets and tourism are growing, and Baku has spent heavily on landmarks like the Flame Towers."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Caspian Sea",
+   "meaning": "The world's largest inland body of water."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Azerbaijan",
+   "items": [
+    {
+     "title": "Oil and gas",
+     "subtitle": "Caspian Sea",
+     "text": "Most exports."
+    },
+    {
+     "title": "Carpets",
+     "subtitle": "Guba and Shirvan",
+     "text": "Hand-woven rugs."
+    },
+    {
+     "title": "Hazelnuts",
+     "subtitle": "North",
+     "text": "A big export."
+    },
+    {
+     "title": "Caviar",
+     "subtitle": "Caspian",
+     "text": "Sturgeon eggs, now strictly limited."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Baku and mountains",
+     "text": "Growing fast."
+    }
+   ],
+   "intro": "Some of the things Azerbaijan makes and sells to the world."
+  }
+ ]
+}

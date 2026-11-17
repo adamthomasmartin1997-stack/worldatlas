@@ -1,0 +1,122 @@
+{
+ "status": "draft",
+ "intro": "Azerbaijani culture is famous for mugham music, carpets and poetry.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Mugham",
+   "text": [
+    "Mugham, a style of improvised classical music, and the ashiq bards are on UNESCO's heritage list. Uzeyir Hajibeyov wrote the first opera in the Muslim world in 1908."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food and tea",
+   "text": [
+    "Plov (rice dishes), dolma and qutab (stuffed flatbreads) are favourites, and tea is drunk from pear-shaped glasses."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mugham",
+   "meaning": "Azerbaijan's classical music."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Cloth Peddler",
+     "subtitle": "1945",
+     "text": "A musical comedy loved across the USSR."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Ali and Nino",
+     "subtitle": "1937 · Kurban Said",
+     "text": "A love story in old Baku."
+    },
+    {
+     "title": "Leyli and Majnun",
+     "subtitle": "1188 · Nizami Ganjavi",
+     "text": "A famous love poem."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Mugham",
+     "subtitle": "Alim Qasimov",
+     "text": "A master singer."
+    },
+    {
+     "title": "Running Scared",
+     "subtitle": "Ell and Nikki, 2011",
+     "text": "Won Eurovision."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Plov",
+     "subtitle": "Celebrations",
+     "text": "Saffron rice with many toppings."
+    },
+    {
+     "title": "Qutab",
+     "subtitle": "Everywhere",
+     "text": "Thin stuffed flatbreads."
+    },
+    {
+     "title": "Dolma",
+     "subtitle": "Everywhere",
+     "text": "Stuffed vine leaves."
+    },
+    {
+     "title": "Pakhlava",
+     "subtitle": "Novruz",
+     "text": "Diamond-shaped nut pastry."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Novruz",
+    "text": "Spring New Year with bonfires."
+   },
+   {
+    "month": 5,
+    "name": "Independence Day",
+    "text": "28 May, 1918."
+   },
+   {
+    "month": 9,
+    "name": "Azerbaijan Grand Prix",
+    "text": "Formula One on Baku's streets."
+   },
+   {
+    "month": 11,
+    "name": "Victory Day",
+    "text": "8 November, 2020."
+   }
+  ]
+ }
+}

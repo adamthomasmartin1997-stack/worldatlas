@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Armenia is a parliamentary republic, led by a prime minister chosen by parliament.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The prime minister leads the government; the president is ceremonial. After peaceful protests in 2018, Nikol Pashinyan became prime minister."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Yerevan"
+    },
+    {
+     "label": "Independence",
+     "value": "1991"
+    },
+    {
+     "label": "Parliament",
+     "value": "National Assembly"
+    }
+   ]
+  },
+  {
+   "id": "ties",
+   "title": "Changing allies",
+   "text": [
+    "Armenia long relied on Russia for security, but has moved closer to Europe since losing Karabakh."
+   ],
+   "related": [
+    "RUS",
+    "FRA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Velvet Revolution",
+   "meaning": "Armenia's peaceful protests of 2018."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by parliament for 7 years",
+     "text": "Ceremonial head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Elected by parliament",
+     "text": "Leads the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "At least 101 members",
+     "text": "Elected by proportional representation."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "Judges",
+     "text": "Checks laws."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By members or the government."
+   },
+   {
+    "title": "Readings",
+    "text": "In the National Assembly."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it or sends it to the court."
+   }
+  ]
+ }
+}

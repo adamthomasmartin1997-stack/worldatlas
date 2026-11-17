@@ -1,0 +1,116 @@
+{
+ "status": "draft",
+ "intro": "Chess is taught in Armenian schools, and Armenia has won the Chess Olympiad three times.",
+ "chapters": [
+  {
+   "id": "chess",
+   "title": "Chess",
+   "text": [
+    "Armenia won the Chess Olympiad in 2006, 2008 and 2012. Tigran Petrosian was world champion from 1963 to 1969."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Wrestling, weightlifting and boxing bring Olympic medals. Henrikh Mkhitaryan is the country's best-known footballer."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Chess Olympiad",
+   "meaning": "A world team chess tournament."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Armenian Premier League",
+     "subtitle": "Football",
+     "text": "Pyunik have won the most titles."
+    },
+    {
+     "title": "Chess",
+     "subtitle": "Schools",
+     "text": "Chess is a school subject."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Tigran Petrosian",
+     "subtitle": "Chess",
+     "text": "World champion 1963–69."
+    },
+    {
+     "title": "Levon Aronian",
+     "subtitle": "Chess",
+     "text": "A world top-five player for years."
+    },
+    {
+     "title": "Henrikh Mkhitaryan",
+     "subtitle": "Football",
+     "text": "A Champions League finalist with Inter."
+    },
+    {
+     "title": "Yuri Vardanyan",
+     "subtitle": "Weightlifting",
+     "text": "Olympic champion 1980."
+    },
+    {
+     "title": "Artur Aleksanyan",
+     "subtitle": "Wrestling",
+     "text": "Olympic champion 2016."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Armenia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Vazgen Sargsyan Republican Stadium",
+    "kind": "venue",
+    "lat": 40.18,
+    "lon": 44.5,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Tsaghkadzor",
+    "kind": "venue",
+    "lat": 40.53,
+    "lon": 44.72,
+    "text": "Ski resort and training centre."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2006",
+    "title": "Chess Olympiad",
+    "text": "Gold in Turin."
+   },
+   {
+    "year": "2012",
+    "title": "Third Olympiad",
+    "text": "Gold in Istanbul."
+   },
+   {
+    "year": "2016",
+    "title": "Olympic gold",
+    "text": "Artur Aleksanyan in Rio."
+   }
+  ]
+ }
+}

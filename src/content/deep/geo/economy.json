@@ -1,0 +1,64 @@
+{
+ "status": "draft",
+ "intro": "Georgia's economy relies on tourism, wine, trade routes and money sent home from abroad.",
+ "chapters": [
+  {
+   "id": "trade",
+   "title": "Crossroads",
+   "text": [
+    "Pipelines and railways carry oil, gas and goods from the Caspian to Turkey and the Black Sea through Georgia."
+   ],
+   "related": [
+    "AZE",
+    "TUR"
+   ]
+  },
+  {
+   "id": "wine",
+   "title": "Wine and tourism",
+   "text": [
+    "Georgian wine, mineral water from Borjomi and tourism to mountains and beaches are big earners."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pipeline",
+   "meaning": "A long pipe that carries oil or gas."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Georgia",
+   "items": [
+    {
+     "title": "Wine",
+     "subtitle": "Kakheti",
+     "text": "Made in clay qvevri jars."
+    },
+    {
+     "title": "Mineral water",
+     "subtitle": "Borjomi",
+     "text": "Famous across the former USSR."
+    },
+    {
+     "title": "Hazelnuts",
+     "subtitle": "West Georgia",
+     "text": "A top export."
+    },
+    {
+     "title": "Manganese",
+     "subtitle": "Chiatura",
+     "text": "Mined for steel."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Mountains and coast",
+     "text": "Growing fast."
+    }
+   ],
+   "intro": "Some of the things Georgia makes and sells to the world."
+  }
+ ]
+}

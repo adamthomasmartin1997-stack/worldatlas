@@ -1,0 +1,35 @@
+{
+ "status": "draft",
+ "intro": "Georgia has about 3.7 million people, most of them Georgian Orthodox Christians.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and language",
+   "text": [
+    "Georgian has its own alphabet of 33 curly letters and is unrelated to its neighbours' languages. There are Azerbaijani and Armenian minorities.",
+    "Family, church and the supra feast, led by a toastmaster called the tamada, are central to life."
+   ],
+   "related": [
+    "AZE",
+    "ARM"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "About a third of people live in Tbilisi, the capital. Many Georgians work abroad."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Supra",
+   "meaning": "A traditional Georgian feast."
+  },
+  {
+   "term": "Tamada",
+   "meaning": "The toastmaster at a supra."
+  }
+ ]
+}

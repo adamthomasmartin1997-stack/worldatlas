@@ -1,0 +1,110 @@
+{
+ "status": "draft",
+ "intro": "Georgia sits where Europe meets Asia in the Caucasus mountains. It is one of the oldest Christian countries and has its own unique alphabet.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Golden Fleece and early humans",
+   "text": [
+    "At Dmanisi, scientists found skulls of early humans about 1.8 million years old, among the oldest found outside Africa. In Greek myth, Jason sailed to Colchis, on Georgia's Black Sea coast, to find the Golden Fleece.",
+    "Georgia also has some of the earliest evidence of winemaking, from about 8,000 years ago."
+   ],
+   "related": [
+    "GRC"
+   ]
+  },
+  {
+   "id": "christian",
+   "title": "Christian kingdom",
+   "text": [
+    "In the 330s, according to tradition, St Nino converted the king of Iberia (eastern Georgia), making it one of the first Christian states. The Georgian alphabet developed around this time.",
+    "Under King David the Builder and Queen Tamar, around 1100 to 1200, Georgia had a golden age. The poet Shota Rustaveli wrote The Knight in the Panther's Skin."
+   ],
+   "highlight": {
+    "title": "Queen Tamar",
+    "text": "Tamar ruled as 'king' and is remembered as one of Georgia's greatest monarchs."
+   },
+   "related": [
+    "ARM",
+    "TUR"
+   ]
+  },
+  {
+   "id": "empires",
+   "title": "Invaders and empires",
+   "text": [
+    "Mongols, Timur, Persians and Ottomans attacked Georgia over the centuries. In 1801 Russia annexed eastern Georgia.",
+    "Georgia was briefly independent from 1918 to 1921, then became part of the Soviet Union. Joseph Stalin was born in Gori."
+   ],
+   "related": [
+    "RUS",
+    "IRN",
+    "TUR",
+    "MNG"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence",
+   "text": [
+    "Georgia became independent in 1991. Wars in the early 1990s left Abkhazia and South Ossetia outside government control, and in 2008 Russia fought a short war with Georgia and recognised both as independent. The 2003 Rose Revolution brought reforms. Georgia applied to join the EU, but tensions over the government's direction led to big protests from 2024."
+   ],
+   "related": [
+    "RUS",
+    "UKR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 6000 BC",
+   "title": "Early wine",
+   "text": "Grapes are fermented in clay jars."
+  },
+  {
+   "year": "337",
+   "title": "Christianity",
+   "text": "The state religion of Iberia."
+  },
+  {
+   "year": "1184",
+   "title": "Queen Tamar",
+   "text": "Georgia's golden age."
+  },
+  {
+   "year": "1801",
+   "title": "Russian annexation",
+   "text": "Eastern Georgia is taken."
+  },
+  {
+   "year": "1918",
+   "title": "Independence",
+   "text": "Until 1921."
+  },
+  {
+   "year": "1991",
+   "title": "Independence",
+   "text": "From the Soviet Union."
+  },
+  {
+   "year": "2003",
+   "title": "Rose Revolution",
+   "text": "Peaceful change of power."
+  },
+  {
+   "year": "2008",
+   "title": "War with Russia",
+   "text": "A five-day war."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Caucasus",
+   "meaning": "The mountain region between the Black and Caspian Seas."
+  },
+  {
+   "term": "Qvevri",
+   "meaning": "A large clay jar buried in the ground for making wine."
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "status": "draft",
+ "intro": "Wrestling, judo and chess are Azerbaijan's strongest sports, and Baku hosts a Formula One street race.",
+ "chapters": [
+  {
+   "id": "events",
+   "title": "Big events",
+   "text": [
+    "Baku hosted the first European Games in 2015, Euro 2020 matches and the 2019 Europa League final. The Azerbaijan Grand Prix races through the old city."
+   ]
+  },
+  {
+   "id": "athletes",
+   "title": "Athletes",
+   "text": [
+    "Teymur Rajabov and Shakhriyar Mamedyarov are top chess grandmasters. Wrestlers and judokas have won Olympic golds."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Grandmaster",
+   "meaning": "The highest title in chess."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Premier League",
+     "subtitle": "Football",
+     "text": "Qarabağ have dominated recently."
+    },
+    {
+     "title": "Azerbaijan Grand Prix",
+     "subtitle": "Formula One",
+     "text": "Since 2017."
+    },
+    {
+     "title": "Chess",
+     "subtitle": "Clubs and schools",
+     "text": "Many grandmasters."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Teymur Rajabov",
+     "subtitle": "Chess",
+     "text": "A top grandmaster."
+    },
+    {
+     "title": "Shakhriyar Mamedyarov",
+     "subtitle": "Chess",
+     "text": "Ranked in the world top five."
+    },
+    {
+     "title": "Toghrul Asgarov",
+     "subtitle": "Wrestling",
+     "text": "Olympic champion 2012."
+    },
+    {
+     "title": "Elnur Mammadli",
+     "subtitle": "Judo",
+     "text": "Olympic champion 2008."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Azerbaijan's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Baku Olympic Stadium",
+    "kind": "venue",
+    "lat": 40.43,
+    "lon": 49.92,
+    "text": "Hosted Euro 2020 matches."
+   },
+   {
+    "name": "Baku City Circuit",
+    "kind": "venue",
+    "lat": 40.37,
+    "lon": 49.84,
+    "text": "A street circuit."
+   },
+   {
+    "name": "Tofiq Bahramov Stadium",
+    "kind": "venue",
+    "lat": 40.39,
+    "lon": 49.86,
+    "text": "A historic football ground."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2012",
+    "title": "Eurovision in Baku",
+    "text": "Hosted after the 2011 win."
+   },
+   {
+    "year": "2015",
+    "title": "European Games",
+    "text": "The first edition, in Baku."
+   },
+   {
+    "year": "2019",
+    "title": "Europa League final",
+    "text": "Chelsea beat Arsenal in Baku."
+   }
+  ]
+ }
+}

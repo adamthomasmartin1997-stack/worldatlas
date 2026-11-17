@@ -1,0 +1,101 @@
+{
+ "status": "draft",
+ "intro": "Azerbaijan stretches from the Caucasus mountains to the Caspian Sea, the largest lake on Earth.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mountains, plains and sea",
+   "text": [
+    "The Greater Caucasus rises in the north, with Bazarduzu the highest peak at 4,466 m. The Kura river crosses wide lowlands, some below sea level. The Absheron peninsula, with Baku, juts into the Caspian.",
+    "Azerbaijan has around half the world's mud volcanoes."
+   ],
+   "related": [
+    "RUS",
+    "GEO",
+    "IRN",
+    "ARM"
+   ]
+  },
+  {
+   "id": "nakhchivan",
+   "title": "Nakhchivan",
+   "text": [
+    "The Nakhchivan exclave is separated from the rest of the country by Armenia."
+   ],
+   "related": [
+    "ARM",
+    "TUR",
+    "IRN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Exclave",
+   "meaning": "Part of a country cut off from the rest by another country's land."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Azerbaijan's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Sheki",
+    "kind": "mountain town",
+    "lat": 41.2,
+    "lon": 47.17,
+    "text": "A palace with stained glass."
+   },
+   {
+    "name": "Shahdag",
+    "kind": "mountains",
+    "lat": 41.3,
+    "lon": 48.1,
+    "text": "A ski resort in the Caucasus."
+   },
+   {
+    "name": "Gabala",
+    "kind": "forests",
+    "lat": 40.98,
+    "lon": 47.85,
+    "text": "Mountains and lakes."
+   },
+   {
+    "name": "Yanar Dag",
+    "kind": "burning hill",
+    "lat": 40.5,
+    "lon": 49.89,
+    "text": "A hillside that has burned for decades."
+   },
+   {
+    "name": "Baku",
+    "kind": "capital",
+    "lat": 40.41,
+    "lon": 49.87,
+    "text": "Old walls and the Flame Towers."
+   },
+   {
+    "name": "Gobustan",
+    "kind": "rock art and mud volcanoes",
+    "lat": 40.1,
+    "lon": 49.38,
+    "text": "Ancient carvings and bubbling mud."
+   },
+   {
+    "name": "Lankaran",
+    "kind": "subtropical coast",
+    "lat": 38.75,
+    "lon": 48.85,
+    "text": "Tea plantations and forests."
+   },
+   {
+    "name": "Nakhchivan",
+    "kind": "exclave",
+    "lat": 39.2,
+    "lon": 45.4,
+    "text": "Separated from the rest of the country."
+   }
+  ]
+ }
+}

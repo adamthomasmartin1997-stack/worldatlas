@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Georgia is a parliamentary republic. Debate over ties with Europe and Russia dominates its politics.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Parliament elects the prime minister, who leads the government. The president is mainly ceremonial and, since 2024, is chosen by an electoral college."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Tbilisi"
+    },
+    {
+     "label": "Parliament",
+     "value": "150 seats"
+    },
+    {
+     "label": "Independence",
+     "value": "1991"
+    }
+   ]
+  },
+  {
+   "id": "debate",
+   "title": "East or West",
+   "text": [
+    "Most Georgians support joining the EU and NATO. The Georgian Dream party has governed since 2012, and critics accuse it of moving closer to Russia, leading to mass protests."
+   ],
+   "related": [
+    "RUS"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Electoral college",
+   "meaning": "A group of people chosen to elect someone."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Chosen by an electoral college",
+     "text": "Mainly ceremonial."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Elected by parliament",
+     "text": "Leads the government."
+    },
+    {
+     "title": "Parliament",
+     "subtitle": "150 members",
+     "text": "Elected by proportional representation."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "Judges",
+     "text": "Checks laws."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government, members or 25,000 voters."
+   },
+   {
+    "title": "Three readings",
+    "text": "In parliament."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it or returns it with comments."
+   }
+  ]
+ }
+}

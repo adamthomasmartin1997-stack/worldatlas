@@ -1,0 +1,116 @@
+{
+ "status": "draft",
+ "intro": "Armenia was the first country to make Christianity its state religion, and its people have kept their language, alphabet and church through centuries of invasions.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Urartu and ancient Armenia",
+   "text": [
+    "The kingdom of Urartu ruled around Lake Van from the 800s BC; Yerevan grew from its fortress of Erebuni, founded in 782 BC. Later Armenian kingdoms rose, and under Tigranes the Great in the first century BC Armenia stretched from the Caspian to the Mediterranean.",
+    "The Areni-1 cave holds the world's oldest known leather shoe, about 5,500 years old."
+   ],
+   "related": [
+    "TUR",
+    "IRN",
+    "SYR"
+   ]
+  },
+  {
+   "id": "christian",
+   "title": "First Christian nation",
+   "text": [
+    "In 301, King Tiridates III made Christianity the state religion, earlier than any other kingdom. Around 405 the monk Mesrop Mashtots created the Armenian alphabet, still used today.",
+    "Armenia was later fought over by Byzantines, Persians, Arabs, Seljuks, Mongols and Ottomans."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "The Armenian Apostolic Church is one of the oldest national churches in the world."
+   },
+   "related": [
+    "GRC",
+    "IRN",
+    "TUR"
+   ]
+  },
+  {
+   "id": "genocide",
+   "title": "Genocide and the Soviet era",
+   "text": [
+    "In 1915, during World War One, the Ottoman government carried out the deportation and mass killing of its Armenian subjects. Around a million or more Armenians died, an event most historians and many countries recognise as genocide.",
+    "Armenia was briefly independent from 1918 and then became a Soviet republic. A huge earthquake in 1988 killed about 25,000 people."
+   ],
+   "related": [
+    "TUR",
+    "RUS"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and Karabakh",
+   "text": [
+    "Armenia became independent in 1991. It fought Azerbaijan over Nagorno-Karabakh, a mainly Armenian-populated region inside Azerbaijan, winning control in the 1990s but losing most of it in 2020. In 2023 Azerbaijan took the rest, and almost all its Armenian population fled to Armenia. In 2025 the two countries agreed the text of a peace deal."
+   ],
+   "related": [
+    "AZE",
+    "RUS",
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "782 BC",
+   "title": "Erebuni",
+   "text": "Yerevan's ancestor is founded."
+  },
+  {
+   "year": "301",
+   "title": "Christianity",
+   "text": "First state to adopt it."
+  },
+  {
+   "year": "405",
+   "title": "Alphabet",
+   "text": "Created by Mesrop Mashtots."
+  },
+  {
+   "year": "1915",
+   "title": "Genocide",
+   "text": "Mass killings in the Ottoman Empire."
+  },
+  {
+   "year": "1920",
+   "title": "Soviet rule",
+   "text": "Until 1991."
+  },
+  {
+   "year": "1988",
+   "title": "Spitak earthquake",
+   "text": "Tens of thousands die."
+  },
+  {
+   "year": "1991",
+   "title": "Independence",
+   "text": "21 September."
+  },
+  {
+   "year": "2023",
+   "title": "Karabakh exodus",
+   "text": "Over 100,000 people flee."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Genocide",
+   "meaning": "The deliberate killing of a large group of people because of who they are."
+  },
+  {
+   "term": "Diaspora",
+   "meaning": "A people living outside their homeland."
+  },
+  {
+   "term": "Nagorno-Karabakh",
+   "meaning": "A mountain region disputed by Armenia and Azerbaijan."
+  }
+ ]
+}

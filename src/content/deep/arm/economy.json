@@ -1,0 +1,66 @@
+{
+ "status": "draft",
+ "intro": "Armenia's economy is small but growing, with a strong IT sector, mining and money from the diaspora.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How Armenia earns",
+   "text": [
+    "Copper and gold mining, brandy, IT and tourism are important. Its borders with Turkey and Azerbaijan have long been closed, which makes trade harder."
+   ],
+   "related": [
+    "TUR",
+    "AZE",
+    "GEO",
+    "IRN"
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech",
+   "text": [
+    "Software companies and start-ups have grown fast in Yerevan."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Remittances",
+   "meaning": "Money sent home by people working abroad."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Armenia",
+   "items": [
+    {
+     "title": "Brandy",
+     "subtitle": "Yerevan",
+     "text": "Ararat brandy is famous."
+    },
+    {
+     "title": "Copper and gold",
+     "subtitle": "Mines",
+     "text": "Major exports."
+    },
+    {
+     "title": "Software",
+     "subtitle": "Yerevan",
+     "text": "A growing tech scene."
+    },
+    {
+     "title": "Apricots",
+     "subtitle": "Ararat valley",
+     "text": "The fruit of Armenia."
+    },
+    {
+     "title": "Jewellery",
+     "subtitle": "Yerevan",
+     "text": "Cut diamonds and gold."
+    }
+   ],
+   "intro": "Some of the things Armenia makes and sells to the world."
+  }
+ ]
+}

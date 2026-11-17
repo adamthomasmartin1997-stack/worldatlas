@@ -1,0 +1,141 @@
+{
+ "status": "draft",
+ "intro": "Armenian culture is known for its ancient churches, carved stone crosses, music and food.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Stone and music",
+   "text": [
+    "Khachkars, carved cross-stones, stand all over the country. The duduk, an apricot-wood flute with a haunting sound, is on UNESCO's list."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Lavash flatbread, baked in a tonir oven, is UNESCO-listed. Dolma, khorovats (barbecue) and apricots are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Khachkar",
+   "meaning": "An Armenian carved stone cross."
+  },
+  {
+   "term": "Duduk",
+   "meaning": "A traditional double-reed wind instrument."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Colour of Pomegranates",
+     "subtitle": "1969 · Sergei Parajanov",
+     "text": "A poetic film about a poet."
+    },
+    {
+     "title": "Ararat",
+     "subtitle": "2002 · Atom Egoyan",
+     "text": "A film about memory and the genocide."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Book of Lamentations",
+     "subtitle": "1002 · Gregory of Narek",
+     "text": "Mystic poems, a national treasure."
+    },
+    {
+     "title": "David of Sassoun",
+     "subtitle": "Folk epic",
+     "text": "The national epic."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Sabre Dance",
+     "subtitle": "Aram Khachaturian, 1942",
+     "text": "A famous fast orchestral piece."
+    },
+    {
+     "title": "Duduk music",
+     "subtitle": "Djivan Gasparyan",
+     "text": "Heard in many film soundtracks."
+    },
+    {
+     "title": "Chop Suey!",
+     "subtitle": "System of a Down, 2001",
+     "text": "A metal hit by an Armenian-American band."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Khorovats",
+     "subtitle": "Everywhere",
+     "text": "Armenian barbecue."
+    },
+    {
+     "title": "Lavash",
+     "subtitle": "Everywhere",
+     "text": "Thin flatbread; UNESCO-listed."
+    },
+    {
+     "title": "Dolma",
+     "subtitle": "Everywhere",
+     "text": "Stuffed vine leaves."
+    },
+    {
+     "title": "Harissa",
+     "subtitle": "Everywhere",
+     "text": "Wheat and chicken porridge."
+    },
+    {
+     "title": "Gata",
+     "subtitle": "Everywhere",
+     "text": "A sweet bread."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Christmas",
+    "text": "6 January."
+   },
+   {
+    "month": 4,
+    "name": "Genocide Remembrance Day",
+    "text": "24 April."
+   },
+   {
+    "month": 7,
+    "name": "Vardavar",
+    "text": "A water-throwing festival, usually in July."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "21 September."
+   }
+  ]
+ }
+}

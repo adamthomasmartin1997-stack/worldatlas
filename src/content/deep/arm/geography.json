@@ -1,0 +1,96 @@
+{
+ "status": "draft",
+ "intro": "Armenia is a small, mountainous, landlocked country, with Lake Sevan and views of Mount Ararat across the border.",
+ "chapters": [
+  {
+   "id": "mountains",
+   "title": "Highlands",
+   "text": [
+    "Most of Armenia is over 1,000 m high. Mount Aragats, at 4,090 m, is the highest peak. Mount Ararat, a symbol of Armenia where Noah's Ark is said to have landed, stands across the border in Turkey.",
+    "Lake Sevan is one of the largest high-altitude freshwater lakes in the world."
+   ],
+   "related": [
+    "TUR",
+    "GEO",
+    "IRN",
+    "AZE"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Summers are hot and dry, winters cold and snowy. Earthquakes are a risk."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Landlocked",
+   "meaning": "With no coastline."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Armenia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Mount Aragats",
+    "kind": "mountain",
+    "lat": 40.53,
+    "lon": 44.2,
+    "text": "Armenia's highest peak."
+   },
+   {
+    "name": "Geghard",
+    "kind": "cave monastery",
+    "lat": 40.14,
+    "lon": 44.82,
+    "text": "A monastery cut into rock."
+   },
+   {
+    "name": "Garni",
+    "kind": "Greek-style temple",
+    "lat": 40.11,
+    "lon": 44.73,
+    "text": "A temple above a basalt gorge."
+   },
+   {
+    "name": "Yerevan",
+    "kind": "capital",
+    "lat": 40.18,
+    "lon": 44.51,
+    "text": "A pink stone city with views of Ararat."
+   },
+   {
+    "name": "Lake Sevan",
+    "kind": "high lake",
+    "lat": 40.4,
+    "lon": 45.2,
+    "text": "A huge lake 1,900 m up."
+   },
+   {
+    "name": "Dilijan",
+    "kind": "forest",
+    "lat": 40.74,
+    "lon": 44.86,
+    "text": "Green forested mountains."
+   },
+   {
+    "name": "Tatev",
+    "kind": "monastery and ropeway",
+    "lat": 39.38,
+    "lon": 46.25,
+    "text": "One of the world's longest cable cars."
+   },
+   {
+    "name": "Areni",
+    "kind": "wine cave",
+    "lat": 39.73,
+    "lon": 45.2,
+    "text": "The world's oldest known winery."
+   }
+  ]
+ }
+}

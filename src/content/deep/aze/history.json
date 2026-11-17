@@ -1,0 +1,94 @@
+{
+ "status": "draft",
+ "intro": "Azerbaijan, the 'Land of Fire', lies on the Caspian Sea. Its oil made Baku one of the world's first oil boom towns.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Ancient fires",
+   "text": [
+    "Rock carvings at Gobustan show people living here over 10,000 years ago. Natural gas seeping from the ground made fires burn on hillsides, which Zoroastrian fire-worshippers saw as sacred.",
+    "Caucasian Albania was an early kingdom here. Arabs brought Islam in the 600s, and later Seljuk Turks brought Turkic language and culture."
+   ],
+   "related": [
+    "IRN",
+    "TUR"
+   ]
+  },
+  {
+   "id": "khanates",
+   "title": "Shirvan, Persia and Russia",
+   "text": [
+    "The Shirvanshahs ruled for centuries from Shamakhi and Baku, where their palace still stands. Persian dynasties controlled the region for long periods, and in the 1800s Russia conquered the north, while the south stayed in Iran, dividing Azerbaijanis between two countries."
+   ],
+   "related": [
+    "IRN",
+    "RUS"
+   ]
+  },
+  {
+   "id": "oil",
+   "title": "Oil and independence",
+   "text": [
+    "In the late 1800s Baku produced about half of the world's oil, and the Nobel brothers made a fortune there. In 1918 the Azerbaijan Democratic Republic became one of the first Muslim-majority republics and gave women the vote, but the Soviet Red Army took over in 1920.",
+    "Azerbaijan became independent in 1991. It lost control of Nagorno-Karabakh and surrounding areas to Armenian forces in a war in the early 1990s, then regained them in 2020 and 2023. Heydar Aliyev and then his son Ilham Aliyev have led the country since 1993."
+   ],
+   "related": [
+    "SWE",
+    "RUS",
+    "ARM"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 10,000 BC",
+   "title": "Gobustan",
+   "text": "Rock carvings."
+  },
+  {
+   "year": "1500s",
+   "title": "Shirvanshahs' palace",
+   "text": "Built in Baku."
+  },
+  {
+   "year": "1813",
+   "title": "Russian rule",
+   "text": "The north is taken by Russia."
+  },
+  {
+   "year": "1870s",
+   "title": "Oil boom",
+   "text": "Baku becomes an oil city."
+  },
+  {
+   "year": "1918",
+   "title": "Democratic Republic",
+   "text": "Women get the vote."
+  },
+  {
+   "year": "1991",
+   "title": "Independence",
+   "text": "From the Soviet Union."
+  },
+  {
+   "year": "2020",
+   "title": "Karabakh war",
+   "text": "Azerbaijan regains land."
+  },
+  {
+   "year": "2023",
+   "title": "Karabakh",
+   "text": "Full control taken."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Zoroastrianism",
+   "meaning": "An ancient religion that honours fire."
+  },
+  {
+   "term": "Mud volcano",
+   "meaning": "A hill that erupts mud and gas."
+  }
+ ]
+}

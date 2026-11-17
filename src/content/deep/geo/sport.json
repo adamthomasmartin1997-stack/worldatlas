@@ -1,0 +1,123 @@
+{
+ "status": "draft",
+ "intro": "Wrestling, judo and weightlifting bring Georgia Olympic medals, and rugby is hugely popular.",
+ "chapters": [
+  {
+   "id": "rugby",
+   "title": "Rugby",
+   "text": [
+    "Georgia, known as the Lelos, are one of the strongest rugby nations outside the top tier and have played at every Rugby World Cup since 2003."
+   ]
+  },
+  {
+   "id": "strength",
+   "title": "Strength sports",
+   "text": [
+    "Lasha Talakhadze has broken weightlifting world records and won Olympic gold. Khvicha Kvaratskhelia is a football star."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lelo",
+   "meaning": "A traditional Georgian ball game that gave rugby fans the team's nickname."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Erovnuli Liga",
+     "subtitle": "Football",
+     "text": "Dinamo Tbilisi have won the most titles."
+    },
+    {
+     "title": "Didi 10",
+     "subtitle": "Rugby",
+     "text": "The top rugby league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Lasha Talakhadze",
+     "subtitle": "Weightlifting",
+     "text": "Olympic champion and world-record holder."
+    },
+    {
+     "title": "Nona Gaprindashvili",
+     "subtitle": "Chess",
+     "text": "Women's world champion."
+    },
+    {
+     "title": "Khvicha Kvaratskhelia",
+     "subtitle": "Football",
+     "text": "A Champions League winner with PSG."
+    },
+    {
+     "title": "Zaza Pachulia",
+     "subtitle": "Basketball",
+     "text": "NBA champion."
+    },
+    {
+     "title": "Lasha Bekauri",
+     "subtitle": "Judo",
+     "text": "Olympic champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Georgia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Boris Paichadze Stadium, Tbilisi",
+    "kind": "venue",
+    "lat": 41.723,
+    "lon": 44.789,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Gudauri",
+    "kind": "venue",
+    "lat": 42.48,
+    "lon": 44.48,
+    "text": "A ski resort."
+   },
+   {
+    "name": "Mikheil Meskhi Stadium",
+    "kind": "venue",
+    "lat": 41.71,
+    "lon": 44.75,
+    "text": "Rugby and football."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1981",
+    "title": "Cup Winners' Cup",
+    "text": "Dinamo Tbilisi win in Europe."
+   },
+   {
+    "year": "2003",
+    "title": "Rugby World Cup",
+    "text": "A first appearance."
+   },
+   {
+    "year": "2024",
+    "title": "Euro 2024",
+    "text": "Georgia reach the knockouts on debut."
+   }
+  ]
+ }
+}
