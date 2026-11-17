@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Brazil is the largest Portuguese-speaking country in the world and one of the most mixed populations on Earth, shaped by Indigenous peoples, Portuguese settlers, Africans and immigrants from around the world.",
+ "chapters": [
+  {
+   "id": "cities",
+   "title": "Big cities",
+   "text": [
+    "Most Brazilians live in cities near the coast. São Paulo is the largest city in the Southern Hemisphere, and Rio de Janeiro, Brasília, Salvador, Fortaleza and Belo Horizonte are also huge.",
+    "Many poorer families live in favelas, neighbourhoods built by residents themselves on hillsides and city edges, often lacking services but full of community life."
+   ]
+  },
+  {
+   "id": "origins",
+   "title": "A mixed nation",
+   "text": [
+    "In the 2022 census, the largest group described themselves as pardo, or mixed race, followed by white and Black Brazilians. Brazil has the largest population of African descent outside Africa.",
+    "About 1.7 million Indigenous people belong to more than 300 groups and speak around 270 languages. Brazil also has the largest Japanese community outside Japan, and more people of Lebanese descent than Lebanon itself."
+   ],
+   "related": [
+    "JPN",
+    "LBN",
+    "ITA",
+    "PRT"
+   ]
+  },
+  {
+   "id": "faith",
+   "title": "Language and faith",
+   "text": [
+    "Portuguese is the official language; Brazilians speak it with their own accent and many words from Indigenous and African languages.",
+    "Brazil has more Catholics than any other country, but evangelical Protestant churches have grown very fast. Afro-Brazilian religions, such as Candomblé, blend West African beliefs with Catholic saints."
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Everyday life",
+   "text": [
+    "Many schools run in two shifts, with some pupils going in the morning and others in the afternoon. Students take a national exam called ENEM to get into university.",
+    "Brazil is one of the most unequal countries in the world, though government programmes such as Bolsa Família, which pays poor families if their children go to school and get vaccinated, have reduced poverty."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pardo",
+   "meaning": "The Brazilian census term for people of mixed ancestry."
+  },
+  {
+   "term": "Favela",
+   "meaning": "A low-income neighbourhood in a Brazilian city, often built informally by its residents."
+  }
+ ]
+}

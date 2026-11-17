@@ -1,0 +1,48 @@
+{
+ "status": "draft",
+ "intro": "Football is close to a religion in Brazil, the only country to have won the men's World Cup five times. Brazilians also shine in volleyball, motor racing, surfing, skateboarding and martial arts.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "O jogo bonito",
+   "text": [
+    "Brazil won the World Cup in 1958, 1962, 1970, 1994 and 2002, more than any other country, and has played in every tournament. Its yellow shirts and flowing style, 'the beautiful game', are famous. Pelé won three World Cups, and later stars include Zico, Romário, Ronaldo, Ronaldinho and Neymar.",
+    "Marta has scored 17 goals at the Women's World Cup, more than any other player, man or woman, and Brazil hosts the Women's World Cup in 2027. Brazil also has painful memories: losing the 1950 final at home to Uruguay and a 7-1 defeat by Germany in the 2014 semi-final."
+   ],
+   "related": [
+    "URY",
+    "DEU",
+    "ARG"
+   ]
+  },
+  {
+   "id": "racing",
+   "title": "Racing and martial arts",
+   "text": [
+    "Ayrton Senna won three Formula One world championships and is still a national hero; his death in a crash in 1994 led to a day of national mourning. Emerson Fittipaldi and Nelson Piquet were also world champions.",
+    "Brazilian jiu-jitsu, developed by the Gracie family from Japanese judo, became the base of modern mixed martial arts."
+   ],
+   "related": [
+    "JPN"
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympic moments",
+   "text": [
+    "Rio de Janeiro hosted the 2016 Olympics, the first in South America. Gymnast Rebeca Andrade won floor gold at Paris 2024 and became Brazil's most decorated Olympian.",
+    "Brazil is a power in volleyball and beach volleyball, Ítalo Ferreira won the first ever Olympic surfing gold in 2021, and skateboarder Rayssa Leal won Olympic medals as a young teenager."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Seleção",
+   "meaning": "'The Selection', the nickname of Brazil's national football team."
+  },
+  {
+   "term": "Futsal",
+   "meaning": "A five-a-side, indoor version of football, hugely popular in Brazil."
+  }
+ ]
+}

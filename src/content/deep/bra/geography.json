@@ -1,0 +1,62 @@
+{
+ "status": "draft",
+ "intro": "Brazil covers almost half of South America. It holds most of the Amazon rainforest, the world's largest tropical wetland and more kinds of plants and animals than any other country.",
+ "chapters": [
+  {
+   "id": "size",
+   "title": "Half a continent",
+   "text": [
+    "Brazil is the fifth-largest country in the world. It borders every country in South America except Chile and Ecuador, and its long Atlantic coast is lined with beaches, from Rio de Janeiro to the north-east.",
+    "Most of Brazil lies in the tropics. The south, around Porto Alegre, has cooler winters and occasional frost."
+   ],
+   "related": [
+    "ARG",
+    "URY",
+    "PRY",
+    "BOL",
+    "PER",
+    "COL",
+    "VEN",
+    "GUY",
+    "SUR"
+   ]
+  },
+  {
+   "id": "amazon",
+   "title": "The Amazon",
+   "text": [
+    "About 60% of the Amazon rainforest, the largest tropical rainforest on Earth, is in Brazil. The Amazon River carries more water than any other river, about a fifth of all the fresh water that rivers pour into the oceans.",
+    "The forest is home to jaguars, pink river dolphins, giant otters, sloths, macaws and countless insects, many still undiscovered. Cutting and burning the forest for cattle ranches and farms is a huge threat; the rate of clearing fell sharply in 2023 and 2024 but remains a major issue."
+   ],
+   "highlight": {
+    "title": "The world's air conditioner",
+    "text": "The Amazon's trees release so much water vapour that they help create rain far away, and the forest stores huge amounts of carbon that would otherwise heat the planet."
+   }
+  },
+  {
+   "id": "other-landscapes",
+   "title": "Wetlands, savanna and waterfalls",
+   "text": [
+    "The Pantanal, in the west, is the world's largest tropical wetland, flooded for half the year and one of the best places to see jaguars and capybaras. The Cerrado, a huge tropical savanna, covers the centre and is now largely used for soy farming.",
+    "The Iguaçu Falls, on the border with Argentina, are made up of about 275 separate waterfalls. In the dry north-east interior, the sertão, droughts have long driven people to the cities."
+   ],
+   "related": [
+    "ARG"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Rainforest",
+   "meaning": "A thick forest in a hot, wet climate with rain most of the year."
+  },
+  {
+   "term": "Wetland",
+   "meaning": "Land that is covered or soaked by water for much of the year."
+  },
+  {
+   "term": "Savanna",
+   "meaning": "Grassland with scattered trees in a warm climate with wet and dry seasons."
+  }
+ ]
+}

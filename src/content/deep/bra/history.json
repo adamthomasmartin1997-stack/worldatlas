@@ -1,0 +1,147 @@
+{
+ "status": "draft",
+ "intro": "Brazil was a Portuguese colony for more than 300 years, built on sugar, gold and the labour of millions of enslaved Africans. It became independent in 1822 as an empire, then a republic, and after a military dictatorship it has been a democracy since 1985.",
+ "chapters": [
+  {
+   "id": "before",
+   "title": "Before the Portuguese",
+   "text": [
+    "Millions of Indigenous people lived in what is now Brazil before Europeans arrived, belonging to hundreds of groups such as the Tupi and Guarani. Many lived in villages in the forest, farming cassava and fishing; in parts of the Amazon, large settlements created rich dark soils, called terra preta, that are still fertile today."
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "A Portuguese colony",
+   "text": [
+    "In 1500 a Portuguese fleet led by Pedro Álvares Cabral landed on the coast and claimed it for Portugal. The country was named after brazilwood, a tree that produced a valuable red dye.",
+    "The Portuguese set up sugar plantations in the north-east and, when Indigenous workers died from disease and overwork or escaped, brought enslaved Africans. About 4.9 million enslaved people were taken to Brazil, more than to any other country in the Americas. Some escaped and formed free communities called quilombos; the largest, Palmares, held out for most of the 1600s under leaders such as Zumbi.",
+    "In the 1690s gold was found in Minas Gerais ('General Mines'), starting a gold rush that drew people inland."
+   ],
+   "related": [
+    "PRT",
+    "AGO",
+    "NGA",
+    "BEN"
+   ]
+  },
+  {
+   "id": "empire",
+   "title": "From colony to empire",
+   "text": [
+    "In 1808, fleeing Napoleon's invasion of Portugal, the Portuguese royal family moved to Rio de Janeiro, the only time a European monarchy ruled from one of its colonies. When the king returned home, his son Pedro declared Brazil independent on 7 September 1822 and became its emperor.",
+    "Brazil remained an empire until 1889. It was the last country in the Americas to abolish slavery, on 13 May 1888, and a year later army officers overthrew the emperor and declared a republic."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Because Brazil became independent as one country under an emperor, it stayed united, while Spain's former colonies split into many separate countries."
+   },
+   "related": [
+    "PRT",
+    "FRA"
+   ]
+  },
+  {
+   "id": "republic",
+   "title": "Coffee, Vargas and a new capital",
+   "text": [
+    "In the early republic, coffee made Brazil rich and São Paulo grew fast, helped by millions of immigrants from Italy, Portugal, Spain, Germany, Japan and Lebanon.",
+    "Getúlio Vargas ruled from 1930 to 1945, building industry and workers' rights but also becoming a dictator. In 1960 the government moved the capital from Rio to Brasília, a brand-new city built in the interior in under four years."
+   ],
+   "related": [
+    "ITA",
+    "JPN",
+    "LBN",
+    "DEU"
+   ]
+  },
+  {
+   "id": "dictatorship",
+   "title": "Dictatorship and democracy",
+   "text": [
+    "In 1964 the army seized power, and for 21 years military governments ruled, censoring the press and torturing opponents, even as the economy grew fast. Mass protests demanding direct elections helped bring democracy back in 1985, and a new constitution followed in 1988.",
+    "In 1994 a new currency, the real, ended years of hyperinflation. Under President Lula da Silva, from 2003, millions of people rose out of poverty, and Brazil hosted the 2014 World Cup and the 2016 Olympics. Politics has since been deeply divided; in 2025 the Supreme Court convicted former president Jair Bolsonaro of plotting a coup to stay in power after losing the 2022 election."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1500",
+   "title": "Cabral arrives",
+   "text": "Portugal claims Brazil."
+  },
+  {
+   "year": "1530s",
+   "title": "Sugar colony",
+   "text": "Plantations and the slave trade expand in the north-east."
+  },
+  {
+   "year": "1695",
+   "title": "Palmares falls",
+   "text": "The great quilombo is destroyed; its leader Zumbi is killed."
+  },
+  {
+   "year": "1690s",
+   "title": "Gold rush",
+   "text": "Gold is found in Minas Gerais."
+  },
+  {
+   "year": "1808",
+   "title": "Royal court in Rio",
+   "text": "The Portuguese king rules from Brazil."
+  },
+  {
+   "year": "1822",
+   "title": "Independence",
+   "text": "Pedro I declares Brazil independent."
+  },
+  {
+   "year": "1888",
+   "title": "Slavery abolished",
+   "text": "The 'Golden Law' frees all enslaved people."
+  },
+  {
+   "year": "1889",
+   "title": "Republic",
+   "text": "The emperor is overthrown."
+  },
+  {
+   "year": "1960",
+   "title": "Brasília",
+   "text": "The new capital is inaugurated."
+  },
+  {
+   "year": "1964",
+   "title": "Military coup",
+   "text": "The army takes power for 21 years."
+  },
+  {
+   "year": "1985",
+   "title": "Democracy returns",
+   "text": "Civilian rule is restored."
+  },
+  {
+   "year": "1994",
+   "title": "The real",
+   "text": "A new currency ends hyperinflation."
+  },
+  {
+   "year": "2016",
+   "title": "Rio Olympics",
+   "text": "The first Olympics in South America."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Quilombo",
+   "meaning": "A community founded by people who escaped slavery in Brazil."
+  },
+  {
+   "term": "Abolition",
+   "meaning": "The legal end of slavery."
+  },
+  {
+   "term": "Coup",
+   "meaning": "A sudden, illegal seizure of power, often by the army."
+  }
+ ]
+}

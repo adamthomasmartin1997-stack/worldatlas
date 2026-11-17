@@ -1,0 +1,47 @@
+{
+ "status": "draft",
+ "intro": "Brazilian culture is a vibrant mix of Portuguese, African and Indigenous traditions, famous for Carnival, samba, football and food shared with family and friends.",
+ "chapters": [
+  {
+   "id": "carnival",
+   "title": "Carnival",
+   "text": [
+    "Every year before Lent, Brazil celebrates Carnival. In Rio de Janeiro, samba schools from different neighbourhoods spend all year preparing costumes, floats and songs for a parade in the Sambadrome, judged like a competition. In Salvador and Recife millions dance in the streets behind music trucks.",
+    "In June, Festas Juninas celebrate country life with bonfires, square dances and corn-based food."
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music and dance",
+   "text": [
+    "Samba grew from Afro-Brazilian music in Rio in the early 1900s. Bossa nova, a gentler mix of samba and jazz, became famous worldwide with 'The Girl from Ipanema' in the 1960s, and today funk carioca, sertanejo and stars such as Anitta fill the charts.",
+    "Capoeira, a mix of martial art, dance and music developed by enslaved Africans, is played in a circle to the sound of the berimbau, a one-stringed instrument."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "The national dish is feijoada, a stew of black beans and pork served with rice, kale and orange. Brazilians also love churrasco (barbecue), pão de queijo (cheese bread), coxinhas, brigadeiros (chocolate sweets) and açaí bowls from the Amazon."
+   ]
+  },
+  {
+   "id": "icons",
+   "title": "Icons",
+   "text": [
+    "The statue of Christ the Redeemer, 30 m tall, has looked down over Rio from Corcovado mountain since 1931. Architect Oscar Niemeyer designed the curving modern buildings of Brasília.",
+    "Paulo Coelho's novel The Alchemist is one of the best-selling books ever, and in 2025 'I'm Still Here' became the first Brazilian film to win the Oscar for best international feature."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Samba school",
+   "meaning": "A neighbourhood club that prepares a parade for Carnival."
+  },
+  {
+   "term": "Capoeira",
+   "meaning": "An Afro-Brazilian martial art that combines fighting moves, acrobatics and music."
+  }
+ ]
+}

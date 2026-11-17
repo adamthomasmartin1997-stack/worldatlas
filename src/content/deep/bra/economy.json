@@ -1,0 +1,47 @@
+{
+ "status": "draft",
+ "intro": "Brazil has the largest economy in Latin America. It feeds much of the world with soybeans, coffee, sugar and meat, builds aircraft and pumps oil from deep under the sea.",
+ "chapters": [
+  {
+   "id": "farming",
+   "title": "Feeding the world",
+   "text": [
+    "Brazil has been the world's biggest coffee producer for more than 150 years. It is also the largest exporter of soybeans, sugar, orange juice, beef and chicken, much of it sold to China.",
+    "Farming has spread into the Cerrado and the edges of the Amazon, which brings money but also deforestation."
+   ],
+   "related": [
+    "CHN"
+   ]
+  },
+  {
+   "id": "industry",
+   "title": "Planes, oil and energy",
+   "text": [
+    "Embraer, based near São Paulo, is one of the world's biggest makers of passenger jets. The state-controlled company Petrobras drills for oil in very deep water off the coast, and Vale is one of the world's largest iron ore miners.",
+    "Most of Brazil's electricity comes from renewable sources, especially hydroelectric dams. Many cars run on ethanol made from sugar cane, or on petrol, or any mix of the two."
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "Brazil's currency, the real, has brought stability since 1994, but growth has been uneven. Inequality, crime, complex taxes and slow bureaucracy, often called the 'Brazil cost', hold the economy back. Its biggest trading partners are China, the United States and Argentina."
+   ],
+   "related": [
+    "CHN",
+    "USA",
+    "ARG"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ethanol",
+   "meaning": "An alcohol fuel that can be made from crops such as sugar cane."
+  },
+  {
+   "term": "Deforestation",
+   "meaning": "Cutting down forests, usually to make way for farms, mines or roads."
+  }
+ ]
+}

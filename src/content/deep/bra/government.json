@@ -1,0 +1,69 @@
+{
+ "status": "draft",
+ "intro": "Brazil is a federal presidential republic of 26 states and a federal district. It has been a democracy since 1985 and is one of the few countries where voting is both electronic and compulsory.",
+ "chapters": [
+  {
+   "id": "president",
+   "title": "President and Congress",
+   "text": [
+    "The president is head of state and government, elected directly for four years and allowed one re-election. If no candidate wins more than half the vote, there is a second round. Lula da Silva, who first served from 2003 to 2010, began a third term in 2023.",
+    "The National Congress has a Chamber of Deputies with 513 members and a Senate with three senators from each state. The Supreme Federal Court protects the 1988 constitution."
+   ],
+   "facts": [
+    {
+     "label": "States",
+     "value": "26 + the Federal District"
+    },
+    {
+     "label": "President's term",
+     "value": "4 years"
+    },
+    {
+     "label": "Voting",
+     "value": "Compulsory from 18 to 70; optional at 16-17"
+    }
+   ]
+  },
+  {
+   "id": "voting",
+   "title": "Electronic and compulsory voting",
+   "text": [
+    "Brazil has used electronic voting machines across the whole country since 2000, so results for more than 150 million voters are usually known within hours. Voting is compulsory for literate adults from 18 to 70; 16- and 17-year-olds may vote if they wish."
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Flag and motto",
+   "text": [
+    "The green and yellow flag shows a blue globe with 27 stars, one for each state and the Federal District, arranged as the sky looked over Rio on the night the republic was declared in 1889. The motto on the banner, 'Ordem e Progresso', means 'Order and Progress'.",
+    "Independence Day is 7 September."
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Brazil in the world",
+   "text": [
+    "Brazil is the biggest country in Latin America and a founding member of the BRICS group and of Mercosur, a South American trade bloc. It hosted the G20 summit in 2024 and the COP30 climate summit in the Amazon city of Belém in 2025."
+   ],
+   "related": [
+    "ARG",
+    "URY",
+    "PRY",
+    "RUS",
+    "IND",
+    "CHN",
+    "ZAF"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Presidential republic",
+   "meaning": "A republic where an elected president leads the government."
+  },
+  {
+   "term": "Mercosur",
+   "meaning": "A South American trade group of Brazil, Argentina, Paraguay, Uruguay and Bolivia."
+  }
+ ]
+}
