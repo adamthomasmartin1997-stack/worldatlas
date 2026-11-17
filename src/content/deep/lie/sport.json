@@ -25,5 +25,80 @@
    "term": "Per person",
    "meaning": "Divided by the number of people."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Swiss leagues",
+     "subtitle": "Football",
+     "text": "FC Vaduz play in Swiss football."
+    },
+    {
+     "title": "Skiing",
+     "subtitle": "National team",
+     "text": "Liechtenstein's medal sport."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Hanni Wenzel",
+     "subtitle": "Skiing",
+     "text": "Two Olympic golds in 1980."
+    },
+    {
+     "title": "Andreas Wenzel",
+     "subtitle": "Skiing",
+     "text": "Overall World Cup winner."
+    },
+    {
+     "title": "Tina Weirather",
+     "subtitle": "Skiing",
+     "text": "World Cup star."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Liechtenstein's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Rheinpark Stadion, Vaduz",
+    "kind": "venue",
+    "lat": 47.14,
+    "lon": 9.51,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Malbun",
+    "kind": "venue",
+    "lat": 47.1,
+    "lon": 9.61,
+    "text": "Ski slopes."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1976",
+    "title": "First Olympic medal",
+    "text": "Hanni Wenzel wins slalom bronze."
+   },
+   {
+    "year": "1980",
+    "title": "Lake Placid",
+    "text": "Two golds for Hanni, silver for her brother Andreas."
+   }
+  ]
+ }
 }

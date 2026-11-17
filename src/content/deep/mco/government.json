@@ -36,5 +36,53 @@
    "term": "Constitutional monarchy",
    "meaning": "A monarchy whose powers are set by a constitution."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The Prince",
+     "subtitle": "Inherits the throne",
+     "text": "Holds executive power."
+    },
+    {
+     "title": "Minister of State",
+     "subtitle": "Appointed by the Prince",
+     "text": "Leads the government."
+    },
+    {
+     "title": "National Council",
+     "subtitle": "24 members",
+     "text": "Votes on laws and the budget."
+    },
+    {
+     "title": "Mairie",
+     "subtitle": "Mayor and council",
+     "text": "Local services."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the Prince's government."
+   },
+   {
+    "title": "Vote",
+    "text": "In the National Council."
+   },
+   {
+    "title": "Signed",
+    "text": "By the Prince."
+   }
+  ]
+ }
 }

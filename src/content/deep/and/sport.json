@@ -22,5 +22,70 @@
    "term": "World Cup (skiing)",
    "meaning": "A season-long series of top ski races."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Primera Divisió",
+     "subtitle": "Football",
+     "text": "FC Santa Coloma have won the most titles."
+    },
+    {
+     "title": "Ski World Cup",
+     "subtitle": "Soldeu",
+     "text": "Finals held in Andorra."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Joan Verdú",
+     "subtitle": "Skiing",
+     "text": "A World Cup skier."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Andorra's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estadi Nacional",
+    "kind": "venue",
+    "lat": 42.5,
+    "lon": 1.52,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Soldeu",
+    "kind": "venue",
+    "lat": 42.58,
+    "lon": 1.67,
+    "text": "Ski World Cup races."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2004",
+    "title": "First win",
+    "text": "Andorra's first competitive football win."
+   },
+   {
+    "year": "2019",
+    "title": "Ski World Cup finals",
+    "text": "Hosted in Soldeu."
+   }
+  ]
+ }
 }

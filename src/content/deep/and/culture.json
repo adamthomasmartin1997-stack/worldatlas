@@ -22,5 +22,49 @@
    "term": "Parish",
    "meaning": "One of Andorra's seven districts."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Andorra National Classical Orchestra",
+     "subtitle": "Orchestra",
+     "text": "Concerts across the country."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Trinxat",
+     "subtitle": "Everywhere",
+     "text": "Cabbage, potato and bacon."
+    },
+    {
+     "title": "Escudella",
+     "subtitle": "Winter",
+     "text": "Meat and vegetable stew."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 9,
+    "name": "Meritxell Day",
+    "text": "8 September, the national day."
+   },
+   {
+    "month": 7,
+    "name": "Parish festivals",
+    "text": "Summer fiestas in every parish."
+   }
+  ]
+ }
 }

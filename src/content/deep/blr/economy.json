@@ -25,5 +25,39 @@
    "term": "Potash",
    "meaning": "A potassium-rich salt used as fertiliser."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Belarus",
+   "items": [
+    {
+     "title": "Potash fertiliser",
+     "subtitle": "Belaruskali",
+     "text": "One of the world's biggest producers."
+    },
+    {
+     "title": "Giant trucks",
+     "subtitle": "BelAZ",
+     "text": "Mining dump trucks."
+    },
+    {
+     "title": "Tractors",
+     "subtitle": "MTZ Belarus",
+     "text": "Sold in many countries."
+    },
+    {
+     "title": "Dairy",
+     "subtitle": "Farms",
+     "text": "Milk products for export."
+    },
+    {
+     "title": "IT",
+     "subtitle": "Minsk",
+     "text": "Game studios grew here; World of Tanks began in Minsk."
+    }
+   ],
+   "intro": "Some of the things Belarus makes and sells to the world."
+  }
  ]
 }

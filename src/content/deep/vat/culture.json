@@ -22,5 +22,38 @@
    "term": "Mass",
    "meaning": "The main Catholic church service."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Sistine Chapel Choir",
+     "subtitle": "Since the 1400s",
+     "text": "One of the world's oldest choirs."
+    },
+    {
+     "title": "Gregorian chant",
+     "subtitle": "Traditional",
+     "text": "Church singing."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 6,
+    "name": "Saints Peter and Paul",
+    "text": "29 June, the Vatican's patron saints."
+   },
+   {
+    "month": 12,
+    "name": "Christmas",
+    "text": "Midnight Mass in St Peter's."
+   }
+  ]
+ }
 }

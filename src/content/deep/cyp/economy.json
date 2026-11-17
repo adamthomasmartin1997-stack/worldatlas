@@ -22,5 +22,39 @@
    "term": "Ship management",
    "meaning": "Running ships for their owners."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Cyprus",
+   "items": [
+    {
+     "title": "Shipping",
+     "subtitle": "Limassol",
+     "text": "Ship management for the world."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Coast",
+     "text": "Millions of visitors."
+    },
+    {
+     "title": "Halloumi",
+     "subtitle": "Protected name",
+     "text": "Grilling cheese."
+    },
+    {
+     "title": "Services",
+     "subtitle": "Banking and law",
+     "text": "A business centre."
+    },
+    {
+     "title": "Medicines",
+     "subtitle": "Generics",
+     "text": "Exported drugs."
+    }
+   ],
+   "intro": "Some of the things Cyprus makes and sells to the world."
+  }
  ]
 }

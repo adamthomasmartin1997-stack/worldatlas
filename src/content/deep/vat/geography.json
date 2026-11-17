@@ -25,5 +25,40 @@
    "term": "Holy See",
    "meaning": "The government of the Catholic Church, led by the Pope."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Vatican City's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "St Peter's Basilica",
+    "kind": "church",
+    "lat": 41.902,
+    "lon": 12.453,
+    "text": "One of the world's largest churches."
+   },
+   {
+    "name": "St Peter's Square",
+    "kind": "square",
+    "lat": 41.9022,
+    "lon": 12.4568,
+    "text": "Bernini's colonnades."
+   },
+   {
+    "name": "Vatican Gardens",
+    "kind": "gardens",
+    "lat": 41.904,
+    "lon": 12.45,
+    "text": "Half the country's land."
+   },
+   {
+    "name": "Vatican Museums",
+    "kind": "museums",
+    "lat": 41.906,
+    "lon": 12.454,
+    "text": "Home of the Sistine Chapel."
+   }
+  ]
+ }
 }

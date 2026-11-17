@@ -22,5 +22,39 @@
    "term": "Investment fund",
    "meaning": "A pool of money from many people invested together."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Luxembourg",
+   "items": [
+    {
+     "title": "Banking and funds",
+     "subtitle": "Luxembourg City",
+     "text": "Europe's biggest fund centre."
+    },
+    {
+     "title": "Steel",
+     "subtitle": "ArcelorMittal",
+     "text": "Headquartered here."
+    },
+    {
+     "title": "Satellites",
+     "subtitle": "SES",
+     "text": "One of the biggest satellite operators."
+    },
+    {
+     "title": "Tyres",
+     "subtitle": "Goodyear",
+     "text": "A big factory."
+    },
+    {
+     "title": "Space mining",
+     "subtitle": "Law of 2017",
+     "text": "Laws for companies in space."
+    }
+   ],
+   "intro": "Some of the things Luxembourg makes and sells to the world."
+  }
  ]
 }

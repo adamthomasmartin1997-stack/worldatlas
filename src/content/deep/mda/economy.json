@@ -22,5 +22,34 @@
    "term": "Remittances",
    "meaning": "Money sent home by people working abroad."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Moldova",
+   "items": [
+    {
+     "title": "Wine",
+     "subtitle": "Cricova, Mileștii Mici",
+     "text": "The world's biggest wine cellar."
+    },
+    {
+     "title": "Fruit and nuts",
+     "subtitle": "Farms",
+     "text": "Walnuts, apples and plums."
+    },
+    {
+     "title": "Car wiring",
+     "subtitle": "Factories",
+     "text": "For European carmakers."
+    },
+    {
+     "title": "Sunflower oil",
+     "subtitle": "Farms",
+     "text": "A major crop."
+    }
+   ],
+   "intro": "Some of the things Moldova makes and sells to the world."
+  }
  ]
 }

@@ -25,5 +25,80 @@
    "term": "Champions League",
    "meaning": "Europe's top club football competition."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Super Liga",
+     "subtitle": "Football",
+     "text": "Sheriff Tiraspol have won the most titles."
+    },
+    {
+     "title": "Wrestling and boxing",
+     "subtitle": "Combat sports",
+     "text": "Moldova's main medal sports."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Nicolae Juravschi",
+     "subtitle": "Canoeing",
+     "text": "Olympic gold for the USSR."
+    },
+    {
+     "title": "Serghei Tarnovschi",
+     "subtitle": "Canoeing",
+     "text": "An Olympic medallist in sprint canoe."
+    },
+    {
+     "title": "Denis Vieru",
+     "subtitle": "Judo",
+     "text": "Olympic bronze in Paris."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Moldova's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Zimbru Stadium, Chișinău",
+    "kind": "venue",
+    "lat": 47.0,
+    "lon": 28.8,
+    "text": "A football ground."
+   },
+   {
+    "name": "Sheriff Stadium, Tiraspol",
+    "kind": "venue",
+    "lat": 46.85,
+    "lon": 29.6,
+    "text": "Home of Sheriff."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2021",
+    "title": "Sheriff beat Real Madrid",
+    "text": "At the Bernabéu."
+   },
+   {
+    "year": "2024",
+    "title": "Paris medals",
+    "text": "Medals in judo, wrestling and canoeing."
+   }
+  ]
+ }
 }

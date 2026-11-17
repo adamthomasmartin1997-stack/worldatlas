@@ -25,5 +25,75 @@
    "term": "Meme",
    "meaning": "An idea, image or video spread widely online."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Bird of Youth",
+     "subtitle": "1971 · Ion Druță",
+     "text": "A writer of village life, read across the former USSR."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Dragostea din tei",
+     "subtitle": "O-Zone, 2003",
+     "text": "The 'Numa Numa' song went global."
+    },
+    {
+     "title": "Run Away",
+     "subtitle": "SunStroke Project, 2010",
+     "text": "Home of the 'Epic Sax Guy'."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Mămăligă",
+     "subtitle": "Everywhere",
+     "text": "Maize porridge with cheese."
+    },
+    {
+     "title": "Plăcinte",
+     "subtitle": "Everywhere",
+     "text": "Thin pies with cheese or cabbage."
+    },
+    {
+     "title": "Zeamă",
+     "subtitle": "Everywhere",
+     "text": "Sour chicken soup."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Mărțișor",
+    "text": "Spring charms and a music festival."
+   },
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "27 August, 1991."
+   },
+   {
+    "month": 10,
+    "name": "Wine Day",
+    "text": "Early October in Chișinău."
+   }
+  ]
+ }
 }

@@ -25,5 +25,33 @@
    "term": "Enclave",
    "meaning": "A country completely surrounded by another."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of San Marino's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Monte Titano",
+    "kind": "mountain",
+    "lat": 43.937,
+    "lon": 12.45,
+    "text": "The three towers on the ridge."
+   },
+   {
+    "name": "City of San Marino",
+    "kind": "capital",
+    "lat": 43.936,
+    "lon": 12.447,
+    "text": "A walled town on the mountain."
+   },
+   {
+    "name": "Borgo Maggiore",
+    "kind": "market town",
+    "lat": 43.94,
+    "lon": 12.45,
+    "text": "Cable car up to the town."
+   }
+  ]
+ }
 }

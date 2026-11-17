@@ -22,5 +22,91 @@
    "term": "Procession",
    "meaning": "People moving forward together as part of a ceremony."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Mr Hublot",
+     "subtitle": "2013 · Witz and Espinosa",
+     "text": "A short animation; won an Oscar."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "De Renert",
+     "subtitle": "1872 · Michel Rodange",
+     "text": "The fox fable, a national classic."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Ons Heemecht",
+     "subtitle": "1859",
+     "text": "The national anthem."
+    },
+    {
+     "title": "Eurovision",
+     "subtitle": "Five wins",
+     "text": "The last was in 1983."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Judd mat Gaardebounen",
+     "subtitle": "Everywhere",
+     "text": "Smoked pork with broad beans."
+    },
+    {
+     "title": "Gromperekichelcher",
+     "subtitle": "Markets",
+     "text": "Potato fritters."
+    },
+    {
+     "title": "Quetschentaart",
+     "subtitle": "Autumn",
+     "text": "Plum tart, baked in September."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Buergbrennen",
+    "text": "Bonfires to burn winter."
+   },
+   {
+    "month": 5,
+    "name": "Octave",
+    "text": "Pilgrimage to the cathedral."
+   },
+   {
+    "month": 6,
+    "name": "National Day",
+    "text": "23 June, fireworks."
+   },
+   {
+    "month": 8,
+    "name": "Schueberfouer",
+    "text": "A big fair since 1340."
+   }
+  ]
+ }
 }

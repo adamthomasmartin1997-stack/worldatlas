@@ -28,5 +28,68 @@
    "term": "Casemates",
    "meaning": "Tunnels and chambers built inside fortress walls."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Luxembourg's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Éislek (Ardennes)",
+    "kind": "wooded hills",
+    "lat": 50.0,
+    "lon": 5.95,
+    "text": "Forests and river valleys in the north."
+   },
+   {
+    "name": "Kneiff",
+    "kind": "hill",
+    "lat": 50.15,
+    "lon": 6.03,
+    "text": "The highest point, 560 m."
+   },
+   {
+    "name": "Upper Sûre Lake",
+    "kind": "reservoir",
+    "lat": 49.9,
+    "lon": 5.85,
+    "text": "A lake for swimming and water."
+   },
+   {
+    "name": "Vianden",
+    "kind": "castle",
+    "lat": 49.935,
+    "lon": 6.2,
+    "text": "A castle above the Our."
+   },
+   {
+    "name": "Mullerthal",
+    "kind": "sandstone gorges",
+    "lat": 49.79,
+    "lon": 6.32,
+    "text": "'Little Switzerland' rock trails."
+   },
+   {
+    "name": "Luxembourg City",
+    "kind": "capital",
+    "lat": 49.611,
+    "lon": 6.13,
+    "text": "A fortress city on cliffs."
+   },
+   {
+    "name": "Moselle valley",
+    "kind": "vineyards",
+    "lat": 49.6,
+    "lon": 6.36,
+    "text": "Wine villages on the river."
+   },
+   {
+    "name": "Minett",
+    "kind": "old mines",
+    "lat": 49.5,
+    "lon": 6.0,
+    "text": "Red earth from iron mining."
+   }
+  ]
+ }
 }

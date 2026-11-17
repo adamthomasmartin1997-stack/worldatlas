@@ -44,5 +44,53 @@
    "term": "Political prisoner",
    "meaning": "Someone jailed for their political views or activities."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 5 years",
+     "text": "Holds most power; in office since 1994."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Appointed by the President",
+     "text": "Runs day-to-day government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "Two houses",
+     "text": "Elections are not seen as free and fair by international observers."
+    },
+    {
+     "title": "All-Belarusian People's Assembly",
+     "subtitle": "Up to 1,200 delegates",
+     "text": "A body given wide powers in 2022."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "Often by the President's office."
+   },
+   {
+    "title": "Both houses",
+    "text": "Approve it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it, or issues decrees with the force of law."
+   }
+  ]
+ }
 }

@@ -22,5 +22,34 @@
    "term": "Day-tripper",
    "meaning": "A visitor who comes for one day."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in San Marino",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "Monte Titano",
+     "text": "Millions of day visitors."
+    },
+    {
+     "title": "Banking",
+     "subtitle": "San Marino",
+     "text": "Small banks."
+    },
+    {
+     "title": "Stamps and coins",
+     "subtitle": "Collectors",
+     "text": "Valued by collectors."
+    },
+    {
+     "title": "Ceramics",
+     "subtitle": "Workshops",
+     "text": "Traditional crafts."
+    }
+   ],
+   "intro": "Some of the things San Marino makes and sells to the world."
+  }
  ]
 }

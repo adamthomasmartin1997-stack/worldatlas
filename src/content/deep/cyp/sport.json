@@ -22,5 +22,85 @@
    "term": "Quarter-final",
    "meaning": "The round of the last eight in a competition."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Cypriot First Division",
+     "subtitle": "Football",
+     "text": "APOEL have won the most titles."
+    },
+    {
+     "title": "Cyprus Rally",
+     "subtitle": "Rallying",
+     "text": "A tough gravel rally."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Marcos Baghdatis",
+     "subtitle": "Tennis",
+     "text": "Australian Open finalist."
+    },
+    {
+     "title": "Pavlos Kontides",
+     "subtitle": "Sailing",
+     "text": "Cyprus's first Olympic medal."
+    },
+    {
+     "title": "Kyriakos Ioannou",
+     "subtitle": "High jump",
+     "text": "World championship bronze in 2007."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Cyprus's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "GSP Stadium, Nicosia",
+    "kind": "venue",
+    "lat": 35.14,
+    "lon": 33.3,
+    "text": "The national stadium."
+   },
+   {
+    "name": "AEK Arena, Larnaca",
+    "kind": "venue",
+    "lat": 34.94,
+    "lon": 33.6,
+    "text": "A football ground."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2006",
+    "title": "Baghdatis in Melbourne",
+    "text": "A run to the final."
+   },
+   {
+    "year": "2012",
+    "title": "Kontides silver",
+    "text": "Cyprus's first Olympic medal."
+   },
+   {
+    "year": "2012",
+    "title": "APOEL in Europe",
+    "text": "Champions League quarter-final."
+   }
+  ]
+ }
 }

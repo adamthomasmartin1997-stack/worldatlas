@@ -22,5 +22,75 @@
    "term": "Trotting",
    "meaning": "Horse racing where horses pull a light cart."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Premier League",
+     "subtitle": "Football",
+     "text": "Sliema Wanderers and Floriana lead the roll."
+    },
+    {
+     "title": "Water polo",
+     "subtitle": "Clubs",
+     "text": "A summer passion in Malta's harbours."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Michael Mifsud",
+     "subtitle": "Football",
+     "text": "Malta's record scorer."
+    },
+    {
+     "title": "Carmel Busuttil",
+     "subtitle": "Football",
+     "text": "Starred for Genk in Belgium."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Malta's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "National Stadium, Ta' Qali",
+    "kind": "venue",
+    "lat": 35.894,
+    "lon": 14.415,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Marsa racecourse",
+    "kind": "venue",
+    "lat": 35.88,
+    "lon": 14.49,
+    "text": "Trotting races."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1983",
+    "title": "Lost 12–1 to Spain",
+    "text": "A record defeat that sent Spain to Euro 84."
+   },
+   {
+    "year": "2023",
+    "title": "Small States Games",
+    "text": "Malta hosts nine nations' athletes."
+   }
+  ]
+ }
 }

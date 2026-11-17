@@ -27,5 +27,47 @@
    "term": "Doubly landlocked",
    "meaning": "Surrounded only by countries that also have no coast."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Liechtenstein's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Rhine valley",
+    "kind": "river plain",
+    "lat": 47.17,
+    "lon": 9.5,
+    "text": "The flat border with Switzerland."
+   },
+   {
+    "name": "Vaduz",
+    "kind": "capital",
+    "lat": 47.141,
+    "lon": 9.521,
+    "text": "A castle above a small capital."
+   },
+   {
+    "name": "Grauspitz",
+    "kind": "mountain",
+    "lat": 47.05,
+    "lon": 9.58,
+    "text": "The highest point, 2,599 m."
+   },
+   {
+    "name": "Malbun",
+    "kind": "ski village",
+    "lat": 47.1,
+    "lon": 9.61,
+    "text": "The country's ski resort."
+   },
+   {
+    "name": "Ruggeller Riet",
+    "kind": "wetland",
+    "lat": 47.24,
+    "lon": 9.53,
+    "text": "Iris meadows in spring."
+   }
+  ]
+ }
 }

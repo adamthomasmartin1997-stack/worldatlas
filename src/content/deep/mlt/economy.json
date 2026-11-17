@@ -22,5 +22,34 @@
    "term": "Shipping register",
    "meaning": "A list of ships officially flying a country's flag."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Malta",
+   "items": [
+    {
+     "title": "Online gaming",
+     "subtitle": "Valletta",
+     "text": "A hub for gaming firms."
+    },
+    {
+     "title": "Microchips",
+     "subtitle": "STMicroelectronics",
+     "text": "A big factory."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Everywhere",
+     "text": "Over 3 million visitors a year."
+    },
+    {
+     "title": "Ship services",
+     "subtitle": "Grand Harbour",
+     "text": "Repairs and registration."
+    }
+   ],
+   "intro": "Some of the things Malta makes and sells to the world."
+  }
  ]
 }

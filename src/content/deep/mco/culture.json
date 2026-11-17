@@ -22,5 +22,70 @@
    "term": "Oceanography",
    "meaning": "The science of the oceans."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "To Catch a Thief",
+     "subtitle": "1955 · Alfred Hitchcock",
+     "text": "Starring Grace Kelly, later Princess of Monaco."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Monte-Carlo Opera",
+     "subtitle": "Since 1879",
+     "text": "A famous opera house."
+    },
+    {
+     "title": "Monte-Carlo Philharmonic",
+     "subtitle": "Orchestra",
+     "text": "One of the oldest orchestras."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Barbagiuan",
+     "subtitle": "Everywhere",
+     "text": "Fried pastries with chard."
+    },
+    {
+     "title": "Socca",
+     "subtitle": "Everywhere",
+     "text": "Chickpea pancake."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Circus Festival",
+    "text": "A world-famous circus contest."
+   },
+   {
+    "month": 5,
+    "name": "Monaco Grand Prix",
+    "text": "Formula One in the streets."
+   },
+   {
+    "month": 11,
+    "name": "National Day",
+    "text": "19 November."
+   }
+  ]
+ }
 }

@@ -22,5 +22,38 @@
    "term": "Philately",
    "meaning": "Collecting stamps."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Käsknöpfle",
+     "subtitle": "Everywhere",
+     "text": "Cheese dumplings with onions."
+    },
+    {
+     "title": "Ribel",
+     "subtitle": "Everywhere",
+     "text": "Maize semolina."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 8,
+    "name": "National Day",
+    "text": "15 August, with the Prince's garden party."
+   },
+   {
+    "month": 2,
+    "name": "Carnival",
+    "text": "Masks and parades."
+   }
+  ]
+ }
 }

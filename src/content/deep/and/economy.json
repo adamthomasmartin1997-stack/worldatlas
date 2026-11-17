@@ -22,5 +22,29 @@
    "term": "Tax haven",
    "meaning": "A place with very low taxes that attracts money from abroad."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Andorra",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "Ski and shops",
+     "text": "About 8 million visitors a year."
+    },
+    {
+     "title": "Banking",
+     "subtitle": "Andorra la Vella",
+     "text": "Private banking."
+    },
+    {
+     "title": "Tobacco",
+     "subtitle": "Farms",
+     "text": "An old crop."
+    }
+   ],
+   "intro": "Some of the things Andorra makes and sells to the world."
+  }
  ]
 }

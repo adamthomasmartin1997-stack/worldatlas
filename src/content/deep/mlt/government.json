@@ -36,5 +36,53 @@
    "term": "Neutral",
    "meaning": "Not joining military alliances."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by parliament for 5 years",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leader of the largest party",
+     "text": "Leads the government."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "About 65 to 79 members",
+     "text": "Extra seats can be added for fairness."
+    },
+    {
+     "title": "Local councils",
+     "subtitle": "68 councils",
+     "text": "Local services."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "Usually by the government."
+   },
+   {
+    "title": "Readings",
+    "text": "In the House."
+   },
+   {
+    "title": "The President",
+    "text": "Gives assent."
+   }
+  ]
+ }
 }

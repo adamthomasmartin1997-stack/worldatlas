@@ -28,5 +28,61 @@
    "term": "Desalination",
    "meaning": "Removing salt from seawater to make fresh water."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Malta's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Gozo",
+    "kind": "island",
+    "lat": 36.04,
+    "lon": 14.25,
+    "text": "Malta's greener sister island."
+   },
+   {
+    "name": "Comino and Blue Lagoon",
+    "kind": "lagoon",
+    "lat": 36.01,
+    "lon": 14.33,
+    "text": "Clear water on a tiny island."
+   },
+   {
+    "name": "Mdina",
+    "kind": "walled city",
+    "lat": 35.886,
+    "lon": 14.403,
+    "text": "The 'silent city' on a hill."
+   },
+   {
+    "name": "Valletta",
+    "kind": "capital",
+    "lat": 35.899,
+    "lon": 14.514,
+    "text": "A fortified capital built by knights."
+   },
+   {
+    "name": "Dingli Cliffs",
+    "kind": "sea cliffs",
+    "lat": 35.86,
+    "lon": 14.38,
+    "text": "Malta's highest point, about 253 m."
+   },
+   {
+    "name": "Blue Grotto",
+    "kind": "sea caves",
+    "lat": 35.82,
+    "lon": 14.46,
+    "text": "Glowing blue caves."
+   },
+   {
+    "name": "Marsaxlokk",
+    "kind": "fishing harbour",
+    "lat": 35.84,
+    "lon": 14.54,
+    "text": "Colourful fishing boats."
+   }
+  ]
+ }
 }

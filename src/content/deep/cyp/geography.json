@@ -30,5 +30,75 @@
    "term": "Mouflon",
    "meaning": "A wild sheep with curling horns."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Cyprus's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Akamas Peninsula",
+    "kind": "wild coast",
+    "lat": 35.05,
+    "lon": 32.35,
+    "text": "Gorges and turtle beaches."
+   },
+   {
+    "name": "Avakas Gorge",
+    "kind": "gorge",
+    "lat": 34.92,
+    "lon": 32.35,
+    "text": "A narrow limestone gorge."
+   },
+   {
+    "name": "Petra tou Romiou",
+    "kind": "sea rock",
+    "lat": 34.66,
+    "lon": 32.63,
+    "text": "The legendary birthplace of Aphrodite."
+   },
+   {
+    "name": "Troodos Mountains",
+    "kind": "mountains",
+    "lat": 34.94,
+    "lon": 32.86,
+    "text": "Pine forests and painted churches."
+   },
+   {
+    "name": "Mount Olympus",
+    "kind": "mountain",
+    "lat": 34.936,
+    "lon": 32.863,
+    "text": "The island's highest peak, 1,952 m."
+   },
+   {
+    "name": "Larnaca Salt Lake",
+    "kind": "salt lake",
+    "lat": 34.89,
+    "lon": 33.62,
+    "text": "Flamingos in winter."
+   },
+   {
+    "name": "Cape Greco",
+    "kind": "sea caves",
+    "lat": 34.96,
+    "lon": 34.08,
+    "text": "Cliffs and sea caves."
+   },
+   {
+    "name": "Nicosia",
+    "kind": "divided capital",
+    "lat": 35.17,
+    "lon": 33.36,
+    "text": "Split by the Green Line."
+   },
+   {
+    "name": "Kyrenia mountains",
+    "kind": "mountains",
+    "lat": 35.3,
+    "lon": 33.3,
+    "text": "A limestone ridge in the north."
+   }
+  ]
+ }
 }

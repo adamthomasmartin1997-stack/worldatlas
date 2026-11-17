@@ -36,5 +36,53 @@
    "term": "Conclave",
    "meaning": "The secret meeting of cardinals that elects a pope."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The Pope",
+     "subtitle": "Elected for life by cardinals",
+     "text": "Holds all power."
+    },
+    {
+     "title": "Pontifical Commission",
+     "subtitle": "Cardinals",
+     "text": "Runs the state day to day."
+    },
+    {
+     "title": "Swiss Guard",
+     "subtitle": "About 135 soldiers",
+     "text": "Protects the Pope."
+    },
+    {
+     "title": "Conclave",
+     "subtitle": "Cardinals under 80",
+     "text": "Elects a new pope."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A law is drafted",
+    "text": "By the Pontifical Commission."
+   },
+   {
+    "title": "The Pope",
+    "text": "Approves it."
+   },
+   {
+    "title": "Published",
+    "text": "In the official gazette."
+   }
+  ]
+ }
 }

@@ -22,5 +22,38 @@
    "term": "Crossbow",
    "meaning": "A medieval bow fired by a trigger."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Torta Tre Monti",
+     "subtitle": "Everywhere",
+     "text": "A wafer cake shaped like the three towers."
+    },
+    {
+     "title": "Piadina",
+     "subtitle": "Everywhere",
+     "text": "Flatbread from the region."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Investiture",
+    "text": "1 April and 1 October, new Captains Regent."
+   },
+   {
+    "month": 9,
+    "name": "Foundation Day",
+    "text": "3 September, 301 AD."
+   }
+  ]
+ }
 }

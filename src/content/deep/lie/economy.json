@@ -22,5 +22,34 @@
    "term": "Industry",
    "meaning": "Making goods in factories."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Liechtenstein",
+   "items": [
+    {
+     "title": "Dental products",
+     "subtitle": "Ivoclar",
+     "text": "False teeth and dental materials."
+    },
+    {
+     "title": "Tools",
+     "subtitle": "Hilti",
+     "text": "Construction tools sold worldwide."
+    },
+    {
+     "title": "Banking",
+     "subtitle": "Vaduz",
+     "text": "Private banks."
+    },
+    {
+     "title": "Stamps",
+     "subtitle": "Postal service",
+     "text": "Collectable stamps."
+    }
+   ],
+   "intro": "Some of the things Liechtenstein makes and sells to the world."
+  }
  ]
 }

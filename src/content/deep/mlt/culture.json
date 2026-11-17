@@ -22,5 +22,80 @@
    "term": "Luzzu",
    "meaning": "A traditional, colourfully painted Maltese fishing boat."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Gladiator",
+     "subtitle": "2000 · Ridley Scott",
+     "text": "Rome was partly built in Malta."
+    },
+    {
+     "title": "Popeye",
+     "subtitle": "1980 · Robert Altman",
+     "text": "The set village still stands as a park."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "L-Innu Malti",
+     "subtitle": "1922",
+     "text": "The national anthem with words by Dun Karm."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Pastizzi",
+     "subtitle": "Everywhere",
+     "text": "Flaky ricotta or pea pastries."
+    },
+    {
+     "title": "Rabbit stew",
+     "subtitle": "Everywhere",
+     "text": "The national dish."
+    },
+    {
+     "title": "Ftira",
+     "subtitle": "Gozo",
+     "text": "Flat bread with toppings."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Carnival",
+    "text": "Floats in Valletta."
+   },
+   {
+    "month": 9,
+    "name": "Victory Day",
+    "text": "8 September."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "21 September, 1964."
+   },
+   {
+    "month": 6,
+    "name": "Mnarja",
+    "text": "A harvest feast."
+   }
+  ]
+ }
 }

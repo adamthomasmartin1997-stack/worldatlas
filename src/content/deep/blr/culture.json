@@ -22,5 +22,91 @@
    "term": "Kupalle",
    "meaning": "A midsummer festival celebrated in Belarus and neighbouring countries."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Come and See",
+     "subtitle": "1985 · Elem Klimov",
+     "text": "A boy in the wartime Belarusian forests."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Voices from Chernobyl",
+     "subtitle": "1997 · Svetlana Alexievich",
+     "text": "By the Nobel winner from Minsk."
+    },
+    {
+     "title": "The Sign of Distress",
+     "subtitle": "1983 · Vasil Bykau",
+     "text": "A war story by a great Belarusian writer."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Pesniary",
+     "subtitle": "Folk-rock band",
+     "text": "Belarusian songs famous across the USSR."
+    },
+    {
+     "title": "Kupalle songs",
+     "subtitle": "Traditional",
+     "text": "Songs for midsummer."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Draniki",
+     "subtitle": "Everywhere",
+     "text": "Potato pancakes with sour cream."
+    },
+    {
+     "title": "Machanka",
+     "subtitle": "Everywhere",
+     "text": "Pork in a sauce for dipping pancakes."
+    },
+    {
+     "title": "Kalduny",
+     "subtitle": "Everywhere",
+     "text": "Stuffed potato dumplings."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Kaliady",
+    "text": "Winter carols and masks."
+   },
+   {
+    "month": 7,
+    "name": "Kupalle",
+    "text": "Midsummer night with wreaths on the water."
+   },
+   {
+    "month": 7,
+    "name": "Slavianski Bazaar",
+    "text": "A music festival in Vitebsk."
+   }
+  ]
+ }
 }

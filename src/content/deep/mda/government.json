@@ -36,5 +36,58 @@
    "term": "Neutral",
    "meaning": "Not part of military alliances."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 4 years",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Chosen by parliament",
+     "text": "Leads the government."
+    },
+    {
+     "title": "Parliament",
+     "subtitle": "101 members",
+     "text": "A single-chamber parliament."
+    },
+    {
+     "title": "Gagauzia",
+     "subtitle": "Autonomous region",
+     "text": "Has its own assembly."
+    },
+    {
+     "title": "Transnistria",
+     "subtitle": "Breakaway region",
+     "text": "Not under the government's control."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By members, the government or the President."
+   },
+   {
+    "title": "Readings",
+    "text": "In parliament."
+   },
+   {
+    "title": "The President",
+    "text": "Signs or returns it once."
+   }
+  ]
+ }
 }

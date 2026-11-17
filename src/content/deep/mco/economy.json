@@ -22,5 +22,34 @@
    "term": "Luxury",
    "meaning": "Very expensive, high-quality goods and services."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Monaco",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "Monte Carlo",
+     "text": "Rich visitors."
+    },
+    {
+     "title": "Banking",
+     "subtitle": "Monaco",
+     "text": "Private banking."
+    },
+    {
+     "title": "Real estate",
+     "subtitle": "Very expensive",
+     "text": "Among the world's priciest homes."
+    },
+    {
+     "title": "Cosmetics",
+     "subtitle": "Factories",
+     "text": "Small-scale industry."
+    }
+   ],
+   "intro": "Some of the things Monaco makes and sells to the world."
+  }
  ]
 }

@@ -36,5 +36,62 @@
    "term": "Court of Justice",
    "meaning": "The EU's highest court."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The Grand Duke",
+     "subtitle": "Inherits the throne",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the government",
+     "text": "Needs the Chamber's support."
+    },
+    {
+     "title": "Chamber of Deputies",
+     "subtitle": "60 members",
+     "text": "A single-chamber parliament."
+    },
+    {
+     "title": "Council of State",
+     "subtitle": "21 members",
+     "text": "Advises on every law."
+    },
+    {
+     "title": "Communes",
+     "subtitle": "100 communes",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or deputies."
+   },
+   {
+    "title": "Council of State",
+    "text": "Gives its opinion."
+   },
+   {
+    "title": "Two votes",
+    "text": "The Chamber votes twice, unless the Council agrees to skip the second."
+   },
+   {
+    "title": "Promulgated",
+    "text": "By the Grand Duke."
+   }
+  ]
+ }
 }

@@ -22,5 +22,29 @@
    "term": "Donation",
    "meaning": "Money given as a gift."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Vatican City",
+   "items": [
+    {
+     "title": "Museum tickets",
+     "subtitle": "Vatican Museums",
+     "text": "Millions of visitors."
+    },
+    {
+     "title": "Stamps and coins",
+     "subtitle": "Collectors",
+     "text": "Euro coins valued by collectors."
+    },
+    {
+     "title": "Donations",
+     "subtitle": "Peter's Pence",
+     "text": "Gifts from Catholics worldwide."
+    }
+   ],
+   "intro": "Some of the things Vatican City makes and sells to the world."
+  }
  ]
 }

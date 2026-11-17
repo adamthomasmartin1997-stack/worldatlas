@@ -22,5 +22,96 @@
    "term": "Halloumi",
    "meaning": "A firm, salty Cypriot cheese that can be grilled."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Akamas",
+     "subtitle": "2006 · Panicos Chrysanthou",
+     "text": "A love story across the divide."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Bitter Lemons",
+     "subtitle": "1957 · Lawrence Durrell",
+     "text": "Life on Cyprus in the 1950s."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Fuego",
+     "subtitle": "Eleni Foureira, 2018",
+     "text": "Cyprus's best Eurovision finish."
+    },
+    {
+     "title": "Tsiattista",
+     "subtitle": "Traditional",
+     "text": "Improvised poetry duels; UNESCO-listed."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Halloumi",
+     "subtitle": "Everywhere",
+     "text": "Grilled or fried."
+    },
+    {
+     "title": "Souvla",
+     "subtitle": "Everywhere",
+     "text": "Big chunks of meat on a spit."
+    },
+    {
+     "title": "Kleftiko",
+     "subtitle": "Everywhere",
+     "text": "Slow-baked lamb."
+    },
+    {
+     "title": "Loukoumades",
+     "subtitle": "Everywhere",
+     "text": "Honey dough balls."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Green Monday",
+    "text": "Kites and picnics."
+   },
+   {
+    "month": 4,
+    "name": "Easter",
+    "text": "The biggest festival."
+   },
+   {
+    "month": 6,
+    "name": "Kataklysmos",
+    "text": "Water festival at Pentecost."
+   },
+   {
+    "month": 10,
+    "name": "Independence Day",
+    "text": "1 October, 1960."
+   }
+  ]
+ }
 }

@@ -22,5 +22,73 @@
    "term": "Olympic medal",
    "meaning": "A gold, silver or bronze medal won at the Olympics."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Campionato Sammarinese",
+     "subtitle": "Football",
+     "text": "Tre Fiori have won the most titles."
+    },
+    {
+     "title": "Shooting",
+     "subtitle": "Olympics",
+     "text": "San Marino's medal sport."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Alessandra Perilli",
+     "subtitle": "Shooting",
+     "text": "Two Olympic medals in 2021."
+    },
+    {
+     "title": "Gian Marco Berti",
+     "subtitle": "Shooting",
+     "text": "Olympic silver in 2021."
+    },
+    {
+     "title": "Myles Nazem Amine",
+     "subtitle": "Wrestling",
+     "text": "Olympic bronze in 2021."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where San Marino's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "San Marino Stadium, Serravalle",
+    "kind": "venue",
+    "lat": 43.97,
+    "lon": 12.48,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1993",
+    "title": "Goal after 8 seconds",
+    "text": "Against England."
+   },
+   {
+    "year": "2021",
+    "title": "Three Olympic medals",
+    "text": "San Marino's first ever Olympic medals."
+   }
+  ]
+ }
 }

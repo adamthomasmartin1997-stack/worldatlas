@@ -36,5 +36,53 @@
    "term": "Captain Regent",
    "meaning": "One of San Marino's two joint heads of state."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Two Captains Regent",
+     "subtitle": "Elected every 6 months",
+     "text": "Joint heads of state."
+    },
+    {
+     "title": "Grand and General Council",
+     "subtitle": "60 members",
+     "text": "The parliament."
+    },
+    {
+     "title": "Congress of State",
+     "subtitle": "Ministers",
+     "text": "The government."
+    },
+    {
+     "title": "Castelli",
+     "subtitle": "9 municipalities",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government, members or citizens."
+   },
+   {
+    "title": "Vote",
+    "text": "In the Grand and General Council."
+   },
+   {
+    "title": "Promulgated",
+    "text": "By the Captains Regent."
+   }
+  ]
+ }
 }

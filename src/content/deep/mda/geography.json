@@ -27,5 +27,68 @@
    "term": "Black soil",
    "meaning": "Very fertile, dark earth."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Moldova's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Soroca fortress",
+    "kind": "fortress",
+    "lat": 48.16,
+    "lon": 28.3,
+    "text": "A round stone fort on the Dniester."
+   },
+   {
+    "name": "Saharna",
+    "kind": "monastery and falls",
+    "lat": 47.69,
+    "lon": 28.97,
+    "text": "A monastery by waterfalls."
+   },
+   {
+    "name": "Orheiul Vechi",
+    "kind": "river canyon",
+    "lat": 47.3,
+    "lon": 28.97,
+    "text": "A cave monastery in a river loop."
+   },
+   {
+    "name": "Codri",
+    "kind": "forest",
+    "lat": 47.1,
+    "lon": 28.3,
+    "text": "Oak forests in the centre."
+   },
+   {
+    "name": "Chișinău",
+    "kind": "capital",
+    "lat": 47.01,
+    "lon": 28.86,
+    "text": "A green capital with wide parks."
+   },
+   {
+    "name": "Bălănești Hill",
+    "kind": "hill",
+    "lat": 47.2,
+    "lon": 28.03,
+    "text": "Moldova's highest point, 430 m."
+   },
+   {
+    "name": "Cricova",
+    "kind": "wine cellars",
+    "lat": 47.14,
+    "lon": 28.86,
+    "text": "Underground streets of wine."
+   },
+   {
+    "name": "Lower Prut lakes",
+    "kind": "wetland",
+    "lat": 45.65,
+    "lon": 28.18,
+    "text": "Birds by the Prut river."
+   }
+  ]
+ }
 }

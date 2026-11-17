@@ -36,5 +36,53 @@
    "term": "Veto",
    "meaning": "The power to block a decision."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The Prince",
+     "subtitle": "Inherits the throne",
+     "text": "Has real powers, including vetoing laws."
+    },
+    {
+     "title": "Head of Government",
+     "subtitle": "Appointed by the Prince",
+     "text": "Proposed by parliament."
+    },
+    {
+     "title": "Landtag",
+     "subtitle": "25 members",
+     "text": "The parliament."
+    },
+    {
+     "title": "The people",
+     "subtitle": "Referendums",
+     "text": "Votes on laws and even on the Prince's powers."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government, members or 1,000 voters."
+   },
+   {
+    "title": "Vote",
+    "text": "In the Landtag."
+   },
+   {
+    "title": "Royal sanction",
+    "text": "The Prince must agree within 6 months."
+   }
+  ]
+ }
 }

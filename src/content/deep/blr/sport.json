@@ -25,5 +25,102 @@
    "term": "Biathlon",
    "meaning": "Cross-country skiing combined with rifle shooting."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Vysshaya Liga",
+     "subtitle": "Football",
+     "text": "BATE Borisov have won the most titles."
+    },
+    {
+     "title": "Ice hockey",
+     "subtitle": "Dinamo Minsk",
+     "text": "The most popular team sport."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Olga Korbut",
+     "subtitle": "Gymnastics",
+     "text": "Star of the 1972 Olympics."
+    },
+    {
+     "title": "Vitaly Scherbo",
+     "subtitle": "Gymnastics",
+     "text": "Six golds in 1992."
+    },
+    {
+     "title": "Darya Domracheva",
+     "subtitle": "Biathlon",
+     "text": "Four Olympic golds."
+    },
+    {
+     "title": "Victoria Azarenka",
+     "subtitle": "Tennis",
+     "text": "Two Australian Open titles."
+    },
+    {
+     "title": "Aryna Sabalenka",
+     "subtitle": "Tennis",
+     "text": "World No. 1 and Grand Slam champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Belarus's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Minsk-Arena",
+    "kind": "venue",
+    "lat": 53.94,
+    "lon": 27.48,
+    "text": "Ice hockey and concerts."
+   },
+   {
+    "name": "Dinamo Stadium, Minsk",
+    "kind": "venue",
+    "lat": 53.897,
+    "lon": 27.563,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Raubichi",
+    "kind": "venue",
+    "lat": 54.0,
+    "lon": 27.8,
+    "text": "Biathlon and skiing."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1972",
+    "title": "Korbut's flips",
+    "text": "A teenage star in Munich."
+   },
+   {
+    "year": "2002",
+    "title": "Beating Sweden",
+    "text": "Ice hockey's biggest Olympic upset."
+   },
+   {
+    "year": "2014",
+    "title": "Domracheva's three golds",
+    "text": "At the Sochi Olympics."
+   }
+  ]
+ }
 }

@@ -25,5 +25,87 @@
    "term": "Street circuit",
    "meaning": "A racetrack laid out on public roads."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "AS Monaco",
+     "subtitle": "Football",
+     "text": "Plays in the French league; 8 titles."
+    },
+    {
+     "title": "Monaco Grand Prix",
+     "subtitle": "Formula One",
+     "text": "Since 1929."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Charles Leclerc",
+     "subtitle": "Formula One",
+     "text": "Won the Monaco Grand Prix in 2024."
+    },
+    {
+     "title": "Louis Chiron",
+     "subtitle": "Motor racing",
+     "text": "Monaco's first great racer."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Monaco's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Circuit de Monaco",
+    "kind": "venue",
+    "lat": 43.734,
+    "lon": 7.421,
+    "text": "The streets of Monte Carlo."
+   },
+   {
+    "name": "Stade Louis II",
+    "kind": "venue",
+    "lat": 43.727,
+    "lon": 7.415,
+    "text": "Home of AS Monaco."
+   },
+   {
+    "name": "Monte-Carlo Country Club",
+    "kind": "venue",
+    "lat": 43.75,
+    "lon": 7.44,
+    "text": "Home of the Monte-Carlo Masters."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1929",
+    "title": "First Grand Prix",
+    "text": "Racing through the streets."
+   },
+   {
+    "year": "2004",
+    "title": "Champions League final",
+    "text": "AS Monaco reach the final."
+   },
+   {
+    "year": "2024",
+    "title": "Leclerc wins at home",
+    "text": "The first local winner since Louis Chiron in 1931."
+   }
+  ]
+ }
 }

@@ -22,5 +22,95 @@
    "term": "Tour de France",
    "meaning": "The most famous cycling race in the world."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "BGL Ligue",
+     "subtitle": "Football",
+     "text": "Jeunesse Esch have won the most titles."
+    },
+    {
+     "title": "Tour de Luxembourg",
+     "subtitle": "Cycling",
+     "text": "A stage race since 1935."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Josy Barthel",
+     "subtitle": "Running",
+     "text": "Olympic 1,500 m champion in 1952."
+    },
+    {
+     "title": "Charly Gaul",
+     "subtitle": "Cycling",
+     "text": "Tour de France winner in 1958."
+    },
+    {
+     "title": "Andy Schleck",
+     "subtitle": "Cycling",
+     "text": "Tour de France winner in 2010."
+    },
+    {
+     "title": "Marc Girardelli",
+     "subtitle": "Skiing",
+     "text": "Five overall World Cups."
+    },
+    {
+     "title": "Gilles Müller",
+     "subtitle": "Tennis",
+     "text": "Beat Nadal at Wimbledon."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Luxembourg's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Stade de Luxembourg",
+    "kind": "venue",
+    "lat": 49.58,
+    "lon": 6.11,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Coque, Luxembourg",
+    "kind": "venue",
+    "lat": 49.62,
+    "lon": 6.15,
+    "text": "Sports arena and pool."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1952",
+    "title": "Barthel gold",
+    "text": "Luxembourg's only Summer Olympic gold."
+   },
+   {
+    "year": "1958",
+    "title": "Gaul wins the Tour",
+    "text": "In the mountains."
+   },
+   {
+    "year": "2017",
+    "title": "Müller beats Nadal",
+    "text": "At Wimbledon."
+   }
+  ]
+ }
 }

@@ -26,5 +26,47 @@
    "term": "Landlocked",
    "meaning": "Having no coastline."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Andorra's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Coma Pedrosa",
+    "kind": "mountain",
+    "lat": 42.59,
+    "lon": 1.44,
+    "text": "Andorra's highest peak, 2,942 m."
+   },
+   {
+    "name": "Madriu-Perafita-Claror Valley",
+    "kind": "valley",
+    "lat": 42.48,
+    "lon": 1.58,
+    "text": "A World Heritage glacial valley."
+   },
+   {
+    "name": "Andorra la Vella",
+    "kind": "capital",
+    "lat": 42.507,
+    "lon": 1.522,
+    "text": "Europe's highest capital."
+   },
+   {
+    "name": "Grandvalira",
+    "kind": "ski area",
+    "lat": 42.55,
+    "lon": 1.68,
+    "text": "The biggest ski area in the Pyrenees."
+   },
+   {
+    "name": "Sorteny",
+    "kind": "nature park",
+    "lat": 42.62,
+    "lon": 1.56,
+    "text": "Alpine flowers."
+   }
+  ]
+ }
 }

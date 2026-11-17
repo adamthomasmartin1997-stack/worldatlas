@@ -25,5 +25,47 @@
    "term": "League",
    "meaning": "A group of teams that play each other in a season."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Clericus Cup",
+     "subtitle": "Football",
+     "text": "Priests and seminarians play."
+    },
+    {
+     "title": "Vatican Athletics",
+     "subtitle": "Running",
+     "text": "A team of priests, nuns and staff."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Vatican City's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "St Peter's Square",
+    "kind": "venue",
+    "lat": 41.9022,
+    "lon": 12.4568,
+    "text": "Where pilgrims gather."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2019",
+    "title": "Vatican Athletics",
+    "text": "A running club made up of Vatican staff is founded."
+   }
+  ]
+ }
 }

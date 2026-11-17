@@ -25,5 +25,47 @@
    "term": "Land reclamation",
    "meaning": "Creating new land from the sea."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Monaco's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Monte Carlo",
+    "kind": "district",
+    "lat": 43.74,
+    "lon": 7.43,
+    "text": "Casino and grand hotels."
+   },
+   {
+    "name": "Monaco-Ville",
+    "kind": "the Rock",
+    "lat": 43.731,
+    "lon": 7.42,
+    "text": "The old town on a rock."
+   },
+   {
+    "name": "Port Hercule",
+    "kind": "harbour",
+    "lat": 43.735,
+    "lon": 7.425,
+    "text": "Superyachts and the Grand Prix."
+   },
+   {
+    "name": "Fontvieille",
+    "kind": "reclaimed land",
+    "lat": 43.727,
+    "lon": 7.416,
+    "text": "Built on land taken from the sea."
+   },
+   {
+    "name": "Larvotto",
+    "kind": "beach",
+    "lat": 43.745,
+    "lon": 7.436,
+    "text": "Monaco's public beach."
+   }
+  ]
+ }
 }

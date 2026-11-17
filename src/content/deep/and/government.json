@@ -36,5 +36,53 @@
    "term": "Parliamentary co-principality",
    "meaning": "A state with two princes as heads of state and an elected parliament."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Two co-princes",
+     "subtitle": "The French President and the Bishop of Urgell",
+     "text": "Joint heads of state."
+    },
+    {
+     "title": "Head of Government",
+     "subtitle": "Chosen by parliament",
+     "text": "Leads the government."
+    },
+    {
+     "title": "General Council",
+     "subtitle": "28 members",
+     "text": "Half from parishes, half nationally."
+    },
+    {
+     "title": "Parishes",
+     "subtitle": "7 parishes",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Vote",
+    "text": "In the General Council."
+   },
+   {
+    "title": "Co-princes",
+    "text": "Both sign it."
+   }
+  ]
+ }
 }

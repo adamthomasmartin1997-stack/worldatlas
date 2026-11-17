@@ -30,5 +30,68 @@
    "term": "Marsh",
    "meaning": "Wet, low land often covered with water."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Belarus's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Braslav Lakes",
+    "kind": "lakes",
+    "lat": 55.63,
+    "lon": 27.05,
+    "text": "Over 30 lakes in the north."
+   },
+   {
+    "name": "Naroch",
+    "kind": "lake",
+    "lat": 54.85,
+    "lon": 26.75,
+    "text": "The country's largest lake."
+   },
+   {
+    "name": "Minsk",
+    "kind": "capital",
+    "lat": 53.9,
+    "lon": 27.56,
+    "text": "Rebuilt after the Second World War."
+   },
+   {
+    "name": "Dzyarzhynskaya Hara",
+    "kind": "hill",
+    "lat": 53.87,
+    "lon": 27.15,
+    "text": "The highest point, only 345 m."
+   },
+   {
+    "name": "Mir and Nesvizh castles",
+    "kind": "castles",
+    "lat": 53.45,
+    "lon": 26.47,
+    "text": "Two castles on the World Heritage list."
+   },
+   {
+    "name": "Białowieża Forest",
+    "kind": "primeval forest",
+    "lat": 52.7,
+    "lon": 23.85,
+    "text": "Home of the European bison, shared with Poland."
+   },
+   {
+    "name": "Polesia marshes",
+    "kind": "wetlands",
+    "lat": 52.0,
+    "lon": 27.5,
+    "text": "One of Europe's largest marshlands."
+   },
+   {
+    "name": "Pripyat river",
+    "kind": "river",
+    "lat": 52.1,
+    "lon": 28.5,
+    "text": "Floodplain forests and meadows."
+   }
+  ]
+ }
 }
