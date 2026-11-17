@@ -1,0 +1,52 @@
+{
+ "status": "draft",
+ "intro": "Argentina is the home of tango, the gaucho, great writers and a food culture built around beef. Its culture mixes Spanish and Italian roots with the traditions of the Pampas.",
+ "chapters": [
+  {
+   "id": "tango",
+   "title": "Tango",
+   "text": [
+    "Tango was born in the poor port neighbourhoods of Buenos Aires and Montevideo in the late 1800s, mixing African, European and local rhythms. It is now on UNESCO's heritage list. Carlos Gardel was its greatest singer, and Astor Piazzolla mixed it with jazz and classical music.",
+    "Couples still dance tango late into the night in Buenos Aires dance halls called milongas."
+   ],
+   "related": [
+    "URY"
+   ]
+  },
+  {
+   "id": "gauchos",
+   "title": "Gauchos",
+   "text": [
+    "Gauchos, the skilled horsemen of the Pampas, are symbols of freedom and independence. The long poem Martín Fierro (1872) tells the story of a gaucho and is often called Argentina's national poem."
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books and comics",
+   "text": [
+    "Jorge Luis Borges wrote mind-bending short stories about labyrinths, mirrors and infinite libraries, and Julio Cortázar wrote inventive novels. Mafalda, a comic strip about a little girl who worries about the state of the world, created by Quino in 1964, is loved across the Spanish-speaking world.",
+    "Argentine films have won the Oscar for best foreign-language film twice, in 1986 and 2010."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Beef is king: the asado, meat slowly grilled over wood coals, is a social ritual. Empanadas, milanesas, dulce de leche (a caramel spread) and alfajores (sandwich biscuits) are national favourites, and thanks to Italian immigrants, Argentines eat lots of pizza, pasta and ice cream."
+   ],
+   "related": [
+    "ITA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gaucho",
+   "meaning": "A cowboy of the South American grasslands."
+  },
+  {
+   "term": "Milonga",
+   "meaning": "A tango dance hall or event, and also a lively style of tango music."
+  }
+ ]
+}

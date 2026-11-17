@@ -1,0 +1,48 @@
+{
+ "status": "draft",
+ "intro": "Argentina lives and breathes football: it has won three World Cups and produced Diego Maradona and Lionel Messi. It is also a world power in polo, field hockey, rugby and basketball.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Argentina won the World Cup in 1978, 1986 and 2022. In 1986 Diego Maradona scored two famous goals against England: the 'Hand of God' and, minutes later, a dribble past half the team voted the goal of the century. In 2022 Lionel Messi finally lifted the trophy in Qatar after one of the greatest finals ever, against France.",
+    "Messi has won the Ballon d'Or, the award for the world's best player, eight times, a record. Argentina has also won the Copa América more times than any other country. The 'Superclásico' between Boca Juniors and River Plate is one of the fiercest rivalries in sport."
+   ],
+   "related": [
+    "GBR",
+    "FRA",
+    "BRA",
+    "URY"
+   ]
+  },
+  {
+   "id": "horses",
+   "title": "Polo and pato",
+   "text": [
+    "Argentina has the world's best polo players and horses, and its national sport is pato, a horseback game in which riders grab a ball with handles and throw it through a hoop."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Hockey, rugby, basketball and racing",
+   "text": [
+    "The women's field hockey team, Las Leonas, are among the best in the world, and Luciana Aymar was named world player of the year eight times. Argentina's rugby team, Los Pumas, finished third at the 2007 Rugby World Cup.",
+    "In 2004 Argentina's basketball team, led by Manu Ginóbili, won Olympic gold, beating the USA in the semi-final. Juan Manuel Fangio won five Formula One world championships in the 1950s."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ballon d'Or",
+   "meaning": "The yearly award for the world's best footballer."
+  },
+  {
+   "term": "Superclásico",
+   "meaning": "A match between the two biggest rival clubs, Boca Juniors and River Plate."
+  }
+ ]
+}

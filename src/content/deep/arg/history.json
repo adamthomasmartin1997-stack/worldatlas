@@ -1,0 +1,158 @@
+{
+ "status": "draft",
+ "intro": "Argentina won independence from Spain in 1816 and, fed by millions of European immigrants, became one of the richest countries in the world by the early 1900s. The century that followed brought Perón, military coups, a war over the Falklands and repeated economic crises.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "First peoples and Spanish rule",
+   "text": [
+    "People have lived in Argentina for at least 11,000 years. At the Cueva de las Manos ('Cave of the Hands') in Patagonia, ancient hunters stencilled hundreds of hand outlines on the rock walls, many about 9,000 years ago. Later, the Inca Empire reached into the north-west.",
+    "Spanish explorers arrived in the 1500s looking for silver, and the country's name comes from argentum, Latin for silver. Buenos Aires, first founded in 1536, became the capital of a huge Spanish colony, the Viceroyalty of the Río de la Plata, in 1776."
+   ],
+   "related": [
+    "ESP",
+    "PER"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "In the May Revolution of 1810, leaders in Buenos Aires set up their own government, and independence was declared on 9 July 1816 in Tucumán. General José de San Martín then led an army over the Andes to help free Chile and Peru, one of the great military feats of the age.",
+    "Decades of civil war between Buenos Aires and the provinces followed, until a constitution was agreed in 1853. In the 1870s and 1880s, military campaigns known as the 'Conquest of the Desert' took the lands of Indigenous peoples in the Pampas and Patagonia."
+   ],
+   "related": [
+    "CHL",
+    "PER",
+    "ESP"
+   ]
+  },
+  {
+   "id": "golden-age",
+   "title": "A golden age of immigration",
+   "text": [
+    "Between 1880 and 1930 about six million immigrants arrived, most of them from Italy and Spain. Railways carried beef and wheat from the Pampas to the port of Buenos Aires, and by the early 1900s Argentina was among the ten richest countries in the world per person.",
+    "Buenos Aires grew into a grand city of wide avenues and opera houses, sometimes called 'the Paris of South America'."
+   ],
+   "related": [
+    "ITA",
+    "ESP"
+   ]
+  },
+  {
+   "id": "peron",
+   "title": "Perón and the dictatorships",
+   "text": [
+    "Juan Perón, elected president in 1946, won huge support from workers with higher wages and new rights, and his wife Eva 'Evita' Perón championed the poor and women's right to vote, won in 1947. Peronism is still Argentina's biggest political movement.",
+    "Between 1930 and 1976 the army overthrew elected governments six times. The last dictatorship (1976 to 1983) kidnapped and murdered thousands of people it saw as enemies; human rights groups estimate up to 30,000 'disappeared'. Their mothers marched every Thursday in Buenos Aires's Plaza de Mayo, wearing white headscarves, to demand answers."
+   ],
+   "highlight": {
+    "title": "Never again",
+    "text": "After democracy returned, Argentina put the former junta leaders on trial in 1985, one of the first times a country tried its own former dictators for crimes against humanity."
+   }
+  },
+  {
+   "id": "modern",
+   "title": "War, crisis and democracy",
+   "text": [
+    "In 1982 the military government invaded the Falkland Islands, which Argentina calls the Malvinas and claims, but lost the war against the UK. The defeat helped bring democracy back in 1983.",
+    "Argentina has lived through repeated economic crises. In 2001 the government stopped paying its debts, banks froze savings, and five people held the office of president within two weeks. In 2013 Jorge Bergoglio, the Archbishop of Buenos Aires, became Pope Francis, the first pope from the Americas. In 2023 voters elected Javier Milei, who promised to slash government spending to beat inflation."
+   ],
+   "related": [
+    "GBR",
+    "FLK",
+    "VAT"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 7000 BC",
+   "title": "Cave of the Hands",
+   "text": "Hunters paint hand stencils in Patagonia."
+  },
+  {
+   "year": "1536",
+   "title": "Buenos Aires",
+   "text": "The Spanish first found the city."
+  },
+  {
+   "year": "1776",
+   "title": "Viceroyalty",
+   "text": "Buenos Aires becomes the capital of a vast Spanish colony."
+  },
+  {
+   "year": "1810",
+   "title": "May Revolution",
+   "text": "Buenos Aires sets up its own government."
+  },
+  {
+   "year": "1816",
+   "title": "Independence",
+   "text": "Declared on 9 July in Tucumán."
+  },
+  {
+   "year": "1817",
+   "title": "Crossing the Andes",
+   "text": "San Martín leads his army into Chile."
+  },
+  {
+   "year": "1853",
+   "title": "Constitution",
+   "text": "A national constitution is agreed."
+  },
+  {
+   "year": "1880s",
+   "title": "Mass immigration",
+   "text": "Millions arrive from Italy and Spain."
+  },
+  {
+   "year": "1946",
+   "title": "Perón elected",
+   "text": "The start of Peronism."
+  },
+  {
+   "year": "1976",
+   "title": "Dictatorship",
+   "text": "The last military government seizes power."
+  },
+  {
+   "year": "1982",
+   "title": "Falklands War",
+   "text": "Argentina loses the war with the UK."
+  },
+  {
+   "year": "1983",
+   "title": "Democracy returns",
+   "text": "Raúl Alfonsín is elected president."
+  },
+  {
+   "year": "2001",
+   "title": "Economic crisis",
+   "text": "Argentina defaults on its debts."
+  },
+  {
+   "year": "2013",
+   "title": "Pope Francis",
+   "text": "An Argentine becomes the first pope from the Americas."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Viceroyalty",
+   "meaning": "A large colony governed by a viceroy on behalf of the Spanish king."
+  },
+  {
+   "term": "Junta",
+   "meaning": "A group of military officers ruling a country after taking power by force."
+  },
+  {
+   "term": "The disappeared",
+   "meaning": "People secretly kidnapped and killed by the dictatorship, whose bodies were hidden."
+  },
+  {
+   "term": "Default",
+   "meaning": "When a government fails to pay back what it has borrowed."
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Most Argentines descend from European immigrants, especially Italians and Spaniards, and about a third of them live in and around Buenos Aires. They share a love of football, beef, mate and long, late dinners.",
+ "chapters": [
+  {
+   "id": "where",
+   "title": "Buenos Aires and beyond",
+   "text": [
+    "Greater Buenos Aires is home to about a third of all Argentines; people from the capital are called porteños, 'people of the port'. Other big cities include Córdoba, Rosario and Mendoza.",
+    "Much of Patagonia and the north is very thinly populated."
+   ]
+  },
+  {
+   "id": "origins",
+   "title": "A country of immigrants",
+   "text": [
+    "Waves of immigrants, above all from Italy and Spain, shaped modern Argentina, and many Argentines have Italian surnames and grandparents. Smaller numbers came from Germany, Britain, Wales, Eastern Europe and the Middle East, and today many immigrants come from neighbouring Paraguay and Bolivia and from Venezuela.",
+    "Indigenous peoples, such as the Mapuche, Qom and Wichí, number around a million, and Argentina also has an Afro-Argentine community whose history is often overlooked."
+   ],
+   "related": [
+    "ITA",
+    "ESP",
+    "PRY",
+    "BOL",
+    "VEN"
+   ]
+  },
+  {
+   "id": "language",
+   "title": "Spanish, Argentine style",
+   "text": [
+    "Argentines speak Spanish with a sing-song rhythm influenced by Italian, and use vos instead of tú for 'you'. Buenos Aires slang, lunfardo, borrows words from Italian dialects, and 'che' is a common way to get someone's attention, which is how Ernesto 'Che' Guevara got his nickname."
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Daily life",
+   "text": [
+    "People share mate, a bitter herbal tea, from a hollowed gourd through a metal straw, passing it round a group. Dinner often starts at 9 or 10 at night, and Sunday is for asado, a slow barbecue with family.",
+    "Most Argentines are Catholic. Public universities are free, and the University of Buenos Aires is one of the largest in Latin America."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Porteño",
+   "meaning": "Someone from Buenos Aires."
+  },
+  {
+   "term": "Mate",
+   "meaning": "A herbal tea drunk from a gourd through a metal straw called a bombilla."
+  }
+ ]
+}

@@ -1,0 +1,43 @@
+{
+ "status": "draft",
+ "intro": "Argentina has rich farmland, huge energy reserves and valuable minerals, but its economy has swung between booms and crises, with very high inflation for much of its recent history.",
+ "chapters": [
+  {
+   "id": "farming",
+   "title": "Breadbasket",
+   "text": [
+    "Argentina is one of the world's leading exporters of soybean products, beef, wheat and maize. Mendoza, at the foot of the Andes, is famous for its Malbec wine.",
+    "Farmers use advanced methods such as no-till farming and GPS-guided machines on the Pampas."
+   ]
+  },
+  {
+   "id": "resources",
+   "title": "Energy and lithium",
+   "text": [
+    "Vaca Muerta, in Patagonia, has one of the world's largest deposits of shale oil and gas. Argentina is part of the 'lithium triangle' with Chile and Bolivia, holding a large share of the world's lithium, needed for batteries."
+   ],
+   "related": [
+    "CHL",
+    "BOL"
+   ]
+  },
+  {
+   "id": "crises",
+   "title": "Booms and crises",
+   "text": [
+    "Argentina has failed to pay its government debts several times and has suffered bouts of extreme inflation, when prices rose so fast that shops changed price tags daily. Many people save in US dollars rather than pesos.",
+    "Mercado Libre, founded in Buenos Aires in 1999, is Latin America's biggest online shopping company. Argentina has also produced three Nobel Prize winners in science."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Inflation",
+   "meaning": "A general rise in prices, meaning money buys less."
+  },
+  {
+   "term": "Shale",
+   "meaning": "Rock that holds oil and gas, extracted by fracking."
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "status": "draft",
+ "intro": "Argentina stretches about 3,700 km from the subtropical north to the tip of South America near Antarctica. It has the highest mountain outside Asia, vast grasslands called the Pampas and the glaciers and steppe of Patagonia.",
+ "chapters": [
+  {
+   "id": "andes",
+   "title": "The Andes",
+   "text": [
+    "The Andes form Argentina's long western border with Chile, one of the longest borders in the world. Aconcagua, at the edge of Mendoza province, is the highest mountain in the Americas and the highest anywhere outside Asia.",
+    "Argentina also borders Bolivia, Paraguay, Brazil and Uruguay."
+   ],
+   "related": [
+    "CHL",
+    "BOL",
+    "PRY",
+    "BRA",
+    "URY"
+   ]
+  },
+  {
+   "id": "pampas",
+   "title": "The Pampas and the north",
+   "text": [
+    "The Pampas, flat and fertile grasslands around Buenos Aires, are some of the best farmland on Earth, grazed by cattle and planted with soy, wheat and maize.",
+    "In the north are the hot, dry forests of the Gran Chaco and colourful desert valleys in the Andes. On the border with Brazil, the Iguazú Falls are among the largest waterfalls in the world. The Río de la Plata, where Buenos Aires stands, is the widest river estuary on Earth."
+   ],
+   "related": [
+    "BRA",
+    "URY"
+   ]
+  },
+  {
+   "id": "patagonia",
+   "title": "Patagonia",
+   "text": [
+    "The south is Patagonia: windswept steppe, lakes and, in the Andes, huge icefields. The Perito Moreno Glacier stayed roughly the same size for decades while most glaciers shrank, though it has started thinning recently. Great chunks of ice regularly crash from its face into the lake below.",
+    "On the Valdés Peninsula southern right whales, sea lions and Magellanic penguins gather on the coast. Ushuaia, on the island of Tierra del Fuego, calls itself the southernmost city in the world and is the main port for ships to Antarctica."
+   ],
+   "highlight": {
+    "title": "Dinosaur giants",
+    "text": "Patagonia is one of the best places on Earth to find dinosaur fossils. Argentinosaurus, found there, may have been one of the largest land animals that ever lived."
+   }
+  },
+  {
+   "id": "claims",
+   "title": "Claims in the south",
+   "text": [
+    "Argentina claims the Falkland Islands (which it calls the Malvinas) and South Georgia, which are British Overseas Territories, as well as a slice of Antarctica that overlaps with British and Chilean claims."
+   ],
+   "related": [
+    "FLK",
+    "SGS",
+    "GBR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Steppe",
+   "meaning": "Large, dry, treeless grassland."
+  },
+  {
+   "term": "Glacier",
+   "meaning": "A slow-moving river of ice."
+  },
+  {
+   "term": "Estuary",
+   "meaning": "The wide mouth of a river where it meets the sea."
+  }
+ ]
+}

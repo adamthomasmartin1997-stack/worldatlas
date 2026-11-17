@@ -1,0 +1,66 @@
+{
+ "status": "draft",
+ "intro": "Argentina is a federal presidential republic of 23 provinces and the autonomous city of Buenos Aires. It has been a democracy since 1983.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "President and Congress",
+   "text": [
+    "The president is elected for four years and can serve two terms in a row. The president works from the Casa Rosada, the 'Pink House', in Buenos Aires.",
+    "Congress has a Chamber of Deputies, shared out by population, and a Senate with three senators from each province and the city of Buenos Aires. Voting is compulsory from 18 to 70, and 16- and 17-year-olds may vote if they wish."
+   ],
+   "facts": [
+    {
+     "label": "Provinces",
+     "value": "23 + Buenos Aires city"
+    },
+    {
+     "label": "President's term",
+     "value": "4 years"
+    },
+    {
+     "label": "Voting",
+     "value": "Compulsory 18-70; optional at 16-17"
+    }
+   ]
+  },
+  {
+   "id": "rights",
+   "title": "Rights and reforms",
+   "text": [
+    "In 2010 Argentina became the first country in Latin America to allow same-sex marriage, and abortion was legalised in 2020 after a huge campaign by young women wearing green scarves."
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Flag and national days",
+   "text": [
+    "The flag has light blue and white stripes with the golden Sun of May in the centre. National holidays include 25 May, for the May Revolution, and 9 July, Independence Day."
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Argentina in the world",
+   "text": [
+    "Argentina is a member of the G20 and a founding member of Mercosur. It continues to claim the Falkland Islands through diplomacy, and its relationships with neighbours such as Brazil and Chile are among the most important."
+   ],
+   "related": [
+    "BRA",
+    "CHL",
+    "URY",
+    "PRY",
+    "GBR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Province",
+   "meaning": "One of the large regions into which Argentina is divided, each with its own government."
+  },
+  {
+   "term": "Federal",
+   "meaning": "A system where power is shared between the national government and provinces or states."
+  }
+ ]
+}
