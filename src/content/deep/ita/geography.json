@@ -1,0 +1,60 @@
+{
+ "status": "draft",
+ "intro": "Italy is a boot-shaped peninsula reaching into the Mediterranean, with the Alps across its top, a mountainous spine down its middle and two big islands. It also has Europe's most famous volcanoes.",
+ "chapters": [
+  {
+   "id": "boot",
+   "title": "The boot",
+   "text": [
+    "Mainland Italy is shaped like a boot kicking a ball, the ball being Sicily, the largest island in the Mediterranean. Sardinia, the second-largest, lies to the west.",
+    "Italy borders France, Switzerland, Austria and Slovenia. Two tiny countries sit entirely inside it: San Marino and Vatican City, which is surrounded by the city of Rome. Four seas wash its coasts: the Ligurian, Tyrrhenian, Ionian and Adriatic."
+   ],
+   "related": [
+    "FRA",
+    "CHE",
+    "AUT",
+    "SVN",
+    "SMR",
+    "VAT"
+   ]
+  },
+  {
+   "id": "mountains",
+   "title": "Alps and Apennines",
+   "text": [
+    "The Alps form a great arc across the north, and the jagged pale peaks of the Dolomites are a World Heritage Site. Below the Alps lie beautiful lakes, including Garda, Como and Maggiore.",
+    "The Apennine mountains run down almost the whole length of the peninsula like a spine. Between the Alps and the Apennines lies the Po Valley, Italy's largest plain, flat, fertile and full of farms, factories and cities."
+   ]
+  },
+  {
+   "id": "volcanoes",
+   "title": "Volcanoes and earthquakes",
+   "text": [
+    "Italy sits where the African and Eurasian plates push together. Vesuvius, above Naples, is the only active volcano on mainland Europe. Etna in Sicily is Europe's highest active volcano and erupts often, and Stromboli, on a small island, has been erupting almost constantly for thousands of years.",
+    "Earthquakes are common, especially along the Apennines, and older towns have been badly damaged several times in recent decades."
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate and water",
+   "text": [
+    "Most coasts have a Mediterranean climate, with hot, dry summers and mild, wet winters, perfect for olives, lemons and grapes. The Po Valley has colder, foggier winters, and the Alps are snowy.",
+    "Italy's longest river is the Po. Venice is built on more than a hundred small islands in a lagoon; when exceptionally high tides flood its streets, movable barriers at the lagoon's entrances, used since 2020, can now be raised to hold back the sea."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Peninsula",
+   "meaning": "Land surrounded by water on three sides."
+  },
+  {
+   "term": "Lagoon",
+   "meaning": "A shallow stretch of sea water separated from the open sea by sandbanks or islands."
+  },
+  {
+   "term": "Enclave",
+   "meaning": "A country or area completely surrounded by another country."
+  }
+ ]
+}

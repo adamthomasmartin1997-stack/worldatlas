@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Italy has been a parliamentary republic since 1946. Its governments have often changed quickly, but the constitution, the president and the regions give the system stability.",
+ "chapters": [
+  {
+   "id": "republic",
+   "title": "A parliamentary republic",
+   "text": [
+    "The constitution of 1948 was written to prevent a return to dictatorship, so it spreads power widely. The President, elected by parliament and regional representatives for seven years, is head of state, appoints the prime minister and can dissolve parliament.",
+    "Parliament has two chambers with almost equal powers: the Chamber of Deputies, with 400 members, and the Senate, with 200 elected senators plus a few appointed for life. The government needs the confidence of both."
+   ],
+   "facts": [
+    {
+     "label": "President's term",
+     "value": "7 years"
+    },
+    {
+     "label": "Deputies",
+     "value": "400"
+    },
+    {
+     "label": "Elected senators",
+     "value": "200"
+    },
+    {
+     "label": "Regions",
+     "value": "20"
+    }
+   ]
+  },
+  {
+   "id": "governments",
+   "title": "Many governments",
+   "text": [
+    "Because coalitions of several parties often fall apart, Italy has had almost 70 governments since 1946. Prime ministers come and go, but the civil service, courts and President provide continuity."
+   ]
+  },
+  {
+   "id": "regions",
+   "title": "Regions",
+   "text": [
+    "Italy has 20 regions. Five have special autonomy with extra powers: Sicily, Sardinia, Aosta Valley, Trentino-South Tyrol and Friuli-Venezia Giulia, mostly because of their distinct languages or island geography."
+   ]
+  },
+  {
+   "id": "mafia",
+   "title": "Fighting the Mafia",
+   "text": [
+    "Organised crime groups, such as the Mafia (Cosa Nostra) in Sicily, the 'Ndrangheta in Calabria and the Camorra in Naples, have long used violence and corruption to control businesses and politicians in parts of the south.",
+    "Brave judges, police, journalists and ordinary citizens have fought back. In the 'Maxi Trial' of 1986 and 1987 hundreds of Mafia members were put on trial at once, and today land seized from crime bosses is often given to cooperatives to farm."
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols and the world",
+   "text": [
+    "The flag is the tricolore of green, white and red, and the anthem, Il Canto degli Italiani, was written in 1847. Republic Day, 2 June, marks the 1946 referendum.",
+    "Italy is a founding member of the EU and NATO and a member of the G7."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Head of state",
+   "meaning": "The person who represents the country, such as a president or monarch."
+  },
+  {
+   "term": "Organised crime",
+   "meaning": "Criminal groups that run illegal businesses over long periods, often using violence and bribery."
+  }
+ ]
+}

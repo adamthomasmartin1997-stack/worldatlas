@@ -1,0 +1,48 @@
+{
+ "status": "draft",
+ "intro": "Italy gave the world the Renaissance, opera, pizza and espresso. Its art, music, food and style are admired and copied everywhere.",
+ "chapters": [
+  {
+   "id": "art",
+   "title": "Art and architecture",
+   "text": [
+    "Italy is packed with masterpieces, from Roman ruins such as the Colosseum to Renaissance paintings in Florence's Uffizi Gallery and Michelangelo's ceiling in the Sistine Chapel.",
+    "The Leaning Tower of Pisa began to tilt while it was still being built in the 1100s because the ground underneath was too soft. Engineers stopped it from leaning further around 2000."
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music and opera",
+   "text": [
+    "Opera was born in Italy around 1600, and composers such as Giuseppe Verdi and Giacomo Puccini wrote some of the most performed operas in the world. La Scala in Milan is one of the most famous opera houses.",
+    "Many words used in music everywhere are Italian, such as piano, forte, tempo and soprano. The piano and the violin as we know them were developed in Italy, and Antonio Stradivari's violins are among the most valuable instruments ever made. More recently, the rock band Måneskin won Eurovision in 2021."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Every region has its own dishes: risotto and polenta in the north, pasta of hundreds of shapes, and pizza from Naples, whose pizza-making tradition is on UNESCO's heritage list. Gelato, tiramisu and espresso are loved worldwide.",
+    "Italians take food seriously: meals are long and shared, and many people would never drink a cappuccino after late morning."
+   ]
+  },
+  {
+   "id": "stories",
+   "title": "Stories, films and festivals",
+   "text": [
+    "Dante's Divine Comedy, written in the early 1300s, is a journey through Hell, Purgatory and Heaven and a founding work of the Italian language. Pinocchio, the wooden puppet whose nose grows when he lies, was created by Carlo Collodi in 1883.",
+    "The Venice Film Festival, first held in 1932, is the oldest in the world. In Venice's Carnival people wear elaborate masks, and twice every summer the Palio of Siena sends horses racing around the city's main square."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Opera",
+   "meaning": "A play in which the story is told mostly through singing, with an orchestra."
+  },
+  {
+   "term": "Fresco",
+   "meaning": "A painting made on wet plaster, like the Sistine Chapel ceiling."
+  }
+ ]
+}

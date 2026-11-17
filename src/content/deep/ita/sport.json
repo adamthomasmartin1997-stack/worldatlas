@@ -1,0 +1,46 @@
+{
+ "status": "draft",
+ "intro": "Football is Italy's great passion, but Italians are also champions in cycling, motor racing, tennis, volleyball and winter sports, and Ferrari is the most famous name in Formula One.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Calcio",
+   "text": [
+    "Italy's men have won the World Cup four times, in 1934, 1938, 1982 and 2006, and the European Championship in 1968 and 2021. The team is famous for strong defending and wears blue shirts, giving it the nickname the Azzurri.",
+    "Serie A is one of the world's top leagues, with clubs such as Juventus, AC Milan, Inter, Napoli and Roma. Derbies between city rivals, like Milan against Inter, divide whole families."
+   ]
+  },
+  {
+   "id": "racing",
+   "title": "Ferrari and the Giro",
+   "text": [
+    "Ferrari is the oldest and most successful team in Formula One, and its red cars are cheered by the 'tifosi' (fans) at the Italian Grand Prix at Monza. In motorbike racing, Valentino Rossi won nine world championships.",
+    "The Giro d'Italia, first held in 1909, is one of cycling's three great tours. Its leader wears a pink jersey, the maglia rosa, the colour of the newspaper that started the race."
+   ]
+  },
+  {
+   "id": "tennis",
+   "title": "Tennis and volleyball",
+   "text": [
+    "Jannik Sinner, from South Tyrol, became world number one in 2024 and has won several Grand Slam titles, including Wimbledon in 2025, and Italy won the Davis Cup in 2023 and 2024. Italy's women won Olympic volleyball gold at Paris 2024."
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympic Games",
+   "text": [
+    "Rome hosted the Summer Olympics in 1960. Turin hosted the Winter Olympics in 2006, and Milan and Cortina d'Ampezzo co-hosted the Winter Games in 2026. Italy has produced great skiers, such as Alberto Tomba and Federica Brignone."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Azzurri",
+   "meaning": "'The Blues', the nickname of Italy's national teams."
+  },
+  {
+   "term": "Tifosi",
+   "meaning": "Italian for passionate sports fans."
+  }
+ ]
+}

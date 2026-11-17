@@ -1,0 +1,71 @@
+{
+ "status": "draft",
+ "intro": "Italians are known for close family ties, strong local pride and a love of food. Italy's population is one of the oldest in the world, and differences between the richer north and poorer south run deep.",
+ "chapters": [
+  {
+   "id": "regions",
+   "title": "North and south",
+   "text": [
+    "Rome, Milan, Naples and Turin are the biggest cities. The north, around Milan and Turin, is the industrial and financial heartland and much richer than the south, known as the Mezzogiorno, where unemployment is higher.",
+    "Italians often feel loyal first to their town or region, a feeling called campanilismo, from campanile, the local church bell tower."
+   ]
+  },
+  {
+   "id": "language",
+   "title": "Language",
+   "text": [
+    "Modern Italian grew from the dialect of Florence, the language of the poet Dante. At unification only a small minority spoke it; most people used local languages such as Neapolitan, Sicilian, Venetian or Sardinian, many of which are still spoken at home.",
+    "German is an official language in South Tyrol, near Austria, and French in the Aosta Valley. Italian hand gestures are famous: many Italians can hold a whole conversation with their hands."
+   ],
+   "related": [
+    "AUT",
+    "FRA"
+   ]
+  },
+  {
+   "id": "migration",
+   "title": "Emigrants and immigrants",
+   "text": [
+    "For a century Italy was a land of emigrants, and tens of millions of people around the world, especially in the Americas and Australia, have Italian ancestors.",
+    "Since the 1990s Italy has become a destination for immigrants, from Romania, Albania, Morocco, China, Ukraine and elsewhere. Many migrants from Africa try to cross the Mediterranean to the Italian island of Lampedusa, and the crossing has claimed thousands of lives."
+   ],
+   "related": [
+    "USA",
+    "ARG",
+    "BRA",
+    "AUS",
+    "ROU",
+    "ALB",
+    "MAR"
+   ]
+  },
+  {
+   "id": "family",
+   "title": "Family and faith",
+   "text": [
+    "Most Italians are Roman Catholic, and the Pope lives in Vatican City in Rome, though fewer people go to Mass than in the past. Family is central: grandparents often help raise grandchildren, and many young adults live with their parents until around 30.",
+    "Italy has one of the lowest birth rates in the world and one of the oldest populations, and many villages are shrinking."
+   ],
+   "related": [
+    "VAT"
+   ]
+  },
+  {
+   "id": "school",
+   "title": "Growing up in Italy",
+   "text": [
+    "After primary and middle school, teenagers choose between different kinds of secondary school, such as a liceo classico, focused on Latin and Greek, a liceo scientifico, or a technical school. At 18 or 19 they sit the maturità exam, which includes an oral exam in front of a panel of teachers."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mezzogiorno",
+   "meaning": "The south of Italy, including Sicily and Sardinia."
+  },
+  {
+   "term": "Dialect",
+   "meaning": "A local form of a language; in Italy many 'dialects' are separate languages."
+  }
+ ]
+}

@@ -1,0 +1,184 @@
+{
+ "status": "draft",
+ "intro": "Italy was the heart of the Roman Empire and the birthplace of the Renaissance, yet it only became a single country in 1861. Its history is one of brilliant cities, foreign rulers, unification, dictatorship and a modern democratic republic.",
+ "chapters": [
+  {
+   "id": "rome",
+   "title": "Rome rises",
+   "text": [
+    "Before Rome, the Etruscans ruled much of central Italy and Greek colonies dotted the south. Legend says Rome was founded in 753 BC by the twins Romulus and Remus, raised by a she-wolf.",
+    "Rome became a republic in 509 BC, governed by elected officials and a Senate. It conquered Italy and then fought Carthage, in North Africa, for control of the Mediterranean; in 218 BC the Carthaginian general Hannibal famously crossed the Alps with war elephants.",
+    "After Julius Caesar was murdered in 44 BC, his adopted son Augustus became the first emperor. At its height the Roman Empire stretched from Britain to Egypt and Iraq, linked by roads, laws and the Latin language."
+   ],
+   "highlight": {
+    "title": "Frozen in time",
+    "text": "In AD 79 the volcano Vesuvius buried the town of Pompeii in ash. Its streets, houses, paintings and even loaves of bread were preserved, giving us an extraordinary picture of Roman daily life."
+   },
+   "related": [
+    "TUN",
+    "GBR",
+    "EGY",
+    "FRA",
+    "GRC"
+   ]
+  },
+  {
+   "id": "city-states",
+   "title": "Popes and city-states",
+   "text": [
+    "The Western Roman Empire collapsed in 476. For more than 1,300 years after that, Italy was divided. The Pope ruled central Italy as a king, and northern cities such as Venice, Genoa, Florence and Milan grew rich as independent city-states.",
+    "Venice and Genoa built trading empires across the Mediterranean, and the Venetian merchant Marco Polo travelled to China in the 1270s."
+   ],
+   "related": [
+    "CHN",
+    "VAT"
+   ]
+  },
+  {
+   "id": "renaissance",
+   "title": "The Renaissance",
+   "text": [
+    "From the 1300s, scholars and artists in Florence began looking back to ancient Greece and Rome for ideas. This 'rebirth', the Renaissance, spread across Europe and changed art, science and thinking.",
+    "Rich families such as the Medici paid for the work of artists like Leonardo da Vinci, Michelangelo, who carved David and painted the Sistine Chapel ceiling, and Raphael. Later, Galileo Galilei used a telescope to show that Earth goes around the Sun, and was put on trial by the Church for it.",
+    "Italian explorers sailed for other countries: Christopher Columbus from Genoa sailed for Spain in 1492, and America is named after the Florentine Amerigo Vespucci."
+   ],
+   "related": [
+    "ESP",
+    "USA"
+   ]
+  },
+  {
+   "id": "unification",
+   "title": "Making Italy",
+   "text": [
+    "From the 1500s much of Italy was ruled by Spain, Austria or France. In the 1800s a movement called the Risorgimento ('resurgence') fought for a united Italy.",
+    "In 1860 the soldier Giuseppe Garibaldi and his 'Thousand' red-shirted volunteers conquered Sicily and Naples. In 1861 the Kingdom of Italy was proclaimed, and Rome became its capital in 1871.",
+    "Between the 1880s and the 1920s millions of Italians, many from the poor south, emigrated to the United States, Argentina, Brazil and Australia."
+   ],
+   "highlight": {
+    "title": "A famous line",
+    "text": "After unification, a politician is said to have remarked: 'We have made Italy; now we must make Italians.' Most people still spoke local dialects rather than Italian."
+   },
+   "related": [
+    "AUT",
+    "FRA",
+    "USA",
+    "ARG",
+    "BRA",
+    "AUS"
+   ]
+  },
+  {
+   "id": "fascism",
+   "title": "Fascism and war",
+   "text": [
+    "In 1922 Benito Mussolini and his Fascist Party took power and turned Italy into a dictatorship. He invaded Ethiopia in 1935 and joined Hitler in the Second World War.",
+    "In 1943 Allied forces landed in Sicily, Mussolini was overthrown, and Italy changed sides. Partisans fought the German occupiers in the north, and in 1945 Mussolini was captured and killed."
+   ],
+   "related": [
+    "DEU",
+    "ETH",
+    "LBY"
+   ]
+  },
+  {
+   "id": "republic",
+   "title": "The republic",
+   "text": [
+    "On 2 June 1946 Italians voted in a referendum to abolish the monarchy, and women voted for the first time in a national vote. The new constitution came into force in 1948.",
+    "Italy was a founding member of NATO and of what became the European Union; the Treaty of Rome was signed there in 1957. An 'economic miracle' in the 1950s and 1960s turned it into a modern industrial nation.",
+    "Italy has fought a long battle against organised crime: the murders of the anti-Mafia judges Giovanni Falcone and Paolo Borsellino in 1992 shocked the country. In 2022 Giorgia Meloni became Italy's first female prime minister."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "753 BC",
+   "title": "Rome founded",
+   "text": "According to legend, by Romulus."
+  },
+  {
+   "year": "509 BC",
+   "title": "Roman Republic",
+   "text": "Rome expels its last king."
+  },
+  {
+   "year": "44 BC",
+   "title": "Caesar killed",
+   "text": "Julius Caesar is assassinated in the Senate."
+  },
+  {
+   "year": "27 BC",
+   "title": "First emperor",
+   "text": "Augustus becomes Rome's first emperor."
+  },
+  {
+   "year": "79",
+   "title": "Pompeii",
+   "text": "Vesuvius buries Pompeii and Herculaneum."
+  },
+  {
+   "year": "476",
+   "title": "Fall of Rome",
+   "text": "The last western Roman emperor is deposed."
+  },
+  {
+   "year": "c. 1400",
+   "title": "Renaissance",
+   "text": "Florence leads a rebirth of art and learning."
+  },
+  {
+   "year": "1492",
+   "title": "Columbus",
+   "text": "The Genoese explorer reaches the Americas."
+  },
+  {
+   "year": "1861",
+   "title": "Kingdom of Italy",
+   "text": "Italy is unified under King Victor Emmanuel II."
+  },
+  {
+   "year": "1922",
+   "title": "Mussolini",
+   "text": "The Fascists take power."
+  },
+  {
+   "year": "1946",
+   "title": "Republic",
+   "text": "Italians vote to abolish the monarchy."
+  },
+  {
+   "year": "1957",
+   "title": "Treaty of Rome",
+   "text": "The European Economic Community is founded."
+  },
+  {
+   "year": "1992",
+   "title": "Anti-Mafia judges killed",
+   "text": "Falcone and Borsellino are murdered in Sicily."
+  },
+  {
+   "year": "2022",
+   "title": "Giorgia Meloni",
+   "text": "Italy's first female prime minister."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Republic",
+   "meaning": "In ancient Rome, a system where elected officials and a Senate ruled instead of a king."
+  },
+  {
+   "term": "Renaissance",
+   "meaning": "French for 'rebirth': the flowering of art and learning that began in Italy in the 1300s."
+  },
+  {
+   "term": "Risorgimento",
+   "meaning": "The movement that unified Italy in the 1800s."
+  },
+  {
+   "term": "Fascism",
+   "meaning": "A far-right system of government with one all-powerful leader and no tolerance of opposition."
+  }
+ ]
+}

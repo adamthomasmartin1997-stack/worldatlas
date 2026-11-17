@@ -1,0 +1,45 @@
+{
+ "status": "draft",
+ "intro": "Italy has one of Europe's largest economies, famous for fashion, design, cars, food and tourism. Its prosperous north contrasts with a poorer south, and growth has been slow for decades.",
+ "chapters": [
+  {
+   "id": "made-in-italy",
+   "title": "Made in Italy",
+   "text": [
+    "Italian brands stand for style and quality: fashion houses such as Gucci, Prada, Armani and Versace; sports cars from Ferrari, Lamborghini and Maserati; Ducati motorbikes and Vespa scooters.",
+    "Much of Italian industry is made up of small and medium-sized family firms grouped in districts, each specialising in something, such as shoes, tiles, eyeglasses or furniture."
+   ]
+  },
+  {
+   "id": "food-tourism",
+   "title": "Food, wine and tourism",
+   "text": [
+    "Italy is one of the world's biggest wine producers and is famous for olive oil, pasta, Parmigiano Reggiano cheese, Parma ham and coffee. Many products have protected names that guarantee where they come from.",
+    "Italy has more UNESCO World Heritage Sites than any other country, and tens of millions of tourists visit Rome, Venice, Florence and its coasts every year. In some places, such as Venice, there are so many visitors that the city has started charging day-trippers an entry fee."
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "Italy's economy has grown very slowly since the 1990s, and its government debt is one of the highest in Europe. Many young graduates move abroad to find good jobs, a 'brain drain', and the population is ageing fast.",
+    "The south still has much higher unemployment and lower incomes than the north. Italy's biggest trading partners are Germany, France and the United States."
+   ],
+   "related": [
+    "DEU",
+    "FRA",
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Brain drain",
+   "meaning": "When educated, skilled people leave a country to work abroad."
+  },
+  {
+   "term": "Government debt",
+   "meaning": "Money a government has borrowed and must pay back with interest."
+  }
+ ]
+}
