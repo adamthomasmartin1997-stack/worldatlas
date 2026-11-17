@@ -1,0 +1,66 @@
+{
+ "status": "draft",
+ "intro": "Mexico links North and Central America. It has two great mountain ranges, a high central plateau, deserts in the north, rainforest in the south, active volcanoes and coasts on two oceans.",
+ "chapters": [
+  {
+   "id": "shape",
+   "title": "Between two oceans",
+   "text": [
+    "Mexico borders the United States to the north and Guatemala and Belize to the south. Its coasts face the Pacific Ocean to the west and the Gulf of Mexico and Caribbean Sea to the east, and two long peninsulas stick out: Baja California in the north-west and the Yucatán in the south-east.",
+    "The US border, about 3,100 km long, is one of the most crossed borders in the world."
+   ],
+   "related": [
+    "USA",
+    "GTM",
+    "BLZ"
+   ]
+  },
+  {
+   "id": "land",
+   "title": "Mountains, plateau and volcanoes",
+   "text": [
+    "Two mountain ranges, the Sierra Madre Occidental and Oriental, run down either side of the country, with a high plateau between them where most people live. Mexico City lies in a high valley at about 2,240 m above sea level.",
+    "A belt of volcanoes crosses central Mexico. Pico de Orizaba is the highest mountain, and Popocatépetl, near Mexico City, often puffs ash. In 1943 a new volcano, Parícutin, rose out of a farmer's cornfield and grew more than 300 m tall in a year.",
+    "In the north are the Chihuahuan and Sonoran deserts, and the Copper Canyon system, parts of which are deeper than the Grand Canyon."
+   ]
+  },
+  {
+   "id": "yucatan",
+   "title": "The Yucatán",
+   "text": [
+    "The flat Yucatán peninsula is made of limestone and has almost no rivers on the surface. Instead, water flows underground and appears in thousands of cenotes, natural sinkholes that the Maya saw as entrances to the underworld.",
+    "Off its northern coast, buried under rock, lies the Chicxulub crater, left by the asteroid that hit Earth 66 million years ago and wiped out the dinosaurs."
+   ],
+   "highlight": {
+    "title": "A record-breaking crater",
+    "text": "The Chicxulub crater is about 180 km wide, one of the largest impact craters known on Earth."
+   }
+  },
+  {
+   "id": "nature",
+   "title": "Wildlife",
+   "text": [
+    "Mexico is one of the most biodiverse countries on Earth, with an especially large number of reptiles. Each winter, millions of monarch butterflies fly up to 4,000 km from Canada and the US to spend the winter in the fir forests of central Mexico.",
+    "The axolotl, a salamander that can regrow its limbs, lives in the wild only in the canals of Xochimilco in Mexico City, and is critically endangered."
+   ],
+   "related": [
+    "CAN",
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cenote",
+   "meaning": "A natural sinkhole filled with underground water, common in the Yucatán."
+  },
+  {
+   "term": "Impact crater",
+   "meaning": "A hollow made when a space rock hits a planet."
+  },
+  {
+   "term": "Biodiversity",
+   "meaning": "The variety of living things in a place."
+  }
+ ]
+}

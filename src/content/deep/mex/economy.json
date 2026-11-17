@@ -1,0 +1,43 @@
+{
+ "status": "draft",
+ "intro": "Mexico has one of the largest economies in Latin America. Closely tied to the United States, it is a giant manufacturer of cars and electronics, a major farm exporter and a top tourist destination.",
+ "chapters": [
+  {
+   "id": "factories",
+   "title": "Factories for North America",
+   "text": [
+    "Since the free trade deal with the US and Canada in 1994, factories have boomed, especially near the US border. Mexico is one of the world's biggest car exporters and makes TVs, computers, medical devices and aircraft parts.",
+    "In 2023 Mexico became the United States' biggest trading partner, and many companies have moved production there from Asia to be closer to American customers, a trend called nearshoring."
+   ],
+   "related": [
+    "USA",
+    "CAN"
+   ]
+  },
+  {
+   "id": "land",
+   "title": "Farms, mines and oil",
+   "text": [
+    "Mexico is the world's largest producer of avocados and silver, and a major exporter of tomatoes, berries, beer and tequila, which can only come from Jalisco and a few nearby areas. The state oil company, Pemex, is one of the largest companies in Latin America."
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism and challenges",
+   "text": [
+    "Tourists flock to Cancún and the Riviera Maya, Mayan ruins, colonial cities and Mexico City. Money sent home by Mexicans working abroad is another huge source of income.",
+    "About half of Mexican workers have informal jobs without contracts or benefits, and the south is much poorer than the north. The currency is the Mexican peso."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Nearshoring",
+   "meaning": "Moving production to a country close to where the products are sold."
+  },
+  {
+   "term": "Remittances",
+   "meaning": "Money sent home by people working in another country."
+  }
+ ]
+}

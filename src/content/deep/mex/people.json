@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Mexico has more Spanish speakers than any other country, but it is also home to dozens of Indigenous peoples and languages, and its culture is shaped by both.",
+ "chapters": [
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Greater Mexico City is one of the largest urban areas in the world, with more than 20 million people. Other big cities include Guadalajara, Monterrey and Puebla.",
+    "Mexico City was built on a drained lake bed, and parts of it sink by several centimetres a year as water is pumped from below."
+   ]
+  },
+  {
+   "id": "peoples",
+   "title": "Many peoples",
+   "text": [
+    "Most Mexicans are mestizo, of mixed Indigenous and European descent. Millions of people belong to Indigenous peoples such as the Nahua, Maya, Zapotec and Mixtec, and the government recognises 68 Indigenous languages as national languages alongside Spanish. Nahuatl, the language of the Aztecs, has more than a million speakers.",
+    "English words such as chocolate, tomato, avocado, chilli and coyote all come from Nahuatl."
+   ]
+  },
+  {
+   "id": "faith",
+   "title": "Faith and family",
+   "text": [
+    "Mexico has one of the largest Catholic populations in the world. The Basilica of Our Lady of Guadalupe in Mexico City is one of the most visited Catholic shrines on Earth, and the Virgin of Guadalupe is a symbol of Mexico itself.",
+    "Family is at the centre of life. At 15, many girls celebrate a quinceañera, a big party marking the step into adulthood."
+   ]
+  },
+  {
+   "id": "migration",
+   "title": "Mexicans abroad",
+   "text": [
+    "Tens of millions of people of Mexican descent live in the United States, and money they send home to their families is a big part of Mexico's economy. Mexico is also a country that migrants from Central America and elsewhere cross on the way north."
+   ],
+   "related": [
+    "USA",
+    "GTM",
+    "HND",
+    "SLV"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Quinceañera",
+   "meaning": "A celebration of a girl's 15th birthday in Mexico and Latin America."
+  },
+  {
+   "term": "Nahuatl",
+   "meaning": "The language of the Aztecs, still spoken by over a million Mexicans."
+  }
+ ]
+}

@@ -1,0 +1,47 @@
+{
+ "status": "draft",
+ "intro": "Football is Mexico's favourite sport, and in 2026 the Estadio Azteca became the first stadium to host three World Cup opening matches. Mexico also loves boxing, baseball and lucha libre.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Mexico hosted the World Cup in 1970 and 1986 and co-hosted it with the US and Canada in 2026. The national team is nicknamed El Tri, after the three colours of the flag, and Mexico's men won Olympic football gold in 2012, beating Brazil in the final.",
+    "Liga MX is one of the best-attended leagues in the Americas, and the 'Clásico' between Club América and Chivas of Guadalajara is the biggest rivalry."
+   ],
+   "related": [
+    "USA",
+    "CAN",
+    "BRA"
+   ]
+  },
+  {
+   "id": "boxing",
+   "title": "Boxing and baseball",
+   "text": [
+    "Mexico has produced many world boxing champions, from Julio César Chávez to Saúl 'Canelo' Álvarez. Baseball is popular in the north and on the coasts, and the pitcher Fernando Valenzuela caused 'Fernandomania' in the US in 1981."
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics and more",
+   "text": [
+    "Mexico City hosted the 1968 Olympics, the first in Latin America. Its thin, high-altitude air helped Bob Beamon smash the long jump world record, and two Black American sprinters raised their fists on the podium in a famous protest against racism.",
+    "Charrería, Mexico's traditional horse-riding sport, is on UNESCO's heritage list, and racing driver Sergio 'Checo' Pérez won several Formula One races."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "El Tri",
+   "meaning": "Nickname of Mexico's national football team, from 'tricolour'."
+  },
+  {
+   "term": "Charrería",
+   "meaning": "Mexican rodeo, with skilled riding and roping by charros."
+  }
+ ]
+}

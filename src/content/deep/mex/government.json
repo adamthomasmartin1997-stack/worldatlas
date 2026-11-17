@@ -1,0 +1,64 @@
+{
+ "status": "draft",
+ "intro": "Mexico, officially the United Mexican States, is a federal presidential republic of 31 states and Mexico City. Its presidents serve a single six-year term and can never be re-elected.",
+ "chapters": [
+  {
+   "id": "president",
+   "title": "One term only",
+   "text": [
+    "The president is elected for one six-year term, called a sexenio, and can never run again. The rule was a reaction to the long dictatorship of Porfirio Díaz, whose re-elections helped spark the revolution. Claudia Sheinbaum of the Morena party took office in 2024.",
+    "Congress has a Chamber of Deputies with 500 members and a Senate with 128. In 2025 Mexico became one of the few countries to elect its judges, including Supreme Court justices, by popular vote."
+   ],
+   "facts": [
+    {
+     "label": "President's term",
+     "value": "6 years, once only"
+    },
+    {
+     "label": "States",
+     "value": "31 + Mexico City"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Security",
+   "text": [
+    "Powerful drug cartels control parts of the country, and violence, kidnappings and disappearances are serious problems. The army has taken on a large role in policing, which is controversial."
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Flag and symbols",
+   "text": [
+    "The flag is green, white and red with an eagle perched on a cactus, eating a snake. It comes from the Aztec legend that their god told them to build their city where they saw this sign, which they found on an island in Lake Texcoco.",
+    "On the night of 15 September, the president rings a bell and repeats Hidalgo's 'cry' of independence from the National Palace, and crowds celebrate across the country."
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Mexico in the world",
+   "text": [
+    "Mexico's relationship with the United States, its neighbour and biggest trading partner, dominates its foreign policy, from trade and migration to security. It is a member of the G20 and has strong ties across Latin America."
+   ],
+   "related": [
+    "USA",
+    "CAN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sexenio",
+   "meaning": "Mexico's six-year presidential term."
+  },
+  {
+   "term": "Cartel",
+   "meaning": "A powerful criminal organisation, especially one that smuggles drugs."
+  }
+ ]
+}

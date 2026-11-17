@@ -1,0 +1,47 @@
+{
+ "status": "draft",
+ "intro": "Mexican culture blends Indigenous and Spanish traditions into something unique and colourful, from the Day of the Dead and mariachi music to a cuisine that UNESCO protects as world heritage.",
+ "chapters": [
+  {
+   "id": "day-of-the-dead",
+   "title": "Day of the Dead",
+   "text": [
+    "On 1 and 2 November, families welcome back the spirits of loved ones for Día de Muertos. They build ofrendas (altars) with photos, candles, favourite foods and orange marigolds, and visit and decorate graves. Sugar skulls and the elegant skeleton figure La Catrina are its symbols.",
+    "It is a joyful celebration of memory, not a sad one, and is on UNESCO's list of intangible heritage. The Pixar film Coco brought it to audiences worldwide."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "In 2010 traditional Mexican cuisine became one of the first national cuisines added to UNESCO's heritage list. It is built on corn, beans and chilli: tortillas, tacos, tamales, enchiladas and pozole are everyday favourites.",
+    "Mole, a rich sauce that can contain dozens of ingredients including chillies and chocolate, is a speciality of Puebla and Oaxaca."
+   ]
+  },
+  {
+   "id": "arts",
+   "title": "Art and music",
+   "text": [
+    "In the 1920s and 1930s, painters such as Diego Rivera, José Clemente Orozco and David Alfaro Siqueiros covered public buildings with huge murals telling Mexico's history. Frida Kahlo's vivid self-portraits made her one of the world's most famous artists.",
+    "Mariachi bands, with violins, trumpets and guitars and wearing charro suits, play at celebrations everywhere. Directors Guillermo del Toro, Alfonso Cuarón and Alejandro González Iñárritu have between them won the Oscar for best director five times."
+   ]
+  },
+  {
+   "id": "fun",
+   "title": "Lucha libre and fiestas",
+   "text": [
+    "Lucha libre is acrobatic professional wrestling with masked heroes and villains; many wrestlers never reveal their faces in public. Piñatas filled with sweets are smashed at birthday parties and Christmas posadas."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ofrenda",
+   "meaning": "An altar with offerings for the dead, made for the Day of the Dead."
+  },
+  {
+   "term": "Mural",
+   "meaning": "A large painting made directly on a wall."
+  }
+ ]
+}

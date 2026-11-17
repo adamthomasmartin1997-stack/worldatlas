@@ -1,0 +1,172 @@
+{
+ "status": "draft",
+ "intro": "Mexico was home to great civilisations such as the Olmecs, Maya and Aztecs long before the Spanish conquest. After 300 years as New Spain it won independence in 1821, lost half its land to the United States, and was reshaped by a revolution in the 1910s.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Olmecs, Maya and Teotihuacan",
+   "text": [
+    "The Olmecs, who flourished on the Gulf coast from about 1200 BC, carved giant stone heads up to three metres tall. Many later Mexican cultures built on their ideas, such as the ball game and a calendar.",
+    "The Maya, in the south and the Yucatán peninsula, built cities of stone pyramids such as Palenque and Chichén Itzá. They developed a full writing system, accurate calendars and a symbol for zero.",
+    "Near today's Mexico City, the city of Teotihuacan, with its huge Pyramid of the Sun, may have had 100,000 people around AD 500, one of the largest cities in the world at the time."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Mexico gave the world corn (maize), tomatoes, chillies, avocados, beans, chocolate and vanilla, all first farmed by its ancient peoples."
+   },
+   "related": [
+    "GTM",
+    "BLZ",
+    "HND"
+   ]
+  },
+  {
+   "id": "aztecs",
+   "title": "The Aztecs and the conquest",
+   "text": [
+    "In 1325 the Mexica, better known as the Aztecs, founded Tenochtitlan on an island in Lake Texcoco. By 1500 it was one of the largest cities in the world, with canals, causeways, floating gardens and great temples, and the Aztecs ruled an empire that collected tribute from many peoples.",
+    "In 1519 the Spanish conquistador Hernán Cortés arrived with a few hundred soldiers. Joined by tens of thousands of Indigenous allies who hated Aztec rule, especially from Tlaxcala, and helped by a smallpox epidemic, he captured Tenochtitlan in 1521."
+   ],
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "new-spain",
+   "title": "New Spain",
+   "text": [
+    "For three centuries Mexico was the heart of New Spain. Mexico City was built on the ruins of Tenochtitlan, and silver from mines such as Zacatecas and Taxco made Spain rich.",
+    "Indigenous people were forced to work for Spanish landowners, and diseases killed most of the population in the 1500s. Catholicism spread, and a mixed, or mestizo, society slowly formed."
+   ],
+   "related": [
+    "ESP",
+    "PHL"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence and lost lands",
+   "text": [
+    "On 16 September 1810 the priest Miguel Hidalgo rang his church bell in the town of Dolores and called on people to rise against Spanish rule. He was executed, but Mexico won independence in 1821.",
+    "Texas broke away in 1836, and after losing a war with the United States (1846 to 1848) Mexico gave up about half its territory, including California, Arizona and New Mexico.",
+    "France invaded in the 1860s and made an Austrian archduke, Maximilian, emperor. On 5 May 1862 Mexican forces won a famous victory at Puebla, remembered as Cinco de Mayo, and in 1867 the Republic under Benito Juárez, a Zapotec and Mexico's first Indigenous president, defeated the French."
+   ],
+   "related": [
+    "USA",
+    "FRA",
+    "AUT"
+   ]
+  },
+  {
+   "id": "revolution",
+   "title": "The Mexican Revolution",
+   "text": [
+    "Porfirio Díaz ruled as a dictator from 1876 to 1911. Railways and mines grew, but most land belonged to a few rich families. In 1910 the Mexican Revolution broke out, with leaders such as Emiliano Zapata, who demanded 'land and liberty' for peasants, and Pancho Villa in the north.",
+    "The fighting lasted a decade and killed perhaps a million people. The 1917 constitution, still in force, promised land reform, workers' rights and free education."
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Modern Mexico",
+   "text": [
+    "One party, later called the PRI, governed Mexico for 71 years until 2000. Mexico nationalised its oil industry in 1938 and hosted the 1968 Olympics, though days before, soldiers killed protesting students at Tlatelolco in Mexico City.",
+    "In 1994 Mexico joined a free trade deal with the US and Canada, and on the same day a Mayan rebel group, the Zapatistas, rose up in Chiapas. Since 2006, violence linked to drug cartels has killed hundreds of thousands of people. In 2024 Claudia Sheinbaum became Mexico's first woman president."
+   ],
+   "related": [
+    "USA",
+    "CAN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1200 BC",
+   "title": "Olmecs",
+   "text": "Mexico's first great civilisation."
+  },
+  {
+   "year": "c. 250",
+   "title": "Classic Maya",
+   "text": "Maya cities flourish in the south."
+  },
+  {
+   "year": "c. 500",
+   "title": "Teotihuacan",
+   "text": "One of the world's largest cities."
+  },
+  {
+   "year": "1325",
+   "title": "Tenochtitlan",
+   "text": "The Aztec capital is founded."
+  },
+  {
+   "year": "1521",
+   "title": "Spanish conquest",
+   "text": "Cortés captures Tenochtitlan."
+  },
+  {
+   "year": "1810",
+   "title": "Cry of Dolores",
+   "text": "Hidalgo calls for independence on 16 September."
+  },
+  {
+   "year": "1821",
+   "title": "Independence",
+   "text": "Mexico becomes independent from Spain."
+  },
+  {
+   "year": "1848",
+   "title": "War with the US ends",
+   "text": "Mexico loses about half its land."
+  },
+  {
+   "year": "1862",
+   "title": "Battle of Puebla",
+   "text": "Victory over France on 5 May."
+  },
+  {
+   "year": "1910",
+   "title": "Revolution",
+   "text": "A decade of revolution begins."
+  },
+  {
+   "year": "1917",
+   "title": "Constitution",
+   "text": "Still Mexico's constitution today."
+  },
+  {
+   "year": "1968",
+   "title": "Mexico City Olympics",
+   "text": "The first Olympics in Latin America."
+  },
+  {
+   "year": "1994",
+   "title": "NAFTA and the Zapatistas",
+   "text": "Free trade with the US and Canada; uprising in Chiapas."
+  },
+  {
+   "year": "2000",
+   "title": "PRI loses power",
+   "text": "The first opposition president in 71 years."
+  },
+  {
+   "year": "2024",
+   "title": "Claudia Sheinbaum",
+   "text": "Mexico's first woman president."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Conquistador",
+   "meaning": "A Spanish soldier and explorer who conquered lands in the Americas."
+  },
+  {
+   "term": "Mestizo",
+   "meaning": "A person of mixed Indigenous and European ancestry."
+  },
+  {
+   "term": "Tribute",
+   "meaning": "Goods or payment that conquered peoples had to give to their rulers."
+  }
+ ]
+}
