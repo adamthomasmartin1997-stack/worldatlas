@@ -1,0 +1,62 @@
+{
+ "status": "draft",
+ "intro": "Japan is a long chain of islands on the Pacific Ring of Fire. Mountains and volcanoes cover most of it, so its people crowd onto narrow coastal plains, and earthquakes are part of everyday life.",
+ "chapters": [
+  {
+   "id": "islands",
+   "title": "A country of islands",
+   "text": [
+    "Japan is made of more than 14,000 islands. Four main islands hold most people: Honshu, the largest, with Tokyo, Osaka and Kyoto; Hokkaido in the snowy north; and Kyushu and Shikoku in the south-west. The Okinawa islands stretch further south towards Taiwan.",
+    "Its nearest neighbours across the sea are South Korea, China and Russia, and Japan has unresolved disputes with each of them over small islands."
+   ],
+   "related": [
+    "KOR",
+    "CHN",
+    "RUS",
+    "TWN"
+   ]
+  },
+  {
+   "id": "mountains",
+   "title": "Mountains and volcanoes",
+   "text": [
+    "About three-quarters of Japan is mountainous, so cities, farms and factories are packed into the flat land along the coasts. The Japanese Alps run down the middle of Honshu.",
+    "Japan sits where four of Earth's tectonic plates meet, on the Pacific Ring of Fire. It has more than 100 active volcanoes. Mount Fuji, its highest and most famous mountain, is a volcano that last erupted in 1707."
+   ],
+   "highlight": {
+    "title": "Shaking ground",
+    "text": "About a fifth of the world's strongest earthquakes happen in or near Japan. Buildings are designed to sway rather than collapse, and schoolchildren practise earthquake drills. 'Tsunami' is a Japanese word."
+   }
+  },
+  {
+   "id": "climate",
+   "title": "From snow to coral",
+   "text": [
+    "Because Japan stretches so far from north to south, its climate ranges from cold and snowy in Hokkaido, where winters are like Canada's, to warm and subtropical in Okinawa, with coral reefs. The mountains facing the Sea of Japan get some of the heaviest snowfalls of any inhabited place on Earth.",
+    "Most of Japan has four clear seasons. A rainy season comes in early summer, and typhoons can strike in late summer and autumn. Spring cherry blossoms are so important that the news reports a daily 'blossom front' as they open from south to north."
+   ]
+  },
+  {
+   "id": "nature",
+   "title": "Forests and wildlife",
+   "text": [
+    "Despite its huge cities, Japan is one of the most forested countries in the developed world, with forests covering about two-thirds of the land.",
+    "Japanese macaques, known as snow monkeys, live further north than any other monkey and famously bathe in hot springs in winter. Tame deer wander the streets of the old city of Nara."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ring of Fire",
+   "meaning": "A horseshoe-shaped zone around the Pacific Ocean with many earthquakes and volcanoes."
+  },
+  {
+   "term": "Tsunami",
+   "meaning": "A series of huge sea waves, usually caused by an earthquake under the sea."
+  },
+  {
+   "term": "Typhoon",
+   "meaning": "A tropical storm in the western Pacific, called a hurricane in the Atlantic."
+  }
+ ]
+}

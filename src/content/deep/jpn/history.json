@@ -1,0 +1,187 @@
+{
+ "status": "draft",
+ "intro": "Japan's story runs from some of the world's oldest pottery, through emperors, samurai and 200 years of near-isolation, to a sudden leap into the modern world, a devastating war and a rebirth as one of the richest countries on Earth.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Early Japan",
+   "text": [
+    "The Jōmon people, hunters and gatherers who lived in Japan for more than 10,000 years, made some of the oldest pottery ever found, decorated with patterns pressed in with cord.",
+    "From around 300 BC newcomers from the Asian mainland brought rice farming and metalworking. Over the following centuries a state ruled by the Yamato clan, ancestors of the imperial family, took shape. Buddhism and Chinese writing arrived via Korea in the 500s.",
+    "In 794 the capital moved to Heian-kyō, today's Kyoto, which remained the imperial capital until 1868. Around the year 1000 a woman of the court, Murasaki Shikibu, wrote The Tale of Genji, often called the world's first novel."
+   ],
+   "related": [
+    "CHN",
+    "KOR"
+   ]
+  },
+  {
+   "id": "samurai",
+   "title": "Shoguns and samurai",
+   "text": [
+    "From the late 1100s real power passed from the emperor to military rulers called shoguns, supported by warriors called samurai. The emperor stayed on the throne, but mostly as a religious and symbolic figure.",
+    "In 1274 and 1281 the Mongols, who had conquered China, sent huge fleets to invade Japan. Both times the samurai fought back and storms wrecked the Mongol ships; the Japanese called these storms kamikaze, 'divine wind'.",
+    "In the 1400s and 1500s Japan broke apart into warring states. Three great warlords, Oda Nobunaga, Toyotomi Hideyoshi and Tokugawa Ieyasu, reunited it, and after winning the Battle of Sekigahara in 1600 Tokugawa became shogun."
+   ],
+   "related": [
+    "MNG",
+    "CHN"
+   ]
+  },
+  {
+   "id": "edo",
+   "title": "The closed country",
+   "text": [
+    "The Tokugawa shoguns ruled from Edo, today's Tokyo, for more than 250 years of peace. Fearing Christian missionaries and foreign influence, they closed Japan to almost all outsiders: only Dutch and Chinese traders were allowed, at Nagasaki.",
+    "In this period cities grew, and arts such as kabuki theatre, haiku poetry and woodblock prints flourished. Katsushika Hokusai's print The Great Wave off Kanagawa, from around 1831, is now one of the most famous images in the world."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Japan's long isolation let it develop a very distinctive culture, but it also left it far behind Western countries in technology and weapons by the 1800s."
+   },
+   "related": [
+    "NLD"
+   ]
+  },
+  {
+   "id": "meiji",
+   "title": "The Meiji revolution",
+   "text": [
+    "In 1853 American warships led by Commodore Matthew Perry sailed into Edo Bay and forced Japan to open up to trade. Many Japanese saw that they had to modernise or risk being colonised like much of Asia.",
+    "In 1868 rebels overthrew the shogun and restored power to the young Emperor Meiji, who moved to Edo and renamed it Tokyo, 'eastern capital'. Within a few decades Japan abolished the samurai class, built railways, factories, schools and a modern army and navy, and wrote a constitution.",
+    "Japan defeated China in 1895 and Russia in 1905, the first time in modern history that an Asian country beat a European great power in war. It took Taiwan and, in 1910, Korea as colonies."
+   ],
+   "related": [
+    "USA",
+    "CHN",
+    "RUS",
+    "KOR",
+    "TWN"
+   ]
+  },
+  {
+   "id": "war",
+   "title": "Empire and war",
+   "text": [
+    "In the 1930s military leaders took control of the government. Japan seized Manchuria in north-east China in 1931 and launched a full-scale invasion of China in 1937, where its troops committed terrible atrocities, including the Nanjing Massacre.",
+    "On 7 December 1941 Japan attacked the US fleet at Pearl Harbor and went on to conquer much of South-East Asia and the Pacific. By 1945 its cities were being destroyed by bombing. In August the US dropped atomic bombs on Hiroshima and Nagasaki, killing well over 100,000 people, and Japan surrendered."
+   ],
+   "highlight": {
+    "title": "Never again",
+    "text": "Hiroshima's Peace Memorial Park and the ruined dome at its centre are a World Heritage Site and a reminder of the human cost of nuclear weapons."
+   },
+   "related": [
+    "CHN",
+    "USA",
+    "KOR",
+    "PHL",
+    "IDN",
+    "SGP"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Peace and prosperity",
+   "text": [
+    "After the war American forces occupied Japan until 1952. A new constitution in 1947 made Japan a democracy, turned the emperor into a symbol with no political power and, in Article 9, renounced war.",
+    "Japan rebuilt astonishingly fast. By 1964, when Tokyo hosted the Olympics and the first bullet train began running, it was booming, and by the 1980s it had the world's second-biggest economy. A financial bubble burst around 1990, leading to years of slow growth.",
+    "On 11 March 2011 a huge earthquake and tsunami struck north-east Japan, killing more than 18,000 people and causing a disaster at the Fukushima nuclear power plant. In 2019 Emperor Akihito became the first emperor in two centuries to step down, and his son Naruhito took the throne."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 300 BC",
+   "title": "Rice farming",
+   "text": "Settlers from the mainland bring rice and metal tools."
+  },
+  {
+   "year": "794",
+   "title": "Kyoto",
+   "text": "The capital moves to Heian-kyō, where it stays until 1868."
+  },
+  {
+   "year": "c. 1000",
+   "title": "The Tale of Genji",
+   "text": "Murasaki Shikibu writes her great novel."
+  },
+  {
+   "year": "1192",
+   "title": "First shogun",
+   "text": "Minamoto no Yoritomo is named shogun."
+  },
+  {
+   "year": "1281",
+   "title": "Mongols defeated",
+   "text": "A storm wrecks the second Mongol invasion fleet."
+  },
+  {
+   "year": "1600",
+   "title": "Sekigahara",
+   "text": "Tokugawa Ieyasu wins control of Japan."
+  },
+  {
+   "year": "1853",
+   "title": "Black ships",
+   "text": "US warships force Japan to open to trade."
+  },
+  {
+   "year": "1868",
+   "title": "Meiji Restoration",
+   "text": "The emperor is restored and rapid modernisation begins."
+  },
+  {
+   "year": "1905",
+   "title": "Victory over Russia",
+   "text": "Japan becomes a world power."
+  },
+  {
+   "year": "1941",
+   "title": "Pearl Harbor",
+   "text": "Japan attacks the United States."
+  },
+  {
+   "year": "1945",
+   "title": "Hiroshima and surrender",
+   "text": "Atomic bombs are dropped; Japan surrenders in August."
+  },
+  {
+   "year": "1947",
+   "title": "New constitution",
+   "text": "Japan becomes a democracy and renounces war."
+  },
+  {
+   "year": "1964",
+   "title": "Tokyo Olympics",
+   "text": "The first bullet train opens the same year."
+  },
+  {
+   "year": "2011",
+   "title": "Tōhoku earthquake",
+   "text": "A tsunami and nuclear accident devastate the north-east."
+  },
+  {
+   "year": "2019",
+   "title": "A new era",
+   "text": "Emperor Naruhito's Reiwa era begins."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Shogun",
+   "meaning": "A military ruler who governed Japan in the emperor's name."
+  },
+  {
+   "term": "Samurai",
+   "meaning": "Japan's warrior class, who served lords and followed a strict code of honour."
+  },
+  {
+   "term": "Meiji Restoration",
+   "meaning": "The 1868 revolution that returned power to the emperor and launched Japan's modernisation."
+  },
+  {
+   "term": "Era name",
+   "meaning": "Japan counts years by the reign of each emperor: 2019 was Reiwa 1."
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "status": "draft",
+ "intro": "Japan is one of the most crowded countries in the world, and one of the oldest: people live longer than almost anywhere else, few babies are born, and the population has been shrinking since around 2010.",
+ "chapters": [
+  {
+   "id": "cities",
+   "title": "Giant cities",
+   "text": [
+    "Greater Tokyo, including Yokohama and nearby cities, is the largest urban area in the world, home to more than 35 million people. Osaka, Nagoya, Sapporo and Fukuoka are other big cities.",
+    "Trains are the main way people get around; Tokyo's Shinjuku station is the busiest railway station in the world, used by millions of passengers a day."
+   ]
+  },
+  {
+   "id": "ageing",
+   "title": "An ageing country",
+   "text": [
+    "Almost three in ten people in Japan are over 65, one of the highest shares in the world, and the number of births has fallen to record lows. Many villages are emptying as young people move to cities, and schools are closing.",
+    "To fill jobs, Japan has slowly opened to more foreign workers, and foreign residents now make up around 3% of the population."
+   ]
+  },
+  {
+   "id": "language",
+   "title": "Language and minorities",
+   "text": [
+    "Japanese is written with three scripts mixed together: kanji, characters borrowed from Chinese, and two phonetic alphabets, hiragana and katakana. Children learn more than 2,000 kanji by the end of school.",
+    "The Ainu, the indigenous people of Hokkaido, were officially recognised as an indigenous people in 2019 after a long history of discrimination. The people of Okinawa have their own Ryukyuan languages and traditions."
+   ]
+  },
+  {
+   "id": "beliefs",
+   "title": "Shinto and Buddhism",
+   "text": [
+    "Most Japanese people mix two traditions. Shinto, Japan's native religion, honours spirits called kami found in nature, ancestors and places; its shrines have red torii gates. Buddhism came from Korea and China.",
+    "A common saying is that people are 'born Shinto and die Buddhist': babies are taken to shrines, weddings may be Shinto or Christian-style, and funerals are usually Buddhist. Many people don't think of themselves as religious at all."
+   ]
+  },
+  {
+   "id": "school",
+   "title": "Growing up in Japan",
+   "text": [
+    "The school year starts in April, when cherry blossoms are out. Pupils usually wear uniforms, eat school lunch together in the classroom and clean their own classrooms and corridors at the end of the day.",
+    "Entrance exams for high school and university are very competitive, and many students go to after-school cram schools called juku. School clubs, from baseball to brass band, take up many evenings and weekends."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kanji",
+   "meaning": "Chinese characters used in written Japanese, each standing for a word or idea."
+  },
+  {
+   "term": "Kami",
+   "meaning": "Spirits or gods in Shinto, found in nature and in ancestors."
+  },
+  {
+   "term": "Indigenous",
+   "meaning": "Describes the first known people of a place."
+  }
+ ]
+}

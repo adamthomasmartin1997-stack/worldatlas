@@ -1,0 +1,55 @@
+{
+ "status": "draft",
+ "intro": "Japan's national sport is sumo, but baseball draws the biggest crowds. Japan invented judo and karate, has hosted the Olympics four times and stunned the rugby world in 2015.",
+ "chapters": [
+  {
+   "id": "sumo",
+   "title": "Sumo",
+   "text": [
+    "Sumo wrestling has been practised for more than a thousand years and still has Shinto rituals: wrestlers throw salt to purify the ring before a bout. Two wrestlers try to force each other out of a circle or make any part of the body other than the soles of the feet touch the ground.",
+    "Professional wrestlers live and train together in 'stables', follow strict rules on dress and behaviour and eat huge amounts to build weight. The top rank is yokozuna, 'grand champion'."
+   ]
+  },
+  {
+   "id": "baseball",
+   "title": "Baseball and football",
+   "text": [
+    "Baseball came to Japan from America in the 1870s and is the most popular team sport. The high school championship at Koshien Stadium is watched by millions, and Shohei Ohtani, who both pitches and hits at the highest level, has become one of the biggest stars in American baseball.",
+    "Football has grown since the professional J.League began in 1993. Japan co-hosted the 2002 men's World Cup with South Korea, and the women's team won the World Cup in 2011."
+   ],
+   "related": [
+    "USA",
+    "KOR"
+   ]
+  },
+  {
+   "id": "martial-arts",
+   "title": "Martial arts",
+   "text": [
+    "Judo was created in 1882 by Jigoro Kano and became an Olympic sport at the 1964 Tokyo Games. Karate developed on Okinawa, and kendo is fencing with bamboo swords.",
+    "Japan regularly wins more judo medals than any other country."
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics and rugby",
+   "text": [
+    "Tokyo hosted the Summer Olympics in 1964 and 2021 (the 2020 Games, delayed by the pandemic), and the Winter Olympics were held in Sapporo in 1972 and Nagano in 1998. At Paris 2024 Japan won 20 gold medals.",
+    "In 2015 Japan's rugby team beat South Africa, two-time world champions, in one of the biggest shocks in sport, and in 2019 Japan hosted the Rugby World Cup. Tennis star Naomi Osaka has won four Grand Slam titles."
+   ],
+   "related": [
+    "ZAF"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Yokozuna",
+   "meaning": "The highest rank in sumo wrestling."
+  },
+  {
+   "term": "Judo",
+   "meaning": "A Japanese martial art of throws and holds, meaning 'the gentle way'."
+  }
+ ]
+}

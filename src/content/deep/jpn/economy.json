@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "With few natural resources, Japan became one of the world's largest economies by making things: cars, electronics, robots and video games that are sold everywhere.",
+ "chapters": [
+  {
+   "id": "miracle",
+   "title": "The economic miracle",
+   "text": [
+    "After 1945 Japan rebuilt its ruined industries and grew faster than almost any other country for decades. Companies bought in raw materials, turned them into high-quality products and sold them abroad.",
+    "By the 1980s Japan had the second-largest economy in the world. Then property and share prices that had soared in a 'bubble' crashed around 1990, and growth stayed slow for many years, a period often called the 'lost decades'."
+   ]
+  },
+  {
+   "id": "industry",
+   "title": "Cars, electronics and games",
+   "text": [
+    "Toyota is the world's largest car maker by sales, and Honda, Nissan, Suzuki and Mazda are household names. Toyota's way of running factories, cutting waste at every step, has been copied around the world.",
+    "Japanese companies such as Sony, Panasonic and Canon made electronics famous, and Japan is a leader in industrial robots. Nintendo and Sony's PlayStation helped create the modern video game industry."
+   ]
+  },
+  {
+   "id": "resources",
+   "title": "Few resources",
+   "text": [
+    "Japan has almost no oil or gas of its own and imports nearly all its fuel, which makes energy expensive. After the Fukushima disaster in 2011, all of its nuclear power stations were shut for checks; some have since restarted.",
+    "Its biggest trading partners are China and the United States."
+   ],
+   "related": [
+    "CHN",
+    "USA",
+    "AUS"
+   ]
+  },
+  {
+   "id": "today",
+   "title": "Japan today",
+   "text": [
+    "Tourism has boomed, with tens of millions of visitors a year drawn by food, culture and anime. Manga, anime and characters such as Pokémon and Hello Kitty are big exports.",
+    "Japan's biggest challenge is its shrinking, ageing population: fewer workers must support more pensioners. Long working hours have been a problem too; Japan even has a word, karōshi, for death from overwork."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bubble",
+   "meaning": "When prices of things like houses or shares rise far above their real value, and then crash."
+  },
+  {
+   "term": "Karōshi",
+   "meaning": "Japanese for 'death from overwork'."
+  }
+ ]
+}

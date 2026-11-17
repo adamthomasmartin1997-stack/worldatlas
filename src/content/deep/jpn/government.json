@@ -1,0 +1,84 @@
+{
+ "status": "draft",
+ "intro": "Japan is a parliamentary democracy with an emperor as its symbol. Its constitution, written after the Second World War, has never been changed and still says Japan gives up war.",
+ "chapters": [
+  {
+   "id": "emperor",
+   "title": "The emperor",
+   "text": [
+    "Japan's imperial family is said to be the oldest continuous hereditary monarchy in the world. Under the 1947 constitution the emperor is 'the symbol of the State and of the unity of the people' and has no political power.",
+    "Emperor Naruhito took the throne in 2019. Only men can become emperor under current law, and with few young men left in the family, there is a lively debate about allowing women to inherit the throne."
+   ]
+  },
+  {
+   "id": "diet",
+   "title": "The Diet and the prime minister",
+   "text": [
+    "Japan's parliament, the National Diet, has two houses: the House of Representatives, the more powerful one, and the House of Councillors. Voters choose members using a mix of local seats and party lists.",
+    "The Diet chooses the prime minister, who forms the government. The Liberal Democratic Party has governed almost continuously since 1955. In October 2025 Sanae Takaichi became Japan's first female prime minister.",
+    "Japan is divided into 47 prefectures, each with its own governor and assembly."
+   ],
+   "facts": [
+    {
+     "label": "Voting age",
+     "value": "18 (since 2016)"
+    },
+    {
+     "label": "Prefectures",
+     "value": "47"
+    },
+    {
+     "label": "Head of state",
+     "value": "The emperor (symbolic)"
+    }
+   ]
+  },
+  {
+   "id": "article-9",
+   "title": "Article 9",
+   "text": [
+    "Article 9 of the constitution says the Japanese people 'forever renounce war'. Japan has no official army, but it does have the Self-Defense Forces, which are among the best-equipped militaries in Asia.",
+    "Whether to change Article 9 so Japan can play a bigger military role, especially as China grows stronger, is one of the biggest debates in Japanese politics."
+   ],
+   "related": [
+    "CHN",
+    "USA"
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols",
+   "text": [
+    "The flag is a red disc on a white background, called Hinomaru, the 'circle of the sun'; Japan's name in Japanese, Nihon, means 'origin of the sun'. The national anthem, Kimigayo, has one of the shortest lyrics of any anthem: just a few lines.",
+    "Japan counts years by the emperor's reign as well as by the Western calendar, so 2025 is Reiwa 7."
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Japan in the world",
+   "text": [
+    "Japan is a close ally of the United States, which keeps military bases in Japan, especially on Okinawa. It is a member of the G7 group of large economies and gives large amounts of aid to other countries.",
+    "Relations with China and South Korea are still affected by memories of Japan's wartime actions."
+   ],
+   "related": [
+    "USA",
+    "CHN",
+    "KOR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Diet",
+   "meaning": "The name of Japan's parliament."
+  },
+  {
+   "term": "Prefecture",
+   "meaning": "One of Japan's 47 regions, each with its own local government."
+  },
+  {
+   "term": "Renounce",
+   "meaning": "To formally give something up."
+  }
+ ]
+}

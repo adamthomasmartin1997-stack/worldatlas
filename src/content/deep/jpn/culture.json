@@ -1,0 +1,52 @@
+{
+ "status": "draft",
+ "intro": "Japan has kept ancient traditions such as the tea ceremony and kabuki alive while giving the world anime, manga, karaoke, emoji and some of its most loved video games.",
+ "chapters": [
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Traditional Japanese food, called washoku, was added to UNESCO's list of intangible heritage in 2013. It is built on rice, fish, vegetables, seaweed, soy sauce and miso, with great care for seasonal ingredients and presentation.",
+    "Sushi, ramen, tempura and bento lunch boxes are now popular worldwide. A Japanese scientist, Kikunae Ikeda, identified umami, the savoury 'fifth taste', in 1908."
+   ]
+  },
+  {
+   "id": "anime",
+   "title": "Manga, anime and games",
+   "text": [
+    "Manga (comics) are read by people of all ages in Japan, and anime (animation) is watched worldwide. Studio Ghibli's Spirited Away won the Oscar for best animated film in 2003.",
+    "Pokémon, which began as a video game in 1996, is the highest-earning media franchise in the world. Super Mario, Zelda and Sonic all come from Japanese game makers."
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Old arts",
+   "text": [
+    "Traditional arts include the tea ceremony, flower arranging (ikebana), calligraphy, origami and haiku, three-line poems made famous by Matsuo Bashō in the 1600s. Kabuki theatre features dramatic make-up and costumes, with all roles played by men.",
+    "In spring, people gather under cherry trees for hanami, flower-viewing picnics. In summer, the Obon festival honours the spirits of ancestors with dances and lanterns."
+   ]
+  },
+  {
+   "id": "inventions",
+   "title": "Everyday inventions",
+   "text": [
+    "Karaoke, meaning 'empty orchestra', was developed in Japan in the 1970s. The first set of emoji was designed in 1999 by Shigetaka Kurita for a Japanese mobile phone service; the word comes from Japanese e (picture) and moji (character).",
+    "Instant noodles were invented in Japan in 1958, and the bullet train, the Walkman and the QR code all came from Japan too."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Umami",
+   "meaning": "A savoury taste, found in foods like soy sauce, mushrooms and parmesan."
+  },
+  {
+   "term": "Haiku",
+   "meaning": "A short Japanese poem, traditionally three lines of five, seven and five syllables."
+  },
+  {
+   "term": "Anime",
+   "meaning": "Japanese animation."
+  }
+ ]
+}
