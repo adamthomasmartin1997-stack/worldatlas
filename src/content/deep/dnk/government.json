@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Denmark is a constitutional monarchy with one of the oldest royal families in the world and a parliamentary democracy.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "King and Folketing",
+   "text": [
+    "King Frederik X is head of state. The single-chamber parliament, the Folketing, has 179 members, including two each from Greenland and the Faroe Islands, and chooses the government. Mette Frederiksen became prime minister in 2019."
+   ],
+   "facts": [
+    {
+     "label": "Folketing",
+     "value": "179 members"
+    },
+    {
+     "label": "Regions",
+     "value": "5"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Denmark in the world",
+   "text": [
+    "Denmark is a founding member of NATO and has been in the EU since 1973, but uses its own currency, the krone, instead of the euro."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Folketing",
+   "meaning": "Denmark's parliament."
+  }
+ ]
+}

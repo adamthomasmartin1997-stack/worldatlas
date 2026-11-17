@@ -1,0 +1,35 @@
+{
+ "status": "draft",
+ "intro": "Denmark is a low, flat country made of the Jutland peninsula and hundreds of islands. Its kingdom also includes Greenland, the world's largest island.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Peninsula and islands",
+   "text": [
+    "Jutland, Denmark's peninsula, shares its only land border with Germany. Copenhagen is on Zealand, one of more than 400 named islands, and bridges link the islands to each other and, since 2000, to Sweden. Nowhere in Denmark is more than about 50 km from the sea.",
+    "Denmark is very flat; its highest hills are only about 170 m high. Strong winds sweep across it, perfect for wind farms."
+   ],
+   "related": [
+    "DEU",
+    "SWE"
+   ]
+  },
+  {
+   "id": "kingdom",
+   "title": "Greenland and the Faroes",
+   "text": [
+    "Greenland, mostly covered by an ice sheet, and the Faroe Islands in the North Atlantic are self-governing parts of the Danish kingdom."
+   ],
+   "related": [
+    "GRL",
+    "FRO"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Peninsula",
+   "meaning": "Land surrounded by water on three sides."
+  }
+ ]
+}

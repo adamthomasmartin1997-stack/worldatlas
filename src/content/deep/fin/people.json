@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Finland has been named the happiest country in the world year after year since 2018. Its people love saunas, coffee and quiet.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and languages",
+   "text": [
+    "Helsinki is the capital and largest city. Finnish is unrelated to most European languages, belonging to the same family as Estonian and, more distantly, Hungarian. Swedish is also an official language, and Sámi languages are spoken in Lapland."
+   ],
+   "related": [
+    "EST",
+    "HUN"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Saunas and schools",
+   "text": [
+    "Finland has about three million saunas for five and a half million people, and sauna culture is on UNESCO's heritage list. Finns drink more coffee per person than anyone else.",
+    "Finnish children start school at seven, have short school days and little homework, yet Finland's education system is admired worldwide."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sauna",
+   "meaning": "A small room heated to high temperatures, used for relaxing and cleansing."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Denmark is a handball superpower and has produced champions in football, cycling and badminton.",
+ "chapters": [
+  {
+   "id": "ball",
+   "title": "Football and handball",
+   "text": [
+    "In 1992 Denmark was called up at the last minute to replace Yugoslavia at the European Championship, and won it. Denmark's men have dominated handball, winning the world championship four times in a row from 2019 to 2025 and Olympic gold in 2016 and 2024."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Cycling and badminton",
+   "text": [
+    "Jonas Vingegaard won the Tour de France in 2022 and 2023, and Viktor Axelsen won Olympic badminton gold in 2021 and 2024."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Handball",
+   "meaning": "A fast team game where players throw a ball into the other team's goal."
+  }
+ ]
+}

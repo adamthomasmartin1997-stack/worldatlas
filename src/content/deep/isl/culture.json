@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Iceland has a huge cultural output for its size, from ancient sagas to Björk and Sigur Rós.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Sagas and music",
+   "text": [
+    "The medieval sagas are Iceland's greatest treasure. Björk, Sigur Rós, Of Monsters and Men and Laufey are among Iceland's internationally famous musicians."
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Traditions and food",
+   "text": [
+    "At Christmas, 13 mischievous 'Yule Lads' visit children, one each night. Traditional winter foods include fermented shark, while skyr, a thick yoghurt-like dairy food, and lamb are everyday favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Skyr",
+   "meaning": "A thick, high-protein Icelandic dairy product."
+  }
+ ]
+}

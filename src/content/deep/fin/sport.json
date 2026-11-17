@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Finland is mad about ice hockey and famous for long-distance runners and racing drivers.",
+ "chapters": [
+  {
+   "id": "hockey",
+   "title": "Ice hockey",
+   "text": [
+    "Ice hockey is the most popular sport. Finland's men won Olympic gold in 2022 and have won the world championship several times."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Runners and drivers",
+   "text": [
+    "The 'Flying Finn' Paavo Nurmi won nine Olympic gold medals in the 1920s. Finland has produced Formula One world champions Keke Rosberg, Mika Häkkinen and Kimi Räikkönen, and many rally champions. The national sport is pesäpallo, a Finnish form of baseball."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pesäpallo",
+   "meaning": "Finnish baseball."
+  }
+ ]
+}

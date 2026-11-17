@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Finland gave the world the Moomins, the music of Sibelius, bold Marimekko prints and a love of heavy metal.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Moomins and music",
+   "text": [
+    "Tove Jansson created the Moomins in 1945. Jean Sibelius's Finlandia became a symbol of the nation, and architect Alvar Aalto shaped modern design. Finland has more heavy metal bands per person than almost anywhere, and the monster-costumed band Lordi won Eurovision in 2006."
+   ]
+  },
+  {
+   "id": "food-fun",
+   "title": "Food and odd contests",
+   "text": [
+    "Rye bread, Karelian pasties and salty liquorice are favourites. Finland hosts quirky world championships in wife-carrying, air guitar and mobile phone throwing."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kalevala",
+   "meaning": "Finland's national epic poem."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Denmark is a rich country whose companies make LEGO, wind turbines, medicines and run some of the world's biggest shipping lines.",
+ "chapters": [
+  {
+   "id": "companies",
+   "title": "Famous companies",
+   "text": [
+    "LEGO, founded in 1932 in Billund, takes its name from the Danish 'leg godt', 'play well'. Novo Nordisk, maker of diabetes and weight-loss medicines, became one of Europe's most valuable companies, and Maersk is one of the largest container shipping companies in the world."
+   ]
+  },
+  {
+   "id": "wind",
+   "title": "Wind and farms",
+   "text": [
+    "Wind turbines, many made by Danish company Vestas, produce more than half of Denmark's electricity. Pork, dairy products and Carlsberg beer are major exports."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Container ship",
+   "meaning": "A ship that carries goods in large standard metal boxes."
+  }
+ ]
+}

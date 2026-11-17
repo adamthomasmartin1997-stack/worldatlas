@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Finland's economy grew from forests and paper into high technology, from Nokia phones to Angry Birds.",
+ "chapters": [
+  {
+   "id": "tech",
+   "title": "Tech and games",
+   "text": [
+    "Nokia was once the world's largest mobile phone maker and now builds network equipment. Finnish game studios created Angry Birds and Clash of Clans, and a Finnish student, Linus Torvalds, created the Linux operating system in 1991."
+   ]
+  },
+  {
+   "id": "forests-power",
+   "title": "Forests and power",
+   "text": [
+    "Forests supply wood, pulp and paper, a major export. Finland has some of Europe's newest nuclear reactors and is building the world's first deep underground store for spent nuclear fuel."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pulp",
+   "meaning": "Mashed wood fibres used to make paper."
+  }
+ ]
+}

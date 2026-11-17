@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Finland is a parliamentary republic and, since 2023, a member of NATO.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "President and parliament",
+   "text": [
+    "The president is directly elected for six years and leads foreign policy; Alexander Stubb was elected in 2024. The single-chamber parliament, the Eduskunta, has 200 members and chooses the prime minister."
+   ],
+   "facts": [
+    {
+     "label": "Parliament",
+     "value": "200 members"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    },
+    {
+     "label": "Independence Day",
+     "value": "6 December"
+    }
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols",
+   "text": [
+    "The flag is a blue cross on white, said to represent lakes and snow. Finland is the only Nordic country that uses the euro."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Eduskunta",
+   "meaning": "Finland's parliament."
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "status": "draft",
+ "intro": "Iceland was settled by Norse Vikings about 1,150 years ago and set up one of the world's oldest parliaments. Ruled by Norway and Denmark for centuries, it became an independent republic in 1944.",
+ "chapters": [
+  {
+   "id": "settlement",
+   "title": "Settlers and the Althing",
+   "text": [
+    "Norse settlers, many from Norway, arrived from about 874, bringing people from Ireland and Scotland with them, some of them enslaved. In 930 the chieftains founded the Althing, an open-air assembly at Þingvellir, one of the oldest parliaments in the world.",
+    "In the year 1000 the Althing decided that Iceland would become Christian. In the 1200s Icelanders wrote the sagas, stories of the settlers' feuds, voyages and adventures, which are still read today."
+   ],
+   "related": [
+    "NOR",
+    "IRL",
+    "GBR"
+   ]
+  },
+  {
+   "id": "rule",
+   "title": "Norwegian and Danish rule",
+   "text": [
+    "Iceland came under Norway in 1262 and then Denmark. In 1783 the Laki volcano erupted for eight months; its poisonous gases killed much of the livestock, and the famine that followed killed about a fifth of Icelanders."
+   ],
+   "related": [
+    "NOR",
+    "DNK"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence and after",
+   "text": [
+    "Iceland won home rule in 1904, became a separate kingdom under the Danish king in 1918 and a fully independent republic on 17 June 1944. In the 'Cod Wars' of the 1950s to 1970s it clashed with British fishing boats and won control of its fishing waters.",
+    "In 1975 about 90% of Icelandic women went on strike for a day to show how much they contributed, and in 1980 Vigdís Finnbogadóttir became the world's first woman elected president. In 2008 Iceland's three biggest banks collapsed in a financial crisis."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Iceland regularly ranks as the world's most equal country for women and men."
+   },
+   "related": [
+    "DNK",
+    "GBR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "874",
+   "title": "Settlement",
+   "text": "Norse settlers arrive."
+  },
+  {
+   "year": "930",
+   "title": "Althing",
+   "text": "One of the world's first parliaments is founded."
+  },
+  {
+   "year": "1000",
+   "title": "Christianity",
+   "text": "The Althing adopts Christianity."
+  },
+  {
+   "year": "1262",
+   "title": "Norwegian rule",
+   "text": "Iceland comes under Norway."
+  },
+  {
+   "year": "1783",
+   "title": "Laki eruption",
+   "text": "Famine kills a fifth of the people."
+  },
+  {
+   "year": "1944",
+   "title": "Republic",
+   "text": "Independence on 17 June."
+  },
+  {
+   "year": "1976",
+   "title": "Last Cod War ends",
+   "text": "Iceland wins its fishing limits."
+  },
+  {
+   "year": "1980",
+   "title": "Vigdís Finnbogadóttir",
+   "text": "The world's first elected woman president."
+  },
+  {
+   "year": "2008",
+   "title": "Banking crash",
+   "text": "Iceland's banks collapse."
+  },
+  {
+   "year": "2010",
+   "title": "Eyjafjallajökull",
+   "text": "An ash cloud grounds flights across Europe."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Saga",
+   "meaning": "A long Old Norse story of heroes, families and voyages."
+  },
+  {
+   "term": "Althing",
+   "meaning": "Iceland's parliament, founded in 930."
+  }
+ ]
+}

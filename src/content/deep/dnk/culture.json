@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Denmark gave the world Hans Christian Andersen's fairy tales, LEGO, sleek modern design and the New Nordic food movement.",
+ "chapters": [
+  {
+   "id": "stories",
+   "title": "Fairy tales and design",
+   "text": [
+    "Hans Christian Andersen wrote The Little Mermaid, The Ugly Duckling and The Snow Queen, which inspired Frozen. A statue of the Little Mermaid has sat in Copenhagen harbour since 1913.",
+    "Danish designers created famous chairs, lamps and speakers, and the architect Jørn Utzon designed the Sydney Opera House."
+   ],
+   "related": [
+    "AUS"
+   ]
+  },
+  {
+   "id": "food-fun",
+   "title": "Food and fun",
+   "text": [
+    "Smørrebrød, open sandwiches on dark rye bread, are a lunchtime classic, and Copenhagen restaurant Noma helped launch 'New Nordic' cooking. Copenhagen's Tivoli Gardens, opened in 1843, is one of the oldest amusement parks in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Smørrebrød",
+   "meaning": "Danish open sandwiches."
+  }
+ ]
+}

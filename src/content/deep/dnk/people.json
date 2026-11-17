@@ -1,0 +1,27 @@
+{
+ "status": "draft",
+ "intro": "Danes regularly rank among the happiest people in the world, and they have a word for cosy togetherness: hygge.",
+ "chapters": [
+  {
+   "id": "life",
+   "title": "Danish life",
+   "text": [
+    "Copenhagen is the capital and by far the largest city. Danes trust each other and their government, pay high taxes for free education and healthcare, and cycle a lot: about half of Copenhagen's commuters travel by bike.",
+    "Hygge means a warm, cosy feeling, often with candles, food and friends. Danish flags appear on birthday cakes and in windows on birthdays."
+   ]
+  },
+  {
+   "id": "faith",
+   "title": "Faith and language",
+   "text": [
+    "Danish is the national language. Most Danes belong to the Lutheran Church of Denmark, the state church, though few attend regularly."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Hygge",
+   "meaning": "A Danish word for a cosy, contented feeling."
+  }
+ ]
+}

@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Iceland has fewer than 400,000 people, about two-thirds of them in and around Reykjavík, the world's most northerly capital.",
+ "chapters": [
+  {
+   "id": "names",
+   "title": "Names and language",
+   "text": [
+    "Icelanders usually take their father's or mother's first name plus -son or -dóttir as their surname, so people are listed by first name, even in the phone book. Icelandic has changed so little that Icelanders can still read the medieval sagas.",
+    "About a fifth of residents were born abroad, especially in Poland."
+   ],
+   "related": [
+    "POL"
+   ]
+  },
+  {
+   "id": "books",
+   "title": "A nation of readers",
+   "text": [
+    "Icelanders publish and buy huge numbers of books; giving books on Christmas Eve, the 'Christmas book flood', is a beloved tradition. Swimming pools are the heart of social life, and many people respect stories of hidden elves."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Patronymic",
+   "meaning": "A surname formed from a parent's first name, like Jónsdóttir, 'Jón's daughter'."
+  }
+ ]
+}

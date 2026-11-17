@@ -1,0 +1,99 @@
+{
+ "status": "draft",
+ "intro": "Denmark is one of the world's oldest kingdoms. Its Vikings once ruled England, and today it is a small, wealthy democracy whose kingdom still includes Greenland and the Faroe Islands.",
+ "chapters": [
+  {
+   "id": "vikings",
+   "title": "Vikings and kings",
+   "text": [
+    "Around 965 King Harald Bluetooth raised a great runestone at Jelling, boasting that he had made the Danes Christian; Bluetooth wireless technology is named after him. Danish Vikings settled much of eastern England, and King Cnut ruled England, Denmark and Norway in the 1000s.",
+    "In 1397 Queen Margrethe I united Denmark, Norway and Sweden in the Kalmar Union. Denmark later lost Sweden, then Norway in 1814 and the duchy of Schleswig to Prussia in 1864."
+   ],
+   "highlight": {
+    "title": "Oldest flag",
+    "text": "Denmark's red and white flag, the Dannebrog, is often called the oldest national flag still in use; legend says it fell from the sky during a battle in 1219."
+   },
+   "related": [
+    "GBR",
+    "NOR",
+    "SWE",
+    "DEU"
+   ]
+  },
+  {
+   "id": "democracy",
+   "title": "Democracy and occupation",
+   "text": [
+    "Denmark's first democratic constitution was signed on 5 June 1849, now Constitution Day. Germany occupied Denmark from 1940 to 1945. In October 1943, when the Nazis planned to deport Denmark's Jews, ordinary Danes ferried more than 7,000 of them across the sea to safety in Sweden, and the vast majority survived."
+   ],
+   "related": [
+    "DEU",
+    "SWE"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Modern Denmark",
+   "text": [
+    "Denmark helped found NATO in 1949 and joined the European Community in 1973. In 1989 it became the first country to legally recognise same-sex partnerships. Queen Margrethe II stepped down in 2024 after 52 years, and her son became King Frederik X."
+   ],
+   "related": [
+    "GRL",
+    "FRO"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 965",
+   "title": "Jelling stone",
+   "text": "Harald Bluetooth declares Denmark Christian."
+  },
+  {
+   "year": "1016",
+   "title": "Cnut",
+   "text": "A Danish king rules England."
+  },
+  {
+   "year": "1397",
+   "title": "Kalmar Union",
+   "text": "Margrethe I unites three kingdoms."
+  },
+  {
+   "year": "1849",
+   "title": "Constitution",
+   "text": "Denmark becomes a democracy."
+  },
+  {
+   "year": "1864",
+   "title": "Loss of Schleswig",
+   "text": "Prussia takes the duchy."
+  },
+  {
+   "year": "1940",
+   "title": "Occupation",
+   "text": "Germany invades."
+  },
+  {
+   "year": "1943",
+   "title": "Rescue of the Jews",
+   "text": "Most Danish Jews escape to Sweden."
+  },
+  {
+   "year": "1973",
+   "title": "Joins the EC",
+   "text": "Denmark joins with the UK and Ireland."
+  },
+  {
+   "year": "2024",
+   "title": "King Frederik X",
+   "text": "Queen Margrethe II steps down."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Runestone",
+   "meaning": "A stone carved with runes, the letters of early Scandinavian writing."
+  }
+ ]
+}

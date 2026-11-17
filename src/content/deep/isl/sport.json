@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Tiny Iceland has made a big mark on football, handball and strength sports.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "At Euro 2016 Iceland knocked out England and became famous for its 'Viking thunderclap'. In 2018 it became, at the time, the smallest country ever to play at a World Cup, co-coached by a part-time dentist."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Handball and strongmen",
+   "text": [
+    "Handball is hugely popular, and Iceland won Olympic silver in 2008. Icelanders have won the World's Strongest Man title many times, and Icelandic athletes have won the CrossFit Games."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Strongman",
+   "meaning": "A sport of feats of strength such as lifting stones and pulling trucks."
+  }
+ ]
+}

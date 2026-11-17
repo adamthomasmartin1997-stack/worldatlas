@@ -1,0 +1,101 @@
+{
+ "status": "draft",
+ "intro": "Finland was ruled by Sweden for 600 years and by Russia for a century before becoming independent in 1917. It fought hard to stay free in the Second World War and today regularly tops the world's happiness rankings.",
+ "chapters": [
+  {
+   "id": "sweden-russia",
+   "title": "Between Sweden and Russia",
+   "text": [
+    "From the 1100s Finland gradually became part of the Swedish kingdom. In 1809 Russia conquered it and made it a Grand Duchy with its own laws and parliament.",
+    "In 1835 Elias Lönnrot published the Kalevala, an epic poem built from Finnish folk songs, which inspired a national awakening. In 1906 Finland became the first country in Europe to give women the vote, and the first in the world to let them stand for parliament."
+   ],
+   "related": [
+    "SWE",
+    "RUS"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence and war",
+   "text": [
+    "Finland declared independence on 6 December 1917, after the Russian Revolution, and went through a short, bitter civil war in 1918.",
+    "In the Winter War of 1939 and 1940 the Soviet Union invaded. Finnish soldiers on skis held off a far larger army for more than three months; Finland lost land in Karelia but kept its independence. It fought the Soviets again from 1941 to 1944."
+   ],
+   "highlight": {
+    "title": "Sisu",
+    "text": "Finns call the grit and determination shown in the Winter War sisu, a word for courage and stubbornness in the face of hardship."
+   },
+   "related": [
+    "RUS"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Modern Finland",
+   "text": [
+    "During the Cold War Finland stayed neutral and careful not to anger its huge neighbour. Helsinki hosted the 1952 Olympics. Finland joined the EU in 1995 and adopted the euro, and after Russia's invasion of Ukraine it joined NATO in 2023."
+   ],
+   "related": [
+    "RUS",
+    "UKR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1150s",
+   "title": "Swedish rule begins",
+   "text": "Finland becomes part of Sweden."
+  },
+  {
+   "year": "1809",
+   "title": "Grand Duchy",
+   "text": "Russia takes Finland."
+  },
+  {
+   "year": "1835",
+   "title": "Kalevala",
+   "text": "The national epic is published."
+  },
+  {
+   "year": "1906",
+   "title": "Votes for women",
+   "text": "The first in Europe."
+  },
+  {
+   "year": "1917",
+   "title": "Independence",
+   "text": "Declared on 6 December."
+  },
+  {
+   "year": "1939",
+   "title": "Winter War",
+   "text": "Finland resists a Soviet invasion."
+  },
+  {
+   "year": "1952",
+   "title": "Helsinki Olympics",
+   "text": "Finland hosts the Games."
+  },
+  {
+   "year": "1995",
+   "title": "Joins the EU",
+   "text": "Finland becomes an EU member."
+  },
+  {
+   "year": "2023",
+   "title": "Joins NATO",
+   "text": "Finland ends its non-alignment."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Grand Duchy",
+   "meaning": "A territory ruled by a grand duke; Finland under the Russian tsar."
+  },
+  {
+   "term": "Sisu",
+   "meaning": "Finnish determination and courage."
+  }
+ ]
+}

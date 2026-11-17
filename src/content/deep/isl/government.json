@@ -1,0 +1,41 @@
+{
+ "status": "draft",
+ "intro": "Iceland is a parliamentary republic with one of the oldest parliaments in the world and no army.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "President and Althing",
+   "text": [
+    "The president is elected directly for four years, and the Althing, with 63 members, chooses the government. Iceland has no army, but it is a founding member of NATO; its coast guard defends its waters.",
+    "Iceland is not in the EU but is part of the European Economic Area. National Day is 17 June."
+   ],
+   "facts": [
+    {
+     "label": "Althing",
+     "value": "63 members"
+    },
+    {
+     "label": "Army",
+     "value": "None"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "leaders",
+   "title": "Women leaders",
+   "text": [
+    "Iceland elected the world's first woman president in 1980 and has had several female prime ministers. Halla Tómasdóttir became president in 2024."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Coast guard",
+   "meaning": "A service that patrols a country's coastal waters."
+  }
+ ]
+}

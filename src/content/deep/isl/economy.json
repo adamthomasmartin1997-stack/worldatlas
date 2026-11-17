@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Iceland's economy runs on fish, aluminium, tourism and almost entirely renewable energy.",
+ "chapters": [
+  {
+   "id": "fish-power",
+   "title": "Fish and clean power",
+   "text": [
+    "Fishing has always been the backbone of the economy. Almost all of Iceland's electricity comes from hydropower and geothermal energy, and most homes are heated with water from hot springs; that cheap power attracts aluminium smelters and data centres."
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism and the crash",
+   "text": [
+    "Tourism boomed after 2010, with millions of visitors a year. In 2008 the collapse of Iceland's banks caused a deep recession, but the economy recovered. Iceland uses its own currency, the króna."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Geothermal energy",
+   "meaning": "Heat and power from hot water and steam underground."
+  }
+ ]
+}

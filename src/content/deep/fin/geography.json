@@ -1,0 +1,33 @@
+{
+ "status": "draft",
+ "intro": "Finland is a land of forests and lakes: forests cover about three-quarters of it, more than any other country in Europe, and there are around 188,000 lakes.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Forests and lakes",
+   "text": [
+    "Southern and central Finland is a maze of lakes and islands, the largest being Lake Saimaa, home to one of the world's rarest seals. The far north, Lapland, reaches above the Arctic Circle, with fells, reindeer and the midnight sun.",
+    "Finland borders Sweden, Norway and Russia, and faces the Baltic Sea. The Åland Islands, between Finland and Sweden, are self-governing and Swedish-speaking."
+   ],
+   "related": [
+    "SWE",
+    "NOR",
+    "RUS",
+    "ALA"
+   ]
+  },
+  {
+   "id": "rising",
+   "title": "A growing country",
+   "text": [
+    "After the Ice Age, the land is still slowly rising now that the weight of the ice has gone, so Finland gains several square kilometres of new land from the sea every year."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Fell",
+   "meaning": "A treeless hill or mountain in Lapland."
+  }
+ ]
+}

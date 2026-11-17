@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "Iceland is a land of fire and ice, sitting right on top of the Mid-Atlantic Ridge, where two of Earth's plates are pulling apart.",
+ "chapters": [
+  {
+   "id": "fire",
+   "title": "Volcanoes and geysers",
+   "text": [
+    "Iceland has around 30 active volcanic systems. In 2010 the ash cloud from Eyjafjallajökull shut down air travel across Europe, and since 2021 a series of eruptions near Reykjavík has forced the town of Grindavík to be evacuated.",
+    "Hot springs heat homes and swimming pools, and the English word 'geyser' comes from Geysir, an Icelandic hot spring. At Þingvellir you can walk, or even dive, between the North American and Eurasian plates."
+   ]
+  },
+  {
+   "id": "ice",
+   "title": "Glaciers, waterfalls and puffins",
+   "text": [
+    "Glaciers cover about a tenth of the country; Vatnajökull is the largest in Europe by volume. Waterfalls such as Gullfoss and Skógafoss, black sand beaches and the northern lights draw visitors.",
+    "Iceland has very few trees, after early settlers cut down the forests. Millions of puffins nest on its cliffs each summer."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mid-Atlantic Ridge",
+   "meaning": "An underwater mountain chain where two plates move apart and new crust forms."
+  },
+  {
+   "term": "Geyser",
+   "meaning": "A hot spring that shoots water and steam into the air."
+  }
+ ]
+}
