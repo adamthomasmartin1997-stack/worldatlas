@@ -22,5 +22,111 @@
    "term": "Amber",
    "meaning": "Fossilised tree resin, often golden and used in jewellery."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Summer Survivors",
+     "subtitle": "2018 · Marija Kavtaradzė",
+     "text": "A road trip from a clinic."
+    },
+    {
+     "title": "Toxic",
+     "subtitle": "2024 · Saulė Bliuvaitė",
+     "text": "Two teenage girls; won the top prize at Locarno."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Seasons",
+     "subtitle": "1818 · Kristijonas Donelaitis",
+     "text": "The first great Lithuanian poem."
+    },
+    {
+     "title": "Between Shades of Gray",
+     "subtitle": "2011 · Ruta Sepetys",
+     "text": "A girl deported to Siberia."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Sutartinės",
+     "subtitle": "Traditional",
+     "text": "Many-voiced songs; UNESCO-listed."
+    },
+    {
+     "title": "M. K. Čiurlionis",
+     "subtitle": "Composer and painter, 1900s",
+     "text": "Lithuania's great artist."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Cepelinai",
+     "subtitle": "Everywhere",
+     "text": "Potato dumplings shaped like zeppelins."
+    },
+    {
+     "title": "Šaltibarščiai",
+     "subtitle": "Summer",
+     "text": "Bright pink cold beetroot soup."
+    },
+    {
+     "title": "Kibinai",
+     "subtitle": "Trakai",
+     "text": "Meat pastries of the Karaim people."
+    },
+    {
+     "title": "Šakotis",
+     "subtitle": "Celebrations",
+     "text": "A spiky tree-shaped cake."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Independence Day",
+    "text": "16 February, 1918."
+   },
+   {
+    "month": 3,
+    "name": "Restoration Day",
+    "text": "11 March, 1990."
+   },
+   {
+    "month": 3,
+    "name": "Kaziuko Fair",
+    "text": "A big craft fair in Vilnius."
+   },
+   {
+    "month": 6,
+    "name": "Joninės",
+    "text": "Midsummer."
+   },
+   {
+    "month": 7,
+    "name": "Statehood Day",
+    "text": "6 July, King Mindaugas."
+   }
+  ]
+ }
 }

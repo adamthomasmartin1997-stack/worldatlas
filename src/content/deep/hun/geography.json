@@ -36,5 +36,75 @@
    "term": "Thermal spring",
    "meaning": "A spring of naturally warm water from underground."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Hungary's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Danube Bend",
+    "kind": "river bend",
+    "lat": 47.8,
+    "lon": 18.95,
+    "text": "The Danube turns south through hills."
+   },
+   {
+    "name": "Budapest",
+    "kind": "river city",
+    "lat": 47.5,
+    "lon": 19.04,
+    "text": "Buda and Pest, with hot springs."
+   },
+   {
+    "name": "Kékes",
+    "kind": "mountain",
+    "lat": 47.873,
+    "lon": 20.009,
+    "text": "Hungary's highest point, 1,014 m."
+   },
+   {
+    "name": "Aggtelek",
+    "kind": "caves",
+    "lat": 48.47,
+    "lon": 20.5,
+    "text": "Huge caves shared with Slovakia."
+   },
+   {
+    "name": "Tokaj",
+    "kind": "wine hills",
+    "lat": 48.12,
+    "lon": 21.4,
+    "text": "Home of sweet Tokaji wine."
+   },
+   {
+    "name": "Lake Balaton",
+    "kind": "lake",
+    "lat": 46.83,
+    "lon": 17.73,
+    "text": "Central Europe's largest lake."
+   },
+   {
+    "name": "Hévíz",
+    "kind": "thermal lake",
+    "lat": 46.79,
+    "lon": 17.19,
+    "text": "A warm lake you can swim in all year."
+   },
+   {
+    "name": "Hortobágy",
+    "kind": "steppe",
+    "lat": 47.58,
+    "lon": 21.15,
+    "text": "Grassland with grey cattle and horsemen."
+   },
+   {
+    "name": "Kiskunság",
+    "kind": "sand and lakes",
+    "lat": 46.8,
+    "lon": 19.4,
+    "text": "Sandy plains and salt lakes."
+   }
+  ]
+ }
 }

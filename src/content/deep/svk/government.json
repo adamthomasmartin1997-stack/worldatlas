@@ -41,5 +41,58 @@
    "term": "Eurozone",
    "meaning": "The group of EU countries that use the euro."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 5 years",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the government",
+     "text": "Needs parliament's support."
+    },
+    {
+     "title": "National Council",
+     "subtitle": "150 members",
+     "text": "A single-chamber parliament."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "Judges",
+     "text": "Checks laws."
+    },
+    {
+     "title": "Regions",
+     "subtitle": "8 regions",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Three readings",
+    "text": "In the National Council."
+   },
+   {
+    "title": "The President",
+    "text": "Signs or returns it once."
+   }
+  ]
+ }
 }

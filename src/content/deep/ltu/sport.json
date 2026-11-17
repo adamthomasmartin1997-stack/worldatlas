@@ -22,5 +22,112 @@
    "term": "Discus",
    "meaning": "An athletics event where a heavy disc is thrown as far as possible."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "LKL",
+     "subtitle": "Basketball",
+     "text": "Žalgiris Kaunas have won the most titles."
+    },
+    {
+     "title": "EuroLeague",
+     "subtitle": "Basketball",
+     "text": "Žalgiris won it in 1999."
+    },
+    {
+     "title": "A Lyga",
+     "subtitle": "Football",
+     "text": "The top football league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Arvydas Sabonis",
+     "subtitle": "Basketball",
+     "text": "A giant of European and NBA basketball."
+    },
+    {
+     "title": "Šarūnas Marčiulionis",
+     "subtitle": "Basketball",
+     "text": "A pioneer in the NBA."
+    },
+    {
+     "title": "Virgilijus Alekna",
+     "subtitle": "Discus",
+     "text": "Two Olympic golds."
+    },
+    {
+     "title": "Rūta Meilutytė",
+     "subtitle": "Swimming",
+     "text": "Olympic champion at 15."
+    },
+    {
+     "title": "Mykolas Alekna",
+     "subtitle": "Discus",
+     "text": "Holds the world record."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Lithuania's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Žalgiris Arena, Kaunas",
+    "kind": "venue",
+    "lat": 54.89,
+    "lon": 23.91,
+    "text": "A basketball temple."
+   },
+   {
+    "name": "LFF Stadium, Vilnius",
+    "kind": "venue",
+    "lat": 54.68,
+    "lon": 25.29,
+    "text": "National football."
+   },
+   {
+    "name": "Siemens Arena, Vilnius",
+    "kind": "venue",
+    "lat": 54.7,
+    "lon": 25.26,
+    "text": "Concerts and basketball."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1937 and 1939",
+    "title": "European champions",
+    "text": "Basketball titles before the war."
+   },
+   {
+    "year": "1992",
+    "title": "Olympic bronze",
+    "text": "In tie-dye shirts paid by the Grateful Dead."
+   },
+   {
+    "year": "2003",
+    "title": "European champions",
+    "text": "Basketball gold again."
+   },
+   {
+    "year": "2012",
+    "title": "Meilutytė gold",
+    "text": "100 m breaststroke at 15."
+   }
+  ]
+ }
 }

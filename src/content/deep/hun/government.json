@@ -37,5 +37,62 @@
    "term": "Illiberal democracy",
    "meaning": "A system with elections but weak checks on power and limited freedoms."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by parliament for 5 years",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the government",
+     "text": "Chosen by parliament."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "199 members",
+     "text": "A single-chamber parliament."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "Judges",
+     "text": "Checks laws."
+    },
+    {
+     "title": "Counties",
+     "subtitle": "19 counties and Budapest",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Debate",
+    "text": "In the National Assembly."
+   },
+   {
+    "title": "Vote",
+    "text": "Some 'cardinal laws' need a two-thirds majority."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it or sends it back."
+   }
+  ]
+ }
 }

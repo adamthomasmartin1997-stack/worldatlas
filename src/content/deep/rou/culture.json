@@ -22,5 +22,126 @@
    "term": "Polenta",
    "meaning": "A thick porridge made from maize."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Death of Mr Lazarescu",
+     "subtitle": "2005 · Cristi Puiu",
+     "text": "A night in hospitals."
+    },
+    {
+     "title": "4 Months, 3 Weeks and 2 Days",
+     "subtitle": "2007 · Cristian Mungiu",
+     "text": "Won the top prize at Cannes."
+    },
+    {
+     "title": "Collective",
+     "subtitle": "2019 · Alexander Nanau",
+     "text": "A documentary; Oscar-nominated."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Luceafărul",
+     "subtitle": "1883 · Mihai Eminescu",
+     "text": "The national poem."
+    },
+    {
+     "title": "Ion",
+     "subtitle": "1920 · Liviu Rebreanu",
+     "text": "A peasant's hunger for land."
+    },
+    {
+     "title": "The Hunger Angel",
+     "subtitle": "2009 · Herta Müller",
+     "text": "By a Nobel winner from Romania."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Romanian Rhapsody No. 1",
+     "subtitle": "George Enescu, 1901",
+     "text": "Folk tunes for orchestra."
+    },
+    {
+     "title": "Dragostea din tei",
+     "subtitle": "O-Zone, 2003",
+     "text": "A worldwide hit by a Moldovan band based in Romania."
+    },
+    {
+     "title": "Mr. Saxobeat",
+     "subtitle": "Alexandra Stan, 2010",
+     "text": "A European dance hit."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Sarmale",
+     "subtitle": "Everywhere",
+     "text": "Cabbage rolls."
+    },
+    {
+     "title": "Mămăligă",
+     "subtitle": "Everywhere",
+     "text": "Maize porridge."
+    },
+    {
+     "title": "Mici",
+     "subtitle": "Everywhere",
+     "text": "Grilled skinless sausages."
+    },
+    {
+     "title": "Ciorbă",
+     "subtitle": "Everywhere",
+     "text": "Sour soups."
+    },
+    {
+     "title": "Papanași",
+     "subtitle": "Everywhere",
+     "text": "Doughnuts with jam and cream."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Mărțișor",
+    "text": "Red and white charms for spring."
+   },
+   {
+    "month": 8,
+    "name": "UNTOLD",
+    "text": "A big music festival in Cluj."
+   },
+   {
+    "month": 12,
+    "name": "Great Union Day",
+    "text": "1 December, 1918."
+   },
+   {
+    "month": 12,
+    "name": "Christmas carols",
+    "text": "Colindă; UNESCO-listed."
+   }
+  ]
+ }
 }

@@ -25,5 +25,117 @@
    "term": "Water polo",
    "meaning": "A team sport played in a swimming pool, scoring goals with a ball."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "NB I",
+     "subtitle": "Football",
+     "text": "Ferencváros have won the most titles."
+    },
+    {
+     "title": "Water polo",
+     "subtitle": "OB I",
+     "text": "Hungary is the top water polo nation."
+    },
+    {
+     "title": "Hungarian Grand Prix",
+     "subtitle": "Formula One",
+     "text": "At the Hungaroring since 1986."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Ferenc Puskás",
+     "subtitle": "Football",
+     "text": "Star of the 'Golden Team'."
+    },
+    {
+     "title": "Aladár Gerevich",
+     "subtitle": "Fencing",
+     "text": "Golds at six Olympics."
+    },
+    {
+     "title": "Dezső Gyarmati",
+     "subtitle": "Water polo",
+     "text": "Three Olympic golds."
+    },
+    {
+     "title": "Krisztina Egerszegi",
+     "subtitle": "Swimming",
+     "text": "Five Olympic golds."
+    },
+    {
+     "title": "Katinka Hosszú",
+     "subtitle": "Swimming",
+     "text": "Three golds in Rio."
+    },
+    {
+     "title": "Judit Polgár",
+     "subtitle": "Chess",
+     "text": "The strongest woman player ever."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Hungary's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Puskás Aréna, Budapest",
+    "kind": "venue",
+    "lat": 47.503,
+    "lon": 19.098,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Hungaroring",
+    "kind": "venue",
+    "lat": 47.582,
+    "lon": 19.25,
+    "text": "F1 circuit near Budapest."
+   },
+   {
+    "name": "Danube Arena, Budapest",
+    "kind": "venue",
+    "lat": 47.57,
+    "lon": 19.06,
+    "text": "Hosts swimming world championships."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1953",
+    "title": "6–3 at Wembley",
+    "text": "The first team to beat England at home."
+   },
+   {
+    "year": "1956",
+    "title": "Blood in the Water",
+    "text": "Olympic water polo vs USSR."
+   },
+   {
+    "year": "1986",
+    "title": "First F1 race behind the Iron Curtain",
+    "text": "At the Hungaroring."
+   },
+   {
+    "year": "2016",
+    "title": "Euro return",
+    "text": "Hungary's first finals in 44 years."
+   }
+  ]
+ }
 }

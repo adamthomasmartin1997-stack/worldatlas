@@ -28,5 +28,61 @@
    "term": "Bog",
    "meaning": "Wet, spongy ground made of peat."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Estonia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Tallinn Old Town",
+    "kind": "medieval city",
+    "lat": 59.437,
+    "lon": 24.745,
+    "text": "One of Europe's best-kept medieval towns."
+   },
+   {
+    "name": "Lahemaa",
+    "kind": "coast and bogs",
+    "lat": 59.55,
+    "lon": 25.9,
+    "text": "Estonia's oldest national park."
+   },
+   {
+    "name": "Lake Peipus",
+    "kind": "lake",
+    "lat": 58.7,
+    "lon": 27.5,
+    "text": "A huge lake on the Russian border."
+   },
+   {
+    "name": "Saaremaa",
+    "kind": "island",
+    "lat": 58.4,
+    "lon": 22.5,
+    "text": "Windmills and a meteorite crater at Kaali."
+   },
+   {
+    "name": "Soomaa",
+    "kind": "flooded forest",
+    "lat": 58.43,
+    "lon": 25.05,
+    "text": "Its spring floods are called the 'fifth season'."
+   },
+   {
+    "name": "Suur Munamägi",
+    "kind": "hill",
+    "lat": 57.714,
+    "lon": 27.059,
+    "text": "The highest point in the Baltic states, 318 m."
+   },
+   {
+    "name": "Ontika cliff",
+    "kind": "limestone cliff",
+    "lat": 59.44,
+    "lon": 27.3,
+    "text": "Part of the Baltic Klint, with waterfalls."
+   }
+  ]
+ }
 }

@@ -29,5 +29,68 @@
    "term": "Spit",
    "meaning": "A long, narrow strip of sand sticking out into the sea."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Lithuania's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Curonian Spit",
+    "kind": "sand dunes",
+    "lat": 55.3,
+    "lon": 21.0,
+    "text": "Huge dunes on a thin strip of land, shared with Russia."
+   },
+   {
+    "name": "Hill of Crosses",
+    "kind": "pilgrimage site",
+    "lat": 56.015,
+    "lon": 23.417,
+    "text": "Over 100,000 crosses on a small hill."
+   },
+   {
+    "name": "Aukštaitija",
+    "kind": "lakes",
+    "lat": 55.4,
+    "lon": 26.0,
+    "text": "Lakes linked by rivers and forest."
+   },
+   {
+    "name": "Vilnius",
+    "kind": "capital",
+    "lat": 54.687,
+    "lon": 25.28,
+    "text": "A baroque old town."
+   },
+   {
+    "name": "Trakai",
+    "kind": "lake castle",
+    "lat": 54.65,
+    "lon": 24.93,
+    "text": "A red-brick castle on an island."
+   },
+   {
+    "name": "Aukštojas",
+    "kind": "hill",
+    "lat": 54.43,
+    "lon": 26.06,
+    "text": "Lithuania's highest point, 294 m."
+   },
+   {
+    "name": "Dzūkija",
+    "kind": "pine forest",
+    "lat": 54.0,
+    "lon": 24.4,
+    "text": "Sandy pine woods and mushroom villages."
+   },
+   {
+    "name": "Nemunas Delta",
+    "kind": "river delta",
+    "lat": 55.33,
+    "lon": 21.3,
+    "text": "Flood meadows and birds."
+   }
+  ]
+ }
 }

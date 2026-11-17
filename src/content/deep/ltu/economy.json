@@ -22,5 +22,39 @@
    "term": "Fintech",
    "meaning": "Technology used to provide financial services, such as payment apps."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Lithuania",
+   "items": [
+    {
+     "title": "Lasers",
+     "subtitle": "Vilnius",
+     "text": "A world leader in scientific lasers."
+    },
+    {
+     "title": "Furniture",
+     "subtitle": "IKEA suppliers",
+     "text": "Big furniture exports."
+    },
+    {
+     "title": "Fintech",
+     "subtitle": "Vilnius",
+     "text": "Many payment firms."
+    },
+    {
+     "title": "Oil refining",
+     "subtitle": "Mažeikiai",
+     "text": "The Baltics' only refinery."
+    },
+    {
+     "title": "Dairy",
+     "subtitle": "Farms",
+     "text": "Cheese and curd snacks."
+    }
+   ],
+   "intro": "Some of the things Lithuania makes and sells to the world."
+  }
  ]
 }

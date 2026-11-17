@@ -22,5 +22,107 @@
    "term": "Decathlon",
    "meaning": "An athletics contest of ten events."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Meistriliiga",
+     "subtitle": "Football",
+     "text": "FC Flora have won the most titles."
+    },
+    {
+     "title": "Basketball",
+     "subtitle": "Korvpall",
+     "text": "A popular sport."
+    },
+    {
+     "title": "Rally Estonia",
+     "subtitle": "Rallying",
+     "text": "A World Rally Championship round."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Kristjan Palusalu",
+     "subtitle": "Wrestling",
+     "text": "Two golds in 1936."
+    },
+    {
+     "title": "Erki Nool",
+     "subtitle": "Decathlon",
+     "text": "Olympic champion in 2000."
+    },
+    {
+     "title": "Gerd Kanter",
+     "subtitle": "Discus",
+     "text": "Olympic champion in 2008."
+    },
+    {
+     "title": "Ott Tänak",
+     "subtitle": "Rallying",
+     "text": "2019 world champion."
+    },
+    {
+     "title": "Kelly Sildaru",
+     "subtitle": "Freestyle skiing",
+     "text": "World and X Games champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Estonia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "A. Le Coq Arena, Tallinn",
+    "kind": "venue",
+    "lat": 59.426,
+    "lon": 24.731,
+    "text": "The national football stadium."
+   },
+   {
+    "name": "Song Festival Grounds, Tallinn",
+    "kind": "venue",
+    "lat": 59.443,
+    "lon": 24.794,
+    "text": "Where the Singing Revolution happened."
+   },
+   {
+    "name": "Otepää",
+    "kind": "venue",
+    "lat": 58.06,
+    "lon": 26.5,
+    "text": "Cross-country skiing World Cup."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1936",
+    "title": "Palusalu's double",
+    "text": "Two wrestling golds."
+   },
+   {
+    "year": "2000",
+    "title": "Nool's decathlon",
+    "text": "Olympic gold in Sydney."
+   },
+   {
+    "year": "2019",
+    "title": "Tänak world champion",
+    "text": "Rallying's first Estonian champion."
+   }
+  ]
+ }
 }

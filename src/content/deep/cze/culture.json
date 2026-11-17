@@ -22,5 +22,136 @@
    "term": "Art Nouveau",
    "meaning": "A decorative style of the 1890s to 1910s with flowing lines and natural shapes."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Shop on Main Street",
+     "subtitle": "1965 · Ján Kadár and Elmar Klos",
+     "text": "Won an Oscar."
+    },
+    {
+     "title": "Closely Watched Trains",
+     "subtitle": "1966 · Jiří Menzel",
+     "text": "Won an Oscar."
+    },
+    {
+     "title": "Kolya",
+     "subtitle": "1996 · Jan Svěrák",
+     "text": "A musician and a boy; won an Oscar."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Good Soldier Švejk",
+     "subtitle": "1923 · Jaroslav Hašek",
+     "text": "A comic soldier in World War One."
+    },
+    {
+     "title": "R.U.R.",
+     "subtitle": "1920 · Karel Čapek",
+     "text": "The play that gave us the word 'robot'."
+    },
+    {
+     "title": "The Unbearable Lightness of Being",
+     "subtitle": "1984 · Milan Kundera",
+     "text": "Love in Prague in 1968."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "The Moldau",
+     "subtitle": "Bedřich Smetana, 1875",
+     "text": "Music following the Vltava river."
+    },
+    {
+     "title": "New World Symphony",
+     "subtitle": "Antonín Dvořák, 1893",
+     "text": "Written in America by a Czech."
+    },
+    {
+     "title": "Falling Slowly",
+     "subtitle": "Markéta Irglová and Glen Hansard, 2007",
+     "text": "Won an Oscar."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Svíčková",
+     "subtitle": "Everywhere",
+     "text": "Beef in creamy sauce with dumplings."
+    },
+    {
+     "title": "Knedlíky",
+     "subtitle": "Everywhere",
+     "text": "Bread dumplings."
+    },
+    {
+     "title": "Trdelník",
+     "subtitle": "Prague",
+     "text": "A sweet rolled pastry for tourists."
+    },
+    {
+     "title": "Smažený sýr",
+     "subtitle": "Everywhere",
+     "text": "Fried cheese."
+    },
+    {
+     "title": "Kolache",
+     "subtitle": "Moravia",
+     "text": "Round pastries with filling."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Easter",
+    "text": "Pomlázka whips of willow."
+   },
+   {
+    "month": 4,
+    "name": "Witches' Night",
+    "text": "Bonfires on 30 April."
+   },
+   {
+    "month": 7,
+    "name": "Karlovy Vary Film Festival",
+    "text": "One of Europe's oldest film festivals."
+   },
+   {
+    "month": 10,
+    "name": "Independence Day",
+    "text": "28 October, 1918."
+   },
+   {
+    "month": 11,
+    "name": "Freedom Day",
+    "text": "17 November, the Velvet Revolution."
+   },
+   {
+    "month": 12,
+    "name": "Christmas carp",
+    "text": "Bought live and kept in the bath."
+   }
+  ]
+ }
 }

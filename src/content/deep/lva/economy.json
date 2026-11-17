@@ -22,5 +22,39 @@
    "term": "Export",
    "meaning": "Goods sold to another country."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Latvia",
+   "items": [
+    {
+     "title": "Wood",
+     "subtitle": "Forests",
+     "text": "Timber is the top export."
+    },
+    {
+     "title": "Food and drink",
+     "subtitle": "Riga Black Balsam",
+     "text": "A herbal liqueur."
+    },
+    {
+     "title": "Transport and ports",
+     "subtitle": "Riga, Ventspils",
+     "text": "Goods between east and west."
+    },
+    {
+     "title": "Tech",
+     "subtitle": "Riga",
+     "text": "Start-ups and IT services."
+    },
+    {
+     "title": "Medicines",
+     "subtitle": "Grindeks",
+     "text": "Drugs sold in dozens of countries."
+    }
+   ],
+   "intro": "Some of the things Latvia makes and sells to the world."
+  }
  ]
 }

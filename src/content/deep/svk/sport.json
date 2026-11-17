@@ -25,5 +25,112 @@
    "term": "Canoe slalom",
    "meaning": "Racing a canoe or kayak through gates on a white-water course."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Niké liga",
+     "subtitle": "Football",
+     "text": "Slovan Bratislava have won the most titles."
+    },
+    {
+     "title": "Extraliga",
+     "subtitle": "Ice hockey",
+     "text": "The top league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Peter Sagan",
+     "subtitle": "Cycling",
+     "text": "Three world road titles."
+    },
+    {
+     "title": "Anastasia Kuzmina",
+     "subtitle": "Biathlon",
+     "text": "Three Olympic golds."
+    },
+    {
+     "title": "Petra Vlhová",
+     "subtitle": "Skiing",
+     "text": "Olympic slalom champion."
+    },
+    {
+     "title": "Marek Hamšík",
+     "subtitle": "Football",
+     "text": "Napoli's long-time captain."
+    },
+    {
+     "title": "Zdeno Chára",
+     "subtitle": "Ice hockey",
+     "text": "Stanley Cup-winning captain."
+    },
+    {
+     "title": "Pavol Demitra",
+     "subtitle": "Ice hockey",
+     "text": "An NHL star."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Slovakia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Tehelné pole, Bratislava",
+    "kind": "venue",
+    "lat": 48.163,
+    "lon": 17.137,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Ondrej Nepela Arena",
+    "kind": "venue",
+    "lat": 48.15,
+    "lon": 17.13,
+    "text": "Hosted hockey world championships."
+   },
+   {
+    "name": "Čunovo",
+    "kind": "venue",
+    "lat": 48.03,
+    "lon": 17.23,
+    "text": "A world-class canoe slalom course."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2002",
+    "title": "Hockey world champions",
+    "text": "Slovakia's first world title."
+   },
+   {
+    "year": "2010",
+    "title": "World Cup last 16",
+    "text": "Beat Italy."
+   },
+   {
+    "year": "2015 to 2017",
+    "title": "Sagan's three rainbows",
+    "text": "Three world titles in a row."
+   },
+   {
+    "year": "2022",
+    "title": "Olympic hockey bronze",
+    "text": "And Vlhová's slalom gold."
+   }
+  ]
+ }
 }

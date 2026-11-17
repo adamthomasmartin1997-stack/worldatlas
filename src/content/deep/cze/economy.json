@@ -25,5 +25,44 @@
    "term": "Lager",
    "meaning": "A type of beer brewed at cool temperatures."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Czechia",
+   "items": [
+    {
+     "title": "Cars",
+     "subtitle": "Škoda",
+     "text": "One of Europe's oldest carmakers."
+    },
+    {
+     "title": "Glass and crystal",
+     "subtitle": "Bohemia",
+     "text": "Famous for centuries."
+    },
+    {
+     "title": "Beer",
+     "subtitle": "Pilsner Urquell",
+     "text": "Pilsner lager was invented in Plzeň in 1842."
+    },
+    {
+     "title": "Machinery",
+     "subtitle": "Industry",
+     "text": "Engines, trams and tools."
+    },
+    {
+     "title": "Antivirus",
+     "subtitle": "Avast",
+     "text": "Software used worldwide."
+    },
+    {
+     "title": "Games",
+     "subtitle": "Prague and Brno",
+     "text": "Kingdom Come: Deliverance and more."
+    }
+   ],
+   "intro": "Some of the things Czechia makes and sells to the world."
+  }
  ]
 }

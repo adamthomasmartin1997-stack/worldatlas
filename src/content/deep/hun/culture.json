@@ -22,5 +22,131 @@
    "term": "Goulash",
    "meaning": "A Hungarian soup or stew of beef and paprika."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Son of Saul",
+     "subtitle": "2015 · László Nemes",
+     "text": "Won an Oscar."
+    },
+    {
+     "title": "On Body and Soul",
+     "subtitle": "2017 · Ildikó Enyedi",
+     "text": "Won the Golden Bear."
+    },
+    {
+     "title": "Mephisto",
+     "subtitle": "1981 · István Szabó",
+     "text": "Won an Oscar."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Paul Street Boys",
+     "subtitle": "1906 · Ferenc Molnár",
+     "text": "A war between gangs of boys in Budapest."
+    },
+    {
+     "title": "Fatelessness",
+     "subtitle": "1975 · Imre Kertész",
+     "text": "A boy in the camps; by the Nobel winner."
+    },
+    {
+     "title": "Satantango",
+     "subtitle": "1985 · László Krasznahorkai",
+     "text": "By the 2025 Nobel winner."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Hungarian Rhapsodies",
+     "subtitle": "Franz Liszt, 1840s–80s",
+     "text": "Famous piano pieces."
+    },
+    {
+     "title": "Hungarian Dances",
+     "subtitle": "Johannes Brahms",
+     "text": "Inspired by Hungarian tunes."
+    },
+    {
+     "title": "Concerto for Orchestra",
+     "subtitle": "Béla Bartók, 1943",
+     "text": "Built on folk music."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Goulash",
+     "subtitle": "Everywhere",
+     "text": "A paprika beef soup."
+    },
+    {
+     "title": "Lángos",
+     "subtitle": "Everywhere",
+     "text": "Fried dough with sour cream and cheese."
+    },
+    {
+     "title": "Chicken paprikash",
+     "subtitle": "Everywhere",
+     "text": "Chicken in paprika cream."
+    },
+    {
+     "title": "Dobos torte",
+     "subtitle": "Everywhere",
+     "text": "Layered cake with caramel top."
+    },
+    {
+     "title": "Chimney cake",
+     "subtitle": "Everywhere",
+     "text": "Sweet spiral pastry."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Busójárás",
+    "text": "Masked men chase winter away in Mohács."
+   },
+   {
+    "month": 3,
+    "name": "National Day",
+    "text": "15 March, 1848."
+   },
+   {
+    "month": 8,
+    "name": "St Stephen's Day",
+    "text": "20 August, fireworks on the Danube."
+   },
+   {
+    "month": 8,
+    "name": "Sziget",
+    "text": "A huge music festival."
+   },
+   {
+    "month": 10,
+    "name": "Republic Day",
+    "text": "23 October, 1956."
+   }
+  ]
+ }
 }

@@ -22,5 +22,121 @@
    "term": "Smoke sauna",
    "meaning": "A traditional sauna with no chimney, heated by a wood fire."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Fencer",
+     "subtitle": "2015 · Klaus Härö",
+     "text": "A fencing teacher hides from Soviet police."
+    },
+    {
+     "title": "Tangerines",
+     "subtitle": "2013 · Zaza Urushadze",
+     "text": "Estonian farmers in the Abkhaz war; Oscar-nominated."
+    },
+    {
+     "title": "Smoke Sauna Sisterhood",
+     "subtitle": "2023 · Anna Hints",
+     "text": "Women talk in a smoke sauna."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Kalevipoeg",
+     "subtitle": "1861 · F. R. Kreutzwald",
+     "text": "The national epic."
+    },
+    {
+     "title": "Truth and Justice",
+     "subtitle": "1926–33 · A. H. Tammsaare",
+     "text": "A five-part classic."
+    },
+    {
+     "title": "Purge",
+     "subtitle": "2008 · Sofi Oksanen",
+     "text": "A Finnish-Estonian family story."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Spiegel im Spiegel",
+     "subtitle": "Arvo Pärt, 1978",
+     "text": "Calm music by the world's most-performed living composer."
+    },
+    {
+     "title": "Everybody",
+     "subtitle": "Tanel Padar, Dave Benton and 2XL, 2001",
+     "text": "Estonia's Eurovision win."
+    },
+    {
+     "title": "Song Festival",
+     "subtitle": "Laulupidu",
+     "text": "Tens of thousands sing together."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Black bread",
+     "subtitle": "Everywhere",
+     "text": "Dark rye bread."
+    },
+    {
+     "title": "Kama",
+     "subtitle": "Everywhere",
+     "text": "Flour of roasted grains mixed with kefir."
+    },
+    {
+     "title": "Kiluvõileib",
+     "subtitle": "Everywhere",
+     "text": "Sprat sandwiches."
+    },
+    {
+     "title": "Blood sausage",
+     "subtitle": "Christmas",
+     "text": "With lingonberry jam."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Independence Day",
+    "text": "24 February, 1918."
+   },
+   {
+    "month": 6,
+    "name": "Midsummer",
+    "text": "Jaanipäev bonfires."
+   },
+   {
+    "month": 7,
+    "name": "Song Festival",
+    "text": "Every five years in Tallinn."
+   },
+   {
+    "month": 8,
+    "name": "Restoration of Independence",
+    "text": "20 August, 1991."
+   }
+  ]
+ }
 }

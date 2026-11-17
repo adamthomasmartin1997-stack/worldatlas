@@ -22,5 +22,39 @@
    "term": "Unicorn",
    "meaning": "A start-up company valued at more than a billion US dollars."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Estonia",
+   "items": [
+    {
+     "title": "Tech start-ups",
+     "subtitle": "Skype, Wise, Bolt",
+     "text": "More start-ups per person than most countries."
+    },
+    {
+     "title": "Wood and furniture",
+     "subtitle": "Forests",
+     "text": "Half the land is forest."
+    },
+    {
+     "title": "Oil shale",
+     "subtitle": "Ida-Viru",
+     "text": "Long the main source of electricity."
+    },
+    {
+     "title": "Electronics",
+     "subtitle": "Factories",
+     "text": "Parts for global brands."
+    },
+    {
+     "title": "Digital ID",
+     "subtitle": "e-Residency",
+     "text": "Anyone can set up an Estonian company online."
+    }
+   ],
+   "intro": "Some of the things Estonia makes and sells to the world."
+  }
  ]
 }

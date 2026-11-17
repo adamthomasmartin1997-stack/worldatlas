@@ -23,5 +23,111 @@
    "term": "Bryndza",
    "meaning": "A soft, salty sheep's cheese."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Shop on Main Street",
+     "subtitle": "1965 · Ján Kadár and Elmar Klos",
+     "text": "A Slovak town in wartime; won an Oscar."
+    },
+    {
+     "title": "Birds, Orphans and Fools",
+     "subtitle": "1969 · Juraj Jakubisko",
+     "text": "A wild, poetic film."
+    },
+    {
+     "title": "The Teacher",
+     "subtitle": "2016 · Jan Hřebejk",
+     "text": "A teacher bullies parents for favours."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Jánošík legends",
+     "subtitle": "Folk tales",
+     "text": "Slovakia's Robin Hood, a hero of songs and films."
+    },
+    {
+     "title": "Marína",
+     "subtitle": "1846 · Andrej Sládkovič",
+     "text": "One of the longest love poems ever written."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Fujara",
+     "subtitle": "Traditional",
+     "text": "A long shepherd's flute; UNESCO-listed."
+    },
+    {
+     "title": "Folk music",
+     "subtitle": "Terchová",
+     "text": "Lively string bands."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Bryndzové halušky",
+     "subtitle": "Everywhere",
+     "text": "Potato dumplings with sheep cheese."
+    },
+    {
+     "title": "Kapustnica",
+     "subtitle": "Christmas",
+     "text": "Sauerkraut soup."
+    },
+    {
+     "title": "Lokše",
+     "subtitle": "Everywhere",
+     "text": "Potato pancakes."
+    },
+    {
+     "title": "Parenica",
+     "subtitle": "Everywhere",
+     "text": "Spiral smoked cheese."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Republic Day",
+    "text": "1 January, 1993."
+   },
+   {
+    "month": 7,
+    "name": "Pohoda",
+    "text": "A big music festival."
+   },
+   {
+    "month": 8,
+    "name": "Uprising Day",
+    "text": "29 August, 1944."
+   },
+   {
+    "month": 9,
+    "name": "Constitution Day",
+    "text": "1 September."
+   }
+  ]
+ }
 }

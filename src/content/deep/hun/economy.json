@@ -26,5 +26,44 @@
    "term": "Paprika",
    "meaning": "A red spice made from dried peppers."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Hungary",
+   "items": [
+    {
+     "title": "Cars",
+     "subtitle": "Audi, Mercedes, BMW, Suzuki",
+     "text": "Big car factories."
+    },
+    {
+     "title": "Medicines",
+     "subtitle": "Gedeon Richter",
+     "text": "Drug-maker since 1901."
+    },
+    {
+     "title": "Rubik's Cube",
+     "subtitle": "Invented 1974",
+     "text": "By Ernő Rubik."
+    },
+    {
+     "title": "Paprika",
+     "subtitle": "Szeged and Kalocsa",
+     "text": "The national spice."
+    },
+    {
+     "title": "Batteries",
+     "subtitle": "New plants",
+     "text": "For electric cars."
+    },
+    {
+     "title": "Software",
+     "subtitle": "Prezi, LogMeIn",
+     "text": "Tech firms started here."
+    }
+   ],
+   "intro": "Some of the things Hungary makes and sells to the world."
+  }
  ]
 }

@@ -30,5 +30,75 @@
    "term": "Delta",
    "meaning": "Flat wetland where a river splits into channels before reaching the sea."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Romania's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Maramureș",
+    "kind": "wooden villages",
+    "lat": 47.7,
+    "lon": 24.0,
+    "text": "Wooden churches and hay-stacked fields."
+   },
+   {
+    "name": "Bicaz Gorge",
+    "kind": "gorge",
+    "lat": 46.81,
+    "lon": 25.82,
+    "text": "A road squeezed between cliffs."
+   },
+   {
+    "name": "Bucegi",
+    "kind": "mountains",
+    "lat": 45.4,
+    "lon": 25.45,
+    "text": "Rock faces above Sinaia."
+   },
+   {
+    "name": "Transfăgărășan",
+    "kind": "mountain road",
+    "lat": 45.6,
+    "lon": 24.6,
+    "text": "A twisting road over the Făgăraș."
+   },
+   {
+    "name": "Moldoveanu",
+    "kind": "mountain",
+    "lat": 45.6,
+    "lon": 24.74,
+    "text": "Romania's highest peak, 2,544 m."
+   },
+   {
+    "name": "Turda Salt Mine",
+    "kind": "salt mine",
+    "lat": 46.59,
+    "lon": 23.79,
+    "text": "A theme park inside a salt mine."
+   },
+   {
+    "name": "Iron Gates",
+    "kind": "Danube gorge",
+    "lat": 44.66,
+    "lon": 22.4,
+    "text": "The Danube cuts through mountains."
+   },
+   {
+    "name": "Danube Delta",
+    "kind": "delta",
+    "lat": 45.1,
+    "lon": 29.3,
+    "text": "Europe's best-preserved delta, full of pelicans."
+   },
+   {
+    "name": "Black Sea coast",
+    "kind": "beaches",
+    "lat": 44.0,
+    "lon": 28.65,
+    "text": "Sand and the port of Constanța."
+   }
+  ]
+ }
 }

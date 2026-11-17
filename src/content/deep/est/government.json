@@ -36,5 +36,58 @@
    "term": "e-Residency",
    "meaning": "A digital identity Estonia offers to non-residents."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by parliament",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the government",
+     "text": "Needs the Riigikogu's support."
+    },
+    {
+     "title": "The Riigikogu",
+     "subtitle": "101 members",
+     "text": "A single-chamber parliament."
+    },
+    {
+     "title": "e-government",
+     "subtitle": "Online state",
+     "text": "Voting, tax and prescriptions online."
+    },
+    {
+     "title": "Municipalities",
+     "subtitle": "79 councils",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Three readings",
+    "text": "In the Riigikogu."
+   },
+   {
+    "title": "The President",
+    "text": "Signs or returns it once."
+   }
+  ]
+ }
 }

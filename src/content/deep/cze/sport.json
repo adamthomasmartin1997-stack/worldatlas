@@ -22,5 +22,124 @@
    "term": "Panenka",
    "meaning": "A penalty kick chipped gently down the middle, named after Antonín Panenka."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Czech First League",
+     "subtitle": "Football",
+     "text": "Sparta Prague have won the most titles."
+    },
+    {
+     "title": "Extraliga",
+     "subtitle": "Ice hockey",
+     "text": "The top league."
+    },
+    {
+     "title": "Velká pardubická",
+     "subtitle": "Horse racing",
+     "text": "One of Europe's toughest steeplechases."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Emil Zátopek",
+     "subtitle": "Running",
+     "text": "Three golds at the 1952 Olympics."
+    },
+    {
+     "title": "Věra Čáslavská",
+     "subtitle": "Gymnastics",
+     "text": "Seven Olympic golds."
+    },
+    {
+     "title": "Martina Navratilova",
+     "subtitle": "Tennis",
+     "text": "Nine Wimbledon singles titles."
+    },
+    {
+     "title": "Jaromír Jágr",
+     "subtitle": "Ice hockey",
+     "text": "Still playing in his fifties."
+    },
+    {
+     "title": "Pavel Nedvěd",
+     "subtitle": "Football",
+     "text": "Ballon d'Or winner 2003."
+    },
+    {
+     "title": "Ester Ledecká",
+     "subtitle": "Skiing and snowboarding",
+     "text": "Gold in both at one Olympics."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Czechia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "O2 Arena, Prague",
+    "kind": "venue",
+    "lat": 50.105,
+    "lon": 14.494,
+    "text": "Hosts ice hockey world championships."
+   },
+   {
+    "name": "Strahov, Prague",
+    "kind": "venue",
+    "lat": 50.08,
+    "lon": 14.39,
+    "text": "One of the biggest stadiums ever built."
+   },
+   {
+    "name": "Pardubice",
+    "kind": "venue",
+    "lat": 50.02,
+    "lon": 15.75,
+    "text": "Home of the Velká pardubická."
+   },
+   {
+    "name": "Brno circuit",
+    "kind": "venue",
+    "lat": 49.2,
+    "lon": 16.45,
+    "text": "A motorbike racing track."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1952",
+    "title": "Zátopek's triple",
+    "text": "5,000 m, 10,000 m and marathon."
+   },
+   {
+    "year": "1976",
+    "title": "European champions",
+    "text": "Panenka's chipped penalty."
+   },
+   {
+    "year": "1998",
+    "title": "Nagano gold",
+    "text": "The Olympic ice hockey title."
+   },
+   {
+    "year": "2024",
+    "title": "Hockey world champions",
+    "text": "Won at home in Prague."
+   }
+  ]
+ }
 }

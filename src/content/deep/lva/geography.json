@@ -29,5 +29,68 @@
    "term": "Gulf",
    "meaning": "A large area of sea partly enclosed by land."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Latvia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Riga",
+    "kind": "city",
+    "lat": 56.95,
+    "lon": 24.11,
+    "text": "Art nouveau buildings and an old town."
+   },
+   {
+    "name": "Jūrmala",
+    "kind": "beach",
+    "lat": 56.97,
+    "lon": 23.77,
+    "text": "A long sandy beach with wooden villas."
+   },
+   {
+    "name": "Cape Kolka",
+    "kind": "cape",
+    "lat": 57.76,
+    "lon": 22.6,
+    "text": "Where the Gulf of Riga meets the open Baltic."
+   },
+   {
+    "name": "Gauja National Park",
+    "kind": "river valley",
+    "lat": 57.3,
+    "lon": 25.0,
+    "text": "Red sandstone cliffs and castles."
+   },
+   {
+    "name": "Ventas Rumba",
+    "kind": "waterfall",
+    "lat": 56.97,
+    "lon": 21.98,
+    "text": "Europe's widest waterfall, in Kuldīga."
+   },
+   {
+    "name": "Gaiziņkalns",
+    "kind": "hill",
+    "lat": 56.87,
+    "lon": 25.96,
+    "text": "Latvia's highest point, 312 m."
+   },
+   {
+    "name": "Ķemeri bog",
+    "kind": "raised bog",
+    "lat": 56.92,
+    "lon": 23.48,
+    "text": "Wooden walkways over a peat bog."
+   },
+   {
+    "name": "Latgale lakes",
+    "kind": "lakes",
+    "lat": 56.1,
+    "lon": 27.1,
+    "text": "The 'land of blue lakes'."
+   }
+  ]
+ }
 }

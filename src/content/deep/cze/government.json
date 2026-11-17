@@ -37,5 +37,62 @@
    "term": "Koruna",
    "meaning": "The Czech currency, meaning 'crown'."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 5 years",
+     "text": "Head of state; appoints the Prime Minister."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the government",
+     "text": "Needs the Chamber's confidence."
+    },
+    {
+     "title": "Chamber of Deputies",
+     "subtitle": "200 members",
+     "text": "The main house."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "81 members",
+     "text": "Reviews laws."
+    },
+    {
+     "title": "Regions",
+     "subtitle": "14 regions",
+     "text": "Run schools, roads and hospitals."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government, deputies or regions."
+   },
+   {
+    "title": "Chamber of Deputies",
+    "text": "Three readings."
+   },
+   {
+    "title": "Senate",
+    "text": "Approves, amends or rejects."
+   },
+   {
+    "title": "The President",
+    "text": "Signs or returns it."
+   }
+  ]
+ }
 }

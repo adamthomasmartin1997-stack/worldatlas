@@ -37,5 +37,58 @@
    "term": "Seimas",
    "meaning": "Lithuania's parliament."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 5 years",
+     "text": "Leads foreign policy."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Appointed with the Seimas' approval",
+     "text": "Leads the government."
+    },
+    {
+     "title": "The Seimas",
+     "subtitle": "141 members",
+     "text": "A single-chamber parliament."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "Judges",
+     "text": "Checks laws."
+    },
+    {
+     "title": "Municipalities",
+     "subtitle": "60 municipalities",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By members, the government or 50,000 citizens."
+   },
+   {
+    "title": "Readings",
+    "text": "Debated in the Seimas."
+   },
+   {
+    "title": "The President",
+    "text": "Signs or returns it."
+   }
+  ]
+ }
 }

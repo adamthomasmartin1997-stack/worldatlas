@@ -22,5 +22,112 @@
    "term": "Perfect 10",
    "meaning": "The highest possible score in gymnastics under the old system."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Liga I",
+     "subtitle": "Football",
+     "text": "Steaua (FCSB) have won the most titles."
+    },
+    {
+     "title": "Gymnastics",
+     "subtitle": "National team",
+     "text": "A powerhouse since the 1970s."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Nadia Comăneci",
+     "subtitle": "Gymnastics",
+     "text": "The first perfect 10."
+    },
+    {
+     "title": "Ilie Năstase",
+     "subtitle": "Tennis",
+     "text": "World No. 1."
+    },
+    {
+     "title": "Gheorghe Hagi",
+     "subtitle": "Football",
+     "text": "'Maradona of the Carpathians'."
+    },
+    {
+     "title": "Ivan Patzaichin",
+     "subtitle": "Canoeing",
+     "text": "Four Olympic golds."
+    },
+    {
+     "title": "Simona Halep",
+     "subtitle": "Tennis",
+     "text": "Wimbledon champion."
+    },
+    {
+     "title": "David Popovici",
+     "subtitle": "Swimming",
+     "text": "Olympic 200 m champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Romania's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Arena Națională, Bucharest",
+    "kind": "venue",
+    "lat": 44.437,
+    "lon": 26.152,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Cluj Arena",
+    "kind": "venue",
+    "lat": 46.768,
+    "lon": 23.572,
+    "text": "A modern stadium."
+   },
+   {
+    "name": "Snagov Lake",
+    "kind": "venue",
+    "lat": 44.7,
+    "lon": 26.17,
+    "text": "Rowing and canoe training."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1976",
+    "title": "Perfect 10",
+    "text": "Nadia at Montreal."
+   },
+   {
+    "year": "1986",
+    "title": "European Cup",
+    "text": "Steaua win Europe's top club prize."
+   },
+   {
+    "year": "1994",
+    "title": "World Cup quarter-final",
+    "text": "Beat Argentina."
+   },
+   {
+    "year": "2024",
+    "title": "Popovici gold",
+    "text": "Olympic champion in Paris."
+   }
+  ]
+ }
 }

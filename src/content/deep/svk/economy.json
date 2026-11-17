@@ -22,5 +22,39 @@
    "term": "Per person",
    "meaning": "Divided by the number of people, to compare countries of different sizes."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Slovakia",
+   "items": [
+    {
+     "title": "Cars",
+     "subtitle": "Bratislava, Trnava, Žilina, Nitra",
+     "text": "Makes more cars per person than any other country."
+    },
+    {
+     "title": "Electronics",
+     "subtitle": "Factories",
+     "text": "TVs and parts."
+    },
+    {
+     "title": "Steel",
+     "subtitle": "Košice",
+     "text": "A big steelworks."
+    },
+    {
+     "title": "Tyres and parts",
+     "subtitle": "Suppliers",
+     "text": "For the car factories."
+    },
+    {
+     "title": "The euro",
+     "subtitle": "Since 2009",
+     "text": "Before that, the koruna."
+    }
+   ],
+   "intro": "Some of the things Slovakia makes and sells to the world."
+  }
  ]
 }

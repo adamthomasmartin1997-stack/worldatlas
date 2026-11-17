@@ -22,5 +22,112 @@
    "term": "3x3 basketball",
    "meaning": "A fast version of basketball with three players a side and one hoop."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Virslīga",
+     "subtitle": "Football",
+     "text": "Skonto won 14 titles in a row."
+    },
+    {
+     "title": "Ice hockey",
+     "subtitle": "Dinamo Riga",
+     "text": "Latvia's favourite sport."
+    },
+    {
+     "title": "Bobsleigh",
+     "subtitle": "Sigulda",
+     "text": "A famous track."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Jeļena Ostapenko",
+     "subtitle": "Tennis",
+     "text": "French Open champion at 20."
+    },
+    {
+     "title": "Kristaps Porziņģis",
+     "subtitle": "Basketball",
+     "text": "NBA champion in 2024."
+    },
+    {
+     "title": "Māris Štrombergs",
+     "subtitle": "BMX",
+     "text": "Two Olympic golds."
+    },
+    {
+     "title": "Mikhail Tal",
+     "subtitle": "Chess",
+     "text": "World champion from Riga."
+    },
+    {
+     "title": "Martins Dukurs",
+     "subtitle": "Skeleton",
+     "text": "Many-time world champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Latvia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Arēna Rīga",
+    "kind": "venue",
+    "lat": 56.97,
+    "lon": 24.12,
+    "text": "Hosts hockey and basketball."
+   },
+   {
+    "name": "Sigulda bobsleigh track",
+    "kind": "venue",
+    "lat": 57.15,
+    "lon": 24.84,
+    "text": "A World Cup track."
+   },
+   {
+    "name": "Daugava Stadium, Riga",
+    "kind": "venue",
+    "lat": 56.96,
+    "lon": 24.15,
+    "text": "National football and athletics."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2004",
+    "title": "Euro 2004",
+    "text": "Latvia's only major football finals."
+   },
+   {
+    "year": "2008 and 2012",
+    "title": "Štrombergs gold",
+    "text": "Two Olympic BMX titles."
+   },
+   {
+    "year": "2017",
+    "title": "Ostapenko in Paris",
+    "text": "A first Grand Slam."
+   },
+   {
+    "year": "2023",
+    "title": "Hockey bronze",
+    "text": "A first world championship medal."
+   }
+  ]
+ }
 }

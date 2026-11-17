@@ -36,5 +36,58 @@
    "term": "Saeima",
    "meaning": "Latvia's parliament."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by parliament for 4 years",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the government",
+     "text": "Needs the Saeima's support."
+    },
+    {
+     "title": "The Saeima",
+     "subtitle": "100 members",
+     "text": "A single-chamber parliament."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "Judges",
+     "text": "Checks laws."
+    },
+    {
+     "title": "Municipalities",
+     "subtitle": "Elected councils",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government, members or 10% of voters."
+   },
+   {
+    "title": "Readings",
+    "text": "Usually two or three in the Saeima."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it, returns it, or delays it for a referendum."
+   }
+  ]
+ }
 }

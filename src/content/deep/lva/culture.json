@@ -22,5 +22,106 @@
    "term": "Art Nouveau",
    "meaning": "A decorative style with flowing lines, popular around 1900."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Flow",
+     "subtitle": "2024 · Gints Zilbalodis",
+     "text": "A cat survives a flood; won the Oscar for animation."
+    },
+    {
+     "title": "Away",
+     "subtitle": "2019 · Gints Zilbalodis",
+     "text": "Made almost alone by one young director."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Lāčplēsis",
+     "subtitle": "1888 · Andrejs Pumpurs",
+     "text": "The bear-slayer epic."
+    },
+    {
+     "title": "Dainas",
+     "subtitle": "Folk songs",
+     "text": "Over a million short folk songs collected."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Song and Dance Festival",
+     "subtitle": "Since 1873",
+     "text": "A UNESCO-listed singing tradition."
+    },
+    {
+     "title": "I Wanna",
+     "subtitle": "Marie N, 2002",
+     "text": "Latvia's Eurovision win."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Grey peas",
+     "subtitle": "Everywhere",
+     "text": "With bacon and onion."
+    },
+    {
+     "title": "Rye bread",
+     "subtitle": "Everywhere",
+     "text": "Dark and sweet-sour."
+    },
+    {
+     "title": "Sklandrausis",
+     "subtitle": "Kurzeme",
+     "text": "A carrot and potato tart."
+    },
+    {
+     "title": "Jāņi cheese",
+     "subtitle": "Midsummer",
+     "text": "With caraway seeds."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 6,
+    "name": "Jāņi",
+    "text": "Midsummer, the biggest holiday."
+   },
+   {
+    "month": 7,
+    "name": "Song and Dance Festival",
+    "text": "Every five years."
+   },
+   {
+    "month": 11,
+    "name": "Lāčplēsis Day",
+    "text": "11 November, candles by Riga Castle."
+   },
+   {
+    "month": 11,
+    "name": "Independence Day",
+    "text": "18 November, 1918."
+   }
+  ]
+ }
 }

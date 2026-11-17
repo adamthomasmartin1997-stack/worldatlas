@@ -22,5 +22,44 @@
    "term": "IT sector",
    "meaning": "Businesses that make software and digital services."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Romania",
+   "items": [
+    {
+     "title": "Cars",
+     "subtitle": "Dacia",
+     "text": "Low-cost cars at Mioveni."
+    },
+    {
+     "title": "Software",
+     "subtitle": "Bucharest and Cluj",
+     "text": "UiPath and many developers."
+    },
+    {
+     "title": "Grain",
+     "subtitle": "The plains",
+     "text": "Wheat, maize and sunflowers."
+    },
+    {
+     "title": "Oil and gas",
+     "subtitle": "Black Sea and Ploiești",
+     "text": "An old oil region."
+    },
+    {
+     "title": "Car parts",
+     "subtitle": "Factories",
+     "text": "For Europe's carmakers."
+    },
+    {
+     "title": "Wine",
+     "subtitle": "Dealu Mare and more",
+     "text": "Among Europe's top producers."
+    }
+   ],
+   "intro": "Some of the things Romania makes and sells to the world."
+  }
  ]
 }

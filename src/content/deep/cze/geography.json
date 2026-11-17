@@ -29,5 +29,75 @@
    "term": "Basin",
    "meaning": "A large, bowl-shaped area of land surrounded by higher ground."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Czechia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Bohemian Switzerland",
+    "kind": "sandstone",
+    "lat": 50.88,
+    "lon": 14.3,
+    "text": "Pravčická brána, Europe's largest natural sandstone arch."
+   },
+   {
+    "name": "Sněžka",
+    "kind": "mountain",
+    "lat": 50.736,
+    "lon": 15.74,
+    "text": "Czechia's highest peak, 1,603 m."
+   },
+   {
+    "name": "Bohemian Paradise",
+    "kind": "rock towns",
+    "lat": 50.55,
+    "lon": 15.2,
+    "text": "Sandstone towers and castles."
+   },
+   {
+    "name": "Adršpach rocks",
+    "kind": "rock towers",
+    "lat": 50.61,
+    "lon": 16.12,
+    "text": "A maze of tall rock pillars."
+   },
+   {
+    "name": "Prague and the Vltava",
+    "kind": "river city",
+    "lat": 50.09,
+    "lon": 14.42,
+    "text": "The capital on the Vltava."
+   },
+   {
+    "name": "Moravian Karst",
+    "kind": "caves",
+    "lat": 49.37,
+    "lon": 16.73,
+    "text": "Caves and the deep Macocha Abyss."
+   },
+   {
+    "name": "Šumava",
+    "kind": "forest",
+    "lat": 48.95,
+    "lon": 13.6,
+    "text": "A wild forest on the German border."
+   },
+   {
+    "name": "Lednice-Valtice",
+    "kind": "landscape park",
+    "lat": 48.8,
+    "lon": 16.8,
+    "text": "A huge designed landscape of parks and palaces."
+   },
+   {
+    "name": "Lipno Lake",
+    "kind": "reservoir",
+    "lat": 48.65,
+    "lon": 14.2,
+    "text": "The country's largest lake."
+   }
+  ]
+ }
 }

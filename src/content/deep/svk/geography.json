@@ -30,5 +30,75 @@
    "term": "Aragonite",
    "meaning": "A mineral that can form delicate, branching crystals in caves."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Slovakia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "High Tatras",
+    "kind": "mountains",
+    "lat": 49.17,
+    "lon": 20.13,
+    "text": "The highest part of the Carpathians."
+   },
+   {
+    "name": "Gerlachovský štít",
+    "kind": "mountain",
+    "lat": 49.164,
+    "lon": 20.134,
+    "text": "Slovakia's highest peak, 2,655 m."
+   },
+   {
+    "name": "Slovak Paradise",
+    "kind": "gorges",
+    "lat": 48.93,
+    "lon": 20.4,
+    "text": "Ladders and chains up waterfalls."
+   },
+   {
+    "name": "Spiš Castle",
+    "kind": "castle hill",
+    "lat": 48.999,
+    "lon": 20.768,
+    "text": "One of Central Europe's largest castles."
+   },
+   {
+    "name": "Dobšiná Ice Cave",
+    "kind": "ice cave",
+    "lat": 48.87,
+    "lon": 20.3,
+    "text": "A cave full of ice."
+   },
+   {
+    "name": "Low Tatras",
+    "kind": "mountains",
+    "lat": 48.93,
+    "lon": 19.6,
+    "text": "Ridges and caves."
+   },
+   {
+    "name": "Banská Štiavnica",
+    "kind": "mining town",
+    "lat": 48.45,
+    "lon": 18.9,
+    "text": "A silver-mining town in a volcanic crater."
+   },
+   {
+    "name": "Bratislava and the Danube",
+    "kind": "river city",
+    "lat": 48.14,
+    "lon": 17.11,
+    "text": "The capital on the Austrian and Hungarian borders."
+   },
+   {
+    "name": "Slovak Karst",
+    "kind": "caves",
+    "lat": 48.6,
+    "lon": 20.5,
+    "text": "Over 1,000 caves, shared with Hungary."
+   }
+  ]
+ }
 }

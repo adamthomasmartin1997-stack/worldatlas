@@ -41,5 +41,62 @@
    "term": "Semi-presidential",
    "meaning": "A system where an elected president and a prime minister share power."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 5 years",
+     "text": "Leads foreign policy and defence."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Nominated by the President",
+     "text": "Leads the government."
+    },
+    {
+     "title": "Chamber of Deputies",
+     "subtitle": "Over 300 members",
+     "text": "The larger house."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "About 135 members",
+     "text": "The second house."
+    },
+    {
+     "title": "Counties",
+     "subtitle": "41 counties and Bucharest",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government, members or 100,000 citizens."
+   },
+   {
+    "title": "First chamber",
+    "text": "Debates and votes."
+   },
+   {
+    "title": "Second chamber",
+    "text": "Has the final say on that topic."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it or sends it back once."
+   }
+  ]
+ }
 }
