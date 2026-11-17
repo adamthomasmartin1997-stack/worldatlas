@@ -53,5 +53,96 @@
    "term": "Coral Triangle",
    "meaning": "The ocean area around Indonesia, the Philippines and Papua New Guinea with the world's richest coral reefs."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Indonesia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Lake Toba",
+    "kind": "volcanic lake",
+    "lat": 2.6,
+    "lon": 98.83,
+    "text": "The largest volcanic lake in the world, on Sumatra."
+   },
+   {
+    "name": "Krakatoa",
+    "kind": "volcano",
+    "lat": -6.1,
+    "lon": 105.42,
+    "text": "The 'child of Krakatoa' rises from the 1883 crater."
+   },
+   {
+    "name": "Ujung Kulon",
+    "kind": "rainforest",
+    "lat": -6.75,
+    "lon": 105.33,
+    "text": "The last home of the Javan rhino."
+   },
+   {
+    "name": "Tanjung Puting",
+    "kind": "rainforest",
+    "lat": -2.93,
+    "lon": 111.95,
+    "text": "Orangutans in the swamp forests of Borneo."
+   },
+   {
+    "name": "Mount Bromo",
+    "kind": "volcano",
+    "lat": -7.94,
+    "lon": 112.95,
+    "text": "A smoking crater in a sea of volcanic sand."
+   },
+   {
+    "name": "Jatiluwih",
+    "kind": "rice terraces",
+    "lat": -8.37,
+    "lon": 115.13,
+    "text": "Bali's terraces, watered by the ancient subak system."
+   },
+   {
+    "name": "Mount Rinjani",
+    "kind": "volcano",
+    "lat": -8.41,
+    "lon": 116.46,
+    "text": "A crater lake high on Lombok."
+   },
+   {
+    "name": "Komodo",
+    "kind": "islands",
+    "lat": -8.55,
+    "lon": 119.45,
+    "text": "Home of the Komodo dragon."
+   },
+   {
+    "name": "Kelimutu",
+    "kind": "crater lakes",
+    "lat": -8.77,
+    "lon": 121.82,
+    "text": "Three crater lakes that change colour."
+   },
+   {
+    "name": "Wakatobi",
+    "kind": "coral reefs",
+    "lat": -5.5,
+    "lon": 123.6,
+    "text": "Some of the richest reefs on Earth."
+   },
+   {
+    "name": "Raja Ampat",
+    "kind": "islands and reefs",
+    "lat": -0.5,
+    "lon": 130.5,
+    "text": "Hundreds of islands at the heart of the Coral Triangle."
+   },
+   {
+    "name": "Puncak Jaya",
+    "kind": "mountain",
+    "lat": -4.08,
+    "lon": 137.16,
+    "text": "Indonesia's highest peak, in Papua."
+   }
+  ]
+ }
 }

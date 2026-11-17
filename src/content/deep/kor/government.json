@@ -53,5 +53,66 @@
    "term": "Trigram",
    "meaning": "A symbol made of three lines, each solid or broken."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "One 5-year term",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Appointed by the President with the Assembly's consent",
+     "text": "Helps run the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "300 members, 4-year terms",
+     "text": "Makes laws and can impeach the President."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "9 justices",
+     "text": "Decides impeachments and constitutional cases."
+    },
+    {
+     "title": "Provinces and cities",
+     "subtitle": "17 regions",
+     "text": "Elected governors and mayors."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "By at least ten lawmakers or by the government."
+   },
+   {
+    "title": "Committee",
+    "text": "A standing committee studies it."
+   },
+   {
+    "title": "Legal review",
+    "text": "Another committee checks the wording."
+   },
+   {
+    "title": "Plenary vote",
+    "text": "The full Assembly votes."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates the law within 15 days or vetoes it; the Assembly can override with two-thirds."
+   }
+  ]
+ }
 }

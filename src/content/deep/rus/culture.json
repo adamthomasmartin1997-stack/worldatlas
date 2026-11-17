@@ -43,5 +43,151 @@
    "term": "Periodic table",
    "meaning": "A chart that arranges all the chemical elements by their properties."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Battleship Potemkin",
+     "subtitle": "1925 · Sergei Eisenstein",
+     "text": "A famous silent film about a navy mutiny."
+    },
+    {
+     "title": "Solaris",
+     "subtitle": "1972 · Andrei Tarkovsky",
+     "text": "Scientists face their memories on a space station."
+    },
+    {
+     "title": "Hedgehog in the Fog",
+     "subtitle": "1975 · Yuri Norstein",
+     "text": "A short cartoon often called one of the greatest animated films."
+    },
+    {
+     "title": "Moscow Does Not Believe in Tears",
+     "subtitle": "1980 · Vladimir Menshov",
+     "text": "Three women's lives in Moscow; won an Oscar."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Eugene Onegin",
+     "subtitle": "1833 · Alexander Pushkin",
+     "text": "A novel in verse about love and regret."
+    },
+    {
+     "title": "Crime and Punishment",
+     "subtitle": "1866 · Fyodor Dostoevsky",
+     "text": "A student commits a murder and is tormented by guilt."
+    },
+    {
+     "title": "War and Peace",
+     "subtitle": "1869 · Leo Tolstoy",
+     "text": "Families caught up in Napoleon's invasion."
+    },
+    {
+     "title": "The Master and Margarita",
+     "subtitle": "published 1967 · Mikhail Bulgakov",
+     "text": "The devil visits Soviet Moscow."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Swan Lake",
+     "subtitle": "Pyotr Tchaikovsky, 1877",
+     "text": "The most famous ballet in the world."
+    },
+    {
+     "title": "Piano Concerto No. 2",
+     "subtitle": "Sergei Rachmaninoff, 1901",
+     "text": "A sweeping, romantic piano concerto."
+    },
+    {
+     "title": "Peter and the Wolf",
+     "subtitle": "Sergei Prokofiev, 1936",
+     "text": "Each character is played by a different instrument."
+    },
+    {
+     "title": "Kalinka",
+     "subtitle": "1860",
+     "text": "A folk-style song that speeds up and up."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Borscht",
+     "subtitle": "Everywhere",
+     "text": "Beetroot soup with sour cream."
+    },
+    {
+     "title": "Pelmeni",
+     "subtitle": "Siberia",
+     "text": "Small meat dumplings."
+    },
+    {
+     "title": "Blini",
+     "subtitle": "Everywhere",
+     "text": "Thin pancakes, especially during Maslenitsa."
+    },
+    {
+     "title": "Beef stroganoff",
+     "subtitle": "Everywhere",
+     "text": "Beef in a creamy sauce."
+    },
+    {
+     "title": "Olivier salad",
+     "subtitle": "New Year",
+     "text": "A potato salad eaten at New Year."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "New Year",
+    "text": "The biggest holiday, with gifts from Ded Moroz."
+   },
+   {
+    "month": 1,
+    "name": "Orthodox Christmas",
+    "text": "7 January."
+   },
+   {
+    "month": 3,
+    "name": "Maslenitsa",
+    "text": "Pancake week, ending with the burning of a straw figure; sometimes in February."
+   },
+   {
+    "month": 4,
+    "name": "Cosmonautics Day",
+    "text": "12 April remembers Gagarin's flight."
+   },
+   {
+    "month": 5,
+    "name": "Victory Day",
+    "text": "9 May marks the end of the war in Europe."
+   },
+   {
+    "month": 6,
+    "name": "White Nights",
+    "text": "St Petersburg's light summer nights and the Scarlet Sails festival."
+   }
+  ]
+ }
 }

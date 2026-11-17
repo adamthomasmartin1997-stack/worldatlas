@@ -40,5 +40,166 @@
    "term": "Webtoon",
    "meaning": "A comic designed to be read by scrolling on a phone, first popular in South Korea."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Oldboy",
+     "subtitle": "2003 · Park Chan-wook",
+     "text": "A man imprisoned for 15 years seeks revenge."
+    },
+    {
+     "title": "The Host",
+     "subtitle": "2006 · Bong Joon-ho",
+     "text": "A monster rises from the Han River."
+    },
+    {
+     "title": "Train to Busan",
+     "subtitle": "2016 · Yeon Sang-ho",
+     "text": "Passengers fight zombies on a speeding train."
+    },
+    {
+     "title": "Parasite",
+     "subtitle": "2019 · Bong Joon-ho",
+     "text": "The first non-English film to win the Oscar for Best Picture."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Vegetarian",
+     "subtitle": "2007 · Han Kang",
+     "text": "A woman's choice shocks her family; by the 2024 Nobel winner."
+    },
+    {
+     "title": "Please Look After Mom",
+     "subtitle": "2008 · Shin Kyung-sook",
+     "text": "A family searches for their missing mother."
+    },
+    {
+     "title": "Kim Jiyoung, Born 1982",
+     "subtitle": "2016 · Cho Nam-joo",
+     "text": "A bestseller about women's lives."
+    },
+    {
+     "title": "Almond",
+     "subtitle": "2017 · Sohn Won-pyung",
+     "text": "A teenage boy who struggles to feel emotions."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Arirang",
+     "subtitle": "Folk song",
+     "text": "Korea's best-known folk song, on UNESCO's list."
+    },
+    {
+     "title": "Gangnam Style",
+     "subtitle": "PSY, 2012",
+     "text": "The first YouTube video to reach a billion views."
+    },
+    {
+     "title": "Dynamite",
+     "subtitle": "BTS, 2020",
+     "text": "The first song by a Korean act to top the US Billboard Hot 100."
+    },
+    {
+     "title": "APT.",
+     "subtitle": "ROSÉ and Bruno Mars, 2024",
+     "text": "A global hit based on a Korean drinking game."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Kimchi",
+     "subtitle": "Everywhere",
+     "text": "Spicy fermented cabbage."
+    },
+    {
+     "title": "Bibimbap",
+     "subtitle": "Jeonju",
+     "text": "Rice topped with vegetables, egg and chilli paste."
+    },
+    {
+     "title": "Bulgogi",
+     "subtitle": "Everywhere",
+     "text": "Thin slices of marinated grilled beef."
+    },
+    {
+     "title": "Korean fried chicken",
+     "subtitle": "Everywhere",
+     "text": "Extra-crispy chicken, often with spicy glaze."
+    },
+    {
+     "title": "Tteokbokki",
+     "subtitle": "Everywhere",
+     "text": "Chewy rice cakes in red chilli sauce."
+    },
+    {
+     "title": "Bingsu",
+     "subtitle": "Everywhere",
+     "text": "Shaved ice with sweet toppings."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Seollal",
+    "text": "Lunar New Year, in January or February."
+   },
+   {
+    "month": 3,
+    "name": "Independence Movement Day",
+    "text": "1 March remembers the 1919 protests."
+   },
+   {
+    "month": 4,
+    "name": "Jinhae Cherry Blossom Festival",
+    "text": "Millions of cherry trees in bloom."
+   },
+   {
+    "month": 5,
+    "name": "Lotus Lantern Festival",
+    "text": "Lanterns for Buddha's birthday, on UNESCO's list."
+   },
+   {
+    "month": 7,
+    "name": "Boryeong Mud Festival",
+    "text": "Mud slides and mud fights on the beach."
+   },
+   {
+    "month": 8,
+    "name": "Liberation Day",
+    "text": "15 August."
+   },
+   {
+    "month": 9,
+    "name": "Chuseok",
+    "text": "Harvest festival, sometimes in October."
+   },
+   {
+    "month": 10,
+    "name": "Hangul Day",
+    "text": "9 October celebrates the Korean alphabet."
+   }
+  ]
+ }
 }

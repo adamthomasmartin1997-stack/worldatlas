@@ -36,5 +36,54 @@
    "term": "Smelter",
    "meaning": "A plant that heats ore to extract metal."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Indonesia",
+   "items": [
+    {
+     "title": "Palm oil",
+     "subtitle": "Sumatra, Kalimantan",
+     "text": "The world's largest producer."
+    },
+    {
+     "title": "Nickel",
+     "subtitle": "Sulawesi",
+     "text": "The world's largest producer, for batteries."
+    },
+    {
+     "title": "Coal",
+     "subtitle": "Kalimantan",
+     "text": "A major export."
+    },
+    {
+     "title": "Coffee",
+     "subtitle": "Sumatra, Java, Bali",
+     "text": "Famous single-origin coffees."
+    },
+    {
+     "title": "Rubber",
+     "subtitle": "Sumatra",
+     "text": "For tyres worldwide."
+    },
+    {
+     "title": "Instant noodles",
+     "subtitle": "Indomie",
+     "text": "Eaten in more than 100 countries."
+    },
+    {
+     "title": "Apps",
+     "subtitle": "Gojek",
+     "text": "A super-app that started with motorbike taxis."
+    },
+    {
+     "title": "The rupiah",
+     "subtitle": "Rp",
+     "text": "Indonesia's currency."
+    }
+   ],
+   "intro": "Some of the things Indonesia makes and sells to the world."
+  }
  ]
 }

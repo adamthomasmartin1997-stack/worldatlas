@@ -67,5 +67,89 @@
    "term": "Exclave",
    "meaning": "Part of a country separated from the rest by other countries' land."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Russia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Lake Ladoga",
+    "kind": "lake",
+    "lat": 61.0,
+    "lon": 31.5,
+    "text": "Europe's largest lake, near St Petersburg."
+   },
+   {
+    "name": "Volga Delta",
+    "kind": "river delta",
+    "lat": 46.3,
+    "lon": 48.0,
+    "text": "Where Europe's longest river meets the Caspian Sea."
+   },
+   {
+    "name": "Mount Elbrus",
+    "kind": "mountain",
+    "lat": 43.35,
+    "lon": 42.44,
+    "text": "Europe's highest mountain, in the Caucasus."
+   },
+   {
+    "name": "Ural Mountains",
+    "kind": "mountains",
+    "lat": 60.0,
+    "lon": 59.5,
+    "text": "The traditional border between Europe and Asia."
+   },
+   {
+    "name": "Altai Mountains",
+    "kind": "mountains",
+    "lat": 49.8,
+    "lon": 86.6,
+    "text": "Snowy peaks where Russia meets Kazakhstan, Mongolia and China."
+   },
+   {
+    "name": "Putorana Plateau",
+    "kind": "plateau",
+    "lat": 69.0,
+    "lon": 94.0,
+    "text": "Remote Arctic canyons and waterfalls."
+   },
+   {
+    "name": "Lake Baikal",
+    "kind": "lake",
+    "lat": 53.5,
+    "lon": 108.0,
+    "text": "The deepest and oldest lake on Earth."
+   },
+   {
+    "name": "Lena Pillars",
+    "kind": "rock pillars",
+    "lat": 61.1,
+    "lon": 127.4,
+    "text": "Stone towers along the Lena River."
+   },
+   {
+    "name": "Oymyakon",
+    "kind": "cold pole",
+    "lat": 63.46,
+    "lon": 142.79,
+    "text": "One of the coldest places where people live."
+   },
+   {
+    "name": "Kamchatka",
+    "kind": "volcanoes",
+    "lat": 56.06,
+    "lon": 160.64,
+    "text": "A peninsula of active volcanoes and bears."
+   },
+   {
+    "name": "Valley of Geysers",
+    "kind": "geysers",
+    "lat": 54.43,
+    "lon": 160.14,
+    "text": "One of the largest geyser fields in the world."
+   }
+  ]
+ }
 }

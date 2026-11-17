@@ -43,5 +43,139 @@
    "term": "Esports",
    "meaning": "Competitive video gaming, often watched by large audiences."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "KBO League",
+     "subtitle": "Baseball · since 1982",
+     "text": "The most popular league; the Kia Tigers have won the most titles."
+    },
+    {
+     "title": "K League",
+     "subtitle": "Football · since 1983",
+     "text": "Jeonbuk Hyundai Motors have won the most titles."
+    },
+    {
+     "title": "V-League",
+     "subtitle": "Volleyball",
+     "text": "Hugely popular on TV."
+    },
+    {
+     "title": "LCK",
+     "subtitle": "Esports",
+     "text": "The top League of Legends league, home of T1."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Sohn Kee-chung",
+     "subtitle": "Marathon",
+     "text": "Won gold at the 1936 Olympics, forced to compete for Japan."
+    },
+    {
+     "title": "Cha Bum-kun",
+     "subtitle": "Football",
+     "text": "A legendary striker in Germany's Bundesliga."
+    },
+    {
+     "title": "Pak Se-ri",
+     "subtitle": "Golf",
+     "text": "Inspired a generation of Korean women golfers."
+    },
+    {
+     "title": "Kim Yuna",
+     "subtitle": "Figure skating",
+     "text": "Olympic champion in 2010."
+    },
+    {
+     "title": "Son Heung-min",
+     "subtitle": "Football",
+     "text": "A Premier League star and Europa League winner."
+    },
+    {
+     "title": "An San",
+     "subtitle": "Archery",
+     "text": "Won three golds at the 2021 Olympics."
+    },
+    {
+     "title": "Faker",
+     "subtitle": "Esports",
+     "text": "One of the greatest League of Legends players."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where South Korea's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Seoul: Olympic Stadium, World Cup Stadium, LoL Park",
+    "kind": "venue",
+    "lat": 37.53,
+    "lon": 127.0,
+    "text": "Venues of the 1988 Olympics, the 2002 World Cup and esports."
+   },
+   {
+    "name": "Pyeongchang",
+    "kind": "venue",
+    "lat": 37.66,
+    "lon": 128.68,
+    "text": "Host of the 2018 Winter Olympics."
+   },
+   {
+    "name": "Sajik Stadium, Busan",
+    "kind": "venue",
+    "lat": 35.19,
+    "lon": 129.06,
+    "text": "Home of the Lotte Giants' famously loud fans."
+   },
+   {
+    "name": "Daegu Stadium",
+    "kind": "venue",
+    "lat": 35.83,
+    "lon": 128.69,
+    "text": "Host of the 2011 World Athletics Championships."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1936",
+    "title": "Sohn Kee-chung",
+    "text": "Marathon gold under a Japanese flag."
+   },
+   {
+    "year": "1988",
+    "title": "Seoul Olympics",
+    "text": "South Korea hosts the Summer Games."
+   },
+   {
+    "year": "2002",
+    "title": "World Cup semi-final",
+    "text": "Co-hosts South Korea reach the last four."
+   },
+   {
+    "year": "2010",
+    "title": "Kim Yuna",
+    "text": "Olympic figure skating gold."
+   },
+   {
+    "year": "2018",
+    "title": "Pyeongchang",
+    "text": "North and South march together."
+   }
+  ]
+ }
 }

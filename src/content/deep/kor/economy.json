@@ -40,5 +40,54 @@
    "term": "Semiconductor",
    "meaning": "A material used to make computer chips."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in South Korea",
+   "items": [
+    {
+     "title": "Memory chips",
+     "subtitle": "Samsung, SK Hynix",
+     "text": "Chips inside the world's phones and computers."
+    },
+    {
+     "title": "Phones and TVs",
+     "subtitle": "Samsung, LG",
+     "text": "Among the world's best-selling brands."
+    },
+    {
+     "title": "Cars",
+     "subtitle": "Hyundai, Kia",
+     "text": "Sold worldwide."
+    },
+    {
+     "title": "Ships",
+     "subtitle": "Ulsan, Geoje",
+     "text": "Some of the world's largest shipyards."
+    },
+    {
+     "title": "Batteries",
+     "subtitle": "LG Energy Solution, Samsung SDI",
+     "text": "For electric cars."
+    },
+    {
+     "title": "K-pop and dramas",
+     "subtitle": "HYBE, SM, Netflix hits",
+     "text": "Korean entertainment is a huge export."
+    },
+    {
+     "title": "Beauty products",
+     "subtitle": "K-beauty",
+     "text": "Skincare sold around the world."
+    },
+    {
+     "title": "The won",
+     "subtitle": "₩",
+     "text": "South Korea's currency."
+    }
+   ],
+   "intro": "Some of the things South Korea makes and sells to the world."
+  }
  ]
 }

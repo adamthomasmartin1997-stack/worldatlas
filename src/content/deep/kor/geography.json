@@ -41,5 +41,82 @@
    "term": "Tidal flat",
    "meaning": "Muddy coast uncovered at low tide and covered at high tide."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of South Korea's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Seoraksan",
+    "kind": "mountains",
+    "lat": 38.12,
+    "lon": 128.47,
+    "text": "Granite peaks famous for autumn colours."
+   },
+   {
+    "name": "Ulleungdo",
+    "kind": "volcanic island",
+    "lat": 37.5,
+    "lon": 130.86,
+    "text": "A rugged island far out in the East Sea."
+   },
+   {
+    "name": "Han River, Seoul",
+    "kind": "river",
+    "lat": 37.52,
+    "lon": 126.98,
+    "text": "The river through the capital, lined with parks."
+   },
+   {
+    "name": "Getbol tidal flats",
+    "kind": "mudflats",
+    "lat": 36.08,
+    "lon": 126.6,
+    "text": "Huge mudflats on the west coast, vital for migrating birds."
+   },
+   {
+    "name": "Jirisan",
+    "kind": "mountains",
+    "lat": 35.34,
+    "lon": 127.73,
+    "text": "South Korea's first national park."
+   },
+   {
+    "name": "Upo Wetland",
+    "kind": "wetland",
+    "lat": 35.55,
+    "lon": 128.42,
+    "text": "The country's largest inland wetland."
+   },
+   {
+    "name": "Haeundae, Busan",
+    "kind": "beach",
+    "lat": 35.16,
+    "lon": 129.16,
+    "text": "A famous city beach in South Korea's second city."
+   },
+   {
+    "name": "Boseong tea fields",
+    "kind": "tea terraces",
+    "lat": 34.71,
+    "lon": 127.08,
+    "text": "Green tea planted in curving rows on hillsides."
+   },
+   {
+    "name": "Suncheon Bay",
+    "kind": "reed beds",
+    "lat": 34.88,
+    "lon": 127.51,
+    "text": "Golden reeds and cranes in winter."
+   },
+   {
+    "name": "Hallasan and Jeju",
+    "kind": "volcano",
+    "lat": 33.36,
+    "lon": 126.53,
+    "text": "South Korea's highest mountain, on the island of Jeju."
+   }
+  ]
+ }
 }

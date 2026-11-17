@@ -41,5 +41,49 @@
    "term": "Black soil",
    "meaning": "Very fertile dark earth, called chernozem, found in southern Russia and Ukraine."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Russia",
+   "items": [
+    {
+     "title": "Oil and gas",
+     "subtitle": "Siberia",
+     "text": "One of the world's biggest energy exporters."
+    },
+    {
+     "title": "Wheat",
+     "subtitle": "The south",
+     "text": "The world's largest wheat exporter."
+    },
+    {
+     "title": "Diamonds",
+     "subtitle": "Yakutia",
+     "text": "Alrosa mines more diamonds than any other company."
+    },
+    {
+     "title": "Metals",
+     "subtitle": "Norilsk",
+     "text": "Nickel and palladium."
+    },
+    {
+     "title": "Nuclear power stations",
+     "subtitle": "Rosatom",
+     "text": "Built in many countries."
+    },
+    {
+     "title": "Timber",
+     "subtitle": "Siberian forests",
+     "text": "Huge forests supply wood."
+    },
+    {
+     "title": "The rouble",
+     "subtitle": "₽",
+     "text": "Russia's currency."
+    }
+   ],
+   "intro": "Some of the things Russia makes and sells to the world."
+  }
  ]
 }

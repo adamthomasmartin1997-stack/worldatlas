@@ -42,5 +42,141 @@
    "term": "Wayang kulit",
    "meaning": "Shadow puppet theatre from Java and Bali."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Rainbow Troops",
+     "subtitle": "2008 · Riri Riza",
+     "text": "Pupils at a poor village school on Belitung."
+    },
+    {
+     "title": "The Raid",
+     "subtitle": "2011 · Gareth Evans",
+     "text": "A non-stop action film showcasing pencak silat."
+    },
+    {
+     "title": "Satan's Slaves",
+     "subtitle": "2017 · Joko Anwar",
+     "text": "A hit horror film."
+    },
+    {
+     "title": "Marlina the Murderer in Four Acts",
+     "subtitle": "2017 · Mouly Surya",
+     "text": "A 'satay western' set on Sumba."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "This Earth of Mankind",
+     "subtitle": "1980 · Pramoedya Ananta Toer",
+     "text": "A young man in Dutch colonial Java."
+    },
+    {
+     "title": "Beauty Is a Wound",
+     "subtitle": "2002 · Eka Kurniawan",
+     "text": "A magical saga of Indonesian history."
+    },
+    {
+     "title": "The Rainbow Troops",
+     "subtitle": "2005 · Andrea Hirata",
+     "text": "A bestseller about children who love school."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Gamelan",
+     "subtitle": "Traditional",
+     "text": "Bronze orchestras of Java and Bali."
+    },
+    {
+     "title": "Bengawan Solo",
+     "subtitle": "Gesang, 1940",
+     "text": "A song about Java's longest river."
+    },
+    {
+     "title": "Dangdut",
+     "subtitle": "Rhoma Irama",
+     "text": "The 'king of dangdut', Indonesia's popular dance music."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Nasi goreng",
+     "subtitle": "Everywhere",
+     "text": "Fried rice with sweet soy sauce."
+    },
+    {
+     "title": "Rendang",
+     "subtitle": "West Sumatra",
+     "text": "Beef slow-cooked in coconut and spices."
+    },
+    {
+     "title": "Satay",
+     "subtitle": "Everywhere",
+     "text": "Grilled skewers with peanut sauce."
+    },
+    {
+     "title": "Gado-gado",
+     "subtitle": "Jakarta",
+     "text": "Vegetables with peanut sauce."
+    },
+    {
+     "title": "Tempeh",
+     "subtitle": "Java",
+     "text": "Fermented soybean cake."
+    },
+    {
+     "title": "Martabak",
+     "subtitle": "Everywhere",
+     "text": "A thick sweet or savoury pancake."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Nyepi",
+    "text": "Bali's day of silence, usually in March."
+   },
+   {
+    "month": 5,
+    "name": "Vesak at Borobudur",
+    "text": "Monks release lanterns at the great temple."
+   },
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "17 August, with games like greased-pole climbing."
+   },
+   {
+    "month": 8,
+    "name": "Pacu Jalur",
+    "text": "Long-boat races in Riau."
+   },
+   {
+    "month": 8,
+    "name": "Baliem Valley Festival",
+    "text": "Papuan cultures gather in the highlands."
+   }
+  ]
+ }
 }

@@ -62,5 +62,62 @@
    "term": "ASEAN",
    "meaning": "The Association of Southeast Asian Nations, a group of ten (now eleven) countries."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "5-year terms, two at most",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "People's Representative Council",
+     "subtitle": "580 members",
+     "text": "Makes laws with the government."
+    },
+    {
+     "title": "Regional Representative Council",
+     "subtitle": "152 members",
+     "text": "Four from each province; advises on regional laws."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "9 judges",
+     "text": "Rules on the constitution and election disputes."
+    },
+    {
+     "title": "Provinces",
+     "subtitle": "38 provinces",
+     "text": "Each with an elected governor."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the parliament, the President or the regional council."
+   },
+   {
+    "title": "Joint discussion",
+    "text": "Parliament and government ministers debate it together."
+   },
+   {
+    "title": "Plenary approval",
+    "text": "Parliament approves it."
+   },
+   {
+    "title": "The President signs",
+    "text": "If not signed within 30 days, it becomes law anyway."
+   }
+  ]
+ }
 }

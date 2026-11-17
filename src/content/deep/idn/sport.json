@@ -39,5 +39,129 @@
    "term": "Pencak silat",
    "meaning": "A martial art from Indonesia and the Malay world."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Super League",
+     "subtitle": "Football",
+     "text": "Indonesia's top division, with some of Asia's most passionate fans."
+    },
+    {
+     "title": "Proliga",
+     "subtitle": "Volleyball",
+     "text": "Indonesia's professional volleyball league."
+    },
+    {
+     "title": "IBL",
+     "subtitle": "Basketball",
+     "text": "The Indonesian Basketball League."
+    },
+    {
+     "title": "MPL Indonesia",
+     "subtitle": "Esports",
+     "text": "Mobile Legends tournaments watched by millions."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Rudy Hartono",
+     "subtitle": "Badminton",
+     "text": "Won the All England title eight times."
+    },
+    {
+     "title": "Susi Susanti",
+     "subtitle": "Badminton",
+     "text": "Won Indonesia's first Olympic gold in 1992."
+    },
+    {
+     "title": "Taufik Hidayat",
+     "subtitle": "Badminton",
+     "text": "Olympic champion in 2004."
+    },
+    {
+     "title": "Liliyana Natsir",
+     "subtitle": "Badminton",
+     "text": "Olympic mixed doubles champion in 2016."
+    },
+    {
+     "title": "Veddriq Leonardo",
+     "subtitle": "Speed climbing",
+     "text": "Olympic champion in 2024."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Indonesia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Gelora Bung Karno, Jakarta",
+    "kind": "venue",
+    "lat": -6.219,
+    "lon": 106.802,
+    "text": "Built for the 1962 Asian Games."
+   },
+   {
+    "name": "Jakabaring, Palembang",
+    "kind": "venue",
+    "lat": -3.02,
+    "lon": 104.79,
+    "text": "Co-host of the 2018 Asian Games."
+   },
+   {
+    "name": "Mandalika Circuit, Lombok",
+    "kind": "venue",
+    "lat": -8.89,
+    "lon": 116.3,
+    "text": "A MotoGP track by the sea."
+   },
+   {
+    "name": "Uluwatu, Bali",
+    "kind": "venue",
+    "lat": -8.81,
+    "lon": 115.09,
+    "text": "A world-famous surf break."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1958",
+    "title": "Thomas Cup",
+    "text": "Indonesia's first world badminton team title."
+   },
+   {
+    "year": "1962",
+    "title": "Asian Games",
+    "text": "Jakarta hosts."
+   },
+   {
+    "year": "1992",
+    "title": "First Olympic golds",
+    "text": "Badminton double in Barcelona."
+   },
+   {
+    "year": "2018",
+    "title": "Asian Games",
+    "text": "Jakarta and Palembang host."
+   },
+   {
+    "year": "2024",
+    "title": "Paris golds",
+    "text": "Climbing and weightlifting gold."
+   }
+  ]
+ }
 }

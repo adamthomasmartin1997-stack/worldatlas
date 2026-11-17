@@ -39,5 +39,134 @@
    "term": "Boycott",
    "meaning": "Refusing to take part in something as a protest."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "KHL",
+     "subtitle": "Ice hockey · since 2008",
+     "text": "A league with teams across Russia and neighbouring countries."
+    },
+    {
+     "title": "Russian Premier League",
+     "subtitle": "Football",
+     "text": "Spartak Moscow and Zenit St Petersburg have won the most titles."
+    },
+    {
+     "title": "VTB United League",
+     "subtitle": "Basketball",
+     "text": "The top basketball league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Lev Yashin",
+     "subtitle": "Football",
+     "text": "The only goalkeeper to win the Ballon d'Or."
+    },
+    {
+     "title": "Irina Rodnina",
+     "subtitle": "Figure skating",
+     "text": "Three Olympic golds in pairs skating."
+    },
+    {
+     "title": "Garry Kasparov",
+     "subtitle": "Chess",
+     "text": "World champion from 1985 to 2000."
+    },
+    {
+     "title": "Alexander Karelin",
+     "subtitle": "Wrestling",
+     "text": "Three Olympic golds; unbeaten for 13 years."
+    },
+    {
+     "title": "Yelena Isinbayeva",
+     "subtitle": "Pole vault",
+     "text": "Set 28 world records."
+    },
+    {
+     "title": "Alexander Ovechkin",
+     "subtitle": "Ice hockey",
+     "text": "The NHL's all-time top goal-scorer."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Russia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Luzhniki Stadium, Moscow",
+    "kind": "venue",
+    "lat": 55.716,
+    "lon": 37.554,
+    "text": "Main stadium of the 1980 Olympics and 2018 World Cup final."
+   },
+   {
+    "name": "Krestovsky Stadium, St Petersburg",
+    "kind": "venue",
+    "lat": 59.973,
+    "lon": 30.22,
+    "text": "A 2018 World Cup venue."
+   },
+   {
+    "name": "Kazan Arena",
+    "kind": "venue",
+    "lat": 55.82,
+    "lon": 49.16,
+    "text": "Hosted world swimming championships."
+   },
+   {
+    "name": "Sochi",
+    "kind": "venue",
+    "lat": 43.4,
+    "lon": 39.95,
+    "text": "Host of the 2014 Winter Olympics."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1956",
+    "title": "Olympic powerhouse",
+    "text": "The Soviet Union tops the medal table for the first time."
+   },
+   {
+    "year": "1960",
+    "title": "European champions",
+    "text": "The Soviet Union wins the first European Championship."
+   },
+   {
+    "year": "1980",
+    "title": "Moscow Olympics",
+    "text": "Boycotted by the US and many others."
+   },
+   {
+    "year": "2014",
+    "title": "Sochi Olympics",
+    "text": "Later overshadowed by a doping scandal."
+   },
+   {
+    "year": "2018",
+    "title": "World Cup",
+    "text": "Russia hosts and reaches the quarter-finals."
+   },
+   {
+    "year": "2022",
+    "title": "Bans",
+    "text": "Russian teams are barred from most competitions."
+   }
+  ]
+ }
 }
