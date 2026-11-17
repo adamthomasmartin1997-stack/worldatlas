@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Bulgarian culture is known for haunting folk choirs, masked kukeri dancers and monasteries in the mountains.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Rituals and music",
+   "text": [
+    "Kukeri, dancers in huge furry costumes and masks with heavy bells, chase away evil spirits in winter. In some villages, nestinari dance barefoot on hot embers. Bulgarian women's folk choirs became famous worldwide for their unusual harmonies."
+   ]
+  },
+  {
+   "id": "heritage-food",
+   "title": "Heritage and food",
+   "text": [
+    "Rila Monastery, with its striped arches and painted walls, is a World Heritage Site. Shopska salad, banitsa (cheese pastry) and tarator (cold yoghurt soup) are national favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kukeri",
+   "meaning": "Masked costumed dancers who scare away evil spirits."
+  }
+ ]
+}

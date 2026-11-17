@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Bulgaria is a parliamentary republic and a member of the EU, NATO and, since 2026, the eurozone.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Parliament and president",
+   "text": [
+    "The 240-member National Assembly chooses the government, and the president is directly elected for five years. Bulgaria held seven parliamentary elections between 2021 and 2024 because parties struggled to form stable governments."
+   ],
+   "facts": [
+    {
+     "label": "National Assembly",
+     "value": "240 members"
+    },
+    {
+     "label": "Currency",
+     "value": "Euro (from 2026)"
+    },
+    {
+     "label": "National Day",
+     "value": "3 March"
+    }
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols",
+   "text": [
+    "The flag is white, green and red. Bulgaria joined NATO in 2004 and the EU in 2007."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Coalition",
+   "meaning": "A government formed by several parties."
+  }
+ ]
+}

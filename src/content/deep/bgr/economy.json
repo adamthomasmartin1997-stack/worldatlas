@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Bulgaria has one of the EU's fastest-growing but still poorest economies, strong in IT, energy and farming.",
+ "chapters": [
+  {
+   "id": "sectors",
+   "title": "What Bulgaria makes",
+   "text": [
+    "Bulgaria produces much of the world's rose oil, grows sunflowers, wheat and tobacco, and runs a nuclear power station at Kozloduy. Sofia has a growing IT industry."
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Black Sea resorts and ski areas such as Bansko attract visitors. Wages are among the lowest in the EU, and many Bulgarians work abroad."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "IT outsourcing",
+   "meaning": "Doing computer and software work for companies in other countries."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Albanian culture includes ancient polyphonic songs, strong codes of honour and a famous novelist.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Songs and stories",
+   "text": [
+    "Albanian iso-polyphony, singing with several voice parts over a drone, is on UNESCO's heritage list. Ismail Kadare was one of Europe's most celebrated novelists."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Byrek (filled pastry), tavë kosi (baked lamb with yoghurt) and fresh seafood are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Polyphony",
+   "meaning": "Music with several independent melodies sung or played at once."
+  }
+ ]
+}

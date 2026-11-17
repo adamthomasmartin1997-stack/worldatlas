@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "Albanians speak a unique language and are known for religious tolerance and hospitality.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "Language and faith",
+   "text": [
+    "Albanian forms its own branch of the Indo-European family, unrelated closely to any other language. Muslims, Orthodox Christians and Catholics live side by side, and marriages between faiths are common.",
+    "Tirana is the capital. About as many Albanians live abroad, in Italy, Greece and beyond, as in Albania, and many more live in neighbouring Kosovo."
+   ],
+   "related": [
+    "ITA",
+    "GRC",
+    "UNK"
+   ]
+  },
+  {
+   "id": "customs",
+   "title": "Customs",
+   "text": [
+    "In traditional Albanian gestures, nodding can mean 'no' and shaking the head 'yes'. Guests are treated with great honour."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Branch",
+   "meaning": "A group of languages within a family that descend from a common ancestor."
+  }
+ ]
+}

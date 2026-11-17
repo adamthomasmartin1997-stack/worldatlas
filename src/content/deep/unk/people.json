@@ -1,0 +1,33 @@
+{
+ "status": "draft",
+ "intro": "Kosovo has one of the youngest populations in Europe. Most people are Albanian, with a Serb minority and several smaller communities.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "Communities",
+   "text": [
+    "About nine in ten people are Albanians; Serbs live mainly in the north and in smaller enclaves, and there are Bosniak, Turkish, Roma and other communities. Albanian and Serbian are both official languages. Most people are Muslim, with Orthodox and Catholic minorities.",
+    "Pristina is the capital, and Prizren is known for its Ottoman old town. Many Kosovars live in Germany and Switzerland."
+   ],
+   "related": [
+    "ALB",
+    "SRB",
+    "DEU",
+    "CHE"
+   ]
+  },
+  {
+   "id": "famous",
+   "title": "Famous Kosovars",
+   "text": [
+    "The pop stars Dua Lipa and Rita Ora have family roots in Kosovo."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Enclave",
+   "meaning": "A small area surrounded by a different community or territory."
+  }
+ ]
+}

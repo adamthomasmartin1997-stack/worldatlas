@@ -1,0 +1,105 @@
+{
+ "status": "draft",
+ "intro": "Bulgaria is one of Europe's oldest states, founded in 681, and the birthplace of the Cyrillic alphabet's early development. After nearly 500 years of Ottoman rule and decades of communism, it joined the EU in 2007.",
+ "chapters": [
+  {
+   "id": "thracians",
+   "title": "Thracian gold",
+   "text": [
+    "Gold objects found in graves near Varna, more than 6,000 years old, are among the oldest worked gold in the world. Later the Thracians, famed horsemen and craftsmen, lived here; the legendary musician Orpheus was said to be Thracian."
+   ]
+  },
+  {
+   "id": "empires",
+   "title": "Bulgarian empires",
+   "text": [
+    "In 681 Khan Asparuh founded the First Bulgarian Empire. Under Tsar Boris I it became Christian in 864, and scholars at schools in Preslav and Ohrid developed the Cyrillic alphabet, now used by more than 250 million people. 24 May is a holiday celebrating the alphabet.",
+    "A Second Bulgarian Empire rose in 1185, but the Ottomans conquered Bulgaria in 1396 and ruled for nearly 500 years."
+   ],
+   "related": [
+    "TUR",
+    "MKD",
+    "RUS"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Liberation and modern Bulgaria",
+   "text": [
+    "After the April Uprising of 1876 was brutally crushed, Russia went to war with the Ottomans, and Bulgaria was freed on 3 March 1878, now the national day. In the Second World War Bulgaria sided with Germany but refused to deport its own 48,000 Jews, though Jews from territories it occupied were sent to their deaths.",
+    "From 1946 Bulgaria was a communist state; Todor Zhivkov ruled for 35 years until 1989. Bulgaria joined NATO in 2004, the EU in 2007 and adopted the euro in 2026."
+   ],
+   "related": [
+    "RUS",
+    "DEU"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 4500 BC",
+   "title": "Varna gold",
+   "text": "Among the oldest gold treasures."
+  },
+  {
+   "year": "681",
+   "title": "First Bulgarian Empire",
+   "text": "Founded by Khan Asparuh."
+  },
+  {
+   "year": "864",
+   "title": "Christianity",
+   "text": "Boris I adopts Christianity."
+  },
+  {
+   "year": "c. 900",
+   "title": "Cyrillic alphabet",
+   "text": "Developed at Bulgarian schools."
+  },
+  {
+   "year": "1185",
+   "title": "Second Empire",
+   "text": "Bulgaria rises again."
+  },
+  {
+   "year": "1396",
+   "title": "Ottoman rule",
+   "text": "Bulgaria is conquered."
+  },
+  {
+   "year": "1876",
+   "title": "April Uprising",
+   "text": "A revolt against Ottoman rule."
+  },
+  {
+   "year": "1878",
+   "title": "Liberation",
+   "text": "Freed on 3 March."
+  },
+  {
+   "year": "1946",
+   "title": "Communist state",
+   "text": "The monarchy is abolished."
+  },
+  {
+   "year": "2007",
+   "title": "Joins the EU",
+   "text": "Bulgaria becomes a member."
+  },
+  {
+   "year": "2026",
+   "title": "Euro",
+   "text": "Bulgaria adopts the euro."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cyrillic",
+   "meaning": "An alphabet used for Bulgarian, Russian and other languages."
+  },
+  {
+   "term": "Thracians",
+   "meaning": "Ancient peoples of south-eastern Europe."
+  }
+ ]
+}

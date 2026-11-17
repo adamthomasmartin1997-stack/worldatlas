@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Kosovo's greatest sporting successes have come in judo.",
+ "chapters": [
+  {
+   "id": "judo",
+   "title": "Judo",
+   "text": [
+    "At the 2016 Olympics, Kosovo's first, Majlinda Kelmendi won gold in judo; Kosovar judoka won two more golds in 2021."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Kosovo joined UEFA and FIFA in 2016. Several stars of Switzerland's national team, such as Granit Xhaka, have Kosovar roots."
+   ],
+   "related": [
+    "CHE"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Judoka",
+   "meaning": "Someone who practises judo."
+  }
+ ]
+}

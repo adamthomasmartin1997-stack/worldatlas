@@ -1,0 +1,33 @@
+{
+ "status": "draft",
+ "intro": "Albania is a mountainous country on the Adriatic and Ionian seas, with wild rivers, ancient towns and a sunny 'Riviera'.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mountains and coast",
+   "text": [
+    "Mountains cover most of Albania, from the rugged Albanian Alps, called the Accursed Mountains, in the north to Mount Korab, the highest peak. The southern coast, the Albanian Riviera, has beaches and clear water. In 2023 the Vjosa became Europe's first wild river national park, protecting one of the continent's last free-flowing rivers.",
+    "Albania borders Montenegro, Kosovo, North Macedonia and Greece, and shares lakes Ohrid, Prespa and Shkodër with its neighbours."
+   ],
+   "related": [
+    "MNE",
+    "UNK",
+    "MKD",
+    "GRC"
+   ]
+  },
+  {
+   "id": "heritage",
+   "title": "Stone towns",
+   "text": [
+    "The Ottoman-era towns of Berat and Gjirokastër, built of stone on hillsides, and the ruins of Butrint are World Heritage Sites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Riviera",
+   "meaning": "A stretch of coast popular with holidaymakers."
+  }
+ ]
+}

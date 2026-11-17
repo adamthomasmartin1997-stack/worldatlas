@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Kosovo's culture combines Albanian, Serbian, Ottoman and other traditions.",
+ "chapters": [
+  {
+   "id": "heritage",
+   "title": "Heritage",
+   "text": [
+    "Medieval Serbian monasteries and Ottoman mosques and bridges, such as those in Prizren, show Kosovo's layered history. In Pristina, a big sculpture spelling 'NEWBORN' was unveiled on independence day and is repainted every year."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Flija, a layered pancake baked slowly over hot coals, is a traditional dish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Heritage",
+   "meaning": "Traditions, buildings and objects passed down from the past."
+  }
+ ]
+}

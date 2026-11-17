@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Kosovo's economy is small and relies heavily on money from relatives abroad.",
+ "chapters": [
+  {
+   "id": "sectors",
+   "title": "Coal, farms and remittances",
+   "text": [
+    "Kosovo has large reserves of lignite coal, which produces most of its electricity. Money sent home by Kosovars working abroad is a vital source of income, and many young people struggle to find jobs."
+   ]
+  },
+  {
+   "id": "future",
+   "title": "The future",
+   "text": [
+    "Since 2024 Kosovars have been able to travel to most EU countries without a visa, a long-awaited change."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lignite",
+   "meaning": "Soft brown coal."
+  }
+ ]
+}

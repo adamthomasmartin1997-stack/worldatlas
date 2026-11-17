@@ -1,0 +1,33 @@
+{
+ "status": "draft",
+ "intro": "Kosovo is a small, landlocked country of high plains surrounded by mountains.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Plains and mountains",
+   "text": [
+    "Two large plains are ringed by mountains, including the Accursed Mountains in the west, home to the highest peak, and the Šar Mountains in the south. The Rugova Gorge and the Mirusha waterfalls are popular with hikers.",
+    "Kosovo borders Serbia, North Macedonia, Albania and Montenegro."
+   ],
+   "related": [
+    "SRB",
+    "MKD",
+    "ALB",
+    "MNE"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Kosovo has hot summers and cold, snowy winters."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gorge",
+   "meaning": "A narrow valley with steep sides."
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "status": "draft",
+ "intro": "Bulgaria stretches from the Danube to the Black Sea, crossed by mountain ranges and famous for its Valley of Roses.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mountains, plains and sea",
+   "text": [
+    "The Danube forms most of the border with Romania. The Balkan Mountains run across the middle of the country, and in the south-west the Rila and Pirin ranges rise high; Musala, in Rila, is the highest peak in the Balkans. The Black Sea coast has long sandy beaches.",
+    "Bulgaria borders Romania, Serbia, North Macedonia, Greece and Turkey."
+   ],
+   "related": [
+    "ROU",
+    "SRB",
+    "MKD",
+    "GRC",
+    "TUR"
+   ]
+  },
+  {
+   "id": "nature",
+   "title": "Roses and rocks",
+   "text": [
+    "In the Valley of Roses around Kazanlak, farmers grow roses for rose oil used in perfumes. The Seven Rila Lakes and the strange rock towers of Belogradchik are natural wonders."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Rose oil",
+   "meaning": "A precious oil made from rose petals, used in perfume."
+  }
+ ]
+}

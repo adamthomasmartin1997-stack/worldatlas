@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Albania was Europe's poorest country in 1991; it has grown since, with tourism booming.",
+ "chapters": [
+  {
+   "id": "sectors",
+   "title": "Tourism and power",
+   "text": [
+    "Tourism has boomed as visitors discover the coast and mountains. Almost all of Albania's electricity comes from hydropower, and farming, especially olives, is important."
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "Many young Albanians emigrate for work, and money they send home is a big part of the economy."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Hydropower",
+   "meaning": "Electricity made from flowing water."
+  }
+ ]
+}

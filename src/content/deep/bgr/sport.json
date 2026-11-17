@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Bulgaria is known for wrestling, weightlifting, rhythmic gymnastics and one famous World Cup run.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Bulgaria finished fourth at the 1994 World Cup, and its star Hristo Stoichkov won the Ballon d'Or that year."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Gymnastics and more",
+   "text": [
+    "Bulgaria's rhythmic gymnastics teams are among the world's best, winning Olympic gold in 2021. Stefka Kostadinova's high jump world record of 2.09 m stood for 37 years, from 1987 to 2024."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Rhythmic gymnastics",
+   "meaning": "Gymnastics with ribbons, balls, hoops and clubs, set to music."
+  }
+ ]
+}

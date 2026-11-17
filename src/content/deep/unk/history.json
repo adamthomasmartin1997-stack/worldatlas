@@ -1,0 +1,105 @@
+{
+ "status": "draft",
+ "intro": "Kosovo is one of Europe's newest and most disputed countries. It declared independence from Serbia in 2008 after a war in 1998 and 1999, and its status is still not accepted by Serbia and many other countries.",
+ "chapters": [
+  {
+   "id": "medieval",
+   "title": "A contested land",
+   "text": [
+    "In the Middle Ages Kosovo was at the heart of the Serbian kingdom, and its Serbian Orthodox monasteries, such as Visoki Dečani and Gračanica, are World Heritage Sites. The Battle of Kosovo in 1389, against the Ottomans, is central to Serbian memory.",
+    "Under nearly 500 years of Ottoman rule, Albanians became the majority. Serbia took Kosovo in 1912, and it later became a province of Yugoslavia."
+   ],
+   "related": [
+    "SRB",
+    "TUR",
+    "ALB"
+   ]
+  },
+  {
+   "id": "war",
+   "title": "Autonomy and war",
+   "text": [
+    "In 1974 Kosovo was given wide self-rule within Yugoslavia, but Serbian leader Slobodan Milošević removed it in 1989. Kosovo Albanians, led by Ibrahim Rugova, resisted peacefully for years, until an armed group, the Kosovo Liberation Army, began fighting.",
+    "In the war of 1998 and 1999, about 13,000 people were killed and hundreds of thousands of Albanians were driven from their homes. NATO bombed Serbia for 78 days, after which Serbian forces withdrew and the United Nations took over the running of Kosovo."
+   ],
+   "related": [
+    "SRB",
+    "USA"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Kosovo declared independence on 17 February 2008. In 2010 the International Court of Justice said the declaration did not break international law. Many countries, including the US, UK, Germany and France, recognise Kosovo; Serbia, Russia, China and five EU members do not, so Kosovo is not a member of the United Nations."
+   ],
+   "related": [
+    "SRB",
+    "RUS",
+    "CHN",
+    "ESP",
+    "GRC",
+    "ROU",
+    "SVK",
+    "CYP"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1389",
+   "title": "Battle of Kosovo",
+   "text": "Serbs fight the Ottomans."
+  },
+  {
+   "year": "1455",
+   "title": "Ottoman rule",
+   "text": "Kosovo becomes Ottoman."
+  },
+  {
+   "year": "1912",
+   "title": "Serbian rule",
+   "text": "Serbia takes Kosovo."
+  },
+  {
+   "year": "1974",
+   "title": "Autonomy",
+   "text": "Kosovo gains self-rule in Yugoslavia."
+  },
+  {
+   "year": "1989",
+   "title": "Autonomy removed",
+   "text": "Milošević ends self-rule."
+  },
+  {
+   "year": "1998",
+   "title": "War",
+   "text": "Fighting breaks out."
+  },
+  {
+   "year": "1999",
+   "title": "NATO intervention",
+   "text": "UN administration begins."
+  },
+  {
+   "year": "2008",
+   "title": "Independence",
+   "text": "Declared on 17 February."
+  },
+  {
+   "year": "2010",
+   "title": "ICJ opinion",
+   "text": "The declaration is found lawful."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Recognition",
+   "meaning": "When one country officially accepts another as an independent state."
+  },
+  {
+   "term": "Autonomy",
+   "meaning": "The right of a region to govern its own affairs."
+  }
+ ]
+}

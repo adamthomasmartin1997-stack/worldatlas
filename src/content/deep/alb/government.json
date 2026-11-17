@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Albania is a parliamentary republic, a NATO member and a candidate to join the European Union.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Parliament and prime minister",
+   "text": [
+    "The 140-member parliament chooses the prime minister; Edi Rama, a former artist and mayor of Tirana, has led the government since 2013. In 2025 Albania made headlines by appointing an AI-generated virtual 'minister' to oversee public contracts."
+   ],
+   "facts": [
+    {
+     "label": "Parliament",
+     "value": "140 members"
+    },
+    {
+     "label": "Currency",
+     "value": "Lek"
+    },
+    {
+     "label": "Independence Day",
+     "value": "28 November"
+    }
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols",
+   "text": [
+    "The red flag shows a black double-headed eagle, said to come from Skanderbeg's banner."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Prime minister",
+   "meaning": "The head of the government."
+  }
+ ]
+}

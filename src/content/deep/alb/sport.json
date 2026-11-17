@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Albanians love football and have won Olympic medals in weightlifting and wrestling.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Albania reached its first major tournament at Euro 2016 and qualified again for Euro 2024."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Strength sports",
+   "text": [
+    "Albanian athletes have won Olympic medals in weightlifting and wrestling."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Euro",
+   "meaning": "The European Championship in football."
+  }
+ ]
+}

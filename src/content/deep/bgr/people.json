@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Bulgaria has a shrinking population, rich folk traditions and the world's most famous yoghurt bacteria.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Sofia, Plovdiv and Varna are the largest cities. Most people are Bulgarian and Orthodox Christian; there are large Turkish and Roma minorities. Bulgaria's population has fallen sharply since 1989 because of emigration and low birth rates.",
+    "Like Albanians, many Bulgarians traditionally nod for 'no' and shake their heads for 'yes'."
+   ],
+   "related": [
+    "TUR"
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "On 1 March, people exchange martenitsi, red and white tokens, to welcome spring. The bacterium that turns milk into yoghurt was named Lactobacillus bulgaricus after it was identified by a Bulgarian scientist."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Martenitsa",
+   "meaning": "A red-and-white token worn in March for health and spring."
+  }
+ ]
+}

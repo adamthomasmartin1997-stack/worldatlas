@@ -1,0 +1,94 @@
+{
+ "status": "draft",
+ "intro": "Albania was home to the ancient Illyrians, fought the Ottomans under its hero Skanderbeg and became independent in 1912. Under communist rule it was one of the most isolated countries on Earth until 1991.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Illyrians and Skanderbeg",
+   "text": [
+    "The ancient Illyrians lived here, alongside Greek colonies such as Apollonia and Butrint; the Romans then ruled for centuries. In the 1400s Gjergj Kastrioti, known as Skanderbeg, led Albanian resistance against the Ottoman Empire for 25 years. He is Albania's national hero.",
+    "After his death the Ottomans ruled for more than 400 years, and many Albanians became Muslim."
+   ],
+   "related": [
+    "GRC",
+    "ITA",
+    "TUR"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Albania declared independence in Vlorë on 28 November 1912. It was ruled by King Zog from 1928 until Italy invaded in 1939. During the Second World War many Albanians sheltered Jews, following a code of honour called besa, and Albania ended the war with more Jews than it had at the start."
+   ],
+   "highlight": {
+    "title": "Besa",
+    "text": "Besa means a promise of honour. Albanians who protected Jewish refugees said they were keeping their besa to guests."
+   },
+   "related": [
+    "ITA",
+    "ISR"
+   ]
+  },
+  {
+   "id": "hoxha",
+   "title": "Hoxha's Albania",
+   "text": [
+    "From 1944 Enver Hoxha ruled a harsh communist state. He broke with Yugoslavia, the Soviet Union and China, leaving Albania almost completely cut off. In 1967 Albania declared itself the world's first atheist state, banning religion, and Hoxha built around 170,000 concrete bunkers against an invasion that never came.",
+    "Communism collapsed in 1991. Albania joined NATO in 2009 and became a candidate to join the EU in 2014."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1443",
+   "title": "Skanderbeg's revolt",
+   "text": "Resistance to the Ottomans begins."
+  },
+  {
+   "year": "1478",
+   "title": "Ottoman rule",
+   "text": "Albania is conquered."
+  },
+  {
+   "year": "1912",
+   "title": "Independence",
+   "text": "Declared on 28 November."
+  },
+  {
+   "year": "1939",
+   "title": "Italian invasion",
+   "text": "Italy occupies Albania."
+  },
+  {
+   "year": "1944",
+   "title": "Hoxha takes power",
+   "text": "A communist dictatorship begins."
+  },
+  {
+   "year": "1967",
+   "title": "Atheist state",
+   "text": "Religion is banned."
+  },
+  {
+   "year": "1991",
+   "title": "End of communism",
+   "text": "Albania opens up."
+  },
+  {
+   "year": "2009",
+   "title": "Joins NATO",
+   "text": "Albania becomes a member."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Atheist",
+   "meaning": "Not believing in any god."
+  },
+  {
+   "term": "Illyrians",
+   "meaning": "Ancient peoples of the western Balkans."
+  }
+ ]
+}

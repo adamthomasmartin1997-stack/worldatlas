@@ -1,0 +1,43 @@
+{
+ "status": "draft",
+ "intro": "Kosovo is a parliamentary republic recognised by many, but not all, countries.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Assembly and president",
+   "text": [
+    "The 120-member Assembly reserves 20 seats for minority communities. The president is elected by the Assembly. Kosovo uses the euro, although it is not in the EU."
+   ],
+   "facts": [
+    {
+     "label": "Assembly",
+     "value": "120 members"
+    },
+    {
+     "label": "Currency",
+     "value": "Euro"
+    },
+    {
+     "label": "Independence",
+     "value": "2008"
+    }
+   ]
+  },
+  {
+   "id": "relations",
+   "title": "Relations with Serbia",
+   "text": [
+    "Talks between Kosovo and Serbia, led by the EU, aim to normalise relations, but tensions, especially in the Serb-majority north, often flare up. NATO peacekeepers have been stationed in Kosovo since 1999."
+   ],
+   "related": [
+    "SRB"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Peacekeepers",
+   "meaning": "International troops sent to keep the peace."
+  }
+ ]
+}
