@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "South Africa sits at the southern tip of Africa, where the Atlantic and Indian oceans meet. It has a high central plateau, dramatic mountains, semi-desert, a unique world of plants around the Cape and some of the best wildlife reserves on Earth.",
+ "chapters": [
+  {
+   "id": "shape",
+   "title": "The tip of Africa",
+   "text": [
+    "South Africa borders Namibia, Botswana, Zimbabwe, Mozambique and Eswatini, and completely surrounds the small mountain kingdom of Lesotho. Cape Agulhas, not the Cape of Good Hope, is the southernmost point of Africa.",
+    "Most of the interior is a high plateau, the Highveld, edged by the Great Escarpment. In the east it rises to the Drakensberg, South Africa's highest mountains, while the dry Karoo stretches across the centre."
+   ],
+   "related": [
+    "NAM",
+    "BWA",
+    "ZWE",
+    "MOZ",
+    "SWZ",
+    "LSO"
+   ]
+  },
+  {
+   "id": "cape",
+   "title": "Table Mountain and the Cape",
+   "text": [
+    "Flat-topped Table Mountain rises above Cape Town; when cloud spills over it, locals say the 'tablecloth' is on. The Cape has a Mediterranean climate with winter rains.",
+    "The Cape Floral Region is the smallest of the world's six plant kingdoms but one of the richest, with thousands of plants found nowhere else, especially fynbos shrubs and proteas. In spring, the dry north-west of Namaqualand bursts into carpets of wild flowers."
+   ]
+  },
+  {
+   "id": "wildlife",
+   "title": "Wildlife",
+   "text": [
+    "Kruger National Park, created in 1926, is one of Africa's largest game reserves and home to the 'Big Five': lion, leopard, elephant, buffalo and rhino. South Africa has more rhinos than any other country, but poaching for their horns is a constant threat.",
+    "African penguins waddle on the beaches near Cape Town, whales can be seen from the cliffs at Hermanus, and the springbok, a leaping antelope, is the national animal."
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate and water",
+   "text": [
+    "Most of South Africa gets its rain in summer, often in thunderstorms, while the Cape gets rain in winter. Water is scarce: in 2018 Cape Town came close to 'Day Zero', when taps would have been turned off, until residents cut their use dramatically."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Plateau",
+   "meaning": "A large area of high, fairly flat land."
+  },
+  {
+   "term": "Fynbos",
+   "meaning": "The fine-leaved shrubland of the Cape, home to thousands of unique plants."
+  },
+  {
+   "term": "Big Five",
+   "meaning": "Lion, leopard, elephant, buffalo and rhino, once the animals hunters found hardest to catch."
+  }
+ ]
+}

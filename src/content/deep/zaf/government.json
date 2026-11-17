@@ -1,0 +1,67 @@
+{
+ "status": "draft",
+ "intro": "South Africa is a parliamentary republic whose 1996 constitution is known as one of the most progressive in the world. Since 1994 it has held regular free elections.",
+ "chapters": [
+  {
+   "id": "constitution",
+   "title": "The constitution",
+   "text": [
+    "The constitution, signed by Nelson Mandela in 1996, includes a Bill of Rights protecting everyone's dignity and equality. It was the first in the world to ban discrimination based on sexual orientation, and in 2006 South Africa became the first African country to allow same-sex marriage.",
+    "The Constitutional Court in Johannesburg, built on the site of a former prison where Gandhi and Mandela were held, can overturn laws and government actions that break it."
+   ]
+  },
+  {
+   "id": "parliament",
+   "title": "President and parliament",
+   "text": [
+    "Voters elect the 400-member National Assembly using proportional representation: parties win seats in line with their share of the vote. The Assembly then elects the president, who leads the government. Cyril Ramaphosa has been president since 2018.",
+    "A second chamber, the National Council of Provinces, represents the nine provinces. Traditional kings and chiefs, such as the Zulu king, have a recognised role in their communities."
+   ],
+   "facts": [
+    {
+     "label": "Provinces",
+     "value": "9"
+    },
+    {
+     "label": "National Assembly",
+     "value": "400 members"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Flag and anthem",
+   "text": [
+    "The flag, adopted in 1994, has six colours with a sideways Y shape, often said to show different groups coming together. The anthem combines the hymn Nkosi Sikelel' iAfrika with part of the old anthem, sung in five languages."
+   ]
+  },
+  {
+   "id": "world",
+   "title": "South Africa in the world",
+   "text": [
+    "South Africa is a member of BRICS and the G20, and in 2025 it became the first African country to host a G20 summit. It plays a leading role in the African Union and in peace efforts across the continent."
+   ],
+   "related": [
+    "BRA",
+    "RUS",
+    "IND",
+    "CHN",
+    "NGA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bill of Rights",
+   "meaning": "A list of basic rights and freedoms protected by law."
+  },
+  {
+   "term": "Proportional representation",
+   "meaning": "A voting system where parties get seats in proportion to their share of votes."
+  }
+ ]
+}

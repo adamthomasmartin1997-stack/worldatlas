@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "South African culture mixes the traditions of many peoples. Its music, from jazz and gospel to amapiano, is loved worldwide, and its food reflects African, Dutch, Malay and Indian roots.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music",
+   "text": [
+    "Miriam Makeba, 'Mama Africa', and trumpeter Hugh Masekela took South African jazz to the world and spoke out against apartheid. Ladysmith Black Mambazo's a cappella singing became famous through Paul Simon's album Graceland.",
+    "Amapiano, a style of house music born in townships around Pretoria and Johannesburg in the 2010s, now fills dance floors worldwide, and singer Tyla won the first Grammy for Best African Music Performance in 2024."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "A braai, cooking meat over a wood fire, is a national pastime; Heritage Day, 24 September, is nicknamed National Braai Day. Favourites include boerewors (spiced sausage), biltong (dried meat), bobotie (spiced minced meat with an egg topping, from Cape Malay cooking) and pap, a maize porridge.",
+    "In Durban, the Indian community created bunny chow: a hollowed-out loaf of bread filled with curry."
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Writers and storytellers",
+   "text": [
+    "Two South African writers, Nadine Gordimer and J. M. Coetzee, have won the Nobel Prize in Literature. Alan Paton's Cry, the Beloved Country and Nelson Mandela's autobiography Long Walk to Freedom are classics, and comedian Trevor Noah's memoir Born a Crime tells of growing up as a mixed-race child under apartheid.",
+    "Ndebele women are famous for painting their houses in bold geometric patterns, and San rock art, some thousands of years old, is found across the country."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Braai",
+   "meaning": "Afrikaans for barbecue, a South African social tradition."
+  },
+  {
+   "term": "Amapiano",
+   "meaning": "A South African style of house music with piano melodies and deep bass."
+  }
+ ]
+}

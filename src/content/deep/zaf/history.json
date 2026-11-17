@@ -1,0 +1,167 @@
+{
+ "status": "draft",
+ "intro": "South Africa holds some of the oldest evidence of human ancestors on Earth. Colonised by the Dutch and British, it later imposed apartheid, a brutal system of racial segregation, until a peaceful transition made Nelson Mandela president in 1994.",
+ "chapters": [
+  {
+   "id": "cradle",
+   "title": "Cradle of Humankind",
+   "text": [
+    "Caves near Johannesburg, known as the Cradle of Humankind, have produced more fossils of early human ancestors than almost anywhere else, including the 'Taung Child' found in 1924 and the species Homo naledi, discovered in 2015.",
+    "At Blombos Cave on the south coast, people engraved patterns on pieces of red ochre about 75,000 years ago, some of the earliest known art. The San, hunter-gatherers, and the Khoikhoi, herders, are descendants of some of the region's earliest peoples; their rock paintings are found across the country."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Discoveries in South Africa helped show that humans evolved in Africa."
+   }
+  },
+  {
+   "id": "kingdoms",
+   "title": "Kingdoms and colonists",
+   "text": [
+    "By about AD 300, Bantu-speaking farmers had settled in the east and north, ancestors of today's Zulu, Xhosa, Sotho and other peoples. Around 1075 to 1220 the kingdom of Mapungubwe traded gold and ivory as far as China; its craftsmen made a famous golden rhinoceros.",
+    "In 1652 the Dutch East India Company set up a supply station at Cape Town for ships sailing to Asia. It brought enslaved people from Asia and other parts of Africa, and settlers took Khoikhoi land. Britain seized the Cape around 1806 and abolished slavery in 1834.",
+    "Many Dutch-speaking settlers, called Boers or Afrikaners, moved inland in the Great Trek of the 1830s and set up their own republics. Inland, the Zulu kingdom, built by Shaka, became a great power; in 1879 the Zulu army defeated a British force at Isandlwana before being conquered."
+   ],
+   "related": [
+    "NLD",
+    "GBR",
+    "IDN",
+    "MDG"
+   ]
+  },
+  {
+   "id": "gold",
+   "title": "Diamonds, gold and union",
+   "text": [
+    "Diamonds were found at Kimberley in 1867 and gold on the Witwatersrand in 1886, where Johannesburg grew almost overnight. Britain fought the Boer republics for control in the South African War (1899 to 1902), and tens of thousands of Boer and Black African civilians died in British camps.",
+    "In 1910 the British colonies and Boer republics joined as the Union of South Africa, run by and for white people. The Natives Land Act of 1913 restricted Black South Africans to about 7% of the land. The African National Congress (ANC) was founded in 1912 to fight for their rights, and a young lawyer called Mohandas Gandhi developed his ideas of peaceful resistance while living in South Africa."
+   ],
+   "related": [
+    "GBR",
+    "IND"
+   ]
+  },
+  {
+   "id": "apartheid",
+   "title": "Apartheid",
+   "text": [
+    "From 1948 the National Party government introduced apartheid, Afrikaans for 'apartness'. Every person was classified by race. Black South Africans had to carry passes, could not vote and were forced to live in separate areas, and millions were moved from their homes; schools, hospitals, beaches and even benches were segregated.",
+    "In 1960 police shot dead 69 protesters at Sharpeville, and the ANC was banned. Nelson Mandela was sentenced to life in prison in 1964 and spent 18 of his 27 years behind bars on Robben Island. In 1976 police opened fire on schoolchildren in Soweto protesting against being taught in Afrikaans. Around the world, people boycotted South African goods and sport."
+   ],
+   "highlight": {
+    "title": "Remembered days",
+    "text": "South Africa's public holidays mark this history: Human Rights Day (21 March) for Sharpeville, Youth Day (16 June) for Soweto and Freedom Day (27 April) for the first democratic election."
+   }
+  },
+  {
+   "id": "freedom",
+   "title": "Freedom",
+   "text": [
+    "In 1990 President F. W. de Klerk lifted the ban on the ANC and freed Mandela. After tense negotiations, all South Africans voted for the first time on 27 April 1994, and Mandela became president. The two men shared the Nobel Peace Prize in 1993.",
+    "A Truth and Reconciliation Commission, led by Archbishop Desmond Tutu, heard the stories of victims and offered amnesty to those who confessed political crimes. South Africa also became the only country to build nuclear weapons and then give them up voluntarily.",
+    "Since then the country has faced HIV/AIDS, corruption, power cuts and high unemployment. In 2024 the ANC lost its majority for the first time and formed a coalition, the Government of National Unity."
+   ],
+   "related": [
+    "NAM",
+    "ZWE",
+    "MOZ"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 75,000 years ago",
+   "title": "Blombos Cave",
+   "text": "People engrave patterns on ochre."
+  },
+  {
+   "year": "c. 1075",
+   "title": "Mapungubwe",
+   "text": "A gold-trading kingdom rises in the north."
+  },
+  {
+   "year": "1652",
+   "title": "Cape Town",
+   "text": "The Dutch set up a supply station."
+  },
+  {
+   "year": "1834",
+   "title": "Slavery abolished",
+   "text": "Britain ends slavery at the Cape."
+  },
+  {
+   "year": "1879",
+   "title": "Isandlwana",
+   "text": "The Zulu army defeats the British."
+  },
+  {
+   "year": "1886",
+   "title": "Gold",
+   "text": "Gold is found and Johannesburg is born."
+  },
+  {
+   "year": "1899",
+   "title": "South African War",
+   "text": "Britain fights the Boer republics until 1902."
+  },
+  {
+   "year": "1910",
+   "title": "Union",
+   "text": "The Union of South Africa is formed."
+  },
+  {
+   "year": "1912",
+   "title": "ANC founded",
+   "text": "The struggle for equal rights is organised."
+  },
+  {
+   "year": "1948",
+   "title": "Apartheid",
+   "text": "The National Party begins legal segregation."
+  },
+  {
+   "year": "1960",
+   "title": "Sharpeville",
+   "text": "Police kill 69 protesters."
+  },
+  {
+   "year": "1976",
+   "title": "Soweto uprising",
+   "text": "Students protest against Afrikaans in schools."
+  },
+  {
+   "year": "1990",
+   "title": "Mandela freed",
+   "text": "After 27 years in prison."
+  },
+  {
+   "year": "1994",
+   "title": "Democracy",
+   "text": "Mandela is elected president."
+  },
+  {
+   "year": "2010",
+   "title": "World Cup",
+   "text": "The first FIFA World Cup in Africa."
+  },
+  {
+   "year": "2024",
+   "title": "Coalition government",
+   "text": "The ANC loses its majority."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Apartheid",
+   "meaning": "South Africa's system of racial segregation and white minority rule, 1948 to 1994."
+  },
+  {
+   "term": "Boer / Afrikaner",
+   "meaning": "Descendants of Dutch and other European settlers who speak Afrikaans."
+  },
+  {
+   "term": "Reconciliation",
+   "meaning": "Bringing people together after conflict and injustice."
+  }
+ ]
+}

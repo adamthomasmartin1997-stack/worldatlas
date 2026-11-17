@@ -1,0 +1,47 @@
+{
+ "status": "draft",
+ "intro": "Sport helped bring South Africa together after apartheid. Its rugby team, the Springboks, has won the World Cup a record four times.",
+ "chapters": [
+  {
+   "id": "rugby",
+   "title": "Rugby",
+   "text": [
+    "In 1995, just after apartheid ended, South Africa hosted and won the Rugby World Cup. Nelson Mandela presented the trophy wearing a Springbok shirt, once a symbol of white South Africa, a moment that became a symbol of reconciliation.",
+    "The Springboks won again in 2007, 2019 and 2023, more than any other team. Siya Kolisi, who grew up in a township near Gqeberha, captained them to the last two titles as their first Black Test captain."
+   ],
+   "related": [
+    "NZL",
+    "GBR",
+    "FRA"
+   ]
+  },
+  {
+   "id": "cricket-football",
+   "title": "Cricket and football",
+   "text": [
+    "In 2025 the cricket team, the Proteas, won the World Test Championship, beating Australia at Lord's. In football, Bafana Bafana won the Africa Cup of Nations in 1996, and in 2010 South Africa became the first African country to host the World Cup, famous for the buzz of plastic vuvuzela horns. The women's team, Banyana Banyana, won the Women's Africa Cup of Nations in 2022."
+   ],
+   "related": [
+    "AUS"
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Running, swimming and golf",
+   "text": [
+    "During apartheid South Africa was banned from the Olympics from 1964 until 1992. Since then, Wayde van Niekerk set the 400 m world record at the 2016 Olympics, and swimmer Tatjana Smith won Olympic gold in 2021 and 2024.",
+    "The Comrades Marathon, run between Durban and Pietermaritzburg since 1921, is the world's oldest and largest ultramarathon, about 90 km long. Golfer Gary Player won nine major championships."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Springboks",
+   "meaning": "The nickname of South Africa's national rugby union team."
+  },
+  {
+   "term": "Ultramarathon",
+   "meaning": "A running race longer than a marathon's 42.2 km."
+  }
+ ]
+}

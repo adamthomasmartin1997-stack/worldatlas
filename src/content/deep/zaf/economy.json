@@ -1,0 +1,39 @@
+{
+ "status": "draft",
+ "intro": "South Africa has the most industrialised economy in Africa, built on mining, but it struggles with unemployment, inequality and an unreliable electricity supply.",
+ "chapters": [
+  {
+   "id": "mining",
+   "title": "Mining",
+   "text": [
+    "For a century the Witwatersrand produced more gold than anywhere else on Earth, and the currency, the rand, is named after it. South Africa still mines most of the world's platinum, used in car exhaust filters and jewellery, as well as chromium, manganese, coal and diamonds.",
+    "The diamond company De Beers was founded at Kimberley, where miners dug the 'Big Hole', one of the largest hand-dug pits in the world."
+   ]
+  },
+  {
+   "id": "industry",
+   "title": "Cars, fruit and finance",
+   "text": [
+    "Factories near Port Elizabeth (Gqeberha), Pretoria and Durban build cars for export to Europe. South Africa is one of the world's biggest exporters of fresh citrus fruit and makes wine in the Cape. Rooibos tea grows only in the Cederberg mountains.",
+    "Johannesburg is Africa's main financial centre, with the continent's largest stock exchange. In 1967 the surgeon Christiaan Barnard carried out the world's first human heart transplant in Cape Town."
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "Most electricity comes from coal power stations run by the state company Eskom. Breakdowns led to years of scheduled power cuts, called load-shedding, which hurt businesses. High unemployment, crime and corruption are also major problems."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Load-shedding",
+   "meaning": "Planned power cuts used when there isn't enough electricity for everyone."
+  },
+  {
+   "term": "Platinum",
+   "meaning": "A rare, valuable metal used in jewellery and in devices that clean car exhaust."
+  }
+ ]
+}

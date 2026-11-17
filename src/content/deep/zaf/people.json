@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Archbishop Desmond Tutu called South Africa the 'Rainbow Nation'. It has 12 official languages and people of many backgrounds, but it is also one of the most unequal countries in the world.",
+ "chapters": [
+  {
+   "id": "cities",
+   "title": "Three capitals",
+   "text": [
+    "South Africa has three capitals: Pretoria, where the government works; Cape Town, where parliament meets; and Bloemfontein, home of the Supreme Court of Appeal. The biggest city is Johannesburg, the economic heart of the country; Durban is the busiest port.",
+    "Townships, such as Soweto near Johannesburg, were created under apartheid as separate areas for Black South Africans and are still home to millions of people."
+   ]
+  },
+  {
+   "id": "peoples",
+   "title": "A rainbow nation",
+   "text": [
+    "About eight in ten South Africans are Black African, belonging to peoples such as the Zulu, Xhosa, Sotho, Tswana and Pedi. Coloured South Africans, a census term for people of mixed ancestry, live mainly in the Western Cape, and there are white communities of Afrikaner and British origin and a large Indian community, especially in Durban.",
+    "Ubuntu, a southern African idea often translated as 'I am because we are', stresses that people are connected to and responsible for each other."
+   ],
+   "related": [
+    "IND"
+   ]
+  },
+  {
+   "id": "languages",
+   "title": "Twelve languages",
+   "text": [
+    "The 12 official languages are isiZulu, isiXhosa, Afrikaans, English, Sepedi, Setswana, Sesotho, Xitsonga, siSwati, Tshivenda, isiNdebele and South African Sign Language. Zulu is the most common home language, while English is used most in business and government.",
+    "Xhosa and Zulu include click sounds, made with the tongue. Afrikaans grew from Dutch spoken at the Cape, mixed with words from Malay, Portuguese and Khoikhoi languages."
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Inequality",
+   "text": [
+    "The gap between rich and poor in South Africa is among the widest in the world, and it still largely follows the racial lines drawn under apartheid. About a third of people who want work cannot find a job, and young people are hit hardest."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Township",
+   "meaning": "An urban area set aside for non-white South Africans under apartheid."
+  },
+  {
+   "term": "Ubuntu",
+   "meaning": "A philosophy of shared humanity: 'I am because we are'."
+  },
+  {
+   "term": "Click consonant",
+   "meaning": "A sound made by the tongue clicking against the mouth, used in Xhosa and Zulu."
+  }
+ ]
+}
