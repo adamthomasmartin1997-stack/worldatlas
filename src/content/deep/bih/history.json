@@ -1,0 +1,101 @@
+{
+ "status": "draft",
+ "intro": "Bosnia and Herzegovina has been a meeting place of empires, faiths and peoples for centuries. After independence in 1992 it suffered Europe's worst war since 1945, and it is still rebuilding.",
+ "chapters": [
+  {
+   "id": "medieval",
+   "title": "Kingdom and empires",
+   "text": [
+    "In the Middle Ages Bosnia was an independent kingdom, at its strongest under Tvrtko I in the 1370s. Its carved medieval tombstones, called stećci, are World Heritage Sites.",
+    "The Ottomans conquered Bosnia in 1463, and many Bosnians became Muslim. Ottoman builders created Mostar's Old Bridge in 1566. Austria-Hungary took control in 1878, and in 1914 the assassination of Archduke Franz Ferdinand in Sarajevo triggered the First World War."
+   ],
+   "related": [
+    "TUR",
+    "AUT",
+    "SRB",
+    "HRV"
+   ]
+  },
+  {
+   "id": "yugoslavia",
+   "title": "In Yugoslavia",
+   "text": [
+    "From 1918 Bosnia was part of Yugoslavia. Sarajevo hosted the Winter Olympics in 1984, a moment of pride for the whole country."
+   ]
+  },
+  {
+   "id": "war",
+   "title": "War and peace",
+   "text": [
+    "Bosnia declared independence in 1992 after a referendum boycotted by most Bosnian Serbs, and war broke out between Bosniaks, Serbs and Croats. Sarajevo was besieged for nearly four years, the longest siege of a capital city in modern times. About 100,000 people were killed.",
+    "In July 1995 Bosnian Serb forces killed about 8,000 Bosniak men and boys at Srebrenica, which international courts ruled was genocide. The Dayton Agreement ended the war in December 1995. Mostar's Old Bridge, destroyed in 1993, was rebuilt in 2004."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "The war led to international courts trying leaders for war crimes and genocide, and to a still-divided system of government designed to keep the peace."
+   },
+   "related": [
+    "SRB",
+    "HRV",
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1377",
+   "title": "Tvrtko I",
+   "text": "Bosnia becomes a kingdom."
+  },
+  {
+   "year": "1463",
+   "title": "Ottoman conquest",
+   "text": "Bosnia joins the Ottoman Empire."
+  },
+  {
+   "year": "1566",
+   "title": "Old Bridge",
+   "text": "Mostar's bridge is completed."
+  },
+  {
+   "year": "1878",
+   "title": "Austria-Hungary",
+   "text": "Takes control of Bosnia."
+  },
+  {
+   "year": "1914",
+   "title": "Sarajevo assassination",
+   "text": "Triggers the First World War."
+  },
+  {
+   "year": "1984",
+   "title": "Winter Olympics",
+   "text": "Held in Sarajevo."
+  },
+  {
+   "year": "1992",
+   "title": "Independence and war",
+   "text": "The Bosnian War begins."
+  },
+  {
+   "year": "1995",
+   "title": "Srebrenica and Dayton",
+   "text": "Genocide in July; peace in December."
+  },
+  {
+   "year": "2004",
+   "title": "Old Bridge rebuilt",
+   "text": "A symbol of reconciliation."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Genocide",
+   "meaning": "Acts committed to destroy a national, ethnic, racial or religious group."
+  },
+  {
+   "term": "Siege",
+   "meaning": "Surrounding a place to cut it off and force it to surrender."
+  }
+ ]
+}

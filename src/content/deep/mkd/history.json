@@ -1,0 +1,101 @@
+{
+ "status": "draft",
+ "intro": "North Macedonia's land has seen ancient kingdoms, early Slavic scholars, five centuries of Ottoman rule and life in Yugoslavia. Independent since 1991, it changed its name in 2019 to settle a long dispute with Greece.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Ancient lands and Ohrid",
+   "text": [
+    "In ancient times the region was home to the Paeonians, and parts of it belonged to the kingdom of Macedon of Philip II and Alexander the Great, whose heartland lay in today's Greece. Later it was ruled by Rome and Byzantium.",
+    "In the 800s and 900s, Ohrid became a great centre of Slavic learning, where Saint Clement and Saint Naum taught; their school helped spread the Cyrillic alphabet."
+   ],
+   "related": [
+    "GRC",
+    "BGR"
+   ]
+  },
+  {
+   "id": "ottoman",
+   "title": "Ottoman rule and uprising",
+   "text": [
+    "The Ottomans ruled from the 1390s until 1912. In 1903 the Ilinden Uprising against Ottoman rule was crushed but became a symbol of the struggle for freedom. After the Balkan Wars of 1912 and 1913, the region of Macedonia was divided between Serbia, Greece and Bulgaria."
+   ],
+   "related": [
+    "TUR",
+    "SRB",
+    "GRC",
+    "BGR"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence and a new name",
+   "text": [
+    "After the Second World War the region became the Socialist Republic of Macedonia within Yugoslavia. It became independent peacefully in 1991. In 2001 a short conflict with ethnic Albanian rebels ended with the Ohrid Agreement, giving Albanians more rights.",
+    "Greece objected to the name Macedonia, also the name of its own northern region. In 2018 the two countries signed the Prespa Agreement, and in 2019 the country became the Republic of North Macedonia. It joined NATO in 2020."
+   ],
+   "related": [
+    "GRC",
+    "ALB"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 893",
+   "title": "Ohrid school",
+   "text": "Saint Clement teaches in Ohrid."
+  },
+  {
+   "year": "1392",
+   "title": "Ottoman rule",
+   "text": "The Ottomans take Skopje."
+  },
+  {
+   "year": "1903",
+   "title": "Ilinden Uprising",
+   "text": "A revolt against the Ottomans."
+  },
+  {
+   "year": "1913",
+   "title": "Division",
+   "text": "The region is split after the Balkan Wars."
+  },
+  {
+   "year": "1944",
+   "title": "Yugoslav republic",
+   "text": "Macedonia becomes part of Yugoslavia."
+  },
+  {
+   "year": "1963",
+   "title": "Skopje earthquake",
+   "text": "Much of the capital is destroyed."
+  },
+  {
+   "year": "1991",
+   "title": "Independence",
+   "text": "Declared peacefully on 8 September."
+  },
+  {
+   "year": "2001",
+   "title": "Ohrid Agreement",
+   "text": "Ends a brief conflict."
+  },
+  {
+   "year": "2019",
+   "title": "North Macedonia",
+   "text": "The country takes its new name."
+  },
+  {
+   "year": "2020",
+   "title": "Joins NATO",
+   "text": "NATO's 30th member."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Name dispute",
+   "meaning": "A disagreement between countries over the use of a name."
+  }
+ ]
+}

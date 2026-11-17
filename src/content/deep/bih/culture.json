@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Bosnian culture mixes Ottoman, Slavic and Central European influences, from coffee and ćevapi to soulful sevdalinka songs.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Songs and stories",
+   "text": [
+    "Sevdalinka are melancholy love songs from Ottoman times. Nobel Prize-winner Ivo Andrić grew up in Bosnia, and the Bosnian film No Man's Land won the Oscar for best foreign-language film in 2002. The Sarajevo Film Festival began in 1995, during the siege."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Ćevapi, small grilled meat sausages served in flatbread with onions, and burek, a pastry filled with meat, are national favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sevdalinka",
+   "meaning": "Traditional Bosnian songs of love and longing."
+  }
+ ]
+}

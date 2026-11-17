@@ -1,0 +1,34 @@
+{
+ "status": "draft",
+ "intro": "North Macedonia is a small, landlocked, mountainous country with two of the oldest lakes in Europe.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mountains and lakes",
+   "text": [
+    "Most of the country is mountainous; Mount Korab, on the Albanian border, is the highest. The Vardar River flows through Skopje towards Greece. Lake Ohrid, shared with Albania, is one of the oldest lakes in Europe, at more than a million years old, and is a World Heritage Site.",
+    "North Macedonia borders Serbia, Kosovo, Albania, Greece and Bulgaria."
+   ],
+   "related": [
+    "SRB",
+    "UNK",
+    "ALB",
+    "GRC",
+    "BGR"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Summers are hot and dry, especially in the Vardar valley, where grapes thrive; winters are cold and snowy in the mountains."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Landlocked",
+   "meaning": "Having no coastline."
+  }
+ ]
+}

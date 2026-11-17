@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Montenegro is a parliamentary republic and a member of NATO.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Parliament and currency",
+   "text": [
+    "The 81-member parliament chooses the government, and the president is directly elected. Montenegro uses the euro even though it is not in the EU or the eurozone; it adopted it on its own in 2002."
+   ],
+   "facts": [
+    {
+     "label": "Parliament",
+     "value": "81 members"
+    },
+    {
+     "label": "Currency",
+     "value": "Euro"
+    },
+    {
+     "label": "Independence",
+     "value": "2006"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Montenegro in the world",
+   "text": [
+    "Montenegro joined NATO in 2017 and is negotiating to join the EU."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Eurozone",
+   "meaning": "EU countries that officially use the euro."
+  }
+ ]
+}

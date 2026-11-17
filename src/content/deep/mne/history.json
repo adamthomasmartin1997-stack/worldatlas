@@ -1,0 +1,82 @@
+{
+ "status": "draft",
+ "intro": "Montenegro, the 'Black Mountain', held out in its mountains against the Ottomans for centuries, ruled by prince-bishops. After decades in Yugoslavia it became independent again in 2006.",
+ "chapters": [
+  {
+   "id": "mountain",
+   "title": "The mountain state",
+   "text": [
+    "After the medieval states of Duklja and Zeta, the Ottomans conquered most of the Balkans, but Montenegro's clans in their rugged mountains were never fully subdued. From 1696 the Petrović-Njegoš family ruled as prince-bishops, both religious and political leaders. Petar II Petrović-Njegoš wrote the epic poem The Mountain Wreath.",
+    "Montenegro's independence was recognised in 1878, and it became a kingdom in 1910."
+   ],
+   "related": [
+    "TUR",
+    "SRB"
+   ]
+  },
+  {
+   "id": "yugoslavia",
+   "title": "Yugoslavia and independence",
+   "text": [
+    "In 1918 Montenegro was joined to Serbia and became part of Yugoslavia. When Yugoslavia broke up, it stayed linked with Serbia until a referendum on 21 May 2006, when 55.5% voted for independence, just over the 55% required.",
+    "Montenegro joined NATO in 2017 and is among the leading candidates to join the EU."
+   ],
+   "related": [
+    "SRB"
+   ]
+  },
+  {
+   "id": "today",
+   "title": "Montenegro today",
+   "text": [
+    "Montenegro is a small, young state that has grown through tourism, though debates over its identity and its relationship with Serbia continue."
+   ],
+   "related": [
+    "SRB"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1696",
+   "title": "Prince-bishops",
+   "text": "The Petrović-Njegoš dynasty begins."
+  },
+  {
+   "year": "1847",
+   "title": "The Mountain Wreath",
+   "text": "Njegoš publishes his epic."
+  },
+  {
+   "year": "1878",
+   "title": "Independence recognised",
+   "text": "At the Congress of Berlin."
+  },
+  {
+   "year": "1910",
+   "title": "Kingdom",
+   "text": "Montenegro becomes a kingdom."
+  },
+  {
+   "year": "1918",
+   "title": "Union with Serbia",
+   "text": "Montenegro joins Yugoslavia."
+  },
+  {
+   "year": "2006",
+   "title": "Independence",
+   "text": "A referendum ends the union with Serbia."
+  },
+  {
+   "year": "2017",
+   "title": "Joins NATO",
+   "text": "Montenegro becomes NATO's 29th member."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Prince-bishop",
+   "meaning": "A ruler who was also a bishop."
+  }
+ ]
+}

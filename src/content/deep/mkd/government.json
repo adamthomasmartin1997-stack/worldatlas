@@ -1,0 +1,44 @@
+{
+ "status": "draft",
+ "intro": "North Macedonia is a parliamentary republic, a NATO member and a candidate to join the EU.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Parliament and president",
+   "text": [
+    "The 120-member Assembly chooses the government, and the president is directly elected; Gordana Siljanovska-Davkova became the first woman president in 2024. Power-sharing rules protect the rights of the Albanian community."
+   ],
+   "facts": [
+    {
+     "label": "Assembly",
+     "value": "120 members"
+    },
+    {
+     "label": "Currency",
+     "value": "Denar"
+    },
+    {
+     "label": "NATO member",
+     "value": "Since 2020"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "North Macedonia and Europe",
+   "text": [
+    "Its path to the EU has been slowed by disputes, first with Greece over the name and then with Bulgaria over history and language."
+   ],
+   "related": [
+    "GRC",
+    "BGR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Power-sharing",
+   "meaning": "Arrangements that make sure different communities share in government."
+  }
+ ]
+}

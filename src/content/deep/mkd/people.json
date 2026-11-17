@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "North Macedonia is home to Macedonians, a large Albanian community and several smaller groups.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and languages",
+   "text": [
+    "Macedonians, who speak a South Slavic language written in Cyrillic, are the majority; Albanians are about a quarter of the population, and Albanian is also an official language. There are Turkish, Roma and Serb minorities. Most Macedonians are Orthodox Christians and most Albanians Muslim.",
+    "Skopje is the capital. Mother Teresa was born there in 1910."
+   ],
+   "related": [
+    "ALB",
+    "UNK"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Daily life",
+   "text": [
+    "Many young people have emigrated, so the population is shrinking. Family gatherings, coffee and strong home-made rakija are part of daily life."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "South Slavic",
+   "meaning": "Languages including Macedonian, Bulgarian, Serbian and Croatian."
+  }
+ ]
+}

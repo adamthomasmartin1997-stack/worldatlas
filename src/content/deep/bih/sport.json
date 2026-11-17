@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Sport brought pride to Bosnia and Herzegovina after the war, from football to sitting volleyball.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Bosnia and Herzegovina played at its first World Cup in 2014, led by striker Edin Džeko."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Sitting volleyball and more",
+   "text": [
+    "Its sitting volleyball team, many of whose players lost legs to war injuries and landmines, has won Paralympic gold. Sarajevo's 1984 Winter Olympic venues on the mountains around the city are still remembered."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sitting volleyball",
+   "meaning": "A Paralympic form of volleyball played seated on the floor."
+  }
+ ]
+}

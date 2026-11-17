@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Bosnia and Herzegovina's economy is still recovering from war, relying on industry, energy and money sent home from abroad.",
+ "chapters": [
+  {
+   "id": "sectors",
+   "title": "Industry and energy",
+   "text": [
+    "Hydropower and coal produce electricity for export. Wood, furniture and metal products are important, and tourism to Sarajevo and Mostar is growing."
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "Unemployment, corruption and emigration are big problems, and money sent home by Bosnians working abroad supports many families."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Remittances",
+   "meaning": "Money sent home by people working abroad."
+  }
+ ]
+}

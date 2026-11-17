@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Tourism is the biggest part of Montenegro's small economy.",
+ "chapters": [
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Visitors come for the beaches, Kotor, the island village of Sveti Stefan and the mountains. Aluminium, electricity and farming are other industries."
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "A motorway built with a large Chinese loan sparked worries about the country's debt."
+   ],
+   "related": [
+    "CHN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Loan",
+   "meaning": "Money borrowed that must be paid back."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Montenegro has only about 620,000 people, from several communities, and they are among the tallest people in the world.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "Peoples",
+   "text": [
+    "Montenegrins, Serbs, Bosniaks and Albanians are the main groups, and the official language is Montenegrin, very close to Serbian. Most people are Orthodox Christians, with Muslim and Catholic minorities. Podgorica is the capital, and Cetinje is the old royal capital."
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Daily life",
+   "text": [
+    "Family and clan ties remain strong, and Montenegrins are famous, in jokes across the Balkans, for being relaxed."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Clan",
+   "meaning": "A large group of related families."
+  }
+ ]
+}

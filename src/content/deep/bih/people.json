@@ -1,0 +1,27 @@
+{
+ "status": "draft",
+ "intro": "Bosnia and Herzegovina is home to three main peoples, Bosniaks, Serbs and Croats, who speak very similar languages but mostly follow different faiths.",
+ "chapters": [
+  {
+   "id": "peoples",
+   "title": "Three peoples",
+   "text": [
+    "Bosniaks, mostly Muslim, are the largest group, followed by Serbs, mostly Orthodox Christian, and Croats, mostly Catholic. Their languages, Bosnian, Serbian and Croatian, are almost the same.",
+    "In Sarajevo, a mosque, an Orthodox church, a Catholic cathedral and a synagogue stand within a few minutes' walk of each other, and the city has been called 'the Jerusalem of Europe'."
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Daily life",
+   "text": [
+    "Many young people have moved abroad for work. Coffee, served in small copper pots, is a social ritual."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bosniak",
+   "meaning": "A member of the mostly Muslim South Slavic people of Bosnia."
+  }
+ ]
+}

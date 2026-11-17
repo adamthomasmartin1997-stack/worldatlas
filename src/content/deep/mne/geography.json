@@ -1,0 +1,34 @@
+{
+ "status": "draft",
+ "intro": "Montenegro packs a dramatic coast, deep canyons and towering mountains into a country smaller than Wales.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Coast and canyons",
+   "text": [
+    "The Bay of Kotor winds deep into the mountains, with the medieval walled town of Kotor, a World Heritage Site. Inland, the Tara River Canyon is one of the deepest canyons in Europe, and Durmitor National Park has glacial lakes and peaks. Lake Skadar, shared with Albania, is the largest lake in the Balkans.",
+    "Montenegro borders Croatia, Bosnia and Herzegovina, Serbia, Kosovo and Albania."
+   ],
+   "related": [
+    "HRV",
+    "BIH",
+    "SRB",
+    "UNK",
+    "ALB"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The coast has a Mediterranean climate, while the mountains get heavy snow; Crkvice, above the Bay of Kotor, is one of the wettest places in Europe."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Canyon",
+   "meaning": "A deep, narrow valley with steep sides."
+  }
+ ]
+}

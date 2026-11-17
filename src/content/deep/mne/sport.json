@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Montenegro punches above its weight in water polo, basketball and handball.",
+ "chapters": [
+  {
+   "id": "water",
+   "title": "Water polo",
+   "text": [
+    "Water polo is the national sport, and Montenegro has won European titles."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Handball and basketball",
+   "text": [
+    "The women's handball team won Olympic silver in 2012, the country's first Olympic medal, and became European champions the same year. Montenegrin basketball players such as Nikola Vučević play in the NBA."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Water polo",
+   "meaning": "A team sport played in a swimming pool."
+  }
+ ]
+}

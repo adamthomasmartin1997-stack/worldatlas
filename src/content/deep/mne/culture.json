@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Montenegrin culture is shaped by mountain clans, the sea and the poetry of Njegoš.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Epic songs sung to the gusle, a one-stringed instrument, recount heroic battles. Kotor is famous for its many cats, and the town even has a cat museum."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Njeguški pršut, smoked ham from the village of Njeguši, kačamak (a cornmeal dish) and seafood on the coast are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gusle",
+   "meaning": "A one-stringed instrument used to accompany epic songs."
+  }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "Bosnia and Herzegovina is a mountainous country with emerald rivers and just 20 km of coast.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mountains and rivers",
+   "text": [
+    "The Dinaric Alps cover much of the country. The bright green Neretva flows through Mostar, the Drina forms part of the border with Serbia, and the Una is famous for rafting. Perućica is one of Europe's last primeval forests.",
+    "The country is almost landlocked: its only coast is a 20 km strip at Neum. It borders Croatia, Serbia and Montenegro."
+   ],
+   "related": [
+    "HRV",
+    "SRB",
+    "MNE"
+   ]
+  },
+  {
+   "id": "regions",
+   "title": "Bosnia and Herzegovina",
+   "text": [
+    "The northern region, Bosnia, is greener and hillier, while Herzegovina in the south is drier, sunnier and rocky, with vineyards and figs."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Primeval forest",
+   "meaning": "An ancient forest little touched by people."
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "North Macedonian culture is rich in Byzantine churches, folk music and hearty food.",
+ "chapters": [
+  {
+   "id": "heritage",
+   "title": "Ohrid",
+   "text": [
+    "Ohrid is said once to have had 365 churches, one for every day of the year; the Church of St John at Kaneo, on a cliff above the lake, is the most photographed."
+   ]
+  },
+  {
+   "id": "arts-food",
+   "title": "Film and food",
+   "text": [
+    "The film Before the Rain won the top prize at the Venice Film Festival in 1994, and the documentary Honeyland, about a wild beekeeper, was nominated for two Oscars. Tavče gravče, baked beans, is the national dish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Byzantine",
+   "meaning": "Relating to the Eastern Roman Empire and its art and churches."
+  }
+ ]
+}

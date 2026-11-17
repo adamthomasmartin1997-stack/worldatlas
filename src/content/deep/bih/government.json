@@ -1,0 +1,41 @@
+{
+ "status": "draft",
+ "intro": "Bosnia and Herzegovina has one of the most complicated political systems in the world, set up by the 1995 peace deal.",
+ "chapters": [
+  {
+   "id": "dayton",
+   "title": "The Dayton system",
+   "text": [
+    "The country is made up of two entities, the Federation of Bosnia and Herzegovina and Republika Srpska, plus the Brčko District. Its presidency has three members, one Bosniak, one Croat and one Serb, who take turns as chair.",
+    "An international High Representative oversees the peace agreement. Bosnia became a candidate to join the EU in 2022."
+   ],
+   "facts": [
+    {
+     "label": "Presidency",
+     "value": "3 members"
+    },
+    {
+     "label": "Entities",
+     "value": "2 + Brčko District"
+    },
+    {
+     "label": "Currency",
+     "value": "Convertible mark"
+    }
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols",
+   "text": [
+    "The flag is blue with a yellow triangle and white stars, designed to avoid symbols linked to any one group. The national anthem has no official words."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Entity",
+   "meaning": "One of the two self-governing parts of Bosnia and Herzegovina."
+  }
+ ]
+}

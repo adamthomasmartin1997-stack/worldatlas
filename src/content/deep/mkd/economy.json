@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "North Macedonia has a small economy based on farming, wine and foreign-owned factories.",
+ "chapters": [
+  {
+   "id": "sectors",
+   "title": "Farms and factories",
+   "text": [
+    "Tobacco, grapes, vegetables and the red pepper relish ajvar are well known, and the Tikveš region produces much of the country's wine. Foreign companies make car parts in special economic zones."
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "Unemployment and emigration of young people are major concerns, and air pollution in Skopje is bad in winter."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Economic zone",
+   "meaning": "An area with tax breaks to attract foreign companies."
+  }
+ ]
+}

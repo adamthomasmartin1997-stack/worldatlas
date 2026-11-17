@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "North Macedonia's biggest sporting successes have come in handball and football.",
+ "chapters": [
+  {
+   "id": "handball",
+   "title": "Handball",
+   "text": [
+    "Skopje club Vardar won the European handball Champions League in 2017 and 2019, and Kiril Lazarov is one of the top scorers in handball history."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "North Macedonia reached its first major tournament at Euro 2020, captained by Goran Pandev."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Champions League",
+   "meaning": "The top competition for club teams in Europe."
+  }
+ ]
+}
