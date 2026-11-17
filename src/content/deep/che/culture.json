@@ -22,5 +22,131 @@
    "term": "Fondue",
    "meaning": "Melted cheese in a shared pot, eaten by dipping bread."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Heidi",
+     "subtitle": "1952 · Luigi Comencini",
+     "text": "The classic story on screen."
+    },
+    {
+     "title": "Journey of Hope",
+     "subtitle": "1990 · Xavier Koller",
+     "text": "A family's migration; won an Oscar."
+    },
+    {
+     "title": "My Life as a Zucchini",
+     "subtitle": "2016 · Claude Barras",
+     "text": "Stop-motion film about an orphan."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Heidi",
+     "subtitle": "1881 · Johanna Spyri",
+     "text": "A girl in the Alps."
+    },
+    {
+     "title": "William Tell",
+     "subtitle": "1804 · Friedrich Schiller",
+     "text": "The hero with the crossbow."
+    },
+    {
+     "title": "The Visit",
+     "subtitle": "1956 · Friedrich Dürrenmatt",
+     "text": "A rich woman's revenge."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Alphorn",
+     "subtitle": "Traditional",
+     "text": "A long wooden horn heard across valleys."
+    },
+    {
+     "title": "Ne partez pas sans moi",
+     "subtitle": "Céline Dion, 1988",
+     "text": "Won Eurovision for Switzerland."
+    },
+    {
+     "title": "The Code",
+     "subtitle": "Nemo, 2024",
+     "text": "Switzerland's third Eurovision win."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Fondue",
+     "subtitle": "Everywhere",
+     "text": "Melted cheese with bread."
+    },
+    {
+     "title": "Raclette",
+     "subtitle": "Valais",
+     "text": "Melted cheese scraped onto potatoes."
+    },
+    {
+     "title": "Rösti",
+     "subtitle": "German-speaking areas",
+     "text": "Crispy grated potato."
+    },
+    {
+     "title": "Birchermüesli",
+     "subtitle": "Everywhere",
+     "text": "Invented by a Swiss doctor."
+    },
+    {
+     "title": "Chocolate",
+     "subtitle": "Everywhere",
+     "text": "The Swiss eat about 10 kg each a year."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Basel Carnival",
+    "text": "Starts at 4 am with lanterns."
+   },
+   {
+    "month": 4,
+    "name": "Sechseläuten",
+    "text": "Zurich burns a snowman to end winter."
+   },
+   {
+    "month": 7,
+    "name": "Montreux Jazz Festival",
+    "text": "A famous music festival."
+   },
+   {
+    "month": 8,
+    "name": "National Day",
+    "text": "1 August, bonfires and fireworks."
+   },
+   {
+    "month": 11,
+    "name": "Zibelemärit",
+    "text": "Bern's onion market."
+   }
+  ]
+ }
 }

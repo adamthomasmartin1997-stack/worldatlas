@@ -26,5 +26,75 @@
    "term": "Peat bog",
    "meaning": "Wet ground made of partly rotted plants, which can be dried and burned as fuel."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Ireland's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Glenveagh",
+    "kind": "national park",
+    "lat": 55.05,
+    "lon": -7.95,
+    "text": "Mountains, lakes and a castle in Donegal."
+   },
+   {
+    "name": "Slieve League",
+    "kind": "sea cliffs",
+    "lat": 54.62,
+    "lon": -8.68,
+    "text": "Among Europe's highest sea cliffs."
+   },
+   {
+    "name": "Connemara",
+    "kind": "bogs and mountains",
+    "lat": 53.5,
+    "lon": -9.8,
+    "text": "Lakes, bogs and stone walls."
+   },
+   {
+    "name": "Croagh Patrick",
+    "kind": "holy mountain",
+    "lat": 53.76,
+    "lon": -9.66,
+    "text": "Pilgrims climb it every July."
+   },
+   {
+    "name": "Cliffs of Moher",
+    "kind": "sea cliffs",
+    "lat": 52.97,
+    "lon": -9.43,
+    "text": "Cliffs over 200 m above the Atlantic."
+   },
+   {
+    "name": "The Burren",
+    "kind": "limestone",
+    "lat": 53.05,
+    "lon": -9.05,
+    "text": "Bare rock with rare flowers."
+   },
+   {
+    "name": "Wicklow Mountains",
+    "kind": "mountains",
+    "lat": 53.0,
+    "lon": -6.4,
+    "text": "Valleys near Dublin, with Glendalough."
+   },
+   {
+    "name": "Carrauntoohil",
+    "kind": "mountain",
+    "lat": 52.0,
+    "lon": -9.74,
+    "text": "Ireland's highest peak."
+   },
+   {
+    "name": "Skellig Michael",
+    "kind": "rocky island",
+    "lat": 51.77,
+    "lon": -10.54,
+    "text": "An early monastery on a sea rock."
+   }
+  ]
+ }
 }

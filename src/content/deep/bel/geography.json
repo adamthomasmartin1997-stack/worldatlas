@@ -29,5 +29,75 @@
    "term": "Ardennes",
    "meaning": "A hilly, forested region in Belgium, Luxembourg and France."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Belgium's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Belgian coast",
+    "kind": "dunes and beaches",
+    "lat": 51.2,
+    "lon": 2.9,
+    "text": "67 km of sand, linked by a coastal tram."
+   },
+   {
+    "name": "Zwin",
+    "kind": "salt marsh",
+    "lat": 51.36,
+    "lon": 3.37,
+    "text": "A bird reserve on the Dutch border."
+   },
+   {
+    "name": "Kempen",
+    "kind": "heath",
+    "lat": 51.15,
+    "lon": 5.6,
+    "text": "Heath and pine woods; a national park."
+   },
+   {
+    "name": "Brussels",
+    "kind": "capital",
+    "lat": 50.85,
+    "lon": 4.35,
+    "text": "Home of the EU and NATO."
+   },
+   {
+    "name": "Meuse valley",
+    "kind": "river cliffs",
+    "lat": 50.25,
+    "lon": 4.9,
+    "text": "Cliffs and castles along the river."
+   },
+   {
+    "name": "Hautes Fagnes",
+    "kind": "high moor",
+    "lat": 50.5,
+    "lon": 6.1,
+    "text": "Peat bogs and Belgium's highest point."
+   },
+   {
+    "name": "Signal de Botrange",
+    "kind": "high point",
+    "lat": 50.5,
+    "lon": 6.09,
+    "text": "694 m, the top of Belgium."
+   },
+   {
+    "name": "Ardennes",
+    "kind": "forest",
+    "lat": 50.0,
+    "lon": 5.6,
+    "text": "Wooded hills and rivers."
+   },
+   {
+    "name": "Han-sur-Lesse caves",
+    "kind": "caves",
+    "lat": 50.12,
+    "lon": 5.19,
+    "text": "Huge caves under the Ardennes."
+   }
+  ]
+ }
 }

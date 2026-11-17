@@ -37,5 +37,62 @@
    "term": "Compulsory voting",
    "meaning": "A rule that citizens must vote."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Inherits the throne",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the government",
+     "text": "Usually a big coalition."
+    },
+    {
+     "title": "Chamber of Representatives",
+     "subtitle": "150 members",
+     "text": "The main house."
+    },
+    {
+     "title": "Regions",
+     "subtitle": "Flanders, Wallonia, Brussels",
+     "text": "Run the economy, transport and more."
+    },
+    {
+     "title": "Communities",
+     "subtitle": "Dutch, French, German",
+     "text": "Run schools and culture."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Committee",
+    "text": "Studied by the Chamber."
+   },
+   {
+    "title": "Vote",
+    "text": "Some topics also need the Senate."
+   },
+   {
+    "title": "Signed",
+    "text": "By the King and a minister."
+   }
+  ]
+ }
 }

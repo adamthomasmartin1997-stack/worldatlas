@@ -26,5 +26,131 @@
    "term": "Mediterranean diet",
    "meaning": "A way of eating based on olive oil, vegetables, fish, grains and fruit."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Zorba the Greek",
+     "subtitle": "1964 · Michael Cacoyannis",
+     "text": "A free spirit on Crete."
+    },
+    {
+     "title": "Eternity and a Day",
+     "subtitle": "1998 · Theo Angelopoulos",
+     "text": "Won the top prize at Cannes."
+    },
+    {
+     "title": "Dogtooth",
+     "subtitle": "2009 · Yorgos Lanthimos",
+     "text": "A strange, sheltered family."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Odyssey",
+     "subtitle": "c. 700 BC · Homer",
+     "text": "Odysseus's long journey home."
+    },
+    {
+     "title": "Zorba the Greek",
+     "subtitle": "1946 · Nikos Kazantzakis",
+     "text": "The novel behind the film."
+    },
+    {
+     "title": "Poems",
+     "subtitle": "from 1890s · C. P. Cavafy",
+     "text": "Short poems about history and life."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Zorba's Dance",
+     "subtitle": "Mikis Theodorakis, 1964",
+     "text": "The tune everyone links with Greece."
+    },
+    {
+     "title": "Never on Sunday",
+     "subtitle": "Manos Hatzidakis, 1960",
+     "text": "An Oscar-winning song."
+    },
+    {
+     "title": "My Number One",
+     "subtitle": "Helena Paparizou, 2005",
+     "text": "Greece's Eurovision win."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Souvlaki and gyros",
+     "subtitle": "Everywhere",
+     "text": "Grilled meat in pitta."
+    },
+    {
+     "title": "Moussaka",
+     "subtitle": "Everywhere",
+     "text": "Layers of aubergine, meat and béchamel."
+    },
+    {
+     "title": "Greek salad",
+     "subtitle": "Everywhere",
+     "text": "Tomato, cucumber, olives and feta."
+    },
+    {
+     "title": "Spanakopita",
+     "subtitle": "Everywhere",
+     "text": "Spinach pie in filo."
+    },
+    {
+     "title": "Loukoumades",
+     "subtitle": "Everywhere",
+     "text": "Honey-soaked doughnuts."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Epiphany",
+    "text": "Crosses thrown into the sea on 6 January."
+   },
+   {
+    "month": 3,
+    "name": "Independence Day",
+    "text": "25 March, with parades."
+   },
+   {
+    "month": 4,
+    "name": "Easter",
+    "text": "The biggest festival, with lamb and red eggs."
+   },
+   {
+    "month": 8,
+    "name": "Dormition of the Virgin",
+    "text": "15 August, the summer holiday."
+   },
+   {
+    "month": 10,
+    "name": "Ochi Day",
+    "text": "28 October, remembering 1940."
+   }
+  ]
+ }
 }

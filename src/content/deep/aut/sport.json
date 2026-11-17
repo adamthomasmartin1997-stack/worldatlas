@@ -25,5 +25,124 @@
    "term": "Alpine skiing",
    "meaning": "Downhill ski racing, including slalom and downhill events."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Bundesliga",
+     "subtitle": "Football",
+     "text": "Rapid Vienna have won the most titles."
+    },
+    {
+     "title": "Hahnenkamm",
+     "subtitle": "Ski racing · Kitzbühel",
+     "text": "The most feared downhill."
+    },
+    {
+     "title": "Austrian Grand Prix",
+     "subtitle": "Formula One",
+     "text": "At the Red Bull Ring."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Toni Sailer",
+     "subtitle": "Skiing",
+     "text": "All three alpine golds in 1956."
+    },
+    {
+     "title": "Annemarie Moser-Pröll",
+     "subtitle": "Skiing",
+     "text": "Six overall World Cups."
+    },
+    {
+     "title": "Niki Lauda",
+     "subtitle": "Formula One",
+     "text": "Three world titles."
+    },
+    {
+     "title": "Hermann Maier",
+     "subtitle": "Skiing",
+     "text": "Came back from a crash to win again."
+    },
+    {
+     "title": "Marcel Hirscher",
+     "subtitle": "Skiing",
+     "text": "Eight overall World Cups in a row."
+    },
+    {
+     "title": "David Alaba",
+     "subtitle": "Football",
+     "text": "Champions League winner."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Austria's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Ernst Happel Stadium, Vienna",
+    "kind": "venue",
+    "lat": 48.207,
+    "lon": 16.421,
+    "text": "Hosted the Euro 2008 final."
+   },
+   {
+    "name": "Kitzbühel",
+    "kind": "venue",
+    "lat": 47.446,
+    "lon": 12.392,
+    "text": "Hahnenkamm downhill."
+   },
+   {
+    "name": "Red Bull Ring, Spielberg",
+    "kind": "venue",
+    "lat": 47.22,
+    "lon": 14.76,
+    "text": "Formula One circuit."
+   },
+   {
+    "name": "Innsbruck",
+    "kind": "venue",
+    "lat": 47.27,
+    "lon": 11.39,
+    "text": "Twice hosted the Winter Olympics."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1956",
+    "title": "Sailer's triple",
+    "text": "Three Olympic golds."
+   },
+   {
+    "year": "1964 and 1976",
+    "title": "Innsbruck Olympics",
+    "text": "Winter Games twice."
+   },
+   {
+    "year": "1976",
+    "title": "Lauda's comeback",
+    "text": "Racing again weeks after a fiery crash."
+   },
+   {
+    "year": "1998",
+    "title": "The Herminator",
+    "text": "Maier wins two golds after a huge fall."
+   }
+  ]
+ }
 }

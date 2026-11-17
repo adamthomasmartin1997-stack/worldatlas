@@ -22,5 +22,136 @@
    "term": "Waltz",
    "meaning": "A dance in three-four time, made famous in Vienna."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Third Man",
+     "subtitle": "1949 · Carol Reed",
+     "text": "A thriller in post-war Vienna."
+    },
+    {
+     "title": "The Sound of Music",
+     "subtitle": "1965 · Robert Wise",
+     "text": "Set in Salzburg."
+    },
+    {
+     "title": "The Counterfeiters",
+     "subtitle": "2007 · Stefan Ruzowitzky",
+     "text": "Won an Oscar."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Bambi",
+     "subtitle": "1923 · Felix Salten",
+     "text": "The deer that inspired the film."
+    },
+    {
+     "title": "The World of Yesterday",
+     "subtitle": "1942 · Stefan Zweig",
+     "text": "A memoir of lost old Vienna."
+    },
+    {
+     "title": "The Piano Teacher",
+     "subtitle": "1983 · Elfriede Jelinek",
+     "text": "By the Nobel winner."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "The Magic Flute",
+     "subtitle": "Mozart, 1791",
+     "text": "Mozart was born in Salzburg."
+    },
+    {
+     "title": "The Blue Danube",
+     "subtitle": "Johann Strauss II, 1866",
+     "text": "The famous waltz."
+    },
+    {
+     "title": "Rock Me Amadeus",
+     "subtitle": "Falco, 1985",
+     "text": "A US number one in German."
+    },
+    {
+     "title": "Rise Like a Phoenix",
+     "subtitle": "Conchita Wurst, 2014",
+     "text": "Austria's second Eurovision win."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Wiener Schnitzel",
+     "subtitle": "Everywhere",
+     "text": "Breaded veal."
+    },
+    {
+     "title": "Apfelstrudel",
+     "subtitle": "Everywhere",
+     "text": "Apple strudel."
+    },
+    {
+     "title": "Sachertorte",
+     "subtitle": "Vienna",
+     "text": "Chocolate cake with apricot jam."
+    },
+    {
+     "title": "Kaiserschmarrn",
+     "subtitle": "Everywhere",
+     "text": "Torn-up sweet pancake."
+    },
+    {
+     "title": "Coffee houses",
+     "subtitle": "Vienna",
+     "text": "A UNESCO-listed tradition."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "New Year's Concert",
+    "text": "Vienna Philharmonic, watched worldwide."
+   },
+   {
+    "month": 1,
+    "name": "Hahnenkamm race",
+    "text": "Kitzbühel's famous downhill."
+   },
+   {
+    "month": 2,
+    "name": "Opera Ball",
+    "text": "Vienna's grand ball."
+   },
+   {
+    "month": 7,
+    "name": "Salzburg Festival",
+    "text": "Opera and theatre."
+   },
+   {
+    "month": 12,
+    "name": "Christmas markets",
+    "text": "In every town square."
+   }
+  ]
+ }
 }

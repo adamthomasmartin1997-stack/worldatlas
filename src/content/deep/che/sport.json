@@ -22,5 +22,129 @@
    "term": "America's Cup",
    "meaning": "The oldest international trophy in sailing."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Super League",
+     "subtitle": "Football",
+     "text": "Grasshoppers have won the most titles."
+    },
+    {
+     "title": "National League",
+     "subtitle": "Ice hockey",
+     "text": "Packed arenas every winter."
+    },
+    {
+     "title": "Lauberhorn",
+     "subtitle": "Ski racing · Wengen",
+     "text": "The longest downhill in the World Cup."
+    },
+    {
+     "title": "Schwingen",
+     "subtitle": "Swiss wrestling",
+     "text": "Traditional wrestling in sawdust rings."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Roger Federer",
+     "subtitle": "Tennis",
+     "text": "20 Grand Slam titles."
+    },
+    {
+     "title": "Martina Hingis",
+     "subtitle": "Tennis",
+     "text": "World No. 1 at 16."
+    },
+    {
+     "title": "Vreni Schneider",
+     "subtitle": "Skiing",
+     "text": "Three Olympic golds."
+    },
+    {
+     "title": "Marco Odermatt",
+     "subtitle": "Skiing",
+     "text": "Olympic champion and World Cup winner."
+    },
+    {
+     "title": "Lara Gut-Behrami",
+     "subtitle": "Skiing",
+     "text": "Olympic and World Cup champion."
+    },
+    {
+     "title": "Nino Schurter",
+     "subtitle": "Mountain biking",
+     "text": "Olympic champion and many-time world champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Switzerland's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "St. Jakob-Park, Basel",
+    "kind": "venue",
+    "lat": 47.541,
+    "lon": 7.62,
+    "text": "Home of FC Basel."
+   },
+   {
+    "name": "Wengen",
+    "kind": "venue",
+    "lat": 46.61,
+    "lon": 7.92,
+    "text": "Lauberhorn downhill."
+   },
+   {
+    "name": "St. Moritz",
+    "kind": "venue",
+    "lat": 46.5,
+    "lon": 9.84,
+    "text": "Twice hosted the Winter Olympics."
+   },
+   {
+    "name": "Lausanne",
+    "kind": "venue",
+    "lat": 46.52,
+    "lon": 6.63,
+    "text": "Home of the International Olympic Committee."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1928 and 1948",
+    "title": "St. Moritz Olympics",
+    "text": "The Winter Games come twice."
+   },
+   {
+    "year": "1954",
+    "title": "World Cup host",
+    "text": "The tournament comes to Switzerland."
+   },
+   {
+    "year": "2003",
+    "title": "Federer's first Wimbledon",
+    "text": "The start of a great era."
+   },
+   {
+    "year": "2014",
+    "title": "Davis Cup",
+    "text": "Federer and Wawrinka win it."
+   }
+  ]
+ }
 }

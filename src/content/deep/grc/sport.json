@@ -22,5 +22,129 @@
    "term": "Marathon",
    "meaning": "A running race of 42.195 km."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Super League",
+     "subtitle": "Football",
+     "text": "Olympiacos have won the most titles."
+    },
+    {
+     "title": "Greek Basket League",
+     "subtitle": "Basketball",
+     "text": "Panathinaikos and Olympiacos dominate Europe too."
+    },
+    {
+     "title": "Athens Marathon",
+     "subtitle": "Running",
+     "text": "Along the route of the original legend."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Spyridon Louis",
+     "subtitle": "Running",
+     "text": "Won the first Olympic marathon in 1896."
+    },
+    {
+     "title": "Pyrros Dimas",
+     "subtitle": "Weightlifting",
+     "text": "Three Olympic golds."
+    },
+    {
+     "title": "Nikos Galis",
+     "subtitle": "Basketball",
+     "text": "Led Greece to the 1987 European title."
+    },
+    {
+     "title": "Giannis Antetokounmpo",
+     "subtitle": "Basketball",
+     "text": "NBA champion and two-time MVP."
+    },
+    {
+     "title": "Stefanos Tsitsipas",
+     "subtitle": "Tennis",
+     "text": "A Grand Slam finalist."
+    },
+    {
+     "title": "Miltiadis Tentoglou",
+     "subtitle": "Long jump",
+     "text": "Two Olympic golds."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Greece's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Panathenaic Stadium, Athens",
+    "kind": "venue",
+    "lat": 37.968,
+    "lon": 23.741,
+    "text": "Marble stadium of the 1896 Olympics."
+   },
+   {
+    "name": "Olympic Stadium, Athens",
+    "kind": "venue",
+    "lat": 38.036,
+    "lon": 23.787,
+    "text": "Main stadium of the 2004 Games."
+   },
+   {
+    "name": "Ancient Olympia",
+    "kind": "venue",
+    "lat": 37.638,
+    "lon": 21.63,
+    "text": "Where the Olympic flame is lit."
+   },
+   {
+    "name": "Karaiskakis Stadium, Piraeus",
+    "kind": "venue",
+    "lat": 37.946,
+    "lon": 23.664,
+    "text": "Home of Olympiacos."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1896",
+    "title": "First modern Olympics",
+    "text": "Held in Athens."
+   },
+   {
+    "year": "1987",
+    "title": "European basketball champions",
+    "text": "A huge win at home."
+   },
+   {
+    "year": "2004",
+    "title": "Euro champions",
+    "text": "A shock win in Portugal."
+   },
+   {
+    "year": "2004",
+    "title": "Athens Olympics",
+    "text": "The Games come home."
+   },
+   {
+    "year": "2021",
+    "title": "Giannis wins the NBA",
+    "text": "With the Milwaukee Bucks."
+   }
+  ]
+ }
 }

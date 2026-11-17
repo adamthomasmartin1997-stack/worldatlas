@@ -23,5 +23,126 @@
    "term": "Azulejo",
    "meaning": "A painted ceramic tile, often blue and white."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Aniki-Bóbó",
+     "subtitle": "1942 · Manoel de Oliveira",
+     "text": "Children in Porto, by a director who worked until 106."
+    },
+    {
+     "title": "Tabu",
+     "subtitle": "2012 · Miguel Gomes",
+     "text": "A love story in two parts."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Lusiads",
+     "subtitle": "1572 · Luís de Camões",
+     "text": "The epic of Vasco da Gama's voyage."
+    },
+    {
+     "title": "The Book of Disquiet",
+     "subtitle": "1982 · Fernando Pessoa",
+     "text": "Thoughts of a Lisbon clerk."
+    },
+    {
+     "title": "Blindness",
+     "subtitle": "1995 · José Saramago",
+     "text": "A city goes blind; by the Nobel winner."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Fado",
+     "subtitle": "Amália Rodrigues",
+     "text": "The queen of fado, Lisbon's sad song."
+    },
+    {
+     "title": "Amar pelos dois",
+     "subtitle": "Salvador Sobral, 2017",
+     "text": "Portugal's Eurovision win."
+    },
+    {
+     "title": "Grândola, Vila Morena",
+     "subtitle": "Zeca Afonso, 1971",
+     "text": "The signal for the 1974 revolution."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Pastel de nata",
+     "subtitle": "Everywhere",
+     "text": "Custard tart, best warm."
+    },
+    {
+     "title": "Bacalhau",
+     "subtitle": "Everywhere",
+     "text": "Salt cod, said to have 365 recipes."
+    },
+    {
+     "title": "Grilled sardines",
+     "subtitle": "Summer",
+     "text": "Especially in June festivals."
+    },
+    {
+     "title": "Francesinha",
+     "subtitle": "Porto",
+     "text": "A huge meat sandwich in sauce."
+    },
+    {
+     "title": "Caldo verde",
+     "subtitle": "Everywhere",
+     "text": "Kale and potato soup."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Carnival",
+    "text": "Parades, biggest in Madeira."
+   },
+   {
+    "month": 4,
+    "name": "Freedom Day",
+    "text": "25 April, remembering 1974."
+   },
+   {
+    "month": 6,
+    "name": "Santo António",
+    "text": "Lisbon street parties and sardines."
+   },
+   {
+    "month": 6,
+    "name": "São João",
+    "text": "Porto's party on 23 June."
+   },
+   {
+    "month": 12,
+    "name": "Christmas Eve",
+    "text": "Bacalhau dinner."
+   }
+  ]
+ }
 }

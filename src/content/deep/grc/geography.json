@@ -30,5 +30,75 @@
    "term": "Caldera",
    "meaning": "A huge crater formed when a volcano collapses after erupting."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Greece's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Mount Olympus",
+    "kind": "mountain",
+    "lat": 40.09,
+    "lon": 22.36,
+    "text": "Greece's highest peak, home of the gods in myth."
+   },
+   {
+    "name": "Meteora",
+    "kind": "rock pillars",
+    "lat": 39.72,
+    "lon": 21.63,
+    "text": "Monasteries perched on giant rock towers."
+   },
+   {
+    "name": "Vikos Gorge",
+    "kind": "gorge",
+    "lat": 39.96,
+    "lon": 20.74,
+    "text": "One of the deepest gorges in the world for its width."
+   },
+   {
+    "name": "Mount Athos",
+    "kind": "holy mountain",
+    "lat": 40.16,
+    "lon": 24.33,
+    "text": "A self-governing community of monasteries."
+   },
+   {
+    "name": "Corinth Canal",
+    "kind": "canal",
+    "lat": 37.93,
+    "lon": 22.99,
+    "text": "A narrow cut through solid rock."
+   },
+   {
+    "name": "Navagio Beach, Zakynthos",
+    "kind": "cove",
+    "lat": 37.86,
+    "lon": 20.62,
+    "text": "A shipwreck on a white beach below cliffs."
+   },
+   {
+    "name": "Mani Peninsula",
+    "kind": "rocky peninsula",
+    "lat": 36.6,
+    "lon": 22.4,
+    "text": "Tower houses on a dry, wild coast."
+   },
+   {
+    "name": "Santorini",
+    "kind": "volcanic island",
+    "lat": 36.4,
+    "lon": 25.43,
+    "text": "Villages on the rim of a flooded volcano."
+   },
+   {
+    "name": "Samaria Gorge, Crete",
+    "kind": "gorge",
+    "lat": 35.27,
+    "lon": 23.96,
+    "text": "A 16 km hike down to the sea."
+   }
+  ]
+ }
 }

@@ -23,5 +23,146 @@
    "term": "Samhain",
    "meaning": "A Celtic festival marking the end of harvest, the origin of Halloween."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Quiet Man",
+     "subtitle": "1952 · John Ford",
+     "text": "An American returns to Ireland."
+    },
+    {
+     "title": "The Commitments",
+     "subtitle": "1991 · Alan Parker",
+     "text": "Dublin teens form a soul band."
+    },
+    {
+     "title": "The Banshees of Inisherin",
+     "subtitle": "2022 · Martin McDonagh",
+     "text": "A friendship ends on an island."
+    },
+    {
+     "title": "The Quiet Girl",
+     "subtitle": "2022 · Colm Bairéad",
+     "text": "An Irish-language film; Oscar-nominated."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Gulliver's Travels",
+     "subtitle": "1726 · Jonathan Swift",
+     "text": "A satire of strange lands."
+    },
+    {
+     "title": "Dracula",
+     "subtitle": "1897 · Bram Stoker",
+     "text": "The vampire classic."
+    },
+    {
+     "title": "Ulysses",
+     "subtitle": "1922 · James Joyce",
+     "text": "One day in Dublin."
+    },
+    {
+     "title": "Normal People",
+     "subtitle": "2018 · Sally Rooney",
+     "text": "Two teenagers grow up."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Sunday Bloody Sunday",
+     "subtitle": "U2, 1983",
+     "text": "A protest song."
+    },
+    {
+     "title": "Zombie",
+     "subtitle": "The Cranberries, 1994",
+     "text": "A song against violence."
+    },
+    {
+     "title": "Riverdance",
+     "subtitle": "Bill Whelan, 1994",
+     "text": "Irish dancing goes global."
+    },
+    {
+     "title": "Take Me to Church",
+     "subtitle": "Hozier, 2013",
+     "text": "A worldwide hit."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Irish stew",
+     "subtitle": "Everywhere",
+     "text": "Lamb, potatoes and onions."
+    },
+    {
+     "title": "Soda bread",
+     "subtitle": "Everywhere",
+     "text": "Bread made without yeast."
+    },
+    {
+     "title": "Full Irish breakfast",
+     "subtitle": "Everywhere",
+     "text": "With black and white pudding."
+    },
+    {
+     "title": "Boxty",
+     "subtitle": "The midlands",
+     "text": "Potato pancakes."
+    },
+    {
+     "title": "Colcannon",
+     "subtitle": "Halloween",
+     "text": "Mash with cabbage."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "St Brigid's Day",
+    "text": "A public holiday since 2023."
+   },
+   {
+    "month": 3,
+    "name": "St Patrick's Day",
+    "text": "17 March, parades worldwide."
+   },
+   {
+    "month": 6,
+    "name": "Bloomsday",
+    "text": "16 June, celebrating Ulysses."
+   },
+   {
+    "month": 9,
+    "name": "All-Ireland finals",
+    "text": "Hurling and Gaelic football."
+   },
+   {
+    "month": 10,
+    "name": "Halloween",
+    "text": "It began here as Samhain."
+   }
+  ]
+ }
 }

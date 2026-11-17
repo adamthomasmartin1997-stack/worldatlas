@@ -22,5 +22,44 @@
    "term": "Bailout",
    "meaning": "Emergency loans to a country or company in financial trouble."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Greece",
+   "items": [
+    {
+     "title": "Shipping",
+     "subtitle": "Greek shipowners",
+     "text": "Own one of the world's biggest merchant fleets."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Islands and ancient sites",
+     "text": "Over 30 million visitors a year."
+    },
+    {
+     "title": "Olive oil",
+     "subtitle": "Crete and the Peloponnese",
+     "text": "Among the world's top producers."
+    },
+    {
+     "title": "Feta",
+     "subtitle": "Protected name",
+     "text": "Only made in Greece from sheep and goat milk."
+    },
+    {
+     "title": "Fruit and fish",
+     "subtitle": "Farms and fish farms",
+     "text": "Peaches, kiwis and sea bream."
+    },
+    {
+     "title": "The euro",
+     "subtitle": "Since 2002",
+     "text": "Before that, the drachma."
+    }
+   ],
+   "intro": "Some of the things Greece makes and sells to the world."
+  }
  ]
 }

@@ -22,5 +22,124 @@
    "term": "Heptathlon",
    "meaning": "An athletics contest of seven events."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Pro League",
+     "subtitle": "Football",
+     "text": "Anderlecht have won the most titles."
+    },
+    {
+     "title": "Tour of Flanders",
+     "subtitle": "Cycling",
+     "text": "A classic race over cobbled hills."
+    },
+    {
+     "title": "Belgian Grand Prix",
+     "subtitle": "Formula One",
+     "text": "At Spa-Francorchamps."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Eddy Merckx",
+     "subtitle": "Cycling",
+     "text": "Five Tours de France; perhaps the greatest cyclist."
+    },
+    {
+     "title": "Jacky Ickx",
+     "subtitle": "Motor racing",
+     "text": "Six Le Mans wins."
+    },
+    {
+     "title": "Justine Henin",
+     "subtitle": "Tennis",
+     "text": "Seven Grand Slam titles."
+    },
+    {
+     "title": "Kim Clijsters",
+     "subtitle": "Tennis",
+     "text": "Four Grand Slam titles."
+    },
+    {
+     "title": "Nafi Thiam",
+     "subtitle": "Heptathlon",
+     "text": "Three Olympic golds."
+    },
+    {
+     "title": "Remco Evenepoel",
+     "subtitle": "Cycling",
+     "text": "Olympic road race and time trial champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Belgium's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "King Baudouin Stadium, Brussels",
+    "kind": "venue",
+    "lat": 50.896,
+    "lon": 4.334,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Spa-Francorchamps",
+    "kind": "venue",
+    "lat": 50.437,
+    "lon": 5.971,
+    "text": "A famous F1 circuit."
+   },
+   {
+    "name": "Oude Kwaremont",
+    "kind": "venue",
+    "lat": 50.78,
+    "lon": 3.65,
+    "text": "A cobbled climb in the Tour of Flanders."
+   },
+   {
+    "name": "Lotto Park, Brussels",
+    "kind": "venue",
+    "lat": 50.834,
+    "lon": 4.298,
+    "text": "Home of Anderlecht."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1920",
+    "title": "Antwerp Olympics",
+    "text": "Belgium hosts the Games."
+   },
+   {
+    "year": "1969",
+    "title": "Merckx's first Tour",
+    "text": "The start of a legend."
+   },
+   {
+    "year": "2018",
+    "title": "Third at the World Cup",
+    "text": "The golden generation."
+   },
+   {
+    "year": "2024",
+    "title": "Evenepoel's double",
+    "text": "Two road golds in Paris."
+   }
+  ]
+ }
 }

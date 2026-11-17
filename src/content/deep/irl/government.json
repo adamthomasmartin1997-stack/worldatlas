@@ -41,5 +41,62 @@
    "term": "Single transferable vote",
    "meaning": "A system where voters number candidates in order of preference."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 7 years",
+     "text": "Head of state; can send bills to the Supreme Court."
+    },
+    {
+     "title": "The Taoiseach",
+     "subtitle": "Chosen by the Dáil",
+     "text": "Leads the government."
+    },
+    {
+     "title": "The Dáil",
+     "subtitle": "174 members",
+     "text": "The main house of parliament."
+    },
+    {
+     "title": "The Seanad",
+     "subtitle": "60 members",
+     "text": "The senate."
+    },
+    {
+     "title": "Referendums",
+     "subtitle": "The people",
+     "text": "Every change to the constitution needs a public vote."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is published",
+    "text": "Usually by a minister."
+   },
+   {
+    "title": "Five stages",
+    "text": "The Dáil debates and amends it."
+   },
+   {
+    "title": "The Seanad",
+    "text": "Reviews it."
+   },
+   {
+    "title": "The President signs",
+    "text": "Or sends it to the Supreme Court first."
+   }
+  ]
+ }
 }

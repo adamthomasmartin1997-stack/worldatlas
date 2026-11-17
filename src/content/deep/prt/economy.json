@@ -22,5 +22,44 @@
    "term": "Renewable energy",
    "meaning": "Power from sources such as wind, water and sun."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Portugal",
+   "items": [
+    {
+     "title": "Cork",
+     "subtitle": "Alentejo",
+     "text": "Around half the world's cork."
+    },
+    {
+     "title": "Port wine",
+     "subtitle": "Douro Valley",
+     "text": "A sweet fortified wine."
+    },
+    {
+     "title": "Shoes and clothes",
+     "subtitle": "The north",
+     "text": "Quality shoes for European brands."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Lisbon, Porto, Algarve",
+     "text": "A huge part of the economy."
+    },
+    {
+     "title": "Cars",
+     "subtitle": "Autoeuropa",
+     "text": "Volkswagen's plant near Lisbon."
+    },
+    {
+     "title": "Renewable power",
+     "subtitle": "Wind and sun",
+     "text": "A big share of electricity."
+    }
+   ],
+   "intro": "Some of the things Portugal makes and sells to the world."
+  }
  ]
 }

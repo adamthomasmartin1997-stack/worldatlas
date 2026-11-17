@@ -36,5 +36,62 @@
    "term": "Chancellor",
    "meaning": "The head of government in Austria and Germany."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The Federal President",
+     "subtitle": "Directly elected for 6 years",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Chancellor",
+     "subtitle": "Appointed by the President",
+     "text": "Leads the government."
+    },
+    {
+     "title": "National Council",
+     "subtitle": "183 members",
+     "text": "The main chamber."
+    },
+    {
+     "title": "Federal Council",
+     "subtitle": "Chosen by the states",
+     "text": "Represents the nine states."
+    },
+    {
+     "title": "States",
+     "subtitle": "9 Länder",
+     "text": "Each has its own government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "Usually by the government."
+   },
+   {
+    "title": "National Council",
+    "text": "Debates and votes."
+   },
+   {
+    "title": "Federal Council",
+    "text": "Can object; the National Council can overrule."
+   },
+   {
+    "title": "Signed",
+    "text": "By the President and published."
+   }
+  ]
+ }
 }

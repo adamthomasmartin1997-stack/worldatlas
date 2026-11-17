@@ -22,5 +22,44 @@
    "term": "Praline",
    "meaning": "In Belgium, a chocolate shell with a soft filling."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Belgium",
+   "items": [
+    {
+     "title": "Chocolate",
+     "subtitle": "Brussels and beyond",
+     "text": "Pralines were invented here."
+    },
+    {
+     "title": "Beer",
+     "subtitle": "Over 1,500 beers",
+     "text": "Belgian beer culture is UNESCO-listed."
+    },
+    {
+     "title": "Diamonds",
+     "subtitle": "Antwerp",
+     "text": "A world diamond-trading centre."
+    },
+    {
+     "title": "Medicines",
+     "subtitle": "Pfizer, UCB",
+     "text": "Big vaccine factories."
+    },
+    {
+     "title": "Port of Antwerp-Bruges",
+     "subtitle": "Shipping",
+     "text": "Europe's second-largest port."
+    },
+    {
+     "title": "Comics",
+     "subtitle": "Tintin, the Smurfs",
+     "text": "A global comic tradition."
+    }
+   ],
+   "intro": "Some of the things Belgium makes and sells to the world."
+  }
  ]
 }

@@ -46,5 +46,62 @@
    "term": "Autonomous region",
    "meaning": "A region that governs many of its own affairs."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 5 years",
+     "text": "Can veto laws and dissolve parliament."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Appointed by the President",
+     "text": "Leads the government."
+    },
+    {
+     "title": "Assembly of the Republic",
+     "subtitle": "230 members",
+     "text": "A single-chamber parliament."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "Judges",
+     "text": "Checks laws against the constitution."
+    },
+    {
+     "title": "Azores and Madeira",
+     "subtitle": "Autonomous regions",
+     "text": "Have their own governments."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Committee and debate",
+    "text": "The Assembly studies and votes."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it or vetoes it; a veto can be overturned."
+   },
+   {
+    "title": "Published",
+    "text": "The law takes effect."
+   }
+  ]
+ }
 }

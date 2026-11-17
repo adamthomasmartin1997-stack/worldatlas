@@ -27,5 +27,75 @@
    "term": "Cork",
    "meaning": "The thick, light bark of the cork oak, used for bottle stoppers and much more."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Portugal's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Peneda-Gerês",
+    "kind": "national park",
+    "lat": 41.8,
+    "lon": -8.15,
+    "text": "Portugal's only national park, with wild horses."
+   },
+   {
+    "name": "Douro Valley",
+    "kind": "river valley",
+    "lat": 41.16,
+    "lon": -7.6,
+    "text": "Terraced vineyards that make port wine."
+   },
+   {
+    "name": "Serra da Estrela",
+    "kind": "mountains",
+    "lat": 40.32,
+    "lon": -7.61,
+    "text": "The highest mountains on the mainland."
+   },
+   {
+    "name": "Nazaré",
+    "kind": "big-wave coast",
+    "lat": 39.6,
+    "lon": -9.07,
+    "text": "Home of some of the biggest surfed waves."
+   },
+   {
+    "name": "Sintra",
+    "kind": "forested hills",
+    "lat": 38.79,
+    "lon": -9.39,
+    "text": "Palaces in misty hills."
+   },
+   {
+    "name": "Alentejo",
+    "kind": "plains",
+    "lat": 38.5,
+    "lon": -7.9,
+    "text": "Cork oaks and wheat fields."
+   },
+   {
+    "name": "Algarve",
+    "kind": "cliffs and beaches",
+    "lat": 37.09,
+    "lon": -8.25,
+    "text": "Golden cliffs and sea caves."
+   },
+   {
+    "name": "Madeira",
+    "kind": "volcanic island",
+    "lat": 32.75,
+    "lon": -16.95,
+    "text": "Steep green slopes in the Atlantic."
+   },
+   {
+    "name": "Azores",
+    "kind": "volcanic islands",
+    "lat": 37.8,
+    "lon": -25.5,
+    "text": "Crater lakes and Portugal's highest peak, Pico."
+   }
+  ]
+ }
 }

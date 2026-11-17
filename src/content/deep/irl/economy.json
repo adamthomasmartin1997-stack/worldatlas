@@ -22,5 +22,44 @@
    "term": "Multinational",
    "meaning": "A company that operates in many countries."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Ireland",
+   "items": [
+    {
+     "title": "Medicines",
+     "subtitle": "Cork and Dublin",
+     "text": "One of the world's biggest exporters."
+    },
+    {
+     "title": "Tech",
+     "subtitle": "Dublin",
+     "text": "European headquarters of big tech firms."
+    },
+    {
+     "title": "Medical devices",
+     "subtitle": "Galway",
+     "text": "Stents and other devices."
+    },
+    {
+     "title": "Dairy and beef",
+     "subtitle": "Farms",
+     "text": "Butter and beef sold worldwide."
+    },
+    {
+     "title": "Drinks",
+     "subtitle": "Guinness and whiskey",
+     "text": "Famous Irish brands."
+    },
+    {
+     "title": "Aircraft leasing",
+     "subtitle": "Shannon and Dublin",
+     "text": "Much of the world's leased aircraft."
+    }
+   ],
+   "intro": "Some of the things Ireland makes and sells to the world."
+  }
  ]
 }

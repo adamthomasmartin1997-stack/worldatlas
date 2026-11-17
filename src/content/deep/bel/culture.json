@@ -23,5 +23,131 @@
    "term": "Surrealism",
    "meaning": "An art movement that painted dreamlike, impossible scenes."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Rosetta",
+     "subtitle": "1999 · Dardenne brothers",
+     "text": "Won the top prize at Cannes."
+    },
+    {
+     "title": "The Broken Circle Breakdown",
+     "subtitle": "2012 · Felix van Groeningen",
+     "text": "A bluegrass love story; Oscar-nominated."
+    },
+    {
+     "title": "Close",
+     "subtitle": "2022 · Lukas Dhont",
+     "text": "Two boys' friendship; Oscar-nominated."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Adventures of Tintin",
+     "subtitle": "from 1929 · Hergé",
+     "text": "The reporter and his dog Snowy."
+    },
+    {
+     "title": "Maigret novels",
+     "subtitle": "from 1931 · Georges Simenon",
+     "text": "The pipe-smoking detective."
+    },
+    {
+     "title": "The Smurfs",
+     "subtitle": "1958 · Peyo",
+     "text": "Little blue creatures."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Ne me quitte pas",
+     "subtitle": "Jacques Brel, 1959",
+     "text": "A famous love song."
+    },
+    {
+     "title": "Alors on danse",
+     "subtitle": "Stromae, 2009",
+     "text": "A Europe-wide hit."
+    },
+    {
+     "title": "Pump Up the Jam",
+     "subtitle": "Technotronic, 1989",
+     "text": "An early dance hit."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Frites",
+     "subtitle": "Everywhere",
+     "text": "Fried twice, with mayonnaise."
+    },
+    {
+     "title": "Moules-frites",
+     "subtitle": "Everywhere",
+     "text": "Mussels and chips."
+    },
+    {
+     "title": "Waffles",
+     "subtitle": "Brussels and Liège",
+     "text": "Two different kinds."
+    },
+    {
+     "title": "Speculoos",
+     "subtitle": "Everywhere",
+     "text": "Spiced biscuits."
+    },
+    {
+     "title": "Carbonnade",
+     "subtitle": "Everywhere",
+     "text": "Beef stewed in beer."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Binche Carnival",
+    "text": "Gilles throw oranges; UNESCO-listed."
+   },
+   {
+    "month": 7,
+    "name": "Ommegang",
+    "text": "A historic pageant in Brussels, early July."
+   },
+   {
+    "month": 7,
+    "name": "National Day",
+    "text": "21 July."
+   },
+   {
+    "month": 7,
+    "name": "Tomorrowland",
+    "text": "A world-famous dance festival."
+   },
+   {
+    "month": 8,
+    "name": "Flower Carpet",
+    "text": "Grand-Place every other year."
+   }
+  ]
+ }
 }

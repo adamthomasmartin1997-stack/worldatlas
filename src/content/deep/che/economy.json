@@ -22,5 +22,44 @@
    "term": "CERN",
    "meaning": "The European Organization for Nuclear Research, near Geneva."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Switzerland",
+   "items": [
+    {
+     "title": "Watches",
+     "subtitle": "Rolex, Swatch, Omega",
+     "text": "Precision watches sold worldwide."
+    },
+    {
+     "title": "Medicines",
+     "subtitle": "Roche, Novartis",
+     "text": "Two of the world's biggest drug makers."
+    },
+    {
+     "title": "Chocolate",
+     "subtitle": "Lindt, Nestlé",
+     "text": "Milk chocolate was invented here."
+    },
+    {
+     "title": "Banking",
+     "subtitle": "Zurich and Geneva",
+     "text": "A global money centre."
+    },
+    {
+     "title": "Cheese",
+     "subtitle": "Gruyère, Emmental",
+     "text": "Hard mountain cheeses."
+    },
+    {
+     "title": "The franc",
+     "subtitle": "CHF",
+     "text": "A famously stable currency."
+    }
+   ],
+   "intro": "Some of the things Switzerland makes and sells to the world."
+  }
  ]
 }

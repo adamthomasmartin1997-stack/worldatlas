@@ -42,5 +42,62 @@
    "term": "Referendum",
    "meaning": "A vote by all citizens on a single question."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by parliament for 5 years",
+     "text": "Ceremonial head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the largest party",
+     "text": "Runs the government."
+    },
+    {
+     "title": "The Hellenic Parliament",
+     "subtitle": "300 members",
+     "text": "A single-chamber parliament."
+    },
+    {
+     "title": "Courts",
+     "subtitle": "Independent judges",
+     "text": "Including the Council of State."
+    },
+    {
+     "title": "Regions and municipalities",
+     "subtitle": "13 regions",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is tabled",
+    "text": "Usually by a minister."
+   },
+   {
+    "title": "Committee",
+    "text": "A parliamentary committee studies it."
+   },
+   {
+    "title": "Debate and vote",
+    "text": "Parliament votes in a full session."
+   },
+   {
+    "title": "Signed",
+    "text": "The President signs and publishes it."
+   }
+  ]
+ }
 }

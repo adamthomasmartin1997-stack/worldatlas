@@ -27,5 +27,129 @@
    "term": "Roller hockey",
    "meaning": "A form of hockey played on roller skates."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Primeira Liga",
+     "subtitle": "Football",
+     "text": "Benfica have won the most titles, ahead of Porto."
+    },
+    {
+     "title": "Taça de Portugal",
+     "subtitle": "Football cup",
+     "text": "Since 1938."
+    },
+    {
+     "title": "Roller hockey",
+     "subtitle": "Hóquei em patins",
+     "text": "Portugal are world champions many times."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Eusébio",
+     "subtitle": "Football",
+     "text": "Benfica's star; top scorer at the 1966 World Cup."
+    },
+    {
+     "title": "Rosa Mota",
+     "subtitle": "Running",
+     "text": "Olympic marathon champion in 1988."
+    },
+    {
+     "title": "Carlos Lopes",
+     "subtitle": "Running",
+     "text": "Olympic marathon champion in 1984."
+    },
+    {
+     "title": "Luís Figo",
+     "subtitle": "Football",
+     "text": "Ballon d'Or winner in 2000."
+    },
+    {
+     "title": "Cristiano Ronaldo",
+     "subtitle": "Football",
+     "text": "Record international goal-scorer."
+    },
+    {
+     "title": "Pedro Pichardo",
+     "subtitle": "Triple jump",
+     "text": "Olympic champion in 2021."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Portugal's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estádio da Luz, Lisbon",
+    "kind": "venue",
+    "lat": 38.753,
+    "lon": -9.185,
+    "text": "Home of Benfica."
+   },
+   {
+    "name": "Estádio do Dragão, Porto",
+    "kind": "venue",
+    "lat": 41.162,
+    "lon": -8.584,
+    "text": "Home of FC Porto."
+   },
+   {
+    "name": "Nazaré",
+    "kind": "venue",
+    "lat": 39.605,
+    "lon": -9.085,
+    "text": "Big-wave surfing contests."
+   },
+   {
+    "name": "Portimão circuit",
+    "kind": "venue",
+    "lat": 37.23,
+    "lon": -8.63,
+    "text": "Hosts Formula One and MotoGP."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1966",
+    "title": "Third at the World Cup",
+    "text": "Eusébio scores nine."
+   },
+   {
+    "year": "1984",
+    "title": "Lopes wins gold",
+    "text": "Portugal's first Olympic gold."
+   },
+   {
+    "year": "2004",
+    "title": "Euro final at home",
+    "text": "Lost to Greece."
+   },
+   {
+    "year": "2016",
+    "title": "Euro champions",
+    "text": "Beat France in Paris."
+   },
+   {
+    "year": "2019 and 2025",
+    "title": "Nations League",
+    "text": "Two more titles."
+   }
+  ]
+ }
 }

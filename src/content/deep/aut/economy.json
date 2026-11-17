@@ -22,5 +22,44 @@
    "term": "Hydropower",
    "meaning": "Electricity made from flowing water."
   }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Austria",
+   "items": [
+    {
+     "title": "Engines and cars",
+     "subtitle": "Graz and Steyr",
+     "text": "Car parts and complete vehicles."
+    },
+    {
+     "title": "Energy drinks",
+     "subtitle": "Red Bull",
+     "text": "Sold worldwide."
+    },
+    {
+     "title": "Crystal",
+     "subtitle": "Swarovski",
+     "text": "Cut-crystal jewellery."
+    },
+    {
+     "title": "Steel",
+     "subtitle": "Voestalpine",
+     "text": "High-tech steel."
+    },
+    {
+     "title": "Winter tourism",
+     "subtitle": "The Alps",
+     "text": "Ski resorts draw millions."
+    },
+    {
+     "title": "Wood and paper",
+     "subtitle": "Forests",
+     "text": "About half the land is forest."
+    }
+   ],
+   "intro": "Some of the things Austria makes and sells to the world."
+  }
  ]
 }

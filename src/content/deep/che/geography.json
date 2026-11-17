@@ -35,5 +35,75 @@
    "term": "Glacier",
    "meaning": "A slow-moving mass of ice."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Switzerland's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Rhine Falls",
+    "kind": "waterfall",
+    "lat": 47.678,
+    "lon": 8.615,
+    "text": "One of Europe's most powerful waterfalls."
+   },
+   {
+    "name": "Jura mountains",
+    "kind": "folded hills",
+    "lat": 47.1,
+    "lon": 6.8,
+    "text": "Gentle ridges where watchmaking began."
+   },
+   {
+    "name": "Lake Geneva",
+    "kind": "lake",
+    "lat": 46.45,
+    "lon": 6.55,
+    "text": "Shared with France, with vineyards on its shore."
+   },
+   {
+    "name": "Lake Lucerne",
+    "kind": "lake",
+    "lat": 47.0,
+    "lon": 8.45,
+    "text": "Where Switzerland was founded, at the Rütli meadow."
+   },
+   {
+    "name": "Jungfrau and Aletsch Glacier",
+    "kind": "glacier",
+    "lat": 46.5,
+    "lon": 8.03,
+    "text": "The longest glacier in the Alps."
+   },
+   {
+    "name": "Matterhorn",
+    "kind": "mountain",
+    "lat": 45.976,
+    "lon": 7.658,
+    "text": "The famous pyramid peak above Zermatt."
+   },
+   {
+    "name": "Dufourspitze",
+    "kind": "mountain",
+    "lat": 45.937,
+    "lon": 7.867,
+    "text": "Switzerland's highest point, 4,634 m."
+   },
+   {
+    "name": "Swiss National Park",
+    "kind": "wilderness",
+    "lat": 46.67,
+    "lon": 10.2,
+    "text": "The oldest national park in the Alps, since 1914."
+   },
+   {
+    "name": "Lake Lugano",
+    "kind": "lake",
+    "lat": 46.0,
+    "lon": 8.97,
+    "text": "Italian-speaking south with palm trees."
+   }
+  ]
+ }
 }

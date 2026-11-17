@@ -33,5 +33,75 @@
    "term": "Landlocked",
    "meaning": "Having no coastline."
   }
- ]
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Austria's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Wachau Valley",
+    "kind": "river valley",
+    "lat": 48.37,
+    "lon": 15.42,
+    "text": "Vineyards and abbeys along the Danube."
+   },
+   {
+    "name": "Vienna Woods",
+    "kind": "forest",
+    "lat": 48.2,
+    "lon": 16.1,
+    "text": "Wooded hills at the edge of the capital."
+   },
+   {
+    "name": "Lake Neusiedl",
+    "kind": "steppe lake",
+    "lat": 47.83,
+    "lon": 16.75,
+    "text": "A shallow lake shared with Hungary."
+   },
+   {
+    "name": "Salzkammergut",
+    "kind": "lakes",
+    "lat": 47.6,
+    "lon": 13.6,
+    "text": "Lakes and mountains, with Hallstatt."
+   },
+   {
+    "name": "Dachstein",
+    "kind": "ice caves",
+    "lat": 47.48,
+    "lon": 13.62,
+    "text": "Huge caves full of ice."
+   },
+   {
+    "name": "Krimml Waterfalls",
+    "kind": "waterfall",
+    "lat": 47.21,
+    "lon": 12.17,
+    "text": "Austria's highest waterfall."
+   },
+   {
+    "name": "Grossglockner",
+    "kind": "mountain",
+    "lat": 47.074,
+    "lon": 12.694,
+    "text": "Austria's highest peak, 3,798 m."
+   },
+   {
+    "name": "Ötztal Alps",
+    "kind": "glaciers",
+    "lat": 46.85,
+    "lon": 10.9,
+    "text": "Where Ötzi the iceman was found."
+   },
+   {
+    "name": "Wörthersee",
+    "kind": "lake",
+    "lat": 46.62,
+    "lon": 14.15,
+    "text": "A warm lake in Carinthia."
+   }
+  ]
+ }
 }

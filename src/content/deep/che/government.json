@@ -41,5 +41,62 @@
    "term": "Federal Council",
    "meaning": "The seven-member group that leads the Swiss government."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The Federal Council",
+     "subtitle": "7 members",
+     "text": "Seven ministers lead the country together; the presidency rotates each year."
+    },
+    {
+     "title": "National Council",
+     "subtitle": "200 members",
+     "text": "Seats by population."
+    },
+    {
+     "title": "Council of States",
+     "subtitle": "46 members",
+     "text": "Two for each full canton."
+    },
+    {
+     "title": "The people",
+     "subtitle": "Referendums",
+     "text": "Citizens vote on laws several times a year."
+    },
+    {
+     "title": "Cantons",
+     "subtitle": "26 cantons",
+     "text": "Each has its own constitution and parliament."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Consultation",
+    "text": "Cantons, parties and groups give their views."
+   },
+   {
+    "title": "Both chambers",
+    "text": "Each must agree on the same text."
+   },
+   {
+    "title": "Optional referendum",
+    "text": "50,000 signatures in 100 days force a public vote."
+   },
+   {
+    "title": "In force",
+    "text": "If no one objects, or the people say yes."
+   }
+  ]
+ }
 }

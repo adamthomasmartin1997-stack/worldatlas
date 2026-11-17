@@ -26,5 +26,129 @@
    "term": "Hurling",
    "meaning": "An Irish game played with a wooden stick called a hurley and a small ball."
   }
- ]
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "All-Ireland Football",
+     "subtitle": "Gaelic football",
+     "text": "Kerry have won the most titles."
+    },
+    {
+     "title": "All-Ireland Hurling",
+     "subtitle": "Hurling",
+     "text": "Kilkenny and Cork lead the roll."
+    },
+    {
+     "title": "League of Ireland",
+     "subtitle": "Football",
+     "text": "Shamrock Rovers have won the most."
+    },
+    {
+     "title": "United Rugby Championship",
+     "subtitle": "Rugby",
+     "text": "Leinster are one of Europe's best clubs."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Christy Ring",
+     "subtitle": "Hurling",
+     "text": "Eight All-Ireland medals."
+    },
+    {
+     "title": "Sonia O'Sullivan",
+     "subtitle": "Running",
+     "text": "World 5,000 m champion."
+    },
+    {
+     "title": "Brian O'Driscoll",
+     "subtitle": "Rugby",
+     "text": "A legend of the game."
+    },
+    {
+     "title": "Katie Taylor",
+     "subtitle": "Boxing",
+     "text": "Olympic and undisputed world champion."
+    },
+    {
+     "title": "Rory McIlroy",
+     "subtitle": "Golf",
+     "text": "Career Grand Slam winner."
+    },
+    {
+     "title": "Rhys McClenaghan",
+     "subtitle": "Gymnastics",
+     "text": "Olympic pommel horse champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Ireland's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Croke Park, Dublin",
+    "kind": "venue",
+    "lat": 53.36,
+    "lon": -6.251,
+    "text": "Home of Gaelic games."
+   },
+   {
+    "name": "Aviva Stadium, Dublin",
+    "kind": "venue",
+    "lat": 53.335,
+    "lon": -6.228,
+    "text": "Rugby and football."
+   },
+   {
+    "name": "Curragh",
+    "kind": "venue",
+    "lat": 53.15,
+    "lon": -6.82,
+    "text": "Home of Irish flat racing."
+   },
+   {
+    "name": "Punchestown",
+    "kind": "venue",
+    "lat": 53.19,
+    "lon": -6.62,
+    "text": "A big jump-racing festival every spring."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1990",
+    "title": "World Cup quarter-final",
+    "text": "Ireland's first World Cup."
+   },
+   {
+    "year": "2009",
+    "title": "Rugby Grand Slam",
+    "text": "The first since 1948."
+   },
+   {
+    "year": "2012",
+    "title": "Katie Taylor gold",
+    "text": "At London 2012."
+   },
+   {
+    "year": "2024",
+    "title": "Paris medals",
+    "text": "Ireland's best Olympics."
+   }
+  ]
+ }
 }
