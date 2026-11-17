@@ -1,0 +1,48 @@
+{
+ "status": "draft",
+ "intro": "Belarus is officially a presidential republic but in practice an authoritarian state.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Power and protest",
+   "text": [
+    "Power is concentrated in the president. International observers say elections are not free or fair, independent media have been shut down, and human rights groups count more than a thousand political prisoners. Belarus is the only country in Europe that still carries out the death penalty."
+   ],
+   "facts": [
+    {
+     "label": "President",
+     "value": "Alexander Lukashenko (since 1994)"
+    },
+    {
+     "label": "Currency",
+     "value": "Belarusian ruble"
+    },
+    {
+     "label": "Independence Day",
+     "value": "3 July"
+    }
+   ]
+  },
+  {
+   "id": "russia",
+   "title": "Close to Russia",
+   "text": [
+    "Belarus is in a 'Union State' with Russia, and Russian nuclear weapons have been stationed there since 2023. Opposition supporters use a white-red-white flag, different from the official red-and-green one."
+   ],
+   "related": [
+    "RUS",
+    "UKR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Authoritarian",
+   "meaning": "A system where power is held by one leader or group without real democratic checks."
+  },
+  {
+   "term": "Political prisoner",
+   "meaning": "Someone jailed for their political views or activities."
+  }
+ ]
+}

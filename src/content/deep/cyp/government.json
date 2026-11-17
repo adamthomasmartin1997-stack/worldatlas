@@ -1,0 +1,44 @@
+{
+ "status": "draft",
+ "intro": "The Republic of Cyprus is a presidential republic and an EU member, though it does not control the north of the island.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "President and parliament",
+   "text": [
+    "The president is both head of state and head of government, elected for five years. The House of Representatives has seats reserved for Turkish Cypriots, which have stood empty since 1964. The north is run by a separate administration recognised only by Turkey."
+   ],
+   "facts": [
+    {
+     "label": "President's term",
+     "value": "5 years"
+    },
+    {
+     "label": "Currency",
+     "value": "Euro"
+    },
+    {
+     "label": "Independence Day",
+     "value": "1 October"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Cyprus in the world",
+   "text": [
+    "Cyprus is in the EU but not in NATO. Talks to reunite the island, under the UN, have restarted many times without success."
+   ],
+   "related": [
+    "GRC",
+    "TUR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Administration",
+   "meaning": "A government or authority that runs a place."
+  }
+ ]
+}

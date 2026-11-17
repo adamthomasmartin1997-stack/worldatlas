@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Cypriot culture blends Greek, Turkish and wider Mediterranean traditions.",
+ "chapters": [
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Halloumi, souvla (slow-grilled meat), koupepia (stuffed vine leaves) and long meze meals are favourites. Commandaria, a sweet wine, is said to be the oldest named wine still produced."
+   ]
+  },
+  {
+   "id": "crafts",
+   "title": "Crafts and festivals",
+   "text": [
+    "Lefkara lace has been made for centuries; legend says Leonardo da Vinci bought some for Milan Cathedral. Kataklysmos, a water festival, is held at Pentecost."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Halloumi",
+   "meaning": "A firm, salty Cypriot cheese that can be grilled."
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+{
+ "status": "draft",
+ "intro": "Moldova is a parliamentary republic, officially neutral, and a candidate to join the EU.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Parliament and president",
+   "text": [
+    "The 101-member parliament chooses the government, and the president is directly elected. Its constitution declares Moldova permanently neutral. The country uses the Moldovan leu."
+   ],
+   "facts": [
+    {
+     "label": "Parliament",
+     "value": "101 members"
+    },
+    {
+     "label": "Currency",
+     "value": "Leu"
+    },
+    {
+     "label": "Independence Day",
+     "value": "27 August"
+    }
+   ]
+  },
+  {
+   "id": "regions",
+   "title": "Gagauzia and Transnistria",
+   "text": [
+    "Gagauzia has autonomy within Moldova. Transnistria is outside the government's control."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Neutral",
+   "meaning": "Not part of military alliances."
+  }
+ ]
+}

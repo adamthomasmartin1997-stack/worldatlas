@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Moldovan culture shares much with Romania, from folk music to food, and has had some surprising pop hits.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music",
+   "text": [
+    "The 2003 pop song 'Dragostea din tei' by the Moldovan band O-Zone became a worldwide hit and an early internet meme. Moldova's Eurovision act featuring 'Epic Sax Guy' also went viral."
+   ]
+  },
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "National Wine Day in October is a big festival, and Moldovan and Romanian traditional carpets are on UNESCO's heritage list."
+   ],
+   "related": [
+    "ROU"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Meme",
+   "meaning": "An idea, image or video spread widely online."
+  }
+ ]
+}

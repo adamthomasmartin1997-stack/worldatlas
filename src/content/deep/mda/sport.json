@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Moldovans enjoy football, wrestling and boxing.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "In 2021 Sheriff Tiraspol, a club from Transnistria, stunned football by beating Real Madrid at the Bernabéu in the Champions League."
+   ],
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Combat sports",
+   "text": [
+    "Moldovan athletes have won Olympic medals in wrestling, boxing, canoeing and judo."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Champions League",
+   "meaning": "Europe's top club football competition."
+  }
+ ]
+}

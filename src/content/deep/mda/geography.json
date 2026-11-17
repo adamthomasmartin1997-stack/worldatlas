@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Moldova is a small, landlocked country of rolling hills, rich black soil and vineyards.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Hills and rivers",
+   "text": [
+    "Moldova lies between the Prut River, the border with Romania, and the Dniester. Its fertile black soil is ideal for farming. It touches the Danube for just a few hundred metres, enough for a small river port with access to the sea.",
+    "Moldova borders Romania and Ukraine."
+   ],
+   "related": [
+    "ROU",
+    "UKR"
+   ]
+  },
+  {
+   "id": "heritage",
+   "title": "Cave monastery",
+   "text": [
+    "At Orheiul Vechi, monks carved a monastery into a limestone cliff above a winding river."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Black soil",
+   "meaning": "Very fertile, dark earth."
+  }
+ ]
+}

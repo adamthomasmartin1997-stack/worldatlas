@@ -1,0 +1,34 @@
+{
+ "status": "draft",
+ "intro": "Belarus is a flat, landlocked country of forests, lakes and marshes.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Forests and marshes",
+   "text": [
+    "Forests cover about 40% of the land, and there are thousands of lakes. The Pripyat Marshes in the south are among Europe's largest wetlands. The Białowieża Forest, shared with Poland, is home to European bison.",
+    "Belarus borders Russia, Ukraine, Poland, Lithuania and Latvia."
+   ],
+   "related": [
+    "RUS",
+    "UKR",
+    "POL",
+    "LTU",
+    "LVA"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Winters are cold and snowy and summers warm. The highest point is a gentle hill of just over 340 m."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Marsh",
+   "meaning": "Wet, low land often covered with water."
+  }
+ ]
+}

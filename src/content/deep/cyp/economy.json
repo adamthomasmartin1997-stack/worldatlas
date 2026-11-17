@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Cyprus earns its living from tourism, shipping and financial services.",
+ "chapters": [
+  {
+   "id": "sectors",
+   "title": "Tourism and shipping",
+   "text": [
+    "Millions of tourists visit each year, and Limassol is one of the world's biggest centres for managing ships. In 2013 a banking crisis forced savers with large deposits to lose part of their money."
+   ]
+  },
+  {
+   "id": "land",
+   "title": "Halloumi and gas",
+   "text": [
+    "Halloumi, a squeaky grilling cheese, has protected status in the EU as a Cypriot product. Gas has been found under the sea off the coast."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ship management",
+   "meaning": "Running ships for their owners."
+  }
+ ]
+}

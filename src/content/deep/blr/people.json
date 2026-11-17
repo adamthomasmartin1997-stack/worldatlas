@@ -1,0 +1,27 @@
+{
+ "status": "draft",
+ "intro": "Most people in Belarus speak Russian in daily life, though Belarusian is also an official language and a symbol of national identity.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and language",
+   "text": [
+    "Minsk, rebuilt after the war in grand Soviet style, is home to about a fifth of the population. Belarusian and Russian are both official. Most people are Orthodox Christians, with a Catholic minority in the west.",
+    "The painter Marc Chagall was born near Vitebsk, and writer Svetlana Alexievich won the Nobel Prize in Literature in 2015."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Draniki, potato pancakes, are the national dish; Belarusians are said to know hundreds of ways to cook potatoes."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Draniki",
+   "meaning": "Belarusian potato pancakes."
+  }
+ ]
+}

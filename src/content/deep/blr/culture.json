@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Belarusian culture includes folk festivals, castles and celebrated artists and writers.",
+ "chapters": [
+  {
+   "id": "heritage",
+   "title": "Castles and festivals",
+   "text": [
+    "The castles of Mir and Nesvizh are World Heritage Sites. Kupalle, the midsummer festival, involves bonfires, wreaths and a search for a magical fern flower."
+   ]
+  },
+  {
+   "id": "arts",
+   "title": "Artists",
+   "text": [
+    "Marc Chagall's dreamy paintings of floating figures were inspired by his childhood in Vitebsk, which now hosts a large arts festival every summer."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kupalle",
+   "meaning": "A midsummer festival celebrated in Belarus and neighbouring countries."
+  }
+ ]
+}

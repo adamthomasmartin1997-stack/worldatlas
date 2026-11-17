@@ -1,0 +1,34 @@
+{
+ "status": "draft",
+ "intro": "Cyprus is the third-largest island in the Mediterranean, sunny for most of the year, with mountains, beaches and salt lakes.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mountains and coast",
+   "text": [
+    "The Troodos Mountains, with painted Byzantine churches in their valleys, rise in the centre-west; the highest peak is Mount Olympus. The Kyrenia range runs along the north coast. The island is closer to Turkey, Syria and Lebanon than to Greece.",
+    "Britain still has two military bases on the island."
+   ],
+   "related": [
+    "TUR",
+    "SYR",
+    "LBN",
+    "GRC",
+    "GBR"
+   ]
+  },
+  {
+   "id": "nature",
+   "title": "Wildlife",
+   "text": [
+    "Flamingos gather on the salt lake at Larnaca in winter, and turtles nest on beaches. The Cyprus mouflon, a wild sheep, is a national symbol."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mouflon",
+   "meaning": "A wild sheep with curling horns."
+  }
+ ]
+}

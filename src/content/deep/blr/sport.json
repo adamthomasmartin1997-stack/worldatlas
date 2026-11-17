@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Belarus has produced champions in tennis, biathlon and gymnastics.",
+ "chapters": [
+  {
+   "id": "tennis",
+   "title": "Tennis",
+   "text": [
+    "Aryna Sabalenka has become world number one and won several Grand Slam titles, and Victoria Azarenka won the Australian Open twice."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Winter sports",
+   "text": [
+    "Biathlete Darya Domracheva won three Olympic golds in 2014. Since 2022 Belarusian teams have been banned from many international competitions because of the war in Ukraine."
+   ],
+   "related": [
+    "UKR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Biathlon",
+   "meaning": "Cross-country skiing combined with rifle shooting."
+  }
+ ]
+}

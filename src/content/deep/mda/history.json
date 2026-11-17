@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Moldova lies between Romania and Ukraine and has been fought over by empires for centuries. Independent since 1991, it is split by a breakaway region and is working to join the European Union.",
+ "chapters": [
+  {
+   "id": "moldavia",
+   "title": "Moldavia and empires",
+   "text": [
+    "Much of today's Moldova was part of the medieval Principality of Moldavia, whose prince Stephen the Great fought the Ottomans in the late 1400s. Moldavia later became an Ottoman vassal.",
+    "In 1812 Russia took the eastern half, called Bessarabia. It joined Romania in 1918, but the Soviet Union seized it in 1940, deporting tens of thousands of people."
+   ],
+   "related": [
+    "ROU",
+    "TUR",
+    "RUS"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence and Transnistria",
+   "text": [
+    "Moldova declared independence on 27 August 1991. In 1992 a short war broke out with Transnistria, a strip east of the Dniester River whose Russian-speaking leaders wanted to stay close to Russia. Transnistria has run itself ever since, unrecognised by any UN member, with Russian troops stationed there.",
+    "Moldova became a candidate to join the EU in 2022, and in 2024 voters narrowly backed EU membership in a referendum."
+   ],
+   "related": [
+    "RUS",
+    "UKR"
+   ]
+  },
+  {
+   "id": "today",
+   "title": "Moldova today",
+   "text": [
+    "President Maia Sandu, the first woman in the job, has led a push towards the EU, while Russia tries to keep its influence. Moldova took in many Ukrainian refugees in 2022."
+   ],
+   "related": [
+    "UKR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1457",
+   "title": "Stephen the Great",
+   "text": "He begins his long reign over Moldavia."
+  },
+  {
+   "year": "1812",
+   "title": "Russian rule",
+   "text": "Bessarabia is annexed by Russia."
+  },
+  {
+   "year": "1918",
+   "title": "Union with Romania",
+   "text": "Bessarabia joins Romania."
+  },
+  {
+   "year": "1940",
+   "title": "Soviet annexation",
+   "text": "The Soviet Union takes the region."
+  },
+  {
+   "year": "1991",
+   "title": "Independence",
+   "text": "Declared on 27 August."
+  },
+  {
+   "year": "1992",
+   "title": "Transnistria war",
+   "text": "A breakaway region splits off."
+  },
+  {
+   "year": "2022",
+   "title": "EU candidate",
+   "text": "Moldova starts the path to membership."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Vassal",
+   "meaning": "A state that is under another state's control."
+  },
+  {
+   "term": "Breakaway region",
+   "meaning": "An area that has declared itself independent without international recognition."
+  }
+ ]
+}

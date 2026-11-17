@@ -1,0 +1,101 @@
+{
+ "status": "draft",
+ "intro": "Cyprus, a Mediterranean island at the crossroads of Europe, Asia and Africa, has been ruled by almost every regional power. Independent since 1960, it has been divided since 1974.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Copper and empires",
+   "text": [
+    "People lived in round stone houses at Choirokoitia around 7000 BC. Cyprus was rich in copper, and the word 'copper' may come from the island's name. In Greek myth, the goddess Aphrodite rose from the sea off its coast.",
+    "Greeks, Phoenicians, Egyptians, Persians and Romans all ruled Cyprus. Later came the Byzantines, Richard the Lionheart, French crusader kings, Venice and, from 1571, the Ottomans."
+   ],
+   "related": [
+    "GRC",
+    "LBN",
+    "EGY",
+    "TUR"
+   ]
+  },
+  {
+   "id": "british",
+   "title": "British rule and independence",
+   "text": [
+    "Britain took over in 1878. In the 1950s Greek Cypriot fighters campaigned for union with Greece, and in 1960 Cyprus became an independent republic shared between Greek and Turkish Cypriots. Fighting between the communities broke out in 1963, and UN peacekeepers arrived in 1964; they are still there."
+   ],
+   "related": [
+    "GBR",
+    "GRC",
+    "TUR"
+   ]
+  },
+  {
+   "id": "division",
+   "title": "A divided island",
+   "text": [
+    "In 1974 a coup backed by Greece's military government aimed to unite Cyprus with Greece; Turkey invaded and took the north. Around 200,000 people lost their homes. The north declared itself a separate state in 1983, recognised only by Turkey. Nicosia remains the last divided capital in Europe.",
+    "A UN plan to reunite the island was rejected by Greek Cypriots in 2004, and Cyprus joined the EU that year. The euro arrived in 2008."
+   ],
+   "related": [
+    "GRC",
+    "TUR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 7000 BC",
+   "title": "Choirokoitia",
+   "text": "A Stone Age village."
+  },
+  {
+   "year": "1191",
+   "title": "Richard the Lionheart",
+   "text": "The English king seizes Cyprus."
+  },
+  {
+   "year": "1571",
+   "title": "Ottoman rule",
+   "text": "The Ottomans conquer the island."
+  },
+  {
+   "year": "1878",
+   "title": "British rule",
+   "text": "Britain takes control."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "The Republic of Cyprus is founded."
+  },
+  {
+   "year": "1964",
+   "title": "UN peacekeepers",
+   "text": "They arrive and stay."
+  },
+  {
+   "year": "1974",
+   "title": "Coup and invasion",
+   "text": "The island is divided."
+  },
+  {
+   "year": "2004",
+   "title": "Joins the EU",
+   "text": "After a reunification plan fails."
+  },
+  {
+   "year": "2008",
+   "title": "Euro",
+   "text": "Cyprus adopts the euro."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Green Line",
+   "meaning": "The UN buffer zone dividing Cyprus."
+  },
+  {
+   "term": "Coup",
+   "meaning": "A sudden, illegal seizure of power."
+  }
+ ]
+}

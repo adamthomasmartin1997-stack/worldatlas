@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Cyprus is home to Greek Cypriots in the south and Turkish Cypriots in the north, along with small Maronite, Armenian and Latin communities.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "Communities",
+   "text": [
+    "Greek and Turkish are both official languages, and English is widely spoken. Most Greek Cypriots are Orthodox Christians and most Turkish Cypriots Muslim. Crossing points through the Green Line opened in 2003, letting people visit both sides."
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Daily life",
+   "text": [
+    "Cars drive on the left, a legacy of British rule. Family gatherings over long meze meals are central to life."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Meze",
+   "meaning": "Many small shared dishes."
+  }
+ ]
+}

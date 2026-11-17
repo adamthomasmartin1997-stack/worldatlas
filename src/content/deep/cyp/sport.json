@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Football is the most popular sport in Cyprus.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "APOEL Nicosia reached the quarter-finals of the Champions League in 2012, a remarkable run for a small club."
+   ]
+  },
+  {
+   "id": "more",
+   "title": "Olympics and tennis",
+   "text": [
+    "Sailor Pavlos Kontides won Cyprus's first Olympic medal, a silver, in 2012, and tennis player Marcos Baghdatis reached the Australian Open final in 2006."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Quarter-final",
+   "meaning": "The round of the last eight in a competition."
+  }
+ ]
+}

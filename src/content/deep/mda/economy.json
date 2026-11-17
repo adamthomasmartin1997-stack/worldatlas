@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Moldova's economy relies on farming, wine and money sent home by workers abroad.",
+ "chapters": [
+  {
+   "id": "wine",
+   "title": "Wine country",
+   "text": [
+    "Moldova has one of the highest numbers of vineyards per person in the world. The Mileștii Mici cellars, in old limestone mines, hold the world's largest wine collection, and Cricova has an underground 'wine city' with more than 100 km of tunnels."
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "Money sent home by Moldovans abroad makes up a large share of the economy. Since 2022 Moldova has worked to end its dependence on Russian gas."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Remittances",
+   "meaning": "Money sent home by people working abroad."
+  }
+ ]
+}

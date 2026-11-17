@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Belarus has a largely state-run economy that depends heavily on Russia.",
+ "chapters": [
+  {
+   "id": "industry",
+   "title": "Trucks, tractors and potash",
+   "text": [
+    "Belarus builds tractors and giant mining dump trucks, including some of the largest in the world, and is a major producer of potash fertiliser. It refines Russian oil."
+   ],
+   "related": [
+    "RUS"
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Tech and sanctions",
+   "text": [
+    "A once-thriving tech scene produced the game World of Tanks and the messaging app Viber, but many IT workers left after 2020. Western sanctions have pushed Belarus even closer to Russia."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Potash",
+   "meaning": "A potassium-rich salt used as fertiliser."
+  }
+ ]
+}

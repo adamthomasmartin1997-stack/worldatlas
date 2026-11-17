@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "Moldova is one of Europe's poorest countries, and many of its people work abroad.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and languages",
+   "text": [
+    "Chișinău is the capital. Romanian is the official language, and Russian is widely spoken. The Gagauz, a Turkic-speaking Christian people, have their own autonomous region. Most people are Orthodox Christians.",
+    "Hundreds of thousands of Moldovans work abroad, especially in Italy, Russia and other EU countries, and many hold Romanian passports."
+   ],
+   "related": [
+    "ROU",
+    "ITA",
+    "RUS"
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Mămăligă (maize porridge), plăcinte (filled pastries) and sarmale (stuffed cabbage leaves) are traditional dishes."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Autonomous region",
+   "meaning": "An area that runs many of its own affairs."
+  }
+ ]
+}

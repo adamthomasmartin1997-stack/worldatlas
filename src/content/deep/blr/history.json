@@ -1,0 +1,98 @@
+{
+ "status": "draft",
+ "intro": "Belarus lay at the heart of the medieval Grand Duchy of Lithuania, then under Russian and Soviet rule. Independent since 1991, it has been ruled by Alexander Lukashenko since 1994.",
+ "chapters": [
+  {
+   "id": "duchy",
+   "title": "Polotsk and the Grand Duchy",
+   "text": [
+    "The principality of Polotsk, first recorded in 862, was part of the world of Kyivan Rus'. From the 1200s the Belarusian lands formed the core of the Grand Duchy of Lithuania, whose official language was an early form of Belarusian. In 1517 Francysk Skaryna from Polotsk printed one of the first books in an East Slavic language, a translation of the Bible.",
+    "Russia took the region in the late 1700s."
+   ],
+   "related": [
+    "LTU",
+    "POL",
+    "UKR",
+    "RUS"
+   ]
+  },
+  {
+   "id": "soviet",
+   "title": "Soviet Belarus",
+   "text": [
+    "A Belarusian People's Republic was declared in 1918 but soon replaced by Soviet rule. The Second World War was devastating: German forces burned hundreds of villages with their inhabitants, such as Khatyn, the Jewish population was almost entirely murdered, and roughly a quarter of the population died.",
+    "In 1986 much of the radioactive fallout from the Chernobyl disaster, just across the border in Ukraine, landed on Belarus."
+   ],
+   "related": [
+    "DEU",
+    "UKR"
+   ]
+  },
+  {
+   "id": "independent",
+   "title": "Independent Belarus",
+   "text": [
+    "Belarus became independent in 1991. Alexander Lukashenko was elected president in 1994 and has ruled ever since, keeping much of the economy under state control and staying close to Russia.",
+    "After a disputed election in 2020, hundreds of thousands protested; the government crushed the protests and opposition leader Sviatlana Tsikhanouskaya went into exile. In 2022 Russia used Belarusian territory to launch part of its invasion of Ukraine."
+   ],
+   "related": [
+    "RUS",
+    "UKR",
+    "LTU"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "862",
+   "title": "Polotsk",
+   "text": "First mention of the principality."
+  },
+  {
+   "year": "1517",
+   "title": "Skaryna's Bible",
+   "text": "An early East Slavic printed book."
+  },
+  {
+   "year": "1795",
+   "title": "Russian rule",
+   "text": "The region becomes part of the Russian Empire."
+  },
+  {
+   "year": "1918",
+   "title": "People's Republic",
+   "text": "A short-lived independent state."
+  },
+  {
+   "year": "1943",
+   "title": "Khatyn",
+   "text": "A village burned with its people."
+  },
+  {
+   "year": "1986",
+   "title": "Chernobyl",
+   "text": "Fallout contaminates large areas."
+  },
+  {
+   "year": "1991",
+   "title": "Independence",
+   "text": "Belarus leaves the Soviet Union."
+  },
+  {
+   "year": "1994",
+   "title": "Lukashenko",
+   "text": "He becomes president."
+  },
+  {
+   "year": "2020",
+   "title": "Protests",
+   "text": "Mass protests after a disputed election."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Fallout",
+   "meaning": "Radioactive dust that settles after a nuclear accident or explosion."
+  }
+ ]
+}
