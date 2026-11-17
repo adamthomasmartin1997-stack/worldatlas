@@ -1,0 +1,41 @@
+{
+ "status": "draft",
+ "intro": "Ukraine is the largest country entirely within Europe. Most of it is flat, fertile plain with some of the richest black soil on Earth, crossed by the great Dnipro River.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Steppe and black soil",
+   "text": [
+    "Ukraine borders Russia, Belarus, Poland, Slovakia, Hungary, Romania and Moldova, with a coast on the Black Sea and the Sea of Azov. Its plains are covered with chernozem, a deep black soil that makes it one of the world's great farming regions.",
+    "The Dnipro River flows south through Kyiv to the Black Sea, dividing the country into east and west. The Carpathian Mountains rise in the far west, and the Crimean Mountains in the south."
+   ],
+   "related": [
+    "RUS",
+    "BLR",
+    "POL",
+    "SVK",
+    "HUN",
+    "ROU",
+    "MDA"
+   ]
+  },
+  {
+   "id": "nature",
+   "title": "Nature",
+   "text": [
+    "Ukraine has steppe grasslands, forests in the north and the wetlands of the Danube Delta. Around Chernobyl, the area emptied of people after 1986 has become an unplanned wildlife refuge for wolves, bison and wild horses.",
+    "The climate is continental, with warm summers and cold, snowy winters; the Crimean coast is milder."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Chernozem",
+   "meaning": "Rich black soil, among the most fertile in the world."
+  },
+  {
+   "term": "Steppe",
+   "meaning": "Large, flat grassland with few trees."
+  }
+ ]
+}

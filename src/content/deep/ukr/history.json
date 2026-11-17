@@ -1,0 +1,154 @@
+{
+ "status": "draft",
+ "intro": "Ukraine's capital, Kyiv, was the centre of a powerful medieval state more than a thousand years ago. For centuries Ukraine was ruled by its neighbours; it became independent in 1991 and since 2014, and especially since 2022, has been fighting a Russian invasion.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Ancient farmers and Kyivan Rus'",
+   "text": [
+    "More than 6,000 years ago the Trypillia culture built some of the largest settlements in the world on Ukraine's fertile plains. Later, Scythian horsemen roamed the steppe and Greek colonies dotted the Black Sea coast.",
+    "In the 800s Kyiv became the centre of Kyivan Rus', a large medieval state. Its ruler Volodymyr adopted Christianity in 988, and Kyiv's St Sophia Cathedral, built in the 1000s, still stands. Mongol armies destroyed Kyiv in 1240."
+   ],
+   "related": [
+    "RUS",
+    "BLR",
+    "GRC",
+    "MNG"
+   ]
+  },
+  {
+   "id": "cossacks",
+   "title": "Cossacks and empires",
+   "text": [
+    "Much of Ukraine later came under Lithuanian and Polish rule. On the southern steppe, free warrior communities called Cossacks set up a fortress on the Dnipro River. In 1648 the Cossack leader Bohdan Khmelnytsky led a great uprising against Poland and then made an agreement with Moscow.",
+    "By the late 1700s most of Ukraine was part of the Russian Empire, while the west belonged to Austria. Russia restricted the Ukrainian language, but the poet Taras Shevchenko, born a serf, made it a language of great literature."
+   ],
+   "related": [
+    "POL",
+    "LTU",
+    "RUS",
+    "AUT"
+   ]
+  },
+  {
+   "id": "soviet",
+   "title": "Soviet rule",
+   "text": [
+    "After the 1917 revolutions Ukrainians declared independence, but by 1922 most of Ukraine was part of the Soviet Union. In 1932 and 1933 Stalin's policies caused a man-made famine, the Holodomor ('death by hunger'), which killed millions of Ukrainians; Ukraine and many other countries recognise it as genocide.",
+    "In the Second World War Ukraine was a major battlefield and millions died. At Babyn Yar, near Kyiv, Nazi forces murdered more than 33,000 Jews in two days in 1941. In 1986 a reactor exploded at the Chernobyl nuclear power plant, the worst nuclear accident in history."
+   ],
+   "highlight": {
+    "title": "Remembering",
+    "text": "On the fourth Saturday of November, Ukrainians light candles in their windows to remember the victims of the Holodomor."
+   },
+   "related": [
+    "RUS",
+    "DEU"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Ukraine declared independence on 24 August 1991, and more than 90% of voters approved it in a referendum. In 1994 it gave up the nuclear weapons left on its soil by the Soviet Union in return for promises that its borders would be respected.",
+    "In the Orange Revolution of 2004 and the Revolution of Dignity in 2013 and 2014, huge protests in Kyiv's Maidan square pushed for democracy and closer ties with Europe."
+   ]
+  },
+  {
+   "id": "war",
+   "title": "Russia's war",
+   "text": [
+    "In 2014 Russia seized Crimea and backed armed groups in eastern Ukraine's Donbas region. On 24 February 2022 Russia launched a full-scale invasion. Ukrainian forces defended Kyiv and later freed large areas, but fighting has continued, cities have been bombed, and millions of people have fled their homes.",
+    "President Volodymyr Zelensky, a former comedian elected in 2019, has led the country through the war, and Ukraine became a candidate to join the European Union in 2022."
+   ],
+   "related": [
+    "RUS",
+    "POL",
+    "DEU",
+    "USA",
+    "GBR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 4000 BC",
+   "title": "Trypillia",
+   "text": "Large farming settlements flourish."
+  },
+  {
+   "year": "988",
+   "title": "Christianity",
+   "text": "Volodymyr of Kyiv adopts Christianity."
+  },
+  {
+   "year": "1240",
+   "title": "Mongol attack",
+   "text": "Kyiv is destroyed."
+  },
+  {
+   "year": "1648",
+   "title": "Khmelnytsky Uprising",
+   "text": "Cossacks rise against Polish rule."
+  },
+  {
+   "year": "1840",
+   "title": "Shevchenko's Kobzar",
+   "text": "The great Ukrainian poetry collection is published."
+  },
+  {
+   "year": "1922",
+   "title": "Soviet Ukraine",
+   "text": "Ukraine becomes part of the USSR."
+  },
+  {
+   "year": "1932",
+   "title": "Holodomor",
+   "text": "A man-made famine kills millions."
+  },
+  {
+   "year": "1941",
+   "title": "Babyn Yar",
+   "text": "Nazi forces massacre Kyiv's Jews."
+  },
+  {
+   "year": "1986",
+   "title": "Chernobyl",
+   "text": "The world's worst nuclear accident."
+  },
+  {
+   "year": "1991",
+   "title": "Independence",
+   "text": "Declared on 24 August."
+  },
+  {
+   "year": "2004",
+   "title": "Orange Revolution",
+   "text": "Protests over a rigged election."
+  },
+  {
+   "year": "2014",
+   "title": "Revolution of Dignity; Crimea",
+   "text": "Protests win; Russia seizes Crimea."
+  },
+  {
+   "year": "2022",
+   "title": "Full-scale invasion",
+   "text": "Russia attacks on 24 February."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cossacks",
+   "meaning": "Free communities of warriors on the steppe of Ukraine and southern Russia."
+  },
+  {
+   "term": "Holodomor",
+   "meaning": "The 1932-33 famine in Soviet Ukraine caused by Stalin's policies."
+  },
+  {
+   "term": "Annexation",
+   "meaning": "When one country takes over another country's territory."
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+ "status": "draft",
+ "intro": "Most people in Ukraine are Ukrainian, and many grew up speaking both Ukrainian and Russian. The war has scattered millions of people across Europe and within the country.",
+ "chapters": [
+  {
+   "id": "peoples",
+   "title": "People and languages",
+   "text": [
+    "Ukrainian is the official language. In the past many people, especially in the east and south, mainly spoke Russian, but since 2014 and especially 2022 many have switched to Ukrainian. Minorities include Russians, Crimean Tatars, who were deported by Stalin in 1944, Hungarians, Romanians and a historic Jewish community.",
+    "Kyiv is the largest city, followed by Kharkiv, Odesa, Dnipro and Lviv."
+   ]
+  },
+  {
+   "id": "faith",
+   "title": "Faith and war",
+   "text": [
+    "Most Ukrainians are Orthodox Christians, and many in the west belong to the Ukrainian Greek Catholic Church. In 2019 the Orthodox Church of Ukraine became independent of the Russian church.",
+    "Since 2022 millions of Ukrainians have fled abroad, especially to Poland and Germany, and millions more have been displaced inside Ukraine. Many children have had to learn online or in bomb shelters."
+   ],
+   "related": [
+    "POL",
+    "DEU",
+    "CZE"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Displaced person",
+   "meaning": "Someone forced to leave their home, but still inside their own country."
+  },
+  {
+   "term": "Refugee",
+   "meaning": "Someone who has fled their country to escape war or danger."
+  }
+ ]
+}

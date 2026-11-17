@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "Ukrainian culture is famous for embroidered shirts, decorated Easter eggs, borscht and a tradition of poetry and song, and it has become a symbol of national resilience.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Folk art and food",
+   "text": [
+    "The vyshyvanka, an embroidered shirt, is worn on holidays and as a symbol of national pride. At Easter, people decorate eggs called pysanky with intricate wax-resist patterns.",
+    "Borscht, a beetroot soup, is so important that UNESCO listed Ukrainian borscht cooking as heritage in urgent need of protection in 2022. Varenyky (dumplings) are another favourite."
+   ]
+  },
+  {
+   "id": "music-words",
+   "title": "Music and words",
+   "text": [
+    "Taras Shevchenko is Ukraine's national poet. The Christmas song Carol of the Bells is based on Shchedryk, a Ukrainian folk chant arranged by Mykola Leontovych in 1916.",
+    "Ukraine has won Eurovision three times, most recently with Kalush Orchestra in 2022. The bandura, a many-stringed instrument, and the energetic hopak dance are national treasures."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pysanka",
+   "meaning": "A Ukrainian Easter egg decorated using wax and dyes."
+  },
+  {
+   "term": "Vyshyvanka",
+   "meaning": "A traditional embroidered shirt."
+  }
+ ]
+}

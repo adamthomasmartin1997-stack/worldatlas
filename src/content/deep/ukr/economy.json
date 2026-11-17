@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "Ukraine is called the breadbasket of Europe. Before the war it was one of the world's biggest grain exporters, and it is also known for steel, aircraft and a lively tech scene.",
+ "chapters": [
+  {
+   "id": "farming",
+   "title": "The breadbasket",
+   "text": [
+    "Ukraine is the world's largest exporter of sunflower oil and a major exporter of wheat, maize and barley, feeding people across the Middle East, Africa and Asia. When Russia blocked its ports in 2022, food prices rose around the world until new routes were found."
+   ],
+   "related": [
+    "EGY",
+    "TUR",
+    "CHN"
+   ]
+  },
+  {
+   "id": "industry",
+   "title": "Steel, planes and tech",
+   "text": [
+    "The east has long been a centre of mining and steel. Antonov built the An-225 Mriya, the world's largest aircraft, which was destroyed during the Russian attack near Kyiv in 2022.",
+    "Ukraine has thousands of software engineers, and the government's Diia app lets citizens use digital passports and access services on their phones. The war has shrunk the economy and damaged power stations, factories and homes. The currency is the hryvnia."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Breadbasket",
+   "meaning": "A region that produces huge amounts of grain."
+  }
+ ]
+}

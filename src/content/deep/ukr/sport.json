@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Ukraine has produced world-famous footballers, boxers and athletes, and its sports stars have become ambassadors for the country during the war.",
+ "chapters": [
+  {
+   "id": "football-boxing",
+   "title": "Football and boxing",
+   "text": [
+    "Andriy Shevchenko won the Ballon d'Or in 2004, and Dynamo Kyiv and Shakhtar Donetsk have won European trophies. Ukraine co-hosted Euro 2012 with Poland.",
+    "The Klitschko brothers dominated heavyweight boxing for years, and Vitali Klitschko later became mayor of Kyiv. In 2024 Oleksandr Usyk became the undisputed world heavyweight champion."
+   ],
+   "related": [
+    "POL"
+   ]
+  },
+  {
+   "id": "athletics",
+   "title": "Jumping and fencing",
+   "text": [
+    "Pole vaulter Sergey Bubka broke the world record 35 times. In 2024 high jumper Yaroslava Mahuchikh set a world record and won Olympic gold, Fencer Olga Kharlan, disqualified from the 2023 world championships for refusing to shake hands with a Russian opponent, won Olympic gold and bronze at Paris 2024."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Undisputed champion",
+   "meaning": "A boxer who holds all the major world title belts at once."
+  }
+ ]
+}

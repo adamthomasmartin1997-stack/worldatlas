@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Ukraine is a democratic republic with an elected president and parliament. Since 2022 it has been governed under martial law because of the war.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "President and Rada",
+   "text": [
+    "The president is elected directly for five years and leads defence and foreign policy. The single-chamber parliament, the Verkhovna Rada, has 450 seats and appoints the prime minister.",
+    "Ukraine's constitution does not allow elections under martial law, so the presidential and parliamentary elections due in 2024 were postponed."
+   ],
+   "facts": [
+    {
+     "label": "Parliament",
+     "value": "Verkhovna Rada, 450 seats"
+    },
+    {
+     "label": "Regions",
+     "value": "24 oblasts, plus Crimea, Kyiv and Sevastopol"
+    },
+    {
+     "label": "Voting age",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "symbols",
+   "title": "Symbols and the world",
+   "text": [
+    "The flag's two colours stand for a blue sky over yellow wheat fields, and the coat of arms is a golden trident. Independence Day is 24 August.",
+    "Ukraine became an EU candidate in 2022 and wants to join NATO. Much of the world supports Ukraine with weapons, money and sanctions on Russia."
+   ],
+   "related": [
+    "RUS",
+    "USA",
+    "GBR",
+    "DEU",
+    "POL"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Martial law",
+   "meaning": "Emergency rules during war that give the military and government extra powers."
+  },
+  {
+   "term": "Oblast",
+   "meaning": "A province or region of Ukraine."
+  }
+ ]
+}
