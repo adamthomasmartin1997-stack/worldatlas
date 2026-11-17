@@ -4,7 +4,7 @@ import { ArrowLeft, ArrowRight, BookOpen, Clock, Play } from 'lucide-react';
 import { Breadcrumbs, ButtonLink } from '../components/ui';
 import { WorldCompare } from '../components/WorldCompare';
 import { countryPath, getCountry, type Country } from '../data/countries';
-import { DEEP_SECTIONS, SECTION_LABEL, deepTitle, hasDeepDive, isDeepSection, loadDeepDive, readingMinutes, type DeepDive as Deep, type DeepSection } from '../content/deep';
+import { DEEP_SECTIONS, SECTION_LABEL, deepTitle, nameInSentence, hasDeepDive, isDeepSection, loadDeepDive, readingMinutes, type DeepDive as Deep, type DeepSection } from '../content/deep';
 import { TOPICS, questionCount, type Topic } from '../lib/quiz';
 import { flagUrl } from '../lib/difficulty';
 import { NotFound } from './NotFound';
@@ -32,7 +32,7 @@ function DeepPage({ c, section }: { c: Country; section: DeepSection }) {
     return () => { live = false; };
   }, [c, section]);
 
-  const title = deepTitle(section, c.name);
+  const title = deepTitle(section, nameInSentence(c));
   useEffect(() => { document.title = `${title} · Worldwise`; }, [title]);
 
   const profile = `${countryPath(c)}?tab=${section}`;
@@ -58,7 +58,7 @@ function DeepPage({ c, section }: { c: Country; section: DeepSection }) {
         )}
       </header>
 
-      {failed && <p className="container">This page didn’t load. <Link to={profile}>Back to {c.name}</Link></p>}
+      {failed && <p className="container">This page didn’t load. <Link to={profile}>Back to {nameInSentence(c)}</Link></p>}
       {!d && !failed && <p className="container muted" role="status">Loading…</p>}
 
       {d && (
@@ -93,7 +93,7 @@ function DeepPage({ c, section }: { c: Country; section: DeepSection }) {
             ))}
 
             {section === 'geography' && <WorldCompare c={c} keys={['forest', 'farmland', 'rainfall', 'co2']} title="Land, rain and environment" />}
-            {section === 'people' && <WorldCompare c={c} keys={['urban', 'internet', 'literacy']} title={`${c.name} compared with the world`} />}
+            {section === 'people' && <WorldCompare c={c} keys={['urban', 'internet', 'literacy']} title={`${cap(nameInSentence(c))} compared with the world`} />}
 
             {d.timeline && (
               <section id="timeline" className="deep-chapter" aria-labelledby="timeline-h">
@@ -130,12 +130,12 @@ function DeepPage({ c, section }: { c: Country; section: DeepSection }) {
           <h2 id="deep-next-h">Keep going</h2>
           <div className="deep-actions">
             {quiz && <ButtonLink to={`${countryPath(c)}/quiz/${quiz}`} variant="primary"><Play size={18} aria-hidden="true" /> Take the {TOPICS[quiz].label.toLowerCase()} quiz</ButtonLink>}
-            {next && <ButtonLink to={`${countryPath(c)}/${next}`}>Next: {deepTitle(next, c.name)} <ArrowRight size={18} aria-hidden="true" /></ButtonLink>}
+            {next && <ButtonLink to={`${countryPath(c)}/${next}`}>Next: {deepTitle(next, nameInSentence(c))} <ArrowRight size={18} aria-hidden="true" /></ButtonLink>}
             <Link to={profile} className="deep-back"><ArrowLeft size={16} aria-hidden="true" /> Back to the {c.name} profile</Link>
           </div>
           {others.length > 1 && (
             <>
-              <h3 className="panel-h">More about {c.name}</h3>
+              <h3 className="panel-h">More about {nameInSentence(c)}</h3>
               <div className="chip-row">
                 {others.map((s) => <Link key={s} to={`${countryPath(c)}/${s}`} className="chip">{SECTION_LABEL[s]}</Link>)}
               </div>
@@ -146,6 +146,8 @@ function DeepPage({ c, section }: { c: Country; section: DeepSection }) {
     </>
   );
 }
+
+const cap = (s: string) => s[0].toUpperCase() + s.slice(1);
 
 /** In-page links: scroll to the chapter without touching the URL (the hash router owns it). */
 function jump(id: string) {

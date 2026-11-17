@@ -45,6 +45,14 @@ export function loadDeepDive(cca3: string, section: DeepSection): Promise<DeepDi
   return load ? load() : null;
 }
 
+/** Countries whose English name takes "the": "the United Kingdom", "the Netherlands". */
+const WITH_THE = new Set(['ALA', 'BHS', 'VGB', 'CYM', 'CAF', 'CCK', 'COM', 'COK', 'DOM', 'FLK', 'FRO', 'GMB', 'MDV', 'MHL', 'NLD', 'MNP', 'PHL', 'PCN', 'COG', 'SYC', 'SLB', 'TCA', 'ARE', 'GBR', 'USA', 'UMI', 'VIR', 'BES', 'ATF']);
+
+/** A country's name as it reads mid-sentence: "the United Kingdom", "France". */
+export function nameInSentence(c: { cca3: string; name: string }): string {
+  return WITH_THE.has(c.cca3) ? `the ${c.name}` : c.name;
+}
+
 /** Page titles, e.g. "History of France". */
 export function deepTitle(section: DeepSection, name: string): string {
   return {

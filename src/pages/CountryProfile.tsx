@@ -10,7 +10,7 @@ import { useUsStates, statePath } from '../components/usStates';
 import { Breadcrumbs, ButtonLink, Card, SourceNote } from '../components/ui';
 import { COUNTRIES, ORGANISATIONS, countryPath, fmt, getCountry, type Country } from '../data/countries';
 import type { SourceId } from '../data/sources';
-import { DEEP_SECTIONS, deepTitle, hasDeepDive, isDeepSection } from '../content/deep';
+import { DEEP_SECTIONS, deepTitle, hasDeepDive, isDeepSection, nameInSentence } from '../content/deep';
 import { contentFor, type CountryContent, type Fact as WrittenFact } from '../content/countries';
 import { TOPICS, questionCount, questionsFor, type Topic } from '../lib/quiz';
 import { flagUrl } from '../lib/difficulty';
@@ -200,7 +200,7 @@ function Profile({ c }: { c: Country }) {
             <section className="deep-links" aria-label="Go deeper">
               <h3 className="panel-h">Go deeper</h3>
               <div className="chip-row">
-                {DEEP_SECTIONS.filter((s) => hasDeepDive(c.cca3, s)).map((s) => <Link key={s} to={`${countryPath(c)}/${s}`} className="chip">{deepTitle(s, c.name)}</Link>)}
+                {DEEP_SECTIONS.filter((s) => hasDeepDive(c.cca3, s)).map((s) => <Link key={s} to={`${countryPath(c)}/${s}`} className="chip">{deepTitle(s, nameInSentence(c))}</Link>)}
               </div>
             </section>
           )}
@@ -425,7 +425,7 @@ function Profile({ c }: { c: Country }) {
           {panels[tab]}
           {isDeepSection(tab) && hasDeepDive(c.cca3, tab) && (
             <div className="deep-cta">
-              <ButtonLink to={`${countryPath(c)}/${tab}`} variant="primary"><BookOpen size={18} aria-hidden="true" /> Read the deep dive: {deepTitle(tab, c.name)} <ArrowRight size={18} aria-hidden="true" /></ButtonLink>
+              <ButtonLink to={`${countryPath(c)}/${tab}`} variant="primary"><BookOpen size={18} aria-hidden="true" /> Read the deep dive: {deepTitle(tab, nameInSentence(c))} <ArrowRight size={18} aria-hidden="true" /></ButtonLink>
             </div>
           )}
         </FolderTabs>
