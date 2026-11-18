@@ -1,0 +1,79 @@
+{
+ "status": "draft",
+ "intro": "Tuvalu is one of the world's smallest countries, nine low coral islands threatened by rising seas.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Polynesian settlers",
+   "text": [
+    "Polynesian voyagers from Samoa and Tonga settled the islands about 2,000 years ago. 'Tuvalu' means 'eight standing together', for the eight inhabited islands at independence."
+   ],
+   "related": [
+    "WSM",
+    "TON"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Ellice Islands",
+   "text": [
+    "Britain ruled the islands, then called the Ellice Islands, together with the Gilbert Islands (now Kiribati). In 1974 the Ellice Islanders voted to separate."
+   ],
+   "highlight": {
+    "title": "Separation",
+    "text": "Tuvalu split from Kiribati in 1975."
+   },
+   "related": [
+    "GBR",
+    "KIR"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence and climate",
+   "text": [
+    "Tuvalu became independent in 1978. In 2023 it signed a treaty with Australia letting up to 280 Tuvaluans a year move there, because of the threat from rising seas."
+   ],
+   "related": [
+    "AUS"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. AD 1",
+   "title": "Settlement",
+   "text": "Polynesian voyagers."
+  },
+  {
+   "year": "1892",
+   "title": "British protectorate",
+   "text": "With the Gilbert Islands."
+  },
+  {
+   "year": "1975",
+   "title": "Separation",
+   "text": "From the Gilberts."
+  },
+  {
+   "year": "1978",
+   "title": "Independence",
+   "text": "1 October."
+  },
+  {
+   "year": "2023",
+   "title": "Falepili Union",
+   "text": "A treaty with Australia."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Atoll",
+   "meaning": "A ring of coral islands."
+  },
+  {
+   "term": "Sea level rise",
+   "meaning": "Oceans rising as the climate warms."
+  }
+ ]
+}

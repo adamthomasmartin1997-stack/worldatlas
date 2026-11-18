@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Nauru is the world's smallest island nation and the third-smallest country, once made rich, then poor, by phosphate mining.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Pleasant Island",
+   "text": [
+    "Micronesian and Polynesian settlers lived here in 12 clans. A British captain called it 'Pleasant Island' in 1798."
+   ],
+   "related": [
+    "KIR"
+   ]
+  },
+  {
+   "id": "phosphate",
+   "title": "Phosphate rush",
+   "text": [
+    "Germany ruled from 1888, and in 1906 mining of phosphate, rock formed from ancient bird droppings, began. After World War One, Australia, Britain and New Zealand ran the island and its mines. Japan occupied it in World War Two."
+   ],
+   "highlight": {
+    "title": "Mined out",
+    "text": "About 80% of the island's interior was stripped by mining."
+   },
+   "related": [
+    "DEU",
+    "AUS",
+    "GBR",
+    "NZL",
+    "JPN"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Nauru became independent in 1968 and for a time was one of the richest countries per person. When phosphate ran low, money ran out. In 2024 it switched recognition from Taiwan to China."
+   ],
+   "related": [
+    "AUS",
+    "CHN",
+    "TWN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1798",
+   "title": "Pleasant Island",
+   "text": "Named by a British captain."
+  },
+  {
+   "year": "1888",
+   "title": "German rule",
+   "text": "Annexed."
+  },
+  {
+   "year": "1906",
+   "title": "Mining begins",
+   "text": "Phosphate is dug."
+  },
+  {
+   "year": "1968",
+   "title": "Independence",
+   "text": "31 January."
+  },
+  {
+   "year": "2001",
+   "title": "Refugee centre",
+   "text": "Australia's offshore processing begins."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Phosphate",
+   "meaning": "A mineral used for fertiliser."
+  },
+  {
+   "term": "Topside",
+   "meaning": "Nauru's mined-out interior plateau."
+  }
+ ]
+}

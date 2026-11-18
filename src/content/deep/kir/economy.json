@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Fishing licences and copra are Kiribati's main earners.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Foreign fishing fleets pay to fish for tuna in its vast waters. Copra and seaweed are exported. A national fund saved from old phosphate mining supports the budget."
+   ],
+   "related": [
+    "JPN",
+    "KOR"
+   ]
+  },
+  {
+   "id": "phosphate",
+   "title": "Phosphate",
+   "text": [
+    "Banaba island was stripped by phosphate mining in the 1900s."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Exclusive economic zone",
+   "meaning": "Sea area where a country controls fishing."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Kiribati",
+   "items": [
+    {
+     "title": "Fishing licences",
+     "subtitle": "Ocean",
+     "text": "The main income."
+    },
+    {
+     "title": "Copra",
+     "subtitle": "Islands",
+     "text": "Dried coconut."
+    },
+    {
+     "title": "Seaweed",
+     "subtitle": "Lagoons",
+     "text": "Farmed seaweed."
+    }
+   ],
+   "intro": "Some of the things Kiribati makes and sells to the world."
+  }
+ ]
+}

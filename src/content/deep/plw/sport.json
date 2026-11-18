@@ -1,0 +1,66 @@
+{
+ "status": "draft",
+ "intro": "Baseball is very popular in Palau, a legacy of Japanese rule.",
+ "chapters": [
+  {
+   "id": "baseball",
+   "title": "Baseball",
+   "text": [
+    "Baseball is played across the islands, and Palau has won medals at regional games."
+   ],
+   "related": [
+    "JPN"
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics",
+   "text": [
+    "Palau has competed at the Olympics since 2000."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pacific Games",
+   "meaning": "A multi-sport event for Pacific nations."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Baseball",
+     "subtitle": "Islands",
+     "text": "A popular sport."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Palau's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Palau National Stadium",
+    "kind": "venue",
+    "lat": 7.34,
+    "lon": 134.48,
+    "text": "The main ground, in Koror."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2000",
+    "title": "Olympic debut",
+    "text": "In Sydney."
+   }
+  ]
+ }
+}

@@ -1,0 +1,87 @@
+{
+ "status": "draft",
+ "intro": "Samoa, the 'cradle of Polynesia', keeps one of the strongest traditional cultures in the Pacific.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Polynesian heartland",
+   "text": [
+    "Lapita people arrived about 3,000 years ago, and Samoa became a starting point for voyages across Polynesia. Chiefs called matai led extended families."
+   ],
+   "related": [
+    "TON",
+    "FJI",
+    "NZL"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "German and New Zealand rule",
+   "text": [
+    "In 1899 Germany took the western islands (today's Samoa) and the US the eastern ones (American Samoa). New Zealand took over in 1914. The 1918 flu killed about a fifth of the people, and New Zealand police killed peaceful Mau protesters in 1929."
+   ],
+   "highlight": {
+    "title": "The Mau",
+    "text": "A peaceful independence movement whose motto was 'Samoa for Samoans'."
+   },
+   "related": [
+    "DEU",
+    "USA",
+    "NZL"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "In 1962 Samoa became the first Pacific island nation to win independence in the 20th century. In 2011 it skipped a day, moving west of the International Date Line. Fiamē Naomi Mataʻafa became the first woman prime minister in 2021."
+   ],
+   "related": [
+    "NZL",
+    "AUS"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1000 BC",
+   "title": "First settlers",
+   "text": "Lapita voyagers."
+  },
+  {
+   "year": "1899",
+   "title": "Divided",
+   "text": "Germany and the US split the islands."
+  },
+  {
+   "year": "1914",
+   "title": "New Zealand rule",
+   "text": "Begins."
+  },
+  {
+   "year": "1929",
+   "title": "Black Saturday",
+   "text": "Mau protesters killed."
+  },
+  {
+   "year": "1962",
+   "title": "Independence",
+   "text": "1 January."
+  },
+  {
+   "year": "2011",
+   "title": "Date line",
+   "text": "Samoa skips 30 December."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Matai",
+   "meaning": "A chief who leads an extended family."
+  },
+  {
+   "term": "Fa'a Samoa",
+   "meaning": "'The Samoan way' of life."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "status": "draft",
+ "intro": "Football and traditional games are popular in Tuvalu, despite having little flat land.",
+ "chapters": [
+  {
+   "id": "sport",
+   "title": "Sport",
+   "text": [
+    "Kilikiti, a Polynesian form of cricket, and te ano, a ball game, are traditional."
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics",
+   "text": [
+    "Tuvalu has sent sprinters and weightlifters to every Summer Olympics since 2008."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kilikiti",
+   "meaning": "Polynesian cricket."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Tuvalu A-Division",
+     "subtitle": "Football",
+     "text": "A small league."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Tuvalu's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Tuvalu Sports Ground",
+    "kind": "venue",
+    "lat": -8.52,
+    "lon": 179.2,
+    "text": "Next to the airstrip."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2008",
+    "title": "Olympic debut",
+    "text": "Tuvalu competes in Beijing."
+   }
+  ]
+ }
+}

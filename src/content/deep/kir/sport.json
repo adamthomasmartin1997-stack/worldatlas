@@ -1,0 +1,74 @@
+{
+ "status": "draft",
+ "intro": "Football and weightlifting are popular in Kiribati.",
+ "chapters": [
+  {
+   "id": "weightlifting",
+   "title": "Weightlifting",
+   "text": [
+    "David Katoatau won Commonwealth Games gold in 2014 and became famous for dancing after lifts to raise awareness of rising seas."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Kiribati football is played on small sand pitches."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Commonwealth Games",
+   "meaning": "Games for Commonwealth countries."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Football",
+     "subtitle": "Island teams",
+     "text": "Small competitions."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "David Katoatau",
+     "subtitle": "Weightlifting",
+     "text": "Commonwealth champion 2014."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Kiribati's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Bairiki National Stadium",
+    "kind": "venue",
+    "lat": 1.33,
+    "lon": 173.02,
+    "text": "The main ground."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2014",
+    "title": "Commonwealth gold",
+    "text": "Katoatau in Glasgow."
+   }
+  ]
+ }
+}

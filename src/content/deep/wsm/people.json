@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Samoa has about 220,000 people, and many more Samoans live in New Zealand, Australia and the US.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Almost everyone is Samoan, and Samoan and English are official. Church plays a huge role in daily life."
+   ],
+   "related": [
+    "NZL",
+    "AUS",
+    "USA"
+   ]
+  },
+  {
+   "id": "apia",
+   "title": "Apia",
+   "text": [
+    "Apia, on Upolu, is the capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Fale",
+   "meaning": "A traditional open-sided house."
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "status": "draft",
+ "intro": "Basketball and canoe racing are popular in the Marshall Islands.",
+ "chapters": [
+  {
+   "id": "canoe",
+   "title": "Canoe racing",
+   "text": [
+    "Traditional outrigger sailing canoe races are held in Majuro lagoon."
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics",
+   "text": [
+    "The Marshall Islands has competed at the Olympics since 2008."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Outrigger",
+   "meaning": "A canoe with a side float."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Basketball",
+     "subtitle": "Majuro",
+     "text": "Popular league games."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where the Marshall Islands' biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Marshall Islands Track and Field",
+    "kind": "venue",
+    "lat": 7.1,
+    "lon": 171.38,
+    "text": "A sports ground."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2008",
+    "title": "Olympic debut",
+    "text": "In Beijing."
+   }
+  ]
+ }
+}

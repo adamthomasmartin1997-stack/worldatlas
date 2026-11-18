@@ -1,0 +1,85 @@
+{
+ "status": "draft",
+ "intro": "The Marshall Islands are 29 coral atolls in the Pacific, famous for traditional stick charts and scarred by nuclear testing.",
+ "chapters": [
+  {
+   "id": "navigators",
+   "title": "Master navigators",
+   "text": [
+    "Micronesian settlers arrived about 2,000 years ago or more. Marshallese navigators made stick charts from palm ribs and shells to show how ocean swells bend around islands."
+   ],
+   "highlight": {
+    "title": "Stick charts",
+    "text": "One of the world's most remarkable ways of mapping the sea."
+   },
+   "related": [
+    "FSM",
+    "KIR"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Germany, Japan and the US",
+   "text": [
+    "Germany ruled from 1885, Japan from 1914, and the US took the islands in World War Two. From 1946 to 1958 the US tested 67 nuclear bombs at Bikini and Enewetak; the 1954 Castle Bravo test spread fallout over nearby islands. People of Bikini still cannot safely return home."
+   ],
+   "related": [
+    "DEU",
+    "JPN",
+    "USA"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "The Marshall Islands became self-governing in 1979 and fully independent in 1986 under a Compact of Free Association with the US."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1885",
+   "title": "German rule",
+   "text": "A protectorate."
+  },
+  {
+   "year": "1914",
+   "title": "Japanese rule",
+   "text": "After World War One."
+  },
+  {
+   "year": "1944",
+   "title": "US capture",
+   "text": "World War Two."
+  },
+  {
+   "year": "1946",
+   "title": "Nuclear tests",
+   "text": "At Bikini Atoll."
+  },
+  {
+   "year": "1954",
+   "title": "Castle Bravo",
+   "text": "The biggest US test."
+  },
+  {
+   "year": "1986",
+   "title": "Independence",
+   "text": "Compact with the US."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Stick chart",
+   "meaning": "A map of ocean swells made of sticks and shells."
+  },
+  {
+   "term": "Fallout",
+   "meaning": "Radioactive dust from a nuclear explosion."
+  }
+ ]
+}

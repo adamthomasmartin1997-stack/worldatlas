@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Remittances, tourism and farming support Samoa's economy.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Money from Samoans abroad is a big share of income. Coconut products, nonu juice and fish are exported, and tourists come for the beaches."
+   ],
+   "related": [
+    "NZL",
+    "AUS"
+   ]
+  },
+  {
+   "id": "work-abroad",
+   "title": "Seasonal work",
+   "text": [
+    "Many Samoans do seasonal work in New Zealand and Australia."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Remittances",
+   "meaning": "Money sent home from abroad."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Samoa",
+   "items": [
+    {
+     "title": "Coconut products",
+     "subtitle": "Islands",
+     "text": "Oil and cream."
+    },
+    {
+     "title": "Nonu juice",
+     "subtitle": "Farms",
+     "text": "A health drink."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Beaches",
+     "text": "Fale stays."
+    }
+   ],
+   "intro": "Some of the things Samoa makes and sells to the world."
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "status": "draft",
+ "intro": "Nauruan culture includes frigatebird catching and the 12 clans.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Catching frigatebirds was a traditional pastime. Angam Day celebrates the population recovering to 1,500 after near-collapse."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Fish and coconut were traditional; today most food is imported."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Angam",
+   "meaning": "'Homecoming', a national day."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Traditional chants",
+     "subtitle": "Music",
+     "text": "Sung at ceremonies."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Coconut fish",
+     "subtitle": "Everywhere",
+     "text": "Fish in coconut."
+    },
+    {
+     "title": "Imported food",
+     "subtitle": "Everywhere",
+     "text": "Most food is shipped in."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Independence Day",
+    "text": "31 January."
+   },
+   {
+    "month": 10,
+    "name": "Angam Day",
+    "text": "26 October."
+   }
+  ]
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "status": "draft",
+ "intro": "Tonga is about 170 islands, about 36 of which are lived on.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Islands",
+   "text": [
+    "Tongatapu is the main island. Vava'u has sheltered harbours where humpback whales breed from July to October. The Tonga Trench nearby is one of the deepest places in the ocean."
+   ],
+   "related": [
+    "WSM",
+    "FJI",
+    "NZL"
+   ]
+  },
+  {
+   "id": "volcano",
+   "title": "Volcanoes",
+   "text": [
+    "Underwater volcanoes sometimes create new islands."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Trench",
+   "meaning": "A deep valley in the ocean floor."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Tonga's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Nuku'alofa",
+    "kind": "capital",
+    "lat": -21.14,
+    "lon": -175.2,
+    "text": "The royal palace."
+   },
+   {
+    "name": "Ha'amonga 'a Maui",
+    "kind": "trilithon",
+    "lat": -21.13,
+    "lon": -175.04,
+    "text": "An ancient stone gate."
+   },
+   {
+    "name": "Mapu'a 'a Vaea",
+    "kind": "blowholes",
+    "lat": -21.2,
+    "lon": -175.33,
+    "text": "Hundreds of blowholes."
+   },
+   {
+    "name": "Vava'u",
+    "kind": "islands",
+    "lat": -18.65,
+    "lon": -173.98,
+    "text": "Whale watching."
+   },
+   {
+    "name": "'Eua",
+    "kind": "island",
+    "lat": -21.38,
+    "lon": -174.93,
+    "text": "Cliffs and forest."
+   }
+  ]
+ }
+}

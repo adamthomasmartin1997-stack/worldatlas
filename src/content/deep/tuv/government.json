@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Tuvalu is a parliamentary democracy with the British monarch as head of state.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Parliament has 16 members and there are no political parties. Feleti Teo became prime minister in 2024."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Funafuti"
+    },
+    {
+     "label": "Independence",
+     "value": "1978"
+    },
+    {
+     "label": "Parliament",
+     "value": "16 members"
+    }
+   ]
+  },
+  {
+   "id": "digital",
+   "title": "Digital nation",
+   "text": [
+    "Tuvalu is creating a digital copy of itself so its culture can survive even if the land is lost."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Falekaupule",
+   "meaning": "Traditional island councils."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Governor-General",
+     "subtitle": "Represents the King",
+     "text": "Ceremonial."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Elected by parliament",
+     "text": "Leads the government."
+    },
+    {
+     "title": "Parliament",
+     "subtitle": "16 members",
+     "text": "No political parties."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In Parliament."
+   },
+   {
+    "title": "Vote",
+    "text": "Members debate and pass it."
+   },
+   {
+    "title": "Governor-General",
+    "text": "Gives assent."
+   }
+  ]
+ }
+}

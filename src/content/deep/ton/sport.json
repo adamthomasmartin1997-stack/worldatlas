@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Rugby is Tonga's national sport, and its rugby league team shocked the world.",
+ "chapters": [
+  {
+   "id": "rugby",
+   "title": "Rugby",
+   "text": [
+    "The Ikale Tahi rugby union team performs the Sipi Tau war dance. In rugby league, Tonga beat Australia in 2019."
+   ],
+   "related": [
+    "AUS",
+    "NZL"
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics",
+   "text": [
+    "Pita Taufatofua became famous carrying the flag shirtless at three Olympics. Paea Wolfgramm won boxing silver in 1996."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sipi Tau",
+   "meaning": "Tonga's pre-match war dance."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Rugby",
+     "subtitle": "Ikale Tahi",
+     "text": "The national team."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Pita Taufatofua",
+     "subtitle": "Taekwondo and skiing",
+     "text": "Flag-bearer at three Olympics."
+    },
+    {
+     "title": "Paea Wolfgramm",
+     "subtitle": "Boxing",
+     "text": "Olympic silver 1996."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Tonga's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Teufaiva Stadium",
+    "kind": "venue",
+    "lat": -21.14,
+    "lon": -175.2,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1996",
+    "title": "Olympic silver",
+    "text": "Wolfgramm."
+   },
+   {
+    "year": "2019",
+    "title": "Beating Australia",
+    "text": "Rugby league."
+   }
+  ]
+ }
+}

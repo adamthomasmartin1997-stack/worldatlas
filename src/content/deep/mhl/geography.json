@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "The Marshall Islands are two chains of low coral atolls, averaging about 2 m above sea level.",
+ "chapters": [
+  {
+   "id": "atolls",
+   "title": "Atolls",
+   "text": [
+    "Kwajalein has one of the largest lagoons in the world. Bikini Atoll is a World Heritage site for its nuclear history and sunken warships."
+   ],
+   "related": [
+    "KIR",
+    "FSM"
+   ]
+  },
+  {
+   "id": "sea",
+   "title": "Rising seas",
+   "text": [
+    "Rising seas threaten homes and fresh water."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lagoon",
+   "meaning": "Water enclosed by an atoll."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of the Marshall Islands' landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Majuro",
+    "kind": "capital atoll",
+    "lat": 7.09,
+    "lon": 171.38,
+    "text": "The capital."
+   },
+   {
+    "name": "Kwajalein",
+    "kind": "atoll",
+    "lat": 8.72,
+    "lon": 167.73,
+    "text": "A huge lagoon."
+   },
+   {
+    "name": "Bikini Atoll",
+    "kind": "test site",
+    "lat": 11.6,
+    "lon": 165.38,
+    "text": "Nuclear history and wrecks."
+   },
+   {
+    "name": "Enewetak",
+    "kind": "atoll",
+    "lat": 11.45,
+    "lon": 162.33,
+    "text": "The Runit Dome."
+   },
+   {
+    "name": "Arno",
+    "kind": "atoll",
+    "lat": 7.1,
+    "lon": 171.7,
+    "text": "Near Majuro."
+   }
+  ]
+ }
+}

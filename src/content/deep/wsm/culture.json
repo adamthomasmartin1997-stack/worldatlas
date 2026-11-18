@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Samoan culture is known for tattoos, dance and the 'Samoan way'.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Tatau",
+   "text": [
+    "The English word 'tattoo' comes partly from Polynesian 'tatau'. The pe'a, a traditional men's tattoo from waist to knees, is a mark of honour. The fire knife dance is spectacular."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Umu, an earth oven, cooks palusami (taro leaves in coconut cream) and pork on Sundays."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pe'a",
+   "meaning": "A traditional men's tattoo."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Siva",
+     "subtitle": "Dance",
+     "text": "Graceful Samoan dance."
+    },
+    {
+     "title": "Fire knife dance",
+     "subtitle": "Dance",
+     "text": "Spinning blazing knives."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Palusami",
+     "subtitle": "Sundays",
+     "text": "Taro leaves in coconut."
+    },
+    {
+     "title": "Oka",
+     "subtitle": "Everywhere",
+     "text": "Raw fish in coconut milk."
+    },
+    {
+     "title": "Panipopo",
+     "subtitle": "Everywhere",
+     "text": "Coconut buns."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 6,
+    "name": "Independence Day",
+    "text": "Celebrated 1 June."
+   },
+   {
+    "month": 9,
+    "name": "Teuila Festival",
+    "text": "A culture festival."
+   }
+  ]
+ }
+}

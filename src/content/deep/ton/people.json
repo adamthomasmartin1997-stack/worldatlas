@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Tonga has about 100,000 people, and many Tongans live abroad.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Almost everyone is Tongan. Tongan and English are official. Church is central to life, and Sunday is a strict day of rest by law."
+   ],
+   "related": [
+    "NZL",
+    "AUS",
+    "USA"
+   ]
+  },
+  {
+   "id": "capital",
+   "title": "Nuku'alofa",
+   "text": [
+    "Nuku'alofa, on Tongatapu, is the capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ta'ovala",
+   "meaning": "A woven mat worn around the waist."
+  }
+ ]
+}

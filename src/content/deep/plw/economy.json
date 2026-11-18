@@ -1,0 +1,55 @@
+{
+ "status": "draft",
+ "intro": "Tourism, especially diving, drives Palau's economy.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Divers and tourists are the biggest source of income. In 2015 Palau created one of the world's largest marine sanctuaries, banning commercial fishing in most of its waters."
+   ],
+   "related": [
+    "USA",
+    "JPN",
+    "TWN"
+   ]
+  },
+  {
+   "id": "pledge",
+   "title": "The Palau Pledge",
+   "text": [
+    "Visitors must sign a pledge in their passport promising to protect the environment."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Marine sanctuary",
+   "meaning": "A protected area of sea."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Palau",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "Rock Islands",
+     "text": "Diving and snorkelling."
+    },
+    {
+     "title": "Storyboards",
+     "subtitle": "Koror",
+     "text": "Carved art."
+    },
+    {
+     "title": "Fish",
+     "subtitle": "Local",
+     "text": "For local use."
+    }
+   ],
+   "intro": "Some of the things Palau makes and sells to the world."
+  }
+ ]
+}

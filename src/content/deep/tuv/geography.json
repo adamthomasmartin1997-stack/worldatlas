@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Tuvalu's highest point is only about 4.6 m above sea level.",
+ "chapters": [
+  {
+   "id": "islands",
+   "title": "Atolls",
+   "text": [
+    "Funafuti, the capital atoll, has a large lagoon. The total land area is only about 26 km². King tides already flood parts of the islands."
+   ],
+   "related": [
+    "KIR",
+    "FJI"
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Water",
+   "text": [
+    "Rainwater is collected for drinking, and salt water seeping into the ground harms crops."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "King tide",
+   "meaning": "An especially high tide."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Tuvalu's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Funafuti",
+    "kind": "capital atoll",
+    "lat": -8.52,
+    "lon": 179.2,
+    "text": "A large lagoon."
+   },
+   {
+    "name": "Funafuti Conservation Area",
+    "kind": "marine reserve",
+    "lat": -8.6,
+    "lon": 179.1,
+    "text": "Coral islets."
+   },
+   {
+    "name": "Nanumea",
+    "kind": "northern atoll",
+    "lat": -5.67,
+    "lon": 176.12,
+    "text": "A remote atoll."
+   },
+   {
+    "name": "Nukulaelae",
+    "kind": "atoll",
+    "lat": -9.38,
+    "lon": 179.83,
+    "text": "A southern atoll."
+   }
+  ]
+ }
+}

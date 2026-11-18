@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Palau has about 340 islands, including the famous mushroom-shaped Rock Islands.",
+ "chapters": [
+  {
+   "id": "islands",
+   "title": "Rock Islands",
+   "text": [
+    "The Rock Islands are hundreds of small limestone islands covered in forest, a World Heritage site. Jellyfish Lake is home to millions of golden jellyfish that lost most of their sting."
+   ],
+   "related": [
+    "PHL",
+    "FSM",
+    "IDN"
+   ]
+  },
+  {
+   "id": "reefs",
+   "title": "Reefs",
+   "text": [
+    "Palau's reefs, walls and blue holes make it one of the world's top diving places."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Marine lake",
+   "meaning": "A lake connected to the sea underground."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Palau's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Babeldaob",
+    "kind": "main island",
+    "lat": 7.5,
+    "lon": 134.6,
+    "text": "The largest island."
+   },
+   {
+    "name": "Badrulchau",
+    "kind": "stone monoliths",
+    "lat": 7.75,
+    "lon": 134.6,
+    "text": "Ancient stones."
+   },
+   {
+    "name": "Koror",
+    "kind": "town",
+    "lat": 7.34,
+    "lon": 134.48,
+    "text": "The biggest town."
+   },
+   {
+    "name": "Rock Islands",
+    "kind": "limestone islands",
+    "lat": 7.25,
+    "lon": 134.4,
+    "text": "Mushroom-shaped islets."
+   },
+   {
+    "name": "Jellyfish Lake",
+    "kind": "marine lake",
+    "lat": 7.16,
+    "lon": 134.37,
+    "text": "Golden jellyfish."
+   },
+   {
+    "name": "Peleliu",
+    "kind": "battle island",
+    "lat": 7.0,
+    "lon": 134.24,
+    "text": "WWII relics."
+   }
+  ]
+ }
+}

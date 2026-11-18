@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Tuvalu earns money from fishing licences and its '.tv' internet domain.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Tuvalu's '.tv' web address is leased to companies and brings in a big share of income. Fishing licences for its waters are another main source."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "trust",
+   "title": "Trust fund",
+   "text": [
+    "A national trust fund helps pay for government services."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Domain",
+   "meaning": "The ending of a web address, like .tv."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Tuvalu",
+   "items": [
+    {
+     "title": ".tv domain",
+     "subtitle": "Internet",
+     "text": "Leased worldwide."
+    },
+    {
+     "title": "Fishing licences",
+     "subtitle": "Ocean",
+     "text": "Paid by foreign fleets."
+    },
+    {
+     "title": "Copra",
+     "subtitle": "Islands",
+     "text": "Dried coconut."
+    }
+   ],
+   "intro": "Some of the things Tuvalu makes and sells to the world."
+  }
+ ]
+}

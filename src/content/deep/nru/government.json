@@ -1,0 +1,81 @@
+{
+ "status": "draft",
+ "intro": "Nauru is a parliamentary republic, one of the world's smallest.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Parliament has 19 members, who elect the president. David Adeang became president in 2023."
+   ],
+   "facts": [
+    {
+     "label": "Government offices",
+     "value": "Yaren"
+    },
+    {
+     "label": "Independence",
+     "value": "1968"
+    },
+    {
+     "label": "Parliament",
+     "value": "19 members"
+    }
+   ]
+  },
+  {
+   "id": "australia",
+   "title": "Ties with Australia",
+   "text": [
+    "Nauru hosts an Australian immigration centre and uses the Australian dollar."
+   ],
+   "related": [
+    "AUS"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "President",
+   "meaning": "Head of state and government in Nauru."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by parliament",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Parliament",
+     "subtitle": "19 members",
+     "text": "A single chamber."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In Parliament."
+   },
+   {
+    "title": "Vote",
+    "text": "Members debate and pass it."
+   },
+   {
+    "title": "The Speaker",
+    "text": "Certifies it as law."
+   }
+  ]
+ }
+}

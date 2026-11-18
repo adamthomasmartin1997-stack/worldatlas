@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Micronesia has about 110,000 people speaking many languages.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Chuukese, Pohnpeian, Yapese and Kosraean are among the languages; English is official. Most people are Christian."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "palikir",
+   "title": "Palikir",
+   "text": [
+    "Palikir, on Pohnpei, is the capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Micronesian",
+   "meaning": "A person from the Micronesia region."
+  }
+ ]
+}

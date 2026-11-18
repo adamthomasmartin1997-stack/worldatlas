@@ -1,0 +1,76 @@
+{
+ "status": "draft",
+ "intro": "Kiribati has 33 coral islands in three groups spread across the central Pacific.",
+ "chapters": [
+  {
+   "id": "islands",
+   "title": "Three island groups",
+   "text": [
+    "The Gilbert, Phoenix and Line Islands are far apart. Kiritimati (Christmas Island) is the largest coral atoll in the world by land area. The Phoenix Islands Protected Area is a World Heritage site."
+   ],
+   "related": [
+    "TUV",
+    "MHL",
+    "NRU"
+   ]
+  },
+  {
+   "id": "sea",
+   "title": "Rising seas",
+   "text": [
+    "Most land is only a few metres above sea level. Kiribati bought land in Fiji in 2014 as a possible future food source."
+   ],
+   "related": [
+    "FJI"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Coral atoll",
+   "meaning": "A ring of coral islands around a lagoon."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Kiribati's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "South Tarawa",
+    "kind": "capital atoll",
+    "lat": 1.33,
+    "lon": 172.98,
+    "text": "The crowded centre."
+   },
+   {
+    "name": "Betio",
+    "kind": "battle site",
+    "lat": 1.36,
+    "lon": 172.92,
+    "text": "WWII relics."
+   },
+   {
+    "name": "Kiritimati",
+    "kind": "atoll",
+    "lat": 1.87,
+    "lon": -157.4,
+    "text": "The largest coral atoll."
+   },
+   {
+    "name": "Phoenix Islands",
+    "kind": "marine reserve",
+    "lat": -3.7,
+    "lon": -171.7,
+    "text": "A huge protected area."
+   },
+   {
+    "name": "Banaba",
+    "kind": "raised island",
+    "lat": -0.87,
+    "lon": 169.54,
+    "text": "Phosphate mining scars."
+   }
+  ]
+ }
+}

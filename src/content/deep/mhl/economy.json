@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "US aid, fishing licences and a ship registry support the economy.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "The Marshall Islands has one of the world's largest ship registries. Tuna fishing licences and copra also bring income."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "trust",
+   "title": "Trust fund",
+   "text": [
+    "A trust fund is meant to replace aid over time."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ship registry",
+   "meaning": "A country's list of ships flying its flag."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in the Marshall Islands",
+   "items": [
+    {
+     "title": "Ship registry",
+     "subtitle": "Majuro",
+     "text": "A huge registry."
+    },
+    {
+     "title": "Tuna",
+     "subtitle": "Ocean",
+     "text": "Fishing licences."
+    },
+    {
+     "title": "Copra",
+     "subtitle": "Atolls",
+     "text": "Dried coconut."
+    }
+   ],
+   "intro": "Some of the things the Marshall Islands makes and sells to the world."
+  }
+ ]
+}

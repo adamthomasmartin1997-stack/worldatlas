@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Samoa is a parliamentary democracy where only matai chiefs can stand for parliament.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The head of state is elected by parliament for five years. Laʻauli Leuatea Schmidt became prime minister after the 2025 election."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Apia"
+    },
+    {
+     "label": "Independence",
+     "value": "1962"
+    },
+    {
+     "label": "Islands",
+     "value": "Upolu, Savai'i and smaller"
+    }
+   ]
+  },
+  {
+   "id": "villages",
+   "title": "Village councils",
+   "text": [
+    "Village councils of matai still make many local decisions."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "O le Ao o le Malo",
+   "meaning": "Samoa's head of state."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Head of State",
+     "subtitle": "Elected by parliament",
+     "text": "Ceremonial."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Leader of the majority",
+     "text": "Leads the government."
+    },
+    {
+     "title": "Legislative Assembly",
+     "subtitle": "About 50 members",
+     "text": "Only matai can stand."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In the Assembly."
+   },
+   {
+    "title": "Vote",
+    "text": "Members debate and pass it."
+   },
+   {
+    "title": "Head of State",
+    "text": "Gives assent."
+   }
+  ]
+ }
+}

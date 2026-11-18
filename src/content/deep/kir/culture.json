@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "I-Kiribati culture is known for its dance and the maneaba meeting house.",
+ "chapters": [
+  {
+   "id": "dance",
+   "title": "Dance",
+   "text": [
+    "Kiribati dancers imitate the movements of frigatebirds, the national symbol."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Fish, breadfruit, pandanus fruit and babai (giant swamp taro) are traditional foods."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Maneaba",
+   "meaning": "A community meeting house."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Te kaimatoa",
+     "subtitle": "Dance",
+     "text": "A traditional dance."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Babai",
+     "subtitle": "Everywhere",
+     "text": "Giant swamp taro."
+    },
+    {
+     "title": "Fish",
+     "subtitle": "Everywhere",
+     "text": "From the lagoon."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "12 July."
+   }
+  ]
+ }
+}

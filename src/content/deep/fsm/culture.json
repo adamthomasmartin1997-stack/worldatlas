@@ -1,0 +1,78 @@
+{
+ "status": "draft",
+ "intro": "Micronesian culture includes Yap's famous stone money and traditional navigation.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Yapese stone money, some discs over 3 m wide, was carried by canoe from Palau. Traditional navigators still sail by the stars."
+   ],
+   "related": [
+    "PLW"
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Breadfruit, taro, fish and sakau (kava) are traditional."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Rai",
+   "meaning": "Yapese stone money."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Stick dances",
+     "subtitle": "Yap",
+     "text": "Traditional dances."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Breadfruit",
+     "subtitle": "Everywhere",
+     "text": "A starchy staple food."
+    },
+    {
+     "title": "Sakau",
+     "subtitle": "Pohnpei",
+     "text": "Kava drink for adults."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Yap Day",
+    "text": "Culture festival."
+   },
+   {
+    "month": 5,
+    "name": "Constitution Day",
+    "text": "10 May."
+   },
+   {
+    "month": 11,
+    "name": "Independence Day",
+    "text": "3 November."
+   }
+  ]
+ }
+}

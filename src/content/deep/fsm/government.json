@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "Micronesia is a federal republic in free association with the United States.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Congress elects the president from its members. Each of the four states has its own government. Wesley Simina became president in 2023."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Palikir"
+    },
+    {
+     "label": "Independence",
+     "value": "1986"
+    },
+    {
+     "label": "States",
+     "value": "4"
+    }
+   ]
+  },
+  {
+   "id": "compact",
+   "title": "The Compact",
+   "text": [
+    "US funding under the Compact supports schools and health care."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Federal",
+   "meaning": "Power shared between national and state governments."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by Congress",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Congress",
+     "subtitle": "14 members",
+     "text": "A single chamber."
+    },
+    {
+     "title": "State governments",
+     "subtitle": "4 states",
+     "text": "Wide powers."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In Congress."
+   },
+   {
+    "title": "Vote",
+    "text": "Members debate and pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

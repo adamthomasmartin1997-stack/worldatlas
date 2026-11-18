@@ -1,0 +1,70 @@
+{
+ "status": "draft",
+ "intro": "Marshallese culture is rooted in sea navigation and family land.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Crafts",
+   "text": [
+    "Weaving with pandanus leaves and making stick charts are traditional crafts. Land passes through the mother's family."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Breadfruit, pandanus, fish and coconut are traditional foods."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pandanus",
+   "meaning": "A tree with long leaves used for weaving."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Jobwa",
+     "subtitle": "Dance",
+     "text": "A stick dance."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Breadfruit",
+     "subtitle": "Everywhere",
+     "text": "A starchy staple food."
+    },
+    {
+     "title": "Jaankun",
+     "subtitle": "Everywhere",
+     "text": "Pandanus paste."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Remembrance Day",
+    "text": "1 March, for nuclear victims."
+   },
+   {
+    "month": 5,
+    "name": "Constitution Day",
+    "text": "1 May."
+   }
+  ]
+ }
+}

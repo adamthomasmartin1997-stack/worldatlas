@@ -1,0 +1,70 @@
+{
+ "status": "draft",
+ "intro": "Palauan culture centres on clans, the bai meeting house and the sea.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "The bai is a richly decorated men's meeting house with carved storyboards. Storyboard carving is a famous art."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Taro, fish and tapioca are traditional foods."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bai",
+   "meaning": "A traditional meeting house."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Ruk",
+     "subtitle": "Dance",
+     "text": "A ceremonial dance."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Taro",
+     "subtitle": "Everywhere",
+     "text": "A starchy root crop."
+    },
+    {
+     "title": "Fish",
+     "subtitle": "Everywhere",
+     "text": "Fresh from reefs."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 7,
+    "name": "Constitution Day",
+    "text": "9 July."
+   },
+   {
+    "month": 10,
+    "name": "Independence Day",
+    "text": "1 October."
+   }
+  ]
+ }
+}

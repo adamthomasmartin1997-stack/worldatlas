@@ -1,0 +1,77 @@
+{
+ "status": "draft",
+ "intro": "The Federated States of Micronesia is four island states spread across the western Pacific, home to the ancient stone city of Nan Madol.",
+ "chapters": [
+  {
+   "id": "nanmadol",
+   "title": "Nan Madol",
+   "text": [
+    "On Pohnpei, the Saudeleur dynasty built Nan Madol from about 1100, a city of nearly 100 artificial islets made of stacked basalt columns."
+   ],
+   "highlight": {
+    "title": "Venice of the Pacific",
+    "text": "Nan Madol is a World Heritage site."
+   },
+   "related": [
+    "MHL",
+    "PLW"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Colonial rule",
+   "text": [
+    "Spain claimed the Caroline Islands, then sold them to Germany in 1899. Japan ruled from 1914, and in World War Two Chuuk Lagoon was a Japanese naval base sunk by US attacks. The US then ran the islands for the UN."
+   ],
+   "related": [
+    "ESP",
+    "DEU",
+    "JPN",
+    "USA"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Micronesia became self-governing in 1979 and independent in 1986 in free association with the US."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1100",
+   "title": "Nan Madol",
+   "text": "Building begins."
+  },
+  {
+   "year": "1899",
+   "title": "German rule",
+   "text": "Bought from Spain."
+  },
+  {
+   "year": "1914",
+   "title": "Japanese rule",
+   "text": "After World War One."
+  },
+  {
+   "year": "1944",
+   "title": "Chuuk Lagoon",
+   "text": "Japanese fleet sunk."
+  },
+  {
+   "year": "1986",
+   "title": "Independence",
+   "text": "Free association with the US."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Basalt",
+   "meaning": "Dark volcanic rock."
+  }
+ ]
+}

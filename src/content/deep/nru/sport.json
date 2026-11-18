@@ -1,0 +1,77 @@
+{
+ "status": "draft",
+ "intro": "Australian rules football is Nauru's national sport, and weightlifting brings medals.",
+ "chapters": [
+  {
+   "id": "aussie",
+   "title": "Australian rules football",
+   "text": [
+    "Australian rules football is the most popular sport, played on the one main oval."
+   ],
+   "related": [
+    "AUS"
+   ]
+  },
+  {
+   "id": "weightlifting",
+   "title": "Weightlifting",
+   "text": [
+    "Marcus Stephen won Commonwealth Games weightlifting golds and later became president."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Aussie rules",
+   "meaning": "A fast football game from Australia."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Nauru Australian Football Association",
+     "subtitle": "Aussie rules",
+     "text": "The national league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Marcus Stephen",
+     "subtitle": "Weightlifting",
+     "text": "Commonwealth champion and president."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Nauru's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Linkbelt Oval",
+    "kind": "venue",
+    "lat": -0.52,
+    "lon": 166.93,
+    "text": "The main sports ground."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1990",
+    "title": "Commonwealth gold",
+    "text": "Marcus Stephen."
+   }
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Palau has about 18,000 people, one of the smallest populations of any country.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are Palauan; there are also Filipino workers. Palauan and English are official, and Japanese is official on Angaur. Families trace descent through mothers."
+   ],
+   "related": [
+    "PHL",
+    "JPN"
+   ]
+  },
+  {
+   "id": "capital",
+   "title": "Ngerulmud",
+   "text": [
+    "The capital, Ngerulmud, is one of the world's smallest; most people live in Koror."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Matrilineal",
+   "meaning": "Family descent traced through mothers."
+  }
+ ]
+}

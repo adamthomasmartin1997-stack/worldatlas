@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "With phosphate mostly gone, Nauru relies on Australian payments and fishing licences.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Payments for hosting Australia's immigration centre, fishing licences and remaining phosphate are the main income. A trust fund aims to provide for the future."
+   ],
+   "related": [
+    "AUS"
+   ]
+  },
+  {
+   "id": "rehab",
+   "title": "Land rehabilitation",
+   "text": [
+    "Plans aim to restore mined land for housing and farming."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Trust fund",
+   "meaning": "Savings invested for the future."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Nauru",
+   "items": [
+    {
+     "title": "Phosphate",
+     "subtitle": "Topside",
+     "text": "Mostly mined out."
+    },
+    {
+     "title": "Fishing licences",
+     "subtitle": "Ocean",
+     "text": "Tuna fleets."
+    },
+    {
+     "title": "Services",
+     "subtitle": "Immigration centre",
+     "text": "Payments from Australia."
+    }
+   ],
+   "intro": "Some of the things Nauru makes and sells to the world."
+  }
+ ]
+}

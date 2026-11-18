@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Tuvaluan culture is famous for fatele dancing and community life.",
+ "chapters": [
+  {
+   "id": "dance",
+   "title": "Fatele",
+   "text": [
+    "Fatele is a lively dance with singing that speeds up as it goes."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Pulaka (swamp taro), fish and coconut are traditional foods."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pulaka",
+   "meaning": "A large root crop."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Fatele",
+     "subtitle": "Dance",
+     "text": "Speeding song and dance."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Pulaka",
+     "subtitle": "Everywhere",
+     "text": "Swamp taro."
+    },
+    {
+     "title": "Fish",
+     "subtitle": "Everywhere",
+     "text": "Fresh from the lagoon."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 10,
+    "name": "Independence Day",
+    "text": "1 October."
+   }
+  ]
+ }
+}

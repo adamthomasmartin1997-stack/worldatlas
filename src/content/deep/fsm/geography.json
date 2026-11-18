@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Micronesia has over 600 islands, from high volcanic islands to low atolls.",
+ "chapters": [
+  {
+   "id": "states",
+   "title": "Four states",
+   "text": [
+    "Yap, Chuuk, Pohnpei and Kosrae are the four states. Chuuk Lagoon is one of the world's best wreck-diving sites. Pohnpei is one of the wettest places on Earth."
+   ],
+   "related": [
+    "PLW",
+    "MHL"
+   ]
+  },
+  {
+   "id": "sea",
+   "title": "Sea",
+   "text": [
+    "Its waters cover an area about the size of the continental US."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Wreck diving",
+   "meaning": "Diving to explore sunken ships."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Micronesia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Yap",
+    "kind": "island",
+    "lat": 9.53,
+    "lon": 138.13,
+    "text": "Stone money."
+   },
+   {
+    "name": "Chuuk Lagoon",
+    "kind": "wreck lagoon",
+    "lat": 7.42,
+    "lon": 151.78,
+    "text": "Sunken warships."
+   },
+   {
+    "name": "Nan Madol",
+    "kind": "ancient city",
+    "lat": 6.84,
+    "lon": 158.33,
+    "text": "Basalt islets."
+   },
+   {
+    "name": "Palikir",
+    "kind": "capital",
+    "lat": 6.92,
+    "lon": 158.16,
+    "text": "On Pohnpei."
+   },
+   {
+    "name": "Kosrae",
+    "kind": "island",
+    "lat": 5.32,
+    "lon": 162.98,
+    "text": "Lelu ruins."
+   }
+  ]
+ }
+}

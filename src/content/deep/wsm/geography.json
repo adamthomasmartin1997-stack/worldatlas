@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Samoa is made up of two large volcanic islands, Upolu and Savai'i, and several small ones.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Volcanic islands",
+   "text": [
+    "Savai'i has lava fields from 1905–11 eruptions and blowholes. To Sua Ocean Trench on Upolu is a swimming hole in a giant collapsed lava tube."
+   ],
+   "related": [
+    "TON",
+    "FJI"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The islands are hot and humid, with a wet season from November to April."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Blowhole",
+   "meaning": "A hole where waves spray water upward."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Samoa's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Apia",
+    "kind": "capital",
+    "lat": -13.83,
+    "lon": -171.76,
+    "text": "The capital, on Upolu."
+   },
+   {
+    "name": "To Sua Ocean Trench",
+    "kind": "swimming hole",
+    "lat": -14.06,
+    "lon": -171.47,
+    "text": "A giant pool."
+   },
+   {
+    "name": "Lalomanu",
+    "kind": "beach",
+    "lat": -14.05,
+    "lon": -171.43,
+    "text": "White sand."
+   },
+   {
+    "name": "Saleaula lava fields",
+    "kind": "lava fields",
+    "lat": -13.45,
+    "lon": -172.33,
+    "text": "A church buried in lava."
+   },
+   {
+    "name": "Alofaaga Blowholes",
+    "kind": "blowholes",
+    "lat": -13.79,
+    "lon": -172.53,
+    "text": "Water shoots skyward."
+   }
+  ]
+ }
+}

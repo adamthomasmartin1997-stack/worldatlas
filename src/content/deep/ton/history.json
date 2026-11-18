@@ -1,0 +1,76 @@
+{
+ "status": "draft",
+ "intro": "Tonga is the Pacific's only kingdom and the only Pacific island nation never formally colonised.",
+ "chapters": [
+  {
+   "id": "empire",
+   "title": "The Tu'i Tonga",
+   "text": [
+    "From around the 900s, the Tu'i Tonga kings built a maritime empire whose influence reached Samoa, Fiji and beyond. The Ha'amonga 'a Maui is a stone trilithon from about 1200."
+   ],
+   "related": [
+    "WSM",
+    "FJI"
+   ]
+  },
+  {
+   "id": "kingdom",
+   "title": "The modern kingdom",
+   "text": [
+    "Captain Cook called Tonga the 'Friendly Islands' in 1773. King George Tupou I united Tonga in 1845 and gave it a constitution in 1875. Tonga became a British protected state but kept its own monarchy."
+   ],
+   "highlight": {
+    "title": "Never colonised",
+    "text": "Tonga kept its own government throughout."
+   },
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and reform",
+   "text": [
+    "Tonga became fully independent in 1970. Reforms in 2010 gave the people more say in parliament. In 2022 the Hunga Tonga–Hunga Ha'apai volcano erupted in one of the biggest explosions ever recorded, causing a tsunami."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 950",
+   "title": "Tu'i Tonga",
+   "text": "A royal dynasty begins."
+  },
+  {
+   "year": "1773",
+   "title": "Captain Cook",
+   "text": "The Friendly Islands."
+  },
+  {
+   "year": "1875",
+   "title": "Constitution",
+   "text": "Signed by George Tupou I."
+  },
+  {
+   "year": "1970",
+   "title": "Full independence",
+   "text": "4 June."
+  },
+  {
+   "year": "2010",
+   "title": "Democratic reform",
+   "text": "More elected seats."
+  },
+  {
+   "year": "2022",
+   "title": "Hunga Tonga eruption",
+   "text": "A huge blast."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Trilithon",
+   "meaning": "Two upright stones topped by a third."
+  }
+ ]
+}

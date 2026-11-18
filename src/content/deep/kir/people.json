@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Kiribati has about 130,000 people, about half on South Tarawa.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are I-Kiribati, Micronesians. Gilbertese and English are official. Christianity is the main religion."
+   ]
+  },
+  {
+   "id": "tarawa",
+   "title": "South Tarawa",
+   "text": [
+    "South Tarawa is very crowded, with problems of water supply."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "I-Kiribati",
+   "meaning": "The people of Kiribati."
+  }
+ ]
+}

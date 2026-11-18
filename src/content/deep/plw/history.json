@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Palau is a small island nation in the western Pacific, world-famous for its marine life and ocean protection.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Early Palauans",
+   "text": [
+    "People reached Palau around 3,000 years ago or more. Badrulchau on Babeldaob has rows of ancient stone monoliths. Palauans quarried stone money for Yap."
+   ],
+   "related": [
+    "FSM",
+    "PHL",
+    "IDN"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Colonial rule and war",
+   "text": [
+    "Spain, then Germany from 1899, then Japan from 1914 ruled Palau. The 1944 Battle of Peleliu between the US and Japan was one of the bloodiest of the Pacific war."
+   ],
+   "highlight": {
+    "title": "Peleliu",
+    "text": "Wrecks and relics of the battle remain."
+   },
+   "related": [
+    "ESP",
+    "DEU",
+    "JPN",
+    "USA"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Palau became independent in 1994 in free association with the US, after many referendums."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1000 BC",
+   "title": "Settlement",
+   "text": "First Palauans."
+  },
+  {
+   "year": "1899",
+   "title": "German rule",
+   "text": "Bought from Spain."
+  },
+  {
+   "year": "1914",
+   "title": "Japanese rule",
+   "text": "Koror becomes a big town."
+  },
+  {
+   "year": "1944",
+   "title": "Peleliu",
+   "text": "A major battle."
+  },
+  {
+   "year": "1994",
+   "title": "Independence",
+   "text": "1 October."
+  },
+  {
+   "year": "2015",
+   "title": "Marine sanctuary",
+   "text": "Most of its waters protected."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Monolith",
+   "meaning": "A large single standing stone."
+  }
+ ]
+}

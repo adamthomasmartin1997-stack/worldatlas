@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "US aid and fishing licences are the main sources of income.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Tuna fishing licences, subsistence farming and some tourism support the economy."
+   ],
+   "related": [
+    "USA",
+    "JPN"
+   ]
+  },
+  {
+   "id": "money",
+   "title": "Stone money",
+   "text": [
+    "On Yap, giant stone discs called rai are still used in traditional exchange."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Subsistence",
+   "meaning": "Producing food for your own needs."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Micronesia",
+   "items": [
+    {
+     "title": "Fishing licences",
+     "subtitle": "Ocean",
+     "text": "Tuna fleets."
+    },
+    {
+     "title": "Kava",
+     "subtitle": "Pohnpei",
+     "text": "Sakau root."
+    },
+    {
+     "title": "Diving tourism",
+     "subtitle": "Chuuk",
+     "text": "Wreck divers."
+    }
+   ],
+   "intro": "Some of the things Micronesia makes and sells to the world."
+  }
+ ]
+}

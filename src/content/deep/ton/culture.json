@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Tongan culture centres on family, church and respect for rank.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Tapa cloth, made from bark and painted, is given at important events. The lakalaka dance is on UNESCO's list."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Lu pulu (corned beef in taro leaves) and 'ota 'ika (raw fish) are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tapa",
+   "meaning": "Bark cloth."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Lakalaka",
+     "subtitle": "Dance",
+     "text": "A group dance."
+    },
+    {
+     "title": "Brass bands",
+     "subtitle": "Music",
+     "text": "Church and school bands."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Lu pulu",
+     "subtitle": "Sundays",
+     "text": "Corned beef in taro leaves."
+    },
+    {
+     "title": "'Ota 'ika",
+     "subtitle": "Everywhere",
+     "text": "Raw fish in coconut milk."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 6,
+    "name": "Emancipation Day",
+    "text": "4 June."
+   },
+   {
+    "month": 7,
+    "name": "King's Birthday",
+    "text": "12 July."
+   },
+   {
+    "month": 11,
+    "name": "Constitution Day",
+    "text": "4 November."
+   }
+  ]
+ }
+}

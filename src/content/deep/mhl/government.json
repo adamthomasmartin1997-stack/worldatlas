@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "The Marshall Islands is a parliamentary republic in free association with the United States.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Parliament, the Nitijela, elects the president. Hilda Heine was the first woman president, in 2016 and again from 2024. A Council of Iroij (chiefs) advises on custom."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Majuro"
+    },
+    {
+     "label": "Independence",
+     "value": "1986"
+    },
+    {
+     "label": "Currency",
+     "value": "US dollar"
+    }
+   ]
+  },
+  {
+   "id": "compact",
+   "title": "The Compact",
+   "text": [
+    "The US provides funds and defence and keeps a missile test range at Kwajalein."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Free association",
+   "meaning": "Independence with a close agreement with the US."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by the Nitijela",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Nitijela",
+     "subtitle": "33 members",
+     "text": "The parliament."
+    },
+    {
+     "title": "Council of Iroij",
+     "subtitle": "Chiefs",
+     "text": "Advises on custom."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In the Nitijela."
+   },
+   {
+    "title": "Vote",
+    "text": "Members debate and pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Certifies it as law."
+   }
+  ]
+ }
+}

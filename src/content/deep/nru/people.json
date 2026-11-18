@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Nauru has about 12,000 people living around its coast.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are Nauruan. Nauruan and English are spoken. Most people are Christian. Imported processed food has led to very high rates of obesity and diabetes."
+   ]
+  },
+  {
+   "id": "capital",
+   "title": "No official capital",
+   "text": [
+    "Nauru has no official capital; government offices are in Yaren."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Clan",
+   "meaning": "A family group."
+  }
+ ]
+}

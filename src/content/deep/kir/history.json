@@ -1,0 +1,76 @@
+{
+ "status": "draft",
+ "intro": "Kiribati is spread over 3.5 million km² of ocean, the only country in all four hemispheres.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Micronesian settlers",
+   "text": [
+    "Micronesian people settled the Gilbert Islands around 2,000 or more years ago. 'Kiribati' (pronounced 'Kiribas') is the local form of 'Gilberts'."
+   ],
+   "related": [
+    "TUV",
+    "FSM"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Gilbert Islands and war",
+   "text": [
+    "Britain ruled the Gilbert and Ellice Islands. In 1943 US and Japanese forces fought the bloody Battle of Tarawa. Britain tested nuclear weapons near Kiritimati in the 1950s."
+   ],
+   "highlight": {
+    "title": "Tarawa",
+    "text": "A 1943 battle that killed thousands in three days."
+   },
+   "related": [
+    "GBR",
+    "JPN",
+    "USA"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Kiribati became independent in 1979. In 1995 it moved the International Date Line so the whole country shares the same day; Kiritimati is among the first places to see each new day."
+   ],
+   "related": [
+    "TUV"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1892",
+   "title": "British protectorate",
+   "text": "Gilbert Islands."
+  },
+  {
+   "year": "1943",
+   "title": "Battle of Tarawa",
+   "text": "A Pacific war battle."
+  },
+  {
+   "year": "1957",
+   "title": "Nuclear tests",
+   "text": "Near Kiritimati."
+  },
+  {
+   "year": "1979",
+   "title": "Independence",
+   "text": "12 July."
+  },
+  {
+   "year": "1995",
+   "title": "Date line moved",
+   "text": "One day for all."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "International Date Line",
+   "meaning": "The line where the date changes."
+  }
+ ]
+}

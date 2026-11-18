@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "The Marshall Islands has about 40,000 people, and many have moved to the US.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are Marshallese. Marshallese and English are official. Most people are Christian. Large communities live in Arkansas and Hawaii."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "majuro",
+   "title": "Majuro",
+   "text": [
+    "Majuro atoll holds the capital and about half the people."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Iroij",
+   "meaning": "A high chief in the Marshall Islands."
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Tonga is a constitutional monarchy where the king still holds real powers.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "King Tupou VI has reigned since 2012. The Legislative Assembly includes members elected by the people and by nobles."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Nuku'alofa"
+    },
+    {
+     "label": "King",
+     "value": "Tupou VI"
+    },
+    {
+     "label": "Islands",
+     "value": "About 170"
+    }
+   ]
+  },
+  {
+   "id": "dateline",
+   "title": "First to the new day",
+   "text": [
+    "Tonga is one of the first countries to see each new day."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Noble",
+   "meaning": "A member of Tonga's hereditary aristocracy."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Inherits the throne",
+     "text": "Holds real powers."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Elected by parliament",
+     "text": "Leads the government."
+    },
+    {
+     "title": "Legislative Assembly",
+     "subtitle": "People's and nobles' representatives",
+     "text": "A single chamber."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In the Assembly."
+   },
+   {
+    "title": "Vote",
+    "text": "Members debate and pass it."
+   },
+   {
+    "title": "The King",
+    "text": "Gives assent."
+   }
+  ]
+ }
+}

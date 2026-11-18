@@ -1,0 +1,55 @@
+{
+ "status": "draft",
+ "intro": "Remittances, farming and fishing support Tonga's economy.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Money from Tongans abroad is a large share of the economy. Squash, vanilla and root crops are exported, and whale watching brings tourists."
+   ],
+   "related": [
+    "NZL",
+    "AUS",
+    "JPN"
+   ]
+  },
+  {
+   "id": "recovery",
+   "title": "Recovery",
+   "text": [
+    "The 2022 eruption damaged crops and cut the undersea internet cable for weeks."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Squash",
+   "meaning": "A pumpkin-like vegetable."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Tonga",
+   "items": [
+    {
+     "title": "Squash",
+     "subtitle": "Farms",
+     "text": "Sold to Japan."
+    },
+    {
+     "title": "Vanilla",
+     "subtitle": "Vava'u",
+     "text": "A spice crop."
+    },
+    {
+     "title": "Tapa",
+     "subtitle": "Villages",
+     "text": "Bark cloth."
+    }
+   ],
+   "intro": "Some of the things Tonga makes and sells to the world."
+  }
+ ]
+}

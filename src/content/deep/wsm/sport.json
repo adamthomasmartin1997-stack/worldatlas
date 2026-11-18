@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Rugby is Samoa's national sport, and Samoans star in rugby and the NFL worldwide.",
+ "chapters": [
+  {
+   "id": "rugby",
+   "title": "Rugby",
+   "text": [
+    "Manu Samoa reached the Rugby World Cup quarter-finals in 1991 and 1995. Samoan heritage players are common in the All Blacks and the NFL."
+   ],
+   "related": [
+    "NZL",
+    "USA"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Weightlifter Ele Opeloge won Samoa's first Olympic medal, a silver awarded in 2016 for the 2008 Games."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Manu Samoa",
+   "meaning": "The national rugby team."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Rugby",
+     "subtitle": "Manu Samoa",
+     "text": "The national team."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Ele Opeloge",
+     "subtitle": "Weightlifting",
+     "text": "Olympic silver."
+    },
+    {
+     "title": "Brian Lima",
+     "subtitle": "Rugby",
+     "text": "'The Chiropractor', a big hitter."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Samoa's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Apia Park",
+    "kind": "venue",
+    "lat": -13.83,
+    "lon": -171.75,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1991",
+    "title": "Rugby World Cup",
+    "text": "Beat Wales on debut."
+   }
+  ]
+ }
+}

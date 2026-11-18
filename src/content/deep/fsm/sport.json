@@ -1,0 +1,63 @@
+{
+ "status": "draft",
+ "intro": "Basketball, football and canoeing are popular in Micronesia.",
+ "chapters": [
+  {
+   "id": "sport",
+   "title": "Sport",
+   "text": [
+    "Micronesia competes at the Micronesian Games and the Pacific Games."
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics",
+   "text": [
+    "It has sent athletes to every Summer Olympics since 2000."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Micronesian Games",
+   "meaning": "A regional multi-sport event."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Micronesian Games",
+     "subtitle": "Multi-sport",
+     "text": "Regional games."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Micronesia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "PICS Stadium, Pohnpei",
+    "kind": "venue",
+    "lat": 6.96,
+    "lon": 158.21,
+    "text": "A sports ground."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2000",
+    "title": "Olympic debut",
+    "text": "In Sydney."
+   }
+  ]
+ }
+}

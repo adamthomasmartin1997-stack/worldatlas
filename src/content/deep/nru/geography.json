@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Nauru is a single raised coral island only about 21 km² in area.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "A narrow coastal strip, where people live, surrounds a central plateau called Topside, mostly mined out into jagged coral pinnacles. Buada Lagoon is a small inland lake."
+   ],
+   "related": [
+    "KIR",
+    "AUS"
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Water",
+   "text": [
+    "Fresh water is scarce and mostly comes from desalination."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Raised coral island",
+   "meaning": "Coral lifted above the sea."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Nauru's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Yaren",
+    "kind": "government district",
+    "lat": -0.55,
+    "lon": 166.92,
+    "text": "Government offices."
+   },
+   {
+    "name": "Topside",
+    "kind": "mined plateau",
+    "lat": -0.53,
+    "lon": 166.93,
+    "text": "Coral pinnacles."
+   },
+   {
+    "name": "Buada Lagoon",
+    "kind": "inland lake",
+    "lat": -0.53,
+    "lon": 166.92,
+    "text": "A small lake."
+   },
+   {
+    "name": "Anibare Bay",
+    "kind": "bay",
+    "lat": -0.53,
+    "lon": 166.95,
+    "text": "The main beach."
+   }
+  ]
+ }
+}

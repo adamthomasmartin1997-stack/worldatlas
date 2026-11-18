@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Tuvalu has about 11,000 people, one of the smallest populations of any country.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Almost everyone is Polynesian. Tuvaluan and English are spoken. Most people belong to the Church of Tuvalu."
+   ]
+  },
+  {
+   "id": "funafuti",
+   "title": "Funafuti",
+   "text": [
+    "About half the population lives on Funafuti."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Maneapa",
+   "meaning": "A community meeting house."
+  }
+ ]
+}
