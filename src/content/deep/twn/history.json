@@ -1,0 +1,117 @@
+{
+ "status": "draft",
+ "intro": "Taiwan is an island off the coast of China, home to Indigenous peoples for thousands of years. It has been governed separately from mainland China since 1949, and its status is one of the world's most sensitive questions.",
+ "chapters": [
+  {
+   "id": "indigenous",
+   "title": "Indigenous Taiwan",
+   "text": [
+    "Austronesian peoples have lived on Taiwan for at least 6,000 years. Many linguists think the Austronesian languages, now spoken from Madagascar to Hawaii, spread out from Taiwan.",
+    "Today 16 Indigenous peoples are officially recognised."
+   ],
+   "related": [
+    "PHL",
+    "IDN",
+    "MDG",
+    "NZL"
+   ]
+  },
+  {
+   "id": "colonial",
+   "title": "Dutch, Qing and Japanese rule",
+   "text": [
+    "The Dutch set up a base in the south in 1624. In 1662 Koxinga, a Ming loyalist, drove them out. The Qing dynasty took over in 1683, and many settlers came from Fujian and Guangdong.",
+    "After China lost a war in 1895, Japan ruled Taiwan for 50 years, building railways and schools."
+   ],
+   "related": [
+    "NLD",
+    "CHN",
+    "JPN"
+   ]
+  },
+  {
+   "id": "roc",
+   "title": "The Republic of China on Taiwan",
+   "text": [
+    "After World War Two the Republic of China took over Taiwan. In the 1947 'February 28 Incident' thousands were killed in a crackdown. In 1949 the ROC government, led by Chiang Kai-shek's Kuomintang (KMT), lost the civil war to the Communists and retreated to Taiwan.",
+    "Martial law lasted until 1987. Taiwan then became a democracy, holding its first direct presidential election in 1996."
+   ],
+   "highlight": {
+    "title": "Two governments",
+    "text": "Since 1949, the People's Republic of China has governed the mainland and the Republic of China has governed Taiwan."
+   },
+   "related": [
+    "CHN",
+    "USA"
+   ]
+  },
+  {
+   "id": "status",
+   "title": "A disputed status",
+   "text": [
+    "The People's Republic of China claims Taiwan as part of its territory and has not ruled out force. Most countries do not formally recognise Taiwan as a separate country but keep close unofficial ties with it. Most people in Taiwan prefer to keep the current situation."
+   ],
+   "related": [
+    "CHN",
+    "USA",
+    "JPN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 4000 BC",
+   "title": "Austronesians",
+   "text": "Settle the island."
+  },
+  {
+   "year": "1624",
+   "title": "Dutch base",
+   "text": "At Tainan."
+  },
+  {
+   "year": "1683",
+   "title": "Qing rule",
+   "text": "Taiwan becomes part of the Qing empire."
+  },
+  {
+   "year": "1895",
+   "title": "Japanese rule",
+   "text": "Until 1945."
+  },
+  {
+   "year": "1947",
+   "title": "February 28 Incident",
+   "text": "A deadly crackdown."
+  },
+  {
+   "year": "1949",
+   "title": "ROC retreats",
+   "text": "The government moves to Taipei."
+  },
+  {
+   "year": "1987",
+   "title": "Martial law ends",
+   "text": "Democracy grows."
+  },
+  {
+   "year": "1996",
+   "title": "First direct election",
+   "text": "Voters choose the president."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Austronesian",
+   "meaning": "A family of languages and peoples across the Pacific and Indian Oceans."
+  },
+  {
+   "term": "Kuomintang",
+   "meaning": "The Chinese Nationalist Party."
+  },
+  {
+   "term": "Martial law",
+   "meaning": "Rule by the military."
+  }
+ ]
+}

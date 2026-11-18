@@ -1,0 +1,102 @@
+{
+ "status": "draft",
+ "intro": "Taiwan is a mountainous island about 390 km long, crossed by the Tropic of Cancer.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mountains and plains",
+   "text": [
+    "The Central Mountain Range runs down the east, and Yushan (Jade Mountain), 3,952 m, is the island's highest peak, higher than Mount Fuji. Most people live on the western plains.",
+    "Taroko Gorge cuts through marble cliffs."
+   ],
+   "related": [
+    "CHN",
+    "JPN",
+    "PHL"
+   ]
+  },
+  {
+   "id": "hazards",
+   "title": "Typhoons and earthquakes",
+   "text": [
+    "Taiwan sits where tectonic plates meet, so earthquakes are frequent. Typhoons hit in summer and autumn."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tropic of Cancer",
+   "meaning": "The line of latitude marking the northern edge of the tropics."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Taiwan's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Taipei",
+    "kind": "capital city",
+    "lat": 25.03,
+    "lon": 121.56,
+    "text": "Taipei 101 and hot springs."
+   },
+   {
+    "name": "Yangmingshan",
+    "kind": "volcanic park",
+    "lat": 25.17,
+    "lon": 121.55,
+    "text": "Fumaroles above the city."
+   },
+   {
+    "name": "Jiufen",
+    "kind": "mountain town",
+    "lat": 25.11,
+    "lon": 121.84,
+    "text": "Lantern-lit alleys."
+   },
+   {
+    "name": "Taroko Gorge",
+    "kind": "marble gorge",
+    "lat": 24.16,
+    "lon": 121.62,
+    "text": "Cliffs above a turquoise river."
+   },
+   {
+    "name": "Sun Moon Lake",
+    "kind": "lake",
+    "lat": 23.86,
+    "lon": 120.92,
+    "text": "Taiwan's largest lake."
+   },
+   {
+    "name": "Alishan",
+    "kind": "forest",
+    "lat": 23.51,
+    "lon": 120.8,
+    "text": "Sunrise over a sea of clouds."
+   },
+   {
+    "name": "Yushan",
+    "kind": "mountain",
+    "lat": 23.47,
+    "lon": 120.96,
+    "text": "The highest peak, 3,952 m."
+   },
+   {
+    "name": "Tainan",
+    "kind": "old capital",
+    "lat": 22.99,
+    "lon": 120.2,
+    "text": "Temples and the oldest streets."
+   },
+   {
+    "name": "Kenting",
+    "kind": "tropical coast",
+    "lat": 21.95,
+    "lon": 120.8,
+    "text": "Coral beaches in the far south."
+   }
+  ]
+ }
+}

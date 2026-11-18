@@ -1,0 +1,89 @@
+{
+ "status": "draft",
+ "intro": "Culture in North Korea is controlled by the state, but draws on Korean traditions.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Mass games, with tens of thousands of performers forming giant pictures, celebrated the state. Films and music must praise the leaders."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Pyongyang naengmyeon, cold buckwheat noodles, is famous across Korea. Kimchi is eaten everywhere."
+   ],
+   "related": [
+    "KOR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mass games",
+   "meaning": "Huge gymnastic and artistic performances."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Flower Girl",
+     "subtitle": "1972",
+     "text": "A classic propaganda film."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Moranbong Band",
+     "subtitle": "Pop group",
+     "text": "A state-run girl band."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Naengmyeon",
+     "subtitle": "Pyongyang",
+     "text": "Cold buckwheat noodles."
+    },
+    {
+     "title": "Kimchi",
+     "subtitle": "Everywhere",
+     "text": "Fermented cabbage."
+    },
+    {
+     "title": "Onban",
+     "subtitle": "Pyongyang",
+     "text": "Rice in warm chicken soup."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Day of the Sun",
+    "text": "Kim Il Sung's birthday, 15 April."
+   },
+   {
+    "month": 9,
+    "name": "Founding Day",
+    "text": "9 September, 1948."
+   }
+  ]
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "North Korea has about 26 million people, and very little is known about daily life there.",
+ "chapters": [
+  {
+   "id": "life",
+   "title": "Life under control",
+   "text": [
+    "People are ranked by loyalty to the state, travel needs permission, and the internet is unavailable to almost everyone. Contact with foreign media is punished.",
+    "Many people struggle to get enough food. Tens of thousands have escaped, mostly via China, to South Korea."
+   ],
+   "related": [
+    "CHN",
+    "KOR"
+   ]
+  },
+  {
+   "id": "rights",
+   "title": "Human rights",
+   "text": [
+    "A UN inquiry found crimes against humanity, including political prison camps."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Defector",
+   "meaning": "Someone who escapes to another country."
+  }
+ ]
+}

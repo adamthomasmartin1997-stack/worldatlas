@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "North Korea covers the northern part of the Korean Peninsula and is mostly mountains.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mountains and rivers",
+   "text": [
+    "Mount Paektu, a volcano on the Chinese border, is the highest peak at 2,744 m and is sacred in Korean legend. The Yalu and Tumen rivers form the border with China, and a short border with Russia.",
+    "The Demilitarized Zone separates North and South."
+   ],
+   "related": [
+    "CHN",
+    "RUS",
+    "KOR"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Winters are long and very cold, summers hot and rainy. Floods and droughts have damaged harvests."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "DMZ",
+   "meaning": "The Demilitarized Zone, a guarded strip between the two Koreas."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of North Korea's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Mount Paektu",
+    "kind": "volcano",
+    "lat": 42.0,
+    "lon": 128.06,
+    "text": "A crater lake on the Chinese border."
+   },
+   {
+    "name": "Yalu River",
+    "kind": "river",
+    "lat": 40.1,
+    "lon": 124.4,
+    "text": "The border with China."
+   },
+   {
+    "name": "Mount Myohyang",
+    "kind": "mountains",
+    "lat": 40.0,
+    "lon": 126.3,
+    "text": "Forested peaks and temples."
+   },
+   {
+    "name": "Pyongyang",
+    "kind": "capital",
+    "lat": 39.02,
+    "lon": 125.75,
+    "text": "A showcase capital."
+   },
+   {
+    "name": "Mount Kumgang",
+    "kind": "mountains",
+    "lat": 38.66,
+    "lon": 128.1,
+    "text": "The 'Diamond Mountains'."
+   },
+   {
+    "name": "Kaesong",
+    "kind": "old capital",
+    "lat": 37.97,
+    "lon": 126.55,
+    "text": "Capital of the Goryeo dynasty."
+   },
+   {
+    "name": "Panmunjom",
+    "kind": "border village",
+    "lat": 37.96,
+    "lon": 126.68,
+    "text": "Where the armistice was signed."
+   }
+  ]
+ }
+}

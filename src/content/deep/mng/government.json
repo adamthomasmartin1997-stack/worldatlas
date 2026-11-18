@@ -1,0 +1,97 @@
+{
+ "status": "draft",
+ "intro": "Mongolia is a democratic parliamentary republic between two powerful neighbours.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The State Great Khural, the parliament, chooses the prime minister. The president is directly elected for a single six-year term."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Ulaanbaatar"
+    },
+    {
+     "label": "Democracy since",
+     "value": "1990"
+    },
+    {
+     "label": "Parliament",
+     "value": "State Great Khural, 126 seats"
+    }
+   ]
+  },
+  {
+   "id": "third",
+   "title": "Third neighbours",
+   "text": [
+    "Mongolia seeks friends beyond Russia and China, such as Japan, South Korea and the US, a policy called 'third neighbours'."
+   ],
+   "related": [
+    "JPN",
+    "KOR",
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Khural",
+   "meaning": "A Mongolian assembly."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for one 6-year term",
+     "text": "Head of state."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Chosen by parliament",
+     "text": "Leads the government."
+    },
+    {
+     "title": "State Great Khural",
+     "subtitle": "126 members",
+     "text": "The parliament."
+    },
+    {
+     "title": "Aimags",
+     "subtitle": "21 provinces",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is submitted",
+    "text": "To the State Great Khural."
+   },
+   {
+    "title": "Discussion",
+    "text": "Debated in committees and plenary."
+   },
+   {
+    "title": "Vote",
+    "text": "The Khural passes it."
+   },
+   {
+    "title": "The President",
+    "text": "Can veto; the Khural can override."
+   }
+  ]
+ }
+}

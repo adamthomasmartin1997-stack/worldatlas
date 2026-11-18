@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "North Korea has a state-run economy, one of the poorest in Asia, under heavy international sanctions.",
+ "chapters": [
+  {
+   "id": "economy",
+   "title": "How it works",
+   "text": [
+    "Most trade is with China. Coal, minerals and textiles were the main exports before sanctions. Informal markets, called jangmadang, have grown.",
+    "The UN says North Korean hackers have stolen billions in cryptocurrency."
+   ],
+   "related": [
+    "CHN"
+   ]
+  },
+  {
+   "id": "energy",
+   "title": "Energy",
+   "text": [
+    "Power cuts are common; night satellite photos show the country almost dark."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Jangmadang",
+   "meaning": "Informal markets."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in North Korea",
+   "items": [
+    {
+     "title": "Coal and minerals",
+     "subtitle": "Mines",
+     "text": "Exports limited by sanctions."
+    },
+    {
+     "title": "Clothes",
+     "subtitle": "Factories",
+     "text": "Made for export before sanctions."
+    },
+    {
+     "title": "Seafood",
+     "subtitle": "Coast",
+     "text": "Restricted by sanctions."
+    }
+   ],
+   "intro": "Some of the things North Korea makes and sells to the world."
+  }
+ ]
+}

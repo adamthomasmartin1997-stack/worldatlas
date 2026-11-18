@@ -1,0 +1,113 @@
+{
+ "status": "draft",
+ "intro": "The 'three manly games' of wrestling, horse racing and archery are celebrated every summer at Naadam.",
+ "chapters": [
+  {
+   "id": "naadam",
+   "title": "Naadam",
+   "text": [
+    "At Naadam, child jockeys race horses across the steppe, wrestlers dance like eagles, and archers, women included, shoot at targets."
+   ]
+  },
+  {
+   "id": "sumo",
+   "title": "Sumo and judo",
+   "text": [
+    "Mongolian wrestlers have dominated Japanese sumo: Hakuhō won a record 45 top-division titles. Judo brings Olympic medals."
+   ],
+   "related": [
+    "JPN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Naadam",
+   "meaning": "Mongolia's national festival of sport."
+  },
+  {
+   "term": "Yokozuna",
+   "meaning": "Sumo's highest rank."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Naadam wrestling",
+     "subtitle": "Wrestling",
+     "text": "The summer's biggest contest."
+    },
+    {
+     "title": "Sumo",
+     "subtitle": "In Japan",
+     "text": "Mongolian yokozuna."
+    },
+    {
+     "title": "Mongolian National Premier League",
+     "subtitle": "Football",
+     "text": "A growing league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Hakuhō",
+     "subtitle": "Sumo",
+     "text": "45 top-division titles."
+    },
+    {
+     "title": "Asashōryū",
+     "subtitle": "Sumo",
+     "text": "A powerful yokozuna."
+    },
+    {
+     "title": "Tuvshinbayar Naidan",
+     "subtitle": "Judo",
+     "text": "Mongolia's first Olympic champion, 2008."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Mongolia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "National Sports Stadium, Ulaanbaatar",
+    "kind": "venue",
+    "lat": 47.9,
+    "lon": 106.92,
+    "text": "Naadam's main venue."
+   },
+   {
+    "name": "Khui Doloon Khudag",
+    "kind": "venue",
+    "lat": 47.75,
+    "lon": 106.6,
+    "text": "Naadam horse racing."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2008",
+    "title": "First Olympic gold",
+    "text": "Naidan wins judo."
+   },
+   {
+    "year": "2021",
+    "title": "Hakuhō retires",
+    "text": "With a record 45 titles."
+   }
+  ]
+ }
+}

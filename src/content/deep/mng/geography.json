@@ -1,0 +1,94 @@
+{
+ "status": "draft",
+ "intro": "Mongolia is a vast, high, landlocked country of steppe, mountains and the Gobi Desert, squeezed between Russia and China.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Steppe and Gobi",
+   "text": [
+    "Grassy steppe covers the centre, the Altai Mountains the west, and the Gobi Desert the south. Lake Khövsgöl in the north holds much of the country's fresh water.",
+    "Mongolia is the most sparsely populated country in the world."
+   ],
+   "related": [
+    "RUS",
+    "CHN"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Extreme climate",
+   "text": [
+    "Winters drop below -40 °C, and Ulaanbaatar is the coldest capital in the world. Deadly winters called dzud can kill millions of animals."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dzud",
+   "meaning": "A severe winter that kills livestock."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Mongolia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Lake Khövsgöl",
+    "kind": "lake",
+    "lat": 51.0,
+    "lon": 100.5,
+    "text": "A huge clear lake near Siberia."
+   },
+   {
+    "name": "Altai Tavan Bogd",
+    "kind": "mountains",
+    "lat": 49.15,
+    "lon": 87.85,
+    "text": "Glaciers and eagle hunters."
+   },
+   {
+    "name": "Kharkhorin",
+    "kind": "old capital",
+    "lat": 47.2,
+    "lon": 102.82,
+    "text": "Site of Genghis Khan's capital."
+   },
+   {
+    "name": "Orkhon Valley",
+    "kind": "river valley",
+    "lat": 47.0,
+    "lon": 102.5,
+    "text": "Waterfalls and ancient ruins."
+   },
+   {
+    "name": "Ulaanbaatar",
+    "kind": "capital",
+    "lat": 47.92,
+    "lon": 106.92,
+    "text": "The coldest capital."
+   },
+   {
+    "name": "Terelj",
+    "kind": "granite park",
+    "lat": 47.98,
+    "lon": 107.45,
+    "text": "Turtle Rock and gers."
+   },
+   {
+    "name": "Khongoryn Els",
+    "kind": "sand dunes",
+    "lat": 43.78,
+    "lon": 102.33,
+    "text": "'Singing dunes' up to 300 m high."
+   },
+   {
+    "name": "Flaming Cliffs",
+    "kind": "fossil site",
+    "lat": 44.13,
+    "lon": 103.72,
+    "text": "The first dinosaur eggs were found here."
+   }
+  ]
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Taiwan is a high-tech powerhouse and makes most of the world's most advanced computer chips.",
+ "chapters": [
+  {
+   "id": "chips",
+   "title": "Silicon island",
+   "text": [
+    "TSMC, based in Hsinchu, manufactures chips for Apple, Nvidia and many others. Taiwanese firms like Foxconn assemble electronics worldwide."
+   ],
+   "related": [
+    "USA",
+    "CHN",
+    "JPN"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other industries",
+   "text": [
+    "Taiwan also makes bicycles (Giant), laptops (Acer, Asus) and machinery."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Semiconductor",
+   "meaning": "Material used to make computer chips; also another word for a chip."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Taiwan",
+   "items": [
+    {
+     "title": "Computer chips",
+     "subtitle": "TSMC, Hsinchu",
+     "text": "The world's most advanced chips."
+    },
+    {
+     "title": "Electronics",
+     "subtitle": "Foxconn",
+     "text": "Assembles phones and computers."
+    },
+    {
+     "title": "Bicycles",
+     "subtitle": "Giant and Merida",
+     "text": "World-leading bikes."
+    },
+    {
+     "title": "Laptops",
+     "subtitle": "Acer and Asus",
+     "text": "Sold worldwide."
+    },
+    {
+     "title": "Bubble tea",
+     "subtitle": "Taichung",
+     "text": "Invented in Taiwan."
+    }
+   ],
+   "intro": "Some of the things Taiwan makes and sells to the world."
+  }
+ ]
+}

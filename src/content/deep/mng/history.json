@@ -1,0 +1,98 @@
+{
+ "status": "draft",
+ "intro": "Mongolia was the heart of the largest land empire in history, founded by Genghis Khan in 1206. Many Mongolians still live as nomadic herders.",
+ "chapters": [
+  {
+   "id": "steppe",
+   "title": "Peoples of the steppe",
+   "text": [
+    "Nomadic peoples like the Xiongnu raided China so often that the Chinese built walls against them. Dinosaur fossils, including the first known dinosaur eggs, have been found in the Gobi."
+   ],
+   "related": [
+    "CHN"
+   ]
+  },
+  {
+   "id": "empire",
+   "title": "The Mongol Empire",
+   "text": [
+    "In 1206 Temüjin united the Mongol tribes and took the title Genghis Khan. His horse archers conquered northern China, Central Asia and Persia. Under his heirs the empire stretched from Korea to Hungary.",
+    "His grandson Kublai Khan conquered all of China and founded the Yuan dynasty. The empire also linked East and West, helping trade and ideas flow along the Silk Road."
+   ],
+   "highlight": {
+    "title": "Biggest land empire",
+    "text": "At its height the Mongol Empire covered about 24 million km², larger than any other land empire."
+   },
+   "related": [
+    "CHN",
+    "IRN",
+    "RUS",
+    "HUN",
+    "KOR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Qing, Soviets and democracy",
+   "text": [
+    "The Qing dynasty of China ruled Mongolia from the 1600s. Mongolia declared independence in 1911 and in 1924 became a communist state closely tied to the Soviet Union; thousands of monks were killed in purges in the 1930s.",
+    "In 1990 peaceful protests brought multi-party democracy."
+   ],
+   "related": [
+    "CHN",
+    "RUS"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "209 BC",
+   "title": "Xiongnu",
+   "text": "A steppe empire forms."
+  },
+  {
+   "year": "1206",
+   "title": "Genghis Khan",
+   "text": "Unites the Mongols."
+  },
+  {
+   "year": "1271",
+   "title": "Yuan dynasty",
+   "text": "Kublai Khan rules China."
+  },
+  {
+   "year": "1691",
+   "title": "Qing rule",
+   "text": "Mongolia joins the Qing empire."
+  },
+  {
+   "year": "1911",
+   "title": "Independence declared",
+   "text": "From the Qing."
+  },
+  {
+   "year": "1924",
+   "title": "People's Republic",
+   "text": "A Soviet ally."
+  },
+  {
+   "year": "1990",
+   "title": "Democracy",
+   "text": "Peaceful revolution."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Khan",
+   "meaning": "A Mongol ruler."
+  },
+  {
+   "term": "Ger",
+   "meaning": "The Mongolian word for a yurt."
+  },
+  {
+   "term": "Steppe",
+   "meaning": "Wide grassland."
+  }
+ ]
+}

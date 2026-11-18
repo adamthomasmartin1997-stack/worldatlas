@@ -1,0 +1,105 @@
+{
+ "status": "draft",
+ "intro": "North Korea is strong in weightlifting, wrestling, gymnastics and women's football.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "North Korea reached the quarter-finals of the 1966 World Cup, beating Italy. Its women's team has won youth World Cups."
+   ],
+   "related": [
+    "ITA",
+    "GBR"
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics",
+   "text": [
+    "Most of its Olympic medals have come in weightlifting, wrestling, boxing and gymnastics."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Quarter-final",
+   "meaning": "The round of the last eight teams."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "DPR Korea Premier Football League",
+     "subtitle": "Football",
+     "text": "April 25 is a top club."
+    },
+    {
+     "title": "Weightlifting",
+     "subtitle": "National team",
+     "text": "A medal sport."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Pak Doo-ik",
+     "subtitle": "Football",
+     "text": "Scored against Italy in 1966."
+    },
+    {
+     "title": "Rim Jong-sim",
+     "subtitle": "Weightlifting",
+     "text": "Two-time Olympic champion."
+    },
+    {
+     "title": "Om Yun-chol",
+     "subtitle": "Weightlifting",
+     "text": "Olympic champion 2012."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where North Korea's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Rungrado May Day Stadium",
+    "kind": "venue",
+    "lat": 39.05,
+    "lon": 125.78,
+    "text": "One of the largest stadiums in the world."
+   },
+   {
+    "name": "Kim Il Sung Stadium",
+    "kind": "venue",
+    "lat": 39.04,
+    "lon": 125.76,
+    "text": "The national football stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1966",
+    "title": "Beating Italy",
+    "text": "At the World Cup in England."
+   },
+   {
+    "year": "2012",
+    "title": "Olympic golds",
+    "text": "Four golds in London."
+   }
+  ]
+ }
+}

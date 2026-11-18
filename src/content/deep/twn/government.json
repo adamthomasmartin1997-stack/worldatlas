@@ -1,0 +1,98 @@
+{
+ "status": "draft",
+ "intro": "Taiwan is a multi-party democracy with a directly elected president.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for four years and appoints the premier. The Legislative Yuan has 113 seats. The two big parties are the Democratic Progressive Party (DPP) and the Kuomintang (KMT).",
+    "Lai Ching-te of the DPP became president in 2024."
+   ],
+   "facts": [
+    {
+     "label": "Seat of government",
+     "value": "Taipei"
+    },
+    {
+     "label": "Official name",
+     "value": "Republic of China"
+    },
+    {
+     "label": "Legislature",
+     "value": "113 seats"
+    }
+   ]
+  },
+  {
+   "id": "recognition",
+   "title": "International status",
+   "text": [
+    "Only about a dozen countries formally recognise the Republic of China. Taiwan competes at the Olympics as 'Chinese Taipei'."
+   ],
+   "related": [
+    "CHN",
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Legislative Yuan",
+   "meaning": "Taiwan's parliament."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 4 years",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Premier",
+     "subtitle": "Appointed by the President",
+     "text": "Leads the Executive Yuan."
+    },
+    {
+     "title": "Legislative Yuan",
+     "subtitle": "113 members",
+     "text": "Makes laws."
+    },
+    {
+     "title": "Judicial Yuan",
+     "subtitle": "Constitutional Court",
+     "text": "Interprets the constitution."
+    },
+    {
+     "title": "Control and Examination Yuans",
+     "subtitle": "Two more branches",
+     "text": "Audit officials and run civil service exams."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the Executive Yuan or legislators."
+   },
+   {
+    "title": "Three readings",
+    "text": "In the Legislative Yuan."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it."
+   }
+  ]
+ }
+}

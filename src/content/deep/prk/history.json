@@ -1,0 +1,106 @@
+{
+ "status": "draft",
+ "intro": "North Korea shares thousands of years of Korean history with the South, but since 1948 it has been one of the world's most closed and tightly controlled states.",
+ "chapters": [
+  {
+   "id": "korea",
+   "title": "One Korea",
+   "text": [
+    "Korean kingdoms such as Goguryeo, which ruled much of the north and Manchuria, Goryeo and Joseon shaped a shared language and culture. Pyongyang was Goguryeo's capital.",
+    "Japan ruled Korea harshly from 1910 to 1945."
+   ],
+   "related": [
+    "KOR",
+    "CHN",
+    "JPN"
+   ]
+  },
+  {
+   "id": "division",
+   "title": "Division and war",
+   "text": [
+    "After Japan's defeat in 1945, the Soviet Union occupied the north and the US the south. In 1948 two states were declared, and Kim Il Sung led the North.",
+    "In 1950 North Korea invaded the South, starting the Korean War. China fought on the North's side and a US-led UN force on the South's. Millions died, and an armistice in 1953 stopped the fighting but no peace treaty was signed."
+   ],
+   "highlight": {
+    "title": "Still at war",
+    "text": "Technically, the Korean War has never formally ended."
+   },
+   "related": [
+    "RUS",
+    "USA",
+    "CHN",
+    "KOR"
+   ]
+  },
+  {
+   "id": "kims",
+   "title": "The Kim dynasty",
+   "text": [
+    "Kim Il Sung was followed by his son Kim Jong Il in 1994 and grandson Kim Jong Un in 2011. A famine in the 1990s killed hundreds of thousands, possibly more.",
+    "North Korea has tested nuclear weapons since 2006, leading to UN sanctions. In 2024 it sent troops to help Russia in its war against Ukraine."
+   ],
+   "related": [
+    "RUS",
+    "UKR",
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "37 BC",
+   "title": "Goguryeo",
+   "text": "A northern Korean kingdom is founded, by tradition."
+  },
+  {
+   "year": "1910",
+   "title": "Japanese rule",
+   "text": "Until 1945."
+  },
+  {
+   "year": "1948",
+   "title": "DPRK founded",
+   "text": "Kim Il Sung leads."
+  },
+  {
+   "year": "1950",
+   "title": "Korean War",
+   "text": "Until the 1953 armistice."
+  },
+  {
+   "year": "1994",
+   "title": "Kim Jong Il",
+   "text": "Takes over."
+  },
+  {
+   "year": "1990s",
+   "title": "Famine",
+   "text": "The 'Arduous March'."
+  },
+  {
+   "year": "2006",
+   "title": "Nuclear test",
+   "text": "The first of several."
+  },
+  {
+   "year": "2011",
+   "title": "Kim Jong Un",
+   "text": "Becomes leader."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Armistice",
+   "meaning": "An agreement to stop fighting, not a peace treaty."
+  },
+  {
+   "term": "DPRK",
+   "meaning": "Democratic People's Republic of Korea, the official name."
+  },
+  {
+   "term": "Juche",
+   "meaning": "The state's ideology of self-reliance."
+  }
+ ]
+}

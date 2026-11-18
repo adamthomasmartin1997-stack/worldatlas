@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Mongolia has about 3.5 million people, nearly half of them in Ulaanbaatar.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are Khalkha Mongols; Kazakhs live in the far west. Mongolian is written in Cyrillic, and the old vertical script is being revived. Tibetan Buddhism is the main religion.",
+    "About a quarter of people still herd sheep, goats, horses, yaks and camels."
+   ],
+   "related": [
+    "KAZ",
+    "CHN"
+   ]
+  },
+  {
+   "id": "animals",
+   "title": "More animals than people",
+   "text": [
+    "Mongolia has around 70 million livestock, about 20 for every person."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Herder",
+   "meaning": "Someone who looks after grazing animals."
+  }
+ ]
+}

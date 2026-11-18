@@ -1,0 +1,137 @@
+{
+ "status": "draft",
+ "intro": "Baseball is Taiwan's most popular sport, and badminton and weightlifting bring Olympic medals.",
+ "chapters": [
+  {
+   "id": "baseball",
+   "title": "Baseball",
+   "text": [
+    "Taiwan won the Premier12 baseball tournament in 2024, beating Japan in the final, and its youth teams have won the Little League World Series many times."
+   ],
+   "related": [
+    "JPN",
+    "USA"
+   ]
+  },
+  {
+   "id": "badminton",
+   "title": "Badminton",
+   "text": [
+    "Lee Yang and Wang Chi-lin won Olympic doubles gold in 2021 and again in 2024. Tai Tzu-ying was world No. 1 for years."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Premier12",
+   "meaning": "An international baseball tournament."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "CPBL",
+     "subtitle": "Baseball",
+     "text": "Chinese Professional Baseball League since 1990."
+    },
+    {
+     "title": "Little League",
+     "subtitle": "Youth baseball",
+     "text": "Many world titles."
+    },
+    {
+     "title": "Taipei Marathon",
+     "subtitle": "Running",
+     "text": "Each December."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Chi Cheng",
+     "subtitle": "Athletics",
+     "text": "Olympic bronze 1968 and world records."
+    },
+    {
+     "title": "Tai Tzu-ying",
+     "subtitle": "Badminton",
+     "text": "World No. 1."
+    },
+    {
+     "title": "Lee Yang and Wang Chi-lin",
+     "subtitle": "Badminton",
+     "text": "Olympic gold twice."
+    },
+    {
+     "title": "Kuo Hsing-chun",
+     "subtitle": "Weightlifting",
+     "text": "Olympic champion 2021."
+    },
+    {
+     "title": "Lin Yu-ting",
+     "subtitle": "Boxing",
+     "text": "Olympic champion 2024."
+    },
+    {
+     "title": "Yani Tseng",
+     "subtitle": "Golf",
+     "text": "Five major titles."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Taiwan's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Taipei Dome",
+    "kind": "venue",
+    "lat": 25.04,
+    "lon": 121.56,
+    "text": "A covered baseball stadium."
+   },
+   {
+    "name": "Taoyuan International Baseball Stadium",
+    "kind": "venue",
+    "lat": 25.0,
+    "lon": 121.2,
+    "text": "Home of baseball."
+   },
+   {
+    "name": "Kaohsiung National Stadium",
+    "kind": "venue",
+    "lat": 22.7,
+    "lon": 120.29,
+    "text": "Solar-roofed stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1969",
+    "title": "Little League champions",
+    "text": "The first of many titles."
+   },
+   {
+    "year": "2021",
+    "title": "Tokyo golds",
+    "text": "Badminton and weightlifting."
+   },
+   {
+    "year": "2024",
+    "title": "Premier12",
+    "text": "Beat Japan in the final."
+   }
+  ]
+ }
+}

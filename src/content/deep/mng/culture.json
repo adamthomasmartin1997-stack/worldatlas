@@ -1,0 +1,127 @@
+{
+ "status": "draft",
+ "intro": "Mongolian culture centres on horses, gers and the open steppe.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music",
+   "text": [
+    "Throat singing, where one singer makes two notes at once, and the horse-head fiddle are on UNESCO's list."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Buuz (steamed dumplings), khuushuur (fried pies) and airag, fermented mare's milk, are traditional."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Khöömei",
+   "meaning": "Mongolian throat singing."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Story of the Weeping Camel",
+     "subtitle": "2003 · Byambasuren Davaa",
+     "text": "A camel rejects her calf; Oscar-nominated."
+    },
+    {
+     "title": "The Cave of the Yellow Dog",
+     "subtitle": "2005 · Byambasuren Davaa",
+     "text": "A nomad girl finds a dog."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Secret History of the Mongols",
+     "subtitle": "1200s",
+     "text": "The oldest Mongolian book."
+    },
+    {
+     "title": "My Native Land",
+     "subtitle": "1933 · Dashdorjiin Natsagdorj",
+     "text": "A much-loved poem."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Throat singing",
+     "subtitle": "Khöömei",
+     "text": "Two notes at once."
+    },
+    {
+     "title": "Morin khuur",
+     "subtitle": "Horse-head fiddle",
+     "text": "A national symbol."
+    },
+    {
+     "title": "The HU",
+     "subtitle": "Band",
+     "text": "Mongolian folk metal."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Buuz",
+     "subtitle": "Tsagaan Sar",
+     "text": "Steamed meat dumplings."
+    },
+    {
+     "title": "Khuushuur",
+     "subtitle": "Naadam",
+     "text": "Fried meat pies."
+    },
+    {
+     "title": "Airag",
+     "subtitle": "Summer",
+     "text": "Fermented mare's milk."
+    },
+    {
+     "title": "Suutei tsai",
+     "subtitle": "Everywhere",
+     "text": "Salty milk tea."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Tsagaan Sar",
+    "text": "Lunar New Year."
+   },
+   {
+    "month": 7,
+    "name": "Naadam",
+    "text": "11–13 July."
+   },
+   {
+    "month": 10,
+    "name": "Golden Eagle Festival",
+    "text": "Eagle hunters in the west."
+   }
+  ]
+ }
+}

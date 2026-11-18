@@ -1,0 +1,142 @@
+{
+ "status": "draft",
+ "intro": "Taiwanese culture mixes Chinese, Indigenous and Japanese influences, famous for its food and night markets.",
+ "chapters": [
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Bubble tea was invented in Taiwan in the 1980s. Beef noodle soup, xiaolongbao dumplings and stinky tofu are classics."
+   ]
+  },
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "The National Palace Museum holds one of the world's greatest collections of Chinese art. Taiwanese directors like Ang Lee and Hou Hsiao-hsien are internationally famous."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Night market",
+   "meaning": "An evening street market full of food stalls."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "A City of Sadness",
+     "subtitle": "1989 · Hou Hsiao-hsien",
+     "text": "The 1947 events; won at Venice."
+    },
+    {
+     "title": "Crouching Tiger, Hidden Dragon",
+     "subtitle": "2000 · Ang Lee",
+     "text": "Won four Oscars."
+    },
+    {
+     "title": "Yi Yi",
+     "subtitle": "2000 · Edward Yang",
+     "text": "A Taipei family; won at Cannes."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Orphan of Asia",
+     "subtitle": "1940s · Wu Zhuoliu",
+     "text": "Taiwanese identity under Japan."
+    },
+    {
+     "title": "The Man with the Compound Eyes",
+     "subtitle": "2011 · Wu Ming-yi",
+     "text": "A climate fable."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Teresa Teng",
+     "subtitle": "Singer",
+     "text": "Asia's best-loved pop voice."
+    },
+    {
+     "title": "Jay Chou",
+     "subtitle": "Mandopop",
+     "text": "A huge star."
+    },
+    {
+     "title": "Mayday",
+     "subtitle": "Rock band",
+     "text": "Stadium favourites."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Bubble tea",
+     "subtitle": "Everywhere",
+     "text": "Tea with tapioca pearls."
+    },
+    {
+     "title": "Beef noodle soup",
+     "subtitle": "Everywhere",
+     "text": "A national favourite."
+    },
+    {
+     "title": "Xiaolongbao",
+     "subtitle": "Din Tai Fung",
+     "text": "Soup dumplings."
+    },
+    {
+     "title": "Stinky tofu",
+     "subtitle": "Night markets",
+     "text": "Fermented and fried."
+    },
+    {
+     "title": "Pineapple cake",
+     "subtitle": "Gifts",
+     "text": "A buttery pastry."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Lantern Festival",
+    "text": "Sky lanterns in Pingxi."
+   },
+   {
+    "month": 6,
+    "name": "Dragon Boat Festival",
+    "text": "Boat races."
+   },
+   {
+    "month": 9,
+    "name": "Mid-Autumn Festival",
+    "text": "Barbecues and mooncakes."
+   },
+   {
+    "month": 10,
+    "name": "National Day",
+    "text": "10 October."
+   }
+  ]
+ }
+}

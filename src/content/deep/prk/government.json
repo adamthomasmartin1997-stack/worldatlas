@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "North Korea is a one-party dictatorship ruled by the Kim family.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Kim Jong Un leads the Workers' Party of Korea, the state and the army. Elections offer one approved candidate. Huge statues and portraits honour the Kims."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Pyongyang"
+    },
+    {
+     "label": "Leader",
+     "value": "Kim Jong Un"
+    },
+    {
+     "label": "Founded",
+     "value": "1948"
+    }
+   ]
+  },
+  {
+   "id": "military",
+   "title": "Military first",
+   "text": [
+    "North Korea has one of the largest armies in the world and spends heavily on missiles."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dictatorship",
+   "meaning": "Rule by one person or group without real elections."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Supreme Leader",
+     "subtitle": "Kim Jong Un",
+     "text": "Leads the party, state and army."
+    },
+    {
+     "title": "Workers' Party of Korea",
+     "subtitle": "Ruling party",
+     "text": "Controls everything."
+    },
+    {
+     "title": "Supreme People's Assembly",
+     "subtitle": "Rubber-stamp parliament",
+     "text": "Approves decisions."
+    },
+    {
+     "title": "Korean People's Army",
+     "subtitle": "Military",
+     "text": "Very powerful."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Party decides",
+    "text": "Policies come from party leaders."
+   },
+   {
+    "title": "Assembly approves",
+    "text": "Usually without debate."
+   },
+   {
+    "title": "Published",
+    "text": "In state media."
+   }
+  ]
+ }
+}

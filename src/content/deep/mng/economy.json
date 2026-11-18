@@ -1,0 +1,58 @@
+{
+ "status": "draft",
+ "intro": "Mining dominates Mongolia's economy, with most exports going to China.",
+ "chapters": [
+  {
+   "id": "mining",
+   "title": "Mining",
+   "text": [
+    "Oyu Tolgoi is one of the world's largest copper and gold mines, and coal is shipped to China."
+   ],
+   "related": [
+    "CHN"
+   ]
+  },
+  {
+   "id": "herding",
+   "title": "Herding",
+   "text": [
+    "Cashmere from Mongolian goats is among the finest in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cashmere",
+   "meaning": "Very soft wool from goats."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Mongolia",
+   "items": [
+    {
+     "title": "Copper and gold",
+     "subtitle": "Oyu Tolgoi",
+     "text": "A giant mine."
+    },
+    {
+     "title": "Coal",
+     "subtitle": "Tavan Tolgoi",
+     "text": "Sold to China."
+    },
+    {
+     "title": "Cashmere",
+     "subtitle": "Herders",
+     "text": "Fine goat wool."
+    },
+    {
+     "title": "Meat",
+     "subtitle": "Herds",
+     "text": "Mutton and goat sold abroad."
+    }
+   ],
+   "intro": "Some of the things Mongolia makes and sells to the world."
+  }
+ ]
+}

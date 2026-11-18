@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Taiwan has about 23 million people, mostly living in big cities on the west coast.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and languages",
+   "text": [
+    "Most people are of Han Chinese descent; Indigenous peoples make up about 2.5%. Mandarin is the main language, and Taiwanese Hokkien, Hakka and Indigenous languages are also spoken. Traditional Chinese characters are used.",
+    "Buddhism, Taoism and folk religion are widely practised."
+   ],
+   "related": [
+    "CHN"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Life",
+   "text": [
+    "Taiwan was the first place in Asia to legalise same-sex marriage, in 2019. Night markets are a big part of daily life."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Hakka",
+   "meaning": "A Chinese people and language."
+  }
+ ]
+}
