@@ -1,0 +1,137 @@
+{
+ "status": "draft",
+ "intro": "Sri Lankan culture is shaped by Buddhism, Hindu and Muslim traditions, and colonial influences.",
+ "chapters": [
+  {
+   "id": "festivals",
+   "title": "Festivals",
+   "text": [
+    "The Esala Perahera in Kandy parades decorated elephants to honour the Buddha's Tooth Relic. Sinhala and Tamil New Year is celebrated in April."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Rice and curry, hoppers (bowl-shaped pancakes) and kottu roti are everyday food, with plenty of coconut and spice."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Perahera",
+   "meaning": "A Buddhist procession."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Rekava",
+     "subtitle": "1956 · Lester James Peries",
+     "text": "A village story; shown at Cannes."
+    },
+    {
+     "title": "Machan",
+     "subtitle": "2008 · Uberto Pasolini",
+     "text": "Villagers pretend to be a handball team."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Anil's Ghost",
+     "subtitle": "2000 · Michael Ondaatje",
+     "text": "A forensic scientist returns home."
+    },
+    {
+     "title": "The Seven Moons of Maali Almeida",
+     "subtitle": "2022 · Shehan Karunatilaka",
+     "text": "Won the Booker Prize."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Baila",
+     "subtitle": "Popular dance music",
+     "text": "With Portuguese roots."
+    },
+    {
+     "title": "Kandyan drumming",
+     "subtitle": "Traditional",
+     "text": "Played at festivals."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Rice and curry",
+     "subtitle": "Everywhere",
+     "text": "Several curries with rice."
+    },
+    {
+     "title": "Hoppers",
+     "subtitle": "Everywhere",
+     "text": "Bowl-shaped pancakes, often with an egg."
+    },
+    {
+     "title": "Kottu roti",
+     "subtitle": "Street food",
+     "text": "Chopped flatbread stir-fried."
+    },
+    {
+     "title": "Pol sambol",
+     "subtitle": "Everywhere",
+     "text": "Spicy coconut relish."
+    },
+    {
+     "title": "Lamprais",
+     "subtitle": "Colombo",
+     "text": "Rice and curry baked in a banana leaf."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Independence Day",
+    "text": "4 February."
+   },
+   {
+    "month": 4,
+    "name": "Sinhala and Tamil New Year",
+    "text": "Mid-April."
+   },
+   {
+    "month": 5,
+    "name": "Vesak",
+    "text": "Lanterns for the Buddha's birth."
+   },
+   {
+    "month": 8,
+    "name": "Esala Perahera",
+    "text": "Elephant parades in Kandy."
+   },
+   {
+    "month": 10,
+    "name": "Deepavali",
+    "text": "Festival of lights."
+   }
+  ]
+ }
+}

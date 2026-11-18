@@ -1,0 +1,137 @@
+{
+ "status": "draft",
+ "intro": "Cricket is Sri Lanka's passion, and the 1996 World Cup win is its proudest sporting moment.",
+ "chapters": [
+  {
+   "id": "cricket",
+   "title": "Cricket",
+   "text": [
+    "Sri Lanka won the Cricket World Cup in 1996 and the T20 World Cup in 2014. Muttiah Muralitharan took 800 Test wickets, the most ever."
+   ],
+   "related": [
+    "AUS",
+    "IND"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Volleyball is the national sport. Susanthika Jayasinghe won Olympic sprint medals."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Test cricket",
+   "meaning": "The longest form of cricket, played over five days."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Lanka Premier League",
+     "subtitle": "Cricket",
+     "text": "A T20 league."
+    },
+    {
+     "title": "Big matches",
+     "subtitle": "School cricket",
+     "text": "Old school rivalries draw crowds."
+    },
+    {
+     "title": "Volleyball",
+     "subtitle": "National sport",
+     "text": "Played everywhere."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Muttiah Muralitharan",
+     "subtitle": "Cricket",
+     "text": "800 Test wickets."
+    },
+    {
+     "title": "Kumar Sangakkara",
+     "subtitle": "Cricket",
+     "text": "A great batter and keeper."
+    },
+    {
+     "title": "Mahela Jayawardene",
+     "subtitle": "Cricket",
+     "text": "A stylish batter."
+    },
+    {
+     "title": "Sanath Jayasuriya",
+     "subtitle": "Cricket",
+     "text": "Star of 1996."
+    },
+    {
+     "title": "Susanthika Jayasinghe",
+     "subtitle": "Sprinting",
+     "text": "Olympic 200 m medallist."
+    },
+    {
+     "title": "Duncan White",
+     "subtitle": "Hurdles",
+     "text": "Olympic silver, 1948."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Sri Lanka's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "R. Premadasa Stadium, Colombo",
+    "kind": "venue",
+    "lat": 6.94,
+    "lon": 79.87,
+    "text": "The biggest cricket ground."
+   },
+   {
+    "name": "Galle International Stadium",
+    "kind": "venue",
+    "lat": 6.03,
+    "lon": 80.21,
+    "text": "Cricket beside a fort."
+   },
+   {
+    "name": "Pallekele Stadium",
+    "kind": "venue",
+    "lat": 7.28,
+    "lon": 80.72,
+    "text": "Near Kandy."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1948",
+    "title": "Olympic silver",
+    "text": "Duncan White's hurdles."
+   },
+   {
+    "year": "1996",
+    "title": "World Cup",
+    "text": "Beat Australia in Lahore."
+   },
+   {
+    "year": "2014",
+    "title": "T20 World Cup",
+    "text": "Beat India in the final."
+   }
+  ]
+ }
+}

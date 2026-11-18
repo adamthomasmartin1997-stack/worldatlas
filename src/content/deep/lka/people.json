@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Sri Lanka has about 22 million people, mostly Sinhalese, with large Tamil and Muslim communities.",
+ "chapters": [
+  {
+   "id": "groups",
+   "title": "Peoples and faiths",
+   "text": [
+    "About three-quarters are Sinhalese, mostly Buddhist. Tamils, mostly Hindu, live mainly in the north, east and hill country. Muslims make up about a tenth, and there are Christians in every group.",
+    "Sinhala and Tamil are official languages."
+   ],
+   "related": [
+    "IND"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Life",
+   "text": [
+    "Sri Lanka has high literacy and free education and health care. Colombo is the biggest city."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sinhalese",
+   "meaning": "The largest ethnic group."
+  }
+ ]
+}

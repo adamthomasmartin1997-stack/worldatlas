@@ -1,0 +1,89 @@
+{
+ "status": "draft",
+ "intro": "Archery is Bhutan's national sport, played with loud cheering and dancing.",
+ "chapters": [
+  {
+   "id": "archery",
+   "title": "Archery",
+   "text": [
+    "Archers shoot at small targets 145 m away, while teammates sing and dance to put off opponents."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Football is popular, and Bhutan has sent archers to the Olympics since 1984."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Archery",
+   "meaning": "Shooting arrows with a bow."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Bhutan Premier League",
+     "subtitle": "Football",
+     "text": "Paro FC are a top club."
+    },
+    {
+     "title": "Archery",
+     "subtitle": "National sport",
+     "text": "Matches at every festival."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Karma",
+     "subtitle": "Archery",
+     "text": "An Olympic archer."
+    },
+    {
+     "title": "Chencho Gyeltshen",
+     "subtitle": "Football",
+     "text": "The 'Bhutanese Ronaldo'."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Bhutan's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Changlimithang Stadium, Thimphu",
+    "kind": "venue",
+    "lat": 27.47,
+    "lon": 89.64,
+    "text": "Football and archery."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1984",
+    "title": "Olympic debut",
+    "text": "Bhutan sends archers to Los Angeles."
+   },
+   {
+    "year": "2015",
+    "title": "First World Cup qualifiers win",
+    "text": "Beat Sri Lanka."
+   }
+  ]
+ }
+}

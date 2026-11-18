@@ -1,0 +1,58 @@
+{
+ "status": "draft",
+ "intro": "Bhutan earns most of its money by selling hydropower to India.",
+ "chapters": [
+  {
+   "id": "power",
+   "title": "Hydropower",
+   "text": [
+    "Fast mountain rivers drive power stations, and India buys most of the electricity."
+   ],
+   "related": [
+    "IND"
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Bhutan charges visitors a daily fee to keep tourism small and pay for conservation. It is also building Gelephu Mindfulness City, a new economic zone."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "High value, low impact",
+   "meaning": "Bhutan's tourism policy."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Bhutan",
+   "items": [
+    {
+     "title": "Hydropower",
+     "subtitle": "Rivers",
+     "text": "Sold to India."
+    },
+    {
+     "title": "Ferrosilicon",
+     "subtitle": "Factories",
+     "text": "An alloy for steel."
+    },
+    {
+     "title": "Apples and oranges",
+     "subtitle": "Valleys",
+     "text": "Exported to India."
+    },
+    {
+     "title": "Cardamom",
+     "subtitle": "South",
+     "text": "A spice crop."
+    }
+   ],
+   "intro": "Some of the things Bhutan makes and sells to the world."
+  }
+ ]
+}

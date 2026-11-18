@@ -1,0 +1,70 @@
+{
+ "status": "draft",
+ "intro": "Maldivian culture mixes South Asian, Arab and African influences, shaped by the sea.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Bodu beru, 'big drum' music and dance, is the best-known tradition. Dhoni boats, once sailed, are still built by hand."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Mas huni, tuna with coconut and chilli eaten with flatbread, is a classic breakfast."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dhoni",
+   "meaning": "A traditional Maldivian boat."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Bodu beru",
+     "subtitle": "Traditional",
+     "text": "Big drum music and dance."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Mas huni",
+     "subtitle": "Breakfast",
+     "text": "Tuna, coconut and chilli."
+    },
+    {
+     "title": "Garudhiya",
+     "subtitle": "Everywhere",
+     "text": "Clear fish soup."
+    },
+    {
+     "title": "Hedhikaa",
+     "subtitle": "Teatime",
+     "text": "Small snacks."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "26 July."
+   }
+  ]
+ }
+}

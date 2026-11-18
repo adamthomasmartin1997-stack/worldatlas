@@ -1,0 +1,50 @@
+{
+ "status": "draft",
+ "intro": "Tourism and fishing are the Maldives' main industries.",
+ "chapters": [
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Over a million tourists a year stay at 'one island, one resort' hotels with overwater villas."
+   ]
+  },
+  {
+   "id": "fishing",
+   "title": "Fishing",
+   "text": [
+    "Tuna is caught by pole and line, one fish at a time, which protects stocks."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pole and line",
+   "meaning": "Fishing one fish at a time with a rod."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in the Maldives",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "Resorts",
+     "text": "The biggest industry."
+    },
+    {
+     "title": "Tuna",
+     "subtitle": "Pole and line",
+     "text": "Exported fresh and canned."
+    },
+    {
+     "title": "Coconut",
+     "subtitle": "Islands",
+     "text": "Oil and food."
+    }
+   ],
+   "intro": "Some of the things the Maldives makes and sells to the world."
+  }
+ ]
+}

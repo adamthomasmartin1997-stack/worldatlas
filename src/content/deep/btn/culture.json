@@ -1,0 +1,122 @@
+{
+ "status": "draft",
+ "intro": "Bhutanese culture is deeply Buddhist, with colourful festivals and striking architecture.",
+ "chapters": [
+  {
+   "id": "festivals",
+   "title": "Tshechu festivals",
+   "text": [
+    "At tshechus, monks perform masked dances in dzong courtyards, and giant religious paintings called thongdrels are unrolled at dawn."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Ema datshi, chillies cooked in cheese, is the national dish. Red rice and butter tea are staples."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tshechu",
+   "meaning": "A religious festival with masked dances."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Lunana: A Yak in the Classroom",
+     "subtitle": "2019 · Pawo Choyning Dorji",
+     "text": "A teacher in a remote village; Oscar-nominated."
+    },
+    {
+     "title": "Travellers and Magicians",
+     "subtitle": "2003 · Khyentse Norbu",
+     "text": "Bhutan's first feature film."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Beyond the Sky and the Earth",
+     "subtitle": "1999 · Jamie Zeppa",
+     "text": "A Canadian teacher's memoir."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Zhungdra",
+     "subtitle": "Traditional",
+     "text": "Slow classical songs."
+    },
+    {
+     "title": "Rigsar",
+     "subtitle": "Modern",
+     "text": "Bhutanese pop."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Ema datshi",
+     "subtitle": "Everywhere",
+     "text": "Chillies and cheese."
+    },
+    {
+     "title": "Red rice",
+     "subtitle": "Everywhere",
+     "text": "A nutty rice."
+    },
+    {
+     "title": "Momos",
+     "subtitle": "Everywhere",
+     "text": "Steamed dumplings with chilli."
+    },
+    {
+     "title": "Suja",
+     "subtitle": "Everywhere",
+     "text": "Salty butter tea."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Paro Tshechu",
+    "text": "Masked dances in spring."
+   },
+   {
+    "month": 9,
+    "name": "Thimphu Tshechu",
+    "text": "The capital's festival."
+   },
+   {
+    "month": 11,
+    "name": "Black-necked crane festival",
+    "text": "Celebrating the cranes."
+   },
+   {
+    "month": 12,
+    "name": "National Day",
+    "text": "17 December."
+   }
+  ]
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "status": "draft",
+ "intro": "Sri Lanka is a teardrop-shaped island off southern India, with beaches, rainforests and cool tea-covered hills.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Hills and coast",
+   "text": [
+    "Mountains rise in the south-centre; Pidurutalagala is the highest at 2,524 m. Adam's Peak is a sacred mountain climbed by pilgrims at night. The north is flat and dry.",
+    "Palk Strait separates the island from India by about 30 km."
+   ],
+   "related": [
+    "IND",
+    "MDV"
+   ]
+  },
+  {
+   "id": "wildlife",
+   "title": "Wildlife",
+   "text": [
+    "Sri Lanka has leopards, elephants and blue whales offshore, and Yala National Park has one of the highest densities of leopards in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Monsoon",
+   "meaning": "Seasonal winds bringing heavy rain."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Sri Lanka's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Jaffna",
+    "kind": "northern peninsula",
+    "lat": 9.66,
+    "lon": 80.02,
+    "text": "Tamil culture and palm-fringed lagoons."
+   },
+   {
+    "name": "Anuradhapura",
+    "kind": "ancient city",
+    "lat": 8.33,
+    "lon": 80.4,
+    "text": "Giant stupas and a sacred fig tree."
+   },
+   {
+    "name": "Trincomalee",
+    "kind": "natural harbour",
+    "lat": 8.57,
+    "lon": 81.23,
+    "text": "One of the world's deepest natural harbours."
+   },
+   {
+    "name": "Sigiriya",
+    "kind": "rock fortress",
+    "lat": 7.957,
+    "lon": 80.76,
+    "text": "A palace on a 200 m rock."
+   },
+   {
+    "name": "Kandy",
+    "kind": "hill city",
+    "lat": 7.29,
+    "lon": 80.63,
+    "text": "The Temple of the Tooth."
+   },
+   {
+    "name": "Adam's Peak",
+    "kind": "sacred mountain",
+    "lat": 6.81,
+    "lon": 80.5,
+    "text": "Pilgrims climb at night."
+   },
+   {
+    "name": "Ella and the hill country",
+    "kind": "tea hills",
+    "lat": 6.87,
+    "lon": 81.05,
+    "text": "Tea estates and a famous train ride."
+   },
+   {
+    "name": "Yala",
+    "kind": "national park",
+    "lat": 6.37,
+    "lon": 81.5,
+    "text": "Leopards and elephants."
+   },
+   {
+    "name": "Galle",
+    "kind": "fort town",
+    "lat": 6.03,
+    "lon": 80.22,
+    "text": "A Dutch fort by the sea."
+   },
+   {
+    "name": "Sinharaja",
+    "kind": "rainforest",
+    "lat": 6.4,
+    "lon": 80.5,
+    "text": "A rainforest full of rare species."
+   }
+  ]
+ }
+}

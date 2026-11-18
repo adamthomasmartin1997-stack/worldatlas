@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Sri Lanka is a democratic republic with a powerful elected president.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president leads the government and appoints the cabinet. Parliament has 225 members. In 2024 Anura Kumara Dissanayake, a left-wing outsider, won the presidency and his alliance won a big parliamentary majority."
+   ],
+   "facts": [
+    {
+     "label": "Commercial capital",
+     "value": "Colombo"
+    },
+    {
+     "label": "Official capital",
+     "value": "Sri Jayawardenepura Kotte"
+    },
+    {
+     "label": "Parliament",
+     "value": "225 seats"
+    }
+   ]
+  },
+  {
+   "id": "provinces",
+   "title": "Provinces",
+   "text": [
+    "Sri Lanka has nine provinces with their own councils, created partly to give Tamil areas more say."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Executive president",
+   "meaning": "A president who runs the government."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 5 years",
+     "text": "Leads the government."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Appointed by the President",
+     "text": "Leads in parliament."
+    },
+    {
+     "title": "Parliament",
+     "subtitle": "225 members",
+     "text": "Elected by proportional representation."
+    },
+    {
+     "title": "Provincial councils",
+     "subtitle": "9 provinces",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is published",
+    "text": "In the government gazette."
+   },
+   {
+    "title": "Court check",
+    "text": "Citizens can challenge it at the Supreme Court."
+   },
+   {
+    "title": "Parliament",
+    "text": "Debates and passes it."
+   },
+   {
+    "title": "Speaker",
+    "text": "Certifies it as law."
+   }
+  ]
+ }
+}

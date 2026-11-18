@@ -1,0 +1,121 @@
+{
+ "status": "draft",
+ "intro": "Mountaineering made Nepal famous, while cricket and football are its most popular team sports.",
+ "chapters": [
+  {
+   "id": "mountains",
+   "title": "Mountaineering",
+   "text": [
+    "Sherpas like Kami Rita, who has climbed Everest more than 30 times, are legends. In 2021 a Nepali team made the first winter ascent of K2."
+   ],
+   "related": [
+    "PAK"
+   ]
+  },
+  {
+   "id": "cricket",
+   "title": "Cricket",
+   "text": [
+    "Nepal's cricket fans are among the loudest in Asia, and the team has played at T20 World Cups."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ascent",
+   "meaning": "A climb to the top."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Nepal Premier League",
+     "subtitle": "Cricket",
+     "text": "A new T20 league."
+    },
+    {
+     "title": "Martyr's Memorial A-Division League",
+     "subtitle": "Football",
+     "text": "The top football league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Tenzing Norgay",
+     "subtitle": "Mountaineering",
+     "text": "First up Everest with Hillary, 1953."
+    },
+    {
+     "title": "Kami Rita Sherpa",
+     "subtitle": "Mountaineering",
+     "text": "The most Everest climbs ever."
+    },
+    {
+     "title": "Nirmal Purja",
+     "subtitle": "Mountaineering",
+     "text": "Climbed all 14 8,000 m peaks in about six months."
+    },
+    {
+     "title": "Rohit Paudel",
+     "subtitle": "Cricket",
+     "text": "A young captain of the national team."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Nepal's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Dasharath Stadium, Kathmandu",
+    "kind": "venue",
+    "lat": 27.69,
+    "lon": 85.32,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Tribhuvan University Cricket Ground",
+    "kind": "venue",
+    "lat": 27.68,
+    "lon": 85.29,
+    "text": "Packed for cricket."
+   },
+   {
+    "name": "Everest Base Camp",
+    "kind": "venue",
+    "lat": 28.0,
+    "lon": 86.86,
+    "text": "Start of the climb."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1953",
+    "title": "Everest",
+    "text": "The first ascent."
+   },
+   {
+    "year": "2014",
+    "title": "T20 World Cup",
+    "text": "A first appearance."
+   },
+   {
+    "year": "2021",
+    "title": "K2 in winter",
+    "text": "A Nepali team makes history."
+   }
+  ]
+ }
+}

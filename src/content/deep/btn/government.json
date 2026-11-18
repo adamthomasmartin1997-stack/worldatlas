@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Bhutan is a constitutional monarchy, led by the Dragon King and an elected parliament.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "King Jigme Khesar Namgyel Wangchuck has reigned since 2006. The prime minister leads the government, chosen from the elected National Assembly. The constitution lets parliament remove a king."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Thimphu"
+    },
+    {
+     "label": "King",
+     "value": "Jigme Khesar Namgyel Wangchuck"
+    },
+    {
+     "label": "Democracy since",
+     "value": "2008"
+    }
+   ]
+  },
+  {
+   "id": "environment",
+   "title": "Protecting nature",
+   "text": [
+    "The constitution says at least 60% of Bhutan must stay forested."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Druk Gyalpo",
+   "meaning": "'Dragon King', Bhutan's monarch."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Inherits the throne",
+     "text": "Head of state."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Leader of the largest party",
+     "text": "Runs the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "47 members",
+     "text": "Elected by the people."
+    },
+    {
+     "title": "National Council",
+     "subtitle": "25 members",
+     "text": "20 elected, 5 chosen by the King."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In either house."
+   },
+   {
+    "title": "Both houses",
+    "text": "Debate and pass it."
+   },
+   {
+    "title": "The King",
+    "text": "Gives assent."
+   }
+  ]
+ }
+}

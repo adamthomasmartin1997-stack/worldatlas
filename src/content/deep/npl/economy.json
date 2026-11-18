@@ -1,0 +1,64 @@
+{
+ "status": "draft",
+ "intro": "Nepal's economy depends on farming, tourism and money sent home by workers abroad.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How Nepal earns",
+   "text": [
+    "Remittances equal about a quarter of the economy. Trekking and mountaineering bring tourists. Rice, tea and cardamom are grown.",
+    "Rivers give Nepal huge hydropower potential, and it now sells electricity to India."
+   ],
+   "related": [
+    "IND"
+   ]
+  },
+  {
+   "id": "trade",
+   "title": "Trade",
+   "text": [
+    "Nepal trades mostly with India, its giant southern neighbour."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Remittances",
+   "meaning": "Money sent home by workers abroad."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Nepal",
+   "items": [
+    {
+     "title": "Hydropower",
+     "subtitle": "Rivers",
+     "text": "Sold to India."
+    },
+    {
+     "title": "Tea",
+     "subtitle": "Ilam",
+     "text": "Grown in the eastern hills."
+    },
+    {
+     "title": "Cardamom",
+     "subtitle": "East",
+     "text": "A top producer."
+    },
+    {
+     "title": "Pashmina",
+     "subtitle": "Kathmandu",
+     "text": "Fine wool shawls."
+    },
+    {
+     "title": "Trekking",
+     "subtitle": "Himalayas",
+     "text": "Hundreds of thousands of visitors."
+    }
+   ],
+   "intro": "Some of the things Nepal makes and sells to the world."
+  }
+ ]
+}

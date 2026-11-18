@@ -1,0 +1,102 @@
+{
+ "status": "draft",
+ "intro": "Nepal, home of Mount Everest and the birthplace of the Buddha, was never colonised and became a republic in 2008.",
+ "chapters": [
+  {
+   "id": "buddha",
+   "title": "Birthplace of the Buddha",
+   "text": [
+    "Siddhartha Gautama, who became the Buddha, was born at Lumbini in southern Nepal around 2,500 years ago. The Indian emperor Ashoka later put up a stone pillar there.",
+    "The Kathmandu Valley was ruled by the Licchavi and then the Malla kings, whose cities of Kathmandu, Patan and Bhaktapur are full of temples, palaces and carved wooden windows."
+   ],
+   "related": [
+    "IND"
+   ]
+  },
+  {
+   "id": "unification",
+   "title": "Unification",
+   "text": [
+    "In 1768 Prithvi Narayan Shah of Gorkha conquered the valley and founded the Shah dynasty, uniting Nepal. A war with the British East India Company in 1814 to 1816 cost Nepal land but left it independent.",
+    "Gurkha soldiers from Nepal have served in the British Army ever since."
+   ],
+   "highlight": {
+    "title": "Gurkhas",
+    "text": "Gurkha regiments, known for the curved khukuri knife, have served Britain for over 200 years."
+   },
+   "related": [
+    "GBR",
+    "IND"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Ranas, kings and a republic",
+   "text": [
+    "From 1846 to 1951 the Rana family ruled as hereditary prime ministers. Democracy came and went under the kings. A Maoist insurgency from 1996 to 2006 killed about 17,000 people, and in 2001 Crown Prince Dipendra killed much of the royal family.",
+    "In 2008 Nepal abolished the monarchy and became a republic. A huge earthquake in 2015 killed about 9,000 people. In September 2025 youth-led protests toppled the government."
+   ],
+   "related": [
+    "IND",
+    "CHN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 563 BC",
+   "title": "The Buddha",
+   "text": "Born at Lumbini."
+  },
+  {
+   "year": "1200s",
+   "title": "Malla kings",
+   "text": "Rule the Kathmandu Valley."
+  },
+  {
+   "year": "1768",
+   "title": "Unification",
+   "text": "Prithvi Narayan Shah takes Kathmandu."
+  },
+  {
+   "year": "1816",
+   "title": "Treaty of Sugauli",
+   "text": "Peace with Britain."
+  },
+  {
+   "year": "1846",
+   "title": "Rana rule",
+   "text": "Until 1951."
+  },
+  {
+   "year": "1953",
+   "title": "Everest climbed",
+   "text": "Tenzing Norgay and Edmund Hillary."
+  },
+  {
+   "year": "1996",
+   "title": "Maoist insurgency",
+   "text": "Until 2006."
+  },
+  {
+   "year": "2008",
+   "title": "Republic",
+   "text": "The monarchy ends."
+  },
+  {
+   "year": "2015",
+   "title": "Earthquake",
+   "text": "About 9,000 die."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gurkha",
+   "meaning": "Nepali soldiers serving in the British and Indian armies."
+  },
+  {
+   "term": "Republic",
+   "meaning": "A country with an elected head of state instead of a monarch."
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "status": "draft",
+ "intro": "Bhutan, the 'Land of the Thunder Dragon', is a Himalayan Buddhist kingdom that stayed independent and isolated for centuries and measures success by Gross National Happiness.",
+ "chapters": [
+  {
+   "id": "buddhism",
+   "title": "Buddhism arrives",
+   "text": [
+    "Buddhism came to Bhutan in the 600s and 700s. Guru Rinpoche, a revered teacher, is said to have flown to the cliff where Taktsang, the Tiger's Nest monastery, now stands."
+   ],
+   "related": [
+    "IND",
+    "CHN"
+   ]
+  },
+  {
+   "id": "zhabdrung",
+   "title": "Zhabdrung and the dzongs",
+   "text": [
+    "In 1616 a Tibetan lama, Zhabdrung Ngawang Namgyal, arrived and united Bhutan. He built dzongs, huge fortress-monasteries that still serve as centres of religion and government, and fought off Tibetan invasions."
+   ],
+   "related": [
+    "CHN"
+   ]
+  },
+  {
+   "id": "monarchy",
+   "title": "Kings and democracy",
+   "text": [
+    "In 1907 Ugyen Wangchuck became the first hereditary king. Bhutan kept itself closed to outsiders; television and the internet only arrived in 1999.",
+    "In 2008 the fourth king gave up absolute power and Bhutan became a constitutional monarchy with elections. In the 1990s many Nepali-speaking Lhotshampa people were forced to leave."
+   ],
+   "highlight": {
+    "title": "Happiness",
+    "text": "The fourth king said Gross National Happiness matters more than Gross National Product."
+   },
+   "related": [
+    "NPL",
+    "IND"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 747",
+   "title": "Guru Rinpoche",
+   "text": "Buddhism spreads."
+  },
+  {
+   "year": "1616",
+   "title": "Zhabdrung",
+   "text": "Unites Bhutan."
+  },
+  {
+   "year": "1907",
+   "title": "Monarchy",
+   "text": "Ugyen Wangchuck becomes king."
+  },
+  {
+   "year": "1974",
+   "title": "Tourism",
+   "text": "First foreign tourists."
+  },
+  {
+   "year": "1999",
+   "title": "TV and internet",
+   "text": "Arrive in Bhutan."
+  },
+  {
+   "year": "2008",
+   "title": "Democracy",
+   "text": "First elections."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dzong",
+   "meaning": "A fortress-monastery."
+  },
+  {
+   "term": "Gross National Happiness",
+   "meaning": "Bhutan's way of measuring progress by well-being."
+  }
+ ]
+}

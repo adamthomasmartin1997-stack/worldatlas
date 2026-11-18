@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "Nepal has about 30 million people from over 100 ethnic and caste groups, speaking more than 120 languages.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "Many peoples",
+   "text": [
+    "Nepali is the official language. Groups include Chhetri, Brahmin, Magar, Tharu, Tamang, Newar and Sherpa. Most people are Hindu, with a large Buddhist minority.",
+    "Millions of Nepalis work abroad in the Gulf, Malaysia and India."
+   ],
+   "related": [
+    "IND",
+    "QAT",
+    "MYS"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Life",
+   "text": [
+    "Most people live in villages and farm. Kathmandu is the largest city."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sherpa",
+   "meaning": "A mountain people famous as Himalayan guides."
+  }
+ ]
+}

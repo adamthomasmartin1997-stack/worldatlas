@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "The Maldives is the world's lowest country, with about 1,200 coral islands in 26 atolls.",
+ "chapters": [
+  {
+   "id": "atolls",
+   "title": "Atolls",
+   "text": [
+    "An atoll is a ring of coral islands around a lagoon. About 200 islands are lived on, and many others are resorts.",
+    "The average height is about 1.5 m above sea level, and the highest natural point is only about 2.4 m."
+   ],
+   "related": [
+    "IND",
+    "LKA"
+   ]
+  },
+  {
+   "id": "sea",
+   "title": "Rising seas",
+   "text": [
+    "Rising sea levels threaten the islands, and warming water bleaches coral. The government has built an artificial, higher island, Hulhumalé."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Atoll",
+   "meaning": "A ring of coral islands around a lagoon."
+  },
+  {
+   "term": "Coral bleaching",
+   "meaning": "When warm water makes coral lose its colour and can kill it."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of the Maldives' landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Malé",
+    "kind": "capital island",
+    "lat": 4.175,
+    "lon": 73.51,
+    "text": "A whole city on one small island."
+   },
+   {
+    "name": "Hulhumalé",
+    "kind": "artificial island",
+    "lat": 4.21,
+    "lon": 73.54,
+    "text": "Built higher to cope with rising seas."
+   },
+   {
+    "name": "North Malé Atoll",
+    "kind": "atoll",
+    "lat": 4.4,
+    "lon": 73.5,
+    "text": "Resorts and surf breaks."
+   },
+   {
+    "name": "Baa Atoll",
+    "kind": "biosphere reserve",
+    "lat": 5.2,
+    "lon": 73.0,
+    "text": "Manta rays gather at Hanifaru Bay."
+   },
+   {
+    "name": "Ari Atoll",
+    "kind": "atoll",
+    "lat": 3.9,
+    "lon": 72.85,
+    "text": "Whale sharks all year."
+   },
+   {
+    "name": "Fuvahmulah",
+    "kind": "island",
+    "lat": -0.3,
+    "lon": 73.43,
+    "text": "Tiger sharks and freshwater lakes."
+   },
+   {
+    "name": "Addu Atoll",
+    "kind": "southern atoll",
+    "lat": -0.63,
+    "lon": 73.15,
+    "text": "Below the equator."
+   }
+  ]
+ }
+}

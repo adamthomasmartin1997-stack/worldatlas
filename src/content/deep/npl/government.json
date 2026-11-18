@@ -1,0 +1,93 @@
+{
+ "status": "draft",
+ "intro": "Nepal is a federal parliamentary republic under a constitution adopted in 2015.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Parliament chooses the prime minister; the president is head of state. There are seven provinces. Coalitions change often, and Nepal has had many prime ministers since 2008."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Kathmandu"
+    },
+    {
+     "label": "Republic since",
+     "value": "2008"
+    },
+    {
+     "label": "Provinces",
+     "value": "7"
+    }
+   ]
+  },
+  {
+   "id": "2025",
+   "title": "Gen Z protests",
+   "text": [
+    "In September 2025, protests sparked by a social media ban forced the government out. Former chief justice Sushila Karki became interim prime minister ahead of new elections."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Interim",
+   "meaning": "Temporary, until something permanent is arranged."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by parliament and provinces",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Chosen by parliament",
+     "text": "Leads the government."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "275 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "59 members",
+     "text": "The upper house."
+    },
+    {
+     "title": "Provinces",
+     "subtitle": "7 provinces",
+     "text": "Each with its own assembly."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is tabled",
+    "text": "In either house."
+   },
+   {
+    "title": "Both houses",
+    "text": "Debate and pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Certifies it."
+   }
+  ]
+ }
+}

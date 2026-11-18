@@ -1,0 +1,94 @@
+{
+ "status": "draft",
+ "intro": "Bhutan climbs from subtropical foothills to Himalayan peaks over 7,000 m.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Valleys and peaks",
+   "text": [
+    "Gangkhar Puensum, about 7,570 m, is the highest unclimbed mountain in the world, as climbing high peaks is banned. Most people live in deep river valleys.",
+    "Over 70% of the land is forest."
+   ],
+   "related": [
+    "CHN",
+    "IND"
+   ]
+  },
+  {
+   "id": "carbon",
+   "title": "Carbon negative",
+   "text": [
+    "Bhutan's forests absorb more carbon dioxide than the country produces, making it one of very few carbon-negative countries."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Carbon negative",
+   "meaning": "Removing more carbon dioxide than you produce."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Bhutan's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Paro and Tiger's Nest",
+    "kind": "cliff monastery",
+    "lat": 27.49,
+    "lon": 89.36,
+    "text": "A monastery clinging to a cliff."
+   },
+   {
+    "name": "Thimphu",
+    "kind": "capital",
+    "lat": 27.47,
+    "lon": 89.64,
+    "text": "A capital with no traffic lights."
+   },
+   {
+    "name": "Dochula Pass",
+    "kind": "mountain pass",
+    "lat": 27.49,
+    "lon": 89.75,
+    "text": "108 stupas and Himalayan views."
+   },
+   {
+    "name": "Punakha",
+    "kind": "river valley",
+    "lat": 27.58,
+    "lon": 89.86,
+    "text": "A dzong where two rivers meet."
+   },
+   {
+    "name": "Phobjikha Valley",
+    "kind": "glacial valley",
+    "lat": 27.46,
+    "lon": 90.18,
+    "text": "Black-necked cranes in winter."
+   },
+   {
+    "name": "Bumthang",
+    "kind": "valleys",
+    "lat": 27.55,
+    "lon": 90.75,
+    "text": "Bhutan's spiritual heartland."
+   },
+   {
+    "name": "Gangkhar Puensum",
+    "kind": "mountain",
+    "lat": 28.05,
+    "lon": 90.45,
+    "text": "The highest unclimbed peak."
+   },
+   {
+    "name": "Royal Manas",
+    "kind": "national park",
+    "lat": 26.8,
+    "lon": 90.9,
+    "text": "Tigers and elephants."
+   }
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Bhutan has fewer than 800,000 people, mostly Buddhist.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Dzongkha is the national language, and English is used in schools. Most people are Drukpa Kagyu Buddhists; the Lhotshampa in the south are mostly Hindu.",
+    "People wear national dress, the gho for men and the kira for women, at work and in official places."
+   ],
+   "related": [
+    "NPL"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Life",
+   "text": [
+    "Thimphu, the capital, has no traffic lights; police direct traffic by hand."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gho",
+   "meaning": "A knee-length robe worn by men."
+  }
+ ]
+}

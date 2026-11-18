@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "The Maldives has around half a million people, about a third of them in the crowded capital, Malé.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Maldivians speak Dhivehi, written in a script called Thaana that runs right to left. All citizens must be Muslim.",
+    "Many foreign workers, especially from Bangladesh and India, work in building and tourism."
+   ],
+   "related": [
+    "BGD",
+    "IND"
+   ]
+  },
+  {
+   "id": "male",
+   "title": "Malé",
+   "text": [
+    "Malé is one of the most densely populated cities in the world, packed onto one small island."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dhivehi",
+   "meaning": "The language of the Maldives."
+  }
+ ]
+}

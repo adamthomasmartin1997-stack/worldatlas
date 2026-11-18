@@ -1,0 +1,132 @@
+{
+ "status": "draft",
+ "intro": "Nepali culture blends Hindu and Buddhist traditions, with countless festivals and temples.",
+ "chapters": [
+  {
+   "id": "faith",
+   "title": "Gods and goddesses",
+   "text": [
+    "The Kumari, a girl worshipped as a living goddess, lives in Kathmandu. Pashupatinath and the Boudhanath stupa are holy sites. Nepal's flag is the only national flag that is not a rectangle."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Dal bhat (lentils and rice) is eaten twice a day. Momos, steamed dumplings, are everywhere."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Stupa",
+   "meaning": "A dome-shaped Buddhist shrine."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Himalaya",
+     "subtitle": "1999 · Eric Valli",
+     "text": "A yak caravan in Dolpo; Oscar-nominated."
+    },
+    {
+     "title": "Kalo Pothi",
+     "subtitle": "2015 · Min Bahadur Bham",
+     "text": "Two boys search for a lost hen."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Muna Madan",
+     "subtitle": "1930 · Laxmi Prasad Devkota",
+     "text": "A much-loved Nepali poem."
+    },
+    {
+     "title": "Palpasa Café",
+     "subtitle": "2005 · Narayan Wagle",
+     "text": "A love story during the civil war."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Resham Firiri",
+     "subtitle": "Folk song",
+     "text": "Nepal's best-known folk tune."
+    },
+    {
+     "title": "Narayan Gopal",
+     "subtitle": "Singer",
+     "text": "The 'king of voices'."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Dal bhat",
+     "subtitle": "Everywhere",
+     "text": "Lentil soup with rice."
+    },
+    {
+     "title": "Momos",
+     "subtitle": "Everywhere",
+     "text": "Steamed dumplings."
+    },
+    {
+     "title": "Sel roti",
+     "subtitle": "Festivals",
+     "text": "Ring-shaped rice bread."
+    },
+    {
+     "title": "Yomari",
+     "subtitle": "Newar festivals",
+     "text": "Sweet steamed dumplings."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Holi",
+    "text": "Festival of colours."
+   },
+   {
+    "month": 4,
+    "name": "Nepali New Year",
+    "text": "Mid-April."
+   },
+   {
+    "month": 9,
+    "name": "Indra Jatra",
+    "text": "The Kumari's chariot procession."
+   },
+   {
+    "month": 10,
+    "name": "Dashain",
+    "text": "The biggest festival, with kites and swings."
+   },
+   {
+    "month": 11,
+    "name": "Tihar",
+    "text": "Festival of lights, honouring crows, dogs and cows."
+   }
+  ]
+ }
+}

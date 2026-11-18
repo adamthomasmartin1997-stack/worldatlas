@@ -1,0 +1,108 @@
+{
+ "status": "draft",
+ "intro": "Nepal rises from steamy lowlands to the roof of the world in just about 150 km, with eight of the world's ten highest mountains.",
+ "chapters": [
+  {
+   "id": "himalaya",
+   "title": "The Himalayas",
+   "text": [
+    "Mount Everest, called Sagarmatha in Nepali, is the highest point on Earth at 8,849 m, on the border with China. Kangchenjunga, Lhotse, Makalu, Cho Oyu, Dhaulagiri, Manaslu and Annapurna are also in or on the edge of Nepal.",
+    "The Himalayas are still rising as India pushes into Asia, which also causes earthquakes."
+   ],
+   "related": [
+    "CHN",
+    "IND"
+   ]
+  },
+  {
+   "id": "terai",
+   "title": "Hills and the Terai",
+   "text": [
+    "The middle hills hold Kathmandu and most towns. The Terai, flat lowlands along India, has rice fields and jungles where tigers and one-horned rhinos live in Chitwan National Park."
+   ],
+   "related": [
+    "IND"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Terai",
+   "meaning": "Nepal's flat southern lowlands."
+  },
+  {
+   "term": "Tectonic plate",
+   "meaning": "A giant slab of the Earth's crust."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Nepal's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Mount Everest",
+    "kind": "mountain",
+    "lat": 27.99,
+    "lon": 86.93,
+    "text": "The highest point on Earth, 8,849 m."
+   },
+   {
+    "name": "Annapurna",
+    "kind": "mountains",
+    "lat": 28.6,
+    "lon": 83.82,
+    "text": "A famous trekking circuit."
+   },
+   {
+    "name": "Pokhara",
+    "kind": "lake city",
+    "lat": 28.21,
+    "lon": 83.99,
+    "text": "Phewa Lake with mountain views."
+   },
+   {
+    "name": "Upper Mustang",
+    "kind": "high desert",
+    "lat": 29.18,
+    "lon": 83.97,
+    "text": "A former kingdom behind the mountains."
+   },
+   {
+    "name": "Kathmandu Valley",
+    "kind": "temple cities",
+    "lat": 27.7,
+    "lon": 85.32,
+    "text": "Seven World Heritage monuments."
+   },
+   {
+    "name": "Chitwan",
+    "kind": "jungle",
+    "lat": 27.5,
+    "lon": 84.33,
+    "text": "Rhinos and tigers."
+   },
+   {
+    "name": "Lumbini",
+    "kind": "birthplace of the Buddha",
+    "lat": 27.47,
+    "lon": 83.28,
+    "text": "A pilgrimage site."
+   },
+   {
+    "name": "Rara Lake",
+    "kind": "mountain lake",
+    "lat": 29.53,
+    "lon": 82.08,
+    "text": "Nepal's largest lake."
+   },
+   {
+    "name": "Kangchenjunga",
+    "kind": "mountain",
+    "lat": 27.7,
+    "lon": 88.15,
+    "text": "The world's third-highest peak."
+   }
+  ]
+ }
+}

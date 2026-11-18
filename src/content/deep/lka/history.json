@@ -1,0 +1,112 @@
+{
+ "status": "draft",
+ "intro": "Sri Lanka is an island nation with over 2,000 years of written history, ancient Buddhist kingdoms, and a long struggle with colonial rule and civil war.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Ancient kingdoms",
+   "text": [
+    "Sinhalese kingdoms ruled from Anuradhapura for over a thousand years from about the 300s BC. Buddhism arrived around 250 BC, and huge white stupas and irrigation reservoirs called tanks were built.",
+    "In the 400s King Kashyapa built a palace on top of Sigiriya, a giant rock, with painted maidens on its walls. Later kingdoms ruled from Polonnaruwa and Kandy, while a Tamil kingdom ruled Jaffna in the north."
+   ],
+   "related": [
+    "IND"
+   ]
+  },
+  {
+   "id": "colonial",
+   "title": "Three colonial powers",
+   "text": [
+    "The Portuguese arrived in 1505 and the Dutch took over the coast in the 1600s. Britain took control in 1796 and in 1815 captured Kandy, the last independent kingdom. The island, called Ceylon, became famous for tea grown by Tamil workers brought from India.",
+    "Ceylon became independent in 1948, and in 1960 Sirimavo Bandaranaike became the world's first woman prime minister."
+   ],
+   "highlight": {
+    "title": "A world first",
+    "text": "Sirimavo Bandaranaike became the world's first elected woman prime minister in 1960."
+   },
+   "related": [
+    "PRT",
+    "NLD",
+    "GBR",
+    "IND"
+   ]
+  },
+  {
+   "id": "war",
+   "title": "Civil war and recovery",
+   "text": [
+    "Tensions between the Sinhalese majority and the Tamil minority grew after independence. From 1983 to 2009 the government fought the Tamil Tigers, who wanted a separate state in the north and east. Around 100,000 people or more died.",
+    "The 2004 tsunami killed over 30,000 people. In 2022 an economic collapse led protesters to storm the president's house, and he fled."
+   ],
+   "related": [
+    "IND"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 377 BC",
+   "title": "Anuradhapura",
+   "text": "Becomes the capital."
+  },
+  {
+   "year": "c. 250 BC",
+   "title": "Buddhism",
+   "text": "Arrives from India."
+  },
+  {
+   "year": "477",
+   "title": "Sigiriya",
+   "text": "A palace on a rock."
+  },
+  {
+   "year": "1505",
+   "title": "Portuguese",
+   "text": "Arrive on the coast."
+  },
+  {
+   "year": "1815",
+   "title": "Kandy falls",
+   "text": "Britain rules the whole island."
+  },
+  {
+   "year": "1948",
+   "title": "Independence",
+   "text": "4 February."
+  },
+  {
+   "year": "1972",
+   "title": "Sri Lanka",
+   "text": "Ceylon becomes Sri Lanka."
+  },
+  {
+   "year": "1983",
+   "title": "Civil war",
+   "text": "Until 2009."
+  },
+  {
+   "year": "2004",
+   "title": "Tsunami",
+   "text": "Devastates the coast."
+  },
+  {
+   "year": "2022",
+   "title": "Aragalaya",
+   "text": "Protests oust the president."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tank",
+   "meaning": "In Sri Lanka, an ancient reservoir for irrigation."
+  },
+  {
+   "term": "Ceylon",
+   "meaning": "Sri Lanka's name until 1972."
+  },
+  {
+   "term": "Aragalaya",
+   "meaning": "Sinhala for 'struggle': the 2022 protests."
+  }
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "The Maldives is a chain of coral islands in the Indian Ocean whose sultans ruled for over 800 years.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Seafarers and cowrie shells",
+   "text": [
+    "Early settlers came from South Asia and were Buddhist. The islands were famous for cowrie shells, used as money across Asia and Africa."
+   ],
+   "related": [
+    "IND",
+    "LKA"
+   ]
+  },
+  {
+   "id": "sultanate",
+   "title": "The sultanate",
+   "text": [
+    "In 1153 the king converted to Islam, and sultans ruled until 1968. The Portuguese held Malé briefly in the 1500s, and Britain protected the islands from 1887."
+   ],
+   "related": [
+    "PRT",
+    "GBR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence",
+   "text": [
+    "The Maldives became independent in 1965 and a republic in 1968. Tourism began in the 1970s. Democracy arrived with multi-party elections in 2008, and the 2004 tsunami hit many islands."
+   ],
+   "highlight": {
+    "title": "Underwater cabinet",
+    "text": "In 2009 the cabinet met underwater in scuba gear to warn the world about rising seas."
+   }
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1153",
+   "title": "Islam",
+   "text": "The king converts."
+  },
+  {
+   "year": "1558",
+   "title": "Portuguese",
+   "text": "Hold Malé until 1573."
+  },
+  {
+   "year": "1887",
+   "title": "British protection",
+   "text": "Until 1965."
+  },
+  {
+   "year": "1965",
+   "title": "Independence",
+   "text": "26 July."
+  },
+  {
+   "year": "1968",
+   "title": "Republic",
+   "text": "The sultanate ends."
+  },
+  {
+   "year": "2004",
+   "title": "Tsunami",
+   "text": "Floods many islands."
+  },
+  {
+   "year": "2008",
+   "title": "Democracy",
+   "text": "First multi-party elections."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cowrie",
+   "meaning": "A small shell once used as money."
+  },
+  {
+   "term": "Sultan",
+   "meaning": "A Muslim ruler."
+  }
+ ]
+}

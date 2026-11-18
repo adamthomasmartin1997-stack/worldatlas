@@ -1,0 +1,60 @@
+{
+ "status": "draft",
+ "intro": "Sri Lanka is famous for tea, clothing exports and tourism, and is recovering from its 2022 crisis.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Ceylon tea, clothing, rubber and spices like cinnamon are major exports. Tourism and money from Sri Lankans abroad are important."
+   ]
+  },
+  {
+   "id": "crisis",
+   "title": "Crisis and recovery",
+   "text": [
+    "In 2022 Sri Lanka ran out of money for fuel and food imports and defaulted on its debts. With IMF help, the economy has begun to recover."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Default",
+   "meaning": "Failing to repay debts on time."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Sri Lanka",
+   "items": [
+    {
+     "title": "Tea",
+     "subtitle": "Hill country",
+     "text": "Ceylon tea is famous worldwide."
+    },
+    {
+     "title": "Clothing",
+     "subtitle": "Factories",
+     "text": "Lingerie and sportswear for big brands."
+    },
+    {
+     "title": "Rubber",
+     "subtitle": "Lowlands",
+     "text": "Gloves and tyres."
+    },
+    {
+     "title": "Cinnamon",
+     "subtitle": "South",
+     "text": "True cinnamon comes from Sri Lanka."
+    },
+    {
+     "title": "Gems",
+     "subtitle": "Ratnapura",
+     "text": "Sapphires and other gems."
+    }
+   ],
+   "intro": "Some of the things Sri Lanka makes and sells to the world."
+  }
+ ]
+}

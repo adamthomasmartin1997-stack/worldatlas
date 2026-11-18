@@ -1,0 +1,84 @@
+{
+ "status": "draft",
+ "intro": "Football is the most popular sport in the Maldives, and its sea is a world-class surfing and diving spot.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Maldives won the South Asian (SAFF) Championship in 2008 and 2018."
+   ]
+  },
+  {
+   "id": "sea",
+   "title": "Sea sports",
+   "text": [
+    "Surfing, diving and swimming are popular, and swimmers have represented the country at the Olympics."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "SAFF",
+   "meaning": "The South Asian Football Federation."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Dhivehi Premier League",
+     "subtitle": "Football",
+     "text": "Top clubs from Malé."
+    },
+    {
+     "title": "Surfing",
+     "subtitle": "Atolls",
+     "text": "International contests."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Ali Ashfaq",
+     "subtitle": "Football",
+     "text": "Record goal-scorer, 'the King'."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where the Maldives' biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "National Football Stadium, Malé",
+    "kind": "venue",
+    "lat": 4.17,
+    "lon": 73.51,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2008",
+    "title": "SAFF champions",
+    "text": "A first title."
+   },
+   {
+    "year": "2018",
+    "title": "SAFF again",
+    "text": "Beat India."
+   }
+  ]
+ }
+}
