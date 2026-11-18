@@ -455,3 +455,37 @@ a.chip:hover { color: var(--ink); background: var(--sun); transform: translate(2
 .deep-steps h3 { margin: 0 0 var(--space-1); font-size: var(--text-base); }
 .deep-steps p { margin: 0; }
 .deep-extra { display: contents; }
+
+/* Data: compare two countries */
+.compare-tool { display: grid; gap: var(--space-4); }
+.compare-tool h2 { margin: 0; }
+.compare-tool .segmented { margin-bottom: 0; }
+.compare-pickers { display: flex; flex-wrap: wrap; gap: var(--space-3); align-items: end; }
+.compare-pickers .field { max-width: none; }
+.compare-swap { flex: 0 0 auto; }
+.compare-pairs { display: flex; flex-wrap: wrap; gap: var(--space-2); align-items: center; }
+.chip-btn { cursor: pointer; font: inherit; font-weight: 700; min-height: var(--touch); transition: transform var(--ease), box-shadow var(--ease); }
+.chip-btn:hover { background: var(--tint-green); }
+.chip-btn.on { background: var(--sun); box-shadow: 2px 2px 0 var(--ink); }
+.takeaways { margin: 0; padding: var(--space-4); list-style: none; display: grid; gap: var(--space-2); background: var(--tint-green); border: var(--outline); border-radius: var(--radius-control); font-weight: 600; }
+.takeaways li { padding-left: var(--space-6); position: relative; max-width: 70ch; }
+.takeaways li::before { content: ''; position: absolute; left: 0; top: 0.45em; width: 12px; height: 12px; border: 2px solid var(--ink); border-radius: 4px; background: var(--sun); }
+.compare-sub { margin: var(--space-4) 0 0; }
+.compare-table th:first-child { width: 34%; }
+.compare-table td.is-more { background: var(--tint-green); font-weight: 700; }
+.compare-next { display: flex; flex-wrap: wrap; gap: var(--space-3); margin: 0; }
+.multi-readout { display: flex; flex-wrap: wrap; gap: var(--space-1) var(--space-4); align-items: baseline; }
+.multi-readout-item { display: inline-flex; align-items: center; gap: var(--space-2); }
+.multi-readout-item strong { font-size: var(--text-base); }
+.legend-line { display: inline-block; width: 22px; height: 0; border-top: 3px solid var(--ink); }
+.legend-line.line-1 { border-top: 3px dashed var(--green); }
+.chart-line.line-1 { stroke: var(--green); stroke-dasharray: 8 5; }
+.chart-dot.dot-1 { fill: var(--green); }
+@media (max-width: 639px) {
+  .compare-pickers .field { flex: 1 1 100%; }
+  .compare-pairs { flex-wrap: nowrap; overflow-x: auto; padding: 2px 4px 6px 2px; margin: 0 -4px 0 -2px; }
+  .compare-pairs .chip-btn { flex: 0 0 auto; white-space: nowrap; }
+  .bar-chart { min-width: 0; }
+  .bar-chart th { width: 6.5rem; white-space: normal; }
+  .compare-swap { width: 100%; justify-content: center; }
+}
