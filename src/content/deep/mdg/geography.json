@@ -1,0 +1,97 @@
+{
+ "status": "draft",
+ "intro": "Madagascar split from India about 88 million years ago, and most of its plants and animals evolved in isolation.",
+ "chapters": [
+  {
+   "id": "wildlife",
+   "title": "Unique wildlife",
+   "text": [
+    "All wild lemurs live only in Madagascar, along with fossas, chameleons and baobab trees. About 90% of its wildlife is found nowhere else."
+   ],
+   "related": [
+    "IND",
+    "MOZ"
+   ]
+  },
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "Highlands run down the middle; the east has rainforest, the west dry forest and the 'Avenue of the Baobabs', and the south spiny forest. The Tsingy are forests of razor-sharp limestone."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lemur",
+   "meaning": "A primate found only in Madagascar."
+  },
+  {
+   "term": "Tsingy",
+   "meaning": "Sharp limestone pinnacles."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Madagascar's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Ankarana",
+    "kind": "tsingy",
+    "lat": -12.9,
+    "lon": 49.1,
+    "text": "Limestone pinnacles."
+   },
+   {
+    "name": "Nosy Be",
+    "kind": "island",
+    "lat": -13.33,
+    "lon": 48.27,
+    "text": "Beaches and ylang-ylang."
+   },
+   {
+    "name": "Tsingy de Bemaraha",
+    "kind": "stone forest",
+    "lat": -18.7,
+    "lon": 44.7,
+    "text": "Razor-sharp rocks."
+   },
+   {
+    "name": "Avenue of the Baobabs",
+    "kind": "baobabs",
+    "lat": -20.25,
+    "lon": 44.42,
+    "text": "Giant trees."
+   },
+   {
+    "name": "Andasibe",
+    "kind": "rainforest",
+    "lat": -18.93,
+    "lon": 48.42,
+    "text": "Indri lemurs sing."
+   },
+   {
+    "name": "Antananarivo",
+    "kind": "capital",
+    "lat": -18.88,
+    "lon": 47.51,
+    "text": "A hill city."
+   },
+   {
+    "name": "Isalo",
+    "kind": "sandstone",
+    "lat": -22.55,
+    "lon": 45.37,
+    "text": "Canyons and pools."
+   },
+   {
+    "name": "Ranomafana",
+    "kind": "rainforest",
+    "lat": -21.25,
+    "lon": 47.42,
+    "text": "Golden bamboo lemurs."
+   }
+  ]
+ }
+}

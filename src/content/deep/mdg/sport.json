@@ -1,0 +1,84 @@
+{
+ "status": "draft",
+ "intro": "Rugby union is Madagascar's national sport, and football is popular too.",
+ "chapters": [
+  {
+   "id": "rugby",
+   "title": "Rugby",
+   "text": [
+    "Rugby draws big crowds in Antananarivo."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Barea reached the AFCON quarter-finals on debut in 2019 and the African Nations Championship final in 2025."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Barea",
+   "meaning": "The national football team, named after a zebu."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Rugby",
+     "subtitle": "National sport",
+     "text": "Clubs in Tana."
+    },
+    {
+     "title": "Football",
+     "subtitle": "Barea",
+     "text": "AFCON debut 2019."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Faneva Ima Andriatsima",
+     "subtitle": "Football",
+     "text": "A top striker."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Madagascar's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Mahamasina Stadium",
+    "kind": "venue",
+    "lat": -18.92,
+    "lon": 47.53,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2019",
+    "title": "AFCON quarter-final",
+    "text": "On debut."
+   },
+   {
+    "year": "2025",
+    "title": "CHAN final",
+    "text": "Runners-up."
+   }
+  ]
+ }
+}

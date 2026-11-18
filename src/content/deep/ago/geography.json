@@ -1,0 +1,81 @@
+{
+ "status": "draft",
+ "intro": "Angola has a long Atlantic coast, a high central plateau and the Namib Desert in the south.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "The Kalandula Falls are among Africa's largest waterfalls. The Okavango and Zambezi rivers rise in the eastern highlands. Cabinda, an oil-rich exclave, lies north of the Congo River."
+   ],
+   "related": [
+    "COD",
+    "COG",
+    "ZMB",
+    "NAM"
+   ]
+  },
+  {
+   "id": "wildlife",
+   "title": "Wildlife",
+   "text": [
+    "The giant sable antelope, found only in Angola, was once thought extinct."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Exclave",
+   "meaning": "Land separated from the main country."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Angola's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Luanda",
+    "kind": "capital",
+    "lat": -8.84,
+    "lon": 13.23,
+    "text": "A waterfront city."
+   },
+   {
+    "name": "Kalandula Falls",
+    "kind": "waterfall",
+    "lat": -9.07,
+    "lon": 16.0,
+    "text": "Huge falls."
+   },
+   {
+    "name": "Pedras Negras",
+    "kind": "rock towers",
+    "lat": -9.7,
+    "lon": 15.6,
+    "text": "Black rock formations."
+   },
+   {
+    "name": "Tundavala Gap",
+    "kind": "cliff edge",
+    "lat": -14.8,
+    "lon": 13.4,
+    "text": "A 1,000 m drop."
+   },
+   {
+    "name": "Iona National Park",
+    "kind": "desert park",
+    "lat": -16.5,
+    "lon": 12.3,
+    "text": "The Namib's north."
+   },
+   {
+    "name": "Cabinda",
+    "kind": "exclave",
+    "lat": -5.5,
+    "lon": 12.2,
+    "text": "An oil-rich enclave."
+   }
+  ]
+ }
+}

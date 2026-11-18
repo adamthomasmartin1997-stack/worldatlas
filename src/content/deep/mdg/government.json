@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Madagascar is a republic that has faced repeated political crises.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The constitution provides for an elected president and parliament. After the October 2025 crisis, Colonel Michael Randrianirina took power and promised a transition."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Antananarivo"
+    },
+    {
+     "label": "Independence",
+     "value": "1960"
+    },
+    {
+     "label": "Languages",
+     "value": "Malagasy, French"
+    }
+   ]
+  },
+  {
+   "id": "protest",
+   "title": "Gen Z protests",
+   "text": [
+    "The 2025 protests began over water and power cuts."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Transition",
+   "meaning": "A temporary period of government."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected",
+     "text": "Head of state."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed",
+     "text": "Leads the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "Elected",
+     "text": "The lower house."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "Partly appointed",
+     "text": "The upper house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Parliament",
+    "text": "Debates and passes it."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it."
+   }
+  ]
+ }
+}

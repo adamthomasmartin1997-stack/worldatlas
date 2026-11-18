@@ -1,0 +1,75 @@
+{
+ "status": "draft",
+ "intro": "Malagasy culture blends Southeast Asian and African roots.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "The valiha, a tube zither made of bamboo, is the national instrument. Hira gasy are open-air shows of music, dance and speeches."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Rice is eaten at every meal; romazava (meat and greens stew) is the national dish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Valiha",
+   "meaning": "A bamboo tube zither."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Salegy",
+     "subtitle": "Dance music",
+     "text": "Fast northern rhythm."
+    },
+    {
+     "title": "Rossy",
+     "subtitle": "Singer",
+     "text": "A popular star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Romazava",
+     "subtitle": "Everywhere",
+     "text": "Meat and leafy greens."
+    },
+    {
+     "title": "Ravitoto",
+     "subtitle": "Everywhere",
+     "text": "Cassava leaves with pork."
+    },
+    {
+     "title": "Mofo gasy",
+     "subtitle": "Breakfast",
+     "text": "Rice cakes."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 6,
+    "name": "Independence Day",
+    "text": "26 June."
+   }
+  ]
+ }
+}

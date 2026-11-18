@@ -1,0 +1,61 @@
+{
+ "status": "draft",
+ "intro": "Cameroon has a varied economy of oil, timber, cocoa and coffee.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Oil, timber, cocoa, coffee, bananas and cotton are exported. Douala's port serves Chad and the Central African Republic."
+   ],
+   "related": [
+    "TCD",
+    "CAF",
+    "FRA",
+    "CHN"
+   ]
+  },
+  {
+   "id": "farming",
+   "title": "Farming",
+   "text": [
+    "Most people farm, growing plantains, cassava and maize."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Timber",
+   "meaning": "Wood used for building."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Cameroon",
+   "items": [
+    {
+     "title": "Oil",
+     "subtitle": "Coast",
+     "text": "A top export."
+    },
+    {
+     "title": "Cocoa",
+     "subtitle": "South",
+     "text": "A big producer."
+    },
+    {
+     "title": "Timber",
+     "subtitle": "Rainforest",
+     "text": "Logged and exported."
+    },
+    {
+     "title": "Bananas",
+     "subtitle": "Coast",
+     "text": "Sold to Europe."
+    }
+   ],
+   "intro": "Some of the things Cameroon makes and sells to the world."
+  }
+ ]
+}

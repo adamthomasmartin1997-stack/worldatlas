@@ -1,0 +1,81 @@
+{
+ "status": "draft",
+ "intro": "Cameroon is called 'Africa in miniature' for its variety of landscapes and peoples. It was ruled by Germany, then split between France and Britain.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Early peoples",
+   "text": [
+    "Bantu languages are thought to have spread across Africa from the area around Cameroon and Nigeria. Kingdoms like Bamum, whose King Njoya invented a script, flourished in the west."
+   ],
+   "related": [
+    "NGA"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "German, French and British rule",
+   "text": [
+    "Germany colonised Kamerun in 1884. After World War One it was divided between France and Britain. French Cameroon became independent in 1960, and the southern British part joined it in 1961."
+   ],
+   "related": [
+    "DEU",
+    "FRA",
+    "GBR",
+    "NGA"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Since independence",
+   "text": [
+    "Paul Biya has been president since 1982, one of the world's longest-serving leaders, and was declared winner again in 2025. Since 2016 a conflict in the English-speaking regions has killed thousands, and Boko Haram attacks the far north."
+   ],
+   "related": [
+    "NGA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1884",
+   "title": "Kamerun",
+   "text": "German colony."
+  },
+  {
+   "year": "1916",
+   "title": "Divided",
+   "text": "Between France and Britain."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "1 January."
+  },
+  {
+   "year": "1961",
+   "title": "Reunification",
+   "text": "Southern Cameroons joins."
+  },
+  {
+   "year": "1982",
+   "title": "Biya",
+   "text": "Becomes president."
+  },
+  {
+   "year": "2016",
+   "title": "Anglophone crisis",
+   "text": "Conflict begins."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Anglophone",
+   "meaning": "English-speaking."
+  },
+  {
+   "term": "Francophone",
+   "meaning": "French-speaking."
+  }
+ ]
+}

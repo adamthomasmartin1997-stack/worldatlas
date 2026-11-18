@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Madagascar has about 31 million people, mostly young and rural.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Malagasy and French are official. The Merina live in the highlands; there are around 18 main groups. Many people follow Christianity along with respect for ancestors."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "tana",
+   "title": "Antananarivo",
+   "text": [
+    "Antananarivo, or 'Tana', is the capital, built on hills."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Famadihana",
+   "meaning": "A ceremony of rewrapping ancestors' remains."
+  }
+ ]
+}

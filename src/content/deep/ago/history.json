@@ -1,0 +1,87 @@
+{
+ "status": "draft",
+ "intro": "Angola was a Portuguese colony for centuries and endured a long civil war before peace came in 2002.",
+ "chapters": [
+  {
+   "id": "kingdoms",
+   "title": "Kongo and Ndongo",
+   "text": [
+    "The Kingdom of Kongo ruled the north, and the Ndongo kingdom gave Angola its name, from the title ngola. Queen Nzinga resisted the Portuguese for decades in the 1600s."
+   ],
+   "highlight": {
+    "title": "Queen Nzinga",
+    "text": "A brilliant diplomat and war leader, now a national heroine."
+   },
+   "related": [
+    "COD",
+    "PRT"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Portuguese Angola",
+   "text": [
+    "Portugal founded Luanda in 1576. Millions of enslaved Angolans were shipped to Brazil. In 1961 liberation movements began fighting Portuguese rule."
+   ],
+   "related": [
+    "PRT",
+    "BRA"
+   ]
+  },
+  {
+   "id": "war",
+   "title": "Independence and civil war",
+   "text": [
+    "Angola became independent in 1975, but the MPLA and UNITA fought a civil war drawing in the Soviet Union, Cuba, the US and South Africa. It ended in 2002 after UNITA's leader was killed."
+   ],
+   "related": [
+    "CUB",
+    "USA",
+    "ZAF",
+    "RUS"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1483",
+   "title": "Portuguese arrive",
+   "text": "Contact with Kongo."
+  },
+  {
+   "year": "1576",
+   "title": "Luanda",
+   "text": "Founded."
+  },
+  {
+   "year": "1624",
+   "title": "Queen Nzinga",
+   "text": "Begins her reign."
+  },
+  {
+   "year": "1961",
+   "title": "Liberation war",
+   "text": "Begins."
+  },
+  {
+   "year": "1975",
+   "title": "Independence",
+   "text": "11 November."
+  },
+  {
+   "year": "2002",
+   "title": "Peace",
+   "text": "Civil war ends."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "MPLA",
+   "meaning": "The ruling party since independence."
+  },
+  {
+   "term": "UNITA",
+   "meaning": "The former rebel movement, now the main opposition."
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "South Sudan is a presidential republic under a transitional peace agreement.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "President Salva Kiir has led since independence. Elections have been delayed several times. In 2025 Riek Machar was arrested and charged, threatening the peace deal."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Juba"
+    },
+    {
+     "label": "Independence",
+     "value": "2011"
+    },
+    {
+     "label": "UN member",
+     "value": "Since 2011"
+    }
+   ]
+  },
+  {
+   "id": "un",
+   "title": "UN mission",
+   "text": [
+    "A UN peacekeeping mission protects civilians."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Transitional",
+   "meaning": "Temporary, before a permanent arrangement."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Since 2011",
+     "text": "Head of state."
+    },
+    {
+     "title": "Vice Presidents",
+     "subtitle": "Several",
+     "text": "Under the peace deal."
+    },
+    {
+     "title": "Transitional Legislative Assembly",
+     "subtitle": "Appointed",
+     "text": "The parliament."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government."
+   },
+   {
+    "title": "Assembly",
+    "text": "Debates and passes it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

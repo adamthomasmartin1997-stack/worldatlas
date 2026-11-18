@@ -1,0 +1,89 @@
+{
+ "status": "draft",
+ "intro": "Basketball and football are Angola's favourite sports.",
+ "chapters": [
+  {
+   "id": "basketball",
+   "title": "Basketball",
+   "text": [
+    "Angola has won the African basketball championship a record 11 times."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Palancas Negras played at the 2006 World Cup."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Palancas Negras",
+   "meaning": "'Black Sable Antelopes', the national team."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Girabola",
+     "subtitle": "Football",
+     "text": "Petro de Luanda is a top club."
+    },
+    {
+     "title": "Basketball",
+     "subtitle": "Clubs",
+     "text": "Petro and Primeiro de Agosto."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Akwá",
+     "subtitle": "Football",
+     "text": "Scored to reach the 2006 World Cup."
+    },
+    {
+     "title": "Bruno Fernando",
+     "subtitle": "Basketball",
+     "text": "An NBA player."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Angola's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estádio 11 de Novembro",
+    "kind": "venue",
+    "lat": -8.94,
+    "lon": 13.27,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2006",
+    "title": "World Cup",
+    "text": "A first appearance."
+   },
+   {
+    "year": "2010",
+    "title": "AFCON host",
+    "text": "Angola hosts."
+   }
+  ]
+ }
+}

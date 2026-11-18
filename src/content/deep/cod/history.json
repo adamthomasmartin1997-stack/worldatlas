@@ -1,0 +1,107 @@
+{
+ "status": "draft",
+ "intro": "The Democratic Republic of the Congo is Africa's second-largest country, rich in rainforest and minerals but scarred by colonial brutality and war.",
+ "chapters": [
+  {
+   "id": "kingdoms",
+   "title": "Kingdoms of the Congo",
+   "text": [
+    "The Kingdom of Kongo, near the river's mouth, traded with Portugal from the 1480s, and its king became Christian. Inland, the Luba and Lunda kingdoms and the Kuba, famous for their textiles, flourished."
+   ],
+   "related": [
+    "AGO",
+    "PRT"
+   ]
+  },
+  {
+   "id": "leopold",
+   "title": "Leopold's Congo",
+   "text": [
+    "In 1885 King Leopold II of Belgium made the Congo his personal property. Forced labour to collect rubber, enforced with cutting off hands, caused millions of deaths. International outrage forced Belgium to take over the colony in 1908."
+   ],
+   "highlight": {
+    "title": "A human disaster",
+    "text": "Leopold's Congo Free State became one of the worst colonial atrocities in history."
+   },
+   "related": [
+    "BEL"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence and Mobutu",
+   "text": [
+    "Congo became independent in 1960 with Patrice Lumumba as prime minister; he was murdered in 1961 with Belgian and US involvement. Mobutu Sese Seko seized power in 1965, renamed the country Zaire and ruled for 32 years."
+   ],
+   "related": [
+    "BEL",
+    "USA"
+   ]
+  },
+  {
+   "id": "war",
+   "title": "Wars",
+   "text": [
+    "Wars from 1996 to 2003, involving many African countries, caused millions of deaths, mainly from disease and hunger. Fighting continues in the east, where the M23 rebel group seized Goma and Bukavu in 2025."
+   ],
+   "related": [
+    "RWA",
+    "UGA",
+    "AGO",
+    "ZWE"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1482",
+   "title": "Portuguese arrive",
+   "text": "Contact with Kongo."
+  },
+  {
+   "year": "1885",
+   "title": "Congo Free State",
+   "text": "Leopold's personal colony."
+  },
+  {
+   "year": "1908",
+   "title": "Belgian Congo",
+   "text": "Belgium takes over."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "30 June."
+  },
+  {
+   "year": "1961",
+   "title": "Lumumba killed",
+   "text": "17 January."
+  },
+  {
+   "year": "1965",
+   "title": "Mobutu",
+   "text": "Seizes power."
+  },
+  {
+   "year": "1996",
+   "title": "Wars",
+   "text": "First and Second Congo Wars."
+  },
+  {
+   "year": "2025",
+   "title": "M23",
+   "text": "Takes Goma."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Zaire",
+   "meaning": "The country's name from 1971 to 1997."
+  },
+  {
+   "term": "Congo Free State",
+   "meaning": "Leopold II's private colony."
+  }
+ ]
+}

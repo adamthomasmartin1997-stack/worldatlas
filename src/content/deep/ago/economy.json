@@ -1,0 +1,62 @@
+{
+ "status": "draft",
+ "intro": "Oil and diamonds dominate Angola's economy.",
+ "chapters": [
+  {
+   "id": "oil",
+   "title": "Oil",
+   "text": [
+    "Angola is one of Africa's top oil producers; oil makes up most exports. It is also a major diamond producer.",
+    "The Lobito Corridor railway is being upgraded to carry minerals to the coast."
+   ],
+   "related": [
+    "CHN",
+    "USA",
+    "COD",
+    "ZMB"
+   ]
+  },
+  {
+   "id": "farming",
+   "title": "Farming",
+   "text": [
+    "Coffee was once a big export and is being revived."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Corridor",
+   "meaning": "A transport route."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Angola",
+   "items": [
+    {
+     "title": "Oil",
+     "subtitle": "Offshore",
+     "text": "Most exports."
+    },
+    {
+     "title": "Diamonds",
+     "subtitle": "Lunda",
+     "text": "A top producer."
+    },
+    {
+     "title": "Coffee",
+     "subtitle": "Highlands",
+     "text": "Being revived."
+    },
+    {
+     "title": "Fish",
+     "subtitle": "Coast",
+     "text": "Rich fisheries."
+    }
+   ],
+   "intro": "Some of the things Angola makes and sells to the world."
+  }
+ ]
+}

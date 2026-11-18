@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "South Sudanese culture is centred on cattle, songs and community.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Cattle songs celebrate favourite animals. Scarification marks once showed which group a person belonged to."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Kisra flatbread, asida porridge and stews are common."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cattle camp",
+   "meaning": "A camp where herders live with their cattle."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Emmanuel Jal",
+     "subtitle": "Musician",
+     "text": "A former child soldier turned rapper."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Kisra",
+     "subtitle": "Everywhere",
+     "text": "Sour flatbread."
+    },
+    {
+     "title": "Asida",
+     "subtitle": "Everywhere",
+     "text": "A thick grain porridge."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "9 July."
+   }
+  ]
+ }
+}

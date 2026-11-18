@@ -1,0 +1,93 @@
+{
+ "status": "draft",
+ "intro": "DR Congo is a presidential republic struggling with conflict in the east.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for five years; Félix Tshisekedi has led since 2019. In 2025 a US-brokered peace deal was signed with Rwanda."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Kinshasa"
+    },
+    {
+     "label": "Independence",
+     "value": "1960"
+    },
+    {
+     "label": "Provinces",
+     "value": "26"
+    }
+   ],
+   "related": [
+    "RWA",
+    "USA",
+    "QAT"
+   ]
+  },
+  {
+   "id": "un",
+   "title": "UN mission",
+   "text": [
+    "A large UN peacekeeping mission has operated for over two decades."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Peace deal",
+   "meaning": "An agreement to end fighting."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 5 years",
+     "text": "Head of state."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed",
+     "text": "Leads the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "500 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "Elected by provinces",
+     "text": "The upper house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Both houses",
+    "text": "Debate and pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it."
+   }
+  ]
+ }
+}

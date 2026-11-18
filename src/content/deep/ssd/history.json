@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "South Sudan is the world's newest country, independent since 2011 after decades of war with Sudan.",
+ "chapters": [
+  {
+   "id": "peoples",
+   "title": "Nilotic peoples",
+   "text": [
+    "Dinka, Nuer, Shilluk, Azande and many other peoples have lived along the White Nile and its swamps for centuries, mostly as cattle herders and farmers."
+   ],
+   "related": [
+    "SDN",
+    "UGA",
+    "ETH"
+   ]
+  },
+  {
+   "id": "sudan",
+   "title": "Part of Sudan",
+   "text": [
+    "Under Anglo-Egyptian rule the south was run separately. After Sudan's independence in 1956, southerners fought two long civil wars against the northern government, in which about two million people died."
+   ],
+   "related": [
+    "SDN",
+    "EGY",
+    "GBR"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence and conflict",
+   "text": [
+    "In a 2011 referendum, almost 99% of southerners voted to separate, and South Sudan became independent on 9 July 2011. A civil war broke out in 2013 between forces loyal to President Salva Kiir and Vice-President Riek Machar. A 2018 peace deal brought a fragile unity government, but tensions rose again in 2025."
+   ],
+   "highlight": {
+    "title": "Newest country",
+    "text": "South Sudan is the most recent country to join the United Nations."
+   }
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1955",
+   "title": "First civil war",
+   "text": "Until 1972."
+  },
+  {
+   "year": "1983",
+   "title": "Second civil war",
+   "text": "Until 2005."
+  },
+  {
+   "year": "2005",
+   "title": "Peace agreement",
+   "text": "Self-rule for the south."
+  },
+  {
+   "year": "2011",
+   "title": "Independence",
+   "text": "9 July."
+  },
+  {
+   "year": "2013",
+   "title": "Civil war",
+   "text": "Within the new state."
+  },
+  {
+   "year": "2018",
+   "title": "Peace deal",
+   "text": "A unity government follows."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Referendum",
+   "meaning": "A public vote."
+  },
+  {
+   "term": "Nilotic",
+   "meaning": "Peoples of the Nile valley."
+  }
+ ]
+}

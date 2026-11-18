@@ -1,0 +1,63 @@
+{
+ "status": "draft",
+ "intro": "DR Congo produces most of the world's cobalt, vital for phone and car batteries.",
+ "chapters": [
+  {
+   "id": "minerals",
+   "title": "Minerals",
+   "text": [
+    "The south produces about three-quarters of the world's cobalt and large amounts of copper. Coltan, gold and diamonds are mined too, sometimes funding armed groups.",
+    "Despite this wealth, most people are very poor."
+   ],
+   "related": [
+    "CHN"
+   ]
+  },
+  {
+   "id": "power",
+   "title": "Power",
+   "text": [
+    "The Inga Falls could produce huge amounts of hydroelectricity."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cobalt",
+   "meaning": "A metal used in batteries."
+  },
+  {
+   "term": "Coltan",
+   "meaning": "An ore used in electronics."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in DR Congo",
+   "items": [
+    {
+     "title": "Cobalt",
+     "subtitle": "Katanga",
+     "text": "Most of the world's supply."
+    },
+    {
+     "title": "Copper",
+     "subtitle": "Katanga",
+     "text": "A top producer."
+    },
+    {
+     "title": "Coltan",
+     "subtitle": "East",
+     "text": "Used in electronics."
+    },
+    {
+     "title": "Diamonds",
+     "subtitle": "Kasai",
+     "text": "Industrial diamonds."
+    }
+   ],
+   "intro": "Some of the things DR Congo makes and sells to the world."
+  }
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "South Sudan has about 12 million people from over 60 ethnic groups.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Dinka and Nuer are the largest groups. English is official, and Juba Arabic is widely used. Most people are Christian or follow traditional beliefs.",
+    "Cattle are central to life and wealth."
+   ]
+  },
+  {
+   "id": "displaced",
+   "title": "Displaced",
+   "text": [
+    "Millions have fled conflict and floods, and many refugees from Sudan have arrived since 2023."
+   ],
+   "related": [
+    "SDN",
+    "UGA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dinka",
+   "meaning": "The largest ethnic group."
+  }
+ ]
+}

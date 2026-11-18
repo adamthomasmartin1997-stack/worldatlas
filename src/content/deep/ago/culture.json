@@ -1,0 +1,94 @@
+{
+ "status": "draft",
+ "intro": "Angola gave the world kizomba and semba music and dance.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music",
+   "text": [
+    "Semba is the root of Brazilian samba. Kizomba and kuduro are popular dance styles."
+   ],
+   "related": [
+    "BRA"
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Muamba de galinha (chicken in palm oil sauce) and funge (cassava porridge) are national dishes."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kizomba",
+   "meaning": "A romantic partner dance."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Mayombe",
+     "subtitle": "1980 · Pepetela",
+     "text": "Guerrilla fighters in the forest."
+    },
+    {
+     "title": "A General Theory of Oblivion",
+     "subtitle": "2012 · José Eduardo Agualusa",
+     "text": "A woman shuts herself away."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Bonga",
+     "subtitle": "Singer",
+     "text": "A semba legend."
+    },
+    {
+     "title": "Kuduro",
+     "subtitle": "Music",
+     "text": "Fast Luanda dance music."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Muamba de galinha",
+     "subtitle": "Everywhere",
+     "text": "Chicken in palm oil."
+    },
+    {
+     "title": "Funge",
+     "subtitle": "Everywhere",
+     "text": "Cassava porridge."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Carnival",
+    "text": "Parades in Luanda."
+   },
+   {
+    "month": 11,
+    "name": "Independence Day",
+    "text": "11 November."
+   }
+  ]
+ }
+}

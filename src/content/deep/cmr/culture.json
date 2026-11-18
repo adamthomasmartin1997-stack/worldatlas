@@ -1,0 +1,112 @@
+{
+ "status": "draft",
+ "intro": "Cameroon's culture is famous for makossa music and its many traditions.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music",
+   "text": [
+    "Manu Dibango's 'Soul Makossa' became a global hit. Bikutsi is a fast dance rhythm from the centre."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Ndolé (bitterleaf stew), poulet DG and grilled fish are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Makossa",
+   "meaning": "Cameroonian dance music."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Quartier Mozart",
+     "subtitle": "1992 · Jean-Pierre Bekolo",
+     "text": "A playful Yaoundé tale."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Houseboy",
+     "subtitle": "1956 · Ferdinand Oyono",
+     "text": "A servant under colonial rule."
+    },
+    {
+     "title": "Behold the Dreamers",
+     "subtitle": "2016 · Imbolo Mbue",
+     "text": "A Cameroonian family in New York."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Soul Makossa",
+     "subtitle": "Manu Dibango, 1972",
+     "text": "A global hit."
+    },
+    {
+     "title": "Richard Bona",
+     "subtitle": "Bassist",
+     "text": "A jazz star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Ndolé",
+     "subtitle": "Everywhere",
+     "text": "Bitterleaf and peanut stew."
+    },
+    {
+     "title": "Poulet DG",
+     "subtitle": "Celebrations",
+     "text": "Chicken with plantains."
+    },
+    {
+     "title": "Eru",
+     "subtitle": "South-west",
+     "text": "Leafy stew."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Youth Day",
+    "text": "11 February."
+   },
+   {
+    "month": 5,
+    "name": "National Day",
+    "text": "20 May."
+   },
+   {
+    "month": 12,
+    "name": "Ngondo",
+    "text": "Sawa people's festival in Douala."
+   }
+  ]
+ }
+}

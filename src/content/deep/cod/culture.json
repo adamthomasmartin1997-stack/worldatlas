@@ -1,0 +1,107 @@
+{
+ "status": "draft",
+ "intro": "Congolese music has set dance floors moving across Africa for decades.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Rumba",
+   "text": [
+    "Congolese rumba, played by Franco and Papa Wemba, is on UNESCO's list. Les Sapeurs are famous for their stylish suits."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Fufu, pondu (cassava leaves) and grilled fish are everyday foods."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sapeur",
+   "meaning": "A member of a stylish fashion movement."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Viva Riva!",
+     "subtitle": "2010 · Djo Tunda wa Munga",
+     "text": "A Kinshasa thriller."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "King Leopold's Ghost",
+     "subtitle": "1998 · Adam Hochschild",
+     "text": "The history of the Free State."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Franco",
+     "subtitle": "OK Jazz",
+     "text": "The rumba giant."
+    },
+    {
+     "title": "Papa Wemba",
+     "subtitle": "Singer",
+     "text": "The 'king of rumba rock'."
+    },
+    {
+     "title": "Fally Ipupa",
+     "subtitle": "Singer",
+     "text": "A modern star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Fufu",
+     "subtitle": "Everywhere",
+     "text": "Cassava dough."
+    },
+    {
+     "title": "Pondu",
+     "subtitle": "Everywhere",
+     "text": "Cassava leaf stew."
+    },
+    {
+     "title": "Moambe chicken",
+     "subtitle": "Everywhere",
+     "text": "Chicken in palm butter."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 6,
+    "name": "Independence Day",
+    "text": "30 June."
+   },
+   {
+    "month": 1,
+    "name": "Martyrs' Day",
+    "text": "4 January."
+   }
+  ]
+ }
+}

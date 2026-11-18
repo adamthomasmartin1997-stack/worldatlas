@@ -1,0 +1,118 @@
+{
+ "status": "draft",
+ "intro": "Football is Cameroon's passion, and the Indomitable Lions are among Africa's most famous teams.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "In 1990 Cameroon became the first African team to reach a World Cup quarter-final, with Roger Milla dancing at the corner flag. It won Olympic gold in 2000 and five Africa Cups of Nations."
+   ],
+   "related": [
+    "ARG",
+    "ITA"
+   ]
+  },
+  {
+   "id": "athletes",
+   "title": "Athletes",
+   "text": [
+    "Françoise Mbango won two Olympic triple jump golds. Joel Embiid and Pascal Siakam star in the NBA, and Francis Ngannou became UFC heavyweight champion."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Indomitable Lions",
+   "meaning": "The national football team."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Elite One",
+     "subtitle": "Football",
+     "text": "Canon Yaoundé and Coton Sport are big clubs."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Roger Milla",
+     "subtitle": "Football",
+     "text": "World Cup star at 38 and 42."
+    },
+    {
+     "title": "Samuel Eto'o",
+     "subtitle": "Football",
+     "text": "Four-time African Footballer of the Year."
+    },
+    {
+     "title": "Françoise Mbango",
+     "subtitle": "Triple jump",
+     "text": "Two Olympic golds."
+    },
+    {
+     "title": "Joel Embiid",
+     "subtitle": "Basketball",
+     "text": "NBA MVP 2023."
+    },
+    {
+     "title": "Francis Ngannou",
+     "subtitle": "MMA",
+     "text": "UFC heavyweight champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Cameroon's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Olembe Stadium, Yaoundé",
+    "kind": "venue",
+    "lat": 3.95,
+    "lon": 11.5,
+    "text": "Built for AFCON 2021."
+   },
+   {
+    "name": "Japoma Stadium, Douala",
+    "kind": "venue",
+    "lat": 4.0,
+    "lon": 9.8,
+    "text": "A modern stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1990",
+    "title": "World Cup quarter-final",
+    "text": "A first for Africa."
+   },
+   {
+    "year": "2000",
+    "title": "Olympic gold",
+    "text": "Football in Sydney."
+   },
+   {
+    "year": "2017",
+    "title": "AFCON",
+    "text": "A fifth title."
+   }
+  ]
+ }
+}

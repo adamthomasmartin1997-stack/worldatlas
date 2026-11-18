@@ -1,0 +1,100 @@
+{
+ "status": "draft",
+ "intro": "DR Congo contains most of the Congo Basin, the world's second-largest rainforest.",
+ "chapters": [
+  {
+   "id": "river",
+   "title": "The Congo River",
+   "text": [
+    "The Congo River is the deepest in the world and second only to the Amazon in the water it carries. It crosses the equator twice. The country has only a tiny Atlantic coastline."
+   ],
+   "related": [
+    "COG",
+    "AGO",
+    "CAF",
+    "SSD",
+    "UGA",
+    "RWA",
+    "BDI",
+    "TZA",
+    "ZMB"
+   ]
+  },
+  {
+   "id": "east",
+   "title": "Volcanoes and lakes",
+   "text": [
+    "The east has Lake Tanganyika, Lake Kivu, the Rwenzori and active volcanoes like Nyiragongo. Virunga National Park shelters mountain gorillas, and bonobos live only in Congo's forests."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bonobo",
+   "meaning": "An ape closely related to chimpanzees."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of DR Congo's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Kinshasa",
+    "kind": "capital",
+    "lat": -4.32,
+    "lon": 15.31,
+    "text": "Across the river from Brazzaville."
+   },
+   {
+    "name": "Congo River rapids",
+    "kind": "rapids",
+    "lat": -4.4,
+    "lon": 15.1,
+    "text": "Livingstone Falls."
+   },
+   {
+    "name": "Salonga",
+    "kind": "rainforest park",
+    "lat": -2.0,
+    "lon": 21.0,
+    "text": "Rainforest home of bonobos."
+   },
+   {
+    "name": "Virunga",
+    "kind": "volcanic park",
+    "lat": -1.4,
+    "lon": 29.4,
+    "text": "Gorillas and volcanoes."
+   },
+   {
+    "name": "Nyiragongo",
+    "kind": "volcano",
+    "lat": -1.52,
+    "lon": 29.25,
+    "text": "A lava lake."
+   },
+   {
+    "name": "Lake Kivu",
+    "kind": "lake",
+    "lat": -2.0,
+    "lon": 29.0,
+    "text": "A deep rift lake."
+   },
+   {
+    "name": "Lubumbashi",
+    "kind": "mining city",
+    "lat": -11.66,
+    "lon": 27.48,
+    "text": "Copperbelt hub."
+   },
+   {
+    "name": "Kisangani",
+    "kind": "river city",
+    "lat": 0.52,
+    "lon": 25.2,
+    "text": "Boyoma Falls."
+   }
+  ]
+ }
+}

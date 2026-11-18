@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Angola is a presidential republic ruled by the MPLA since 1975.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The leader of the party that wins the election becomes president. João Lourenço has led since 2017."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Luanda"
+    },
+    {
+     "label": "Independence",
+     "value": "1975"
+    },
+    {
+     "label": "Language",
+     "value": "Portuguese"
+    }
+   ]
+  },
+  {
+   "id": "protest",
+   "title": "Protests",
+   "text": [
+    "Fuel price rises led to deadly protests in 2025."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ruling party",
+   "meaning": "The party in government."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Leader of the winning party",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Vice President",
+     "subtitle": "Elected with the President",
+     "text": "Second in command."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "220 members",
+     "text": "The parliament."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the President or members."
+   },
+   {
+    "title": "National Assembly",
+    "text": "Votes on it."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it."
+   }
+  ]
+ }
+}

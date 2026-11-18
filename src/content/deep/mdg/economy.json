@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Madagascar grows most of the world's vanilla.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Vanilla, cloves, nickel, cobalt and textiles are major exports. Most people farm rice. Deforestation threatens wildlife."
+   ],
+   "related": [
+    "USA",
+    "FRA"
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Wildlife tourism brings visitors to see lemurs."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Vanilla",
+   "meaning": "A spice from orchid pods."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Madagascar",
+   "items": [
+    {
+     "title": "Vanilla",
+     "subtitle": "SAVA region",
+     "text": "Most of the world's supply."
+    },
+    {
+     "title": "Cloves",
+     "subtitle": "East coast",
+     "text": "A fragrant spice."
+    },
+    {
+     "title": "Nickel and cobalt",
+     "subtitle": "Ambatovy",
+     "text": "A big mine."
+    },
+    {
+     "title": "Clothes",
+     "subtitle": "Factories",
+     "text": "Made for export."
+    }
+   ],
+   "intro": "Some of the things Madagascar makes and sells to the world."
+  }
+ ]
+}

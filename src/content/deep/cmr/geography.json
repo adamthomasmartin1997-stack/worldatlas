@@ -1,0 +1,98 @@
+{
+ "status": "draft",
+ "intro": "Cameroon has rainforest, savanna, mountains, beaches and the edge of the Sahel.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Africa in miniature",
+   "text": [
+    "Mount Cameroon, an active volcano at 4,040 m, is West Africa's highest peak. The south has rainforest, the centre plateaus, and the north savanna reaching Lake Chad.",
+    "In 1986 Lake Nyos released a cloud of carbon dioxide that killed about 1,700 people."
+   ],
+   "related": [
+    "NGA",
+    "TCD",
+    "CAF",
+    "COG",
+    "GAB",
+    "GNQ"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Debundscha, at the foot of Mount Cameroon, is one of the wettest places on Earth."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Crater lake",
+   "meaning": "A lake in a volcano's crater."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Cameroon's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Waza",
+    "kind": "savanna park",
+    "lat": 11.3,
+    "lon": 14.65,
+    "text": "Elephants and giraffes."
+   },
+   {
+    "name": "Rhumsiki",
+    "kind": "volcanic peaks",
+    "lat": 10.5,
+    "lon": 13.6,
+    "text": "Dramatic rock spires."
+   },
+   {
+    "name": "Lake Nyos",
+    "kind": "crater lake",
+    "lat": 6.44,
+    "lon": 10.3,
+    "text": "Site of a 1986 disaster."
+   },
+   {
+    "name": "Mount Cameroon",
+    "kind": "volcano",
+    "lat": 4.2,
+    "lon": 9.17,
+    "text": "West Africa's highest peak."
+   },
+   {
+    "name": "Limbe",
+    "kind": "black sand beach",
+    "lat": 4.0,
+    "lon": 9.2,
+    "text": "Below the volcano."
+   },
+   {
+    "name": "Kribi",
+    "kind": "beach and falls",
+    "lat": 2.95,
+    "lon": 9.9,
+    "text": "Waterfalls into the sea."
+   },
+   {
+    "name": "Dja",
+    "kind": "rainforest reserve",
+    "lat": 3.2,
+    "lon": 12.8,
+    "text": "Gorillas and chimps."
+   },
+   {
+    "name": "Yaoundé",
+    "kind": "capital",
+    "lat": 3.87,
+    "lon": 11.52,
+    "text": "A hilly capital."
+   }
+  ]
+ }
+}

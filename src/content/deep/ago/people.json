@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Angola has about 38 million people and a very young population.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Ovimbundu, Ambundu and Bakongo are the largest groups. Portuguese is official and widely spoken. Most people are Christian."
+   ],
+   "related": [
+    "PRT",
+    "BRA"
+   ]
+  },
+  {
+   "id": "luanda",
+   "title": "Luanda",
+   "text": [
+    "Luanda is one of Africa's largest and most expensive cities."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lusophone",
+   "meaning": "Portuguese-speaking."
+  }
+ ]
+}

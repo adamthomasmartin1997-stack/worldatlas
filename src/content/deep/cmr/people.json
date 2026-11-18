@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Cameroon has about 29 million people from over 250 ethnic groups.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "French and English are both official, and hundreds of local languages are spoken. Camfranglais mixes French, English and local words. Christianity and Islam are both widespread."
+   ],
+   "related": [
+    "FRA",
+    "GBR"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Douala is the largest city and port; Yaoundé is the capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Camfranglais",
+   "meaning": "A mixed slang."
+  }
+ ]
+}

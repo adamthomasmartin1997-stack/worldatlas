@@ -1,0 +1,76 @@
+{
+ "status": "draft",
+ "intro": "South Sudan is covered by savanna, swamps and the White Nile.",
+ "chapters": [
+  {
+   "id": "sudd",
+   "title": "The Sudd",
+   "text": [
+    "The Sudd is one of the largest wetlands in the world, a huge swamp on the White Nile. Each year one of the largest animal migrations on Earth, of antelopes like the white-eared kob, crosses the country."
+   ],
+   "related": [
+    "SDN",
+    "ETH",
+    "KEN",
+    "UGA",
+    "COD",
+    "CAF"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "A long rainy season brings floods, which have displaced many people in recent years."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Wetland",
+   "meaning": "Land covered by water for much of the year."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of South Sudan's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Juba",
+    "kind": "capital",
+    "lat": 4.85,
+    "lon": 31.6,
+    "text": "On the White Nile."
+   },
+   {
+    "name": "The Sudd",
+    "kind": "wetland",
+    "lat": 7.5,
+    "lon": 30.5,
+    "text": "A vast swamp."
+   },
+   {
+    "name": "Boma",
+    "kind": "national park",
+    "lat": 6.5,
+    "lon": 34.0,
+    "text": "Antelope migration."
+   },
+   {
+    "name": "Imatong Mountains",
+    "kind": "mountains",
+    "lat": 4.0,
+    "lon": 32.9,
+    "text": "Mount Kinyeti."
+   },
+   {
+    "name": "Wau",
+    "kind": "town",
+    "lat": 7.7,
+    "lon": 28.0,
+    "text": "A historic town."
+   }
+  ]
+ }
+}

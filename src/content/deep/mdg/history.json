@@ -1,0 +1,81 @@
+{
+ "status": "draft",
+ "intro": "Madagascar, the world's fourth-largest island, was settled by seafarers from Borneo and Africa and has wildlife found nowhere else.",
+ "chapters": [
+  {
+   "id": "settlers",
+   "title": "Settlers from afar",
+   "text": [
+    "People arrived surprisingly late, within the last 2,000 years or so. Austronesian sailors from Southeast Asia, probably from Borneo, and Bantu-speaking Africans both settled; the Malagasy language is related to languages of Borneo."
+   ],
+   "related": [
+    "IDN",
+    "MYS",
+    "MOZ"
+   ]
+  },
+  {
+   "id": "merina",
+   "title": "The Merina kingdom",
+   "text": [
+    "In the 1800s the Merina kingdom, ruled from Antananarivo, united most of the island. Queen Ranavalona I resisted European influence."
+   ],
+   "highlight": {
+    "title": "Queens",
+    "text": "Four queens ruled Madagascar in the 1800s."
+   }
+  },
+  {
+   "id": "modern",
+   "title": "French rule and independence",
+   "text": [
+    "France conquered Madagascar in 1895. A 1947 uprising was brutally crushed. Madagascar became independent in 1960. Political crises have been frequent; in October 2025 youth protests and a military unit forced President Andry Rajoelina out."
+   ],
+   "related": [
+    "FRA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 500",
+   "title": "Settlement",
+   "text": "Austronesian and African settlers."
+  },
+  {
+   "year": "1817",
+   "title": "Merina kingdom",
+   "text": "Recognised by Britain."
+  },
+  {
+   "year": "1895",
+   "title": "French conquest",
+   "text": "A colony."
+  },
+  {
+   "year": "1947",
+   "title": "Uprising",
+   "text": "Crushed by France."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "26 June."
+  },
+  {
+   "year": "2025",
+   "title": "Crisis",
+   "text": "The president is ousted."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Malagasy",
+   "meaning": "The people and language of Madagascar."
+  },
+  {
+   "term": "Endemic",
+   "meaning": "Found nowhere else."
+  }
+ ]
+}

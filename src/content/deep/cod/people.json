@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "DR Congo has over 100 million people from about 250 ethnic groups.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "French is official, and Lingala, Swahili, Kikongo and Tshiluba are national languages. Most people are Christian. Kinshasa is one of the largest French-speaking cities in the world."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "young",
+   "title": "Young country",
+   "text": [
+    "The population is young and growing fast."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lingala",
+   "meaning": "A language widely used in Kinshasa and in music."
+  }
+ ]
+}

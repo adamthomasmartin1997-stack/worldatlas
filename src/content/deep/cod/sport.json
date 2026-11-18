@@ -1,0 +1,109 @@
+{
+ "status": "draft",
+ "intro": "Football and basketball are DR Congo's most popular sports.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "As Zaire, it was the first sub-Saharan African team at a World Cup, in 1974. It has won the Africa Cup of Nations twice. TP Mazembe have won the African Champions League five times."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "The 1974 'Rumble in the Jungle' fight between Muhammad Ali and George Foreman took place in Kinshasa."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Leopards",
+   "meaning": "The national football team."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Linafoot",
+     "subtitle": "Football",
+     "text": "TP Mazembe and AS Vita are giants."
+    },
+    {
+     "title": "Basketball",
+     "subtitle": "Clubs",
+     "text": "Many players in the NBA have Congolese roots."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Dikembe Mutombo",
+     "subtitle": "Basketball",
+     "text": "NBA Hall of Famer."
+    },
+    {
+     "title": "Cédric Bakambu",
+     "subtitle": "Football",
+     "text": "A striker in Europe."
+    },
+    {
+     "title": "Chancel Mbemba",
+     "subtitle": "Football",
+     "text": "National captain."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where DR Congo's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Stade des Martyrs, Kinshasa",
+    "kind": "venue",
+    "lat": -4.33,
+    "lon": 15.3,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Stade TP Mazembe",
+    "kind": "venue",
+    "lat": -11.65,
+    "lon": 27.47,
+    "text": "In Lubumbashi."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1968",
+    "title": "AFCON",
+    "text": "First title."
+   },
+   {
+    "year": "1974",
+    "title": "World Cup",
+    "text": "As Zaire; also the Rumble in the Jungle."
+   },
+   {
+    "year": "2010",
+    "title": "Mazembe",
+    "text": "Club World Cup final."
+   }
+  ]
+ }
+}

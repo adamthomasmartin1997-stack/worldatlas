@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Oil provides almost all of South Sudan's income.",
+ "chapters": [
+  {
+   "id": "oil",
+   "title": "Oil",
+   "text": [
+    "Oil is exported through a pipeline across Sudan to the Red Sea, and the war in Sudan has disrupted it. Most people rely on farming and herding."
+   ],
+   "related": [
+    "SDN",
+    "CHN"
+   ]
+  },
+  {
+   "id": "hunger",
+   "title": "Hunger",
+   "text": [
+    "Millions need food aid."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pipeline",
+   "meaning": "A pipe for oil."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in South Sudan",
+   "items": [
+    {
+     "title": "Oil",
+     "subtitle": "North",
+     "text": "Almost all exports."
+    },
+    {
+     "title": "Cattle",
+     "subtitle": "Everywhere",
+     "text": "Wealth and food."
+    },
+    {
+     "title": "Gum arabic",
+     "subtitle": "North",
+     "text": "Tree sap used in foods."
+    }
+   ],
+   "intro": "Some of the things South Sudan makes and sells to the world."
+  }
+ ]
+}

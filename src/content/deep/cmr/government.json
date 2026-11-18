@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Cameroon is a presidential republic where Paul Biya has ruled since 1982.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for seven years with no term limits. Opposition parties exist but face restrictions. The 2025 election result was disputed, leading to protests."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Yaoundé"
+    },
+    {
+     "label": "Independence",
+     "value": "1960"
+    },
+    {
+     "label": "President since",
+     "value": "1982"
+    }
+   ]
+  },
+  {
+   "id": "crisis",
+   "title": "Anglophone crisis",
+   "text": [
+    "Separatists in the North-West and South-West regions are fighting government forces."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Term limit",
+   "meaning": "A cap on time in office."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 7 years",
+     "text": "Holds most power."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed",
+     "text": "Leads the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "180 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "100 members",
+     "text": "The upper house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Parliament",
+    "text": "Both houses debate it."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it."
+   }
+  ]
+ }
+}

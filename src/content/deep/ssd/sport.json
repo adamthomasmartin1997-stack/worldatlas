@@ -1,0 +1,93 @@
+{
+ "status": "draft",
+ "intro": "Basketball has become South Sudan's greatest sporting success.",
+ "chapters": [
+  {
+   "id": "basketball",
+   "title": "Basketball",
+   "text": [
+    "The Bright Stars qualified for the 2023 Basketball World Cup and the 2024 Olympics, where they beat Puerto Rico. Luol Deng, born in Wau, helped build the programme."
+   ],
+   "related": [
+    "USA",
+    "GBR"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Football and wrestling are also popular."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bright Stars",
+   "meaning": "The national basketball team."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Basketball",
+     "subtitle": "Bright Stars",
+     "text": "An Olympic team."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Luol Deng",
+     "subtitle": "Basketball",
+     "text": "NBA All-Star."
+    },
+    {
+     "title": "Manute Bol",
+     "subtitle": "Basketball",
+     "text": "One of the tallest NBA players."
+    },
+    {
+     "title": "Carlik Jones",
+     "subtitle": "Basketball",
+     "text": "National team star."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where South Sudan's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Juba Stadium",
+    "kind": "venue",
+    "lat": 4.86,
+    "lon": 31.58,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2011",
+    "title": "Independence",
+    "text": "A new nation."
+   },
+   {
+    "year": "2024",
+    "title": "Olympics",
+    "text": "Basketball debut win."
+   }
+  ]
+ }
+}
