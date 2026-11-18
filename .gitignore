@@ -4,3 +4,4 @@ dist
 .env.*
 data/raw
 dist-artifact
+*.tsbuildinfo
