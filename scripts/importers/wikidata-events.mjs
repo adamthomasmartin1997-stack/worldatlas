@@ -67,13 +67,13 @@ for (const t of TYPES) {
 
 // 2. Details, in batches. Earlier results are reused, so a run cut short can resume.
 const prev = existsSync(OUT) ? JSON.parse(readFileSync(OUT, 'utf8')).events : [];
-const cache = new Map(prev.map((e) => [e.id, e]));
+const cache = new Map(prev.filter((e) => e.start).map((e) => [e.id, e])); // undated ones are fetched again
 const ids = [...kindOf.keys()];
 const todo = ids.filter((q) => !cache.has(q));
 const PRECISION = { 6: 'millennium', 7: 'century', 8: 'decade', 9: 'year', 10: 'month', 11: 'day' };
 /** Wikidata time "+1815-06-18T00:00:00Z" / "-0490-01-01T00:00:00Z" -> { date: "1815-06-18" | "-0490", precision }. */
 function parseTime(value, precision) {
-  const m = /^([+-])(\d+)-(\d\d)-(\d\d)/.exec(value);
+  const m = /^([+-]?)(\d+)-(\d\d)-(\d\d)/.exec(value); // the query service drops the "+" on AD dates
   if (!m) return null;
   const year = (m[1] === '-' ? -1 : 1) * Number(m[2]);
   const p = Number(precision);
@@ -83,8 +83,9 @@ function parseTime(value, precision) {
 }
 const REL = { P17: 'country', P710: 'participants', P361: 'partOf', P828: 'causes', P1542: 'effects', P155: 'follows', P156: 'followedBy', P276: 'location', P1365: 'replaces', P1366: 'replacedBy' };
 
-for (let i = 0; i < todo.length; i += 60) {
-  const batch = todo.slice(i, i + 60);
+const BATCH = 100;
+for (let i = 0; i < todo.length; i += BATCH) {
+  const batch = todo.slice(i, i + BATCH);
   const values = batch.map((q) => 'wd:' + q).join(' ');
   const ev = new Map(batch.map((q) => [q, { id: q, kind: kindOf.get(q), label: null, description: null, sitelinks: 0, article: null, start: null, end: null, coords: null, links: {} }]));
 
@@ -120,8 +121,8 @@ for (let i = 0; i < todo.length; i += 60) {
     if (!(e.links[key] ??= []).some((x) => x.id === o.id)) e.links[key].push(o);
   }
   for (const e of ev.values()) cache.set(e.id, e);
-  console.log(`details ${Math.min(i + 60, todo.length)}/${todo.length}`);
-  if ((i / 60) % 10 === 9) save(); // checkpoint every 600 events
+  console.log(`details ${Math.min(i + BATCH, todo.length)}/${todo.length}`);
+  if ((i / BATCH) % 5 === 4) save(); // checkpoint every 500 events
 }
 
 // 3. Modern countries concerned, then keep only usable, dated events.
