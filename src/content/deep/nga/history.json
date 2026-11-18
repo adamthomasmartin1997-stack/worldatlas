@@ -1,0 +1,117 @@
+{
+ "status": "draft",
+ "intro": "Nigeria is Africa's most populous country, home to ancient kingdoms famous for their art. It became independent from Britain in 1960.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Nok and the great kingdoms",
+   "text": [
+    "The Nok culture made striking terracotta sculptures over 2,000 years ago. Later, the Yoruba city of Ife produced lifelike bronze and terracotta heads, and the Kingdom of Benin became famous for its bronze plaques and walled capital.",
+    "In the north, Hausa city-states such as Kano traded across the Sahara, and the Kanem-Bornu empire lasted about a thousand years."
+   ],
+   "related": [
+    "NER",
+    "TCD",
+    "BEN"
+   ]
+  },
+  {
+   "id": "slavery",
+   "title": "Slave trade and Sokoto",
+   "text": [
+    "From the 1500s to the 1800s European traders shipped huge numbers of enslaved people from the coast across the Atlantic.",
+    "In 1804 Usman dan Fodio led a jihad that founded the Sokoto Caliphate, one of the largest states in 19th-century Africa."
+   ],
+   "related": [
+    "GBR",
+    "PRT",
+    "BRA",
+    "USA"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "British Nigeria",
+   "text": [
+    "Britain took Lagos in 1861 and gradually conquered the region. In 1897 British troops looted Benin City, taking thousands of bronzes, some of which are now being returned. In 1914 north and south were joined as one colony, Nigeria."
+   ],
+   "highlight": {
+    "title": "Benin Bronzes",
+    "text": "Museums in Germany, Britain and elsewhere have begun returning looted Benin Bronzes."
+   },
+   "related": [
+    "GBR",
+    "DEU"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and after",
+   "text": [
+    "Nigeria became independent on 1 October 1960. The Biafran War of 1967 to 1970, when the south-east tried to break away, killed up to a million people, many from starvation. Military governments ruled for most of the years until 1999, when democracy returned.",
+    "Since 2009 the Boko Haram insurgency has caused great suffering in the north-east."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 500 BC",
+   "title": "Nok culture",
+   "text": "Terracotta sculptures."
+  },
+  {
+   "year": "1100s",
+   "title": "Ife",
+   "text": "Bronze heads."
+  },
+  {
+   "year": "1440",
+   "title": "Benin Empire",
+   "text": "Oba Ewuare expands it."
+  },
+  {
+   "year": "1804",
+   "title": "Sokoto Caliphate",
+   "text": "Founded."
+  },
+  {
+   "year": "1897",
+   "title": "Benin expedition",
+   "text": "British troops loot Benin City."
+  },
+  {
+   "year": "1914",
+   "title": "Unification",
+   "text": "Nigeria is formed."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "1 October."
+  },
+  {
+   "year": "1967",
+   "title": "Biafran War",
+   "text": "Until 1970."
+  },
+  {
+   "year": "1999",
+   "title": "Democracy",
+   "text": "Civilian rule returns."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Oba",
+   "meaning": "A king, as in the Oba of Benin."
+  },
+  {
+   "term": "Caliphate",
+   "meaning": "A state led by a caliph."
+  },
+  {
+   "term": "Biafra",
+   "meaning": "The south-eastern state that tried to break away."
+  }
+ ]
+}

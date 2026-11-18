@@ -1,0 +1,93 @@
+{
+ "status": "draft",
+ "intro": "Nigeria is a federal presidential republic of 36 states.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for four years, up to two terms; Bola Tinubu took office in 2023. The National Assembly has a Senate and a House of Representatives. Abuja replaced Lagos as capital in 1991."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Abuja"
+    },
+    {
+     "label": "States",
+     "value": "36"
+    },
+    {
+     "label": "Independence",
+     "value": "1960"
+    }
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "Insecurity in the north, kidnappings and corruption are major problems. In 2020 young people led the #EndSARS protests against police brutality."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Federal",
+   "meaning": "Power shared between national and state governments."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 4 years",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "109 members",
+     "text": "Three per state plus Abuja."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "360 members",
+     "text": "Elected in districts."
+    },
+    {
+     "title": "States",
+     "subtitle": "36 states",
+     "text": "Each with a governor."
+    },
+    {
+     "title": "Traditional rulers",
+     "subtitle": "Emirs, obas and others",
+     "text": "Respected but without formal power."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In either house."
+   },
+   {
+    "title": "Both houses",
+    "text": "Debate and pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it, or vetoes it; a two-thirds vote can override."
+   }
+  ]
+ }
+}

@@ -1,0 +1,122 @@
+{
+ "status": "draft",
+ "intro": "Ivorian culture is famous for masks, music and dance.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Masks and music",
+   "text": [
+    "Dan, Baoulé and Senufo masks are prized works of art. Coupé-décalé and zouglou are lively dance music styles from Abidjan."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Attiéké (fermented cassava couscous) with grilled fish, alloco (fried plantain) and foutou are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Coupé-décalé",
+   "meaning": "Ivorian dance music."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Black and White in Color",
+     "subtitle": "1976 · Jean-Jacques Annaud",
+     "text": "Won an Oscar for Ivory Coast."
+    },
+    {
+     "title": "Night of the Kings",
+     "subtitle": "2020 · Philippe Lacôte",
+     "text": "A storyteller in an Abidjan prison."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Aya of Yop City",
+     "subtitle": "2005 · Marguerite Abouet",
+     "text": "A graphic novel about Abidjan."
+    },
+    {
+     "title": "The Suns of Independence",
+     "subtitle": "1968 · Ahmadou Kourouma",
+     "text": "A classic novel."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Premier Gaou",
+     "subtitle": "Magic System, 1999",
+     "text": "A dance hit across Africa."
+    },
+    {
+     "title": "Alpha Blondy",
+     "subtitle": "Reggae",
+     "text": "Africa's reggae star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Attiéké",
+     "subtitle": "Everywhere",
+     "text": "Cassava couscous."
+    },
+    {
+     "title": "Alloco",
+     "subtitle": "Street food",
+     "text": "Fried plantain."
+    },
+    {
+     "title": "Garba",
+     "subtitle": "Abidjan",
+     "text": "Attiéké with fried tuna."
+    },
+    {
+     "title": "Kedjenou",
+     "subtitle": "Everywhere",
+     "text": "Slow-cooked chicken stew."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "7 August."
+   },
+   {
+    "month": 4,
+    "name": "Fête du Dipri",
+    "text": "A night festival in Gomon."
+   },
+   {
+    "month": 11,
+    "name": "Abissa",
+    "text": "The N'zima festival in Grand-Bassam."
+   }
+  ]
+ }
+}

@@ -1,0 +1,103 @@
+{
+ "status": "draft",
+ "intro": "Ghana, once called the Gold Coast, was in 1957 the first country in sub-Saharan Africa to win independence from colonial rule.",
+ "chapters": [
+  {
+   "id": "ashanti",
+   "title": "Gold and the Asante",
+   "text": [
+    "The name Ghana comes from an old empire further north, in today's Mali and Mauritania. Akan peoples grew rich from gold and kola nuts. From around 1700 the Asante (Ashanti) Empire, ruled from Kumasi, became one of the strongest states in West Africa.",
+    "The Golden Stool is the sacred symbol of the Asante nation."
+   ],
+   "related": [
+    "MLI",
+    "MRT",
+    "CIV"
+   ]
+  },
+  {
+   "id": "coast",
+   "title": "Forts and the slave trade",
+   "text": [
+    "Portuguese traders built Elmina Castle in 1482. Dutch, British, Danish and other Europeans built dozens more forts, and millions of enslaved Africans passed through 'doors of no return' on their way to the Americas.",
+    "Britain fought several wars with the Asante and made the Gold Coast a colony."
+   ],
+   "related": [
+    "PRT",
+    "NLD",
+    "GBR",
+    "DNK",
+    "USA",
+    "JAM"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Kwame Nkrumah led the independence movement, and on 6 March 1957 the Gold Coast became Ghana. Nkrumah championed African unity. He was overthrown in 1966, and coups followed until Jerry Rawlings brought a return to democracy in 1992.",
+    "Since then power has changed hands peacefully between parties several times."
+   ],
+   "highlight": {
+    "title": "First in the region",
+    "text": "Ghana's independence inspired freedom movements across Africa."
+   }
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1482",
+   "title": "Elmina Castle",
+   "text": "Built by the Portuguese."
+  },
+  {
+   "year": "c. 1701",
+   "title": "Asante Empire",
+   "text": "Founded by Osei Tutu."
+  },
+  {
+   "year": "1874",
+   "title": "Gold Coast colony",
+   "text": "British rule."
+  },
+  {
+   "year": "1957",
+   "title": "Independence",
+   "text": "6 March."
+  },
+  {
+   "year": "1960",
+   "title": "Republic",
+   "text": "Nkrumah becomes president."
+  },
+  {
+   "year": "1966",
+   "title": "Coup",
+   "text": "Nkrumah is overthrown."
+  },
+  {
+   "year": "1992",
+   "title": "Democracy",
+   "text": "A new constitution."
+  },
+  {
+   "year": "2019",
+   "title": "Year of Return",
+   "text": "Welcoming the African diaspora."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Asante",
+   "meaning": "A powerful Akan kingdom, also spelled Ashanti."
+  },
+  {
+   "term": "Golden Stool",
+   "meaning": "The sacred throne of the Asante."
+  },
+  {
+   "term": "Pan-Africanism",
+   "meaning": "The idea of unity among African peoples."
+  }
+ ]
+}

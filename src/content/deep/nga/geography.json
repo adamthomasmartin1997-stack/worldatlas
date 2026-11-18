@@ -1,0 +1,110 @@
+{
+ "status": "draft",
+ "intro": "Nigeria stretches from mangrove swamps and rainforest on the Atlantic coast to dry savanna near the Sahara.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Rivers and regions",
+   "text": [
+    "The Niger and Benue rivers meet at Lokoja and flow to the Niger Delta, one of the largest wetlands in Africa. The Jos Plateau and Mambilla Plateau rise in the centre and east; Chappal Waddi is the highest point.",
+    "The north is savanna, and Lake Chad lies in the far north-east."
+   ],
+   "related": [
+    "NER",
+    "BEN",
+    "CMR",
+    "TCD"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The south is hot and wet, the north hot and dry, with the harmattan wind blowing dust from the Sahara in winter."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Harmattan",
+   "meaning": "A dry, dusty wind from the Sahara."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Nigeria's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Lagos",
+    "kind": "megacity",
+    "lat": 6.45,
+    "lon": 3.4,
+    "text": "Africa's biggest commercial city."
+   },
+   {
+    "name": "Olumo Rock",
+    "kind": "rock",
+    "lat": 7.16,
+    "lon": 3.35,
+    "text": "A historic refuge in Abeokuta."
+   },
+   {
+    "name": "Osun-Osogbo Sacred Grove",
+    "kind": "sacred forest",
+    "lat": 7.75,
+    "lon": 4.55,
+    "text": "A forest with shrines and sculptures."
+   },
+   {
+    "name": "Niger Delta",
+    "kind": "wetland",
+    "lat": 5.0,
+    "lon": 6.2,
+    "text": "Mangroves and creeks."
+   },
+   {
+    "name": "Lokoja",
+    "kind": "river confluence",
+    "lat": 7.8,
+    "lon": 6.74,
+    "text": "Where the Niger meets the Benue."
+   },
+   {
+    "name": "Abuja and Zuma Rock",
+    "kind": "capital",
+    "lat": 9.14,
+    "lon": 7.23,
+    "text": "A giant rock near the capital."
+   },
+   {
+    "name": "Jos Plateau",
+    "kind": "plateau",
+    "lat": 9.9,
+    "lon": 8.9,
+    "text": "Cooler highlands."
+   },
+   {
+    "name": "Yankari",
+    "kind": "national park",
+    "lat": 9.75,
+    "lon": 10.5,
+    "text": "Elephants and warm springs."
+   },
+   {
+    "name": "Kano",
+    "kind": "old city",
+    "lat": 12.0,
+    "lon": 8.52,
+    "text": "Ancient walls and dye pits."
+   },
+   {
+    "name": "Obudu",
+    "kind": "mountain plateau",
+    "lat": 6.4,
+    "lon": 9.37,
+    "text": "A ranch resort on a plateau."
+   }
+  ]
+ }
+}

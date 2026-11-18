@@ -1,0 +1,122 @@
+{
+ "status": "draft",
+ "intro": "Mali is famous for its music, mud architecture and ancient manuscripts.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music",
+   "text": [
+    "Mali has given the world desert blues, kora music and stars like Salif Keita, Ali Farka Touré, Toumani Diabaté and Oumou Sangaré."
+   ]
+  },
+  {
+   "id": "heritage",
+   "title": "Heritage",
+   "text": [
+    "Timbuktu's manuscripts were smuggled to safety when militants occupied the city in 2012. Every year Djenné holds a festival to re-plaster its Great Mosque with mud."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kora",
+   "meaning": "A 21-string harp-lute."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Yeelen",
+     "subtitle": "1987 · Souleymane Cissé",
+     "text": "Won a prize at Cannes."
+    },
+    {
+     "title": "Timbuktu",
+     "subtitle": "2014 · Abderrahmane Sissako",
+     "text": "Life under militants; Oscar-nominated."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Sundiata",
+     "subtitle": "Oral epic",
+     "text": "The story of the empire's founder."
+    },
+    {
+     "title": "The Fortunes of Wangrin",
+     "subtitle": "1973 · Amadou Hampâté Bâ",
+     "text": "A colonial interpreter's tale."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Talking Timbuktu",
+     "subtitle": "Ali Farka Touré and Ry Cooder, 1994",
+     "text": "Won a Grammy."
+    },
+    {
+     "title": "Toumani Diabaté",
+     "subtitle": "Kora",
+     "text": "A kora master."
+    },
+    {
+     "title": "Tinariwen",
+     "subtitle": "Band",
+     "text": "Tuareg desert blues."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Tô",
+     "subtitle": "Everywhere",
+     "text": "Millet porridge with sauce."
+    },
+    {
+     "title": "Jollof (benachin)",
+     "subtitle": "Everywhere",
+     "text": "Rice in tomato sauce."
+    },
+    {
+     "title": "Tigadèguèna",
+     "subtitle": "Everywhere",
+     "text": "Peanut stew."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Crepissage",
+    "text": "Djenné re-plasters its mosque."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "22 September."
+   },
+   {
+    "month": 1,
+    "name": "Festival au Désert",
+    "text": "Desert music festival, now held abroad."
+   }
+  ]
+ }
+}

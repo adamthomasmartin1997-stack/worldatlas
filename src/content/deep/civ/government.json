@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Ivory Coast is a presidential republic, led by a powerful elected president.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for five years and appoints the prime minister and government. Parliament has a National Assembly and a Senate. Alassane Ouattara won a fourth term in 2025."
+   ],
+   "facts": [
+    {
+     "label": "Official capital",
+     "value": "Yamoussoukro"
+    },
+    {
+     "label": "Largest city",
+     "value": "Abidjan"
+    },
+    {
+     "label": "Independence",
+     "value": "1960"
+    }
+   ]
+  },
+  {
+   "id": "region",
+   "title": "Regional role",
+   "text": [
+    "Ivory Coast is a leading member of the West African bloc ECOWAS and uses the West African CFA franc."
+   ],
+   "related": [
+    "SEN",
+    "NGA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Term",
+   "meaning": "A fixed period in office."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 5 years",
+     "text": "Head of state."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed by the President",
+     "text": "Leads the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "255 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "Partly elected",
+     "text": "The upper house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Parliament",
+    "text": "Both houses debate it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

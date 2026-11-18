@@ -1,0 +1,154 @@
+{
+ "status": "draft",
+ "intro": "Nigerian culture is famous worldwide for Afrobeats music, Nollywood films and great writers.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Music and books",
+   "text": [
+    "Fela Kuti created Afrobeat; today Afrobeats stars like Burna Boy, Wizkid and Tems fill stadiums worldwide. Wole Soyinka was the first African to win the Nobel Prize for Literature, and Chinua Achebe's Things Fall Apart is one of the most read African novels."
+   ],
+   "related": [
+    "GBR",
+    "USA"
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Jollof rice (and friendly arguments with Ghana about whose is best), egusi soup, suya and pounded yam are favourites."
+   ],
+   "related": [
+    "GHA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Afrobeats",
+   "meaning": "Modern West African pop music."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Wedding Party",
+     "subtitle": "2016 · Kemi Adetiba",
+     "text": "A Nollywood comedy hit."
+    },
+    {
+     "title": "Lionheart",
+     "subtitle": "2018 · Genevieve Nnaji",
+     "text": "A woman runs her father's firm."
+    },
+    {
+     "title": "Mami Wata",
+     "subtitle": "2023 · C. J. Obasi",
+     "text": "A striking black-and-white myth."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Things Fall Apart",
+     "subtitle": "1958 · Chinua Achebe",
+     "text": "Life in an Igbo village as colonialism arrives."
+    },
+    {
+     "title": "Half of a Yellow Sun",
+     "subtitle": "2006 · Chimamanda Ngozi Adichie",
+     "text": "The Biafran War."
+    },
+    {
+     "title": "Death and the King's Horseman",
+     "subtitle": "1975 · Wole Soyinka",
+     "text": "A play by the Nobel winner."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Water No Get Enemy",
+     "subtitle": "Fela Kuti, 1975",
+     "text": "Afrobeat classic."
+    },
+    {
+     "title": "Essence",
+     "subtitle": "Wizkid and Tems, 2020",
+     "text": "A worldwide hit."
+    },
+    {
+     "title": "Last Last",
+     "subtitle": "Burna Boy, 2022",
+     "text": "A global Afrobeats hit."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Jollof rice",
+     "subtitle": "Everywhere",
+     "text": "Rice in tomato and pepper sauce."
+    },
+    {
+     "title": "Suya",
+     "subtitle": "Street food",
+     "text": "Spicy grilled meat skewers."
+    },
+    {
+     "title": "Egusi soup",
+     "subtitle": "Everywhere",
+     "text": "Melon-seed soup."
+    },
+    {
+     "title": "Pounded yam",
+     "subtitle": "Everywhere",
+     "text": "Smooth yam dough."
+    },
+    {
+     "title": "Puff-puff",
+     "subtitle": "Street food",
+     "text": "Fried dough balls."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 8,
+    "name": "Osun-Osogbo Festival",
+    "text": "A festival at the sacred grove."
+   },
+   {
+    "month": 10,
+    "name": "Independence Day",
+    "text": "1 October."
+   },
+   {
+    "month": 12,
+    "name": "Calabar Carnival",
+    "text": "'Africa's biggest street party'."
+   },
+   {
+    "month": 6,
+    "name": "Democracy Day",
+    "text": "12 June."
+   }
+  ]
+ }
+}

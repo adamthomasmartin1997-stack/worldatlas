@@ -1,0 +1,105 @@
+{
+ "status": "draft",
+ "intro": "Football is Mali's favourite sport, and its basketball and athletics teams have had success too.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Eagles reached the Africa Cup of Nations final in 1972. Players like Frédéric Kanouté and Seydou Keita starred in Europe."
+   ],
+   "related": [
+    "ESP",
+    "FRA"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Mali's women's basketball team has won African titles, and its youth teams have done well at world level."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Eagles",
+   "meaning": "The national football team's nickname."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Malian Première Division",
+     "subtitle": "Football",
+     "text": "Stade Malien and Djoliba are rivals."
+    },
+    {
+     "title": "Basketball",
+     "subtitle": "Women's team",
+     "text": "African champions."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Salif Keita (footballer)",
+     "subtitle": "Football",
+     "text": "First African Footballer of the Year, 1970."
+    },
+    {
+     "title": "Frédéric Kanouté",
+     "subtitle": "Football",
+     "text": "A Sevilla legend."
+    },
+    {
+     "title": "Seydou Keita",
+     "subtitle": "Football",
+     "text": "Won the Champions League with Barcelona."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Mali's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Stade du 26 Mars, Bamako",
+    "kind": "venue",
+    "lat": 12.6,
+    "lon": -7.95,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Stade Modibo Kéïta",
+    "kind": "venue",
+    "lat": 12.64,
+    "lon": -8.01,
+    "text": "A historic stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1972",
+    "title": "AFCON final",
+    "text": "Mali reach the final."
+   },
+   {
+    "year": "2002",
+    "title": "AFCON host",
+    "text": "Mali hosts the tournament."
+   }
+  ]
+ }
+}

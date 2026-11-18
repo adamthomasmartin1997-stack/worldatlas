@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Senegal's economy is based on fishing, farming, phosphates, services and now oil and gas.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Fish, peanuts, phosphates and gold are big exports. Offshore oil began flowing in 2024, and gas soon after.",
+    "Overfishing by foreign fleets has hit local fishers, and many young people have tried to reach Europe by boat."
+   ],
+   "related": [
+    "ESP",
+    "MRT"
+   ]
+  },
+  {
+   "id": "dakar",
+   "title": "Dakar",
+   "text": [
+    "Dakar is a hub for business, with a new city at Diamniadio."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Overfishing",
+   "meaning": "Catching fish faster than they can breed."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Senegal",
+   "items": [
+    {
+     "title": "Fish",
+     "subtitle": "Coast",
+     "text": "A top export."
+    },
+    {
+     "title": "Phosphates",
+     "subtitle": "Taïba",
+     "text": "Mined for fertiliser."
+    },
+    {
+     "title": "Peanuts",
+     "subtitle": "Peanut basin",
+     "text": "A traditional crop."
+    },
+    {
+     "title": "Oil and gas",
+     "subtitle": "Offshore",
+     "text": "New since 2024."
+    },
+    {
+     "title": "Gold",
+     "subtitle": "East",
+     "text": "Mined at Sabodala."
+    }
+   ],
+   "intro": "Some of the things Senegal makes and sells to the world."
+  }
+ ]
+}

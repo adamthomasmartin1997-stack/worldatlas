@@ -1,0 +1,132 @@
+{
+ "status": "draft",
+ "intro": "Football is Ghana's biggest sport, and the Black Stars have won four Africa Cups of Nations.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Ghana reached the World Cup quarter-finals in 2010, losing to Uruguay on penalties after a famous handball. The under-20s won the World Cup in 2009."
+   ],
+   "related": [
+    "URY",
+    "BRA"
+   ]
+  },
+  {
+   "id": "boxing",
+   "title": "Boxing",
+   "text": [
+    "Azumah Nelson is one of Africa's greatest boxers. Accra's Bukom district has produced many champions."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Black Stars",
+   "meaning": "The men's national team, named after the star on the flag."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Ghana Premier League",
+     "subtitle": "Football",
+     "text": "Asante Kotoko and Hearts of Oak are giants."
+    },
+    {
+     "title": "AFCON",
+     "subtitle": "Football",
+     "text": "Four titles."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Abedi Pele",
+     "subtitle": "Football",
+     "text": "Three-time African Footballer of the Year."
+    },
+    {
+     "title": "Michael Essien",
+     "subtitle": "Football",
+     "text": "A Champions League winner."
+    },
+    {
+     "title": "Asamoah Gyan",
+     "subtitle": "Football",
+     "text": "Ghana's record scorer."
+    },
+    {
+     "title": "Azumah Nelson",
+     "subtitle": "Boxing",
+     "text": "A long-reigning world champion."
+    },
+    {
+     "title": "Mohammed Kudus",
+     "subtitle": "Football",
+     "text": "A Premier League winger."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Ghana's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Accra Sports Stadium",
+    "kind": "venue",
+    "lat": 5.55,
+    "lon": -0.19,
+    "text": "Home of Hearts of Oak."
+   },
+   {
+    "name": "Baba Yara Stadium, Kumasi",
+    "kind": "venue",
+    "lat": 6.68,
+    "lon": -1.6,
+    "text": "Home of Asante Kotoko."
+   },
+   {
+    "name": "Cape Coast Stadium",
+    "kind": "venue",
+    "lat": 5.12,
+    "lon": -1.29,
+    "text": "A modern stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1963",
+    "title": "First AFCON",
+    "text": "Won at home."
+   },
+   {
+    "year": "1982",
+    "title": "Fourth AFCON",
+    "text": "Won in Libya."
+   },
+   {
+    "year": "2009",
+    "title": "Under-20 World Cup",
+    "text": "Ghana win in Egypt."
+   },
+   {
+    "year": "2010",
+    "title": "World Cup quarter-final",
+    "text": "So close to the semis."
+   }
+  ]
+ }
+}

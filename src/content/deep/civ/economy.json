@@ -1,0 +1,62 @@
+{
+ "status": "draft",
+ "intro": "Ivory Coast is the world's largest cocoa producer, growing about 40% of the world's supply.",
+ "chapters": [
+  {
+   "id": "cocoa",
+   "title": "Cocoa and more",
+   "text": [
+    "Cocoa, cashews, rubber, palm oil and coffee are big exports. Most cocoa is grown on small family farms, and child labour remains a concern.",
+    "Oil and gas discoveries offshore are boosting the economy."
+   ],
+   "related": [
+    "GHA",
+    "NLD",
+    "BEL",
+    "CHE"
+   ]
+  },
+  {
+   "id": "growth",
+   "title": "Growth",
+   "text": [
+    "The economy has been one of the fastest-growing in Africa since 2012."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Child labour",
+   "meaning": "Work that harms children's health or schooling."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Ivory Coast",
+   "items": [
+    {
+     "title": "Cocoa",
+     "subtitle": "South",
+     "text": "The world's top producer."
+    },
+    {
+     "title": "Cashews",
+     "subtitle": "North",
+     "text": "The world's top producer of raw cashews."
+    },
+    {
+     "title": "Rubber",
+     "subtitle": "South",
+     "text": "Africa's largest producer."
+    },
+    {
+     "title": "Oil",
+     "subtitle": "Baleine field",
+     "text": "A big offshore find."
+    }
+   ],
+   "intro": "Some of the things Ivory Coast makes and sells to the world."
+  }
+ ]
+}

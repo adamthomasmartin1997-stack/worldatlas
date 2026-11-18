@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Ivory Coast has about 31 million people from over 60 ethnic groups.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Groups include the Akan, Krou, Mandé and Voltaic peoples. French is official, and Dioula is widely used in markets. Christianity and Islam are both large religions.",
+    "Many people from Burkina Faso and Mali have moved here to work."
+   ],
+   "related": [
+    "BFA",
+    "MLI"
+   ]
+  },
+  {
+   "id": "abidjan",
+   "title": "Abidjan",
+   "text": [
+    "Abidjan is the biggest city and business capital; Yamoussoukro is the official capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Nouchi",
+   "meaning": "Abidjan's slang, mixing French and local languages."
+  }
+ ]
+}

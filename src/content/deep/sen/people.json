@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Senegal has about 18 million people and a reputation for hospitality, called teranga.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Wolof are the largest group, and Wolof is spoken by most people; French is official. Pulaar, Serer and Diola are also spoken. About 95% of people are Muslim, many belonging to brotherhoods like the Mourides."
+   ],
+   "related": [
+    "FRA",
+    "GMB"
+   ]
+  },
+  {
+   "id": "touba",
+   "title": "Touba",
+   "text": [
+    "Each year millions travel to the holy city of Touba for the Grand Magal pilgrimage."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Wolof",
+   "meaning": "Senegal's main language and people."
+  }
+ ]
+}

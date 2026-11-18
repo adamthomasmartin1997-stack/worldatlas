@@ -1,0 +1,141 @@
+{
+ "status": "draft",
+ "intro": "Senegal is famous for its music, wrestling, art and food.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Music and art",
+   "text": [
+    "Youssou N'Dour made mbalax music famous worldwide. The Dak'Art biennale is a leading African art show. Senghor helped found the Négritude movement celebrating Black culture."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Thieboudienne, fish and rice in tomato sauce, is the national dish and on UNESCO's list. Yassa chicken and bissap (hibiscus drink) are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mbalax",
+   "meaning": "Senegalese dance music."
+  },
+  {
+   "term": "Négritude",
+   "meaning": "A movement celebrating Black identity."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Black Girl",
+     "subtitle": "1966 · Ousmane Sembène",
+     "text": "One of the first sub-Saharan African feature films."
+    },
+    {
+     "title": "Touki Bouki",
+     "subtitle": "1973 · Djibril Diop Mambéty",
+     "text": "A young couple dreams of Paris."
+    },
+    {
+     "title": "Atlantics",
+     "subtitle": "2019 · Mati Diop",
+     "text": "Won a prize at Cannes."
+    },
+    {
+     "title": "Dahomey",
+     "subtitle": "2024 · Mati Diop",
+     "text": "Won the Golden Bear."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "So Long a Letter",
+     "subtitle": "1979 · Mariama Bâ",
+     "text": "A widow's letter to her friend."
+    },
+    {
+     "title": "The Most Secret Memory of Men",
+     "subtitle": "2021 · Mohamed Mbougar Sarr",
+     "text": "Won France's Goncourt Prize."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "7 Seconds",
+     "subtitle": "Youssou N'Dour and Neneh Cherry, 1994",
+     "text": "A worldwide hit."
+    },
+    {
+     "title": "Baaba Maal",
+     "subtitle": "Singer",
+     "text": "A star of Pulaar music."
+    },
+    {
+     "title": "Orchestra Baobab",
+     "subtitle": "Band",
+     "text": "Afro-Cuban grooves."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Thieboudienne",
+     "subtitle": "Everywhere",
+     "text": "Fish, rice and vegetables."
+    },
+    {
+     "title": "Yassa",
+     "subtitle": "Everywhere",
+     "text": "Chicken with onion and lemon."
+    },
+    {
+     "title": "Mafé",
+     "subtitle": "Everywhere",
+     "text": "Peanut stew."
+    },
+    {
+     "title": "Bissap",
+     "subtitle": "Everywhere",
+     "text": "Hibiscus drink."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Independence Day",
+    "text": "4 April."
+   },
+   {
+    "month": 5,
+    "name": "Saint-Louis Jazz Festival",
+    "text": "Music on the river island."
+   },
+   {
+    "month": 11,
+    "name": "Dak'Art",
+    "text": "Art biennale in even years."
+   }
+  ]
+ }
+}

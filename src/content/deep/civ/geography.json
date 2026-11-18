@@ -1,0 +1,96 @@
+{
+ "status": "draft",
+ "intro": "Ivory Coast has a lagoon-lined coast, rainforest in the south and savanna in the north.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Lagoons to savanna",
+   "text": [
+    "Abidjan sits on the Ébrié Lagoon. Taï National Park protects one of the last large rainforests in West Africa, home to chimpanzees that use stones as tools. The Man mountains rise in the west, and Mount Nimba is the highest point."
+   ],
+   "related": [
+    "GHA",
+    "LBR",
+    "GIN",
+    "MLI",
+    "BFA"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The south is hot and wet; the north is drier."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lagoon",
+   "meaning": "Shallow water separated from the sea by a sandbar."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Ivory Coast's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Comoé",
+    "kind": "national park",
+    "lat": 9.0,
+    "lon": -3.8,
+    "text": "A huge savanna park."
+   },
+   {
+    "name": "Korhogo",
+    "kind": "Senufo town",
+    "lat": 9.46,
+    "lon": -5.63,
+    "text": "Weavers and painters."
+   },
+   {
+    "name": "Man",
+    "kind": "mountains",
+    "lat": 7.41,
+    "lon": -7.55,
+    "text": "Waterfalls and the Dent de Man."
+   },
+   {
+    "name": "Mount Nimba",
+    "kind": "mountain",
+    "lat": 7.6,
+    "lon": -8.4,
+    "text": "The highest point."
+   },
+   {
+    "name": "Yamoussoukro",
+    "kind": "capital",
+    "lat": 6.82,
+    "lon": -5.28,
+    "text": "A giant basilica."
+   },
+   {
+    "name": "Taï National Park",
+    "kind": "rainforest",
+    "lat": 5.85,
+    "lon": -7.35,
+    "text": "Tool-using chimpanzees."
+   },
+   {
+    "name": "Abidjan",
+    "kind": "lagoon city",
+    "lat": 5.36,
+    "lon": -4.01,
+    "text": "Skyscrapers on a lagoon."
+   },
+   {
+    "name": "Grand-Bassam",
+    "kind": "colonial town",
+    "lat": 5.2,
+    "lon": -3.74,
+    "text": "The old capital."
+   }
+  ]
+ }
+}

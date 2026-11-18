@@ -1,0 +1,66 @@
+{
+ "status": "draft",
+ "intro": "Ghana is a top producer of gold and cocoa and also exports oil.",
+ "chapters": [
+  {
+   "id": "resources",
+   "title": "Gold, cocoa and oil",
+   "text": [
+    "Ghana is Africa's biggest gold producer and the world's second-largest cocoa grower after Ivory Coast. Offshore oil began flowing in 2010.",
+    "Illegal small-scale gold mining, called galamsey, has polluted rivers."
+   ],
+   "related": [
+    "CIV",
+    "CHE",
+    "NLD"
+   ]
+  },
+  {
+   "id": "services",
+   "title": "Services",
+   "text": [
+    "Banking, telecoms and tech start-ups are growing in Accra."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Galamsey",
+   "meaning": "Illegal small-scale gold mining."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Ghana",
+   "items": [
+    {
+     "title": "Gold",
+     "subtitle": "Obuasi and Tarkwa",
+     "text": "Africa's top producer."
+    },
+    {
+     "title": "Cocoa",
+     "subtitle": "Forests",
+     "text": "The world's second-largest grower."
+    },
+    {
+     "title": "Oil",
+     "subtitle": "Jubilee field",
+     "text": "Offshore since 2010."
+    },
+    {
+     "title": "Kente cloth",
+     "subtitle": "Bonwire",
+     "text": "Hand-woven."
+    },
+    {
+     "title": "Shea butter",
+     "subtitle": "North",
+     "text": "Used in cosmetics."
+    }
+   ],
+   "intro": "Some of the things Ghana makes and sells to the world."
+  }
+ ]
+}

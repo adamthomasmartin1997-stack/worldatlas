@@ -1,0 +1,106 @@
+{
+ "status": "draft",
+ "intro": "Mali was the heart of the medieval Mali Empire, whose ruler Mansa Musa is often called the richest person in history, and of the learned city of Timbuktu.",
+ "chapters": [
+  {
+   "id": "ghana",
+   "title": "Early cities and empires",
+   "text": [
+    "Djenné-Djenno was one of the oldest towns in sub-Saharan Africa, settled around 250 BC. The Ghana Empire grew rich on the gold and salt trade across the Sahara."
+   ],
+   "related": [
+    "MRT",
+    "SEN"
+   ]
+  },
+  {
+   "id": "mali",
+   "title": "The Mali Empire",
+   "text": [
+    "Around 1235 Sundiata Keita founded the Mali Empire, celebrated in the Epic of Sundiata. In 1324 Mansa Musa travelled to Mecca with so much gold that he lowered its price in Cairo for years.",
+    "Timbuktu became a centre of Islamic learning with libraries of manuscripts, and Djenné's Great Mosque is the world's largest mud-brick building."
+   ],
+   "highlight": {
+    "title": "Mansa Musa",
+    "text": "His wealth made the Mali Empire famous as far away as Europe, where maps showed him holding a gold nugget."
+   },
+   "related": [
+    "EGY",
+    "SAU",
+    "SEN",
+    "GIN"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Songhai, France and independence",
+   "text": [
+    "The Songhai Empire took over in the 1400s until Morocco invaded in 1591. France conquered the region in the late 1800s. Mali became independent in 1960.",
+    "Since 2012 Mali has faced a rebellion in the north and armed Islamist groups. The army seized power in 2020 and 2021, and French and UN troops left."
+   ],
+   "related": [
+    "MAR",
+    "FRA",
+    "BFA",
+    "NER",
+    "RUS"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 250 BC",
+   "title": "Djenné-Djenno",
+   "text": "An early town."
+  },
+  {
+   "year": "c. 1235",
+   "title": "Mali Empire",
+   "text": "Founded by Sundiata Keita."
+  },
+  {
+   "year": "1324",
+   "title": "Mansa Musa",
+   "text": "His pilgrimage to Mecca."
+  },
+  {
+   "year": "1464",
+   "title": "Songhai",
+   "text": "Sonni Ali's empire."
+  },
+  {
+   "year": "1591",
+   "title": "Moroccan invasion",
+   "text": "Songhai falls."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "22 September."
+  },
+  {
+   "year": "2012",
+   "title": "Crisis",
+   "text": "Rebellion in the north."
+  },
+  {
+   "year": "2020",
+   "title": "Coup",
+   "text": "The army takes power."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mansa",
+   "meaning": "Emperor in the Mali Empire."
+  },
+  {
+   "term": "Griot",
+   "meaning": "A West African storyteller and musician who keeps history alive."
+  },
+  {
+   "term": "Manuscript",
+   "meaning": "A handwritten book."
+  }
+ ]
+}

@@ -1,0 +1,144 @@
+{
+ "status": "draft",
+ "intro": "Ghanaian culture is known for kente cloth, highlife music and lively festivals.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Kente and highlife",
+   "text": [
+    "Kente, a brightly woven cloth, was once worn only by royalty. Highlife music mixes guitars and horns, and hiplife and Afrobeats are popular today. Adinkra symbols carry proverbs."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Jollof rice, fufu with light soup, banku with tilapia, kelewele (spicy fried plantain) and waakye are favourites."
+   ],
+   "related": [
+    "NGA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kente",
+   "meaning": "A woven silk and cotton cloth."
+  },
+  {
+   "term": "Adinkra",
+   "meaning": "Symbols that stand for ideas and proverbs."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Love Brewed in the African Pot",
+     "subtitle": "1980 · Kwaw Ansah",
+     "text": "A classic Ghanaian film."
+    },
+    {
+     "title": "Beasts of No Nation",
+     "subtitle": "2015 · Cary Fukunaga",
+     "text": "Filmed in Ghana."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Beautyful Ones Are Not Yet Born",
+     "subtitle": "1968 · Ayi Kwei Armah",
+     "text": "Corruption after independence."
+    },
+    {
+     "title": "Homegoing",
+     "subtitle": "2016 · Yaa Gyasi",
+     "text": "Two sisters' families across 300 years."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Highlife",
+     "subtitle": "E. T. Mensah",
+     "text": "The 'king of highlife'."
+    },
+    {
+     "title": "Sarkodie",
+     "subtitle": "Rapper",
+     "text": "A hiplife star."
+    },
+    {
+     "title": "Black Sherif",
+     "subtitle": "Singer",
+     "text": "A young star of Ghanaian drill."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Jollof rice",
+     "subtitle": "Everywhere",
+     "text": "Spicy tomato rice."
+    },
+    {
+     "title": "Fufu",
+     "subtitle": "Everywhere",
+     "text": "Pounded cassava and plantain."
+    },
+    {
+     "title": "Banku and tilapia",
+     "subtitle": "Coast",
+     "text": "Fermented dough with fish."
+    },
+    {
+     "title": "Kelewele",
+     "subtitle": "Street food",
+     "text": "Spiced fried plantain."
+    },
+    {
+     "title": "Waakye",
+     "subtitle": "Breakfast",
+     "text": "Rice and beans."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Independence Day",
+    "text": "6 March."
+   },
+   {
+    "month": 8,
+    "name": "Homowo",
+    "text": "The Ga harvest festival."
+   },
+   {
+    "month": 5,
+    "name": "Aboakyer",
+    "text": "A deer-hunting festival in Winneba."
+   },
+   {
+    "month": 12,
+    "name": "Chale Wote",
+    "text": "A street art festival in Accra."
+   }
+  ]
+ }
+}

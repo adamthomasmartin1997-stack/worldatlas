@@ -1,0 +1,131 @@
+{
+ "status": "draft",
+ "intro": "Wrestling and football are Senegal's great sports.",
+ "chapters": [
+  {
+   "id": "wrestling",
+   "title": "Laamb",
+   "text": [
+    "Laamb, traditional wrestling with punches allowed, draws huge crowds, and top wrestlers are national stars."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Lions of Teranga beat holders France at the 2002 World Cup and reached the quarter-finals. They won the Africa Cup of Nations in 2022. In 2026 Dakar hosted the Youth Olympic Games, the first Olympic event held in Africa."
+   ],
+   "related": [
+    "FRA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Laamb",
+   "meaning": "Senegalese wrestling."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Laamb",
+     "subtitle": "Wrestling",
+     "text": "Huge stadium fights."
+    },
+    {
+     "title": "Ligue 1",
+     "subtitle": "Football",
+     "text": "The top league."
+    },
+    {
+     "title": "Dakar Rally",
+     "subtitle": "Motorsport",
+     "text": "Once finished at Lac Rose."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Sadio Mané",
+     "subtitle": "Football",
+     "text": "Champions League winner and AFCON champion."
+    },
+    {
+     "title": "El Hadji Diouf",
+     "subtitle": "Football",
+     "text": "Star of 2002."
+    },
+    {
+     "title": "Kalidou Koulibaly",
+     "subtitle": "Football",
+     "text": "A captain and defender."
+    },
+    {
+     "title": "Amadou Dia Ba",
+     "subtitle": "Hurdles",
+     "text": "Olympic silver 1988."
+    },
+    {
+     "title": "Balla Gaye 2",
+     "subtitle": "Wrestling",
+     "text": "A laamb champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Senegal's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Stade Abdoulaye Wade, Diamniadio",
+    "kind": "venue",
+    "lat": 14.72,
+    "lon": -17.17,
+    "text": "A new national stadium."
+   },
+   {
+    "name": "Stade Léopold Sédar Senghor",
+    "kind": "venue",
+    "lat": 14.74,
+    "lon": -17.45,
+    "text": "Historic stadium in Dakar."
+   },
+   {
+    "name": "Arène nationale",
+    "kind": "venue",
+    "lat": 14.76,
+    "lon": -17.38,
+    "text": "Wrestling arena."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2002",
+    "title": "Beat France",
+    "text": "At the World Cup opening game."
+   },
+   {
+    "year": "2022",
+    "title": "AFCON champions",
+    "text": "A first title."
+   },
+   {
+    "year": "2026",
+    "title": "Youth Olympics",
+    "text": "Dakar hosts."
+   }
+  ]
+ }
+}

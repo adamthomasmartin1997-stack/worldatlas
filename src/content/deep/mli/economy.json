@@ -1,0 +1,62 @@
+{
+ "status": "draft",
+ "intro": "Mali is one of Africa's biggest gold producers, and most people farm or herd.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Gold is the main export, followed by cotton. Millet, sorghum and rice are grown along the Niger, and herders raise cattle, sheep and goats."
+   ],
+   "related": [
+    "CHE",
+    "ZAF"
+   ]
+  },
+  {
+   "id": "remittances",
+   "title": "Abroad",
+   "text": [
+    "Money from Malians abroad, especially in France, helps many families."
+   ],
+   "related": [
+    "FRA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Millet",
+   "meaning": "A hardy grain."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Mali",
+   "items": [
+    {
+     "title": "Gold",
+     "subtitle": "Sadiola and others",
+     "text": "The main export."
+    },
+    {
+     "title": "Cotton",
+     "subtitle": "South",
+     "text": "A big cash crop."
+    },
+    {
+     "title": "Livestock",
+     "subtitle": "Sahel",
+     "text": "Cattle and sheep."
+    },
+    {
+     "title": "Mud architecture",
+     "subtitle": "Djenné",
+     "text": "A living tradition."
+    }
+   ],
+   "intro": "Some of the things Mali makes and sells to the world."
+  }
+ ]
+}

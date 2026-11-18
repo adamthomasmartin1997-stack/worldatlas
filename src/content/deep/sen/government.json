@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Senegal is a presidential democracy with regular peaceful elections.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for five years and appoints the prime minister. The National Assembly has 165 seats. President Faye and Prime Minister Ousmane Sonko promised to fight corruption."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Dakar"
+    },
+    {
+     "label": "Independence",
+     "value": "1960"
+    },
+    {
+     "label": "Parliament",
+     "value": "165 seats"
+    }
+   ]
+  },
+  {
+   "id": "casamance",
+   "title": "Casamance",
+   "text": [
+    "A separatist conflict in Casamance has mostly calmed down since the 2010s."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Democracy",
+   "meaning": "Government chosen by the people in elections."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 5 years",
+     "text": "Head of state."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed by the President",
+     "text": "Leads the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "165 members",
+     "text": "The parliament."
+    },
+    {
+     "title": "Constitutional Council",
+     "subtitle": "Judges",
+     "text": "Checks laws and elections."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "National Assembly",
+    "text": "Debates and votes."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

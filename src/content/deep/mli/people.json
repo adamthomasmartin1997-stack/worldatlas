@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Mali has about 24 million people, one of the youngest populations in the world.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Bambara are the largest group, and Bambara is widely spoken. Others include the Fula, Soninke, Songhai, Dogon and Tuareg. Most people are Muslim.",
+    "Griots have passed down history through songs and stories for centuries."
+   ],
+   "related": [
+    "NER",
+    "BFA"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Bamako, on the Niger, is one of Africa's fastest-growing cities."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bambara",
+   "meaning": "Mali's largest group and main language."
+  }
+ ]
+}

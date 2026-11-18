@@ -1,0 +1,97 @@
+{
+ "status": "draft",
+ "intro": "Senegal is mostly flat, with a long Atlantic coast, river valleys and the Gambia nearly splitting it in two.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Coast and rivers",
+   "text": [
+    "The Senegal River forms the northern border and the Casamance region in the south is green and wet. The Gambia, a narrow country, cuts into Senegal from the coast.",
+    "Cap-Vert, near Dakar, is the westernmost point of mainland Africa."
+   ],
+   "related": [
+    "GMB",
+    "MRT",
+    "MLI",
+    "GIN",
+    "GNB"
+   ]
+  },
+  {
+   "id": "nature",
+   "title": "Nature",
+   "text": [
+    "Djoudj is a famous bird sanctuary, and Lac Rose is a pink salt lake. Niokolo-Koba park has lions and chimpanzees."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sahel",
+   "meaning": "The dry belt south of the Sahara."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Senegal's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Saint-Louis",
+    "kind": "island city",
+    "lat": 16.03,
+    "lon": -16.5,
+    "text": "Colonial buildings on a river island."
+   },
+   {
+    "name": "Djoudj",
+    "kind": "bird sanctuary",
+    "lat": 16.4,
+    "lon": -16.25,
+    "text": "Pelicans and flamingos."
+   },
+   {
+    "name": "Lac Rose",
+    "kind": "pink lake",
+    "lat": 14.84,
+    "lon": -17.23,
+    "text": "A salt lake that turns pink."
+   },
+   {
+    "name": "Dakar",
+    "kind": "capital",
+    "lat": 14.69,
+    "lon": -17.45,
+    "text": "Africa's westernmost city."
+   },
+   {
+    "name": "Gorée Island",
+    "kind": "historic island",
+    "lat": 14.67,
+    "lon": -17.4,
+    "text": "The House of Slaves."
+   },
+   {
+    "name": "Sine-Saloum Delta",
+    "kind": "mangroves",
+    "lat": 13.9,
+    "lon": -16.6,
+    "text": "Islands and shell mounds."
+   },
+   {
+    "name": "Niokolo-Koba",
+    "kind": "national park",
+    "lat": 13.1,
+    "lon": -13.2,
+    "text": "Lions and chimpanzees."
+   },
+   {
+    "name": "Casamance",
+    "kind": "green south",
+    "lat": 12.6,
+    "lon": -16.3,
+    "text": "Rice fields and beaches."
+   }
+  ]
+ }
+}

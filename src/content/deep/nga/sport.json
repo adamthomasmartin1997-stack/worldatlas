@@ -1,0 +1,132 @@
+{
+ "status": "draft",
+ "intro": "Football is Nigeria's biggest sport, and the Super Eagles and Super Falcons have won many African titles.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Nigeria won Olympic football gold in 1996. The men have won three Africa Cups of Nations, and the women's Super Falcons have won the African championship a record ten times."
+   ],
+   "related": [
+    "ARG",
+    "BRA"
+   ]
+  },
+  {
+   "id": "athletics",
+   "title": "Athletics",
+   "text": [
+    "Tobi Amusan holds the world record in the 100 m hurdles. Many top athletes with Nigerian roots compete for other countries too."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Super Eagles",
+   "meaning": "The men's national football team."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Nigeria Premier Football League",
+     "subtitle": "Football",
+     "text": "Enyimba have won the most titles."
+    },
+    {
+     "title": "Lagos City Marathon",
+     "subtitle": "Running",
+     "text": "A big race each February."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Jay-Jay Okocha",
+     "subtitle": "Football",
+     "text": "A skilful playmaker."
+    },
+    {
+     "title": "Nwankwo Kanu",
+     "subtitle": "Football",
+     "text": "Olympic champion and two-time African Footballer of the Year."
+    },
+    {
+     "title": "Asisat Oshoala",
+     "subtitle": "Football",
+     "text": "Six-time African Women's Footballer of the Year."
+    },
+    {
+     "title": "Tobi Amusan",
+     "subtitle": "Hurdles",
+     "text": "World record holder."
+    },
+    {
+     "title": "Chioma Ajunwa",
+     "subtitle": "Long jump",
+     "text": "Nigeria's first Olympic gold, 1996."
+    },
+    {
+     "title": "Victor Osimhen",
+     "subtitle": "Football",
+     "text": "African Footballer of the Year 2023."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Nigeria's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Moshood Abiola Stadium, Abuja",
+    "kind": "venue",
+    "lat": 9.04,
+    "lon": 7.45,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Teslim Balogun Stadium, Lagos",
+    "kind": "venue",
+    "lat": 6.5,
+    "lon": 3.36,
+    "text": "A football ground."
+   },
+   {
+    "name": "Godswill Akpabio Stadium, Uyo",
+    "kind": "venue",
+    "lat": 5.05,
+    "lon": 7.92,
+    "text": "Home of the Super Eagles."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1996",
+    "title": "Olympic double",
+    "text": "Football gold and Ajunwa's long jump."
+   },
+   {
+    "year": "2013",
+    "title": "AFCON",
+    "text": "A third title."
+   },
+   {
+    "year": "2022",
+    "title": "Amusan",
+    "text": "Sets the 100 m hurdles world record."
+   }
+  ]
+ }
+}

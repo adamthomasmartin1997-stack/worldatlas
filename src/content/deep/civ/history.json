@@ -1,0 +1,87 @@
+{
+ "status": "draft",
+ "intro": "Ivory Coast, officially Côte d'Ivoire, is the world's largest cocoa producer and one of West Africa's biggest economies.",
+ "chapters": [
+  {
+   "id": "kingdoms",
+   "title": "Kingdoms",
+   "text": [
+    "Before colonial rule, peoples such as the Akan, Senufo, Dan and Kru lived here. The Kong Empire in the north was a centre of Islamic learning and trade, and the Baoulé are said to have arrived after fleeing the Asante under Queen Pokou."
+   ],
+   "related": [
+    "GHA",
+    "BFA",
+    "MLI"
+   ]
+  },
+  {
+   "id": "colonial",
+   "title": "French colony",
+   "text": [
+    "European traders named the coast after its ivory trade. France made it a colony in 1893, and Africans were forced to work on plantations and roads."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and conflict",
+   "text": [
+    "Félix Houphouët-Boigny led the country to independence in 1960 and ruled until 1993; cocoa and coffee brought a long boom called the 'Ivorian miracle'. He built a giant basilica in his home town, Yamoussoukro.",
+    "Civil wars in 2002 to 2007 and after the 2010 election split the country. Alassane Ouattara has been president since 2011."
+   ],
+   "related": [
+    "FRA",
+    "BFA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1700s",
+   "title": "Kong Empire",
+   "text": "A northern trading state."
+  },
+  {
+   "year": "1893",
+   "title": "French colony",
+   "text": "Founded."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "7 August."
+  },
+  {
+   "year": "1983",
+   "title": "New capital",
+   "text": "Yamoussoukro is named capital."
+  },
+  {
+   "year": "2002",
+   "title": "Civil war",
+   "text": "The country splits."
+  },
+  {
+   "year": "2011",
+   "title": "Post-election crisis",
+   "text": "Ouattara takes office."
+  },
+  {
+   "year": "2024",
+   "title": "AFCON",
+   "text": "Won at home."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cocoa",
+   "meaning": "Beans used to make chocolate."
+  },
+  {
+   "term": "Houphouët-Boigny",
+   "meaning": "The founding president."
+  }
+ ]
+}

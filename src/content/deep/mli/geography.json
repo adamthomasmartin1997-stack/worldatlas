@@ -1,0 +1,99 @@
+{
+ "status": "draft",
+ "intro": "Mali is a large landlocked country where the Sahara in the north meets the Sahel and the Niger River in the south.",
+ "chapters": [
+  {
+   "id": "niger",
+   "title": "The Niger River",
+   "text": [
+    "The Niger flows through Mali in a great arc. Its Inner Niger Delta floods each year into a huge wetland where fishers, farmers and herders share the land.",
+    "The Bandiagara Escarpment is home to the Dogon people."
+   ],
+   "related": [
+    "GIN",
+    "NER",
+    "SEN",
+    "BFA",
+    "DZA",
+    "MRT",
+    "CIV"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Mali is hot, and most rain falls between June and September. Desertification threatens farmland."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Desertification",
+   "meaning": "When land becomes desert."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Mali's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Timbuktu",
+    "kind": "desert city",
+    "lat": 16.77,
+    "lon": -3.0,
+    "text": "Mosques and manuscript libraries."
+   },
+   {
+    "name": "Adrar des Ifoghas",
+    "kind": "desert mountains",
+    "lat": 19.5,
+    "lon": 1.5,
+    "text": "Rocky massif in the Sahara."
+   },
+   {
+    "name": "Hombori",
+    "kind": "rock towers",
+    "lat": 15.28,
+    "lon": -1.7,
+    "text": "Mesas near the Hand of Fatima."
+   },
+   {
+    "name": "Bandiagara",
+    "kind": "cliffs",
+    "lat": 14.35,
+    "lon": -3.6,
+    "text": "Dogon villages on the cliffs."
+   },
+   {
+    "name": "Djenné",
+    "kind": "mud city",
+    "lat": 13.9,
+    "lon": -4.55,
+    "text": "The Great Mosque."
+   },
+   {
+    "name": "Inner Niger Delta",
+    "kind": "wetland",
+    "lat": 14.5,
+    "lon": -4.5,
+    "text": "A huge flooded plain."
+   },
+   {
+    "name": "Bamako",
+    "kind": "capital",
+    "lat": 12.64,
+    "lon": -8.0,
+    "text": "A city on the Niger."
+   },
+   {
+    "name": "Boucle du Baoulé",
+    "kind": "savanna park",
+    "lat": 13.6,
+    "lon": -8.5,
+    "text": "Grassland and rock art."
+   }
+  ]
+ }
+}

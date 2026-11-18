@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Mali has been ruled by a military government since coups in 2020 and 2021.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Who rules",
+   "text": [
+    "General Assimi Goïta leads the country; in 2025 political parties were dissolved and he was given a renewable five-year term without election. Mali left the ECOWAS bloc and formed the Alliance of Sahel States with Burkina Faso and Niger."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Bamako"
+    },
+    {
+     "label": "Independence",
+     "value": "1960"
+    },
+    {
+     "label": "Alliance",
+     "value": "Alliance of Sahel States"
+    }
+   ],
+   "related": [
+    "BFA",
+    "NER"
+   ]
+  },
+  {
+   "id": "security",
+   "title": "Security",
+   "text": [
+    "Armed groups linked to al-Qaeda and Islamic State attack many areas, and in 2025 a fuel blockade hit Bamako."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Junta",
+   "meaning": "A military government."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Transitional President",
+     "subtitle": "Military leader",
+     "text": "Holds power since 2021."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed",
+     "text": "Runs the government."
+    },
+    {
+     "title": "National Transitional Council",
+     "subtitle": "Appointed",
+     "text": "A temporary legislature."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Decrees",
+    "text": "Issued by the transitional authorities."
+   },
+   {
+    "title": "Council",
+    "text": "The appointed council passes laws."
+   }
+  ]
+ }
+}

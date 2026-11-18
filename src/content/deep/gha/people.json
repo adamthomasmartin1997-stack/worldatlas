@@ -1,0 +1,27 @@
+{
+ "status": "draft",
+ "intro": "Ghana has about 34 million people from over 70 ethnic groups.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Akan, including the Asante and Fante, are the largest group; others include the Ewe, Ga and Dagomba. English is official, and Twi is widely spoken. Most people are Christian, with a large Muslim minority, mainly in the north.",
+    "Ghanaian names often show the day of the week you were born, like Kofi for a Friday boy."
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Accra, the capital, and Kumasi are the largest cities."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Akan",
+   "meaning": "Ghana's largest ethnic group."
+  }
+ ]
+}

@@ -1,0 +1,96 @@
+{
+ "status": "draft",
+ "intro": "Ghana is a stable presidential democracy, often praised as a model in West Africa.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for four years, up to two terms. John Mahama returned as president in 2025. Parliament has 276 seats. Traditional chiefs remain important in local life."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Accra"
+    },
+    {
+     "label": "Independence",
+     "value": "1957"
+    },
+    {
+     "label": "Parliament",
+     "value": "276 seats"
+    }
+   ]
+  },
+  {
+   "id": "africa",
+   "title": "Pan-African role",
+   "text": [
+    "Ghana helped found the Organisation of African Unity and hosts the secretariat of the African Continental Free Trade Area."
+   ],
+   "related": [
+    "ETH"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Chief",
+   "meaning": "A traditional leader."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 4 years, two terms",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Vice President",
+     "subtitle": "Elected with the President",
+     "text": "Second in command."
+    },
+    {
+     "title": "Parliament",
+     "subtitle": "276 members",
+     "text": "Elected in constituencies."
+    },
+    {
+     "title": "Council of State",
+     "subtitle": "Advisers",
+     "text": "Advises the President."
+    },
+    {
+     "title": "Traditional rulers",
+     "subtitle": "Chiefs and kings",
+     "text": "Lead local communities."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is gazetted",
+    "text": "Published by the government."
+   },
+   {
+    "title": "Parliament",
+    "text": "Debates and passes it."
+   },
+   {
+    "title": "The President",
+    "text": "Gives assent."
+   }
+  ]
+ }
+}

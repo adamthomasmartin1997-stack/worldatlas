@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Senegal, on Africa's westernmost tip, is known for its stable democracy, its music and its long history of trade.",
+ "chapters": [
+  {
+   "id": "empires",
+   "title": "Empires and kingdoms",
+   "text": [
+    "Parts of Senegal belonged to the empires of Ghana, Mali and the Jolof (Wolof) Empire. The Senegambian stone circles, over 1,000 standing stones, are more than a thousand years old.",
+    "Islam spread through traders and later through Sufi brotherhoods that remain powerful today."
+   ],
+   "related": [
+    "MLI",
+    "MRT",
+    "GMB"
+   ]
+  },
+  {
+   "id": "colonial",
+   "title": "Gorée and French rule",
+   "text": [
+    "Gorée Island off Dakar became a symbol of the Atlantic slave trade. France expanded from Saint-Louis in the 1800s, and Dakar became the capital of French West Africa.",
+    "Senegalese soldiers, the tirailleurs, fought for France in both world wars."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence and democracy",
+   "text": [
+    "Senegal became independent in 1960 under the poet-president Léopold Sédar Senghor. It has never had a military coup. In 2024 Bassirou Diomaye Faye became Africa's youngest elected president at 44 after a tense election."
+   ],
+   "highlight": {
+    "title": "No coups",
+    "text": "Senegal is one of the few West African countries never to have had a military coup."
+   }
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1300s",
+   "title": "Jolof Empire",
+   "text": "A Wolof state."
+  },
+  {
+   "year": "1659",
+   "title": "Saint-Louis",
+   "text": "Founded by the French."
+  },
+  {
+   "year": "1895",
+   "title": "French West Africa",
+   "text": "Dakar later becomes its capital."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "Senghor is president."
+  },
+  {
+   "year": "2000",
+   "title": "Peaceful change",
+   "text": "The opposition wins power."
+  },
+  {
+   "year": "2024",
+   "title": "Faye elected",
+   "text": "A new generation takes power."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sufi brotherhood",
+   "meaning": "A religious order, such as the Mourides."
+  },
+  {
+   "term": "Teranga",
+   "meaning": "The Wolof word for hospitality."
+  }
+ ]
+}

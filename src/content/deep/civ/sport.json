@@ -1,0 +1,121 @@
+{
+ "status": "draft",
+ "intro": "Football is Ivory Coast's great passion, and the Elephants are three-time African champions.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Elephants have won the Africa Cup of Nations three times, including at home in 2024. Didier Drogba helped bring a ceasefire in 2005 by calling for peace on live TV."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Cheick Sallah Cissé won the country's first Olympic gold, in taekwondo, in 2016."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Elephants",
+   "meaning": "The national team's nickname."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Ligue 1",
+     "subtitle": "Football",
+     "text": "ASEC Mimosas have won the most titles."
+    },
+    {
+     "title": "AFCON",
+     "subtitle": "Football",
+     "text": "Three titles."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Didier Drogba",
+     "subtitle": "Football",
+     "text": "Chelsea legend and peacemaker."
+    },
+    {
+     "title": "Yaya Touré",
+     "subtitle": "Football",
+     "text": "Four-time African Footballer of the Year."
+    },
+    {
+     "title": "Murielle Ahouré",
+     "subtitle": "Sprinting",
+     "text": "World indoor 60 m champion."
+    },
+    {
+     "title": "Cheick Sallah Cissé",
+     "subtitle": "Taekwondo",
+     "text": "Olympic champion 2016."
+    },
+    {
+     "title": "Marie-Josée Ta Lou",
+     "subtitle": "Sprinting",
+     "text": "Many world medals."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Ivory Coast's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Alassane Ouattara Stadium, Ebimpé",
+    "kind": "venue",
+    "lat": 5.47,
+    "lon": -4.07,
+    "text": "Hosted the 2024 AFCON final."
+   },
+   {
+    "name": "Félix Houphouët-Boigny Stadium",
+    "kind": "venue",
+    "lat": 5.33,
+    "lon": -4.02,
+    "text": "Home of ASEC Mimosas."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1992",
+    "title": "AFCON",
+    "text": "A first title."
+   },
+   {
+    "year": "2015",
+    "title": "AFCON",
+    "text": "A second title."
+   },
+   {
+    "year": "2016",
+    "title": "Olympic gold",
+    "text": "Cheick Sallah Cissé."
+   },
+   {
+    "year": "2024",
+    "title": "AFCON at home",
+    "text": "A dramatic comeback win."
+   }
+  ]
+ }
+}

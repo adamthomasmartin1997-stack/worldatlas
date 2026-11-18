@@ -1,0 +1,101 @@
+{
+ "status": "draft",
+ "intro": "Ghana has a tropical coast, rainforest in the south and savanna in the north, with one of the world's largest reservoirs, Lake Volta.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Forest, savanna and lake",
+   "text": [
+    "The south has beaches, lagoons and rainforest; Kakum National Park has a canopy walkway. The Akosombo Dam created Lake Volta, one of the largest human-made lakes by area. The north is drier savanna, with elephants in Mole National Park."
+   ],
+   "related": [
+    "CIV",
+    "TGO",
+    "BFA"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Ghana is warm all year, with rainy seasons in the south."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Reservoir",
+   "meaning": "A lake made by a dam."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Ghana's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Mole National Park",
+    "kind": "savanna",
+    "lat": 9.7,
+    "lon": -1.8,
+    "text": "Elephants near the lodge."
+   },
+   {
+    "name": "Larabanga",
+    "kind": "old mosque",
+    "lat": 9.22,
+    "lon": -1.86,
+    "text": "One of West Africa's oldest mosques."
+   },
+   {
+    "name": "Lake Volta",
+    "kind": "reservoir",
+    "lat": 7.5,
+    "lon": 0.0,
+    "text": "A vast human-made lake."
+   },
+   {
+    "name": "Wli Falls",
+    "kind": "waterfall",
+    "lat": 7.12,
+    "lon": 0.59,
+    "text": "Ghana's highest waterfall."
+   },
+   {
+    "name": "Kumasi",
+    "kind": "Asante capital",
+    "lat": 6.69,
+    "lon": -1.62,
+    "text": "Home of the Asantehene."
+   },
+   {
+    "name": "Accra",
+    "kind": "capital",
+    "lat": 5.6,
+    "lon": -0.19,
+    "text": "The busy capital by the sea."
+   },
+   {
+    "name": "Kakum",
+    "kind": "rainforest",
+    "lat": 5.35,
+    "lon": -1.38,
+    "text": "A canopy walkway in the trees."
+   },
+   {
+    "name": "Cape Coast and Elmina",
+    "kind": "castles",
+    "lat": 5.1,
+    "lon": -1.35,
+    "text": "Forts of the slave trade."
+   },
+   {
+    "name": "Busua",
+    "kind": "beach",
+    "lat": 4.8,
+    "lon": -1.93,
+    "text": "A surf beach."
+   }
+  ]
+ }
+}

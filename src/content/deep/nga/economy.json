@@ -1,0 +1,69 @@
+{
+ "status": "draft",
+ "intro": "Nigeria is one of Africa's biggest economies, built on oil, farming, trade and a booming creative industry.",
+ "chapters": [
+  {
+   "id": "oil",
+   "title": "Oil",
+   "text": [
+    "Oil from the Niger Delta provides most export earnings, but spills have badly polluted the delta. The Dangote refinery, opened in 2024, is one of the largest in the world."
+   ],
+   "related": [
+    "USA",
+    "IND"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Beyond oil",
+   "text": [
+    "Nigeria is a top producer of cassava, yams and cocoa. Lagos has a fast-growing tech scene, and Nollywood makes thousands of films a year."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Nollywood",
+   "meaning": "Nigeria's film industry."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Nigeria",
+   "items": [
+    {
+     "title": "Oil",
+     "subtitle": "Niger Delta",
+     "text": "Most export earnings."
+    },
+    {
+     "title": "Cocoa",
+     "subtitle": "South-west",
+     "text": "A top producer."
+    },
+    {
+     "title": "Cassava",
+     "subtitle": "Everywhere",
+     "text": "The world's biggest producer."
+    },
+    {
+     "title": "Films",
+     "subtitle": "Nollywood",
+     "text": "Thousands a year."
+    },
+    {
+     "title": "Music",
+     "subtitle": "Lagos",
+     "text": "Afrobeats exported worldwide."
+    },
+    {
+     "title": "Fintech",
+     "subtitle": "Lagos",
+     "text": "Start-ups like Flutterwave."
+    }
+   ],
+   "intro": "Some of the things Nigeria makes and sells to the world."
+  }
+ ]
+}
