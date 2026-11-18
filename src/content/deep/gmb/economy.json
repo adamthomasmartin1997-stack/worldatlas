@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "The Gambia's economy depends on farming, tourism and money from abroad.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Peanuts are the main crop. Beach and birdwatching tourism draws visitors from Europe. Money sent home by Gambians abroad is a big share of the economy."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "fish",
+   "title": "Fish",
+   "text": [
+    "Fishing is important, though fishmeal factories have caused concern."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Remittances",
+   "meaning": "Money sent home from abroad."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in the Gambia",
+   "items": [
+    {
+     "title": "Peanuts",
+     "subtitle": "Farms",
+     "text": "The main crop."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Coast",
+     "text": "Winter sun visitors."
+    },
+    {
+     "title": "Fish",
+     "subtitle": "Coast",
+     "text": "Fresh and smoked."
+    }
+   ],
+   "intro": "Some of the things the Gambia makes and sells to the world."
+  }
+ ]
+}

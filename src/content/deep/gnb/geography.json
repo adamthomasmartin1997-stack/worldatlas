@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Guinea-Bissau is low-lying, with mangrove coasts and the Bijagós islands.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "The Bijagós Archipelago has about 88 islands where saltwater hippos and sea turtles live. The mainland is flat, cut by wide river estuaries."
+   ],
+   "related": [
+    "SEN",
+    "GIN"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Tropical, with a rainy season from June to October."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Estuary",
+   "meaning": "Where a river meets the sea."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Guinea-Bissau's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Bissau",
+    "kind": "capital",
+    "lat": 11.86,
+    "lon": -15.6,
+    "text": "A riverside capital."
+   },
+   {
+    "name": "Cacheu",
+    "kind": "old fort",
+    "lat": 12.27,
+    "lon": -16.17,
+    "text": "A Portuguese fort."
+   },
+   {
+    "name": "Bijagós Archipelago",
+    "kind": "islands",
+    "lat": 11.2,
+    "lon": -16.1,
+    "text": "Saltwater hippos and turtles."
+   },
+   {
+    "name": "Orango",
+    "kind": "island park",
+    "lat": 11.1,
+    "lon": -16.15,
+    "text": "A national park."
+   },
+   {
+    "name": "Varela",
+    "kind": "beach",
+    "lat": 12.28,
+    "lon": -16.6,
+    "text": "A remote beach."
+   }
+  ]
+ }
+}

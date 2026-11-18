@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Guinea-Bissau has about 2 million people from many ethnic groups.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Groups include the Balanta, Fula, Mandinka and Papel. Portuguese is official, but Kriol is spoken by most. Islam, Christianity and traditional beliefs are all practised."
+   ]
+  },
+  {
+   "id": "bissau",
+   "title": "Bissau",
+   "text": [
+    "Bissau is the capital and largest city."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kriol",
+   "meaning": "A Portuguese-based creole."
+  }
+ ]
+}

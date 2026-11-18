@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Cape Verde is famous for its music, especially morna.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Morna",
+   "text": [
+    "Morna, sad songs of longing called sodade, is on UNESCO's list. Cesária Évora, the 'barefoot diva', made it world-famous."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Cachupa, a stew of maize, beans and meat or fish, is the national dish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sodade",
+   "meaning": "A deep feeling of longing."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Sodade",
+     "subtitle": "Cesária Évora, 1992",
+     "text": "Her most famous song."
+    },
+    {
+     "title": "Mayra Andrade",
+     "subtitle": "Singer",
+     "text": "A modern star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Cachupa",
+     "subtitle": "Everywhere",
+     "text": "Maize and bean stew."
+    },
+    {
+     "title": "Grogue",
+     "subtitle": "Everywhere",
+     "text": "Sugar cane spirit for adults."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Carnival",
+    "text": "Mindelo's parade."
+   },
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "5 July."
+   },
+   {
+    "month": 8,
+    "name": "Baía das Gatas",
+    "text": "A beach music festival."
+   }
+  ]
+ }
+}

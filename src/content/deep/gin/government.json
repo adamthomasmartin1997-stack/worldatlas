@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Guinea has been led by Mamadi Doumbouya since the 2021 coup.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "A new constitution was approved in 2025, and Doumbouya won the December 2025 presidential election. Critics say opposition leaders were excluded."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Conakry"
+    },
+    {
+     "label": "Independence",
+     "value": "1958"
+    },
+    {
+     "label": "Leader",
+     "value": "Mamadi Doumbouya"
+    }
+   ]
+  },
+  {
+   "id": "region",
+   "title": "Region",
+   "text": [
+    "Guinea's relations with ECOWAS have been strained since the coup."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Constitution",
+   "meaning": "The basic law of a country."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected",
+     "text": "Holds most power."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed",
+     "text": "Leads the government."
+    },
+    {
+     "title": "Legislature",
+     "subtitle": "Transitional then elected",
+     "text": "Passes laws."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government."
+   },
+   {
+    "title": "Legislature",
+    "text": "Votes on it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

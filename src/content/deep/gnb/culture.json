@@ -1,0 +1,70 @@
+{
+ "status": "draft",
+ "intro": "Guinea-Bissau's culture is known for gumbe music and carnival.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music",
+   "text": [
+    "Gumbe is the country's popular rhythm. Carnival in Bissau features masks from different ethnic groups."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Rice with fish, oysters and caldo de peixe (fish stew) are common."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gumbe",
+   "meaning": "A popular music style."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Super Mama Djombo",
+     "subtitle": "Band",
+     "text": "Bissau's famous band."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Caldo de peixe",
+     "subtitle": "Coast",
+     "text": "Fish stew with palm oil."
+    },
+    {
+     "title": "Jollof",
+     "subtitle": "Everywhere",
+     "text": "Spicy rice."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Carnival",
+    "text": "Masks and parades."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "24 September."
+   }
+  ]
+ }
+}

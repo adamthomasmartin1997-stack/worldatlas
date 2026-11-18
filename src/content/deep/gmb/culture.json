@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "Gambian culture is famous for kora music and wrestling.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music",
+   "text": [
+    "Griots play the kora, and Foday Musa Suso brought it to world audiences."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Domoda (peanut stew), benachin (jollof) and yassa are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Griot",
+   "meaning": "A storyteller and musician."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Roots",
+     "subtitle": "1976 · Alex Haley",
+     "text": "Traces a family to Juffureh."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Kora",
+     "subtitle": "Foday Musa Suso",
+     "text": "A kora master."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Domoda",
+     "subtitle": "Everywhere",
+     "text": "Peanut stew."
+    },
+    {
+     "title": "Benachin",
+     "subtitle": "Everywhere",
+     "text": "One-pot rice."
+    },
+    {
+     "title": "Yassa",
+     "subtitle": "Everywhere",
+     "text": "Onion and lemon sauce."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Independence Day",
+    "text": "18 February."
+   },
+   {
+    "month": 5,
+    "name": "Roots Festival",
+    "text": "Celebrating heritage."
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Guinea has mangrove coasts, the Fouta Djallon highlands, savanna and forested mountains.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Four regions",
+   "text": [
+    "Lower Guinea is the coast; Middle Guinea the Fouta Djallon plateau with waterfalls; Upper Guinea savanna along the Niger; and Forest Guinea in the south-east, with Mount Nimba."
+   ],
+   "related": [
+    "SEN",
+    "MLI",
+    "CIV",
+    "LBR",
+    "SLE",
+    "GNB"
+   ]
+  },
+  {
+   "id": "rivers",
+   "title": "Water tower",
+   "text": [
+    "The Niger, Senegal and Gambia rivers all rise in Guinea."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Source",
+   "meaning": "Where a river begins."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Guinea's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Conakry",
+    "kind": "capital",
+    "lat": 9.54,
+    "lon": -13.68,
+    "text": "A peninsula city."
+   },
+   {
+    "name": "Îles de Los",
+    "kind": "islands",
+    "lat": 9.48,
+    "lon": -13.8,
+    "text": "Beaches off Conakry."
+   },
+   {
+    "name": "Fouta Djallon",
+    "kind": "highlands",
+    "lat": 11.3,
+    "lon": -12.3,
+    "text": "Waterfalls and plateaus."
+   },
+   {
+    "name": "Niger source",
+    "kind": "river source",
+    "lat": 9.08,
+    "lon": -10.73,
+    "text": "Where the Niger begins."
+   },
+   {
+    "name": "Mount Nimba",
+    "kind": "mountain",
+    "lat": 7.6,
+    "lon": -8.4,
+    "text": "Rare wildlife."
+   },
+   {
+    "name": "Kankan",
+    "kind": "savanna city",
+    "lat": 10.38,
+    "lon": -9.3,
+    "text": "Malinké heartland."
+   }
+  ]
+ }
+}

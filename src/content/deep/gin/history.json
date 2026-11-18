@@ -1,0 +1,81 @@
+{
+ "status": "draft",
+ "intro": "Guinea is the 'water tower of West Africa', where the Niger, Senegal and Gambia rivers begin. In 1958 it was the first French colony in Africa to vote for full independence.",
+ "chapters": [
+  {
+   "id": "empires",
+   "title": "Empires and Fouta Djallon",
+   "text": [
+    "Upper Guinea was part of the Mali Empire; Niani may have been an early capital. In the 1700s the Fula founded the Imamate of Futa Jallon in the highlands.",
+    "Samori Touré built an empire in the 1800s and fought the French for years."
+   ],
+   "related": [
+    "MLI",
+    "SEN"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "French Guinea",
+   "text": [
+    "France ruled Guinea from the 1890s. In a 1958 referendum, Guineans voted 'no' to staying in a French community, and Ahmed Sékou Touré led the country to independence."
+   ],
+   "highlight": {
+    "title": "'Non'",
+    "text": "Guinea was the only French African colony to vote for immediate independence in 1958."
+   },
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Since independence",
+   "text": [
+    "Sékou Touré ruled harshly until 1984. Lansana Conté then ruled until 2008. Alpha Condé became the first freely elected president in 2010; he was overthrown by the army in 2021, and coup leader Mamadi Doumbouya won a presidential election in December 2025."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1725",
+   "title": "Futa Jallon",
+   "text": "An imamate is founded."
+  },
+  {
+   "year": "1898",
+   "title": "Samori captured",
+   "text": "French rule expands."
+  },
+  {
+   "year": "1958",
+   "title": "Independence",
+   "text": "2 October."
+  },
+  {
+   "year": "1984",
+   "title": "Conté",
+   "text": "The military takes power."
+  },
+  {
+   "year": "2010",
+   "title": "Elections",
+   "text": "Alpha Condé elected."
+  },
+  {
+   "year": "2021",
+   "title": "Coup",
+   "text": "The army takes over."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Imamate",
+   "meaning": "A state led by an imam."
+  },
+  {
+   "term": "Referendum",
+   "meaning": "A public vote on a question."
+  }
+ ]
+}

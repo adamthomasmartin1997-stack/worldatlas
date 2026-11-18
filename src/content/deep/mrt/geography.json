@@ -1,0 +1,81 @@
+{
+ "status": "draft",
+ "intro": "About three-quarters of Mauritania is desert, with a long Atlantic coast.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Desert and coast",
+   "text": [
+    "The Richat Structure, a giant circular rock formation about 40 km across, is visible from space. The Banc d'Arguin is one of the world's great bird habitats. The Senegal River forms the southern border."
+   ],
+   "related": [
+    "SEN",
+    "MLI",
+    "DZA",
+    "MAR"
+   ]
+  },
+  {
+   "id": "iron",
+   "title": "Iron train",
+   "text": [
+    "One of the world's longest trains carries iron ore 700 km from Zouérat to the coast."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Richat Structure",
+   "meaning": "The 'Eye of the Sahara'."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Mauritania's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Banc d'Arguin",
+    "kind": "bird coast",
+    "lat": 20.2,
+    "lon": -16.3,
+    "text": "Millions of birds."
+   },
+   {
+    "name": "Nouakchott",
+    "kind": "capital",
+    "lat": 18.08,
+    "lon": -15.98,
+    "text": "A young capital."
+   },
+   {
+    "name": "Chinguetti",
+    "kind": "desert town",
+    "lat": 20.46,
+    "lon": -12.36,
+    "text": "Ancient libraries."
+   },
+   {
+    "name": "Richat Structure",
+    "kind": "eye of the Sahara",
+    "lat": 21.12,
+    "lon": -11.4,
+    "text": "A giant rock circle."
+   },
+   {
+    "name": "Ouadane",
+    "kind": "ruined town",
+    "lat": 20.93,
+    "lon": -11.6,
+    "text": "A caravan town."
+   },
+   {
+    "name": "Zouérat",
+    "kind": "iron mines",
+    "lat": 22.73,
+    "lon": -12.47,
+    "text": "Where the iron train starts."
+   }
+  ]
+ }
+}

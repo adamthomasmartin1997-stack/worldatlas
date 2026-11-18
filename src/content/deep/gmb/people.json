@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "The Gambia has about 2.8 million people, mostly living near the coast.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Mandinka, Fula and Wolof are the largest groups. English is official. About 95% of people are Muslim."
+   ],
+   "related": [
+    "SEN"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Banjul is the small capital; Serekunda is the largest town."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mandinka",
+   "meaning": "The largest ethnic group."
+  }
+ ]
+}

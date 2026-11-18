@@ -1,0 +1,78 @@
+{
+ "status": "draft",
+ "intro": "Cape Verde has ten volcanic islands about 570 km off West Africa.",
+ "chapters": [
+  {
+   "id": "islands",
+   "title": "Islands",
+   "text": [
+    "Fogo has an active volcano, Pico do Fogo, the highest point at 2,829 m. Sal and Boa Vista are flat with long beaches; Santo Antão is green and mountainous."
+   ],
+   "related": [
+    "SEN"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The islands are dry, with little rain, and dusty harmattan winds."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Volcano",
+   "meaning": "A mountain where lava erupts."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Cape Verde's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Santo Antão",
+    "kind": "green mountains",
+    "lat": 17.07,
+    "lon": -25.17,
+    "text": "Hiking trails."
+   },
+   {
+    "name": "Mindelo",
+    "kind": "port town",
+    "lat": 16.89,
+    "lon": -24.98,
+    "text": "A cultural capital."
+   },
+   {
+    "name": "Sal",
+    "kind": "beach island",
+    "lat": 16.75,
+    "lon": -22.93,
+    "text": "Salt pans and beaches."
+   },
+   {
+    "name": "Boa Vista",
+    "kind": "dunes",
+    "lat": 16.1,
+    "lon": -22.8,
+    "text": "Sand dunes."
+   },
+   {
+    "name": "Cidade Velha",
+    "kind": "old town",
+    "lat": 14.92,
+    "lon": -23.6,
+    "text": "The first colonial town."
+   },
+   {
+    "name": "Pico do Fogo",
+    "kind": "volcano",
+    "lat": 14.95,
+    "lon": -24.35,
+    "text": "The highest point."
+   }
+  ]
+ }
+}

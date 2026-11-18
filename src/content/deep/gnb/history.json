@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Guinea-Bissau won independence from Portugal through a long liberation war led by Amílcar Cabral.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Kaabu",
+   "text": [
+    "The region was part of the Kaabu kingdom, linked to the Mali Empire. Portuguese traders arrived in the 1400s and Cacheu became a slave-trading post."
+   ],
+   "related": [
+    "MLI",
+    "PRT"
+   ]
+  },
+  {
+   "id": "war",
+   "title": "Liberation war",
+   "text": [
+    "From 1963 the PAIGC, led by Amílcar Cabral, fought Portuguese rule. Cabral was assassinated in 1973, months before independence was declared. Portugal recognised it in 1974."
+   ],
+   "highlight": {
+    "title": "Amílcar Cabral",
+    "text": "A thinker and leader honoured across Africa."
+   },
+   "related": [
+    "PRT",
+    "CPV"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Since independence",
+   "text": [
+    "The country has had many coups and coup attempts. In November 2025 the military seized power again during the election count."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1588",
+   "title": "Cacheu",
+   "text": "A Portuguese trading post."
+  },
+  {
+   "year": "1963",
+   "title": "War begins",
+   "text": "The PAIGC fights Portugal."
+  },
+  {
+   "year": "1973",
+   "title": "Independence declared",
+   "text": "24 September."
+  },
+  {
+   "year": "1974",
+   "title": "Recognition",
+   "text": "Portugal recognises it."
+  },
+  {
+   "year": "2025",
+   "title": "Coup",
+   "text": "The army takes over again."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "PAIGC",
+   "meaning": "The party that led the independence war."
+  }
+ ]
+}

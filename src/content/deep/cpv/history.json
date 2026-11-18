@@ -1,0 +1,77 @@
+{
+ "status": "draft",
+ "intro": "Cape Verde is a chain of volcanic islands in the Atlantic that was uninhabited until the Portuguese arrived in the 1400s.",
+ "chapters": [
+  {
+   "id": "settlement",
+   "title": "Settlement",
+   "text": [
+    "Portuguese settlers arrived around 1462 and founded Cidade Velha, the first European colonial town in the tropics. The islands became a hub of the Atlantic slave trade.",
+    "A Creole people and culture grew from mixing Portuguese and African roots."
+   ],
+   "related": [
+    "PRT",
+    "GNB",
+    "BRA"
+   ]
+  },
+  {
+   "id": "hardship",
+   "title": "Drought and migration",
+   "text": [
+    "Droughts caused terrible famines, and many Cape Verdeans emigrated, especially to the United States and Portugal. Today more Cape Verdeans live abroad than at home."
+   ],
+   "related": [
+    "USA",
+    "PRT"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Cape Verde fought alongside Guinea-Bissau for independence and became independent in 1975. Since 1991 it has been a stable multi-party democracy."
+   ],
+   "related": [
+    "GNB"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1462",
+   "title": "Settlement",
+   "text": "Portuguese settlers arrive."
+  },
+  {
+   "year": "1495",
+   "title": "Portuguese colony",
+   "text": "Formal rule."
+  },
+  {
+   "year": "1975",
+   "title": "Independence",
+   "text": "5 July."
+  },
+  {
+   "year": "1991",
+   "title": "Democracy",
+   "text": "Multi-party elections."
+  },
+  {
+   "year": "2024",
+   "title": "Malaria-free",
+   "text": "Certified by the WHO."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Creole",
+   "meaning": "A culture and language formed from mixing."
+  },
+  {
+   "term": "Diaspora",
+   "meaning": "People living outside their homeland."
+  }
+ ]
+}

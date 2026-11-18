@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Guinea-Bissau has seen frequent military interventions in politics.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The constitution provides for an elected president and parliament, but the military seized power in November 2025."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Bissau"
+    },
+    {
+     "label": "Independence",
+     "value": "1973"
+    },
+    {
+     "label": "Language",
+     "value": "Portuguese"
+    }
+   ]
+  },
+  {
+   "id": "drugs",
+   "title": "Drug trafficking",
+   "text": [
+    "Its islands have been used as a route for cocaine smuggling to Europe."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Coup",
+   "meaning": "A seizure of power by force."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected",
+     "text": "Head of state."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed",
+     "text": "Leads the government."
+    },
+    {
+     "title": "National People's Assembly",
+     "subtitle": "102 members",
+     "text": "The parliament."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Assembly",
+    "text": "Votes on it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

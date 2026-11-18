@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Guinea has about 14 million people, most of them Muslim and under 25.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Fula (Peul), Malinké and Susu are the largest groups. French is official. About 85% of people are Muslim."
+   ]
+  },
+  {
+   "id": "conakry",
+   "title": "Conakry",
+   "text": [
+    "Conakry, the capital, is built on a narrow peninsula."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Fula",
+   "meaning": "A widespread West African people."
+  }
+ ]
+}

@@ -1,0 +1,93 @@
+{
+ "status": "draft",
+ "intro": "Football is Guinea's most popular sport, and its clubs once ruled Africa.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Hafia FC won the African Champions Cup three times in the 1970s. The Syli National reached the AFCON quarter-finals several times."
+   ]
+  },
+  {
+   "id": "players",
+   "title": "Players",
+   "text": [
+    "Naby Keïta and Serhou Guirassy have starred in Europe."
+   ],
+   "related": [
+    "GBR",
+    "DEU"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Syli",
+   "meaning": "'Elephant', the national team's nickname."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Guinée Championnat National",
+     "subtitle": "Football",
+     "text": "Horoya AC is a top club."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Naby Keïta",
+     "subtitle": "Football",
+     "text": "A Liverpool midfielder."
+    },
+    {
+     "title": "Serhou Guirassy",
+     "subtitle": "Football",
+     "text": "A Bundesliga goalscorer."
+    },
+    {
+     "title": "Chérif Souleymane",
+     "subtitle": "Football",
+     "text": "African Footballer of the Year 1972."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Guinea's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Stade du 28 Septembre",
+    "kind": "venue",
+    "lat": 9.53,
+    "lon": -13.68,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1972",
+    "title": "Hafia FC",
+    "text": "African champions."
+   },
+   {
+    "year": "1977",
+    "title": "Hafia again",
+    "text": "Another continental title."
+   }
+  ]
+ }
+}

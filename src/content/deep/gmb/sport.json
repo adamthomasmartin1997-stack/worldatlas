@@ -1,0 +1,84 @@
+{
+ "status": "draft",
+ "intro": "Football and traditional wrestling are the Gambia's most popular sports.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Scorpions reached the Africa Cup of Nations quarter-finals on their debut in 2022."
+   ]
+  },
+  {
+   "id": "athletics",
+   "title": "Athletics",
+   "text": [
+    "Gina Bass is a top sprinter."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Scorpions",
+   "meaning": "The national team's nickname."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "GFA League",
+     "subtitle": "Football",
+     "text": "The top league."
+    },
+    {
+     "title": "Wrestling",
+     "subtitle": "Traditional",
+     "text": "Popular in villages."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Gina Bass",
+     "subtitle": "Sprinting",
+     "text": "A top African sprinter."
+    },
+    {
+     "title": "Biri Biri",
+     "subtitle": "Football",
+     "text": "A 1970s star in Spain."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where the Gambia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Independence Stadium, Bakau",
+    "kind": "venue",
+    "lat": 13.47,
+    "lon": -16.68,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2022",
+    "title": "AFCON quarter-final",
+    "text": "On debut."
+   }
+  ]
+ }
+}

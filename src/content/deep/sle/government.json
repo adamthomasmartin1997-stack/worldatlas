@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "Sierra Leone is a presidential republic with regular elections.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for five years, up to two terms. Julius Maada Bio was re-elected in 2023. Parliament has a single chamber."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Freetown"
+    },
+    {
+     "label": "Independence",
+     "value": "1961"
+    },
+    {
+     "label": "Republic since",
+     "value": "1971"
+    }
+   ]
+  },
+  {
+   "id": "peace",
+   "title": "Peace",
+   "text": [
+    "A Special Court tried leaders for war crimes, including Liberia's Charles Taylor."
+   ],
+   "related": [
+    "LBR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Parliament",
+   "meaning": "The elected law-making body."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 5 years",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Parliament",
+     "subtitle": "Elected and chiefs",
+     "text": "Includes paramount chiefs."
+    },
+    {
+     "title": "Paramount chiefs",
+     "subtitle": "Traditional rulers",
+     "text": "Lead chiefdoms."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In Parliament."
+   },
+   {
+    "title": "Parliament",
+    "text": "Debates and passes it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

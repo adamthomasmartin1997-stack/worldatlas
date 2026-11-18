@@ -1,0 +1,89 @@
+{
+ "status": "draft",
+ "intro": "Football is Cape Verde's most popular sport, and the islands punch above their weight.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Blue Sharks reached the AFCON quarter-finals in 2013 and 2024 and qualified for their first World Cup, in 2026."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Windsurfing and kitesurfing on Sal attract world competitions."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Blue Sharks",
+   "meaning": "The national team's nickname."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Cape Verdean Championship",
+     "subtitle": "Football",
+     "text": "Island champions compete."
+    },
+    {
+     "title": "Kitesurfing",
+     "subtitle": "Sal",
+     "text": "World tour stops."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Ryan Mendes",
+     "subtitle": "Football",
+     "text": "A national team captain."
+    },
+    {
+     "title": "Bebé",
+     "subtitle": "Football",
+     "text": "Played in Europe."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Cape Verde's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estádio Nacional, Praia",
+    "kind": "venue",
+    "lat": 14.94,
+    "lon": -23.53,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2013",
+    "title": "AFCON quarter-final",
+    "text": "On debut."
+   },
+   {
+    "year": "2025",
+    "title": "World Cup qualification",
+    "text": "One of the smallest nations ever to qualify."
+   }
+  ]
+ }
+}

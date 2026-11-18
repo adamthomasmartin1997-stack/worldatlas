@@ -1,0 +1,79 @@
+{
+ "status": "draft",
+ "intro": "Sierra Leone has a mountainous peninsula, beaches, rainforest and inland plateaus.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "Freetown sits on a mountainous peninsula with white beaches. Tiwai Island is a rainforest sanctuary with many primate species. Mount Bintumani is the highest point in West Africa west of Cameroon."
+   ],
+   "related": [
+    "GIN",
+    "LBR"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Rainfall is very heavy, especially from May to October."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Peninsula",
+   "meaning": "Land almost surrounded by water."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Sierra Leone's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Freetown",
+    "kind": "peninsula capital",
+    "lat": 8.48,
+    "lon": -13.23,
+    "text": "Mountains above the sea."
+   },
+   {
+    "name": "Bunce Island",
+    "kind": "slave fort",
+    "lat": 8.57,
+    "lon": -13.04,
+    "text": "Ruins of a slave-trading fort."
+   },
+   {
+    "name": "Banana Islands",
+    "kind": "islands",
+    "lat": 8.12,
+    "lon": -13.2,
+    "text": "Quiet beaches."
+   },
+   {
+    "name": "Tiwai Island",
+    "kind": "rainforest",
+    "lat": 7.55,
+    "lon": -11.36,
+    "text": "Eleven primate species."
+   },
+   {
+    "name": "Mount Bintumani",
+    "kind": "mountain",
+    "lat": 9.17,
+    "lon": -11.12,
+    "text": "The highest peak."
+   },
+   {
+    "name": "Outamba-Kilimi",
+    "kind": "savanna park",
+    "lat": 9.7,
+    "lon": -12.5,
+    "text": "Elephants and hippos."
+   }
+  ]
+ }
+}

@@ -1,0 +1,68 @@
+{
+ "status": "draft",
+ "intro": "Football is the most popular sport in Mauritania.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Mourabitounes reached their first Africa Cup of Nations in 2019 and the knockout stage in 2024."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Camel racing is traditional."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mourabitounes",
+   "meaning": "The national team's nickname."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Super D1",
+     "subtitle": "Football",
+     "text": "FC Nouadhibou is a top club."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Mauritania's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Stade Cheikha Ould Boïdiya",
+    "kind": "venue",
+    "lat": 18.1,
+    "lon": -15.96,
+    "text": "A stadium in Nouakchott."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2019",
+    "title": "AFCON debut",
+    "text": "A first finals."
+   },
+   {
+    "year": "2024",
+    "title": "AFCON win",
+    "text": "Beat Algeria to reach the knockouts."
+   }
+  ]
+ }
+}

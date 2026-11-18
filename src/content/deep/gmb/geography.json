@@ -1,0 +1,71 @@
+{
+ "status": "draft",
+ "intro": "The Gambia follows the river for about 400 km and is never more than about 50 km wide.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "The river",
+   "text": [
+    "The Gambia River runs through the whole country, with mangroves, birds and hippos. The coast near Banjul has beaches."
+   ],
+   "related": [
+    "SEN"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Hot and sunny, with rain from June to October."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mangrove",
+   "meaning": "Trees that grow in salty water."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of the Gambia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Banjul",
+    "kind": "capital",
+    "lat": 13.45,
+    "lon": -16.58,
+    "text": "An island capital."
+   },
+   {
+    "name": "Kunta Kinteh Island",
+    "kind": "fort ruins",
+    "lat": 13.31,
+    "lon": -16.36,
+    "text": "A slave-trade site."
+   },
+   {
+    "name": "Abuko",
+    "kind": "nature reserve",
+    "lat": 13.4,
+    "lon": -16.65,
+    "text": "Monkeys and birds."
+   },
+   {
+    "name": "River Gambia National Park",
+    "kind": "river park",
+    "lat": 13.65,
+    "lon": -14.95,
+    "text": "Chimpanzee islands."
+   },
+   {
+    "name": "Wassu",
+    "kind": "stone circles",
+    "lat": 13.69,
+    "lon": -14.88,
+    "text": "Ancient stones."
+   }
+  ]
+ }
+}

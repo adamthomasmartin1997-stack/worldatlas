@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "The Gambia is a presidential republic that returned to democracy in 2017.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "President Adama Barrow was elected in 2016 and re-elected in 2021. The National Assembly passes laws."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Banjul"
+    },
+    {
+     "label": "Independence",
+     "value": "1965"
+    },
+    {
+     "label": "President",
+     "value": "Adama Barrow"
+    }
+   ]
+  },
+  {
+   "id": "justice",
+   "title": "Justice",
+   "text": [
+    "A truth commission investigated abuses under Jammeh."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "National Assembly",
+   "meaning": "The parliament."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "58 members",
+     "text": "Mostly elected."
+    },
+    {
+     "title": "Regions",
+     "subtitle": "Local councils",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In the National Assembly."
+   },
+   {
+    "title": "Vote",
+    "text": "Members pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Gives assent."
+   }
+  ]
+ }
+}

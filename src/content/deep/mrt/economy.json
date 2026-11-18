@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Iron ore, fish and gold are Mauritania's main exports, with new gas from the Atlantic.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Iron ore from Zouérat, rich fishing waters and gold are big exports. A gas field shared with Senegal began production in 2025."
+   ],
+   "related": [
+    "SEN",
+    "CHN"
+   ]
+  },
+  {
+   "id": "herding",
+   "title": "Herding",
+   "text": [
+    "Herding camels, goats and cattle remains important."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Iron ore",
+   "meaning": "Rock used to make steel."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Mauritania",
+   "items": [
+    {
+     "title": "Iron ore",
+     "subtitle": "Zouérat",
+     "text": "The top export."
+    },
+    {
+     "title": "Fish",
+     "subtitle": "Atlantic",
+     "text": "Octopus and more."
+    },
+    {
+     "title": "Gold",
+     "subtitle": "Tasiast",
+     "text": "A big mine."
+    },
+    {
+     "title": "Gas",
+     "subtitle": "Offshore",
+     "text": "Shared with Senegal."
+    }
+   ],
+   "intro": "Some of the things Mauritania makes and sells to the world."
+  }
+ ]
+}

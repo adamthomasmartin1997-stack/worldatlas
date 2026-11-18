@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Sierra Leone's capital, Freetown, was founded as a home for freed enslaved people. The country has rebuilt after a brutal civil war.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Lion Mountains",
+   "text": [
+    "Portuguese sailor Pedro de Sintra named the mountains 'Serra Leoa', Lion Mountains, in 1462. Bunce Island became a British slave-trading fort."
+   ],
+   "related": [
+    "PRT",
+    "GBR"
+   ]
+  },
+  {
+   "id": "freetown",
+   "title": "Freetown",
+   "text": [
+    "In 1787 British abolitionists founded a settlement for freed Black people from Britain, Nova Scotia and Jamaica, and later thousands of Africans freed from slave ships by the Royal Navy. Their descendants, the Krio, shaped Freetown's culture.",
+    "Britain ruled Sierra Leone until independence in 1961."
+   ],
+   "related": [
+    "GBR",
+    "CAN",
+    "JAM"
+   ]
+  },
+  {
+   "id": "war",
+   "title": "Civil war and recovery",
+   "text": [
+    "From 1991 to 2002 a civil war, fuelled partly by 'blood diamonds', killed about 50,000 people, and rebels became notorious for cutting off civilians' hands. UN and British troops helped end it. An Ebola epidemic struck in 2014."
+   ],
+   "related": [
+    "LBR",
+    "GBR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1462",
+   "title": "Serra Leoa",
+   "text": "Named by Portuguese sailors."
+  },
+  {
+   "year": "1787",
+   "title": "Province of Freedom",
+   "text": "Settlement founded."
+  },
+  {
+   "year": "1808",
+   "title": "Crown colony",
+   "text": "British rule."
+  },
+  {
+   "year": "1961",
+   "title": "Independence",
+   "text": "27 April."
+  },
+  {
+   "year": "1991",
+   "title": "Civil war",
+   "text": "Until 2002."
+  },
+  {
+   "year": "2014",
+   "title": "Ebola",
+   "text": "An epidemic."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Krio",
+   "meaning": "Descendants of freed settlers, and the common language."
+  },
+  {
+   "term": "Blood diamonds",
+   "meaning": "Diamonds mined to pay for war."
+  }
+ ]
+}

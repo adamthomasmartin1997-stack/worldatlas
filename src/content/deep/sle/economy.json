@@ -1,0 +1,55 @@
+{
+ "status": "draft",
+ "intro": "Sierra Leone is rich in minerals such as diamonds, iron ore and rutile.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Diamonds, iron ore, rutile and bauxite are mined. Most people farm rice and cassava, and fishing is important."
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Beaches near Freetown are slowly attracting tourists again."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Rutile",
+   "meaning": "A mineral used to make titanium."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Sierra Leone",
+   "items": [
+    {
+     "title": "Diamonds",
+     "subtitle": "Kono",
+     "text": "Alluvial diamonds."
+    },
+    {
+     "title": "Iron ore",
+     "subtitle": "Tonkolili",
+     "text": "A big mine."
+    },
+    {
+     "title": "Rutile",
+     "subtitle": "Sherbro",
+     "text": "A top producer."
+    },
+    {
+     "title": "Cocoa and coffee",
+     "subtitle": "East",
+     "text": "Farm exports."
+    }
+   ],
+   "intro": "Some of the things Sierra Leone makes and sells to the world."
+  }
+ ]
+}

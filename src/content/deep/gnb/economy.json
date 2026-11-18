@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Cashew nuts are the backbone of Guinea-Bissau's economy.",
+ "chapters": [
+  {
+   "id": "cashews",
+   "title": "Cashews",
+   "text": [
+    "Cashews make up most exports, mostly sold to India for processing. Rice and fishing are also important."
+   ],
+   "related": [
+    "IND"
+   ]
+  },
+  {
+   "id": "poverty",
+   "title": "Poverty",
+   "text": [
+    "It is one of the poorest countries in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cash crop",
+   "meaning": "A crop grown to sell."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Guinea-Bissau",
+   "items": [
+    {
+     "title": "Cashews",
+     "subtitle": "Everywhere",
+     "text": "The main export."
+    },
+    {
+     "title": "Fish",
+     "subtitle": "Coast",
+     "text": "Sold under licence."
+    },
+    {
+     "title": "Rice",
+     "subtitle": "Wetlands",
+     "text": "A staple crop."
+    }
+   ],
+   "intro": "Some of the things Guinea-Bissau makes and sells to the world."
+  }
+ ]
+}

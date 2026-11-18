@@ -1,0 +1,75 @@
+{
+ "status": "draft",
+ "intro": "The Gambia is mainland Africa's smallest country, a thin strip of land along the Gambia River surrounded by Senegal.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "River kingdoms",
+   "text": [
+    "Mandinka, Wolof and Fula kingdoms lived along the river, which was part of the Mali Empire's trade network. The Wassu stone circles are over a thousand years old."
+   ],
+   "related": [
+    "SEN",
+    "MLI"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Kunta Kinteh Island",
+   "text": [
+    "Europeans fought over a fort on James Island, now Kunta Kinteh Island, used in the slave trade. Britain made the Gambia a colony, and its odd shape follows the river, reaching about as far as British gunboats could sail."
+   ],
+   "highlight": {
+    "title": "Roots",
+    "text": "Alex Haley's book Roots traced his ancestor Kunta Kinteh to the Gambian village of Juffureh."
+   },
+   "related": [
+    "GBR",
+    "USA"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and democracy",
+   "text": [
+    "The Gambia became independent in 1965. Yahya Jammeh ruled from a 1994 coup until 2017, when he lost an election and was forced to leave after regional pressure."
+   ],
+   "related": [
+    "SEN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1651",
+   "title": "James Island fort",
+   "text": "Built by Courland, a Baltic duchy."
+  },
+  {
+   "year": "1765",
+   "title": "British rule",
+   "text": "Senegambia colony."
+  },
+  {
+   "year": "1965",
+   "title": "Independence",
+   "text": "18 February."
+  },
+  {
+   "year": "1994",
+   "title": "Coup",
+   "text": "Jammeh takes power."
+  },
+  {
+   "year": "2017",
+   "title": "Peaceful change",
+   "text": "Adama Barrow takes office."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Enclave",
+   "meaning": "A country almost surrounded by another."
+  }
+ ]
+}

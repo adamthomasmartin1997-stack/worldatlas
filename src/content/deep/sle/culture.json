@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "Sierra Leone's culture mixes Krio and many Indigenous traditions.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Masks of the Sande society, worn by women, are famous. Freetown's Lantern Parade marks the end of Ramadan."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Cassava leaf stew, groundnut stew and fried plantains are favourites, eaten with rice."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sande",
+   "meaning": "A women's society."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "A Long Way Gone",
+     "subtitle": "2007 · Ishmael Beah",
+     "text": "A child soldier's memoir."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Palm-wine music",
+     "subtitle": "S. E. Rogie",
+     "text": "Gentle guitar music."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Cassava leaf",
+     "subtitle": "Everywhere",
+     "text": "A rich leaf stew."
+    },
+    {
+     "title": "Groundnut stew",
+     "subtitle": "Everywhere",
+     "text": "Peanut stew."
+    },
+    {
+     "title": "Fry fry",
+     "subtitle": "Street food",
+     "text": "Fried snacks."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Independence Day",
+    "text": "27 April."
+   },
+   {
+    "month": 12,
+    "name": "Christmas",
+    "text": "Celebrated with lanterns and masks."
+   }
+  ]
+ }
+}

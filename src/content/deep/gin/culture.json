@@ -1,0 +1,70 @@
+{
+ "status": "draft",
+ "intro": "Guinea is famous for its music and dance.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music",
+   "text": [
+    "The national ballet, Les Ballets Africains, toured the world. Mory Kanté's 'Yé ké yé ké' was a global hit. Griots play the kora and balafon."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Rice with leaf or peanut sauce is everyday food."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Balafon",
+   "meaning": "A wooden xylophone."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Yé ké yé ké",
+     "subtitle": "Mory Kanté, 1987",
+     "text": "A worldwide dance hit."
+    },
+    {
+     "title": "Bembeya Jazz",
+     "subtitle": "Band",
+     "text": "Guinea's famous orchestra."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Riz sauce feuille",
+     "subtitle": "Everywhere",
+     "text": "Rice with leaf sauce."
+    },
+    {
+     "title": "Fouti",
+     "subtitle": "Fouta Djallon",
+     "text": "Rice with okra sauce."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 10,
+    "name": "Independence Day",
+    "text": "2 October."
+   }
+  ]
+ }
+}

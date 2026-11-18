@@ -1,0 +1,50 @@
+{
+ "status": "draft",
+ "intro": "Tourism and money from abroad are the main sources of income.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Beach resorts on Sal and Boa Vista draw visitors. Fishing and wine from Fogo's volcanic soil are also produced."
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Water",
+   "text": [
+    "With little rain, Cape Verde relies on desalinating seawater."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tourism",
+   "meaning": "Visitors travelling for leisure."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Cape Verde",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "Sal and Boa Vista",
+     "text": "Beach resorts."
+    },
+    {
+     "title": "Fish",
+     "subtitle": "Waters",
+     "text": "Tuna, canned and exported."
+    },
+    {
+     "title": "Fogo wine",
+     "subtitle": "Fogo",
+     "text": "Grown in volcanic soil."
+    }
+   ],
+   "intro": "Some of the things Cape Verde makes and sells to the world."
+  }
+ ]
+}

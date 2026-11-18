@@ -1,0 +1,82 @@
+{
+ "status": "draft",
+ "intro": "Mauritania is a desert country linking North and West Africa, home to ancient caravan towns and desert libraries.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Ghana Empire and Almoravids",
+   "text": [
+    "Koumbi Saleh, in the south, may have been the capital of the old Ghana Empire. In the 1000s the Almoravid movement began here before conquering Morocco and Spain."
+   ],
+   "related": [
+    "MLI",
+    "MAR",
+    "ESP"
+   ]
+  },
+  {
+   "id": "caravans",
+   "title": "Caravan towns",
+   "text": [
+    "Chinguetti, Ouadane, Tichitt and Oualata were stops on Saharan caravan routes. Chinguetti's family libraries still hold old manuscripts."
+   ],
+   "highlight": {
+    "title": "Chinguetti",
+    "text": "Once called the 'seventh holy city of Islam' by some, it is a World Heritage site."
+   }
+  },
+  {
+   "id": "modern",
+   "title": "Colony and independence",
+   "text": [
+    "France ruled Mauritania from the early 1900s. It became independent in 1960. Mauritania banned slavery in 1981, the last country to do so, and made it a crime in 2007, but rights groups say it still exists. Several coups have taken place; Mohamed Ould Ghazouani has been president since 2019."
+   ],
+   "related": [
+    "FRA",
+    "SEN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1000s",
+   "title": "Almoravids",
+   "text": "A movement begins here."
+  },
+  {
+   "year": "1200s",
+   "title": "Chinguetti",
+   "text": "A caravan town grows."
+  },
+  {
+   "year": "1904",
+   "title": "French rule",
+   "text": "A colony."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "28 November."
+  },
+  {
+   "year": "1981",
+   "title": "Slavery abolished",
+   "text": "The last country to do so."
+  },
+  {
+   "year": "2019",
+   "title": "Peaceful transfer",
+   "text": "Between elected presidents."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Almoravids",
+   "meaning": "A Berber dynasty from the 1000s."
+  },
+  {
+   "term": "Manuscript",
+   "meaning": "A handwritten book."
+  }
+ ]
+}

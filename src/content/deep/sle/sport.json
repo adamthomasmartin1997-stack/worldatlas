@@ -1,0 +1,87 @@
+{
+ "status": "draft",
+ "intro": "Football is the most popular sport in Sierra Leone.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Leone Stars played at the Africa Cup of Nations in 2022 after 26 years away and drew with holders Algeria."
+   ],
+   "related": [
+    "DZA"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Amputee football teams, formed by war survivors, have competed internationally."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Amputee football",
+   "meaning": "Football for players who have lost a limb."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Sierra Leone Premier League",
+     "subtitle": "Football",
+     "text": "East End Lions and Mighty Blackpool are rivals."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Mohamed Kallon",
+     "subtitle": "Football",
+     "text": "Played for Inter Milan."
+    },
+    {
+     "title": "Kei Kamara",
+     "subtitle": "Football",
+     "text": "An MLS star."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Sierra Leone's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Siaka Stevens Stadium, Freetown",
+    "kind": "venue",
+    "lat": 8.47,
+    "lon": -13.24,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1994",
+    "title": "AFCON",
+    "text": "A first appearance."
+   },
+   {
+    "year": "2022",
+    "title": "AFCON draw",
+    "text": "Held Algeria 0–0."
+   }
+  ]
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "status": "draft",
+ "intro": "Mauritanian culture blends Arab, Amazigh and West African traditions.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Tea is served in three rounds. Poetry and music with the tidinit lute are prized. Women wear the colourful melhfa."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Thieboudienne, couscous and camel milk are common."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Melhfa",
+   "meaning": "A large wrapped cloth worn by women."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Timbuktu",
+     "subtitle": "2014 · Abderrahmane Sissako",
+     "text": "Filmed in Mauritania; Oscar-nominated."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Dimi Mint Abba",
+     "subtitle": "Singer",
+     "text": "Famous griot singer."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Thieboudienne",
+     "subtitle": "Everywhere",
+     "text": "Fish and rice."
+    },
+    {
+     "title": "Mauritanian tea",
+     "subtitle": "Everywhere",
+     "text": "Three sweet rounds."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 11,
+    "name": "Independence Day",
+    "text": "28 November."
+   }
+  ]
+ }
+}

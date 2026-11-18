@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Cape Verde has about 500,000 people, with a larger diaspora abroad.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are of mixed African and Portuguese descent. Portuguese is official, and Cape Verdean Creole is spoken daily. Most people are Catholic."
+   ],
+   "related": [
+    "PRT"
+   ]
+  },
+  {
+   "id": "praia",
+   "title": "Praia",
+   "text": [
+    "Praia, on Santiago, is the capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kriolu",
+   "meaning": "Cape Verdean Creole."
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "status": "draft",
+ "intro": "Football is Guinea-Bissau's most popular sport.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Djurtus reached the Africa Cup of Nations for the first time in 2017."
+   ]
+  },
+  {
+   "id": "players",
+   "title": "Players",
+   "text": [
+    "Many players of Bissau-Guinean descent play in Portugal."
+   ],
+   "related": [
+    "PRT"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Djurtus",
+   "meaning": "The national team's nickname."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Campeonato Nacional",
+     "subtitle": "Football",
+     "text": "The top league."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Guinea-Bissau's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estádio 24 de Setembro",
+    "kind": "venue",
+    "lat": 11.87,
+    "lon": -15.6,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2017",
+    "title": "AFCON debut",
+    "text": "A first finals."
+   },
+   {
+    "year": "2019",
+    "title": "AFCON",
+    "text": "A second finals."
+   }
+  ]
+ }
+}

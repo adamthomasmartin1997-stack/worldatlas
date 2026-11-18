@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Sierra Leone has about 9 million people, famous for religious tolerance.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Temne and Mende are the largest groups. English is official and Krio is spoken by almost everyone. Muslims and Christians live side by side, and mixed families are common."
+   ]
+  },
+  {
+   "id": "freetown",
+   "title": "Freetown",
+   "text": [
+    "Freetown's Cotton Tree was a landmark for over 200 years until a storm felled it in 2023."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mende",
+   "meaning": "One of the largest ethnic groups."
+  }
+ ]
+}

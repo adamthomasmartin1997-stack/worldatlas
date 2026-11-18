@@ -1,0 +1,58 @@
+{
+ "status": "draft",
+ "intro": "Guinea has the world's largest reserves of bauxite, used to make aluminium.",
+ "chapters": [
+  {
+   "id": "mining",
+   "title": "Mining",
+   "text": [
+    "Guinea is one of the biggest bauxite exporters, mostly to China. The giant Simandou iron ore mine began shipping in 2025."
+   ],
+   "related": [
+    "CHN"
+   ]
+  },
+  {
+   "id": "farming",
+   "title": "Farming",
+   "text": [
+    "Most people farm rice, cassava and fruit."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bauxite",
+   "meaning": "The ore used to make aluminium."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Guinea",
+   "items": [
+    {
+     "title": "Bauxite",
+     "subtitle": "Boké",
+     "text": "One of the world's top exporters."
+    },
+    {
+     "title": "Iron ore",
+     "subtitle": "Simandou",
+     "text": "A giant new mine."
+    },
+    {
+     "title": "Gold",
+     "subtitle": "Siguiri",
+     "text": "Mined in the north-east."
+    },
+    {
+     "title": "Fruit",
+     "subtitle": "Coast",
+     "text": "Mangoes and pineapples."
+    }
+   ],
+   "intro": "Some of the things Guinea makes and sells to the world."
+  }
+ ]
+}
