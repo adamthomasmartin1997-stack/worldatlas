@@ -6,7 +6,7 @@
    "id": "system",
    "title": "Who rules",
    "text": [
-    "A transitional council and prime minister govern while elections are planned. Armed gangs control much of Port-au-Prince, and over a million people have been forced from their homes."
+    "A transitional council governed until February 2026; since then the prime minister has led the country while elections are planned. Armed gangs control much of Port-au-Prince, and over a million people have been forced from their homes."
    ],
    "facts": [
     {
@@ -27,7 +27,7 @@
    "id": "help",
    "title": "International help",
    "text": [
-    "A UN-approved security force led by Kenya arrived in 2024 to help the police."
+    "A Kenyan-led security mission arrived in 2024. In 2025 the UN approved a larger Gang Suppression Force to replace it."
    ],
    "related": [
     "KEN"
@@ -46,13 +46,13 @@
    "title": "How power works",
    "items": [
     {
-     "title": "Transitional council",
-     "subtitle": "Interim leadership",
-     "text": "Rules until elections."
-    },
-    {
      "title": "Prime Minister",
      "subtitle": "Appointed",
+     "text": "Leads the country since February 2026."
+    },
+    {
+     "title": "Council of Ministers",
+     "subtitle": "Cabinet",
      "text": "Runs the government."
     },
     {

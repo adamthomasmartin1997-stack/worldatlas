@@ -1,6 +1,6 @@
 {
  "status": "draft",
- "intro": "Bangladesh is a parliamentary republic. After the 2024 uprising an interim government took over and prepared for new elections.",
+ "intro": "Bangladesh is a parliamentary republic. After the 2024 uprising an interim government ran the country until elections in February 2026.",
  "chapters": [
   {
    "id": "system",
@@ -27,7 +27,7 @@
    "id": "interim",
    "title": "After 2024",
    "text": [
-    "In August 2024 Nobel Peace Prize winner Muhammad Yunus became chief adviser of an interim government, promising reforms and new elections."
+    "In August 2024 Nobel Peace Prize winner Muhammad Yunus became chief adviser of an interim government. In the February 2026 election the Bangladesh Nationalist Party won, and Tarique Rahman became prime minister. Voters also approved term limits for prime ministers in a referendum."
    ]
   }
  ],
