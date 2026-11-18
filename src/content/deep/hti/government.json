@@ -1,0 +1,82 @@
+{
+ "status": "draft",
+ "intro": "Haiti has had no elected president or parliament since 2021 and is led by a transitional government.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Who rules",
+   "text": [
+    "A transitional council and prime minister govern while elections are planned. Armed gangs control much of Port-au-Prince, and over a million people have been forced from their homes."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Port-au-Prince"
+    },
+    {
+     "label": "Independence",
+     "value": "1804"
+    },
+    {
+     "label": "Languages",
+     "value": "Haitian Creole, French"
+    }
+   ]
+  },
+  {
+   "id": "help",
+   "title": "International help",
+   "text": [
+    "A UN-approved security force led by Kenya arrived in 2024 to help the police."
+   ],
+   "related": [
+    "KEN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Transitional",
+   "meaning": "Temporary, before elections."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Transitional council",
+     "subtitle": "Interim leadership",
+     "text": "Rules until elections."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed",
+     "text": "Runs the government."
+    },
+    {
+     "title": "Parliament",
+     "subtitle": "Not sitting",
+     "text": "Terms expired."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Decrees",
+    "text": "Issued by the transitional authorities."
+   },
+   {
+    "title": "Elections",
+    "text": "Planned to restore parliament."
+   }
+  ]
+ }
+}

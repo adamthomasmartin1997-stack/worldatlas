@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Cuba's state-run economy relies on tourism, nickel, tobacco and doctors sent abroad.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Cuban cigars and rum are famous. Nickel is a big export. Cuba sends doctors to many countries in exchange for payment."
+   ],
+   "related": [
+    "VEN",
+    "CHN"
+   ]
+  },
+  {
+   "id": "crisis",
+   "title": "Crisis",
+   "text": [
+    "Since 2020 fuel shortages and blackouts have been severe."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "State-run",
+   "meaning": "Controlled by the government."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Cuba",
+   "items": [
+    {
+     "title": "Cigars",
+     "subtitle": "Pinar del Río",
+     "text": "Hand-rolled Havanas."
+    },
+    {
+     "title": "Rum",
+     "subtitle": "Santiago and Havana",
+     "text": "Famous brands."
+    },
+    {
+     "title": "Nickel",
+     "subtitle": "Moa",
+     "text": "A big export."
+    },
+    {
+     "title": "Medical services",
+     "subtitle": "Doctors abroad",
+     "text": "A large earner."
+    }
+   ],
+   "intro": "Some of the things Cuba makes and sells to the world."
+  }
+ ]
+}

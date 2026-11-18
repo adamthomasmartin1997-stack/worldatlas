@@ -1,0 +1,132 @@
+{
+ "status": "draft",
+ "intro": "Jamaica's music has influenced the whole world.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Reggae",
+   "text": [
+    "Ska, rocksteady, reggae and dancehall all began in Jamaica. Reggae is on UNESCO's list. Bob Marley is its most famous star."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Ackee and saltfish is the national dish. Jerk chicken, spiced and smoked, is famous worldwide."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Jerk",
+   "meaning": "A spicy way of cooking meat."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Harder They Come",
+     "subtitle": "1972 · Perry Henzell",
+     "text": "Brought reggae to the world."
+    },
+    {
+     "title": "Third World Cop",
+     "subtitle": "1999 · Chris Browne",
+     "text": "A Kingston crime drama and box-office hit."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Book of Night Women",
+     "subtitle": "2009 · Marlon James",
+     "text": "Enslaved women on a plantation."
+    },
+    {
+     "title": "A Brief History of Seven Killings",
+     "subtitle": "2014 · Marlon James",
+     "text": "Won the Booker Prize."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "One Love",
+     "subtitle": "Bob Marley, 1977",
+     "text": "A song of unity."
+    },
+    {
+     "title": "Israelites",
+     "subtitle": "Desmond Dekker, 1968",
+     "text": "An early reggae hit."
+    },
+    {
+     "title": "Shaggy",
+     "subtitle": "Singer",
+     "text": "Global dancehall hits."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Ackee and saltfish",
+     "subtitle": "Breakfast",
+     "text": "The national dish."
+    },
+    {
+     "title": "Jerk chicken",
+     "subtitle": "Everywhere",
+     "text": "Spicy smoked chicken."
+    },
+    {
+     "title": "Patties",
+     "subtitle": "Everywhere",
+     "text": "Spiced pastries."
+    },
+    {
+     "title": "Festival",
+     "subtitle": "Everywhere",
+     "text": "Sweet fried dumplings."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Bob Marley's birthday",
+    "text": "6 February."
+   },
+   {
+    "month": 7,
+    "name": "Reggae Sumfest",
+    "text": "A big music festival."
+   },
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "6 August."
+   },
+   {
+    "month": 8,
+    "name": "Emancipation Day",
+    "text": "1 August."
+   }
+  ]
+ }
+}

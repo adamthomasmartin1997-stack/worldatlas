@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "Jamaica is a mountainous Caribbean island with beaches, rivers and waterfalls.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "The Blue Mountains, home of famous coffee, rise to Blue Mountain Peak at 2,256 m. Dunn's River Falls tumbles onto a beach. Cockpit Country is a rugged limestone landscape where the Maroons once lived."
+   ],
+   "related": [
+    "CUB",
+    "HTI"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Hurricanes",
+   "text": [
+    "Hurricanes can hit from June to November."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Karst",
+   "meaning": "Limestone landscape with caves and sinkholes."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Jamaica's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Negril",
+    "kind": "beach",
+    "lat": 18.27,
+    "lon": -78.35,
+    "text": "Seven Mile Beach."
+   },
+   {
+    "name": "Montego Bay",
+    "kind": "resort",
+    "lat": 18.47,
+    "lon": -77.92,
+    "text": "The tourism capital."
+   },
+   {
+    "name": "Cockpit Country",
+    "kind": "karst",
+    "lat": 18.3,
+    "lon": -77.6,
+    "text": "Maroon country."
+   },
+   {
+    "name": "Dunn's River Falls",
+    "kind": "waterfall",
+    "lat": 18.41,
+    "lon": -77.14,
+    "text": "Climb the falls."
+   },
+   {
+    "name": "Blue Mountains",
+    "kind": "mountains",
+    "lat": 18.05,
+    "lon": -76.58,
+    "text": "Coffee and peaks."
+   },
+   {
+    "name": "Kingston",
+    "kind": "capital",
+    "lat": 17.99,
+    "lon": -76.79,
+    "text": "The Bob Marley Museum."
+   },
+   {
+    "name": "Port Antonio",
+    "kind": "coast",
+    "lat": 18.18,
+    "lon": -76.45,
+    "text": "Lush and quiet."
+   }
+  ]
+ }
+}

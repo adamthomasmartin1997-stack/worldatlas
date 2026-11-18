@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "The Dominican Republic is a presidential democracy.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for four years; Luis Abinader was re-elected in 2024. Congress has a Senate and a Chamber of Deputies."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Santo Domingo"
+    },
+    {
+     "label": "Independence",
+     "value": "1844"
+    },
+    {
+     "label": "Provinces",
+     "value": "31 plus the National District"
+    }
+   ]
+  },
+  {
+   "id": "haiti",
+   "title": "Relations with Haiti",
+   "text": [
+    "Migration and the border with Haiti are major political issues."
+   ],
+   "related": [
+    "HTI"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Congress",
+   "meaning": "The law-making body."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 4 years",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "32 members",
+     "text": "One per province and the capital."
+    },
+    {
+     "title": "Chamber of Deputies",
+     "subtitle": "190 members",
+     "text": "The lower house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "In either chamber."
+   },
+   {
+    "title": "Both chambers",
+    "text": "Debate and pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it or objects."
+   }
+  ]
+ }
+}

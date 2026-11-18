@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Haiti occupies the western third of Hispaniola and is very mountainous.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "Haiti's name comes from a Taíno word meaning 'mountainous land'. Pic la Selle is the highest point. Much of the forest has been cut down, making floods and landslides worse."
+   ],
+   "related": [
+    "DOM",
+    "CUB",
+    "JAM"
+   ]
+  },
+  {
+   "id": "hazards",
+   "title": "Hazards",
+   "text": [
+    "Haiti faces hurricanes and earthquakes."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Deforestation",
+   "meaning": "Cutting down forests."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Haiti's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Citadelle Laferrière",
+    "kind": "mountain fortress",
+    "lat": 19.57,
+    "lon": -72.24,
+    "text": "A huge fortress on a peak."
+   },
+   {
+    "name": "Cap-Haïtien",
+    "kind": "coastal city",
+    "lat": 19.76,
+    "lon": -72.2,
+    "text": "An old colonial city."
+   },
+   {
+    "name": "Bassin Bleu",
+    "kind": "waterfall pools",
+    "lat": 18.27,
+    "lon": -72.58,
+    "text": "Blue pools near Jacmel."
+   },
+   {
+    "name": "Port-au-Prince",
+    "kind": "capital",
+    "lat": 18.54,
+    "lon": -72.34,
+    "text": "The largest city."
+   },
+   {
+    "name": "Pic la Selle",
+    "kind": "mountain",
+    "lat": 18.36,
+    "lon": -71.98,
+    "text": "The highest peak."
+   },
+   {
+    "name": "Île-à-Vache",
+    "kind": "island",
+    "lat": 18.07,
+    "lon": -73.64,
+    "text": "Quiet beaches."
+   }
+  ]
+ }
+}

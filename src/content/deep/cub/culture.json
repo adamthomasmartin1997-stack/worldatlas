@@ -1,0 +1,122 @@
+{
+ "status": "draft",
+ "intro": "Cuba is famous for its music, dance and classic cars.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music",
+   "text": [
+    "Son, salsa, mambo and cha-cha-cha came from Cuba. The Buena Vista Social Club made old Cuban musicians famous worldwide."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Ropa vieja (shredded beef), moros y cristianos (black beans and rice) and the Cuban sandwich are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Son",
+   "meaning": "A Cuban music style, ancestor of salsa."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Strawberry and Chocolate",
+     "subtitle": "1993 · Gutiérrez Alea and Tabío",
+     "text": "Oscar-nominated."
+    },
+    {
+     "title": "Buena Vista Social Club",
+     "subtitle": "1999 · Wim Wenders",
+     "text": "A documentary about old musicians."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Versos sencillos",
+     "subtitle": "1891 · José Martí",
+     "text": "Includes the words of 'Guantanamera'."
+    },
+    {
+     "title": "The Kingdom of This World",
+     "subtitle": "1949 · Alejo Carpentier",
+     "text": "Magical realism."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Guantanamera",
+     "subtitle": "Traditional",
+     "text": "The most famous Cuban song."
+    },
+    {
+     "title": "Chan Chan",
+     "subtitle": "Buena Vista Social Club, 1997",
+     "text": "A worldwide hit."
+    },
+    {
+     "title": "Celia Cruz",
+     "subtitle": "Singer",
+     "text": "The 'Queen of Salsa'."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Ropa vieja",
+     "subtitle": "Everywhere",
+     "text": "Shredded beef."
+    },
+    {
+     "title": "Moros y cristianos",
+     "subtitle": "Everywhere",
+     "text": "Black beans and rice."
+    },
+    {
+     "title": "Cuban sandwich",
+     "subtitle": "Everywhere",
+     "text": "Ham, pork and cheese."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Triumph of the Revolution",
+    "text": "1 January."
+   },
+   {
+    "month": 7,
+    "name": "Santiago Carnival",
+    "text": "July carnival."
+   },
+   {
+    "month": 10,
+    "name": "Independence Day",
+    "text": "10 October, 1868."
+   }
+  ]
+ }
+}

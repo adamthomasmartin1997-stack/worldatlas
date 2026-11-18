@@ -1,0 +1,35 @@
+{
+ "status": "draft",
+ "intro": "Jamaica has about 2.8 million people, mostly of African descent.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "English is official, and Jamaican Patois is spoken by almost everyone. Christianity is the main faith; Rastafari began here in the 1930s. The national motto is 'Out of Many, One People'."
+   ],
+   "related": [
+    "GBR",
+    "USA",
+    "CAN"
+   ]
+  },
+  {
+   "id": "kingston",
+   "title": "Kingston",
+   "text": [
+    "Kingston, the capital, is the birthplace of reggae and dancehall."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Patois",
+   "meaning": "Jamaican Creole."
+  },
+  {
+   "term": "Rastafari",
+   "meaning": "A religion that began in Jamaica."
+  }
+ ]
+}

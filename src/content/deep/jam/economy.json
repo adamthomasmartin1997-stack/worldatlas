@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Tourism, bauxite and money from Jamaicans abroad drive the economy.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Beach resorts in Montego Bay and Negril attract millions. Bauxite and alumina are exported, and Blue Mountain coffee is among the most expensive in the world."
+   ],
+   "related": [
+    "USA",
+    "JPN"
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music industry",
+   "text": [
+    "Music is a big cultural export."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Alumina",
+   "meaning": "Processed bauxite used to make aluminium."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Jamaica",
+   "items": [
+    {
+     "title": "Bauxite and alumina",
+     "subtitle": "Mines",
+     "text": "A main export."
+    },
+    {
+     "title": "Blue Mountain coffee",
+     "subtitle": "Blue Mountains",
+     "text": "Very expensive coffee."
+    },
+    {
+     "title": "Rum",
+     "subtitle": "Estates",
+     "text": "Famous brands."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "North coast",
+     "text": "Millions of visitors."
+    }
+   ],
+   "intro": "Some of the things Jamaica makes and sells to the world."
+  }
+ ]
+}

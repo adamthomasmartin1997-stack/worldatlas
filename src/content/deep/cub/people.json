@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Cuba has about 10 million people, a number that has fallen as many have emigrated.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Cubans are of Spanish, African and mixed descent. Spanish is spoken. Afro-Cuban religion Santería is practised alongside Catholicism.",
+    "Large Cuban communities live in Miami and elsewhere in the US."
+   ],
+   "related": [
+    "USA",
+    "ESP"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Daily life",
+   "text": [
+    "Health care and education are free, and literacy is near universal, but wages are low and shortages common."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Santería",
+   "meaning": "A religion mixing Yoruba and Catholic beliefs."
+  }
+ ]
+}

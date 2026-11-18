@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "The Dominican Republic, on the eastern side of Hispaniola, has the oldest European city in the Americas and is now the Caribbean's top tourist destination.",
+ "chapters": [
+  {
+   "id": "colony",
+   "title": "First Spanish colony",
+   "text": [
+    "Columbus founded La Isabela in 1493. Santo Domingo, founded in 1496, has the first cathedral, university and hospital built by Europeans in the Americas. The Taíno population collapsed under Spanish rule."
+   ],
+   "highlight": {
+    "title": "Firsts",
+    "text": "Santo Domingo's colonial city is a World Heritage site."
+   },
+   "related": [
+    "ESP",
+    "HTI"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Haiti ruled the whole island from 1822. The Dominican Republic declared independence from Haiti on 27 February 1844. Spain returned briefly in the 1860s, and the US occupied the country from 1916 to 1924."
+   ],
+   "related": [
+    "HTI",
+    "ESP",
+    "USA"
+   ]
+  },
+  {
+   "id": "trujillo",
+   "title": "Trujillo and after",
+   "text": [
+    "Rafael Trujillo ruled as a brutal dictator from 1930 to 1961; in 1937 his troops massacred thousands of Haitians. Democracy grew after the 1960s, and the economy has grown fast."
+   ],
+   "related": [
+    "HTI",
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1492",
+   "title": "Columbus",
+   "text": "Lands on Hispaniola."
+  },
+  {
+   "year": "1496",
+   "title": "Santo Domingo",
+   "text": "Founded."
+  },
+  {
+   "year": "1822",
+   "title": "Haitian rule",
+   "text": "The whole island."
+  },
+  {
+   "year": "1844",
+   "title": "Independence",
+   "text": "27 February."
+  },
+  {
+   "year": "1930",
+   "title": "Trujillo",
+   "text": "Dictatorship begins."
+  },
+  {
+   "year": "1961",
+   "title": "Trujillo killed",
+   "text": "Dictatorship ends."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Merengue",
+   "meaning": "The national music and dance."
+  },
+  {
+   "term": "Dictator",
+   "meaning": "A ruler with total power."
+  }
+ ]
+}

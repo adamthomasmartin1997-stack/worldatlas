@@ -1,0 +1,101 @@
+{
+ "status": "draft",
+ "intro": "Haitian art and music are vibrant and famous worldwide.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Haitian painting, with bright naïve scenes, and metal sculpture from recycled drums are prized. Kompa is the popular dance music."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Soup joumou, a pumpkin soup once forbidden to enslaved people, is eaten on Independence Day and is on UNESCO's list. Griot (fried pork) and pikliz (spicy slaw) are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Soup joumou",
+   "meaning": "A pumpkin soup of freedom."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Masters of the Dew",
+     "subtitle": "1944 · Jacques Roumain",
+     "text": "A classic novel."
+    },
+    {
+     "title": "Breath, Eyes, Memory",
+     "subtitle": "1994 · Edwidge Danticat",
+     "text": "A Haitian-American girl's story."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Kompa",
+     "subtitle": "Music",
+     "text": "Dance music."
+    },
+    {
+     "title": "Wyclef Jean",
+     "subtitle": "Singer",
+     "text": "A Haitian-born star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Soup joumou",
+     "subtitle": "1 January",
+     "text": "Pumpkin soup."
+    },
+    {
+     "title": "Griot",
+     "subtitle": "Everywhere",
+     "text": "Fried pork."
+    },
+    {
+     "title": "Pikliz",
+     "subtitle": "Everywhere",
+     "text": "Spicy pickled slaw."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Independence Day",
+    "text": "1 January."
+   },
+   {
+    "month": 2,
+    "name": "Carnival",
+    "text": "Kanaval in Jacmel."
+   },
+   {
+    "month": 11,
+    "name": "Fèt Gede",
+    "text": "Vodou Day of the Dead."
+   }
+  ]
+ }
+}

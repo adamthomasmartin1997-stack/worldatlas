@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Jamaica is a parliamentary democracy with the British monarch as head of state, though it plans to become a republic.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The prime minister leads the government; Andrew Holness won a third term in 2025. Parliament has an elected House and an appointed Senate."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Kingston"
+    },
+    {
+     "label": "Independence",
+     "value": "1962"
+    },
+    {
+     "label": "Motto",
+     "value": "Out of Many, One People"
+    }
+   ]
+  },
+  {
+   "id": "republic",
+   "title": "Becoming a republic",
+   "text": [
+    "Jamaica plans a referendum on removing the monarch."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Republic",
+   "meaning": "A country with an elected head of state."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Governor-General",
+     "subtitle": "Represents the King",
+     "text": "Ceremonial."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Leader of the majority",
+     "text": "Leads the government."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "63 members",
+     "text": "Elected by voters."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "21 members",
+     "text": "Appointed, not elected."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In either house."
+   },
+   {
+    "title": "Both houses",
+    "text": "Debate and pass it."
+   },
+   {
+    "title": "Governor-General",
+    "text": "Gives assent."
+   }
+  ]
+ }
+}

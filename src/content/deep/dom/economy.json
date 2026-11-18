@@ -1,0 +1,58 @@
+{
+ "status": "draft",
+ "intro": "Tourism, free-zone factories, mining and remittances power the Dominican economy.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Over ten million visitors arrive each year. Factories make medical devices, cigars and clothes. Gold, cocoa, bananas and sugar are exported."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "amber",
+   "title": "Amber",
+   "text": [
+    "Dominican amber often contains insects trapped millions of years ago."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Free zone",
+   "meaning": "An area with low taxes for export factories."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in the Dominican Republic",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "Coast",
+     "text": "Millions of visitors."
+    },
+    {
+     "title": "Cigars",
+     "subtitle": "Santiago",
+     "text": "Premium cigars."
+    },
+    {
+     "title": "Gold",
+     "subtitle": "Pueblo Viejo",
+     "text": "A huge mine."
+    },
+    {
+     "title": "Cocoa",
+     "subtitle": "East",
+     "text": "Organic cocoa."
+    }
+   ],
+   "intro": "Some of the things the Dominican Republic makes and sells to the world."
+  }
+ ]
+}

@@ -1,0 +1,99 @@
+{
+ "status": "draft",
+ "intro": "Haiti was the first country founded by formerly enslaved people, after the only successful large-scale slave revolution in history.",
+ "chapters": [
+  {
+   "id": "colony",
+   "title": "Saint-Domingue",
+   "text": [
+    "The Taíno lived on the island of Hispaniola when Columbus arrived in 1492. France took the western part, Saint-Domingue, which by the 1780s was the world's richest colony, producing much of Europe's sugar and coffee with hundreds of thousands of enslaved Africans."
+   ],
+   "related": [
+    "FRA",
+    "ESP",
+    "DOM"
+   ]
+  },
+  {
+   "id": "revolution",
+   "title": "The Haitian Revolution",
+   "text": [
+    "In 1791 enslaved people rose up. Led by Toussaint Louverture and then Jean-Jacques Dessalines, they defeated French, Spanish and British armies. Haiti declared independence on 1 January 1804."
+   ],
+   "highlight": {
+    "title": "A world first",
+    "text": "Haiti was the first Black republic and the first country in the Americas to abolish slavery for good."
+   },
+   "related": [
+    "FRA",
+    "GBR",
+    "ESP"
+   ]
+  },
+  {
+   "id": "after",
+   "title": "A difficult history",
+   "text": [
+    "In 1825 France forced Haiti to pay a huge 'indemnity' for its independence, a debt that crippled its economy for over a century. The US occupied Haiti from 1915 to 1934, and the Duvalier dictatorships ruled from 1957 to 1986.",
+    "A 2010 earthquake killed over 200,000 people. Since the president's assassination in 2021, armed gangs have taken control of most of the capital, and a Kenyan-led international security mission has been deployed."
+   ],
+   "related": [
+    "FRA",
+    "USA",
+    "KEN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1492",
+   "title": "Columbus",
+   "text": "Lands on Hispaniola."
+  },
+  {
+   "year": "1697",
+   "title": "French colony",
+   "text": "Saint-Domingue."
+  },
+  {
+   "year": "1791",
+   "title": "Revolution",
+   "text": "Enslaved people rise up."
+  },
+  {
+   "year": "1804",
+   "title": "Independence",
+   "text": "1 January."
+  },
+  {
+   "year": "1825",
+   "title": "Indemnity",
+   "text": "France demands payment."
+  },
+  {
+   "year": "1915",
+   "title": "US occupation",
+   "text": "Until 1934."
+  },
+  {
+   "year": "2010",
+   "title": "Earthquake",
+   "text": "Devastates Port-au-Prince."
+  },
+  {
+   "year": "2021",
+   "title": "President killed",
+   "text": "Jovenel Moïse is assassinated."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Indemnity",
+   "meaning": "A payment demanded as compensation."
+  },
+  {
+   "term": "Hispaniola",
+   "meaning": "The island shared by Haiti and the Dominican Republic."
+  }
+ ]
+}

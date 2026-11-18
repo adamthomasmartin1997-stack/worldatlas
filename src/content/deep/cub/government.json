@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Cuba is a one-party communist state led by the Communist Party of Cuba.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The party's first secretary, Miguel Díaz-Canel, is also president. Other parties are banned, and the state controls media."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Havana"
+    },
+    {
+     "label": "Independence",
+     "value": "1902"
+    },
+    {
+     "label": "Ruling party",
+     "value": "Communist Party of Cuba"
+    }
+   ]
+  },
+  {
+   "id": "guantanamo",
+   "title": "Guantánamo",
+   "text": [
+    "The US keeps a naval base at Guantánamo Bay, against the Cuban government's wishes."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "One-party state",
+   "meaning": "Only one party is allowed."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "First Secretary and President",
+     "subtitle": "Miguel Díaz-Canel",
+     "text": "Leads the party and state."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed",
+     "text": "Runs the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "About 470 members",
+     "text": "Only party-approved candidates."
+    },
+    {
+     "title": "Communist Party",
+     "subtitle": "The only legal party",
+     "text": "Guides the state."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is drafted",
+    "text": "By the government."
+   },
+   {
+    "title": "National Assembly",
+    "text": "Approves it in short sessions."
+   },
+   {
+    "title": "Published",
+    "text": "In the official gazette."
+   }
+  ]
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "status": "draft",
+ "intro": "Cuba is the largest island in the Caribbean, a former Spanish colony that became a communist state after its 1959 revolution.",
+ "chapters": [
+  {
+   "id": "colony",
+   "title": "Spanish Cuba",
+   "text": [
+    "Taíno people lived on the island when Columbus arrived in 1492. Spain conquered it, and the Indigenous population collapsed from violence and disease. Havana became a key port for Spanish treasure fleets.",
+    "From the 1700s, sugar plantations worked by hundreds of thousands of enslaved Africans made Cuba rich. Slavery ended only in 1886."
+   ],
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence wars",
+   "text": [
+    "Cubans fought Spain from 1868. José Martí, poet and leader, died fighting in 1895. The US joined the war in 1898, and Cuba became independent in 1902 under strong US influence."
+   ],
+   "highlight": {
+    "title": "José Martí",
+    "text": "Martí is Cuba's national hero, honoured by both the government and exiles."
+   },
+   "related": [
+    "USA",
+    "ESP"
+   ]
+  },
+  {
+   "id": "revolution",
+   "title": "Revolution",
+   "text": [
+    "In 1959 Fidel Castro and Che Guevara overthrew the dictator Fulgencio Batista. Castro's government took over businesses, allied with the Soviet Union and became a one-party communist state. The 1962 Cuban Missile Crisis brought the world close to nuclear war.",
+    "The US has kept a trade embargo since 1962. After the Soviet Union collapsed, Cuba faced hard times. Fidel died in 2016; his brother Raúl retired in 2021. Shortages and blackouts led many Cubans to leave in recent years."
+   ],
+   "related": [
+    "USA",
+    "RUS"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1492",
+   "title": "Columbus",
+   "text": "Lands in Cuba."
+  },
+  {
+   "year": "1519",
+   "title": "Havana",
+   "text": "Founded at its current site."
+  },
+  {
+   "year": "1868",
+   "title": "Independence war",
+   "text": "Begins."
+  },
+  {
+   "year": "1898",
+   "title": "Spanish–American War",
+   "text": "Spain leaves."
+  },
+  {
+   "year": "1959",
+   "title": "Revolution",
+   "text": "Castro takes power."
+  },
+  {
+   "year": "1962",
+   "title": "Missile Crisis",
+   "text": "13 tense days."
+  },
+  {
+   "year": "2016",
+   "title": "Fidel dies",
+   "text": "Aged 90."
+  },
+  {
+   "year": "2021",
+   "title": "Protests",
+   "text": "The biggest in decades."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Embargo",
+   "meaning": "A ban on trade."
+  },
+  {
+   "term": "Revolution",
+   "meaning": "The overthrow of a government."
+  }
+ ]
+}

@@ -1,0 +1,34 @@
+{
+ "status": "draft",
+ "intro": "The Dominican Republic has about 11 million people.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most Dominicans are of mixed European and African descent. Spanish is official. Many Haitians and people of Haitian descent live and work in the country."
+   ],
+   "related": [
+    "HTI",
+    "USA",
+    "ESP"
+   ]
+  },
+  {
+   "id": "diaspora",
+   "title": "Diaspora",
+   "text": [
+    "Over two million Dominicans live in the US, especially New York."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Taíno",
+   "meaning": "The Indigenous people of the Caribbean islands."
+  }
+ ]
+}

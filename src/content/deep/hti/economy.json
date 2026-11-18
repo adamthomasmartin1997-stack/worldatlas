@@ -1,0 +1,58 @@
+{
+ "status": "draft",
+ "intro": "Haiti is the poorest country in the Americas.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Most people farm or work informally. Clothing factories, mangoes, coffee and vetiver oil for perfume are exports. Money sent home from abroad is a large share of income."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "crisis",
+   "title": "Crisis",
+   "text": [
+    "Gang violence has disrupted trade and food supplies."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Vetiver",
+   "meaning": "A grass whose roots give a perfume oil."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Haiti",
+   "items": [
+    {
+     "title": "Clothing",
+     "subtitle": "Factories",
+     "text": "For US brands."
+    },
+    {
+     "title": "Mangoes",
+     "subtitle": "Farms",
+     "text": "Sweet Francis mangoes."
+    },
+    {
+     "title": "Vetiver oil",
+     "subtitle": "South",
+     "text": "For perfumes."
+    },
+    {
+     "title": "Art",
+     "subtitle": "Artists",
+     "text": "Paintings and metalwork."
+    }
+   ],
+   "intro": "Some of the things Haiti makes and sells to the world."
+  }
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "status": "draft",
+ "intro": "Jamaica, birthplace of reggae and Bob Marley, has given the world some of its greatest sprinters.",
+ "chapters": [
+  {
+   "id": "taino",
+   "title": "Taíno and Spanish rule",
+   "text": [
+    "The Taíno called the island Xaymaca, 'land of wood and water'. Spain claimed it after Columbus arrived in 1494."
+   ],
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "british",
+   "title": "British Jamaica",
+   "text": [
+    "Britain captured Jamaica in 1655. Sugar plantations used enslaved Africans; Jamaica became one of the richest colonies. Maroons, escaped enslaved people, fought the British and won treaties. Sam Sharpe led a great rebellion in 1831, and slavery ended in 1834–38."
+   ],
+   "highlight": {
+    "title": "Maroons",
+    "text": "The Maroons won self-rule in the mountains in the 1730s."
+   },
+   "related": [
+    "GBR",
+    "GHA"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence",
+   "text": [
+    "Jamaica became independent on 6 August 1962. Marcus Garvey, born in Jamaica, inspired Black pride movements worldwide. Hurricane Melissa struck the island hard in October 2025."
+   ],
+   "related": [
+    "GBR",
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1494",
+   "title": "Columbus",
+   "text": "Arrives."
+  },
+  {
+   "year": "1655",
+   "title": "British conquest",
+   "text": "From Spain."
+  },
+  {
+   "year": "1739",
+   "title": "Maroon treaty",
+   "text": "Self-rule won."
+  },
+  {
+   "year": "1831",
+   "title": "Christmas Rebellion",
+   "text": "Led by Sam Sharpe."
+  },
+  {
+   "year": "1838",
+   "title": "Emancipation",
+   "text": "Slavery ends fully."
+  },
+  {
+   "year": "1962",
+   "title": "Independence",
+   "text": "6 August."
+  },
+  {
+   "year": "2025",
+   "title": "Hurricane Melissa",
+   "text": "A devastating storm."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Maroon",
+   "meaning": "Descendants of people who escaped slavery."
+  },
+  {
+   "term": "Emancipation",
+   "meaning": "Freeing people from slavery."
+  }
+ ]
+}

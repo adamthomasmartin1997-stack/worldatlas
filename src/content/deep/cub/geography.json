@@ -1,0 +1,89 @@
+{
+ "status": "draft",
+ "intro": "Cuba is a long island with plains, mountains and thousands of small cays.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "The Sierra Maestra in the east has Pico Turquino, the highest point. Viñales Valley has rounded limestone hills called mogotes. The Zapata Swamp is home to the Cuban crocodile."
+   ],
+   "related": [
+    "USA",
+    "JAM",
+    "HTI",
+    "BHS",
+    "MEX"
+   ]
+  },
+  {
+   "id": "hurricanes",
+   "title": "Hurricanes",
+   "text": [
+    "Hurricanes hit often; Cuba is known for well-organised evacuations."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mogote",
+   "meaning": "A steep, rounded limestone hill."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Cuba's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Havana",
+    "kind": "capital",
+    "lat": 23.13,
+    "lon": -82.38,
+    "text": "Old Havana and the Malecón."
+   },
+   {
+    "name": "Viñales Valley",
+    "kind": "mogotes",
+    "lat": 22.62,
+    "lon": -83.71,
+    "text": "Limestone hills and tobacco."
+   },
+   {
+    "name": "Zapata Swamp",
+    "kind": "wetland",
+    "lat": 22.3,
+    "lon": -81.4,
+    "text": "Crocodiles and birds."
+   },
+   {
+    "name": "Trinidad",
+    "kind": "colonial town",
+    "lat": 21.8,
+    "lon": -79.98,
+    "text": "Cobbled streets."
+   },
+   {
+    "name": "Cayo Coco",
+    "kind": "cays",
+    "lat": 22.5,
+    "lon": -78.4,
+    "text": "White sand islands."
+   },
+   {
+    "name": "Sierra Maestra",
+    "kind": "mountains",
+    "lat": 20.0,
+    "lon": -76.8,
+    "text": "Pico Turquino."
+   },
+   {
+    "name": "Baracoa",
+    "kind": "oldest town",
+    "lat": 20.35,
+    "lon": -74.5,
+    "text": "Founded in 1511."
+   }
+  ]
+ }
+}

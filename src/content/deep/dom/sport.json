@@ -1,0 +1,107 @@
+{
+ "status": "draft",
+ "intro": "Baseball is the Dominican Republic's passion, and it produces more Major League players than any country except the US.",
+ "chapters": [
+  {
+   "id": "baseball",
+   "title": "Baseball",
+   "text": [
+    "Stars include Pedro Martínez, David Ortiz, Albert Pujols and Juan Soto. The country won the World Baseball Classic in 2013."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "athletics",
+   "title": "Athletics",
+   "text": [
+    "Félix Sánchez won the 400 m hurdles at the 2004 and 2012 Olympics, and Marileidy Paulino won the 400 m in 2024."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "World Baseball Classic",
+   "meaning": "An international baseball tournament."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Dominican Winter League",
+     "subtitle": "Baseball",
+     "text": "Six teams play each winter."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Pedro Martínez",
+     "subtitle": "Baseball",
+     "text": "Hall of Fame pitcher."
+    },
+    {
+     "title": "David Ortiz",
+     "subtitle": "Baseball",
+     "text": "'Big Papi'."
+    },
+    {
+     "title": "Albert Pujols",
+     "subtitle": "Baseball",
+     "text": "Over 700 home runs."
+    },
+    {
+     "title": "Félix Sánchez",
+     "subtitle": "Hurdles",
+     "text": "Two Olympic golds."
+    },
+    {
+     "title": "Marileidy Paulino",
+     "subtitle": "400 m",
+     "text": "Olympic champion 2024."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where the Dominican Republic's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estadio Quisqueya",
+    "kind": "venue",
+    "lat": 18.48,
+    "lon": -69.91,
+    "text": "A baseball stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2004",
+    "title": "Olympic gold",
+    "text": "Félix Sánchez."
+   },
+   {
+    "year": "2013",
+    "title": "World Baseball Classic",
+    "text": "Unbeaten champions."
+   },
+   {
+    "year": "2024",
+    "title": "Olympic gold",
+    "text": "Paulino in Paris."
+   }
+  ]
+ }
+}

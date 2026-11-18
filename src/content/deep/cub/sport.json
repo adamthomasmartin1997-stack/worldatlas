@@ -1,0 +1,99 @@
+{
+ "status": "draft",
+ "intro": "Baseball and boxing are Cuba's great sports, and it has won many Olympic medals.",
+ "chapters": [
+  {
+   "id": "boxing",
+   "title": "Boxing",
+   "text": [
+    "Cuba is one of the greatest Olympic boxing nations; Teófilo Stevenson and Félix Savón each won three golds."
+   ]
+  },
+  {
+   "id": "athletics",
+   "title": "Athletics and wrestling",
+   "text": [
+    "Javier Sotomayor holds the high jump world record, 2.45 m, set in 1993. Mijaín López won five Olympic wrestling golds in a row, a record."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "High jump",
+   "meaning": "Jumping over a bar."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Serie Nacional",
+     "subtitle": "Baseball",
+     "text": "The national baseball league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Teófilo Stevenson",
+     "subtitle": "Boxing",
+     "text": "Three Olympic golds."
+    },
+    {
+     "title": "Félix Savón",
+     "subtitle": "Boxing",
+     "text": "Three Olympic golds."
+    },
+    {
+     "title": "Javier Sotomayor",
+     "subtitle": "High jump",
+     "text": "World record 2.45 m."
+    },
+    {
+     "title": "Mijaín López",
+     "subtitle": "Wrestling",
+     "text": "Five Olympic golds in a row."
+    },
+    {
+     "title": "Ana Fidelia Quirot",
+     "subtitle": "Running",
+     "text": "World 800 m champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Cuba's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estadio Latinoamericano",
+    "kind": "venue",
+    "lat": 23.12,
+    "lon": -82.37,
+    "text": "Havana's baseball stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1993",
+    "title": "High jump record",
+    "text": "Sotomayor's 2.45 m."
+   },
+   {
+    "year": "2024",
+    "title": "Mijaín's fifth gold",
+    "text": "An Olympic record."
+   }
+  ]
+ }
+}

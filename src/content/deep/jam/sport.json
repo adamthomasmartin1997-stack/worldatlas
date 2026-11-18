@@ -1,0 +1,124 @@
+{
+ "status": "draft",
+ "intro": "Jamaica is a sprinting superpower and loves cricket and football.",
+ "chapters": [
+  {
+   "id": "sprint",
+   "title": "Sprinting",
+   "text": [
+    "Usain Bolt holds the 100 m and 200 m world records and won eight Olympic golds. Shelly-Ann Fraser-Pryce and Elaine Thompson-Herah are also Olympic champions."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "The Reggae Boyz played at the 1998 World Cup. Jamaica's bobsleigh team at the 1988 Winter Olympics inspired a film."
+   ],
+   "related": [
+    "CAN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bobsleigh",
+   "meaning": "Racing a sled down an ice track."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Jamaica Premier League",
+     "subtitle": "Football",
+     "text": "The top league."
+    },
+    {
+     "title": "Champs",
+     "subtitle": "Schools athletics",
+     "text": "Huge crowds watch school sprinters."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Usain Bolt",
+     "subtitle": "Sprinting",
+     "text": "World records at 100 m and 200 m."
+    },
+    {
+     "title": "Shelly-Ann Fraser-Pryce",
+     "subtitle": "Sprinting",
+     "text": "Olympic 100 m champion twice."
+    },
+    {
+     "title": "Elaine Thompson-Herah",
+     "subtitle": "Sprinting",
+     "text": "Double sprint doubles."
+    },
+    {
+     "title": "Merlene Ottey",
+     "subtitle": "Sprinting",
+     "text": "Nine Olympic medals."
+    },
+    {
+     "title": "Chris Gayle",
+     "subtitle": "Cricket",
+     "text": "A big-hitting batter."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Jamaica's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "National Stadium, Kingston",
+    "kind": "venue",
+    "lat": 18.0,
+    "lon": -76.77,
+    "text": "Home of Champs."
+   },
+   {
+    "name": "Sabina Park",
+    "kind": "venue",
+    "lat": 17.98,
+    "lon": -76.78,
+    "text": "Test cricket."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1988",
+    "title": "Bobsleigh",
+    "text": "Jamaica at the Winter Olympics."
+   },
+   {
+    "year": "1998",
+    "title": "World Cup",
+    "text": "A first appearance."
+   },
+   {
+    "year": "2008",
+    "title": "Bolt in Beijing",
+    "text": "World records."
+   },
+   {
+    "year": "2016",
+    "title": "Thompson double",
+    "text": "100 m and 200 m gold."
+   }
+  ]
+ }
+}

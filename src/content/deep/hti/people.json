@@ -1,0 +1,37 @@
+{
+ "status": "draft",
+ "intro": "Haiti has about 12 million people, mostly of African descent.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Haitian Creole and French are official; nearly everyone speaks Creole. Catholicism and Protestantism are common, and Vodou is widely practised."
+   ],
+   "related": [
+    "FRA",
+    "USA",
+    "CAN"
+   ]
+  },
+  {
+   "id": "diaspora",
+   "title": "Diaspora",
+   "text": [
+    "Large Haitian communities live in the US, Canada, France and the Dominican Republic."
+   ],
+   "related": [
+    "USA",
+    "CAN",
+    "FRA",
+    "DOM"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Vodou",
+   "meaning": "A religion with African roots."
+  }
+ ]
+}

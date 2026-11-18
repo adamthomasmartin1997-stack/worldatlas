@@ -1,0 +1,101 @@
+{
+ "status": "draft",
+ "intro": "Dominican culture is famous for merengue and bachata.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Merengue and bachata",
+   "text": [
+    "Merengue and bachata both began here and are on UNESCO's list. Juan Luis Guerra is a famous singer."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "La bandera, 'the flag' (rice, beans and meat), and mangú (mashed plantain) are everyday dishes."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bachata",
+   "meaning": "Romantic guitar music."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "In the Time of the Butterflies",
+     "subtitle": "1994 · Julia Alvarez",
+     "text": "Sisters who opposed Trujillo."
+    },
+    {
+     "title": "The Brief Wondrous Life of Oscar Wao",
+     "subtitle": "2007 · Junot Díaz",
+     "text": "Won the Pulitzer Prize."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Ojalá que llueva café",
+     "subtitle": "Juan Luis Guerra, 1989",
+     "text": "A merengue classic."
+    },
+    {
+     "title": "Romeo Santos",
+     "subtitle": "Singer",
+     "text": "The 'King of Bachata'."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "La bandera",
+     "subtitle": "Everywhere",
+     "text": "Rice, beans and meat."
+    },
+    {
+     "title": "Mangú",
+     "subtitle": "Breakfast",
+     "text": "Mashed plantain."
+    },
+    {
+     "title": "Sancocho",
+     "subtitle": "Celebrations",
+     "text": "A rich stew."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Independence Day",
+    "text": "27 February."
+   },
+   {
+    "month": 2,
+    "name": "Carnival",
+    "text": "Every Sunday in February."
+   },
+   {
+    "month": 8,
+    "name": "Restoration Day",
+    "text": "16 August."
+   }
+  ]
+ }
+}

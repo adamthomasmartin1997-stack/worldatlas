@@ -1,0 +1,84 @@
+{
+ "status": "draft",
+ "intro": "Football is Haiti's favourite sport, and the team reached the 2026 World Cup.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Haiti played at the 1974 World Cup and, after a 52-year wait, qualified for the 2026 World Cup."
+   ]
+  },
+  {
+   "id": "athletes",
+   "title": "Athletes",
+   "text": [
+    "Silvio Cator won Olympic long jump silver in 1928."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Grenadiers",
+   "meaning": "The national team's nickname."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Ligue Haïtienne",
+     "subtitle": "Football",
+     "text": "The top league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Silvio Cator",
+     "subtitle": "Long jump",
+     "text": "Olympic silver 1928."
+    },
+    {
+     "title": "Emmanuel Sanon",
+     "subtitle": "Football",
+     "text": "Scored against Italy in 1974."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Haiti's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Stade Sylvio Cator",
+    "kind": "venue",
+    "lat": 18.54,
+    "lon": -72.34,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1974",
+    "title": "World Cup",
+    "text": "Sanon scores against Italy."
+   },
+   {
+    "year": "2025",
+    "title": "World Cup qualification",
+    "text": "Back for 2026."
+   }
+  ]
+ }
+}

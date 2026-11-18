@@ -1,0 +1,79 @@
+{
+ "status": "draft",
+ "intro": "The Dominican Republic has the Caribbean's highest mountain and its lowest point.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "Pico Duarte, 3,098 m, is the highest peak in the Caribbean. Lake Enriquillo, below sea level, is the lowest point and has American crocodiles. Beaches like Punta Cana line the coasts."
+   ],
+   "related": [
+    "HTI",
+    "PRI"
+   ]
+  },
+  {
+   "id": "whales",
+   "title": "Whales",
+   "text": [
+    "Thousands of humpback whales gather in Samaná Bay each winter."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Humpback whale",
+   "meaning": "A large whale that sings."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of the Dominican Republic's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Santo Domingo",
+    "kind": "capital",
+    "lat": 18.47,
+    "lon": -69.89,
+    "text": "The colonial zone."
+   },
+   {
+    "name": "Pico Duarte",
+    "kind": "mountain",
+    "lat": 19.02,
+    "lon": -70.99,
+    "text": "The Caribbean's highest peak."
+   },
+   {
+    "name": "Lake Enriquillo",
+    "kind": "salt lake",
+    "lat": 18.5,
+    "lon": -71.6,
+    "text": "Below sea level."
+   },
+   {
+    "name": "Samaná Bay",
+    "kind": "bay",
+    "lat": 19.2,
+    "lon": -69.4,
+    "text": "Humpback whales."
+   },
+   {
+    "name": "Punta Cana",
+    "kind": "beaches",
+    "lat": 18.58,
+    "lon": -68.37,
+    "text": "Resort beaches."
+   },
+   {
+    "name": "Bahía de las Águilas",
+    "kind": "beach",
+    "lat": 17.83,
+    "lon": -71.65,
+    "text": "A remote beach."
+   }
+  ]
+ }
+}
