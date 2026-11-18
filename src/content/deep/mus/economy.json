@@ -1,0 +1,60 @@
+{
+ "status": "draft",
+ "intro": "Mauritius grew from a sugar island into one of Africa's richest economies.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Tourism, textiles, financial services and sugar are major industries. It is a hub for investment into Africa and India."
+   ],
+   "related": [
+    "IND",
+    "FRA",
+    "GBR"
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Beach resorts attract over a million visitors a year."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Financial services",
+   "meaning": "Banking and investment."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Mauritius",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "Beaches",
+     "text": "Luxury resorts."
+    },
+    {
+     "title": "Textiles",
+     "subtitle": "Factories",
+     "text": "Clothes for export."
+    },
+    {
+     "title": "Sugar",
+     "subtitle": "Plantations",
+     "text": "A historic crop."
+    },
+    {
+     "title": "Finance",
+     "subtitle": "Port Louis",
+     "text": "Offshore banking."
+    }
+   ],
+   "intro": "Some of the things Mauritius makes and sells to the world."
+  }
+ ]
+}

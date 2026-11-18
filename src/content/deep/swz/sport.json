@@ -1,0 +1,63 @@
+{
+ "status": "draft",
+ "intro": "Football is the most popular sport in Eswatini.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Football clubs like Mbabane Swallows draw crowds."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Swazi boxers and runners compete at the Commonwealth Games."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Commonwealth Games",
+   "meaning": "Games for Commonwealth nations."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Premier League of Eswatini",
+     "subtitle": "Football",
+     "text": "Mbabane Swallows are a top club."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Eswatini's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Somhlolo Stadium",
+    "kind": "venue",
+    "lat": -26.45,
+    "lon": 31.19,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1968",
+    "title": "Independence",
+    "text": "Swaziland is born."
+   }
+  ]
+ }
+}

@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Lesotho has about 2.3 million people, almost all Basotho.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Sesotho and English are official. Most people are Christian. Many work in South Africa's mines and cities."
+   ],
+   "related": [
+    "ZAF"
+   ]
+  },
+  {
+   "id": "blanket",
+   "title": "Blankets",
+   "text": [
+    "The Basotho blanket and the conical mokorotlo hat are national symbols."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sesotho",
+   "meaning": "The national language."
+  }
+ ]
+}

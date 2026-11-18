@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Lesotho's economy relies on textiles, diamonds, water and wool.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Clothing factories make jeans for US brands. Diamonds from Letšeng are among the most valuable in the world, and water is sold to South Africa. Mohair and wool come from mountain herds."
+   ],
+   "related": [
+    "USA",
+    "ZAF"
+   ]
+  },
+  {
+   "id": "hiv",
+   "title": "Health",
+   "text": [
+    "Lesotho has one of the world's highest HIV rates, though treatment has improved."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mohair",
+   "meaning": "Wool from Angora goats."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Lesotho",
+   "items": [
+    {
+     "title": "Clothing",
+     "subtitle": "Maseru",
+     "text": "Jeans for export."
+    },
+    {
+     "title": "Diamonds",
+     "subtitle": "Letšeng",
+     "text": "Very large stones."
+    },
+    {
+     "title": "Water",
+     "subtitle": "Highlands",
+     "text": "Sold to South Africa."
+    },
+    {
+     "title": "Mohair",
+     "subtitle": "Highlands",
+     "text": "Fine wool from Angora goats."
+    }
+   ],
+   "intro": "Some of the things Lesotho makes and sells to the world."
+  }
+ ]
+}

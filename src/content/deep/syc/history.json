@@ -1,0 +1,68 @@
+{
+ "status": "draft",
+ "intro": "The Seychelles is Africa's smallest country by population, a group of 115 islands in the Indian Ocean.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Uninhabited islands",
+   "text": [
+    "The islands had no people until the 1700s, though Arab and Portuguese sailors knew them. Pirates are said to have hidden treasure there."
+   ],
+   "related": [
+    "PRT"
+   ]
+  },
+  {
+   "id": "colonies",
+   "title": "French and British rule",
+   "text": [
+    "France claimed the islands in 1756 and brought enslaved Africans. Britain took them in 1814."
+   ],
+   "related": [
+    "FRA",
+    "GBR",
+    "MUS"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "The Seychelles became independent in 1976. A coup in 1977 led to one-party rule until 1993. In 2025 Patrick Herminie won the presidency."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1756",
+   "title": "French claim",
+   "text": "Settlement begins."
+  },
+  {
+   "year": "1814",
+   "title": "British rule",
+   "text": "Until 1976."
+  },
+  {
+   "year": "1976",
+   "title": "Independence",
+   "text": "29 June."
+  },
+  {
+   "year": "1977",
+   "title": "Coup",
+   "text": "One-party rule."
+  },
+  {
+   "year": "1993",
+   "title": "Democracy",
+   "text": "Multi-party elections."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Archipelago",
+   "meaning": "A group of islands."
+  }
+ ]
+}

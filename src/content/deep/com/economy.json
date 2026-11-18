@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "The Comoros grows much of the world's ylang-ylang, used in perfumes, and vanilla and cloves.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Ylang-ylang essence, vanilla and cloves are the main exports. Money sent home from France is very important."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "fishing",
+   "title": "Fishing",
+   "text": [
+    "Most families fish or farm."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ylang-ylang",
+   "meaning": "A fragrant flower used in perfume."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in the Comoros",
+   "items": [
+    {
+     "title": "Ylang-ylang",
+     "subtitle": "Anjouan",
+     "text": "Perfume oil."
+    },
+    {
+     "title": "Vanilla",
+     "subtitle": "Grande Comore",
+     "text": "A spice crop."
+    },
+    {
+     "title": "Cloves",
+     "subtitle": "Anjouan",
+     "text": "A spice crop."
+    }
+   ],
+   "intro": "Some of the things the Comoros makes and sells to the world."
+  }
+ ]
+}

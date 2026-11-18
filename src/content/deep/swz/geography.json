@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Eswatini is a small landlocked country between South Africa and Mozambique.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "The country steps down from western highlands to the eastern lowveld. Sibebe Rock is one of the largest granite domes in the world. Mlilwane and Hlane parks protect wildlife."
+   ],
+   "related": [
+    "ZAF",
+    "MOZ"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The highlands are cool and wet, the lowveld hot."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lowveld",
+   "meaning": "Low-lying grassland."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Eswatini's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Mbabane",
+    "kind": "capital",
+    "lat": -26.32,
+    "lon": 31.13,
+    "text": "In the highlands."
+   },
+   {
+    "name": "Sibebe Rock",
+    "kind": "granite dome",
+    "lat": -26.25,
+    "lon": 31.17,
+    "text": "A giant rock."
+   },
+   {
+    "name": "Lobamba",
+    "kind": "royal capital",
+    "lat": -26.45,
+    "lon": 31.2,
+    "text": "Ceremonies take place here."
+   },
+   {
+    "name": "Mlilwane",
+    "kind": "wildlife sanctuary",
+    "lat": -26.47,
+    "lon": 31.2,
+    "text": "Zebras and antelope."
+   },
+   {
+    "name": "Hlane",
+    "kind": "royal park",
+    "lat": -26.25,
+    "lon": 31.9,
+    "text": "Lions and rhinos."
+   }
+  ]
+ }
+}

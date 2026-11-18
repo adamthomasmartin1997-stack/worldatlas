@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Eswatini relies on sugar, soft-drink concentrate and trade with South Africa.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Sugar and soft-drink concentrate are the main exports. The currency is tied to the South African rand."
+   ],
+   "related": [
+    "ZAF"
+   ]
+  },
+  {
+   "id": "health",
+   "title": "Health",
+   "text": [
+    "Eswatini has had one of the world's highest HIV rates, now falling."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Concentrate",
+   "meaning": "Syrup used to make drinks."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Eswatini",
+   "items": [
+    {
+     "title": "Sugar",
+     "subtitle": "Lowveld",
+     "text": "A top export."
+    },
+    {
+     "title": "Drink concentrate",
+     "subtitle": "Factories",
+     "text": "For soft drinks."
+    },
+    {
+     "title": "Timber",
+     "subtitle": "Highlands",
+     "text": "Pine plantations."
+    }
+   ],
+   "intro": "Some of the things Eswatini makes and sells to the world."
+  }
+ ]
+}

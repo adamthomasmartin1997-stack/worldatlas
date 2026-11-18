@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Eswatini, formerly Swaziland, is one of the world's last absolute monarchies.",
+ "chapters": [
+  {
+   "id": "kingdom",
+   "title": "The Swazi kingdom",
+   "text": [
+    "The Swazi kingdom formed in the 1700s and 1800s under kings like Sobhuza I and Mswati II, after whom the people are named."
+   ],
+   "related": [
+    "ZAF",
+    "MOZ"
+   ]
+  },
+  {
+   "id": "british",
+   "title": "British protection",
+   "text": [
+    "Britain ruled Swaziland as a protectorate from 1903. It became independent in 1968."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Absolute monarchy",
+   "text": [
+    "King Sobhuza II banned political parties in 1973. King Mswati III has reigned since 1986. In 2018 the country was renamed Eswatini. Pro-democracy protests in 2021 were met with force."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1700s",
+   "title": "Swazi kingdom",
+   "text": "Forms."
+  },
+  {
+   "year": "1903",
+   "title": "Protectorate",
+   "text": "British rule."
+  },
+  {
+   "year": "1968",
+   "title": "Independence",
+   "text": "6 September."
+  },
+  {
+   "year": "1973",
+   "title": "Parties banned",
+   "text": "By King Sobhuza II."
+  },
+  {
+   "year": "1986",
+   "title": "Mswati III",
+   "text": "Becomes king."
+  },
+  {
+   "year": "2018",
+   "title": "Eswatini",
+   "text": "The new name."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Absolute monarchy",
+   "meaning": "A king with near-total power."
+  }
+ ]
+}

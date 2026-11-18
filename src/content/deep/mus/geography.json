@@ -1,0 +1,79 @@
+{
+ "status": "draft",
+ "intro": "Mauritius is a volcanic island ringed by coral reefs, about 2,000 km off Africa.",
+ "chapters": [
+  {
+   "id": "island",
+   "title": "Island",
+   "text": [
+    "Black River Gorges has rainforest with rare birds like the pink pigeon. Le Morne Brabant is a mountain on a lagoon. Rodrigues and other islands also belong to Mauritius."
+   ],
+   "related": [
+    "MDG",
+    "SYC"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Cyclones",
+   "text": [
+    "Cyclones can hit in summer, from November to April."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lagoon",
+   "meaning": "Shallow water behind a reef."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Mauritius' landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Port Louis",
+    "kind": "capital",
+    "lat": -20.16,
+    "lon": 57.5,
+    "text": "A busy harbour."
+   },
+   {
+    "name": "Pamplemousses",
+    "kind": "botanic garden",
+    "lat": -20.1,
+    "lon": 57.58,
+    "text": "Giant water lilies."
+   },
+   {
+    "name": "Black River Gorges",
+    "kind": "rainforest",
+    "lat": -20.42,
+    "lon": 57.45,
+    "text": "Rare birds."
+   },
+   {
+    "name": "Chamarel",
+    "kind": "coloured earths",
+    "lat": -20.44,
+    "lon": 57.37,
+    "text": "Seven-coloured sand dunes."
+   },
+   {
+    "name": "Le Morne Brabant",
+    "kind": "mountain",
+    "lat": -20.45,
+    "lon": 57.31,
+    "text": "A World Heritage mountain."
+   },
+   {
+    "name": "Île aux Cerfs",
+    "kind": "island",
+    "lat": -20.27,
+    "lon": 57.8,
+    "text": "Lagoon beaches."
+   }
+  ]
+ }
+}

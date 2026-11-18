@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Tourism and tuna fishing drive the economy of the Seychelles.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Tourism is the biggest industry. Victoria has one of the world's biggest tuna canneries. The Seychelles is one of Africa's richest countries per person."
+   ],
+   "related": [
+    "GBR",
+    "FRA"
+   ]
+  },
+  {
+   "id": "blue",
+   "title": "Blue economy",
+   "text": [
+    "The Seychelles pioneered 'blue bonds' to fund ocean protection."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cannery",
+   "meaning": "A factory that puts food in cans."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in the Seychelles",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "Islands",
+     "text": "Luxury resorts."
+    },
+    {
+     "title": "Tuna",
+     "subtitle": "Victoria",
+     "text": "Canned tuna."
+    },
+    {
+     "title": "Cinnamon",
+     "subtitle": "Hills",
+     "text": "A historic crop."
+    }
+   ],
+   "intro": "Some of the things the Seychelles makes and sells to the world."
+  }
+ ]
+}

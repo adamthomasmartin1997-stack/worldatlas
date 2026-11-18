@@ -1,0 +1,66 @@
+{
+ "status": "draft",
+ "intro": "The Comoros has three main volcanic islands in the Mozambique Channel.",
+ "chapters": [
+  {
+   "id": "islands",
+   "title": "Islands",
+   "text": [
+    "Grande Comore (Ngazidja) has Mount Karthala, one of the world's largest active volcanoes. Mohéli is a marine park with turtles, and Anjouan is green and steep. Coelacanths, 'living fossil' fish, were found in its waters."
+   ],
+   "related": [
+    "MOZ",
+    "MDG",
+    "FRA"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The climate is tropical with a rainy season."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Coelacanth",
+   "meaning": "An ancient fish once thought extinct."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of the Comoros' landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Moroni",
+    "kind": "capital",
+    "lat": -11.7,
+    "lon": 43.25,
+    "text": "A harbour on Grande Comore."
+   },
+   {
+    "name": "Mount Karthala",
+    "kind": "volcano",
+    "lat": -11.75,
+    "lon": 43.37,
+    "text": "A huge active volcano."
+   },
+   {
+    "name": "Mohéli Marine Park",
+    "kind": "marine park",
+    "lat": -12.35,
+    "lon": 43.73,
+    "text": "Turtles nest here."
+   },
+   {
+    "name": "Anjouan",
+    "kind": "green island",
+    "lat": -12.2,
+    "lon": 44.4,
+    "text": "Steep valleys."
+   }
+  ]
+ }
+}

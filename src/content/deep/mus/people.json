@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Mauritius has about 1.3 million people of Indian, African, Chinese and European descent.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "About two-thirds have Indian ancestry. Mauritian Creole is spoken by almost everyone; English and French are widely used. Hindus are the largest religious group, with Christians and Muslims too."
+   ],
+   "related": [
+    "IND",
+    "CHN",
+    "FRA"
+   ]
+  },
+  {
+   "id": "port-louis",
+   "title": "Port Louis",
+   "text": [
+    "Port Louis is the capital and main port."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Creole",
+   "meaning": "A language formed from mixing languages."
+  }
+ ]
+}

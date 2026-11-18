@@ -1,0 +1,68 @@
+{
+ "status": "draft",
+ "intro": "The Comoros is a volcanic island nation between Mozambique and Madagascar, known as the 'Perfume Islands'.",
+ "chapters": [
+  {
+   "id": "sultans",
+   "title": "Sultanates",
+   "text": [
+    "Swahili, Arab, Malagasy and African settlers shaped the islands. Rival sultans ruled each island, trading across the Indian Ocean."
+   ],
+   "related": [
+    "TZA",
+    "MDG",
+    "OMN"
+   ]
+  },
+  {
+   "id": "french",
+   "title": "French rule",
+   "text": [
+    "France took the islands in the 1800s. In 1975 three islands voted for independence, while Mayotte voted to stay French, a dispute that continues."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Coups and change",
+   "text": [
+    "The Comoros has had around 20 coups or attempts since independence. A 2001 constitution rotated the presidency between the islands."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1500s",
+   "title": "Sultanates",
+   "text": "Trading city-states."
+  },
+  {
+   "year": "1886",
+   "title": "French protectorate",
+   "text": "French rule."
+  },
+  {
+   "year": "1975",
+   "title": "Independence",
+   "text": "6 July."
+  },
+  {
+   "year": "1997",
+   "title": "Secession crisis",
+   "text": "Two islands try to break away."
+  },
+  {
+   "year": "2001",
+   "title": "New constitution",
+   "text": "Union of the Comoros."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mayotte",
+   "meaning": "An island claimed by the Comoros but governed by France."
+  }
+ ]
+}

@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "The Seychelles has about 120,000 people, the smallest population of any African country.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Seychellois Creole, English and French are official. Most people are Catholic. Most live on Mahé."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "victoria",
+   "title": "Victoria",
+   "text": [
+    "Victoria is one of the smallest capitals in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Seychellois Creole",
+   "meaning": "The main spoken language."
+  }
+ ]
+}

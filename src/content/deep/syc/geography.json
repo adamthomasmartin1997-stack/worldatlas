@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "The Seychelles includes granite islands, unusual in the ocean, and low coral islands.",
+ "chapters": [
+  {
+   "id": "islands",
+   "title": "Islands",
+   "text": [
+    "Mahé, Praslin and La Digue are granite islands with huge boulders on their beaches. The Vallée de Mai on Praslin is home to the coco de mer, the world's largest seed. Aldabra Atoll has over 100,000 giant tortoises."
+   ],
+   "related": [
+    "MUS",
+    "MDG"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The Seychelles is warm all year and lies outside the cyclone belt."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Coco de mer",
+   "meaning": "A palm with the world's largest seed."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of the Seychelles' landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Victoria",
+    "kind": "capital",
+    "lat": -4.62,
+    "lon": 55.45,
+    "text": "A tiny capital."
+   },
+   {
+    "name": "Morne Seychellois",
+    "kind": "mountain",
+    "lat": -4.65,
+    "lon": 55.43,
+    "text": "The highest peak."
+   },
+   {
+    "name": "Vallée de Mai",
+    "kind": "palm forest",
+    "lat": -4.33,
+    "lon": 55.74,
+    "text": "Coco de mer palms."
+   },
+   {
+    "name": "Anse Source d'Argent",
+    "kind": "beach",
+    "lat": -4.37,
+    "lon": 55.83,
+    "text": "Granite boulders."
+   },
+   {
+    "name": "Aldabra",
+    "kind": "atoll",
+    "lat": -9.42,
+    "lon": 46.4,
+    "text": "Giant tortoises."
+   }
+  ]
+ }
+}

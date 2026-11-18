@@ -1,0 +1,96 @@
+{
+ "status": "draft",
+ "intro": "Mauritian culture blends Indian, African, Chinese and French influences.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Sega",
+   "text": [
+    "Sega music, with roots among enslaved Africans, is on UNESCO's list. Diwali, Chinese New Year and Christmas are all celebrated."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Dholl puri, a flatbread with curry, and rougaille, a tomato sauce, are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sega",
+   "meaning": "Mauritian folk music and dance."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Paul et Virginie",
+     "subtitle": "1788 · Bernardin de Saint-Pierre",
+     "text": "A famous romance set on the island."
+    },
+    {
+     "title": "The Last Brother",
+     "subtitle": "2007 · Nathacha Appanah",
+     "text": "A boy's friendship in wartime."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Sega",
+     "subtitle": "Ti Frère",
+     "text": "The 'king of sega'."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Dholl puri",
+     "subtitle": "Street food",
+     "text": "Flatbread with curry."
+    },
+    {
+     "title": "Rougaille",
+     "subtitle": "Everywhere",
+     "text": "Tomato sauce with fish or sausage."
+    },
+    {
+     "title": "Gateaux piments",
+     "subtitle": "Street food",
+     "text": "Chilli fritters."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "National Day",
+    "text": "12 March."
+   },
+   {
+    "month": 2,
+    "name": "Thaipoosam Cavadee",
+    "text": "A Tamil festival."
+   },
+   {
+    "month": 11,
+    "name": "Diwali",
+    "text": "Festival of lights."
+   }
+  ]
+ }
+}

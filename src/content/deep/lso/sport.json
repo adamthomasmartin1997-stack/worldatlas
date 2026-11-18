@@ -1,0 +1,68 @@
+{
+ "status": "draft",
+ "intro": "Football and long-distance running are popular in Lesotho's mountains.",
+ "chapters": [
+  {
+   "id": "sport",
+   "title": "Sport",
+   "text": [
+    "High altitude helps distance runners. The Roof of Africa motorbike race crosses the mountains."
+   ]
+  },
+  {
+   "id": "horses",
+   "title": "Horse racing",
+   "text": [
+    "Pony racing is popular at village festivals."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Altitude",
+   "meaning": "Height above sea level."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Lesotho Premier League",
+     "subtitle": "Football",
+     "text": "The top league."
+    },
+    {
+     "title": "Roof of Africa",
+     "subtitle": "Motorbikes",
+     "text": "A tough enduro race."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Lesotho's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Setsoto Stadium, Maseru",
+    "kind": "venue",
+    "lat": -29.31,
+    "lon": 27.49,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1966",
+    "title": "Independence",
+    "text": "A mountain kingdom."
+   }
+  ]
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "status": "draft",
+ "intro": "Lesotho, the 'Kingdom in the Sky', is a mountain kingdom completely surrounded by South Africa.",
+ "chapters": [
+  {
+   "id": "moshoeshoe",
+   "title": "King Moshoeshoe",
+   "text": [
+    "In the 1820s King Moshoeshoe I gathered people fleeing wars into a nation, the Basotho, defending them from the mountain fortress of Thaba Bosiu."
+   ],
+   "highlight": {
+    "title": "Founder",
+    "text": "Moshoeshoe I is honoured as the father of the nation."
+   },
+   "related": [
+    "ZAF"
+   ]
+  },
+  {
+   "id": "british",
+   "title": "Basutoland",
+   "text": [
+    "To avoid takeover by the Boers, Moshoeshoe asked Britain for protection in 1868. Basutoland stayed separate from South Africa."
+   ],
+   "related": [
+    "GBR",
+    "ZAF"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Lesotho became independent in 1966 as a kingdom. Coups and political crises have occurred, but elections continue."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1824",
+   "title": "Thaba Bosiu",
+   "text": "Moshoeshoe's stronghold."
+  },
+  {
+   "year": "1868",
+   "title": "British protection",
+   "text": "Basutoland."
+  },
+  {
+   "year": "1966",
+   "title": "Independence",
+   "text": "4 October."
+  },
+  {
+   "year": "1998",
+   "title": "Crisis",
+   "text": "Southern African troops intervene."
+  },
+  {
+   "year": "2022",
+   "title": "Election",
+   "text": "A new party wins."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Basotho",
+   "meaning": "The people of Lesotho."
+  },
+  {
+   "term": "Enclave",
+   "meaning": "A country surrounded by another."
+  }
+ ]
+}

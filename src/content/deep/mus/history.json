@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Mauritius is an Indian Ocean island that had no people until Europeans arrived, and is famous as the home of the dodo.",
+ "chapters": [
+  {
+   "id": "dodo",
+   "title": "The dodo",
+   "text": [
+    "Arab and Portuguese sailors knew of the island, but the Dutch settled first in 1638. The flightless dodo, found only here, was extinct by about 1681, a symbol of human-caused extinction."
+   ],
+   "highlight": {
+    "title": "Extinct",
+    "text": "'Dead as a dodo' became a saying for something gone for ever."
+   },
+   "related": [
+    "NLD",
+    "PRT"
+   ]
+  },
+  {
+   "id": "colonies",
+   "title": "French and British rule",
+   "text": [
+    "France took over in 1715 and brought enslaved people from Africa and Madagascar to work sugar plantations. Britain captured the island in 1810. After slavery ended in 1835, about half a million indentured labourers came from India."
+   ],
+   "related": [
+    "FRA",
+    "GBR",
+    "IND",
+    "MDG"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Mauritius became independent in 1968 and a republic in 1992. It is one of Africa's most stable democracies. In 2025 Britain agreed to hand the Chagos Islands to Mauritius."
+   ],
+   "related": [
+    "GBR",
+    "IND"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1638",
+   "title": "Dutch settle",
+   "text": "The first settlement."
+  },
+  {
+   "year": "c. 1681",
+   "title": "Dodo extinct",
+   "text": "The last sightings."
+  },
+  {
+   "year": "1715",
+   "title": "French rule",
+   "text": "Isle de France."
+  },
+  {
+   "year": "1810",
+   "title": "British rule",
+   "text": "After a battle."
+  },
+  {
+   "year": "1835",
+   "title": "Slavery abolished",
+   "text": "Indentured workers arrive."
+  },
+  {
+   "year": "1968",
+   "title": "Independence",
+   "text": "12 March."
+  },
+  {
+   "year": "2025",
+   "title": "Chagos deal",
+   "text": "Britain agrees to transfer the islands."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Indentured labour",
+   "meaning": "Workers bound by contract for years."
+  },
+  {
+   "term": "Extinct",
+   "meaning": "No longer existing."
+  }
+ ]
+}

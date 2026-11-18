@@ -1,0 +1,78 @@
+{
+ "status": "draft",
+ "intro": "Lesotho is the only country in the world entirely above 1,000 m.",
+ "chapters": [
+  {
+   "id": "mountains",
+   "title": "Mountains",
+   "text": [
+    "Thabana Ntlenyana, 3,482 m, is the highest peak in southern Africa. Maletsunyane Falls drops about 190 m. Afriski is one of Africa's few ski resorts."
+   ],
+   "related": [
+    "ZAF"
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Water",
+   "text": [
+    "The Lesotho Highlands Water Project sends water to South Africa through tunnels."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Enclave",
+   "meaning": "Land surrounded by another country."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Lesotho's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Maseru",
+    "kind": "capital",
+    "lat": -29.31,
+    "lon": 27.48,
+    "text": "On the border river."
+   },
+   {
+    "name": "Thaba Bosiu",
+    "kind": "mountain fortress",
+    "lat": -29.35,
+    "lon": 27.68,
+    "text": "Moshoeshoe's stronghold."
+   },
+   {
+    "name": "Maletsunyane Falls",
+    "kind": "waterfall",
+    "lat": -29.87,
+    "lon": 28.05,
+    "text": "A high single drop."
+   },
+   {
+    "name": "Sani Pass",
+    "kind": "mountain pass",
+    "lat": -29.58,
+    "lon": 29.29,
+    "text": "A steep road to South Africa."
+   },
+   {
+    "name": "Thabana Ntlenyana",
+    "kind": "mountain",
+    "lat": -29.47,
+    "lon": 29.27,
+    "text": "The highest peak in southern Africa."
+   },
+   {
+    "name": "Katse Dam",
+    "kind": "reservoir",
+    "lat": -29.34,
+    "lon": 28.51,
+    "text": "A giant dam."
+   }
+  ]
+ }
+}

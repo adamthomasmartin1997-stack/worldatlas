@@ -1,0 +1,67 @@
+{
+ "status": "draft",
+ "intro": "Football, athletics and water sports are popular in the Seychelles.",
+ "chapters": [
+  {
+   "id": "sport",
+   "title": "Sport",
+   "text": [
+    "The Seychelles has competed at the Olympics since 1980 and the Indian Ocean Island Games, which it has hosted."
+   ],
+   "related": [
+    "MUS",
+    "MDG"
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Water sports",
+   "text": [
+    "Diving, sailing and fishing are popular."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Island Games",
+   "meaning": "A multi-sport event for Indian Ocean islands."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Seychelles Premier League",
+     "subtitle": "Football",
+     "text": "The top league."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where the Seychelles' biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Stade Linité",
+    "kind": "venue",
+    "lat": -4.63,
+    "lon": 55.45,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2011",
+    "title": "Indian Ocean Island Games",
+    "text": "Hosted in Victoria."
+   }
+  ]
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "Football and horse racing are popular in Mauritius.",
+ "chapters": [
+  {
+   "id": "racing",
+   "title": "Horse racing",
+   "text": [
+    "The Champ de Mars in Port Louis, opened in 1812, is one of the oldest racecourses in the Southern Hemisphere."
+   ]
+  },
+  {
+   "id": "boxing",
+   "title": "Boxing",
+   "text": [
+    "Bruno Julie won Mauritius's only Olympic medal, a boxing bronze in 2008."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Racecourse",
+   "meaning": "A track for horse racing."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Mauritian League",
+     "subtitle": "Football",
+     "text": "The top league."
+    },
+    {
+     "title": "Champ de Mars",
+     "subtitle": "Horse racing",
+     "text": "Since 1812."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Bruno Julie",
+     "subtitle": "Boxing",
+     "text": "Olympic bronze 2008."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Mauritius' biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Champ de Mars",
+    "kind": "venue",
+    "lat": -20.17,
+    "lon": 57.51,
+    "text": "Historic racecourse."
+   },
+   {
+    "name": "Anjalay Stadium",
+    "kind": "venue",
+    "lat": -20.06,
+    "lon": 57.62,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2008",
+    "title": "Olympic bronze",
+    "text": "Julie in Beijing."
+   }
+  ]
+ }
+}

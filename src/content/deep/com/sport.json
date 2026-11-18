@@ -1,0 +1,66 @@
+{
+ "status": "draft",
+ "intro": "Football is the most popular sport in the Comoros, which has surprised bigger nations.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Coelacanths reached the Africa Cup of Nations for the first time in 2022 and beat Ghana to reach the knockouts."
+   ],
+   "related": [
+    "GHA"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Beach football and running are popular."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Coelacanths",
+   "meaning": "The national team's nickname."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Comoros Premier League",
+     "subtitle": "Football",
+     "text": "The top league."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where the Comoros' biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Stade de Moroni",
+    "kind": "venue",
+    "lat": -11.71,
+    "lon": 43.26,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2022",
+    "title": "AFCON debut",
+    "text": "Beat Ghana."
+   }
+  ]
+ }
+}

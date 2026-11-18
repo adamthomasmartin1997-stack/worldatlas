@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Eswatini has about 1.2 million people, most of them Swazi.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "siSwati and English are official. Most people are Christian, and traditions remain strong."
+   ]
+  },
+  {
+   "id": "capitals",
+   "title": "Two capitals",
+   "text": [
+    "Mbabane is the administrative capital and Lobamba the royal and legislative capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "siSwati",
+   "meaning": "The national language."
+  }
+ ]
+}

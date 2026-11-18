@@ -1,0 +1,75 @@
+{
+ "status": "draft",
+ "intro": "Seychellois culture blends African, French, Indian and Chinese influences.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Moutya",
+   "text": [
+    "Moutya, a drum dance from the time of slavery, is on UNESCO's list."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Fish curries, octopus curry and breadfruit are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Moutya",
+   "meaning": "A traditional dance."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Moutya",
+     "subtitle": "Traditional",
+     "text": "Drum dance."
+    },
+    {
+     "title": "Sega",
+     "subtitle": "Music",
+     "text": "Shared with Mauritius."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Octopus curry",
+     "subtitle": "Everywhere",
+     "text": "With coconut milk."
+    },
+    {
+     "title": "Ladob",
+     "subtitle": "Desserts",
+     "text": "Plantains in coconut milk."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 6,
+    "name": "National Day",
+    "text": "29 June."
+   },
+   {
+    "month": 10,
+    "name": "Festival Kreol",
+    "text": "A week celebrating Creole culture."
+   }
+  ]
+ }
+}

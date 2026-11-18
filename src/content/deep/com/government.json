@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "The Comoros is a federal presidential republic of three islands.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Azali Assoumani has been president for most years since 1999. Each island has its own governor."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Moroni"
+    },
+    {
+     "label": "Independence",
+     "value": "1975"
+    },
+    {
+     "label": "Islands",
+     "value": "3 main islands"
+    }
+   ]
+  },
+  {
+   "id": "au",
+   "title": "African Union",
+   "text": [
+    "Azali Assoumani chaired the African Union in 2023."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Federal",
+   "meaning": "Power shared between national and island governments."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Island governors",
+     "subtitle": "Elected",
+     "text": "Run each island."
+    },
+    {
+     "title": "Assembly of the Union",
+     "subtitle": "Elected",
+     "text": "The parliament."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Assembly",
+    "text": "Votes on it."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it into law."
+   }
+  ]
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Comorian culture blends Swahili, Arab and Malagasy traditions.",
+ "chapters": [
+  {
+   "id": "wedding",
+   "title": "Grand mariage",
+   "text": [
+    "The grand mariage is a lavish wedding that raises a man's status, sometimes costing years of savings."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Fish, coconut, rice and plantains are staples."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Grand mariage",
+   "meaning": "A traditional costly wedding."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Twarab",
+     "subtitle": "Music",
+     "text": "Comorian taarab."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Langouste à la vanille",
+     "subtitle": "Coast",
+     "text": "Lobster with vanilla."
+    },
+    {
+     "title": "Mataba",
+     "subtitle": "Everywhere",
+     "text": "Cassava leaves in coconut."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "6 July."
+   }
+  ]
+ }
+}

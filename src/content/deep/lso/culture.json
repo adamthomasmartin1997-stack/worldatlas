@@ -1,0 +1,70 @@
+{
+ "status": "draft",
+ "intro": "Basotho culture is known for blankets, horses and singing.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Basotho ponies carry people through the mountains. Famo music features accordions."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Papa (maize porridge) with moroho (greens) is the staple."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Famo",
+   "meaning": "Accordion music from Lesotho."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Famo",
+     "subtitle": "Music",
+     "text": "Accordion songs."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Papa",
+     "subtitle": "Everywhere",
+     "text": "Maize porridge."
+    },
+    {
+     "title": "Moroho",
+     "subtitle": "Everywhere",
+     "text": "Cooked greens."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Moshoeshoe Day",
+    "text": "11 March."
+   },
+   {
+    "month": 10,
+    "name": "Independence Day",
+    "text": "4 October."
+   }
+  ]
+ }
+}

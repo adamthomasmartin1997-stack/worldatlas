@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Eswatini is an absolute monarchy where the king appoints the prime minister.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "King Mswati III rules with the Queen Mother. Candidates for parliament stand as individuals, without parties."
+   ],
+   "facts": [
+    {
+     "label": "Administrative capital",
+     "value": "Mbabane"
+    },
+    {
+     "label": "Royal capital",
+     "value": "Lobamba"
+    },
+    {
+     "label": "King",
+     "value": "Mswati III"
+    }
+   ]
+  },
+  {
+   "id": "rights",
+   "title": "Rights",
+   "text": [
+    "Rights groups call for political parties to be allowed."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ndlovukati",
+   "meaning": "The Queen Mother, 'She-Elephant'."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Inherits the throne",
+     "text": "Holds most power."
+    },
+    {
+     "title": "Queen Mother",
+     "subtitle": "Royal role",
+     "text": "Shares ceremonial duties."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed by the King",
+     "text": "Leads the government."
+    },
+    {
+     "title": "Parliament",
+     "subtitle": "Partly elected",
+     "text": "No political parties."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government."
+   },
+   {
+    "title": "Parliament",
+    "text": "Debates it."
+   },
+   {
+    "title": "The King",
+    "text": "Must approve it."
+   }
+  ]
+ }
+}

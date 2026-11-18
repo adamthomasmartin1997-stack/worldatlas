@@ -1,0 +1,75 @@
+{
+ "status": "draft",
+ "intro": "Swazi culture is famous for its royal ceremonies.",
+ "chapters": [
+  {
+   "id": "ceremonies",
+   "title": "Ceremonies",
+   "text": [
+    "At Umhlanga, the Reed Dance, thousands of young women bring reeds to the Queen Mother. Incwala is a sacred kingship ceremony."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Sishwala (maize porridge) and meat stews are common."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Umhlanga",
+   "meaning": "The Reed Dance."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Bushfire",
+     "subtitle": "Festival",
+     "text": "An arts festival in Malkerns."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Sishwala",
+     "subtitle": "Everywhere",
+     "text": "Maize porridge."
+    },
+    {
+     "title": "Umncweba",
+     "subtitle": "Everywhere",
+     "text": "Dried meat."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 9,
+    "name": "Umhlanga",
+    "text": "The Reed Dance."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "6 September."
+   },
+   {
+    "month": 12,
+    "name": "Incwala",
+    "text": "The kingship ceremony."
+   }
+  ]
+ }
+}

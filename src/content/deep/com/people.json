@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "The Comoros has about 900,000 people, almost all Sunni Muslims.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Comorian (Shikomori), French and Arabic are official. Many Comorians live in France, especially Marseille."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "moroni",
+   "title": "Moroni",
+   "text": [
+    "Moroni, on Grande Comore, is the capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Shikomori",
+   "meaning": "The Comorian language."
+  }
+ ]
+}
