@@ -1,0 +1,77 @@
+{
+ "status": "draft",
+ "intro": "The Central African Republic lies at the heart of Africa. Rich in diamonds and forests, it has suffered years of coups and conflict.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Early peoples",
+   "text": [
+    "Megaliths at Bouar are thousands of years old. Many peoples, including the Banda, Gbaya and Aka forest people, lived here. In the 1800s raids for enslaved people devastated the region."
+   ],
+   "related": [
+    "TCD",
+    "SDN"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Oubangui-Chari",
+   "text": [
+    "France ruled it as Oubangui-Chari from the 1890s, and private companies forced people to collect rubber. It became independent in 1960."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Coups and conflict",
+   "text": [
+    "Jean-Bédel Bokassa crowned himself emperor in 1977 in a lavish ceremony before being overthrown in 1979. Since 2013 fighting between armed groups has displaced over a million people. Russian forces now support the government."
+   ],
+   "related": [
+    "FRA",
+    "RUS",
+    "TCD"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1889",
+   "title": "Bangui founded",
+   "text": "By the French."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "13 August."
+  },
+  {
+   "year": "1977",
+   "title": "Emperor Bokassa",
+   "text": "Crowns himself."
+  },
+  {
+   "year": "1979",
+   "title": "Bokassa ousted",
+   "text": "With French help."
+  },
+  {
+   "year": "2013",
+   "title": "Conflict",
+   "text": "Séléka rebels take Bangui."
+  },
+  {
+   "year": "2023",
+   "title": "Referendum",
+   "text": "New constitution."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Megalith",
+   "meaning": "A huge standing stone."
+  }
+ ]
+}

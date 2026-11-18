@@ -1,0 +1,68 @@
+{
+ "status": "draft",
+ "intro": "The Republic of the Congo, also called Congo-Brazzaville, lies across the Congo River from its larger neighbour, DR Congo.",
+ "chapters": [
+  {
+   "id": "kingdoms",
+   "title": "Kongo and Loango",
+   "text": [
+    "The Kingdom of Loango on the coast and parts of the Kongo and Teke kingdoms traded ivory, copper and, later, enslaved people with Europeans."
+   ],
+   "related": [
+    "COD",
+    "AGO",
+    "PRT"
+   ]
+  },
+  {
+   "id": "french",
+   "title": "French Congo",
+   "text": [
+    "Explorer Pierre Savorgnan de Brazza signed a treaty with the Teke king in 1880, and Brazzaville was named after him. During World War Two, Brazzaville was the capital of Free France in Africa."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Congo became independent in 1960. It was a Marxist state from 1969 to 1991. Civil wars in the 1990s were followed by the return of Denis Sassou Nguesso, who has ruled for most years since 1979."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1400s",
+   "title": "Loango",
+   "text": "A coastal kingdom."
+  },
+  {
+   "year": "1880",
+   "title": "Brazza's treaty",
+   "text": "French rule begins."
+  },
+  {
+   "year": "1940",
+   "title": "Free France",
+   "text": "Brazzaville's role in the war."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "15 August."
+  },
+  {
+   "year": "1997",
+   "title": "Civil war",
+   "text": "Sassou Nguesso returns."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Congo-Brazzaville",
+   "meaning": "A name used to tell it apart from DR Congo."
+  }
+ ]
+}

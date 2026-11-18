@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "São Tomé and Príncipe has about 230,000 people.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Portuguese is official, and Forro creole is widely spoken. Most people are Catholic."
+   ],
+   "related": [
+    "PRT"
+   ]
+  },
+  {
+   "id": "capital",
+   "title": "São Tomé",
+   "text": [
+    "Most people live on São Tomé island, around the capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Forro",
+   "meaning": "A local creole language."
+  }
+ ]
+}

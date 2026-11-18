@@ -1,0 +1,63 @@
+{
+ "status": "draft",
+ "intro": "Football is the most popular sport in São Tomé and Príncipe.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Football is played on beaches and village pitches."
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics",
+   "text": [
+    "The country has sent small teams to every Summer Olympics since 1996."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Olympics",
+   "meaning": "The world's biggest sporting event."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "São Tomé League",
+     "subtitle": "Football",
+     "text": "The top league."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where São Tomé and Príncipe's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estádio Nacional 12 de Julho",
+    "kind": "venue",
+    "lat": 0.33,
+    "lon": 6.73,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1996",
+    "title": "Olympic debut",
+    "text": "A first appearance."
+   }
+  ]
+ }
+}

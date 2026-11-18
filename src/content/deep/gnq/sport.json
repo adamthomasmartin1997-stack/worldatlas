@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Football is the most popular sport in Equatorial Guinea.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The National Thunder co-hosted the 2012 Africa Cup of Nations and hosted in 2015, reaching the semi-finals. The women's team won the African championship twice."
+   ]
+  },
+  {
+   "id": "swimming",
+   "title": "Swimming",
+   "text": [
+    "Eric Moussambani became famous at the 2000 Olympics as 'Eric the Eel' after learning to swim months earlier."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Nzalang Nacional",
+   "meaning": "'National Thunder', the football team."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Liga Nacional",
+     "subtitle": "Football",
+     "text": "The top league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Eric Moussambani",
+     "subtitle": "Swimming",
+     "text": "'Eric the Eel', Sydney 2000."
+    },
+    {
+     "title": "Emilio Nsue",
+     "subtitle": "Football",
+     "text": "AFCON 2024 top scorer."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Equatorial Guinea's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estadio de Bata",
+    "kind": "venue",
+    "lat": 1.83,
+    "lon": 9.79,
+    "text": "Hosted AFCON matches."
+   },
+   {
+    "name": "Estadio de Malabo",
+    "kind": "venue",
+    "lat": 3.74,
+    "lon": 8.77,
+    "text": "Hosted AFCON matches."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2000",
+    "title": "Eric the Eel",
+    "text": "A famous Olympic swim."
+   },
+   {
+    "year": "2015",
+    "title": "AFCON semi-final",
+    "text": "At home."
+   }
+  ]
+ }
+}

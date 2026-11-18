@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Gabon has about 2.5 million people, mostly in cities.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Fang are the largest group. French is official. Most people are Christian. Bwiti, a spiritual tradition, is practised too."
+   ]
+  },
+  {
+   "id": "libreville",
+   "title": "Libreville",
+   "text": [
+    "Libreville, the capital, is home to about half the population."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bwiti",
+   "meaning": "A Gabonese spiritual tradition."
+  }
+ ]
+}

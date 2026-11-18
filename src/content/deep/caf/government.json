@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "The Central African Republic is a presidential republic facing armed groups.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Faustin-Archange Touadéra has been president since 2016. A 2023 constitution removed term limits."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Bangui"
+    },
+    {
+     "label": "Independence",
+     "value": "1960"
+    },
+    {
+     "label": "Languages",
+     "value": "Sango, French"
+    }
+   ]
+  },
+  {
+   "id": "un",
+   "title": "UN mission",
+   "text": [
+    "A UN peacekeeping mission protects civilians."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Armed group",
+   "meaning": "A non-state fighting force."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected",
+     "text": "Holds most power."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed",
+     "text": "Leads the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "Elected",
+     "text": "The parliament."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "National Assembly",
+    "text": "Votes on it."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it into law."
+   }
+  ]
+ }
+}

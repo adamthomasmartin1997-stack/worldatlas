@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Oil makes up most of the Republic of the Congo's exports.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Offshore oil, timber and potash are major products. Heavy debts have caused economic problems."
+   ],
+   "related": [
+    "CHN"
+   ]
+  },
+  {
+   "id": "forest",
+   "title": "Forest",
+   "text": [
+    "Timber is exported, and peatlands store huge amounts of carbon."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Potash",
+   "meaning": "A mineral used in fertiliser."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Congo",
+   "items": [
+    {
+     "title": "Oil",
+     "subtitle": "Offshore",
+     "text": "Most exports."
+    },
+    {
+     "title": "Timber",
+     "subtitle": "North",
+     "text": "Logged hardwoods."
+    },
+    {
+     "title": "Potash",
+     "subtitle": "Kouilou",
+     "text": "A new mine."
+    }
+   ],
+   "intro": "Some of the things the Republic of the Congo makes and sells to the world."
+  }
+ ]
+}

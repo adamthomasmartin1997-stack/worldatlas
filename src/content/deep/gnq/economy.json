@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Oil and gas made Equatorial Guinea one of Africa's richest countries per person, but most people remain poor.",
+ "chapters": [
+  {
+   "id": "oil",
+   "title": "Oil",
+   "text": [
+    "Oil and gas make up almost all exports. Output is falling as fields age."
+   ],
+   "related": [
+    "CHN",
+    "ESP"
+   ]
+  },
+  {
+   "id": "cocoa",
+   "title": "Cocoa",
+   "text": [
+    "Cocoa from Bioko was once the main export."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Inequality",
+   "meaning": "A big gap between rich and poor."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Equatorial Guinea",
+   "items": [
+    {
+     "title": "Oil",
+     "subtitle": "Offshore",
+     "text": "Almost all exports."
+    },
+    {
+     "title": "Gas",
+     "subtitle": "Bioko",
+     "text": "Liquefied and exported."
+    },
+    {
+     "title": "Cocoa",
+     "subtitle": "Bioko",
+     "text": "Once the main crop."
+    }
+   ],
+   "intro": "Some of the things Equatorial Guinea makes and sells to the world."
+  }
+ ]
+}

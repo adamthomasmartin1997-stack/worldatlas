@@ -1,0 +1,63 @@
+{
+ "status": "draft",
+ "intro": "Equatorial Guinea's culture blends Fang, Bubi and Spanish traditions.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "The Balélé dance is performed at festivals. Spanish-language literature from the country is growing."
+   ],
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Fish and meat with cassava and plantains, and spicy pepper soup, are common."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Balélé",
+   "meaning": "A traditional dance."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Balélé",
+     "subtitle": "Traditional",
+     "text": "Dance music."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Pepe soup",
+     "subtitle": "Everywhere",
+     "text": "A spicy fish soup."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 10,
+    "name": "Independence Day",
+    "text": "12 October."
+   }
+  ]
+ }
+}

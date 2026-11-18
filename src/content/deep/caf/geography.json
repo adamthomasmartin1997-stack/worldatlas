@@ -1,0 +1,76 @@
+{
+ "status": "draft",
+ "intro": "The Central African Republic is a landlocked plateau of savanna and rainforest.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "The Ubangi River forms the southern border. Dzanga-Sangha in the south-west has forest elephants that gather in a clearing called Dzanga Bai. The north is savanna."
+   ],
+   "related": [
+    "TCD",
+    "SDN",
+    "SSD",
+    "COD",
+    "COG",
+    "CMR"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The south is hot and wet; the north has a dry season."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bai",
+   "meaning": "A forest clearing where animals gather."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of the Central African Republic's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Bangui",
+    "kind": "capital",
+    "lat": 4.37,
+    "lon": 18.56,
+    "text": "On the Ubangi River."
+   },
+   {
+    "name": "Dzanga-Sangha",
+    "kind": "forest reserve",
+    "lat": 2.9,
+    "lon": 16.3,
+    "text": "Forest elephants."
+   },
+   {
+    "name": "Boali Falls",
+    "kind": "waterfalls",
+    "lat": 4.8,
+    "lon": 18.12,
+    "text": "A tall waterfall."
+   },
+   {
+    "name": "Manovo-Gounda St Floris",
+    "kind": "savanna park",
+    "lat": 8.9,
+    "lon": 21.2,
+    "text": "A threatened park."
+   },
+   {
+    "name": "Bouar",
+    "kind": "megaliths",
+    "lat": 5.93,
+    "lon": 15.6,
+    "text": "Ancient stones."
+   }
+  ]
+ }
+}

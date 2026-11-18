@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "The Republic of the Congo is a presidential republic led by Denis Sassou Nguesso.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for five years after a 2015 constitutional change removed age and term limits. Elections have been criticised."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Brazzaville"
+    },
+    {
+     "label": "Independence",
+     "value": "1960"
+    },
+    {
+     "label": "Language",
+     "value": "French"
+    }
+   ]
+  },
+  {
+   "id": "peace",
+   "title": "Peace",
+   "text": [
+    "Fighting in the Pool region ended with a peace deal in 2017."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Constitution",
+   "meaning": "The basic law of a country."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 5 years",
+     "text": "Holds most power."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed",
+     "text": "Leads the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "Elected",
+     "text": "The lower house."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "Indirectly elected",
+     "text": "The upper house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Parliament",
+    "text": "Both houses debate it."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it into law."
+   }
+  ]
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "status": "draft",
+ "intro": "Congolese culture is known for rumba music and the stylish sapeurs.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Brazzaville and Kinshasa share Congolese rumba. The Sapeurs of Brazzaville dress in colourful designer suits. The Poto-Poto school of painting is famous."
+   ],
+   "related": [
+    "COD"
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Saka-saka (cassava leaves) and grilled fish with plantains are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sapeur",
+   "meaning": "A follower of the elegant La Sape fashion movement."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Broken Glass",
+     "subtitle": "2005 · Alain Mabanckou",
+     "text": "A bar in Pointe-Noire."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Congolese rumba",
+     "subtitle": "Music",
+     "text": "Shared with Kinshasa."
+    },
+    {
+     "title": "Les Bantous de la Capitale",
+     "subtitle": "Band",
+     "text": "Brazzaville rumba legends."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Saka-saka",
+     "subtitle": "Everywhere",
+     "text": "Cassava leaves."
+    },
+    {
+     "title": "Grilled fish",
+     "subtitle": "River",
+     "text": "With plantains."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "15 August."
+   },
+   {
+    "month": 7,
+    "name": "FESPAM",
+    "text": "A Pan-African music festival."
+   }
+  ]
+ }
+}

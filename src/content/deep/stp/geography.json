@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "São Tomé and Príncipe are volcanic islands on the equator in the Gulf of Guinea.",
+ "chapters": [
+  {
+   "id": "islands",
+   "title": "Islands",
+   "text": [
+    "Pico Cão Grande, a needle of volcanic rock, rises 300 m above the rainforest. The Ilhéu das Rolas islet lies right on the equator. Many birds and plants are found nowhere else."
+   ],
+   "related": [
+    "GAB",
+    "GNQ"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The climate is hot and humid."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Endemic",
+   "meaning": "Found nowhere else."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of São Tomé and Príncipe's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "São Tomé city",
+    "kind": "capital",
+    "lat": 0.34,
+    "lon": 6.73,
+    "text": "Colonial buildings."
+   },
+   {
+    "name": "Pico Cão Grande",
+    "kind": "volcanic plug",
+    "lat": 0.12,
+    "lon": 6.57,
+    "text": "A needle of rock."
+   },
+   {
+    "name": "Obô National Park",
+    "kind": "rainforest",
+    "lat": 0.25,
+    "lon": 6.6,
+    "text": "Endemic birds."
+   },
+   {
+    "name": "Ilhéu das Rolas",
+    "kind": "equator islet",
+    "lat": 0.0,
+    "lon": 6.52,
+    "text": "Right on the equator."
+   },
+   {
+    "name": "Príncipe",
+    "kind": "island",
+    "lat": 1.6,
+    "lon": 7.4,
+    "text": "A UNESCO biosphere reserve."
+   }
+  ]
+ }
+}

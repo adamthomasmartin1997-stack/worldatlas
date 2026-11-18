@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "About 88% of Gabon is covered by rainforest, one of the highest shares in the world.",
+ "chapters": [
+  {
+   "id": "parks",
+   "title": "National parks",
+   "text": [
+    "Gabon has 13 national parks. At Loango, elephants and hippos walk on beaches and humpback whales swim offshore. Lopé protects forest and savanna mosaic."
+   ],
+   "related": [
+    "CMR",
+    "COG",
+    "GNQ"
+   ]
+  },
+  {
+   "id": "ogooue",
+   "title": "Rivers",
+   "text": [
+    "The Ogooué River crosses the country to the Atlantic."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mosaic",
+   "meaning": "A mix of different habitats."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Gabon's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Libreville",
+    "kind": "capital",
+    "lat": 0.39,
+    "lon": 9.45,
+    "text": "On the estuary."
+   },
+   {
+    "name": "Pongara",
+    "kind": "beach park",
+    "lat": 0.25,
+    "lon": 9.35,
+    "text": "Turtles nest here."
+   },
+   {
+    "name": "Lopé",
+    "kind": "forest and savanna",
+    "lat": -0.5,
+    "lon": 11.5,
+    "text": "Colourful mandrills live here."
+   },
+   {
+    "name": "Lambaréné",
+    "kind": "river town",
+    "lat": -0.7,
+    "lon": 10.23,
+    "text": "Schweitzer's hospital."
+   },
+   {
+    "name": "Loango",
+    "kind": "beach park",
+    "lat": -2.2,
+    "lon": 9.6,
+    "text": "Elephants on beaches."
+   },
+   {
+    "name": "Ivindo",
+    "kind": "waterfalls",
+    "lat": 0.0,
+    "lon": 12.5,
+    "text": "Kongou Falls."
+   }
+  ]
+ }
+}

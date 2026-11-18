@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Equatorial Guinea has about 1.9 million people.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Fang are the largest group, followed by the Bubi. Spanish, French and Portuguese are official. Most people are Catholic."
+   ],
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Malabo is the capital; a new capital, Ciudad de la Paz, is being built on the mainland."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Fang",
+   "meaning": "The largest ethnic group."
+  }
+ ]
+}

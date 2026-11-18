@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Cocoa is the main export of São Tomé and Príncipe.",
+ "chapters": [
+  {
+   "id": "cocoa",
+   "title": "Cocoa",
+   "text": [
+    "High-quality cocoa, coffee and palm oil are grown. Tourism to its beaches and forests is growing."
+   ],
+   "related": [
+    "PRT"
+   ]
+  },
+  {
+   "id": "aid",
+   "title": "Aid",
+   "text": [
+    "The economy relies heavily on foreign aid."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cocoa",
+   "meaning": "The bean used to make chocolate."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in São Tomé and Príncipe",
+   "items": [
+    {
+     "title": "Cocoa",
+     "subtitle": "Roças",
+     "text": "Fine cocoa."
+    },
+    {
+     "title": "Coffee",
+     "subtitle": "Hills",
+     "text": "Grown on estates."
+    },
+    {
+     "title": "Palm oil",
+     "subtitle": "Plantations",
+     "text": "Grown for export."
+    }
+   ],
+   "intro": "Some of the things São Tomé and Príncipe makes and sells to the world."
+  }
+ ]
+}

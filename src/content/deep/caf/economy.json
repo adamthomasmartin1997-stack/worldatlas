@@ -1,0 +1,50 @@
+{
+ "status": "draft",
+ "intro": "Diamonds, gold and timber are the main exports, but the country is one of the poorest in the world.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Diamonds and gold are mined, often by hand. Timber, coffee and cotton are exported. In 2022 it became the second country to adopt Bitcoin as legal tender, a policy soon reversed."
+   ]
+  },
+  {
+   "id": "poverty",
+   "title": "Poverty",
+   "text": [
+    "Conflict has kept most people very poor."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Legal tender",
+   "meaning": "Money that must be accepted for payment."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in the Central African Republic",
+   "items": [
+    {
+     "title": "Diamonds",
+     "subtitle": "West",
+     "text": "Mined by hand."
+    },
+    {
+     "title": "Gold",
+     "subtitle": "East",
+     "text": "Artisanal mining."
+    },
+    {
+     "title": "Timber",
+     "subtitle": "South",
+     "text": "Hardwood logs."
+    }
+   ],
+   "intro": "Some of the things the Central African Republic makes and sells to the world."
+  }
+ ]
+}

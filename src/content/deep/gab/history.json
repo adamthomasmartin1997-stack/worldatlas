@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Gabon is a rainforest country on the equator, ruled by one family for over 50 years until a coup in 2023.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Early peoples",
+   "text": [
+    "Forest peoples have lived here for tens of thousands of years. Bantu-speaking Fang, Punu and other peoples later settled. Lopé has ancient rock carvings."
+   ],
+   "related": [
+    "CMR",
+    "COG"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "French rule",
+   "text": [
+    "French explorers and missionaries arrived in the 1800s; Libreville was founded for freed enslaved people in 1849. Albert Schweitzer ran a famous hospital at Lambaréné from 1913."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and the Bongos",
+   "text": [
+    "Gabon became independent in 1960. Omar Bongo ruled from 1967 to 2009, and his son Ali Bongo until a coup in 2023. Coup leader Brice Oligui Nguema won a presidential election in 2025."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1849",
+   "title": "Libreville",
+   "text": "Founded."
+  },
+  {
+   "year": "1913",
+   "title": "Lambaréné",
+   "text": "Schweitzer's hospital."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "17 August."
+  },
+  {
+   "year": "1967",
+   "title": "Omar Bongo",
+   "text": "Takes power."
+  },
+  {
+   "year": "2023",
+   "title": "Coup",
+   "text": "Ali Bongo removed."
+  },
+  {
+   "year": "2025",
+   "title": "Election",
+   "text": "Oligui Nguema elected."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Equator",
+   "meaning": "The imaginary line around the middle of the Earth."
+  }
+ ]
+}

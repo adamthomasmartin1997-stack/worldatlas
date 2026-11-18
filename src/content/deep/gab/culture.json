@@ -1,0 +1,68 @@
+{
+ "status": "draft",
+ "intro": "Gabon's culture is famous for its masks and spiritual traditions.",
+ "chapters": [
+  {
+   "id": "masks",
+   "title": "Masks",
+   "text": [
+    "Fang reliquary figures and Punu white-faced masks influenced European artists like Picasso."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Nyembwe (chicken in palm nut sauce) is the national dish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Reliquary",
+   "meaning": "A container for sacred remains."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Pierre Akendengué",
+     "subtitle": "Singer",
+     "text": "A celebrated musician."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Nyembwe",
+     "subtitle": "Everywhere",
+     "text": "Palm nut chicken."
+    },
+    {
+     "title": "Atanga",
+     "subtitle": "Everywhere",
+     "text": "A purple fruit eaten with bread."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "17 August."
+   }
+  ]
+ }
+}

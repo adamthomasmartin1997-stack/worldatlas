@@ -1,0 +1,67 @@
+{
+ "status": "draft",
+ "intro": "Equatorial Guinea is the only country in Africa where Spanish is an official language.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Bioko and Río Muni",
+   "text": [
+    "The Bubi people lived on Bioko island, and the Fang and others on the mainland, Río Muni. Portugal claimed the islands in the 1400s and traded them to Spain in 1778."
+   ],
+   "related": [
+    "PRT",
+    "ESP"
+   ]
+  },
+  {
+   "id": "spain",
+   "title": "Spanish Guinea",
+   "text": [
+    "Spain ran cocoa plantations on Bioko using forced labour. The colony became independent in 1968."
+   ],
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence",
+   "text": [
+    "Francisco Macías Nguema ruled brutally until 1979, when his nephew Teodoro Obiang overthrew him. Obiang has ruled ever since, making him the world's longest-serving president. Oil was found in the 1990s."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1472",
+   "title": "Portuguese arrive",
+   "text": "Bioko is reached."
+  },
+  {
+   "year": "1778",
+   "title": "Spanish rule",
+   "text": "Traded to Spain."
+  },
+  {
+   "year": "1968",
+   "title": "Independence",
+   "text": "12 October."
+  },
+  {
+   "year": "1979",
+   "title": "Obiang",
+   "text": "Takes power."
+  },
+  {
+   "year": "1996",
+   "title": "Oil",
+   "text": "Production begins."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bioko",
+   "meaning": "The island where the capital, Malabo, stands."
+  }
+ ]
+}

@@ -1,0 +1,73 @@
+{
+ "status": "draft",
+ "intro": "Equatorial Guinea is made up of a mainland region and several islands.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mainland and islands",
+   "text": [
+    "Bioko is volcanic, with Pico Basilé, the highest point. Río Muni on the mainland is covered by rainforest. Annobón lies far to the south-west."
+   ],
+   "related": [
+    "CMR",
+    "GAB",
+    "STP"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The climate is hot and very wet."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Volcanic island",
+   "meaning": "An island made by volcanoes."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Equatorial Guinea's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Malabo",
+    "kind": "capital",
+    "lat": 3.75,
+    "lon": 8.78,
+    "text": "On Bioko island."
+   },
+   {
+    "name": "Pico Basilé",
+    "kind": "volcano",
+    "lat": 3.58,
+    "lon": 8.77,
+    "text": "The highest peak."
+   },
+   {
+    "name": "Moca",
+    "kind": "crater lake",
+    "lat": 3.36,
+    "lon": 8.66,
+    "text": "Highland lake."
+   },
+   {
+    "name": "Monte Alén",
+    "kind": "rainforest",
+    "lat": 1.66,
+    "lon": 10.3,
+    "text": "Gorillas and elephants."
+   },
+   {
+    "name": "Bata",
+    "kind": "mainland city",
+    "lat": 1.86,
+    "lon": 9.77,
+    "text": "The largest city."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Gabon earns money from oil, manganese and timber.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Oil, manganese (Gabon is a top producer) and timber are major exports. Gabon is one of the richer countries in Africa per person, though many people are poor."
+   ],
+   "related": [
+    "CHN",
+    "FRA"
+   ]
+  },
+  {
+   "id": "ecotourism",
+   "title": "Ecotourism",
+   "text": [
+    "Gabon hopes wildlife tourism will grow."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Manganese",
+   "meaning": "A metal used to make steel."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Gabon",
+   "items": [
+    {
+     "title": "Oil",
+     "subtitle": "Offshore",
+     "text": "A top export."
+    },
+    {
+     "title": "Manganese",
+     "subtitle": "Moanda",
+     "text": "A top producer."
+    },
+    {
+     "title": "Timber",
+     "subtitle": "Forests",
+     "text": "Okoumé wood."
+    }
+   ],
+   "intro": "Some of the things Gabon makes and sells to the world."
+  }
+ ]
+}

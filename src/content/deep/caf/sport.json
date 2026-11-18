@@ -1,0 +1,79 @@
+{
+ "status": "draft",
+ "intro": "Basketball and football are the most popular sports in the Central African Republic.",
+ "chapters": [
+  {
+   "id": "basketball",
+   "title": "Basketball",
+   "text": [
+    "The national team won the African basketball championship in 1974 and 1987."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Football is played across the country."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "AfroBasket",
+   "meaning": "Africa's basketball championship."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Basketball",
+     "subtitle": "National team",
+     "text": "Two African titles."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Romain Sato",
+     "subtitle": "Basketball",
+     "text": "Played in Europe."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where the Central African Republic's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Barthélemy Boganda Stadium",
+    "kind": "venue",
+    "lat": 4.38,
+    "lon": 18.56,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1974",
+    "title": "AfroBasket",
+    "text": "A first title."
+   },
+   {
+    "year": "1987",
+    "title": "AfroBasket",
+    "text": "A second title."
+   }
+  ]
+ }
+}

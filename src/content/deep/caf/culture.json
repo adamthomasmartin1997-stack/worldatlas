@@ -1,0 +1,70 @@
+{
+ "status": "draft",
+ "intro": "The country's culture includes the polyphonic songs of the Aka people.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Aka polyphony",
+   "text": [
+    "The Aka people's complex group singing is on UNESCO's list."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Cassava, peanut sauces and bushmeat stews are common."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Polyphony",
+   "meaning": "Many voices singing different parts."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Aka songs",
+     "subtitle": "Traditional",
+     "text": "Complex polyphony."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Gozo",
+     "subtitle": "Everywhere",
+     "text": "Cassava dough."
+    },
+    {
+     "title": "Peanut stew",
+     "subtitle": "Everywhere",
+     "text": "With meat or fish."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "13 August."
+   },
+   {
+    "month": 12,
+    "name": "Republic Day",
+    "text": "1 December."
+   }
+  ]
+ }
+}

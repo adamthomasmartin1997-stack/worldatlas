@@ -1,0 +1,84 @@
+{
+ "status": "draft",
+ "intro": "Football is Gabon's favourite sport, and Gabon has hosted the Africa Cup of Nations.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Gabon co-hosted the Africa Cup of Nations in 2012 and hosted it in 2017. Pierre-Emerick Aubameyang won the African Footballer of the Year in 2015."
+   ]
+  },
+  {
+   "id": "taekwondo",
+   "title": "Taekwondo",
+   "text": [
+    "Anthony Obame won taekwondo silver at the 2012 Olympics, Gabon's only medal."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Panthers",
+   "meaning": "The national football team."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Gabon Championnat National D1",
+     "subtitle": "Football",
+     "text": "The top league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Pierre-Emerick Aubameyang",
+     "subtitle": "Football",
+     "text": "African Footballer of the Year 2015."
+    },
+    {
+     "title": "Anthony Obame",
+     "subtitle": "Taekwondo",
+     "text": "Olympic silver 2012."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Gabon's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Stade de l'Amitié, Libreville",
+    "kind": "venue",
+    "lat": 0.48,
+    "lon": 9.42,
+    "text": "Hosted the 2017 AFCON final."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2012",
+    "title": "Olympic silver",
+    "text": "Obame in London."
+   },
+   {
+    "year": "2017",
+    "title": "AFCON host",
+    "text": "Gabon hosts."
+   }
+  ]
+ }
+}

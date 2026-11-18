@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "São Tomé and Príncipe is Africa's second-smallest country, two volcanic islands that were uninhabited until the Portuguese arrived.",
+ "chapters": [
+  {
+   "id": "settlement",
+   "title": "Settlement",
+   "text": [
+    "Portuguese sailors found the islands around 1470. Settlers brought enslaved Africans to grow sugar, and the islands became a slave-trade hub."
+   ],
+   "related": [
+    "PRT",
+    "AGO",
+    "GAB"
+   ]
+  },
+  {
+   "id": "plantations",
+   "title": "Cocoa islands",
+   "text": [
+    "In the late 1800s São Tomé became one of the world's top cocoa producers, using contract workers in harsh conditions. A 1953 massacre at Batepá killed hundreds of protesters."
+   ],
+   "related": [
+    "PRT"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "The islands became independent in 1975. Multi-party democracy began in 1991, and power has changed hands peacefully."
+   ],
+   "highlight": {
+    "title": "Peaceful",
+    "text": "Elections have led to several peaceful changes of government."
+   }
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1470",
+   "title": "Discovery",
+   "text": "Portuguese arrive."
+  },
+  {
+   "year": "1500s",
+   "title": "Sugar",
+   "text": "Plantations grow."
+  },
+  {
+   "year": "1953",
+   "title": "Batepá massacre",
+   "text": "Protesters killed."
+  },
+  {
+   "year": "1975",
+   "title": "Independence",
+   "text": "12 July."
+  },
+  {
+   "year": "1991",
+   "title": "Democracy",
+   "text": "Multi-party elections."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Roça",
+   "meaning": "A plantation estate."
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Gabon is a presidential republic, led by Brice Oligui Nguema since the 2023 coup.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "A new constitution in 2024 set a seven-year presidential term. Oligui Nguema won the April 2025 election with about 90% of the vote."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Libreville"
+    },
+    {
+     "label": "Independence",
+     "value": "1960"
+    },
+    {
+     "label": "President",
+     "value": "Brice Oligui Nguema"
+    }
+   ]
+  },
+  {
+   "id": "nature",
+   "title": "Nature policy",
+   "text": [
+    "Gabon was the first African country to be paid for protecting its forests' carbon."
+   ],
+   "related": [
+    "NOR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Coup",
+   "meaning": "A seizure of power by force."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 7 years",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Vice President",
+     "subtitle": "Appointed",
+     "text": "Second in command."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "Elected",
+     "text": "The lower house."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "Elected",
+     "text": "The upper house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Parliament",
+    "text": "Debates and passes it."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it into law."
+   }
+  ]
+ }
+}

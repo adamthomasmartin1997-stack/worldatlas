@@ -1,0 +1,57 @@
+{
+ "status": "draft",
+ "intro": "Culture on the islands blends Portuguese and African traditions.",
+ "chapters": [
+  {
+   "id": "theatre",
+   "title": "Tchiloli",
+   "text": [
+    "Tchiloli is a street theatre based on a medieval Portuguese play, performed in masks and costumes."
+   ],
+   "related": [
+    "PRT"
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Calulu, a stew of fish or chicken with greens, is the national dish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tchiloli",
+   "meaning": "A traditional street drama."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Calulu",
+     "subtitle": "Everywhere",
+     "text": "Fish and greens stew."
+    },
+    {
+     "title": "Fried breadfruit",
+     "subtitle": "Everywhere",
+     "text": "A common side dish."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "12 July."
+   }
+  ]
+ }
+}

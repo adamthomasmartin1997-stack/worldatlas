@@ -1,0 +1,79 @@
+{
+ "status": "draft",
+ "intro": "Football is the most popular sport in the Republic of the Congo.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Red Devils won the Africa Cup of Nations in 1972. CARA Brazzaville won the African Champions Cup in 1974."
+   ]
+  },
+  {
+   "id": "events",
+   "title": "Events",
+   "text": [
+    "Brazzaville hosted the 2015 African Games."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "African Games",
+   "meaning": "A multi-sport event for Africa."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Congo Premier League",
+     "subtitle": "Football",
+     "text": "AS Otohô is a top club."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "François M'Pelé",
+     "subtitle": "Football",
+     "text": "A 1970s star."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where the Republic of the Congo's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Stade Alphonse Massamba-Débat",
+    "kind": "venue",
+    "lat": -4.25,
+    "lon": 15.25,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1972",
+    "title": "AFCON",
+    "text": "A first title."
+   },
+   {
+    "year": "2015",
+    "title": "African Games",
+    "text": "Hosted in Brazzaville."
+   }
+  ]
+ }
+}

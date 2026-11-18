@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "The Central African Republic has about 5.5 million people.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Sango and French are official, and Sango is spoken by almost everyone. Groups include the Gbaya, Banda and Mandja. Most people are Christian, with a Muslim minority."
+   ]
+  },
+  {
+   "id": "bangui",
+   "title": "Bangui",
+   "text": [
+    "Bangui, the capital, sits on the Ubangi River."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sango",
+   "meaning": "A national language."
+  }
+ ]
+}

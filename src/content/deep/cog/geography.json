@@ -1,0 +1,75 @@
+{
+ "status": "draft",
+ "intro": "Much of the Republic of the Congo is covered by rainforest, crossed by rivers flowing to the Congo.",
+ "chapters": [
+  {
+   "id": "forest",
+   "title": "Rainforest",
+   "text": [
+    "Odzala-Kokoua and Nouabalé-Ndoki national parks protect forest elephants and western lowland gorillas. Brazzaville and Kinshasa face each other across the Congo River, the closest pair of capitals in the world apart from Rome and Vatican City."
+   ],
+   "related": [
+    "COD",
+    "GAB",
+    "CMR",
+    "CAF",
+    "AGO"
+   ]
+  },
+  {
+   "id": "coast",
+   "title": "Coast",
+   "text": [
+    "Pointe-Noire is the country's port and oil hub on the Atlantic."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lowland gorilla",
+   "meaning": "The most common gorilla species."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of the Republic of the Congo's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Odzala-Kokoua",
+    "kind": "rainforest park",
+    "lat": 0.6,
+    "lon": 14.9,
+    "text": "Gorillas and elephants."
+   },
+   {
+    "name": "Nouabalé-Ndoki",
+    "kind": "rainforest",
+    "lat": 2.4,
+    "lon": 16.5,
+    "text": "Untouched forest."
+   },
+   {
+    "name": "Brazzaville",
+    "kind": "capital",
+    "lat": -4.27,
+    "lon": 15.28,
+    "text": "Across the river from Kinshasa."
+   },
+   {
+    "name": "Pointe-Noire",
+    "kind": "port",
+    "lat": -4.78,
+    "lon": 11.86,
+    "text": "The oil hub."
+   },
+   {
+    "name": "Diosso Gorge",
+    "kind": "canyon",
+    "lat": -4.58,
+    "lon": 11.86,
+    "text": "Red cliffs near the coast."
+   }
+  ]
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "The Republic of the Congo has about 6 million people, most living in two cities.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Kongo are the largest group. French is official, and Lingala and Kituba are widely spoken. Most people are Christian. Indigenous forest peoples, the Aka and Baka, face discrimination."
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Brazzaville and Pointe-Noire are home to most people."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lingala",
+   "meaning": "A widely spoken language."
+  }
+ ]
+}
