@@ -1,0 +1,105 @@
+{
+ "status": "draft",
+ "intro": "Ethiopia is a high, landlocked country, the 'roof of Africa', split by the Great Rift Valley.",
+ "chapters": [
+  {
+   "id": "highlands",
+   "title": "Highlands and Rift",
+   "text": [
+    "The Ethiopian Highlands make up the largest area of high land in Africa; Ras Dashen is the highest peak at about 4,550 m. The Blue Nile flows from Lake Tana.",
+    "The Danakil Depression is one of the hottest places on Earth, with lava lakes, salt flats and acid pools."
+   ],
+   "related": [
+    "ERI",
+    "DJI",
+    "SOM",
+    "KEN",
+    "SSD",
+    "SDN"
+   ]
+  },
+  {
+   "id": "wildlife",
+   "title": "Wildlife",
+   "text": [
+    "The Simien and Bale Mountains are home to Ethiopian wolves and gelada monkeys, found nowhere else."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Depression",
+   "meaning": "Land lower than its surroundings."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Ethiopia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Simien Mountains",
+    "kind": "mountains",
+    "lat": 13.2,
+    "lon": 38.1,
+    "text": "Gelada monkeys and cliffs."
+   },
+   {
+    "name": "Aksum",
+    "kind": "ancient city",
+    "lat": 14.13,
+    "lon": 38.72,
+    "text": "Giant obelisks."
+   },
+   {
+    "name": "Lalibela",
+    "kind": "rock churches",
+    "lat": 12.03,
+    "lon": 39.04,
+    "text": "Churches carved into rock."
+   },
+   {
+    "name": "Danakil Depression",
+    "kind": "volcanic desert",
+    "lat": 14.24,
+    "lon": 40.3,
+    "text": "Colourful acid pools."
+   },
+   {
+    "name": "Lake Tana",
+    "kind": "lake",
+    "lat": 12.0,
+    "lon": 37.3,
+    "text": "Source of the Blue Nile."
+   },
+   {
+    "name": "Blue Nile Falls",
+    "kind": "waterfall",
+    "lat": 11.49,
+    "lon": 37.59,
+    "text": "'Smoking water'."
+   },
+   {
+    "name": "Addis Ababa",
+    "kind": "capital",
+    "lat": 9.03,
+    "lon": 38.74,
+    "text": "African Union headquarters."
+   },
+   {
+    "name": "Bale Mountains",
+    "kind": "plateau",
+    "lat": 6.8,
+    "lon": 39.8,
+    "text": "Ethiopian wolves."
+   },
+   {
+    "name": "Omo Valley",
+    "kind": "river valley",
+    "lat": 5.5,
+    "lon": 36.0,
+    "text": "Many peoples and ancient fossils."
+   }
+  ]
+ }
+}

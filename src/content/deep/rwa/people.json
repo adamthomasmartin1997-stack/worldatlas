@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Rwanda has about 14 million people and is one of Africa's most densely populated countries.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Kinyarwanda is spoken by everyone; English, French and Swahili are also official. The government discourages ethnic labels and stresses a shared Rwandan identity. Most people are Christian."
+   ]
+  },
+  {
+   "id": "kigali",
+   "title": "Kigali",
+   "text": [
+    "Kigali is known as one of Africa's cleanest cities; plastic bags have been banned since 2008."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kinyarwanda",
+   "meaning": "The national language."
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "status": "draft",
+ "intro": "Kenya stretches from Indian Ocean beaches over savanna and the Great Rift Valley to snowy Mount Kenya.",
+ "chapters": [
+  {
+   "id": "rift",
+   "title": "Rift Valley and highlands",
+   "text": [
+    "The Great Rift Valley cuts through Kenya, with lakes full of flamingos. Mount Kenya, 5,199 m, is Africa's second-highest mountain and sits on the equator. The highlands have rich farmland.",
+    "The Maasai Mara hosts the Great Migration of wildebeest from Tanzania each year."
+   ],
+   "related": [
+    "TZA",
+    "UGA",
+    "ETH",
+    "SOM",
+    "SSD"
+   ]
+  },
+  {
+   "id": "north",
+   "title": "North and coast",
+   "text": [
+    "The north is dry, with Lake Turkana, the world's largest desert lake. The coast has coral reefs and mangroves."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Rift valley",
+   "meaning": "A valley formed where the Earth's crust pulls apart."
+  },
+  {
+   "term": "Great Migration",
+   "meaning": "The yearly movement of millions of wildebeest and zebra."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Kenya's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Lake Turkana",
+    "kind": "desert lake",
+    "lat": 3.6,
+    "lon": 36.1,
+    "text": "The world's largest desert lake."
+   },
+   {
+    "name": "Mount Kenya",
+    "kind": "mountain",
+    "lat": -0.15,
+    "lon": 37.31,
+    "text": "Africa's second-highest peak."
+   },
+   {
+    "name": "Lake Nakuru",
+    "kind": "flamingo lake",
+    "lat": -0.37,
+    "lon": 36.08,
+    "text": "Pink with flamingos."
+   },
+   {
+    "name": "Hell's Gate",
+    "kind": "gorge",
+    "lat": -0.91,
+    "lon": 36.31,
+    "text": "Cliffs and geothermal steam."
+   },
+   {
+    "name": "Maasai Mara",
+    "kind": "savanna",
+    "lat": -1.5,
+    "lon": 35.15,
+    "text": "The Great Migration."
+   },
+   {
+    "name": "Nairobi National Park",
+    "kind": "city park",
+    "lat": -1.37,
+    "lon": 36.86,
+    "text": "Lions with skyscrapers behind."
+   },
+   {
+    "name": "Amboseli",
+    "kind": "savanna",
+    "lat": -2.65,
+    "lon": 37.26,
+    "text": "Elephants below Kilimanjaro."
+   },
+   {
+    "name": "Lamu",
+    "kind": "Swahili town",
+    "lat": -2.27,
+    "lon": 40.9,
+    "text": "Old stone town."
+   },
+   {
+    "name": "Mombasa",
+    "kind": "port city",
+    "lat": -4.05,
+    "lon": 39.67,
+    "text": "Fort Jesus."
+   }
+  ]
+ }
+}

@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Kenya has about 56 million people from over 40 ethnic groups.",
+ "chapters": [
+  {
+   "id": "groups",
+   "title": "Many peoples",
+   "text": [
+    "The largest groups include the Kikuyu, Luhya, Kalenjin, Luo and Kamba; the Maasai are famous worldwide. English and Swahili are official languages. Most people are Christian, with a Muslim minority mainly on the coast."
+   ],
+   "related": [
+    "TZA",
+    "UGA"
+   ]
+  },
+  {
+   "id": "nairobi",
+   "title": "Nairobi",
+   "text": [
+    "Nairobi is a fast-growing capital and a hub for the UN and technology. Kibera is one of Africa's largest informal settlements."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Informal settlement",
+   "meaning": "A crowded area of homes built without formal planning."
+  }
+ ]
+}

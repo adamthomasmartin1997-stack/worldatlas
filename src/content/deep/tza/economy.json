@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Tanzania's economy relies on farming, gold, tourism and gas.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Gold is the top export. Safari and beach tourism are big, and cashews, coffee, tea and cloves are grown. Tanzanite, a blue gem, is found only near Kilimanjaro."
+   ]
+  },
+  {
+   "id": "ports",
+   "title": "Ports",
+   "text": [
+    "Dar es Salaam's port serves landlocked neighbours like Zambia, Rwanda and Uganda."
+   ],
+   "related": [
+    "ZMB",
+    "RWA",
+    "UGA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tanzanite",
+   "meaning": "A blue gem found only in Tanzania."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Tanzania",
+   "items": [
+    {
+     "title": "Gold",
+     "subtitle": "Lake Victoria region",
+     "text": "The top export."
+    },
+    {
+     "title": "Tanzanite",
+     "subtitle": "Mererani",
+     "text": "Found only here."
+    },
+    {
+     "title": "Cloves",
+     "subtitle": "Zanzibar",
+     "text": "The 'spice island'."
+    },
+    {
+     "title": "Cashews",
+     "subtitle": "South",
+     "text": "A top producer."
+    },
+    {
+     "title": "Safaris",
+     "subtitle": "North",
+     "text": "Wildlife tourism."
+    }
+   ],
+   "intro": "Some of the things Tanzania makes and sells to the world."
+  }
+ ]
+}

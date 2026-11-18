@@ -1,0 +1,81 @@
+{
+ "status": "draft",
+ "intro": "Rwanda is a small, hilly, landlocked country with volcanoes, lakes and rainforest.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Hills and volcanoes",
+   "text": [
+    "Rolling hills cover most of the country. The Virunga volcanoes in the north-west shelter mountain gorillas. Lake Kivu lies along the border with DR Congo, and Nyungwe Forest is an ancient rainforest."
+   ],
+   "related": [
+    "COD",
+    "UGA",
+    "TZA",
+    "BDI"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "High altitude gives a mild climate with two rainy seasons."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Volcano",
+   "meaning": "A mountain formed by eruptions."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Rwanda's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Volcanoes National Park",
+    "kind": "volcanoes",
+    "lat": -1.47,
+    "lon": 29.53,
+    "text": "Mountain gorillas."
+   },
+   {
+    "name": "Lake Kivu",
+    "kind": "lake",
+    "lat": -2.0,
+    "lon": 29.2,
+    "text": "Beaches and fishing boats."
+   },
+   {
+    "name": "Kigali",
+    "kind": "capital",
+    "lat": -1.94,
+    "lon": 30.06,
+    "text": "Hills and the Genocide Memorial."
+   },
+   {
+    "name": "Akagera",
+    "kind": "savanna park",
+    "lat": -1.9,
+    "lon": 30.7,
+    "text": "The Big Five."
+   },
+   {
+    "name": "Nyungwe",
+    "kind": "rainforest",
+    "lat": -2.48,
+    "lon": 29.2,
+    "text": "A canopy walkway."
+   },
+   {
+    "name": "Huye",
+    "kind": "university town",
+    "lat": -2.6,
+    "lon": 29.74,
+    "text": "The Ethnographic Museum."
+   }
+  ]
+ }
+}

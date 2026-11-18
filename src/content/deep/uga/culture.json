@@ -1,0 +1,112 @@
+{
+ "status": "draft",
+ "intro": "Ugandan culture is rich in music, dance and food.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Barkcloth made from fig trees is on UNESCO's list. Dance troupes perform the energetic Bakisimba."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Matoke (steamed green bananas) and the rolex, a chapati rolled around an omelette, are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Matoke",
+   "meaning": "Cooked green bananas."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Who Killed Captain Alex?",
+     "subtitle": "2010 · Nabwana I.G.G.",
+     "text": "A low-budget action film loved online."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Song of Lawino",
+     "subtitle": "1966 · Okot p'Bitek",
+     "text": "A famous poem."
+    },
+    {
+     "title": "Kintu",
+     "subtitle": "2014 · Jennifer Nansubuga Makumbi",
+     "text": "A family saga."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Eddy Kenzo",
+     "subtitle": "Singer",
+     "text": "'Sitya Loss' went viral."
+    },
+    {
+     "title": "Bobi Wine",
+     "subtitle": "Singer and politician",
+     "text": "Afrobeat and protest."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Matoke",
+     "subtitle": "Everywhere",
+     "text": "Steamed green bananas."
+    },
+    {
+     "title": "Rolex",
+     "subtitle": "Street food",
+     "text": "Chapati rolled with eggs."
+    },
+    {
+     "title": "Luwombo",
+     "subtitle": "Celebrations",
+     "text": "Stew steamed in banana leaves."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Liberation Day",
+    "text": "26 January."
+   },
+   {
+    "month": 6,
+    "name": "Martyrs' Day",
+    "text": "3 June, pilgrimage to Namugongo."
+   },
+   {
+    "month": 10,
+    "name": "Independence Day",
+    "text": "9 October."
+   }
+  ]
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Uganda, called the 'Pearl of Africa' by Winston Churchill, grew from powerful kingdoms like Buganda and lived through Idi Amin's brutal rule.",
+ "chapters": [
+  {
+   "id": "kingdoms",
+   "title": "Kingdoms",
+   "text": [
+    "Kingdoms including Buganda, Bunyoro, Toro and Ankole flourished before colonial rule. Buganda, on Lake Victoria, had a powerful king, the Kabaka, and a well-organised state. The Kasubi Tombs of its kings are a World Heritage site."
+   ],
+   "related": [
+    "RWA",
+    "TZA"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "British protectorate",
+   "text": [
+    "Britain made Uganda a protectorate in 1894, ruling partly through the kingdoms. Uganda became independent in 1962."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "amin",
+   "title": "Amin and after",
+   "text": [
+    "Idi Amin seized power in 1971. In 1972 he expelled about 80,000 Asians, many of whom went to Britain, and his regime killed perhaps 300,000 people. Tanzania's army helped drive him out in 1979.",
+    "Yoweri Museveni took power in 1986 and has led ever since. The Lord's Resistance Army waged a brutal war in the north until the mid-2000s."
+   ],
+   "related": [
+    "GBR",
+    "IND",
+    "TZA",
+    "SSD"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1300s",
+   "title": "Bunyoro-Kitara",
+   "text": "An early kingdom."
+  },
+  {
+   "year": "1894",
+   "title": "Protectorate",
+   "text": "British rule."
+  },
+  {
+   "year": "1962",
+   "title": "Independence",
+   "text": "9 October."
+  },
+  {
+   "year": "1971",
+   "title": "Idi Amin",
+   "text": "Seizes power."
+  },
+  {
+   "year": "1972",
+   "title": "Asians expelled",
+   "text": "About 80,000 people."
+  },
+  {
+   "year": "1979",
+   "title": "Amin overthrown",
+   "text": "With Tanzania's help."
+  },
+  {
+   "year": "1986",
+   "title": "Museveni",
+   "text": "Takes power."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kabaka",
+   "meaning": "The king of Buganda."
+  },
+  {
+   "term": "Protectorate",
+   "meaning": "A country controlled and protected by another."
+  }
+ ]
+}

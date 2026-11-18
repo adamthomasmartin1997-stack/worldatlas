@@ -1,0 +1,104 @@
+{
+ "status": "draft",
+ "intro": "Cycling, football and basketball are popular in Rwanda, which hosted the 2025 road cycling world championships.",
+ "chapters": [
+  {
+   "id": "cycling",
+   "title": "Cycling",
+   "text": [
+    "The Tour du Rwanda is one of Africa's top stage races. In 2025 Kigali hosted the first road cycling world championships held in Africa."
+   ]
+  },
+  {
+   "id": "basketball",
+   "title": "Basketball",
+   "text": [
+    "Kigali hosts the Basketball Africa League finals."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Stage race",
+   "meaning": "A race held over several days."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Rwanda Premier League",
+     "subtitle": "Football",
+     "text": "APR and Rayon Sports are rivals."
+    },
+    {
+     "title": "Tour du Rwanda",
+     "subtitle": "Cycling",
+     "text": "A stage race."
+    },
+    {
+     "title": "Basketball Africa League",
+     "subtitle": "Basketball",
+     "text": "Finals in Kigali."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Adrien Niyonshuti",
+     "subtitle": "Cycling",
+     "text": "Rwanda's first Olympic mountain biker."
+    },
+    {
+     "title": "Mathias Ntawulikura",
+     "subtitle": "Running",
+     "text": "A top distance runner."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Rwanda's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Amahoro Stadium, Kigali",
+    "kind": "venue",
+    "lat": -1.95,
+    "lon": 30.12,
+    "text": "The national stadium."
+   },
+   {
+    "name": "BK Arena",
+    "kind": "venue",
+    "lat": -1.95,
+    "lon": 30.12,
+    "text": "Basketball arena."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2004",
+    "title": "AFCON",
+    "text": "A first appearance."
+   },
+   {
+    "year": "2025",
+    "title": "Cycling worlds",
+    "text": "The first in Africa."
+   }
+  ]
+ }
+}

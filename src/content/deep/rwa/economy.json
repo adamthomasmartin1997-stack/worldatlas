@@ -1,0 +1,55 @@
+{
+ "status": "draft",
+ "intro": "Rwanda's economy has grown rapidly through farming, tourism and services.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Coffee and tea grow on the hills. Gorilla tourism and conferences bring visitors, and Kigali aims to be a tech and finance hub. Drones deliver blood to hospitals."
+   ]
+  },
+  {
+   "id": "minerals",
+   "title": "Minerals",
+   "text": [
+    "Rwanda exports tin, tantalum and tungsten."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Drone",
+   "meaning": "An aircraft without a pilot on board."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Rwanda",
+   "items": [
+    {
+     "title": "Coffee",
+     "subtitle": "Hills",
+     "text": "Speciality coffee."
+    },
+    {
+     "title": "Tea",
+     "subtitle": "Highlands",
+     "text": "Grown on estates."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Gorillas",
+     "text": "Gorilla permits."
+    },
+    {
+     "title": "Minerals",
+     "subtitle": "Mines",
+     "text": "Tin and tantalum."
+    }
+   ],
+   "intro": "Some of the things Rwanda makes and sells to the world."
+  }
+ ]
+}

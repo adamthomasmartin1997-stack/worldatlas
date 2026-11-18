@@ -1,0 +1,119 @@
+{
+ "status": "draft",
+ "intro": "Ethiopia is one of the oldest nations in the world, with its own alphabet, calendar and church, and it was never colonised.",
+ "chapters": [
+  {
+   "id": "lucy",
+   "title": "Lucy and early humans",
+   "text": [
+    "In 1974 scientists found 'Lucy', a skeleton of Australopithecus about 3.2 million years old, in the Afar region. Ethiopia has some of the oldest human fossils and stone tools anywhere."
+   ],
+   "related": [
+    "KEN"
+   ]
+  },
+  {
+   "id": "aksum",
+   "title": "Aksum and Lalibela",
+   "text": [
+    "The Kingdom of Aksum traded across the Red Sea and erected giant stone obelisks. Its king adopted Christianity in the 300s, one of the first states to do so.",
+    "Around 1200 King Lalibela had 11 churches carved downwards out of solid rock. Ethiopian rulers claimed descent from King Solomon and the Queen of Sheba."
+   ],
+   "highlight": {
+    "title": "Rock churches",
+    "text": "The churches of Lalibela were cut from single blocks of rock below ground level."
+   },
+   "related": [
+    "ERI",
+    "YEM",
+    "EGY"
+   ]
+  },
+  {
+   "id": "adwa",
+   "title": "Adwa and independence",
+   "text": [
+    "In 1896 Emperor Menelik II and Empress Taytu defeated an Italian army at the Battle of Adwa, keeping Ethiopia independent. Italy occupied it from 1936 to 1941, but Emperor Haile Selassie returned.",
+    "Ethiopia became a symbol of African freedom, and its colours inspired many African flags."
+   ],
+   "related": [
+    "ITA",
+    "GBR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Revolution and change",
+   "text": [
+    "The Derg military government overthrew Haile Selassie in 1974; famine in 1983 to 1985 killed hundreds of thousands. A coalition took power in 1991, and Eritrea became independent in 1993.",
+    "Abiy Ahmed won the Nobel Peace Prize in 2019 for peace with Eritrea, but a war in Tigray from 2020 to 2022 killed hundreds of thousands. The Grand Ethiopian Renaissance Dam was inaugurated in 2025."
+   ],
+   "related": [
+    "ERI",
+    "EGY",
+    "SDN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "3.2 million years ago",
+   "title": "Lucy",
+   "text": "An early human ancestor."
+  },
+  {
+   "year": "c. 330",
+   "title": "Christianity",
+   "text": "Aksum's king converts."
+  },
+  {
+   "year": "c. 1200",
+   "title": "Lalibela",
+   "text": "Rock churches carved."
+  },
+  {
+   "year": "1896",
+   "title": "Adwa",
+   "text": "Italy is defeated."
+  },
+  {
+   "year": "1930",
+   "title": "Haile Selassie",
+   "text": "Crowned emperor."
+  },
+  {
+   "year": "1974",
+   "title": "Revolution",
+   "text": "The Derg takes power."
+  },
+  {
+   "year": "1984",
+   "title": "Famine",
+   "text": "Worldwide appeals."
+  },
+  {
+   "year": "2019",
+   "title": "Nobel Peace Prize",
+   "text": "Abiy Ahmed."
+  },
+  {
+   "year": "2020",
+   "title": "Tigray war",
+   "text": "Until 2022."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ge'ez",
+   "meaning": "The ancient script used to write Amharic."
+  },
+  {
+   "term": "Derg",
+   "meaning": "The military government of 1974–1987."
+  },
+  {
+   "term": "Obelisk",
+   "meaning": "A tall stone pillar."
+  }
+ ]
+}

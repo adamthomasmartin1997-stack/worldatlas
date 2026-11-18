@@ -1,0 +1,93 @@
+{
+ "status": "draft",
+ "intro": "Ethiopia is a federal parliamentary republic of regions organised mostly along ethnic lines.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The prime minister, Abiy Ahmed since 2018, leads the government. The president is ceremonial. Regional states have wide powers."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Addis Ababa"
+    },
+    {
+     "label": "Prime Minister",
+     "value": "Abiy Ahmed"
+    },
+    {
+     "label": "Calendar",
+     "value": "13 months"
+    }
+   ]
+  },
+  {
+   "id": "conflict",
+   "title": "Conflict",
+   "text": [
+    "Armed conflict has continued in Amhara and Oromia regions."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Federal",
+   "meaning": "Power shared between national and regional governments."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Prime Minister",
+     "subtitle": "Leader of the majority",
+     "text": "Leads the government."
+    },
+    {
+     "title": "The President",
+     "subtitle": "Elected by parliament",
+     "text": "Ceremonial."
+    },
+    {
+     "title": "House of Peoples' Representatives",
+     "subtitle": "Up to 550 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "House of the Federation",
+     "subtitle": "Regional members",
+     "text": "Settles constitutional questions."
+    },
+    {
+     "title": "Regional states",
+     "subtitle": "About a dozen",
+     "text": "Wide self-rule."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government."
+   },
+   {
+    "title": "House of Peoples' Representatives",
+    "text": "Debates and passes it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it within 15 days."
+   }
+  ]
+ }
+}

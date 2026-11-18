@@ -1,0 +1,104 @@
+{
+ "status": "draft",
+ "intro": "Tanzania is home to Kilimanjaro, the Serengeti and Zanzibar, and was formed in 1964 by uniting Tanganyika and Zanzibar.",
+ "chapters": [
+  {
+   "id": "origins",
+   "title": "Olduvai and early peoples",
+   "text": [
+    "Olduvai Gorge has yielded fossils and tools of early humans, and footprints at Laetoli were made about 3.7 million years ago by human ancestors walking upright."
+   ],
+   "related": [
+    "KEN",
+    "ETH"
+   ]
+  },
+  {
+   "id": "swahili",
+   "title": "Swahili coast and Zanzibar",
+   "text": [
+    "Kilwa Kisiwani was one of the richest Swahili trading cities in the 1300s, minting its own coins. In the 1800s the Sultan of Oman moved his capital to Zanzibar, which became a centre of the clove and slave trades.",
+    "In 1896 Britain and Zanzibar fought the shortest war in recorded history, lasting under an hour."
+   ],
+   "related": [
+    "OMN",
+    "IND",
+    "GBR"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "German and British rule",
+   "text": [
+    "Germany colonised the mainland in the 1880s; the Maji Maji uprising of 1905 to 1907 was crushed, with huge loss of life. After World War One Britain ruled Tanganyika."
+   ],
+   "related": [
+    "DEU",
+    "GBR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Nyerere and Tanzania",
+   "text": [
+    "Tanganyika became independent in 1961 under Julius Nyerere, who promoted Swahili and a socialist plan called Ujamaa. After a revolution in Zanzibar, the two united as Tanzania in 1964. In 2021 Samia Suluhu Hassan became the first woman president; the 2025 election was followed by deadly protests."
+   ],
+   "related": [
+    "UGA",
+    "MOZ"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "3.7 million years ago",
+   "title": "Laetoli footprints",
+   "text": "Early ancestors walk upright."
+  },
+  {
+   "year": "1300s",
+   "title": "Kilwa",
+   "text": "A rich trading city."
+  },
+  {
+   "year": "1840",
+   "title": "Zanzibar capital",
+   "text": "Oman's sultan moves there."
+  },
+  {
+   "year": "1896",
+   "title": "Shortest war",
+   "text": "Under an hour."
+  },
+  {
+   "year": "1905",
+   "title": "Maji Maji",
+   "text": "Uprising against Germany."
+  },
+  {
+   "year": "1961",
+   "title": "Independence",
+   "text": "Tanganyika."
+  },
+  {
+   "year": "1964",
+   "title": "Tanzania",
+   "text": "Union with Zanzibar."
+  },
+  {
+   "year": "2021",
+   "title": "Samia Suluhu Hassan",
+   "text": "First woman president."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ujamaa",
+   "meaning": "Nyerere's idea of 'familyhood' socialism."
+  },
+  {
+   "term": "Swahili",
+   "meaning": "The national language."
+  }
+ ]
+}

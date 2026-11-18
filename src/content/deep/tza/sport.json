@@ -1,0 +1,104 @@
+{
+ "status": "draft",
+ "intro": "Football is Tanzania's favourite sport, and the country co-hosted the 2024 African Nations Championship.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Simba SC and Young Africans of Dar es Salaam are huge rivals. Mbwana Samatta became the first Tanzanian to play in the Premier League."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "running",
+   "title": "Running",
+   "text": [
+    "Filbert Bayi set a 1,500 m world record in 1974. Alphonce Simbu won marathon silver at the 2024 Olympics."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Derby",
+   "meaning": "A match between local rivals."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Tanzanian Premier League",
+     "subtitle": "Football",
+     "text": "Young Africans and Simba lead."
+    },
+    {
+     "title": "Kilimanjaro Marathon",
+     "subtitle": "Running",
+     "text": "Below the mountain."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Filbert Bayi",
+     "subtitle": "Running",
+     "text": "1,500 m world record 1974."
+    },
+    {
+     "title": "Mbwana Samatta",
+     "subtitle": "Football",
+     "text": "Premier League player."
+    },
+    {
+     "title": "Alphonce Simbu",
+     "subtitle": "Marathon",
+     "text": "Olympic silver 2024."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Tanzania's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Benjamin Mkapa Stadium",
+    "kind": "venue",
+    "lat": -6.85,
+    "lon": 39.27,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Amaan Stadium, Zanzibar",
+    "kind": "venue",
+    "lat": -6.17,
+    "lon": 39.2,
+    "text": "Zanzibar's stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1974",
+    "title": "World record",
+    "text": "Bayi's 1,500 m."
+   },
+   {
+    "year": "2024",
+    "title": "Olympic silver",
+    "text": "Simbu's marathon."
+   }
+  ]
+ }
+}

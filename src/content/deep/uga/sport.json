@@ -1,0 +1,111 @@
+{
+ "status": "draft",
+ "intro": "Uganda's distance runners and its football and netball teams are national heroes.",
+ "chapters": [
+  {
+   "id": "running",
+   "title": "Running",
+   "text": [
+    "John Akii-Bua won the 400 m hurdles at the 1972 Olympics. Joshua Cheptegei won 5,000 m gold in 2021 and 10,000 m gold in 2024 and holds world records. Peruth Chemutai won steeplechase gold in 2021."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "The Cranes play football, and the She Cranes netball team has played at World Cups."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Steeplechase",
+   "meaning": "A race over barriers and water jumps."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Uganda Premier League",
+     "subtitle": "Football",
+     "text": "KCCA and SC Villa are big clubs."
+    },
+    {
+     "title": "Netball",
+     "subtitle": "She Cranes",
+     "text": "At the World Cup."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "John Akii-Bua",
+     "subtitle": "Hurdles",
+     "text": "Olympic champion 1972."
+    },
+    {
+     "title": "Joshua Cheptegei",
+     "subtitle": "Distance running",
+     "text": "Two Olympic golds and world records."
+    },
+    {
+     "title": "Peruth Chemutai",
+     "subtitle": "Steeplechase",
+     "text": "Olympic champion 2021."
+    },
+    {
+     "title": "Stephen Kiprotich",
+     "subtitle": "Marathon",
+     "text": "Olympic champion 2012."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Uganda's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Mandela National Stadium, Namboole",
+    "kind": "venue",
+    "lat": 0.36,
+    "lon": 32.66,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Hamz Stadium",
+    "kind": "venue",
+    "lat": 0.31,
+    "lon": 32.57,
+    "text": "A Kampala ground."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1972",
+    "title": "Akii-Bua",
+    "text": "World record gold in Munich."
+   },
+   {
+    "year": "2012",
+    "title": "Kiprotich",
+    "text": "Olympic marathon gold."
+   },
+   {
+    "year": "2021",
+    "title": "Tokyo golds",
+    "text": "Cheptegei and Chemutai."
+   }
+  ]
+ }
+}

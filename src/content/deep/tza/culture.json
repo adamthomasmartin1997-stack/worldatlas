@@ -1,0 +1,119 @@
+{
+ "status": "draft",
+ "intro": "Tanzanian culture mixes African, Arab and Indian influences, especially on the Swahili coast.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Tingatinga paintings are bright and playful. Bongo Flava is Tanzanian pop music, and Diamond Platnumz is a star. Abdulrazak Gurnah, born in Zanzibar, won the Nobel Prize for Literature in 2021."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Ugali, pilau, chipsi mayai (chips omelette) and Zanzibar pizza are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bongo Flava",
+   "meaning": "Tanzanian pop and hip-hop."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Paradise",
+     "subtitle": "1994 · Abdulrazak Gurnah",
+     "text": "By the Nobel winner."
+    },
+    {
+     "title": "Kusadikika",
+     "subtitle": "1951 · Shaaban Robert",
+     "text": "A classic by Tanzania's great Swahili writer."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Malaika",
+     "subtitle": "Fadhili William",
+     "text": "A famous Swahili love song."
+    },
+    {
+     "title": "Taarab",
+     "subtitle": "Zanzibar",
+     "text": "Orchestra music."
+    },
+    {
+     "title": "Diamond Platnumz",
+     "subtitle": "Singer",
+     "text": "A Bongo Flava star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Ugali",
+     "subtitle": "Everywhere",
+     "text": "Maize dough."
+    },
+    {
+     "title": "Pilau",
+     "subtitle": "Coast",
+     "text": "Spiced rice."
+    },
+    {
+     "title": "Chipsi mayai",
+     "subtitle": "Street food",
+     "text": "Chips cooked in an omelette."
+    },
+    {
+     "title": "Urojo",
+     "subtitle": "Zanzibar",
+     "text": "Zanzibar mix soup."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Zanzibar Revolution Day",
+    "text": "12 January."
+   },
+   {
+    "month": 2,
+    "name": "Sauti za Busara",
+    "text": "Music festival in Zanzibar."
+   },
+   {
+    "month": 7,
+    "name": "Saba Saba",
+    "text": "7 July trade fair."
+   },
+   {
+    "month": 12,
+    "name": "Independence Day",
+    "text": "9 December."
+   }
+  ]
+ }
+}

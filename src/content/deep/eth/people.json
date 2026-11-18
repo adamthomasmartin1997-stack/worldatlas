@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Ethiopia has over 120 million people, the second most in Africa.",
+ "chapters": [
+  {
+   "id": "groups",
+   "title": "Peoples and faiths",
+   "text": [
+    "The Oromo and Amhara are the largest groups; others include the Somali, Tigrayans and Sidama. Amharic is the main working language, with Oromo, Tigrinya and others also official. Most people are Orthodox Christian or Muslim.",
+    "Ethiopia uses its own calendar, which is about seven to eight years behind the Western one, and has 13 months."
+   ],
+   "related": [
+    "SOM",
+    "ERI"
+   ]
+  },
+  {
+   "id": "addis",
+   "title": "Addis Ababa",
+   "text": [
+    "Addis Ababa ('new flower') hosts the African Union."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Amharic",
+   "meaning": "Ethiopia's main working language."
+  }
+ ]
+}

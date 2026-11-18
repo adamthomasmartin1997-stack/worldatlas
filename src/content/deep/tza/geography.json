@@ -1,0 +1,107 @@
+{
+ "status": "draft",
+ "intro": "Tanzania has Africa's highest mountain, its largest lake and some of its greatest wildlife parks.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mountains and lakes",
+   "text": [
+    "Kilimanjaro, 5,895 m, is Africa's highest peak and the world's tallest free-standing mountain. Tanzania borders Lake Victoria, Lake Tanganyika (the second-deepest lake in the world) and Lake Malawi (Nyasa).",
+    "The Serengeti and Ngorongoro Crater teem with wildlife."
+   ],
+   "related": [
+    "KEN",
+    "UGA",
+    "RWA",
+    "BDI",
+    "COD",
+    "ZMB",
+    "MWI",
+    "MOZ"
+   ]
+  },
+  {
+   "id": "coast",
+   "title": "Coast and islands",
+   "text": [
+    "The coast has coral reefs, and Zanzibar, Pemba and Mafia islands lie offshore."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Crater",
+   "meaning": "A bowl-shaped hollow, often from an old volcano."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Tanzania's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Serengeti",
+    "kind": "savanna",
+    "lat": -2.33,
+    "lon": 34.83,
+    "text": "The Great Migration."
+   },
+   {
+    "name": "Ngorongoro Crater",
+    "kind": "volcanic crater",
+    "lat": -3.2,
+    "lon": 35.5,
+    "text": "Wildlife in a giant crater."
+   },
+   {
+    "name": "Olduvai Gorge",
+    "kind": "fossil site",
+    "lat": -2.99,
+    "lon": 35.35,
+    "text": "Early human fossils."
+   },
+   {
+    "name": "Kilimanjaro",
+    "kind": "mountain",
+    "lat": -3.07,
+    "lon": 37.35,
+    "text": "Africa's highest peak."
+   },
+   {
+    "name": "Lake Natron",
+    "kind": "soda lake",
+    "lat": -2.4,
+    "lon": 36.0,
+    "text": "Flamingo breeding ground."
+   },
+   {
+    "name": "Lake Tanganyika",
+    "kind": "rift lake",
+    "lat": -6.0,
+    "lon": 29.8,
+    "text": "The world's longest freshwater lake."
+   },
+   {
+    "name": "Zanzibar",
+    "kind": "spice island",
+    "lat": -6.16,
+    "lon": 39.19,
+    "text": "Stone Town."
+   },
+   {
+    "name": "Kilwa Kisiwani",
+    "kind": "ruins",
+    "lat": -8.96,
+    "lon": 39.51,
+    "text": "A medieval trading city."
+   },
+   {
+    "name": "Ruaha",
+    "kind": "national park",
+    "lat": -7.6,
+    "lon": 34.9,
+    "text": "Big elephant herds."
+   }
+  ]
+ }
+}

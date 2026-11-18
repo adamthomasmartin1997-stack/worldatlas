@@ -1,0 +1,132 @@
+{
+ "status": "draft",
+ "intro": "Kenyan culture blends dozens of traditions with Swahili and modern urban life.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Ngũgĩ wa Thiong'o was one of Africa's great writers. Benga music and Kenyan hip-hop are popular, and Nairobi's matatu minibuses are decorated like art."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Ugali (maize dough) with sukuma wiki (greens), nyama choma (grilled meat) and chapati are everyday favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Matatu",
+   "meaning": "A shared minibus."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Rafiki",
+     "subtitle": "2018 · Wanuri Kahiu",
+     "text": "Shown at Cannes."
+    },
+    {
+     "title": "Supa Modo",
+     "subtitle": "2018 · Likarion Wainaina",
+     "text": "A sick girl dreams of being a superhero."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Weep Not, Child",
+     "subtitle": "1964 · Ngũgĩ wa Thiong'o",
+     "text": "A boy's dreams during Mau Mau."
+    },
+    {
+     "title": "Unbowed",
+     "subtitle": "2006 · Wangari Maathai",
+     "text": "By the Nobel Peace Prize winner."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Jambo Bwana",
+     "subtitle": "Them Mushrooms, 1982",
+     "text": "A famous tourist song."
+    },
+    {
+     "title": "Unbwogable",
+     "subtitle": "Gidi Gidi Maji Maji, 2002",
+     "text": "An anthem of change."
+    },
+    {
+     "title": "Sauti Sol",
+     "subtitle": "Band",
+     "text": "Afro-pop stars."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Ugali",
+     "subtitle": "Everywhere",
+     "text": "Maize dough."
+    },
+    {
+     "title": "Nyama choma",
+     "subtitle": "Everywhere",
+     "text": "Grilled meat."
+    },
+    {
+     "title": "Sukuma wiki",
+     "subtitle": "Everywhere",
+     "text": "Cooked greens."
+    },
+    {
+     "title": "Pilau",
+     "subtitle": "Coast",
+     "text": "Spiced rice."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 6,
+    "name": "Madaraka Day",
+    "text": "1 June, self-rule."
+   },
+   {
+    "month": 10,
+    "name": "Mashujaa Day",
+    "text": "20 October, heroes."
+   },
+   {
+    "month": 12,
+    "name": "Jamhuri Day",
+    "text": "12 December, independence."
+   },
+   {
+    "month": 8,
+    "name": "Maralal Camel Derby",
+    "text": "Camel racing."
+   }
+  ]
+ }
+}

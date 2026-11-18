@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Uganda's economy relies on coffee, gold and farming, with oil production on the way.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Uganda is one of Africa's biggest coffee exporters. Fish from Lake Victoria, tea and gold are important. Oil fields near Lake Albert are being developed, with a pipeline to Tanzania."
+   ],
+   "related": [
+    "TZA",
+    "ITA"
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Gorilla tourism",
+   "text": [
+    "Gorilla trekking permits bring in visitors and money for conservation."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pipeline",
+   "meaning": "A long pipe carrying oil."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Uganda",
+   "items": [
+    {
+     "title": "Coffee",
+     "subtitle": "Highlands",
+     "text": "One of Africa's biggest exporters."
+    },
+    {
+     "title": "Gold",
+     "subtitle": "Processing",
+     "text": "A big export."
+    },
+    {
+     "title": "Fish",
+     "subtitle": "Lake Victoria",
+     "text": "Nile perch."
+    },
+    {
+     "title": "Tea",
+     "subtitle": "West",
+     "text": "Grown on estates."
+    }
+   ],
+   "intro": "Some of the things Uganda makes and sells to the world."
+  }
+ ]
+}

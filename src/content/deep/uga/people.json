@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Uganda has about 50 million people and one of the youngest populations on Earth.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Baganda are the largest group. English and Swahili are official, and Luganda is widely spoken. Most people are Christian, with a Muslim minority.",
+    "Uganda hosts over a million refugees, more than any other African country, mainly from South Sudan and DR Congo."
+   ],
+   "related": [
+    "SSD",
+    "COD"
+   ]
+  },
+  {
+   "id": "kampala",
+   "title": "Kampala",
+   "text": [
+    "Kampala, the capital, is built on hills, famous for its boda-boda motorbike taxis."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Refugee",
+   "meaning": "Someone forced to flee their country."
+  }
+ ]
+}

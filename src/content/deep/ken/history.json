@@ -1,0 +1,110 @@
+{
+ "status": "draft",
+ "intro": "Kenya is one of the places where humanity began, a land of Swahili trading towns, and a nation that fought for its freedom from Britain.",
+ "chapters": [
+  {
+   "id": "origins",
+   "title": "Cradle of humankind",
+   "text": [
+    "Fossils from around Lake Turkana include 'Turkana Boy', a nearly complete skeleton of an early human about 1.5 million years old. Stone tools found there are some of the oldest known.",
+    "Later, Bantu-speaking farmers, Nilotic herders like the Maasai, and Cushitic peoples settled the region."
+   ],
+   "related": [
+    "ETH",
+    "TZA"
+   ]
+  },
+  {
+   "id": "swahili",
+   "title": "Swahili coast",
+   "text": [
+    "From around 800, towns like Lamu, Malindi and Mombasa traded with Arabia, Persia, India and China. Swahili culture and language grew from African and Arab influences.",
+    "Portugal built Fort Jesus in Mombasa in 1593; Oman later took control of the coast."
+   ],
+   "related": [
+    "OMN",
+    "PRT",
+    "IND",
+    "CHN"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "British rule and Mau Mau",
+   "text": [
+    "Britain made Kenya a protectorate in 1895 and built a railway from Mombasa to Lake Victoria. White settlers took the best farmland in the highlands.",
+    "In the 1950s the Mau Mau uprising fought British rule; tens of thousands of Kenyans were detained in camps, and many were killed. Kenya became independent in 1963, led by Jomo Kenyatta."
+   ],
+   "highlight": {
+    "title": "Mau Mau",
+    "text": "In 2013 Britain paid compensation to Kenyans tortured during the uprising."
+   },
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Since independence",
+   "text": [
+    "Kenya became a one-party state, then returned to multi-party politics in 1991. Violence after the 2007 election killed over 1,000 people. A new constitution in 2010 shared power with 47 counties. In 2024 young people led protests against tax rises."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1.5 million years ago",
+   "title": "Turkana Boy",
+   "text": "An early human lives by the lake."
+  },
+  {
+   "year": "c. 800",
+   "title": "Swahili towns",
+   "text": "Trade across the Indian Ocean."
+  },
+  {
+   "year": "1593",
+   "title": "Fort Jesus",
+   "text": "Built by the Portuguese."
+  },
+  {
+   "year": "1895",
+   "title": "British protectorate",
+   "text": "Colonial rule."
+  },
+  {
+   "year": "1952",
+   "title": "Mau Mau",
+   "text": "Uprising begins."
+  },
+  {
+   "year": "1963",
+   "title": "Independence",
+   "text": "12 December."
+  },
+  {
+   "year": "2010",
+   "title": "New constitution",
+   "text": "Counties are created."
+  },
+  {
+   "year": "2024",
+   "title": "Gen Z protests",
+   "text": "Against a finance bill."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Swahili",
+   "meaning": "A coastal culture and a language spoken across East Africa."
+  },
+  {
+   "term": "Mau Mau",
+   "meaning": "The 1950s uprising against British rule."
+  },
+  {
+   "term": "Harambee",
+   "meaning": "'Let's pull together', Kenya's national motto."
+  }
+ ]
+}

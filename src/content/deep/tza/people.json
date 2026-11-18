@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Tanzania has about 68 million people from over 120 ethnic groups.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "No group dominates; the Sukuma are the largest. Swahili unites the country, and English is also used. Christians and Muslims each make up large shares, and Zanzibar is almost entirely Muslim."
+   ],
+   "related": [
+    "KEN"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Dar es Salaam is the biggest city; Dodoma is the official capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sukuma",
+   "meaning": "Tanzania's largest ethnic group."
+  }
+ ]
+}

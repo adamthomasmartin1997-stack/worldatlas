@@ -1,0 +1,129 @@
+{
+ "status": "draft",
+ "intro": "Ethiopia's distance runners are legends of world athletics.",
+ "chapters": [
+  {
+   "id": "running",
+   "title": "Running",
+   "text": [
+    "Abebe Bikila won the 1960 Olympic marathon running barefoot in Rome, the first Black African Olympic champion. Haile Gebrselassie, Kenenisa Bekele and Tirunesh Dibaba followed. Tamirat Tola won the marathon in 2024."
+   ],
+   "related": [
+    "ITA"
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Ethiopia won the Africa Cup of Nations in 1962."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Marathon",
+   "meaning": "A race of 42.195 km."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Ethiopian Premier League",
+     "subtitle": "Football",
+     "text": "St George have won the most titles."
+    },
+    {
+     "title": "Great Ethiopian Run",
+     "subtitle": "Running",
+     "text": "One of Africa's biggest road races."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Abebe Bikila",
+     "subtitle": "Marathon",
+     "text": "Olympic champion barefoot."
+    },
+    {
+     "title": "Haile Gebrselassie",
+     "subtitle": "Distance running",
+     "text": "Two Olympic golds."
+    },
+    {
+     "title": "Kenenisa Bekele",
+     "subtitle": "Distance running",
+     "text": "Three Olympic golds."
+    },
+    {
+     "title": "Tirunesh Dibaba",
+     "subtitle": "Distance running",
+     "text": "Three Olympic golds."
+    },
+    {
+     "title": "Derartu Tulu",
+     "subtitle": "10,000 m",
+     "text": "First Black African woman Olympic champion."
+    },
+    {
+     "title": "Letesenbet Gidey",
+     "subtitle": "Distance running",
+     "text": "World record holder."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Ethiopia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Addis Ababa Stadium",
+    "kind": "venue",
+    "lat": 9.01,
+    "lon": 38.76,
+    "text": "The historic stadium."
+   },
+   {
+    "name": "Bahir Dar Stadium",
+    "kind": "venue",
+    "lat": 11.6,
+    "lon": 37.38,
+    "text": "A modern stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1960",
+    "title": "Barefoot gold",
+    "text": "Abebe Bikila in Rome."
+   },
+   {
+    "year": "1962",
+    "title": "AFCON",
+    "text": "Won at home."
+   },
+   {
+    "year": "1992",
+    "title": "Derartu Tulu",
+    "text": "Gold in Barcelona."
+   },
+   {
+    "year": "2024",
+    "title": "Tamirat Tola",
+    "text": "Olympic marathon champion."
+   }
+  ]
+ }
+}

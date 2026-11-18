@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Kenya is East Africa's biggest economy, known for tea, flowers, tourism and mobile money.",
+ "chapters": [
+  {
+   "id": "farming",
+   "title": "Tea and flowers",
+   "text": [
+    "Kenya is one of the world's biggest tea exporters, and roses grown near Lake Naivasha are flown to Europe overnight."
+   ],
+   "related": [
+    "GBR",
+    "NLD",
+    "PAK"
+   ]
+  },
+  {
+   "id": "tech",
+   "title": "Silicon Savannah",
+   "text": [
+    "M-Pesa, launched in 2007, lets people send money by phone; most adults use it. Safari tourism is a major earner."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mobile money",
+   "meaning": "Sending and storing money using a mobile phone."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Kenya",
+   "items": [
+    {
+     "title": "Tea",
+     "subtitle": "Kericho",
+     "text": "A top exporter."
+    },
+    {
+     "title": "Cut flowers",
+     "subtitle": "Naivasha",
+     "text": "Roses for Europe."
+    },
+    {
+     "title": "Coffee",
+     "subtitle": "Highlands",
+     "text": "Prized arabica."
+    },
+    {
+     "title": "Safaris",
+     "subtitle": "Maasai Mara",
+     "text": "Wildlife tourism."
+    },
+    {
+     "title": "M-Pesa",
+     "subtitle": "Nairobi",
+     "text": "Mobile money."
+    }
+   ],
+   "intro": "Some of the things Kenya makes and sells to the world."
+  }
+ ]
+}

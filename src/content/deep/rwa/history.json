@@ -1,0 +1,107 @@
+{
+ "status": "draft",
+ "intro": "Rwanda, the 'land of a thousand hills', suffered a genocide in 1994 and has since rebuilt with remarkable speed.",
+ "chapters": [
+  {
+   "id": "kingdom",
+   "title": "The kingdom of Rwanda",
+   "text": [
+    "A kingdom ruled by a mwami (king) grew from the 1400s onwards. Hutu, Tutsi and Twa shared one language and culture, though the groups had different social roles."
+   ],
+   "related": [
+    "BDI",
+    "UGA"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "German and Belgian rule",
+   "text": [
+    "Germany claimed Rwanda in the 1890s, and Belgium took over after World War One. Belgian rulers issued identity cards stating each person's ethnic group and favoured the Tutsi elite, hardening divisions.",
+    "Rwanda became independent in 1962 after violence that drove many Tutsi into exile."
+   ],
+   "related": [
+    "DEU",
+    "BEL"
+   ]
+  },
+  {
+   "id": "genocide",
+   "title": "The 1994 genocide",
+   "text": [
+    "Between April and July 1994, extremist Hutu forces killed around 800,000 people, mostly Tutsi, as well as moderate Hutu, in about 100 days. The world largely failed to act. The Rwandan Patriotic Front, led by Paul Kagame, ended the genocide.",
+    "Community courts called gacaca tried hundreds of thousands of suspects."
+   ],
+   "highlight": {
+    "title": "Remembering",
+    "text": "Each April, Rwanda holds 100 days of remembrance called Kwibuka."
+   },
+   "related": [
+    "FRA",
+    "BEL",
+    "USA"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Rebuilding",
+   "text": [
+    "Rwanda has grown fast and has the highest share of women in parliament in the world. Paul Kagame has led since 2000; critics say political freedom is limited, and Rwanda has been accused of backing rebels in eastern DR Congo."
+   ],
+   "related": [
+    "COD"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1400s",
+   "title": "Kingdom",
+   "text": "A mwami rules."
+  },
+  {
+   "year": "1897",
+   "title": "German rule",
+   "text": "A colony."
+  },
+  {
+   "year": "1916",
+   "title": "Belgian rule",
+   "text": "After World War One."
+  },
+  {
+   "year": "1962",
+   "title": "Independence",
+   "text": "1 July."
+  },
+  {
+   "year": "1994",
+   "title": "Genocide",
+   "text": "April to July."
+  },
+  {
+   "year": "2000",
+   "title": "Kagame",
+   "text": "Becomes president."
+  },
+  {
+   "year": "2008",
+   "title": "Women majority",
+   "text": "More women than men in parliament."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Genocide",
+   "meaning": "The deliberate killing of a people."
+  },
+  {
+   "term": "Gacaca",
+   "meaning": "Community courts used after the genocide."
+  },
+  {
+   "term": "Umuganda",
+   "meaning": "Monthly community work day."
+  }
+ ]
+}

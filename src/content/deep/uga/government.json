@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Uganda is a presidential republic where Yoweri Museveni has held power since 1986.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Term and age limits for the president have been removed. Parliament is dominated by the ruling NRM party, and opposition figures have been arrested. Traditional kingdoms have a cultural role."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Kampala"
+    },
+    {
+     "label": "Independence",
+     "value": "1962"
+    },
+    {
+     "label": "President since",
+     "value": "1986"
+    }
+   ]
+  },
+  {
+   "id": "rights",
+   "title": "Rights",
+   "text": [
+    "A 2023 law against homosexuality drew strong international criticism."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "NRM",
+   "meaning": "The National Resistance Movement, the ruling party."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 5 years",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Vice President",
+     "subtitle": "Appointed",
+     "text": "Second in command."
+    },
+    {
+     "title": "Parliament",
+     "subtitle": "Over 500 members",
+     "text": "Includes special seats for women and youth."
+    },
+    {
+     "title": "Kingdoms",
+     "subtitle": "Cultural institutions",
+     "text": "Buganda, Bunyoro and others."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In Parliament."
+   },
+   {
+    "title": "Three readings",
+    "text": "Parliament debates it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it or returns it."
+   }
+  ]
+ }
+}

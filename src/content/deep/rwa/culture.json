@@ -1,0 +1,112 @@
+{
+ "status": "draft",
+ "intro": "Rwandan culture is known for intore dance, drumming and imigongo art.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Intore dancers wear long headdresses and leap to drums. Imigongo art uses cow dung to make bold geometric patterns."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Brochettes (grilled skewers), isombe (cassava leaves) and beans are everyday food."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Intore",
+   "meaning": "A traditional dance of warriors."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Hotel Rwanda",
+     "subtitle": "2004 · Terry George",
+     "text": "A hotel manager shelters refugees."
+    },
+    {
+     "title": "Sometimes in April",
+     "subtitle": "2005 · Raoul Peck",
+     "text": "A family during the genocide."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Our Lady of the Nile",
+     "subtitle": "2012 · Scholastique Mukasonga",
+     "text": "A girls' school before the genocide."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Intore drumming",
+     "subtitle": "Traditional",
+     "text": "Powerful drums."
+    },
+    {
+     "title": "Meddy",
+     "subtitle": "Singer",
+     "text": "A popular star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Brochettes",
+     "subtitle": "Everywhere",
+     "text": "Grilled skewers."
+    },
+    {
+     "title": "Isombe",
+     "subtitle": "Everywhere",
+     "text": "Cassava leaves."
+    },
+    {
+     "title": "Ubugali",
+     "subtitle": "Everywhere",
+     "text": "Cassava dough."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Kwibuka",
+    "text": "Genocide remembrance from 7 April."
+   },
+   {
+    "month": 7,
+    "name": "Liberation Day",
+    "text": "4 July."
+   },
+   {
+    "month": 9,
+    "name": "Kwita Izina",
+    "text": "Naming baby gorillas."
+   }
+  ]
+ }
+}

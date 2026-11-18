@@ -1,0 +1,142 @@
+{
+ "status": "draft",
+ "intro": "Kenya's distance runners are some of the best in the world.",
+ "chapters": [
+  {
+   "id": "running",
+   "title": "Running",
+   "text": [
+    "Kenyan athletes, many from the highlands around Iten, have won dozens of Olympic golds. Eliud Kipchoge ran the first marathon under two hours in 2019, and Faith Kipyegon has won three Olympic 1,500 m titles.",
+    "In 2024 Kelvin Kiptum's marathon world record was confirmed days before he died in a car crash."
+   ]
+  },
+  {
+   "id": "rugby",
+   "title": "Rugby sevens",
+   "text": [
+    "Kenya's rugby sevens team won the Singapore round of the world series in 2016."
+   ],
+   "related": [
+    "SGP"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Altitude training",
+   "meaning": "Training high up, where thin air builds stamina."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Kenyan Premier League",
+     "subtitle": "Football",
+     "text": "Gor Mahia have won the most titles."
+    },
+    {
+     "title": "Safari Rally",
+     "subtitle": "Rallying",
+     "text": "A World Rally Championship round."
+    },
+    {
+     "title": "Nairobi Marathon",
+     "subtitle": "Running",
+     "text": "Each October."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Kip Keino",
+     "subtitle": "Running",
+     "text": "1968 Olympic champion."
+    },
+    {
+     "title": "Eliud Kipchoge",
+     "subtitle": "Marathon",
+     "text": "Two Olympic golds."
+    },
+    {
+     "title": "Faith Kipyegon",
+     "subtitle": "1,500 m",
+     "text": "Three Olympic golds."
+    },
+    {
+     "title": "David Rudisha",
+     "subtitle": "800 m",
+     "text": "World record holder."
+    },
+    {
+     "title": "Beatrice Chebet",
+     "subtitle": "Distance running",
+     "text": "Olympic 5,000 and 10,000 m champion."
+    },
+    {
+     "title": "Victor Wanyama",
+     "subtitle": "Football",
+     "text": "Played in the Premier League."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Kenya's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Kasarani Stadium, Nairobi",
+    "kind": "venue",
+    "lat": -1.22,
+    "lon": 36.89,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Iten",
+    "kind": "venue",
+    "lat": 0.67,
+    "lon": 35.51,
+    "text": "The 'home of champions' training town."
+   },
+   {
+    "name": "Nyayo Stadium",
+    "kind": "venue",
+    "lat": -1.31,
+    "lon": 36.82,
+    "text": "A Nairobi stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1968",
+    "title": "Kip Keino",
+    "text": "Gold in Mexico City."
+   },
+   {
+    "year": "2012",
+    "title": "Rudisha's world record",
+    "text": "At the London Olympics."
+   },
+   {
+    "year": "2019",
+    "title": "Under two hours",
+    "text": "Kipchoge's marathon."
+   },
+   {
+    "year": "2024",
+    "title": "Paris",
+    "text": "Kipyegon's third gold."
+   }
+  ]
+ }
+}

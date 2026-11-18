@@ -1,0 +1,97 @@
+{
+ "status": "draft",
+ "intro": "Kenya is a presidential republic with power shared between national and county governments.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for five years, up to two terms; William Ruto took office in 2022. Parliament has a National Assembly and a Senate. 47 counties have their own governors."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Nairobi"
+    },
+    {
+     "label": "Counties",
+     "value": "47"
+    },
+    {
+     "label": "Independence",
+     "value": "1963"
+    }
+   ]
+  },
+  {
+   "id": "courts",
+   "title": "Courts",
+   "text": [
+    "In 2017 the Supreme Court cancelled a presidential election result, a first in Africa."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "County",
+   "meaning": "A local government area."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 5 years, two terms",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "349 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "67 members",
+     "text": "Represents the counties."
+    },
+    {
+     "title": "Supreme Court",
+     "subtitle": "7 judges",
+     "text": "Can overturn elections."
+    },
+    {
+     "title": "Counties",
+     "subtitle": "47 counties",
+     "text": "Each has a governor."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is published",
+    "text": "In the official gazette."
+   },
+   {
+    "title": "Public participation",
+    "text": "Citizens can comment."
+   },
+   {
+    "title": "Parliament",
+    "text": "Both houses may vote."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it or sends it back."
+   }
+  ]
+ }
+}

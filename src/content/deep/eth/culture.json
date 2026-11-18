@@ -1,0 +1,136 @@
+{
+ "status": "draft",
+ "intro": "Ethiopian culture is unique, from its coffee ceremony to its music and festivals.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Coffee ceremony and festivals",
+   "text": [
+    "The coffee ceremony, roasting and brewing beans in front of guests, can take an hour. Timkat celebrates Epiphany with colourful processions."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Injera, a spongy sour flatbread made from teff, is eaten with spicy stews called wat, using the bread as a spoon."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Injera",
+   "meaning": "Teff flatbread."
+  },
+  {
+   "term": "Teff",
+   "meaning": "A tiny grain native to Ethiopia."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Teza",
+     "subtitle": "2008 · Haile Gerima",
+     "text": "A doctor returns home."
+    },
+    {
+     "title": "Lamb",
+     "subtitle": "2015 · Yared Zeleke",
+     "text": "The first Ethiopian film at Cannes."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Kebra Nagast",
+     "subtitle": "1300s",
+     "text": "The 'Glory of the Kings'."
+    },
+    {
+     "title": "Beneath the Lion's Gaze",
+     "subtitle": "2010 · Maaza Mengiste",
+     "text": "A family in 1974."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Ethio-jazz",
+     "subtitle": "Mulatu Astatke",
+     "text": "Jazz with Ethiopian scales."
+    },
+    {
+     "title": "Tezeta",
+     "subtitle": "Mahmoud Ahmed",
+     "text": "A song of nostalgia."
+    },
+    {
+     "title": "Teddy Afro",
+     "subtitle": "Singer",
+     "text": "A huge star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Injera",
+     "subtitle": "Everywhere",
+     "text": "Teff flatbread."
+    },
+    {
+     "title": "Doro wat",
+     "subtitle": "Holidays",
+     "text": "Spicy chicken stew."
+    },
+    {
+     "title": "Kitfo",
+     "subtitle": "Everywhere",
+     "text": "Spiced minced beef."
+    },
+    {
+     "title": "Shiro",
+     "subtitle": "Fasting days",
+     "text": "Chickpea stew."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 9,
+    "name": "Enkutatash",
+    "text": "New Year, 11 September."
+   },
+   {
+    "month": 9,
+    "name": "Meskel",
+    "text": "Bonfires for the True Cross."
+   },
+   {
+    "month": 1,
+    "name": "Timkat",
+    "text": "Epiphany processions."
+   },
+   {
+    "month": 1,
+    "name": "Genna",
+    "text": "Christmas, 7 January."
+   }
+  ]
+ }
+}

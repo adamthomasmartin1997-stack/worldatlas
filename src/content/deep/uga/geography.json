@@ -1,0 +1,97 @@
+{
+ "status": "draft",
+ "intro": "Uganda is a green, landlocked country with lakes, mountains and the source of the White Nile.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Lakes and mountains",
+   "text": [
+    "Uganda shares Lake Victoria, Africa's largest lake, where the White Nile begins at Jinja. The Rwenzori, the 'Mountains of the Moon', have glaciers on the equator. Murchison Falls squeezes the Nile through a 7 m gap.",
+    "Bwindi forest is home to about half the world's mountain gorillas."
+   ],
+   "related": [
+    "KEN",
+    "TZA",
+    "RWA",
+    "COD",
+    "SSD"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "High altitude makes the climate mild despite the equator."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Equator",
+   "meaning": "The imaginary line around the middle of the Earth."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Uganda's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Murchison Falls",
+    "kind": "waterfall",
+    "lat": 2.28,
+    "lon": 31.69,
+    "text": "The Nile through a narrow gap."
+   },
+   {
+    "name": "Kidepo Valley",
+    "kind": "savanna",
+    "lat": 3.9,
+    "lon": 33.85,
+    "text": "A remote park."
+   },
+   {
+    "name": "Jinja",
+    "kind": "Nile source",
+    "lat": 0.42,
+    "lon": 33.2,
+    "text": "Where the White Nile begins."
+   },
+   {
+    "name": "Kampala",
+    "kind": "capital",
+    "lat": 0.35,
+    "lon": 32.58,
+    "text": "A city of hills."
+   },
+   {
+    "name": "Rwenzori Mountains",
+    "kind": "glaciers",
+    "lat": 0.38,
+    "lon": 29.87,
+    "text": "Mountains of the Moon."
+   },
+   {
+    "name": "Queen Elizabeth National Park",
+    "kind": "savanna",
+    "lat": -0.2,
+    "lon": 30.0,
+    "text": "Tree-climbing lions."
+   },
+   {
+    "name": "Lake Bunyonyi",
+    "kind": "lake",
+    "lat": -1.28,
+    "lon": 29.93,
+    "text": "A lake with 29 islands."
+   },
+   {
+    "name": "Bwindi",
+    "kind": "rainforest",
+    "lat": -1.05,
+    "lon": 29.7,
+    "text": "Mountain gorillas."
+   }
+  ]
+ }
+}

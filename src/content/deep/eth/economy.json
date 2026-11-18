@@ -1,0 +1,64 @@
+{
+ "status": "draft",
+ "intro": "Ethiopia's economy has grown fast, built on farming, coffee and a big airline.",
+ "chapters": [
+  {
+   "id": "coffee",
+   "title": "Coffee",
+   "text": [
+    "Coffee comes from Ethiopia; legend says a goatherd named Kaldi noticed his goats dancing after eating the berries. It is Africa's biggest coffee producer."
+   ]
+  },
+  {
+   "id": "growth",
+   "title": "Growth",
+   "text": [
+    "Ethiopian Airlines is Africa's largest airline. The giant GERD dam on the Blue Nile produces electricity, though Egypt and Sudan worry about the river's flow."
+   ],
+   "related": [
+    "EGY",
+    "SDN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "GERD",
+   "meaning": "The Grand Ethiopian Renaissance Dam."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Ethiopia",
+   "items": [
+    {
+     "title": "Coffee",
+     "subtitle": "South and west",
+     "text": "Africa's biggest producer."
+    },
+    {
+     "title": "Flowers",
+     "subtitle": "Rift Valley",
+     "text": "Roses for Europe."
+    },
+    {
+     "title": "Air travel",
+     "subtitle": "Ethiopian Airlines",
+     "text": "Africa's biggest airline."
+    },
+    {
+     "title": "Electricity",
+     "subtitle": "GERD",
+     "text": "Hydropower."
+    },
+    {
+     "title": "Leather",
+     "subtitle": "Factories",
+     "text": "Shoes and gloves."
+    }
+   ],
+   "intro": "Some of the things Ethiopia makes and sells to the world."
+  }
+ ]
+}
