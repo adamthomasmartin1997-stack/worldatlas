@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Costa Rica is Central America's oldest democracy.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for four years and cannot serve two terms in a row. The Legislative Assembly has 57 members. A new president, elected in February 2026, took office in May."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "San José"
+    },
+    {
+     "label": "Independence",
+     "value": "1821"
+    },
+    {
+     "label": "Army",
+     "value": "None since 1948"
+    }
+   ]
+  },
+  {
+   "id": "green",
+   "title": "Green policies",
+   "text": [
+    "Costa Rica pays landowners to protect forests and gets almost all its electricity from renewable sources."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Legislative Assembly",
+   "meaning": "The parliament."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 4 years",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Vice Presidents",
+     "subtitle": "Two",
+     "text": "Elected with the President."
+    },
+    {
+     "title": "Legislative Assembly",
+     "subtitle": "57 members",
+     "text": "A single chamber."
+    },
+    {
+     "title": "Supreme Electoral Tribunal",
+     "subtitle": "A fourth branch",
+     "text": "Runs elections."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By members or the government."
+   },
+   {
+    "title": "Two debates",
+    "text": "In the Assembly."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law or vetoes it."
+   }
+  ]
+ }
+}

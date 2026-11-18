@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Costa Rica has about 5 million people, known as Ticos.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are of mixed or European descent; Afro-Costa Ricans live on the Caribbean coast, and there are eight Indigenous peoples. Spanish is official. Many Nicaraguans work in Costa Rica."
+   ],
+   "related": [
+    "NIC"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Long life",
+   "text": [
+    "The Nicoya Peninsula is a 'Blue Zone' where many people live past 100."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tico",
+   "meaning": "A Costa Rican."
+  }
+ ]
+}

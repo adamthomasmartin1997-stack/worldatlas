@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Tourism, sugar, bananas and citrus drive Belize's economy.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Reef and Maya tourism is the biggest industry. Sugar, bananas, citrus and shrimp are exported."
+   ],
+   "related": [
+    "USA",
+    "GBR"
+   ]
+  },
+  {
+   "id": "reef",
+   "title": "Protecting the reef",
+   "text": [
+    "Belize banned offshore oil drilling in 2018 to protect the reef."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ecotourism",
+   "meaning": "Travel to see and protect nature."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Belize",
+   "items": [
+    {
+     "title": "Sugar",
+     "subtitle": "North",
+     "text": "A main export."
+    },
+    {
+     "title": "Bananas",
+     "subtitle": "South",
+     "text": "A big crop."
+    },
+    {
+     "title": "Citrus",
+     "subtitle": "Stann Creek",
+     "text": "Orange juice concentrate."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Reef",
+     "text": "Diving and Maya sites."
+    }
+   ],
+   "intro": "Some of the things Belize makes and sells to the world."
+  }
+ ]
+}

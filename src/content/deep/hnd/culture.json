@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Honduran culture blends Maya, Spanish and Garífuna traditions.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Garífuna culture",
+   "text": [
+    "Garífuna language, dance and music are on UNESCO's list."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Baleadas (flour tortillas with beans and cream) are the national snack."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Baleada",
+   "meaning": "A filled flour tortilla."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Prisión verde",
+     "subtitle": "1950 · Ramón Amaya Amador",
+     "text": "Life on banana plantations."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Punta",
+     "subtitle": "Garífuna music",
+     "text": "Lively dance music."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Baleadas",
+     "subtitle": "Everywhere",
+     "text": "Filled flour tortillas."
+    },
+    {
+     "title": "Sopa de caracol",
+     "subtitle": "Coast",
+     "text": "Conch soup with coconut."
+    },
+    {
+     "title": "Plato típico",
+     "subtitle": "Everywhere",
+     "text": "Beef, beans, plantain and cheese."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 6,
+    "name": "Feria Juniana",
+    "text": "San Pedro Sula's June fair."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "15 September."
+   },
+   {
+    "month": 4,
+    "name": "Garífuna Settlement Day",
+    "text": "12 April."
+   }
+  ]
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "status": "draft",
+ "intro": "Belize has the second-largest barrier reef in the world and large areas of protected rainforest.",
+ "chapters": [
+  {
+   "id": "reef",
+   "title": "The reef",
+   "text": [
+    "The Belize Barrier Reef is a World Heritage site. The Great Blue Hole, a giant underwater sinkhole about 300 m wide, is a famous diving spot."
+   ],
+   "related": [
+    "MEX",
+    "HND"
+   ]
+  },
+  {
+   "id": "land",
+   "title": "Forests and caves",
+   "text": [
+    "The Maya Mountains rise in the south. Cockscomb Basin was the world's first jaguar reserve. Actun Tunichil Muknal is a cave with ancient Maya remains."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sinkhole",
+   "meaning": "A hole formed when rock dissolves."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Belize's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Ambergris Caye",
+    "kind": "island",
+    "lat": 17.92,
+    "lon": -87.96,
+    "text": "The biggest island."
+   },
+   {
+    "name": "Great Blue Hole",
+    "kind": "sinkhole",
+    "lat": 17.32,
+    "lon": -87.53,
+    "text": "A giant blue circle."
+   },
+   {
+    "name": "Belize City",
+    "kind": "port",
+    "lat": 17.5,
+    "lon": -88.2,
+    "text": "The largest city."
+   },
+   {
+    "name": "Caracol",
+    "kind": "Maya ruins",
+    "lat": 16.76,
+    "lon": -89.12,
+    "text": "The tallest pyramid in Belize."
+   },
+   {
+    "name": "Actun Tunichil Muknal",
+    "kind": "cave",
+    "lat": 17.12,
+    "lon": -88.86,
+    "text": "Maya remains."
+   },
+   {
+    "name": "Cockscomb Basin",
+    "kind": "jaguar reserve",
+    "lat": 16.78,
+    "lon": -88.47,
+    "text": "The first jaguar reserve."
+   }
+  ]
+ }
+}

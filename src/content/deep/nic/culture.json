@@ -1,0 +1,96 @@
+{
+ "status": "draft",
+ "intro": "Nicaragua is called a land of poets, thanks above all to Rubén Darío.",
+ "chapters": [
+  {
+   "id": "poetry",
+   "title": "Poetry",
+   "text": [
+    "Rubén Darío, born in 1867, founded the modernismo movement and is one of the greatest Spanish-language poets."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Gallo pinto, nacatamales and vigorón (yuca with pork crackling and cabbage) are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Modernismo",
+   "meaning": "A literary movement led by Rubén Darío."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Azul",
+     "subtitle": "1888 · Rubén Darío",
+     "text": "Poems that launched modernismo."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Palo de Mayo",
+     "subtitle": "Caribbean coast",
+     "text": "A May dance festival."
+    },
+    {
+     "title": "Marimba",
+     "subtitle": "Instrument",
+     "text": "Traditional music."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Gallo pinto",
+     "subtitle": "Everywhere",
+     "text": "Rice and beans."
+    },
+    {
+     "title": "Nacatamal",
+     "subtitle": "Weekends",
+     "text": "A large tamale."
+    },
+    {
+     "title": "Vigorón",
+     "subtitle": "Granada",
+     "text": "Yuca with pork and cabbage."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 5,
+    "name": "Palo de Mayo",
+    "text": "Bluefields' May festival."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "15 September."
+   },
+   {
+    "month": 12,
+    "name": "La Purísima",
+    "text": "Celebrations of the Virgin Mary."
+   }
+  ]
+ }
+}

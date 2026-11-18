@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Panama has about 4.5 million people from many backgrounds.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most Panamanians are of mixed descent; there are Afro-Panamanian communities and seven Indigenous peoples, including the Guna. Spanish is official."
+   ]
+  },
+  {
+   "id": "city",
+   "title": "Panama City",
+   "text": [
+    "Panama City has a skyline of skyscrapers beside its old colonial quarter, Casco Viejo."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Guna",
+   "meaning": "An Indigenous people known for mola textiles."
+  }
+ ]
+}

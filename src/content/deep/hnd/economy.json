@@ -1,0 +1,58 @@
+{
+ "status": "draft",
+ "intro": "Honduras exports coffee, bananas, clothes and shrimp.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Honduras is one of Central America's biggest coffee producers. Garment factories make clothes for US brands, and money from Hondurans abroad is very important."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Diving in the Bay Islands attracts visitors."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Maquila",
+   "meaning": "A factory assembling goods for export."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Honduras",
+   "items": [
+    {
+     "title": "Coffee",
+     "subtitle": "Highlands",
+     "text": "A top producer."
+    },
+    {
+     "title": "Bananas",
+     "subtitle": "North coast",
+     "text": "A historic export."
+    },
+    {
+     "title": "Clothes",
+     "subtitle": "San Pedro Sula",
+     "text": "For US brands."
+    },
+    {
+     "title": "Shrimp",
+     "subtitle": "Gulf of Fonseca",
+     "text": "Farmed shrimp."
+    }
+   ],
+   "intro": "Some of the things Honduras makes and sells to the world."
+  }
+ ]
+}

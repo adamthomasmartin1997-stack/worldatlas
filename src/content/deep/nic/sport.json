@@ -1,0 +1,87 @@
+{
+ "status": "draft",
+ "intro": "Baseball, not football, is Nicaragua's national sport.",
+ "chapters": [
+  {
+   "id": "baseball",
+   "title": "Baseball",
+   "text": [
+    "Dennis Martínez was the first Nicaraguan to play in Major League Baseball and pitched a perfect game in 1991."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "boxing",
+   "title": "Boxing",
+   "text": [
+    "Alexis Argüello and Román González are world boxing champions."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Perfect game",
+   "meaning": "A game where no batter reaches base."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Nicaraguan Professional Baseball League",
+     "subtitle": "Baseball",
+     "text": "A winter league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Dennis Martínez",
+     "subtitle": "Baseball",
+     "text": "Pitched a perfect game."
+    },
+    {
+     "title": "Alexis Argüello",
+     "subtitle": "Boxing",
+     "text": "World champion in three weights."
+    },
+    {
+     "title": "Román González",
+     "subtitle": "Boxing",
+     "text": "World champion in four weights."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Nicaragua's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estadio Nacional Soberanía",
+    "kind": "venue",
+    "lat": 12.14,
+    "lon": -86.27,
+    "text": "The national baseball stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1991",
+    "title": "Perfect game",
+    "text": "Martínez for Montreal."
+   }
+  ]
+ }
+}

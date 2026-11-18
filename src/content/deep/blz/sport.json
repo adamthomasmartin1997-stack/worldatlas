@@ -1,0 +1,63 @@
+{
+ "status": "draft",
+ "intro": "Football, basketball and canoe racing are popular in Belize.",
+ "chapters": [
+  {
+   "id": "canoe",
+   "title": "La Ruta Maya",
+   "text": [
+    "The La Ruta Maya canoe race paddles about 270 km across the country."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Belize played at the Gold Cup in 2013."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Canoe race",
+   "meaning": "A paddling race."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Premier League of Belize",
+     "subtitle": "Football",
+     "text": "The top league."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Belize's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "FFB Stadium, Belmopan",
+    "kind": "venue",
+    "lat": 17.25,
+    "lon": -88.77,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2013",
+    "title": "Gold Cup",
+    "text": "A first appearance."
+   }
+  ]
+ }
+}

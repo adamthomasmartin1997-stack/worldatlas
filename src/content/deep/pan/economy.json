@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Panama's economy is built on the canal, shipping, banking and trade.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "About 5% of world sea trade passes through the canal. Panama has one of the largest ship registries, and the Colón Free Zone is a huge trade hub."
+   ],
+   "related": [
+    "USA",
+    "CHN"
+   ]
+  },
+  {
+   "id": "dollar",
+   "title": "Dollar",
+   "text": [
+    "Panama has used the US dollar since 1904."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Free zone",
+   "meaning": "An area with low taxes on trade."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Panama",
+   "items": [
+    {
+     "title": "Canal fees",
+     "subtitle": "Canal",
+     "text": "Billions a year."
+    },
+    {
+     "title": "Bananas",
+     "subtitle": "Bocas del Toro",
+     "text": "A big crop."
+    },
+    {
+     "title": "Copper",
+     "subtitle": "Cobre Panamá",
+     "text": "A large mine, closed in 2023."
+    },
+    {
+     "title": "Ship registry",
+     "subtitle": "Panama City",
+     "text": "The world's largest fleet on paper."
+    }
+   ],
+   "intro": "Some of the things Panama makes and sells to the world."
+  }
+ ]
+}

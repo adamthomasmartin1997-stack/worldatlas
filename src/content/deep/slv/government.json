@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "El Salvador is a presidential republic where power has become concentrated in the president.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Nayib Bukele was re-elected in 2024 after courts allowed a second term, and in 2025 the constitution was changed to allow unlimited re-election and a six-year term. The Legislative Assembly is dominated by his party."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "San Salvador"
+    },
+    {
+     "label": "Independence",
+     "value": "1821"
+    },
+    {
+     "label": "Currency",
+     "value": "US dollar"
+    }
+   ]
+  },
+  {
+   "id": "prison",
+   "title": "Mega-prison",
+   "text": [
+    "The CECOT prison, one of the largest in the Americas, has held deportees from the US."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Re-election",
+   "meaning": "Being elected again."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 6 years",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Vice President",
+     "subtitle": "Elected with the President",
+     "text": "Second in command."
+    },
+    {
+     "title": "Legislative Assembly",
+     "subtitle": "60 members",
+     "text": "A single chamber."
+    },
+    {
+     "title": "Supreme Court",
+     "subtitle": "Judges",
+     "text": "The top court."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By members or the government."
+   },
+   {
+    "title": "Assembly",
+    "text": "Debates and passes it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law or vetoes it."
+   }
+  ]
+ }
+}

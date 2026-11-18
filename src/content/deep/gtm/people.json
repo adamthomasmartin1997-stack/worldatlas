@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Guatemala has about 18 million people, the most in Central America.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "About half are Maya, speaking over 20 Maya languages such as K'iche' and Q'eqchi'. Spanish is official. Christianity is often mixed with Maya traditions."
+   ],
+   "related": [
+    "MEX"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Guatemala City is the largest city in Central America."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "K'iche'",
+   "meaning": "A large Maya people and language."
+  }
+ ]
+}

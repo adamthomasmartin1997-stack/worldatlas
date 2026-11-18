@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Belize is the only English-speaking country in Central America, with Maya ruins, rainforest and a huge barrier reef.",
+ "chapters": [
+  {
+   "id": "maya",
+   "title": "Maya cities",
+   "text": [
+    "Caracol was a great Maya city whose Caana pyramid is still the tallest human-made structure in Belize. Altun Ha, Xunantunich and Lamanai are other sites."
+   ],
+   "related": [
+    "GTM",
+    "MEX"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "British Honduras",
+   "text": [
+    "British loggers, called Baymen, settled from the 1600s to cut logwood and mahogany, using enslaved Africans. In 1798 they defeated a Spanish fleet at St George's Caye. Britain made it the colony of British Honduras in 1862."
+   ],
+   "highlight": {
+    "title": "St George's Caye",
+    "text": "The 1798 battle is celebrated every 10 September."
+   },
+   "related": [
+    "GBR",
+    "ESP"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Belize became independent in 1981, but British troops stayed for years because Guatemala claimed the territory. The dispute is now before the International Court of Justice."
+   ],
+   "related": [
+    "GTM",
+    "GBR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 650",
+   "title": "Caracol's peak",
+   "text": "A Maya power."
+  },
+  {
+   "year": "1798",
+   "title": "St George's Caye",
+   "text": "Spanish attack beaten."
+  },
+  {
+   "year": "1862",
+   "title": "British Honduras",
+   "text": "A colony."
+  },
+  {
+   "year": "1973",
+   "title": "Belize",
+   "text": "The new name."
+  },
+  {
+   "year": "1981",
+   "title": "Independence",
+   "text": "21 September."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Caye",
+   "meaning": "A small, low island."
+  },
+  {
+   "term": "Logwood",
+   "meaning": "A tree used to make dye."
+  }
+ ]
+}

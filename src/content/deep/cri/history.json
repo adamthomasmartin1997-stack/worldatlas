@@ -1,0 +1,81 @@
+{
+ "status": "draft",
+ "intro": "Costa Rica abolished its army in 1948 and became famous for peace, democracy and nature conservation.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Stone spheres",
+   "text": [
+    "Indigenous peoples carved hundreds of almost perfectly round stone spheres, some over 2 m wide, in the Diquís delta, a World Heritage site."
+   ],
+   "related": [
+    "PAN",
+    "NIC"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "A quiet colony",
+   "text": [
+    "Spain called it the 'rich coast', but found little gold. It was a poor, remote province of the Captaincy General of Guatemala. Costa Rica became independent in 1821."
+   ],
+   "related": [
+    "ESP",
+    "GTM"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "No army",
+   "text": [
+    "After a short civil war in 1948, José Figueres abolished the army and spent the money on schools and health. Costa Rica has been a stable democracy since. President Óscar Arias won the Nobel Peace Prize in 1987 for helping end Central America's wars."
+   ],
+   "highlight": {
+    "title": "No army",
+    "text": "Costa Rica is one of the few countries with no armed forces."
+   },
+   "related": [
+    "NIC",
+    "SLV",
+    "GTM"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 600",
+   "title": "Stone spheres",
+   "text": "Carved in the south."
+  },
+  {
+   "year": "1821",
+   "title": "Independence",
+   "text": "15 September."
+  },
+  {
+   "year": "1856",
+   "title": "Battle of Rivas",
+   "text": "Defeat of William Walker."
+  },
+  {
+   "year": "1948",
+   "title": "Army abolished",
+   "text": "After a civil war."
+  },
+  {
+   "year": "1987",
+   "title": "Nobel Peace Prize",
+   "text": "Óscar Arias."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pura vida",
+   "meaning": "'Pure life', a common Costa Rican saying."
+  },
+  {
+   "term": "Ecotourism",
+   "meaning": "Travel to enjoy and protect nature."
+  }
+ ]
+}

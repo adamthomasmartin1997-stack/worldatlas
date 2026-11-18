@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "El Salvador has about 6.3 million people, with millions more living in the United States.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are mestizo, and Spanish is official. Nahuat, the Pipil language, is being revived. Money sent home from the US is a big part of the economy."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "capital",
+   "title": "San Salvador",
+   "text": [
+    "San Salvador lies below a volcano of the same name."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Guanaco",
+   "meaning": "A friendly nickname for Salvadorans."
+  }
+ ]
+}

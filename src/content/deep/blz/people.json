@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Belize has about 420,000 people, the smallest population in Central America.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Mestizos, Kriols, Maya, Garífuna, Mennonites and others live in Belize. English is official, but Kriol and Spanish are widely spoken."
+   ],
+   "related": [
+    "GTM",
+    "HND"
+   ]
+  },
+  {
+   "id": "capital",
+   "title": "Belmopan",
+   "text": [
+    "Belmopan became the capital in 1970 after a hurricane hit Belize City."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kriol",
+   "meaning": "Belizean Creole."
+  }
+ ]
+}

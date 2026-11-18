@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "Nicaragua has the two largest lakes in Central America and a chain of volcanoes.",
+ "chapters": [
+  {
+   "id": "lakes",
+   "title": "Lakes and volcanoes",
+   "text": [
+    "Lake Nicaragua is the largest lake in Central America and has freshwater sharks. Ometepe island is made of two volcanoes. Masaya volcano has a glowing lava lake."
+   ],
+   "related": [
+    "CRI",
+    "HND"
+   ]
+  },
+  {
+   "id": "coast",
+   "title": "Two coasts",
+   "text": [
+    "The Caribbean coast is wet and forested, with the Corn Islands offshore."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lava lake",
+   "meaning": "A pool of molten rock in a crater."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Nicaragua's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "León",
+    "kind": "colonial city",
+    "lat": 12.43,
+    "lon": -86.88,
+    "text": "A great cathedral."
+   },
+   {
+    "name": "Cerro Negro",
+    "kind": "volcano",
+    "lat": 12.51,
+    "lon": -86.7,
+    "text": "Volcano boarding."
+   },
+   {
+    "name": "Managua",
+    "kind": "capital",
+    "lat": 12.13,
+    "lon": -86.25,
+    "text": "On Lake Managua."
+   },
+   {
+    "name": "Masaya",
+    "kind": "volcano",
+    "lat": 11.98,
+    "lon": -86.16,
+    "text": "A glowing lava lake."
+   },
+   {
+    "name": "Granada",
+    "kind": "colonial city",
+    "lat": 11.93,
+    "lon": -85.96,
+    "text": "Colourful streets."
+   },
+   {
+    "name": "Ometepe",
+    "kind": "volcanic island",
+    "lat": 11.5,
+    "lon": -85.6,
+    "text": "Two volcanoes in a lake."
+   },
+   {
+    "name": "Corn Islands",
+    "kind": "Caribbean islands",
+    "lat": 12.17,
+    "lon": -83.05,
+    "text": "Quiet beaches."
+   }
+  ]
+ }
+}

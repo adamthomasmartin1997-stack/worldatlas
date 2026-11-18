@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Costa Rican culture celebrates the simple, happy 'pura vida' life.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Painted oxcarts (carretas) are a national symbol and on UNESCO's list."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Gallo pinto (rice and beans) for breakfast and casado for lunch are national dishes."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gallo pinto",
+   "meaning": "Fried rice and beans."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Cuentos de mi tía Panchita",
+     "subtitle": "1920 · Carmen Lyra",
+     "text": "Classic folk tales."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Punto guanacasteco",
+     "subtitle": "Traditional",
+     "text": "The national dance."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Gallo pinto",
+     "subtitle": "Breakfast",
+     "text": "Rice and beans."
+    },
+    {
+     "title": "Casado",
+     "subtitle": "Lunch",
+     "text": "Rice, beans, meat and salad."
+    },
+    {
+     "title": "Chifrijo",
+     "subtitle": "Everywhere",
+     "text": "Beans, rice and pork."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 7,
+    "name": "Guanacaste Day",
+    "text": "25 July."
+   },
+   {
+    "month": 8,
+    "name": "Virgin of Los Ángeles",
+    "text": "A pilgrimage to Cartago."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "15 September, with a torch relay."
+   }
+  ]
+ }
+}

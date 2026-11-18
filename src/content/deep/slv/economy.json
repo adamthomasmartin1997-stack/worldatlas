@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "El Salvador uses the US dollar and relies on remittances, textiles and coffee.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Remittances are about a quarter of the economy. Clothes factories, coffee and sugar are exports. In 2021 El Salvador became the first country to make Bitcoin legal tender, though in 2025 it was made optional."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "surf",
+   "title": "Surf City",
+   "text": [
+    "The government promotes the coast as 'Surf City' for tourism."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Legal tender",
+   "meaning": "Money that must be accepted."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in El Salvador",
+   "items": [
+    {
+     "title": "Clothes",
+     "subtitle": "Factories",
+     "text": "For US brands."
+    },
+    {
+     "title": "Coffee",
+     "subtitle": "Highlands",
+     "text": "High-grown beans."
+    },
+    {
+     "title": "Sugar",
+     "subtitle": "Lowlands",
+     "text": "A big crop."
+    }
+   ],
+   "intro": "Some of the things El Salvador makes and sells to the world."
+  }
+ ]
+}

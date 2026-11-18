@@ -1,0 +1,85 @@
+{
+ "status": "draft",
+ "intro": "El Salvador is the smallest and most densely populated country in Central America, a land of volcanoes and surf.",
+ "chapters": [
+  {
+   "id": "ceren",
+   "title": "Joya de Cerén",
+   "text": [
+    "About 1,400 years ago a volcanic eruption buried the Maya farming village of Joya de Cerén in ash, preserving homes, gardens and even food. It is called the 'Pompeii of the Americas'."
+   ],
+   "highlight": {
+    "title": "Frozen in time",
+    "text": "Joya de Cerén shows everyday life of ordinary Maya farmers."
+   },
+   "related": [
+    "GTM",
+    "ITA"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Pipil and Spanish rule",
+   "text": [
+    "The Pipil people called their land Cuscatlán. Spain conquered it in the 1520s. El Salvador became independent in 1821."
+   ],
+   "related": [
+    "ESP",
+    "MEX"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "War and change",
+   "text": [
+    "A civil war from 1980 to 1992 killed about 75,000 people; Archbishop Óscar Romero was assassinated in 1980 and later made a saint. After the war, gangs grew. Since 2022 President Nayib Bukele's state of emergency has jailed tens of thousands of suspected gang members, cutting murders sharply but drawing human rights criticism."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 600",
+   "title": "Joya de Cerén",
+   "text": "Buried by ash."
+  },
+  {
+   "year": "1524",
+   "title": "Spanish conquest",
+   "text": "Begins."
+  },
+  {
+   "year": "1821",
+   "title": "Independence",
+   "text": "15 September."
+  },
+  {
+   "year": "1932",
+   "title": "La Matanza",
+   "text": "Thousands killed after an uprising."
+  },
+  {
+   "year": "1980",
+   "title": "Civil war",
+   "text": "Until 1992."
+  },
+  {
+   "year": "2001",
+   "title": "Dollar",
+   "text": "Adopted as currency."
+  },
+  {
+   "year": "2021",
+   "title": "Bitcoin",
+   "text": "Made legal tender."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "State of emergency",
+   "meaning": "Special powers given to the government."
+  }
+ ]
+}

@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Panama is the narrow link between North and South America, famous for the canal that joins the Atlantic and Pacific oceans.",
+ "chapters": [
+  {
+   "id": "isthmus",
+   "title": "The isthmus",
+   "text": [
+    "About 3 million years ago the Isthmus of Panama rose from the sea, joining the Americas and letting animals cross between them. Kuna, Emberá and other peoples lived here."
+   ],
+   "related": [
+    "COL",
+    "CRI"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Spanish crossroads",
+   "text": [
+    "In 1513 Vasco Núñez de Balboa crossed the isthmus and became the first European to see the Pacific from the Americas. Gold and silver from Peru were carried across Panama to ships for Spain. Panama joined Colombia after independence."
+   ],
+   "related": [
+    "ESP",
+    "COL",
+    "PER"
+   ]
+  },
+  {
+   "id": "canal",
+   "title": "The canal",
+   "text": [
+    "France tried to build a canal in the 1880s but failed, with thousands of workers dying of disease. With US support, Panama separated from Colombia in 1903, and the US completed the canal in 1914. Panama took full control on 31 December 1999. The US invaded in 1989 to remove dictator Manuel Noriega."
+   ],
+   "highlight": {
+    "title": "Shortcut",
+    "text": "The canal saves ships a voyage of about 13,000 km around South America."
+   },
+   "related": [
+    "USA",
+    "FRA",
+    "COL"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1513",
+   "title": "Balboa",
+   "text": "Sees the Pacific."
+  },
+  {
+   "year": "1519",
+   "title": "Panama City",
+   "text": "Founded."
+  },
+  {
+   "year": "1903",
+   "title": "Independence",
+   "text": "From Colombia."
+  },
+  {
+   "year": "1914",
+   "title": "Canal opens",
+   "text": "15 August."
+  },
+  {
+   "year": "1989",
+   "title": "US invasion",
+   "text": "Noriega removed."
+  },
+  {
+   "year": "1999",
+   "title": "Canal handover",
+   "text": "Panama takes control."
+  },
+  {
+   "year": "2016",
+   "title": "Expanded canal",
+   "text": "New, bigger locks."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Isthmus",
+   "meaning": "A narrow strip of land joining two larger areas."
+  },
+  {
+   "term": "Lock",
+   "meaning": "A chamber that raises or lowers ships."
+  }
+ ]
+}

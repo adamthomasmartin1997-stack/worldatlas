@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Honduras is mountainous, with Caribbean islands, cloud forests and the wild Mosquitia.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "The Bay Islands, such as Roatán, sit on the Mesoamerican Barrier Reef, the second-largest reef in the world. La Mosquitia in the east is a huge wilderness of rainforest and rivers."
+   ],
+   "related": [
+    "GTM",
+    "SLV",
+    "NIC"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Hurricanes",
+   "text": [
+    "Hurricanes from the Caribbean can cause floods and landslides."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Barrier reef",
+   "meaning": "A long coral reef parallel to a coast."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Honduras' landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Roatán",
+    "kind": "reef island",
+    "lat": 16.32,
+    "lon": -86.53,
+    "text": "Diving on the barrier reef."
+   },
+   {
+    "name": "Pico Bonito",
+    "kind": "rainforest",
+    "lat": 15.65,
+    "lon": -86.9,
+    "text": "Mountains near the coast."
+   },
+   {
+    "name": "Copán",
+    "kind": "Maya ruins",
+    "lat": 14.84,
+    "lon": -89.14,
+    "text": "The Hieroglyphic Stairway."
+   },
+   {
+    "name": "Lake Yojoa",
+    "kind": "lake",
+    "lat": 14.86,
+    "lon": -87.98,
+    "text": "The biggest lake."
+   },
+   {
+    "name": "Tegucigalpa",
+    "kind": "capital",
+    "lat": 14.07,
+    "lon": -87.19,
+    "text": "A hilly capital."
+   },
+   {
+    "name": "La Mosquitia",
+    "kind": "wilderness",
+    "lat": 15.3,
+    "lon": -84.5,
+    "text": "Rivers and rainforest."
+   }
+  ]
+ }
+}

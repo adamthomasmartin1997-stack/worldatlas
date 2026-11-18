@@ -1,0 +1,112 @@
+{
+ "status": "draft",
+ "intro": "Football is Costa Rica's favourite sport, and surfing is world-class.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Costa Rica reached the World Cup quarter-finals in 2014, topping a group with Uruguay, Italy and England. Keylor Navas won the Champions League with Real Madrid."
+   ],
+   "related": [
+    "ESP",
+    "URY",
+    "ITA",
+    "GBR"
+   ]
+  },
+  {
+   "id": "swimming",
+   "title": "Swimming",
+   "text": [
+    "Sisters Silvia and Claudia Poll won Costa Rica's Olympic medals in swimming; Claudia won gold in 1996."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ticos",
+   "meaning": "The team's nickname too."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Liga FPD",
+     "subtitle": "Football",
+     "text": "Saprissa and Alajuelense are rivals."
+    },
+    {
+     "title": "Surfing",
+     "subtitle": "Pacific coast",
+     "text": "World-class waves."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Keylor Navas",
+     "subtitle": "Football",
+     "text": "Three Champions Leagues."
+    },
+    {
+     "title": "Claudia Poll",
+     "subtitle": "Swimming",
+     "text": "Olympic champion 1996."
+    },
+    {
+     "title": "Paulo Wanchope",
+     "subtitle": "Football",
+     "text": "A Premier League striker."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Costa Rica's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "National Stadium, San José",
+    "kind": "venue",
+    "lat": 9.94,
+    "lon": -84.11,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Estadio Ricardo Saprissa",
+    "kind": "venue",
+    "lat": 9.95,
+    "lon": -84.06,
+    "text": "Home of Saprissa."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1990",
+    "title": "World Cup",
+    "text": "Reach the knockouts."
+   },
+   {
+    "year": "1996",
+    "title": "Olympic gold",
+    "text": "Claudia Poll."
+   },
+   {
+    "year": "2014",
+    "title": "World Cup quarter-final",
+    "text": "The best ever run."
+   }
+  ]
+ }
+}

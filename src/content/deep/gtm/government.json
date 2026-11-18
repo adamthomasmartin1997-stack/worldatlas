@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Guatemala is a presidential republic fighting corruption.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for a single four-year term. Congress has one chamber of 160 members."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Guatemala City"
+    },
+    {
+     "label": "Independence",
+     "value": "1821"
+    },
+    {
+     "label": "Departments",
+     "value": "22"
+    }
+   ]
+  },
+  {
+   "id": "justice",
+   "title": "Justice",
+   "text": [
+    "A UN-backed commission fought corruption from 2007 until it was closed in 2019."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Corruption",
+   "meaning": "Dishonest use of power for gain."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for one 4-year term",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Vice President",
+     "subtitle": "Elected with the President",
+     "text": "Second in command."
+    },
+    {
+     "title": "Congress",
+     "subtitle": "160 members",
+     "text": "A single chamber."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "Judges",
+     "text": "Checks laws."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By members or the president."
+   },
+   {
+    "title": "Three debates",
+    "text": "In Congress."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law or vetoes it."
+   }
+  ]
+ }
+}

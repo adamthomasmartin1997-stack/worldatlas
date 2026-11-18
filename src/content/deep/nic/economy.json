@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Nicaragua exports gold, coffee, beef and clothes.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Gold has become the top export, followed by beef, coffee and textiles. Money from Nicaraguans abroad is a large share of income."
+   ],
+   "related": [
+    "USA",
+    "CRI"
+   ]
+  },
+  {
+   "id": "rum",
+   "title": "Rum",
+   "text": [
+    "Flor de Caña rum is a famous Nicaraguan brand."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Remittances",
+   "meaning": "Money sent home from abroad."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Nicaragua",
+   "items": [
+    {
+     "title": "Gold",
+     "subtitle": "Mines",
+     "text": "The top export."
+    },
+    {
+     "title": "Coffee",
+     "subtitle": "North",
+     "text": "Grown in the hills."
+    },
+    {
+     "title": "Beef",
+     "subtitle": "Ranches",
+     "text": "A big export."
+    },
+    {
+     "title": "Rum",
+     "subtitle": "Chichigalpa",
+     "text": "Famous rum."
+    }
+   ],
+   "intro": "Some of the things Nicaragua makes and sells to the world."
+  }
+ ]
+}

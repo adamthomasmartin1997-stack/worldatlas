@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Belizean culture mixes Caribbean and Central American traditions.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music",
+   "text": [
+    "Punta and Garífuna drumming are famous; Andy Palacio was a champion of Garífuna music."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Rice and beans with stewed chicken is the everyday meal."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Punta",
+   "meaning": "Garífuna dance music."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Wátina",
+     "subtitle": "Andy Palacio, 2007",
+     "text": "A celebrated Garífuna album."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Rice and beans",
+     "subtitle": "Everywhere",
+     "text": "With stewed chicken."
+    },
+    {
+     "title": "Hudut",
+     "subtitle": "Garífuna",
+     "text": "Fish in coconut broth with plantain."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "La Ruta Maya",
+    "text": "Canoe race."
+   },
+   {
+    "month": 9,
+    "name": "St George's Caye Day",
+    "text": "10 September."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "21 September."
+   },
+   {
+    "month": 11,
+    "name": "Garífuna Settlement Day",
+    "text": "19 November."
+   }
+  ]
+ }
+}

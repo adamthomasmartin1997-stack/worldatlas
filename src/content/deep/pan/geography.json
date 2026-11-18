@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "Panama is an S-shaped country between the Caribbean and the Pacific.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "Volcán Barú is the highest point, from which on clear days you can see both oceans. The Darién Gap in the east is a roadless jungle on the Colombian border. The San Blas islands lie in the Caribbean."
+   ],
+   "related": [
+    "COL",
+    "CRI"
+   ]
+  },
+  {
+   "id": "canal",
+   "title": "Water for the canal",
+   "text": [
+    "Gatún Lake, made by damming a river, supplies the water that lifts ships; droughts in 2023 limited traffic."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Darién Gap",
+   "meaning": "A wild jungle with no road between Panama and Colombia."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Panama's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "San Blas Islands",
+    "kind": "Caribbean islands",
+    "lat": 9.55,
+    "lon": -78.9,
+    "text": "Guna Yala's islands."
+   },
+   {
+    "name": "Panama Canal",
+    "kind": "canal",
+    "lat": 9.08,
+    "lon": -79.68,
+    "text": "The Miraflores locks."
+   },
+   {
+    "name": "Panama City",
+    "kind": "capital",
+    "lat": 8.98,
+    "lon": -79.52,
+    "text": "Skyscrapers and Casco Viejo."
+   },
+   {
+    "name": "Volcán Barú",
+    "kind": "volcano",
+    "lat": 8.81,
+    "lon": -82.54,
+    "text": "See both oceans."
+   },
+   {
+    "name": "Bocas del Toro",
+    "kind": "islands",
+    "lat": 9.33,
+    "lon": -82.25,
+    "text": "Caribbean islands."
+   },
+   {
+    "name": "Darién",
+    "kind": "jungle",
+    "lat": 8.0,
+    "lon": -77.7,
+    "text": "A roadless rainforest."
+   },
+   {
+    "name": "Coiba",
+    "kind": "island park",
+    "lat": 7.45,
+    "lon": -81.75,
+    "text": "A marine reserve."
+   }
+  ]
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Baseball, boxing and football are Panama's most popular sports.",
+ "chapters": [
+  {
+   "id": "baseball",
+   "title": "Baseball and boxing",
+   "text": [
+    "Mariano Rivera, the great New York Yankees closer, is Panamanian. Roberto Durán, 'Manos de Piedra', is a boxing legend."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Panama played at the 2018 World Cup, its first."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Closer",
+   "meaning": "A pitcher who finishes games."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Liga Panameña de Fútbol",
+     "subtitle": "Football",
+     "text": "The top league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Roberto Durán",
+     "subtitle": "Boxing",
+     "text": "World champion in four weights."
+    },
+    {
+     "title": "Mariano Rivera",
+     "subtitle": "Baseball",
+     "text": "Hall of Fame closer."
+    },
+    {
+     "title": "Irving Saladino",
+     "subtitle": "Long jump",
+     "text": "Olympic champion 2008."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Panama's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estadio Rommel Fernández",
+    "kind": "venue",
+    "lat": 9.04,
+    "lon": -79.47,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2008",
+    "title": "Olympic gold",
+    "text": "Saladino in Beijing."
+   },
+   {
+    "year": "2018",
+    "title": "World Cup",
+    "text": "A first appearance."
+   }
+  ]
+ }
+}

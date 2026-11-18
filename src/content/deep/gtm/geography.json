@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Guatemala has volcanoes, highland lakes, rainforest and two coasts.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Volcanoes and lakes",
+   "text": [
+    "A chain of volcanoes runs through the highlands; Tajumulco is the highest point in Central America, and Fuego erupts often. Lake Atitlán sits in a giant crater ringed by volcanoes. Petén in the north is lowland rainforest."
+   ],
+   "related": [
+    "MEX",
+    "BLZ",
+    "HND",
+    "SLV"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Land of eternal spring",
+   "text": [
+    "The highlands are mild all year, while the lowlands are hot."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Caldera",
+   "meaning": "A large crater left by a volcano."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Guatemala's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Tikal",
+    "kind": "Maya city",
+    "lat": 17.22,
+    "lon": -89.62,
+    "text": "Temples above the jungle."
+   },
+   {
+    "name": "Semuc Champey",
+    "kind": "limestone pools",
+    "lat": 15.53,
+    "lon": -89.96,
+    "text": "Turquoise pools."
+   },
+   {
+    "name": "Lake Atitlán",
+    "kind": "crater lake",
+    "lat": 14.69,
+    "lon": -91.2,
+    "text": "Ringed by volcanoes."
+   },
+   {
+    "name": "Antigua Guatemala",
+    "kind": "colonial town",
+    "lat": 14.56,
+    "lon": -90.73,
+    "text": "Ruined churches."
+   },
+   {
+    "name": "Volcán de Fuego",
+    "kind": "volcano",
+    "lat": 14.47,
+    "lon": -90.88,
+    "text": "Erupts often."
+   },
+   {
+    "name": "Tajumulco",
+    "kind": "volcano",
+    "lat": 15.04,
+    "lon": -91.9,
+    "text": "The highest point in Central America."
+   },
+   {
+    "name": "Río Dulce",
+    "kind": "river gorge",
+    "lat": 15.7,
+    "lon": -88.9,
+    "text": "Jungle gorge to the Caribbean."
+   }
+  ]
+ }
+}

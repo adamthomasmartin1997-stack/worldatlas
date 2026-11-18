@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Panama is a presidential republic that has controlled its canal since 1999.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for a single five-year term; José Raúl Mulino took office in 2024. The National Assembly has 71 members."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Panama City"
+    },
+    {
+     "label": "Independence",
+     "value": "1903 (from Colombia)"
+    },
+    {
+     "label": "Currency",
+     "value": "Balboa and US dollar"
+    }
+   ]
+  },
+  {
+   "id": "canal",
+   "title": "Canal politics",
+   "text": [
+    "In 2025 the US president's demands to take back the canal caused tension."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Single term",
+   "meaning": "No immediate re-election."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for one 5-year term",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Vice President",
+     "subtitle": "Elected with the President",
+     "text": "Second in command."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "71 members",
+     "text": "A single chamber."
+    },
+    {
+     "title": "Canal Authority",
+     "subtitle": "Independent",
+     "text": "Runs the canal."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By members or the government."
+   },
+   {
+    "title": "Three debates",
+    "text": "In the Assembly."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law or vetoes it."
+   }
+  ]
+ }
+}

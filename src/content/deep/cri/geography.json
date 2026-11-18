@@ -1,0 +1,93 @@
+{
+ "status": "draft",
+ "intro": "Costa Rica has about 5% of the world's species in a country smaller than Scotland and Wales combined.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Volcanoes and forests",
+   "text": [
+    "Arenal, Poás and Irazú are well-known volcanoes. Monteverde is a cloud forest, and Corcovado on the Osa Peninsula is one of the most biodiverse places on Earth. About a quarter of the country is protected."
+   ],
+   "related": [
+    "NIC",
+    "PAN"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "It is tropical, with a rainy 'green season' from May to November."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cloud forest",
+   "meaning": "A forest often covered in mist."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Costa Rica's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Arenal",
+    "kind": "volcano",
+    "lat": 10.46,
+    "lon": -84.7,
+    "text": "A perfect cone."
+   },
+   {
+    "name": "Monteverde",
+    "kind": "cloud forest",
+    "lat": 10.3,
+    "lon": -84.82,
+    "text": "Hanging bridges."
+   },
+   {
+    "name": "Tortuguero",
+    "kind": "turtle beach",
+    "lat": 10.54,
+    "lon": -83.5,
+    "text": "Green turtles nest."
+   },
+   {
+    "name": "Poás",
+    "kind": "volcano",
+    "lat": 10.2,
+    "lon": -84.23,
+    "text": "A steaming crater lake."
+   },
+   {
+    "name": "San José",
+    "kind": "capital",
+    "lat": 9.93,
+    "lon": -84.08,
+    "text": "In the Central Valley."
+   },
+   {
+    "name": "Manuel Antonio",
+    "kind": "beach park",
+    "lat": 9.39,
+    "lon": -84.14,
+    "text": "Monkeys and sloths."
+   },
+   {
+    "name": "Corcovado",
+    "kind": "rainforest",
+    "lat": 8.55,
+    "lon": -83.58,
+    "text": "Extreme biodiversity."
+   },
+   {
+    "name": "Cocos Island",
+    "kind": "remote island",
+    "lat": 5.53,
+    "lon": -87.06,
+    "text": "Sharks and diving."
+   }
+  ]
+ }
+}

@@ -1,0 +1,117 @@
+{
+ "status": "draft",
+ "intro": "Guatemalan culture is rich in Maya weaving, markets and festivals.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Weaving",
+   "text": [
+    "Maya women weave huipiles (blouses) whose patterns show their home village. Chichicastenango's market is one of the most colourful in the Americas."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Pepián (a spicy stew), tamales and black beans with tortillas are staples."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Huipil",
+   "meaning": "A woven Maya blouse."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Ixcanul",
+     "subtitle": "2015 · Jayro Bustamante",
+     "text": "A Maya girl's story; won at Berlin."
+    },
+    {
+     "title": "La Llorona",
+     "subtitle": "2019 · Jayro Bustamante",
+     "text": "A haunting film about the war."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Men of Maize",
+     "subtitle": "1949 · Miguel Ángel Asturias",
+     "text": "By the 1967 Nobel winner."
+    },
+    {
+     "title": "Popol Vuh",
+     "subtitle": "Maya text",
+     "text": "The K'iche' Maya story of creation."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Marimba",
+     "subtitle": "Instrument",
+     "text": "The national instrument."
+    },
+    {
+     "title": "Ricardo Arjona",
+     "subtitle": "Singer",
+     "text": "A Latin pop star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Pepián",
+     "subtitle": "Everywhere",
+     "text": "A spicy meat stew."
+    },
+    {
+     "title": "Tamales",
+     "subtitle": "Celebrations",
+     "text": "Steamed corn dough."
+    },
+    {
+     "title": "Kak'ik",
+     "subtitle": "Cobán",
+     "text": "Turkey soup."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Semana Santa",
+    "text": "Carpets of coloured sawdust in Antigua."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "15 September."
+   },
+   {
+    "month": 11,
+    "name": "Giant kites",
+    "text": "Day of the Dead kites in Sumpango."
+   }
+  ]
+ }
+}

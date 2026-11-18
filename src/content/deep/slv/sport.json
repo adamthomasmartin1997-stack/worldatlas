@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Football and surfing are El Salvador's most popular sports.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "El Salvador played at the 1970 and 1982 World Cups. Jorge 'Mágico' González is a legend who played in Spain."
+   ],
+   "related": [
+    "ESP",
+    "HND"
+   ]
+  },
+  {
+   "id": "surf",
+   "title": "Surfing",
+   "text": [
+    "El Salvador has hosted world surfing championships."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "La Selecta",
+   "meaning": "The national team."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Primera División",
+     "subtitle": "Football",
+     "text": "Alianza and FAS are big clubs."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Jorge 'Mágico' González",
+     "subtitle": "Football",
+     "text": "A Cádiz legend."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where El Salvador's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estadio Cuscatlán",
+    "kind": "venue",
+    "lat": 13.68,
+    "lon": -89.22,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1970",
+    "title": "World Cup",
+    "text": "A first appearance."
+   },
+   {
+    "year": "1982",
+    "title": "World Cup",
+    "text": "A second appearance."
+   }
+  ]
+ }
+}

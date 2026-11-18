@@ -1,0 +1,58 @@
+{
+ "status": "draft",
+ "intro": "Costa Rica exports medical devices, bananas, pineapples and coffee, and tourism is huge.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Medical devices are now the top export. Costa Rica is the world's biggest pineapple exporter. Ecotourism brings millions of visitors."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "forest",
+   "title": "Forest recovery",
+   "text": [
+    "Forest cover has more than doubled since the 1980s."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Medical devices",
+   "meaning": "Equipment like stents and catheters."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Costa Rica",
+   "items": [
+    {
+     "title": "Medical devices",
+     "subtitle": "Free zones",
+     "text": "The top export."
+    },
+    {
+     "title": "Pineapples",
+     "subtitle": "Lowlands",
+     "text": "The world's top exporter."
+    },
+    {
+     "title": "Bananas",
+     "subtitle": "Caribbean",
+     "text": "A big crop."
+    },
+    {
+     "title": "Coffee",
+     "subtitle": "Central Valley",
+     "text": "High-grown arabica."
+    }
+   ],
+   "intro": "Some of the things Costa Rica makes and sells to the world."
+  }
+ ]
+}

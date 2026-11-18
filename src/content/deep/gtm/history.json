@@ -1,0 +1,90 @@
+{
+ "status": "draft",
+ "intro": "Guatemala was the heartland of the ancient Maya, and Maya peoples still make up about half its population.",
+ "chapters": [
+  {
+   "id": "maya",
+   "title": "The Maya",
+   "text": [
+    "The Maya built great cities like Tikal and El Mirador in the rainforest of Petén. They developed writing, astronomy and a calendar with a concept of zero. Tikal's temples rise above the jungle canopy."
+   ],
+   "highlight": {
+    "title": "Tikal",
+    "text": "At its height Tikal may have had 50,000 or more people."
+   },
+   "related": [
+    "MEX",
+    "BLZ",
+    "HND"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Spanish rule",
+   "text": [
+    "Spain conquered the highlands from 1524. Antigua Guatemala was the colonial capital until earthquakes destroyed much of it in 1773; its ruins and churches are a World Heritage site."
+   ],
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and civil war",
+   "text": [
+    "Guatemala became independent in 1821. In 1954 a US-backed coup removed an elected president. A civil war from 1960 to 1996 killed about 200,000 people, mostly Maya civilians. Rigoberta Menchú won the Nobel Peace Prize in 1992 for Indigenous rights. Bernardo Arévalo took office in 2024 after an anti-corruption campaign."
+   ],
+   "related": [
+    "USA",
+    "MEX"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 300 BC",
+   "title": "El Mirador",
+   "text": "A huge Maya city."
+  },
+  {
+   "year": "c. 700",
+   "title": "Tikal's peak",
+   "text": "A Maya superpower."
+  },
+  {
+   "year": "1524",
+   "title": "Spanish conquest",
+   "text": "Pedro de Alvarado arrives."
+  },
+  {
+   "year": "1773",
+   "title": "Earthquake",
+   "text": "Antigua is ruined."
+  },
+  {
+   "year": "1821",
+   "title": "Independence",
+   "text": "15 September."
+  },
+  {
+   "year": "1960",
+   "title": "Civil war",
+   "text": "Until 1996."
+  },
+  {
+   "year": "1992",
+   "title": "Nobel Peace Prize",
+   "text": "Rigoberta Menchú."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Maya",
+   "meaning": "An Indigenous civilisation of Central America."
+  },
+  {
+   "term": "Stela",
+   "meaning": "A carved stone slab."
+  }
+ ]
+}

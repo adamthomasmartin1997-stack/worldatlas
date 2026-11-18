@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Nicaragua is governed by Daniel Ortega and Rosario Murillo, who hold near-total power.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "A 2025 constitutional change made them co-presidents and gave the presidency control over other branches. Opposition parties, independent media and many churches and charities have been shut down."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Managua"
+    },
+    {
+     "label": "Independence",
+     "value": "1821"
+    },
+    {
+     "label": "Leaders",
+     "value": "Daniel Ortega and Rosario Murillo"
+    }
+   ]
+  },
+  {
+   "id": "exile",
+   "title": "Exile",
+   "text": [
+    "Hundreds of critics have been stripped of citizenship and expelled."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Co-president",
+   "meaning": "One of two people sharing the presidency."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Co-presidents",
+     "subtitle": "Ortega and Murillo",
+     "text": "Hold near-total power."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "Dominated by the FSLN",
+     "text": "A single chamber."
+    },
+    {
+     "title": "Caribbean regions",
+     "subtitle": "Two autonomous regions",
+     "text": "Limited self-rule."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "Usually by the presidency."
+   },
+   {
+    "title": "National Assembly",
+    "text": "Approves it."
+   },
+   {
+    "title": "The presidency",
+    "text": "Publishes it as law."
+   }
+  ]
+ }
+}

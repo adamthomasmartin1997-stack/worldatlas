@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "Nicaragua, the largest country in Central America, is a land of lakes and volcanoes with a turbulent political history.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Early peoples",
+   "text": [
+    "The Nicarao people gave the country its name. Footprints at Acahualinca, in Managua, were left about 6,000 years ago."
+   ],
+   "related": [
+    "MEX"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Colonial cities",
+   "text": [
+    "Spain founded Granada and León in 1524; they became rival cities. Nicaragua became independent in 1821. In the 1850s an American adventurer, William Walker, made himself president until he was driven out."
+   ],
+   "related": [
+    "ESP",
+    "USA",
+    "CRI"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Revolution and after",
+   "text": [
+    "The Somoza family ruled from 1937 until the Sandinista revolution of 1979. In the 1980s the US-backed Contras fought the Sandinistas. Daniel Ortega returned to power in 2007; since 2018 protests have been crushed and many critics jailed or exiled. Ortega and his wife Rosario Murillo now rule as co-presidents."
+   ],
+   "related": [
+    "USA",
+    "CRI"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1524",
+   "title": "Granada and León",
+   "text": "Founded."
+  },
+  {
+   "year": "1821",
+   "title": "Independence",
+   "text": "15 September."
+  },
+  {
+   "year": "1856",
+   "title": "William Walker",
+   "text": "Seizes power."
+  },
+  {
+   "year": "1937",
+   "title": "Somoza",
+   "text": "Family rule begins."
+  },
+  {
+   "year": "1979",
+   "title": "Revolution",
+   "text": "The Sandinistas win."
+  },
+  {
+   "year": "1990",
+   "title": "Election",
+   "text": "Violeta Chamorro wins."
+  },
+  {
+   "year": "2018",
+   "title": "Protests",
+   "text": "Crushed by force."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sandinista",
+   "meaning": "Members of the FSLN movement."
+  },
+  {
+   "term": "Contras",
+   "meaning": "Rebels who fought the Sandinistas."
+  }
+ ]
+}

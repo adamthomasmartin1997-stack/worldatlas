@@ -1,0 +1,84 @@
+{
+ "status": "draft",
+ "intro": "Honduras was home to the Maya city of Copán and later became known as a 'banana republic'.",
+ "chapters": [
+  {
+   "id": "copan",
+   "title": "Copán",
+   "text": [
+    "The Maya city of Copán is famous for its carved stelae and the Hieroglyphic Stairway, the longest known Maya text."
+   ],
+   "related": [
+    "GTM",
+    "MEX"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Conquest and independence",
+   "text": [
+    "Columbus reached the coast in 1502. Lempira, an Indigenous leader, resisted the Spanish and is now a national hero; the currency is named after him. Honduras became independent in 1821."
+   ],
+   "highlight": {
+    "title": "Lempira",
+    "text": "The currency and a department are named after this resistance leader."
+   },
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Bananas and politics",
+   "text": [
+    "In the early 1900s US fruit companies controlled much of the land and politics, giving rise to the phrase 'banana republic'. Hurricane Mitch in 1998 killed thousands. A coup removed the president in 2009."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 700",
+   "title": "Copán's peak",
+   "text": "A great Maya city."
+  },
+  {
+   "year": "1502",
+   "title": "Columbus",
+   "text": "Reaches the coast."
+  },
+  {
+   "year": "1537",
+   "title": "Lempira",
+   "text": "Leads resistance."
+  },
+  {
+   "year": "1821",
+   "title": "Independence",
+   "text": "15 September."
+  },
+  {
+   "year": "1969",
+   "title": "Football War",
+   "text": "A short war with El Salvador."
+  },
+  {
+   "year": "1998",
+   "title": "Hurricane Mitch",
+   "text": "Devastating floods."
+  },
+  {
+   "year": "2009",
+   "title": "Coup",
+   "text": "The president is removed."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Banana republic",
+   "meaning": "A country controlled by foreign companies."
+  }
+ ]
+}

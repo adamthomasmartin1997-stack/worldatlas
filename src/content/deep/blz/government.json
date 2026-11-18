@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Belize is a parliamentary democracy with the British monarch as head of state.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "King Charles III is head of state, represented by a governor-general. The prime minister leads the government; Johnny Briceño won a second term in 2025."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Belmopan"
+    },
+    {
+     "label": "Independence",
+     "value": "1981"
+    },
+    {
+     "label": "Language",
+     "value": "English"
+    }
+   ]
+  },
+  {
+   "id": "dispute",
+   "title": "Border dispute",
+   "text": [
+    "Guatemala's claim to Belize is being decided by the International Court of Justice."
+   ],
+   "related": [
+    "GTM"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Commonwealth realm",
+   "meaning": "A country sharing the British monarch."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Governor-General",
+     "subtitle": "Represents the King",
+     "text": "Ceremonial."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Leader of the majority",
+     "text": "Leads the government."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "31 members",
+     "text": "Elected by the people."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "Appointed",
+     "text": "The upper house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In the House."
+   },
+   {
+    "title": "Senate",
+    "text": "Reviews it."
+   },
+   {
+    "title": "Governor-General",
+    "text": "Gives assent."
+   }
+  ]
+ }
+}

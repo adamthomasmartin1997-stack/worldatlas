@@ -1,0 +1,85 @@
+{
+ "status": "draft",
+ "intro": "Panamanian culture mixes Spanish, Indigenous, African and Caribbean influences.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Guna women sew colourful molas, layered cloth panels. The pollera is a beautiful national dress. Rubén Blades is a famous salsa singer."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Sancocho (chicken soup) is the national dish; ceviche and patacones are popular."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mola",
+   "meaning": "A layered cloth panel."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Pedro Navaja",
+     "subtitle": "Rubén Blades, 1978",
+     "text": "A salsa classic."
+    },
+    {
+     "title": "Reggae en español",
+     "subtitle": "Panama",
+     "text": "An early root of reggaeton."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Sancocho",
+     "subtitle": "Everywhere",
+     "text": "Chicken soup."
+    },
+    {
+     "title": "Patacones",
+     "subtitle": "Everywhere",
+     "text": "Fried plantains."
+    },
+    {
+     "title": "Ceviche",
+     "subtitle": "Coast",
+     "text": "Fresh seafood."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Carnival",
+    "text": "Big parades."
+   },
+   {
+    "month": 11,
+    "name": "Independence Day",
+    "text": "3 November."
+   },
+   {
+    "month": 11,
+    "name": "Flag Day",
+    "text": "4 November."
+   }
+  ]
+ }
+}

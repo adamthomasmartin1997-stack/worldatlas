@@ -1,0 +1,79 @@
+{
+ "status": "draft",
+ "intro": "El Salvador is the only Central American country without a Caribbean coast.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Volcanoes and coast",
+   "text": [
+    "Over 20 volcanoes rise across the country, including Santa Ana and Izalco. Lake Coatepeque fills a volcanic crater. The Pacific coast has famous surf at El Tunco and El Zonte."
+   ],
+   "related": [
+    "GTM",
+    "HND"
+   ]
+  },
+  {
+   "id": "quakes",
+   "title": "Earthquakes",
+   "text": [
+    "Earthquakes are frequent; San Salvador is sometimes called the 'valley of hammocks' because the ground sways."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Crater lake",
+   "meaning": "A lake in a volcano's crater."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of El Salvador's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Santa Ana Volcano",
+    "kind": "volcano",
+    "lat": 13.85,
+    "lon": -89.63,
+    "text": "A turquoise crater lake."
+   },
+   {
+    "name": "Joya de Cerén",
+    "kind": "buried village",
+    "lat": 13.83,
+    "lon": -89.37,
+    "text": "The Pompeii of the Americas."
+   },
+   {
+    "name": "Lake Coatepeque",
+    "kind": "crater lake",
+    "lat": 13.86,
+    "lon": -89.55,
+    "text": "A blue lake."
+   },
+   {
+    "name": "San Salvador",
+    "kind": "capital",
+    "lat": 13.69,
+    "lon": -89.19,
+    "text": "Below a volcano."
+   },
+   {
+    "name": "El Tunco",
+    "kind": "surf beach",
+    "lat": 13.49,
+    "lon": -89.38,
+    "text": "Famous waves."
+   },
+   {
+    "name": "Ruta de las Flores",
+    "kind": "mountain towns",
+    "lat": 13.85,
+    "lon": -89.8,
+    "text": "Coffee and flower villages."
+   }
+  ]
+ }
+}

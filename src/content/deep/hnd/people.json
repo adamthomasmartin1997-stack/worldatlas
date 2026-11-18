@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Honduras has about 10 million people, most of them young.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are mestizo. The Garífuna, of mixed African and Indigenous descent, live on the Caribbean coast. Spanish is official."
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Tegucigalpa is the capital; San Pedro Sula is the business centre."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Garífuna",
+   "meaning": "An Afro-Indigenous people of the Caribbean coast."
+  }
+ ]
+}

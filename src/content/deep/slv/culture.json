@@ -1,0 +1,96 @@
+{
+ "status": "draft",
+ "intro": "Salvadoran culture is famous for pupusas and colourful folk art.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "The village of La Palma is known for bright naïf paintings. Poet Roque Dalton is a celebrated writer."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Pupusas",
+   "text": [
+    "Pupusas, thick corn tortillas stuffed with cheese, beans or pork, are the national dish, with a national day in November."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pupusa",
+   "meaning": "A stuffed corn tortilla."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Poemas clandestinos",
+     "subtitle": "1975 · Roque Dalton",
+     "text": "Revolutionary poems."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Cumbia",
+     "subtitle": "Music",
+     "text": "Very popular."
+    },
+    {
+     "title": "Xuc",
+     "subtitle": "Traditional",
+     "text": "The national dance."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Pupusas",
+     "subtitle": "Everywhere",
+     "text": "Stuffed tortillas."
+    },
+    {
+     "title": "Curtido",
+     "subtitle": "Everywhere",
+     "text": "Pickled cabbage."
+    },
+    {
+     "title": "Yuca frita",
+     "subtitle": "Everywhere",
+     "text": "Fried cassava."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 8,
+    "name": "Fiestas Agostinas",
+    "text": "San Salvador's festival."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "15 September."
+   },
+   {
+    "month": 11,
+    "name": "National Pupusa Day",
+    "text": "Second Sunday of November."
+   }
+  ]
+ }
+}

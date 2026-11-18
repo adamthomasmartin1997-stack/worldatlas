@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Nicaragua has about 7 million people, though many have emigrated.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are mestizo; Miskito, Creole and Garífuna communities live on the Caribbean coast. Spanish is official, and English Creole and Miskito are spoken on the coast. Many Nicaraguans have left for Costa Rica and the US."
+   ],
+   "related": [
+    "CRI",
+    "USA"
+   ]
+  },
+  {
+   "id": "managua",
+   "title": "Managua",
+   "text": [
+    "Managua, the capital, was rebuilt after a 1972 earthquake."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Miskito",
+   "meaning": "An Indigenous people of the Caribbean coast."
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "status": "draft",
+ "intro": "Football is Honduras's passion, and the team has played at three World Cups.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Honduras has played at three World Cups. A 1969 qualifying match helped spark the 'Football War' with El Salvador."
+   ],
+   "related": [
+    "SLV"
+   ]
+  },
+  {
+   "id": "players",
+   "title": "Players",
+   "text": [
+    "Players like David Suazo and Wilson Palacios starred in Europe."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Catrachos",
+   "meaning": "A nickname for Hondurans."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Liga Nacional",
+     "subtitle": "Football",
+     "text": "Olimpia and Motagua are rivals."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "David Suazo",
+     "subtitle": "Football",
+     "text": "Played for Inter Milan."
+    },
+    {
+     "title": "Carlos Pavón",
+     "subtitle": "Football",
+     "text": "A record scorer."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Honduras' biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estadio Olímpico Metropolitano",
+    "kind": "venue",
+    "lat": 15.53,
+    "lon": -88.0,
+    "text": "In San Pedro Sula."
+   },
+   {
+    "name": "Estadio Nacional",
+    "kind": "venue",
+    "lat": 14.09,
+    "lon": -87.2,
+    "text": "In Tegucigalpa."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1982",
+    "title": "World Cup",
+    "text": "A first appearance."
+   },
+   {
+    "year": "2010",
+    "title": "World Cup",
+    "text": "A second appearance."
+   }
+  ]
+ }
+}

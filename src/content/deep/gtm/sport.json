@@ -1,0 +1,89 @@
+{
+ "status": "draft",
+ "intro": "Football is Guatemala's favourite sport, and it won its first Olympic gold in 2024.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Carlos Ruiz is one of the top scorers in World Cup qualifying history."
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics",
+   "text": [
+    "Erick Barrondo won Guatemala's first Olympic medal, race walking silver, in 2012. Adriana Ruano won shooting gold in 2024."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Race walking",
+   "meaning": "Walking as fast as possible."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Liga Nacional",
+     "subtitle": "Football",
+     "text": "Comunicaciones and Municipal are rivals."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Carlos Ruiz",
+     "subtitle": "Football",
+     "text": "'El Pescadito', a record scorer."
+    },
+    {
+     "title": "Erick Barrondo",
+     "subtitle": "Race walking",
+     "text": "Olympic silver 2012."
+    },
+    {
+     "title": "Adriana Ruano",
+     "subtitle": "Shooting",
+     "text": "Olympic champion 2024."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Guatemala's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estadio Doroteo Guamuch Flores",
+    "kind": "venue",
+    "lat": 14.62,
+    "lon": -90.51,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2012",
+    "title": "First Olympic medal",
+    "text": "Barrondo's silver."
+   },
+   {
+    "year": "2024",
+    "title": "First Olympic gold",
+    "text": "Ruano in Paris."
+   }
+  ]
+ }
+}

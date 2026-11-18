@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Honduras is a presidential republic with a single-chamber congress.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for four years. Xiomara Castro was the first woman president from 2022. The November 2025 election was very close and disputed, and Nasry Asfura was declared the winner."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Tegucigalpa"
+    },
+    {
+     "label": "Independence",
+     "value": "1821"
+    },
+    {
+     "label": "Departments",
+     "value": "18"
+    }
+   ]
+  },
+  {
+   "id": "security",
+   "title": "Security",
+   "text": [
+    "Gang violence has been a major problem."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Disputed",
+   "meaning": "Challenged or argued over."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 4 years",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "National Congress",
+     "subtitle": "128 members",
+     "text": "A single chamber."
+    },
+    {
+     "title": "Supreme Court",
+     "subtitle": "Judges",
+     "text": "The top court."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By members or the government."
+   },
+   {
+    "title": "Congress",
+    "text": "Debates and passes it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}
