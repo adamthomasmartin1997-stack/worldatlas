@@ -1,0 +1,34 @@
+{
+ "status": "draft",
+ "intro": "Venezuela has about 28 million people, though millions more have left.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most Venezuelans are of mixed European, Indigenous and African descent. Spanish is official. Most people are Catholic.",
+    "Nearly eight million Venezuelans have moved abroad, especially to Colombia, Peru, Brazil, Chile and the United States."
+   ],
+   "related": [
+    "COL",
+    "PER",
+    "BRA",
+    "CHL",
+    "USA"
+   ]
+  },
+  {
+   "id": "caracas",
+   "title": "Caracas",
+   "text": [
+    "Caracas, the capital, lies in a valley below Mount Ávila."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Emigration",
+   "meaning": "Leaving your country to live elsewhere."
+  }
+ ]
+}

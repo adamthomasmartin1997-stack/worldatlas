@@ -1,0 +1,96 @@
+{
+ "status": "draft",
+ "intro": "Venezuela has Caribbean beaches, Andes mountains, vast plains and the tabletop mountains of the Guiana Highlands.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Tepuis and plains",
+   "text": [
+    "Angel Falls, the world's highest uninterrupted waterfall at 979 m, plunges from Auyán-tepui. Flat-topped tepuis rise from the Gran Sabana. The Llanos plains are home to capybaras and anacondas, and the Orinoco River flows to a huge delta.",
+    "Over Lake Maracaibo, the Catatumbo lightning flashes on most nights of the year."
+   ],
+   "related": [
+    "COL",
+    "BRA",
+    "GUY",
+    "TTO"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "It is tropical, cooler in the Andes, with a rainy season from May to November."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tepui",
+   "meaning": "A flat-topped mountain."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Venezuela's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Los Roques",
+    "kind": "coral islands",
+    "lat": 11.85,
+    "lon": -66.75,
+    "text": "Turquoise lagoons."
+   },
+   {
+    "name": "Caracas and Ávila",
+    "kind": "capital and mountain",
+    "lat": 10.5,
+    "lon": -66.9,
+    "text": "A cable car to the peak."
+   },
+   {
+    "name": "Lake Maracaibo",
+    "kind": "lake",
+    "lat": 9.8,
+    "lon": -71.6,
+    "text": "Catatumbo lightning."
+   },
+   {
+    "name": "Mérida",
+    "kind": "Andes",
+    "lat": 8.6,
+    "lon": -71.15,
+    "text": "One of the world's longest, highest cable cars."
+   },
+   {
+    "name": "Los Llanos",
+    "kind": "plains",
+    "lat": 7.8,
+    "lon": -68.5,
+    "text": "Capybaras and caimans."
+   },
+   {
+    "name": "Orinoco Delta",
+    "kind": "delta",
+    "lat": 9.0,
+    "lon": -61.5,
+    "text": "Waterways and stilt houses."
+   },
+   {
+    "name": "Angel Falls",
+    "kind": "waterfall",
+    "lat": 5.97,
+    "lon": -62.54,
+    "text": "The world's highest waterfall."
+   },
+   {
+    "name": "Roraima",
+    "kind": "tepui",
+    "lat": 5.14,
+    "lon": -60.76,
+    "text": "A flat-topped mountain on three borders."
+   }
+  ]
+ }
+}

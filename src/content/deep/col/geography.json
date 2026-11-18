@@ -1,0 +1,110 @@
+{
+ "status": "draft",
+ "intro": "Colombia has Andes mountains, Amazon rainforest, Caribbean beaches and Pacific jungle, and is one of the most biodiverse countries on Earth.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mountains, plains and jungle",
+   "text": [
+    "The Andes split into three ranges running north to south, with the Magdalena River between them. The Llanos are vast eastern grasslands, and the Amazon covers the south-east. The Sierra Nevada de Santa Marta is the world's highest coastal mountain range."
+   ],
+   "related": [
+    "VEN",
+    "BRA",
+    "PER",
+    "ECU",
+    "PAN"
+   ]
+  },
+  {
+   "id": "nature",
+   "title": "Biodiversity",
+   "text": [
+    "Colombia has more bird species than any other country. Caño Cristales is called the 'river of five colours' for its red water plants."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Biodiversity",
+   "meaning": "The variety of living things."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Colombia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Cartagena",
+    "kind": "walled city",
+    "lat": 10.42,
+    "lon": -75.55,
+    "text": "A colonial port on the Caribbean."
+   },
+   {
+    "name": "Sierra Nevada de Santa Marta",
+    "kind": "coastal mountains",
+    "lat": 10.8,
+    "lon": -73.7,
+    "text": "Snowy peaks near the sea."
+   },
+   {
+    "name": "Ciudad Perdida",
+    "kind": "ruins",
+    "lat": 11.04,
+    "lon": -73.93,
+    "text": "The Lost City in the jungle."
+   },
+   {
+    "name": "La Guajira",
+    "kind": "desert",
+    "lat": 12.0,
+    "lon": -71.8,
+    "text": "A desert peninsula."
+   },
+   {
+    "name": "Cocora Valley",
+    "kind": "wax palms",
+    "lat": 4.64,
+    "lon": -75.5,
+    "text": "The world's tallest palms."
+   },
+   {
+    "name": "Bogotá",
+    "kind": "highland capital",
+    "lat": 4.71,
+    "lon": -74.07,
+    "text": "At 2,640 m."
+   },
+   {
+    "name": "Caño Cristales",
+    "kind": "river",
+    "lat": 2.27,
+    "lon": -73.79,
+    "text": "The river of five colours."
+   },
+   {
+    "name": "Amazon at Leticia",
+    "kind": "rainforest",
+    "lat": -4.2,
+    "lon": -69.94,
+    "text": "Where three countries meet."
+   },
+   {
+    "name": "Tatacoa Desert",
+    "kind": "desert",
+    "lat": 3.23,
+    "lon": -75.17,
+    "text": "Red and grey canyons."
+   },
+   {
+    "name": "Pacific coast",
+    "kind": "jungle coast",
+    "lat": 6.2,
+    "lon": -77.4,
+    "text": "Humpback whales."
+   }
+  ]
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "status": "draft",
+ "intro": "Colombia is a presidential republic with one of Latin America's longest traditions of elections.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for a single four-year term. Congress has a Senate and a House. Gustavo Petro became the first left-wing president in 2022. The 2026 election chose his successor."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Bogotá"
+    },
+    {
+     "label": "Independence",
+     "value": "1810 (declared)"
+    },
+    {
+     "label": "Departments",
+     "value": "32"
+    }
+   ]
+  },
+  {
+   "id": "peace",
+   "title": "Building peace",
+   "text": [
+    "A special court tries crimes from the conflict, and former fighters have seats in Congress."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Department",
+   "meaning": "A Colombian region."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for one 4-year term",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "108 members",
+     "text": "Elected nationwide."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "Over 180 members",
+     "text": "Elected by department."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "Judges",
+     "text": "Protects rights."
+    },
+    {
+     "title": "Departments",
+     "subtitle": "32 departments",
+     "text": "Each with a governor."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is filed",
+    "text": "In either chamber."
+   },
+   {
+    "title": "Committees and plenaries",
+    "text": "Four debates in total."
+   },
+   {
+    "title": "Reconciliation",
+    "text": "Differences settled."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it or objects."
+   }
+  ]
+ }
+}

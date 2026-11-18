@@ -1,0 +1,106 @@
+{
+ "status": "draft",
+ "intro": "Chile is a long, thin country along South America's Pacific coast, home to the world's oldest mummies and a famous return to democracy.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Early peoples",
+   "text": [
+    "The Chinchorro people made mummies about 7,000 years ago, earlier than the Egyptians. Monte Verde is one of the oldest human settlements in the Americas. The Rapa Nui people carved the giant moai statues on Easter Island."
+   ],
+   "related": [
+    "PER",
+    "EGY"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Spanish conquest and the Mapuche",
+   "text": [
+    "The Inca reached central Chile. Spain founded Santiago in 1541, but the Mapuche resisted in the south for over 300 years, one of the longest Indigenous resistances in the Americas."
+   ],
+   "highlight": {
+    "title": "Mapuche",
+    "text": "The Mapuche kept their independence south of the Biobío River until the 1880s."
+   },
+   "related": [
+    "ESP",
+    "PER"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence and growth",
+   "text": [
+    "Bernardo O'Higgins and José de San Martín led Chile to independence in 1818. Chile won the War of the Pacific (1879 to 1884) against Peru and Bolivia, taking nitrate-rich land and leaving Bolivia without a coast."
+   ],
+   "related": [
+    "ARG",
+    "PER",
+    "BOL"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Coup and democracy",
+   "text": [
+    "In 1973 General Augusto Pinochet overthrew the elected socialist president Salvador Allende. His dictatorship killed or 'disappeared' thousands until a 1988 referendum voted 'No' to his rule. Democracy returned in 1990. Big protests in 2019 led to two attempts to write a new constitution, both rejected by voters."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 5000 BC",
+   "title": "Chinchorro mummies",
+   "text": "The world's oldest."
+  },
+  {
+   "year": "1541",
+   "title": "Santiago",
+   "text": "Founded by Pedro de Valdivia."
+  },
+  {
+   "year": "1818",
+   "title": "Independence",
+   "text": "Declared."
+  },
+  {
+   "year": "1879",
+   "title": "War of the Pacific",
+   "text": "Against Peru and Bolivia."
+  },
+  {
+   "year": "1960",
+   "title": "Valdivia earthquake",
+   "text": "The strongest ever recorded."
+  },
+  {
+   "year": "1973",
+   "title": "Coup",
+   "text": "Pinochet takes power."
+  },
+  {
+   "year": "1990",
+   "title": "Democracy",
+   "text": "Returns."
+  },
+  {
+   "year": "2010",
+   "title": "Miners rescued",
+   "text": "33 trapped miners saved."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Moai",
+   "meaning": "Giant stone statues on Easter Island."
+  },
+  {
+   "term": "Disappeared",
+   "meaning": "People secretly taken and killed by a regime."
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "status": "draft",
+ "intro": "Colombian culture is famous for magical realism, cumbia and vallenato music, and reggaeton stars.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Gabriel García Márquez won the Nobel Prize for Literature in 1982. Fernando Botero painted famously rounded figures. Shakira, Karol G, J Balvin and Carlos Vives are global stars."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Bandeja paisa, arepas, ajiaco soup and fresh tropical fruit juices are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Magical realism",
+   "meaning": "Stories mixing everyday life and magic."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Embrace of the Serpent",
+     "subtitle": "2015 · Ciro Guerra",
+     "text": "An Amazon journey; Oscar-nominated."
+    },
+    {
+     "title": "The Wind Journeys",
+     "subtitle": "2009 · Ciro Guerra",
+     "text": "A musician travels with his accordion."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "One Hundred Years of Solitude",
+     "subtitle": "1967 · Gabriel García Márquez",
+     "text": "The Buendía family in Macondo."
+    },
+    {
+     "title": "Love in the Time of Cholera",
+     "subtitle": "1985 · Gabriel García Márquez",
+     "text": "A lifelong love story."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Hips Don't Lie",
+     "subtitle": "Shakira, 2006",
+     "text": "A worldwide number one."
+    },
+    {
+     "title": "La Gota Fría",
+     "subtitle": "Carlos Vives, 1993",
+     "text": "A vallenato hit."
+    },
+    {
+     "title": "Cumbia",
+     "subtitle": "Traditional",
+     "text": "Colombia's signature rhythm."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Bandeja paisa",
+     "subtitle": "Medellín",
+     "text": "Beans, rice, meat, egg and plantain."
+    },
+    {
+     "title": "Arepas",
+     "subtitle": "Everywhere",
+     "text": "Corn cakes."
+    },
+    {
+     "title": "Ajiaco",
+     "subtitle": "Bogotá",
+     "text": "Chicken and potato soup."
+    },
+    {
+     "title": "Empanadas",
+     "subtitle": "Everywhere",
+     "text": "Fried pastries."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Carnival of Blacks and Whites",
+    "text": "In Pasto."
+   },
+   {
+    "month": 2,
+    "name": "Barranquilla Carnival",
+    "text": "One of the world's biggest."
+   },
+   {
+    "month": 8,
+    "name": "Flower Festival",
+    "text": "Medellín's flower parade."
+   },
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "20 July."
+   }
+  ]
+ }
+}

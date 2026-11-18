@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Peru has about 34 million people, with a large Indigenous population.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Spanish, Quechua and Aymara are official. Many Peruvians are of Indigenous or mixed descent. Most people are Catholic, often mixed with Andean traditions."
+   ],
+   "related": [
+    "BOL",
+    "ESP"
+   ]
+  },
+  {
+   "id": "lima",
+   "title": "Lima",
+   "text": [
+    "Lima, the capital, holds about a third of all Peruvians."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Quechua",
+   "meaning": "The language of the Inca, still spoken by millions."
+  }
+ ]
+}

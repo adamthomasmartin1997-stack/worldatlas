@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Ecuador is the world's biggest banana exporter and also sells oil, shrimp and flowers.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Bananas, shrimp, cocoa, roses and oil are top exports. In 2023 voters chose to stop oil drilling in part of Yasuní National Park."
+   ],
+   "related": [
+    "USA",
+    "CHN",
+    "RUS"
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Galápagos tourism is strictly limited to protect wildlife."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dollarisation",
+   "meaning": "Using the US dollar as the national currency."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Ecuador",
+   "items": [
+    {
+     "title": "Bananas",
+     "subtitle": "Coast",
+     "text": "The world's top exporter."
+    },
+    {
+     "title": "Shrimp",
+     "subtitle": "Coast",
+     "text": "A big export."
+    },
+    {
+     "title": "Cocoa",
+     "subtitle": "Coast",
+     "text": "Fine aroma cacao."
+    },
+    {
+     "title": "Roses",
+     "subtitle": "Highlands",
+     "text": "Long-stemmed roses."
+    },
+    {
+     "title": "Oil",
+     "subtitle": "Amazon",
+     "text": "A major export."
+    }
+   ],
+   "intro": "Some of the things Ecuador makes and sells to the world."
+  }
+ ]
+}

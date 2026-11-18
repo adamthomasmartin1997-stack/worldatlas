@@ -1,0 +1,106 @@
+{
+ "status": "draft",
+ "intro": "Venezuelan culture is known for its music, beauty pageants and arepas.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "El Sistema",
+   "text": [
+    "El Sistema, a free music programme founded in 1975, has taught hundreds of thousands of children; conductor Gustavo Dudamel is its most famous graduate. Joropo, played with harp and cuatro, is the national music."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Arepas, pabellón criollo (shredded beef, beans, rice and plantain) and hallacas at Christmas are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cuatro",
+   "meaning": "A small four-string guitar."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Doña Bárbara",
+     "subtitle": "1929 · Rómulo Gallegos",
+     "text": "A classic of the plains."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Alma Llanera",
+     "subtitle": "1914",
+     "text": "An unofficial anthem."
+    },
+    {
+     "title": "Gustavo Dudamel",
+     "subtitle": "Conductor",
+     "text": "A product of El Sistema."
+    },
+    {
+     "title": "Joropo",
+     "subtitle": "Traditional",
+     "text": "Harp music of the plains."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Arepas",
+     "subtitle": "Everywhere",
+     "text": "Corn cakes with fillings."
+    },
+    {
+     "title": "Pabellón criollo",
+     "subtitle": "Everywhere",
+     "text": "The national dish."
+    },
+    {
+     "title": "Hallacas",
+     "subtitle": "Christmas",
+     "text": "Corn dough parcels in banana leaves."
+    },
+    {
+     "title": "Cachapas",
+     "subtitle": "Everywhere",
+     "text": "Sweet corn pancakes."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Carnival",
+    "text": "Parades in El Callao."
+   },
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "5 July."
+   },
+   {
+    "month": 12,
+    "name": "Christmas",
+    "text": "Gaitas music and hallacas."
+   }
+  ]
+ }
+}

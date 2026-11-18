@@ -1,0 +1,139 @@
+{
+ "status": "draft",
+ "intro": "Football and cycling are Colombia's sporting passions.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Colombia won the Copa América in 2001. James Rodríguez won the Golden Boot at the 2014 World Cup, and Luis Díaz stars in Europe."
+   ],
+   "related": [
+    "BRA"
+   ]
+  },
+  {
+   "id": "cycling",
+   "title": "Cycling",
+   "text": [
+    "Egan Bernal won the Tour de France in 2019, the first Latin American winner. Caterine Ibargüen won Olympic triple jump gold in 2016."
+   ],
+   "related": [
+    "FRA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Golden Boot",
+   "meaning": "The prize for the top scorer."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Liga BetPlay",
+     "subtitle": "Football",
+     "text": "Atlético Nacional and Millonarios are giants."
+    },
+    {
+     "title": "Tour Colombia",
+     "subtitle": "Cycling",
+     "text": "A mountain stage race."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Carlos Valderrama",
+     "subtitle": "Football",
+     "text": "The curly-haired playmaker."
+    },
+    {
+     "title": "James Rodríguez",
+     "subtitle": "Football",
+     "text": "2014 World Cup top scorer."
+    },
+    {
+     "title": "Egan Bernal",
+     "subtitle": "Cycling",
+     "text": "Tour de France winner 2019."
+    },
+    {
+     "title": "Mariana Pajón",
+     "subtitle": "BMX",
+     "text": "Two Olympic golds."
+    },
+    {
+     "title": "Caterine Ibargüen",
+     "subtitle": "Triple jump",
+     "text": "Olympic champion 2016."
+    },
+    {
+     "title": "Luis Díaz",
+     "subtitle": "Football",
+     "text": "A Liverpool and Bayern winger."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Colombia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "El Campín, Bogotá",
+    "kind": "venue",
+    "lat": 4.65,
+    "lon": -74.08,
+    "text": "A historic stadium."
+   },
+   {
+    "name": "Estadio Metropolitano, Barranquilla",
+    "kind": "venue",
+    "lat": 10.93,
+    "lon": -74.8,
+    "text": "Home of the national team."
+   },
+   {
+    "name": "Alto de Letras",
+    "kind": "venue",
+    "lat": 5.05,
+    "lon": -75.25,
+    "text": "One of cycling's longest climbs."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2001",
+    "title": "Copa América",
+    "text": "A first title, at home."
+   },
+   {
+    "year": "2012",
+    "title": "Pajón gold",
+    "text": "BMX in London."
+   },
+   {
+    "year": "2014",
+    "title": "World Cup quarter-final",
+    "text": "James's Golden Boot."
+   },
+   {
+    "year": "2019",
+    "title": "Tour de France",
+    "text": "Bernal wins."
+   }
+  ]
+ }
+}

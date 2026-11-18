@@ -1,0 +1,93 @@
+{
+ "status": "draft",
+ "intro": "Chile is a presidential democracy that returned to free elections in 1990.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for four years and cannot serve two terms in a row. Congress has a Senate and a Chamber of Deputies. José Antonio Kast won the 2025 election and took office in March 2026."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Santiago"
+    },
+    {
+     "label": "Independence",
+     "value": "1818"
+    },
+    {
+     "label": "Regions",
+     "value": "16"
+    }
+   ]
+  },
+  {
+   "id": "easter",
+   "title": "Easter Island",
+   "text": [
+    "Easter Island (Rapa Nui) is a special territory 3,700 km offshore."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Consecutive",
+   "meaning": "One after another."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 4 years",
+     "text": "No back-to-back terms."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "50 members",
+     "text": "The upper house."
+    },
+    {
+     "title": "Chamber of Deputies",
+     "subtitle": "155 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "Judges",
+     "text": "Checks laws."
+    },
+    {
+     "title": "Regions",
+     "subtitle": "16 regions",
+     "text": "Elected governors."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In either chamber."
+   },
+   {
+    "title": "Both chambers",
+    "text": "Debate and pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it or vetoes it."
+   }
+  ]
+ }
+}

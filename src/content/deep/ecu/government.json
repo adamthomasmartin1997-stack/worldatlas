@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Ecuador is a presidential republic facing a fight against drug gangs.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for four years. The National Assembly has a single chamber. Daniel Noboa was re-elected in 2025 and has used the army against gangs."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Quito"
+    },
+    {
+     "label": "Independence",
+     "value": "1822"
+    },
+    {
+     "label": "Currency",
+     "value": "US dollar"
+    }
+   ]
+  },
+  {
+   "id": "rights",
+   "title": "Nature's rights",
+   "text": [
+    "In 2008 Ecuador became the first country to give nature rights in its constitution."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "State of emergency",
+   "meaning": "Special powers in a crisis."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 4 years",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Vice President",
+     "subtitle": "Elected with the President",
+     "text": "Second in command."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "151 members",
+     "text": "A single chamber."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "Judges",
+     "text": "Checks laws."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By members, the president or citizens."
+   },
+   {
+    "title": "Two debates",
+    "text": "In the National Assembly."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it or objects."
+   }
+  ]
+ }
+}

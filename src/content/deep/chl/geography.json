@@ -1,0 +1,102 @@
+{
+ "status": "draft",
+ "intro": "Chile stretches about 4,300 km from the driest desert on Earth to the glaciers of Patagonia, but averages only 177 km wide.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "A ribbon of land",
+   "text": [
+    "The Atacama Desert in the north has places where rain has almost never been recorded. Central Chile has a Mediterranean climate and vineyards. The south has lakes, volcanoes, fjords and the Torres del Paine mountains.",
+    "Ojos del Salado, on the border with Argentina, is the highest volcano in the world."
+   ],
+   "related": [
+    "ARG",
+    "PER",
+    "BOL"
+   ]
+  },
+  {
+   "id": "quakes",
+   "title": "Earthquakes",
+   "text": [
+    "The 1960 Valdivia earthquake, magnitude 9.5, was the strongest ever recorded."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Fjord",
+   "meaning": "A long sea inlet between cliffs."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Chile's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Atacama Desert",
+    "kind": "desert",
+    "lat": -23.5,
+    "lon": -68.5,
+    "text": "The driest non-polar desert."
+   },
+   {
+    "name": "Valley of the Moon",
+    "kind": "desert valley",
+    "lat": -22.93,
+    "lon": -68.28,
+    "text": "Salt and sand formations."
+   },
+   {
+    "name": "Ojos del Salado",
+    "kind": "volcano",
+    "lat": -27.11,
+    "lon": -68.54,
+    "text": "The highest volcano on Earth."
+   },
+   {
+    "name": "Valparaíso",
+    "kind": "port city",
+    "lat": -33.05,
+    "lon": -71.62,
+    "text": "Colourful hills and funiculars."
+   },
+   {
+    "name": "Santiago",
+    "kind": "capital",
+    "lat": -33.45,
+    "lon": -70.67,
+    "text": "Below the Andes."
+   },
+   {
+    "name": "Villarrica",
+    "kind": "volcano",
+    "lat": -39.42,
+    "lon": -71.93,
+    "text": "An active volcano with a lava lake."
+   },
+   {
+    "name": "Chiloé",
+    "kind": "island",
+    "lat": -42.6,
+    "lon": -73.9,
+    "text": "Wooden churches."
+   },
+   {
+    "name": "Torres del Paine",
+    "kind": "granite towers",
+    "lat": -51.0,
+    "lon": -73.0,
+    "text": "Patagonia's famous peaks."
+   },
+   {
+    "name": "Easter Island",
+    "kind": "remote island",
+    "lat": -27.12,
+    "lon": -109.35,
+    "text": "The moai statues."
+   }
+  ]
+ }
+}

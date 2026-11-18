@@ -1,0 +1,115 @@
+{
+ "status": "draft",
+ "intro": "Peru was the heart of the Inca Empire, the largest empire in the Americas, and home to civilisations thousands of years older.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Early civilisations",
+   "text": [
+    "Caral, built about 5,000 years ago, is one of the oldest cities in the Americas. Later the Chavín, Paracas, Moche and Nazca cultures flourished; the Nazca drew giant lines in the desert showing animals and shapes.",
+    "The Chimú built Chan Chan, the largest adobe city in the Americas."
+   ],
+   "related": [
+    "BOL",
+    "ECU"
+   ]
+  },
+  {
+   "id": "inca",
+   "title": "The Inca Empire",
+   "text": [
+    "From Cusco, the Inca built an empire stretching from Ecuador to Chile by the 1500s, linked by 40,000 km of roads. They had no writing as we know it but kept records with knotted strings called quipu. Machu Picchu was built around 1450."
+   ],
+   "highlight": {
+    "title": "Machu Picchu",
+    "text": "The mountain citadel was never found by the Spanish and became famous worldwide after 1911."
+   },
+   "related": [
+    "ECU",
+    "BOL",
+    "CHL",
+    "ARG",
+    "COL"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Spanish conquest",
+   "text": [
+    "Francisco Pizarro captured the Inca emperor Atahualpa in 1532. Lima became the capital of a viceroyalty that ruled most of Spanish South America, and silver made Spain rich. Túpac Amaru II led a great uprising in 1780."
+   ],
+   "related": [
+    "ESP",
+    "BOL"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and after",
+   "text": [
+    "José de San Martín declared independence in 1821, and Simón Bolívar's armies secured it in 1824. In the 1980s and 1990s the Shining Path insurgency and the state's response killed about 70,000 people. Peru has had many presidents removed or jailed in recent years."
+   ],
+   "related": [
+    "ARG",
+    "VEN",
+    "CHL"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 2600 BC",
+   "title": "Caral",
+   "text": "An early city."
+  },
+  {
+   "year": "c. 500",
+   "title": "Nazca Lines",
+   "text": "Drawn in the desert."
+  },
+  {
+   "year": "1438",
+   "title": "Inca Empire",
+   "text": "Pachacuti expands it."
+  },
+  {
+   "year": "c. 1450",
+   "title": "Machu Picchu",
+   "text": "Built."
+  },
+  {
+   "year": "1532",
+   "title": "Pizarro",
+   "text": "Captures Atahualpa."
+  },
+  {
+   "year": "1821",
+   "title": "Independence",
+   "text": "Declared in Lima."
+  },
+  {
+   "year": "1911",
+   "title": "Machu Picchu",
+   "text": "Becomes known worldwide."
+  },
+  {
+   "year": "1980",
+   "title": "Shining Path",
+   "text": "Insurgency begins."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Quipu",
+   "meaning": "Knotted strings used by the Inca to record information."
+  },
+  {
+   "term": "Viceroyalty",
+   "meaning": "A huge Spanish colonial territory."
+  },
+  {
+   "term": "Adobe",
+   "meaning": "Sun-dried mud brick."
+  }
+ ]
+}

@@ -1,0 +1,111 @@
+{
+ "status": "draft",
+ "intro": "Peru has three regions: a desert coast, the high Andes and the Amazon rainforest, which covers about 60% of the country.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Coast, mountains and jungle",
+   "text": [
+    "The coast is desert, kept dry by the cold Humboldt Current. The Andes include Huascarán, Peru's highest peak, and the Colca Canyon, one of the deepest in the world. Lake Titicaca, shared with Bolivia, is the highest navigable lake.",
+    "The Amazon River begins in the Peruvian Andes."
+   ],
+   "related": [
+    "BOL",
+    "ECU",
+    "COL",
+    "BRA",
+    "CHL"
+   ]
+  },
+  {
+   "id": "ocean",
+   "title": "El Niño",
+   "text": [
+    "The El Niño weather pattern, which affects climates worldwide, was first named by Peruvian fishermen."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "El Niño",
+   "meaning": "A warming of Pacific waters that changes weather."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Peru's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Máncora",
+    "kind": "beach",
+    "lat": -4.1,
+    "lon": -81.05,
+    "text": "Surf beaches in the north."
+   },
+   {
+    "name": "Chan Chan",
+    "kind": "adobe city",
+    "lat": -8.11,
+    "lon": -79.07,
+    "text": "The largest mud city in the Americas."
+   },
+   {
+    "name": "Huascarán",
+    "kind": "mountain",
+    "lat": -9.12,
+    "lon": -77.6,
+    "text": "Peru's highest peak."
+   },
+   {
+    "name": "Lima",
+    "kind": "capital",
+    "lat": -12.05,
+    "lon": -77.04,
+    "text": "On desert cliffs above the Pacific."
+   },
+   {
+    "name": "Nazca Lines",
+    "kind": "desert drawings",
+    "lat": -14.73,
+    "lon": -75.13,
+    "text": "Giant figures in the desert."
+   },
+   {
+    "name": "Machu Picchu",
+    "kind": "Inca citadel",
+    "lat": -13.16,
+    "lon": -72.55,
+    "text": "A citadel in the clouds."
+   },
+   {
+    "name": "Rainbow Mountain",
+    "kind": "coloured hills",
+    "lat": -13.87,
+    "lon": -71.3,
+    "text": "Striped mountains."
+   },
+   {
+    "name": "Colca Canyon",
+    "kind": "canyon",
+    "lat": -15.6,
+    "lon": -71.9,
+    "text": "Condors soar here."
+   },
+   {
+    "name": "Lake Titicaca",
+    "kind": "high lake",
+    "lat": -15.8,
+    "lon": -69.6,
+    "text": "Floating reed islands."
+   },
+   {
+    "name": "Manú",
+    "kind": "rainforest",
+    "lat": -12.0,
+    "lon": -71.5,
+    "text": "Amazon wildlife."
+   }
+  ]
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "status": "draft",
+ "intro": "Ecuador packs coast, Andes volcanoes, Amazon rainforest and the Galápagos into a small country.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Avenue of the Volcanoes",
+   "text": [
+    "Two lines of volcanoes run through the Andes, including Cotopaxi and Chimborazo. Because of the Earth's bulge at the equator, Chimborazo's summit is the farthest point from the centre of the Earth.",
+    "East of the Andes lies the Amazon; west, the coast and Guayaquil."
+   ],
+   "related": [
+    "COL",
+    "PER"
+   ]
+  },
+  {
+   "id": "galapagos",
+   "title": "The Galápagos",
+   "text": [
+    "About 1,000 km offshore, the Galápagos have giant tortoises, marine iguanas and blue-footed boobies found nowhere else."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Volcano",
+   "meaning": "A mountain formed by eruptions."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Ecuador's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Otavalo",
+    "kind": "market town",
+    "lat": 0.23,
+    "lon": -78.26,
+    "text": "A famous craft market."
+   },
+   {
+    "name": "Mitad del Mundo",
+    "kind": "equator",
+    "lat": -0.002,
+    "lon": -78.45,
+    "text": "The middle of the world."
+   },
+   {
+    "name": "Quito",
+    "kind": "capital",
+    "lat": -0.18,
+    "lon": -78.47,
+    "text": "An old colonial centre."
+   },
+   {
+    "name": "Cotopaxi",
+    "kind": "volcano",
+    "lat": -0.68,
+    "lon": -78.44,
+    "text": "A snow-capped cone."
+   },
+   {
+    "name": "Baños",
+    "kind": "waterfalls",
+    "lat": -1.4,
+    "lon": -78.42,
+    "text": "The Swing at the End of the World."
+   },
+   {
+    "name": "Chimborazo",
+    "kind": "volcano",
+    "lat": -1.47,
+    "lon": -78.82,
+    "text": "The farthest point from Earth's centre."
+   },
+   {
+    "name": "Yasuní",
+    "kind": "rainforest",
+    "lat": -1.0,
+    "lon": -76.0,
+    "text": "One of the most biodiverse places."
+   },
+   {
+    "name": "Galápagos",
+    "kind": "islands",
+    "lat": -0.8,
+    "lon": -91.0,
+    "text": "Giant tortoises."
+   },
+   {
+    "name": "Guayaquil",
+    "kind": "port city",
+    "lat": -2.17,
+    "lon": -79.92,
+    "text": "Ecuador's biggest city."
+   }
+  ]
+ }
+}

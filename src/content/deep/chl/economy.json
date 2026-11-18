@@ -1,0 +1,67 @@
+{
+ "status": "draft",
+ "intro": "Chile is the world's biggest copper producer and one of Latin America's richest economies.",
+ "chapters": [
+  {
+   "id": "mining",
+   "title": "Copper and lithium",
+   "text": [
+    "Chile produces about a quarter of the world's copper, from mines like Escondida. It is also a top lithium producer for batteries."
+   ],
+   "related": [
+    "CHN"
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Fruit and fish",
+   "text": [
+    "Chile exports salmon, cherries, grapes and wine."
+   ],
+   "related": [
+    "CHN",
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lithium",
+   "meaning": "A light metal used in batteries."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Chile",
+   "items": [
+    {
+     "title": "Copper",
+     "subtitle": "Escondida",
+     "text": "The world's top producer."
+    },
+    {
+     "title": "Lithium",
+     "subtitle": "Atacama salt flats",
+     "text": "For batteries."
+    },
+    {
+     "title": "Salmon",
+     "subtitle": "Southern fjords",
+     "text": "Farmed salmon."
+    },
+    {
+     "title": "Wine",
+     "subtitle": "Central valley",
+     "text": "Carménère and more."
+    },
+    {
+     "title": "Cherries",
+     "subtitle": "Central Chile",
+     "text": "Sold to China."
+    }
+   ],
+   "intro": "Some of the things Chile makes and sells to the world."
+  }
+ ]
+}

@@ -1,0 +1,127 @@
+{
+ "status": "draft",
+ "intro": "Chile is a land of poets, with two Nobel Prize winners for literature.",
+ "chapters": [
+  {
+   "id": "poets",
+   "title": "Poets",
+   "text": [
+    "Gabriela Mistral was the first Latin American Nobel winner in literature, in 1945, and Pablo Neruda won in 1971. Isabel Allende is one of the most read Spanish-language novelists."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Empanadas de pino, pastel de choclo (corn pie) and completos (loaded hot dogs) are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cueca",
+   "meaning": "Chile's national dance."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "No",
+     "subtitle": "2012 · Pablo Larraín",
+     "text": "The 1988 referendum; Oscar-nominated."
+    },
+    {
+     "title": "A Fantastic Woman",
+     "subtitle": "2017 · Sebastián Lelio",
+     "text": "Won an Oscar."
+    },
+    {
+     "title": "Bear Story",
+     "subtitle": "2014 · Gabriel Osorio",
+     "text": "An animated short; won an Oscar."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Twenty Love Poems and a Song of Despair",
+     "subtitle": "1924 · Pablo Neruda",
+     "text": "Famous love poems."
+    },
+    {
+     "title": "The House of the Spirits",
+     "subtitle": "1982 · Isabel Allende",
+     "text": "A family saga."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Gracias a la vida",
+     "subtitle": "Violeta Parra, 1966",
+     "text": "A song of thanks to life."
+    },
+    {
+     "title": "Víctor Jara",
+     "subtitle": "Singer",
+     "text": "A folk singer killed after the coup."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Empanada de pino",
+     "subtitle": "Everywhere",
+     "text": "Beef, onion, egg and olive."
+    },
+    {
+     "title": "Pastel de choclo",
+     "subtitle": "Everywhere",
+     "text": "Sweetcorn pie over minced beef."
+    },
+    {
+     "title": "Completo",
+     "subtitle": "Street food",
+     "text": "A loaded hot dog."
+    },
+    {
+     "title": "Curanto",
+     "subtitle": "Chiloé",
+     "text": "Seafood cooked in a pit."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Tapati Rapa Nui",
+    "text": "Easter Island's festival."
+   },
+   {
+    "month": 9,
+    "name": "Fiestas Patrias",
+    "text": "18–19 September, with cueca dancing."
+   },
+   {
+    "month": 2,
+    "name": "Viña del Mar Festival",
+    "text": "A big music festival."
+   }
+  ]
+ }
+}

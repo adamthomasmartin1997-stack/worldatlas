@@ -1,0 +1,124 @@
+{
+ "status": "draft",
+ "intro": "Football is Ecuador's favourite sport, and its walkers and cyclists have won Olympic golds.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Ecuador has played at several World Cups, and Moisés Caicedo stars in the Premier League."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics",
+   "text": [
+    "Jefferson Pérez won race walking gold in 1996, Richard Carapaz the road race in 2021, and Daniel Pintado race walking gold in 2024."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Race walking",
+   "meaning": "Racing while keeping one foot on the ground."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "LigaPro",
+     "subtitle": "Football",
+     "text": "Barcelona SC and LDU Quito are giants."
+    },
+    {
+     "title": "Copa Libertadores",
+     "subtitle": "Football",
+     "text": "LDU Quito won in 2008."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Jefferson Pérez",
+     "subtitle": "Race walking",
+     "text": "Olympic champion 1996."
+    },
+    {
+     "title": "Richard Carapaz",
+     "subtitle": "Cycling",
+     "text": "Olympic champion and Giro winner."
+    },
+    {
+     "title": "Antonio Valencia",
+     "subtitle": "Football",
+     "text": "Manchester United captain."
+    },
+    {
+     "title": "Moisés Caicedo",
+     "subtitle": "Football",
+     "text": "A Chelsea midfielder."
+    },
+    {
+     "title": "Neisi Dajomes",
+     "subtitle": "Weightlifting",
+     "text": "Olympic champion 2021."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Ecuador's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estadio Rodrigo Paz Delgado",
+    "kind": "venue",
+    "lat": -0.11,
+    "lon": -78.49,
+    "text": "Home of LDU Quito."
+   },
+   {
+    "name": "Estadio Monumental, Guayaquil",
+    "kind": "venue",
+    "lat": -2.18,
+    "lon": -79.92,
+    "text": "Home of Barcelona SC."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1996",
+    "title": "Olympic gold",
+    "text": "Pérez in Atlanta."
+   },
+   {
+    "year": "2008",
+    "title": "Copa Libertadores",
+    "text": "LDU Quito win."
+   },
+   {
+    "year": "2021",
+    "title": "Olympic golds",
+    "text": "Carapaz and Dajomes."
+   },
+   {
+    "year": "2024",
+    "title": "Pintado gold",
+    "text": "Race walking in Paris."
+   }
+  ]
+ }
+}

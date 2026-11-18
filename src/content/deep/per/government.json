@@ -1,0 +1,97 @@
+{
+ "status": "draft",
+ "intro": "Peru is a presidential republic that has seen frequent political crises.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for five years. Congress can remove a president for 'moral incapacity', and it has done so several times. Elections were held in 2026."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Lima"
+    },
+    {
+     "label": "Independence",
+     "value": "1821"
+    },
+    {
+     "label": "Languages",
+     "value": "Spanish, Quechua, Aymara"
+    }
+   ]
+  },
+  {
+   "id": "congress",
+   "title": "Congress",
+   "text": [
+    "From 2026 Congress has two chambers again, a Senate and a Chamber of Deputies."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Impeachment",
+   "meaning": "Removing a leader from office."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 5 years",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "President of the Council",
+     "text": "Leads the cabinet."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "60 members",
+     "text": "Restored in 2026."
+    },
+    {
+     "title": "Chamber of Deputies",
+     "subtitle": "130 members",
+     "text": "Can start removing a president."
+    },
+    {
+     "title": "Regions",
+     "subtitle": "25 regions",
+     "text": "Elected governments."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By members or the government."
+   },
+   {
+    "title": "Committee",
+    "text": "Studies it."
+   },
+   {
+    "title": "Congress",
+    "text": "Votes on it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it or sends it back."
+   }
+  ]
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Venezuela has the world's largest proven oil reserves, but its economy shrank dramatically.",
+ "chapters": [
+  {
+   "id": "oil",
+   "title": "Oil",
+   "text": [
+    "Most reserves are heavy oil in the Orinoco Belt. Output fell sharply due to mismanagement and sanctions. Inflation reached millions of per cent around 2018."
+   ],
+   "related": [
+    "USA",
+    "CHN"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other resources",
+   "text": [
+    "Venezuela also has gold, iron ore and cocoa, prized by chocolate makers."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sanctions",
+   "meaning": "Penalties that limit trade."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Venezuela",
+   "items": [
+    {
+     "title": "Oil",
+     "subtitle": "Orinoco Belt",
+     "text": "The world's largest reserves."
+    },
+    {
+     "title": "Gold",
+     "subtitle": "South",
+     "text": "Often mined illegally."
+    },
+    {
+     "title": "Cocoa",
+     "subtitle": "Coast",
+     "text": "Fine cacao."
+    },
+    {
+     "title": "Iron ore",
+     "subtitle": "Guayana",
+     "text": "Mined in the south."
+    }
+   ],
+   "intro": "Some of the things Venezuela makes and sells to the world."
+  }
+ ]
+}

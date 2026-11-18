@@ -1,0 +1,112 @@
+{
+ "status": "draft",
+ "intro": "Ecuadorian culture mixes Andean, Spanish and Afro-Ecuadorian traditions.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Otavalo's market sells weavings famous across the continent. The 'Panama hat' is actually made in Ecuador, woven from toquilla straw."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Ceviche, locro de papa (potato soup), encebollado (fish soup) and cuy (guinea pig) in the highlands are traditional."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Toquilla straw",
+   "meaning": "Palm fibre used to weave hats."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Qué tan lejos",
+     "subtitle": "2006 · Tania Hermida",
+     "text": "A road trip across Ecuador."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Huasipungo",
+     "subtitle": "1934 · Jorge Icaza",
+     "text": "Indigenous life on haciendas."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Pasillo",
+     "subtitle": "Traditional",
+     "text": "Romantic national music."
+    },
+    {
+     "title": "Julio Jaramillo",
+     "subtitle": "Singer",
+     "text": "The 'nightingale of America'."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Encebollado",
+     "subtitle": "Coast",
+     "text": "Fish and onion soup."
+    },
+    {
+     "title": "Locro de papa",
+     "subtitle": "Highlands",
+     "text": "Potato soup with cheese."
+    },
+    {
+     "title": "Ceviche",
+     "subtitle": "Coast",
+     "text": "Shrimp in tangy sauce."
+    },
+    {
+     "title": "Fanesca",
+     "subtitle": "Easter",
+     "text": "A grain and fish soup."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Carnival",
+    "text": "Water fights."
+   },
+   {
+    "month": 6,
+    "name": "Inti Raymi",
+    "text": "Andean festival of the sun."
+   },
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "10 August."
+   }
+  ]
+ }
+}

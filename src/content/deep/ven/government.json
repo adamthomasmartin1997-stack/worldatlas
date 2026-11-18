@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Venezuela's government is in transition after years of authoritarian rule.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Under Chávez and Maduro, power was concentrated in the presidency and the courts and electoral authority were controlled by the ruling party. After Maduro's capture in 2026, Delcy Rodríguez became acting president, and the country's future government remains uncertain."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Caracas"
+    },
+    {
+     "label": "Independence",
+     "value": "1811 (declared)"
+    },
+    {
+     "label": "States",
+     "value": "23"
+    }
+   ]
+  },
+  {
+   "id": "opposition",
+   "title": "Opposition",
+   "text": [
+    "Opposition leader María Corina Machado won the 2025 Nobel Peace Prize."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Acting president",
+   "meaning": "Someone temporarily filling the role."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Acting President",
+     "subtitle": "Since 2026",
+     "text": "After Maduro's capture."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "Elected",
+     "text": "A single chamber."
+    },
+    {
+     "title": "Supreme Tribunal",
+     "subtitle": "Judges",
+     "text": "Long seen as government-controlled."
+    },
+    {
+     "title": "States",
+     "subtitle": "23 states",
+     "text": "With governors."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "National Assembly",
+    "text": "Two debates."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it into law."
+   }
+  ]
+ }
+}

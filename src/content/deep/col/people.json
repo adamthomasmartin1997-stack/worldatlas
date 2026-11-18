@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Colombia has about 53 million people, the third most in Latin America.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most Colombians are of mixed European and Indigenous descent; there are large Afro-Colombian communities on the coasts and over 100 Indigenous peoples. Spanish is the official language, and most people are Catholic.",
+    "Colombia has taken in nearly three million Venezuelan migrants."
+   ],
+   "related": [
+    "VEN",
+    "ESP"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Bogotá sits at 2,640 m. Medellín, once violent, is known for its cable cars and innovation."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Afro-Colombian",
+   "meaning": "Colombians of African descent."
+  }
+ ]
+}

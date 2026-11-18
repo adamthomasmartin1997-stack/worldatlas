@@ -1,0 +1,114 @@
+{
+ "status": "draft",
+ "intro": "Baseball is Venezuela's most popular sport, unusual in South America.",
+ "chapters": [
+  {
+   "id": "baseball",
+   "title": "Baseball",
+   "text": [
+    "Hundreds of Venezuelans have played in Major League Baseball, including stars like Miguel Cabrera, José Altuve and Ronald Acuña Jr."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "athletics",
+   "title": "Athletics",
+   "text": [
+    "Yulimar Rojas holds the women's triple jump world record and won Olympic gold in 2021."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "MLB",
+   "meaning": "Major League Baseball, in the US and Canada."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Venezuelan Professional Baseball League",
+     "subtitle": "Baseball",
+     "text": "A winter league."
+    },
+    {
+     "title": "Liga FUTVE",
+     "subtitle": "Football",
+     "text": "The top football league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Luis Aparicio",
+     "subtitle": "Baseball",
+     "text": "Hall of Famer."
+    },
+    {
+     "title": "Miguel Cabrera",
+     "subtitle": "Baseball",
+     "text": "Triple Crown winner."
+    },
+    {
+     "title": "José Altuve",
+     "subtitle": "Baseball",
+     "text": "World Series champion."
+    },
+    {
+     "title": "Yulimar Rojas",
+     "subtitle": "Triple jump",
+     "text": "World record holder."
+    },
+    {
+     "title": "Pastor Maldonado",
+     "subtitle": "Formula One",
+     "text": "Won the 2012 Spanish Grand Prix."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Venezuela's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estadio Universitario, Caracas",
+    "kind": "venue",
+    "lat": 10.49,
+    "lon": -66.89,
+    "text": "A baseball stadium."
+   },
+   {
+    "name": "Estadio Monumental de Maturín",
+    "kind": "venue",
+    "lat": 9.73,
+    "lon": -63.18,
+    "text": "A large football stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2016",
+    "title": "Olympic silver",
+    "text": "Rojas in Rio."
+   },
+   {
+    "year": "2021",
+    "title": "Olympic gold",
+    "text": "Rojas sets a world record."
+   }
+  ]
+ }
+}

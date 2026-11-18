@@ -1,0 +1,64 @@
+{
+ "status": "draft",
+ "intro": "Colombia exports oil, coal, coffee and flowers.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Colombia is a top producer of mild arabica coffee and the world's second-biggest exporter of cut flowers. Oil and coal are major exports, and emeralds from Colombia are the world's finest."
+   ],
+   "related": [
+    "USA",
+    "NLD"
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Visitors have boomed as safety improved."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Arabica",
+   "meaning": "A high-quality coffee bean."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Colombia",
+   "items": [
+    {
+     "title": "Coffee",
+     "subtitle": "Coffee region",
+     "text": "Famous mild arabica."
+    },
+    {
+     "title": "Cut flowers",
+     "subtitle": "Bogotá savanna",
+     "text": "Roses and carnations."
+    },
+    {
+     "title": "Oil",
+     "subtitle": "Llanos",
+     "text": "A top export."
+    },
+    {
+     "title": "Emeralds",
+     "subtitle": "Boyacá",
+     "text": "The world's finest."
+    },
+    {
+     "title": "Bananas",
+     "subtitle": "Urabá",
+     "text": "Sold worldwide."
+    }
+   ],
+   "intro": "Some of the things Colombia makes and sells to the world."
+  }
+ ]
+}

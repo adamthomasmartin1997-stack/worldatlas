@@ -1,0 +1,111 @@
+{
+ "status": "draft",
+ "intro": "Colombia, named after Christopher Columbus, is the only South American country with coasts on both the Pacific and the Caribbean. It has emerged from decades of conflict.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "El Dorado",
+   "text": [
+    "The Muisca people of the highlands made fine gold objects; their ceremony of a chief covered in gold dust bathing in Lake Guatavita inspired the legend of El Dorado. The Tayrona built the Lost City (Ciudad Perdida) in the Sierra Nevada."
+   ],
+   "highlight": {
+    "title": "El Dorado",
+    "text": "The legend of a city of gold drew Spanish explorers deep into South America."
+   },
+   "related": [
+    "PER",
+    "ECU"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "New Granada",
+   "text": [
+    "Spain conquered the region in the 1500s; Cartagena became a major port, fortified against pirates, and a centre of the slave trade. Bogotá was the capital of the Viceroyalty of New Granada."
+   ],
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Simón Bolívar won independence in 1819, creating Gran Colombia with Venezuela, Ecuador and Panama, which soon split. Panama broke away in 1903 with US support."
+   ],
+   "related": [
+    "VEN",
+    "ECU",
+    "PAN",
+    "USA"
+   ]
+  },
+  {
+   "id": "conflict",
+   "title": "Violence and peace",
+   "text": [
+    "'La Violencia' between Liberals and Conservatives killed about 200,000 people from 1948. From the 1960s, left-wing guerrillas like the FARC, right-wing paramilitaries and drug cartels like Pablo Escobar's fought for decades. A 2016 peace deal disarmed the FARC, and President Juan Manuel Santos won the Nobel Peace Prize. Other armed groups remain active."
+   ],
+   "related": [
+    "USA",
+    "VEN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 800",
+   "title": "Ciudad Perdida",
+   "text": "The Tayrona city."
+  },
+  {
+   "year": "1533",
+   "title": "Cartagena",
+   "text": "Founded."
+  },
+  {
+   "year": "1819",
+   "title": "Independence",
+   "text": "Battle of Boyacá."
+  },
+  {
+   "year": "1903",
+   "title": "Panama",
+   "text": "Breaks away."
+  },
+  {
+   "year": "1948",
+   "title": "La Violencia",
+   "text": "Political violence."
+  },
+  {
+   "year": "1964",
+   "title": "FARC",
+   "text": "Guerrilla war begins."
+  },
+  {
+   "year": "1993",
+   "title": "Escobar killed",
+   "text": "The drug lord dies."
+  },
+  {
+   "year": "2016",
+   "title": "Peace deal",
+   "text": "With the FARC."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Guerrilla",
+   "meaning": "A member of an irregular armed group."
+  },
+  {
+   "term": "Cartel",
+   "meaning": "A criminal drug-trafficking organisation."
+  },
+  {
+   "term": "Viceroyalty",
+   "meaning": "A large Spanish colonial region."
+  }
+ ]
+}

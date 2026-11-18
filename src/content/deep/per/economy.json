@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Peru is a mining giant and a major food exporter.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Peru is the world's second-biggest copper producer and a big gold and silver producer. It exports blueberries, avocados, asparagus and fishmeal.",
+    "The Chinese-built port of Chancay opened in 2024."
+   ],
+   "related": [
+    "CHN",
+    "USA"
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Machu Picchu draws over a million visitors a year."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Fishmeal",
+   "meaning": "Ground fish used in animal feed."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Peru",
+   "items": [
+    {
+     "title": "Copper",
+     "subtitle": "Andes",
+     "text": "The second-biggest producer."
+    },
+    {
+     "title": "Gold and silver",
+     "subtitle": "Mines",
+     "text": "Big exports."
+    },
+    {
+     "title": "Blueberries",
+     "subtitle": "Coast",
+     "text": "A top exporter."
+    },
+    {
+     "title": "Avocados",
+     "subtitle": "Coast",
+     "text": "Sold worldwide."
+    },
+    {
+     "title": "Alpaca wool",
+     "subtitle": "Highlands",
+     "text": "Soft fibre."
+    }
+   ],
+   "intro": "Some of the things Peru makes and sells to the world."
+  }
+ ]
+}

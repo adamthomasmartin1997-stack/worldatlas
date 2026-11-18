@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Ecuador has about 18 million people from many backgrounds.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most Ecuadorians are of mixed descent. Indigenous peoples, including the Kichwa, are a large community, and Afro-Ecuadorians live mainly in Esmeraldas. Spanish is official; Kichwa and Shuar are also official for intercultural relations."
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Quito is the capital at 2,850 m; Guayaquil is the biggest city and port."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kichwa",
+   "meaning": "The Ecuadorian form of Quechua."
+  }
+ ]
+}

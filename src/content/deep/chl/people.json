@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Chile has about 20 million people, most living in the centre around Santiago.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most Chileans are of mixed Spanish and Indigenous descent. The Mapuche are the largest Indigenous people. Spanish is the official language."
+   ],
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "santiago",
+   "title": "Santiago",
+   "text": [
+    "About 40% of Chileans live in greater Santiago, below the Andes."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mapuche",
+   "meaning": "Chile's largest Indigenous people."
+  }
+ ]
+}

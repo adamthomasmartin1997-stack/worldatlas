@@ -1,0 +1,90 @@
+{
+ "status": "draft",
+ "intro": "Ecuador is named after the equator, which runs through it, and owns the Galápagos Islands, where Charles Darwin found clues to evolution.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Early cultures",
+   "text": [
+    "The Valdivia culture made some of the oldest pottery in the Americas, about 5,500 years ago. The Inca conquered the highlands in the late 1400s, and Quito became a northern Inca capital."
+   ],
+   "related": [
+    "PER",
+    "COL"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Spanish rule",
+   "text": [
+    "Spain conquered the region in the 1530s. Quito's old town, full of baroque churches, is one of the best-preserved colonial centres in the Americas."
+   ],
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence and after",
+   "text": [
+    "Ecuador won independence at the Battle of Pichincha in 1822, joined Gran Colombia and became a separate country in 1830. In 2000 it adopted the US dollar after an economic crisis. Since 2021 drug gangs have caused a surge in violence."
+   ],
+   "highlight": {
+    "title": "Darwin",
+    "text": "Darwin's 1835 visit to the Galápagos helped inspire his theory of evolution."
+   },
+   "related": [
+    "COL",
+    "VEN",
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 3500 BC",
+   "title": "Valdivia",
+   "text": "Early pottery."
+  },
+  {
+   "year": "c. 1460",
+   "title": "Inca conquest",
+   "text": "Quito joins the empire."
+  },
+  {
+   "year": "1534",
+   "title": "Spanish Quito",
+   "text": "Founded."
+  },
+  {
+   "year": "1822",
+   "title": "Pichincha",
+   "text": "Independence won."
+  },
+  {
+   "year": "1830",
+   "title": "Ecuador",
+   "text": "Leaves Gran Colombia."
+  },
+  {
+   "year": "1835",
+   "title": "Darwin",
+   "text": "Visits the Galápagos."
+  },
+  {
+   "year": "2000",
+   "title": "Dollar",
+   "text": "Adopted as currency."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Equator",
+   "meaning": "The line around the middle of the Earth."
+  },
+  {
+   "term": "Evolution",
+   "meaning": "How living things change over many generations."
+  }
+ ]
+}

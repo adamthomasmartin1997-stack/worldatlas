@@ -1,0 +1,128 @@
+{
+ "status": "draft",
+ "intro": "Football and volleyball are Peru's most popular sports, and surfing has deep roots there.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Peru won the Copa América in 1939 and 1975. Teófilo Cubillas starred at the 1970 and 1978 World Cups."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "The women's volleyball team won Olympic silver in 1988. Sofía Mulánovich became surfing world champion in 2004."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Caballito de totora",
+   "meaning": "A reed boat used to ride waves for centuries."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Liga 1",
+     "subtitle": "Football",
+     "text": "Universitario and Alianza Lima are rivals."
+    },
+    {
+     "title": "Surfing",
+     "subtitle": "Pacific coast",
+     "text": "Long waves at Chicama."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Teófilo Cubillas",
+     "subtitle": "Football",
+     "text": "Star of the 1970s."
+    },
+    {
+     "title": "Paolo Guerrero",
+     "subtitle": "Football",
+     "text": "Record scorer."
+    },
+    {
+     "title": "Sofía Mulánovich",
+     "subtitle": "Surfing",
+     "text": "World champion 2004."
+    },
+    {
+     "title": "Cecilia Tait",
+     "subtitle": "Volleyball",
+     "text": "Olympic silver 1988."
+    },
+    {
+     "title": "Stefano Peschiera",
+     "subtitle": "Sailing",
+     "text": "Olympic bronze 2024."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Peru's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estadio Nacional, Lima",
+    "kind": "venue",
+    "lat": -12.07,
+    "lon": -77.03,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Estadio Monumental",
+    "kind": "venue",
+    "lat": -12.06,
+    "lon": -76.94,
+    "text": "Home of Universitario."
+   },
+   {
+    "name": "Punta Rocas",
+    "kind": "venue",
+    "lat": -12.48,
+    "lon": -76.8,
+    "text": "A famous surf break."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1975",
+    "title": "Copa América",
+    "text": "A second title."
+   },
+   {
+    "year": "1988",
+    "title": "Volleyball silver",
+    "text": "In Seoul."
+   },
+   {
+    "year": "2018",
+    "title": "World Cup",
+    "text": "Back after 36 years."
+   },
+   {
+    "year": "2019",
+    "title": "Pan American Games",
+    "text": "Hosted in Lima."
+   }
+  ]
+ }
+}

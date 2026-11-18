@@ -1,0 +1,124 @@
+{
+ "status": "draft",
+ "intro": "Football is Chile's most popular sport, and its golden generation won two Copas América.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Chile won the Copa América in 2015 and 2016, beating Argentina in both finals. Alexis Sánchez and Arturo Vidal starred in Europe."
+   ],
+   "related": [
+    "ARG"
+   ]
+  },
+  {
+   "id": "tennis",
+   "title": "Tennis",
+   "text": [
+    "Nicolás Massú and Fernando González won Olympic doubles gold in 2004, and Massú also won the singles."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Copa América",
+   "meaning": "South America's football championship."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Chilean Primera División",
+     "subtitle": "Football",
+     "text": "Colo-Colo have won the most titles."
+    },
+    {
+     "title": "Copa Libertadores",
+     "subtitle": "Football",
+     "text": "Colo-Colo won in 1991."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Elías Figueroa",
+     "subtitle": "Football",
+     "text": "A great defender."
+    },
+    {
+     "title": "Marcelo Salas",
+     "subtitle": "Football",
+     "text": "A prolific striker of the 1990s."
+    },
+    {
+     "title": "Alexis Sánchez",
+     "subtitle": "Football",
+     "text": "Chile's record goal-scorer."
+    },
+    {
+     "title": "Marcelo Ríos",
+     "subtitle": "Tennis",
+     "text": "World No. 1 in 1998."
+    },
+    {
+     "title": "Nicolás Massú",
+     "subtitle": "Tennis",
+     "text": "Two Olympic golds in 2004."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Chile's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estadio Nacional, Santiago",
+    "kind": "venue",
+    "lat": -33.46,
+    "lon": -70.61,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Estadio Monumental",
+    "kind": "venue",
+    "lat": -33.51,
+    "lon": -70.61,
+    "text": "Home of Colo-Colo."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1962",
+    "title": "World Cup",
+    "text": "Chile hosts and finishes third."
+   },
+   {
+    "year": "2004",
+    "title": "Olympic golds",
+    "text": "Tennis in Athens."
+   },
+   {
+    "year": "2015",
+    "title": "Copa América",
+    "text": "A first title, at home."
+   },
+   {
+    "year": "2016",
+    "title": "Copa América Centenario",
+    "text": "Champions again."
+   }
+  ]
+ }
+}

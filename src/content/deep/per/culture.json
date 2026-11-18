@@ -1,0 +1,132 @@
+{
+ "status": "draft",
+ "intro": "Peru is famous for its food, textiles and Andean music.",
+ "chapters": [
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Lima is a world food capital. Ceviche (raw fish cured in lime) is the national dish, and potatoes were first domesticated here, with thousands of varieties."
+   ]
+  },
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Mario Vargas Llosa won the Nobel Prize for Literature in 2010. Andean weaving and panpipe music are famous traditions."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ceviche",
+   "meaning": "Raw fish cured in lime juice."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Milk of Sorrow",
+     "subtitle": "2009 · Claudia Llosa",
+     "text": "Won the Golden Bear; Oscar-nominated."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Time of the Hero",
+     "subtitle": "1963 · Mario Vargas Llosa",
+     "text": "Life at a military school."
+    },
+    {
+     "title": "Deep Rivers",
+     "subtitle": "1958 · José María Arguedas",
+     "text": "Andean childhood."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "El Cóndor Pasa",
+     "subtitle": "Daniel Alomía Robles, 1913",
+     "text": "A famous Andean melody."
+    },
+    {
+     "title": "Susana Baca",
+     "subtitle": "Singer",
+     "text": "Afro-Peruvian music."
+    },
+    {
+     "title": "Huayno",
+     "subtitle": "Traditional",
+     "text": "Andean dance music."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Ceviche",
+     "subtitle": "Coast",
+     "text": "Fish cured in lime."
+    },
+    {
+     "title": "Lomo saltado",
+     "subtitle": "Everywhere",
+     "text": "Stir-fried beef and chips."
+    },
+    {
+     "title": "Ají de gallina",
+     "subtitle": "Everywhere",
+     "text": "Creamy spicy chicken."
+    },
+    {
+     "title": "Causa",
+     "subtitle": "Everywhere",
+     "text": "Layered potato dish."
+    },
+    {
+     "title": "Pisco sour",
+     "subtitle": "Everywhere",
+     "text": "A grape brandy cocktail for adults."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Virgen de la Candelaria",
+    "text": "Dancing in Puno."
+   },
+   {
+    "month": 6,
+    "name": "Inti Raymi",
+    "text": "Festival of the Sun at Cusco."
+   },
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "28–29 July."
+   },
+   {
+    "month": 10,
+    "name": "Señor de los Milagros",
+    "text": "Purple processions in Lima."
+   }
+  ]
+ }
+}
