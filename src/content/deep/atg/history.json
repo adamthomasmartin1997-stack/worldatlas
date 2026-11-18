@@ -1,0 +1,75 @@
+{
+ "status": "draft",
+ "intro": "Antigua and Barbuda is a two-island nation said to have a beach for every day of the year.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Early peoples",
+   "text": [
+    "Arawak and later Kalinago peoples lived here. Columbus named Antigua in 1493 after a church in Seville."
+   ],
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "british",
+   "title": "British sugar colony",
+   "text": [
+    "English settlers arrived in 1632. Sugar plantations used enslaved Africans; in 1736 a planned uprising led by Prince Klaas was crushed. Nelson's Dockyard was a key Royal Navy base in the 1700s and is now a World Heritage site."
+   ],
+   "highlight": {
+    "title": "Nelson's Dockyard",
+    "text": "Horatio Nelson was based here in the 1780s."
+   },
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Antigua and Barbuda became independent in 1981. In 2017 Hurricane Irma forced the whole population of Barbuda to evacuate."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1493",
+   "title": "Columbus",
+   "text": "Names Antigua."
+  },
+  {
+   "year": "1632",
+   "title": "English settlers",
+   "text": "Arrive."
+  },
+  {
+   "year": "1736",
+   "title": "Prince Klaas",
+   "text": "A planned uprising."
+  },
+  {
+   "year": "1834",
+   "title": "Emancipation",
+   "text": "Slavery ends."
+  },
+  {
+   "year": "1981",
+   "title": "Independence",
+   "text": "1 November."
+  },
+  {
+   "year": "2017",
+   "title": "Hurricane Irma",
+   "text": "Barbuda is evacuated."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dockyard",
+   "meaning": "A place for building and repairing ships."
+  }
+ ]
+}

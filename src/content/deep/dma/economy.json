@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Dominica relies on farming, ecotourism and citizenship by investment.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Bananas, root crops and bay oil are produced. Hiking, diving and whale watching attract visitors. A large share of government income comes from selling citizenship."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "geothermal",
+   "title": "Geothermal",
+   "text": [
+    "Dominica is developing geothermal power from its volcanoes."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bay oil",
+   "meaning": "Oil from bay leaves used in perfumes."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Dominica",
+   "items": [
+    {
+     "title": "Bananas",
+     "subtitle": "Valleys",
+     "text": "A traditional crop."
+    },
+    {
+     "title": "Bay oil",
+     "subtitle": "Plantations",
+     "text": "Used in perfume."
+    },
+    {
+     "title": "Ecotourism",
+     "subtitle": "Mountains and sea",
+     "text": "Hiking and whales."
+    }
+   ],
+   "intro": "Some of the things Dominica makes and sells to the world."
+  }
+ ]
+}

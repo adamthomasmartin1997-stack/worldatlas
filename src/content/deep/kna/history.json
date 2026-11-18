@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Saint Kitts and Nevis is the smallest country in the Americas, made of two volcanic islands.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Kalinago and Europeans",
+   "text": [
+    "The Kalinago called Saint Kitts 'Liamuiga', fertile island. In 1623 Saint Kitts became the first English colony in the Caribbean, and the French settled too. In 1626 English and French settlers together massacred many Kalinago at Bloody Point."
+   ],
+   "related": [
+    "GBR",
+    "FRA"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Sugar and fortress",
+   "text": [
+    "Sugar plantations used enslaved Africans. Brimstone Hill Fortress, the 'Gibraltar of the West Indies', is a World Heritage site. Alexander Hamilton, a US founding father, was born on Nevis."
+   ],
+   "highlight": {
+    "title": "Hamilton",
+    "text": "Alexander Hamilton was born in Charlestown, Nevis, in 1755 or 1757."
+   },
+   "related": [
+    "USA",
+    "GBR"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Saint Kitts and Nevis became independent in 1983. In 1998 a vote for Nevis to leave narrowly failed to reach the required two-thirds majority."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1623",
+   "title": "English settlement",
+   "text": "The first in the Caribbean."
+  },
+  {
+   "year": "1690",
+   "title": "Brimstone Hill",
+   "text": "Fortress building begins."
+  },
+  {
+   "year": "1834",
+   "title": "Emancipation",
+   "text": "Slavery ends."
+  },
+  {
+   "year": "1983",
+   "title": "Independence",
+   "text": "19 September."
+  },
+  {
+   "year": "1998",
+   "title": "Nevis referendum",
+   "text": "Secession narrowly fails."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Federation",
+   "meaning": "A union of states."
+  }
+ ]
+}

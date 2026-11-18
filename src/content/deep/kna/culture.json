@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Kittitian culture is famous for Sugar Mas carnival.",
+ "chapters": [
+  {
+   "id": "carnival",
+   "title": "Sugar Mas",
+   "text": [
+    "Carnival runs from late November into January, with masquerade troupes and the Clown dancers."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Stewed saltfish with dumplings, coconut and breadfruit is the national dish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Masquerade",
+   "meaning": "Masked dancers in costume."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Sugar Mas",
+     "subtitle": "Festival",
+     "text": "Carnival music."
+    },
+    {
+     "title": "String band",
+     "subtitle": "Music",
+     "text": "Traditional bands."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Stewed saltfish",
+     "subtitle": "Everywhere",
+     "text": "With dumplings and breadfruit."
+    },
+    {
+     "title": "Goat water",
+     "subtitle": "Everywhere",
+     "text": "A spicy goat stew."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 6,
+    "name": "St Kitts Music Festival",
+    "text": "Late June."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "19 September."
+   },
+   {
+    "month": 12,
+    "name": "Sugar Mas",
+    "text": "Carnival season."
+   }
+  ]
+ }
+}

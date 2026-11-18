@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Antigua and Barbuda is a parliamentary democracy with the British monarch as head of state.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Prime Minister Gaston Browne has led since 2014. Barbuda has its own council."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "St John's"
+    },
+    {
+     "label": "Independence",
+     "value": "1981"
+    },
+    {
+     "label": "Islands",
+     "value": "Antigua and Barbuda"
+    }
+   ]
+  },
+  {
+   "id": "land",
+   "title": "Barbuda land",
+   "text": [
+    "Barbudans hold land in common, a tradition debated after the hurricane."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Council",
+   "meaning": "A local governing body."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Governor-General",
+     "subtitle": "Represents the King",
+     "text": "Ceremonial."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Leader of the majority",
+     "text": "Leads the government."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "17 elected members",
+     "text": "The lower house."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "17 members",
+     "text": "Appointed, not elected."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In the House."
+   },
+   {
+    "title": "Both houses",
+    "text": "Debate and pass it."
+   },
+   {
+    "title": "Governor-General",
+    "text": "Gives assent."
+   }
+  ]
+ }
+}

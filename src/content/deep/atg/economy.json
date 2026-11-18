@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Tourism is the backbone of Antigua and Barbuda's economy.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Beaches, sailing and luxury resorts bring visitors. Antigua Sailing Week is one of the Caribbean's top regattas."
+   ],
+   "related": [
+    "GBR",
+    "USA"
+   ]
+  },
+  {
+   "id": "finance",
+   "title": "Finance",
+   "text": [
+    "Offshore finance and citizenship by investment add income."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Regatta",
+   "meaning": "A series of boat races."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Antigua and Barbuda",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "Beaches",
+     "text": "The main industry."
+    },
+    {
+     "title": "Sailing",
+     "subtitle": "English Harbour",
+     "text": "Yachting events."
+    },
+    {
+     "title": "Finance",
+     "subtitle": "St John's",
+     "text": "Offshore services."
+    }
+   ],
+   "intro": "Some of the things Antigua and Barbuda makes and sells to the world."
+  }
+ ]
+}

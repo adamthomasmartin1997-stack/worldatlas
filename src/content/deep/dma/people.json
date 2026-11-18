@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Dominica has about 72,000 people, including the Kalinago.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are of African descent, with a Kalinago minority. English is official, and Kwéyòl (French Creole) is widely spoken. Most people are Catholic."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "roseau",
+   "title": "Roseau",
+   "text": [
+    "Roseau is the capital, with wooden colonial buildings."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kwéyòl",
+   "meaning": "French-based Creole."
+  }
+ ]
+}

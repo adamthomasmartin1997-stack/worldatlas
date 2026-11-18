@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Tourism and citizenship sales have replaced sugar in Saint Kitts and Nevis.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "The sugar industry closed in 2005. Tourism, a medical school and citizenship by investment now bring in money."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "railway",
+   "title": "Sugar train",
+   "text": [
+    "The old sugar railway now carries tourists around the island."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Citizenship by investment",
+   "meaning": "Gaining citizenship by investing money."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Saint Kitts and Nevis",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "Beaches",
+     "text": "The main industry."
+    },
+    {
+     "title": "Citizenship",
+     "subtitle": "Programme",
+     "text": "A big income source."
+    },
+    {
+     "title": "Education",
+     "subtitle": "Medical schools",
+     "text": "Students from abroad."
+    }
+   ],
+   "intro": "Some of the things Saint Kitts and Nevis makes and sells to the world."
+  }
+ ]
+}

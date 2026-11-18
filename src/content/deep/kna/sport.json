@@ -1,0 +1,74 @@
+{
+ "status": "draft",
+ "intro": "Athletics and cricket are popular in Saint Kitts and Nevis.",
+ "chapters": [
+  {
+   "id": "athletics",
+   "title": "Kim Collins",
+   "text": [
+    "Kim Collins won the 100 m world title in 2003, making him a national hero."
+   ]
+  },
+  {
+   "id": "cricket",
+   "title": "Cricket",
+   "text": [
+    "Warner Park hosted matches at the 2007 Cricket World Cup."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "World title",
+   "meaning": "A world championship win."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Cricket",
+     "subtitle": "Leeward Islands",
+     "text": "Regional cricket."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Kim Collins",
+     "subtitle": "Sprinting",
+     "text": "World 100 m champion 2003."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Saint Kitts and Nevis' biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Warner Park",
+    "kind": "venue",
+    "lat": 17.3,
+    "lon": -62.72,
+    "text": "Cricket and football."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2003",
+    "title": "World champion",
+    "text": "Collins wins the 100 m."
+   }
+  ]
+ }
+}

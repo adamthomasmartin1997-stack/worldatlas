@@ -1,0 +1,79 @@
+{
+ "status": "draft",
+ "intro": "Dominica is a rugged volcanic island covered in rainforest, rivers and hot springs.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Nature Island",
+   "text": [
+    "The Boiling Lake is the world's second-largest hot lake. Morne Trois Pitons National Park is a World Heritage site. Sperm whales live off the coast all year, and Dominica created a sperm whale reserve in 2023."
+   ],
+   "related": [
+    "GLP",
+    "MTQ"
+   ]
+  },
+  {
+   "id": "rivers",
+   "title": "Rivers",
+   "text": [
+    "Dominica is said to have 365 rivers, one for every day of the year."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sperm whale",
+   "meaning": "The largest toothed whale."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Dominica's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Roseau",
+    "kind": "capital",
+    "lat": 15.3,
+    "lon": -61.39,
+    "text": "Wooden houses."
+   },
+   {
+    "name": "Boiling Lake",
+    "kind": "hot lake",
+    "lat": 15.32,
+    "lon": -61.29,
+    "text": "A flooded fumarole."
+   },
+   {
+    "name": "Trafalgar Falls",
+    "kind": "waterfalls",
+    "lat": 15.32,
+    "lon": -61.33,
+    "text": "Twin falls."
+   },
+   {
+    "name": "Champagne Reef",
+    "kind": "bubbling reef",
+    "lat": 15.24,
+    "lon": -61.37,
+    "text": "Volcanic bubbles."
+   },
+   {
+    "name": "Kalinago Territory",
+    "kind": "Indigenous land",
+    "lat": 15.5,
+    "lon": -61.27,
+    "text": "Home of the Kalinago."
+   },
+   {
+    "name": "Morne Diablotins",
+    "kind": "mountain",
+    "lat": 15.5,
+    "lon": -61.4,
+    "text": "The highest peak."
+   }
+  ]
+ }
+}

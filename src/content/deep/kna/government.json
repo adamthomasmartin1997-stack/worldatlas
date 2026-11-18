@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Saint Kitts and Nevis is a federal parliamentary democracy.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The British monarch is head of state. Prime Minister Terrance Drew has led since 2022. Nevis has its own island assembly."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Basseterre"
+    },
+    {
+     "label": "Independence",
+     "value": "1983"
+    },
+    {
+     "label": "Islands",
+     "value": "2"
+    }
+   ]
+  },
+  {
+   "id": "citizenship",
+   "title": "Citizenship programme",
+   "text": [
+    "Its citizenship-by-investment scheme, started in 1984, is the world's oldest."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Island assembly",
+   "meaning": "A local parliament for Nevis."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Governor-General",
+     "subtitle": "Represents the King",
+     "text": "Ceremonial."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Leader of the majority",
+     "text": "Leads the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "Elected and appointed members",
+     "text": "A single chamber."
+    },
+    {
+     "title": "Nevis Island Assembly",
+     "subtitle": "Elected",
+     "text": "Runs Nevis."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In the National Assembly."
+   },
+   {
+    "title": "Vote",
+    "text": "Members debate and pass it."
+   },
+   {
+    "title": "Governor-General",
+    "text": "Gives assent."
+   }
+  ]
+ }
+}

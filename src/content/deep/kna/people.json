@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Saint Kitts and Nevis has about 47,000 people, the smallest population in the Americas.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are of African descent. English is official. Most people are Christian."
+   ]
+  },
+  {
+   "id": "capital",
+   "title": "Basseterre",
+   "text": [
+    "Basseterre, on Saint Kitts, is the capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kittitian",
+   "meaning": "A person from Saint Kitts."
+  }
+ ]
+}

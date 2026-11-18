@@ -1,0 +1,73 @@
+{
+ "status": "draft",
+ "intro": "The main island is volcanic and green, while the Grenadines are small, sandy islands.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "La Soufrière, an active volcano, is the highest point. The Grenadines include Bequia, Mustique, Canouan and the Tobago Cays marine park."
+   ],
+   "related": [
+    "GRD",
+    "LCA",
+    "BRB"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Warm all year, with hurricanes some years."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Marine park",
+   "meaning": "A protected area of sea."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Saint Vincent and the Grenadines' landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "La Soufrière",
+    "kind": "volcano",
+    "lat": 13.33,
+    "lon": -61.18,
+    "text": "Erupted in 2021."
+   },
+   {
+    "name": "Kingstown",
+    "kind": "capital",
+    "lat": 13.16,
+    "lon": -61.22,
+    "text": "City of Arches."
+   },
+   {
+    "name": "Bequia",
+    "kind": "island",
+    "lat": 13.01,
+    "lon": -61.23,
+    "text": "Boat-building island."
+   },
+   {
+    "name": "Mustique",
+    "kind": "island",
+    "lat": 12.88,
+    "lon": -61.19,
+    "text": "A private island."
+   },
+   {
+    "name": "Tobago Cays",
+    "kind": "marine park",
+    "lat": 12.63,
+    "lon": -61.36,
+    "text": "Turtles and reefs."
+   }
+  ]
+ }
+}

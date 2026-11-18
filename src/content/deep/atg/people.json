@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Antigua and Barbuda has about 95,000 people, mostly of African descent.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "English is official, and Antiguan Creole is spoken. Most people are Christian. Most live on Antigua; Barbuda has only about 1,600 people."
+   ]
+  },
+  {
+   "id": "capital",
+   "title": "St John's",
+   "text": [
+    "St John's is the capital and cruise port."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Creole",
+   "meaning": "A local mixed language."
+  }
+ ]
+}

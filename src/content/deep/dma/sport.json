@@ -1,0 +1,74 @@
+{
+ "status": "draft",
+ "intro": "Cricket and athletics are popular in Dominica, which won its first Olympic gold in 2024.",
+ "chapters": [
+  {
+   "id": "athletics",
+   "title": "Thea LaFond",
+   "text": [
+    "Thea LaFond won the triple jump at the 2024 Olympics, Dominica's first ever Olympic medal."
+   ]
+  },
+  {
+   "id": "cricket",
+   "title": "Cricket",
+   "text": [
+    "Windsor Park hosts international cricket."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Triple jump",
+   "meaning": "A hop, step and jump."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Cricket",
+     "subtitle": "Windward Islands",
+     "text": "Regional cricket."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Thea LaFond",
+     "subtitle": "Triple jump",
+     "text": "Olympic champion 2024."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Dominica's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Windsor Park",
+    "kind": "venue",
+    "lat": 15.3,
+    "lon": -61.38,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2024",
+    "title": "Olympic gold",
+    "text": "LaFond in Paris."
+   }
+  ]
+ }
+}

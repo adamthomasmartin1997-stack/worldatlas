@@ -1,0 +1,71 @@
+{
+ "status": "draft",
+ "intro": "The two islands are separated by a 3 km channel called The Narrows.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "Mount Liamuiga, a dormant volcano, is the highest point. Green vervet monkeys, brought by settlers, roam the hills. Nevis Peak is often capped by cloud."
+   ],
+   "related": [
+    "ATG"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The islands are warm, with hurricanes from June to November."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dormant volcano",
+   "meaning": "A volcano that has not erupted for a long time."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Saint Kitts and Nevis' landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Brimstone Hill",
+    "kind": "fortress",
+    "lat": 17.35,
+    "lon": -62.84,
+    "text": "A huge hilltop fort."
+   },
+   {
+    "name": "Mount Liamuiga",
+    "kind": "volcano",
+    "lat": 17.37,
+    "lon": -62.8,
+    "text": "A crater hike."
+   },
+   {
+    "name": "Basseterre",
+    "kind": "capital",
+    "lat": 17.3,
+    "lon": -62.72,
+    "text": "The Circus clock."
+   },
+   {
+    "name": "Nevis Peak",
+    "kind": "volcano",
+    "lat": 17.15,
+    "lon": -62.58,
+    "text": "Cloud-capped."
+   },
+   {
+    "name": "Charlestown",
+    "kind": "town",
+    "lat": 17.14,
+    "lon": -62.62,
+    "text": "Hamilton's birthplace."
+   }
+  ]
+ }
+}

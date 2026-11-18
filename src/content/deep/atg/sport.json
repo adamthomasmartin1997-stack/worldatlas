@@ -1,0 +1,100 @@
+{
+ "status": "draft",
+ "intro": "Cricket is Antigua's great passion, and it produced Sir Viv Richards.",
+ "chapters": [
+  {
+   "id": "cricket",
+   "title": "Cricket",
+   "text": [
+    "Sir Vivian Richards, one of the greatest batters ever, is from Antigua. Brian Lara scored his record 400 not out here in 2004."
+   ],
+   "related": [
+    "TTO",
+    "GBR"
+   ]
+  },
+  {
+   "id": "sailing",
+   "title": "Sailing",
+   "text": [
+    "Sailing Week each spring attracts yachts from around the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Batter",
+   "meaning": "A player who bats in cricket."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Cricket",
+     "subtitle": "Leeward Islands",
+     "text": "Regional cricket."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Viv Richards",
+     "subtitle": "Cricket",
+     "text": "One of the greatest batters."
+    },
+    {
+     "title": "Curtly Ambrose",
+     "subtitle": "Cricket",
+     "text": "A great fast bowler."
+    },
+    {
+     "title": "Andy Roberts",
+     "subtitle": "Cricket",
+     "text": "The first Antiguan Test player."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Antigua and Barbuda's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Sir Vivian Richards Stadium",
+    "kind": "venue",
+    "lat": 17.1,
+    "lon": -61.79,
+    "text": "International cricket."
+   },
+   {
+    "name": "Antigua Recreation Ground",
+    "kind": "venue",
+    "lat": 17.12,
+    "lon": -61.84,
+    "text": "Where Lara scored 400."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1986",
+    "title": "Fastest century",
+    "text": "Richards hits 100 in 56 balls."
+   },
+   {
+    "year": "2004",
+    "title": "Lara's 400",
+    "text": "A Test record."
+   }
+  ]
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Antiguan culture is famous for carnival and cricket.",
+ "chapters": [
+  {
+   "id": "carnival",
+   "title": "Carnival",
+   "text": [
+    "Antigua's summer carnival celebrates emancipation with calypso, soca and steelpan."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Fungie (cornmeal) and pepperpot is the national dish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Fungie",
+   "meaning": "A cornmeal dish like polenta."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Steelpan",
+     "subtitle": "Music",
+     "text": "Carnival bands."
+    },
+    {
+     "title": "Calypso",
+     "subtitle": "Music",
+     "text": "Carnival songs."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Fungie and pepperpot",
+     "subtitle": "Everywhere",
+     "text": "The national dish."
+    },
+    {
+     "title": "Antigua black pineapple",
+     "subtitle": "Farms",
+     "text": "A very sweet pineapple."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Sailing Week",
+    "text": "Late April regatta."
+   },
+   {
+    "month": 8,
+    "name": "Carnival",
+    "text": "Celebrating emancipation."
+   },
+   {
+    "month": 11,
+    "name": "Independence Day",
+    "text": "1 November."
+   }
+  ]
+ }
+}

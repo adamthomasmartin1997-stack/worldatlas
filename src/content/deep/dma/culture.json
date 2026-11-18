@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "Dominica's culture blends African, French, British and Kalinago traditions.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Music",
+   "text": [
+    "The World Creole Music Festival celebrates bouyon and other Creole music. Jean Rhys, author of Wide Sargasso Sea, was born in Roseau."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Callaloo soup and 'mountain chicken' (a frog, now protected) were traditional dishes."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bouyon",
+   "meaning": "Dominican dance music."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Wide Sargasso Sea",
+     "subtitle": "1966 · Jean Rhys",
+     "text": "A novel by a Dominican-born author."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Bouyon",
+     "subtitle": "Music",
+     "text": "Dominican dance music."
+    },
+    {
+     "title": "World Creole Music Festival",
+     "subtitle": "Festival",
+     "text": "In October."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Callaloo",
+     "subtitle": "Everywhere",
+     "text": "A leafy green soup."
+    },
+    {
+     "title": "Bakes",
+     "subtitle": "Breakfast",
+     "text": "Fried bread."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 10,
+    "name": "World Creole Music Festival",
+    "text": "Late October."
+   },
+   {
+    "month": 11,
+    "name": "Independence Day",
+    "text": "3 November."
+   }
+  ]
+ }
+}

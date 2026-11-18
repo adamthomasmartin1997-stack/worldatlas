@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Farming and tourism support the economy of Saint Vincent and the Grenadines.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Bananas, arrowroot and vegetables are grown. Luxury tourism on Mustique and yachting in the Grenadines bring visitors. Argyle International Airport opened in 2017."
+   ],
+   "related": [
+    "GBR",
+    "USA"
+   ]
+  },
+  {
+   "id": "fishing",
+   "title": "Fishing",
+   "text": [
+    "Bequia has a small traditional whaling quota."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Arrowroot",
+   "meaning": "A starch used in food and paper."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Saint Vincent and the Grenadines",
+   "items": [
+    {
+     "title": "Bananas",
+     "subtitle": "Main island",
+     "text": "A traditional crop."
+    },
+    {
+     "title": "Arrowroot",
+     "subtitle": "Main island",
+     "text": "A top producer."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Grenadines",
+     "text": "Yachts and resorts."
+    }
+   ],
+   "intro": "Some of the things Saint Vincent and the Grenadines makes and sells to the world."
+  }
+ ]
+}

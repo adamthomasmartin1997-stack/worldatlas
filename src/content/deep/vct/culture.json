@@ -1,0 +1,85 @@
+{
+ "status": "draft",
+ "intro": "Vincentian culture is known for carnival and boat-building.",
+ "chapters": [
+  {
+   "id": "carnival",
+   "title": "Vincy Mas",
+   "text": [
+    "Vincy Mas, the summer carnival, features calypso, soca and steelpan."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Roasted breadfruit and fried jackfish is the national dish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Breadfruit",
+   "meaning": "A starchy tree fruit."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Soca",
+     "subtitle": "Music",
+     "text": "Vincy Mas songs."
+    },
+    {
+     "title": "Steelpan",
+     "subtitle": "Music",
+     "text": "Carnival bands."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Breadfruit and jackfish",
+     "subtitle": "Everywhere",
+     "text": "The national dish."
+    },
+    {
+     "title": "Buljol",
+     "subtitle": "Breakfast",
+     "text": "Saltfish salad."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "National Heroes Day",
+    "text": "14 March, honouring Chatoyer."
+   },
+   {
+    "month": 4,
+    "name": "Bequia Easter Regatta",
+    "text": "Boat races."
+   },
+   {
+    "month": 7,
+    "name": "Vincy Mas",
+    "text": "Carnival."
+   },
+   {
+    "month": 10,
+    "name": "Independence Day",
+    "text": "27 October."
+   }
+  ]
+ }
+}

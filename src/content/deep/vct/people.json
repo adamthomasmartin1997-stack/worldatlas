@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Saint Vincent and the Grenadines has about 100,000 people.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are of African descent, with Garífuna, Indian and European minorities. English is official, and Vincentian Creole is spoken."
+   ]
+  },
+  {
+   "id": "kingstown",
+   "title": "Kingstown",
+   "text": [
+    "Kingstown, the capital, is known as the 'City of Arches'."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Vincy",
+   "meaning": "A nickname for Vincentians."
+  }
+ ]
+}

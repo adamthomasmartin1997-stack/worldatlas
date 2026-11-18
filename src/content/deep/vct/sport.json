@@ -1,0 +1,63 @@
+{
+ "status": "draft",
+ "intro": "Cricket and football are the most popular sports in Saint Vincent and the Grenadines.",
+ "chapters": [
+  {
+   "id": "cricket",
+   "title": "Cricket",
+   "text": [
+    "Arnos Vale hosts international cricket and hosted T20 World Cup matches in 2024."
+   ]
+  },
+  {
+   "id": "sailing",
+   "title": "Sailing",
+   "text": [
+    "The Bequia Easter Regatta is a famous sailing event."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Regatta",
+   "meaning": "Boat races."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Cricket",
+     "subtitle": "Windward Islands",
+     "text": "Regional cricket."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Saint Vincent and the Grenadines' biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Arnos Vale",
+    "kind": "venue",
+    "lat": 13.14,
+    "lon": -61.21,
+    "text": "Cricket ground."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2024",
+    "title": "T20 World Cup",
+    "text": "Hosted matches."
+   }
+  ]
+ }
+}

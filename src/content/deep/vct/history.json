@@ -1,0 +1,73 @@
+{
+ "status": "draft",
+ "intro": "Saint Vincent and the Grenadines is a volcanic island and a chain of small islands, homeland of the Garífuna people.",
+ "chapters": [
+  {
+   "id": "garifuna",
+   "title": "The Garífuna",
+   "text": [
+    "Kalinago people and Africans who escaped shipwrecks or slavery mixed to form the Garinagu (Garífuna), who fought to keep their land."
+   ],
+   "related": [
+    "HND",
+    "BLZ"
+   ]
+  },
+  {
+   "id": "british",
+   "title": "British rule and exile",
+   "text": [
+    "After the Carib Wars, led by Chief Joseph Chatoyer, Britain deported about 5,000 Garífuna in 1797 to Roatán, off Honduras. Their descendants now live along Central America's coast."
+   ],
+   "highlight": {
+    "title": "Chatoyer",
+    "text": "Chief Joseph Chatoyer is the national hero."
+   },
+   "related": [
+    "GBR",
+    "HND",
+    "BLZ"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "The country became independent in 1979. La Soufrière volcano erupted in 1979 and again in 2021, forcing evacuations. Hurricane Beryl hit the Grenadines hard in 2024."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1763",
+   "title": "British rule",
+   "text": "Formal possession."
+  },
+  {
+   "year": "1795",
+   "title": "Carib War",
+   "text": "Chatoyer is killed."
+  },
+  {
+   "year": "1797",
+   "title": "Garífuna exiled",
+   "text": "To Roatán."
+  },
+  {
+   "year": "1979",
+   "title": "Independence",
+   "text": "27 October."
+  },
+  {
+   "year": "2021",
+   "title": "La Soufrière",
+   "text": "A major eruption."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Garífuna",
+   "meaning": "An Afro-Indigenous people."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Antigua is low and dry with many bays; Barbuda is flat with pink sand beaches.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "Antigua's coastline is full of coves. Barbuda has a large frigatebird colony. Boggy Peak, renamed Mount Obama, is the highest point."
+   ],
+   "related": [
+    "KNA",
+    "DMA"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The islands are dry and sunny, with hurricanes in some years."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Frigatebird",
+   "meaning": "A seabird with a red throat pouch."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Antigua and Barbuda's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "St John's",
+    "kind": "capital",
+    "lat": 17.12,
+    "lon": -61.85,
+    "text": "A cathedral and port."
+   },
+   {
+    "name": "Nelson's Dockyard",
+    "kind": "historic dockyard",
+    "lat": 17.0,
+    "lon": -61.76,
+    "text": "A Georgian naval base."
+   },
+   {
+    "name": "Shirley Heights",
+    "kind": "lookout",
+    "lat": 17.0,
+    "lon": -61.75,
+    "text": "Sunday sunset parties."
+   },
+   {
+    "name": "Mount Obama",
+    "kind": "hill",
+    "lat": 17.04,
+    "lon": -61.86,
+    "text": "The highest point."
+   },
+   {
+    "name": "Barbuda",
+    "kind": "island",
+    "lat": 17.63,
+    "lon": -61.8,
+    "text": "Pink sand and frigatebirds."
+   }
+  ]
+ }
+}

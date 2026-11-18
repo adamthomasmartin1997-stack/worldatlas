@@ -1,0 +1,77 @@
+{
+ "status": "draft",
+ "intro": "Dominica is the 'Nature Island' of the Caribbean and home to the region's last Kalinago territory.",
+ "chapters": [
+  {
+   "id": "kalinago",
+   "title": "The Kalinago",
+   "text": [
+    "The Kalinago resisted European settlement longer here than almost anywhere in the Caribbean. Today the Kalinago Territory is home to about 3,000 Kalinago people."
+   ],
+   "highlight": {
+    "title": "Kalinago Territory",
+    "text": "The only Indigenous territory of its kind in the eastern Caribbean."
+   },
+   "related": [
+    "LCA",
+    "VCT"
+   ]
+  },
+  {
+   "id": "colonies",
+   "title": "French and British rule",
+   "text": [
+    "France and Britain fought over Dominica; Britain took control in 1763. Escaped enslaved people formed Maroon communities in the mountains."
+   ],
+   "related": [
+    "FRA",
+    "GBR"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Dominica became independent in 1978 as a republic. Hurricane Maria in 2017 damaged almost every building, and Dominica aims to become the world's first climate-resilient nation."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1493",
+   "title": "Columbus",
+   "text": "Names it after Sunday."
+  },
+  {
+   "year": "1763",
+   "title": "British rule",
+   "text": "From France."
+  },
+  {
+   "year": "1834",
+   "title": "Emancipation",
+   "text": "Slavery ends."
+  },
+  {
+   "year": "1978",
+   "title": "Independence",
+   "text": "3 November."
+  },
+  {
+   "year": "1980",
+   "title": "First woman PM",
+   "text": "Eugenia Charles, first in the Caribbean."
+  },
+  {
+   "year": "2017",
+   "title": "Hurricane Maria",
+   "text": "Devastating damage."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kalinago",
+   "meaning": "The Indigenous people of Dominica."
+  }
+ ]
+}
