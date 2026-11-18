@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Eritrea has about 3.5 million people from nine recognised ethnic groups.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Tigrinya and Tigre are the largest groups. Tigrinya, Arabic and English are working languages. About half are Christian and half Muslim."
+   ]
+  },
+  {
+   "id": "leaving",
+   "title": "Leaving",
+   "text": [
+    "Many young Eritreans have fled abroad to escape indefinite national service."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tigrinya",
+   "meaning": "A major language."
+  }
+ ]
+}

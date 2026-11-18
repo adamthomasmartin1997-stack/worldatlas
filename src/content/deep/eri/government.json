@@ -1,0 +1,82 @@
+{
+ "status": "draft",
+ "intro": "Eritrea is a one-party state led by Isaias Afwerki since independence.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "No national elections have been held since independence, and the constitution has never been put into force. There is no independent press. National service can last for years."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Asmara"
+    },
+    {
+     "label": "Independence",
+     "value": "1993"
+    },
+    {
+     "label": "Ruling party",
+     "value": "PFDJ"
+    }
+   ]
+  },
+  {
+   "id": "region",
+   "title": "Region",
+   "text": [
+    "Relations with Ethiopia have become tense again."
+   ],
+   "related": [
+    "ETH"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "National service",
+   "meaning": "Compulsory military or civil work."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Since 1993",
+     "text": "Holds most power."
+    },
+    {
+     "title": "PFDJ",
+     "subtitle": "The only party",
+     "text": "Rules the country."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "Has not met for years",
+     "text": "No elections held."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Decrees",
+    "text": "Issued by the President."
+   },
+   {
+    "title": "No elections",
+    "text": "No national vote since independence."
+   }
+  ]
+ }
+}

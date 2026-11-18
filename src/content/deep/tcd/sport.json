@@ -1,0 +1,63 @@
+{
+ "status": "draft",
+ "intro": "Football and traditional wrestling are Chad's most popular sports.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Football is played across the country."
+   ]
+  },
+  {
+   "id": "athletics",
+   "title": "Athletics",
+   "text": [
+    "Chad has sent small teams of runners and judokas to the Olympics."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Judo",
+   "meaning": "A Japanese martial art."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Chad Premier League",
+     "subtitle": "Football",
+     "text": "The top league."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Chad's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Stade Idriss Mahamat Ouya",
+    "kind": "venue",
+    "lat": 12.12,
+    "lon": 15.05,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1960",
+    "title": "Independence",
+    "text": "A new nation."
+   }
+  ]
+ }
+}

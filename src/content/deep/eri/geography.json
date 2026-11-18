@@ -1,0 +1,73 @@
+{
+ "status": "draft",
+ "intro": "Eritrea stretches along the Red Sea, from cool highlands to the hot Danakil Depression.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "Highlands around Asmara are cool and green in the rainy season. The coast is hot, and the Dahlak Archipelago has coral reefs. The Danakil in the south-east is one of the hottest places on Earth."
+   ],
+   "related": [
+    "ETH",
+    "SDN",
+    "DJI"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Rain is scarce, and droughts are common."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Archipelago",
+   "meaning": "A group of islands."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Eritrea's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Asmara",
+    "kind": "modernist capital",
+    "lat": 15.33,
+    "lon": 38.93,
+    "text": "Art deco buildings."
+   },
+   {
+    "name": "Massawa",
+    "kind": "port",
+    "lat": 15.61,
+    "lon": 39.45,
+    "text": "An old Red Sea port."
+   },
+   {
+    "name": "Dahlak Islands",
+    "kind": "islands",
+    "lat": 15.7,
+    "lon": 40.2,
+    "text": "Coral reefs."
+   },
+   {
+    "name": "Qohaito",
+    "kind": "ruins",
+    "lat": 14.93,
+    "lon": 39.43,
+    "text": "Ancient city."
+   },
+   {
+    "name": "Filfil",
+    "kind": "forest",
+    "lat": 15.6,
+    "lon": 38.95,
+    "text": "Green escarpment forest."
+   }
+  ]
+ }
+}

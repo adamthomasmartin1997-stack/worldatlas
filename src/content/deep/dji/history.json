@@ -1,0 +1,73 @@
+{
+ "status": "draft",
+ "intro": "Djibouti is a small country at the mouth of the Red Sea whose port and military bases make it strategically important.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Afar and Issa",
+   "text": [
+    "Afar and Somali Issa peoples have lived here for centuries as herders and traders, along routes linking Africa and Arabia."
+   ],
+   "related": [
+    "ETH",
+    "SOM",
+    "YEM"
+   ]
+  },
+  {
+   "id": "french",
+   "title": "French Somaliland",
+   "text": [
+    "France took control in the 1880s, and a railway was built from Djibouti to Addis Ababa. It was called French Somaliland, then the French Territory of the Afars and Issas."
+   ],
+   "related": [
+    "FRA",
+    "ETH"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Djibouti became independent in 1977. Ismaïl Omar Guelleh has been president since 1999."
+   ],
+   "highlight": {
+    "title": "Location",
+    "text": "About 10% of world trade passes Djibouti through the Bab-el-Mandeb strait."
+   }
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1888",
+   "title": "Djibouti city",
+   "text": "Founded by France."
+  },
+  {
+   "year": "1917",
+   "title": "Railway",
+   "text": "Reaches Addis Ababa."
+  },
+  {
+   "year": "1977",
+   "title": "Independence",
+   "text": "27 June."
+  },
+  {
+   "year": "1999",
+   "title": "Guelleh",
+   "text": "Becomes president."
+  },
+  {
+   "year": "2017",
+   "title": "Chinese base",
+   "text": "China's first overseas base."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Strait",
+   "meaning": "A narrow sea passage."
+  }
+ ]
+}

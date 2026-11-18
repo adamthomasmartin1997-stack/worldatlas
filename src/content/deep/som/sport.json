@@ -1,0 +1,82 @@
+{
+ "status": "draft",
+ "intro": "Football and running are popular in Somalia, and Somali-born athletes have shone abroad.",
+ "chapters": [
+  {
+   "id": "athletes",
+   "title": "Athletes",
+   "text": [
+    "Mo Farah, born in Somalia, won four Olympic golds for Britain. Abdi Bile won the 1,500 m world title for Somalia in 1987."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Football is played in Mogadishu's rebuilt stadium."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "World title",
+   "meaning": "Winning a world championship."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Somali First Division",
+     "subtitle": "Football",
+     "text": "Clubs in Mogadishu."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Abdi Bile",
+     "subtitle": "1,500 m",
+     "text": "World champion 1987."
+    },
+    {
+     "title": "Mo Farah",
+     "subtitle": "Distance running",
+     "text": "Born in Somalia; four Olympic golds for Britain."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Somalia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Mogadishu Stadium",
+    "kind": "venue",
+    "lat": 2.05,
+    "lon": 45.33,
+    "text": "Rebuilt after war."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1987",
+    "title": "World champion",
+    "text": "Abdi Bile wins."
+   }
+  ]
+ }
+}

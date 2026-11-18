@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Eritrean culture is famous for coffee ceremonies, cycling and Italian-influenced cafés.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Coffee ceremonies are an important social ritual. Asmara's cafés serve macchiato and pastries, a legacy of Italian rule."
+   ],
+   "related": [
+    "ITA"
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Injera with zigni (spicy stew) and shiro is everyday food."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Zigni",
+   "meaning": "A spicy meat stew."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Krar",
+     "subtitle": "Instrument",
+     "text": "A five-string lyre."
+    },
+    {
+     "title": "Helen Meles",
+     "subtitle": "Singer",
+     "text": "A popular star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Zigni",
+     "subtitle": "Everywhere",
+     "text": "Spicy stew with injera."
+    },
+    {
+     "title": "Shiro",
+     "subtitle": "Everywhere",
+     "text": "Chickpea stew."
+    },
+    {
+     "title": "Ga'at",
+     "subtitle": "Breakfast",
+     "text": "Porridge with butter."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 5,
+    "name": "Independence Day",
+    "text": "24 May."
+   },
+   {
+    "month": 6,
+    "name": "Martyrs' Day",
+    "text": "20 June."
+   }
+  ]
+ }
+}

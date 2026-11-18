@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Burundi is a presidential republic dominated by the CNDD-FDD party.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for seven years; Évariste Ndayishimiye took office in 2020. Rights groups report repression of opponents."
+   ],
+   "facts": [
+    {
+     "label": "Political capital",
+     "value": "Gitega"
+    },
+    {
+     "label": "Economic capital",
+     "value": "Bujumbura"
+    },
+    {
+     "label": "Independence",
+     "value": "1962"
+    }
+   ]
+  },
+  {
+   "id": "region",
+   "title": "Region",
+   "text": [
+    "Burundian troops have served in peacekeeping missions in Somalia and DR Congo."
+   ],
+   "related": [
+    "SOM",
+    "COD"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Repression",
+   "meaning": "Using force to control people."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 7 years",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed",
+     "text": "Runs the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "Elected",
+     "text": "The lower house."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "Indirectly elected",
+     "text": "The upper house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Parliament",
+    "text": "Debates and passes it."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it into law."
+   }
+  ]
+ }
+}

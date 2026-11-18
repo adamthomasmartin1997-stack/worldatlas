@@ -1,0 +1,74 @@
+{
+ "status": "draft",
+ "intro": "Running and football are popular sports in Djibouti.",
+ "chapters": [
+  {
+   "id": "running",
+   "title": "Running",
+   "text": [
+    "Hussein Ahmed Salah won marathon bronze at the 1988 Olympics, Djibouti's only Olympic medal."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Football is played across the capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Marathon",
+   "meaning": "A 42 km race."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Djibouti Premier League",
+     "subtitle": "Football",
+     "text": "The top league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Hussein Ahmed Salah",
+     "subtitle": "Marathon",
+     "text": "Olympic bronze 1988."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Djibouti's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "El Hadj Hassan Gouled Aptidon Stadium",
+    "kind": "venue",
+    "lat": 11.57,
+    "lon": 43.13,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1988",
+    "title": "Olympic bronze",
+    "text": "The only medal so far."
+   }
+  ]
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Somalia is called a 'nation of poets', where verse is part of daily life.",
+ "chapters": [
+  {
+   "id": "poetry",
+   "title": "Poetry",
+   "text": [
+    "Poetry is part of everyday life and politics. Somali was only written in Latin letters from 1972."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Canjeero (a pancake-like bread), rice with spiced meat, and camel milk are common."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Canjeero",
+   "meaning": "A spongy flatbread."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "From a Crooked Rib",
+     "subtitle": "1970 · Nuruddin Farah",
+     "text": "A girl escapes a forced marriage."
+    },
+    {
+     "title": "Black Mamba Boy",
+     "subtitle": "2010 · Nadifa Mohamed",
+     "text": "A boy's journey in the 1930s."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "K'naan",
+     "subtitle": "Rapper",
+     "text": "'Wavin' Flag' became a World Cup anthem."
+    },
+    {
+     "title": "Waayaha Cusub",
+     "subtitle": "Band",
+     "text": "Somali music."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Canjeero",
+     "subtitle": "Breakfast",
+     "text": "Spongy flatbread."
+    },
+    {
+     "title": "Bariis iskukaris",
+     "subtitle": "Everywhere",
+     "text": "Spiced rice with meat."
+    },
+    {
+     "title": "Halwa",
+     "subtitle": "Celebrations",
+     "text": "A sticky sweet."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "1 July, union of 1960."
+   }
+  ]
+ }
+}

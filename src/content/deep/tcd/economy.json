@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Oil is Chad's main export, but most people farm and herd.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Oil is exported through a pipeline to Cameroon's coast. Cotton, gum arabic and livestock are also important."
+   ],
+   "related": [
+    "CMR",
+    "CHN"
+   ]
+  },
+  {
+   "id": "poverty",
+   "title": "Poverty",
+   "text": [
+    "Chad is one of the poorest countries in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gum arabic",
+   "meaning": "A tree sap used in food."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Chad",
+   "items": [
+    {
+     "title": "Oil",
+     "subtitle": "Doba",
+     "text": "Piped to Cameroon."
+    },
+    {
+     "title": "Cotton",
+     "subtitle": "South",
+     "text": "A big crop."
+    },
+    {
+     "title": "Gum arabic",
+     "subtitle": "Sahel",
+     "text": "A top exporter."
+    },
+    {
+     "title": "Livestock",
+     "subtitle": "Sahel",
+     "text": "Cattle and camels."
+    }
+   ],
+   "intro": "Some of the things Chad makes and sells to the world."
+  }
+ ]
+}

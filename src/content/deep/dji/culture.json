@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Djibouti's culture mixes Somali, Afar, Arab and French influences.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Poetry and song are important in both Somali and Afar culture."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Skoudehkaris (spiced rice with lamb) is the national dish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Skoudehkaris",
+   "meaning": "A spiced rice dish."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Skoudehkaris",
+     "subtitle": "Everywhere",
+     "text": "Spiced rice with lamb."
+    },
+    {
+     "title": "Lahoh",
+     "subtitle": "Breakfast",
+     "text": "A spongy pancake."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 6,
+    "name": "Independence Day",
+    "text": "27 June."
+   }
+  ]
+ }
+}

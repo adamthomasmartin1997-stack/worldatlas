@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Eritrea's economy is small, based on mining, farming and money from abroad.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Copper, zinc and gold from the Bisha mine are the main exports. Most people farm or herd. Eritreans abroad often pay a 2% tax to the state."
+   ],
+   "related": [
+    "CHN"
+   ]
+  },
+  {
+   "id": "coast",
+   "title": "Coast",
+   "text": [
+    "The ports of Massawa and Assab could link Ethiopia to the sea."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Diaspora tax",
+   "meaning": "A tax paid by citizens living abroad."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Eritrea",
+   "items": [
+    {
+     "title": "Copper and zinc",
+     "subtitle": "Bisha mine",
+     "text": "Main exports."
+    },
+    {
+     "title": "Gold",
+     "subtitle": "Mines",
+     "text": "Mined in the west."
+    },
+    {
+     "title": "Salt",
+     "subtitle": "Coast",
+     "text": "Harvested from the sea."
+    }
+   ],
+   "intro": "Some of the things Eritrea makes and sells to the world."
+  }
+ ]
+}

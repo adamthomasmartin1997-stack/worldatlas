@@ -1,0 +1,73 @@
+{
+ "status": "draft",
+ "intro": "Burundi is a landlocked land of green hills on the shore of Lake Tanganyika.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "Lake Tanganyika, one of the world's deepest lakes, borders the west. Hills cover most of the country. The southernmost source of the Nile is claimed to be in Burundi."
+   ],
+   "related": [
+    "RWA",
+    "TZA",
+    "COD"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The climate is mild in the highlands, with two rainy seasons."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Source",
+   "meaning": "Where a river begins."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Burundi's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Bujumbura",
+    "kind": "lakeside city",
+    "lat": -3.38,
+    "lon": 29.36,
+    "text": "On Lake Tanganyika."
+   },
+   {
+    "name": "Gitega",
+    "kind": "capital",
+    "lat": -3.43,
+    "lon": 29.92,
+    "text": "The political capital."
+   },
+   {
+    "name": "Kibira",
+    "kind": "rainforest",
+    "lat": -2.9,
+    "lon": 29.5,
+    "text": "Chimpanzees."
+   },
+   {
+    "name": "Karera Falls",
+    "kind": "waterfalls",
+    "lat": -3.98,
+    "lon": 30.0,
+    "text": "A series of falls."
+   },
+   {
+    "name": "Rusizi",
+    "kind": "delta park",
+    "lat": -3.3,
+    "lon": 29.27,
+    "text": "Hippos and birds."
+   }
+  ]
+ }
+}

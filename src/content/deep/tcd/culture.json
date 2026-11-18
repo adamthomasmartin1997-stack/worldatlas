@@ -1,0 +1,76 @@
+{
+ "status": "draft",
+ "intro": "Chad's culture reflects its many peoples, from Saharan Toubou to southern Sara.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Wrestling, music with the kakaki trumpet and the Gerewol festival of the Wodaabe are traditions."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Boule (millet or sorghum dough) with sauce is the staple."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Boule",
+   "meaning": "A dough of grain."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "A Screaming Man",
+     "subtitle": "2010 · Mahamat-Saleh Haroun",
+     "text": "Won a prize at Cannes."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Sahel blues",
+     "subtitle": "Music",
+     "text": "Desert guitar music."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Boule",
+     "subtitle": "Everywhere",
+     "text": "Grain dough with sauce."
+    },
+    {
+     "title": "Jarret de boeuf",
+     "subtitle": "Everywhere",
+     "text": "A slow-cooked beef stew."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "11 August."
+   }
+  ]
+ }
+}

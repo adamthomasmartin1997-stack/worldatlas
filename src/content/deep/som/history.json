@@ -1,0 +1,87 @@
+{
+ "status": "draft",
+ "intro": "Somalia sits on the Horn of Africa with the longest coastline on the African mainland, and has been rebuilding after decades of war.",
+ "chapters": [
+  {
+   "id": "punt",
+   "title": "Land of Punt and trading cities",
+   "text": [
+    "Ancient Egyptians traded for incense with the 'Land of Punt', which may have included northern Somalia. Rock paintings at Laas Geel are thousands of years old.",
+    "From the 900s, coastal cities like Mogadishu, Barawa and Zeila grew rich on Indian Ocean trade."
+   ],
+   "related": [
+    "EGY",
+    "ETH",
+    "YEM",
+    "IND"
+   ]
+  },
+  {
+   "id": "colonial",
+   "title": "Colonial division",
+   "text": [
+    "In the late 1800s Britain took the north and Italy the south. The two parts became independent and united as Somalia in 1960. The Dervish leader Mohammed Abdullah Hassan resisted the British for 20 years."
+   ],
+   "related": [
+    "GBR",
+    "ITA",
+    "ETH"
+   ]
+  },
+  {
+   "id": "war",
+   "title": "Collapse and rebuilding",
+   "text": [
+    "Siad Barre ruled from 1969 until 1991, when the state collapsed into civil war. Famine in 1992 brought a UN and US intervention. In the north, Somaliland declared independence in 1991 but is recognised by very few countries.",
+    "Since 2012 a federal government has slowly rebuilt the state while fighting the al-Shabaab insurgency."
+   ],
+   "related": [
+    "USA",
+    "KEN",
+    "ETH"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1500 BC",
+   "title": "Punt",
+   "text": "Trade with Egypt."
+  },
+  {
+   "year": "900s",
+   "title": "Mogadishu",
+   "text": "A trading city."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "North and south unite."
+  },
+  {
+   "year": "1969",
+   "title": "Siad Barre",
+   "text": "Takes power."
+  },
+  {
+   "year": "1991",
+   "title": "State collapse",
+   "text": "Civil war."
+  },
+  {
+   "year": "2012",
+   "title": "Federal government",
+   "text": "A new constitution."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Somaliland",
+   "meaning": "A self-declared state in the north."
+  },
+  {
+   "term": "Al-Shabaab",
+   "meaning": "An armed Islamist group."
+  }
+ ]
+}

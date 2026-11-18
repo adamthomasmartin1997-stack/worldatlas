@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Djibouti's economy is built around its port, which handles most of Ethiopia's trade.",
+ "chapters": [
+  {
+   "id": "port",
+   "title": "Port and railway",
+   "text": [
+    "A new electric railway, built by China, links Djibouti to Addis Ababa. Rent from foreign bases is a big source of income."
+   ],
+   "related": [
+    "ETH",
+    "CHN"
+   ]
+  },
+  {
+   "id": "salt",
+   "title": "Salt",
+   "text": [
+    "Salt from Lake Assal has been traded for centuries."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Transit",
+   "meaning": "Goods passing through a country."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Djibouti",
+   "items": [
+    {
+     "title": "Port services",
+     "subtitle": "Doraleh",
+     "text": "Gateway for Ethiopia."
+    },
+    {
+     "title": "Salt",
+     "subtitle": "Lake Assal",
+     "text": "Harvested for export."
+    },
+    {
+     "title": "Base rents",
+     "subtitle": "Foreign militaries",
+     "text": "A key income."
+    }
+   ],
+   "intro": "Some of the things Djibouti makes and sells to the world."
+  }
+ ]
+}

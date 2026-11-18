@@ -1,0 +1,78 @@
+{
+ "status": "draft",
+ "intro": "Chad, named after Lake Chad, stretches from the Sahara to the savanna and has been home to people for millions of years.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Toumaï and the green Sahara",
+   "text": [
+    "In 2001 scientists found 'Toumaï', a skull about 7 million years old that may belong to one of the earliest known human relatives. Rock art in the Ennedi Plateau shows a once-green Sahara."
+   ],
+   "related": [
+    "NER",
+    "LBY"
+   ]
+  },
+  {
+   "id": "empires",
+   "title": "Kanem-Bornu and Wadai",
+   "text": [
+    "The Kanem-Bornu Empire, around Lake Chad, lasted about a thousand years. The Baguirmi and Wadai kingdoms also traded across the Sahara."
+   ],
+   "related": [
+    "NGA",
+    "NER",
+    "CMR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "French rule and independence",
+   "text": [
+    "France conquered Chad by 1900. It became independent in 1960. Long civil wars followed, and Libya occupied the north until 1987. Idriss Déby ruled from 1990 until his death in 2021; his son Mahamat Déby now leads."
+   ],
+   "related": [
+    "FRA",
+    "LBY"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "7 million years ago",
+   "title": "Toumaï",
+   "text": "An early human relative."
+  },
+  {
+   "year": "800s",
+   "title": "Kanem Empire",
+   "text": "Rises."
+  },
+  {
+   "year": "1900",
+   "title": "French conquest",
+   "text": "Battle of Kousséri."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "11 August."
+  },
+  {
+   "year": "1990",
+   "title": "Déby",
+   "text": "Takes power."
+  },
+  {
+   "year": "2021",
+   "title": "Mahamat Déby",
+   "text": "Takes over."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sahel",
+   "meaning": "The dry belt south of the Sahara."
+  }
+ ]
+}

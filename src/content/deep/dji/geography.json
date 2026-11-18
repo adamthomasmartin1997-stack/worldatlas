@@ -1,0 +1,73 @@
+{
+ "status": "draft",
+ "intro": "Djibouti is one of the hottest and driest countries, with salt lakes below sea level.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "Lake Assal, at about 155 m below sea level, is the lowest point in Africa and one of the saltiest lakes on Earth. Lac Abbé has limestone chimneys that puff steam."
+   ],
+   "related": [
+    "ETH",
+    "ERI",
+    "SOM"
+   ]
+  },
+  {
+   "id": "sea",
+   "title": "Sea",
+   "text": [
+    "Whale sharks gather in the Gulf of Tadjoura each winter."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Salt lake",
+   "meaning": "A lake with very salty water."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Djibouti's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Lake Assal",
+    "kind": "salt lake",
+    "lat": 11.63,
+    "lon": 42.42,
+    "text": "Africa's lowest point."
+   },
+   {
+    "name": "Lac Abbé",
+    "kind": "limestone chimneys",
+    "lat": 11.15,
+    "lon": 41.85,
+    "text": "Steaming rock chimneys."
+   },
+   {
+    "name": "Day Forest",
+    "kind": "forest",
+    "lat": 11.77,
+    "lon": 42.65,
+    "text": "A rare forest."
+   },
+   {
+    "name": "Gulf of Tadjoura",
+    "kind": "gulf",
+    "lat": 11.7,
+    "lon": 43.0,
+    "text": "Whale sharks."
+   },
+   {
+    "name": "Djibouti City",
+    "kind": "capital",
+    "lat": 11.59,
+    "lon": 43.15,
+    "text": "Port and market."
+   }
+  ]
+ }
+}

@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Eritrea, on the Red Sea, won independence from Ethiopia in 1993 after a 30-year war.",
+ "chapters": [
+  {
+   "id": "aksum",
+   "title": "Ancient ports",
+   "text": [
+    "The port of Adulis was the gateway of the Kingdom of Aksum, trading with Rome, Arabia and India. Qohaito has ancient ruins."
+   ],
+   "related": [
+    "ETH",
+    "EGY",
+    "IND"
+   ]
+  },
+  {
+   "id": "italy",
+   "title": "Italian colony",
+   "text": [
+    "Italy made Eritrea its colony in 1890. Asmara was rebuilt with modernist buildings in the 1930s and is now a World Heritage site. Britain ran it after 1941, and in 1952 it was federated with Ethiopia, which annexed it in 1962."
+   ],
+   "highlight": {
+    "title": "Asmara",
+    "text": "Its 1930s modernist architecture earned it the nickname 'Africa's Little Rome'."
+   },
+   "related": [
+    "ITA",
+    "GBR",
+    "ETH"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "A liberation war led to victory in 1991 and independence after a referendum in 1993. A border war with Ethiopia from 1998 to 2000 killed tens of thousands; peace was made in 2018."
+   ],
+   "related": [
+    "ETH"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "100s",
+   "title": "Adulis",
+   "text": "Aksum's port."
+  },
+  {
+   "year": "1890",
+   "title": "Italian colony",
+   "text": "Founded."
+  },
+  {
+   "year": "1941",
+   "title": "British rule",
+   "text": "After Italy's defeat."
+  },
+  {
+   "year": "1962",
+   "title": "Annexed",
+   "text": "By Ethiopia."
+  },
+  {
+   "year": "1993",
+   "title": "Independence",
+   "text": "24 May."
+  },
+  {
+   "year": "1998",
+   "title": "Border war",
+   "text": "Until 2000."
+  },
+  {
+   "year": "2018",
+   "title": "Peace",
+   "text": "With Ethiopia."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Federation",
+   "meaning": "A union of states."
+  },
+  {
+   "term": "Modernist",
+   "meaning": "A 20th-century style of design."
+  }
+ ]
+}

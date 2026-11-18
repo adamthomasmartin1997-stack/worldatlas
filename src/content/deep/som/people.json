@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "Somalia has about 19 million people, mostly ethnic Somalis.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and clans",
+   "text": [
+    "Almost everyone is Somali, Sunni Muslim and speaks Somali, which is unusual in Africa. Clan families are central to society. Many Somalis live abroad in Kenya, Ethiopia, the UK, the US and elsewhere."
+   ],
+   "related": [
+    "KEN",
+    "ETH",
+    "GBR",
+    "USA"
+   ]
+  },
+  {
+   "id": "nomads",
+   "title": "Herders",
+   "text": [
+    "Many Somalis are nomadic herders of camels, goats and sheep."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Clan",
+   "meaning": "A large family group with a shared ancestor."
+  }
+ ]
+}

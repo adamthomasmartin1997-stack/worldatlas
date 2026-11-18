@@ -1,0 +1,93 @@
+{
+ "status": "draft",
+ "intro": "Somalia is a federal republic still building its institutions.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Parliament elects the president; Hassan Sheikh Mohamud returned in 2022. Federal member states like Puntland and Jubaland have their own governments."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Mogadishu"
+    },
+    {
+     "label": "Independence",
+     "value": "1960"
+    },
+    {
+     "label": "System",
+     "value": "Federal"
+    }
+   ]
+  },
+  {
+   "id": "au",
+   "title": "Security",
+   "text": [
+    "African Union troops have helped fight al-Shabaab for over 15 years."
+   ],
+   "related": [
+    "KEN",
+    "UGA",
+    "ETH"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Federal member state",
+   "meaning": "A region within the federation."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by parliament",
+     "text": "Head of state."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed by the President",
+     "text": "Leads the government."
+    },
+    {
+     "title": "Federal Parliament",
+     "subtitle": "Two houses",
+     "text": "Chosen through clan elders."
+    },
+    {
+     "title": "Member states",
+     "subtitle": "Federal states",
+     "text": "Regional governments."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Parliament",
+    "text": "Both houses debate it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

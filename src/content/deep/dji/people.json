@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Djibouti has about 1.1 million people, most living in the capital.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Somali Issa and the Afar are the largest groups. French and Arabic are official. Almost everyone is Muslim."
+   ]
+  },
+  {
+   "id": "city",
+   "title": "Djibouti City",
+   "text": [
+    "About three-quarters of people live in Djibouti City."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Afar",
+   "meaning": "A people of the Horn of Africa."
+  }
+ ]
+}

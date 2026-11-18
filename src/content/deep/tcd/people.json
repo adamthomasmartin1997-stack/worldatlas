@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Chad has about 20 million people from over 200 ethnic groups.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "French and Arabic are official. Muslims live mostly in the north and Christians in the south. Chad hosts over a million refugees from Sudan."
+   ],
+   "related": [
+    "SDN",
+    "CAF"
+   ]
+  },
+  {
+   "id": "capital",
+   "title": "N'Djamena",
+   "text": [
+    "N'Djamena, the capital, lies where the Chari and Logone rivers meet."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Refugee",
+   "meaning": "Someone forced to flee their country."
+  }
+ ]
+}

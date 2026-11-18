@@ -1,0 +1,70 @@
+{
+ "status": "draft",
+ "intro": "Burundi is world-famous for its royal drummers.",
+ "chapters": [
+  {
+   "id": "drums",
+   "title": "Royal drums",
+   "text": [
+    "The ritual dance of the royal drum, with drummers leaping as they play huge drums on their heads, is on UNESCO's list."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Beans, sweet potatoes, cassava and bananas are staples."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ingoma",
+   "meaning": "A sacred drum."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Royal drummers",
+     "subtitle": "Traditional",
+     "text": "Famous worldwide."
+    },
+    {
+     "title": "Khadja Nin",
+     "subtitle": "Singer",
+     "text": "An international star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Beans and plantains",
+     "subtitle": "Everywhere",
+     "text": "The everyday meal."
+    },
+    {
+     "title": "Mukeke",
+     "subtitle": "Lake Tanganyika",
+     "text": "A prized lake fish."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "1 July."
+   }
+  ]
+ }
+}

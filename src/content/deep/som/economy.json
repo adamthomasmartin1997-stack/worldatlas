@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Livestock and money from Somalis abroad are the backbone of the economy.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Somalia is one of the world's biggest exporters of camels, goats and sheep, mostly to the Gulf. Mobile money is very widely used."
+   ],
+   "related": [
+    "SAU",
+    "ARE"
+   ]
+  },
+  {
+   "id": "fishing",
+   "title": "Fishing",
+   "text": [
+    "The long coast has rich fishing waters."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Livestock",
+   "meaning": "Farm animals."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Somalia",
+   "items": [
+    {
+     "title": "Livestock",
+     "subtitle": "Herders",
+     "text": "Camels, goats and sheep."
+    },
+    {
+     "title": "Frankincense",
+     "subtitle": "North",
+     "text": "An ancient trade."
+    },
+    {
+     "title": "Fish",
+     "subtitle": "Coast",
+     "text": "Rich fishing grounds."
+    },
+    {
+     "title": "Bananas",
+     "subtitle": "South",
+     "text": "Once a big export."
+    }
+   ],
+   "intro": "Some of the things Somalia makes and sells to the world."
+  }
+ ]
+}

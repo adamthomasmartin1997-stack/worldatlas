@@ -1,0 +1,97 @@
+{
+ "status": "draft",
+ "intro": "Cycling is Eritrea's national passion, and its riders now race in the Tour de France.",
+ "chapters": [
+  {
+   "id": "cycling",
+   "title": "Cycling",
+   "text": [
+    "Races through Asmara draw big crowds. Daniel Teklehaimanot was the first Black African to wear a jersey at the Tour de France, in 2015, and Biniam Girmay won stages and the green jersey in 2024."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "running",
+   "title": "Running",
+   "text": [
+    "Zersenay Tadese won Eritrea's first Olympic medal, in 2004."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Green jersey",
+   "meaning": "The points prize at the Tour de France."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Tour of Eritrea",
+     "subtitle": "Cycling",
+     "text": "A stage race."
+    },
+    {
+     "title": "Asmara races",
+     "subtitle": "Cycling",
+     "text": "Weekend races in the capital."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Biniam Girmay",
+     "subtitle": "Cycling",
+     "text": "Tour de France green jersey 2024."
+    },
+    {
+     "title": "Daniel Teklehaimanot",
+     "subtitle": "Cycling",
+     "text": "Polka-dot jersey at the 2015 Tour."
+    },
+    {
+     "title": "Zersenay Tadese",
+     "subtitle": "Running",
+     "text": "Olympic bronze 2004."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Eritrea's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Cicero Stadium, Asmara",
+    "kind": "venue",
+    "lat": 15.33,
+    "lon": 38.93,
+    "text": "The main stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2004",
+    "title": "Olympic bronze",
+    "text": "Zersenay Tadese."
+   },
+   {
+    "year": "2024",
+    "title": "Green jersey",
+    "text": "Girmay at the Tour."
+   }
+  ]
+ }
+}

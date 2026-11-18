@@ -1,0 +1,82 @@
+{
+ "status": "draft",
+ "intro": "Burundi is a small, hilly country on Lake Tanganyika with a long royal history and a painful recent past.",
+ "chapters": [
+  {
+   "id": "kingdom",
+   "title": "Kingdom of Burundi",
+   "text": [
+    "A kingdom ruled by a mwami (king) existed from the 1600s. Royal drummers played sacred drums, a tradition that survives today."
+   ],
+   "related": [
+    "RWA",
+    "TZA"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "German and Belgian rule",
+   "text": [
+    "Germany claimed Burundi in the 1890s, and Belgium ruled it with Rwanda after World War One. It became independent in 1962 as a monarchy, then a republic in 1966."
+   ],
+   "related": [
+    "DEU",
+    "BEL",
+    "RWA"
+   ]
+  },
+  {
+   "id": "conflict",
+   "title": "Conflict and peace",
+   "text": [
+    "Violence between Hutu and Tutsi groups killed many in 1972 and in a civil war from 1993 to 2005. The Arusha peace agreement helped end the war. A 2015 crisis over a third presidential term led to deadly unrest."
+   ],
+   "related": [
+    "TZA",
+    "RWA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1600s",
+   "title": "Kingdom",
+   "text": "A mwami rules."
+  },
+  {
+   "year": "1890s",
+   "title": "German rule",
+   "text": "Part of German East Africa."
+  },
+  {
+   "year": "1962",
+   "title": "Independence",
+   "text": "1 July."
+  },
+  {
+   "year": "1993",
+   "title": "Civil war",
+   "text": "Until 2005."
+  },
+  {
+   "year": "2000",
+   "title": "Arusha accords",
+   "text": "A peace deal."
+  },
+  {
+   "year": "2019",
+   "title": "New capital",
+   "text": "Gitega becomes political capital."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mwami",
+   "meaning": "A king."
+  },
+  {
+   "term": "Arusha accords",
+   "meaning": "The 2000 peace agreement."
+  }
+ ]
+}

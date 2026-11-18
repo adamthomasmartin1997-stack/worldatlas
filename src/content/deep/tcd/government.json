@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Chad is a presidential republic led by Mahamat Déby.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Mahamat Déby took power after his father's death in 2021 and won a 2024 election that critics called unfair. In 2025 term limits were removed."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "N'Djamena"
+    },
+    {
+     "label": "Independence",
+     "value": "1960"
+    },
+    {
+     "label": "Languages",
+     "value": "French, Arabic"
+    }
+   ]
+  },
+  {
+   "id": "france",
+   "title": "Foreign troops",
+   "text": [
+    "French troops left Chad in early 2025."
+   ],
+   "related": [
+    "FRA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Term limit",
+   "meaning": "A cap on time in office."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected",
+     "text": "Holds most power."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed",
+     "text": "Leads the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "Elected",
+     "text": "The lower house."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "Partly appointed",
+     "text": "The upper house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Parliament",
+    "text": "Debates and passes it."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it into law."
+   }
+  ]
+ }
+}

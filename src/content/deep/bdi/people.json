@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Burundi has about 14 million people and is one of Africa's most densely populated countries.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Hutu, Tutsi and Twa share the Kirundi language. French and English are also official. Most people are Christian and live by farming on small plots of land."
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Bujumbura is the largest city; Gitega is the political capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kirundi",
+   "meaning": "The national language."
+  }
+ ]
+}

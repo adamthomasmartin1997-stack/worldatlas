@@ -1,0 +1,89 @@
+{
+ "status": "draft",
+ "intro": "Running and football are Burundi's most popular sports.",
+ "chapters": [
+  {
+   "id": "running",
+   "title": "Running",
+   "text": [
+    "Vénuste Niyongabo won the 5,000 m at the 1996 Olympics, Burundi's first gold. Francine Niyonsaba won 800 m silver in 2016."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Swallows played their first Africa Cup of Nations in 2019."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Swallows",
+   "meaning": "The national football team."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Burundi Premier League",
+     "subtitle": "Football",
+     "text": "The top league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Vénuste Niyongabo",
+     "subtitle": "Running",
+     "text": "Olympic champion 1996."
+    },
+    {
+     "title": "Francine Niyonsaba",
+     "subtitle": "Running",
+     "text": "Olympic silver 2016."
+    },
+    {
+     "title": "Saido Berahino",
+     "subtitle": "Football",
+     "text": "Played in the Premier League."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Burundi's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Intwari Stadium, Bujumbura",
+    "kind": "venue",
+    "lat": -3.37,
+    "lon": 29.36,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1996",
+    "title": "Olympic gold",
+    "text": "Niyongabo in Atlanta."
+   },
+   {
+    "year": "2019",
+    "title": "AFCON debut",
+    "text": "A first finals."
+   }
+  ]
+ }
+}

@@ -1,0 +1,74 @@
+{
+ "status": "draft",
+ "intro": "Somalia is mostly dry plains and plateaus, with mountains in the north and two rivers in the south.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "The Juba and Shabelle rivers water farmland in the south. The north has the Cal Madow mountains. The coast faces the Gulf of Aden and the Indian Ocean."
+   ],
+   "related": [
+    "ETH",
+    "KEN",
+    "DJI",
+    "YEM"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Droughts",
+   "text": [
+    "Repeated droughts have killed livestock and caused famine, made worse by climate change."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Horn of Africa",
+   "meaning": "The north-eastern tip of Africa."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Somalia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Laas Geel",
+    "kind": "cave paintings",
+    "lat": 9.78,
+    "lon": 44.45,
+    "text": "Ancient rock art in Somaliland."
+   },
+   {
+    "name": "Cal Madow",
+    "kind": "mountains",
+    "lat": 10.9,
+    "lon": 47.5,
+    "text": "Juniper forests."
+   },
+   {
+    "name": "Mogadishu",
+    "kind": "capital",
+    "lat": 2.05,
+    "lon": 45.32,
+    "text": "An old port city."
+   },
+   {
+    "name": "Jubba River",
+    "kind": "river valley",
+    "lat": 0.5,
+    "lon": 42.5,
+    "text": "Southern farmland."
+   },
+   {
+    "name": "Kismayo",
+    "kind": "port",
+    "lat": -0.36,
+    "lon": 42.55,
+    "text": "A southern port."
+   }
+  ]
+ }
+}

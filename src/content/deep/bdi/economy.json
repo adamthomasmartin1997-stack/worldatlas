@@ -1,0 +1,50 @@
+{
+ "status": "draft",
+ "intro": "Burundi is one of the poorest countries in the world, relying on coffee and tea.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Coffee and tea make up most exports. Most people farm to feed their families. Fuel shortages have been a problem."
+   ]
+  },
+  {
+   "id": "minerals",
+   "title": "Minerals",
+   "text": [
+    "Burundi has nickel and rare earth deposits."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Export",
+   "meaning": "A good sold abroad."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Burundi",
+   "items": [
+    {
+     "title": "Coffee",
+     "subtitle": "Highlands",
+     "text": "Speciality arabica."
+    },
+    {
+     "title": "Tea",
+     "subtitle": "Highlands",
+     "text": "Grown on estates."
+    },
+    {
+     "title": "Bananas",
+     "subtitle": "Everywhere",
+     "text": "Eaten and brewed."
+    }
+   ],
+   "intro": "Some of the things Burundi makes and sells to the world."
+  }
+ ]
+}

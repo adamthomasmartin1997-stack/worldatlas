@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Chad is Africa's fifth-largest country, with desert in the north and savanna in the south.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Desert, lake and savanna",
+   "text": [
+    "The Tibesti Mountains, with Emi Koussi at 3,415 m, are the highest in the Sahara. The Ennedi Plateau has rock arches and canyons. Lake Chad has shrunk by about 90% since the 1960s."
+   ],
+   "related": [
+    "LBY",
+    "NER",
+    "NGA",
+    "CMR",
+    "CAF",
+    "SDN"
+   ]
+  },
+  {
+   "id": "wildlife",
+   "title": "Zakouma",
+   "text": [
+    "Zakouma National Park has saved its elephants from poachers."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Arch",
+   "meaning": "A natural rock bridge."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Chad's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Tibesti Mountains",
+    "kind": "volcanic mountains",
+    "lat": 21.0,
+    "lon": 18.5,
+    "text": "Emi Koussi."
+   },
+   {
+    "name": "Ennedi Plateau",
+    "kind": "rock arches",
+    "lat": 17.0,
+    "lon": 22.0,
+    "text": "Arches and rock art."
+   },
+   {
+    "name": "Lakes of Ounianga",
+    "kind": "desert lakes",
+    "lat": 19.05,
+    "lon": 20.5,
+    "text": "Lakes in the Sahara."
+   },
+   {
+    "name": "Lake Chad",
+    "kind": "shrinking lake",
+    "lat": 13.3,
+    "lon": 14.3,
+    "text": "Much smaller than before."
+   },
+   {
+    "name": "N'Djamena",
+    "kind": "capital",
+    "lat": 12.13,
+    "lon": 15.06,
+    "text": "Where two rivers meet."
+   },
+   {
+    "name": "Zakouma",
+    "kind": "national park",
+    "lat": 10.85,
+    "lon": 19.65,
+    "text": "Elephants and buffalo."
+   }
+  ]
+ }
+}
