@@ -3,6 +3,7 @@ import { useNavigate } from 'react-router-dom';
 import { geoAlbersUsa, geoPath } from 'd3-geo';
 import { useUsStates, statePath } from './usStates';
 import { MarkerLayer, placeMarkers } from './mapMarkers';
+import { ZoomableSvg } from './ZoomableSvg';
 
 const W = 960, H = 600;
 const INSETS = ['02', '15']; // Alaska and Hawaii are drawn in boxes (geoAlbersUsa moves them there)
@@ -39,8 +40,8 @@ export function UsMap({ highlight }: { highlight?: string }) {
 
   return (
     <div className="map-frame us-map" ref={frame} onPointerLeave={() => setTip(null)}>
-      <svg viewBox={`0 0 ${W} ${H}`} className="map-svg" role="img"
-        aria-label={`Map of the United States showing its ${drawn.states.length - 1} states and Washington, D.C. Alaska and Hawaii are shown in boxes. Marked cities: ${drawn.markers.map((m) => m.n).join(', ')}. Every state is also listed as a link below the map.`}>
+      <ZoomableSvg width={W} height={H}
+        label={`Map of the United States showing its ${drawn.states.length - 1} states and Washington, D.C. Alaska and Hawaii are shown in boxes. Marked cities: ${drawn.markers.map((m) => m.n).join(', ')}. Every state is also listed as a link below the map.`}>
         {drawn.boxes.map((b) => (
           <g key={b.name} className="inset-box" aria-hidden="true">
             <rect x={b.x} y={b.y} width={b.w} height={b.h} rx={10} />
@@ -60,7 +61,7 @@ export function UsMap({ highlight }: { highlight?: string }) {
           />
         ))}
         <MarkerLayer markers={drawn.markers} />
-      </svg>
+      </ZoomableSvg>
       {tip && <div className="map-tooltip" style={{ left: tip.x, top: tip.y }} aria-hidden="true">{tip.text}</div>}
     </div>
   );

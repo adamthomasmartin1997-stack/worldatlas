@@ -1,3 +1,4 @@
+import { useZoomScale } from './ZoomableSvg';
 import type { GeoProjection } from 'd3-geo';
 
 export interface City { n: string; lat: number; lon: number; p?: number; c?: 1 }
@@ -62,10 +63,11 @@ export function placeMarkers(cities: City[], projection: GeoProjection, W: numbe
 }
 
 export function MarkerLayer({ markers }: { markers: Marker[] }) {
+  const k = useZoomScale();
   return (
     <>
       {markers.map((m) => (
-        <g key={m.n} transform={`translate(${m.xy[0]} ${m.xy[1]})`} className={m.c ? 'city is-capital' : 'city'}>
+        <g key={m.n} transform={`translate(${m.xy[0]} ${m.xy[1]}) scale(${1 / k})`} className={m.c ? 'city is-capital' : 'city'}>
           <circle r={m.c ? 8 : 5.5} />
           {m.label && <text x={m.label.tx} y={m.label.ty} textAnchor={m.label.anchor} fontSize={m.size}>{m.n}</text>}
         </g>

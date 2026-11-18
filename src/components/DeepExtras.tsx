@@ -1,4 +1,5 @@
 // Building blocks for deep-dive pages: a numbered-pin map, a population pyramid, comparison bars,
+import { ZoomableSvg, useZoomScale } from './ZoomableSvg';
 // card groups, a festival calendar and step lists. All are plain, accessible HTML/SVG.
 import { useEffect, useMemo, useState } from 'react';
 import { geoCentroid, geoContains, geoNaturalEarth1, geoPath } from 'd3-geo';
@@ -15,6 +16,24 @@ const W = 600, H = 520, PAD = 28;
  * The country's outline with numbered pins, plus a numbered list underneath (the list is the accessible
  * alternative to the map). Pins outside the main landmass (e.g. overseas islands) are listed without a number.
  */
+/** Numbered pins that keep their size on screen when the map is zoomed. */
+function PinLayer({ points, pins, numbers }: { points: ({ at: number[]; real: number[] } | null)[]; pins: Pin[]; numbers: (number | null)[] }) {
+  const k = useZoomScale();
+  return (
+    <>
+      {points.map((pt, i) => pt && (
+        <g key={pins[i].name} className={`pin pin-${pins[i].kind ?? 'place'}`}>
+          {(pt.at[0] !== pt.real[0] || pt.at[1] !== pt.real[1]) && <><line x1={pt.real[0]} y1={pt.real[1]} x2={pt.at[0]} y2={pt.at[1]} className="pin-leader" /><circle cx={pt.real[0]} cy={pt.real[1]} r={3 / k} className="pin-dot" /></>}
+          <g transform={`translate(${pt.at[0]},${pt.at[1]}) scale(${1 / k})`}>
+            <circle r={13} />
+            <text textAnchor="middle" dy="0.35em">{numbers[i]}</text>
+          </g>
+        </g>
+      ))}
+    </>
+  );
+}
+
 export function PinMap({ country, pins: given, label, insideOnly }: { country: Country; pins: Pin[]; label: string; insideOnly?: boolean }) {
   const { features } = useWorld();
   // For shared (transnational) sites, drop points that fall outside this country's borders.
@@ -54,18 +73,10 @@ export function PinMap({ country, pins: given, label, insideOnly }: { country: C
     <div className="pin-map">
       {drawn && (
         <div className="map-frame country-map">
-          <svg viewBox={`0 0 ${W} ${H}`} className="map-svg" role="img" aria-label={`${label}: map of ${country.name} with ${n} numbered places, listed below`}>
+          <ZoomableSvg width={W} height={H} label={`${label}: map of ${country.name} with ${n} numbered places, listed below`}>
             <path d={drawn.d} className="country-shape" />
-            {drawn.points.map((pt, i) => pt && (
-              <g key={pins[i].name} className={`pin pin-${pins[i].kind ?? 'place'}`}>
-                {(pt.at[0] !== pt.real[0] || pt.at[1] !== pt.real[1]) && <><line x1={pt.real[0]} y1={pt.real[1]} x2={pt.at[0]} y2={pt.at[1]} className="pin-leader" /><circle cx={pt.real[0]} cy={pt.real[1]} r={3} className="pin-dot" /></>}
-                <g transform={`translate(${pt.at[0]},${pt.at[1]})`}>
-                  <circle r={13} />
-                  <text textAnchor="middle" dy="0.35em">{numbers[i]}</text>
-                </g>
-              </g>
-            ))}
-          </svg>
+            <PinLayer points={drawn.points} pins={pins} numbers={numbers} />
+          </ZoomableSvg>
         </div>
       )}
       <ol className="pin-list">

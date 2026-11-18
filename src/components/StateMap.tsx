@@ -3,6 +3,7 @@ import { geoArea, geoCentroid, geoDistance, geoNaturalEarth1, geoPath } from 'd3
 import type { Feature, Geometry, MultiPolygon, Polygon } from 'geojson';
 import { MarkerLayer, describeMarkers, placeMarkers } from './mapMarkers';
 import type { UsState } from './usStates';
+import { ZoomableSvg } from './ZoomableSvg';
 
 const W = 600, H = 480, PAD = 28;
 
@@ -28,10 +29,10 @@ export function StateMap({ state }: { state: UsState }) {
   }, [state]);
   return (
     <div className="map-frame country-map is-landlocked">
-      <svg viewBox={`0 0 ${W} ${H}`} className="map-svg" role="img" aria-label={describeMarkers(state.name, drawn.markers)}>
+      <ZoomableSvg width={W} height={H} label={describeMarkers(state.name, drawn.markers)}>
         <path d={drawn.d} className="country-shape" />
         <MarkerLayer markers={drawn.markers} />
-      </svg>
+      </ZoomableSvg>
     </div>
   );
 }

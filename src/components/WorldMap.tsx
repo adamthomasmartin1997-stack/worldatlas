@@ -3,6 +3,18 @@ import { geoArea, geoNaturalEarth1, geoPath } from 'd3-geo';
 import type { FeatureCollection, Geometry } from 'geojson';
 import { useWorld, type CountryFeature } from './useWorld';
 import { getCountry } from '../data/countries';
+import { ZoomableSvg, useZoomScale } from './ZoomableSvg';
+
+/** A pin that stays the same size on screen however far the map is zoomed. */
+function MapPin({ at }: { at: [number, number] }) {
+  const k = useZoomScale();
+  return (
+    <g className="map-pin" transform={`translate(${at[0]} ${at[1]}) scale(${1 / k})`} aria-hidden="true">
+      <circle r="16" className="map-pin-ring" />
+      <circle r="6" className="map-pin-dot" />
+    </g>
+  );
+}
 
 const WIDTH = 960;
 
@@ -73,7 +85,7 @@ function WorldMapInner({ label, onSelect, classFor, focus, hideNames, onlyFocusR
 
   return (
     <div className="map-frame" ref={frame} onPointerLeave={() => setTip(null)}>
-      <svg className="map-svg" viewBox={`0 0 ${WIDTH} ${height}`} role="img" aria-label={label}>
+      <ZoomableSvg width={WIDTH} height={height} label={label}>
         {paths.map(({ f, d }) => {
           const code = f.properties.cca3;
           const country = getCountry(code ?? undefined);
@@ -89,13 +101,8 @@ function WorldMapInner({ label, onSelect, classFor, focus, hideNames, onlyFocusR
             />
           );
         })}
-        {pinAt && (
-          <g className="map-pin" transform={`translate(${pinAt[0]} ${pinAt[1]})`} aria-hidden="true">
-            <circle r="16" className="map-pin-ring" />
-            <circle r="6" className="map-pin-dot" />
-          </g>
-        )}
-      </svg>
+        {pinAt && <MapPin at={pinAt as [number, number]} />}
+      </ZoomableSvg>
       {tip && <div className="map-tooltip" style={{ left: tip.x, top: tip.y }} aria-hidden="true">{tip.text}</div>}
     </div>
   );

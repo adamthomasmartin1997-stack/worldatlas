@@ -6,6 +6,7 @@ import { WorldMap } from './WorldMap';
 import { UsMap } from './UsMap';
 import { MarkerLayer, describeMarkers, placeMarkers, type City } from './mapMarkers';
 import type { Country } from '../data/countries';
+import { ZoomableSvg } from './ZoomableSvg';
 let citiesCache: Promise<Record<string, City[]>> | null = null;
 const loadCities = () =>
   (citiesCache ??= fetch(`${import.meta.env.BASE_URL}data/cities.json`)
@@ -52,11 +53,10 @@ export function CountryMap({ country }: { country: Country }) {
   return (
     <>
     <div className={`map-frame country-map${country.landlocked ? ' is-landlocked' : ''}`}>
-      <svg viewBox={`0 0 ${W} ${H}`} className="map-svg" role="img"
-        aria-label={describeMarkers(country.name, drawn.markers)}>
+      <ZoomableSvg width={W} height={H} label={describeMarkers(country.name, drawn.markers)}>
         <path d={drawn.d} className="country-shape" />
         <MarkerLayer markers={drawn.markers} />
-      </svg>
+      </ZoomableSvg>
     </div>
     {drawn.trimmed && <p className="source-note">Far-off islands and overseas regions aren't shown.</p>}
     </>

@@ -46,7 +46,7 @@
   transition: transform var(--ease), box-shadow var(--ease), background var(--ease);
 }
 .btn-primary { background: var(--sun); box-shadow: var(--shadow-md); }
-.btn-primary:hover { color: var(--ink); transform: translate(2px, 2px); box-shadow: 2px 2px 0 var(--ink); }
+.btn-primary:hover { color: var(--ink); transform: translate(2px, 2px); box-shadow: 3px 3px 0 var(--ink); }
 .btn-primary:active { transform: translate(4px, 4px); box-shadow: none; }
 .btn-secondary { background: var(--surface); }
 .btn-secondary:hover { color: var(--ink); background: var(--tint-green); }
@@ -124,6 +124,21 @@ select.input { box-shadow: none; min-height: var(--touch); }
 /* ---------- Map ---------- */
 .map-frame { position: relative; background: var(--map-sea); border: var(--outline); border-radius: var(--radius-card); box-shadow: var(--shadow-lg); overflow: hidden; }
 .map-svg { display: block; width: 100%; height: auto; touch-action: manipulation; }
+/* Zoomable maps: at normal size one-finger drags scroll the page (pinches come to the map); once zoomed, drags move the map. */
+.map-svg.zoomable { touch-action: pan-y; user-select: none; -webkit-user-select: none; }
+.map-svg.zoomable.is-zoomed { touch-action: none; cursor: grab; }
+.map-svg.zoomable.is-zoomed:active { cursor: grabbing; }
+.zoom-layer { transform-origin: 0 0; }
+.zoom-layer.is-animating { transition: transform 220ms ease-out; }
+@media (prefers-reduced-motion: reduce) { .zoom-layer.is-animating { transition: none; } }
+.zoom-layer path, .zoom-layer line, .zoom-layer rect { vector-effect: non-scaling-stroke; }
+.zoom-controls { position: absolute; right: var(--space-2); bottom: var(--space-2); display: flex; gap: var(--space-2); align-items: center; }
+.zoom-btn { display: inline-flex; align-items: center; justify-content: center; gap: var(--space-1); min-width: 44px; height: 44px; padding: 0 var(--space-2); border: var(--outline); border-radius: var(--radius-control); background: var(--surface); color: var(--ink); font: inherit; font-weight: 700; font-size: 0.9rem; cursor: pointer; box-shadow: 3px 3px 0 var(--ink); }
+.zoom-btn:hover:not(:disabled) { background: var(--tint-green); }
+.zoom-btn:active:not(:disabled) { transform: translate(3px, 3px); box-shadow: none; }
+.zoom-btn:disabled { opacity: 0.4; cursor: default; box-shadow: none; }
+.zoom-btn:focus-visible { outline: 3px solid var(--ink); outline-offset: 2px; }
+.zoom-reset { padding: 0 var(--space-3); background: var(--sun); }
 .map-country { fill: var(--land-3); stroke: var(--map-border); stroke-width: 0.6; vector-effect: non-scaling-stroke; transition: fill var(--ease); }
 .map-country.land-africa { fill: var(--land-4); }
 .map-country.land-americas { fill: var(--land-2); }
