@@ -1,0 +1,87 @@
+{
+ "status": "draft",
+ "intro": "Tajikistan is an authoritarian presidential republic.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "President Emomali Rahmon has held power since 1992 and is called 'Leader of the Nation'. Opposition parties have been banned and elections are not seen as free."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Dushanbe"
+    },
+    {
+     "label": "Independence",
+     "value": "1991"
+    },
+    {
+     "label": "Autonomous region",
+     "value": "Gorno-Badakhshan"
+    }
+   ]
+  },
+  {
+   "id": "region",
+   "title": "Neighbours",
+   "text": [
+    "Tajikistan borders Afghanistan along the Panj river, and Russia keeps a military base there."
+   ],
+   "related": [
+    "AFG",
+    "RUS"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Authoritarian",
+   "meaning": "A system with power concentrated in a few hands."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 7 years",
+     "text": "Holds most power."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed by the President",
+     "text": "Runs the government."
+    },
+    {
+     "title": "Majlisi Oli",
+     "subtitle": "Two houses",
+     "text": "The parliament."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "Mostly by the government."
+   },
+   {
+    "title": "Majlisi Oli",
+    "text": "Both houses approve it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

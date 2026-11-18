@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Uzbekistan is Central Asia's most populous country, with about 37 million people.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are Uzbeks, with Tajik, Kazakh, Russian and Karakalpak minorities. Uzbek is a Turkic language, and Russian is widely understood.",
+    "Most Uzbeks are Sunni Muslim. The population is young and growing."
+   ],
+   "related": [
+    "TJK",
+    "KAZ"
+   ]
+  },
+  {
+   "id": "tashkent",
+   "title": "Tashkent",
+   "text": [
+    "Tashkent, the capital, is the largest city in Central Asia, rebuilt after a 1966 earthquake."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Karakalpakstan",
+   "meaning": "An autonomous republic in western Uzbekistan."
+  }
+ ]
+}

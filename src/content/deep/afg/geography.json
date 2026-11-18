@@ -1,0 +1,105 @@
+{
+ "status": "draft",
+ "intro": "Afghanistan is a landlocked, mountainous country, with the Hindu Kush running through its centre.",
+ "chapters": [
+  {
+   "id": "mountains",
+   "title": "The Hindu Kush",
+   "text": [
+    "The Hindu Kush covers much of the country; Noshaq, at 7,492 m, is the highest peak. The Wakhan Corridor is a narrow strip in the north-east that reaches China.",
+    "Deserts cover the south and south-west, and fertile plains lie in the north."
+   ],
+   "related": [
+    "PAK",
+    "IRN",
+    "TJK",
+    "UZB",
+    "TKM",
+    "CHN"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Winters are cold and snowy in the mountains, summers hot and dry. Droughts and earthquakes often hit the country."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Wakhan Corridor",
+   "meaning": "A narrow finger of Afghan land between Tajikistan and Pakistan."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Afghanistan's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Band-e Amir",
+    "kind": "lakes",
+    "lat": 34.84,
+    "lon": 67.23,
+    "text": "Deep-blue lakes behind natural travertine dams."
+   },
+   {
+    "name": "Bamiyan",
+    "kind": "valley",
+    "lat": 34.82,
+    "lon": 67.82,
+    "text": "Where the giant Buddhas once stood."
+   },
+   {
+    "name": "Kabul",
+    "kind": "capital",
+    "lat": 34.53,
+    "lon": 69.17,
+    "text": "A city in a mountain bowl."
+   },
+   {
+    "name": "Minaret of Jam",
+    "kind": "minaret",
+    "lat": 34.4,
+    "lon": 64.52,
+    "text": "A 65 m brick tower in a remote valley."
+   },
+   {
+    "name": "Herat",
+    "kind": "old city",
+    "lat": 34.35,
+    "lon": 62.2,
+    "text": "A citadel and a blue-tiled mosque."
+   },
+   {
+    "name": "Panjshir Valley",
+    "kind": "valley",
+    "lat": 35.3,
+    "lon": 69.5,
+    "text": "A green valley in the Hindu Kush."
+   },
+   {
+    "name": "Wakhan Corridor",
+    "kind": "high valley",
+    "lat": 37.0,
+    "lon": 73.0,
+    "text": "A narrow strip reaching China."
+   },
+   {
+    "name": "Noshaq",
+    "kind": "mountain",
+    "lat": 36.43,
+    "lon": 71.83,
+    "text": "The highest peak, 7,492 m."
+   },
+   {
+    "name": "Registan Desert",
+    "kind": "desert",
+    "lat": 30.5,
+    "lon": 65.0,
+    "text": "Red sand dunes in the south."
+   }
+  ]
+ }
+}

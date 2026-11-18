@@ -1,0 +1,126 @@
+{
+ "status": "draft",
+ "intro": "Kyrgyz culture is rooted in nomadic life, from felt carpets to epic poetry.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "The yurt's round roof frame, the tunduk, is on the national flag. Shyrdak felt carpets and the white kalpak hat are symbols. Manaschi storytellers recite Manas from memory."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Beshbarmak, plov, lagman and kymyz (fermented mare's milk) are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tunduk",
+   "meaning": "The crown of a yurt."
+  },
+  {
+   "term": "Shyrdak",
+   "meaning": "A felt carpet."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Adopted Son",
+     "subtitle": "1998 · Aktan Abdykalykov",
+     "text": "A boy grows up in a village."
+    },
+    {
+     "title": "Centaur",
+     "subtitle": "2017 · Aktan Arym Kubat",
+     "text": "A horse thief and nomad legends."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Jamilia",
+     "subtitle": "1958 · Chingiz Aitmatov",
+     "text": "A love story; Aitmatov is Kyrgyzstan's great writer."
+    },
+    {
+     "title": "The Day Lasts More Than a Hundred Years",
+     "subtitle": "1980 · Chingiz Aitmatov",
+     "text": "A railway worker's story."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Komuz",
+     "subtitle": "Instrument",
+     "text": "A three-stringed lute."
+    },
+    {
+     "title": "Manas recitation",
+     "subtitle": "Manaschi",
+     "text": "Epic poetry; UNESCO-listed."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Beshbarmak",
+     "subtitle": "Everywhere",
+     "text": "Meat and noodles."
+    },
+    {
+     "title": "Kymyz",
+     "subtitle": "Summer",
+     "text": "Fermented mare's milk."
+    },
+    {
+     "title": "Boorsok",
+     "subtitle": "Everywhere",
+     "text": "Fried dough."
+    },
+    {
+     "title": "Lagman",
+     "subtitle": "Everywhere",
+     "text": "Hand-pulled noodles."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Nooruz",
+    "text": "Spring New Year."
+   },
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "31 August."
+   },
+   {
+    "month": 9,
+    "name": "World Nomad Games",
+    "text": "Held some years."
+   }
+  ]
+ }
+}

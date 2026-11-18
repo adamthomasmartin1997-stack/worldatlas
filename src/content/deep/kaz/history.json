@@ -1,0 +1,107 @@
+{
+ "status": "draft",
+ "intro": "Kazakhstan, the world's largest landlocked country, was the homeland of nomadic horse peoples for thousands of years and is now a major energy producer.",
+ "chapters": [
+  {
+   "id": "steppe",
+   "title": "Horse peoples of the steppe",
+   "text": [
+    "Some of the earliest evidence of horse riding and milking comes from Botai in northern Kazakhstan, about 5,500 years ago. Scythians and Saka nomads later roamed the steppe; the 'Golden Man', a warrior buried in gold armour, was found near Almaty.",
+    "Silk Road cities like Otrar and Turkistan grew in the south."
+   ],
+   "related": [
+    "RUS",
+    "CHN",
+    "UZB"
+   ]
+  },
+  {
+   "id": "khanate",
+   "title": "The Kazakh Khanate",
+   "text": [
+    "After the Mongol Empire, the Kazakh Khanate was founded around 1465. Kazakhs lived as herders, moving with the seasons and living in yurts, and were divided into three hordes, or zhuz."
+   ],
+   "related": [
+    "MNG"
+   ]
+  },
+  {
+   "id": "russia",
+   "title": "Russian and Soviet rule",
+   "text": [
+    "Russia took over the steppe in the 1700s and 1800s. Under Soviet rule, forced collectivisation caused a famine in the early 1930s that killed over a third of all Kazakhs.",
+    "The Soviets tested nuclear bombs at Semipalatinsk and launched the first satellite and first human into space from Baikonur. Millions of people, from Russians to deported peoples, were moved to Kazakhstan."
+   ],
+   "highlight": {
+    "title": "Space",
+    "text": "Yuri Gagarin's 1961 flight, the first by a human into space, took off from Kazakhstan."
+   },
+   "related": [
+    "RUS"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Kazakhstan became independent in 1991, the last Soviet republic to do so. Nursultan Nazarbayev ruled until 2019 and moved the capital to Astana. Unrest in January 2022 left over 200 people dead."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 3500 BC",
+   "title": "Botai",
+   "text": "Early horse riding."
+  },
+  {
+   "year": "c. 1465",
+   "title": "Kazakh Khanate",
+   "text": "Founded."
+  },
+  {
+   "year": "1731",
+   "title": "Russian protection",
+   "text": "Russia's rule begins."
+  },
+  {
+   "year": "1930s",
+   "title": "Famine",
+   "text": "Over a million Kazakhs die."
+  },
+  {
+   "year": "1949",
+   "title": "Nuclear tests",
+   "text": "At Semipalatinsk."
+  },
+  {
+   "year": "1961",
+   "title": "Gagarin",
+   "text": "Launches from Baikonur."
+  },
+  {
+   "year": "1991",
+   "title": "Independence",
+   "text": "16 December."
+  },
+  {
+   "year": "1997",
+   "title": "New capital",
+   "text": "Moved to Astana."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Steppe",
+   "meaning": "Huge open grassland."
+  },
+  {
+   "term": "Yurt",
+   "meaning": "A round felt tent used by nomads."
+  },
+  {
+   "term": "Nomad",
+   "meaning": "Someone who moves with their animals instead of living in one place."
+  }
+ ]
+}

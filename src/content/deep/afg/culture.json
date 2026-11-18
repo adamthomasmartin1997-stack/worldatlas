@@ -1,0 +1,122 @@
+{
+ "status": "draft",
+ "intro": "Afghan culture is rich in poetry, music, carpets and hospitality.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Poetry and arts",
+   "text": [
+    "Rumi was born in Balkh in 1207. Afghan carpets, embroidery and kite flying are famous. Music was banned under the Taliban."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Kabuli pulao, rice with carrots, raisins and lamb, is the national dish. Mantu dumplings and bolani flatbreads are favourites, served with green tea."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pulao",
+   "meaning": "A rice dish cooked in broth."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Osama",
+     "subtitle": "2003 · Siddiq Barmak",
+     "text": "A girl disguised as a boy under the Taliban."
+    },
+    {
+     "title": "The Breadwinner",
+     "subtitle": "2017 · Nora Twomey",
+     "text": "An animated story of a girl in Kabul; Oscar-nominated."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Masnavi",
+     "subtitle": "1200s · Rumi",
+     "text": "Poems by the poet born in Balkh."
+    },
+    {
+     "title": "The Kite Runner",
+     "subtitle": "2003 · Khaled Hosseini",
+     "text": "Friendship and betrayal in Kabul."
+    },
+    {
+     "title": "A Thousand Splendid Suns",
+     "subtitle": "2007 · Khaled Hosseini",
+     "text": "Two women's lives."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Ahmad Zahir",
+     "subtitle": "Singer",
+     "text": "The 'Elvis of Afghanistan'."
+    },
+    {
+     "title": "Rubab",
+     "subtitle": "Instrument",
+     "text": "A lute, the national instrument."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Kabuli pulao",
+     "subtitle": "Everywhere",
+     "text": "Rice with carrots, raisins and lamb."
+    },
+    {
+     "title": "Mantu",
+     "subtitle": "Everywhere",
+     "text": "Steamed dumplings with yoghurt."
+    },
+    {
+     "title": "Bolani",
+     "subtitle": "Everywhere",
+     "text": "Stuffed flatbread."
+    },
+    {
+     "title": "Ashak",
+     "subtitle": "Everywhere",
+     "text": "Leek dumplings."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Nowruz",
+    "text": "Spring New Year."
+   },
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "19 August, 1919."
+   }
+  ]
+ }
+}

@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Kyrgyzstan has about 7 million people, most of them Kyrgyz.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Kyrgyz make up about three-quarters, with Uzbeks in the south and Russians in the north. Kyrgyz and Russian are both official. Most people are Sunni Muslim.",
+    "Many Kyrgyz work in Russia."
+   ],
+   "related": [
+    "UZB",
+    "RUS"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Life",
+   "text": [
+    "Bishkek is the capital. In summer, herders still take animals up to the jailoos and live in yurts."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kyrgyz",
+   "meaning": "A Turkic people and language."
+  }
+ ]
+}

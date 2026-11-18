@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Uzbekistan is a presidential republic in which the president holds most power.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "President Shavkat Mirziyoyev has led since 2016. A 2023 referendum extended presidential terms to seven years. Parliament has two chambers."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Tashkent"
+    },
+    {
+     "label": "Independence",
+     "value": "1991"
+    },
+    {
+     "label": "Regions",
+     "value": "12 regions plus Karakalpakstan"
+    }
+   ]
+  },
+  {
+   "id": "reform",
+   "title": "Reforms",
+   "text": [
+    "Since 2016 the government has ended forced labour in the cotton harvest and made travel and business easier, though political freedoms remain limited."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Referendum",
+   "meaning": "A public vote on a question."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 7 years",
+     "text": "Holds most power."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Approved by parliament",
+     "text": "Leads the cabinet."
+    },
+    {
+     "title": "Legislative Chamber",
+     "subtitle": "150 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "65 members",
+     "text": "The upper house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the President, government or members."
+   },
+   {
+    "title": "Legislative Chamber",
+    "text": "Debates and adopts it."
+   },
+   {
+    "title": "Senate",
+    "text": "Approves it too."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

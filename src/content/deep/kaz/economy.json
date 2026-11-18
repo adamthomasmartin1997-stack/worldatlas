@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Kazakhstan is rich in oil, uranium and metals, making it the biggest economy in Central Asia.",
+ "chapters": [
+  {
+   "id": "resources",
+   "title": "Resources",
+   "text": [
+    "Kazakhstan is the world's largest uranium producer and pumps oil from giant fields like Tengiz and Kashagan. It also mines copper, zinc and coal.",
+    "Wheat from the northern steppe is exported widely."
+   ],
+   "related": [
+    "CHN",
+    "RUS"
+   ]
+  },
+  {
+   "id": "future",
+   "title": "Future",
+   "text": [
+    "Railways and roads across Kazakhstan link China and Europe."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Uranium",
+   "meaning": "A metal used as fuel in nuclear power stations."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Kazakhstan",
+   "items": [
+    {
+     "title": "Oil",
+     "subtitle": "Tengiz and Kashagan",
+     "text": "The main export."
+    },
+    {
+     "title": "Uranium",
+     "subtitle": "Kazatomprom",
+     "text": "The world's top producer."
+    },
+    {
+     "title": "Wheat",
+     "subtitle": "North",
+     "text": "Sold to Asia and the Middle East."
+    },
+    {
+     "title": "Copper and zinc",
+     "subtitle": "East",
+     "text": "Mined metals."
+    },
+    {
+     "title": "Rail transit",
+     "subtitle": "Khorgos",
+     "text": "A dry port linking China and Europe."
+    }
+   ],
+   "intro": "Some of the things Kazakhstan makes and sells to the world."
+  }
+ ]
+}

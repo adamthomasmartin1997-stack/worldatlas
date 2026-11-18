@@ -1,0 +1,109 @@
+{
+ "status": "draft",
+ "intro": "Uzbekistan is one of only two doubly landlocked countries in the world, with deserts, river oases and mountains in the east.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Deserts and oases",
+   "text": [
+    "The Kyzylkum desert covers the centre. Life clusters along the Amu Darya and Syr Darya rivers and in the fertile Fergana Valley, shared with Kyrgyzstan and Tajikistan.",
+    "To be doubly landlocked means every neighbour is landlocked too; the only other such country is Liechtenstein."
+   ],
+   "related": [
+    "KAZ",
+    "KGZ",
+    "TJK",
+    "TKM",
+    "AFG",
+    "LIE"
+   ]
+  },
+  {
+   "id": "aral",
+   "title": "The Aral Sea",
+   "text": [
+    "The Aral Sea was once the world's fourth-largest lake. Most of it has dried up, leaving ships stranded in the desert."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Doubly landlocked",
+   "meaning": "Surrounded only by landlocked countries."
+  },
+  {
+   "term": "Oasis",
+   "meaning": "A fertile spot in a desert with water."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Uzbekistan's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Aral Sea",
+    "kind": "dried sea",
+    "lat": 44.8,
+    "lon": 59.4,
+    "text": "Rusting ships at Moynaq."
+   },
+   {
+    "name": "Khiva",
+    "kind": "walled city",
+    "lat": 41.38,
+    "lon": 60.36,
+    "text": "A whole old town inside mud walls."
+   },
+   {
+    "name": "Kyzylkum",
+    "kind": "desert",
+    "lat": 42.0,
+    "lon": 64.0,
+    "text": "'Red Sands' desert."
+   },
+   {
+    "name": "Bukhara",
+    "kind": "Silk Road city",
+    "lat": 39.77,
+    "lon": 64.42,
+    "text": "Over 140 historic buildings."
+   },
+   {
+    "name": "Samarkand",
+    "kind": "Silk Road city",
+    "lat": 39.65,
+    "lon": 66.97,
+    "text": "The Registan's blue domes."
+   },
+   {
+    "name": "Tashkent",
+    "kind": "capital",
+    "lat": 41.31,
+    "lon": 69.28,
+    "text": "Central Asia's largest city."
+   },
+   {
+    "name": "Chimgan mountains",
+    "kind": "mountains",
+    "lat": 41.55,
+    "lon": 70.0,
+    "text": "Skiing and hiking near Tashkent."
+   },
+   {
+    "name": "Fergana Valley",
+    "kind": "fertile valley",
+    "lat": 40.5,
+    "lon": 71.5,
+    "text": "Silk and ceramics."
+   },
+   {
+    "name": "Nuratau",
+    "kind": "mountains",
+    "lat": 40.6,
+    "lon": 66.5,
+    "text": "Walnut groves and villages."
+   }
+  ]
+ }
+}

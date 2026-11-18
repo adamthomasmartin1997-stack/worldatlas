@@ -1,0 +1,107 @@
+{
+ "status": "draft",
+ "intro": "Tajik culture is part of the Persian world, with poetry, music and hospitality.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Poetry and music",
+   "text": [
+    "Rudaki, the 'father of Persian poetry', is a national hero. Shashmaqam music and falak songs are performed."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Qurutob, bread soaked in a yoghurt sauce, is the national dish. Plov and green tea are everywhere."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Qurutob",
+   "meaning": "Tajikistan's national dish."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Luna Papa",
+     "subtitle": "1999 · Bakhtyar Khudojnazarov",
+     "text": "A magical comedy."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Poems",
+     "subtitle": "900s · Rudaki",
+     "text": "The father of Persian poetry."
+    },
+    {
+     "title": "Bukhara",
+     "subtitle": "1940s · Sadriddin Ayni",
+     "text": "Memoirs by the founder of modern Tajik literature."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Falak",
+     "subtitle": "Traditional",
+     "text": "Songs of the mountains."
+    },
+    {
+     "title": "Shashmaqom",
+     "subtitle": "Classical",
+     "text": "Shared with Uzbekistan."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Qurutob",
+     "subtitle": "Everywhere",
+     "text": "Bread with yoghurt sauce and onions."
+    },
+    {
+     "title": "Plov",
+     "subtitle": "Everywhere",
+     "text": "Rice and meat."
+    },
+    {
+     "title": "Sambusa",
+     "subtitle": "Everywhere",
+     "text": "Baked pastries."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Navruz",
+    "text": "Spring New Year."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "9 September."
+   }
+  ]
+ }
+}

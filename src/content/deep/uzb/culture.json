@@ -1,0 +1,126 @@
+{
+ "status": "draft",
+ "intro": "Uzbek culture is famous for its architecture, crafts, plov and hospitality.",
+ "chapters": [
+  {
+   "id": "crafts",
+   "title": "Crafts",
+   "text": [
+    "Blue Rishtan ceramics, suzani embroidery, ikat silk and Bukhara carpets are famous. Bazaars like Tashkent's Chorsu are full of colour."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Plov",
+   "text": [
+    "Plov, rice cooked with carrots, onions and lamb in a huge pot, is the national dish and on UNESCO's list. Non bread is stamped with patterns."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ikat",
+   "meaning": "A cloth where threads are dyed before weaving."
+  },
+  {
+   "term": "Suzani",
+   "meaning": "An embroidered textile."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Tashkent – City of Bread",
+     "subtitle": "1968",
+     "text": "A boy's journey during famine."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Baburnama",
+     "subtitle": "1500s · Babur",
+     "text": "Memoirs of the founder of the Mughal Empire, born in Fergana."
+    },
+    {
+     "title": "Days Gone By",
+     "subtitle": "1926 · Abdulla Qodiriy",
+     "text": "The first Uzbek novel."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Shashmaqom",
+     "subtitle": "Classical",
+     "text": "Music of Bukhara; UNESCO-listed."
+    },
+    {
+     "title": "Sevara Nazarkhan",
+     "subtitle": "Singer",
+     "text": "Uzbek folk meets electronica."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Plov",
+     "subtitle": "Everywhere",
+     "text": "Rice, carrots and lamb."
+    },
+    {
+     "title": "Samsa",
+     "subtitle": "Everywhere",
+     "text": "Baked meat pastries."
+    },
+    {
+     "title": "Lagman",
+     "subtitle": "Everywhere",
+     "text": "Hand-pulled noodles."
+    },
+    {
+     "title": "Non",
+     "subtitle": "Everywhere",
+     "text": "Round stamped bread."
+    },
+    {
+     "title": "Melons",
+     "subtitle": "Summer",
+     "text": "Famous since Silk Road times."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Navruz",
+    "text": "Spring New Year with sumalak."
+   },
+   {
+    "month": 8,
+    "name": "Sharq Taronalari",
+    "text": "A music festival in Samarkand (held every two years)."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "1 September."
+   }
+  ]
+ }
+}

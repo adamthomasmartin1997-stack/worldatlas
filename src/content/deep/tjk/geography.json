@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "More than 90% of Tajikistan is mountains, including the Pamirs, called the 'Roof of the World'.",
+ "chapters": [
+  {
+   "id": "pamirs",
+   "title": "Roof of the World",
+   "text": [
+    "The Pamirs rise in the east, with Ismoil Somoni Peak at 7,495 m. The Fedchenko Glacier is one of the longest outside the polar regions.",
+    "The Pamir Highway is one of the highest roads in the world."
+   ],
+   "related": [
+    "AFG",
+    "CHN",
+    "KGZ"
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Rivers and lakes",
+   "text": [
+    "Glaciers feed great rivers like the Panj and Vakhsh. The Rogun Dam, being built on the Vakhsh, will be the tallest dam in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Glacier",
+   "meaning": "A slowly moving river of ice."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Tajikistan's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Fann Mountains",
+    "kind": "mountains",
+    "lat": 39.2,
+    "lon": 68.3,
+    "text": "Turquoise lakes like Iskanderkul."
+   },
+   {
+    "name": "Dushanbe",
+    "kind": "capital",
+    "lat": 38.56,
+    "lon": 68.77,
+    "text": "A green city with wide avenues."
+   },
+   {
+    "name": "Iskanderkul",
+    "kind": "mountain lake",
+    "lat": 39.08,
+    "lon": 68.37,
+    "text": "Named after Alexander the Great."
+   },
+   {
+    "name": "Wakhan Valley",
+    "kind": "river valley",
+    "lat": 37.0,
+    "lon": 72.5,
+    "text": "Afghanistan just across the river."
+   },
+   {
+    "name": "Ismoil Somoni Peak",
+    "kind": "mountain",
+    "lat": 38.94,
+    "lon": 72.02,
+    "text": "The highest peak, 7,495 m."
+   },
+   {
+    "name": "Karakul",
+    "kind": "high lake",
+    "lat": 39.02,
+    "lon": 73.53,
+    "text": "A lake in a meteor crater, 3,900 m up."
+   },
+   {
+    "name": "Panjakent",
+    "kind": "ancient city",
+    "lat": 39.48,
+    "lon": 67.6,
+    "text": "Sogdian ruins."
+   }
+  ]
+ }
+}

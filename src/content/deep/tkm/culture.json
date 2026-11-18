@@ -1,0 +1,90 @@
+{
+ "status": "draft",
+ "intro": "Turkmen culture is famous for carpets, horses and nomadic traditions.",
+ "chapters": [
+  {
+   "id": "carpets",
+   "title": "Carpets",
+   "text": [
+    "Deep-red Turkmen carpets with their gul patterns are so important that carpet designs appear on the national flag."
+   ]
+  },
+  {
+   "id": "horses",
+   "title": "Horses",
+   "text": [
+    "The Akhal-Teke horse, with its shining coat, is a national symbol and appears on the coat of arms."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gul",
+   "meaning": "A medallion pattern in Turkmen carpets."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Bagshy",
+     "subtitle": "Traditional",
+     "text": "Singers with the dutar lute."
+    },
+    {
+     "title": "Dutar",
+     "subtitle": "Instrument",
+     "text": "A two-stringed lute."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Plov",
+     "subtitle": "Everywhere",
+     "text": "Rice with meat and carrots."
+    },
+    {
+     "title": "Chorek",
+     "subtitle": "Everywhere",
+     "text": "Bread baked in a clay oven."
+    },
+    {
+     "title": "Melons",
+     "subtitle": "Summer",
+     "text": "There is a national Melon Day."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Nowruz",
+    "text": "Spring New Year."
+   },
+   {
+    "month": 4,
+    "name": "Horse Day",
+    "text": "Celebrating the Akhal-Teke."
+   },
+   {
+    "month": 8,
+    "name": "Melon Day",
+    "text": "Second Sunday of August."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "27 September is celebrated."
+   }
+  ]
+ }
+}

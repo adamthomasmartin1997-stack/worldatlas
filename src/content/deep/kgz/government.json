@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Kyrgyzstan is a presidential republic, after a 2021 referendum strengthened the president's powers.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "President Sadyr Japarov came to power after the 2020 protests. Parliament, the Jogorku Kenesh, has 90 members."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Bishkek"
+    },
+    {
+     "label": "Independence",
+     "value": "1991"
+    },
+    {
+     "label": "Parliament",
+     "value": "Jogorku Kenesh, 90 seats"
+    }
+   ]
+  },
+  {
+   "id": "freedom",
+   "title": "Freedoms",
+   "text": [
+    "Kyrgyzstan was once seen as the most open country in Central Asia, but press freedom has been reduced in recent years."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Jogorku Kenesh",
+   "meaning": "Kyrgyzstan's parliament."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 5 years",
+     "text": "Holds most power."
+    },
+    {
+     "title": "Chairman of the Cabinet",
+     "subtitle": "Appointed by the President",
+     "text": "Runs the government."
+    },
+    {
+     "title": "Jogorku Kenesh",
+     "subtitle": "90 members",
+     "text": "The parliament."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the President, members or 10,000 voters."
+   },
+   {
+    "title": "Readings",
+    "text": "In the Jogorku Kenesh."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

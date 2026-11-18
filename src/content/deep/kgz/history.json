@@ -1,0 +1,87 @@
+{
+ "status": "draft",
+ "intro": "Kyrgyzstan is a mountain country whose nomadic people kept their traditions through empires and the Soviet era.",
+ "chapters": [
+  {
+   "id": "silk",
+   "title": "Silk Road mountains",
+   "text": [
+    "Silk Road caravans crossed the Tian Shan through Kyrgyzstan. Tash Rabat is a stone caravanserai high in the mountains, and the Burana Tower is a minaret from an old city called Balasagun.",
+    "The Kyrgyz people's legends are told in the Manas epic, one of the longest poems in the world."
+   ],
+   "related": [
+    "CHN",
+    "UZB",
+    "KAZ"
+   ]
+  },
+  {
+   "id": "russia",
+   "title": "Russia and the Soviets",
+   "text": [
+    "Russia took over in the 1870s. In 1916 a revolt against Russian rule was crushed, and many Kyrgyz fled to China. In Soviet times nomads were forced onto collective farms."
+   ],
+   "related": [
+    "RUS",
+    "CHN"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and revolutions",
+   "text": [
+    "Kyrgyzstan became independent in 1991. Protests overthrew presidents in 2005, 2010 and 2020. In 2010 violence between Kyrgyz and Uzbeks in the south killed hundreds."
+   ],
+   "related": [
+    "UZB"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1000",
+   "title": "Burana Tower",
+   "text": "Built in Balasagun."
+  },
+  {
+   "year": "1400s",
+   "title": "Tash Rabat",
+   "text": "A mountain caravanserai."
+  },
+  {
+   "year": "1876",
+   "title": "Russian rule",
+   "text": "Kokand Khanate is annexed."
+  },
+  {
+   "year": "1916",
+   "title": "Revolt",
+   "text": "Uprising against Russia."
+  },
+  {
+   "year": "1991",
+   "title": "Independence",
+   "text": "31 August."
+  },
+  {
+   "year": "2005",
+   "title": "Tulip Revolution",
+   "text": "The president is overthrown."
+  },
+  {
+   "year": "2020",
+   "title": "Protests",
+   "text": "Another change of power."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Caravanserai",
+   "meaning": "A roadside inn for travelling merchants."
+  },
+  {
+   "term": "Manas",
+   "meaning": "The Kyrgyz national epic."
+  }
+ ]
+}

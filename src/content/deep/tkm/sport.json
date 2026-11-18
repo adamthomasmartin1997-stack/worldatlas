@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Weightlifting, wrestling and horse racing are popular in Turkmenistan.",
+ "chapters": [
+  {
+   "id": "athletes",
+   "title": "Athletes",
+   "text": [
+    "Polina Guryeva won Turkmenistan's first Olympic medal, a silver in weightlifting, in 2021."
+   ]
+  },
+  {
+   "id": "events",
+   "title": "Events",
+   "text": [
+    "Ashgabat hosted the 2017 Asian Indoor and Martial Arts Games and the 2018 World Weightlifting Championships."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Weightlifting",
+   "meaning": "Lifting heavy barbells above your head."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Ýokary Liga",
+     "subtitle": "Football",
+     "text": "Altyn Asyr have won many recent titles."
+    },
+    {
+     "title": "Horse racing",
+     "subtitle": "Ashgabat",
+     "text": "At the national hippodrome."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Polina Guryeva",
+     "subtitle": "Weightlifting",
+     "text": "First Olympic medal, 2021."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Turkmenistan's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Ashgabat Olympic Stadium",
+    "kind": "venue",
+    "lat": 37.89,
+    "lon": 58.36,
+    "text": "Hosted the 2017 Games."
+   },
+   {
+    "name": "Ashgabat hippodrome",
+    "kind": "venue",
+    "lat": 37.9,
+    "lon": 58.4,
+    "text": "Horse racing."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2017",
+    "title": "Asian Indoor Games",
+    "text": "Hosted in Ashgabat."
+   },
+   {
+    "year": "2021",
+    "title": "First Olympic medal",
+    "text": "Silver in Tokyo."
+   }
+  ]
+ }
+}

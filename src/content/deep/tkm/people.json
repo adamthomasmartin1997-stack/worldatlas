@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Turkmenistan has around 7 million people, though official figures are uncertain.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are Turkmen, with Uzbek and Russian minorities. Turkmen is a Turkic language written in Latin letters. Most people are Sunni Muslim.",
+    "Tribal identity and traditional dress remain important."
+   ],
+   "related": [
+    "UZB",
+    "RUS"
+   ]
+  },
+  {
+   "id": "ashgabat",
+   "title": "Ashgabat",
+   "text": [
+    "The capital, Ashgabat, holds a world record for the most white marble buildings."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Turkmen",
+   "meaning": "The main ethnic group and language."
+  }
+ ]
+}

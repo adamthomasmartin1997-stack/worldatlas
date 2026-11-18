@@ -1,0 +1,97 @@
+{
+ "status": "draft",
+ "intro": "Kazakhstan is a presidential republic where the president holds strong powers.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "President Kassym-Jomart Tokayev has led since 2019 and is now limited to a single seven-year term. Parliament has two chambers."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Astana"
+    },
+    {
+     "label": "Independence",
+     "value": "1991"
+    },
+    {
+     "label": "President's term",
+     "value": "One 7-year term"
+    }
+   ]
+  },
+  {
+   "id": "ties",
+   "title": "Between giants",
+   "text": [
+    "Kazakhstan balances relations with Russia, China, the West and its Central Asian neighbours."
+   ],
+   "related": [
+    "RUS",
+    "CHN",
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Presidential republic",
+   "meaning": "A system where the president leads the government."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "One 7-year term",
+     "text": "Head of state with strong powers."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed with parliament's consent",
+     "text": "Runs the government."
+    },
+    {
+     "title": "Mazhilis",
+     "subtitle": "98 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "50 members",
+     "text": "The upper house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "Usually by the government."
+   },
+   {
+    "title": "Mazhilis",
+    "text": "Debates and adopts it."
+   },
+   {
+    "title": "Senate",
+    "text": "Approves it too."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

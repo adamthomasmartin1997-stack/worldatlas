@@ -1,0 +1,64 @@
+{
+ "status": "draft",
+ "intro": "Afghanistan is one of the poorest countries in the world, and its economy shrank sharply after 2021.",
+ "chapters": [
+  {
+   "id": "farming",
+   "title": "Farming",
+   "text": [
+    "Most people farm or herd. Afghanistan grows wheat, fruit, nuts and saffron, and exports dried fruit, carpets and coal. It was long the world's biggest grower of opium poppies, which the Taliban banned in 2022."
+   ],
+   "related": [
+    "PAK",
+    "IND"
+   ]
+  },
+  {
+   "id": "minerals",
+   "title": "Minerals",
+   "text": [
+    "The mountains hold copper, iron, lithium and gems like lapis lazuli, which has been mined here for 6,000 years."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lapis lazuli",
+   "meaning": "A deep-blue stone mined in Badakhshan."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Afghanistan",
+   "items": [
+    {
+     "title": "Dried fruit and nuts",
+     "subtitle": "Kandahar and the north",
+     "text": "Raisins, figs, almonds and pistachios."
+    },
+    {
+     "title": "Carpets",
+     "subtitle": "North and west",
+     "text": "Hand-knotted rugs."
+    },
+    {
+     "title": "Saffron",
+     "subtitle": "Herat",
+     "text": "High-quality saffron."
+    },
+    {
+     "title": "Lapis lazuli",
+     "subtitle": "Badakhshan",
+     "text": "Mined for 6,000 years."
+    },
+    {
+     "title": "Coal",
+     "subtitle": "North",
+     "text": "Exported to Pakistan."
+    }
+   ],
+   "intro": "Some of the things Afghanistan makes and sells to the world."
+  }
+ ]
+}

@@ -1,0 +1,104 @@
+{
+ "status": "draft",
+ "intro": "Kazakhstan is the ninth-largest country in the world, mostly steppe and desert, with high mountains in the south-east.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Steppe and mountains",
+   "text": [
+    "Grassy steppe covers the north, and deserts the centre and south. The Tian Shan and Altai mountains rise in the south-east, where Khan Tengri reaches about 7,000 m.",
+    "Kazakhstan borders the Caspian Sea in the west and shares the shrinking Aral Sea with Uzbekistan."
+   ],
+   "related": [
+    "RUS",
+    "CHN",
+    "UZB",
+    "KGZ",
+    "TKM"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Extreme climate",
+   "text": [
+    "Being so far from the oceans, Kazakhstan has very cold winters and hot summers. Astana is one of the coldest capitals in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Aral Sea",
+   "meaning": "A lake that shrank after rivers were diverted for farming."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Kazakhstan's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Astana",
+    "kind": "capital",
+    "lat": 51.17,
+    "lon": 71.43,
+    "text": "A futuristic capital on the steppe."
+   },
+   {
+    "name": "Burabay",
+    "kind": "lakes and pines",
+    "lat": 53.08,
+    "lon": 70.3,
+    "text": "'Kazakh Switzerland'."
+   },
+   {
+    "name": "Baikonur",
+    "kind": "space launch site",
+    "lat": 45.92,
+    "lon": 63.34,
+    "text": "Where Gagarin's rocket launched."
+   },
+   {
+    "name": "Aral Sea",
+    "kind": "shrinking lake",
+    "lat": 46.0,
+    "lon": 61.0,
+    "text": "A sea that dried up, now partly recovering."
+   },
+   {
+    "name": "Mangystau",
+    "kind": "desert canyons",
+    "lat": 43.6,
+    "lon": 53.7,
+    "text": "White chalk cliffs and underground mosques."
+   },
+   {
+    "name": "Charyn Canyon",
+    "kind": "canyon",
+    "lat": 43.35,
+    "lon": 79.08,
+    "text": "Red rock towers."
+   },
+   {
+    "name": "Almaty",
+    "kind": "mountain city",
+    "lat": 43.24,
+    "lon": 76.89,
+    "text": "The biggest city, below the Tian Shan."
+   },
+   {
+    "name": "Kolsai Lakes",
+    "kind": "mountain lakes",
+    "lat": 42.98,
+    "lon": 78.32,
+    "text": "Blue lakes in spruce forests."
+   },
+   {
+    "name": "Khan Tengri",
+    "kind": "mountain",
+    "lat": 42.21,
+    "lon": 80.17,
+    "text": "A marble pyramid peak."
+   }
+  ]
+ }
+}

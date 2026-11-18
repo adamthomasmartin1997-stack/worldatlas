@@ -1,0 +1,123 @@
+{
+ "status": "draft",
+ "intro": "Boxing, wrestling, cycling and ice hockey are popular in Kazakhstan, and horse games are part of its heritage.",
+ "chapters": [
+  {
+   "id": "athletes",
+   "title": "Athletes",
+   "text": [
+    "Gennady Golovkin became a world middleweight boxing champion. Elena Rybakina won Wimbledon in 2022, and the Astana team races in the Tour de France."
+   ]
+  },
+  {
+   "id": "horses",
+   "title": "Horse games",
+   "text": [
+    "Kokpar, a rough game where riders fight over a goat carcass, is played at festivals."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kokpar",
+   "meaning": "A Central Asian horseback game."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Kazakhstan Premier League",
+     "subtitle": "Football",
+     "text": "Astana have won the most titles."
+    },
+    {
+     "title": "Astana Qazaqstan",
+     "subtitle": "Cycling",
+     "text": "A World Tour team."
+    },
+    {
+     "title": "Barys Astana",
+     "subtitle": "Ice hockey",
+     "text": "Plays in the KHL."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Gennady Golovkin",
+     "subtitle": "Boxing",
+     "text": "A world middleweight champion."
+    },
+    {
+     "title": "Elena Rybakina",
+     "subtitle": "Tennis",
+     "text": "Wimbledon champion 2022."
+    },
+    {
+     "title": "Alexander Vinokourov",
+     "subtitle": "Cycling",
+     "text": "Olympic road race champion 2012."
+    },
+    {
+     "title": "Olga Rypakova",
+     "subtitle": "Triple jump",
+     "text": "Olympic champion 2012."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Kazakhstan's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Astana Arena",
+    "kind": "venue",
+    "lat": 51.11,
+    "lon": 71.4,
+    "text": "A stadium with a closing roof."
+   },
+   {
+    "name": "Medeu",
+    "kind": "venue",
+    "lat": 43.16,
+    "lon": 77.06,
+    "text": "A high-altitude ice rink."
+   },
+   {
+    "name": "Shymbulak",
+    "kind": "venue",
+    "lat": 43.13,
+    "lon": 77.08,
+    "text": "A ski resort above Almaty."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2011",
+    "title": "Asian Winter Games",
+    "text": "Hosted in Astana and Almaty."
+   },
+   {
+    "year": "2012",
+    "title": "London golds",
+    "text": "Vinokourov and Rypakova win."
+   },
+   {
+    "year": "2022",
+    "title": "Rybakina",
+    "text": "Wins Wimbledon."
+   }
+  ]
+ }
+}

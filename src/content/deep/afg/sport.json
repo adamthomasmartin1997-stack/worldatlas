@@ -1,0 +1,110 @@
+{
+ "status": "draft",
+ "intro": "Cricket has become Afghanistan's great sporting story, and buzkashi is its traditional national game.",
+ "chapters": [
+  {
+   "id": "cricket",
+   "title": "Cricket",
+   "text": [
+    "Many Afghans learned cricket in refugee camps in Pakistan. The team rose to Test status in 2017 and reached the semi-finals of the T20 World Cup in 2024. Rashid Khan is one of the world's best spin bowlers."
+   ],
+   "related": [
+    "PAK",
+    "IND"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Rohullah Nikpai won Afghanistan's only Olympic medals, two taekwondo bronzes, in 2008 and 2012."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Spin bowler",
+   "meaning": "A cricket bowler who makes the ball turn."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Shpageeza Cricket League",
+     "subtitle": "Cricket",
+     "text": "A popular T20 league."
+    },
+    {
+     "title": "Buzkashi",
+     "subtitle": "Horse game",
+     "text": "Played across the north."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Rashid Khan",
+     "subtitle": "Cricket",
+     "text": "A world-class leg-spinner."
+    },
+    {
+     "title": "Mohammad Nabi",
+     "subtitle": "Cricket",
+     "text": "An all-rounder and former captain."
+    },
+    {
+     "title": "Rohullah Nikpai",
+     "subtitle": "Taekwondo",
+     "text": "Two Olympic bronzes."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Afghanistan's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Kabul International Cricket Stadium",
+    "kind": "venue",
+    "lat": 34.53,
+    "lon": 69.19,
+    "text": "The home of Afghan cricket."
+   },
+   {
+    "name": "Ghazi Stadium, Kabul",
+    "kind": "venue",
+    "lat": 34.52,
+    "lon": 69.17,
+    "text": "A football stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2008",
+    "title": "First Olympic medal",
+    "text": "Nikpai's bronze in Beijing."
+   },
+   {
+    "year": "2017",
+    "title": "Test status",
+    "text": "Afghanistan become a Test nation."
+   },
+   {
+    "year": "2024",
+    "title": "T20 World Cup semi-final",
+    "text": "After beating Australia."
+   }
+  ]
+ }
+}

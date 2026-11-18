@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Uzbekistan's economy rests on gold, gas, cotton and money sent home by workers in Russia.",
+ "chapters": [
+  {
+   "id": "resources",
+   "title": "Gold, gas and cotton",
+   "text": [
+    "Uzbekistan is one of the world's biggest gold producers, from the Muruntau mine. It also exports natural gas and copper, and grows cotton and fruit.",
+    "Millions of Uzbeks work abroad, mainly in Russia."
+   ],
+   "related": [
+    "RUS",
+    "CHN"
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Tourism to the Silk Road cities has grown fast since visa rules were relaxed."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Remittances",
+   "meaning": "Money sent home by people working abroad."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Uzbekistan",
+   "items": [
+    {
+     "title": "Gold",
+     "subtitle": "Muruntau",
+     "text": "One of the world's largest mines."
+    },
+    {
+     "title": "Cotton",
+     "subtitle": "Fergana and beyond",
+     "text": "Now picked without forced labour."
+    },
+    {
+     "title": "Natural gas",
+     "subtitle": "South-west",
+     "text": "Sold to China and Russia."
+    },
+    {
+     "title": "Cars",
+     "subtitle": "Asaka",
+     "text": "Chevrolets made under licence."
+    },
+    {
+     "title": "Fruit",
+     "subtitle": "Everywhere",
+     "text": "Melons, apricots and grapes."
+    }
+   ],
+   "intro": "Some of the things Uzbekistan makes and sells to the world."
+  }
+ ]
+}

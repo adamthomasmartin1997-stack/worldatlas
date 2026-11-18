@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Turkmenistan holds some of the world's largest natural gas reserves.",
+ "chapters": [
+  {
+   "id": "gas",
+   "title": "Gas",
+   "text": [
+    "The Galkynysh field is one of the largest gas fields on Earth. Most gas goes to China by pipeline."
+   ],
+   "related": [
+    "CHN"
+   ]
+  },
+  {
+   "id": "cotton",
+   "title": "Cotton",
+   "text": [
+    "Cotton and wheat are the main crops, grown with canal water. Rights groups have criticised forced labour in the cotton harvest."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gas field",
+   "meaning": "An area with natural gas underground."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Turkmenistan",
+   "items": [
+    {
+     "title": "Natural gas",
+     "subtitle": "Galkynysh",
+     "text": "Mostly to China."
+    },
+    {
+     "title": "Cotton",
+     "subtitle": "Oases",
+     "text": "The main crop."
+    },
+    {
+     "title": "Carpets",
+     "subtitle": "Ashgabat",
+     "text": "Hand-knotted."
+    }
+   ],
+   "intro": "Some of the things Turkmenistan makes and sells to the world."
+  }
+ ]
+}

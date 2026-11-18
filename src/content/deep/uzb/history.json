@@ -1,0 +1,104 @@
+{
+ "status": "draft",
+ "intro": "Uzbekistan is home to the great Silk Road cities of Samarkand, Bukhara and Khiva, once among the richest and most learned places on Earth.",
+ "chapters": [
+  {
+   "id": "silk",
+   "title": "Silk Road cities",
+   "text": [
+    "Sogdian merchants from Samarkand and Bukhara dominated Silk Road trade between China and Persia. Alexander the Great conquered the region in the 320s BC and married Roxana, a local princess.",
+    "Arab armies brought Islam in the 700s. Bukhara became a great centre of learning, home to scholars like Avicenna and al-Bukhari, and al-Khwarizmi, who gave us the word 'algorithm', came from Khorezm."
+   ],
+   "related": [
+    "CHN",
+    "IRN",
+    "GRC"
+   ]
+  },
+  {
+   "id": "timur",
+   "title": "Timur and his heirs",
+   "text": [
+    "Genghis Khan destroyed many cities in 1220. In the 1300s Timur (Tamerlane) built a vast empire with Samarkand as its glittering capital, decorated with blue-tiled domes. His grandson Ulugh Beg built a great observatory there.",
+    "Later Uzbek khanates ruled from Bukhara, Khiva and Kokand."
+   ],
+   "highlight": {
+    "title": "Registan",
+    "text": "Samarkand's Registan square, framed by three tiled madrasas, is one of the wonders of Islamic architecture."
+   },
+   "related": [
+    "MNG",
+    "IRN",
+    "TUR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Russian rule and independence",
+   "text": [
+    "Russia conquered the khanates in the 1860s and 1870s. In Soviet times, huge cotton farms drained the rivers feeding the Aral Sea, causing an environmental disaster.",
+    "Uzbekistan became independent in 1991. Islam Karimov ruled harshly until his death in 2016; his successor Shavkat Mirziyoyev has opened up the economy."
+   ],
+   "related": [
+    "RUS",
+    "KAZ"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "329 BC",
+   "title": "Alexander",
+   "text": "Conquers Samarkand."
+  },
+  {
+   "year": "709",
+   "title": "Arab conquest",
+   "text": "Islam arrives."
+  },
+  {
+   "year": "1220",
+   "title": "Genghis Khan",
+   "text": "Cities destroyed."
+  },
+  {
+   "year": "1370",
+   "title": "Timur",
+   "text": "Samarkand becomes an imperial capital."
+  },
+  {
+   "year": "1420s",
+   "title": "Ulugh Beg",
+   "text": "Builds his observatory."
+  },
+  {
+   "year": "1868",
+   "title": "Russian rule",
+   "text": "Bukhara becomes a protectorate."
+  },
+  {
+   "year": "1991",
+   "title": "Independence",
+   "text": "1 September."
+  },
+  {
+   "year": "2016",
+   "title": "Mirziyoyev",
+   "text": "Becomes president."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Madrasa",
+   "meaning": "An Islamic school or college."
+  },
+  {
+   "term": "Silk Road",
+   "meaning": "Trade routes linking China with the Mediterranean."
+  },
+  {
+   "term": "Khanate",
+   "meaning": "A state ruled by a khan."
+  }
+ ]
+}

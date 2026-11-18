@@ -1,0 +1,58 @@
+{
+ "status": "draft",
+ "intro": "Tajikistan is the poorest of the former Soviet republics and relies heavily on money sent home from Russia.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Remittances are among the highest in the world compared to the size of the economy. Aluminium, cotton and hydropower are the main products."
+   ],
+   "related": [
+    "RUS"
+   ]
+  },
+  {
+   "id": "power",
+   "title": "Hydropower",
+   "text": [
+    "Mountain rivers produce almost all electricity, and Tajikistan hopes to sell power to neighbours."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Hydropower",
+   "meaning": "Electricity made from flowing water."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Tajikistan",
+   "items": [
+    {
+     "title": "Aluminium",
+     "subtitle": "Tursunzoda",
+     "text": "A big smelter."
+    },
+    {
+     "title": "Cotton",
+     "subtitle": "Valleys",
+     "text": "A major crop."
+    },
+    {
+     "title": "Electricity",
+     "subtitle": "Nurek and Rogun dams",
+     "text": "Hydropower."
+    },
+    {
+     "title": "Dried fruit",
+     "subtitle": "Everywhere",
+     "text": "Apricots and raisins."
+    }
+   ],
+   "intro": "Some of the things Tajikistan makes and sells to the world."
+  }
+ ]
+}

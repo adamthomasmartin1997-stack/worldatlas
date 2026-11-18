@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Gold mining and money from workers abroad are the pillars of Kyrgyzstan's economy.",
+ "chapters": [
+  {
+   "id": "gold",
+   "title": "Gold",
+   "text": [
+    "The Kumtor gold mine, high in the mountains, produces a big share of exports."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other work",
+   "text": [
+    "Farming, herding, trade with China and tourism to Issyk-Kul are important. Money sent home by workers in Russia equals a large share of the economy."
+   ],
+   "related": [
+    "RUS",
+    "CHN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Remittances",
+   "meaning": "Money sent home by people working abroad."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Kyrgyzstan",
+   "items": [
+    {
+     "title": "Gold",
+     "subtitle": "Kumtor",
+     "text": "The biggest export."
+    },
+    {
+     "title": "Beans",
+     "subtitle": "Talas",
+     "text": "A big export crop."
+    },
+    {
+     "title": "Felt goods",
+     "subtitle": "Everywhere",
+     "text": "Shyrdak carpets and slippers."
+    }
+   ],
+   "intro": "Some of the things Kyrgyzstan makes and sells to the world."
+  }
+ ]
+}

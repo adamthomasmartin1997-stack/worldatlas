@@ -1,0 +1,101 @@
+{
+ "status": "draft",
+ "intro": "Wrestling and horse games are central to Kyrgyz sport.",
+ "chapters": [
+  {
+   "id": "nomad",
+   "title": "World Nomad Games",
+   "text": [
+    "Kyrgyzstan created the World Nomad Games in 2014, with horse wrestling, eagle hunting and kok-boru, a polo-like game played with a goat carcass."
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics",
+   "text": [
+    "Kyrgyz wrestlers have won Olympic medals, and in 2024 Akzhol Makhmudov won the country's first Olympic gold. Kyrgyzstan played at the Asian Cup in 2019 and 2023."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kok-boru",
+   "meaning": "A Kyrgyz horseback game."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Kyrgyz Premier League",
+     "subtitle": "Football",
+     "text": "Dordoi Bishkek have won many titles."
+    },
+    {
+     "title": "World Nomad Games",
+     "subtitle": "Traditional sports",
+     "text": "Since 2014."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Akzhol Makhmudov",
+     "subtitle": "Wrestling",
+     "text": "Olympic champion 2024."
+    },
+    {
+     "title": "Kanatbek Begaliev",
+     "subtitle": "Wrestling",
+     "text": "Olympic silver 2008."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Kyrgyzstan's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Dolen Omurzakov Stadium, Bishkek",
+    "kind": "venue",
+    "lat": 42.87,
+    "lon": 74.6,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Kyrchyn Gorge",
+    "kind": "venue",
+    "lat": 42.6,
+    "lon": 76.8,
+    "text": "Site of the World Nomad Games."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2014",
+    "title": "World Nomad Games",
+    "text": "The first Games."
+   },
+   {
+    "year": "2019",
+    "title": "Asian Cup",
+    "text": "A first appearance."
+   },
+   {
+    "year": "2024",
+    "title": "Olympic gold",
+    "text": "Makhmudov wins in Paris."
+   }
+  ]
+ }
+}

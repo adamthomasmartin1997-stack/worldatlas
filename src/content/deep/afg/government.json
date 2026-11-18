@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Since August 2021 Afghanistan has been ruled by the Taliban, who govern as the 'Islamic Emirate'.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The Taliban's supreme leader holds final authority, and there is no elected parliament. Laws are based on the Taliban's strict reading of Islamic law."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Kabul"
+    },
+    {
+     "label": "Rulers since",
+     "value": "August 2021"
+    },
+    {
+     "label": "Parliament",
+     "value": "None"
+    }
+   ]
+  },
+  {
+   "id": "recognition",
+   "title": "Recognition",
+   "text": [
+    "In 2025 Russia became the first country to formally recognise the Taliban government; most countries have not."
+   ],
+   "related": [
+    "RUS"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Emirate",
+   "meaning": "A state ruled by an emir or religious leader."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Supreme Leader",
+     "subtitle": "Taliban leader",
+     "text": "Final authority."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed by the Supreme Leader",
+     "text": "Heads the cabinet."
+    },
+    {
+     "title": "Ministers",
+     "subtitle": "Appointed",
+     "text": "Run ministries."
+    },
+    {
+     "title": "Courts",
+     "subtitle": "Religious judges",
+     "text": "Apply the Taliban's version of Islamic law."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Decrees",
+    "text": "The Supreme Leader issues decrees."
+   },
+   {
+    "title": "Ministry rules",
+    "text": "Ministries announce rules."
+   },
+   {
+    "title": "No parliament",
+    "text": "There is no elected body to vote on laws."
+   }
+  ]
+ }
+}

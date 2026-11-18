@@ -1,0 +1,79 @@
+{
+ "status": "draft",
+ "intro": "Tajikistan is a mountainous country whose people speak a form of Persian and trace their roots to ancient Silk Road civilisations.",
+ "chapters": [
+  {
+   "id": "sogdia",
+   "title": "Sogdians and Samanids",
+   "text": [
+    "Ancient Sogdiana and Bactria covered this region. Panjakent was a rich Sogdian city with painted walls.",
+    "In the 800s and 900s the Persian-speaking Samanid dynasty ruled from Bukhara, a golden age of Persian literature that Tajiks see as the start of their nation."
+   ],
+   "related": [
+    "UZB",
+    "IRN",
+    "AFG"
+   ]
+  },
+  {
+   "id": "soviet",
+   "title": "Russian and Soviet rule",
+   "text": [
+    "Russia took the north in the 1860s. In 1929 Tajikistan became a full Soviet republic, but the great Tajik cities of Samarkand and Bukhara were placed in Uzbekistan."
+   ],
+   "related": [
+    "RUS",
+    "UZB"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Civil war and after",
+   "text": [
+    "After independence in 1991 a civil war from 1992 to 1997 killed tens of thousands. Emomali Rahmon has ruled since 1992."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 500",
+   "title": "Panjakent",
+   "text": "A Sogdian city."
+  },
+  {
+   "year": "819",
+   "title": "Samanids",
+   "text": "A Persian dynasty rises."
+  },
+  {
+   "year": "1868",
+   "title": "Russian rule",
+   "text": "The north is taken."
+  },
+  {
+   "year": "1929",
+   "title": "Soviet republic",
+   "text": "Tajik SSR formed."
+  },
+  {
+   "year": "1991",
+   "title": "Independence",
+   "text": "9 September."
+  },
+  {
+   "year": "1992",
+   "title": "Civil war",
+   "text": "Until 1997."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sogdians",
+   "meaning": "Ancient Silk Road traders."
+  },
+  {
+   "term": "Tajik",
+   "meaning": "A form of the Persian language."
+  }
+ ]
+}

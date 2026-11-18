@@ -1,0 +1,127 @@
+{
+ "status": "draft",
+ "intro": "Kazakh culture grew from nomadic life: horses, yurts, hospitality and music.",
+ "chapters": [
+  {
+   "id": "nomad",
+   "title": "Nomad traditions",
+   "text": [
+    "Hunting with golden eagles, horse games and the dombra, a two-stringed lute, are cherished. Guests are welcomed with tea and bread."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Beshbarmak, boiled meat with noodles, is the national dish. Kumis (fermented mare's milk) is a traditional drink."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dombra",
+   "meaning": "A long-necked two-stringed lute."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Tulpan",
+     "subtitle": "2008 · Sergey Dvortsevoy",
+     "text": "A young herder wants to marry; won at Cannes."
+    },
+    {
+     "title": "Nomad",
+     "subtitle": "2005",
+     "text": "An epic of the Kazakh Khanate."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Path of Abai",
+     "subtitle": "1942–56 · Mukhtar Auezov",
+     "text": "The life of the great poet."
+    },
+    {
+     "title": "Book of Words",
+     "subtitle": "1890s · Abai Kunanbayev",
+     "text": "Wise sayings of the national poet."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Kui",
+     "subtitle": "Dombra music",
+     "text": "Instrumental pieces that tell stories."
+    },
+    {
+     "title": "Dimash Qudaibergen",
+     "subtitle": "Singer",
+     "text": "Famous for his huge vocal range."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Beshbarmak",
+     "subtitle": "Everywhere",
+     "text": "Boiled meat on flat noodles."
+    },
+    {
+     "title": "Baursak",
+     "subtitle": "Everywhere",
+     "text": "Fried dough puffs."
+    },
+    {
+     "title": "Kumis",
+     "subtitle": "Summer",
+     "text": "Fermented mare's milk."
+    },
+    {
+     "title": "Apples",
+     "subtitle": "Almaty",
+     "text": "Wild apples first grew in these mountains."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Nauryz",
+    "text": "Spring New Year."
+   },
+   {
+    "month": 7,
+    "name": "Capital Day",
+    "text": "6 July in Astana."
+   },
+   {
+    "month": 10,
+    "name": "Republic Day",
+    "text": "25 October."
+   },
+   {
+    "month": 12,
+    "name": "Independence Day",
+    "text": "16 December."
+   }
+  ]
+ }
+}

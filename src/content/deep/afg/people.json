@@ -1,0 +1,37 @@
+{
+ "status": "draft",
+ "intro": "Afghanistan has over 40 million people from many ethnic groups, and one of the youngest populations in the world.",
+ "chapters": [
+  {
+   "id": "groups",
+   "title": "Peoples",
+   "text": [
+    "Pashtuns are the largest group, followed by Tajiks, Hazaras, Uzbeks and others. Pashto and Dari (a form of Persian) are the main languages. Almost everyone is Muslim, mostly Sunni, with a Shia Hazara minority.",
+    "Millions of Afghans have lived as refugees, mostly in Pakistan and Iran."
+   ],
+   "related": [
+    "PAK",
+    "IRN",
+    "TJK",
+    "UZB"
+   ]
+  },
+  {
+   "id": "girls",
+   "title": "Girls and women",
+   "text": [
+    "Since 2021 the Taliban have banned girls from secondary school and university and limited women's work and travel, decisions condemned around the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pashtun",
+   "meaning": "The largest ethnic group in Afghanistan."
+  },
+  {
+   "term": "Dari",
+   "meaning": "The Afghan form of Persian."
+  }
+ ]
+}

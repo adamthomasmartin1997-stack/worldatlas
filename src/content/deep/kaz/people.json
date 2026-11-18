@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Kazakhstan has about 20 million people from over 100 ethnic groups.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "Many peoples",
+   "text": [
+    "Kazakhs make up about 70%, and Russians are the largest minority. Kazakh and Russian are both widely used, and Kazakh is switching from Cyrillic to Latin letters.",
+    "Most Kazakhs are Muslim; most Russians are Orthodox Christian."
+   ],
+   "related": [
+    "RUS",
+    "UZB"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Almaty is the biggest city and Astana the capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cyrillic",
+   "meaning": "The alphabet used for Russian."
+  }
+ ]
+}

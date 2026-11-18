@@ -1,0 +1,125 @@
+{
+ "status": "draft",
+ "intro": "Afghanistan sits at the crossroads of Central Asia, South Asia and Persia. Empires have passed through it for thousands of years, and its recent history has been marked by decades of war.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Crossroads of empires",
+   "text": [
+    "Bactria, in the north, was a rich region of ancient Persia. Alexander the Great conquered it in the 320s BC, and Greek kingdoms ruled there for two centuries; the city of Ai-Khanoum had a Greek theatre and gymnasium.",
+    "Buddhism flourished under the Kushans. At Bamiyan, two giant Buddha statues were carved into a cliff around 1,500 years ago."
+   ],
+   "related": [
+    "IRN",
+    "GRC",
+    "PAK",
+    "IND"
+   ]
+  },
+  {
+   "id": "islam",
+   "title": "Islamic dynasties",
+   "text": [
+    "Islam spread from the 600s onwards. The Ghaznavids ruled an empire from Ghazni around 1000, and the Ghurids built the Minaret of Jam, 65 m tall. Herat became a centre of Persian art under the Timurids.",
+    "In 1747 Ahmad Shah Durrani founded the Durrani Empire, often seen as the start of modern Afghanistan."
+   ],
+   "highlight": {
+    "title": "Minaret of Jam",
+    "text": "Built in the 1190s in a remote valley, it is one of the tallest brick minarets in the world."
+   },
+   "related": [
+    "IRN",
+    "IND",
+    "PAK"
+   ]
+  },
+  {
+   "id": "great-game",
+   "title": "The Great Game",
+   "text": [
+    "In the 1800s Britain and Russia competed for influence in Central Asia, a rivalry called the Great Game. Britain fought three wars in Afghanistan, and the Durand Line, drawn in 1893, became the border with British India, now Pakistan.",
+    "Afghanistan won full control of its foreign affairs in 1919."
+   ],
+   "related": [
+    "GBR",
+    "RUS",
+    "PAK"
+   ]
+  },
+  {
+   "id": "war",
+   "title": "Decades of war",
+   "text": [
+    "A communist coup in 1978 was followed by a Soviet invasion in 1979. Mujahideen fighters, backed by the US, Pakistan and others, fought the Soviets until they left in 1989. Civil war followed, and the Taliban took Kabul in 1996. In 2001 they destroyed the Bamiyan Buddhas.",
+    "After the 11 September 2001 attacks by al-Qaeda, which the Taliban had sheltered, a US-led coalition removed the Taliban. An elected government ruled for twenty years, but the Taliban returned to power in August 2021 as foreign troops withdrew."
+   ],
+   "related": [
+    "RUS",
+    "USA",
+    "PAK",
+    "GBR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "329 BC",
+   "title": "Alexander",
+   "text": "Conquers Bactria."
+  },
+  {
+   "year": "c. 550",
+   "title": "Bamiyan Buddhas",
+   "text": "Carved into a cliff."
+  },
+  {
+   "year": "c. 1000",
+   "title": "Ghaznavids",
+   "text": "Mahmud of Ghazni's empire."
+  },
+  {
+   "year": "1747",
+   "title": "Durrani Empire",
+   "text": "Ahmad Shah unites the Afghans."
+  },
+  {
+   "year": "1919",
+   "title": "Independence",
+   "text": "Full control of foreign affairs."
+  },
+  {
+   "year": "1979",
+   "title": "Soviet invasion",
+   "text": "War until 1989."
+  },
+  {
+   "year": "1996",
+   "title": "Taliban take Kabul",
+   "text": "First Taliban government."
+  },
+  {
+   "year": "2001",
+   "title": "US-led invasion",
+   "text": "The Taliban are removed."
+  },
+  {
+   "year": "2021",
+   "title": "Taliban return",
+   "text": "Foreign troops leave."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mujahideen",
+   "meaning": "Fighters who opposed the Soviet occupation."
+  },
+  {
+   "term": "Taliban",
+   "meaning": "An armed Islamist movement that rules Afghanistan."
+  },
+  {
+   "term": "Great Game",
+   "meaning": "The 1800s rivalry between Britain and Russia in Central Asia."
+  }
+ ]
+}

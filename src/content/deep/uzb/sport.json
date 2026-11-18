@@ -1,0 +1,126 @@
+{
+ "status": "draft",
+ "intro": "Uzbekistan has become a sporting force in boxing, wrestling and chess, and qualified for its first football World Cup in 2026.",
+ "chapters": [
+  {
+   "id": "boxing",
+   "title": "Boxing",
+   "text": [
+    "Uzbek boxers won five golds at the 2024 Olympics, more than any other country in boxing that year."
+   ]
+  },
+  {
+   "id": "chess",
+   "title": "Chess and football",
+   "text": [
+    "Uzbekistan won the Chess Olympiad in 2022 with a young team. The national football team qualified for the 2026 World Cup."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Chess Olympiad",
+   "meaning": "A world team chess tournament."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Uzbekistan Super League",
+     "subtitle": "Football",
+     "text": "Pakhtakor have won the most titles."
+    },
+    {
+     "title": "Boxing",
+     "subtitle": "National team",
+     "text": "A world power."
+    },
+    {
+     "title": "Chess",
+     "subtitle": "National team",
+     "text": "Olympiad champions."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Ruslan Chagaev",
+     "subtitle": "Boxing",
+     "text": "A world heavyweight champion."
+    },
+    {
+     "title": "Hasanboy Dusmatov",
+     "subtitle": "Boxing",
+     "text": "Olympic champion 2016."
+    },
+    {
+     "title": "Bakhodir Jalolov",
+     "subtitle": "Boxing",
+     "text": "Olympic super-heavyweight champion twice."
+    },
+    {
+     "title": "Nodirbek Abdusattorov",
+     "subtitle": "Chess",
+     "text": "World rapid champion at 17."
+    },
+    {
+     "title": "Eldor Shomurodov",
+     "subtitle": "Football",
+     "text": "A striker in Italy."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Uzbekistan's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Milliy Stadium, Tashkent",
+    "kind": "venue",
+    "lat": 41.3,
+    "lon": 69.2,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Bunyodkor Stadium",
+    "kind": "venue",
+    "lat": 41.29,
+    "lon": 69.21,
+    "text": "A modern stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2016",
+    "title": "Rio golds",
+    "text": "Boxers win three titles."
+   },
+   {
+    "year": "2022",
+    "title": "Chess Olympiad",
+    "text": "Gold for a young team."
+   },
+   {
+    "year": "2024",
+    "title": "Paris",
+    "text": "Five boxing golds."
+   },
+   {
+    "year": "2025",
+    "title": "World Cup",
+    "text": "Qualify for 2026."
+   }
+  ]
+ }
+}

@@ -1,0 +1,96 @@
+{
+ "status": "draft",
+ "intro": "Wrestling, judo and football are popular, along with the horse game buzkashi.",
+ "chapters": [
+  {
+   "id": "athletes",
+   "title": "Athletes",
+   "text": [
+    "Hammer thrower Dilshod Nazarov won Tajikistan's first Olympic gold in 2016. The football team reached the quarter-finals of its first Asian Cup in 2023."
+   ]
+  },
+  {
+   "id": "buzkashi",
+   "title": "Buzkashi",
+   "text": [
+    "In buzkashi, riders fight to carry a goat carcass to a goal, often at Nowruz."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Buzkashi",
+   "meaning": "A horseback game played across Central Asia."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Tajikistan Higher League",
+     "subtitle": "Football",
+     "text": "Istiklol have won the most titles."
+    },
+    {
+     "title": "Buzkashi",
+     "subtitle": "Horse game",
+     "text": "Played in winter and spring."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Dilshod Nazarov",
+     "subtitle": "Hammer throw",
+     "text": "Olympic champion 2016."
+    },
+    {
+     "title": "Rasul Boqiev",
+     "subtitle": "Judo",
+     "text": "Olympic bronze 2008."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Tajikistan's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Central Republican Stadium",
+    "kind": "venue",
+    "lat": 38.57,
+    "lon": 68.79,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Pamir Stadium",
+    "kind": "venue",
+    "lat": 38.58,
+    "lon": 68.8,
+    "text": "A football ground in Dushanbe."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2016",
+    "title": "Olympic gold",
+    "text": "Nazarov in Rio."
+   },
+   {
+    "year": "2024",
+    "title": "Asian Cup",
+    "text": "Quarter-finals on debut."
+   }
+  ]
+ }
+}

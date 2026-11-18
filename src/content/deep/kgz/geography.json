@@ -1,0 +1,95 @@
+{
+ "status": "draft",
+ "intro": "More than 90% of Kyrgyzstan is mountains, mostly the Tian Shan.",
+ "chapters": [
+  {
+   "id": "mountains",
+   "title": "Heavenly Mountains",
+   "text": [
+    "The Tian Shan ('Heavenly Mountains') and the Pamir-Alay cover the country. Jengish Chokusu, over 7,400 m, is the highest peak, on the Chinese border.",
+    "Huge walnut forests grow at Arslanbob."
+   ],
+   "related": [
+    "CHN",
+    "TJK",
+    "KAZ"
+   ]
+  },
+  {
+   "id": "lakes",
+   "title": "Lakes",
+   "text": [
+    "Issyk-Kul is one of the largest mountain lakes in the world and never freezes, despite lying at 1,600 m. Song-Kul is a high summer pasture lake."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Jailoo",
+   "meaning": "A high summer pasture."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Kyrgyzstan's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Ala-Archa",
+    "kind": "alpine park",
+    "lat": 42.56,
+    "lon": 74.48,
+    "text": "Glaciers near Bishkek."
+   },
+   {
+    "name": "Burana Tower",
+    "kind": "minaret",
+    "lat": 42.75,
+    "lon": 75.25,
+    "text": "An old minaret in a valley."
+   },
+   {
+    "name": "Issyk-Kul",
+    "kind": "mountain lake",
+    "lat": 42.45,
+    "lon": 77.25,
+    "text": "A huge lake that never freezes."
+   },
+   {
+    "name": "Jeti-Oguz",
+    "kind": "red rocks",
+    "lat": 42.33,
+    "lon": 78.23,
+    "text": "The 'Seven Bulls' cliffs."
+   },
+   {
+    "name": "Song-Kul",
+    "kind": "high lake",
+    "lat": 41.83,
+    "lon": 75.12,
+    "text": "Summer yurts on high pastures."
+   },
+   {
+    "name": "Tash Rabat",
+    "kind": "caravanserai",
+    "lat": 40.82,
+    "lon": 75.29,
+    "text": "A stone inn on the Silk Road."
+   },
+   {
+    "name": "Arslanbob",
+    "kind": "walnut forest",
+    "lat": 41.33,
+    "lon": 72.93,
+    "text": "The world's largest walnut forest."
+   },
+   {
+    "name": "Jengish Chokusu",
+    "kind": "mountain",
+    "lat": 42.04,
+    "lon": 80.13,
+    "text": "The highest peak."
+   }
+  ]
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "status": "draft",
+ "intro": "Around 80% of Turkmenistan is covered by the Karakum desert.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Desert and canal",
+   "text": [
+    "The Karakum ('black sand') covers most of the land. The Karakum Canal, one of the longest irrigation canals in the world, carries water from the Amu Darya across the desert.",
+    "The Kopet Dag mountains form the border with Iran, and the Caspian Sea lies to the west."
+   ],
+   "related": [
+    "IRN",
+    "UZB",
+    "KAZ",
+    "AFG"
+   ]
+  },
+  {
+   "id": "darvaza",
+   "title": "The Door to Hell",
+   "text": [
+    "The Darvaza gas crater has been burning since 1971, when a drilling accident released natural gas."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Irrigation",
+   "meaning": "Bringing water to land to grow crops."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Turkmenistan's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Darvaza",
+    "kind": "burning crater",
+    "lat": 40.25,
+    "lon": 58.44,
+    "text": "The 'Door to Hell'."
+   },
+   {
+    "name": "Karakum Desert",
+    "kind": "desert",
+    "lat": 39.0,
+    "lon": 60.0,
+    "text": "Black sand across most of the country."
+   },
+   {
+    "name": "Ashgabat",
+    "kind": "capital",
+    "lat": 37.95,
+    "lon": 58.38,
+    "text": "White marble buildings."
+   },
+   {
+    "name": "Kopet Dag",
+    "kind": "mountains",
+    "lat": 38.0,
+    "lon": 57.5,
+    "text": "The border with Iran."
+   },
+   {
+    "name": "Merv",
+    "kind": "ancient city",
+    "lat": 37.66,
+    "lon": 62.19,
+    "text": "Ruins of a great city."
+   },
+   {
+    "name": "Yangykala Canyon",
+    "kind": "canyon",
+    "lat": 39.9,
+    "lon": 54.6,
+    "text": "Red, pink and white cliffs."
+   },
+   {
+    "name": "Caspian coast",
+    "kind": "sea",
+    "lat": 40.0,
+    "lon": 53.0,
+    "text": "The resort of Avaza."
+   }
+  ]
+ }
+}

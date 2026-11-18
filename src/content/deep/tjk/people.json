@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Tajikistan has about 10 million people, one of the youngest populations in Asia.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are Tajiks, with a large Uzbek minority. Tajik is written in Cyrillic letters. Most people are Sunni Muslim; Pamiris in the east are mainly Ismaili.",
+    "Over a million Tajiks work in Russia."
+   ],
+   "related": [
+    "UZB",
+    "RUS"
+   ]
+  },
+  {
+   "id": "dushanbe",
+   "title": "Dushanbe",
+   "text": [
+    "The capital Dushanbe's name means 'Monday', after a Monday market."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ismaili",
+   "meaning": "A branch of Shia Islam."
+  }
+ ]
+}
