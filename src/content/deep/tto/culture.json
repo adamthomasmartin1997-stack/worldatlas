@@ -1,0 +1,106 @@
+{
+ "status": "draft",
+ "intro": "Trinidad's Carnival is one of the greatest street festivals on Earth.",
+ "chapters": [
+  {
+   "id": "carnival",
+   "title": "Carnival and music",
+   "text": [
+    "The steelpan, invented in Trinidad in the 1930s and 40s, is the national instrument. Calypso and soca are the sounds of Carnival. V. S. Naipaul won the Nobel Prize for Literature in 2001."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Doubles (curried chickpeas in fried bread), roti and bake and shark are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Soca",
+   "meaning": "Fast party music from Trinidad."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "A House for Mr Biswas",
+     "subtitle": "1961 · V. S. Naipaul",
+     "text": "A man's search for a home."
+    },
+    {
+     "title": "The Lonely Londoners",
+     "subtitle": "1956 · Sam Selvon",
+     "text": "Caribbean migrants in London."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Calypso",
+     "subtitle": "Mighty Sparrow",
+     "text": "The calypso king."
+    },
+    {
+     "title": "Soca",
+     "subtitle": "Machel Montano",
+     "text": "A soca superstar."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Doubles",
+     "subtitle": "Breakfast",
+     "text": "Curried chickpeas in fried bread."
+    },
+    {
+     "title": "Roti",
+     "subtitle": "Everywhere",
+     "text": "Flatbread with curry."
+    },
+    {
+     "title": "Bake and shark",
+     "subtitle": "Maracas Bay",
+     "text": "Fried shark sandwich."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Carnival",
+    "text": "Monday and Tuesday before Lent."
+   },
+   {
+    "month": 8,
+    "name": "Emancipation Day",
+    "text": "1 August."
+   },
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "31 August."
+   },
+   {
+    "month": 11,
+    "name": "Diwali",
+    "text": "Festival of lights."
+   }
+  ]
+ }
+}

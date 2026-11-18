@@ -1,0 +1,78 @@
+{
+ "status": "draft",
+ "intro": "Trinidad is a large, busy island; Tobago is smaller, with reefs and rainforest.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "Pitch Lake in Trinidad is the world's largest natural deposit of asphalt. The Northern Range has rainforest and waterfalls. Tobago's Main Ridge is one of the oldest protected rainforests in the Western Hemisphere."
+   ],
+   "related": [
+    "VEN"
+   ]
+  },
+  {
+   "id": "birds",
+   "title": "Birds",
+   "text": [
+    "The Caroni Swamp is home to scarlet ibis, the national bird."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Asphalt",
+   "meaning": "A black, sticky substance used for roads."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Trinidad and Tobago's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Port of Spain",
+    "kind": "capital",
+    "lat": 10.66,
+    "lon": -61.51,
+    "text": "The Queen's Park Savannah."
+   },
+   {
+    "name": "Maracas Bay",
+    "kind": "beach",
+    "lat": 10.76,
+    "lon": -61.43,
+    "text": "Bake and shark stalls."
+   },
+   {
+    "name": "Caroni Swamp",
+    "kind": "mangroves",
+    "lat": 10.58,
+    "lon": -61.47,
+    "text": "Scarlet ibis."
+   },
+   {
+    "name": "Pitch Lake",
+    "kind": "asphalt lake",
+    "lat": 10.23,
+    "lon": -61.63,
+    "text": "Natural asphalt."
+   },
+   {
+    "name": "Main Ridge",
+    "kind": "rainforest",
+    "lat": 11.28,
+    "lon": -60.6,
+    "text": "Tobago's old forest."
+   },
+   {
+    "name": "Pigeon Point",
+    "kind": "beach",
+    "lat": 11.16,
+    "lon": -60.85,
+    "text": "Tobago's famous beach."
+   }
+  ]
+ }
+}

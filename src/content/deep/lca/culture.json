@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Saint Lucia's culture blends African, French and British influences.",
+ "chapters": [
+  {
+   "id": "writers",
+   "title": "Nobel winners",
+   "text": [
+    "Saint Lucia has two Nobel laureates: economist Sir Arthur Lewis (1979) and poet Derek Walcott (1992), more per person than any other country."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Green figs (green bananas) and saltfish is the national dish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Laureate",
+   "meaning": "A winner of a major prize."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Jounen Kwéyòl",
+     "subtitle": "Festival",
+     "text": "Creole Day in October."
+    },
+    {
+     "title": "Saint Lucia Jazz",
+     "subtitle": "Festival",
+     "text": "A music festival."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Green figs and saltfish",
+     "subtitle": "Everywhere",
+     "text": "The national dish."
+    },
+    {
+     "title": "Bouyon",
+     "subtitle": "Everywhere",
+     "text": "A hearty soup."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Independence Day",
+    "text": "22 February."
+   },
+   {
+    "month": 7,
+    "name": "Carnival",
+    "text": "Saint Lucia's carnival."
+   },
+   {
+    "month": 10,
+    "name": "Jounen Kwéyòl",
+    "text": "Creole heritage day."
+   }
+  ]
+ }
+}

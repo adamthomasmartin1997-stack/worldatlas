@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Tourism and financial services are the pillars of Barbados's economy.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Tourism is the biggest industry. Rum and sugar are traditional exports; Barbados claims to be the birthplace of rum."
+   ],
+   "related": [
+    "GBR",
+    "USA"
+   ]
+  },
+  {
+   "id": "services",
+   "title": "Services",
+   "text": [
+    "International business and finance are growing."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Rum",
+   "meaning": "A spirit made from sugar cane."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Barbados",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "West coast",
+     "text": "The biggest industry."
+    },
+    {
+     "title": "Rum",
+     "subtitle": "Mount Gay and others",
+     "text": "Among the oldest rums."
+    },
+    {
+     "title": "Sugar",
+     "subtitle": "Plantations",
+     "text": "A historic crop."
+    }
+   ],
+   "intro": "Some of the things Barbados makes and sells to the world."
+  }
+ ]
+}

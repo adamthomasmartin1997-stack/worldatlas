@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Saint Lucia is a volcanic island famous for its twin Pitons, and it has produced two Nobel Prize winners.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Kalinago and Europeans",
+   "text": [
+    "The Kalinago (Island Caribs) lived on the island and resisted European settlers for years."
+   ],
+   "related": [
+    "DMA",
+    "VCT"
+   ]
+  },
+  {
+   "id": "contest",
+   "title": "The 'Helen of the West Indies'",
+   "text": [
+    "Britain and France fought over Saint Lucia so often that it changed hands 14 times, earning the nickname 'Helen of the West Indies'. Britain finally kept it in 1814."
+   ],
+   "highlight": {
+    "title": "Fourteen times",
+    "text": "The island switched between Britain and France 14 times."
+   },
+   "related": [
+    "GBR",
+    "FRA"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Saint Lucia became independent in 1979. It remains a Commonwealth realm with the British monarch as head of state."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1660",
+   "title": "French treaty",
+   "text": "With the Kalinago."
+  },
+  {
+   "year": "1814",
+   "title": "British rule",
+   "text": "Final handover."
+  },
+  {
+   "year": "1834",
+   "title": "Emancipation",
+   "text": "Slavery ends."
+  },
+  {
+   "year": "1979",
+   "title": "Independence",
+   "text": "22 February."
+  },
+  {
+   "year": "1992",
+   "title": "Nobel Prize",
+   "text": "Derek Walcott for literature."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kalinago",
+   "meaning": "Indigenous people of the eastern Caribbean."
+  }
+ ]
+}

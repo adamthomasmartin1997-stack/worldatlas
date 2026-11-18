@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Cricket is a national passion in Barbados.",
+ "chapters": [
+  {
+   "id": "cricket",
+   "title": "Cricket",
+   "text": [
+    "Sir Garfield Sobers, one of the greatest all-rounders ever, is from Barbados. The Kensington Oval hosted the 2007 and 2024 Cricket World Cup finals."
+   ],
+   "related": [
+    "IND"
+   ]
+  },
+  {
+   "id": "athletics",
+   "title": "Athletics",
+   "text": [
+    "Obadele Thompson won 100 m bronze in 2000, Barbados's only individual Olympic medal."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "All-rounder",
+   "meaning": "A cricketer good at batting and bowling."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Cricket",
+     "subtitle": "Barbados Pride",
+     "text": "The national cricket team."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Garfield Sobers",
+     "subtitle": "Cricket",
+     "text": "A great all-rounder."
+    },
+    {
+     "title": "Joel Garner",
+     "subtitle": "Cricket",
+     "text": "'Big Bird', a fast bowler."
+    },
+    {
+     "title": "Obadele Thompson",
+     "subtitle": "Sprinting",
+     "text": "Olympic bronze 2000."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Barbados' biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Kensington Oval",
+    "kind": "venue",
+    "lat": 13.1,
+    "lon": -59.62,
+    "text": "Hosted World Cup finals."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2000",
+    "title": "Olympic bronze",
+    "text": "Thompson's 100 m."
+   },
+   {
+    "year": "2024",
+    "title": "World Cup final",
+    "text": "India win at Kensington Oval."
+   }
+  ]
+ }
+}

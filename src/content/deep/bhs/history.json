@@ -1,0 +1,76 @@
+{
+ "status": "draft",
+ "intro": "The Bahamas is a chain of about 700 islands where Columbus first landed in the Americas in 1492.",
+ "chapters": [
+  {
+   "id": "lucayans",
+   "title": "The Lucayans",
+   "text": [
+    "The Lucayan people, a Taíno group, lived here. Columbus landed on an island he called San Salvador in October 1492. Within a few decades the Lucayans were enslaved and taken away by the Spanish."
+   ],
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "british",
+   "title": "Pirates and British rule",
+   "text": [
+    "English settlers arrived in the 1640s. Nassau became a base for pirates like Blackbeard until British governor Woodes Rogers drove them out in 1718. Loyalists fleeing the American Revolution brought enslaved Africans."
+   ],
+   "highlight": {
+    "title": "Pirate republic",
+    "text": "Nassau was a pirate stronghold in the early 1700s."
+   },
+   "related": [
+    "GBR",
+    "USA"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "The Bahamas became independent in 1973. Hurricane Dorian devastated the Abaco and Grand Bahama islands in 2019."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1492",
+   "title": "Columbus",
+   "text": "Lands at San Salvador."
+  },
+  {
+   "year": "1648",
+   "title": "English settlers",
+   "text": "Arrive on Eleuthera."
+  },
+  {
+   "year": "1718",
+   "title": "Pirates expelled",
+   "text": "By Woodes Rogers."
+  },
+  {
+   "year": "1834",
+   "title": "Emancipation",
+   "text": "Slavery ends."
+  },
+  {
+   "year": "1973",
+   "title": "Independence",
+   "text": "10 July."
+  },
+  {
+   "year": "2019",
+   "title": "Hurricane Dorian",
+   "text": "A catastrophic storm."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lucayans",
+   "meaning": "The original people of the Bahamas."
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "status": "draft",
+ "intro": "Bahamian culture is famous for Junkanoo and island food.",
+ "chapters": [
+  {
+   "id": "junkanoo",
+   "title": "Junkanoo",
+   "text": [
+    "On Boxing Day and New Year's Day, Junkanoo groups parade in colourful costumes to drums, cowbells and horns."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Conch salad, conch fritters and peas 'n' rice are national favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Conch",
+   "meaning": "A large sea snail with a beautiful shell."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Rake-and-scrape",
+     "subtitle": "Music",
+     "text": "With a saw played by scraping."
+    },
+    {
+     "title": "Junkanoo",
+     "subtitle": "Music",
+     "text": "Drums and cowbells."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Conch salad",
+     "subtitle": "Everywhere",
+     "text": "Raw conch with lime."
+    },
+    {
+     "title": "Peas 'n' rice",
+     "subtitle": "Everywhere",
+     "text": "Pigeon peas and rice."
+    },
+    {
+     "title": "Guava duff",
+     "subtitle": "Desserts",
+     "text": "A rolled guava pudding."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "10 July."
+   },
+   {
+    "month": 8,
+    "name": "Emancipation Day",
+    "text": "First Monday of August."
+   },
+   {
+    "month": 12,
+    "name": "Junkanoo",
+    "text": "Boxing Day parade."
+   }
+  ]
+ }
+}

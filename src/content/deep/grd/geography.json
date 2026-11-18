@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Grenada includes the main island and Carriacou and Petite Martinique.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "Volcanic mountains are covered in rainforest, with Grand Etang crater lake. Grand Anse is a long white beach. An underwater sculpture park lies off the west coast."
+   ],
+   "related": [
+    "VCT",
+    "TTO"
+   ]
+  },
+  {
+   "id": "hurricanes",
+   "title": "Hurricanes",
+   "text": [
+    "Grenada lies at the southern edge of the hurricane belt but has been hit hard."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Crater lake",
+   "meaning": "A lake in an old volcano."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Grenada's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "St George's",
+    "kind": "capital",
+    "lat": 12.05,
+    "lon": -61.75,
+    "text": "A harbour town."
+   },
+   {
+    "name": "Grand Anse",
+    "kind": "beach",
+    "lat": 12.03,
+    "lon": -61.76,
+    "text": "A long white beach."
+   },
+   {
+    "name": "Grand Etang",
+    "kind": "crater lake",
+    "lat": 12.09,
+    "lon": -61.69,
+    "text": "Rainforest lake."
+   },
+   {
+    "name": "Underwater sculpture park",
+    "kind": "reef art",
+    "lat": 12.09,
+    "lon": -61.76,
+    "text": "Statues under the sea."
+   },
+   {
+    "name": "Carriacou",
+    "kind": "island",
+    "lat": 12.48,
+    "lon": -61.45,
+    "text": "A small sister island."
+   }
+  ]
+ }
+}

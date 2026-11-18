@@ -1,0 +1,119 @@
+{
+ "status": "draft",
+ "intro": "Cricket, football and athletics are the most popular sports.",
+ "chapters": [
+  {
+   "id": "cricket",
+   "title": "Cricket",
+   "text": [
+    "Brian Lara, from Trinidad, holds the record for the highest Test innings, 400 not out."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "athletics",
+   "title": "Athletics",
+   "text": [
+    "Hasely Crawford won the 100 m in 1976, and Keshorn Walcott won the javelin in 2012. The Soca Warriors played at the 2006 World Cup."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Not out",
+   "meaning": "Still batting at the end of an innings."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "TT Premier League",
+     "subtitle": "Football",
+     "text": "The top league."
+    },
+    {
+     "title": "Caribbean Premier League",
+     "subtitle": "Cricket",
+     "text": "Trinbago Knight Riders."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Brian Lara",
+     "subtitle": "Cricket",
+     "text": "Highest Test innings."
+    },
+    {
+     "title": "Hasely Crawford",
+     "subtitle": "Sprinting",
+     "text": "Olympic champion 1976."
+    },
+    {
+     "title": "Keshorn Walcott",
+     "subtitle": "Javelin",
+     "text": "Olympic champion 2012."
+    },
+    {
+     "title": "Dwight Yorke",
+     "subtitle": "Football",
+     "text": "Treble winner with Manchester United."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Trinidad and Tobago's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Queen's Park Oval",
+    "kind": "venue",
+    "lat": 10.67,
+    "lon": -61.52,
+    "text": "Test cricket."
+   },
+   {
+    "name": "Hasely Crawford Stadium",
+    "kind": "venue",
+    "lat": 10.66,
+    "lon": -61.53,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1976",
+    "title": "Olympic gold",
+    "text": "Crawford's 100 m."
+   },
+   {
+    "year": "1994",
+    "title": "Lara's 375",
+    "text": "A Test record."
+   },
+   {
+    "year": "2006",
+    "title": "World Cup",
+    "text": "The Soca Warriors."
+   },
+   {
+    "year": "2012",
+    "title": "Olympic gold",
+    "text": "Walcott's javelin."
+   }
+  ]
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Grenada has about 125,000 people, mostly of African descent.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "English is official, and Grenadian Creole is spoken. Most people are Christian."
+   ]
+  },
+  {
+   "id": "capital",
+   "title": "St George's",
+   "text": [
+    "St George's has a horseshoe-shaped harbour."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Creole",
+   "meaning": "A local mixed language."
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "The Bahamas is a parliamentary democracy with the British monarch as head of state.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The prime minister leads the government; Philip Davis took office in 2021. Parliament has an elected House of Assembly and an appointed Senate."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Nassau"
+    },
+    {
+     "label": "Independence",
+     "value": "1973"
+    },
+    {
+     "label": "Islands",
+     "value": "About 700"
+    }
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate voice",
+   "text": [
+    "The Bahamas calls for action on climate change."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Westminster system",
+   "meaning": "A parliament modelled on Britain's."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Governor-General",
+     "subtitle": "Represents the King",
+     "text": "Ceremonial."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Leader of the majority",
+     "text": "Leads the government."
+    },
+    {
+     "title": "House of Assembly",
+     "subtitle": "39 members",
+     "text": "Elected by voters."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "16 members",
+     "text": "Appointed, not elected."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In either house."
+   },
+   {
+    "title": "Both houses",
+    "text": "Debate and pass it."
+   },
+   {
+    "title": "Governor-General",
+    "text": "Gives assent."
+   }
+  ]
+ }
+}

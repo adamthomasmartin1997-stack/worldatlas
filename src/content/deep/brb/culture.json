@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Barbadian culture is famous for Crop Over, cricket and Rihanna.",
+ "chapters": [
+  {
+   "id": "festival",
+   "title": "Crop Over",
+   "text": [
+    "Crop Over began as a celebration of the end of the sugar harvest and is now a huge summer festival with calypso and costumes."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Cou-cou and flying fish is the national dish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cou-cou",
+   "meaning": "Cornmeal and okra."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Umbrella",
+     "subtitle": "Rihanna, 2007",
+     "text": "A worldwide hit."
+    },
+    {
+     "title": "Spouge",
+     "subtitle": "Music",
+     "text": "A Bajan style."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Cou-cou and flying fish",
+     "subtitle": "Everywhere",
+     "text": "The national dish."
+    },
+    {
+     "title": "Fish cakes",
+     "subtitle": "Everywhere",
+     "text": "Fried salt fish bites."
+    },
+    {
+     "title": "Pudding and souse",
+     "subtitle": "Saturdays",
+     "text": "Sweet potato and pickled pork."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 8,
+    "name": "Crop Over",
+    "text": "Grand Kadooment Day."
+   },
+   {
+    "month": 11,
+    "name": "Independence Day",
+    "text": "30 November."
+   }
+  ]
+ }
+}

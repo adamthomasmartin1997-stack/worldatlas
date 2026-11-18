@@ -1,0 +1,78 @@
+{
+ "status": "draft",
+ "intro": "Barbados, the easternmost Caribbean island, was a key British sugar colony and became a republic in 2021.",
+ "chapters": [
+  {
+   "id": "settlement",
+   "title": "English settlement",
+   "text": [
+    "The island was largely uninhabited when English settlers arrived in 1627. It was the first English colony to build a sugar economy on the labour of enslaved Africans, a model copied across the Caribbean."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "freedom",
+   "title": "Rebellion and freedom",
+   "text": [
+    "In 1816 an enslaved man named Bussa led a large rebellion. Slavery ended in the 1830s. Barbados became independent in 1966."
+   ],
+   "highlight": {
+    "title": "Bussa",
+    "text": "Bussa is one of Barbados's national heroes."
+   },
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "republic",
+   "title": "A republic",
+   "text": [
+    "On 30 November 2021 Barbados removed the British monarch as head of state and became a republic, with Sandra Mason as first president. Rihanna was named a national hero the same day."
+   ],
+   "related": [
+    "GBR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1627",
+   "title": "English settlers",
+   "text": "Arrive."
+  },
+  {
+   "year": "1640s",
+   "title": "Sugar",
+   "text": "Plantations spread."
+  },
+  {
+   "year": "1816",
+   "title": "Bussa's Rebellion",
+   "text": "A major uprising."
+  },
+  {
+   "year": "1834",
+   "title": "Emancipation",
+   "text": "Slavery ends."
+  },
+  {
+   "year": "1966",
+   "title": "Independence",
+   "text": "30 November."
+  },
+  {
+   "year": "2021",
+   "title": "Republic",
+   "text": "The monarch is removed."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Republic",
+   "meaning": "A country with an elected head of state."
+  }
+ ]
+}

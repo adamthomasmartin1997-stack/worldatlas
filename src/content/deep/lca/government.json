@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Saint Lucia is a parliamentary democracy with the British monarch as head of state.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The prime minister leads the government; Philip J. Pierre has led since 2021. Parliament has an elected House of Assembly and an appointed Senate."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Castries"
+    },
+    {
+     "label": "Independence",
+     "value": "1979"
+    },
+    {
+     "label": "Head of state",
+     "value": "King Charles III"
+    }
+   ]
+  },
+  {
+   "id": "oecs",
+   "title": "Regional ties",
+   "text": [
+    "Saint Lucia hosts the headquarters of the Organisation of Eastern Caribbean States."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Commonwealth realm",
+   "meaning": "A country sharing the British monarch."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Governor-General",
+     "subtitle": "Represents the King",
+     "text": "Ceremonial."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Leader of the majority",
+     "text": "Leads the government."
+    },
+    {
+     "title": "House of Assembly",
+     "subtitle": "17 members",
+     "text": "Elected by voters."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "11 members",
+     "text": "Appointed, not elected."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In the House."
+   },
+   {
+    "title": "Both houses",
+    "text": "Debate and pass it."
+   },
+   {
+    "title": "Governor-General",
+    "text": "Gives assent."
+   }
+  ]
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Barbados is a parliamentary republic since 2021.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is head of state; the prime minister, Mia Mottley since 2018, leads the government. Mottley is known worldwide for her climate finance campaigning."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Bridgetown"
+    },
+    {
+     "label": "Independence",
+     "value": "1966"
+    },
+    {
+     "label": "Republic since",
+     "value": "2021"
+    }
+   ]
+  },
+  {
+   "id": "parliament",
+   "title": "Old parliament",
+   "text": [
+    "Barbados's parliament, from 1639, is one of the oldest in the Commonwealth."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bridgetown Initiative",
+   "meaning": "Mottley's plan to reform climate finance."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by parliament",
+     "text": "Head of state."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Leader of the majority",
+     "text": "Leads the government."
+    },
+    {
+     "title": "House of Assembly",
+     "subtitle": "30 members",
+     "text": "Elected by voters."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "21 members",
+     "text": "Appointed, not elected."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In either house."
+   },
+   {
+    "title": "Both houses",
+    "text": "Debate and pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Gives assent."
+   }
+  ]
+ }
+}

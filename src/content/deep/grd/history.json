@@ -1,0 +1,79 @@
+{
+ "status": "draft",
+ "intro": "Grenada is the 'Spice Isle', a small Caribbean nation famous for nutmeg.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Kalinago resistance",
+   "text": [
+    "The Kalinago resisted French settlers in the 1650s; at Sauteurs, the last Kalinago are said to have leapt from a cliff rather than surrender."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "colonies",
+   "title": "French and British rule",
+   "text": [
+    "France ruled Grenada until Britain took it in 1763. Julien Fédon led a rebellion in 1795. Slavery ended in the 1830s."
+   ],
+   "related": [
+    "FRA",
+    "GBR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and revolution",
+   "text": [
+    "Grenada became independent in 1974. In 1979 Maurice Bishop led a revolution; in 1983 he was killed in a power struggle, and the US invaded days later. Democracy was restored. Hurricane Ivan in 2004 and Hurricane Beryl in 2024 caused great damage."
+   ],
+   "highlight": {
+    "title": "1983",
+    "text": "The US-led invasion followed Bishop's killing."
+   },
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1650",
+   "title": "French settlement",
+   "text": "Begins."
+  },
+  {
+   "year": "1763",
+   "title": "British rule",
+   "text": "From France."
+  },
+  {
+   "year": "1795",
+   "title": "Fédon's Rebellion",
+   "text": "A major uprising."
+  },
+  {
+   "year": "1974",
+   "title": "Independence",
+   "text": "7 February."
+  },
+  {
+   "year": "1979",
+   "title": "Revolution",
+   "text": "Maurice Bishop takes power."
+  },
+  {
+   "year": "1983",
+   "title": "US invasion",
+   "text": "After Bishop's death."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Nutmeg",
+   "meaning": "A spice from a tree seed."
+  }
+ ]
+}

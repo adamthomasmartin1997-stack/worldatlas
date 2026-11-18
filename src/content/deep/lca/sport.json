@@ -1,0 +1,84 @@
+{
+ "status": "draft",
+ "intro": "Cricket and athletics are popular in Saint Lucia, which won its first Olympic gold in 2024.",
+ "chapters": [
+  {
+   "id": "athletics",
+   "title": "Julien Alfred",
+   "text": [
+    "Julien Alfred won the women's 100 m at the 2024 Olympics, Saint Lucia's first ever Olympic medal."
+   ]
+  },
+  {
+   "id": "cricket",
+   "title": "Cricket",
+   "text": [
+    "Daren Sammy captained the West Indies to two T20 World Cup wins; the national stadium is named after him."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "T20 World Cup",
+   "meaning": "A short-format cricket tournament."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Cricket",
+     "subtitle": "Windward Islands",
+     "text": "Regional cricket."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Julien Alfred",
+     "subtitle": "Sprinting",
+     "text": "Olympic 100 m champion 2024."
+    },
+    {
+     "title": "Daren Sammy",
+     "subtitle": "Cricket",
+     "text": "Two T20 World Cups as captain."
+    },
+    {
+     "title": "Levern Spencer",
+     "subtitle": "High jump",
+     "text": "Commonwealth champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Saint Lucia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Daren Sammy Cricket Ground",
+    "kind": "venue",
+    "lat": 14.08,
+    "lon": -60.95,
+    "text": "International cricket."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2024",
+    "title": "Olympic gold",
+    "text": "Alfred's 100 m."
+   }
+  ]
+ }
+}

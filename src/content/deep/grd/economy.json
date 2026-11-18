@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Grenada earns money from tourism, spices and a medical school.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Grenada is one of the world's top nutmeg producers, and nutmeg is on its flag. St George's University, a large medical school, brings many students."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "cocoa",
+   "title": "Chocolate",
+   "text": [
+    "Grenada makes chocolate from its own organic cocoa."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mace",
+   "meaning": "A spice from the nutmeg's red covering."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Grenada",
+   "items": [
+    {
+     "title": "Nutmeg",
+     "subtitle": "Hills",
+     "text": "A top producer."
+    },
+    {
+     "title": "Cocoa",
+     "subtitle": "Estates",
+     "text": "Organic chocolate."
+    },
+    {
+     "title": "Education",
+     "subtitle": "St George's University",
+     "text": "A medical school."
+    }
+   ],
+   "intro": "Some of the things Grenada makes and sells to the world."
+  }
+ ]
+}

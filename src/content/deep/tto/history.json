@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Trinidad and Tobago is a two-island nation off Venezuela, birthplace of calypso, soca and the steelpan.",
+ "chapters": [
+  {
+   "id": "colony",
+   "title": "Spanish and British rule",
+   "text": [
+    "Columbus named Trinidad in 1498. Spain held it lightly; Britain took Trinidad in 1797, and Tobago changed hands many times before becoming British. Sugar and cocoa plantations used enslaved Africans."
+   ],
+   "related": [
+    "ESP",
+    "GBR",
+    "VEN"
+   ]
+  },
+  {
+   "id": "indenture",
+   "title": "Indenture",
+   "text": [
+    "After slavery ended, about 144,000 indentured workers came from India between 1845 and 1917, so today the population is roughly equal parts African and Indian descent."
+   ],
+   "highlight": {
+    "title": "Two heritages",
+    "text": "Diwali and Carnival are both national celebrations."
+   },
+   "related": [
+    "IND"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Trinidad and Tobago became independent in 1962 under Eric Williams and a republic in 1976. Oil and gas made it one of the Caribbean's richest countries."
+   ],
+   "related": [
+    "GBR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1498",
+   "title": "Columbus",
+   "text": "Names Trinidad."
+  },
+  {
+   "year": "1797",
+   "title": "British rule",
+   "text": "Trinidad is captured."
+  },
+  {
+   "year": "1845",
+   "title": "Indenture",
+   "text": "Workers arrive from India."
+  },
+  {
+   "year": "1908",
+   "title": "Oil",
+   "text": "Drilling begins."
+  },
+  {
+   "year": "1962",
+   "title": "Independence",
+   "text": "31 August."
+  },
+  {
+   "year": "1976",
+   "title": "Republic",
+   "text": "A president replaces the Queen."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Steelpan",
+   "meaning": "A drum made from an oil barrel, tuned to play notes."
+  }
+ ]
+}

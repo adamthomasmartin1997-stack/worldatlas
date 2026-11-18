@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "The Bahamas has about 400,000 people, most living on New Providence.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most Bahamians are of African descent. English is official, and Bahamian Creole is spoken. Christianity is the main religion."
+   ]
+  },
+  {
+   "id": "nassau",
+   "title": "Nassau",
+   "text": [
+    "Nassau, the capital, is on New Providence island."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Junkanoo",
+   "meaning": "A street parade with music and costumes."
+  }
+ ]
+}

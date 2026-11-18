@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Barbados is a coral limestone island, flatter than its volcanic neighbours.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Coasts and caves",
+   "text": [
+    "The calm west coast has white beaches, while the wild east coast at Bathsheba faces Atlantic waves. Harrison's Cave is a limestone cave with streams and pools."
+   ],
+   "related": [
+    "VCT",
+    "LCA"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Barbados is sunny and warm, and lies just outside the main hurricane belt."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Coral limestone",
+   "meaning": "Rock formed from ancient coral."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Barbados' landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Bridgetown",
+    "kind": "capital",
+    "lat": 13.1,
+    "lon": -59.62,
+    "text": "A historic port."
+   },
+   {
+    "name": "Harrison's Cave",
+    "kind": "cave",
+    "lat": 13.18,
+    "lon": -59.57,
+    "text": "Underground streams."
+   },
+   {
+    "name": "Bathsheba",
+    "kind": "wild coast",
+    "lat": 13.21,
+    "lon": -59.52,
+    "text": "Huge rocks and surf."
+   },
+   {
+    "name": "Animal Flower Cave",
+    "kind": "sea cave",
+    "lat": 13.33,
+    "lon": -59.6,
+    "text": "At the north tip."
+   },
+   {
+    "name": "Carlisle Bay",
+    "kind": "bay",
+    "lat": 13.08,
+    "lon": -59.61,
+    "text": "Shipwreck snorkelling."
+   }
+  ]
+ }
+}

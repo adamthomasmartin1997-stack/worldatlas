@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Grenadian culture is famous for its carnival and spices.",
+ "chapters": [
+  {
+   "id": "carnival",
+   "title": "Spicemas",
+   "text": [
+    "Spicemas carnival includes Jab Jab, where revellers cover themselves in black oil."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Oil down, a stew of breadfruit, coconut milk and salted meat, is the national dish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Oil down",
+   "meaning": "Grenada's national dish."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Calypso",
+     "subtitle": "Music",
+     "text": "Sung at Spicemas."
+    },
+    {
+     "title": "Soca",
+     "subtitle": "Music",
+     "text": "Carnival music."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Oil down",
+     "subtitle": "Everywhere",
+     "text": "The national dish."
+    },
+    {
+     "title": "Nutmeg ice cream",
+     "subtitle": "Everywhere",
+     "text": "A sweet treat."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Independence Day",
+    "text": "7 February."
+   },
+   {
+    "month": 8,
+    "name": "Spicemas",
+    "text": "Carnival."
+   },
+   {
+    "month": 8,
+    "name": "Carriacou Regatta",
+    "text": "Boat races."
+   }
+  ]
+ }
+}

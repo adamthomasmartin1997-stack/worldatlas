@@ -1,0 +1,102 @@
+{
+ "status": "draft",
+ "intro": "The Bahamas has won many Olympic medals in sprinting for its size.",
+ "chapters": [
+  {
+   "id": "athletics",
+   "title": "Athletics",
+   "text": [
+    "Shaunae Miller-Uibo won the 400 m at the 2016 and 2021 Olympics. Steven Gardiner won the men's 400 m in 2021."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Basketball is popular; Buddy Hield plays in the NBA. Sailing is a tradition."
+   ],
+   "related": [
+    "USA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "400 m",
+   "meaning": "One lap of a running track."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Basketball",
+     "subtitle": "Clubs",
+     "text": "Very popular."
+    },
+    {
+     "title": "Regattas",
+     "subtitle": "Sailing",
+     "text": "Island boat races."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Shaunae Miller-Uibo",
+     "subtitle": "400 m",
+     "text": "Two Olympic golds."
+    },
+    {
+     "title": "Steven Gardiner",
+     "subtitle": "400 m",
+     "text": "Olympic champion 2021."
+    },
+    {
+     "title": "Tonique Williams-Darling",
+     "subtitle": "400 m",
+     "text": "Olympic champion 2004."
+    },
+    {
+     "title": "Buddy Hield",
+     "subtitle": "Basketball",
+     "text": "An NBA guard."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where the Bahamas' biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Thomas Robinson Stadium",
+    "kind": "venue",
+    "lat": 25.05,
+    "lon": -77.37,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2000",
+    "title": "Olympic relay gold",
+    "text": "Women's 4×100 m."
+   },
+   {
+    "year": "2016",
+    "title": "Miller-Uibo's dive",
+    "text": "Diving over the line for gold."
+   }
+  ]
+ }
+}

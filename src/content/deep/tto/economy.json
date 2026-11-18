@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Oil and natural gas make Trinidad and Tobago one of the Caribbean's richest countries.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "It is a big exporter of liquefied natural gas, ammonia and methanol. Tourism matters more on Tobago."
+   ],
+   "related": [
+    "USA",
+    "ESP"
+   ]
+  },
+  {
+   "id": "cocoa",
+   "title": "Cocoa",
+   "text": [
+    "Trinitario cocoa is prized by chocolate makers."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Petrochemicals",
+   "meaning": "Chemicals made from oil and gas."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Trinidad and Tobago",
+   "items": [
+    {
+     "title": "Liquefied gas",
+     "subtitle": "Point Fortin",
+     "text": "A big export."
+    },
+    {
+     "title": "Ammonia",
+     "subtitle": "Point Lisas",
+     "text": "For fertiliser."
+    },
+    {
+     "title": "Methanol",
+     "subtitle": "Point Lisas",
+     "text": "A top exporter."
+    },
+    {
+     "title": "Cocoa",
+     "subtitle": "Hills",
+     "text": "Fine Trinitario."
+    }
+   ],
+   "intro": "Some of the things Trinidad and Tobago makes and sells to the world."
+  }
+ ]
+}

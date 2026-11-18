@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Barbados has about 280,000 people, mostly of African descent.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "English is official, and Bajan Creole is spoken. Christianity is the main religion. Barbados has high literacy and education levels."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "bridgetown",
+   "title": "Bridgetown",
+   "text": [
+    "Bridgetown and its garrison are a World Heritage site."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bajan",
+   "meaning": "A person from Barbados."
+  }
+ ]
+}

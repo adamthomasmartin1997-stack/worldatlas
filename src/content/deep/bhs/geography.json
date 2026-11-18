@@ -1,0 +1,79 @@
+{
+ "status": "draft",
+ "intro": "The Bahamas is low and flat, surrounded by shallow, crystal-clear water.",
+ "chapters": [
+  {
+   "id": "islands",
+   "title": "Islands and blue holes",
+   "text": [
+    "Andros, the largest island, has many blue holes, deep underwater caves. Dean's Blue Hole, over 200 m deep, is one of the deepest in the world. Pigs swim at Big Major Cay in the Exumas."
+   ],
+   "related": [
+    "USA",
+    "CUB"
+   ]
+  },
+  {
+   "id": "hurricanes",
+   "title": "Hurricanes",
+   "text": [
+    "The low islands are very exposed to hurricanes and rising seas."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Blue hole",
+   "meaning": "A deep underwater sinkhole."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of the Bahamas' landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Nassau",
+    "kind": "capital",
+    "lat": 25.05,
+    "lon": -77.35,
+    "text": "Colourful streets."
+   },
+   {
+    "name": "Andros",
+    "kind": "island",
+    "lat": 24.7,
+    "lon": -78.0,
+    "text": "Blue holes."
+   },
+   {
+    "name": "Exumas",
+    "kind": "islands",
+    "lat": 24.0,
+    "lon": -76.3,
+    "text": "Swimming pigs."
+   },
+   {
+    "name": "Dean's Blue Hole",
+    "kind": "blue hole",
+    "lat": 23.1,
+    "lon": -75.0,
+    "text": "One of the deepest on Earth."
+   },
+   {
+    "name": "Eleuthera",
+    "kind": "island",
+    "lat": 25.2,
+    "lon": -76.3,
+    "text": "Pink sand beaches."
+   },
+   {
+    "name": "Grand Bahama",
+    "kind": "island",
+    "lat": 26.6,
+    "lon": -78.5,
+    "text": "Lucayan National Park."
+   }
+  ]
+ }
+}

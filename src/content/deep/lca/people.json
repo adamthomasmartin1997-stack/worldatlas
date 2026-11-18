@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Saint Lucia has about 180,000 people, mostly of African descent.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "English is official, but many people speak Kwéyòl, a French-based Creole. Most people are Catholic."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "castries",
+   "title": "Castries",
+   "text": [
+    "Castries, the capital, has a busy harbour and market."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kwéyòl",
+   "meaning": "Saint Lucian French Creole."
+  }
+ ]
+}

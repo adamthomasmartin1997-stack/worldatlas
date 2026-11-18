@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Tourism has replaced bananas as Saint Lucia's main earner.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Resorts, cruise ships and weddings bring visitors. Bananas were once the main export. Selling citizenship to investors also brings money."
+   ],
+   "related": [
+    "GBR",
+    "USA"
+   ]
+  },
+  {
+   "id": "cocoa",
+   "title": "Cocoa",
+   "text": [
+    "Small estates grow fine cocoa."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Citizenship by investment",
+   "meaning": "Gaining citizenship by investing money."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Saint Lucia",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "Coast",
+     "text": "The main earner."
+    },
+    {
+     "title": "Bananas",
+     "subtitle": "Valleys",
+     "text": "Once the main crop."
+    },
+    {
+     "title": "Cocoa",
+     "subtitle": "Estates",
+     "text": "Fine chocolate."
+    }
+   ],
+   "intro": "Some of the things Saint Lucia makes and sells to the world."
+  }
+ ]
+}

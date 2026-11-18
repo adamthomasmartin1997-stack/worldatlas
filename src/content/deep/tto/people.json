@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Trinidad and Tobago has about 1.4 million people of African, Indian, mixed and other descent.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "English is official, and Trinidadian Creole is widely spoken. Christianity, Hinduism and Islam are all major faiths."
+   ],
+   "related": [
+    "IND"
+   ]
+  },
+  {
+   "id": "capital",
+   "title": "Port of Spain",
+   "text": [
+    "Port of Spain is the capital and business centre."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Trini",
+   "meaning": "A person from Trinidad."
+  }
+ ]
+}

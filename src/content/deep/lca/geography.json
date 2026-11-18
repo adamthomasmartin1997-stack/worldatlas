@@ -1,0 +1,73 @@
+{
+ "status": "draft",
+ "intro": "Saint Lucia is a mountainous volcanic island with rainforest and dramatic peaks.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "The Pitons",
+   "text": [
+    "Gros Piton and Petit Piton, two steep volcanic spires rising from the sea, are a World Heritage site. Sulphur Springs near Soufrière is a 'drive-in volcano' with bubbling mud pools."
+   ],
+   "related": [
+    "MTQ",
+    "VCT",
+    "BRB"
+   ]
+  },
+  {
+   "id": "forest",
+   "title": "Rainforest",
+   "text": [
+    "Rainforest covers the mountains and shelters the Saint Lucia parrot, the national bird."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Spire",
+   "meaning": "A tall, pointed peak."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Saint Lucia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Rodney Bay",
+    "kind": "bay",
+    "lat": 14.08,
+    "lon": -60.95,
+    "text": "Beaches and marina."
+   },
+   {
+    "name": "Castries",
+    "kind": "capital",
+    "lat": 14.01,
+    "lon": -60.99,
+    "text": "A busy harbour."
+   },
+   {
+    "name": "Sulphur Springs",
+    "kind": "volcano",
+    "lat": 13.83,
+    "lon": -61.05,
+    "text": "A drive-in volcano."
+   },
+   {
+    "name": "The Pitons",
+    "kind": "volcanic spires",
+    "lat": 13.81,
+    "lon": -61.07,
+    "text": "Twin peaks."
+   },
+   {
+    "name": "Edmund Forest",
+    "kind": "rainforest",
+    "lat": 13.88,
+    "lon": -61.03,
+    "text": "Saint Lucia parrots."
+   }
+  ]
+ }
+}

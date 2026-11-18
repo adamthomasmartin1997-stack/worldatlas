@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Tourism and financial services make the Bahamas one of the richest countries in the Americas per person.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Tourism, including huge cruise ship visits, provides about half of the economy. Offshore banking is the second-biggest industry."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "fishing",
+   "title": "Fishing",
+   "text": [
+    "Spiny lobster is the main fishing export."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Offshore banking",
+   "meaning": "Banking for people from other countries."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in the Bahamas",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "Nassau and islands",
+     "text": "Half the economy."
+    },
+    {
+     "title": "Banking",
+     "subtitle": "Nassau",
+     "text": "Offshore finance."
+    },
+    {
+     "title": "Lobster",
+     "subtitle": "Fishing grounds",
+     "text": "Spiny lobster."
+    }
+   ],
+   "intro": "Some of the things the Bahamas makes and sells to the world."
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "status": "draft",
+ "intro": "Athletics and cricket are Grenada's favourite sports.",
+ "chapters": [
+  {
+   "id": "athletics",
+   "title": "Athletics",
+   "text": [
+    "Kirani James won the 400 m at the 2012 Olympics, Grenada's first gold. Anderson Peters became world javelin champion and won Olympic bronze in 2024."
+   ]
+  },
+  {
+   "id": "cricket",
+   "title": "Cricket",
+   "text": [
+    "Grenada hosts international cricket at the National Stadium."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Javelin",
+   "meaning": "Throwing a spear for distance."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Cricket",
+     "subtitle": "Windward Islands",
+     "text": "Regional cricket."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Kirani James",
+     "subtitle": "400 m",
+     "text": "Olympic champion 2012."
+    },
+    {
+     "title": "Anderson Peters",
+     "subtitle": "Javelin",
+     "text": "World champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Grenada's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Kirani James Athletic Stadium",
+    "kind": "venue",
+    "lat": 12.06,
+    "lon": -61.74,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2012",
+    "title": "Olympic gold",
+    "text": "Kirani James."
+   },
+   {
+    "year": "2024",
+    "title": "Olympic bronze",
+    "text": "Peters in the javelin."
+   }
+  ]
+ }
+}
