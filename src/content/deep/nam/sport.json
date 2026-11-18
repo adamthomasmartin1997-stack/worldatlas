@@ -1,0 +1,96 @@
+{
+ "status": "draft",
+ "intro": "Namibia's sprinters and cricketers have made their mark.",
+ "chapters": [
+  {
+   "id": "athletics",
+   "title": "Athletics",
+   "text": [
+    "Frankie Fredericks won four Olympic silver medals in the 1990s. Christine Mboma won 200 m silver at the 2021 Olympics."
+   ]
+  },
+  {
+   "id": "cricket",
+   "title": "Cricket and rugby",
+   "text": [
+    "Namibia has played at the Rugby World Cup and the T20 cricket World Cup."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "T20",
+   "meaning": "A short form of cricket."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Namibia Premier League",
+     "subtitle": "Football",
+     "text": "The top league."
+    },
+    {
+     "title": "Cricket",
+     "subtitle": "National team",
+     "text": "At T20 World Cups."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Frankie Fredericks",
+     "subtitle": "Sprinting",
+     "text": "Four Olympic silvers."
+    },
+    {
+     "title": "Christine Mboma",
+     "subtitle": "Sprinting",
+     "text": "Olympic silver 2021."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Namibia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Sam Nujoma Stadium",
+    "kind": "venue",
+    "lat": -22.6,
+    "lon": 17.09,
+    "text": "A football stadium."
+   },
+   {
+    "name": "Independence Stadium",
+    "kind": "venue",
+    "lat": -22.58,
+    "lon": 17.08,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1992",
+    "title": "Fredericks",
+    "text": "Silver in Barcelona."
+   },
+   {
+    "year": "2021",
+    "title": "Mboma",
+    "text": "Silver in Tokyo."
+   }
+  ]
+ }
+}

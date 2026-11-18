@@ -1,0 +1,112 @@
+{
+ "status": "draft",
+ "intro": "Zimbabwe is known for stone sculpture, mbira music and its writers.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Shona stone sculpture is shown worldwide. The mbira, a thumb piano, is central to Shona music, and Thomas Mapfumo created chimurenga music."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Sadza (maize porridge) with relish is the staple."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mbira",
+   "meaning": "A thumb piano."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Neria",
+     "subtitle": "1993 · Godwin Mawuru",
+     "text": "A widow fights for her rights."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Nervous Conditions",
+     "subtitle": "1988 · Tsitsi Dangarembga",
+     "text": "A girl's education."
+    },
+    {
+     "title": "We Need New Names",
+     "subtitle": "2013 · NoViolet Bulawayo",
+     "text": "A girl's journey to America."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Thomas Mapfumo",
+     "subtitle": "Chimurenga music",
+     "text": "The 'Lion of Zimbabwe'."
+    },
+    {
+     "title": "Oliver Mtukudzi",
+     "subtitle": "Singer",
+     "text": "'Tuku music'."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Sadza",
+     "subtitle": "Everywhere",
+     "text": "Maize porridge."
+    },
+    {
+     "title": "Nyama",
+     "subtitle": "Everywhere",
+     "text": "Meat stew served with sadza."
+    },
+    {
+     "title": "Mopane worms",
+     "subtitle": "Seasonal",
+     "text": "A crunchy snack."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Independence Day",
+    "text": "18 April."
+   },
+   {
+    "month": 4,
+    "name": "HIFA",
+    "text": "Harare arts festival (in some years)."
+   },
+   {
+    "month": 8,
+    "name": "Heroes Day",
+    "text": "Honouring liberation fighters."
+   }
+  ]
+ }
+}

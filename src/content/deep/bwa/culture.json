@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Botswana's culture is rooted in Tswana traditions of community and cattle.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Cattle are a sign of wealth. Decisions were traditionally made at the kgotla. Basket weaving from palm leaves is a famous craft."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Seswaa, slow-cooked pounded beef, is the national dish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Seswaa",
+   "meaning": "Pounded beef."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The No. 1 Ladies' Detective Agency",
+     "subtitle": "1998 · Alexander McCall Smith",
+     "text": "Set in Gaborone."
+    },
+    {
+     "title": "When Rain Clouds Gather",
+     "subtitle": "1968 · Bessie Head",
+     "text": "Life in a Botswana village."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Choral music",
+     "subtitle": "Traditional",
+     "text": "Strong singing tradition."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Seswaa",
+     "subtitle": "Celebrations",
+     "text": "Pounded beef."
+    },
+    {
+     "title": "Pap",
+     "subtitle": "Everywhere",
+     "text": "Maize porridge."
+    },
+    {
+     "title": "Mopane worms",
+     "subtitle": "Seasonal",
+     "text": "A protein snack."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 7,
+    "name": "Sir Seretse Khama Day",
+    "text": "1 July."
+   },
+   {
+    "month": 9,
+    "name": "Botswana Day",
+    "text": "30 September."
+   }
+  ]
+ }
+}

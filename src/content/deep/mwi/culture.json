@@ -1,0 +1,81 @@
+{
+ "status": "draft",
+ "intro": "Malawian culture is known for the Gule Wamkulu dance and warm hospitality.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Gule Wamkulu, masked dances of the Chewa, is on UNESCO's list. The Lake of Stars festival brings music to the lakeshore."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Nsima (maize porridge) with chambo fish from the lake is a favourite."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gule Wamkulu",
+   "meaning": "A Chewa masked dance."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Boy Who Harnessed the Wind",
+     "subtitle": "2009 · William Kamkwamba",
+     "text": "A boy builds a windmill."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Lake of Stars",
+     "subtitle": "Festival",
+     "text": "Music on the lakeshore."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Nsima",
+     "subtitle": "Everywhere",
+     "text": "Maize porridge."
+    },
+    {
+     "title": "Chambo",
+     "subtitle": "Lakeshore",
+     "text": "Fish from Lake Malawi."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "6 July."
+   },
+   {
+    "month": 9,
+    "name": "Lake of Stars",
+    "text": "Music festival in some years."
+   }
+  ]
+ }
+}

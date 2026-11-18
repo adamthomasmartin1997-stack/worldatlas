@@ -1,0 +1,89 @@
+{
+ "status": "draft",
+ "intro": "Botswana's sprinters have become world stars.",
+ "chapters": [
+  {
+   "id": "athletics",
+   "title": "Athletics",
+   "text": [
+    "Letsile Tebogo won the 200 m at the 2024 Olympics, Botswana's first gold, and the men's 4×400 m relay won silver. Nijel Amos won 800 m silver in 2012."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Zebras have played at the Africa Cup of Nations."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Relay",
+   "meaning": "A team race passing a baton."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Botswana Premier League",
+     "subtitle": "Football",
+     "text": "Township Rollers are a top club."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Letsile Tebogo",
+     "subtitle": "Sprinting",
+     "text": "Olympic 200 m champion."
+    },
+    {
+     "title": "Nijel Amos",
+     "subtitle": "800 m",
+     "text": "Olympic silver 2012."
+    },
+    {
+     "title": "Amantle Montsho",
+     "subtitle": "400 m",
+     "text": "World champion 2011."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Botswana's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "National Stadium, Gaborone",
+    "kind": "venue",
+    "lat": -24.66,
+    "lon": 25.92,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2012",
+    "title": "Amos silver",
+    "text": "A first Olympic medal."
+   },
+   {
+    "year": "2024",
+    "title": "Tebogo gold",
+    "text": "Botswana's first Olympic champion."
+   }
+  ]
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Malawi has about 21 million people, most living in rural areas.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Chewa are the largest group, and Chichewa is widely spoken; English is official. Most people are Christian, with a Muslim minority."
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Lilongwe is the capital and Blantyre the commercial city."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Chichewa",
+   "meaning": "Malawi's main language."
+  }
+ ]
+}

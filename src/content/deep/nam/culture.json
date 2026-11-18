@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Namibia's cultures include the distinctive dress of the Herero and Himba.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Himba women cover their skin and hair with red ochre paste. Herero women wear Victorian-style dresses and horn-shaped hats."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Kapana (street grilled meat), oshifima (millet porridge) and biltong are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ochre",
+   "meaning": "A red earth pigment."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Purple Violet of Oshaantu",
+     "subtitle": "2001 · Neshani Andreas",
+     "text": "Women in a village."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Shishani",
+     "subtitle": "Singer",
+     "text": "Namibian soul."
+    },
+    {
+     "title": "Kwaito",
+     "subtitle": "Music",
+     "text": "Popular dance music."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Kapana",
+     "subtitle": "Street food",
+     "text": "Grilled meat."
+    },
+    {
+     "title": "Oshifima",
+     "subtitle": "North",
+     "text": "Millet porridge."
+    },
+    {
+     "title": "Biltong",
+     "subtitle": "Everywhere",
+     "text": "Dried meat."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Independence Day",
+    "text": "21 March."
+   },
+   {
+    "month": 8,
+    "name": "Heroes Day",
+    "text": "26 August."
+   }
+  ]
+ }
+}

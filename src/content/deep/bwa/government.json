@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Botswana is a parliamentary republic and one of Africa's most stable democracies.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Parliament elects the president, who leads the government. Duma Boko became president in 2024. The House of Chiefs advises on custom."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Gaborone"
+    },
+    {
+     "label": "Independence",
+     "value": "1966"
+    },
+    {
+     "label": "Democracy",
+     "value": "Since 1966"
+    }
+   ]
+  },
+  {
+   "id": "clean",
+   "title": "Clean government",
+   "text": [
+    "Botswana is often ranked the least corrupt country in Africa."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "House of Chiefs",
+   "meaning": "An advisory body of traditional leaders."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by parliament",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "Over 60 members",
+     "text": "Elected in constituencies."
+    },
+    {
+     "title": "Ntlo ya Dikgosi",
+     "subtitle": "House of Chiefs",
+     "text": "Advises on custom."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In the National Assembly."
+   },
+   {
+    "title": "Vote",
+    "text": "Members pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

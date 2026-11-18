@@ -1,0 +1,114 @@
+{
+ "status": "draft",
+ "intro": "Football, cricket and rugby are popular, and Zimbabwean swimmers have won Olympic golds.",
+ "chapters": [
+  {
+   "id": "swimming",
+   "title": "Swimming",
+   "text": [
+    "Kirsty Coventry won seven Olympic medals, including two golds, and in 2025 became the first woman and first African president of the International Olympic Committee."
+   ],
+   "related": [
+    "CHE"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "The women's hockey team won Olympic gold in 1980. Zimbabwe co-hosted the 2003 Cricket World Cup and plays Test cricket."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "IOC",
+   "meaning": "The International Olympic Committee."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Zimbabwe Premier Soccer League",
+     "subtitle": "Football",
+     "text": "Dynamos have won the most titles."
+    },
+    {
+     "title": "Cricket",
+     "subtitle": "Test nation",
+     "text": "Plays international Tests."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Kirsty Coventry",
+     "subtitle": "Swimming",
+     "text": "Two Olympic golds."
+    },
+    {
+     "title": "Andy Flower",
+     "subtitle": "Cricket",
+     "text": "A top batter."
+    },
+    {
+     "title": "Peter Ndlovu",
+     "subtitle": "Football",
+     "text": "Played in the Premier League."
+    },
+    {
+     "title": "Sikandar Raza",
+     "subtitle": "Cricket",
+     "text": "A star all-rounder."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Zimbabwe's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "National Sports Stadium, Harare",
+    "kind": "venue",
+    "lat": -17.83,
+    "lon": 31.0,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Harare Sports Club",
+    "kind": "venue",
+    "lat": -17.81,
+    "lon": 31.05,
+    "text": "Test cricket."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1980",
+    "title": "Hockey gold",
+    "text": "The 'Golden Girls'."
+   },
+   {
+    "year": "2004",
+    "title": "Coventry gold",
+    "text": "In Athens."
+   },
+   {
+    "year": "2025",
+    "title": "IOC president",
+    "text": "Coventry elected."
+   }
+  ]
+ }
+}

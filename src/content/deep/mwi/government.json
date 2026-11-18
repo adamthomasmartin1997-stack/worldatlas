@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Malawi is a presidential republic with peaceful transfers of power.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for five years. Peter Mutharika won the 2025 election, beating Lazarus Chakwera, who accepted defeat."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Lilongwe"
+    },
+    {
+     "label": "Independence",
+     "value": "1964"
+    },
+    {
+     "label": "President",
+     "value": "Peter Mutharika"
+    }
+   ]
+  },
+  {
+   "id": "courts",
+   "title": "Courts",
+   "text": [
+    "Malawi's courts have shown independence, including in the 2020 election case."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Concede",
+   "meaning": "To accept that you have lost."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 5 years",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Vice President",
+     "subtitle": "Elected with the President",
+     "text": "Second in command."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "229 members",
+     "text": "The parliament."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In the National Assembly."
+   },
+   {
+    "title": "Vote",
+    "text": "Members pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Gives assent."
+   }
+  ]
+ }
+}

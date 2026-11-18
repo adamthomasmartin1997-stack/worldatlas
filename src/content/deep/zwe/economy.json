@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Zimbabwe has rich land and minerals but its economy collapsed in the 2000s.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Gold, platinum, lithium, tobacco and diamonds are major exports. In 2008 inflation reached billions of per cent, and Zimbabwe abandoned its own currency for years. A new currency, ZiG, was launched in 2024."
+   ],
+   "related": [
+    "ZAF",
+    "CHN"
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Victoria Falls and safaris draw visitors."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Currency",
+   "meaning": "The money a country uses."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Zimbabwe",
+   "items": [
+    {
+     "title": "Gold",
+     "subtitle": "Mines",
+     "text": "A top export."
+    },
+    {
+     "title": "Platinum",
+     "subtitle": "Great Dyke",
+     "text": "Large reserves."
+    },
+    {
+     "title": "Lithium",
+     "subtitle": "Mines",
+     "text": "For batteries."
+    },
+    {
+     "title": "Tobacco",
+     "subtitle": "Farms",
+     "text": "A top crop."
+    }
+   ],
+   "intro": "Some of the things Zimbabwe makes and sells to the world."
+  }
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "status": "draft",
+ "intro": "Mozambique has a long Indian Ocean coast where Swahili traders and Portuguese colonists once ruled.",
+ "chapters": [
+  {
+   "id": "trade",
+   "title": "Coastal trade",
+   "text": [
+    "Swahili and Arab traders set up towns along the coast from about the 900s, trading gold from inland kingdoms like Mutapa. The Island of Mozambique gave the country its name."
+   ],
+   "related": [
+    "ZWE",
+    "OMN"
+   ]
+  },
+  {
+   "id": "portugal",
+   "title": "Portuguese rule",
+   "text": [
+    "Vasco da Gama arrived in 1498, and Portugal ruled for nearly 500 years, using forced labour on plantations. In 1964 FRELIMO began a war for independence."
+   ],
+   "related": [
+    "PRT"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and war",
+   "text": [
+    "Mozambique became independent in 1975 under Samora Machel. A civil war with RENAMO from 1977 to 1992 killed around a million people. Peace brought growth, but since 2017 an insurgency has hit the northern province of Cabo Delgado, and disputed 2024 elections led to deadly protests."
+   ],
+   "related": [
+    "ZAF",
+    "RWA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "900s",
+   "title": "Swahili towns",
+   "text": "Coastal trade."
+  },
+  {
+   "year": "1498",
+   "title": "Vasco da Gama",
+   "text": "Arrives."
+  },
+  {
+   "year": "1964",
+   "title": "Liberation war",
+   "text": "FRELIMO fights."
+  },
+  {
+   "year": "1975",
+   "title": "Independence",
+   "text": "25 June."
+  },
+  {
+   "year": "1992",
+   "title": "Peace",
+   "text": "Civil war ends."
+  },
+  {
+   "year": "2000",
+   "title": "Floods",
+   "text": "Severe flooding."
+  },
+  {
+   "year": "2019",
+   "title": "Cyclone Idai",
+   "text": "Devastates Beira."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "FRELIMO",
+   "meaning": "The liberation movement and ruling party."
+  },
+  {
+   "term": "RENAMO",
+   "meaning": "The former rebel movement, now a party."
+  }
+ ]
+}

@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Zambia, once Northern Rhodesia, is a peaceful country built on copper and known for its wildlife and Victoria Falls.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Early peoples",
+   "text": [
+    "The 'Broken Hill skull', found at Kabwe, belonged to an early human relative who lived about 300,000 years ago. Bantu-speaking peoples later formed kingdoms such as the Lozi and the Bemba."
+   ],
+   "related": [
+    "ZWE",
+    "COD"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Northern Rhodesia",
+   "text": [
+    "David Livingstone explored the region in the 1850s. Rhodes's company took control, and copper mining on the Copperbelt began in the 1920s."
+   ],
+   "related": [
+    "GBR",
+    "ZWE"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Zambia became independent in 1964 under Kenneth Kaunda, who led until 1991. It supported liberation movements in neighbouring countries. Power has changed hands peacefully several times."
+   ],
+   "highlight": {
+    "title": "Peaceful",
+    "text": "Zambia has never had a civil war."
+   }
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1855",
+   "title": "Livingstone",
+   "text": "Sees Victoria Falls."
+  },
+  {
+   "year": "1911",
+   "title": "Northern Rhodesia",
+   "text": "Formed."
+  },
+  {
+   "year": "1964",
+   "title": "Independence",
+   "text": "24 October."
+  },
+  {
+   "year": "1991",
+   "title": "Multi-party elections",
+   "text": "Kaunda steps down."
+  },
+  {
+   "year": "2021",
+   "title": "Hichilema",
+   "text": "Wins the presidency."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Copperbelt",
+   "meaning": "Zambia's copper-mining region."
+  }
+ ]
+}

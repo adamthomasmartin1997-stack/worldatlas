@@ -1,0 +1,55 @@
+{
+ "status": "draft",
+ "intro": "Malawi is mostly agricultural and one of the poorest countries in the world.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Tobacco is the top export, followed by tea, sugar and macadamia nuts. Most families grow maize."
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "Droughts, cyclones and fuel shortages have hit the economy."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Staple",
+   "meaning": "The main food people eat."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Malawi",
+   "items": [
+    {
+     "title": "Tobacco",
+     "subtitle": "Farms",
+     "text": "The top export."
+    },
+    {
+     "title": "Tea",
+     "subtitle": "Thyolo and Mulanje",
+     "text": "Grown on estates."
+    },
+    {
+     "title": "Macadamia nuts",
+     "subtitle": "South",
+     "text": "A growing export."
+    },
+    {
+     "title": "Sugar",
+     "subtitle": "Shire Valley",
+     "text": "Grown on plantations."
+    }
+   ],
+   "intro": "Some of the things Malawi makes and sells to the world."
+  }
+ ]
+}

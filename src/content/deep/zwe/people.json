@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Zimbabwe has about 17 million people, most of them Shona.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Shona are the largest group and the Ndebele the second. Zimbabwe has 16 official languages, with English widely used. Most people are Christian.",
+    "Millions of Zimbabweans have moved to South Africa and Britain."
+   ],
+   "related": [
+    "ZAF",
+    "GBR"
+   ]
+  },
+  {
+   "id": "literacy",
+   "title": "Learning",
+   "text": [
+    "Zimbabwe has one of the highest literacy rates in Africa."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ndebele",
+   "meaning": "A people of southern Zimbabwe."
+  }
+ ]
+}

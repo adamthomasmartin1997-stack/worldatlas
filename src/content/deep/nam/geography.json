@@ -1,0 +1,95 @@
+{
+ "status": "draft",
+ "intro": "Namibia is one of the driest countries in Africa, with the world's oldest desert along its coast.",
+ "chapters": [
+  {
+   "id": "desert",
+   "title": "The Namib",
+   "text": [
+    "The Namib Desert has some of the tallest sand dunes on Earth at Sossusvlei. Fog rolling in from the cold Atlantic gives water to plants and beetles. The Skeleton Coast is littered with shipwrecks."
+   ],
+   "related": [
+    "AGO",
+    "BWA",
+    "ZAF",
+    "ZMB"
+   ]
+  },
+  {
+   "id": "parks",
+   "title": "Etosha and Fish River",
+   "text": [
+    "Etosha National Park surrounds a huge salt pan, and the Fish River Canyon is one of the largest canyons in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Fog desert",
+   "meaning": "A desert where plants get water from fog."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Namibia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Etosha",
+    "kind": "salt pan park",
+    "lat": -18.85,
+    "lon": 16.3,
+    "text": "Wildlife at waterholes."
+   },
+   {
+    "name": "Skeleton Coast",
+    "kind": "foggy coast",
+    "lat": -20.0,
+    "lon": 13.2,
+    "text": "Shipwrecks and seals."
+   },
+   {
+    "name": "Twyfelfontein",
+    "kind": "rock engravings",
+    "lat": -20.59,
+    "lon": 14.37,
+    "text": "Ancient engravings."
+   },
+   {
+    "name": "Windhoek",
+    "kind": "capital",
+    "lat": -22.56,
+    "lon": 17.08,
+    "text": "Colonial buildings."
+   },
+   {
+    "name": "Sossusvlei",
+    "kind": "dunes",
+    "lat": -24.73,
+    "lon": 15.3,
+    "text": "Towering red dunes."
+   },
+   {
+    "name": "Deadvlei",
+    "kind": "dead trees",
+    "lat": -24.76,
+    "lon": 15.29,
+    "text": "Ancient dead trees on white clay."
+   },
+   {
+    "name": "Fish River Canyon",
+    "kind": "canyon",
+    "lat": -27.6,
+    "lon": 17.6,
+    "text": "A huge canyon."
+   },
+   {
+    "name": "Kolmanskop",
+    "kind": "ghost town",
+    "lat": -26.7,
+    "lon": 15.23,
+    "text": "Sand-filled houses."
+   }
+  ]
+ }
+}

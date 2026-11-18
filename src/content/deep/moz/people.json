@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Mozambique has about 35 million people, most of them young.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Makua are the largest group. Portuguese is official, alongside many Bantu languages. Christianity and Islam are both widespread."
+   ],
+   "related": [
+    "PRT",
+    "BRA"
+   ]
+  },
+  {
+   "id": "maputo",
+   "title": "Maputo",
+   "text": [
+    "Maputo, the capital, is known for colonial buildings and jacaranda-lined avenues."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Makua",
+   "meaning": "Mozambique's largest ethnic group."
+  }
+ ]
+}

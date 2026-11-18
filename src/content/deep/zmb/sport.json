@@ -1,0 +1,104 @@
+{
+ "status": "draft",
+ "intro": "Football is Zambia's favourite sport, and its 2012 African title moved the nation.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "In 1993 most of the national team died in a plane crash. In 2012 Zambia won the Africa Cup of Nations in Gabon, near the crash site, an emotional victory."
+   ],
+   "related": [
+    "GAB"
+   ]
+  },
+  {
+   "id": "women",
+   "title": "Women's football",
+   "text": [
+    "The Copper Queens reached their first World Cup in 2023, and Barbra Banda is a star striker."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Chipolopolo",
+   "meaning": "'Copper bullets', the men's team nickname."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Zambia Super League",
+     "subtitle": "Football",
+     "text": "Nkana and Power Dynamos are big clubs."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Kalusha Bwalya",
+     "subtitle": "Football",
+     "text": "African Footballer of the Year 1988."
+    },
+    {
+     "title": "Barbra Banda",
+     "subtitle": "Football",
+     "text": "A record-breaking striker."
+    },
+    {
+     "title": "Samuel Matete",
+     "subtitle": "Hurdles",
+     "text": "World champion 1991."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Zambia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Heroes Stadium, Lusaka",
+    "kind": "venue",
+    "lat": -15.4,
+    "lon": 28.26,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Levy Mwanawasa Stadium, Ndola",
+    "kind": "venue",
+    "lat": -12.98,
+    "lon": 28.62,
+    "text": "A Copperbelt stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1993",
+    "title": "Gabon air disaster",
+    "text": "A team lost."
+   },
+   {
+    "year": "2012",
+    "title": "AFCON champions",
+    "text": "Won in Gabon."
+   },
+   {
+    "year": "2023",
+    "title": "Women's World Cup",
+    "text": "A first appearance."
+   }
+  ]
+ }
+}

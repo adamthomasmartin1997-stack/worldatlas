@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Namibia is a stable presidential democracy.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for five years. SWAPO has won every election since 1990. Namibia was the first country to write environmental protection into its constitution."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Windhoek"
+    },
+    {
+     "label": "Independence",
+     "value": "1990"
+    },
+    {
+     "label": "President",
+     "value": "Netumbo Nandi-Ndaitwah"
+    }
+   ]
+  },
+  {
+   "id": "conservancies",
+   "title": "Conservancies",
+   "text": [
+    "Local communities manage large conservancies, helping wildlife recover."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Conservancy",
+   "meaning": "Community-managed land for wildlife."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 5 years",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Vice President",
+     "subtitle": "Appointed",
+     "text": "Second in command."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "104 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "National Council",
+     "subtitle": "Regional members",
+     "text": "The upper house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In the National Assembly."
+   },
+   {
+    "title": "National Council",
+    "text": "Reviews it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

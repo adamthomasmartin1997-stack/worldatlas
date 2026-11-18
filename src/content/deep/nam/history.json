@@ -1,0 +1,84 @@
+{
+ "status": "draft",
+ "intro": "Namibia, a land of deserts and wildlife, won independence in 1990 after German colonial rule and South African occupation.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "San rock art",
+   "text": [
+    "San people have lived here for thousands of years; Twyfelfontein has thousands of rock engravings. Herero, Nama, Ovambo and other peoples later settled."
+   ],
+   "related": [
+    "BWA",
+    "ZAF"
+   ]
+  },
+  {
+   "id": "german",
+   "title": "German South West Africa",
+   "text": [
+    "Germany colonised the territory in 1884. From 1904 to 1908 German troops killed tens of thousands of Herero and Nama people, now recognised as the 20th century's first genocide. In 2021 Germany formally acknowledged it as genocide."
+   ],
+   "highlight": {
+    "title": "Genocide",
+    "text": "Germany has apologised and agreed to fund development projects."
+   },
+   "related": [
+    "DEU"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "South Africa and independence",
+   "text": [
+    "South Africa ruled Namibia after World War One and imposed apartheid. SWAPO fought for independence, which came on 21 March 1990, with Sam Nujoma as president. In 2025 Netumbo Nandi-Ndaitwah became Namibia's first woman president."
+   ],
+   "related": [
+    "ZAF",
+    "AGO"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1884",
+   "title": "German colony",
+   "text": "South West Africa."
+  },
+  {
+   "year": "1904",
+   "title": "Genocide",
+   "text": "Herero and Nama killed."
+  },
+  {
+   "year": "1915",
+   "title": "South African rule",
+   "text": "During World War One."
+  },
+  {
+   "year": "1966",
+   "title": "Liberation war",
+   "text": "SWAPO fights."
+  },
+  {
+   "year": "1990",
+   "title": "Independence",
+   "text": "21 March."
+  },
+  {
+   "year": "2025",
+   "title": "First woman president",
+   "text": "Netumbo Nandi-Ndaitwah."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "SWAPO",
+   "meaning": "The liberation movement and ruling party."
+  },
+  {
+   "term": "Apartheid",
+   "meaning": "South Africa's system of racial segregation."
+  }
+ ]
+}

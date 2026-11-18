@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Mining, fishing and tourism drive Namibia's economy.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Diamonds are dredged from the sea floor. Namibia is a major uranium producer, and fishing in the cold Benguela current is rich. Offshore oil has been discovered."
+   ],
+   "related": [
+    "CHN",
+    "ZAF"
+   ]
+  },
+  {
+   "id": "green",
+   "title": "Green hydrogen",
+   "text": [
+    "Namibia is planning green hydrogen projects using its sun and wind."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Uranium",
+   "meaning": "Nuclear fuel."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Namibia",
+   "items": [
+    {
+     "title": "Diamonds",
+     "subtitle": "Offshore",
+     "text": "Mined from the sea floor."
+    },
+    {
+     "title": "Uranium",
+     "subtitle": "Erongo",
+     "text": "A top producer."
+    },
+    {
+     "title": "Fish",
+     "subtitle": "Walvis Bay",
+     "text": "Hake and pilchards."
+    },
+    {
+     "title": "Beef",
+     "subtitle": "Farms",
+     "text": "Exported to Europe."
+    }
+   ],
+   "intro": "Some of the things Namibia makes and sells to the world."
+  }
+ ]
+}

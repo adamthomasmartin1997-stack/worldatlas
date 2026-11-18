@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Zambia has about 21 million people from over 70 ethnic groups.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Bemba, Tonga, Lozi and Nyanja speakers are among the largest groups. English is official. Zambia calls itself a Christian nation in its constitution."
+   ]
+  },
+  {
+   "id": "lusaka",
+   "title": "Lusaka",
+   "text": [
+    "Lusaka, the capital, is one of Africa's fastest-growing cities."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bemba",
+   "meaning": "A large ethnic group and language."
+  }
+ ]
+}

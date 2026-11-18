@@ -1,0 +1,89 @@
+{
+ "status": "draft",
+ "intro": "Zimbabwe is named after Great Zimbabwe, a stone city built by its ancestors, and won independence after a long liberation war.",
+ "chapters": [
+  {
+   "id": "great",
+   "title": "Great Zimbabwe",
+   "text": [
+    "From about the 1100s to the 1400s, Shona ancestors built Great Zimbabwe, a city of huge dry-stone walls without mortar. It traded gold and ivory with the Swahili coast and as far as China.",
+    "Later the Mutapa and Rozvi states ruled the region."
+   ],
+   "highlight": {
+    "title": "Name",
+    "text": "'Zimbabwe' means 'houses of stone' in Shona."
+   },
+   "related": [
+    "MOZ",
+    "CHN",
+    "ZAF"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Rhodesia",
+   "text": [
+    "In the 1890s Cecil Rhodes's British South Africa Company took the land, which became Southern Rhodesia. The First Chimurenga uprising was crushed. In 1965 the white-minority government declared independence from Britain to avoid majority rule."
+   ],
+   "related": [
+    "GBR",
+    "ZAF"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Liberation and after",
+   "text": [
+    "A liberation war, the Second Chimurenga, led to independence in 1980, with Robert Mugabe as leader. Thousands were killed in Matabeleland in the 1980s. Land seizures from 2000 and hyperinflation devastated the economy.",
+    "The army pushed Mugabe out in 2017; Emmerson Mnangagwa now leads."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1200",
+   "title": "Great Zimbabwe",
+   "text": "Stone city grows."
+  },
+  {
+   "year": "1890",
+   "title": "Company rule",
+   "text": "Rhodes's company arrives."
+  },
+  {
+   "year": "1965",
+   "title": "UDI",
+   "text": "White minority declares independence."
+  },
+  {
+   "year": "1980",
+   "title": "Independence",
+   "text": "18 April."
+  },
+  {
+   "year": "2000",
+   "title": "Land reform",
+   "text": "Farms are seized."
+  },
+  {
+   "year": "2008",
+   "title": "Hyperinflation",
+   "text": "Prices double every day."
+  },
+  {
+   "year": "2017",
+   "title": "Mugabe out",
+   "text": "After 37 years."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Chimurenga",
+   "meaning": "Shona for 'struggle': the liberation wars."
+  },
+  {
+   "term": "Hyperinflation",
+   "meaning": "Extremely fast price rises."
+  }
+ ]
+}

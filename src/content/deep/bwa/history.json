@@ -1,0 +1,75 @@
+{
+ "status": "draft",
+ "intro": "Botswana went from one of the poorest countries at independence in 1966 to a diamond-rich, stable democracy.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "San and Tswana",
+   "text": [
+    "The San people have lived in the Kalahari for tens of thousands of years; the Tsodilo Hills hold thousands of rock paintings. Tswana chiefdoms later formed."
+   ],
+   "related": [
+    "NAM",
+    "ZAF"
+   ]
+  },
+  {
+   "id": "protectorate",
+   "title": "Bechuanaland",
+   "text": [
+    "To avoid takeover by Cecil Rhodes's company, three Tswana chiefs travelled to London in 1895 and asked for British protection. Bechuanaland was lightly ruled by Britain."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and diamonds",
+   "text": [
+    "Seretse Khama led Botswana to independence in 1966. A year later diamonds were found, and the government used the money for roads, schools and clinics. In 2024 the opposition won an election for the first time, and power passed peacefully."
+   ],
+   "highlight": {
+    "title": "Stable",
+    "text": "Botswana has held free elections since independence."
+   }
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1885",
+   "title": "Bechuanaland",
+   "text": "British protection."
+  },
+  {
+   "year": "1895",
+   "title": "Chiefs in London",
+   "text": "Three chiefs seek protection."
+  },
+  {
+   "year": "1966",
+   "title": "Independence",
+   "text": "30 September."
+  },
+  {
+   "year": "1967",
+   "title": "Diamonds",
+   "text": "Found at Orapa."
+  },
+  {
+   "year": "2024",
+   "title": "Change of government",
+   "text": "Duma Boko wins."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "San",
+   "meaning": "Indigenous hunter-gatherer peoples of southern Africa."
+  },
+  {
+   "term": "Kgotla",
+   "meaning": "A traditional community meeting."
+  }
+ ]
+}

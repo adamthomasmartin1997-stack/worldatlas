@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Zambia is a landlocked plateau of rivers, lakes and national parks.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Rivers and lakes",
+   "text": [
+    "The Zambezi forms the southern border, with Victoria Falls and Lake Kariba. The Luangwa Valley is famous for walking safaris. Lakes Bangweulu and Tanganyika lie in the north."
+   ],
+   "related": [
+    "ZWE",
+    "COD",
+    "TZA",
+    "MWI",
+    "MOZ",
+    "BWA",
+    "NAM",
+    "AGO"
+   ]
+  },
+  {
+   "id": "wildlife",
+   "title": "Wildlife",
+   "text": [
+    "Each year around 10 million fruit bats gather in Kasanka National Park."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Walking safari",
+   "meaning": "Exploring wildlife on foot with a guide."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Zambia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Victoria Falls",
+    "kind": "waterfall",
+    "lat": -17.92,
+    "lon": 25.86,
+    "text": "Devil's Pool on the edge."
+   },
+   {
+    "name": "Lower Zambezi",
+    "kind": "river park",
+    "lat": -15.5,
+    "lon": 29.5,
+    "text": "Canoe safaris."
+   },
+   {
+    "name": "South Luangwa",
+    "kind": "valley park",
+    "lat": -13.1,
+    "lon": 31.6,
+    "text": "Walking safaris."
+   },
+   {
+    "name": "Kasanka",
+    "kind": "wetland park",
+    "lat": -12.55,
+    "lon": 30.25,
+    "text": "A huge bat migration."
+   },
+   {
+    "name": "Lake Bangweulu",
+    "kind": "wetland",
+    "lat": -11.1,
+    "lon": 29.8,
+    "text": "Shoebill storks."
+   },
+   {
+    "name": "Lusaka",
+    "kind": "capital",
+    "lat": -15.42,
+    "lon": 28.28,
+    "text": "A fast-growing city."
+   },
+   {
+    "name": "Liuwa Plain",
+    "kind": "grassland",
+    "lat": -14.3,
+    "lon": 22.6,
+    "text": "A wildebeest migration."
+   }
+  ]
+ }
+}

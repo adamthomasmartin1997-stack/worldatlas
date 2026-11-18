@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "Zambian culture includes colourful ceremonies and music.",
+ "chapters": [
+  {
+   "id": "ceremonies",
+   "title": "Ceremonies",
+   "text": [
+    "At the Kuomboka, the Lozi king moves by royal barge from the flooded plains to higher ground."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Nshima (maize porridge) with relish is eaten daily."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kuomboka",
+   "meaning": "A Lozi ceremony meaning 'to get out of the water'."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Old Drift",
+     "subtitle": "2019 · Namwali Serpell",
+     "text": "A saga of Zambian families."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Kalindula",
+     "subtitle": "Music",
+     "text": "Zambian bass-driven music."
+    },
+    {
+     "title": "Zamrock",
+     "subtitle": "1970s",
+     "text": "Psychedelic rock."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Nshima",
+     "subtitle": "Everywhere",
+     "text": "Maize porridge."
+    },
+    {
+     "title": "Kapenta",
+     "subtitle": "Everywhere",
+     "text": "Small dried fish."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Kuomboka",
+    "text": "Lozi royal ceremony."
+   },
+   {
+    "month": 10,
+    "name": "Independence Day",
+    "text": "24 October."
+   }
+  ]
+ }
+}

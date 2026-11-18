@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Lake Malawi covers about a fifth of the country.",
+ "chapters": [
+  {
+   "id": "lake",
+   "title": "Lake Malawi",
+   "text": [
+    "Lake Malawi has more fish species than any other lake, including hundreds of colourful cichlids found nowhere else. The Shire River flows south to the Zambezi."
+   ],
+   "related": [
+    "TZA",
+    "MOZ",
+    "ZMB"
+   ]
+  },
+  {
+   "id": "highlands",
+   "title": "Highlands",
+   "text": [
+    "Mount Mulanje rises to 3,002 m, and the Zomba and Nyika plateaus are cool and green."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cichlid",
+   "meaning": "A family of colourful fish."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Malawi's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Nyika Plateau",
+    "kind": "plateau",
+    "lat": -10.6,
+    "lon": 33.8,
+    "text": "Rolling grassland."
+   },
+   {
+    "name": "Likoma Island",
+    "kind": "lake island",
+    "lat": -12.07,
+    "lon": 34.73,
+    "text": "A big cathedral."
+   },
+   {
+    "name": "Cape Maclear",
+    "kind": "lakeshore",
+    "lat": -14.03,
+    "lon": 34.84,
+    "text": "Colourful fish."
+   },
+   {
+    "name": "Liwonde",
+    "kind": "river park",
+    "lat": -15.0,
+    "lon": 35.3,
+    "text": "Hippos and elephants."
+   },
+   {
+    "name": "Zomba Plateau",
+    "kind": "plateau",
+    "lat": -15.35,
+    "lon": 35.3,
+    "text": "Forests and waterfalls."
+   },
+   {
+    "name": "Mount Mulanje",
+    "kind": "mountain",
+    "lat": -15.95,
+    "lon": 35.6,
+    "text": "The highest peak."
+   }
+  ]
+ }
+}

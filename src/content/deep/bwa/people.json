@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Botswana has about 2.5 million people in a large country.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are Tswana, and Setswana and English are official. San, Kalanga and Herero communities also live there. Most people are Christian."
+   ]
+  },
+  {
+   "id": "gaborone",
+   "title": "Gaborone",
+   "text": [
+    "Gaborone, the capital, was built for independence."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Setswana",
+   "meaning": "The national language."
+  }
+ ]
+}

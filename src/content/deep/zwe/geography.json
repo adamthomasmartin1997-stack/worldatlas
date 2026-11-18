@@ -1,0 +1,95 @@
+{
+ "status": "draft",
+ "intro": "Zimbabwe is a landlocked plateau between the Zambezi and Limpopo rivers.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "Victoria Falls, on the Zambezi, is one of the world's largest waterfalls, called Mosi-oa-Tunya, 'the smoke that thunders'. Lake Kariba is a huge reservoir. The Eastern Highlands have Mount Nyangani. Balancing granite rocks dot Matobo Hills."
+   ],
+   "related": [
+    "ZMB",
+    "MOZ",
+    "ZAF",
+    "BWA"
+   ]
+  },
+  {
+   "id": "wildlife",
+   "title": "Wildlife",
+   "text": [
+    "Hwange National Park has one of Africa's largest elephant populations."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Plateau",
+   "meaning": "High flat land."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Zimbabwe's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Victoria Falls",
+    "kind": "waterfall",
+    "lat": -17.92,
+    "lon": 25.86,
+    "text": "The smoke that thunders."
+   },
+   {
+    "name": "Lake Kariba",
+    "kind": "reservoir",
+    "lat": -16.9,
+    "lon": 28.0,
+    "text": "A huge human-made lake."
+   },
+   {
+    "name": "Hwange",
+    "kind": "national park",
+    "lat": -18.7,
+    "lon": 26.5,
+    "text": "Large elephant herds."
+   },
+   {
+    "name": "Mana Pools",
+    "kind": "river park",
+    "lat": -15.8,
+    "lon": 29.4,
+    "text": "Wildlife by the Zambezi."
+   },
+   {
+    "name": "Harare",
+    "kind": "capital",
+    "lat": -17.83,
+    "lon": 31.05,
+    "text": "Jacaranda trees."
+   },
+   {
+    "name": "Great Zimbabwe",
+    "kind": "stone ruins",
+    "lat": -20.27,
+    "lon": 30.93,
+    "text": "A medieval stone city."
+   },
+   {
+    "name": "Matobo Hills",
+    "kind": "granite hills",
+    "lat": -20.55,
+    "lon": 28.5,
+    "text": "Balancing rocks and rock art."
+   },
+   {
+    "name": "Nyanga",
+    "kind": "highlands",
+    "lat": -18.3,
+    "lon": 32.75,
+    "text": "Mount Nyangani."
+   }
+  ]
+ }
+}

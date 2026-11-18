@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Copper makes up most of Zambia's exports.",
+ "chapters": [
+  {
+   "id": "copper",
+   "title": "Copper",
+   "text": [
+    "Zambia is one of Africa's top copper producers, essential for electric wiring. Cobalt is also mined. The TAZARA railway, built with Chinese help, links Zambia to Tanzania's coast."
+   ],
+   "related": [
+    "CHN",
+    "TZA"
+   ]
+  },
+  {
+   "id": "power",
+   "title": "Power",
+   "text": [
+    "Droughts have cut hydropower from Kariba, causing long power cuts."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cobalt",
+   "meaning": "A metal used in batteries."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Zambia",
+   "items": [
+    {
+     "title": "Copper",
+     "subtitle": "Copperbelt",
+     "text": "Most exports."
+    },
+    {
+     "title": "Cobalt",
+     "subtitle": "Copperbelt",
+     "text": "For batteries."
+    },
+    {
+     "title": "Emeralds",
+     "subtitle": "Kagem",
+     "text": "Among the world's top sources."
+    },
+    {
+     "title": "Maize",
+     "subtitle": "Farms",
+     "text": "The staple crop."
+    }
+   ],
+   "intro": "Some of the things Zambia makes and sells to the world."
+  }
+ ]
+}

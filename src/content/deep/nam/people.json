@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Namibia has about 3 million people, one of the lowest population densities in the world.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Ovambo are the largest group; others include the Herero, Kavango, Nama, Damara, San and people of European descent. English is official, and Oshiwambo, Afrikaans and German are also spoken."
+   ],
+   "related": [
+    "ZAF",
+    "DEU"
+   ]
+  },
+  {
+   "id": "windhoek",
+   "title": "Windhoek",
+   "text": [
+    "Windhoek, the capital, has German colonial buildings."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ovambo",
+   "meaning": "Namibia's largest ethnic group."
+  }
+ ]
+}

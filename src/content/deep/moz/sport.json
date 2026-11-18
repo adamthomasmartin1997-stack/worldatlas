@@ -1,0 +1,82 @@
+{
+ "status": "draft",
+ "intro": "Football and athletics are Mozambique's most popular sports.",
+ "chapters": [
+  {
+   "id": "athletics",
+   "title": "Maria Mutola",
+   "text": [
+    "Maria Mutola won the 800 m at the 2000 Olympics, Mozambique's only gold, and three world titles."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Eusébio, born in Maputo, became Portugal's great star."
+   ],
+   "related": [
+    "PRT"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mambas",
+   "meaning": "The national team's nickname."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Moçambola",
+     "subtitle": "Football",
+     "text": "Ferroviário de Maputo are a top club."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Maria Mutola",
+     "subtitle": "800 m",
+     "text": "Olympic champion 2000."
+    },
+    {
+     "title": "Eusébio",
+     "subtitle": "Football",
+     "text": "Born in Maputo."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Mozambique's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estádio do Zimpeto",
+    "kind": "venue",
+    "lat": -25.85,
+    "lon": 32.53,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2000",
+    "title": "Olympic gold",
+    "text": "Mutola in Sydney."
+   }
+  ]
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Diamonds made Botswana one of Africa's richest countries per person.",
+ "chapters": [
+  {
+   "id": "diamonds",
+   "title": "Diamonds",
+   "text": [
+    "Botswana is one of the world's top diamond producers by value, with mines run with De Beers. Falling diamond demand has hurt the economy recently."
+   ],
+   "related": [
+    "GBR",
+    "ZAF"
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "High-value safari tourism in the Okavango is the second-biggest earner."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "De Beers",
+   "meaning": "A large diamond company."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Botswana",
+   "items": [
+    {
+     "title": "Diamonds",
+     "subtitle": "Jwaneng and Orapa",
+     "text": "Among the richest mines."
+    },
+    {
+     "title": "Beef",
+     "subtitle": "Ranches",
+     "text": "Exported to Europe."
+    },
+    {
+     "title": "Copper",
+     "subtitle": "Ghanzi",
+     "text": "New mines in the Kalahari."
+    },
+    {
+     "title": "Safaris",
+     "subtitle": "Okavango",
+     "text": "Luxury tourism."
+    }
+   ],
+   "intro": "Some of the things Botswana makes and sells to the world."
+  }
+ ]
+}

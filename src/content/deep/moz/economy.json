@@ -1,0 +1,58 @@
+{
+ "status": "draft",
+ "intro": "Mozambique has huge gas reserves, coal and aluminium, but most people farm.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "The Mozal aluminium smelter, coal from Tete and gas offshore are big earners. Cashews, prawns and sugar are exported. The Cahora Bassa dam sells electricity to South Africa."
+   ],
+   "related": [
+    "ZAF"
+   ]
+  },
+  {
+   "id": "poverty",
+   "title": "Poverty",
+   "text": [
+    "Despite its resources, Mozambique is one of the poorest countries."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Smelter",
+   "meaning": "A factory that extracts metal from ore."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Mozambique",
+   "items": [
+    {
+     "title": "Aluminium",
+     "subtitle": "Mozal",
+     "text": "A big smelter."
+    },
+    {
+     "title": "Coal",
+     "subtitle": "Tete",
+     "text": "Mined for export."
+    },
+    {
+     "title": "Natural gas",
+     "subtitle": "Rovuma Basin",
+     "text": "Huge reserves."
+    },
+    {
+     "title": "Cashews",
+     "subtitle": "North",
+     "text": "A traditional crop."
+    }
+   ],
+   "intro": "Some of the things Mozambique makes and sells to the world."
+  }
+ ]
+}

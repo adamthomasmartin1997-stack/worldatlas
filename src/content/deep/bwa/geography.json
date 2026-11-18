@@ -1,0 +1,79 @@
+{
+ "status": "draft",
+ "intro": "Most of Botswana is covered by the Kalahari, but the Okavango Delta turns part of it into a watery paradise.",
+ "chapters": [
+  {
+   "id": "okavango",
+   "title": "Okavango Delta",
+   "text": [
+    "The Okavango River flows inland from Angola and spreads into a vast delta that never reaches the sea. Floods arrive in the dry season, drawing huge numbers of animals."
+   ],
+   "related": [
+    "AGO",
+    "NAM"
+   ]
+  },
+  {
+   "id": "salt",
+   "title": "Salt pans",
+   "text": [
+    "The Makgadikgadi Pans are among the largest salt flats in the world. Botswana has more elephants than any other country."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Inland delta",
+   "meaning": "A delta that spreads into land instead of the sea."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Botswana's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Okavango Delta",
+    "kind": "inland delta",
+    "lat": -19.3,
+    "lon": 22.9,
+    "text": "Wildlife and waterways."
+   },
+   {
+    "name": "Chobe",
+    "kind": "river park",
+    "lat": -18.0,
+    "lon": 24.5,
+    "text": "Huge elephant herds."
+   },
+   {
+    "name": "Makgadikgadi Pans",
+    "kind": "salt pans",
+    "lat": -20.7,
+    "lon": 25.5,
+    "text": "Vast salt flats."
+   },
+   {
+    "name": "Central Kalahari",
+    "kind": "desert reserve",
+    "lat": -22.0,
+    "lon": 24.0,
+    "text": "Lions in the desert."
+   },
+   {
+    "name": "Tsodilo Hills",
+    "kind": "rock art",
+    "lat": -18.75,
+    "lon": 21.73,
+    "text": "'Louvre of the desert'."
+   },
+   {
+    "name": "Gaborone",
+    "kind": "capital",
+    "lat": -24.65,
+    "lon": 25.91,
+    "text": "A young capital."
+   }
+  ]
+ }
+}

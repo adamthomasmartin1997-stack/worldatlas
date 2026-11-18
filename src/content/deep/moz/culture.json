@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Mozambican culture is famous for marrabenta music and Makonde carving.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Makonde wood carvings are prized. Marrabenta is the national dance music. Mia Couto is a celebrated writer."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Piri-piri chicken, matapa (cassava leaves) and seafood are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Piri-piri",
+   "meaning": "A small hot chilli."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Sleepwalking Land",
+     "subtitle": "1992 · Mia Couto",
+     "text": "Stories of the civil war."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Marrabenta",
+     "subtitle": "Dance music",
+     "text": "From Maputo."
+    },
+    {
+     "title": "Timbila",
+     "subtitle": "Chopi xylophone",
+     "text": "UNESCO-listed orchestras."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Piri-piri chicken",
+     "subtitle": "Everywhere",
+     "text": "Spicy grilled chicken."
+    },
+    {
+     "title": "Matapa",
+     "subtitle": "Everywhere",
+     "text": "Cassava leaves with peanuts."
+    },
+    {
+     "title": "Prawns",
+     "subtitle": "Coast",
+     "text": "Grilled prawns."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 6,
+    "name": "Independence Day",
+    "text": "25 June."
+   },
+   {
+    "month": 9,
+    "name": "Victory Day",
+    "text": "7 September."
+   }
+  ]
+ }
+}

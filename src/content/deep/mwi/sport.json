@@ -1,0 +1,84 @@
+{
+ "status": "draft",
+ "intro": "Netball and football are Malawi's most popular sports.",
+ "chapters": [
+  {
+   "id": "netball",
+   "title": "Netball",
+   "text": [
+    "The Queens are one of Africa's top netball teams and have played at many World Cups."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Flames have played at the Africa Cup of Nations."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Netball",
+   "meaning": "A team ball game like basketball without dribbling."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Super League",
+     "subtitle": "Football",
+     "text": "Big Bullets and Silver Strikers are rivals."
+    },
+    {
+     "title": "Netball",
+     "subtitle": "The Queens",
+     "text": "A top African team."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Mary Waya",
+     "subtitle": "Netball",
+     "text": "A legendary captain."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Malawi's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Bingu National Stadium",
+    "kind": "venue",
+    "lat": -13.96,
+    "lon": 33.79,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2010",
+    "title": "AFCON",
+    "text": "A second appearance."
+   },
+   {
+    "year": "2021",
+    "title": "AFCON knockouts",
+    "text": "A first knockout round."
+   }
+  ]
+ }
+}

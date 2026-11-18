@@ -1,0 +1,76 @@
+{
+ "status": "draft",
+ "intro": "Malawi, the 'Warm Heart of Africa', is a narrow country along one of the world's great lakes.",
+ "chapters": [
+  {
+   "id": "maravi",
+   "title": "The Maravi",
+   "text": [
+    "The Maravi kingdoms ruled the region from the 1400s, and the country takes its name from them. In the 1800s Yao and Swahili-Arab traders ran a slave trade to the coast."
+   ],
+   "related": [
+    "MOZ",
+    "TZA"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Nyasaland",
+   "text": [
+    "David Livingstone campaigned against the slave trade here. Britain made it the protectorate of Nyasaland in 1891."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence",
+   "text": [
+    "Malawi became independent in 1964 under Hastings Banda, who ruled as 'president for life' until multi-party elections in 1994. In 2020 judges overturned a flawed election, a first in Africa for a re-run that unseated the president."
+   ],
+   "highlight": {
+    "title": "Courts",
+    "text": "Malawi's 2020 election re-run was hailed as a win for democracy."
+   }
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1400s",
+   "title": "Maravi",
+   "text": "Kingdoms rise."
+  },
+  {
+   "year": "1891",
+   "title": "Nyasaland",
+   "text": "British protectorate."
+  },
+  {
+   "year": "1964",
+   "title": "Independence",
+   "text": "6 July."
+  },
+  {
+   "year": "1994",
+   "title": "Multi-party democracy",
+   "text": "Banda loses."
+  },
+  {
+   "year": "2020",
+   "title": "Election re-run",
+   "text": "The opposition wins."
+  },
+  {
+   "year": "2025",
+   "title": "Mutharika returns",
+   "text": "Wins the presidency again."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Nyasaland",
+   "meaning": "Malawi's colonial name."
+  }
+ ]
+}

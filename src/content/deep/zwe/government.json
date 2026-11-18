@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Zimbabwe is a presidential republic dominated by the ZANU-PF party since 1980.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for five years. Opposition parties exist, but elections have been criticised as unfair."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Harare"
+    },
+    {
+     "label": "Independence",
+     "value": "1980"
+    },
+    {
+     "label": "Official languages",
+     "value": "16"
+    }
+   ]
+  },
+  {
+   "id": "rights",
+   "title": "Rights",
+   "text": [
+    "Rights groups report arrests of critics and journalists."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "ZANU-PF",
+   "meaning": "The ruling party."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 5 years",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "280 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "80 members",
+     "text": "The upper house."
+    },
+    {
+     "title": "Provinces",
+     "subtitle": "10 provinces",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In Parliament."
+   },
+   {
+    "title": "Both houses",
+    "text": "Debate and pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

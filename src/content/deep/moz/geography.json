@@ -1,0 +1,90 @@
+{
+ "status": "draft",
+ "intro": "Mozambique stretches about 2,500 km along the Indian Ocean.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Coast and rivers",
+   "text": [
+    "The coast has beaches, coral reefs and islands like the Bazaruto Archipelago. The Zambezi and Limpopo rivers cross to the sea, and Lake Malawi forms part of the north-west border. Gorongosa National Park has been restored after the war."
+   ],
+   "related": [
+    "TZA",
+    "MWI",
+    "ZMB",
+    "ZWE",
+    "ZAF",
+    "SWZ"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Cyclones",
+   "text": [
+    "Tropical cyclones and floods often hit the coast."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cyclone",
+   "meaning": "A powerful tropical storm."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Mozambique's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Island of Mozambique",
+    "kind": "historic island",
+    "lat": -15.03,
+    "lon": 40.73,
+    "text": "An old trading town."
+   },
+   {
+    "name": "Quirimbas",
+    "kind": "islands",
+    "lat": -12.0,
+    "lon": 40.6,
+    "text": "Coral islands."
+   },
+   {
+    "name": "Gorongosa",
+    "kind": "national park",
+    "lat": -18.97,
+    "lon": 34.35,
+    "text": "A park reborn."
+   },
+   {
+    "name": "Bazaruto",
+    "kind": "archipelago",
+    "lat": -21.7,
+    "lon": 35.47,
+    "text": "Dugongs and dunes."
+   },
+   {
+    "name": "Tofo",
+    "kind": "beach",
+    "lat": -23.85,
+    "lon": 35.55,
+    "text": "Whale sharks."
+   },
+   {
+    "name": "Maputo",
+    "kind": "capital",
+    "lat": -25.97,
+    "lon": 32.57,
+    "text": "Jacaranda avenues."
+   },
+   {
+    "name": "Cahora Bassa",
+    "kind": "dam",
+    "lat": -15.6,
+    "lon": 32.7,
+    "text": "A giant dam."
+   }
+  ]
+ }
+}
