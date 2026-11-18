@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Sudan is where the Blue Nile and White Nile meet, at Khartoum.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Nile, desert and savanna",
+   "text": [
+    "The north is Sahara and Nubian desert. The two Niles join at Khartoum and flow north to Egypt. The south has savanna, and the Marra Mountains rise in Darfur.",
+    "Sudan has a Red Sea coast around Port Sudan."
+   ],
+   "related": [
+    "EGY",
+    "ETH",
+    "SSD",
+    "TCD",
+    "LBY",
+    "ERI",
+    "CAF"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The north is extremely hot and dry; the south gets summer rains."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Savanna",
+   "meaning": "Grassland with scattered trees."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Sudan's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Meroë",
+    "kind": "pyramids",
+    "lat": 16.94,
+    "lon": 33.75,
+    "text": "Hundreds of steep pyramids."
+   },
+   {
+    "name": "Jebel Barkal",
+    "kind": "sacred mountain",
+    "lat": 18.53,
+    "lon": 31.83,
+    "text": "Temples at the foot of a holy mountain."
+   },
+   {
+    "name": "Khartoum",
+    "kind": "river city",
+    "lat": 15.6,
+    "lon": 32.53,
+    "text": "Where the Blue and White Nile meet."
+   },
+   {
+    "name": "Port Sudan",
+    "kind": "Red Sea port",
+    "lat": 19.6,
+    "lon": 37.22,
+    "text": "Coral reefs offshore."
+   },
+   {
+    "name": "Nubian Desert",
+    "kind": "desert",
+    "lat": 20.5,
+    "lon": 33.0,
+    "text": "Rocky desert east of the Nile."
+   },
+   {
+    "name": "Jebel Marra",
+    "kind": "volcanic mountains",
+    "lat": 13.0,
+    "lon": 24.3,
+    "text": "Crater lakes in Darfur."
+   },
+   {
+    "name": "Dinder",
+    "kind": "national park",
+    "lat": 12.4,
+    "lon": 35.0,
+    "text": "Savanna wildlife."
+   }
+  ]
+ }
+}

@@ -1,0 +1,84 @@
+{
+ "status": "draft",
+ "intro": "Sudan is at war, with the army and the RSF each controlling large parts of the country.",
+ "chapters": [
+  {
+   "id": "war",
+   "title": "Who rules",
+   "text": [
+    "The army, led by General Abdel Fattah al-Burhan, controls the east and centre, including Khartoum, which it retook in 2025. The RSF, led by Mohamed Hamdan Dagalo ('Hemedti'), controls most of Darfur, where it captured El Fasher in late 2025. Both sides are accused of serious abuses."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Khartoum"
+    },
+    {
+     "label": "Independence",
+     "value": "1956"
+    },
+    {
+     "label": "Status",
+     "value": "War since 2023"
+    }
+   ]
+  },
+  {
+   "id": "peace",
+   "title": "Peace efforts",
+   "text": [
+    "Several countries have tried to broker ceasefires."
+   ],
+   "related": [
+    "SAU",
+    "USA",
+    "EGY"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Paramilitary",
+   "meaning": "An armed force organised like an army but separate from it."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Sovereignty Council",
+     "subtitle": "Army-led",
+     "text": "Leads the state."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed",
+     "text": "Runs a civilian cabinet."
+    },
+    {
+     "title": "RSF",
+     "subtitle": "Paramilitary",
+     "text": "Controls much of the west."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Decrees",
+    "text": "Issued by the army-led council."
+   },
+   {
+    "title": "No parliament",
+    "text": "No elected parliament sits."
+   }
+  ]
+ }
+}

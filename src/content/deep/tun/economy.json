@@ -1,0 +1,60 @@
+{
+ "status": "draft",
+ "intro": "Tunisia's economy relies on tourism, olive oil, phosphates and factories making goods for Europe.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Tunisia is one of the world's biggest olive oil exporters. Factories make car parts and clothes for Europe, and beach tourism is big.",
+    "Many young people struggle to find jobs, and some try to migrate to Europe by boat."
+   ],
+   "related": [
+    "ITA",
+    "FRA"
+   ]
+  },
+  {
+   "id": "dates",
+   "title": "Dates",
+   "text": [
+    "Oases like Tozeur grow prized Deglet Nour dates."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Export",
+   "meaning": "Something sold abroad."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Tunisia",
+   "items": [
+    {
+     "title": "Olive oil",
+     "subtitle": "Sfax",
+     "text": "A top exporter."
+    },
+    {
+     "title": "Phosphates",
+     "subtitle": "Gafsa",
+     "text": "Mined for fertiliser."
+    },
+    {
+     "title": "Car wiring",
+     "subtitle": "Factories",
+     "text": "For European carmakers."
+    },
+    {
+     "title": "Dates",
+     "subtitle": "Tozeur",
+     "text": "Deglet Nour."
+    }
+   ],
+   "intro": "Some of the things Tunisia makes and sells to the world."
+  }
+ ]
+}

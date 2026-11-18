@@ -1,0 +1,96 @@
+{
+ "status": "draft",
+ "intro": "Algeria is the largest country in Africa, and over four-fifths of it is the Sahara Desert.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Coast, mountains and desert",
+   "text": [
+    "Most people live on the green Mediterranean coast and in the Tell Atlas. South of the Saharan Atlas lies the vast desert, with sand seas and the Hoggar and Tassili mountains. Mount Tahat is the highest peak at 3,003 m."
+   ],
+   "related": [
+    "MAR",
+    "TUN",
+    "LBY",
+    "MLI",
+    "NER"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The coast has a Mediterranean climate; the Sahara is one of the hottest, driest places on Earth."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sahara",
+   "meaning": "The world's largest hot desert."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Algeria's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Algiers",
+    "kind": "capital",
+    "lat": 36.75,
+    "lon": 3.06,
+    "text": "White buildings and the old Casbah."
+   },
+   {
+    "name": "Djurdjura",
+    "kind": "mountains",
+    "lat": 36.45,
+    "lon": 4.2,
+    "text": "Kabylie's snowy peaks."
+   },
+   {
+    "name": "Constantine",
+    "kind": "gorge city",
+    "lat": 36.36,
+    "lon": 6.61,
+    "text": "Bridges over a deep gorge."
+   },
+   {
+    "name": "Timgad",
+    "kind": "Roman town",
+    "lat": 35.49,
+    "lon": 6.47,
+    "text": "A Roman grid town."
+   },
+   {
+    "name": "M'zab Valley",
+    "kind": "desert towns",
+    "lat": 32.49,
+    "lon": 3.67,
+    "text": "Fortified towns from the 1000s."
+   },
+   {
+    "name": "Grand Erg Oriental",
+    "kind": "sand sea",
+    "lat": 30.5,
+    "lon": 7.5,
+    "text": "Huge dunes."
+   },
+   {
+    "name": "Tassili n'Ajjer",
+    "kind": "rock art plateau",
+    "lat": 25.5,
+    "lon": 9.0,
+    "text": "Ancient paintings and rock forests."
+   },
+   {
+    "name": "Hoggar Mountains",
+    "kind": "volcanic mountains",
+    "lat": 23.3,
+    "lon": 5.6,
+    "text": "Mount Tahat and Assekrem."
+   }
+  ]
+ }
+}

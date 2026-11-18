@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Algeria is a presidential republic where the army has strong influence.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president, Abdelmadjid Tebboune since 2019, is elected for five years. Parliament has two chambers. Critics say the military still shapes major decisions."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Algiers"
+    },
+    {
+     "label": "Independence",
+     "value": "1962"
+    },
+    {
+     "label": "Provinces",
+     "value": "Wilayas"
+    }
+   ]
+  },
+  {
+   "id": "relations",
+   "title": "Neighbours",
+   "text": [
+    "Algeria supports the Polisario Front in Western Sahara, causing tension with Morocco; the border has been closed since 1994."
+   ],
+   "related": [
+    "MAR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Wilaya",
+   "meaning": "An Algerian province."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 5 years",
+     "text": "Holds most power."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed by the President",
+     "text": "Coordinates the government."
+    },
+    {
+     "title": "People's National Assembly",
+     "subtitle": "407 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "Council of the Nation",
+     "subtitle": "174 members",
+     "text": "The upper house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Both chambers",
+    "text": "Debate and approve it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

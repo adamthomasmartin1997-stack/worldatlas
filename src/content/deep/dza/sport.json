@@ -1,0 +1,136 @@
+{
+ "status": "draft",
+ "intro": "Football is Algeria's passion, and its runners have won Olympic golds.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Algeria won the Africa Cup of Nations in 1990 and 2019. At the 1982 World Cup they beat West Germany."
+   ],
+   "related": [
+    "DEU"
+   ]
+  },
+  {
+   "id": "athletics",
+   "title": "Athletics and more",
+   "text": [
+    "Hassiba Boulmerka and Noureddine Morceli won Olympic 1,500 m golds, and Taoufik Makhloufi won in 2012. Imane Khelif won boxing gold in 2024, and Kaylia Nemour gymnastics gold."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Desert Foxes",
+   "meaning": "The national team's nickname."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Ligue Professionnelle 1",
+     "subtitle": "Football",
+     "text": "JS Kabylie and MC Alger are big clubs."
+    },
+    {
+     "title": "Africa Cup of Nations",
+     "subtitle": "Football",
+     "text": "Won in 1990 and 2019."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Rachid Mekhloufi",
+     "subtitle": "Football",
+     "text": "Star of the FLN team."
+    },
+    {
+     "title": "Rabah Madjer",
+     "subtitle": "Football",
+     "text": "Scored a famous back-heel in a European Cup final."
+    },
+    {
+     "title": "Riyad Mahrez",
+     "subtitle": "Football",
+     "text": "Premier League champion."
+    },
+    {
+     "title": "Hassiba Boulmerka",
+     "subtitle": "Running",
+     "text": "Olympic champion 1992."
+    },
+    {
+     "title": "Noureddine Morceli",
+     "subtitle": "Running",
+     "text": "Olympic champion 1996."
+    },
+    {
+     "title": "Imane Khelif",
+     "subtitle": "Boxing",
+     "text": "Olympic champion 2024."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Algeria's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Nelson Mandela Stadium, Algiers",
+    "kind": "venue",
+    "lat": 36.68,
+    "lon": 3.08,
+    "text": "A new national stadium."
+   },
+   {
+    "name": "5 July Stadium, Algiers",
+    "kind": "venue",
+    "lat": 36.74,
+    "lon": 2.99,
+    "text": "The historic stadium."
+   },
+   {
+    "name": "Miloud Hadefi Stadium, Oran",
+    "kind": "venue",
+    "lat": 35.66,
+    "lon": -0.6,
+    "text": "Built for the 2022 Mediterranean Games."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1982",
+    "title": "Beating West Germany",
+    "text": "A famous World Cup win."
+   },
+   {
+    "year": "1990",
+    "title": "AFCON",
+    "text": "Won at home."
+   },
+   {
+    "year": "2019",
+    "title": "AFCON again",
+    "text": "Won in Egypt."
+   },
+   {
+    "year": "2024",
+    "title": "Two golds",
+    "text": "Khelif and Nemour in Paris."
+   }
+  ]
+ }
+}

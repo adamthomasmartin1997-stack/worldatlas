@@ -1,0 +1,132 @@
+{
+ "status": "draft",
+ "intro": "Algerian culture mixes Amazigh, Arab, Ottoman, French and African influences.",
+ "chapters": [
+  {
+   "id": "music",
+   "title": "Raï and chaabi",
+   "text": [
+    "Raï music, born in Oran, was made world-famous by Khaled. Chaabi is the popular music of Algiers."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Couscous is the national dish. Chakhchoukha, rechta noodles and mint tea are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Raï",
+   "meaning": "Popular music from western Algeria."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Chronicle of the Years of Fire",
+     "subtitle": "1975 · Mohammed Lakhdar-Hamina",
+     "text": "The only African film to win the top prize at Cannes."
+    },
+    {
+     "title": "The Battle of Algiers",
+     "subtitle": "1966 · Gillo Pontecorvo",
+     "text": "A famous film about the war."
+    },
+    {
+     "title": "Papicha",
+     "subtitle": "2019 · Mounia Meddour",
+     "text": "A student in the 1990s."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Stranger",
+     "subtitle": "1942 · Albert Camus",
+     "text": "Set in Algiers, by a writer born in Algeria."
+    },
+    {
+     "title": "Nedjma",
+     "subtitle": "1956 · Kateb Yacine",
+     "text": "A modernist classic."
+    },
+    {
+     "title": "Houris",
+     "subtitle": "2024 · Kamel Daoud",
+     "text": "Won France's Goncourt Prize."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Didi",
+     "subtitle": "Khaled, 1992",
+     "text": "A raï hit across the world."
+    },
+    {
+     "title": "Ya Rayah",
+     "subtitle": "Dahmane El Harrachi",
+     "text": "A chaabi song about exile."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Couscous",
+     "subtitle": "Everywhere",
+     "text": "Steamed semolina with stew."
+    },
+    {
+     "title": "Chakhchoukha",
+     "subtitle": "East",
+     "text": "Torn flatbread in stew."
+    },
+    {
+     "title": "Rechta",
+     "subtitle": "Algiers",
+     "text": "Thin noodles in white sauce."
+    },
+    {
+     "title": "Makroud",
+     "subtitle": "Everywhere",
+     "text": "Date-filled semolina cakes."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Yennayer",
+    "text": "Amazigh New Year, 12 January."
+   },
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "5 July."
+   },
+   {
+    "month": 11,
+    "name": "Revolution Day",
+    "text": "1 November, 1954."
+   }
+  ]
+ }
+}

@@ -1,0 +1,116 @@
+{
+ "status": "draft",
+ "intro": "Egypt is home to one of the world's first great civilisations, which built the pyramids along the Nile more than 4,500 years ago. Today it is the most populous Arab country.",
+ "chapters": [
+  {
+   "id": "pharaohs",
+   "title": "The age of the pharaohs",
+   "text": [
+    "Around 3100 BC Upper and Lower Egypt were united under one king. Pharaohs were seen as gods on Earth. In the Old Kingdom they built the pyramids at Giza; the Great Pyramid of Khufu was the tallest human-made structure for about 3,800 years.",
+    "Egyptians invented hieroglyphic writing, papyrus paper and a 365-day calendar. In the New Kingdom, rulers like Hatshepsut, Akhenaten, Tutankhamun and Ramesses II built temples at Karnak, Luxor and Abu Simbel."
+   ],
+   "highlight": {
+    "title": "Why it matters",
+    "text": "Ancient Egypt lasted about 3,000 years, longer than any other civilisation of its kind."
+   },
+   "related": [
+    "SDN",
+    "IRQ",
+    "GRC"
+   ]
+  },
+  {
+   "id": "greeks",
+   "title": "Greeks, Romans and Arabs",
+   "text": [
+    "Alexander the Great conquered Egypt in 332 BC and founded Alexandria, whose library and lighthouse were wonders of the ancient world. The Ptolemies ruled until Cleopatra VII, after whom Rome took over in 30 BC. Egypt became largely Christian.",
+    "Arab armies brought Islam in 641. Cairo was founded in 969 by the Fatimids, and al-Azhar became one of the oldest universities in the world. Saladin, the Mamluks and, from 1517, the Ottomans followed."
+   ],
+   "related": [
+    "GRC",
+    "ITA",
+    "SAU",
+    "TUR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Canal, kings and revolution",
+   "text": [
+    "Napoleon invaded in 1798; his soldiers found the Rosetta Stone, which helped decode hieroglyphs. The Suez Canal opened in 1869, and Britain occupied Egypt in 1882.",
+    "Egypt became formally independent in 1922. In 1952 army officers overthrew the king, and Gamal Abdel Nasser nationalised the Suez Canal in 1956. Egypt fought wars with Israel and made peace in 1979. In 2011 protests in Tahrir Square ended Hosni Mubarak's 30-year rule; the army removed his elected successor in 2013, and Abdel Fattah el-Sisi has ruled since 2014."
+   ],
+   "related": [
+    "FRA",
+    "GBR",
+    "ISR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 3100 BC",
+   "title": "Unification",
+   "text": "Egypt becomes one kingdom."
+  },
+  {
+   "year": "c. 2560 BC",
+   "title": "Great Pyramid",
+   "text": "Built for Khufu."
+  },
+  {
+   "year": "c. 1323 BC",
+   "title": "Tutankhamun",
+   "text": "The boy king dies."
+  },
+  {
+   "year": "332 BC",
+   "title": "Alexander",
+   "text": "Founds Alexandria."
+  },
+  {
+   "year": "30 BC",
+   "title": "Rome",
+   "text": "Cleopatra dies; Rome rules."
+  },
+  {
+   "year": "641",
+   "title": "Arab conquest",
+   "text": "Islam arrives."
+  },
+  {
+   "year": "969",
+   "title": "Cairo",
+   "text": "Founded by the Fatimids."
+  },
+  {
+   "year": "1869",
+   "title": "Suez Canal",
+   "text": "Opens."
+  },
+  {
+   "year": "1952",
+   "title": "Revolution",
+   "text": "The monarchy ends."
+  },
+  {
+   "year": "2011",
+   "title": "Uprising",
+   "text": "Mubarak steps down."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pharaoh",
+   "meaning": "A king of ancient Egypt."
+  },
+  {
+   "term": "Hieroglyphs",
+   "meaning": "Ancient Egyptian picture writing."
+  },
+  {
+   "term": "Rosetta Stone",
+   "meaning": "A stone with the same text in three scripts, which unlocked hieroglyphs."
+  }
+ ]
+}

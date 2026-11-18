@@ -1,0 +1,102 @@
+{
+ "status": "draft",
+ "intro": "Tunisia was home to Carthage, Rome's great rival, and in 2011 its revolution sparked the Arab Spring.",
+ "chapters": [
+  {
+   "id": "carthage",
+   "title": "Carthage",
+   "text": [
+    "Phoenician settlers founded Carthage around 814 BC. It became a sea power that fought Rome in the Punic Wars; its general Hannibal marched elephants over the Alps. Rome destroyed Carthage in 146 BC, then rebuilt it as a Roman city.",
+    "The amphitheatre of El Jem is one of the largest Roman arenas ever built."
+   ],
+   "related": [
+    "LBN",
+    "ITA",
+    "ESP"
+   ]
+  },
+  {
+   "id": "islam",
+   "title": "Kairouan and the beys",
+   "text": [
+    "Arabs founded Kairouan in 670, a holy city of Islam. Later the Hafsids ruled from Tunis, and the Ottomans followed, governed locally by beys. In 1846 Tunisia abolished slavery, before the US and many European countries."
+   ],
+   "related": [
+    "TUR"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and revolution",
+   "text": [
+    "France made Tunisia a protectorate in 1881. Habib Bourguiba led it to independence in 1956 and gave women more rights than in most of the region.",
+    "In December 2010 a street vendor, Mohamed Bouazizi, set himself on fire in protest, and mass protests forced President Ben Ali out in January 2011. Tunisia wrote a new democratic constitution and won the 2015 Nobel Peace Prize for its national dialogue. Since 2021 President Kais Saied has taken much greater power."
+   ],
+   "highlight": {
+    "title": "Arab Spring",
+    "text": "Tunisia's 2011 revolution inspired uprisings across the Arab world."
+   },
+   "related": [
+    "FRA",
+    "EGY",
+    "LBY"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "814 BC",
+   "title": "Carthage",
+   "text": "Founded by Phoenicians."
+  },
+  {
+   "year": "146 BC",
+   "title": "Rome",
+   "text": "Carthage is destroyed."
+  },
+  {
+   "year": "670",
+   "title": "Kairouan",
+   "text": "Founded."
+  },
+  {
+   "year": "1846",
+   "title": "Slavery abolished",
+   "text": "An early abolition."
+  },
+  {
+   "year": "1881",
+   "title": "French protectorate",
+   "text": "Until 1956."
+  },
+  {
+   "year": "1956",
+   "title": "Independence",
+   "text": "20 March."
+  },
+  {
+   "year": "2011",
+   "title": "Revolution",
+   "text": "Ben Ali flees."
+  },
+  {
+   "year": "2015",
+   "title": "Nobel Peace Prize",
+   "text": "For the National Dialogue Quartet."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Punic Wars",
+   "meaning": "Three wars between Rome and Carthage."
+  },
+  {
+   "term": "Arab Spring",
+   "meaning": "Protests across the Arab world from 2010."
+  },
+  {
+   "term": "Bey",
+   "meaning": "An Ottoman-era ruler of Tunisia."
+  }
+ ]
+}

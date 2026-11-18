@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "Sudan has around 50 million people from many ethnic groups.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Arabic and English are official, and many other languages are spoken, including Nubian, Beja and Fur. Most people are Sunni Muslim.",
+    "War has forced millions to flee within Sudan and to Chad, Egypt and South Sudan, and famine has spread."
+   ],
+   "related": [
+    "TCD",
+    "EGY",
+    "SSD"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Khartoum, Omdurman and Khartoum North form the capital area, badly damaged by the war."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Famine",
+   "meaning": "A severe lack of food across a region."
+  }
+ ]
+}

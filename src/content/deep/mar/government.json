@@ -1,0 +1,97 @@
+{
+ "status": "draft",
+ "intro": "Morocco is a constitutional monarchy where the king holds strong powers.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The king appoints the prime minister from the party that wins most seats in parliament, and controls the army, religious affairs and foreign policy. A 2011 constitution gave parliament more power."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Rabat"
+    },
+    {
+     "label": "King",
+     "value": "Mohammed VI"
+    },
+    {
+     "label": "Independence",
+     "value": "1956"
+    }
+   ]
+  },
+  {
+   "id": "sahara",
+   "title": "Western Sahara",
+   "text": [
+    "Morocco controls most of Western Sahara, while the Polisario Front seeks independence there. In 2025 the UN Security Council backed Morocco's autonomy plan as a basis for talks."
+   ],
+   "related": [
+    "DZA",
+    "MRT"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Autonomy",
+   "meaning": "Self-government within a larger country."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Inherits the throne",
+     "text": "Head of state; controls army and religion."
+    },
+    {
+     "title": "Head of Government",
+     "subtitle": "Appointed by the King",
+     "text": "From the winning party."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "395 members",
+     "text": "Directly elected."
+    },
+    {
+     "title": "House of Councillors",
+     "subtitle": "120 members",
+     "text": "Chosen indirectly."
+    },
+    {
+     "title": "Regions",
+     "subtitle": "12 regions",
+     "text": "Elected councils."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is tabled",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Both houses",
+    "text": "Debate and vote."
+   },
+   {
+    "title": "The King",
+    "text": "Promulgates it."
+   }
+  ]
+ }
+}

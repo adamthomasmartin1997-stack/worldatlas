@@ -1,0 +1,102 @@
+{
+ "status": "draft",
+ "intro": "Egypt is a presidential republic in which the president and army hold great power.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for six years and appoints the prime minister. Parliament has a House of Representatives and a Senate. Rights groups say critics and journalists face arrest."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Cairo"
+    },
+    {
+     "label": "Republic since",
+     "value": "1953"
+    },
+    {
+     "label": "President",
+     "value": "Abdel Fattah el-Sisi"
+    }
+   ]
+  },
+  {
+   "id": "region",
+   "title": "A regional power",
+   "text": [
+    "Egypt hosts the Arab League and plays a key role in talks over Gaza."
+   ],
+   "related": [
+    "ISR",
+    "PSE",
+    "SAU"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Arab League",
+   "meaning": "An organisation of Arab states based in Cairo."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 6 years",
+     "text": "Holds wide powers."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed by the President",
+     "text": "Runs the cabinet."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "596 members",
+     "text": "The main chamber."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "300 members",
+     "text": "The upper chamber."
+    },
+    {
+     "title": "Governorates",
+     "subtitle": "27 governorates",
+     "text": "Local administration."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Committee",
+    "text": "Studies it."
+   },
+   {
+    "title": "House vote",
+    "text": "Members vote to pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

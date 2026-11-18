@@ -1,0 +1,60 @@
+{
+ "status": "draft",
+ "intro": "Oil and gas make up most of Algeria's exports and government income.",
+ "chapters": [
+  {
+   "id": "energy",
+   "title": "Oil and gas",
+   "text": [
+    "Algeria is a major gas supplier to Europe through pipelines to Italy and Spain.",
+    "The state company Sonatrach is Africa's biggest company."
+   ],
+   "related": [
+    "ITA",
+    "ESP"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Beyond oil",
+   "text": [
+    "Dates from Saharan oases, especially Deglet Nour, are a famous export."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pipeline",
+   "meaning": "A long pipe carrying oil or gas."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Algeria",
+   "items": [
+    {
+     "title": "Natural gas",
+     "subtitle": "Hassi R'Mel",
+     "text": "Piped to Europe."
+    },
+    {
+     "title": "Oil",
+     "subtitle": "Hassi Messaoud",
+     "text": "A huge oil field."
+    },
+    {
+     "title": "Dates",
+     "subtitle": "Biskra",
+     "text": "Deglet Nour dates."
+    },
+    {
+     "title": "Steel",
+     "subtitle": "Bellara",
+     "text": "New steelworks."
+    }
+   ],
+   "intro": "Some of the things Algeria makes and sells to the world."
+  }
+ ]
+}

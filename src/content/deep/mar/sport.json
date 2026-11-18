@@ -1,0 +1,143 @@
+{
+ "status": "draft",
+ "intro": "Football unites Morocco, which made history at the 2022 World Cup and will co-host the 2030 World Cup.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "In 2022 the Atlas Lions became the first African team to reach a World Cup semi-final. Morocco hosts the 2025 Africa Cup of Nations and will co-host the 2030 World Cup with Spain and Portugal."
+   ],
+   "related": [
+    "ESP",
+    "PRT",
+    "FRA"
+   ]
+  },
+  {
+   "id": "athletics",
+   "title": "Athletics",
+   "text": [
+    "Hicham El Guerrouj holds the mile and 1,500 m world records. Soufiane El Bakkali won Olympic steeplechase gold in 2021 and 2024."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Atlas Lions",
+   "meaning": "The national football team's nickname."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Botola Pro",
+     "subtitle": "Football",
+     "text": "Wydad and Raja of Casablanca are big rivals."
+    },
+    {
+     "title": "Marrakech Marathon",
+     "subtitle": "Running",
+     "text": "Each January."
+    },
+    {
+     "title": "Grand Prix Hassan II",
+     "subtitle": "Tennis",
+     "text": "A clay court event."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Hicham El Guerrouj",
+     "subtitle": "Running",
+     "text": "Mile world record holder."
+    },
+    {
+     "title": "Nawal El Moutawakel",
+     "subtitle": "Hurdles",
+     "text": "First Muslim woman Olympic champion, 1984."
+    },
+    {
+     "title": "Said Aouita",
+     "subtitle": "Running",
+     "text": "Olympic 5,000 m champion."
+    },
+    {
+     "title": "Soufiane El Bakkali",
+     "subtitle": "Steeplechase",
+     "text": "Two Olympic golds."
+    },
+    {
+     "title": "Achraf Hakimi",
+     "subtitle": "Football",
+     "text": "A Champions League winner."
+    },
+    {
+     "title": "Yassine Bounou",
+     "subtitle": "Football",
+     "text": "World Cup goalkeeping hero."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Morocco's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Prince Moulay Abdellah Stadium, Rabat",
+    "kind": "venue",
+    "lat": 33.96,
+    "lon": -6.89,
+    "text": "Rebuilt for AFCON 2025."
+   },
+   {
+    "name": "Mohammed V Stadium, Casablanca",
+    "kind": "venue",
+    "lat": 33.58,
+    "lon": -7.65,
+    "text": "Home of Wydad and Raja."
+   },
+   {
+    "name": "Grand Stade de Tanger",
+    "kind": "venue",
+    "lat": 35.74,
+    "lon": -5.86,
+    "text": "A World Cup 2030 venue."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1984",
+    "title": "Olympic golds",
+    "text": "El Moutawakel and Aouita win."
+   },
+   {
+    "year": "1986",
+    "title": "World Cup",
+    "text": "First African team to top a group."
+   },
+   {
+    "year": "2022",
+    "title": "Semi-final",
+    "text": "Beat Spain and Portugal on the way."
+   },
+   {
+    "year": "2024",
+    "title": "El Bakkali",
+    "text": "Second Olympic gold."
+   }
+  ]
+ }
+}

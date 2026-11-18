@@ -1,0 +1,69 @@
+{
+ "status": "draft",
+ "intro": "Egypt earns money from the Suez Canal, tourism, gas and workers abroad.",
+ "chapters": [
+  {
+   "id": "canal",
+   "title": "Suez and tourism",
+   "text": [
+    "About an eighth of world trade normally passes through the Suez Canal, earning Egypt billions. Tourism to the pyramids, Luxor and the Red Sea is a major employer."
+   ],
+   "related": [
+    "SAU",
+    "ARE"
+   ]
+  },
+  {
+   "id": "challenges",
+   "title": "Challenges",
+   "text": [
+    "Egypt imports much of its wheat. High inflation and debt have made life hard, and Red Sea shipping attacks since 2023 cut canal income."
+   ],
+   "related": [
+    "YEM",
+    "RUS",
+    "UKR"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Canal",
+   "meaning": "A human-made waterway."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Egypt",
+   "items": [
+    {
+     "title": "Suez Canal",
+     "subtitle": "Ismailia",
+     "text": "Fees from passing ships."
+    },
+    {
+     "title": "Natural gas",
+     "subtitle": "Zohr field",
+     "text": "A giant offshore field."
+    },
+    {
+     "title": "Cotton",
+     "subtitle": "Nile Delta",
+     "text": "Famous long-staple cotton."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Giza, Luxor, Red Sea",
+     "text": "Millions of visitors."
+    },
+    {
+     "title": "Oranges",
+     "subtitle": "Delta",
+     "text": "Among the world's top exporters."
+    }
+   ],
+   "intro": "Some of the things Egypt makes and sells to the world."
+  }
+ ]
+}

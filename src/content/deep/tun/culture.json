@@ -1,0 +1,122 @@
+{
+ "status": "draft",
+ "intro": "Tunisian culture blends Amazigh, Phoenician, Roman, Arab, Ottoman and French influences.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Blue-and-white Sidi Bou Said, mosaics in the Bardo Museum and malouf music are cultural treasures."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Harissa chilli paste, couscous, brik (a fried pastry with egg) and lablabi chickpea soup are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Harissa",
+   "meaning": "A spicy chilli paste."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Halfaouine",
+     "subtitle": "1990 · Férid Boughedir",
+     "text": "A boy grows up in Tunis."
+    },
+    {
+     "title": "Four Daughters",
+     "subtitle": "2023 · Kaouther Ben Hania",
+     "text": "A documentary; Oscar-nominated."
+    },
+    {
+     "title": "The Man Who Sold His Skin",
+     "subtitle": "2020 · Kaouther Ben Hania",
+     "text": "Oscar-nominated."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Will to Live",
+     "subtitle": "1933 · Abu al-Qasim al-Shabbi",
+     "text": "A poem whose lines are in the anthem."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Malouf",
+     "subtitle": "Andalusian music",
+     "text": "Classical music from Andalusia."
+    },
+    {
+     "title": "Mezoued",
+     "subtitle": "Folk",
+     "text": "Bagpipe music."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Couscous",
+     "subtitle": "Everywhere",
+     "text": "Often with fish."
+    },
+    {
+     "title": "Brik",
+     "subtitle": "Ramadan",
+     "text": "Crispy pastry with egg."
+    },
+    {
+     "title": "Lablabi",
+     "subtitle": "Breakfast",
+     "text": "Chickpea soup."
+    },
+    {
+     "title": "Ojja",
+     "subtitle": "Everywhere",
+     "text": "Eggs in spicy tomato sauce."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Independence Day",
+    "text": "20 March."
+   },
+   {
+    "month": 7,
+    "name": "Carthage Festival",
+    "text": "Concerts in the Roman theatre."
+   },
+   {
+    "month": 12,
+    "name": "Douz Festival",
+    "text": "Camel races in the Sahara."
+   }
+  ]
+ }
+}

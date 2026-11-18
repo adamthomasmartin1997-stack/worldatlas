@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Libya has about 7 million people, most of them Arab or Amazigh Muslims.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Arabic is the main language; Amazigh, Tuareg and Tebu peoples also live there. Almost everyone is Sunni Muslim. Libya has been a route for migrants trying to reach Europe."
+   ],
+   "related": [
+    "ITA",
+    "TCD",
+    "NER"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Tripoli and Benghazi are the largest cities."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tebu",
+   "meaning": "A people of the central Sahara."
+  }
+ ]
+}

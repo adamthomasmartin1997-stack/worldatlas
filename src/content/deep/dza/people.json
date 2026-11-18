@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Algeria has about 47 million people, most living near the coast.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most Algerians are of Arab and Amazigh descent; Kabyle, Chaoui and Tuareg are Amazigh groups. Arabic and Tamazight are official, and French is widely spoken. Almost everyone is Sunni Muslim.",
+    "The population is young, and many Algerians live in France."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Algiers, the 'White City', is the capital; Oran and Constantine are other big cities."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tuareg",
+   "meaning": "A Saharan Amazigh people."
+  }
+ ]
+}

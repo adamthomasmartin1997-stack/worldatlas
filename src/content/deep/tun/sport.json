@@ -1,0 +1,115 @@
+{
+ "status": "draft",
+ "intro": "Football is Tunisia's favourite sport, and its athletes have won Olympic golds in swimming and running.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Tunisia won the Africa Cup of Nations in 2004. In 1978 it became the first African team to win a World Cup match, and it beat France at the 2022 World Cup."
+   ],
+   "related": [
+    "MEX",
+    "FRA"
+   ]
+  },
+  {
+   "id": "athletes",
+   "title": "Athletes",
+   "text": [
+    "Ons Jabeur reached three Grand Slam finals, the first Arab woman to do so. Swimmer Ahmed Hafnaoui won Olympic gold in 2021, and Mohammed Gammoudi won the 5,000 m in 1968."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Eagles of Carthage",
+   "meaning": "The national team's nickname."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Ligue Professionnelle 1",
+     "subtitle": "Football",
+     "text": "Espérance de Tunis have won the most titles."
+    },
+    {
+     "title": "Handball",
+     "subtitle": "National team",
+     "text": "Africa's most successful handball nation."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Mohammed Gammoudi",
+     "subtitle": "Running",
+     "text": "Olympic champion 1968."
+    },
+    {
+     "title": "Oussama Mellouli",
+     "subtitle": "Swimming",
+     "text": "Two Olympic golds."
+    },
+    {
+     "title": "Ons Jabeur",
+     "subtitle": "Tennis",
+     "text": "Three Grand Slam finals."
+    },
+    {
+     "title": "Ahmed Hafnaoui",
+     "subtitle": "Swimming",
+     "text": "Olympic champion 2021."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Tunisia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Hammadi Agrebi Stadium, Radès",
+    "kind": "venue",
+    "lat": 36.75,
+    "lon": 10.27,
+    "text": "The national stadium."
+   },
+   {
+    "name": "El Menzah Stadium",
+    "kind": "venue",
+    "lat": 36.83,
+    "lon": 10.18,
+    "text": "A historic stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1978",
+    "title": "First African World Cup win",
+    "text": "Beat Mexico."
+   },
+   {
+    "year": "2004",
+    "title": "AFCON",
+    "text": "Won at home."
+   },
+   {
+    "year": "2022",
+    "title": "Beat France",
+    "text": "At the World Cup in Qatar."
+   }
+  ]
+ }
+}

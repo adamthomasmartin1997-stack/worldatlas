@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Tunisia has about 12 million people, most of them living near the coast.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Tunisians speak Arabic, and French is widely used. Most are Sunni Muslim; Djerba has one of the oldest Jewish communities in the world. Education levels are high, and many women go to university."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Tunis, the capital, has an old medina and the ruins of Carthage nearby."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Derja",
+   "meaning": "Tunisian Arabic."
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{
+ "status": "draft",
+ "intro": "Egypt has long been the cultural heart of the Arab world, famous for its music, cinema and food.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Umm Kulthum was the Arab world's most famous singer. Cairo's film industry was called the 'Hollywood of the Nile'. Naguib Mahfouz won the Nobel Prize for Literature in 1988."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Koshari, a mix of rice, lentils, pasta and tomato sauce, is the national dish. Ful medames (beans) and ta'ameya (falafel made with fava beans) are everyday breakfasts."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Koshari",
+   "meaning": "Egypt's national street food."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Night of Counting the Years",
+     "subtitle": "1969 · Shadi Abdel Salam",
+     "text": "A classic about tomb robbers."
+    },
+    {
+     "title": "Cairo Station",
+     "subtitle": "1958 · Youssef Chahine",
+     "text": "A newspaper seller's obsession."
+    },
+    {
+     "title": "Yomeddine",
+     "subtitle": "2018 · A. B. Shawky",
+     "text": "A journey along the Nile."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Cairo Trilogy",
+     "subtitle": "1956–57 · Naguib Mahfouz",
+     "text": "A family across three generations."
+    },
+    {
+     "title": "Children of the Alley",
+     "subtitle": "1959 · Naguib Mahfouz",
+     "text": "A famous allegory."
+    },
+    {
+     "title": "The Yacoubian Building",
+     "subtitle": "2002 · Alaa Al Aswany",
+     "text": "Life in one Cairo building."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Enta Omri",
+     "subtitle": "Umm Kulthum, 1964",
+     "text": "An hour-long classic."
+    },
+    {
+     "title": "Tamally Maak",
+     "subtitle": "Amr Diab, 2000",
+     "text": "A pan-Arab pop hit."
+    },
+    {
+     "title": "Mahraganat",
+     "subtitle": "Street music",
+     "text": "Cairo's electronic street sound."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Koshari",
+     "subtitle": "Everywhere",
+     "text": "Rice, lentils, pasta and tomato."
+    },
+    {
+     "title": "Ful medames",
+     "subtitle": "Breakfast",
+     "text": "Stewed fava beans."
+    },
+    {
+     "title": "Molokhia",
+     "subtitle": "Everywhere",
+     "text": "Green leaf soup."
+    },
+    {
+     "title": "Feteer",
+     "subtitle": "Everywhere",
+     "text": "Flaky layered pastry."
+    },
+    {
+     "title": "Om Ali",
+     "subtitle": "Desserts",
+     "text": "Bread pudding with nuts."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Coptic Christmas",
+    "text": "7 January."
+   },
+   {
+    "month": 2,
+    "name": "Sun festival at Abu Simbel",
+    "text": "Sunlight reaches the inner shrine on 22 February."
+   },
+   {
+    "month": 4,
+    "name": "Sham el-Nessim",
+    "text": "A spring picnic day from ancient times."
+   },
+   {
+    "month": 7,
+    "name": "Revolution Day",
+    "text": "23 July, 1952."
+   },
+   {
+    "month": 10,
+    "name": "Armed Forces Day",
+    "text": "6 October, 1973."
+   }
+  ]
+ }
+}

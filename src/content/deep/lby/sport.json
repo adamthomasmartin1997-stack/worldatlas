@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Football is by far Libya's most popular sport.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Libya hosted the 1982 Africa Cup of Nations and reached the final. In 2014 it won the African Nations Championship for home-based players."
+   ]
+  },
+  {
+   "id": "clubs",
+   "title": "Clubs",
+   "text": [
+    "Al-Ittihad and Al-Ahli of Tripoli are big rivals."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "CHAN",
+   "meaning": "The African Nations Championship for home-based players."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Libyan Premier League",
+     "subtitle": "Football",
+     "text": "Al-Ittihad have won the most titles."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Ahmed Saad Osman",
+     "subtitle": "Football",
+     "text": "A 1960s and 70s star."
+    },
+    {
+     "title": "Tariq Al Taib",
+     "subtitle": "Football",
+     "text": "A creative midfielder."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Libya's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Tripoli International Stadium",
+    "kind": "venue",
+    "lat": 32.85,
+    "lon": 13.17,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Martyrs of February Stadium, Benghazi",
+    "kind": "venue",
+    "lat": 32.06,
+    "lon": 20.08,
+    "text": "A big stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1982",
+    "title": "AFCON final",
+    "text": "On home soil."
+   },
+   {
+    "year": "2014",
+    "title": "CHAN champions",
+    "text": "Won in South Africa."
+   }
+  ]
+ }
+}

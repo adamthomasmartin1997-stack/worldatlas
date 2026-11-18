@@ -1,0 +1,95 @@
+{
+ "status": "draft",
+ "intro": "Football is Sudan's favourite sport, and Sudan helped found African football.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Sudan was a founder of the Confederation of African Football in 1957 and won the Africa Cup of Nations in 1970. Al-Hilal and Al-Merrikh of Omdurman are fierce rivals."
+   ],
+   "related": [
+    "EGY",
+    "ETH"
+   ]
+  },
+  {
+   "id": "athletics",
+   "title": "Athletics",
+   "text": [
+    "Ismail Ahmed Ismail won Olympic 800 m silver in 2008, Sudan's only Olympic medal."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "CAF",
+   "meaning": "The Confederation of African Football."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Sudan Premier League",
+     "subtitle": "Football",
+     "text": "Al-Hilal and Al-Merrikh dominate."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Ismail Ahmed Ismail",
+     "subtitle": "Running",
+     "text": "Olympic silver 2008."
+    },
+    {
+     "title": "Abubakar Kaki",
+     "subtitle": "Running",
+     "text": "800 m world indoor champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Sudan's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Al-Hilal Stadium, Omdurman",
+    "kind": "venue",
+    "lat": 15.64,
+    "lon": 32.48,
+    "text": "The 'Jewel of the Blues'."
+   },
+   {
+    "name": "Al-Merrikh Stadium",
+    "kind": "venue",
+    "lat": 15.66,
+    "lon": 32.47,
+    "text": "The 'Red Castle'."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1957",
+    "title": "CAF founded",
+    "text": "Sudan hosts the first AFCON."
+   },
+   {
+    "year": "1970",
+    "title": "AFCON champions",
+    "text": "Won at home."
+   }
+  ]
+ }
+}

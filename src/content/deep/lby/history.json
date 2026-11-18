@@ -1,0 +1,96 @@
+{
+ "status": "draft",
+ "intro": "Libya is a large desert country on the Mediterranean, with some of the best Roman and Greek ruins in the world. Since 2011 it has been divided by conflict.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Greeks, Phoenicians and Romans",
+   "text": [
+    "Greeks founded Cyrene in the east around 630 BC, and Phoenicians built trading towns in the west. Under Rome, Leptis Magna became a grand city, birthplace of Emperor Septimius Severus.",
+    "Garamantes in the Fezzan built underground water channels to farm the Sahara."
+   ],
+   "related": [
+    "GRC",
+    "LBN",
+    "ITA",
+    "TUN"
+   ]
+  },
+  {
+   "id": "ottoman",
+   "title": "Islam, Ottomans and Italy",
+   "text": [
+    "Arabs brought Islam in the 640s. The Ottomans ruled from 1551. Italy invaded in 1911, and Omar Mukhtar led resistance until he was executed in 1931; he is a national hero.",
+    "Libya was a battlefield in World War Two."
+   ],
+   "related": [
+    "TUR",
+    "ITA",
+    "GBR",
+    "DEU"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Kingdom, Gaddafi and division",
+   "text": [
+    "Libya became independent in 1951 as a kingdom. Oil was found in 1959. In 1969 Muammar Gaddafi seized power and ruled for 42 years.",
+    "In 2011 an uprising, backed by NATO air strikes, overthrew Gaddafi. Since then rival governments in the west and east have competed for power."
+   ],
+   "related": [
+    "USA",
+    "FRA",
+    "GBR",
+    "EGY",
+    "TUR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 630 BC",
+   "title": "Cyrene",
+   "text": "A Greek city."
+  },
+  {
+   "year": "193",
+   "title": "Septimius Severus",
+   "text": "A Libyan-born Roman emperor."
+  },
+  {
+   "year": "1551",
+   "title": "Ottoman Tripoli",
+   "text": "Ottoman rule."
+  },
+  {
+   "year": "1911",
+   "title": "Italian invasion",
+   "text": "Until 1943."
+  },
+  {
+   "year": "1951",
+   "title": "Independence",
+   "text": "24 December."
+  },
+  {
+   "year": "1969",
+   "title": "Gaddafi",
+   "text": "Seizes power."
+  },
+  {
+   "year": "2011",
+   "title": "Uprising",
+   "text": "Gaddafi is overthrown."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Garamantes",
+   "meaning": "An ancient Saharan people."
+  },
+  {
+   "term": "Rival governments",
+   "meaning": "Two groups each claiming to rule the country."
+  }
+ ]
+}

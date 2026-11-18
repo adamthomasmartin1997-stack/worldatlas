@@ -1,0 +1,108 @@
+{
+ "status": "draft",
+ "intro": "Morocco has two coasts, high mountains and the edge of the Sahara Desert.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mountains and desert",
+   "text": [
+    "The Atlas Mountains run across the country; Toubkal, 4,167 m, is the highest peak in North Africa. The Rif mountains rise in the north. South of the Atlas, valleys and oases lead to the Sahara's dunes at Erg Chebbi.",
+    "Only 14 km of sea separate Morocco from Spain at the Strait of Gibraltar."
+   ],
+   "related": [
+    "ESP",
+    "DZA"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The coasts are mild, the mountains snowy in winter, and the south hot and dry."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Erg",
+   "meaning": "A sea of sand dunes."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Morocco's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Tangier",
+    "kind": "port",
+    "lat": 35.77,
+    "lon": -5.8,
+    "text": "Facing Spain across the strait."
+   },
+   {
+    "name": "Chefchaouen",
+    "kind": "blue town",
+    "lat": 35.17,
+    "lon": -5.26,
+    "text": "A mountain town painted blue."
+   },
+   {
+    "name": "Fez",
+    "kind": "old medina",
+    "lat": 34.06,
+    "lon": -4.97,
+    "text": "One of the largest car-free urban areas."
+   },
+   {
+    "name": "Rabat",
+    "kind": "capital",
+    "lat": 34.02,
+    "lon": -6.84,
+    "text": "A seaside capital."
+   },
+   {
+    "name": "Ouzoud Falls",
+    "kind": "waterfalls",
+    "lat": 32.02,
+    "lon": -6.72,
+    "text": "Waterfalls with Barbary macaques."
+   },
+   {
+    "name": "Marrakesh",
+    "kind": "red city",
+    "lat": 31.63,
+    "lon": -8.0,
+    "text": "The Jemaa el-Fnaa square."
+   },
+   {
+    "name": "Toubkal",
+    "kind": "mountain",
+    "lat": 31.06,
+    "lon": -7.92,
+    "text": "North Africa's highest peak."
+   },
+   {
+    "name": "Todra Gorge",
+    "kind": "canyon",
+    "lat": 31.59,
+    "lon": -5.59,
+    "text": "Towering canyon walls."
+   },
+   {
+    "name": "Erg Chebbi",
+    "kind": "Sahara dunes",
+    "lat": 31.15,
+    "lon": -4.0,
+    "text": "Dunes up to 150 m tall."
+   },
+   {
+    "name": "Essaouira",
+    "kind": "Atlantic coast",
+    "lat": 31.51,
+    "lon": -9.77,
+    "text": "Windy beaches and ramparts."
+   }
+  ]
+ }
+}

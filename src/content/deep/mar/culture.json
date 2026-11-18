@@ -1,0 +1,146 @@
+{
+ "status": "draft",
+ "intro": "Moroccan culture blends Amazigh, Arab, African, Andalusian and French influences.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Crafts and music",
+   "text": [
+    "Zellige tilework, leather tanneries in Fez and colourful souks are famous. Gnawa music, with roots in West Africa, is on UNESCO's list."
+   ],
+   "related": [
+    "MLI",
+    "SEN"
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Tagine, slow-cooked stew in a cone-lidded pot, and couscous on Fridays are classics. Sweet mint tea is poured from high above the glass."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tagine",
+   "meaning": "A stew and the clay pot it is cooked in."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Casablanca",
+     "subtitle": "1942 · Michael Curtiz",
+     "text": "Set in the city, though filmed in Hollywood."
+    },
+    {
+     "title": "Much Loved",
+     "subtitle": "2015 · Nabil Ayouch",
+     "text": "Life in Marrakesh."
+    },
+    {
+     "title": "The Mother of All Lies",
+     "subtitle": "2023 · Asmae El Moudir",
+     "text": "A documentary that won at Cannes."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "For Bread Alone",
+     "subtitle": "1973 · Mohamed Choukri",
+     "text": "A hard childhood in Tangier."
+    },
+    {
+     "title": "The Sacred Night",
+     "subtitle": "1987 · Tahar Ben Jelloun",
+     "text": "Won France's top literary prize, the Goncourt."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Gnawa",
+     "subtitle": "Traditional",
+     "text": "Trance music; UNESCO-listed."
+    },
+    {
+     "title": "Nass El Ghiwane",
+     "subtitle": "Band",
+     "text": "Moroccan protest music of the 1970s."
+    },
+    {
+     "title": "Saad Lamjarred",
+     "subtitle": "Singer",
+     "text": "A pan-Arab star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Tagine",
+     "subtitle": "Everywhere",
+     "text": "Slow-cooked stew."
+    },
+    {
+     "title": "Couscous",
+     "subtitle": "Fridays",
+     "text": "Steamed semolina."
+    },
+    {
+     "title": "Pastilla",
+     "subtitle": "Fez",
+     "text": "Sweet and savoury pie."
+    },
+    {
+     "title": "Harira",
+     "subtitle": "Ramadan",
+     "text": "Tomato and lentil soup."
+    },
+    {
+     "title": "Mint tea",
+     "subtitle": "Everywhere",
+     "text": "Green tea with mint and sugar."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 6,
+    "name": "Gnaoua Festival",
+    "text": "Music in Essaouira."
+   },
+   {
+    "month": 7,
+    "name": "Throne Day",
+    "text": "30 July."
+   },
+   {
+    "month": 11,
+    "name": "Green March Day",
+    "text": "6 November."
+   },
+   {
+    "month": 11,
+    "name": "Independence Day",
+    "text": "18 November."
+   }
+  ]
+ }
+}

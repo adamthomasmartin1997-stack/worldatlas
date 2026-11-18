@@ -1,0 +1,112 @@
+{
+ "status": "draft",
+ "intro": "Algeria is Africa's largest country. It was ruled by France for 132 years and won independence in 1962 after a long and bitter war.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Rock art and Numidia",
+   "text": [
+    "Rock paintings at Tassili n'Ajjer show cattle herders, giraffes and hippos from thousands of years ago, when the Sahara was green. Amazigh kingdoms like Numidia rose, later ruled by Carthage and Rome; Roman towns like Timgad still stand.",
+    "St Augustine, one of Christianity's great thinkers, was born in what is now Algeria."
+   ],
+   "related": [
+    "TUN",
+    "ITA"
+   ]
+  },
+  {
+   "id": "islam",
+   "title": "Islam and the Ottomans",
+   "text": [
+    "Arabs brought Islam from the 600s. Amazigh dynasties ruled, and from the 1500s Algiers was part of the Ottoman world, a base for corsairs in the Mediterranean."
+   ],
+   "related": [
+    "TUR",
+    "MAR"
+   ]
+  },
+  {
+   "id": "french",
+   "title": "French Algeria and the war",
+   "text": [
+    "France invaded in 1830. Emir Abdelkader led resistance for 15 years. Algeria was treated as part of France, and around a million European settlers took the best land.",
+    "In 1954 the National Liberation Front (FLN) began a war for independence. Hundreds of thousands died before Algeria became independent on 5 July 1962, and most settlers left for France."
+   ],
+   "highlight": {
+    "title": "A hard memory",
+    "text": "The war still shapes relations between Algeria and France."
+   },
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Since independence",
+   "text": [
+    "The FLN ruled as a single party. In the 1990s a civil war between the army and Islamist armed groups killed up to 200,000 people. In 2019 the peaceful Hirak protests ended President Bouteflika's 20-year rule."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 6000 BC",
+   "title": "Tassili rock art",
+   "text": "Paintings of a green Sahara."
+  },
+  {
+   "year": "202 BC",
+   "title": "Numidia",
+   "text": "Massinissa's kingdom."
+  },
+  {
+   "year": "100s",
+   "title": "Timgad",
+   "text": "A Roman town."
+  },
+  {
+   "year": "1516",
+   "title": "Ottoman Algiers",
+   "text": "A Mediterranean base."
+  },
+  {
+   "year": "1830",
+   "title": "French invasion",
+   "text": "132 years of rule begin."
+  },
+  {
+   "year": "1954",
+   "title": "War of Independence",
+   "text": "Until 1962."
+  },
+  {
+   "year": "1962",
+   "title": "Independence",
+   "text": "5 July."
+  },
+  {
+   "year": "1991",
+   "title": "Civil war",
+   "text": "The 'Black Decade'."
+  },
+  {
+   "year": "2019",
+   "title": "Hirak",
+   "text": "Mass peaceful protests."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "FLN",
+   "meaning": "The National Liberation Front, which led the independence war."
+  },
+  {
+   "term": "Hirak",
+   "meaning": "'Movement': the 2019 protests."
+  },
+  {
+   "term": "Numidia",
+   "meaning": "An ancient Amazigh kingdom."
+  }
+ ]
+}

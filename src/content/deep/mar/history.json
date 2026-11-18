@@ -1,0 +1,103 @@
+{
+ "status": "draft",
+ "intro": "Morocco sits at the north-west corner of Africa, just across a narrow strait from Europe. It is one of the world's oldest monarchies.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Amazigh and Romans",
+   "text": [
+    "At Jebel Irhoud, scientists found the oldest known fossils of Homo sapiens, about 300,000 years old. Amazigh (Berber) peoples have lived here for thousands of years. Phoenicians traded on the coast and Rome ruled the north, leaving ruins at Volubilis."
+   ],
+   "related": [
+    "LBN",
+    "ITA"
+   ]
+  },
+  {
+   "id": "dynasties",
+   "title": "Islamic dynasties",
+   "text": [
+    "Arabs brought Islam around 700. The Idrisids founded Fez, home to al-Qarawiyyin, often called the oldest continuously operating university in the world, founded in 859 by Fatima al-Fihri.",
+    "Amazigh dynasties, the Almoravids and Almohads, ruled empires stretching into Spain. Marrakesh and later Meknes became royal cities. The Alaouite dynasty, which still reigns, came to power in the 1600s."
+   ],
+   "highlight": {
+    "title": "Al-Qarawiyyin",
+    "text": "It was founded by a woman, Fatima al-Fihri, in 859."
+   },
+   "related": [
+    "ESP",
+    "DZA",
+    "MRT"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Protectorate and independence",
+   "text": [
+    "In 1912 France and Spain divided Morocco into protectorates. It became independent in 1956 under King Mohammed V. In 1975 Morocco took control of most of Western Sahara, a territory whose status is still disputed.",
+    "King Mohammed VI has reigned since 1999. A 2023 earthquake in the Atlas killed nearly 3,000 people."
+   ],
+   "related": [
+    "FRA",
+    "ESP",
+    "DZA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 300,000 years ago",
+   "title": "Jebel Irhoud",
+   "text": "Early Homo sapiens."
+  },
+  {
+   "year": "859",
+   "title": "Al-Qarawiyyin",
+   "text": "Founded in Fez."
+  },
+  {
+   "year": "1062",
+   "title": "Marrakesh",
+   "text": "Founded by the Almoravids."
+  },
+  {
+   "year": "1666",
+   "title": "Alaouites",
+   "text": "The current dynasty begins."
+  },
+  {
+   "year": "1912",
+   "title": "Protectorates",
+   "text": "France and Spain take control."
+  },
+  {
+   "year": "1956",
+   "title": "Independence",
+   "text": "From France and Spain."
+  },
+  {
+   "year": "1975",
+   "title": "Green March",
+   "text": "Moroccans march into Western Sahara."
+  },
+  {
+   "year": "2022",
+   "title": "World Cup semi-final",
+   "text": "A first for an African team."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Amazigh",
+   "meaning": "The Indigenous people of North Africa, also called Berbers."
+  },
+  {
+   "term": "Medina",
+   "meaning": "The old walled part of a North African city."
+  },
+  {
+   "term": "Protectorate",
+   "meaning": "A country controlled by another while keeping its ruler."
+  }
+ ]
+}

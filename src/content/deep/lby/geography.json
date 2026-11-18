@@ -1,0 +1,98 @@
+{
+ "status": "draft",
+ "intro": "About 90% of Libya is desert, and it has the longest Mediterranean coastline of any African country.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Desert and coast",
+   "text": [
+    "Almost everyone lives on the coast, around Tripoli and Benghazi. The Sahara covers the rest, with sand seas, volcanic Waw an Namus and the rock art of the Akakus mountains.",
+    "Libya has no permanent rivers. The Great Man-Made River pipes ancient groundwater from under the desert to the coast."
+   ],
+   "related": [
+    "EGY",
+    "TUN",
+    "DZA",
+    "NER",
+    "TCD",
+    "SDN"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Libya is hot and dry; in 2023 Storm Daniel caused dams to burst at Derna, killing thousands."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Aquifer",
+   "meaning": "Underground rock holding water."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Libya's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Tripoli",
+    "kind": "capital",
+    "lat": 32.89,
+    "lon": 13.19,
+    "text": "The old city and Red Castle."
+   },
+   {
+    "name": "Leptis Magna",
+    "kind": "Roman city",
+    "lat": 32.64,
+    "lon": 14.29,
+    "text": "Some of the finest Roman ruins."
+   },
+   {
+    "name": "Sabratha",
+    "kind": "Roman theatre",
+    "lat": 32.79,
+    "lon": 12.48,
+    "text": "A theatre by the sea."
+   },
+   {
+    "name": "Cyrene",
+    "kind": "Greek city",
+    "lat": 32.82,
+    "lon": 21.86,
+    "text": "Temples in the Green Mountain."
+   },
+   {
+    "name": "Ghadames",
+    "kind": "desert town",
+    "lat": 30.13,
+    "lon": 9.5,
+    "text": "A maze of covered alleys."
+   },
+   {
+    "name": "Ubari lakes",
+    "kind": "desert lakes",
+    "lat": 26.8,
+    "lon": 12.8,
+    "text": "Salt lakes among dunes."
+   },
+   {
+    "name": "Akakus",
+    "kind": "rock art",
+    "lat": 24.8,
+    "lon": 10.6,
+    "text": "Ancient paintings."
+   },
+   {
+    "name": "Waw an Namus",
+    "kind": "volcano",
+    "lat": 24.92,
+    "lon": 17.76,
+    "text": "A black crater with lakes."
+   }
+  ]
+ }
+}

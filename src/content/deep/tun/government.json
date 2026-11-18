@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Tunisia is a republic where power has become concentrated in the president since 2021.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "President Kais Saied suspended parliament in 2021 and passed a new constitution in 2022 giving the president wide powers. Critics say democracy has gone backwards, and opponents have been jailed."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Tunis"
+    },
+    {
+     "label": "Independence",
+     "value": "1956"
+    },
+    {
+     "label": "President",
+     "value": "Kais Saied"
+    }
+   ]
+  },
+  {
+   "id": "history",
+   "title": "A democratic decade",
+   "text": [
+    "From 2011 to 2021 Tunisia was the Arab Spring's only lasting democracy, with free elections."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Constitution",
+   "meaning": "A country's basic set of laws."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected for 5 years",
+     "text": "Holds most power."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed by the President",
+     "text": "Runs the government."
+    },
+    {
+     "title": "Assembly of the Representatives of the People",
+     "subtitle": "161 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "National Council of Regions",
+     "subtitle": "77 members",
+     "text": "The upper house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "Mostly by the President."
+   },
+   {
+    "title": "Assembly",
+    "text": "Debates and votes."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "status": "draft",
+ "intro": "Libya has Africa's largest proven oil reserves, and oil pays for almost everything.",
+ "chapters": [
+  {
+   "id": "oil",
+   "title": "Oil",
+   "text": [
+    "Oil and gas make up nearly all exports, mainly to Europe. Fighting has often shut oil fields and ports."
+   ],
+   "related": [
+    "ITA",
+    "DEU",
+    "ESP"
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Water",
+   "text": [
+    "The Great Man-Made River is one of the largest water projects in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Reserves",
+   "meaning": "Oil known to be in the ground."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Libya",
+   "items": [
+    {
+     "title": "Oil",
+     "subtitle": "Sirte Basin",
+     "text": "Almost all exports."
+    },
+    {
+     "title": "Natural gas",
+     "subtitle": "Offshore",
+     "text": "Piped to Italy."
+    },
+    {
+     "title": "Dates",
+     "subtitle": "Oases",
+     "text": "Grown in the desert."
+    }
+   ],
+   "intro": "Some of the things Libya makes and sells to the world."
+  }
+ ]
+}

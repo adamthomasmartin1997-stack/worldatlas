@@ -1,0 +1,102 @@
+{
+ "status": "draft",
+ "intro": "Sudanese culture mixes Arab, Nubian and African traditions.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Music and writing",
+   "text": [
+    "Sudanese music, with its five-note scale, is popular across East Africa. Tayeb Salih's Season of Migration to the North is a classic of Arabic literature."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Ful medames, kisra flatbread and strong coffee called jebena are everyday staples."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Jebena",
+   "meaning": "A clay coffee pot."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "You Will Die at Twenty",
+     "subtitle": "2019 · Amjad Abu Alala",
+     "text": "A boy's fate; won at Venice."
+    },
+    {
+     "title": "Goodbye Julia",
+     "subtitle": "2023 · Mohamed Kordofani",
+     "text": "A friendship across north and south."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Season of Migration to the North",
+     "subtitle": "1966 · Tayeb Salih",
+     "text": "A classic novel."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Mohammed Wardi",
+     "subtitle": "Singer",
+     "text": "Sudan's greatest singer."
+    },
+    {
+     "title": "Haqibah",
+     "subtitle": "Traditional",
+     "text": "Vocal music from Omdurman."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Ful medames",
+     "subtitle": "Everywhere",
+     "text": "Stewed beans."
+    },
+    {
+     "title": "Kisra",
+     "subtitle": "Everywhere",
+     "text": "Thin fermented flatbread."
+    },
+    {
+     "title": "Jebena coffee",
+     "subtitle": "Everywhere",
+     "text": "Spiced coffee."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Independence Day",
+    "text": "1 January."
+   }
+  ]
+ }
+}

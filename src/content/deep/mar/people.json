@@ -1,0 +1,33 @@
+{
+ "status": "draft",
+ "intro": "Morocco has about 37 million people of Arab and Amazigh heritage.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and languages",
+   "text": [
+    "Arabic and Tamazight are official languages, and French is widely used in business. Most people are Sunni Muslim, and there is a small historic Jewish community.",
+    "Millions of Moroccans live in France, Spain, Belgium and the Netherlands."
+   ],
+   "related": [
+    "FRA",
+    "ESP",
+    "BEL",
+    "NLD"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Casablanca is the biggest city; Rabat is the capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Darija",
+   "meaning": "Moroccan Arabic."
+  }
+ ]
+}

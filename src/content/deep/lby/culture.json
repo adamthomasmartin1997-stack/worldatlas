@@ -1,0 +1,102 @@
+{
+ "status": "draft",
+ "intro": "Libyan culture is shaped by Arab, Amazigh and Saharan traditions.",
+ "chapters": [
+  {
+   "id": "heritage",
+   "title": "Heritage",
+   "text": [
+    "Libya has five World Heritage sites, including Leptis Magna, Sabratha, Cyrene and the old town of Ghadames, the 'pearl of the desert'."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Bazeen, a dough eaten with stew, couscous and sharba soup are traditional dishes."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bazeen",
+   "meaning": "A traditional Libyan barley dish."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Lion of the Desert",
+     "subtitle": "1981 · Moustapha Akkad",
+     "text": "The story of Omar Mukhtar."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Gold Dust",
+     "subtitle": "1990 · Ibrahim al-Koni",
+     "text": "A Tuareg tale by Libya's best-known novelist."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Ma'luf",
+     "subtitle": "Andalusian music",
+     "text": "Classical music."
+    },
+    {
+     "title": "Zokra",
+     "subtitle": "Bagpipe",
+     "text": "Folk music."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Bazeen",
+     "subtitle": "Everywhere",
+     "text": "Barley dough with stew."
+    },
+    {
+     "title": "Couscous",
+     "subtitle": "Everywhere",
+     "text": "Steamed semolina."
+    },
+    {
+     "title": "Sharba",
+     "subtitle": "Ramadan",
+     "text": "Spiced soup."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Revolution Day",
+    "text": "17 February, 2011."
+   },
+   {
+    "month": 12,
+    "name": "Independence Day",
+    "text": "24 December."
+   }
+  ]
+ }
+}

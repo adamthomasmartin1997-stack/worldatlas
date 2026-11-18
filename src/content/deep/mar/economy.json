@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Morocco has one of Africa's most varied economies, with cars, phosphates, farming and tourism.",
+ "chapters": [
+  {
+   "id": "industry",
+   "title": "Industry",
+   "text": [
+    "Morocco holds most of the world's phosphate reserves, used for fertiliser. Car factories near Tangier and Kenitra make it Africa's biggest car producer.",
+    "Noor Ouarzazate is one of the world's largest solar power complexes."
+   ],
+   "related": [
+    "FRA",
+    "ESP"
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism",
+   "text": [
+    "Over 17 million tourists visited in 2024, drawn by Marrakesh, Fez and the desert."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Phosphate",
+   "meaning": "A mineral used to make fertiliser."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Morocco",
+   "items": [
+    {
+     "title": "Phosphates",
+     "subtitle": "OCP",
+     "text": "Most of the world's reserves."
+    },
+    {
+     "title": "Cars",
+     "subtitle": "Renault, Stellantis",
+     "text": "Africa's top car producer."
+    },
+    {
+     "title": "Fruit and vegetables",
+     "subtitle": "Souss valley",
+     "text": "Tomatoes and citrus for Europe."
+    },
+    {
+     "title": "Argan oil",
+     "subtitle": "South-west",
+     "text": "Made from argan nuts."
+    },
+    {
+     "title": "Solar power",
+     "subtitle": "Ouarzazate",
+     "text": "A giant solar complex."
+    }
+   ],
+   "intro": "Some of the things Morocco makes and sells to the world."
+  }
+ ]
+}

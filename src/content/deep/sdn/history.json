@@ -1,0 +1,103 @@
+{
+ "status": "draft",
+ "intro": "Sudan was home to the ancient kingdom of Kush, whose pharaohs once ruled Egypt. Today it faces one of the world's worst humanitarian crises.",
+ "chapters": [
+  {
+   "id": "kush",
+   "title": "Kush and Meroë",
+   "text": [
+    "Nubia, along the Nile, was home to the kingdom of Kush. Around 750 BC its kings conquered Egypt and ruled as the 25th Dynasty of pharaohs. Later the capital moved to Meroë, where around 200 pyramids still stand, more than in Egypt.",
+    "Kush had its own writing, Meroitic, which has not been fully deciphered."
+   ],
+   "related": [
+    "EGY"
+   ]
+  },
+  {
+   "id": "medieval",
+   "title": "Christian kingdoms and sultanates",
+   "text": [
+    "Christian Nubian kingdoms lasted for centuries. From the 1500s the Funj and Darfur sultanates ruled, and Islam spread widely."
+   ],
+   "related": [
+    "EGY",
+    "ETH",
+    "TCD"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Colonial rule and independence",
+   "text": [
+    "Egypt conquered Sudan in the 1820s. In 1885 the Mahdi's forces captured Khartoum. Britain and Egypt ruled from 1899 until independence in 1956.",
+    "Long civil wars between the north and south led to South Sudan becoming independent in 2011. Omar al-Bashir ruled from 1989; war in Darfur from 2003 killed hundreds of thousands. Protests ended his rule in 2019, but in April 2023 war broke out between the army and the Rapid Support Forces, displacing over 12 million people."
+   ],
+   "related": [
+    "EGY",
+    "GBR",
+    "SSD"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 750 BC",
+   "title": "Kushite pharaohs",
+   "text": "Kush rules Egypt."
+  },
+  {
+   "year": "c. 300 BC",
+   "title": "Meroë",
+   "text": "Pyramid city."
+  },
+  {
+   "year": "1504",
+   "title": "Funj Sultanate",
+   "text": "Founded."
+  },
+  {
+   "year": "1885",
+   "title": "The Mahdi",
+   "text": "Takes Khartoum."
+  },
+  {
+   "year": "1956",
+   "title": "Independence",
+   "text": "1 January."
+  },
+  {
+   "year": "2003",
+   "title": "Darfur war",
+   "text": "Mass killings."
+  },
+  {
+   "year": "2011",
+   "title": "South Sudan",
+   "text": "Becomes independent."
+  },
+  {
+   "year": "2019",
+   "title": "Revolution",
+   "text": "Bashir is overthrown."
+  },
+  {
+   "year": "2023",
+   "title": "War",
+   "text": "Army and RSF fight."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Nubia",
+   "meaning": "The Nile region of southern Egypt and northern Sudan."
+  },
+  {
+   "term": "RSF",
+   "meaning": "The Rapid Support Forces, a paramilitary group."
+  },
+  {
+   "term": "Displaced",
+   "meaning": "Forced to leave home."
+  }
+ ]
+}

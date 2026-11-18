@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Egypt has over 110 million people, the most in the Arab world, and its population is growing fast.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and faith",
+   "text": [
+    "Arabic is the language, with a distinctive Egyptian dialect understood across the Arab world thanks to its films and TV. Most people are Sunni Muslim; Coptic Christians are about a tenth.",
+    "Greater Cairo is one of the largest cities in the world, with over 20 million people."
+   ],
+   "related": [
+    "SAU",
+    "SDN"
+   ]
+  },
+  {
+   "id": "capital",
+   "title": "A new capital",
+   "text": [
+    "Egypt is building a New Administrative Capital in the desert east of Cairo to ease crowding."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Copts",
+   "meaning": "Egypt's Christian community, one of the oldest in the world."
+  }
+ ]
+}

@@ -1,0 +1,84 @@
+{
+ "status": "draft",
+ "intro": "Libya is divided between rival authorities in the west and east, with UN efforts to unite them.",
+ "chapters": [
+  {
+   "id": "rivals",
+   "title": "Two governments",
+   "text": [
+    "A UN-recognised government sits in Tripoli. In the east, a rival government is backed by the forces of Khalifa Haftar. Many armed groups control local areas."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Tripoli"
+    },
+    {
+     "label": "Independence",
+     "value": "1951"
+    },
+    {
+     "label": "Status",
+     "value": "Divided since 2014"
+    }
+   ]
+  },
+  {
+   "id": "elections",
+   "title": "Elections",
+   "text": [
+    "National elections planned for 2021 were postponed and have not been held."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Militia",
+   "meaning": "An armed group that is not a regular army."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Government of National Unity",
+     "subtitle": "In Tripoli",
+     "text": "Recognised by the UN."
+    },
+    {
+     "title": "Eastern government",
+     "subtitle": "In Benghazi",
+     "text": "Backed by Haftar's forces."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "In Tobruk",
+     "text": "Elected in 2014."
+    },
+    {
+     "title": "Presidential Council",
+     "subtitle": "In Tripoli",
+     "text": "A three-member council."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Divided rule",
+    "text": "Rival bodies pass separate laws."
+   },
+   {
+    "title": "UN talks",
+    "text": "Aim to agree on elections."
+   }
+  ]
+ }
+}

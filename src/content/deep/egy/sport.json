@@ -1,0 +1,136 @@
+{
+ "status": "draft",
+ "intro": "Football is Egypt's great passion, and the national team has won the Africa Cup of Nations a record seven times.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Al Ahly and Zamalek of Cairo are two of Africa's most successful clubs. Mohamed Salah of Liverpool is one of the world's best players."
+   ],
+   "related": [
+    "GBR"
+   ]
+  },
+  {
+   "id": "squash",
+   "title": "Squash",
+   "text": [
+    "Egyptian players have dominated world squash for years, winning many men's and women's world titles."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "AFCON",
+   "meaning": "The Africa Cup of Nations."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Egyptian Premier League",
+     "subtitle": "Football",
+     "text": "Al Ahly have won the most titles."
+    },
+    {
+     "title": "CAF Champions League",
+     "subtitle": "Football",
+     "text": "Al Ahly are Africa's most successful club."
+    },
+    {
+     "title": "PSA Squash",
+     "subtitle": "Squash",
+     "text": "Egyptians top the rankings."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Mohamed Salah",
+     "subtitle": "Football",
+     "text": "A Premier League record-breaker."
+    },
+    {
+     "title": "Mahmoud El Khatib",
+     "subtitle": "Football",
+     "text": "A 1970s and 80s star."
+    },
+    {
+     "title": "Mohamed Aboutrika",
+     "subtitle": "Football",
+     "text": "Al Ahly legend."
+    },
+    {
+     "title": "Nour El Sherbini",
+     "subtitle": "Squash",
+     "text": "Many-time world champion."
+    },
+    {
+     "title": "Ali Farag",
+     "subtitle": "Squash",
+     "text": "World No. 1 and world champion."
+    },
+    {
+     "title": "Ahmed Elgendy",
+     "subtitle": "Modern pentathlon",
+     "text": "Olympic champion 2024."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Egypt's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Cairo International Stadium",
+    "kind": "venue",
+    "lat": 30.07,
+    "lon": 31.31,
+    "text": "The national stadium."
+   },
+   {
+    "name": "New Administrative Capital Stadium",
+    "kind": "venue",
+    "lat": 30.02,
+    "lon": 31.76,
+    "text": "One of Africa's largest."
+   },
+   {
+    "name": "Borg El Arab Stadium",
+    "kind": "venue",
+    "lat": 30.86,
+    "lon": 29.6,
+    "text": "Near Alexandria."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2006–2010",
+    "title": "AFCON hat-trick",
+    "text": "Three titles in a row."
+   },
+   {
+    "year": "2018",
+    "title": "World Cup",
+    "text": "Salah leads Egypt back after 28 years."
+   },
+   {
+    "year": "2024",
+    "title": "Olympic gold",
+    "text": "Elgendy wins the modern pentathlon."
+   }
+  ]
+ }
+}

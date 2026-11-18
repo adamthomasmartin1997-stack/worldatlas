@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Sudan's economy, based on farming, gold and livestock, has been shattered by war.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Sudan is a leading producer of gum arabic, used in soft drinks and sweets. Gold mining, livestock and cotton matter too. Most oil was lost when South Sudan became independent."
+   ],
+   "related": [
+    "SSD",
+    "ARE"
+   ]
+  },
+  {
+   "id": "farming",
+   "title": "Farming",
+   "text": [
+    "The Gezira scheme between the two Niles is one of the largest irrigation projects in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gum arabic",
+   "meaning": "A tree sap used in food and medicine."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Sudan",
+   "items": [
+    {
+     "title": "Gum arabic",
+     "subtitle": "Kordofan",
+     "text": "Most of the world's supply."
+    },
+    {
+     "title": "Gold",
+     "subtitle": "Mines",
+     "text": "The top export."
+    },
+    {
+     "title": "Sesame",
+     "subtitle": "Farms",
+     "text": "A big export."
+    },
+    {
+     "title": "Livestock",
+     "subtitle": "Herders",
+     "text": "Camels and sheep."
+    }
+   ],
+   "intro": "Some of the things Sudan makes and sells to the world."
+  }
+ ]
+}
