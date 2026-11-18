@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Niger has about 27 million people and the world's highest birth rate.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Hausa are the largest group, followed by the Zarma-Songhai, Tuareg, Fula and Kanuri. French is official; Hausa is widely spoken. Almost everyone is Muslim.",
+    "Half the population is under 15."
+   ],
+   "related": [
+    "NGA"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Niamey, on the Niger River, is the capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Birth rate",
+   "meaning": "How many babies are born per person each year."
+  }
+ ]
+}

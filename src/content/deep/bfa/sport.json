@@ -1,0 +1,94 @@
+{
+ "status": "draft",
+ "intro": "Football is the most popular sport, and Burkina Faso won its first Olympic medal in 2021.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Stallions reached the Africa Cup of Nations final in 2013."
+   ]
+  },
+  {
+   "id": "athletics",
+   "title": "Athletics",
+   "text": [
+    "Hugues Fabrice Zango won triple jump bronze at the 2021 Olympics and became world champion in 2023."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Triple jump",
+   "meaning": "A hop, step and jump into sand."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Burkinabé Premier League",
+     "subtitle": "Football",
+     "text": "ASFA Yennenga and Étoile Filante are big clubs."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Hugues Fabrice Zango",
+     "subtitle": "Triple jump",
+     "text": "World champion 2023."
+    },
+    {
+     "title": "Bertrand Traoré",
+     "subtitle": "Football",
+     "text": "A Premier League winger."
+    },
+    {
+     "title": "Jonathan Pitroipa",
+     "subtitle": "Football",
+     "text": "Best player at AFCON 2013."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Burkina Faso's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Stade du 4-Août",
+    "kind": "venue",
+    "lat": 12.37,
+    "lon": -1.53,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1998",
+    "title": "AFCON host",
+    "text": "Fourth place at home."
+   },
+   {
+    "year": "2013",
+    "title": "AFCON final",
+    "text": "The Stallions' best run."
+   },
+   {
+    "year": "2021",
+    "title": "First Olympic medal",
+    "text": "Zango's bronze."
+   }
+  ]
+ }
+}

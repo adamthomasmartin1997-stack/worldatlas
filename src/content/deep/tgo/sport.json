@@ -1,0 +1,84 @@
+{
+ "status": "draft",
+ "intro": "Football is Togo's most popular sport, and the Sparrow Hawks played at the 2006 World Cup.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Togo played at the 2006 World Cup, led by striker Emmanuel Adebayor."
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics",
+   "text": [
+    "Benjamin Boukpeti won Togo's only Olympic medal, a canoe slalom bronze in 2008."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Canoe slalom",
+   "meaning": "Racing a canoe through gates on white water."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Togolese Championnat National",
+     "subtitle": "Football",
+     "text": "The top league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Emmanuel Adebayor",
+     "subtitle": "Football",
+     "text": "African Footballer of the Year 2008."
+    },
+    {
+     "title": "Benjamin Boukpeti",
+     "subtitle": "Canoeing",
+     "text": "Olympic bronze 2008."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Togo's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Stade de Kégué, Lomé",
+    "kind": "venue",
+    "lat": 6.18,
+    "lon": 1.24,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2006",
+    "title": "World Cup",
+    "text": "A first appearance."
+   },
+   {
+    "year": "2008",
+    "title": "Olympic bronze",
+    "text": "Boukpeti in Beijing."
+   }
+  ]
+ }
+}

@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "Liberian culture mixes Indigenous traditions with influences from the American settlers.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Masks of the Dan and secret societies like Poro and Sande are traditional. Monrovia's music scene includes hipco, Liberian hip-hop."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Rice is eaten daily, with palm butter, cassava leaf or potato greens stew."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Hipco",
+   "meaning": "Liberian hip-hop."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The House at Sugar Beach",
+     "subtitle": "2008 · Helene Cooper",
+     "text": "A memoir of growing up and the war."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Hipco",
+     "subtitle": "Takun J",
+     "text": "Liberian hip-hop."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Palm butter",
+     "subtitle": "Everywhere",
+     "text": "Palm-nut stew with rice."
+    },
+    {
+     "title": "Cassava leaf",
+     "subtitle": "Everywhere",
+     "text": "A leafy stew."
+    },
+    {
+     "title": "Jollof rice",
+     "subtitle": "Celebrations",
+     "text": "Spicy rice."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 3,
+    "name": "Decoration Day",
+    "text": "Families clean and decorate graves."
+   },
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "26 July."
+   }
+  ]
+ }
+}

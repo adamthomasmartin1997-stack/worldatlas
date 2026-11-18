@@ -1,0 +1,27 @@
+{
+ "status": "draft",
+ "intro": "Burkina Faso has about 23 million people, most of them young.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Mossi are the largest group; others include the Fula, Gurunsi, Bobo and Lobi. French is official, and Mooré is widely spoken. Most people are Muslim, with large Christian and traditional-religion communities.",
+    "Most people farm millet, sorghum and cotton."
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Ouagadougou is the capital; Bobo-Dioulasso is the second city."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mooré",
+   "meaning": "The Mossi language."
+  }
+ ]
+}

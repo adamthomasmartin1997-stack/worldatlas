@@ -1,0 +1,58 @@
+{
+ "status": "draft",
+ "intro": "Liberia exports iron ore, rubber and gold and has one of the world's largest ship registries.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Firestone has run a huge rubber plantation since 1926. Many of the world's ships fly the Liberian flag for registration."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "rebuild",
+   "title": "Rebuilding",
+   "text": [
+    "Roads, power and schools are still being rebuilt after the war."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Flag of convenience",
+   "meaning": "Registering a ship in another country for lower costs."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Liberia",
+   "items": [
+    {
+     "title": "Iron ore",
+     "subtitle": "Nimba",
+     "text": "A big export."
+    },
+    {
+     "title": "Rubber",
+     "subtitle": "Harbel",
+     "text": "Firestone plantation."
+    },
+    {
+     "title": "Gold",
+     "subtitle": "Mines",
+     "text": "A growing export."
+    },
+    {
+     "title": "Ship registry",
+     "subtitle": "Monrovia",
+     "text": "A huge fleet on paper."
+    }
+   ],
+   "intro": "Some of the things Liberia makes and sells to the world."
+  }
+ ]
+}

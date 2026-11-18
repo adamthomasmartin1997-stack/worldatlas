@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Benin is a presidential republic, known for its peaceful move to democracy in 1990.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is directly elected and limited to two terms. Critics say democracy has narrowed since 2016, and an attempted coup was put down in December 2025."
+   ],
+   "facts": [
+    {
+     "label": "Official capital",
+     "value": "Porto-Novo"
+    },
+    {
+     "label": "Seat of government",
+     "value": "Cotonou"
+    },
+    {
+     "label": "Independence",
+     "value": "1960"
+    }
+   ]
+  },
+  {
+   "id": "north",
+   "title": "The north",
+   "text": [
+    "Armed groups from the Sahel have attacked northern Benin in recent years."
+   ],
+   "related": [
+    "BFA",
+    "NER"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Republic",
+   "meaning": "A country with an elected head of state."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Directly elected",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Vice President",
+     "subtitle": "Elected with the President",
+     "text": "Second in command."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "109 members",
+     "text": "The parliament."
+    },
+    {
+     "title": "Constitutional Court",
+     "subtitle": "Judges",
+     "text": "Checks laws."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "National Assembly",
+    "text": "Votes on it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

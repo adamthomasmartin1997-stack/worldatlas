@@ -1,0 +1,93 @@
+{
+ "status": "draft",
+ "intro": "Burkina Faso, meaning 'land of upright people', grew from the Mossi kingdoms and is known for its film festival and its revolutionary leader Thomas Sankara.",
+ "chapters": [
+  {
+   "id": "mossi",
+   "title": "Mossi kingdoms",
+   "text": [
+    "From around the 1400s the Mossi kingdoms, led by kings called the Mogho Naba, ruled the region and resisted the Mali and Songhai empires. The Mogho Naba still holds a ceremonial role in Ouagadougou.",
+    "The ruins of Loropéni, stone walls over 1,000 years old, are a World Heritage site."
+   ],
+   "related": [
+    "MLI",
+    "GHA"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Upper Volta",
+   "text": [
+    "France conquered the region in the 1890s and later named it Upper Volta. It became independent in 1960."
+   ],
+   "related": [
+    "FRA",
+    "CIV"
+   ]
+  },
+  {
+   "id": "sankara",
+   "title": "Sankara and after",
+   "text": [
+    "In 1983 Captain Thomas Sankara took power, renamed the country Burkina Faso, vaccinated millions of children and planted millions of trees. He was killed in a 1987 coup led by Blaise Compaoré, who ruled until protests forced him out in 2014.",
+    "Since 2015 attacks by armed Islamist groups have displaced millions. Captain Ibrahim Traoré seized power in 2022."
+   ],
+   "related": [
+    "MLI",
+    "NER"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1400s",
+   "title": "Mossi kingdoms",
+   "text": "Founded."
+  },
+  {
+   "year": "1896",
+   "title": "French conquest",
+   "text": "Ouagadougou is taken."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "As Upper Volta."
+  },
+  {
+   "year": "1969",
+   "title": "FESPACO",
+   "text": "The film festival begins."
+  },
+  {
+   "year": "1984",
+   "title": "Burkina Faso",
+   "text": "The new name."
+  },
+  {
+   "year": "1987",
+   "title": "Sankara killed",
+   "text": "Compaoré takes power."
+  },
+  {
+   "year": "2014",
+   "title": "Uprising",
+   "text": "Compaoré is ousted."
+  },
+  {
+   "year": "2022",
+   "title": "Coups",
+   "text": "Two military takeovers."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Mogho Naba",
+   "meaning": "The traditional Mossi king."
+  },
+  {
+   "term": "Coup",
+   "meaning": "A sudden seizure of power."
+  }
+ ]
+}

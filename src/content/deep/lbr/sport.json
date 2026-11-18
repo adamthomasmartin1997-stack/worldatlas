@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Football is Liberia's favourite sport, and its greatest player became president.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "George Weah",
+   "text": [
+    "George Weah won the Ballon d'Or in 1995, the only African to do so, and was Liberia's president from 2018 to 2024."
+   ],
+   "related": [
+    "FRA",
+    "ITA"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Kickball is popular, especially among girls."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ballon d'Or",
+   "meaning": "The award for the world's best footballer."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Liberian First Division",
+     "subtitle": "Football",
+     "text": "Mighty Barrolle and Invincible Eleven are old giants."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "George Weah",
+     "subtitle": "Football",
+     "text": "Ballon d'Or winner 1995."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Liberia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Samuel Kanyon Doe Sports Complex",
+    "kind": "venue",
+    "lat": 6.27,
+    "lon": -10.73,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1995",
+    "title": "Weah's Ballon d'Or",
+    "text": "The only African winner."
+   },
+   {
+    "year": "2002",
+    "title": "AFCON",
+    "text": "Liberia's second finals."
+   }
+  ]
+ }
+}

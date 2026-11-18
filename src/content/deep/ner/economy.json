@@ -1,0 +1,60 @@
+{
+ "status": "draft",
+ "intro": "Niger is rich in uranium but one of the poorest countries in the world.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Uranium mining near Arlit has supplied nuclear power stations abroad. An oil pipeline to Benin opened in 2024. Most people farm millet and herd livestock."
+   ],
+   "related": [
+    "FRA",
+    "CHN",
+    "BEN"
+   ]
+  },
+  {
+   "id": "onions",
+   "title": "Onions",
+   "text": [
+    "The purple 'violet de Galmi' onion is sold across West Africa."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Uranium",
+   "meaning": "A metal used as nuclear fuel."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Niger",
+   "items": [
+    {
+     "title": "Uranium",
+     "subtitle": "Arlit",
+     "text": "A big producer."
+    },
+    {
+     "title": "Oil",
+     "subtitle": "Agadem",
+     "text": "Exported through Benin."
+    },
+    {
+     "title": "Onions",
+     "subtitle": "Galmi",
+     "text": "Sold across the region."
+    },
+    {
+     "title": "Livestock",
+     "subtitle": "Sahel",
+     "text": "Cattle and goats."
+    }
+   ],
+   "intro": "Some of the things Niger makes and sells to the world."
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Gold and cotton are Burkina Faso's main exports.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Gold mining has boomed since the 2000s. Cotton, shea nuts and sesame are big crops, and most people are subsistence farmers."
+   ],
+   "related": [
+    "CHE",
+    "IND"
+   ]
+  },
+  {
+   "id": "shea",
+   "title": "Shea",
+   "text": [
+    "Women's groups make shea butter for cosmetics sold worldwide."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Subsistence farming",
+   "meaning": "Growing food mainly for your own family."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Burkina Faso",
+   "items": [
+    {
+     "title": "Gold",
+     "subtitle": "Mines",
+     "text": "The top export."
+    },
+    {
+     "title": "Cotton",
+     "subtitle": "West",
+     "text": "A big crop."
+    },
+    {
+     "title": "Shea butter",
+     "subtitle": "Everywhere",
+     "text": "Made by women's co-ops."
+    },
+    {
+     "title": "Bronze casting",
+     "subtitle": "Ouagadougou",
+     "text": "Lost-wax sculptures."
+    }
+   ],
+   "intro": "Some of the things Burkina Faso makes and sells to the world."
+  }
+ ]
+}

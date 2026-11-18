@@ -1,0 +1,90 @@
+{
+ "status": "draft",
+ "intro": "Benin was home to the Kingdom of Dahomey, famous for its women soldiers, and is the birthplace of the Vodun religion.",
+ "chapters": [
+  {
+   "id": "dahomey",
+   "title": "The Kingdom of Dahomey",
+   "text": [
+    "Dahomey, ruled from Abomey from the 1600s, became a powerful kingdom. Its kings' palaces are now a World Heritage site. It had an all-female army, the Agojie, whom Europeans called 'Amazons'.",
+    "Dahomey grew rich by selling captives into the Atlantic slave trade through Ouidah."
+   ],
+   "highlight": {
+    "title": "The Agojie",
+    "text": "Women warriors who fought for Dahomey into the 1890s."
+   },
+   "related": [
+    "NGA",
+    "TGO",
+    "BRA"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "French Dahomey",
+   "text": [
+    "France defeated King Béhanzin and conquered Dahomey in 1894. It became independent in 1960 and was renamed Benin in 1975."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Democracy",
+   "text": [
+    "After a Marxist government, Benin held a national conference in 1990 that peacefully brought in democracy, a model copied elsewhere in Africa. In 2021 France returned 26 royal treasures looted from Abomey."
+   ],
+   "related": [
+    "FRA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1600",
+   "title": "Dahomey",
+   "text": "The kingdom is founded."
+  },
+  {
+   "year": "1727",
+   "title": "Ouidah",
+   "text": "Dahomey takes the port."
+  },
+  {
+   "year": "1894",
+   "title": "French conquest",
+   "text": "King Béhanzin is defeated."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "1 August."
+  },
+  {
+   "year": "1975",
+   "title": "Benin",
+   "text": "The new name."
+  },
+  {
+   "year": "1990",
+   "title": "National conference",
+   "text": "A peaceful move to democracy."
+  },
+  {
+   "year": "2021",
+   "title": "Treasures returned",
+   "text": "From France."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Vodun",
+   "meaning": "A religion from West Africa, origin of Haitian Vodou."
+  },
+  {
+   "term": "Agojie",
+   "meaning": "Dahomey's women soldiers."
+  }
+ ]
+}

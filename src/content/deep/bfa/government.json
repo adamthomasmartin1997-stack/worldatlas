@@ -1,0 +1,84 @@
+{
+ "status": "draft",
+ "intro": "Burkina Faso has been ruled by the military since 2022.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Who rules",
+   "text": [
+    "Captain Ibrahim Traoré leads a military government. Political party activity has been suspended. Burkina Faso left ECOWAS and joined Mali and Niger in the Alliance of Sahel States."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Ouagadougou"
+    },
+    {
+     "label": "Independence",
+     "value": "1960"
+    },
+    {
+     "label": "Leader",
+     "value": "Ibrahim Traoré"
+    }
+   ],
+   "related": [
+    "MLI",
+    "NER",
+    "RUS"
+   ]
+  },
+  {
+   "id": "security",
+   "title": "Insecurity",
+   "text": [
+    "Armed groups control parts of the country, and over two million people have fled their homes."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Junta",
+   "meaning": "A military government."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Transitional President",
+     "subtitle": "Military leader",
+     "text": "Holds power."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed",
+     "text": "Runs the government."
+    },
+    {
+     "title": "Transitional Legislative Assembly",
+     "subtitle": "Appointed",
+     "text": "A temporary parliament."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Decrees",
+    "text": "Issued by the transition."
+   },
+   {
+    "title": "Assembly",
+    "text": "The appointed assembly passes laws."
+   }
+  ]
+ }
+}

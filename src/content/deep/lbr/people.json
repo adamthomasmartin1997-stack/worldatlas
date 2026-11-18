@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Liberia has about 5.5 million people from 16 main ethnic groups.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Kpelle are the largest group. English is official, and Liberian English is spoken everywhere. Most people are Christian, with a Muslim minority."
+   ]
+  },
+  {
+   "id": "monrovia",
+   "title": "Monrovia",
+   "text": [
+    "About a quarter of people live in the capital, Monrovia."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kpelle",
+   "meaning": "Liberia's largest ethnic group."
+  }
+ ]
+}

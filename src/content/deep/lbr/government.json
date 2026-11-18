@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Liberia is a presidential republic modelled on the United States.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for six years. The Legislature has a Senate and a House of Representatives. Joseph Boakai became president in 2024."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Monrovia"
+    },
+    {
+     "label": "Independence",
+     "value": "1847"
+    },
+    {
+     "label": "Flag",
+     "value": "Modelled on the US flag"
+    }
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "peace",
+   "title": "Lasting peace",
+   "text": [
+    "Power has changed hands peacefully through elections since 2005."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Legislature",
+   "meaning": "A law-making body."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 6 years",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "30 members",
+     "text": "Two per county."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "73 members",
+     "text": "Elected in districts."
+    },
+    {
+     "title": "Counties",
+     "subtitle": "15 counties",
+     "text": "Local administration."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In either house."
+   },
+   {
+    "title": "Both houses",
+    "text": "Debate and pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Signs it or vetoes it."
+   }
+  ]
+ }
+}

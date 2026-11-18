@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Niger has been under military rule since the 2023 coup.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "Who rules",
+   "text": [
+    "General Abdourahamane Tchiani leads the military government and in 2025 was given a five-year transition. Niger left ECOWAS and joined the Alliance of Sahel States."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Niamey"
+    },
+    {
+     "label": "Independence",
+     "value": "1960"
+    },
+    {
+     "label": "Alliance",
+     "value": "Alliance of Sahel States"
+    }
+   ],
+   "related": [
+    "MLI",
+    "BFA"
+   ]
+  },
+  {
+   "id": "security",
+   "title": "Insecurity",
+   "text": [
+    "Armed groups are active in the west and south-east."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Transition",
+   "meaning": "A period before a promised return to civilian rule."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Head of State",
+     "subtitle": "Military leader",
+     "text": "Holds power since 2023."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed",
+     "text": "Runs the government."
+    },
+    {
+     "title": "Transitional council",
+     "subtitle": "Appointed",
+     "text": "Advises on laws."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Ordinances",
+    "text": "Issued by the military government."
+   },
+   {
+    "title": "Charter",
+    "text": "A transition charter sets the rules."
+   }
+  ]
+ }
+}

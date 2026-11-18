@@ -1,0 +1,78 @@
+{
+ "status": "draft",
+ "intro": "Togo is a narrow West African country that was a German colony, then French, and has been led by one family since 1967.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Early peoples",
+   "text": [
+    "Ewe, Kabye and other peoples lived here before Europeans arrived. The Batammariba built tall mud tower-houses in Koutammakou, now a World Heritage site."
+   ],
+   "related": [
+    "GHA",
+    "BEN"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "German and French Togo",
+   "text": [
+    "Germany made Togoland a colony in 1884. After World War One it was split between Britain and France; the British part later joined Ghana. French Togo became independent in 1960."
+   ],
+   "related": [
+    "DEU",
+    "FRA",
+    "GBR",
+    "GHA"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "The Gnassingbé era",
+   "text": [
+    "Gnassingbé Eyadéma took power in 1967 and ruled until his death in 2005. His son Faure Gnassingbé succeeded him. A 2024 constitution moved power to a new post of President of the Council of Ministers, which Faure took in 2025."
+   ],
+   "related": [
+    "GHA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1884",
+   "title": "German Togoland",
+   "text": "A colony is declared."
+  },
+  {
+   "year": "1914",
+   "title": "Occupation",
+   "text": "British and French troops take Togoland."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "27 April."
+  },
+  {
+   "year": "1967",
+   "title": "Eyadéma",
+   "text": "Takes power."
+  },
+  {
+   "year": "2005",
+   "title": "Faure Gnassingbé",
+   "text": "Succeeds his father."
+  },
+  {
+   "year": "2025",
+   "title": "New system",
+   "text": "A parliamentary constitution."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Togoland",
+   "meaning": "The German colony that included Togo."
+  }
+ ]
+}

@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Burkina Faso is a landlocked country of savanna and the dry Sahel, crossed by the Volta rivers.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "The country is mostly a flat plateau. The Black, Red and White Volta rivers flow south into Ghana. The south-west has the Sindou Peaks and the Karfiguéla waterfalls."
+   ],
+   "related": [
+    "MLI",
+    "NER",
+    "GHA",
+    "CIV",
+    "TGO",
+    "BEN"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The north is dry Sahel; most rain falls between June and September."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sahel",
+   "meaning": "The dry belt south of the Sahara."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Burkina Faso's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Ouagadougou",
+    "kind": "capital",
+    "lat": 12.37,
+    "lon": -1.52,
+    "text": "Home of FESPACO."
+   },
+   {
+    "name": "Tiébélé",
+    "kind": "painted village",
+    "lat": 11.1,
+    "lon": -0.97,
+    "text": "Houses painted with patterns."
+   },
+   {
+    "name": "Sindou Peaks",
+    "kind": "rock formations",
+    "lat": 10.67,
+    "lon": -5.17,
+    "text": "Sandstone pinnacles."
+   },
+   {
+    "name": "Karfiguéla Falls",
+    "kind": "waterfalls",
+    "lat": 10.73,
+    "lon": -4.82,
+    "text": "Cascades near Banfora."
+   },
+   {
+    "name": "Loropéni",
+    "kind": "stone ruins",
+    "lat": 10.3,
+    "lon": -3.55,
+    "text": "Ancient walls."
+   },
+   {
+    "name": "Bobo-Dioulasso",
+    "kind": "old city",
+    "lat": 11.18,
+    "lon": -4.3,
+    "text": "A mud mosque."
+   }
+  ]
+ }
+}

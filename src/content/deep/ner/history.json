@@ -1,0 +1,85 @@
+{
+ "status": "draft",
+ "intro": "Niger is a vast Saharan and Sahel country, once crossed by great caravan routes, with dinosaur fossils and Tuareg traditions.",
+ "chapters": [
+  {
+   "id": "ancient",
+   "title": "Green Sahara",
+   "text": [
+    "Rock carvings like the Dabous giraffes show the Sahara was once green. At Gobero, graves of people who lived by a lake 9,000 years ago have been found."
+   ],
+   "related": [
+    "DZA",
+    "LBY",
+    "TCD"
+   ]
+  },
+  {
+   "id": "empires",
+   "title": "Empires and Agadez",
+   "text": [
+    "Parts of Niger belonged to the Songhai and Kanem-Bornu empires and the Hausa states. Agadez, with its tall mud minaret, was a key stop for caravans crossing the Sahara."
+   ],
+   "related": [
+    "MLI",
+    "NGA",
+    "TCD"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Colony and independence",
+   "text": [
+    "France conquered the region in the 1890s and 1900s. Niger became independent in 1960. It has had several coups; in July 2023 the army overthrew elected president Mohamed Bazoum. French and US troops later left."
+   ],
+   "related": [
+    "FRA",
+    "USA",
+    "MLI",
+    "BFA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 7000 BC",
+   "title": "Gobero",
+   "text": "A lakeside settlement."
+  },
+  {
+   "year": "1400s",
+   "title": "Agadez",
+   "text": "A Saharan trading hub."
+  },
+  {
+   "year": "1922",
+   "title": "French colony",
+   "text": "Niger becomes a colony."
+  },
+  {
+   "year": "1960",
+   "title": "Independence",
+   "text": "3 August."
+  },
+  {
+   "year": "2021",
+   "title": "Peaceful handover",
+   "text": "A first transfer between elected presidents."
+  },
+  {
+   "year": "2023",
+   "title": "Coup",
+   "text": "The army takes power."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Caravan",
+   "meaning": "A group of traders travelling together across a desert."
+  },
+  {
+   "term": "Tuareg",
+   "meaning": "A Saharan people famous for indigo veils."
+  }
+ ]
+}

@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Togo's economy relies on its deep-water port, phosphates and farming.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "The port of Lomé is one of West Africa's busiest container ports. Phosphates, cotton, cocoa and coffee are exported."
+   ],
+   "related": [
+    "BFA",
+    "NER"
+   ]
+  },
+  {
+   "id": "farming",
+   "title": "Farming",
+   "text": [
+    "Most people farm maize, yams and cassava."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Deep-water port",
+   "meaning": "A port big ships can enter."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Togo",
+   "items": [
+    {
+     "title": "Phosphates",
+     "subtitle": "South",
+     "text": "Mined for fertiliser."
+    },
+    {
+     "title": "Cotton",
+     "subtitle": "North",
+     "text": "A key crop."
+    },
+    {
+     "title": "Port services",
+     "subtitle": "Lomé",
+     "text": "A regional hub."
+    }
+   ],
+   "intro": "Some of the things Togo makes and sells to the world."
+  }
+ ]
+}

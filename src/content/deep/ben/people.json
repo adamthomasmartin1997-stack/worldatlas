@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Benin has about 14 million people from over 40 ethnic groups.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Fon, Adja, Yoruba and Bariba are among the largest groups. French is official. Christianity, Islam and Vodun are all widely practised, often side by side."
+   ],
+   "related": [
+    "NGA",
+    "TGO"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Cotonou is the biggest city; Porto-Novo is the official capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Fon",
+   "meaning": "Benin's largest ethnic group."
+  }
+ ]
+}

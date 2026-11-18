@@ -1,0 +1,79 @@
+{
+ "status": "draft",
+ "intro": "Football is the most popular sport in Benin.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Squirrels reached the quarter-finals of the 2019 Africa Cup of Nations, their best result."
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Handball, athletics and traditional wrestling are also played."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Squirrels",
+   "meaning": "The national team's nickname."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Benin Premier League",
+     "subtitle": "Football",
+     "text": "Dragons de l'Ouémé are a big club."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Stéphane Sessègnon",
+     "subtitle": "Football",
+     "text": "Played in the Premier League."
+    },
+    {
+     "title": "Steve Mounié",
+     "subtitle": "Football",
+     "text": "A striker in Europe."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Benin's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Stade de l'Amitié, Cotonou",
+    "kind": "venue",
+    "lat": 6.39,
+    "lon": 2.37,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2019",
+    "title": "AFCON quarter-final",
+    "text": "Benin's best run."
+   }
+  ]
+ }
+}

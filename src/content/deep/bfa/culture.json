@@ -1,0 +1,101 @@
+{
+ "status": "draft",
+ "intro": "Burkina Faso is called the capital of African cinema, and is famous for masks and crafts.",
+ "chapters": [
+  {
+   "id": "film",
+   "title": "FESPACO",
+   "text": [
+    "Every two years Ouagadougou hosts FESPACO, Africa's biggest film festival. The SIAO crafts fair draws artisans from across Africa."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Tô (millet porridge) with okra sauce, riz gras and grilled chicken are everyday food."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "FESPACO",
+   "meaning": "The Pan-African Film and Television Festival of Ouagadougou."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Yaaba",
+     "subtitle": "1989 · Idrissa Ouédraogo",
+     "text": "Children befriend an old woman."
+    },
+    {
+     "title": "Tilaï",
+     "subtitle": "1990 · Idrissa Ouédraogo",
+     "text": "Won a prize at Cannes."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Balafon",
+     "subtitle": "Instrument",
+     "text": "A wooden xylophone."
+    },
+    {
+     "title": "Victor Démé",
+     "subtitle": "Singer",
+     "text": "Mandingo blues."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Tô",
+     "subtitle": "Everywhere",
+     "text": "Millet porridge."
+    },
+    {
+     "title": "Riz gras",
+     "subtitle": "Celebrations",
+     "text": "Rice cooked in rich sauce."
+    },
+    {
+     "title": "Dolo",
+     "subtitle": "Villages",
+     "text": "Millet beer."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "FESPACO",
+    "text": "Film festival in odd years."
+   },
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "5 August."
+   },
+   {
+    "month": 10,
+    "name": "SIAO",
+    "text": "Crafts fair in even years."
+   }
+  ]
+ }
+}

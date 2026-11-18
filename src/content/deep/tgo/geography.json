@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Togo is only about 50 km wide at its coast but stretches over 500 km inland.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "Lagoons line the short coast. The Togo Mountains cross the middle, with Mont Agou the highest point. The north is savanna."
+   ],
+   "related": [
+    "GHA",
+    "BEN",
+    "BFA"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The climate is tropical, drier in the north."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Savanna",
+   "meaning": "Grassland with scattered trees."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Togo's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Koutammakou",
+    "kind": "tower houses",
+    "lat": 10.0,
+    "lon": 1.2,
+    "text": "Mud tower-houses of the Batammariba."
+   },
+   {
+    "name": "Kara",
+    "kind": "northern town",
+    "lat": 9.55,
+    "lon": 1.19,
+    "text": "Home of the Evala festival."
+   },
+   {
+    "name": "Kpalimé",
+    "kind": "green hills",
+    "lat": 6.9,
+    "lon": 0.63,
+    "text": "Forests and waterfalls."
+   },
+   {
+    "name": "Mont Agou",
+    "kind": "mountain",
+    "lat": 6.86,
+    "lon": 0.75,
+    "text": "The highest point."
+   },
+   {
+    "name": "Lake Togo",
+    "kind": "lagoon",
+    "lat": 6.25,
+    "lon": 1.42,
+    "text": "A lagoon by the sea."
+   },
+   {
+    "name": "Lomé",
+    "kind": "capital",
+    "lat": 6.13,
+    "lon": 1.22,
+    "text": "A seaside capital."
+   }
+  ]
+ }
+}

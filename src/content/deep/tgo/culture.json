@@ -1,0 +1,75 @@
+{
+ "status": "draft",
+ "intro": "Togolese culture is famous for its markets, fetish market and festivals.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "The Akodessewa market in Lomé sells items used in Vodun. The Evala wrestling festival is a rite of passage for young Kabye men."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Fufu, akoumé (maize dough) and spicy peanut sauces are common."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Evala",
+   "meaning": "A Kabye wrestling festival."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Bella Bellow",
+     "subtitle": "Singer",
+     "text": "A 1960s star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Fufu",
+     "subtitle": "Everywhere",
+     "text": "Pounded yam."
+    },
+    {
+     "title": "Akoumé",
+     "subtitle": "Everywhere",
+     "text": "Maize dough."
+    },
+    {
+     "title": "Ademe",
+     "subtitle": "Everywhere",
+     "text": "Jute-leaf sauce."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Independence Day",
+    "text": "27 April."
+   },
+   {
+    "month": 7,
+    "name": "Evala",
+    "text": "Kabye wrestling festival."
+   }
+  ]
+ }
+}

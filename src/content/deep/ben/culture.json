@@ -1,0 +1,85 @@
+{
+ "status": "draft",
+ "intro": "Benin's culture is shaped by Vodun, royal arts and music.",
+ "chapters": [
+  {
+   "id": "vodun",
+   "title": "Vodun",
+   "text": [
+    "Vodun Day, 10 January, is a national holiday with ceremonies in Ouidah. Vodun travelled with enslaved Africans to Haiti, Brazil and the US."
+   ],
+   "related": [
+    "HTI",
+    "BRA",
+    "USA"
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music",
+   "text": [
+    "Angélique Kidjo, from Cotonou, has won five Grammy Awards."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ouidah",
+   "meaning": "A historic port and Vodun centre."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Agolo",
+     "subtitle": "Angélique Kidjo, 1994",
+     "text": "A global hit."
+    },
+    {
+     "title": "Orchestre Poly-Rythmo",
+     "subtitle": "Band",
+     "text": "Funky 1970s sounds from Cotonou."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Akassa",
+     "subtitle": "Everywhere",
+     "text": "Fermented maize dough."
+    },
+    {
+     "title": "Amiwo",
+     "subtitle": "Everywhere",
+     "text": "Red maize paste."
+    },
+    {
+     "title": "Wagasi",
+     "subtitle": "North",
+     "text": "A soft Fula cheese."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Vodun Days",
+    "text": "Festivals in Ouidah."
+   },
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "1 August."
+   }
+  ]
+ }
+}

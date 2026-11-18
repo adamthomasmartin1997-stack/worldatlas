@@ -1,0 +1,85 @@
+{
+ "status": "draft",
+ "intro": "Niger's culture includes Tuareg silverwork, Fula festivals and Hausa traditions.",
+ "chapters": [
+  {
+   "id": "festivals",
+   "title": "Festivals",
+   "text": [
+    "At the Gerewol, Wodaabe Fula men paint their faces and dance to impress women. The Cure Salée brings herders together at the end of the rainy season."
+   ]
+  },
+  {
+   "id": "crafts",
+   "title": "Crafts",
+   "text": [
+    "The silver Agadez cross is a famous Tuareg jewel."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Gerewol",
+   "meaning": "A Wodaabe courtship festival."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Tuareg guitar",
+     "subtitle": "Bombino",
+     "text": "Desert blues from Agadez."
+    },
+    {
+     "title": "Mamar Kassey",
+     "subtitle": "Band",
+     "text": "Songhai music."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Djerma stew",
+     "subtitle": "Everywhere",
+     "text": "Millet with sauce."
+    },
+    {
+     "title": "Kilishi",
+     "subtitle": "Street food",
+     "text": "Dried spiced meat."
+    },
+    {
+     "title": "Fura",
+     "subtitle": "Everywhere",
+     "text": "Millet balls in milk."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "3 August."
+   },
+   {
+    "month": 9,
+    "name": "Cure Salée",
+    "text": "Herders' gathering in In-Gall."
+   },
+   {
+    "month": 12,
+    "name": "Republic Day",
+    "text": "18 December."
+   }
+  ]
+ }
+}

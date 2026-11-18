@@ -1,0 +1,89 @@
+{
+ "status": "draft",
+ "intro": "Traditional wrestling is Niger's national sport.",
+ "chapters": [
+  {
+   "id": "wrestling",
+   "title": "Wrestling",
+   "text": [
+    "The national wrestling championship, lutte traditionnelle, is the biggest sporting event of the year."
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics",
+   "text": [
+    "Abdoul Razak Issoufou won taekwondo silver in 2016. Boxer Issaka Daboré won bronze in 1972."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lutte traditionnelle",
+   "meaning": "Traditional wrestling."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Lutte traditionnelle",
+     "subtitle": "Wrestling",
+     "text": "The national championship."
+    },
+    {
+     "title": "Niger Premier League",
+     "subtitle": "Football",
+     "text": "The top league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Abdoul Razak Issoufou",
+     "subtitle": "Taekwondo",
+     "text": "Olympic silver 2016."
+    },
+    {
+     "title": "Issaka Daboré",
+     "subtitle": "Boxing",
+     "text": "Olympic bronze 1972."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Niger's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Stade Général Seyni Kountché",
+    "kind": "venue",
+    "lat": 13.52,
+    "lon": 2.11,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1972",
+    "title": "First Olympic medal",
+    "text": "Boxing bronze."
+   },
+   {
+    "year": "2016",
+    "title": "Olympic silver",
+    "text": "Taekwondo in Rio."
+   }
+  ]
+ }
+}

@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Benin's economy rests on cotton, cashews and the port of Cotonou.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Benin is one of Africa's largest cotton producers. Cotonou's port handles goods for Niger and other landlocked neighbours, and much trade crosses the border with Nigeria."
+   ],
+   "related": [
+    "NGA",
+    "NER"
+   ]
+  },
+  {
+   "id": "pineapple",
+   "title": "Fruit",
+   "text": [
+    "Sweet pineapples and cashews are growing exports."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Re-export",
+   "meaning": "Selling imported goods on to another country."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Benin",
+   "items": [
+    {
+     "title": "Cotton",
+     "subtitle": "North",
+     "text": "The top export."
+    },
+    {
+     "title": "Cashews",
+     "subtitle": "Centre",
+     "text": "A growing crop."
+    },
+    {
+     "title": "Pineapples",
+     "subtitle": "South",
+     "text": "Sweet varieties."
+    },
+    {
+     "title": "Port services",
+     "subtitle": "Cotonou",
+     "text": "A trade gateway."
+    }
+   ],
+   "intro": "Some of the things Benin makes and sells to the world."
+  }
+ ]
+}

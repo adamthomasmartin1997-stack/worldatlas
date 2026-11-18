@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Liberia is Africa's oldest republic, founded with the help of an American society for freed Black Americans, and it was never colonised.",
+ "chapters": [
+  {
+   "id": "founding",
+   "title": "Founding",
+   "text": [
+    "Indigenous peoples such as the Kpelle, Bassa, Gio and Kru lived here. From 1822 the American Colonization Society settled freed and freeborn Black Americans on the coast. Liberia declared independence in 1847, and its capital, Monrovia, is named after US President James Monroe.",
+    "Americo-Liberian settlers ruled for over a century and excluded Indigenous peoples from power."
+   ],
+   "related": [
+    "USA",
+    "SLE",
+    "GIN",
+    "CIV"
+   ]
+  },
+  {
+   "id": "war",
+   "title": "Coups and civil wars",
+   "text": [
+    "In 1980 Samuel Doe seized power. Two civil wars from 1989 to 2003, involving Charles Taylor and others, killed around 250,000 people, and child soldiers were used."
+   ],
+   "related": [
+    "SLE"
+   ]
+  },
+  {
+   "id": "peace",
+   "title": "Peace",
+   "text": [
+    "Women's peace protests, led by Leymah Gbowee, helped end the war. In 2005 Ellen Johnson Sirleaf became Africa's first elected woman head of state. Both won the Nobel Peace Prize in 2011. An Ebola epidemic struck in 2014."
+   ],
+   "highlight": {
+    "title": "Firsts",
+    "text": "Ellen Johnson Sirleaf was Africa's first elected woman president."
+   }
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1822",
+   "title": "Settlement",
+   "text": "The first settlers arrive."
+  },
+  {
+   "year": "1847",
+   "title": "Independence",
+   "text": "26 July."
+  },
+  {
+   "year": "1980",
+   "title": "Coup",
+   "text": "Samuel Doe takes power."
+  },
+  {
+   "year": "1989",
+   "title": "Civil war",
+   "text": "Until 2003, with a break."
+  },
+  {
+   "year": "2005",
+   "title": "Sirleaf elected",
+   "text": "Africa's first elected woman president."
+  },
+  {
+   "year": "2014",
+   "title": "Ebola",
+   "text": "An epidemic."
+  },
+  {
+   "year": "2017",
+   "title": "George Weah",
+   "text": "The footballer becomes president."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Americo-Liberians",
+   "meaning": "Descendants of the American settlers."
+  },
+  {
+   "term": "Ebola",
+   "meaning": "A deadly virus disease."
+  }
+ ]
+}

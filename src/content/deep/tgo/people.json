@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Togo has about 9 million people from around 40 ethnic groups.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Ewe live mainly in the south and the Kabye in the north. French is official; Ewe and Kabye are national languages. Christianity, Islam and traditional religions are all practised."
+   ],
+   "related": [
+    "GHA"
+   ]
+  },
+  {
+   "id": "lome",
+   "title": "Lomé",
+   "text": [
+    "Lomé, the capital, sits right on the border with Ghana."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ewe",
+   "meaning": "A people of Togo and Ghana."
+  }
+ ]
+}

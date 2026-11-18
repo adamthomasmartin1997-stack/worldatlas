@@ -1,0 +1,81 @@
+{
+ "status": "draft",
+ "intro": "Benin is a narrow country stretching from lagoons on the Atlantic to savanna in the north.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "The south has lagoons and Ganvié, a village built on stilts in Lake Nokoué. The north has the Atakora hills and Pendjari National Park, one of the last refuges of West African lions."
+   ],
+   "related": [
+    "NGA",
+    "TGO",
+    "BFA",
+    "NER"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The south has two rainy seasons; the north one."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Stilt village",
+   "meaning": "Houses built on poles above water."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Benin's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Pendjari",
+    "kind": "national park",
+    "lat": 11.0,
+    "lon": 1.5,
+    "text": "Lions and elephants."
+   },
+   {
+    "name": "Atakora",
+    "kind": "hills",
+    "lat": 10.3,
+    "lon": 1.4,
+    "text": "Tata Somba fortress houses."
+   },
+   {
+    "name": "Abomey",
+    "kind": "royal palaces",
+    "lat": 7.18,
+    "lon": 1.99,
+    "text": "The kings' palaces."
+   },
+   {
+    "name": "Ganvié",
+    "kind": "stilt village",
+    "lat": 6.47,
+    "lon": 2.42,
+    "text": "A town on a lake."
+   },
+   {
+    "name": "Ouidah",
+    "kind": "historic port",
+    "lat": 6.36,
+    "lon": 2.09,
+    "text": "The Door of No Return."
+   },
+   {
+    "name": "Porto-Novo",
+    "kind": "capital",
+    "lat": 6.5,
+    "lon": 2.6,
+    "text": "The official capital."
+   }
+  ]
+ }
+}

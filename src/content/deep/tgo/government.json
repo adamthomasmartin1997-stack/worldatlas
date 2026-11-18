@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Togo has a new parliamentary system adopted in 2024, but the same family has held power since 1967.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The President of the Council of Ministers leads the government and is chosen by parliament; the president of the republic is ceremonial. Critics say the change lets Faure Gnassingbé stay in power without term limits."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Lomé"
+    },
+    {
+     "label": "Independence",
+     "value": "1960"
+    },
+    {
+     "label": "Leader",
+     "value": "Faure Gnassingbé"
+    }
+   ]
+  },
+  {
+   "id": "protest",
+   "title": "Protests",
+   "text": [
+    "Protests in 2025 against the changes were met with force."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Term limit",
+   "meaning": "A rule that limits how long a leader can serve."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "President of the Council",
+     "subtitle": "Chosen by parliament",
+     "text": "Leads the government."
+    },
+    {
+     "title": "President of the Republic",
+     "subtitle": "Chosen by parliament",
+     "text": "Ceremonial."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "113 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "Partly appointed",
+     "text": "The upper house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "Parliament",
+    "text": "Debates and passes it."
+   },
+   {
+    "title": "Signed",
+    "text": "By the president of the republic."
+   }
+  ]
+ }
+}

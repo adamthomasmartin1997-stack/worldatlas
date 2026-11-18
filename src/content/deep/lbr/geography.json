@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Liberia has a rainy Atlantic coast and some of West Africa's largest remaining rainforest.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Forests and coast",
+   "text": [
+    "The coast has beaches and mangroves. Inland, hills rise to Mount Wuteve. Sapo National Park protects rainforest with pygmy hippos and forest elephants."
+   ],
+   "related": [
+    "SLE",
+    "GIN",
+    "CIV"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Rain",
+   "text": [
+    "Monrovia is one of the wettest capitals in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pygmy hippo",
+   "meaning": "A small, shy hippo of West African forests."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Liberia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Monrovia",
+    "kind": "capital",
+    "lat": 6.3,
+    "lon": -10.8,
+    "text": "Named after James Monroe."
+   },
+   {
+    "name": "Robertsport",
+    "kind": "surf beach",
+    "lat": 6.75,
+    "lon": -11.37,
+    "text": "Famous surf waves."
+   },
+   {
+    "name": "Lake Piso",
+    "kind": "lagoon",
+    "lat": 6.75,
+    "lon": -11.25,
+    "text": "A coastal lake."
+   },
+   {
+    "name": "Sapo National Park",
+    "kind": "rainforest",
+    "lat": 5.35,
+    "lon": -8.65,
+    "text": "Pygmy hippos."
+   },
+   {
+    "name": "Mount Nimba",
+    "kind": "iron mountain",
+    "lat": 7.55,
+    "lon": -8.5,
+    "text": "Iron ore and rare species."
+   },
+   {
+    "name": "Harper",
+    "kind": "coastal town",
+    "lat": 4.37,
+    "lon": -7.72,
+    "text": "Historic houses."
+   }
+  ]
+ }
+}

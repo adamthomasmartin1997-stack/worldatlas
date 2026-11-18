@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Niger is one of the largest countries in West Africa, and about four-fifths of it is desert.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Desert and river",
+   "text": [
+    "The Aïr Mountains and the Ténéré desert cover the north. The Niger River flows through the south-west past Niamey. Lake Chad lies in the far south-east, though it has shrunk."
+   ],
+   "related": [
+    "DZA",
+    "LBY",
+    "TCD",
+    "NGA",
+    "BEN",
+    "BFA",
+    "MLI"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "It is one of the hottest countries in the world, and droughts are common."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ténéré",
+   "meaning": "A sandy desert region of the Sahara."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Niger's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Aïr Mountains",
+    "kind": "mountains",
+    "lat": 18.0,
+    "lon": 8.5,
+    "text": "Volcanic mountains and oases."
+   },
+   {
+    "name": "Ténéré desert",
+    "kind": "sand sea",
+    "lat": 19.0,
+    "lon": 11.0,
+    "text": "A vast sandy desert."
+   },
+   {
+    "name": "Agadez",
+    "kind": "desert city",
+    "lat": 16.97,
+    "lon": 7.99,
+    "text": "A tall mud minaret."
+   },
+   {
+    "name": "Dabous",
+    "kind": "rock art",
+    "lat": 17.6,
+    "lon": 7.4,
+    "text": "Life-size giraffe carvings."
+   },
+   {
+    "name": "Niamey",
+    "kind": "capital",
+    "lat": 13.51,
+    "lon": 2.11,
+    "text": "On the Niger River."
+   },
+   {
+    "name": "W National Park",
+    "kind": "savanna park",
+    "lat": 12.3,
+    "lon": 2.5,
+    "text": "Shared with Benin and Burkina Faso."
+   },
+   {
+    "name": "Lake Chad",
+    "kind": "lake",
+    "lat": 13.5,
+    "lon": 13.5,
+    "text": "A shrinking lake."
+   }
+  ]
+ }
+}
