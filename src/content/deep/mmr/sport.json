@@ -1,0 +1,106 @@
+{
+ "status": "draft",
+ "intro": "Football and the traditional games chinlone and lethwei are Myanmar's most popular sports.",
+ "chapters": [
+  {
+   "id": "traditional",
+   "title": "Chinlone and lethwei",
+   "text": [
+    "In chinlone, players keep a cane ball in the air with their feet, more like dance than competition. Lethwei, Burmese boxing, allows head butts."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Burma won football gold at the Asian Games in 1966 and 1970."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Chinlone",
+   "meaning": "A team game of keeping a cane ball in the air."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Myanmar National League",
+     "subtitle": "Football",
+     "text": "Yangon United are a top club."
+    },
+    {
+     "title": "Lethwei",
+     "subtitle": "Burmese boxing",
+     "text": "Bare-knuckle fights."
+    },
+    {
+     "title": "Chinlone",
+     "subtitle": "Cane ball",
+     "text": "A festival tradition."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Aung Thu",
+     "subtitle": "Football",
+     "text": "A striker who starred in Thailand's league."
+    },
+    {
+     "title": "Tun Tun Min",
+     "subtitle": "Lethwei",
+     "text": "A famous bare-knuckle champion."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Myanmar's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Thuwunna Stadium, Yangon",
+    "kind": "venue",
+    "lat": 16.83,
+    "lon": 96.2,
+    "text": "The national stadium."
+   },
+   {
+    "name": "Wunna Theikdi Stadium",
+    "kind": "venue",
+    "lat": 19.73,
+    "lon": 96.13,
+    "text": "Built for the 2013 SEA Games."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1966",
+    "title": "Asian Games gold",
+    "text": "Football champions."
+   },
+   {
+    "year": "1970",
+    "title": "Asian Games again",
+    "text": "Shared gold."
+   },
+   {
+    "year": "2013",
+    "title": "SEA Games",
+    "text": "Hosted in Naypyidaw."
+   }
+  ]
+ }
+}

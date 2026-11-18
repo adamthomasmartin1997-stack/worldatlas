@@ -1,0 +1,97 @@
+{
+ "status": "draft",
+ "intro": "Laos is a mountainous, forested, landlocked country with the Mekong River along its western side.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mountains and the Mekong",
+   "text": [
+    "About three-quarters of Laos is mountains and plateaus; Phou Bia, 2,818 m, is the highest peak. The Mekong forms much of the border with Thailand, and in the south it spreads into Si Phan Don, 'four thousand islands'.",
+    "The Plain of Jars is covered with hundreds of ancient stone jars whose purpose is still debated."
+   ],
+   "related": [
+    "THA",
+    "VNM",
+    "KHM",
+    "CHN",
+    "MMR"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Laos is tropical, with a rainy season from May to October."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Landlocked",
+   "meaning": "With no coastline."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Laos' landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Luang Prabang",
+    "kind": "royal town",
+    "lat": 19.89,
+    "lon": 102.13,
+    "text": "Temples and monks on a Mekong peninsula."
+   },
+   {
+    "name": "Nong Khiaw",
+    "kind": "karst valley",
+    "lat": 20.57,
+    "lon": 102.61,
+    "text": "Limestone peaks above a river."
+   },
+   {
+    "name": "Plain of Jars",
+    "kind": "stone jars",
+    "lat": 19.43,
+    "lon": 103.15,
+    "text": "Hundreds of ancient jars."
+   },
+   {
+    "name": "Vang Vieng",
+    "kind": "karst and caves",
+    "lat": 18.92,
+    "lon": 102.45,
+    "text": "Lagoons and limestone cliffs."
+   },
+   {
+    "name": "Vientiane",
+    "kind": "capital",
+    "lat": 17.97,
+    "lon": 102.6,
+    "text": "The golden Pha That Luang."
+   },
+   {
+    "name": "Kong Lor Cave",
+    "kind": "river cave",
+    "lat": 17.95,
+    "lon": 104.8,
+    "text": "A river flows 7 km through a mountain."
+   },
+   {
+    "name": "Bolaven Plateau",
+    "kind": "coffee plateau",
+    "lat": 15.2,
+    "lon": 106.3,
+    "text": "Waterfalls and coffee farms."
+   },
+   {
+    "name": "Si Phan Don",
+    "kind": "river islands",
+    "lat": 14.0,
+    "lon": 105.9,
+    "text": "'Four thousand islands' and waterfalls."
+   }
+  ]
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "status": "draft",
+ "intro": "Football and badminton are popular in Brunei, along with traditional boat races.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "DPMM FC, owned by the Crown Prince, played in Singapore's league and won it in 2015 and 2019."
+   ],
+   "related": [
+    "SGP"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Brunei sends small teams to the Olympics and the Southeast Asian Games."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Regatta",
+   "meaning": "A series of boat races."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Brunei Super League",
+     "subtitle": "Football",
+     "text": "The top league."
+    },
+    {
+     "title": "DPMM FC",
+     "subtitle": "Football",
+     "text": "Played in Singapore's league."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Brunei's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Hassanal Bolkiah National Stadium",
+    "kind": "venue",
+    "lat": 4.94,
+    "lon": 114.92,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2015",
+    "title": "DPMM champions",
+    "text": "Win Singapore's league."
+   },
+   {
+    "year": "2019",
+    "title": "Champions again",
+    "text": "A second title."
+   }
+  ]
+ }
+}

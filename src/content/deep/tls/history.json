@@ -1,0 +1,95 @@
+{
+ "status": "draft",
+ "intro": "Timor-Leste, or East Timor, became the first new country of the 21st century in 2002, after centuries of Portuguese rule and a long struggle against Indonesian occupation.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Sandalwood island",
+   "text": [
+    "Timor was famous for sandalwood, traded with China and Java for centuries. Local kingdoms ruled the island."
+   ],
+   "related": [
+    "CHN",
+    "IDN"
+   ]
+  },
+  {
+   "id": "portugal",
+   "title": "Portuguese Timor",
+   "text": [
+    "Portugal arrived in the 1500s and ruled the eastern half, while the Dutch took the west, which became part of Indonesia. Catholicism spread under Portuguese rule.",
+    "During World War Two, Australian soldiers fought the Japanese here with help from Timorese people, tens of thousands of whom died."
+   ],
+   "related": [
+    "PRT",
+    "NLD",
+    "AUS",
+    "JPN"
+   ]
+  },
+  {
+   "id": "occupation",
+   "title": "Occupation and independence",
+   "text": [
+    "Portugal left in 1975, and nine days after independence was declared, Indonesia invaded. Under Indonesian occupation, over 100,000 people died from violence, hunger and disease.",
+    "In 1999 Timorese voted overwhelmingly for independence in a UN referendum. Militias destroyed much of the country before international peacekeepers arrived. Timor-Leste became independent on 20 May 2002, and in 2025 it joined ASEAN."
+   ],
+   "highlight": {
+    "title": "Nobel Prize",
+    "text": "José Ramos-Horta and Bishop Carlos Belo shared the 1996 Nobel Peace Prize."
+   },
+   "related": [
+    "IDN",
+    "AUS",
+    "PRT"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1500s",
+   "title": "Portuguese arrive",
+   "text": "Sandalwood trade."
+  },
+  {
+   "year": "1942",
+   "title": "Japanese invasion",
+   "text": "Australians fight alongside Timorese."
+  },
+  {
+   "year": "1975",
+   "title": "Indonesian invasion",
+   "text": "7 December."
+  },
+  {
+   "year": "1991",
+   "title": "Santa Cruz massacre",
+   "text": "Filmed and seen worldwide."
+  },
+  {
+   "year": "1999",
+   "title": "Referendum",
+   "text": "78.5% vote for independence."
+  },
+  {
+   "year": "2002",
+   "title": "Independence",
+   "text": "20 May."
+  },
+  {
+   "year": "2025",
+   "title": "Joins ASEAN",
+   "text": "The 11th member."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Referendum",
+   "meaning": "A public vote on a single question."
+  },
+  {
+   "term": "Peacekeepers",
+   "meaning": "International troops sent to keep peace."
+  }
+ ]
+}

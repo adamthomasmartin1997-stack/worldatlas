@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Brunei has about 450,000 people, mostly Malay Muslims.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Malays are the majority, with Chinese and Indigenous minorities. Malay is the official language and English is widely used. Islam is the state religion."
+   ],
+   "related": [
+    "MYS",
+    "CHN"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Life",
+   "text": [
+    "Citizens pay no income tax and get free schooling and health care."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Melayu Islam Beraja",
+   "meaning": "'Malay Islamic Monarchy', Brunei's national philosophy."
+  }
+ ]
+}

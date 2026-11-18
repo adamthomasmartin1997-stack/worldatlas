@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Cambodia's economy has grown fast on clothing exports, tourism and farming.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Garment and shoe factories employ hundreds of thousands. Rice, rubber and cashews are big crops, and Angkor draws millions of tourists.",
+    "US dollars are used alongside the Cambodian riel."
+   ],
+   "related": [
+    "USA",
+    "CHN"
+   ]
+  },
+  {
+   "id": "landmines",
+   "title": "Landmines",
+   "text": [
+    "Decades of war left millions of landmines; trained rats and dogs help clear them."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Riel",
+   "meaning": "Cambodia's currency."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Cambodia",
+   "items": [
+    {
+     "title": "Clothes and shoes",
+     "subtitle": "Phnom Penh",
+     "text": "Big exports."
+    },
+    {
+     "title": "Rice",
+     "subtitle": "Battambang",
+     "text": "Fragrant jasmine rice."
+    },
+    {
+     "title": "Kampot pepper",
+     "subtitle": "Kampot",
+     "text": "A protected product."
+    },
+    {
+     "title": "Cashews",
+     "subtitle": "North-east",
+     "text": "A top producer."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Angkor",
+     "text": "Millions of visitors."
+    }
+   ],
+   "intro": "Some of the things Cambodia makes and sells to the world."
+  }
+ ]
+}

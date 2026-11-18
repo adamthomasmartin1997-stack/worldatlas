@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Singapore is a small, flat, tropical island at the tip of the Malay Peninsula, made bigger by land reclaimed from the sea.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "A growing island",
+   "text": [
+    "The main island and over 60 small islets cover about 735 km², around a quarter more than in 1965 thanks to land reclamation. The highest point, Bukit Timah, is only 163 m.",
+    "The Johor Strait separates it from Malaysia, crossed by a causeway."
+   ],
+   "related": [
+    "MYS",
+    "IDN"
+   ]
+  },
+  {
+   "id": "green",
+   "title": "City in a garden",
+   "text": [
+    "Despite being crowded, Singapore keeps rainforest reserves, parks and the Gardens by the Bay with giant 'Supertrees'."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Land reclamation",
+   "meaning": "Making new land by filling in the sea."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Singapore's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Bukit Timah",
+    "kind": "rainforest hill",
+    "lat": 1.35,
+    "lon": 103.78,
+    "text": "The highest point, 163 m."
+   },
+   {
+    "name": "Sungei Buloh",
+    "kind": "wetland",
+    "lat": 1.45,
+    "lon": 103.73,
+    "text": "Mangroves and crocodiles."
+   },
+   {
+    "name": "Marina Bay",
+    "kind": "waterfront",
+    "lat": 1.28,
+    "lon": 103.86,
+    "text": "Skyscrapers and Gardens by the Bay."
+   },
+   {
+    "name": "Pulau Ubin",
+    "kind": "island",
+    "lat": 1.41,
+    "lon": 103.96,
+    "text": "An old-style village island."
+   },
+   {
+    "name": "Sentosa",
+    "kind": "resort island",
+    "lat": 1.25,
+    "lon": 103.83,
+    "text": "Beaches and theme parks."
+   },
+   {
+    "name": "Chinatown",
+    "kind": "heritage district",
+    "lat": 1.28,
+    "lon": 103.84,
+    "text": "Shophouses and temples."
+   }
+  ]
+ }
+}

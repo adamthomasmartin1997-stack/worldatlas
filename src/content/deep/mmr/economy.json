@@ -1,0 +1,64 @@
+{
+ "status": "draft",
+ "intro": "Myanmar is rich in jade, gems, gas and farmland, but war has badly damaged its economy.",
+ "chapters": [
+  {
+   "id": "resources",
+   "title": "Resources",
+   "text": [
+    "Myanmar produces most of the world's jadeite jade and famous rubies. It exports natural gas to Thailand and China, and rice, beans and clothing."
+   ],
+   "related": [
+    "CHN",
+    "THA"
+   ]
+  },
+  {
+   "id": "crisis",
+   "title": "Crisis",
+   "text": [
+    "Since 2021 many businesses have left, prices have soared, and millions have been pushed into poverty."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Jade",
+   "meaning": "A hard green stone prized for carving."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Myanmar",
+   "items": [
+    {
+     "title": "Jade",
+     "subtitle": "Kachin",
+     "text": "Most of the world's jadeite."
+    },
+    {
+     "title": "Rubies",
+     "subtitle": "Mogok",
+     "text": "Famous 'pigeon's blood' rubies."
+    },
+    {
+     "title": "Natural gas",
+     "subtitle": "Offshore",
+     "text": "Sold to Thailand and China."
+    },
+    {
+     "title": "Rice",
+     "subtitle": "Delta",
+     "text": "A traditional export."
+    },
+    {
+     "title": "Teak",
+     "subtitle": "Forests",
+     "text": "Hard, valuable wood."
+    }
+   ],
+   "intro": "Some of the things Myanmar makes and sells to the world."
+  }
+ ]
+}

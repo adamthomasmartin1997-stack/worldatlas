@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Timor-Leste has about 1.4 million people and one of the youngest populations in Asia.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People and languages",
+   "text": [
+    "Tetum and Portuguese are official languages, Indonesian and English are working languages, and over 30 local languages are spoken. About 97% of people are Catholic, one of the highest shares in the world."
+   ],
+   "related": [
+    "PRT",
+    "IDN"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Life",
+   "text": [
+    "Most people live in rural areas and farm. Dili is the capital and largest town."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tetum",
+   "meaning": "Timor-Leste's main local language."
+  }
+ ]
+}

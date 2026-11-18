@@ -1,0 +1,95 @@
+{
+ "status": "draft",
+ "intro": "Cambodia is a low-lying country around a great lake, the Tonlé Sap, and the Mekong River.",
+ "chapters": [
+  {
+   "id": "water",
+   "title": "The lake that changes size",
+   "text": [
+    "In the rainy season the Mekong floods so much that the Tonlé Sap river reverses its flow, and the lake swells to several times its dry-season size. It is one of the world's richest freshwater fisheries.",
+    "Mountains like the Cardamoms in the south-west hold rainforest with elephants."
+   ],
+   "related": [
+    "LAO",
+    "VNM",
+    "THA"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Cambodia is tropical, with a rainy season from May to October."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Floodplain",
+   "meaning": "Flat land that floods when a river rises."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Cambodia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Angkor",
+    "kind": "temple city",
+    "lat": 13.41,
+    "lon": 103.87,
+    "text": "Angkor Wat and Bayon."
+   },
+   {
+    "name": "Preah Vihear",
+    "kind": "cliff temple",
+    "lat": 14.39,
+    "lon": 104.68,
+    "text": "A temple on a cliff by Thailand."
+   },
+   {
+    "name": "Tonlé Sap",
+    "kind": "great lake",
+    "lat": 12.9,
+    "lon": 104.1,
+    "text": "Floating villages."
+   },
+   {
+    "name": "Kratie",
+    "kind": "Mekong river",
+    "lat": 12.49,
+    "lon": 106.02,
+    "text": "Rare Irrawaddy dolphins."
+   },
+   {
+    "name": "Phnom Penh",
+    "kind": "capital",
+    "lat": 11.56,
+    "lon": 104.92,
+    "text": "Where three rivers meet."
+   },
+   {
+    "name": "Cardamom Mountains",
+    "kind": "rainforest",
+    "lat": 11.9,
+    "lon": 103.3,
+    "text": "Wild elephants."
+   },
+   {
+    "name": "Koh Rong",
+    "kind": "island",
+    "lat": 10.7,
+    "lon": 103.24,
+    "text": "White sand beaches."
+   },
+   {
+    "name": "Kampot",
+    "kind": "pepper farms",
+    "lat": 10.61,
+    "lon": 104.18,
+    "text": "Famous pepper."
+   }
+  ]
+ }
+}

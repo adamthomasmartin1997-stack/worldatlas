@@ -1,0 +1,95 @@
+{
+ "status": "draft",
+ "intro": "Cambodia is a constitutional monarchy dominated by one party.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "King Norodom Sihamoni is head of state. The Cambodian People's Party has ruled since 1979; Hun Sen was prime minister for 38 years, and his son Hun Manet took over in 2023. Opposition parties have been banned."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Phnom Penh"
+    },
+    {
+     "label": "Independence",
+     "value": "1953"
+    },
+    {
+     "label": "King",
+     "value": "Norodom Sihamoni"
+    }
+   ]
+  },
+  {
+   "id": "border",
+   "title": "Border tensions",
+   "text": [
+    "In 2025 a border dispute with Thailand led to deadly clashes before a ceasefire."
+   ],
+   "related": [
+    "THA"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Constitutional monarchy",
+   "meaning": "A monarch reigns under a constitution."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Chosen by the Throne Council",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leads the government",
+     "text": "Chosen by the National Assembly."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "125 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "62 members",
+     "text": "The upper house."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By the government or members."
+   },
+   {
+    "title": "National Assembly",
+    "text": "Debates and passes it."
+   },
+   {
+    "title": "Senate",
+    "text": "Reviews it."
+   },
+   {
+    "title": "The King",
+    "text": "Signs it into law."
+   }
+  ]
+ }
+}

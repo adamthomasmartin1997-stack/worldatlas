@@ -1,0 +1,77 @@
+{
+ "status": "draft",
+ "intro": "Football, sepak takraw and pétanque (a French bowls game) are popular in Laos.",
+ "chapters": [
+  {
+   "id": "sports",
+   "title": "Popular sports",
+   "text": [
+    "Pétanque, brought by the French, is played everywhere. Muay Lao is a kickboxing style like Muay Thai."
+   ],
+   "related": [
+    "FRA",
+    "THA"
+   ]
+  },
+  {
+   "id": "events",
+   "title": "Events",
+   "text": [
+    "Vientiane hosted the 2009 SEA Games, the biggest sports event ever held in Laos."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pétanque",
+   "meaning": "A game of throwing metal balls close to a small target."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Lao League 1",
+     "subtitle": "Football",
+     "text": "Clubs from Vientiane lead."
+    },
+    {
+     "title": "Pétanque",
+     "subtitle": "Everywhere",
+     "text": "Played in every village."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Laos' biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "New Laos National Stadium",
+    "kind": "venue",
+    "lat": 18.05,
+    "lon": 102.66,
+    "text": "Built for the 2009 SEA Games."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2009",
+    "title": "SEA Games",
+    "text": "Hosted in Vientiane."
+   },
+   {
+    "year": "2021",
+    "title": "Railway",
+    "text": "Fast trains link Vientiane with China."
+   }
+  ]
+ }
+}

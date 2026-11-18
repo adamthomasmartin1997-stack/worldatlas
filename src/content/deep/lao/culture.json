@@ -1,0 +1,117 @@
+{
+ "status": "draft",
+ "intro": "Lao culture is gentle and Buddhist, with sticky rice at every meal.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "The baci ceremony ties white strings around guests' wrists for good luck. The khaen, a bamboo mouth organ, is the national instrument."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Larb, a spicy minced-meat salad, is the national dish, eaten with sticky rice rolled into balls by hand."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Baci",
+   "meaning": "A Lao ceremony for good luck."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Chanthaly",
+     "subtitle": "2013 · Mattie Do",
+     "text": "The first Lao horror film."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Phra Lak Phra Lam",
+     "subtitle": "Traditional",
+     "text": "The Lao Ramayana."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Khaen",
+     "subtitle": "Instrument",
+     "text": "A bamboo mouth organ; UNESCO-listed."
+    },
+    {
+     "title": "Lam",
+     "subtitle": "Folk singing",
+     "text": "Songs with the khaen."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Larb",
+     "subtitle": "Everywhere",
+     "text": "Spicy minced-meat salad."
+    },
+    {
+     "title": "Sticky rice",
+     "subtitle": "Every meal",
+     "text": "Eaten by hand."
+    },
+    {
+     "title": "Tam mak hoong",
+     "subtitle": "Everywhere",
+     "text": "Papaya salad."
+    },
+    {
+     "title": "Khao piak sen",
+     "subtitle": "Breakfast",
+     "text": "Thick noodle soup."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Pi Mai",
+    "text": "Lao New Year water festival."
+   },
+   {
+    "month": 10,
+    "name": "Boun Ok Phansa",
+    "text": "End of Buddhist Lent, boat races."
+   },
+   {
+    "month": 11,
+    "name": "That Luang Festival",
+    "text": "At Vientiane's golden stupa."
+   },
+   {
+    "month": 12,
+    "name": "National Day",
+    "text": "2 December, 1975."
+   }
+  ]
+ }
+}

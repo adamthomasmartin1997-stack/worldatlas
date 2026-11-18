@@ -1,0 +1,96 @@
+{
+ "status": "draft",
+ "intro": "Kun Khmer kickboxing and football are popular in Cambodia, which hosted the SEA Games for the first time in 2023.",
+ "chapters": [
+  {
+   "id": "kun",
+   "title": "Kun Khmer",
+   "text": [
+    "Kun Khmer is a traditional martial art using fists, elbows, knees and kicks, shown in Angkor carvings."
+   ]
+  },
+  {
+   "id": "events",
+   "title": "Events",
+   "text": [
+    "Cambodia hosted the 2023 SEA Games at the new Morodok Techo stadium. Sorn Seavmey won Cambodia's first Asian Games gold in taekwondo in 2014."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "SEA Games",
+   "meaning": "The Southeast Asian Games."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Cambodian Premier League",
+     "subtitle": "Football",
+     "text": "Phnom Penh Crown are a top club."
+    },
+    {
+     "title": "Kun Khmer",
+     "subtitle": "Martial art",
+     "text": "Fights on TV every week."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Sorn Seavmey",
+     "subtitle": "Taekwondo",
+     "text": "Asian Games champion 2014."
+    },
+    {
+     "title": "Chan Vathanaka",
+     "subtitle": "Football",
+     "text": "A star striker."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Cambodia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Morodok Techo National Stadium",
+    "kind": "venue",
+    "lat": 11.62,
+    "lon": 104.9,
+    "text": "Built for the 2023 SEA Games."
+   },
+   {
+    "name": "Olympic Stadium, Phnom Penh",
+    "kind": "venue",
+    "lat": 11.56,
+    "lon": 104.91,
+    "text": "A 1960s modernist stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2014",
+    "title": "Asian Games gold",
+    "text": "Sorn Seavmey in taekwondo."
+   },
+   {
+    "year": "2023",
+    "title": "SEA Games",
+    "text": "Cambodia hosts."
+   }
+  ]
+ }
+}

@@ -1,0 +1,54 @@
+{
+ "status": "draft",
+ "intro": "Oil and gas have made Brunei one of the richest countries in Asia per person.",
+ "chapters": [
+  {
+   "id": "oil",
+   "title": "Oil and gas",
+   "text": [
+    "Most exports and government income come from oil and liquefied gas, much of it sold to Japan.",
+    "Brunei is building a petrochemical industry and promoting tourism to diversify."
+   ],
+   "related": [
+    "JPN"
+   ]
+  },
+  {
+   "id": "future",
+   "title": "Planning ahead",
+   "text": [
+    "The 'Wawasan 2035' plan aims to make the economy less dependent on oil."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "LNG",
+   "meaning": "Liquefied natural gas."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Brunei",
+   "items": [
+    {
+     "title": "Oil",
+     "subtitle": "Seria",
+     "text": "The main export."
+    },
+    {
+     "title": "Liquefied gas",
+     "subtitle": "Lumut",
+     "text": "Sold to Japan."
+    },
+    {
+     "title": "Petrochemicals",
+     "subtitle": "Pulau Muara Besar",
+     "text": "A refinery."
+    }
+   ],
+   "intro": "Some of the things Brunei makes and sells to the world."
+  }
+ ]
+}

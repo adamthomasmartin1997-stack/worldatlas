@@ -1,0 +1,32 @@
+{
+ "status": "draft",
+ "intro": "Singapore has about 6 million people of Chinese, Malay, Indian and other origins.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "Many cultures",
+   "text": [
+    "About three-quarters of citizens are of Chinese descent, with Malays and Indians the largest minorities. English, Mandarin, Malay and Tamil are all official languages. Singlish is a colourful local English.",
+    "Buddhism, Christianity, Islam, Taoism and Hinduism are all practised."
+   ],
+   "related": [
+    "CHN",
+    "MYS",
+    "IND"
+   ]
+  },
+  {
+   "id": "housing",
+   "title": "Housing",
+   "text": [
+    "About 80% of people live in public housing flats built by the government."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Singlish",
+   "meaning": "Singapore's informal English."
+  }
+ ]
+}

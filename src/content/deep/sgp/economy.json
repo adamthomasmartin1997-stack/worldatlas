@@ -1,0 +1,68 @@
+{
+ "status": "draft",
+ "intro": "Singapore is a global hub for shipping, finance and technology, and one of the richest countries per person.",
+ "chapters": [
+  {
+   "id": "hub",
+   "title": "A global hub",
+   "text": [
+    "Its port is one of the busiest in the world, and Changi Airport is often voted the world's best. Banks, chip factories and oil refineries make it an economic powerhouse."
+   ],
+   "related": [
+    "CHN",
+    "USA",
+    "MYS"
+   ]
+  },
+  {
+   "id": "water",
+   "title": "Water",
+   "text": [
+    "Singapore buys water from Malaysia, collects rainwater, desalinates seawater and recycles wastewater into 'NEWater'."
+   ],
+   "related": [
+    "MYS"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Entrepôt",
+   "meaning": "A trading port where goods are imported and re-exported."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Singapore",
+   "items": [
+    {
+     "title": "Computer chips",
+     "subtitle": "Factories",
+     "text": "A big share of exports."
+    },
+    {
+     "title": "Refined oil",
+     "subtitle": "Jurong Island",
+     "text": "A huge refining hub."
+    },
+    {
+     "title": "Shipping",
+     "subtitle": "Port of Singapore",
+     "text": "One of the world's busiest."
+    },
+    {
+     "title": "Banking",
+     "subtitle": "Raffles Place",
+     "text": "An Asian financial centre."
+    },
+    {
+     "title": "Medicines",
+     "subtitle": "Biopolis",
+     "text": "Drug factories."
+    }
+   ],
+   "intro": "Some of the things Singapore makes and sells to the world."
+  }
+ ]
+}

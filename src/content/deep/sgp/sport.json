@@ -1,0 +1,121 @@
+{
+ "status": "draft",
+ "intro": "Singapore hosts the world's first Formula One night race and has produced Olympic champions in swimming and sailing.",
+ "chapters": [
+  {
+   "id": "champions",
+   "title": "Champions",
+   "text": [
+    "Joseph Schooling beat Michael Phelps to win the 100 m butterfly at the 2016 Olympics, Singapore's first gold. Max Maeder won Olympic kitefoiling bronze in 2024, and Loh Kean Yew became badminton world champion in 2021."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "f1",
+   "title": "Night race",
+   "text": [
+    "The Singapore Grand Prix, first held in 2008, races on floodlit city streets."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Night race",
+   "meaning": "A race held after dark under lights."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Singapore Premier League",
+     "subtitle": "Football",
+     "text": "Lion City Sailors are a top club."
+    },
+    {
+     "title": "Singapore Grand Prix",
+     "subtitle": "Formula One",
+     "text": "Since 2008."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Joseph Schooling",
+     "subtitle": "Swimming",
+     "text": "Olympic champion 2016."
+    },
+    {
+     "title": "Loh Kean Yew",
+     "subtitle": "Badminton",
+     "text": "World champion 2021."
+    },
+    {
+     "title": "Max Maeder",
+     "subtitle": "Kitefoiling",
+     "text": "Olympic bronze 2024."
+    },
+    {
+     "title": "Fandi Ahmad",
+     "subtitle": "Football",
+     "text": "A football legend."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Singapore's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "National Stadium",
+    "kind": "venue",
+    "lat": 1.304,
+    "lon": 103.875,
+    "text": "Has a retractable roof."
+   },
+   {
+    "name": "Marina Bay Street Circuit",
+    "kind": "venue",
+    "lat": 1.29,
+    "lon": 103.86,
+    "text": "The F1 night race."
+   },
+   {
+    "name": "Jalan Besar Stadium",
+    "kind": "venue",
+    "lat": 1.31,
+    "lon": 103.86,
+    "text": "A football ground."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2008",
+    "title": "First night race",
+    "text": "Formula One under lights."
+   },
+   {
+    "year": "2016",
+    "title": "Schooling's gold",
+    "text": "Beat Phelps in Rio."
+   },
+   {
+    "year": "2021",
+    "title": "Loh Kean Yew",
+    "text": "Badminton world champion."
+   }
+  ]
+ }
+}

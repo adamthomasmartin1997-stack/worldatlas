@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Laos has about 7.6 million people and 50 officially recognised ethnic groups.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The Lao are the largest group; the Khmu and Hmong are large minorities. Lao is closely related to Thai. Most people are Buddhist, and monks collect alms each morning in Luang Prabang.",
+    "Most people live in the countryside and grow sticky rice."
+   ],
+   "related": [
+    "THA"
+   ]
+  },
+  {
+   "id": "vientiane",
+   "title": "Vientiane",
+   "text": [
+    "Vientiane, the capital, is one of the quietest capitals in Asia."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Alms",
+   "meaning": "Food or gifts given to monks."
+  }
+ ]
+}

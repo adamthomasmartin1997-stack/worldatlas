@@ -1,0 +1,108 @@
+{
+ "status": "draft",
+ "intro": "Myanmar, also called Burma, is a land of golden pagodas and many peoples. Since independence in 1948 it has been shaped by military rule and long conflicts.",
+ "chapters": [
+  {
+   "id": "bagan",
+   "title": "Bagan and the Burmese kingdoms",
+   "text": [
+    "Pyu city-states and Mon kingdoms came first. In 1044 King Anawrahta founded the Pagan (Bagan) kingdom, whose rulers built over 10,000 Buddhist temples on the plain of Bagan; more than 2,000 still stand.",
+    "Later dynasties, the Toungoo and Konbaung, ruled from cities like Ava and Mandalay and fought wars with Siam."
+   ],
+   "related": [
+    "THA",
+    "IND"
+   ]
+  },
+  {
+   "id": "british",
+   "title": "British Burma",
+   "text": [
+    "Britain conquered Burma in three wars between 1824 and 1885 and ruled it as part of British India until 1937. Japan occupied it in World War Two.",
+    "General Aung San led the independence movement but was assassinated in 1947, months before independence in January 1948."
+   ],
+   "related": [
+    "GBR",
+    "IND",
+    "JPN"
+   ]
+  },
+  {
+   "id": "military",
+   "title": "Military rule and democracy",
+   "text": [
+    "The army seized power in 1962 and ruled for decades. Aung San's daughter, Aung San Suu Kyi, led the democracy movement, spent 15 years under house arrest and won the Nobel Peace Prize in 1991.",
+    "Reforms from 2011 brought elections, which her party won in 2015 and 2020. In 2017 a military crackdown drove over 700,000 Rohingya Muslims into Bangladesh. In February 2021 the army seized power again, and armed resistance has spread across the country. An earthquake in March 2025 killed thousands."
+   ],
+   "highlight": {
+    "title": "Rohingya",
+    "text": "The UN has described the 2017 attacks on the Rohingya as having genocidal intent."
+   },
+   "related": [
+    "BGD",
+    "CHN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1044",
+   "title": "Pagan kingdom",
+   "text": "Temple-building begins."
+  },
+  {
+   "year": "1885",
+   "title": "British conquest",
+   "text": "The last king is exiled."
+  },
+  {
+   "year": "1948",
+   "title": "Independence",
+   "text": "4 January."
+  },
+  {
+   "year": "1962",
+   "title": "Military coup",
+   "text": "Army rule begins."
+  },
+  {
+   "year": "1988",
+   "title": "Uprising",
+   "text": "Protests are crushed."
+  },
+  {
+   "year": "1991",
+   "title": "Nobel Prize",
+   "text": "For Aung San Suu Kyi."
+  },
+  {
+   "year": "2015",
+   "title": "Election",
+   "text": "The NLD wins."
+  },
+  {
+   "year": "2017",
+   "title": "Rohingya crisis",
+   "text": "Hundreds of thousands flee."
+  },
+  {
+   "year": "2021",
+   "title": "Coup",
+   "text": "The army takes power again."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pagoda",
+   "meaning": "A tiered Buddhist tower or shrine."
+  },
+  {
+   "term": "Junta",
+   "meaning": "A military government."
+  },
+  {
+   "term": "Rohingya",
+   "meaning": "A mainly Muslim minority from Rakhine State."
+  }
+ ]
+}

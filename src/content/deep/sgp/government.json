@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Singapore is a parliamentary republic where one party, the People's Action Party, has governed since 1959.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The prime minister leads the government; Lawrence Wong took over in 2024. The president is elected but mainly ceremonial. Elections are clean but critics say the rules favour the ruling party."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Singapore"
+    },
+    {
+     "label": "Independence",
+     "value": "1965"
+    },
+    {
+     "label": "Ruling party since",
+     "value": "1959"
+    }
+   ]
+  },
+  {
+   "id": "rules",
+   "title": "Strict rules",
+   "text": [
+    "Singapore is known for strict laws, such as fines for littering and limits on chewing gum, and for very low crime."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "PAP",
+   "meaning": "The People's Action Party."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 6 years",
+     "text": "Head of state; guards the reserves."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Leader of the majority",
+     "text": "Runs the government."
+    },
+    {
+     "title": "Parliament",
+     "subtitle": "About 100 members",
+     "text": "Elected in districts and group constituencies."
+    },
+    {
+     "title": "Courts",
+     "subtitle": "Independent judges",
+     "text": "Including the Court of Appeal."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "Usually by a minister."
+   },
+   {
+    "title": "Three readings",
+    "text": "In Parliament."
+   },
+   {
+    "title": "Presidential Council",
+    "text": "Checks it does not discriminate against any race or religion."
+   },
+   {
+    "title": "The President",
+    "text": "Assents to it."
+   }
+  ]
+ }
+}

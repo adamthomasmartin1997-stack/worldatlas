@@ -1,0 +1,89 @@
+{
+ "status": "draft",
+ "intro": "Brunei is a small, oil-rich sultanate on the island of Borneo, once the centre of a powerful maritime empire.",
+ "chapters": [
+  {
+   "id": "empire",
+   "title": "A golden age",
+   "text": [
+    "In the 1400s and 1500s the Sultanate of Brunei controlled coasts across Borneo and into the southern Philippines. The name Borneo itself may come from Brunei.",
+    "Its capital was a town built on stilts over the water, Kampong Ayer, which still exists."
+   ],
+   "related": [
+    "MYS",
+    "PHL",
+    "IDN"
+   ]
+  },
+  {
+   "id": "decline",
+   "title": "Decline and British protection",
+   "text": [
+    "Brunei lost land to Spain and to the British adventurer James Brooke, who became Rajah of Sarawak. In 1888 it became a British protectorate. Oil was found in 1929."
+   ],
+   "related": [
+    "ESP",
+    "GBR",
+    "MYS"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence",
+   "text": [
+    "Brunei chose not to join Malaysia in 1963 and became fully independent in 1984. Sultan Hassanal Bolkiah has reigned since 1967, one of the longest reigns in the world."
+   ],
+   "highlight": {
+    "title": "Long reign",
+    "text": "The sultan has ruled since 1967."
+   }
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1400s",
+   "title": "Sultanate",
+   "text": "Brunei converts to Islam."
+  },
+  {
+   "year": "1500s",
+   "title": "Golden age",
+   "text": "Rules much of Borneo."
+  },
+  {
+   "year": "1888",
+   "title": "British protection",
+   "text": "Until 1984."
+  },
+  {
+   "year": "1929",
+   "title": "Oil",
+   "text": "Discovered at Seria."
+  },
+  {
+   "year": "1962",
+   "title": "Revolt",
+   "text": "A rebellion is put down."
+  },
+  {
+   "year": "1967",
+   "title": "Hassanal Bolkiah",
+   "text": "Becomes sultan."
+  },
+  {
+   "year": "1984",
+   "title": "Independence",
+   "text": "1 January."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sultanate",
+   "meaning": "A state ruled by a sultan."
+  },
+  {
+   "term": "Protectorate",
+   "meaning": "A state protected and partly controlled by another."
+  }
+ ]
+}

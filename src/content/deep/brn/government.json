@@ -1,0 +1,87 @@
+{
+ "status": "draft",
+ "intro": "Brunei is an absolute monarchy where the sultan is also prime minister.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Sultan Hassanal Bolkiah is head of state and government and holds several ministries. A Legislative Council advises him; most members are appointed. Islamic sharia law applies alongside civil law."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Bandar Seri Begawan"
+    },
+    {
+     "label": "Independence",
+     "value": "1984"
+    },
+    {
+     "label": "Sultan since",
+     "value": "1967"
+    }
+   ]
+  },
+  {
+   "id": "asean",
+   "title": "ASEAN",
+   "text": [
+    "Brunei joined ASEAN in 1984, the same year it became independent."
+   ],
+   "related": [
+    "SGP",
+    "MYS"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sharia",
+   "meaning": "Islamic law."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The Sultan",
+     "subtitle": "Inherits the throne",
+     "text": "Head of state and prime minister."
+    },
+    {
+     "title": "Council of Ministers",
+     "subtitle": "Appointed",
+     "text": "Runs ministries."
+    },
+    {
+     "title": "Legislative Council",
+     "subtitle": "Mostly appointed",
+     "text": "Advises on laws."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Drafted",
+    "text": "By the government."
+   },
+   {
+    "title": "Legislative Council",
+    "text": "Discusses it."
+   },
+   {
+    "title": "The Sultan",
+    "text": "Approves it."
+   }
+  ]
+ }
+}

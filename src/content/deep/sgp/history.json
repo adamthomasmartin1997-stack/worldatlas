@@ -1,0 +1,93 @@
+{
+ "status": "draft",
+ "intro": "Singapore is a tiny island city-state that grew from a British trading post into one of the richest places on Earth in a single lifetime.",
+ "chapters": [
+  {
+   "id": "temasek",
+   "title": "Temasek",
+   "text": [
+    "In the 1300s a trading town called Temasek stood here. According to legend, a prince named it Singapura, 'Lion City', after seeing a lion-like animal."
+   ],
+   "related": [
+    "IDN",
+    "MYS"
+   ]
+  },
+  {
+   "id": "british",
+   "title": "British Singapore",
+   "text": [
+    "In 1819 Stamford Raffles set up a British trading post. As a free port on the Strait of Malacca, Singapore boomed, attracting Chinese, Malay and Indian migrants.",
+    "Japan captured Singapore in 1942, Britain's worst military defeat, and occupied it until 1945."
+   ],
+   "highlight": {
+    "title": "Fall of Singapore",
+    "text": "Winston Churchill called the 1942 surrender the worst disaster in British military history."
+   },
+   "related": [
+    "GBR",
+    "JPN",
+    "CHN",
+    "IND"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Singapore joined Malaysia in 1963 but was expelled in 1965 and became independent. Prime Minister Lee Kuan Yew, in power until 1990, built housing, industry and a strong state.",
+    "With no natural resources, it relied on trade, education and attracting foreign companies."
+   ],
+   "related": [
+    "MYS"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1300s",
+   "title": "Temasek",
+   "text": "A trading town."
+  },
+  {
+   "year": "1819",
+   "title": "Raffles",
+   "text": "A British trading post is founded."
+  },
+  {
+   "year": "1942",
+   "title": "Japanese occupation",
+   "text": "Until 1945."
+  },
+  {
+   "year": "1959",
+   "title": "Self-government",
+   "text": "Lee Kuan Yew becomes prime minister."
+  },
+  {
+   "year": "1963",
+   "title": "Joins Malaysia",
+   "text": "For two years."
+  },
+  {
+   "year": "1965",
+   "title": "Independence",
+   "text": "9 August."
+  },
+  {
+   "year": "2015",
+   "title": "SG50",
+   "text": "Fifty years of independence; Lee Kuan Yew dies."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "City-state",
+   "meaning": "A country made up of one city."
+  },
+  {
+   "term": "Free port",
+   "meaning": "A port where goods can be traded without import taxes."
+  }
+ ]
+}

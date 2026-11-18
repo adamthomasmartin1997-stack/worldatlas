@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Timor-Leste covers the eastern half of the island of Timor, plus the Oecusse exclave and two small islands.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Mountains and reefs",
+   "text": [
+    "Rugged mountains run down the middle; Mount Ramelau, 2,986 m, is the highest. The surrounding seas are part of the Coral Triangle, with some of the richest reefs in the world.",
+    "Atauro Island has some of the highest numbers of reef fish species ever recorded."
+   ],
+   "related": [
+    "IDN",
+    "AUS"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The climate is tropical, with a wet season from about December to April."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Exclave",
+   "meaning": "Part of a country separated from the rest."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Timor-Leste's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Dili",
+    "kind": "capital",
+    "lat": -8.56,
+    "lon": 125.57,
+    "text": "A seaside capital with a giant Christ statue."
+   },
+   {
+    "name": "Atauro Island",
+    "kind": "coral island",
+    "lat": -8.25,
+    "lon": 125.6,
+    "text": "Reefs with record numbers of fish species."
+   },
+   {
+    "name": "Mount Ramelau",
+    "kind": "mountain",
+    "lat": -8.91,
+    "lon": 125.49,
+    "text": "The highest peak, 2,986 m."
+   },
+   {
+    "name": "Maubisse",
+    "kind": "mountain town",
+    "lat": -8.84,
+    "lon": 125.6,
+    "text": "Coffee farms in the hills."
+   },
+   {
+    "name": "Jaco Island",
+    "kind": "sacred island",
+    "lat": -8.42,
+    "lon": 127.32,
+    "text": "White sand at the eastern tip."
+   },
+   {
+    "name": "Oecusse",
+    "kind": "exclave",
+    "lat": -9.3,
+    "lon": 124.3,
+    "text": "Inside Indonesian West Timor."
+   }
+  ]
+ }
+}

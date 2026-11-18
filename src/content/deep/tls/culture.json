@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "Timorese culture mixes local traditions, Portuguese influences and Catholic faith.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Tais, hand-woven cloth, is given at weddings and ceremonies and is on UNESCO's list of heritage needing urgent protection. Traditional sacred houses, uma lulik, have tall pointed roofs."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Ikan pepes (fish in banana leaf), batar da'an (corn and bean stew) and coffee are local favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tais",
+   "meaning": "Traditional Timorese woven cloth."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Beatriz's War",
+     "subtitle": "2013",
+     "text": "The first Timorese feature film."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Tebe-tebe",
+     "subtitle": "Dance",
+     "text": "A circle dance with singing."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Batar da'an",
+     "subtitle": "Everywhere",
+     "text": "Corn, beans and pumpkin stew."
+    },
+    {
+     "title": "Ikan pepes",
+     "subtitle": "Coast",
+     "text": "Fish cooked in banana leaf."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 5,
+    "name": "Restoration of Independence Day",
+    "text": "20 May."
+   },
+   {
+    "month": 8,
+    "name": "Popular Consultation Day",
+    "text": "30 August, the 1999 vote."
+   },
+   {
+    "month": 11,
+    "name": "Proclamation Day",
+    "text": "28 November, 1975."
+   }
+  ]
+ }
+}

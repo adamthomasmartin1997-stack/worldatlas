@@ -1,0 +1,71 @@
+{
+ "status": "draft",
+ "intro": "Brunei is made of two separate parts on the north coast of Borneo, surrounded by Malaysia's Sarawak state.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Rainforest and coast",
+   "text": [
+    "Over 70% of the land is rainforest, much of it protected, such as Ulu Temburong National Park. The coast has mangroves and beaches."
+   ],
+   "related": [
+    "MYS"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Brunei is hot and wet all year, on the edge of the equator."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Exclave",
+   "meaning": "Part of a country separated from the rest."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Brunei's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Bandar Seri Begawan",
+    "kind": "capital",
+    "lat": 4.89,
+    "lon": 114.94,
+    "text": "Golden mosques."
+   },
+   {
+    "name": "Kampong Ayer",
+    "kind": "water village",
+    "lat": 4.885,
+    "lon": 114.94,
+    "text": "Houses on stilts."
+   },
+   {
+    "name": "Ulu Temburong",
+    "kind": "rainforest",
+    "lat": 4.5,
+    "lon": 115.15,
+    "text": "A canopy walkway above the jungle."
+   },
+   {
+    "name": "Seria",
+    "kind": "oil town",
+    "lat": 4.61,
+    "lon": 114.32,
+    "text": "Where oil was found in 1929."
+   },
+   {
+    "name": "Tasek Merimbun",
+    "kind": "lake",
+    "lat": 4.6,
+    "lon": 114.67,
+    "text": "Brunei's largest lake."
+   }
+  ]
+ }
+}

@@ -1,0 +1,73 @@
+{
+ "status": "draft",
+ "intro": "Football is the most popular sport in Timor-Leste, and the country has competed at the Olympics since 2000.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The national team joined FIFA in 2005. The Tour de Timor mountain-bike race crossed the country's rugged roads."
+   ]
+  },
+  {
+   "id": "olympics",
+   "title": "Olympics",
+   "text": [
+    "Timorese athletes first marched under the Olympic flag in 2000, before independence."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "FIFA",
+   "meaning": "Football's world governing body."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Liga Futebol Timor-Leste",
+     "subtitle": "Football",
+     "text": "The national league."
+    },
+    {
+     "title": "Tour de Timor",
+     "subtitle": "Mountain biking",
+     "text": "A tough cross-country race held from 2009 to 2014."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Timor-Leste's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Dili Municipal Stadium",
+    "kind": "venue",
+    "lat": -8.56,
+    "lon": 125.57,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2000",
+    "title": "Olympic debut",
+    "text": "Under the Olympic flag in Sydney."
+   },
+   {
+    "year": "2004",
+    "title": "First Games as a nation",
+    "text": "Competes under its own flag in Athens."
+   }
+  ]
+ }
+}

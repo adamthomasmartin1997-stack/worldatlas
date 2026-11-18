@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Since the 2021 coup, Myanmar has been ruled by the military while armed opposition groups control large areas.",
+ "chapters": [
+  {
+   "id": "military",
+   "title": "Who rules",
+   "text": [
+    "Senior General Min Aung Hlaing led the coup. The military held a disputed election from late 2025. Aung San Suu Kyi has been in prison since 2021."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Naypyidaw"
+    },
+    {
+     "label": "Largest city",
+     "value": "Yangon"
+    },
+    {
+     "label": "Independence",
+     "value": "1948"
+    }
+   ]
+  },
+  {
+   "id": "resistance",
+   "title": "Resistance",
+   "text": [
+    "A National Unity Government formed by ousted lawmakers, people's defence forces and long-standing ethnic armed groups fight the military."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Coup",
+   "meaning": "When the army seizes power."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "Military leader",
+     "subtitle": "Senior General",
+     "text": "Controls the state since 2021."
+    },
+    {
+     "title": "State Administration Council",
+     "subtitle": "Military body",
+     "text": "Ran the country after the coup."
+    },
+    {
+     "title": "National Unity Government",
+     "subtitle": "Opposition",
+     "text": "Formed by ousted lawmakers."
+    },
+    {
+     "title": "Ethnic armed groups",
+     "subtitle": "Many regions",
+     "text": "Control territory in the borderlands."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "Decrees",
+    "text": "The military issues orders."
+   },
+   {
+    "title": "Parliament",
+    "text": "Elected bodies were dissolved in 2021."
+   },
+   {
+    "title": "Disputed election",
+    "text": "Held by the military from late 2025."
+   }
+  ]
+ }
+}

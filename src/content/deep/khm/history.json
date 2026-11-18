@@ -1,0 +1,104 @@
+{
+ "status": "draft",
+ "intro": "Cambodia was the centre of the mighty Khmer Empire, builders of Angkor Wat. In the 1970s it suffered one of the worst genocides of the 20th century.",
+ "chapters": [
+  {
+   "id": "funan",
+   "title": "Early kingdoms",
+   "text": [
+    "Funan and Chenla were early kingdoms that traded with India and China and adopted Hindu and Buddhist ideas."
+   ],
+   "related": [
+    "IND",
+    "CHN"
+   ]
+  },
+  {
+   "id": "angkor",
+   "title": "The Khmer Empire",
+   "text": [
+    "In 802 King Jayavarman II founded the Khmer Empire, which came to rule much of mainland Southeast Asia. Angkor grew into one of the largest cities in the pre-industrial world, fed by huge reservoirs.",
+    "Angkor Wat, built in the 1100s, is the largest religious monument in the world. Angkor Thom's Bayon temple has over 200 giant stone faces."
+   ],
+   "highlight": {
+    "title": "Angkor Wat",
+    "text": "The temple appears on Cambodia's national flag."
+   },
+   "related": [
+    "THA",
+    "LAO",
+    "VNM"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Colony, war and genocide",
+   "text": [
+    "Angkor declined after 1431, and Cambodia was squeezed between Siam and Vietnam. France ruled it from 1863 to 1953.",
+    "The Vietnam War spilled over, and in 1975 the Khmer Rouge under Pol Pot took power. They emptied the cities, abolished money and schools, and killed or starved about 1.5 to 2 million people, around a quarter of the population. Vietnam invaded in 1979 and drove them out. Peace came with UN-run elections in 1993."
+   ],
+   "related": [
+    "FRA",
+    "VNM",
+    "THA",
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "802",
+   "title": "Khmer Empire",
+   "text": "Founded by Jayavarman II."
+  },
+  {
+   "year": "c. 1150",
+   "title": "Angkor Wat",
+   "text": "Completed."
+  },
+  {
+   "year": "1431",
+   "title": "Angkor declines",
+   "text": "After attacks from Ayutthaya."
+  },
+  {
+   "year": "1863",
+   "title": "French protectorate",
+   "text": "Until 1953."
+  },
+  {
+   "year": "1953",
+   "title": "Independence",
+   "text": "9 November."
+  },
+  {
+   "year": "1975",
+   "title": "Khmer Rouge",
+   "text": "Genocide begins."
+  },
+  {
+   "year": "1979",
+   "title": "Vietnamese invasion",
+   "text": "Khmer Rouge ousted."
+  },
+  {
+   "year": "1993",
+   "title": "UN-run elections",
+   "text": "The monarchy is restored."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Khmer",
+   "meaning": "Cambodia's main people and language."
+  },
+  {
+   "term": "Khmer Rouge",
+   "meaning": "The communist regime that ruled 1975–79."
+  },
+  {
+   "term": "Genocide",
+   "meaning": "The deliberate killing of a large group of people."
+  }
+ ]
+}

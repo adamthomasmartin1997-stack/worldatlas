@@ -1,0 +1,97 @@
+{
+ "status": "draft",
+ "intro": "Myanmar stretches from Himalayan peaks in the north to tropical islands in the south, with the Irrawaddy river at its heart.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "River and mountains",
+   "text": [
+    "The Irrawaddy flows over 2,000 km through the centre to a huge rice-growing delta. Hkakabo Razi, about 5,880 m, in the far north is the highest peak in Southeast Asia.",
+    "Mountains along the borders with India, China and Thailand are home to many ethnic groups."
+   ],
+   "related": [
+    "IND",
+    "CHN",
+    "THA",
+    "LAO",
+    "BGD"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Monsoon",
+   "text": [
+    "The monsoon brings heavy rain from May to October; the central dry zone is much drier. Cyclone Nargis in 2008 killed over 130,000 people."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Delta",
+   "meaning": "Flat land where a river splits before the sea."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Myanmar's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Hkakabo Razi",
+    "kind": "mountain",
+    "lat": 28.33,
+    "lon": 97.53,
+    "text": "The highest peak in Southeast Asia."
+   },
+   {
+    "name": "Mandalay",
+    "kind": "royal city",
+    "lat": 21.97,
+    "lon": 96.08,
+    "text": "The last royal capital."
+   },
+   {
+    "name": "Bagan",
+    "kind": "temple plain",
+    "lat": 21.17,
+    "lon": 94.86,
+    "text": "Thousands of ancient temples."
+   },
+   {
+    "name": "Inle Lake",
+    "kind": "lake",
+    "lat": 20.55,
+    "lon": 96.92,
+    "text": "Floating gardens and leg-rowing fishermen."
+   },
+   {
+    "name": "Golden Rock",
+    "kind": "pagoda",
+    "lat": 17.48,
+    "lon": 97.1,
+    "text": "A gilded boulder balanced on a cliff."
+   },
+   {
+    "name": "Yangon",
+    "kind": "largest city",
+    "lat": 16.8,
+    "lon": 96.16,
+    "text": "The Shwedagon Pagoda."
+   },
+   {
+    "name": "Ngapali",
+    "kind": "beach",
+    "lat": 18.4,
+    "lon": 94.3,
+    "text": "A palm-lined beach."
+   },
+   {
+    "name": "Mergui Archipelago",
+    "kind": "islands",
+    "lat": 11.5,
+    "lon": 98.0,
+    "text": "Hundreds of remote islands."
+   }
+  ]
+ }
+}

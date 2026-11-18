@@ -1,0 +1,70 @@
+{
+ "status": "draft",
+ "intro": "Bruneian culture is shaped by Malay traditions, Islam and the royal family.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "The golden-domed Sultan Omar Ali Saifuddien Mosque stands by a lagoon. Kampong Ayer, the water village, is home to thousands of people."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Ambuyat, a sticky starch from the sago palm eaten with sour sauces, is the national dish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Ambuyat",
+   "meaning": "A starchy dish made from sago."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Adai-adai",
+     "subtitle": "Folk song",
+     "text": "Fishermen's songs."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Ambuyat",
+     "subtitle": "Everywhere",
+     "text": "Sago starch with sour sauce."
+    },
+    {
+     "title": "Nasi katok",
+     "subtitle": "Everywhere",
+     "text": "Cheap rice and chicken."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "National Day",
+    "text": "23 February."
+   },
+   {
+    "month": 7,
+    "name": "Sultan's Birthday",
+    "text": "15 July."
+   }
+  ]
+ }
+}

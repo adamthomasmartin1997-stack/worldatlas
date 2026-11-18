@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Timor-Leste depends heavily on oil and gas from the Timor Sea, saved in a large Petroleum Fund.",
+ "chapters": [
+  {
+   "id": "oil",
+   "title": "Oil fund",
+   "text": [
+    "Money from offshore oil and gas fields goes into a savings fund that pays for most government spending. The fields are running out, so the country needs new industries."
+   ],
+   "related": [
+    "AUS"
+   ]
+  },
+  {
+   "id": "coffee",
+   "title": "Coffee",
+   "text": [
+    "Organic coffee from the mountains is the main export after oil."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Petroleum Fund",
+   "meaning": "A national savings fund from oil money."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Timor-Leste",
+   "items": [
+    {
+     "title": "Oil and gas",
+     "subtitle": "Timor Sea",
+     "text": "Most of the state's income."
+    },
+    {
+     "title": "Coffee",
+     "subtitle": "Ermera",
+     "text": "Organic Arabica."
+    },
+    {
+     "title": "Tais",
+     "subtitle": "Weavers",
+     "text": "Traditional cloth."
+    }
+   ],
+   "intro": "Some of the things Timor-Leste makes and sells to the world."
+  }
+ ]
+}

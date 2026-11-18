@@ -1,0 +1,127 @@
+{
+ "status": "draft",
+ "intro": "Khmer culture is famous for its temples, classical dance and food.",
+ "chapters": [
+  {
+   "id": "dance",
+   "title": "Royal ballet",
+   "text": [
+    "The Royal Ballet of Cambodia, with dancers in gold headdresses, nearly vanished under the Khmer Rouge and has been revived. Shadow puppetry, sbek thom, uses giant leather puppets."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Fish amok, steamed curry in banana leaves, is the national dish. Prahok, fermented fish paste, flavours many dishes."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Apsara",
+   "meaning": "A celestial dancer in Khmer art."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Missing Picture",
+     "subtitle": "2013 · Rithy Panh",
+     "text": "Clay figures retell the genocide; Oscar-nominated."
+    },
+    {
+     "title": "First They Killed My Father",
+     "subtitle": "2017 · Angelina Jolie",
+     "text": "A girl survives the Khmer Rouge."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "First They Killed My Father",
+     "subtitle": "2000 · Loung Ung",
+     "text": "A memoir of survival."
+    },
+    {
+     "title": "Reamker",
+     "subtitle": "Traditional",
+     "text": "Cambodia's Ramayana."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Sinn Sisamouth",
+     "subtitle": "Singer",
+     "text": "The 'king of Khmer music'."
+    },
+    {
+     "title": "Ros Sereysothea",
+     "subtitle": "Singer",
+     "text": "A 1960s rock star."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Fish amok",
+     "subtitle": "Everywhere",
+     "text": "Curry steamed in banana leaf."
+    },
+    {
+     "title": "Kuy teav",
+     "subtitle": "Breakfast",
+     "text": "Noodle soup."
+    },
+    {
+     "title": "Lok lak",
+     "subtitle": "Everywhere",
+     "text": "Stir-fried beef with pepper sauce."
+    },
+    {
+     "title": "Num banh chok",
+     "subtitle": "Breakfast",
+     "text": "Rice noodles with green curry."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Khmer New Year",
+    "text": "Mid-April."
+   },
+   {
+    "month": 9,
+    "name": "Pchum Ben",
+    "text": "Honouring ancestors."
+   },
+   {
+    "month": 11,
+    "name": "Water Festival",
+    "text": "Boat races in Phnom Penh."
+   },
+   {
+    "month": 11,
+    "name": "Independence Day",
+    "text": "9 November."
+   }
+  ]
+ }
+}

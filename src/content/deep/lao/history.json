@@ -1,0 +1,94 @@
+{
+ "status": "draft",
+ "intro": "Laos, once the 'Land of a Million Elephants', is Southeast Asia's only landlocked country and was the most heavily bombed country per person in history.",
+ "chapters": [
+  {
+   "id": "lanxang",
+   "title": "Lan Xang",
+   "text": [
+    "In 1353 Fa Ngum founded the kingdom of Lan Xang, 'a million elephants', with its capital at Luang Prabang. It was one of the largest kingdoms in Southeast Asia and spread Theravada Buddhism.",
+    "In 1707 it split into three kingdoms, which fell under Siam's control."
+   ],
+   "related": [
+    "THA",
+    "KHM",
+    "VNM"
+   ]
+  },
+  {
+   "id": "france",
+   "title": "French Laos",
+   "text": [
+    "France took Laos in 1893 as part of French Indochina. It became independent in 1953."
+   ],
+   "related": [
+    "FRA",
+    "VNM",
+    "KHM"
+   ]
+  },
+  {
+   "id": "war",
+   "title": "Secret war",
+   "text": [
+    "During the Vietnam War, the US secretly bombed Laos to cut North Vietnamese supply routes along the Ho Chi Minh Trail. More than two million tonnes of bombs were dropped between 1964 and 1973, and about a third of the land is still contaminated with unexploded bombs.",
+    "In 1975 the communist Pathet Lao took power and ended the monarchy."
+   ],
+   "highlight": {
+    "title": "Unexploded bombs",
+    "text": "Millions of small 'bombies' still lie in fields and injure people every year."
+   },
+   "related": [
+    "USA",
+    "VNM"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1353",
+   "title": "Lan Xang",
+   "text": "Founded by Fa Ngum."
+  },
+  {
+   "year": "1707",
+   "title": "Split",
+   "text": "Three kingdoms form."
+  },
+  {
+   "year": "1893",
+   "title": "French rule",
+   "text": "Part of Indochina."
+  },
+  {
+   "year": "1953",
+   "title": "Independence",
+   "text": "From France."
+  },
+  {
+   "year": "1964",
+   "title": "Bombing",
+   "text": "Until 1973."
+  },
+  {
+   "year": "1975",
+   "title": "Lao PDR",
+   "text": "Communists take power."
+  },
+  {
+   "year": "2021",
+   "title": "Laos–China Railway",
+   "text": "Opens to Kunming."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "UXO",
+   "meaning": "Unexploded ordnance: bombs that did not go off."
+  },
+  {
+   "term": "Pathet Lao",
+   "meaning": "The communist movement that took power in 1975."
+  }
+ ]
+}

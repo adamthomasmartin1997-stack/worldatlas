@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Laos is a one-party communist state led by the Lao People's Revolutionary Party.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The party controls the government, and other parties are not allowed. The National Assembly is elected but almost all members belong to the party."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Vientiane"
+    },
+    {
+     "label": "Independence",
+     "value": "1953"
+    },
+    {
+     "label": "Ruling party",
+     "value": "Lao People's Revolutionary Party"
+    }
+   ]
+  },
+  {
+   "id": "neighbours",
+   "title": "Neighbours",
+   "text": [
+    "Laos has close ties with Vietnam and China, which built the fast railway from Kunming to Vientiane."
+   ],
+   "related": [
+    "VNM",
+    "CHN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "One-party state",
+   "meaning": "Only one party is allowed to rule."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "General Secretary",
+     "subtitle": "Leads the party",
+     "text": "The most powerful person."
+    },
+    {
+     "title": "The President",
+     "subtitle": "Elected by the National Assembly",
+     "text": "Head of state."
+    },
+    {
+     "title": "The Prime Minister",
+     "subtitle": "Elected by the National Assembly",
+     "text": "Leads the government."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "About 160 members",
+     "text": "Passes laws."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is drafted",
+    "text": "By the government."
+   },
+   {
+    "title": "National Assembly",
+    "text": "Debates and approves it."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it."
+   }
+  ]
+ }
+}

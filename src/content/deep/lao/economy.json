@@ -1,0 +1,63 @@
+{
+ "status": "draft",
+ "intro": "Laos aims to be the 'battery of Southeast Asia' by selling hydropower to its neighbours.",
+ "chapters": [
+  {
+   "id": "power",
+   "title": "Dams",
+   "text": [
+    "Dozens of dams on the Mekong and its tributaries produce electricity, much of it sold to Thailand. The dams worry fishermen downstream."
+   ],
+   "related": [
+    "THA",
+    "KHM",
+    "VNM"
+   ]
+  },
+  {
+   "id": "debt",
+   "title": "Debt",
+   "text": [
+    "Mining, farming and tourism are growing, but large debts, much of it owed to China, have caused high inflation."
+   ],
+   "related": [
+    "CHN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tributary",
+   "meaning": "A river that flows into a bigger river."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Laos",
+   "items": [
+    {
+     "title": "Electricity",
+     "subtitle": "Dams",
+     "text": "Sold to Thailand."
+    },
+    {
+     "title": "Copper and gold",
+     "subtitle": "Mines",
+     "text": "Major exports."
+    },
+    {
+     "title": "Coffee",
+     "subtitle": "Bolaven Plateau",
+     "text": "Arabica and robusta."
+    },
+    {
+     "title": "Rubber and bananas",
+     "subtitle": "North",
+     "text": "Sold to China."
+    }
+   ],
+   "intro": "Some of the things Laos makes and sells to the world."
+  }
+ ]
+}

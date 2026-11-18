@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Myanmar has about 55 million people and more than 130 officially recognised ethnic groups.",
+ "chapters": [
+  {
+   "id": "groups",
+   "title": "Many peoples",
+   "text": [
+    "The Bamar (Burman) majority lives mainly in the central plains. Shan, Karen, Rakhine, Mon, Chin, Kachin and many others live in the hills and borderlands. Burmese is the official language.",
+    "Most people are Theravada Buddhist, and many boys spend time as novice monks."
+   ],
+   "related": [
+    "THA",
+    "CHN"
+   ]
+  },
+  {
+   "id": "thanaka",
+   "title": "Daily life",
+   "text": [
+    "Many people wear thanaka, a pale paste made from bark, on their cheeks as sunscreen and decoration."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bamar",
+   "meaning": "Myanmar's largest ethnic group."
+  }
+ ]
+}

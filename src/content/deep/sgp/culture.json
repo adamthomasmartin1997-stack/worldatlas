@@ -1,0 +1,127 @@
+{
+ "status": "draft",
+ "intro": "Singapore's culture is a mix of Chinese, Malay, Indian and Western influences, best tasted at its hawker centres.",
+ "chapters": [
+  {
+   "id": "hawkers",
+   "title": "Hawker culture",
+   "text": [
+    "Hawker centres, with dozens of cheap food stalls, are on UNESCO's heritage list. Some stalls have won Michelin stars."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Hainanese chicken rice, chilli crab, laksa and roti prata are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Hawker centre",
+   "meaning": "An open-air food court."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Ilo Ilo",
+     "subtitle": "2013 · Anthony Chen",
+     "text": "A family and their maid; won the Caméra d'Or at Cannes."
+    },
+    {
+     "title": "Money No Enough",
+     "subtitle": "1998 · Jack Neo",
+     "text": "A hugely popular local comedy."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Sarong Party Girls",
+     "subtitle": "2016 · Cheryl Lu-Lien Tan",
+     "text": "Life in modern Singapore."
+    },
+    {
+     "title": "The Art of Charlie Chan Hock Chye",
+     "subtitle": "2015 · Sonny Liew",
+     "text": "A graphic novel of Singapore history."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Home",
+     "subtitle": "Kit Chan, 1998",
+     "text": "A national favourite."
+    },
+    {
+     "title": "JJ Lin",
+     "subtitle": "Mandopop",
+     "text": "A star across Asia."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Chicken rice",
+     "subtitle": "Everywhere",
+     "text": "Poached chicken with fragrant rice."
+    },
+    {
+     "title": "Chilli crab",
+     "subtitle": "Seafood restaurants",
+     "text": "Crab in sweet chilli sauce."
+    },
+    {
+     "title": "Laksa",
+     "subtitle": "Katong",
+     "text": "Spicy coconut noodle soup."
+    },
+    {
+     "title": "Kaya toast",
+     "subtitle": "Breakfast",
+     "text": "Coconut jam on toast."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Chinese New Year",
+    "text": "Chinatown lights."
+   },
+   {
+    "month": 8,
+    "name": "National Day",
+    "text": "9 August parade."
+   },
+   {
+    "month": 9,
+    "name": "Singapore Grand Prix",
+    "text": "A night race."
+   },
+   {
+    "month": 10,
+    "name": "Deepavali",
+    "text": "Little India lights up."
+   }
+  ]
+ }
+}

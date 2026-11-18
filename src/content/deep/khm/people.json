@@ -1,0 +1,31 @@
+{
+ "status": "draft",
+ "intro": "Cambodia has about 17 million people, most of them Khmer and Buddhist, with a young population.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Over 90% are Khmer. There are Cham Muslims, Vietnamese, Chinese and Indigenous highland peoples. Khmer has the longest alphabet in the world.",
+    "Because of the genocide, half the population is under about 30."
+   ],
+   "related": [
+    "VNM",
+    "CHN"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Phnom Penh is the capital, and Siem Reap is the gateway to Angkor."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Theravada",
+   "meaning": "The form of Buddhism practised in Cambodia."
+  }
+ ]
+}

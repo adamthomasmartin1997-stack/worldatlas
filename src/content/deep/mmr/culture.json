@@ -1,0 +1,117 @@
+{
+ "status": "draft",
+ "intro": "Burmese culture is deeply Buddhist, with golden pagodas, puppet theatre and lively festivals.",
+ "chapters": [
+  {
+   "id": "pagodas",
+   "title": "Pagodas",
+   "text": [
+    "The Shwedagon Pagoda in Yangon, covered in gold, is the country's holiest site. Men and women often wear a longyi, a wrapped sarong."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Mohinga, fish noodle soup, is the national breakfast. Lahpet thoke, a salad of fermented tea leaves, is unique to Myanmar."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Longyi",
+   "meaning": "A wrapped cloth worn like a skirt."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "The Road to Mandalay",
+     "subtitle": "2016 · Midi Z",
+     "text": "Migrants in Thailand."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Burmese Days",
+     "subtitle": "1934 · George Orwell",
+     "text": "Colonial life, by a former police officer in Burma."
+    },
+    {
+     "title": "Letters from Burma",
+     "subtitle": "1997 · Aung San Suu Kyi",
+     "text": "Essays on daily life."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Hsaing waing",
+     "subtitle": "Orchestra",
+     "text": "Traditional drum-circle ensemble."
+    },
+    {
+     "title": "Saung gauk",
+     "subtitle": "Instrument",
+     "text": "A boat-shaped harp."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Mohinga",
+     "subtitle": "Breakfast",
+     "text": "Fish noodle soup."
+    },
+    {
+     "title": "Lahpet thoke",
+     "subtitle": "Everywhere",
+     "text": "Tea leaf salad."
+    },
+    {
+     "title": "Shan noodles",
+     "subtitle": "Shan State",
+     "text": "Rice noodles with tomato sauce."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Independence Day",
+    "text": "4 January."
+   },
+   {
+    "month": 4,
+    "name": "Thingyan",
+    "text": "New Year water festival."
+   },
+   {
+    "month": 10,
+    "name": "Thadingyut",
+    "text": "Festival of lights."
+   },
+   {
+    "month": 11,
+    "name": "Tazaungdaing",
+    "text": "Fire balloons in Taunggyi."
+   }
+  ]
+ }
+}
