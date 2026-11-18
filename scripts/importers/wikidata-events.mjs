@@ -71,14 +71,28 @@ const cache = new Map(prev.filter((e) => e.start).map((e) => [e.id, e])); // und
 const ids = [...kindOf.keys()];
 const todo = ids.filter((q) => !cache.has(q));
 const PRECISION = { 6: 'millennium', 7: 'century', 8: 'decade', 9: 'year', 10: 'month', 11: 'day' };
-/** Wikidata time "+1815-06-18T00:00:00Z" / "-0490-01-01T00:00:00Z" -> { date: "1815-06-18" | "-0490", precision }. */
-function parseTime(value, precision) {
+/**
+ * The query service gives every date in the proleptic Gregorian calendar with astronomical year
+ * numbering (year 0 = 1 BC, -489 = 490 BC). Dates entered in the Julian calendar (most dates before
+ * 1582) are converted back to Julian, so the Battle of Hastings reads 14 October 1066 as historians
+ * write it, and years are stored the historical way: -490 for 490 BC.
+ */
+const JULIAN = 'http://www.wikidata.org/entity/Q1985786';
+const jdnFromGregorian = (y, m, d) => { const a = Math.floor((14 - m) / 12), yy = y + 4800 - a, mm = m + 12 * a - 3; return d + Math.floor((153 * mm + 2) / 5) + 365 * yy + Math.floor(yy / 4) - Math.floor(yy / 100) + Math.floor(yy / 400) - 32045; };
+function julianFromJdn(j) {
+  const c = j + 32082, d = Math.floor((4 * c + 3) / 1461), e = c - Math.floor((1461 * d) / 4), m = Math.floor((5 * e + 2) / 153);
+  return [d - 4800 + Math.floor(m / 10), m + 3 - 12 * Math.floor(m / 10), e - Math.floor((153 * m + 2) / 5) + 1];
+}
+export function parseTime(value, precision, calendar) {
   const m = /^([+-]?)(\d+)-(\d\d)-(\d\d)/.exec(value); // the query service drops the "+" on AD dates
   if (!m) return null;
-  const year = (m[1] === '-' ? -1 : 1) * Number(m[2]);
+  let [y, mo, d] = [(m[1] === '-' ? -1 : 1) * Number(m[2]), Number(m[3]), Number(m[4])];
+  if (calendar === JULIAN && mo && d) [y, mo, d] = julianFromJdn(jdnFromGregorian(y, mo, d));
   const p = Number(precision);
-  const y = year < 0 ? `-${String(-year).padStart(4, '0')}` : String(year).padStart(4, '0');
-  const date = p >= 11 ? `${y}-${m[3]}-${m[4]}` : p === 10 ? `${y}-${m[3]}` : y;
+  const year = y <= 0 ? y - 1 : y; // astronomical -> historical
+  const ys = year < 0 ? `-${String(-year).padStart(4, '0')}` : String(year).padStart(4, '0');
+  const pad = (n) => String(n).padStart(2, '0');
+  const date = p >= 11 ? `${ys}-${pad(mo)}-${pad(d)}` : p === 10 ? `${ys}-${pad(mo)}` : ys;
   return { date, year, precision: PRECISION[p] ?? 'year' };
 }
 const REL = { P17: 'country', P710: 'participants', P361: 'partOf', P828: 'causes', P1542: 'effects', P155: 'follows', P156: 'followedBy', P276: 'location', P1365: 'replaces', P1366: 'replacedBy' };
@@ -96,11 +110,11 @@ for (let i = 0; i < todo.length; i += BATCH) {
     e.label = r.label?.value ?? null; e.description = r.desc?.value ?? null; e.sitelinks = Number(r.n.value); e.article = r.article?.value ?? null;
   }
   // Dates: a point in time, or a start and end; for states, founded and dissolved.
-  for (const r of await sparql(`SELECT ?e ?prop ?v ?p WHERE { VALUES ?e { ${values} } VALUES ?prop { p:P585 p:P580 p:P582 p:P571 p:P576 }
+  for (const r of await sparql(`SELECT ?e ?prop ?v ?p ?cal WHERE { VALUES ?e { ${values} } VALUES ?prop { p:P585 p:P580 p:P582 p:P571 p:P576 }
       ?e ?prop ?s . ?s wikibase:rank ?rank . FILTER(?rank != wikibase:DeprecatedRank)
-      ?s ?psv ?node . ?propEntity wikibase:claim ?prop ; wikibase:statementValue ?psv . ?node wikibase:timeValue ?v ; wikibase:timePrecision ?p . }`)) {
+      ?s ?psv ?node . ?propEntity wikibase:claim ?prop ; wikibase:statementValue ?psv . ?node wikibase:timeValue ?v ; wikibase:timePrecision ?p ; wikibase:timeCalendarModel ?cal . }`)) {
     const e = ev.get(qid(r.e.value));
-    const t = parseTime(r.v.value, r.p.value);
+    const t = parseTime(r.v.value, r.p.value, r.cal.value);
     if (!t) continue;
     const prop = qid(r.prop.value);
     if (prop === 'P585' || prop === 'P580' || prop === 'P571') { if (!e.start || t.year < e.start.year) e.start = t; }
