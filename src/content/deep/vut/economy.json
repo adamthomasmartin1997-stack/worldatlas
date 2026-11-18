@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Tourism, farming and citizenship sales support Vanuatu's economy.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Kava, copra, beef and cocoa are exported. Tourists visit by cruise ship and air. Many ni-Vanuatu do seasonal farm work in Australia and New Zealand."
+   ],
+   "related": [
+    "AUS",
+    "NZL"
+   ]
+  },
+  {
+   "id": "tax",
+   "title": "Tax haven",
+   "text": [
+    "Vanuatu has no income tax."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Seasonal work",
+   "meaning": "Jobs during harvest time."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Vanuatu",
+   "items": [
+    {
+     "title": "Kava",
+     "subtitle": "Islands",
+     "text": "A top export."
+    },
+    {
+     "title": "Copra",
+     "subtitle": "Islands",
+     "text": "Dried coconut."
+    },
+    {
+     "title": "Beef",
+     "subtitle": "Santo",
+     "text": "Grass-fed cattle."
+    },
+    {
+     "title": "Tourism",
+     "subtitle": "Efate and Tanna",
+     "text": "Cruise visitors."
+    }
+   ],
+   "intro": "Some of the things Vanuatu makes and sells to the world."
+  }
+ ]
+}

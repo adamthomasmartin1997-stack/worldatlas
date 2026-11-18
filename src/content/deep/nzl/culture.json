@@ -1,0 +1,140 @@
+{
+ "status": "draft",
+ "intro": "New Zealand culture blends Māori, European and Pacific traditions.",
+ "chapters": [
+  {
+   "id": "maori",
+   "title": "Māori culture",
+   "text": [
+    "The haka is a Māori challenge dance. Tā moko is traditional tattooing. The marae is a meeting place at the heart of Māori community life."
+   ]
+  },
+  {
+   "id": "arts",
+   "title": "Arts and food",
+   "text": [
+    "Lorde and Crowded House are famous musicians, and Taika Waititi is an Oscar-winning director. Hāngī is food cooked in an earth oven; pavlova is a beloved dessert, claimed by Australia too."
+   ],
+   "related": [
+    "AUS"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Haka",
+   "meaning": "A Māori ceremonial dance."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Whale Rider",
+     "subtitle": "2002 · Niki Caro",
+     "text": "A Māori girl's destiny."
+    },
+    {
+     "title": "The Lord of the Rings",
+     "subtitle": "2001–03 · Peter Jackson",
+     "text": "Filmed across New Zealand."
+    },
+    {
+     "title": "Hunt for the Wilderpeople",
+     "subtitle": "2016 · Taika Waititi",
+     "text": "A boy and his uncle in the bush."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Bone People",
+     "subtitle": "1984 · Keri Hulme",
+     "text": "Won the Booker Prize."
+    },
+    {
+     "title": "The Luminaries",
+     "subtitle": "2013 · Eleanor Catton",
+     "text": "Won the Booker Prize."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Pōkarekare Ana",
+     "subtitle": "Traditional",
+     "text": "A Māori love song."
+    },
+    {
+     "title": "Royals",
+     "subtitle": "Lorde, 2013",
+     "text": "A worldwide hit."
+    },
+    {
+     "title": "Six60",
+     "subtitle": "Band",
+     "text": "A popular band."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Hāngī",
+     "subtitle": "Celebrations",
+     "text": "Food cooked in an earth oven."
+    },
+    {
+     "title": "Pavlova",
+     "subtitle": "Desserts",
+     "text": "A meringue cake."
+    },
+    {
+     "title": "Hokey pokey ice cream",
+     "subtitle": "Everywhere",
+     "text": "With honeycomb toffee."
+    },
+    {
+     "title": "Mince and cheese pie",
+     "subtitle": "Everywhere",
+     "text": "A favourite snack."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Waitangi Day",
+    "text": "6 February."
+   },
+   {
+    "month": 4,
+    "name": "Anzac Day",
+    "text": "25 April."
+   },
+   {
+    "month": 6,
+    "name": "Matariki",
+    "text": "Māori New Year, a public holiday since 2022."
+   },
+   {
+    "month": 11,
+    "name": "Guy Fawkes",
+    "text": "Fireworks on 5 November."
+   }
+  ]
+ }
+}

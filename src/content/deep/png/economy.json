@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Papua New Guinea exports gas, gold, copper, palm oil and coffee.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "A big liquefied gas project sends gas to Asia. Gold and copper come from mines like Ok Tedi and Lihir. Most people farm for food."
+   ],
+   "related": [
+    "AUS",
+    "JPN",
+    "CHN"
+   ]
+  },
+  {
+   "id": "forests",
+   "title": "Forests",
+   "text": [
+    "Large rainforests are under pressure from logging."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Subsistence farming",
+   "meaning": "Growing food for your family."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Papua New Guinea",
+   "items": [
+    {
+     "title": "Liquefied gas",
+     "subtitle": "Southern Highlands",
+     "text": "The top export."
+    },
+    {
+     "title": "Gold",
+     "subtitle": "Lihir and Porgera",
+     "text": "Large gold mines."
+    },
+    {
+     "title": "Copper",
+     "subtitle": "Ok Tedi",
+     "text": "A big mine."
+    },
+    {
+     "title": "Coffee",
+     "subtitle": "Highlands",
+     "text": "Grown by small farmers."
+    },
+    {
+     "title": "Palm oil",
+     "subtitle": "Coast",
+     "text": "Plantations."
+    }
+   ],
+   "intro": "Some of the things Papua New Guinea makes and sells to the world."
+  }
+ ]
+}

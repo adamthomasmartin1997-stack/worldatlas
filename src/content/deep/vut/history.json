@@ -1,0 +1,85 @@
+{
+ "status": "draft",
+ "intro": "Vanuatu is a Y-shaped chain of about 80 islands that was once ruled jointly by Britain and France.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Lapita and chiefs",
+   "text": [
+    "Lapita people arrived about 3,000 years ago. Roi Mata, a great chief of the 1600s, is honoured at a World Heritage site."
+   ],
+   "related": [
+    "FJI",
+    "SLB"
+   ]
+  },
+  {
+   "id": "condominium",
+   "title": "The Condominium",
+   "text": [
+    "From 1906 Britain and France ruled together in an unusual 'Condominium', with two police forces, two school systems and two sets of laws. In the 1800s many ni-Vanuatu were taken, sometimes by force, to work on plantations in Australia and Fiji, a practice called blackbirding."
+   ],
+   "highlight": {
+    "title": "Two rulers",
+    "text": "The New Hebrides was jointly ruled by Britain and France."
+   },
+   "related": [
+    "GBR",
+    "FRA",
+    "AUS"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Vanuatu became independent in 1980. Cyclone Pam in 2015 and a strong earthquake in 2024 caused great damage. Vanuatu led a successful push for a UN court opinion on climate change, delivered in 2025."
+   ],
+   "related": [
+    "AUS"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1000 BC",
+   "title": "Lapita",
+   "text": "First settlers."
+  },
+  {
+   "year": "1606",
+   "title": "Quirós",
+   "text": "Spanish explorer arrives."
+  },
+  {
+   "year": "1906",
+   "title": "Condominium",
+   "text": "British-French rule."
+  },
+  {
+   "year": "1980",
+   "title": "Independence",
+   "text": "30 July."
+  },
+  {
+   "year": "2015",
+   "title": "Cyclone Pam",
+   "text": "A huge storm."
+  },
+  {
+   "year": "2025",
+   "title": "Climate ruling",
+   "text": "A UN court opinion Vanuatu sought."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Condominium",
+   "meaning": "A territory ruled by two countries together."
+  },
+  {
+   "term": "Blackbirding",
+   "meaning": "Tricking or forcing people into labour abroad."
+  }
+ ]
+}

@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Logging, fishing and farming are the backbone of the economy.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Timber is a major export, though forests are being cut faster than they regrow. Tuna, copra and palm oil are also exported."
+   ],
+   "related": [
+    "CHN"
+   ]
+  },
+  {
+   "id": "money",
+   "title": "Shell money",
+   "text": [
+    "Traditional shell money is still used in ceremonies."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Copra",
+   "meaning": "Dried coconut flesh."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Solomon Islands",
+   "items": [
+    {
+     "title": "Timber",
+     "subtitle": "Forests",
+     "text": "The top export."
+    },
+    {
+     "title": "Tuna",
+     "subtitle": "Ocean",
+     "text": "Canned at Noro."
+    },
+    {
+     "title": "Copra",
+     "subtitle": "Islands",
+     "text": "Dried coconut."
+    }
+   ],
+   "intro": "Some of the things Solomon Islands makes and sells to the world."
+  }
+ ]
+}

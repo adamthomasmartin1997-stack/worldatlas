@@ -1,0 +1,75 @@
+{
+ "status": "draft",
+ "intro": "Vanuatu's culture inspired bungee jumping.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Land diving",
+   "text": [
+    "On Pentecost island, men dive from tall wooden towers with vines tied to their ankles, a harvest ritual called Nagol that inspired bungee jumping. Sand drawing is on UNESCO's list."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Lap lap, grated root vegetables baked with coconut cream, is the national dish."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Nagol",
+   "meaning": "Land diving from towers."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "String band",
+     "subtitle": "Music",
+     "text": "Guitars and ukuleles."
+    },
+    {
+     "title": "Water music",
+     "subtitle": "Gaua",
+     "text": "Women make music by slapping water."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Lap lap",
+     "subtitle": "Everywhere",
+     "text": "Root vegetables with coconut."
+    },
+    {
+     "title": "Kava",
+     "subtitle": "Evenings",
+     "text": "A relaxing drink for adults."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 4,
+    "name": "Nagol season",
+    "text": "Land diving from April to June."
+   },
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "30 July."
+   }
+  ]
+ }
+}

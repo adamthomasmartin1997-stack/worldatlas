@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "New Zealand's economy is built on farming, tourism and services.",
+ "chapters": [
+  {
+   "id": "farming",
+   "title": "Farming",
+   "text": [
+    "Milk powder, butter, meat, wool and kiwifruit are big exports. Fonterra is one of the world's biggest dairy exporters. New Zealand also makes wine, especially Sauvignon Blanc."
+   ],
+   "related": [
+    "CHN",
+    "AUS",
+    "USA"
+   ]
+  },
+  {
+   "id": "tourism",
+   "title": "Tourism and film",
+   "text": [
+    "The Lord of the Rings films boosted tourism, and Wellington has a world-class film effects industry."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Dairy",
+   "meaning": "Milk and milk products."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in New Zealand",
+   "items": [
+    {
+     "title": "Dairy",
+     "subtitle": "Waikato",
+     "text": "Milk powder and butter."
+    },
+    {
+     "title": "Meat",
+     "subtitle": "Farms",
+     "text": "Lamb and beef."
+    },
+    {
+     "title": "Kiwifruit",
+     "subtitle": "Bay of Plenty",
+     "text": "Zespri kiwifruit."
+    },
+    {
+     "title": "Wine",
+     "subtitle": "Marlborough",
+     "text": "Sauvignon Blanc."
+    },
+    {
+     "title": "Film effects",
+     "subtitle": "Wellington",
+     "text": "Wētā FX makes film effects."
+    }
+   ],
+   "intro": "Some of the things New Zealand makes and sells to the world."
+  }
+ ]
+}

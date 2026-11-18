@@ -1,0 +1,87 @@
+{
+ "status": "draft",
+ "intro": "Papua New Guinea has more languages than any other country, about 840, and one of the world's oldest farming traditions.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Ancient farmers",
+   "text": [
+    "People reached New Guinea at least 50,000 years ago. At Kuk Swamp in the highlands, people began farming around 7,000 to 10,000 years ago, one of the earliest farming centres in the world."
+   ],
+   "highlight": {
+    "title": "Kuk",
+    "text": "Kuk Early Agricultural Site is a World Heritage site."
+   },
+   "related": [
+    "IDN",
+    "AUS"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "German, British and Australian rule",
+   "text": [
+    "In 1884 Germany took the north-east and Britain the south. Australia later ran both parts. During World War Two, Japan and the Allies fought fiercely here, including on the Kokoda Track. Many highland valleys were only reached by outsiders in the 1930s."
+   ],
+   "related": [
+    "DEU",
+    "GBR",
+    "AUS",
+    "JPN"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Papua New Guinea became independent from Australia in 1975. A civil war on Bougainville in the 1990s ended with a peace deal; in 2019 almost 98% of Bougainvilleans voted for independence, which is still being negotiated."
+   ],
+   "related": [
+    "AUS",
+    "SLB"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 50,000 years ago",
+   "title": "First people",
+   "text": "Arrive in New Guinea."
+  },
+  {
+   "year": "c. 7000 BC",
+   "title": "Kuk farming",
+   "text": "Early agriculture."
+  },
+  {
+   "year": "1884",
+   "title": "Colonies",
+   "text": "German and British."
+  },
+  {
+   "year": "1942",
+   "title": "Kokoda",
+   "text": "World War Two battles."
+  },
+  {
+   "year": "1975",
+   "title": "Independence",
+   "text": "16 September."
+  },
+  {
+   "year": "2019",
+   "title": "Bougainville vote",
+   "text": "For independence."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Wantok",
+   "meaning": "'One talk': people who share a language and support each other."
+  },
+  {
+   "term": "Highlands",
+   "meaning": "The mountainous centre."
+  }
+ ]
+}

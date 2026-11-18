@@ -1,0 +1,87 @@
+{
+ "status": "draft",
+ "intro": "Papua New Guinea covers the eastern half of New Guinea and many islands, with mountains, rainforest and reefs.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "Mount Wilhelm is the highest peak. The Sepik and Fly are huge rivers. It is home to birds-of-paradise and tree kangaroos, and its reefs are part of the Coral Triangle."
+   ],
+   "related": [
+    "IDN",
+    "AUS",
+    "SLB"
+   ]
+  },
+  {
+   "id": "volcanoes",
+   "title": "Volcanoes",
+   "text": [
+    "Active volcanoes like Rabaul and Manam erupt from time to time."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bird-of-paradise",
+   "meaning": "A bird with spectacular feathers."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Papua New Guinea's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Port Moresby",
+    "kind": "capital",
+    "lat": -9.44,
+    "lon": 147.18,
+    "text": "On the south coast."
+   },
+   {
+    "name": "Kokoda Track",
+    "kind": "jungle trail",
+    "lat": -9.0,
+    "lon": 147.7,
+    "text": "A wartime path."
+   },
+   {
+    "name": "Mount Wilhelm",
+    "kind": "mountain",
+    "lat": -5.78,
+    "lon": 145.03,
+    "text": "The highest peak."
+   },
+   {
+    "name": "Sepik River",
+    "kind": "river",
+    "lat": -4.2,
+    "lon": 143.5,
+    "text": "Spirit houses."
+   },
+   {
+    "name": "Kuk Swamp",
+    "kind": "ancient farms",
+    "lat": -5.78,
+    "lon": 144.33,
+    "text": "Early agriculture."
+   },
+   {
+    "name": "Rabaul",
+    "kind": "volcano",
+    "lat": -4.2,
+    "lon": 152.17,
+    "text": "An active volcano."
+   },
+   {
+    "name": "Milne Bay",
+    "kind": "bay",
+    "lat": -10.4,
+    "lon": 150.5,
+    "text": "Reefs and wrecks."
+   }
+  ]
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "status": "draft",
+ "intro": "Rugby is New Zealand's national sport, and the All Blacks are one of the most successful teams in any sport.",
+ "chapters": [
+  {
+   "id": "rugby",
+   "title": "The All Blacks",
+   "text": [
+    "The All Blacks have won the Rugby World Cup three times (1987, 2011, 2015) and perform the haka before matches. The women's Black Ferns have won six World Cups."
+   ],
+   "related": [
+    "AUS",
+    "ZAF",
+    "GBR",
+    "FRA"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Sailing (the America's Cup), rowing and netball are also strong. Lisa Carrington has won eight Olympic canoe golds."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "All Blacks",
+   "meaning": "The men's rugby team, named for their black kit."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Super Rugby",
+     "subtitle": "Rugby",
+     "text": "The Crusaders have won it the most."
+    },
+    {
+     "title": "America's Cup",
+     "subtitle": "Sailing",
+     "text": "Won by Team New Zealand."
+    },
+    {
+     "title": "ANZ Premiership",
+     "subtitle": "Netball",
+     "text": "The top netball league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Edmund Hillary",
+     "subtitle": "Mountaineering",
+     "text": "First up Everest with Tenzing Norgay."
+    },
+    {
+     "title": "Richie McCaw",
+     "subtitle": "Rugby",
+     "text": "Captain of two World Cup winners."
+    },
+    {
+     "title": "Peter Snell",
+     "subtitle": "Running",
+     "text": "Three Olympic golds."
+    },
+    {
+     "title": "Valerie Adams",
+     "subtitle": "Shot put",
+     "text": "Two Olympic golds."
+    },
+    {
+     "title": "Lisa Carrington",
+     "subtitle": "Canoeing",
+     "text": "Eight Olympic golds."
+    },
+    {
+     "title": "Kane Williamson",
+     "subtitle": "Cricket",
+     "text": "A great batter."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where New Zealand's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Eden Park, Auckland",
+    "kind": "venue",
+    "lat": -36.87,
+    "lon": 174.74,
+    "text": "Hosted two Rugby World Cup finals."
+   },
+   {
+    "name": "Sky Stadium, Wellington",
+    "kind": "venue",
+    "lat": -41.27,
+    "lon": 174.79,
+    "text": "A big stadium."
+   },
+   {
+    "name": "Lake Karapiro",
+    "kind": "venue",
+    "lat": -37.93,
+    "lon": 175.53,
+    "text": "A rowing course."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1987",
+    "title": "Rugby World Cup",
+    "text": "Winners of the first tournament."
+   },
+   {
+    "year": "1995",
+    "title": "America's Cup",
+    "text": "Black Magic wins."
+   },
+   {
+    "year": "2011",
+    "title": "Rugby World Cup",
+    "text": "Won at home."
+   },
+   {
+    "year": "2021",
+    "title": "World Test Championship",
+    "text": "Cricket champions."
+   }
+  ]
+ }
+}

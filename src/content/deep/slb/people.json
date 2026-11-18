@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Solomon Islands has about 750,000 people.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most people are Melanesian, with Polynesian and Micronesian minorities. English is official, but Solomons Pijin is the common language, and about 70 languages are spoken. Most people are Christian."
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Village life",
+   "text": [
+    "Most people live in villages and fish and farm."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pijin",
+   "meaning": "Solomon Islands' common language."
+  }
+ ]
+}

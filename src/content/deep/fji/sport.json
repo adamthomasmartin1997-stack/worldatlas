@@ -1,0 +1,103 @@
+{
+ "status": "draft",
+ "intro": "Rugby sevens is Fiji's national passion and brought its first Olympic gold.",
+ "chapters": [
+  {
+   "id": "sevens",
+   "title": "Rugby sevens",
+   "text": [
+    "Fiji won men's rugby sevens gold at the 2016 and 2020 Olympics. The women won bronze in 2021."
+   ],
+   "related": [
+    "GBR",
+    "NZL"
+   ]
+  },
+  {
+   "id": "fifteens",
+   "title": "Rugby union",
+   "text": [
+    "The Fijian Drua play in Super Rugby, and Fiji reached the 2023 Rugby World Cup quarter-finals."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sevens",
+   "meaning": "Rugby with seven players a side."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Fijian Drua",
+     "subtitle": "Rugby",
+     "text": "Plays in Super Rugby."
+    },
+    {
+     "title": "Skipper Cup",
+     "subtitle": "Rugby",
+     "text": "The domestic competition."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Waisale Serevi",
+     "subtitle": "Rugby sevens",
+     "text": "Sevens legend."
+    },
+    {
+     "title": "Jerry Tuwai",
+     "subtitle": "Rugby sevens",
+     "text": "Two Olympic golds."
+    },
+    {
+     "title": "Vijay Singh",
+     "subtitle": "Golf",
+     "text": "World No. 1 golfer."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Fiji's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "HFC Bank Stadium, Suva",
+    "kind": "venue",
+    "lat": -18.15,
+    "lon": 178.44,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2016",
+    "title": "Olympic gold",
+    "text": "Rugby sevens in Rio."
+   },
+   {
+    "year": "2021",
+    "title": "Olympic gold again",
+    "text": "Sevens in Tokyo."
+   },
+   {
+    "year": "2023",
+    "title": "World Cup quarter-final",
+    "text": "Beat Australia."
+   }
+  ]
+ }
+}

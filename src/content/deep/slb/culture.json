@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Solomon Islands culture is known for panpipes, carving and shell money.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Panpipe bands from Malaita perform across the Pacific. Carvers make wooden canoe figureheads."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Fish, root crops and coconut are everyday foods."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Panpipes",
+   "meaning": "A set of pipes played by blowing."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Panpipes",
+     "subtitle": "Malaita",
+     "text": "Bamboo panpipe bands."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Fish and taro",
+     "subtitle": "Everywhere",
+     "text": "Everyday food."
+    },
+    {
+     "title": "Cassava pudding",
+     "subtitle": "Celebrations",
+     "text": "With coconut cream."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 7,
+    "name": "Independence Day",
+    "text": "7 July."
+   }
+  ]
+ }
+}

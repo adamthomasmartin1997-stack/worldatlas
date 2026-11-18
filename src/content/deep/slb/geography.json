@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Solomon Islands has volcanic islands, coral atolls and one of the largest saltwater lagoons in the world.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Islands and lagoons",
+   "text": [
+    "Guadalcanal is the largest island. Marovo Lagoon is one of the world's largest saltwater lagoons. East Rennell, a raised coral atoll, is a World Heritage site."
+   ],
+   "related": [
+    "PNG",
+    "VUT"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The islands are hot and wet, and rising seas threaten low islands."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Atoll",
+   "meaning": "A ring of coral islands."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Solomon Islands' landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Honiara",
+    "kind": "capital",
+    "lat": -9.43,
+    "lon": 159.95,
+    "text": "On Guadalcanal."
+   },
+   {
+    "name": "Iron Bottom Sound",
+    "kind": "wreck site",
+    "lat": -9.25,
+    "lon": 159.9,
+    "text": "Sunken warships."
+   },
+   {
+    "name": "Marovo Lagoon",
+    "kind": "lagoon",
+    "lat": -8.6,
+    "lon": 158.0,
+    "text": "A giant lagoon."
+   },
+   {
+    "name": "East Rennell",
+    "kind": "atoll",
+    "lat": -11.6,
+    "lon": 160.3,
+    "text": "A raised coral atoll."
+   },
+   {
+    "name": "Malaita",
+    "kind": "island",
+    "lat": -9.0,
+    "lon": 161.0,
+    "text": "Shell money makers."
+   }
+  ]
+ }
+}

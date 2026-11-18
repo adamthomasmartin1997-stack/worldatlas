@@ -1,0 +1,36 @@
+{
+ "status": "draft",
+ "intro": "New Zealand has about 5.3 million people of European, Māori, Pacific and Asian descent.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "About 70% are of European descent, about 18% Māori and many Pacific and Asian New Zealanders. English, Māori (te reo) and New Zealand Sign Language are official. Auckland has the largest Polynesian population of any city in the world."
+   ],
+   "related": [
+    "WSM",
+    "TON",
+    "CHN",
+    "IND"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Auckland is the biggest city; Wellington is the capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Te reo Māori",
+   "meaning": "The Māori language."
+  },
+  {
+   "term": "Kiwi",
+   "meaning": "A nickname for New Zealanders, and a bird."
+  }
+ ]
+}

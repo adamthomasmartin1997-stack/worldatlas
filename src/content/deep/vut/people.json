@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Vanuatu has about 330,000 people and over 100 languages, the highest number per person in the world.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Bislama, English and French are official. Most people are ni-Vanuatu Melanesians and Christian, and custom (kastom) remains strong."
+   ]
+  },
+  {
+   "id": "capital",
+   "title": "Port Vila",
+   "text": [
+    "Port Vila, on Efate, is the capital."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bislama",
+   "meaning": "Vanuatu's national creole language."
+  },
+  {
+   "term": "Kastom",
+   "meaning": "Traditional customs."
+  }
+ ]
+}

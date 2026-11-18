@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Solomon Islands is a scattered nation of nearly 1,000 islands in the south-west Pacific, scene of fierce World War Two battles.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Early settlers",
+   "text": [
+    "People have lived here for about 30,000 years. Spanish explorer Álvaro de Mendaña arrived in 1568 and named the islands after King Solomon, hoping for gold."
+   ],
+   "related": [
+    "ESP",
+    "PNG"
+   ]
+  },
+  {
+   "id": "war",
+   "title": "Protectorate and war",
+   "text": [
+    "Britain made the islands a protectorate in the 1890s. In 1942–43 the Battle of Guadalcanal between Japan and the US was a turning point in the Pacific war. Solomon Islander scouts helped rescue John F. Kennedy after his boat sank."
+   ],
+   "highlight": {
+    "title": "Guadalcanal",
+    "text": "One of the most important battles of the Pacific war."
+   },
+   "related": [
+    "GBR",
+    "JPN",
+    "USA"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "Solomon Islands became independent in 1978. Ethnic tensions from 1998 to 2003, 'the Tensions', led to an Australian-led peacekeeping mission, RAMSI. In 2019 the country switched recognition from Taiwan to China."
+   ],
+   "related": [
+    "AUS",
+    "CHN",
+    "TWN"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1568",
+   "title": "Mendaña",
+   "text": "Names the islands."
+  },
+  {
+   "year": "1893",
+   "title": "British protectorate",
+   "text": "Begins."
+  },
+  {
+   "year": "1942",
+   "title": "Guadalcanal",
+   "text": "Major battles."
+  },
+  {
+   "year": "1978",
+   "title": "Independence",
+   "text": "7 July."
+  },
+  {
+   "year": "2003",
+   "title": "RAMSI",
+   "text": "Peacekeepers arrive."
+  },
+  {
+   "year": "2023",
+   "title": "Pacific Games",
+   "text": "Hosted in Honiara."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Protectorate",
+   "meaning": "A territory protected and run by another country."
+  }
+ ]
+}

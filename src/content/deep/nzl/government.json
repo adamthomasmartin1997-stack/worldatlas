@@ -1,0 +1,97 @@
+{
+ "status": "draft",
+ "intro": "New Zealand is a parliamentary democracy with the British monarch as head of state.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Parliament has one chamber, elected by mixed-member proportional representation, with seats reserved for Māori voters. Christopher Luxon became prime minister in 2023."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Wellington"
+    },
+    {
+     "label": "Parliament",
+     "value": "Single chamber"
+    },
+    {
+     "label": "Women's vote",
+     "value": "1893"
+    }
+   ]
+  },
+  {
+   "id": "leaders",
+   "title": "Firsts",
+   "text": [
+    "Jacinda Ardern became one of the world's youngest leaders in 2017."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "MMP",
+   "meaning": "A voting system mixing local seats and party lists."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The King",
+     "subtitle": "Represented by a Governor-General",
+     "text": "Ceremonial head of state."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Leader of the governing party",
+     "text": "Leads the government."
+    },
+    {
+     "title": "House of Representatives",
+     "subtitle": "About 120 members",
+     "text": "Elected by MMP."
+    },
+    {
+     "title": "Māori seats",
+     "subtitle": "Reserved seats",
+     "text": "Chosen by voters on the Māori roll."
+    },
+    {
+     "title": "Waitangi Tribunal",
+     "subtitle": "Commission",
+     "text": "Looks into Treaty claims."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "By a minister or member."
+   },
+   {
+    "title": "Select committee",
+    "text": "The public can make submissions."
+   },
+   {
+    "title": "Three readings",
+    "text": "In the House."
+   },
+   {
+    "title": "Royal assent",
+    "text": "The Governor-General signs it."
+   }
+  ]
+ }
+}

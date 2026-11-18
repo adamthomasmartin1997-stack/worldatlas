@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Fiji has about 900,000 people of iTaukei, Indian and other descent.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "About 60% are iTaukei and about a third Indo-Fijian. English, Fijian and Fiji Hindi are official. Christianity, Hinduism and Islam are all practised."
+   ],
+   "related": [
+    "IND"
+   ]
+  },
+  {
+   "id": "suva",
+   "title": "Suva",
+   "text": [
+    "Suva, the capital, is the largest city in the South Pacific outside Australia and New Zealand."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bula",
+   "meaning": "A Fijian greeting meaning 'life'."
+  }
+ ]
+}

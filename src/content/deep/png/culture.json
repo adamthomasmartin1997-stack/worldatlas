@@ -1,0 +1,96 @@
+{
+ "status": "draft",
+ "intro": "Papua New Guinea's culture is incredibly varied, with hundreds of traditions.",
+ "chapters": [
+  {
+   "id": "singsing",
+   "title": "Sing-sings",
+   "text": [
+    "At the Goroka and Mount Hagen shows, groups gather in feathers, paint and costumes for sing-sings. The Asaro 'mudmen' wear clay masks."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Mumu, food cooked with hot stones in an earth oven, is common at celebrations."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sing-sing",
+   "meaning": "A gathering with dancing and music."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "First Contact",
+     "subtitle": "1983",
+     "text": "A documentary about highland contact in the 1930s."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Stringband",
+     "subtitle": "Music",
+     "text": "Guitar and ukulele music."
+    },
+    {
+     "title": "Kundu drum",
+     "subtitle": "Instrument",
+     "text": "An hourglass-shaped drum."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Mumu",
+     "subtitle": "Celebrations",
+     "text": "Earth-oven feast."
+    },
+    {
+     "title": "Kaukau",
+     "subtitle": "Everywhere",
+     "text": "Sweet potato."
+    },
+    {
+     "title": "Sago",
+     "subtitle": "Lowlands",
+     "text": "Starch from palms."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 8,
+    "name": "Mount Hagen Show",
+    "text": "A big sing-sing."
+   },
+   {
+    "month": 9,
+    "name": "Goroka Show",
+    "text": "Independence weekend."
+   },
+   {
+    "month": 9,
+    "name": "Independence Day",
+    "text": "16 September."
+   }
+  ]
+ }
+}

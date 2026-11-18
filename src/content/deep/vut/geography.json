@@ -1,0 +1,73 @@
+{
+ "status": "draft",
+ "intro": "Vanuatu's islands are volcanic, with active volcanoes you can stand beside.",
+ "chapters": [
+  {
+   "id": "volcanoes",
+   "title": "Volcanoes",
+   "text": [
+    "Mount Yasur on Tanna is one of the world's most accessible active volcanoes. Ambrym has lava lakes. Espiritu Santo is the largest island."
+   ],
+   "related": [
+    "NCL",
+    "FJI",
+    "SLB"
+   ]
+  },
+  {
+   "id": "hazards",
+   "title": "Hazards",
+   "text": [
+    "Vanuatu is often ranked one of the countries most at risk from natural disasters."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Active volcano",
+   "meaning": "A volcano that erupts."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Vanuatu's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Espiritu Santo",
+    "kind": "island",
+    "lat": -15.4,
+    "lon": 166.9,
+    "text": "Blue holes and wrecks."
+   },
+   {
+    "name": "Pentecost",
+    "kind": "island",
+    "lat": -15.7,
+    "lon": 168.2,
+    "text": "Land diving."
+   },
+   {
+    "name": "Ambrym",
+    "kind": "volcanic island",
+    "lat": -16.25,
+    "lon": 168.12,
+    "text": "Lava lakes."
+   },
+   {
+    "name": "Port Vila",
+    "kind": "capital",
+    "lat": -17.73,
+    "lon": 168.32,
+    "text": "The capital, on Efate."
+   },
+   {
+    "name": "Mount Yasur",
+    "kind": "volcano",
+    "lat": -19.53,
+    "lon": 169.44,
+    "text": "An active volcano."
+   }
+  ]
+ }
+}

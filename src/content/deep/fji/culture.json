@@ -1,0 +1,85 @@
+{
+ "status": "draft",
+ "intro": "Fijian culture centres on village life, kava ceremonies and community.",
+ "chapters": [
+  {
+   "id": "traditions",
+   "title": "Traditions",
+   "text": [
+    "Kava (yaqona) is shared in ceremonies. Meke are traditional dances that tell stories. Firewalking is a tradition on Beqa island."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Kokoda (fish in coconut milk and lime) and lovo (earth-oven feast) are favourites; Indo-Fijian curries are everywhere."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lovo",
+   "meaning": "Food cooked in an earth oven."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Meke",
+     "subtitle": "Traditional",
+     "text": "Dance songs."
+    },
+    {
+     "title": "Isa Lei",
+     "subtitle": "Traditional",
+     "text": "A farewell song."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Kokoda",
+     "subtitle": "Everywhere",
+     "text": "Fish in coconut and lime."
+    },
+    {
+     "title": "Lovo",
+     "subtitle": "Celebrations",
+     "text": "Earth-oven feast."
+    },
+    {
+     "title": "Roti and curry",
+     "subtitle": "Everywhere",
+     "text": "Indo-Fijian food."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 8,
+    "name": "Hibiscus Festival",
+    "text": "A big festival in Suva."
+   },
+   {
+    "month": 10,
+    "name": "Fiji Day",
+    "text": "10 October."
+   },
+   {
+    "month": 11,
+    "name": "Diwali",
+    "text": "Festival of lights."
+   }
+  ]
+ }
+}

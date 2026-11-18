@@ -1,0 +1,102 @@
+{
+ "status": "draft",
+ "intro": "New Zealand, Aotearoa in Māori, was one of the last places on Earth to be settled by people, and was the first country to give women the vote.",
+ "chapters": [
+  {
+   "id": "maori",
+   "title": "Māori arrival",
+   "text": [
+    "Polynesian voyagers arrived by canoe around 1250 to 1300, navigating by stars, winds and birds. They became the Māori, whose tribes (iwi) spread across the islands. Giant flightless moa birds were hunted to extinction within a few centuries."
+   ],
+   "highlight": {
+    "title": "Last land",
+    "text": "New Zealand was the last large land mass to be settled by humans."
+   },
+   "related": [
+    "WSM",
+    "TON",
+    "FJI"
+   ]
+  },
+  {
+   "id": "treaty",
+   "title": "Europeans and the Treaty",
+   "text": [
+    "Dutch explorer Abel Tasman arrived in 1642 and James Cook mapped the islands in 1769. In 1840 the Treaty of Waitangi was signed between the British Crown and Māori chiefs; its English and Māori versions differ, and disputes over land led to the New Zealand Wars of the 1840s to 1870s."
+   ],
+   "related": [
+    "GBR",
+    "NLD"
+   ]
+  },
+  {
+   "id": "nation",
+   "title": "A pioneering nation",
+   "text": [
+    "In 1893 New Zealand became the first self-governing country to give women the vote. It fought in both world wars; the Gallipoli campaign of 1915 is remembered on Anzac Day. It became fully independent in steps during the 1900s.",
+    "Since the 1970s the Waitangi Tribunal has investigated breaches of the Treaty, leading to settlements with many iwi."
+   ],
+   "related": [
+    "AUS",
+    "TUR",
+    "GBR"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1250",
+   "title": "Polynesian arrival",
+   "text": "The ancestors of Māori arrive."
+  },
+  {
+   "year": "1642",
+   "title": "Abel Tasman",
+   "text": "Reaches the coast."
+  },
+  {
+   "year": "1769",
+   "title": "James Cook",
+   "text": "Maps the islands."
+  },
+  {
+   "year": "1840",
+   "title": "Treaty of Waitangi",
+   "text": "Signed 6 February."
+  },
+  {
+   "year": "1893",
+   "title": "Women's vote",
+   "text": "A world first."
+  },
+  {
+   "year": "1953",
+   "title": "Everest",
+   "text": "Edmund Hillary reaches the top."
+  },
+  {
+   "year": "1987",
+   "title": "Nuclear-free",
+   "text": "A law bans nuclear ships."
+  },
+  {
+   "year": "2019",
+   "title": "Christchurch",
+   "text": "A terror attack on mosques."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Aotearoa",
+   "meaning": "The Māori name for New Zealand."
+  },
+  {
+   "term": "Iwi",
+   "meaning": "A Māori tribe."
+  },
+  {
+   "term": "Treaty of Waitangi",
+   "meaning": "New Zealand's founding agreement."
+  }
+ ]
+}

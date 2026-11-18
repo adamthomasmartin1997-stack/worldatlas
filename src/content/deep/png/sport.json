@@ -1,0 +1,87 @@
+{
+ "status": "draft",
+ "intro": "Rugby league is Papua New Guinea's national passion.",
+ "chapters": [
+  {
+   "id": "league",
+   "title": "Rugby league",
+   "text": [
+    "The national team, the Kumuls, draws huge support. A PNG team is set to join Australia's NRL competition in 2028."
+   ],
+   "related": [
+    "AUS"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Weightlifter Dika Toua was the first woman to lift at five Olympics."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Kumuls",
+   "meaning": "The national rugby league team, named after the bird-of-paradise."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Digicel Cup",
+     "subtitle": "Rugby league",
+     "text": "The national competition."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Dika Toua",
+     "subtitle": "Weightlifting",
+     "text": "Five Olympics."
+    },
+    {
+     "title": "Marcus Bai",
+     "subtitle": "Rugby league",
+     "text": "A star winger."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Papua New Guinea's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Santos National Football Stadium",
+    "kind": "venue",
+    "lat": -9.43,
+    "lon": 147.2,
+    "text": "Rugby league and football."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1975",
+    "title": "Independence",
+    "text": "A new nation."
+   },
+   {
+    "year": "2017",
+    "title": "Rugby League World Cup",
+    "text": "Co-hosted matches."
+   }
+  ]
+ }
+}

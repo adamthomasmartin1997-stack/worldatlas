@@ -1,0 +1,92 @@
+{
+ "status": "draft",
+ "intro": "Fiji is a nation of over 300 islands where Melanesian and Polynesian cultures meet, and it is a rugby sevens superpower.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Lapita voyagers",
+   "text": [
+    "Lapita people, famous for decorated pottery, settled Fiji about 3,000 years ago. Fijian chiefs ruled powerful confederacies."
+   ],
+   "related": [
+    "TON",
+    "WSM",
+    "VUT"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "British rule and indenture",
+   "text": [
+    "Chief Seru Cakobau ceded Fiji to Britain in 1874. Britain brought about 60,000 indentured workers from India to work sugar plantations from 1879."
+   ],
+   "highlight": {
+    "title": "Two communities",
+    "text": "Indigenous Fijians (iTaukei) and Indo-Fijians shape the country today."
+   },
+   "related": [
+    "GBR",
+    "IND"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and coups",
+   "text": [
+    "Fiji became independent in 1970. Tensions between iTaukei and Indo-Fijians led to coups in 1987, 2000 and 2006. Democracy returned in 2014, and in 2022 power changed peacefully."
+   ],
+   "related": [
+    "IND",
+    "AUS",
+    "NZL"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 1000 BC",
+   "title": "Lapita",
+   "text": "First settlers."
+  },
+  {
+   "year": "1643",
+   "title": "Abel Tasman",
+   "text": "Sights the islands."
+  },
+  {
+   "year": "1874",
+   "title": "British colony",
+   "text": "Cakobau cedes Fiji."
+  },
+  {
+   "year": "1879",
+   "title": "Indenture",
+   "text": "Workers arrive from India."
+  },
+  {
+   "year": "1970",
+   "title": "Independence",
+   "text": "10 October."
+  },
+  {
+   "year": "1987",
+   "title": "Coups",
+   "text": "Two military coups."
+  },
+  {
+   "year": "2016",
+   "title": "Olympic gold",
+   "text": "Rugby sevens."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "iTaukei",
+   "meaning": "Indigenous Fijians."
+  },
+  {
+   "term": "Kava",
+   "meaning": "A ceremonial drink made from a pepper plant root."
+  }
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "status": "draft",
+ "intro": "Fiji has two large volcanic islands, Viti Levu and Vanua Levu, and hundreds of small ones.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Islands and reefs",
+   "text": [
+    "Mount Tomanivi on Viti Levu is the highest point. The Great Astrolabe Reef and Rainbow Reef are famous for diving. The Yasawa and Mamanuca islands have white beaches."
+   ],
+   "related": [
+    "TON",
+    "VUT",
+    "NZL"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Cyclones",
+   "text": [
+    "Cyclone Winston in 2016 was the strongest storm on record in the Southern Hemisphere."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Cyclone",
+   "meaning": "A tropical storm."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Fiji's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Suva",
+    "kind": "capital",
+    "lat": -18.14,
+    "lon": 178.44,
+    "text": "The largest Pacific city."
+   },
+   {
+    "name": "Nadi",
+    "kind": "gateway town",
+    "lat": -17.8,
+    "lon": 177.42,
+    "text": "The main airport."
+   },
+   {
+    "name": "Sigatoka Sand Dunes",
+    "kind": "dunes",
+    "lat": -18.16,
+    "lon": 177.5,
+    "text": "Ancient pottery found here."
+   },
+   {
+    "name": "Mount Tomanivi",
+    "kind": "mountain",
+    "lat": -17.62,
+    "lon": 178.0,
+    "text": "The highest peak."
+   },
+   {
+    "name": "Yasawa Islands",
+    "kind": "islands",
+    "lat": -16.9,
+    "lon": 177.4,
+    "text": "White beaches."
+   },
+   {
+    "name": "Taveuni",
+    "kind": "garden island",
+    "lat": -16.85,
+    "lon": -179.95,
+    "text": "Waterfalls and the 180° meridian."
+   },
+   {
+    "name": "Rainbow Reef",
+    "kind": "reef",
+    "lat": -16.8,
+    "lon": -179.9,
+    "text": "Soft coral diving."
+   }
+  ]
+ }
+}

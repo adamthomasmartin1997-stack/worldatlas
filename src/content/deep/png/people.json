@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Papua New Guinea has around 10 million or more people, most living in rural villages.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Tok Pisin, Hiri Motu and English are official, along with sign language, but about 840 languages are spoken. Most people are Christian, and many follow traditional customs."
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Village life",
+   "text": [
+    "Over 80% live in rural areas, growing sweet potatoes, taro and bananas."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tok Pisin",
+   "meaning": "A widely spoken creole language."
+  }
+ ]
+}

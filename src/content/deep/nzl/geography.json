@@ -1,0 +1,111 @@
+{
+ "status": "draft",
+ "intro": "New Zealand has two main islands with mountains, volcanoes, glaciers, fjords and beaches.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "North and South",
+   "text": [
+    "The North Island has volcanoes like Ruapehu and geothermal areas around Rotorua. The South Island has the Southern Alps, with Aoraki/Mount Cook at 3,724 m, and fjords like Milford Sound.",
+    "New Zealand sits on the boundary of two tectonic plates, so earthquakes are common; Christchurch was badly damaged in 2011."
+   ],
+   "related": [
+    "AUS"
+   ]
+  },
+  {
+   "id": "wildlife",
+   "title": "Unique wildlife",
+   "text": [
+    "Before humans arrived there were no land mammals except bats. Birds like the kiwi, kākāpō and takahē evolved there, many flightless."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Geothermal",
+   "meaning": "Heat from inside the Earth."
+  },
+  {
+   "term": "Fjord",
+   "meaning": "A deep sea inlet carved by glaciers."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of New Zealand's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Cape Reinga",
+    "kind": "northern tip",
+    "lat": -34.43,
+    "lon": 172.68,
+    "text": "Where two seas meet."
+   },
+   {
+    "name": "Bay of Islands",
+    "kind": "bay",
+    "lat": -35.22,
+    "lon": 174.15,
+    "text": "Where the Treaty was signed."
+   },
+   {
+    "name": "Auckland",
+    "kind": "volcanic city",
+    "lat": -36.85,
+    "lon": 174.76,
+    "text": "Built on volcanoes."
+   },
+   {
+    "name": "Rotorua",
+    "kind": "geothermal area",
+    "lat": -38.14,
+    "lon": 176.25,
+    "text": "Geysers and mud pools."
+   },
+   {
+    "name": "Tongariro",
+    "kind": "volcanoes",
+    "lat": -39.2,
+    "lon": 175.6,
+    "text": "A famous alpine crossing."
+   },
+   {
+    "name": "Wellington",
+    "kind": "capital",
+    "lat": -41.29,
+    "lon": 174.78,
+    "text": "A windy harbour city."
+   },
+   {
+    "name": "Abel Tasman",
+    "kind": "coast",
+    "lat": -40.9,
+    "lon": 173.0,
+    "text": "Golden beaches."
+   },
+   {
+    "name": "Aoraki/Mount Cook",
+    "kind": "mountain",
+    "lat": -43.6,
+    "lon": 170.14,
+    "text": "The highest peak."
+   },
+   {
+    "name": "Milford Sound",
+    "kind": "fjord",
+    "lat": -44.67,
+    "lon": 167.93,
+    "text": "Waterfalls and cliffs."
+   },
+   {
+    "name": "Stewart Island",
+    "kind": "island",
+    "lat": -47.0,
+    "lon": 167.9,
+    "text": "Kiwi birds in the wild."
+   }
+  ]
+ }
+}

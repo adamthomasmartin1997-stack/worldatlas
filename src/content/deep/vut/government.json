@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Vanuatu is a parliamentary republic, independent since 1980.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Parliament elects the prime minister; Jotham Napat took office in 2025. A Council of Chiefs advises on custom."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Port Vila"
+    },
+    {
+     "label": "Independence",
+     "value": "1980"
+    },
+    {
+     "label": "Languages",
+     "value": "Bislama, English, French"
+    }
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate voice",
+   "text": [
+    "Vanuatu is a leading voice for climate action."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Malvatumauri",
+   "meaning": "The National Council of Chiefs."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected by an electoral college",
+     "text": "Head of state."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Elected by parliament",
+     "text": "Leads the government."
+    },
+    {
+     "title": "Parliament",
+     "subtitle": "52 members",
+     "text": "A single chamber."
+    },
+    {
+     "title": "Malvatumauri",
+     "subtitle": "Council of Chiefs",
+     "text": "Advises on custom."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In Parliament."
+   },
+   {
+    "title": "Vote",
+    "text": "Members debate and pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it into law."
+   }
+  ]
+ }
+}

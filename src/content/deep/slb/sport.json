@@ -1,0 +1,63 @@
+{
+ "status": "draft",
+ "intro": "Football and futsal are the most popular sports in Solomon Islands.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Solomon Islands is one of the strongest football and futsal teams in Oceania and played at the Futsal World Cup."
+   ]
+  },
+  {
+   "id": "events",
+   "title": "Pacific Games",
+   "text": [
+    "Honiara hosted the Pacific Games in 2023."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Futsal",
+   "meaning": "Indoor five-a-side football."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Telekom S-League",
+     "subtitle": "Football",
+     "text": "The top league."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Solomon Islands' biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "National Stadium, Honiara",
+    "kind": "venue",
+    "lat": -9.43,
+    "lon": 159.97,
+    "text": "Hosted the 2023 Pacific Games."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2023",
+    "title": "Pacific Games",
+    "text": "Hosted in Honiara."
+   }
+  ]
+ }
+}

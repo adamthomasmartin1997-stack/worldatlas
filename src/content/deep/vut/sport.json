@@ -1,0 +1,79 @@
+{
+ "status": "draft",
+ "intro": "Football and beach volleyball are popular in Vanuatu.",
+ "chapters": [
+  {
+   "id": "volley",
+   "title": "Beach volleyball",
+   "text": [
+    "Vanuatu's women's beach volleyball team has won medals at the Commonwealth Games."
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Port Vila hosted the 2017 Pacific Mini Games."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Beach volleyball",
+   "meaning": "Volleyball on sand with two per side."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Port Vila Football League",
+     "subtitle": "Football",
+     "text": "The top league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Miller Pata and Linline Matauatu",
+     "subtitle": "Beach volleyball",
+     "text": "Commonwealth Games medallists."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Vanuatu's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Korman Stadium",
+    "kind": "venue",
+    "lat": -17.74,
+    "lon": 168.32,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "2017",
+    "title": "Pacific Mini Games",
+    "text": "Hosted in Port Vila."
+   },
+   {
+    "year": "2018",
+    "title": "Commonwealth bronze",
+    "text": "Beach volleyball."
+   }
+  ]
+ }
+}

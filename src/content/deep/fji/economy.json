@@ -1,0 +1,60 @@
+{
+ "status": "draft",
+ "intro": "Tourism, sugar and bottled water are among Fiji's main earners.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Tourism is the biggest industry. Sugar, fish and Fiji Water are exported, and money sent home by Fijians abroad helps families."
+   ],
+   "related": [
+    "AUS",
+    "NZL",
+    "USA"
+   ]
+  },
+  {
+   "id": "gold",
+   "title": "Gold",
+   "text": [
+    "Gold is mined at Vatukoula."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Remittances",
+   "meaning": "Money sent home from abroad."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Fiji",
+   "items": [
+    {
+     "title": "Tourism",
+     "subtitle": "Coast",
+     "text": "The main industry."
+    },
+    {
+     "title": "Sugar",
+     "subtitle": "Western Viti Levu",
+     "text": "A big crop."
+    },
+    {
+     "title": "Bottled water",
+     "subtitle": "Viti Levu",
+     "text": "Fiji Water."
+    },
+    {
+     "title": "Fish",
+     "subtitle": "Ocean",
+     "text": "Tuna for export."
+    }
+   ],
+   "intro": "Some of the things Fiji makes and sells to the world."
+  }
+ ]
+}
