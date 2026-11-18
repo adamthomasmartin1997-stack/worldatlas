@@ -1,0 +1,77 @@
+{
+ "status": "draft",
+ "intro": "Suriname is South America's smallest country and the only one where Dutch is the official language.",
+ "chapters": [
+  {
+   "id": "colony",
+   "title": "Dutch colony",
+   "text": [
+    "Britain founded a colony, but in 1667 the Dutch took it in exchange for New Amsterdam, now New York. Plantations used enslaved Africans; many escaped into the forest and formed free Maroon communities that still exist."
+   ],
+   "highlight": {
+    "title": "New York swap",
+    "text": "The Dutch gave up New Amsterdam, now New York, in exchange for Suriname."
+   },
+   "related": [
+    "NLD",
+    "GBR",
+    "USA"
+   ]
+  },
+  {
+   "id": "indenture",
+   "title": "Indenture",
+   "text": [
+    "After slavery ended in 1863, workers came from India, Java (Indonesia) and China, creating one of the most diverse populations in the world."
+   ],
+   "related": [
+    "IND",
+    "IDN",
+    "CHN"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence",
+   "text": [
+    "Suriname became independent in 1975. Dési Bouterse led a military regime from 1980. In 2025 Jennifer Geerlings-Simons became the first woman president."
+   ],
+   "related": [
+    "NLD"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1667",
+   "title": "Dutch rule",
+   "text": "Traded for New Amsterdam."
+  },
+  {
+   "year": "1863",
+   "title": "Slavery ends",
+   "text": "Followed by indenture."
+  },
+  {
+   "year": "1975",
+   "title": "Independence",
+   "text": "25 November."
+  },
+  {
+   "year": "1980",
+   "title": "Coup",
+   "text": "Military rule."
+  },
+  {
+   "year": "2025",
+   "title": "First woman president",
+   "text": "Jennifer Geerlings-Simons."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Maroon",
+   "meaning": "Descendants of people who escaped slavery."
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "status": "draft",
+ "intro": "Most of Guyana is rainforest, with people living mainly on the coast below sea level.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Forest and falls",
+   "text": [
+    "About 85% of Guyana is forest. Kaieteur Falls is one of the most powerful single-drop waterfalls in the world. The Rupununi savanna is home to giant otters and anteaters.",
+    "The coast is protected by sea walls built by the Dutch."
+   ],
+   "related": [
+    "VEN",
+    "BRA",
+    "SUR"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Guyana is hot and wet, with two rainy seasons."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Sea wall",
+   "meaning": "A wall that keeps the sea out."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Guyana's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Georgetown",
+    "kind": "capital",
+    "lat": 6.8,
+    "lon": -58.16,
+    "text": "Wooden buildings and canals."
+   },
+   {
+    "name": "Shell Beach",
+    "kind": "turtle beach",
+    "lat": 8.4,
+    "lon": -59.8,
+    "text": "Sea turtles nest here."
+   },
+   {
+    "name": "Kaieteur Falls",
+    "kind": "waterfall",
+    "lat": 5.17,
+    "lon": -59.48,
+    "text": "A huge single drop."
+   },
+   {
+    "name": "Iwokrama",
+    "kind": "rainforest",
+    "lat": 4.67,
+    "lon": -58.7,
+    "text": "A canopy walkway."
+   },
+   {
+    "name": "Rupununi",
+    "kind": "savanna",
+    "lat": 3.4,
+    "lon": -59.5,
+    "text": "Giant otters and anteaters."
+   },
+   {
+    "name": "Mount Roraima",
+    "kind": "tepui",
+    "lat": 5.2,
+    "lon": -60.75,
+    "text": "A flat-topped mountain."
+   }
+  ]
+ }
+}

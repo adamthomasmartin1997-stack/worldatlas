@@ -1,0 +1,81 @@
+{
+ "status": "draft",
+ "intro": "The Paraguay River divides the country into the green east and the dry Chaco in the west.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "East and west",
+   "text": [
+    "Most people live in the east, with forests and farmland. The Gran Chaco in the west covers over half the land but has few people.",
+    "The Itaipú Dam on the Paraná River, shared with Brazil, is one of the largest hydroelectric plants in the world."
+   ],
+   "related": [
+    "BRA",
+    "ARG",
+    "BOL"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Summers are very hot."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Chaco",
+   "meaning": "A hot, dry lowland region."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Paraguay's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Gran Chaco",
+    "kind": "dry forest",
+    "lat": -22.0,
+    "lon": -60.5,
+    "text": "A wild, hot region."
+   },
+   {
+    "name": "Asunción",
+    "kind": "capital",
+    "lat": -25.28,
+    "lon": -57.63,
+    "text": "On the Paraguay River."
+   },
+   {
+    "name": "Itaipú Dam",
+    "kind": "hydroelectric dam",
+    "lat": -25.41,
+    "lon": -54.59,
+    "text": "One of the world's largest."
+   },
+   {
+    "name": "Trinidad",
+    "kind": "Jesuit ruins",
+    "lat": -27.13,
+    "lon": -55.7,
+    "text": "Mission ruins."
+   },
+   {
+    "name": "Ybycuí",
+    "kind": "forest park",
+    "lat": -26.08,
+    "lon": -56.82,
+    "text": "Waterfalls."
+   },
+   {
+    "name": "Ñeembucú wetlands",
+    "kind": "wetland",
+    "lat": -26.9,
+    "lon": -58.0,
+    "text": "Marshes and birds."
+   }
+  ]
+ }
+}

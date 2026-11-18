@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Guyana has about 800,000 people of Indian, African, Indigenous, Chinese and European descent.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Indo-Guyanese are the largest group, followed by Afro-Guyanese. English is official, and Guyanese Creole is widely spoken. Hinduism, Christianity and Islam are all practised."
+   ],
+   "related": [
+    "IND"
+   ]
+  },
+  {
+   "id": "georgetown",
+   "title": "Georgetown",
+   "text": [
+    "Georgetown, the capital, has wooden colonial buildings, including St George's Cathedral."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Creole",
+   "meaning": "A language formed from mixing."
+  }
+ ]
+}

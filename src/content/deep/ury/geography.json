@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Uruguay is a land of rolling grasslands, beaches and rivers.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Land",
+   "text": [
+    "Gentle hills and grassland, called pampas, cover most of the country. The Río de la Plata estuary and Atlantic beaches like Punta del Este line the south and east."
+   ],
+   "related": [
+    "ARG",
+    "BRA"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "The climate is mild, with warm summers and cool winters."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pampas",
+   "meaning": "Wide grassy plains."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Uruguay's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Colonia del Sacramento",
+    "kind": "old town",
+    "lat": -34.47,
+    "lon": -57.84,
+    "text": "Cobbled Portuguese streets."
+   },
+   {
+    "name": "Montevideo",
+    "kind": "capital",
+    "lat": -34.9,
+    "lon": -56.16,
+    "text": "The Rambla seafront."
+   },
+   {
+    "name": "Punta del Este",
+    "kind": "beach resort",
+    "lat": -34.96,
+    "lon": -54.95,
+    "text": "The famous hand sculpture."
+   },
+   {
+    "name": "Cabo Polonio",
+    "kind": "village",
+    "lat": -34.4,
+    "lon": -53.78,
+    "text": "Sea lions and no roads."
+   },
+   {
+    "name": "Quebrada de los Cuervos",
+    "kind": "gorge",
+    "lat": -32.93,
+    "lon": -54.45,
+    "text": "A green canyon."
+   }
+  ]
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "status": "draft",
+ "intro": "Uruguay is a small, stable democracy between Argentina and Brazil that won the first ever football World Cup.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Charrúa and colonists",
+   "text": [
+    "The Charrúa people lived here when Europeans arrived. Portugal founded Colonia del Sacramento in 1680, and Spain founded Montevideo in 1724, making the land a battleground between the two empires."
+   ],
+   "related": [
+    "PRT",
+    "ESP",
+    "BRA",
+    "ARG"
+   ]
+  },
+  {
+   "id": "independence",
+   "title": "Independence",
+   "text": [
+    "José Gervasio Artigas led early resistance. Uruguay became independent in 1828 as a buffer state between Brazil and Argentina."
+   ],
+   "highlight": {
+    "title": "Artigas",
+    "text": "He is honoured as the father of the nation."
+   },
+   "related": [
+    "BRA",
+    "ARG"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Democracy and reform",
+   "text": [
+    "In the early 1900s President José Batlle y Ordóñez created one of the world's first welfare states. A military dictatorship ruled from 1973 to 1985. Since then Uruguay has been one of the most democratic countries in the Americas."
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1680",
+   "title": "Colonia del Sacramento",
+   "text": "Founded by Portugal."
+  },
+  {
+   "year": "1724",
+   "title": "Montevideo",
+   "text": "Founded by Spain."
+  },
+  {
+   "year": "1828",
+   "title": "Independence",
+   "text": "Recognised."
+  },
+  {
+   "year": "1930",
+   "title": "World Cup",
+   "text": "Uruguay hosts and wins."
+  },
+  {
+   "year": "1973",
+   "title": "Dictatorship",
+   "text": "Until 1985."
+  },
+  {
+   "year": "2013",
+   "title": "Cannabis law",
+   "text": "First country to legalise it nationally."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Buffer state",
+   "meaning": "A small country between two larger rivals."
+  },
+  {
+   "term": "Welfare state",
+   "meaning": "A government that provides health care, pensions and more."
+  }
+ ]
+}

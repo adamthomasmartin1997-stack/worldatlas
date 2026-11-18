@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Paraguay is a presidential republic that has been a democracy since 1989.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for a single five-year term. The Colorado Party has governed for most of the past 75 years; Santiago Peña took office in 2023."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Asunción"
+    },
+    {
+     "label": "Independence",
+     "value": "1811"
+    },
+    {
+     "label": "Languages",
+     "value": "Spanish, Guaraní"
+    }
+   ]
+  },
+  {
+   "id": "taiwan",
+   "title": "Ties",
+   "text": [
+    "Paraguay is one of the few countries that recognise Taiwan."
+   ],
+   "related": [
+    "TWN"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Single term",
+   "meaning": "A president cannot be re-elected."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for one 5-year term",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "45 members",
+     "text": "The upper house."
+    },
+    {
+     "title": "Chamber of Deputies",
+     "subtitle": "80 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "Departments",
+     "subtitle": "17 departments",
+     "text": "Elected governors."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "In either chamber."
+   },
+   {
+    "title": "Both chambers",
+    "text": "Debate and pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it or vetoes it."
+   }
+  ]
+ }
+}

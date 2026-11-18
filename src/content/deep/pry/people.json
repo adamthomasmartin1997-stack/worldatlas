@@ -1,0 +1,26 @@
+{
+ "status": "draft",
+ "intro": "Paraguay has about 7 million people, and most speak both Spanish and Guaraní.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Spanish and Guaraní are both official, and most people mix them in Jopara. Most Paraguayans are of mixed descent, and there are Mennonite communities in the Chaco."
+   ]
+  },
+  {
+   "id": "asuncion",
+   "title": "Asunción",
+   "text": [
+    "Asunción, the capital, is one of South America's oldest cities."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Jopara",
+   "meaning": "A mix of Guaraní and Spanish."
+  }
+ ]
+}

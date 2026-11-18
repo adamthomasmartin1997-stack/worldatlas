@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Football is Bolivia's favourite sport, and its high-altitude stadiums are feared by visiting teams.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Bolivia won the Copa América at home in 1963. Playing at 3,600 m in La Paz helps Bolivia beat stronger teams."
+   ],
+   "related": [
+    "ARG",
+    "BRA"
+   ]
+  },
+  {
+   "id": "other",
+   "title": "Other sports",
+   "text": [
+    "Racquetball and the Dakar Rally route through the salt flats have also drawn attention."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Altitude",
+   "meaning": "Height above sea level."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "División Profesional",
+     "subtitle": "Football",
+     "text": "Bolívar and The Strongest are La Paz rivals."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Marco Etcheverry",
+     "subtitle": "Football",
+     "text": "'El Diablo', star of the 1994 World Cup."
+    },
+    {
+     "title": "Marcelo Martins",
+     "subtitle": "Football",
+     "text": "Record scorer."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Bolivia's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estadio Hernando Siles, La Paz",
+    "kind": "venue",
+    "lat": -16.5,
+    "lon": -68.12,
+    "text": "One of the world's highest stadiums."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1963",
+    "title": "Copa América",
+    "text": "Champions at home."
+   },
+   {
+    "year": "1994",
+    "title": "World Cup",
+    "text": "A first qualification since 1950."
+   }
+  ]
+ }
+}

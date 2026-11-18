@@ -1,0 +1,65 @@
+{
+ "status": "draft",
+ "intro": "Bolivia's economy relies on natural gas, minerals and farming, and it has huge lithium reserves.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Natural gas, zinc, silver, tin and gold are exported, along with soya. The salt flats hold some of the largest lithium reserves on Earth. A shortage of dollars and fuel hit the economy from 2023."
+   ],
+   "related": [
+    "BRA",
+    "ARG",
+    "CHN"
+   ]
+  },
+  {
+   "id": "coca",
+   "title": "Coca",
+   "text": [
+    "Coca leaves are chewed and brewed as tea traditionally, but are also used to make illegal cocaine."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Lithium",
+   "meaning": "A metal used in batteries."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Bolivia",
+   "items": [
+    {
+     "title": "Natural gas",
+     "subtitle": "Tarija",
+     "text": "Sold to Brazil and Argentina."
+    },
+    {
+     "title": "Zinc and silver",
+     "subtitle": "Potosí",
+     "text": "Mined minerals."
+    },
+    {
+     "title": "Soya",
+     "subtitle": "Santa Cruz",
+     "text": "Grown on big lowland farms."
+    },
+    {
+     "title": "Quinoa",
+     "subtitle": "Altiplano",
+     "text": "A superfood grain."
+    },
+    {
+     "title": "Lithium",
+     "subtitle": "Uyuni",
+     "text": "Huge reserves."
+    }
+   ],
+   "intro": "Some of the things Bolivia makes and sells to the world."
+  }
+ ]
+}

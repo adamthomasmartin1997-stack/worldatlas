@@ -1,0 +1,109 @@
+{
+ "status": "draft",
+ "intro": "Football is Paraguay's passion, and the Guaraní Albirroja has reached many World Cups.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Paraguay won the Copa América in 1953 and 1979 and reached the World Cup quarter-finals in 2010. It also won Olympic silver in 2004."
+   ],
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Legends",
+   "text": [
+    "José Luis Chilavert was a goalkeeper who scored goals from free kicks and penalties."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Albirroja",
+   "meaning": "'White and red', the team's nickname."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Primera División",
+     "subtitle": "Football",
+     "text": "Olimpia and Cerro Porteño are rivals."
+    },
+    {
+     "title": "Copa Libertadores",
+     "subtitle": "Football",
+     "text": "Olimpia have won it three times."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "José Luis Chilavert",
+     "subtitle": "Football",
+     "text": "A goal-scoring goalkeeper."
+    },
+    {
+     "title": "Roque Santa Cruz",
+     "subtitle": "Football",
+     "text": "A record scorer."
+    },
+    {
+     "title": "Julio Enciso",
+     "subtitle": "Football",
+     "text": "A rising star."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Paraguay's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estadio Defensores del Chaco",
+    "kind": "venue",
+    "lat": -25.29,
+    "lon": -57.6,
+    "text": "The national stadium."
+   },
+   {
+    "name": "CONMEBOL headquarters",
+    "kind": "venue",
+    "lat": -25.24,
+    "lon": -57.53,
+    "text": "South American football's home."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1979",
+    "title": "Copa América",
+    "text": "A second title."
+   },
+   {
+    "year": "2004",
+    "title": "Olympic silver",
+    "text": "Football in Athens."
+   },
+   {
+    "year": "2010",
+    "title": "World Cup quarter-final",
+    "text": "The best run."
+   }
+  ]
+ }
+}

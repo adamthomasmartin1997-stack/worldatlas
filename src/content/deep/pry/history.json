@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Paraguay is a landlocked country in the heart of South America where an Indigenous language, Guaraní, is spoken by most people.",
+ "chapters": [
+  {
+   "id": "missions",
+   "title": "Guaraní and the Jesuit missions",
+   "text": [
+    "The Guaraní people lived here when Spain founded Asunción in 1537. Jesuit priests built missions where Guaraní communities lived and worked; the ruins at Trinidad and Jesús are World Heritage sites."
+   ],
+   "related": [
+    "ESP",
+    "ARG",
+    "BRA"
+   ]
+  },
+  {
+   "id": "war",
+   "title": "Independence and the Great War",
+   "text": [
+    "Paraguay became independent in 1811. From 1864 to 1870 it fought Brazil, Argentina and Uruguay in the War of the Triple Alliance, which killed a huge share of its population, perhaps half or more."
+   ],
+   "highlight": {
+    "title": "Devastation",
+    "text": "Few modern wars have killed such a large share of a country's people."
+   },
+   "related": [
+    "BRA",
+    "ARG",
+    "URY"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Chaco and Stroessner",
+   "text": [
+    "Paraguay won the Chaco War against Bolivia in 1935. Alfredo Stroessner ruled as dictator from 1954 to 1989. Democracy has continued since."
+   ],
+   "related": [
+    "BOL"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1537",
+   "title": "Asunción",
+   "text": "Founded."
+  },
+  {
+   "year": "1609",
+   "title": "Jesuit missions",
+   "text": "Begin."
+  },
+  {
+   "year": "1811",
+   "title": "Independence",
+   "text": "14–15 May."
+  },
+  {
+   "year": "1864",
+   "title": "Triple Alliance war",
+   "text": "Until 1870."
+  },
+  {
+   "year": "1932",
+   "title": "Chaco War",
+   "text": "Until 1935."
+  },
+  {
+   "year": "1954",
+   "title": "Stroessner",
+   "text": "Takes power."
+  },
+  {
+   "year": "1989",
+   "title": "Democracy",
+   "text": "Stroessner is overthrown."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Guaraní",
+   "meaning": "An Indigenous people and language."
+  },
+  {
+   "term": "Mission",
+   "meaning": "A religious settlement."
+  }
+ ]
+}

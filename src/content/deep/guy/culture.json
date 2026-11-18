@@ -1,0 +1,104 @@
+{
+ "status": "draft",
+ "intro": "Guyanese culture blends Caribbean, Indian, African and Indigenous traditions.",
+ "chapters": [
+  {
+   "id": "festivals",
+   "title": "Festivals",
+   "text": [
+    "Mashramani celebrates the republic each February with parades. Phagwah (Holi) and Diwali are national holidays."
+   ],
+   "related": [
+    "IND"
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Pepperpot, an Amerindian stew, is the national dish. Curry and roti are everyday favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Pepperpot",
+   "meaning": "A slow-cooked meat stew."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "The Ventriloquist's Tale",
+     "subtitle": "1997 · Pauline Melville",
+     "text": "A family in the Rupununi."
+    },
+    {
+     "title": "Palace of the Peacock",
+     "subtitle": "1960 · Wilson Harris",
+     "text": "A dream-like journey."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Chutney",
+     "subtitle": "Music",
+     "text": "Indo-Caribbean dance music."
+    },
+    {
+     "title": "Calypso",
+     "subtitle": "Music",
+     "text": "Caribbean song."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Pepperpot",
+     "subtitle": "Christmas",
+     "text": "The national dish."
+    },
+    {
+     "title": "Cook-up rice",
+     "subtitle": "Everywhere",
+     "text": "Rice and peas with meat."
+    },
+    {
+     "title": "Roti and curry",
+     "subtitle": "Everywhere",
+     "text": "Indian-style flatbread."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Mashramani",
+    "text": "Republic Day parades."
+   },
+   {
+    "month": 3,
+    "name": "Phagwah",
+    "text": "Festival of colours."
+   },
+   {
+    "month": 5,
+    "name": "Independence Day",
+    "text": "26 May."
+   }
+  ]
+ }
+}

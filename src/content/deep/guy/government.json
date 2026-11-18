@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Guyana is a parliamentary republic with an executive president.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The leader of the party that wins the election becomes president. Irfaan Ali was re-elected in 2025. The National Assembly has 65 seats."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Georgetown"
+    },
+    {
+     "label": "Independence",
+     "value": "1966"
+    },
+    {
+     "label": "Language",
+     "value": "English"
+    }
+   ]
+  },
+  {
+   "id": "caribbean",
+   "title": "Caribbean ties",
+   "text": [
+    "Guyana hosts the headquarters of CARICOM, the Caribbean community."
+   ],
+   "related": [
+    "JAM",
+    "TTO",
+    "BRB"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Executive president",
+   "meaning": "A president who leads the government."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Leader of the winning party",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Prime Minister",
+     "subtitle": "Appointed",
+     "text": "Assists the President."
+    },
+    {
+     "title": "National Assembly",
+     "subtitle": "65 members",
+     "text": "Elected by proportional representation."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is introduced",
+    "text": "In the National Assembly."
+   },
+   {
+    "title": "Vote",
+    "text": "Members pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Gives assent."
+   }
+  ]
+ }
+}

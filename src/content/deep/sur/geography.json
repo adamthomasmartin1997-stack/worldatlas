@@ -1,0 +1,72 @@
+{
+ "status": "draft",
+ "intro": "Over 90% of Suriname is covered by rainforest, one of the highest shares in the world.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "Forest",
+   "text": [
+    "The Central Suriname Nature Reserve protects a vast rainforest. Brokopondo Reservoir is one of the largest lakes made by a dam. Most people live on the coast."
+   ],
+   "related": [
+    "GUY",
+    "BRA"
+   ]
+  },
+  {
+   "id": "climate",
+   "title": "Climate",
+   "text": [
+    "Hot and humid all year."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Reservoir",
+   "meaning": "A lake made by a dam."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Suriname's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Paramaribo",
+    "kind": "capital",
+    "lat": 5.85,
+    "lon": -55.2,
+    "text": "Wooden old town."
+   },
+   {
+    "name": "Galibi",
+    "kind": "turtle beach",
+    "lat": 5.75,
+    "lon": -53.95,
+    "text": "Leatherback turtles."
+   },
+   {
+    "name": "Brownsberg",
+    "kind": "forest park",
+    "lat": 4.95,
+    "lon": -55.17,
+    "text": "Views over the lake."
+   },
+   {
+    "name": "Brokopondo",
+    "kind": "reservoir",
+    "lat": 4.75,
+    "lon": -55.0,
+    "text": "A huge lake."
+   },
+   {
+    "name": "Central Suriname Nature Reserve",
+    "kind": "rainforest",
+    "lat": 4.0,
+    "lon": -56.5,
+    "text": "Vast untouched forest."
+   }
+  ]
+ }
+}

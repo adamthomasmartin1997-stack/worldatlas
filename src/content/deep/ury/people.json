@@ -1,0 +1,30 @@
+{
+ "status": "draft",
+ "intro": "Uruguay has about 3.4 million people, nearly half in Montevideo.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "Most Uruguayans have Spanish or Italian ancestry. Spanish is official. Uruguay is one of the most secular countries in Latin America."
+   ],
+   "related": [
+    "ESP",
+    "ITA"
+   ]
+  },
+  {
+   "id": "life",
+   "title": "Daily life",
+   "text": [
+    "People carry a gourd of mate and a flask of hot water almost everywhere."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Secular",
+   "meaning": "Not linked to religion."
+  }
+ ]
+}

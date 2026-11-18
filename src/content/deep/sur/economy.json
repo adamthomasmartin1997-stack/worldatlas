@@ -1,0 +1,53 @@
+{
+ "status": "draft",
+ "intro": "Gold, oil and bauxite drive Suriname's economy, with big offshore oil projects on the way.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Gold is the top export. A large offshore oil project was approved in 2024."
+   ],
+   "related": [
+    "FRA"
+   ]
+  },
+  {
+   "id": "rice",
+   "title": "Rice and bananas",
+   "text": [
+    "Rice and bananas are grown on the coast."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Offshore",
+   "meaning": "Out at sea."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Suriname",
+   "items": [
+    {
+     "title": "Gold",
+     "subtitle": "Interior",
+     "text": "The top export."
+    },
+    {
+     "title": "Oil",
+     "subtitle": "Offshore",
+     "text": "A growing sector."
+    },
+    {
+     "title": "Rice",
+     "subtitle": "Coast",
+     "text": "Grown in polders."
+    }
+   ],
+   "intro": "Some of the things Suriname makes and sells to the world."
+  }
+ ]
+}

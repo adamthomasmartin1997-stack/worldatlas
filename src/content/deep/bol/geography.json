@@ -1,0 +1,96 @@
+{
+ "status": "draft",
+ "intro": "Bolivia is landlocked, with the high Altiplano in the west and Amazon lowlands in the east.",
+ "chapters": [
+  {
+   "id": "land",
+   "title": "High and low",
+   "text": [
+    "The Salar de Uyuni is the world's largest salt flat, and after rain it becomes a giant mirror. Lake Titicaca is shared with Peru. About two-thirds of the country is lowland forest and savanna."
+   ],
+   "related": [
+    "PER",
+    "CHL",
+    "ARG",
+    "PRY",
+    "BRA"
+   ]
+  },
+  {
+   "id": "la paz",
+   "title": "Highest capital",
+   "text": [
+    "La Paz, the seat of government, is the highest capital in the world, at about 3,600 m, and its cable car network is the world's largest urban one."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Salt flat",
+   "meaning": "A flat area covered in salt."
+  }
+ ],
+ "places": {
+  "id": "landscape-tour",
+  "title": "Landscape tour",
+  "intro": "Places that show the variety of Bolivia's landscapes. The numbers match the pins on the map.",
+  "items": [
+   {
+    "name": "Lake Titicaca",
+    "kind": "high lake",
+    "lat": -16.0,
+    "lon": -69.0,
+    "text": "Isla del Sol."
+   },
+   {
+    "name": "La Paz",
+    "kind": "highest capital",
+    "lat": -16.5,
+    "lon": -68.15,
+    "text": "Cable cars over the city."
+   },
+   {
+    "name": "Tiwanaku",
+    "kind": "ruins",
+    "lat": -16.55,
+    "lon": -68.67,
+    "text": "An ancient city."
+   },
+   {
+    "name": "Salar de Uyuni",
+    "kind": "salt flat",
+    "lat": -20.13,
+    "lon": -67.49,
+    "text": "The world's largest salt flat."
+   },
+   {
+    "name": "Potosí",
+    "kind": "mining city",
+    "lat": -19.58,
+    "lon": -65.75,
+    "text": "The silver mountain."
+   },
+   {
+    "name": "Sucre",
+    "kind": "capital",
+    "lat": -19.04,
+    "lon": -65.26,
+    "text": "The white city."
+   },
+   {
+    "name": "Madidi",
+    "kind": "rainforest",
+    "lat": -13.5,
+    "lon": -68.5,
+    "text": "Extraordinary biodiversity."
+   },
+   {
+    "name": "Laguna Colorada",
+    "kind": "red lagoon",
+    "lat": -22.2,
+    "lon": -67.78,
+    "text": "Flamingos on a red lake."
+   }
+  ]
+ }
+}

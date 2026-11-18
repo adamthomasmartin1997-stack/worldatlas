@@ -1,0 +1,89 @@
+{
+ "status": "draft",
+ "intro": "Bolivia, named after Simón Bolívar, is a high Andean country with a large Indigenous population and a silver-mining past.",
+ "chapters": [
+  {
+   "id": "tiwanaku",
+   "title": "Tiwanaku",
+   "text": [
+    "Near Lake Titicaca, the Tiwanaku civilisation built a great stone city between about 500 and 1000. Later the region became part of the Inca Empire."
+   ],
+   "related": [
+    "PER"
+   ]
+  },
+  {
+   "id": "potosi",
+   "title": "Potosí's silver",
+   "text": [
+    "After the Spanish conquest, silver from the Cerro Rico mountain at Potosí made it one of the largest cities in the world in the 1600s. Enslaved Indigenous and African workers died in huge numbers in the mines."
+   ],
+   "highlight": {
+    "title": "Rich mountain",
+    "text": "'Vale un Potosí', worth a Potosí, came to mean something priceless."
+   },
+   "related": [
+    "ESP"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and after",
+   "text": [
+    "Bolivia became independent in 1825. It lost its coast to Chile in the War of the Pacific and land to Brazil and Paraguay. In 2006 Evo Morales became the first Indigenous president. In 2025 Rodrigo Paz won the presidency, ending nearly 20 years of rule by the MAS party."
+   ],
+   "related": [
+    "CHL",
+    "PRY",
+    "BRA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "c. 500",
+   "title": "Tiwanaku",
+   "text": "A great city."
+  },
+  {
+   "year": "1545",
+   "title": "Potosí",
+   "text": "Silver is found."
+  },
+  {
+   "year": "1825",
+   "title": "Independence",
+   "text": "6 August."
+  },
+  {
+   "year": "1884",
+   "title": "Coast lost",
+   "text": "To Chile."
+  },
+  {
+   "year": "1932",
+   "title": "Chaco War",
+   "text": "Against Paraguay."
+  },
+  {
+   "year": "2006",
+   "title": "Evo Morales",
+   "text": "First Indigenous president."
+  },
+  {
+   "year": "2025",
+   "title": "Rodrigo Paz",
+   "text": "Elected president."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Altiplano",
+   "meaning": "The high plateau of the Andes."
+  },
+  {
+   "term": "Plurinational",
+   "meaning": "Made of many nations or peoples."
+  }
+ ]
+}

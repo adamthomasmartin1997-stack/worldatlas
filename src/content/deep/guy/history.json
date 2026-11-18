@@ -1,0 +1,86 @@
+{
+ "status": "draft",
+ "intro": "Guyana is the only English-speaking country in South America and has become one of the world's fastest-growing economies thanks to oil.",
+ "chapters": [
+  {
+   "id": "early",
+   "title": "Land of many waters",
+   "text": [
+    "'Guyana' comes from an Indigenous word meaning 'land of many waters'. Arawak, Carib and Warao peoples lived here before Europeans arrived."
+   ],
+   "related": [
+    "VEN",
+    "SUR"
+   ]
+  },
+  {
+   "id": "colony",
+   "title": "Dutch and British rule",
+   "text": [
+    "The Dutch built sugar plantations worked by enslaved Africans. Britain took over in 1814. After slavery ended, about 240,000 indentured workers came, mainly from India, shaping today's population."
+   ],
+   "highlight": {
+    "title": "Demerara",
+    "text": "The 1823 Demerara rebellion of enslaved people helped push Britain to end slavery."
+   },
+   "related": [
+    "NLD",
+    "GBR",
+    "IND"
+   ]
+  },
+  {
+   "id": "modern",
+   "title": "Independence and oil",
+   "text": [
+    "Guyana became independent in 1966. Politics has often divided along ethnic lines. Huge offshore oil discoveries from 2015 transformed the economy. Venezuela claims the Essequibo region, two-thirds of Guyana's land."
+   ],
+   "related": [
+    "VEN",
+    "USA"
+   ]
+  }
+ ],
+ "timeline": [
+  {
+   "year": "1616",
+   "title": "Dutch settlement",
+   "text": "On the Essequibo River."
+  },
+  {
+   "year": "1814",
+   "title": "British rule",
+   "text": "British Guiana."
+  },
+  {
+   "year": "1838",
+   "title": "Indenture",
+   "text": "Workers arrive from India."
+  },
+  {
+   "year": "1966",
+   "title": "Independence",
+   "text": "26 May."
+  },
+  {
+   "year": "1970",
+   "title": "Republic",
+   "text": "Guyana becomes a republic."
+  },
+  {
+   "year": "2015",
+   "title": "Oil",
+   "text": "A giant field is found."
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Indenture",
+   "meaning": "A contract binding workers for years."
+  },
+  {
+   "term": "Essequibo",
+   "meaning": "A region claimed by Venezuela."
+  }
+ ]
+}

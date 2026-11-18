@@ -1,0 +1,29 @@
+{
+ "status": "draft",
+ "intro": "Bolivia has about 12 million people, and Indigenous peoples make up a large share.",
+ "chapters": [
+  {
+   "id": "people",
+   "title": "People",
+   "text": [
+    "The constitution recognises 36 official languages. Quechua and Aymara are the largest Indigenous groups. Many women wear the traditional pollera skirt and bowler hat."
+   ],
+   "related": [
+    "PER"
+   ]
+  },
+  {
+   "id": "cities",
+   "title": "Cities",
+   "text": [
+    "Santa Cruz is the largest city; El Alto has grown fast above La Paz."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Aymara",
+   "meaning": "An Indigenous people of the Altiplano."
+  }
+ ]
+}

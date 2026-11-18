@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Paraguay exports soya, beef and huge amounts of clean electricity.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Paraguay is a top soya and beef exporter. Almost all its electricity comes from hydropower, and it sells the surplus to Brazil and Argentina."
+   ],
+   "related": [
+    "BRA",
+    "ARG"
+   ]
+  },
+  {
+   "id": "rivers",
+   "title": "River fleet",
+   "text": [
+    "Paraguay has one of the largest river barge fleets in the world."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Hydropower",
+   "meaning": "Electricity from flowing water."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Paraguay",
+   "items": [
+    {
+     "title": "Soya",
+     "subtitle": "East",
+     "text": "A top exporter."
+    },
+    {
+     "title": "Beef",
+     "subtitle": "Chaco",
+     "text": "Sold worldwide."
+    },
+    {
+     "title": "Electricity",
+     "subtitle": "Itaipú and Yacyretá",
+     "text": "Sold to neighbours."
+    },
+    {
+     "title": "Ñandutí lace",
+     "subtitle": "Itauguá",
+     "text": "Spiderweb lace."
+    }
+   ],
+   "intro": "Some of the things Paraguay makes and sells to the world."
+  }
+ ]
+}

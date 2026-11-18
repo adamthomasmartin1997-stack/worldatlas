@@ -1,0 +1,122 @@
+{
+ "status": "draft",
+ "intro": "Uruguayan culture shares tango with Argentina and has its own candombe drumming.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Candombe, Afro-Uruguayan drumming, is on UNESCO's list. 'La Cumparsita', perhaps the most famous tango, was written in Montevideo. Eduardo Galeano and Mario Benedetti are celebrated writers."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Asado (barbecue), the chivito steak sandwich and dulce de leche are favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Candombe",
+   "meaning": "Afro-Uruguayan drum music."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Whisky",
+     "subtitle": "2004 · Rebella and Stoll",
+     "text": "A quiet comedy; won at Cannes."
+    },
+    {
+     "title": "Society of the Snow",
+     "subtitle": "2023 · J. A. Bayona",
+     "text": "The 1972 Andes plane crash survivors."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Open Veins of Latin America",
+     "subtitle": "1971 · Eduardo Galeano",
+     "text": "A history of the region."
+    },
+    {
+     "title": "The Truce",
+     "subtitle": "1960 · Mario Benedetti",
+     "text": "An office worker's diary."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "La Cumparsita",
+     "subtitle": "Gerardo Matos Rodríguez, 1916",
+     "text": "The world's best-known tango."
+    },
+    {
+     "title": "Jorge Drexler",
+     "subtitle": "Singer",
+     "text": "Won an Oscar for a song."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Asado",
+     "subtitle": "Weekends",
+     "text": "Barbecued meat."
+    },
+    {
+     "title": "Chivito",
+     "subtitle": "Everywhere",
+     "text": "A loaded steak sandwich."
+    },
+    {
+     "title": "Mate",
+     "subtitle": "Everywhere",
+     "text": "Herbal tea from a gourd."
+    },
+    {
+     "title": "Dulce de leche",
+     "subtitle": "Everywhere",
+     "text": "Caramel spread."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Carnival",
+    "text": "The world's longest carnival, about 40 days."
+   },
+   {
+    "month": 4,
+    "name": "Semana Criolla",
+    "text": "Gaucho rodeos in Holy Week."
+   },
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "25 August."
+   }
+  ]
+ }
+}

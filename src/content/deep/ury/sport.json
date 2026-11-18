@@ -1,0 +1,120 @@
+{
+ "status": "draft",
+ "intro": "Uruguay has the best football record of any small country, with two World Cups.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Uruguay won Olympic football gold in 1924 and 1928 and the World Cup in 1930 and 1950; the 1950 win in Rio, the 'Maracanazo', shocked Brazil. It has won the Copa América 15 times."
+   ],
+   "related": [
+    "BRA",
+    "ARG"
+   ]
+  },
+  {
+   "id": "stars",
+   "title": "Stars",
+   "text": [
+    "Luis Suárez, Edinson Cavani and Diego Forlán starred in Europe; Forlán was best player at the 2010 World Cup."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Maracanazo",
+   "meaning": "Uruguay's 1950 win in Brazil's Maracanã stadium."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Primera División",
+     "subtitle": "Football",
+     "text": "Peñarol and Nacional are fierce rivals."
+    },
+    {
+     "title": "Copa Libertadores",
+     "subtitle": "Football",
+     "text": "Peñarol have won five."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Obdulio Varela",
+     "subtitle": "Football",
+     "text": "Captain in 1950."
+    },
+    {
+     "title": "Enzo Francescoli",
+     "subtitle": "Football",
+     "text": "'El Príncipe'."
+    },
+    {
+     "title": "Luis Suárez",
+     "subtitle": "Football",
+     "text": "Record scorer."
+    },
+    {
+     "title": "Diego Forlán",
+     "subtitle": "Football",
+     "text": "Best player at the 2010 World Cup."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Uruguay's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Estadio Centenario",
+    "kind": "venue",
+    "lat": -34.89,
+    "lon": -56.15,
+    "text": "Hosted the first World Cup final."
+   },
+   {
+    "name": "Gran Parque Central",
+    "kind": "venue",
+    "lat": -34.88,
+    "lon": -56.16,
+    "text": "Home of Nacional."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1930",
+    "title": "First World Cup",
+    "text": "Uruguay hosts and wins."
+   },
+   {
+    "year": "1950",
+    "title": "Maracanazo",
+    "text": "Beat Brazil in Rio."
+   },
+   {
+    "year": "2010",
+    "title": "World Cup semi-final",
+    "text": "Fourth place."
+   },
+   {
+    "year": "2011",
+    "title": "Copa América",
+    "text": "A record 15th title."
+   }
+  ]
+ }
+}

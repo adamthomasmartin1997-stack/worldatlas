@@ -1,0 +1,80 @@
+{
+ "status": "draft",
+ "intro": "Suriname's culture is a blend of Asian, African, European and Indigenous traditions.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "Kaseko is popular dance music. Holi, Eid, Keti Koti (the end of slavery) and Chinese New Year are all celebrated."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Roti, pom (a baked dish of root vegetable and chicken), bami and saoto soup show its many roots."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Keti Koti",
+   "meaning": "'Broken chains', the day slavery ended."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Kaseko",
+     "subtitle": "Music",
+     "text": "Dance music."
+    },
+    {
+     "title": "Kawina",
+     "subtitle": "Music",
+     "text": "Afro-Surinamese rhythm."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Roti",
+     "subtitle": "Everywhere",
+     "text": "Flatbread with curry."
+    },
+    {
+     "title": "Pom",
+     "subtitle": "Celebrations",
+     "text": "A baked festive dish."
+    },
+    {
+     "title": "Saoto soup",
+     "subtitle": "Everywhere",
+     "text": "Javanese chicken soup."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 7,
+    "name": "Keti Koti",
+    "text": "1 July, end of slavery."
+   },
+   {
+    "month": 11,
+    "name": "Independence Day",
+    "text": "25 November."
+   }
+  ]
+ }
+}

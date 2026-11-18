@@ -1,0 +1,59 @@
+{
+ "status": "draft",
+ "intro": "Uruguay exports beef, wood pulp and soya and runs almost entirely on renewable electricity.",
+ "chapters": [
+  {
+   "id": "work",
+   "title": "How it earns",
+   "text": [
+    "Uruguay has more cows than people. Pulp mills turn eucalyptus into paper pulp. Tech services have grown fast."
+   ],
+   "related": [
+    "CHN",
+    "BRA"
+   ]
+  },
+  {
+   "id": "green",
+   "title": "Green power",
+   "text": [
+    "Wind, hydro and solar provide over 90% of its electricity."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Renewable",
+   "meaning": "Energy that does not run out."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Uruguay",
+   "items": [
+    {
+     "title": "Beef",
+     "subtitle": "Ranches",
+     "text": "More cows than people."
+    },
+    {
+     "title": "Wood pulp",
+     "subtitle": "Mills",
+     "text": "Made from eucalyptus."
+    },
+    {
+     "title": "Soya",
+     "subtitle": "Farms",
+     "text": "A big export."
+    },
+    {
+     "title": "Software",
+     "subtitle": "Montevideo",
+     "text": "A tech hub."
+    }
+   ],
+   "intro": "Some of the things Uruguay makes and sells to the world."
+  }
+ ]
+}

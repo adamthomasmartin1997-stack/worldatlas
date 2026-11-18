@@ -1,0 +1,101 @@
+{
+ "status": "draft",
+ "intro": "Cricket is Guyana's favourite sport, and Guyanese players have starred for the West Indies.",
+ "chapters": [
+  {
+   "id": "cricket",
+   "title": "Cricket",
+   "text": [
+    "Clive Lloyd captained the West Indies to the first two Cricket World Cups in 1975 and 1979. Shivnarine Chanderpaul is another legend."
+   ],
+   "related": [
+    "JAM",
+    "TTO",
+    "GBR"
+   ]
+  },
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "The Golden Jaguars played at the 2019 Gold Cup."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "West Indies",
+   "meaning": "The combined Caribbean cricket team."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "Caribbean Premier League",
+     "subtitle": "Cricket",
+     "text": "Guyana Amazon Warriors."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Clive Lloyd",
+     "subtitle": "Cricket",
+     "text": "Two World Cup wins as captain."
+    },
+    {
+     "title": "Shivnarine Chanderpaul",
+     "subtitle": "Cricket",
+     "text": "A top batter."
+    },
+    {
+     "title": "Lance Gibbs",
+     "subtitle": "Cricket",
+     "text": "A great spin bowler."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Guyana's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "Providence Stadium",
+    "kind": "venue",
+    "lat": 6.74,
+    "lon": -58.18,
+    "text": "A cricket stadium."
+   },
+   {
+    "name": "Bourda",
+    "kind": "venue",
+    "lat": 6.81,
+    "lon": -58.15,
+    "text": "A historic cricket ground."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1975",
+    "title": "World Cup",
+    "text": "Lloyd's West Indies win."
+   },
+   {
+    "year": "2019",
+    "title": "Gold Cup",
+    "text": "A first appearance."
+   }
+  ]
+ }
+}

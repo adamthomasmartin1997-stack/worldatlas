@@ -1,0 +1,91 @@
+{
+ "status": "draft",
+ "intro": "Bolivia is officially a 'Plurinational State' with two capitals.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "Sucre is the constitutional capital and La Paz the seat of government. The president is elected for five years. A 2009 constitution recognised Indigenous rights."
+   ],
+   "facts": [
+    {
+     "label": "Constitutional capital",
+     "value": "Sucre"
+    },
+    {
+     "label": "Seat of government",
+     "value": "La Paz"
+    },
+    {
+     "label": "Official languages",
+     "value": "36"
+    }
+   ]
+  },
+  {
+   "id": "sea",
+   "title": "The sea question",
+   "text": [
+    "Bolivia still has a navy, which trains on Lake Titicaca, and hopes for sea access."
+   ],
+   "related": [
+    "CHL"
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Seat of government",
+   "meaning": "Where the government works."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 5 years",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "36 members",
+     "text": "The upper house."
+    },
+    {
+     "title": "Chamber of Deputies",
+     "subtitle": "130 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "Departments",
+     "subtitle": "9 departments",
+     "text": "Elected governors."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "By members, the president or citizens."
+   },
+   {
+    "title": "Both chambers",
+    "text": "Debate and pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it into law."
+   }
+  ]
+ }
+}

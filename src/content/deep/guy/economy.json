@@ -1,0 +1,58 @@
+{
+ "status": "draft",
+ "intro": "Oil has made Guyana's economy one of the fastest-growing in the world.",
+ "chapters": [
+  {
+   "id": "oil",
+   "title": "Oil",
+   "text": [
+    "Offshore oil, pumped since 2019, has multiplied the economy's size. Gold, bauxite, sugar and rice are traditional exports."
+   ],
+   "related": [
+    "USA"
+   ]
+  },
+  {
+   "id": "forest",
+   "title": "Forest deal",
+   "text": [
+    "Guyana sells carbon credits for protecting its forests."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Bauxite",
+   "meaning": "Ore used to make aluminium."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "made-in",
+   "title": "Made in Guyana",
+   "items": [
+    {
+     "title": "Oil",
+     "subtitle": "Offshore",
+     "text": "The main export."
+    },
+    {
+     "title": "Gold",
+     "subtitle": "Interior",
+     "text": "Mined in the forests."
+    },
+    {
+     "title": "Rice",
+     "subtitle": "Coast",
+     "text": "An old crop."
+    },
+    {
+     "title": "Demerara sugar",
+     "subtitle": "Coast",
+     "text": "Named after a river here."
+    }
+   ],
+   "intro": "Some of the things Guyana makes and sells to the world."
+  }
+ ]
+}

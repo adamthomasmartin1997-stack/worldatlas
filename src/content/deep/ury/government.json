@@ -1,0 +1,88 @@
+{
+ "status": "draft",
+ "intro": "Uruguay is often ranked the most democratic country in Latin America.",
+ "chapters": [
+  {
+   "id": "system",
+   "title": "How it works",
+   "text": [
+    "The president is elected for five years and cannot serve two terms in a row. Yamandú Orsi took office in 2025. Uruguay legalised same-sex marriage in 2013 and was the first country to fully legalise cannabis."
+   ],
+   "facts": [
+    {
+     "label": "Capital",
+     "value": "Montevideo"
+    },
+    {
+     "label": "Independence",
+     "value": "1828"
+    },
+    {
+     "label": "Departments",
+     "value": "19"
+    }
+   ]
+  },
+  {
+   "id": "mujica",
+   "title": "José Mujica",
+   "text": [
+    "Former president José Mujica became famous for his simple life, giving most of his salary away."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Democracy",
+   "meaning": "Rule by the people through elections."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "how-power-works",
+   "title": "How power works",
+   "items": [
+    {
+     "title": "The President",
+     "subtitle": "Elected for 5 years",
+     "text": "Head of state and government."
+    },
+    {
+     "title": "Senate",
+     "subtitle": "30 members plus the Vice President",
+     "text": "The upper house."
+    },
+    {
+     "title": "Chamber of Representatives",
+     "subtitle": "99 members",
+     "text": "The lower house."
+    },
+    {
+     "title": "Departments",
+     "subtitle": "19 departments",
+     "text": "Local government."
+    }
+   ],
+   "intro": "Who chooses whom, and what each part of the system does."
+  }
+ ],
+ "steps": {
+  "id": "how-a-law-is-made",
+  "title": "How a law is made",
+  "intro": "Most new laws follow these steps.",
+  "items": [
+   {
+    "title": "A bill is proposed",
+    "text": "In either chamber."
+   },
+   {
+    "title": "Both chambers",
+    "text": "Debate and pass it."
+   },
+   {
+    "title": "The President",
+    "text": "Promulgates it or vetoes it."
+   }
+  ]
+ }
+}

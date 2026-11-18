@@ -1,0 +1,77 @@
+{
+ "status": "draft",
+ "intro": "Football is Suriname's favourite sport, and many Dutch stars have Surinamese roots.",
+ "chapters": [
+  {
+   "id": "football",
+   "title": "Football",
+   "text": [
+    "Ruud Gullit, Frank Rijkaard, Clarence Seedorf and Edgar Davids have Surinamese roots."
+   ],
+   "related": [
+    "NLD"
+   ]
+  },
+  {
+   "id": "swimming",
+   "title": "Swimming",
+   "text": [
+    "Anthony Nesty won Olympic 100 m butterfly gold in 1988, Suriname's only gold."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Butterfly",
+   "meaning": "A swimming stroke."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "leagues",
+   "title": "Biggest leagues and champions",
+   "items": [
+    {
+     "title": "SVB Eerste Divisie",
+     "subtitle": "Football",
+     "text": "The top league."
+    }
+   ]
+  },
+  {
+   "id": "legends",
+   "title": "Sporting legends",
+   "items": [
+    {
+     "title": "Anthony Nesty",
+     "subtitle": "Swimming",
+     "text": "Olympic champion 1988."
+    }
+   ]
+  }
+ ],
+ "places": {
+  "id": "venues",
+  "title": "Famous venues",
+  "intro": "Where Suriname's biggest sporting moments happen.",
+  "items": [
+   {
+    "name": "André Kamperveen Stadium",
+    "kind": "venue",
+    "lat": 5.83,
+    "lon": -55.17,
+    "text": "The national stadium."
+   }
+  ]
+ },
+ "moments": {
+  "title": "Big moments",
+  "items": [
+   {
+    "year": "1988",
+    "title": "Olympic gold",
+    "text": "Nesty in Seoul."
+   }
+  ]
+ }
+}

@@ -1,0 +1,106 @@
+{
+ "status": "draft",
+ "intro": "Paraguayan culture is famous for its harp music, lace and tereré.",
+ "chapters": [
+  {
+   "id": "arts",
+   "title": "Arts",
+   "text": [
+    "The Paraguayan harp is the national instrument. Ñandutí, spiderweb-like lace, is a famous craft. Augusto Roa Bastos wrote the classic novel I, the Supreme."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Chipa (cheese bread), sopa paraguaya (a solid cornbread) and tereré, cold herbal tea, are national favourites."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Tereré",
+   "meaning": "Cold yerba mate tea."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "I, the Supreme",
+     "subtitle": "1974 · Augusto Roa Bastos",
+     "text": "A novel about dictatorship."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Pájaro Campana",
+     "subtitle": "Traditional",
+     "text": "A famous harp tune."
+    },
+    {
+     "title": "Guarania",
+     "subtitle": "Music",
+     "text": "A slow, gentle style."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Chipa",
+     "subtitle": "Everywhere",
+     "text": "Cheese bread."
+    },
+    {
+     "title": "Sopa paraguaya",
+     "subtitle": "Everywhere",
+     "text": "A solid cornbread."
+    },
+    {
+     "title": "Tereré",
+     "subtitle": "Everywhere",
+     "text": "Cold herbal tea."
+    },
+    {
+     "title": "Mbejú",
+     "subtitle": "Everywhere",
+     "text": "Starch pancake."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 2,
+    "name": "Carnival",
+    "text": "Encarnación's parade."
+   },
+   {
+    "month": 5,
+    "name": "Independence Day",
+    "text": "14–15 May."
+   },
+   {
+    "month": 2,
+    "name": "Tereré Day",
+    "text": "Last Saturday of February."
+   },
+   {
+    "month": 12,
+    "name": "Caacupé pilgrimage",
+    "text": "8 December."
+   }
+  ]
+ }
+}

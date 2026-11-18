@@ -1,0 +1,107 @@
+{
+ "status": "draft",
+ "intro": "Bolivian culture blends Andean and Spanish traditions, best seen in its festivals.",
+ "chapters": [
+  {
+   "id": "carnival",
+   "title": "Carnival of Oruro",
+   "text": [
+    "The Carnival of Oruro, with the devil dance (diablada), is on UNESCO's list."
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food",
+   "text": [
+    "Salteñas (juicy pastries), quinoa and dozens of kinds of potato are everyday foods."
+   ]
+  }
+ ],
+ "keyTerms": [
+  {
+   "term": "Diablada",
+   "meaning": "A masked devil dance."
+  }
+ ],
+ "cardGroups": [
+  {
+   "id": "films",
+   "title": "Films to know",
+   "items": [
+    {
+     "title": "Utama",
+     "subtitle": "2022 · Alejandro Loayza Grisi",
+     "text": "An elderly couple in a drought."
+    }
+   ]
+  },
+  {
+   "id": "books",
+   "title": "Books to know",
+   "items": [
+    {
+     "title": "Raza de bronce",
+     "subtitle": "1919 · Alcides Arguedas",
+     "text": "A classic novel."
+    }
+   ]
+  },
+  {
+   "id": "music",
+   "title": "Music to know",
+   "items": [
+    {
+     "title": "Los Kjarkas",
+     "subtitle": "Band",
+     "text": "Andean folk legends."
+    },
+    {
+     "title": "Charango",
+     "subtitle": "Instrument",
+     "text": "A small Andean guitar."
+    }
+   ]
+  },
+  {
+   "id": "food",
+   "title": "Food to try",
+   "items": [
+    {
+     "title": "Salteñas",
+     "subtitle": "Breakfast",
+     "text": "Juicy baked pastries."
+    },
+    {
+     "title": "Pique macho",
+     "subtitle": "Cochabamba",
+     "text": "Beef, sausage and chips."
+    },
+    {
+     "title": "Sopa de maní",
+     "subtitle": "Everywhere",
+     "text": "Peanut soup."
+    }
+   ]
+  }
+ ],
+ "calendar": {
+  "title": "Festival calendar",
+  "items": [
+   {
+    "month": 1,
+    "name": "Alasitas",
+    "text": "A fair of miniatures in La Paz."
+   },
+   {
+    "month": 2,
+    "name": "Carnival of Oruro",
+    "text": "Devil dancers."
+   },
+   {
+    "month": 8,
+    "name": "Independence Day",
+    "text": "6 August."
+   }
+  ]
+ }
+}
