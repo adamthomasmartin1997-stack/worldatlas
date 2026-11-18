@@ -58,13 +58,17 @@ export function BorderChain() {
   };
 
   const shown = new Set(path);
-  const bestSet = new Set(gaveUp ? puzzle.best : []);
+  // Once the round is over, show a fastest route. If the player's own route was already
+  // a fastest one, it is the one shown; otherwise the precomputed shortest path.
+  const matchedPar = won && chain.length === par;
+  const fastest = matchedPar ? path : puzzle.best;
+  const bestSet = new Set(over ? fastest : []);
   const classFor = (code: string | null) => {
     if (!code) return undefined;
     if (code === puzzle.from.cca3 || code === puzzle.to.cca3) return 'active';
     if (shown.has(code)) return 'found';
-    if (bestSet.has(code)) return 'wrong';
-    return undefined;
+    if (bestSet.has(code)) return 'route';
+    return over ? 'dim' : undefined;
   };
   const focus = useMemo(() => [...new Set([...puzzle.best, ...path])], [puzzle, chain]); // eslint-disable-line react-hooks/exhaustive-deps
 
@@ -81,7 +85,7 @@ export function BorderChain() {
           <ol className="chain-list" aria-label="Your route so far">
             {path.map((code) => <li key={code}><span className="chip chip-static">{getCountry(code)!.name}</span></li>)}
             {!over && <li><span className="chip chip-static chip-next">?</span></li>}
-            <li><span className="chip chip-static chip-goal">{puzzle.to.name}</span></li>
+            {!won && <li><span className="chip chip-static chip-goal">{puzzle.to.name}</span></li>}
           </ol>
           {!over && (
             <>
@@ -94,8 +98,23 @@ export function BorderChain() {
           )}
           <p className="chain-message" aria-live="polite">{message}</p>
           {over && (
+            <section className="chain-fastest" aria-labelledby="chain-fastest-title">
+              <h3 id="chain-fastest-title" className="chain-fastest-title">
+                {matchedPar ? 'You found a fastest route!' : `Fastest route: ${par} crossing${par > 1 ? 's' : ''}`}
+              </h3>
+              {!matchedPar && won && <p className="muted">Yours took {chain.length}, {chain.length - par} more than needed.</p>}
+              <ol className="chain-list" aria-label="A fastest route">
+                {fastest.map((code) => {
+                  const c = getCountry(code)!;
+                  const extra = !shown.has(code) && code !== puzzle.to.cca3;
+                  return <li key={code}><Link className={`chip${extra ? ' chip-route' : ''}`} to={countryPath(c)}>{c.name}</Link></li>;
+                })}
+              </ol>
+              {fastest.some((c) => !shown.has(c)) && <p className="muted chain-legend"><span className="legend-swatch swatch-found" aria-hidden="true" /> In your route <span className="legend-swatch swatch-route" aria-hidden="true" /> On the fastest route only</p>}
+            </section>
+          )}
+          {over && (
             <div className="quiz-actions">
-              {gaveUp && <p className="muted">One shortest route: {puzzle.best.map((c) => getCountry(c)!.name).join(' → ')}.</p>}
               <button className="btn btn-primary" onClick={() => reset()}><RotateCcw size={18} aria-hidden="true" /> New route</button>
               <Link className="btn" to={countryPath(puzzle.to)}>Explore {puzzle.to.name}</Link>
             </div>

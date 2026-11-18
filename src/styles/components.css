@@ -152,6 +152,7 @@ select.input { box-shadow: none; min-height: var(--touch); }
 .map-country.active { fill: var(--map-active); }
 .map-country.found { fill: var(--map-found); }
 .map-country.wrong { fill: var(--map-wrong); }
+.map-country.route { fill: var(--map-route); }
 .map-pin { pointer-events: none; }
 .map-pin-ring { fill: none; stroke: var(--ink); stroke-width: 3; }
 .map-pin-dot { fill: var(--sun); stroke: var(--ink); stroke-width: 2.5; }

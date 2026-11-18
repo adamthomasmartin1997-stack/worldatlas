@@ -33,6 +33,7 @@
   --map-active: var(--sun);
   --map-found: var(--green);
   --map-wrong: var(--coral);
+  --map-route: var(--surface);
   --map-dim: #c9dcc6;
 
   /* Type */
