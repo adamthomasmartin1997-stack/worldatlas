@@ -38,7 +38,8 @@
         "total area",
         "highest point (scripts/importers/wikidata.mjs)",
         "head of state and government offices, anthem, motto (scripts/importers/wikidata-government.mjs)",
-        "how well known each country is, for quiz difficulty only (scripts/importers/wikidata-fame.mjs)"
+        "how well known each country is, for quiz difficulty only (scripts/importers/wikidata-fame.mjs)",
+        "historical events: wars, battles, treaties, revolutions, historical states, with dates, places, participants, causes and effects (scripts/importers/wikidata-events.mjs)"
       ]
     },
     "world-bank": {
@@ -81,7 +82,9 @@
       "Britannica articles",
       "CIA World Factbook text is public domain but check each page",
       "Wikipedia article text (CC BY-SA: only with attribution and share-alike — prefer writing our own)",
-      "Any map tiles or images without an explicit licence"
+      "Any map tiles or images without an explicit licence",
+      "CShapes 2.0 historical borders (non-commercial licence; would block a paid tier)",
+      "Seshat Global History Databank (CC BY-NC-SA; non-commercial)"
     ]
   },
   "precedence": {

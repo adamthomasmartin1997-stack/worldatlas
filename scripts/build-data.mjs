@@ -227,6 +227,40 @@ for (const c of out) if (c.flag) writeFileSync(`public/data/flags/${c.cca3.toLow
     }
     writeFileSync('public/data/structure.json', JSON.stringify({ retrieved: structure.retrieved, countries: out }));
   }
+  // events.json: historical events for the History section and country timelines (Wikidata, CC0).
+  // Compact keys; links to other events are kept only when that event is in the file too.
+  const events = load('data/sources/wikidata-events.json');
+  if (events) {
+    const ids = new Set(events.events.map((e) => e.id));
+    const inSet = (list) => (list ?? []).map((x) => x.id).filter((id) => ids.has(id));
+    // Named historical states and peoples that aren't modern countries (shown as plain text).
+    const modern = new Set(Object.values(wikidata?.countries ?? {}).map((c) => c.wikidata));
+    const others = (list) => (list ?? []).filter((x) => !modern.has(x.id) && !ids.has(x.id)).map((x) => x.label);
+    const out = events.events.map((e) => {
+      const o = { id: e.id, k: e.kind, t: e.label, s: e.start.date, sp: e.start.precision, n: e.sitelinks };
+      if (e.description) o.d = e.description;
+      if (e.end && e.end.date !== e.start.date) { o.e = e.end.date; o.ep = e.end.precision; }
+      if (e.countries.length) o.c = e.countries;
+      if (e.place) o.p = e.place;
+      if (e.coords) o.ll = e.coords;
+      if (e.article) o.w = decodeURIComponent(e.article.split('/wiki/').pop());
+      const partOf = inSet(e.links.partOf); if (partOf.length) o.of = partOf;
+      const causes = inSet(e.links.causes); if (causes.length) o.ca = causes;
+      const effects = inSet(e.links.effects); if (effects.length) o.ef = effects;
+      const before = inSet([...(e.links.follows ?? []), ...(e.links.replaces ?? [])]); if (before.length) o.pr = before;
+      const after = inSet([...(e.links.followedBy ?? []), ...(e.links.replacedBy ?? [])]); if (after.length) o.nx = after;
+      const sides = [...new Set([...others(e.links.participants), ...others(e.links.country)])]; if (sides.length) o.h = sides.slice(0, 8);
+      return o;
+    });
+    // Reverse links, so a war lists its battles and an event lists what it led to.
+    const byId = new Map(out.map((o) => [o.id, o]));
+    for (const o of out) {
+      for (const parent of o.of ?? []) (byId.get(parent).sub ??= []).push(o.id);
+      for (const cause of o.ca ?? []) { const c = byId.get(cause); if (!(c.ef ?? []).includes(o.id)) (c.ef ??= []).push(o.id); }
+    }
+    writeFileSync('public/data/events.json', JSON.stringify({ retrieved: events.retrieved.slice(0, 10), events: out }));
+    console.log(`events.json: ${out.length} events`);
+  }
 }
 writeFileSync('src/data/organisations.json', JSON.stringify(Object.fromEntries(Object.entries(orgs).map(([k, o]) => [k, { name: o.name, text: o.text, url: o.url, the: Boolean(o.the) }])), null, 1));
 writeFileSync(
