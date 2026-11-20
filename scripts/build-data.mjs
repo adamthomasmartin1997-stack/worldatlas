@@ -236,11 +236,19 @@ for (const c of out) if (c.flag) writeFileSync(`public/data/flags/${c.cca3.toLow
     // Named historical states and peoples that aren't modern countries (shown as plain text).
     const modern = new Set(Object.values(wikidata?.countries ?? {}).map((c) => c.wikidata));
     const others = (list) => (list ?? []).filter((x) => !modern.has(x.id) && !ids.has(x.id)).map((x) => x.label);
+    const fixes = load('data/event-corrections.json')?.dates ?? {};
+    const yearOf = (d) => Number(d.match(/^-?\d+/)[0]);
     const out = events.events.map((e) => {
-      const o = { id: e.id, k: e.kind, t: e.label, s: e.start.date, sp: e.start.precision, n: e.sitelinks };
+      const fix = fixes[e.id] ?? {};
+      const o = { id: e.id, k: e.kind, t: e.label, s: fix.s ?? e.start.date, sp: e.start.precision, n: e.sitelinks };
       if (e.description) o.d = e.description;
-      if (e.end && e.end.date !== e.start.date) { o.e = e.end.date; o.ep = e.end.precision; }
-      if (e.countries.length) o.c = e.countries;
+      const end = fix.e ?? e.end?.date;
+      // An end before the start is a data error: keep the start, drop the end (and fix it in event-corrections.json).
+      if (end && end !== o.s && yearOf(end) >= yearOf(o.s)) { o.e = end; o.ep = e.end.precision; }
+      else if (end && yearOf(end) < yearOf(o.s)) console.warn(`events: ${e.label} (${e.id}) ends before it starts; end dropped`);
+      // Wikidata codes that differ from the site's (Kosovo is XKS there, UNK here).
+      const cc = [...new Set(e.countries.map((c) => ({ XKS: 'UNK' })[c] ?? c))];
+      if (cc.length) o.c = cc;
       if (e.place) o.p = e.place;
       if (e.coords) o.ll = e.coords;
       if (e.article) o.w = decodeURIComponent(e.article.split('/wiki/').pop());
@@ -258,6 +266,7 @@ for (const c of out) if (c.flag) writeFileSync(`public/data/flags/${c.cca3.toLow
       for (const parent of o.of ?? []) (byId.get(parent).sub ??= []).push(o.id);
       for (const cause of o.ca ?? []) { const c = byId.get(cause); if (!(c.ef ?? []).includes(o.id)) (c.ef ??= []).push(o.id); }
     }
+    out.sort((x, y) => yearOf(x.s) - yearOf(y.s) || y.n - x.n); // corrections can move an event
     writeFileSync('public/data/events.json', JSON.stringify({ retrieved: events.retrieved.slice(0, 10), events: out }));
     console.log(`events.json: ${out.length} events`);
   }

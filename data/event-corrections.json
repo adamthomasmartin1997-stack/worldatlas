@@ -1,0 +1,8 @@
+{
+  "_readme": "Hand-maintained fixes for data/sources/wikidata-events.json, applied by scripts/build-data.mjs. 'dates' overrides a start (s) or end (e) date where Wikidata has a clear typo; each entry says why. Dates use the same format as events.json: '1877-01-29', '1877' or '-0229' for 229 BC. Consider fixing the item on Wikidata too.",
+  "dates": {
+    "Q154552": { "s": "-0229", "e": "-0168", "why": "Illyro-Roman Wars were 229–168 BC; Wikidata has the years as AD." },
+    "Q714820": { "s": "1877-01-29", "why": "Satsuma Rebellion began 29 January 1877; Wikidata has 2005." },
+    "Q1187198": { "e": "1913-02-19", "why": "Ten Tragic Days were 9–19 February 1913; Wikidata has the end as 1910." }
+  }
+}

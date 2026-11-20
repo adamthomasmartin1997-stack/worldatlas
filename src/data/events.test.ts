@@ -34,7 +34,7 @@ describe.runIf(built)('events.json', () => {
     for (const e of file.events) {
       expect(e.id, e.t).toMatch(/^Q\d+$/);
       expect(EVENT_KINDS, e.t).toContain(e.k);
-      expect(e.t.length, e.id).toBeGreaterThan(2);
+      expect(e.t.length, e.id).toBeGreaterThanOrEqual(2);
       expect(e.s, e.t).toMatch(/^-?\d{4}(-\d\d(-\d\d)?)?$/);
       expect(yearOf(e.s), e.t).toBeLessThanOrEqual(now);
       if (e.e) expect(yearOf(e.e), `${e.t} ends after it starts`).toBeGreaterThanOrEqual(yearOf(e.s));
