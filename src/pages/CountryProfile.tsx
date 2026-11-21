@@ -288,7 +288,9 @@ function Profile({ c }: { c: Country }) {
             </li>
           ))}
         </ol>
-        {!hasDeepDive(c.cca3, 'history') && <p className="muted">A fuller history page is on the way.</p>}
+        {hasDeepDive(c.cca3, 'history')
+          ? <p><Link className="btn" to={`${countryPath(c)}/history?at=timeline`}>See the full timeline</Link></p>
+          : <p className="muted">A fuller history page is on the way.</p>}
       </Panel>
     ),
     government: (content?.government || c.government) && (

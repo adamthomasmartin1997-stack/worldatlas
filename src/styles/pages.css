@@ -579,3 +579,20 @@ a.chip:hover { color: var(--ink); background: var(--sun); transform: translate(2
   .year-type { flex: 1 1 100%; }
 }
 .event-body > *, .era-nav { min-width: 0; }
+
+/* Country timeline (deep-dive history page) */
+.country-timeline { display: grid; gap: var(--space-4); }
+.timeline-head { display: grid; gap: var(--space-3); }
+.timeline-head p { margin: 0; }
+.timeline-head .segmented { margin: 0; }
+.timeline-era { display: grid; gap: var(--space-3); }
+.timeline-era-h { margin: var(--space-4) 0 0; font-size: var(--text-lg); display: flex; flex-wrap: wrap; align-items: baseline; gap: var(--space-2); }
+.timeline-era-h a { color: var(--ink); }
+.timeline-era-h .muted { font-family: var(--font-sans); font-size: var(--text-sm); font-weight: 600; }
+.deep-timeline h4 { margin: 0 0 var(--space-1); font-size: var(--text-base); }
+.deep-timeline h4 a { color: var(--ink); }
+.timeline-year-plain { background: var(--surface); font-size: var(--text-sm); }
+.timeline-event p { font-size: var(--text-sm); }
+.timeline-more { justify-self: start; }
+.timeline-world { display: grid; gap: var(--space-2); padding-top: var(--space-4); border-top: 2px solid var(--line); }
+.timeline-world h3, .timeline-world p { margin: 0; }

@@ -1,8 +1,9 @@
 import { useEffect, useState } from 'react';
-import { Link, useParams } from 'react-router-dom';
+import { Link, useParams, useSearchParams } from 'react-router-dom';
 import { ArrowLeft, ArrowRight, BookOpen, Clock, Play } from 'lucide-react';
 import { Breadcrumbs, ButtonLink } from '../components/ui';
 import { WorldCompare } from '../components/WorldCompare';
+import { CountryTimeline } from '../components/CountryTimeline';
 import { Bars, Calendar, CardGroups, CityBars, HeritageMap, JobsBars, PinMap, PopulationPyramid, Steps } from '../components/DeepExtras';
 import { COUNTRIES, countryPath, getCountry, type Country } from '../data/countries';
 import type { ReactNode } from 'react';
@@ -36,6 +37,14 @@ function DeepPage({ c, section }: { c: Country; section: DeepSection }) {
 
   const title = deepTitle(section, nameInSentence(c));
   useEffect(() => { document.title = `${title} · Worldwise`; }, [title]);
+  // ?at=<section id> (e.g. ?at=timeline from the profile's History tab): scroll there once loaded.
+  const [params] = useSearchParams();
+  const at = params.get('at');
+  useEffect(() => {
+    if (!d || !at) return;
+    const id = requestAnimationFrame(() => document.getElementById(at)?.scrollIntoView({ block: 'start' }));
+    return () => cancelAnimationFrame(id);
+  }, [d, at]);
 
   const extras = d ? extrasFor(section, c, d) : [];
   const profile = `${countryPath(c)}?tab=${section}`;
@@ -71,7 +80,7 @@ function DeepPage({ c, section }: { c: Country; section: DeepSection }) {
             <ol>
               {d.chapters.map((ch) => <li key={ch.id}><a href={`#${ch.id}`} onClick={jump(ch.id)}>{ch.title}</a></li>)}
               {extras.map((x) => <li key={x.id}><a href={`#${x.id}`} onClick={jump(x.id)}>{x.title}</a></li>)}
-              {d.timeline && <li><a href="#timeline" onClick={jump('timeline')}>Timeline</a></li>}
+              {(d.timeline || section === 'history') && <li><a href="#timeline" onClick={jump('timeline')}>Timeline</a></li>}
               {d.keyTerms && <li><a href="#key-words" onClick={jump('key-words')}>Key words</a></li>}
             </ol>
           </nav>
@@ -98,7 +107,8 @@ function DeepPage({ c, section }: { c: Country; section: DeepSection }) {
 
             {extras.map((x) => <div key={x.id} className="deep-extra">{x.node}</div>)}
 
-            {d.timeline && (
+            {section === 'history' && <CountryTimeline country={c} name={nameInSentence(c)} written={d.timeline ?? []} />}
+            {section !== 'history' && d.timeline && (
               <section id="timeline" className="deep-chapter" aria-labelledby="timeline-h">
                 <h2 id="timeline-h">Timeline</h2>
                 <ol className="deep-timeline">
