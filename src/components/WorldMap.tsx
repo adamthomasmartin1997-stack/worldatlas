@@ -16,6 +16,17 @@ function MapPin({ at }: { at: [number, number] }) {
   );
 }
 
+/** A numbered marker at a real place (e.g. a battle within a war), the same size at any zoom. */
+function NumberPin({ at, n }: { at: [number, number]; n: number }) {
+  const k = useZoomScale();
+  return (
+    <g className="pin" transform={`translate(${at[0]} ${at[1]}) scale(${1 / k})`} aria-hidden="true">
+      <circle r={12} />
+      <text textAnchor="middle" dy="0.35em">{n}</text>
+    </g>
+  );
+}
+
 const WIDTH = 960;
 
 /** Transcontinental countries left out when framing a region, so Europe isn't stretched to the Pacific. */
@@ -44,17 +55,19 @@ export interface WorldMapProps {
   onlyFocusRegion?: boolean;
   /** Drop a pin on this country (cca3), so small countries are visible on a world map. */
   pin?: string;
+  /** Places to mark, as [lat, lon]. With a number `n` they show as numbered markers (listed beside the map); without, as a pin. */
+  points?: { at: [number, number]; n?: number }[];
   aspect?: number;
 }
 
-function WorldMapInner({ label, onSelect, classFor, focus, hideNames, onlyFocusRegion, pin, aspect = 0.5 }: WorldMapProps) {
+function WorldMapInner({ label, onSelect, classFor, focus, hideNames, onlyFocusRegion, pin, points, aspect = 0.5 }: WorldMapProps) {
   const { features, error } = useWorld();
   const frame = useRef<HTMLDivElement>(null);
   const [tip, setTip] = useState<{ x: number; y: number; text: string } | null>(null);
   const height = Math.round(WIDTH * aspect);
 
-  const { paths, pinAt } = useMemo(() => {
-    if (!features) return { paths: [], pinAt: null };
+  const { paths, pinAt, marks } = useMemo(() => {
+    if (!features) return { paths: [], pinAt: null, marks: [] };
     const focusSet = new Set(focus ?? []);
     const regions = new Set([...focusSet].map((c) => getCountry(c)?.region));
     const visible = features.filter((f) => {
@@ -65,13 +78,16 @@ function WorldMapInner({ label, onSelect, classFor, focus, hideNames, onlyFocusR
     if (focusSet.size > 3) target = target.filter((f) => !FIT_EXCLUDE.has(f.properties.cca3 ?? ''));
     if (focusSet.size) target = target.map(mainland);
     const fc: FeatureCollection<Geometry> = { type: 'FeatureCollection', features: target.length ? target : visible };
+    // Frame the marked places too, so a battle just outside the countries involved still shows.
+    if (focusSet.size && points?.length) fc.features = [...fc.features, { type: 'Feature', properties: {}, geometry: { type: 'MultiPoint', coordinates: points.map((p) => [p.at[1], p.at[0]]) } }];
     const pad = focusSet.size ? 24 : 4;
     const projection = geoNaturalEarth1().fitExtent([[pad, pad], [WIDTH - pad, height - pad]], fc);
     const path = geoPath(projection);
     const pinCountry = getCountry(pin);
     const pinAt = pinCountry ? projection([pinCountry.latlng[1], pinCountry.latlng[0]]) : null;
-    return { paths: visible.map((f: CountryFeature) => ({ f, d: path(f) ?? '' })), pinAt };
-  }, [features, focus, height, onlyFocusRegion, pin]);
+    const marks = (points ?? []).map((p) => ({ xy: projection([p.at[1], p.at[0]]), n: p.n })).filter((m): m is { xy: [number, number]; n: number | undefined } => Boolean(m.xy));
+    return { paths: visible.map((f: CountryFeature) => ({ f, d: path(f) ?? '' })), pinAt, marks };
+  }, [features, focus, height, onlyFocusRegion, pin, points]);
 
   if (error) return <div className="map-frame map-loading" role="alert">{error}</div>;
   if (!features) return <div className="map-frame map-loading">Loading map…</div>;
@@ -102,6 +118,7 @@ function WorldMapInner({ label, onSelect, classFor, focus, hideNames, onlyFocusR
           );
         })}
         {pinAt && <MapPin at={pinAt as [number, number]} />}
+        {marks.map((m, i) => (m.n ? <NumberPin key={i} at={m.xy} n={m.n} /> : <MapPin key={i} at={m.xy} />))}
       </ZoomableSvg>
       {tip && <div className="map-tooltip" style={{ left: tip.x, top: tip.y }} aria-hidden="true">{tip.text}</div>}
     </div>

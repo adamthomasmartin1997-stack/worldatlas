@@ -7,6 +7,7 @@ import { CountryProfile } from './pages/CountryProfile';
 import { CountryQuiz } from './pages/CountryQuiz';
 import { StateProfile } from './pages/StateProfile';
 import { History } from './pages/History';
+import { EventPage } from './pages/EventPage';
 import { Games } from './pages/Games';
 import { NameTheCountries } from './pages/games/NameTheCountries';
 import { FindOnMap } from './pages/games/FindOnMap';
@@ -38,6 +39,7 @@ const router = createRouter([
       { path: '/countries/:code/states/:state', element: <StateProfile /> },
       { path: '/countries/:code/:section', element: <DeepDive /> },
       { path: '/history', element: <History /> },
+      { path: '/history/events/:id', element: <EventPage /> },
       { path: '/games', element: <Games /> },
       { path: '/games/name-the-countries', element: <NameTheCountries /> },
       { path: '/games/find-on-map', element: <FindOnMap /> },

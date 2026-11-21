@@ -1,7 +1,8 @@
 // Building blocks for deep-dive pages: a numbered-pin map, a population pyramid, comparison bars,
+import { useData } from './useData';
 import { ZoomableSvg, useZoomScale } from './ZoomableSvg';
 // card groups, a festival calendar and step lists. All are plain, accessible HTML/SVG.
-import { useEffect, useMemo, useState } from 'react';
+import { useMemo } from 'react';
 import { geoCentroid, geoContains, geoNaturalEarth1, geoPath } from 'd3-geo';
 import { useWorld } from './useWorld';
 import { homeland } from './CountryMap';
@@ -97,18 +98,6 @@ type Ages = { year: number; male: Record<string, number>; female: Record<string,
 type Jobs = { year: number; farming?: number; industry?: number; services?: number };
 interface Structure { retrieved: string; countries: Record<string, { ages?: Ages; jobs?: Jobs }> }
 interface Heritage { retrieved: string; countries: Record<string, { n: string; lat: number; lon: number; kind: string; shared?: 1 }[]> }
-
-const cache = new Map<string, Promise<unknown>>();
-function useData<T>(file: string): T | null {
-  const [data, setData] = useState<T | null>(null);
-  useEffect(() => {
-    let live = true;
-    if (!cache.has(file)) cache.set(file, fetch(`${import.meta.env.BASE_URL}data/${file}`).then((r) => (r.ok ? r.json() : null)).catch(() => null));
-    cache.get(file)!.then((d) => live && setData(d as T));
-    return () => { live = false; };
-  }, [file]);
-  return data;
-}
 
 /** The country's best-known World Heritage Sites of one kind, as a pin map (Wikidata). */
 export function HeritageMap({ country, kinds, title }: { country: Country; kinds: string[]; title: string }) {
