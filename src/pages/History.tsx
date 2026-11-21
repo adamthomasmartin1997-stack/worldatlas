@@ -1,7 +1,9 @@
 import { useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
-import { Search } from 'lucide-react';
-import { PageHeader, Placeholder, SourceNote } from '../components/ui';
+import { ArrowRight, Search } from 'lucide-react';
+import { PageHeader, SourceNote } from '../components/ui';
+import { ERAS, eventsInEra, fmtRange, pickHeadlines } from '../data/eras';
+import { eraPath } from './EraPage';
 import { getCountry } from '../data/countries';
 import { formatSpan } from '../data/events';
 import { useEvents } from '../data/useEvents';
@@ -20,6 +22,7 @@ export function History() {
     if (!all || term.length < 2) return [];
     return all.list.filter((e) => fold(e.t).includes(term)).sort((a, b) => Number(fold(b.t).startsWith(term)) - Number(fold(a.t).startsWith(term)) || b.n - a.n).slice(0, 12);
   }, [all, q]);
+  const tops = useMemo(() => (all ? ERAS.map((era) => pickHeadlines(eventsInEra(all.list, era), 3)) : []), [all]);
   const start = START.map((id) => all?.byId.get(id)).filter((e) => e != null);
 
   return (
@@ -27,6 +30,33 @@ export function History() {
       <PageHeader eyebrow="History" title="History">
         <p className="muted">Wars, empires, treaties and turning points from {all ? all.list.length.toLocaleString('en-GB') : 'thousands of'} events, each linked to the places and countries involved.</p>
       </PageHeader>
+
+      <section className="container section" style={{ paddingTop: 0 }} aria-labelledby="eras-h">
+        <h2 id="eras-h">Travel through time</h2>
+        <ol className="era-cards">
+          {ERAS.map((era, i) => {
+            const top = tops[i] ?? [];
+            return (
+              <li key={era.slug}>
+                <Link to={eraPath(era)} className="era-card">
+                  <span className="era-card-num" aria-hidden="true">{i + 1}</span>
+                  <span className="era-card-name">{era.name}</span>
+                  <span className="era-card-years">{fmtRange(era.from, era.to)}</span>
+                  {top.length > 0 && <span className="era-card-top">{top.map((e) => e.t).join(' · ')}</span>}
+                </Link>
+              </li>
+            );
+          })}
+        </ol>
+      </section>
+
+      <section className="container section" style={{ paddingTop: 0 }}>
+        <Link to="/history/meanwhile?year=1453" className="card meanwhile-teaser">
+          <span className="sticker sticker-coral">Meanwhile…</span>
+          <span className="meanwhile-teaser-text"><strong>What was happening everywhere else in 1453?</strong> Pick any year and see the whole world at once.</span>
+          <ArrowRight size={24} aria-hidden="true" />
+        </Link>
+      </section>
 
       <section className="container section" style={{ paddingTop: 0 }} aria-labelledby="find-h">
         <div className="card event-search">
@@ -63,14 +93,6 @@ export function History() {
         </div>
       </section>
 
-      <section className="container section grid grid-2" style={{ paddingTop: 0 }}>
-        <Placeholder title="Eras">
-          <p>Step through history era by era, from the ancient world to today, with a map of who ruled where and a quiz for each.</p>
-        </Placeholder>
-        <Placeholder title="Meanwhile">
-          <p>Pick a year and see what was happening all over the world at the same time.</p>
-        </Placeholder>
-      </section>
       <section className="container" style={{ paddingBottom: 'var(--space-16)' }}>
         <p>Also: <Link to="/countries/fra/quiz/history">French history quiz</Link>.</p>
       </section>

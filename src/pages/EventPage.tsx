@@ -59,7 +59,7 @@ function meanwhile(ev: HistoryEvent, all: Events): { around: string; items: Hist
   return { around: long ? `around ${fmt(a)}` : a === b ? `around ${fmt(a)}` : `${fmt(a)}–${fmt(b)}`, items: [...best.values()].sort((x, y) => y.n - x.n).slice(0, 4) };
 }
 
-function EventRow({ e, n }: { e: HistoryEvent; n?: number }) {
+export function EventRow({ e, n }: { e: HistoryEvent; n?: number }) {
   return (
     <li className="event-row">
       {n != null && <span className="pin-badge" aria-hidden="true">{n}</span>}
