@@ -18,6 +18,33 @@
       "s": "2025",
       "sp": "year",
       "why": "2025–2026 Iranian protests began in 2025, as the name says; Wikidata has 2020."
+    },
+    "Q49097": {
+      "s": "1947-11-30",
+      "sp": "day",
+      "why": "The 1948 Palestine war began with civil war on 30 November 1947; Wikidata gives only the 1940s."
+    },
+    "Q122962941": {
+      "s": "2023-10-07",
+      "sp": "day",
+      "why": "The Gaza War began on 7 October 2023, as its own description says; Wikidata gives only the 2020s."
+    },
+    "Q51649": {
+      "s": "1096",
+      "sp": "year",
+      "e": "1099",
+      "why": "The First Crusade was 1096–1099; Wikidata gives the 1080s and 1098."
+    },
+    "Q12546": {
+      "s": "1096",
+      "sp": "year",
+      "e": "1291",
+      "why": "The Crusades to the Holy Land ran from 1096 to the fall of Acre in 1291."
+    },
+    "Q126065": {
+      "s": "1978",
+      "sp": "year",
+      "why": "The Iranian Revolution began with protests in 1978; Wikidata gives 1970."
     }
   },
   "exclude": {
@@ -46,7 +73,11 @@
     "Q188154": "Pectin: a food substance.",
     "Q215551": "Comparative advantage: an economics idea, not an event.",
     "Q228036": "Caesarean section: Wikidata's 320 BC date is not reliable.",
-    "Q191667": "Hydroponics: Wikidata's AD 303 date is not reliable."
+    "Q191667": "Hydroponics: Wikidata's AD 303 date is not reliable.",
+    "Q641": "Venice: a city that Wikidata also files as a historical state; it isn't an event.",
+    "Q490": "Milan: a city that Wikidata also files as a historical state; it isn't an event.",
+    "Q2028": "Verona: a city that Wikidata also files as a historical state; it isn't an event.",
+    "Q13378": "Arezzo: a city that Wikidata also files as a historical state; it isn't an event."
   },
   "places": {
     "Q8094772": {

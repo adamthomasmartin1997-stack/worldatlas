@@ -253,7 +253,8 @@ for (const c of out) if (c.flag) writeFileSync(`public/data/flags/${c.cca3.toLow
       if (e.description) o.d = e.description;
       const end = fix.e ?? e.end?.date;
       // An end before the start is a data error: keep the start, drop the end (and fix it in event-corrections.json).
-      if (end && end !== o.s && yearOf(end) >= yearOf(o.s)) { o.e = end; o.ep = e.end.precision; }
+      const precisionOf = (d) => (/^-?\d+-\d\d-\d\d$/.test(d) ? 'day' : /^-?\d+-\d\d$/.test(d) ? 'month' : 'year');
+      if (end && end !== o.s && yearOf(end) >= yearOf(o.s)) { o.e = end; o.ep = fix.e ? precisionOf(fix.e) : e.end.precision; }
       else if (end && yearOf(end) < yearOf(o.s)) console.warn(`events: ${e.label} (${e.id}) ends before it starts; end dropped`);
       // Wikidata codes that differ from the site's (Kosovo is XKS there, UNK here).
       // Countries named in the event itself (its country and participants), by today's codes.

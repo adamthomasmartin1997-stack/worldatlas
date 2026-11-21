@@ -1,10 +1,10 @@
 # Historical events: import report
 
-Retrieved from Wikidata (CC0) on 2026-11-21. 4575 dated events.
+Retrieved from Wikidata (CC0) on 2026-11-21. 4571 dated events.
 
 ## By kind
 
-- state: 914
+- state: 910
 - battle: 819
 - treaty: 675
 - war: 591
@@ -27,13 +27,13 @@ Retrieved from Wikidata (CC0) on 2026-11-21. 4575 dated events.
 
 ## Coverage
 
-- Linked to at least one modern country: 3719
-- With a place on the map: 2818
+- Linked to at least one modern country: 3715
+- With a place on the map: 2815
 - Part of a larger event (for example a battle within a war): 1145
 - With causes or effects: 102
-- Before 1500: 1193
+- Before 1500: 1189
 
-Most events: United States 540, France 275, Russia 255, United Kingdom 226, Italy 197, Germany 167, Türkiye 136, China 126, Spain 116, Ukraine 100, Greece 91, Poland 88, Japan 85, India 76, Belgium 64.
+Most events: United States 540, France 275, Russia 255, United Kingdom 226, Italy 193, Germany 167, Türkiye 136, China 126, Spain 116, Ukraine 100, Greece 91, Poland 88, Japan 85, India 76, Belgium 64.
 
 Countries with fewer than 5 events (73): Bahrain (4), Cameroon (4), Central African Republic (4), Guatemala (4), Guinea-Bissau (4), Kuwait (4), Mauritania (4), Paraguay (4), Venezuela (4), Andorra (3), Costa Rica (3), Gabon (3), Guinea (3), Ivory Coast (3), Jamaica (3), Liberia (3), Nicaragua (3), Niger (3), Panama (3), Qatar (3), Solomon Islands (3), South Sudan (3), Tonga (3), Turkmenistan (3), United Arab Emirates (3), Brunei (2), Djibouti (2), Ghana (2), Liechtenstein (2), Maldives (2), Monaco (2), Oman (2), Palau (2), Papua New Guinea (2), Republic of the Congo (2), San Marino (2), Sierra Leone (2), Suriname (2), Tajikistan (2), Togo (2), Antigua and Barbuda (1), Belize (1), Bhutan (1), Botswana (1), Comoros (1), Eswatini (1), Guyana (1), Lesotho (1), Marshall Islands (1), Mauritius (1), Micronesia (1), Nauru (1), Saint Lucia (1), Saint Vincent and the Grenadines (1), Seychelles (1), Timor-Leste (1), Trinidad and Tobago (1), Vanuatu (1), Bahamas (0), Barbados (0), Cape Verde (0), Dominica (0), Equatorial Guinea (0), Fiji (0), Gambia (0), Grenada (0), Kiribati (0), Malawi (0), Saint Kitts and Nevis (0), Samoa (0), São Tomé and Príncipe (0), Tuvalu (0), Zambia (0).
 
@@ -221,7 +221,7 @@ Countries with fewer than 5 events (73): Bahrain (4), Cameroon (4), Central Afri
 - 141 BC · **Paper** (invention) — thin, flexible material mainly used for writing upon, printing upon, drawing or for packaging
 - 285–1453 · **Byzantine Empire** (state) — Roman Empire during Late Antiquity and the Middle Ages
 - 1700 · **Piano** (invention) — musical keyboard instrument
-- 1094–1290 · **Crusades** (war) — mass military expeditions and wars initiated by the Catholic Church in the High Middle Ages
+- 1096–1291 · **Crusades** (war) — mass military expeditions and wars initiated by the Catholic Church in the High Middle Ages
 - 1524–1947 · **Prussia** (state) — common term for the Duchy, the Kingdom and the Free State of Prussia (1525–1947)
 - 1901 · **Diode** (invention) — abstract electronic component with two terminals that allows current to flow in one direction
 - 1886 · **Electromagnetic radiation** (invention) — form of energy emitted and absorbed by particles which are charged which shows wave-like behavior as it travels through space
@@ -250,4 +250,4 @@ Countries with fewer than 5 events (73): Bahrain (4), Cameroon (4), Central Afri
 - 721–1492 · **Reconquista** (war) — period in the history of the Iberian Peninsula
 - 2205 BC–1600 BC · **Xia dynasty** (state) — the first hereditary dynasty recorded in the Chinese dynasties (ca. 2100 BCE--1916 BCE), house of Xiahou
 - 1916–1917 · **February Revolution** (revolution) — first of two revolutions in Russia in 1917
-- 1089–1098 · **First Crusade** (war) — 1096–1099 Christian conquest of the Holy Land
+- 1096–1099 · **First Crusade** (war) — 1096–1099 Christian conquest of the Holy Land

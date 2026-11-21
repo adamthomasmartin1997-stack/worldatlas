@@ -1,0 +1,1121 @@
+{
+ "_readme": "Worldwise's own short summaries of the best-known events, shown on event pages (src/pages/EventPage.tsx). Written from widely published facts in plain English for a teen audience; Wikidata supplies the dates and links. 'asOf' marks events still unfolding and when the text was last checked. All entries are drafts until checked against sources.",
+ "status": "draft",
+ "events": {
+  "Q11768": {
+   "text": [
+    "Ancient Egypt grew up along the River Nile, whose yearly floods left rich soil for farming in the middle of the desert. Around 3100 BC Upper and Lower Egypt were united under one king, the pharaoh.",
+    "For nearly 3,000 years Egyptians built pyramids and temples, wrote in hieroglyphs and developed medicine and mathematics. Egypt was later ruled by Persians, Greeks and finally Romans, who took over in 30 BC after the death of Cleopatra."
+   ],
+   "why": "One of the world's first great civilisations, and the Nile valley is still where almost all Egyptians live."
+  },
+  "Q41137": {
+   "text": [
+    "Assyria began as a city-state around Ashur on the Tigris river in what is now northern Iraq. From the 900s BC it built a huge empire stretching from Egypt to Iran, with a powerful army that used iron weapons and siege engines.",
+    "Its kings built grand capitals such as Nineveh, where King Ashurbanipal kept a famous library of clay tablets. The empire collapsed when Babylonians and Medes destroyed Nineveh in 612 BC."
+   ],
+   "why": "Assyria showed how a state could rule many peoples from one centre, a model later empires copied."
+  },
+  "Q1144693": {
+   "text": [
+    "Around 1600 BC the volcano on the Greek island of Thera, today's Santorini, erupted in one of the biggest explosions of the last few thousand years. It blew out the centre of the island, leaving the giant flooded crater you can still see.",
+    "Ash fell across the eastern Mediterranean, and the Bronze Age town of Akrotiri was buried, preserving houses and colourful wall paintings. Historians still debate how much the eruption weakened the nearby Minoan civilisation on Crete."
+   ],
+   "why": "A real-life buried town and a natural disaster that may have changed the course of an ancient civilisation."
+  },
+  "Q733364": {
+   "text": [
+    "Around 1457 BC the Egyptian pharaoh Thutmose III marched north and defeated a coalition of Canaanite kings at the city of Megiddo, in what is now northern Israel. He then besieged the city for months until it surrendered.",
+    "Egyptian scribes recorded the campaign in detail on the walls of the temple at Karnak, so it is one of the first battles we know about step by step."
+   ],
+   "why": "The earliest battle with a detailed written record, and the name Megiddo later gave us the word 'Armageddon'."
+  },
+  "Q203729": {
+   "text": [
+    "In about 1274 BC Egypt's pharaoh Ramesses II fought the Hittite king Muwatalli II at Kadesh, in what is now Syria. It was one of the largest chariot battles ever, with thousands of chariots on each side.",
+    "Ramesses was nearly trapped but fought his way out. Both sides claimed victory, but neither won the territory they wanted, and they later made peace."
+   ],
+   "why": "Ramesses' carvings boasting of victory are an early example of how rulers use history as propaganda."
+  },
+  "Q253155": {
+   "text": [
+    "Around 1259 BC Egypt and the Hittite Empire, old enemies since the Battle of Kadesh, agreed a peace treaty. Copies were written in Egyptian hieroglyphs and on Hittite clay tablets in Akkadian, the diplomatic language of the time.",
+    "The two powers promised not to attack each other, to help each other against enemies and to return people who fled across the border."
+   ],
+   "why": "One of the oldest peace treaties we can still read; a copy hangs at the United Nations in New York."
+  },
+  "Q1747689": {
+   "text": [
+    "According to legend, Rome was founded in 753 BC by Romulus. It grew from a small town by the River Tiber into a kingdom, then a republic run by elected officials and a Senate, and finally an empire ruled by emperors.",
+    "At its height the Roman world stretched from Britain to Egypt. Roman roads, law, the Latin language and buildings such as aqueducts and the Colosseum spread across Europe and the Mediterranean."
+   ],
+   "why": "Latin grew into Italian, Spanish, French and more, and Roman law still shapes legal systems today."
+  },
+  "Q139377": {
+   "text": [
+    "The Kingdom of Aksum grew up in the highlands of what is now northern Ethiopia and Eritrea. It traded across the Red Sea with Rome, Arabia and India, exporting ivory and gold, and minted its own coins.",
+    "Aksum is famous for its giant carved stone stelae. Around AD 330 its king Ezana adopted Christianity, making Aksum one of the first Christian states in the world."
+   ],
+   "why": "Aksum was one of the great powers of its age, and Ethiopia's Christian tradition began there."
+  },
+  "Q62943": {
+   "text": [
+    "The Maurya Empire was founded around 322 BC by Chandragupta Maurya and became the first empire to unite most of the Indian subcontinent. Its capital, Pataliputra, was one of the largest cities in the world.",
+    "Its most famous ruler, Ashoka, was horrified by the bloodshed of his conquest of Kalinga. He turned to Buddhism and had messages about kindness and tolerance carved on rocks and pillars across his lands."
+   ],
+   "why": "Ashoka's lion pillar is India's national emblem, and his rule helped spread Buddhism across Asia."
+  },
+  "Q31900": {
+   "text": [
+    "In 490 BC a Persian army landed at Marathon, near Athens. The smaller Athenian army, helped by soldiers from Plataea, charged and drove the Persians back to their ships.",
+    "A later legend says a messenger ran about 40 km to Athens to announce the victory, then collapsed. The modern marathon race, first run at the 1896 Olympics, is named after that story."
+   ],
+   "why": "The victory gave Athens confidence, and the legend gave the world its most famous running race."
+  },
+  "Q76026": {
+   "text": [
+    "The Greco-Persian Wars were a series of conflicts between the Persian Empire and Greek city-states from 499 to 449 BC. They began when Greek cities in Anatolia rebelled against Persian rule with help from Athens.",
+    "Persia invaded Greece twice. The Greeks won key battles at Marathon, Salamis and Plataea, and Persia gave up trying to conquer mainland Greece."
+   ],
+   "why": "Greek independence allowed the culture of classical Athens, including early democracy, to flourish."
+  },
+  "Q131969": {
+   "text": [
+    "In 480 BC a huge Persian army under King Xerxes invaded Greece. A small Greek force led by King Leonidas of Sparta held the narrow pass of Thermopylae for three days.",
+    "When a local man showed the Persians a path around the pass, Leonidas sent most of the Greeks away and stayed with his 300 Spartans and other allies, who were killed. Weeks later the Greek navy beat the Persians at Salamis."
+   ],
+   "why": "Thermopylae became a lasting symbol of courage against the odds, retold in books and films."
+  },
+  "Q33745": {
+   "text": [
+    "The Peloponnesian War (431–404 BC) was fought between Athens, with its naval empire, and Sparta, with its powerful army and allies. It dragged on for 27 years, with a deadly plague in Athens and a disastrous Athenian expedition to Sicily.",
+    "Sparta finally won with Persian money for a fleet, and Athens surrendered in 404 BC. The historian Thucydides, an Athenian general, wrote its history."
+   ],
+   "why": "Thucydides' account is still studied as a guide to why great powers go to war."
+  },
+  "Q551888": {
+   "text": [
+    "From 336 to 323 BC Alexander the Great, king of Macedonia, led his army from Greece across the Persian Empire to Egypt, Central Asia and the edge of India. He never lost a major battle.",
+    "He founded many cities, including Alexandria in Egypt. When he died aged 32 in Babylon, his generals split his empire into rival kingdoms."
+   ],
+   "why": "Alexander's conquests spread Greek language and ideas across a huge area, starting the Hellenistic age."
+  },
+  "Q179670": {
+   "text": [
+    "In 331 BC Alexander the Great met the Persian king Darius III at Gaugamela, in what is now northern Iraq. Darius had a much larger army, chosen ground and chariots with scythes on their wheels.",
+    "Alexander drew the Persian line apart and charged at Darius, who fled. Alexander went on to take the great Persian cities of Babylon and Persepolis."
+   ],
+   "why": "This battle ended the Achaemenid Persian Empire, one of the largest the world had seen."
+  },
+  "Q124988": {
+   "text": [
+    "The Punic Wars were three wars between Rome and Carthage, a rich trading city in what is now Tunisia, between 264 and 146 BC. They fought over Sicily, Spain and control of the western Mediterranean.",
+    "In the second war the Carthaginian general Hannibal crossed the Alps with elephants and beat Rome in Italy for years, but Rome won in the end. In 146 BC Rome destroyed Carthage."
+   ],
+   "why": "Victory made Rome the leading power in the Mediterranean, on the way to empire."
+  },
+  "Q200056": {
+   "text": [
+    "In 202 BC the Roman general Scipio, later called Africanus, fought Hannibal at Zama, near Carthage in North Africa. It was the final battle of the Second Punic War.",
+    "Scipio's troops opened lanes to let Hannibal's war elephants run through harmlessly, and Roman and Numidian cavalry attacked from behind. Carthage had to make peace on Rome's terms."
+   ],
+   "why": "Zama ended Hannibal's war and left Rome the strongest power in the western Mediterranean."
+  },
+  "Q11472": {
+   "text": [
+    "Paper was invented in China. Early forms were made in the 2nd century BC, and around AD 105 the court official Cai Lun is said to have improved the method, pulping bark, rags and hemp into thin sheets.",
+    "Papermaking spread to the Islamic world in the 700s, with mills in Baghdad, then on to Europe. It was cheaper than parchment and lighter than bamboo or clay tablets."
+   ],
+   "why": "Cheap paper made books, records and later printing possible, spreading knowledge far wider."
+  },
+  "Q7209": {
+   "text": [
+    "The Han dynasty ruled China from 206 BC to AD 220, with a short break. It built on the unification begun by the Qin and ran the country through trained officials.",
+    "Under the Han, the Silk Road trade routes to Central Asia opened up, paper was invented and Confucian ideas became the basis of government."
+   ],
+   "why": "Han rule was so influential that China's largest ethnic group still calls itself the Han."
+  },
+  "Q1238338": {
+   "text": [
+    "In 49 BC Julius Caesar, a successful Roman general, refused the Senate's order to give up his army and crossed the Rubicon river into Italy. This started a civil war against Pompey and the Senate's supporters.",
+    "Caesar won battles across Greece, Egypt, North Africa and Spain and became dictator of Rome."
+   ],
+   "why": "The war broke the Roman Republic; 'crossing the Rubicon' still means passing the point of no return."
+  },
+  "Q1025466": {
+   "text": [
+    "On 15 March 44 BC, the Ides of March, a group of Roman senators led by Brutus and Cassius stabbed Julius Caesar to death in Rome. They feared he wanted to rule as a king for life.",
+    "Instead of saving the Republic, the murder led to more civil wars. Caesar's adopted heir Octavian became Rome's first emperor, Augustus."
+   ],
+   "why": "It is one of history's most famous murders, and it helped turn Rome into an empire."
+  },
+  "Q2277": {
+   "text": [
+    "The Roman Empire began in 27 BC when Octavian became the first emperor, Augustus. For about 200 years the 'Roman peace' let trade and cities grow from Britain to Syria.",
+    "In AD 395 the empire was split into east and west. The western half fell in 476, while the eastern half, the Byzantine Empire, lasted until 1453."
+   ],
+   "why": "Roman roads, law, architecture and the Latin alphabet are still around us today."
+  },
+  "Q11774": {
+   "text": [
+    "The Gupta Empire ruled much of northern India from about AD 319 to 550. Its time is often called a 'golden age' of Indian culture.",
+    "Gupta-era scholars made great advances in mathematics and astronomy, including the decimal number system with zero that we use today. Sanskrit poetry and plays, such as those of Kalidasa, flourished."
+   ],
+   "why": "The numbers 0 to 9 used worldwide come from Indian mathematics of this period."
+  },
+  "Q206789": {
+   "text": [
+    "The Ghana Empire, also called Wagadu, ruled West Africa's Sahel in what is now southern Mauritania and western Mali, at least from the 700s. It grew rich controlling the trade in gold coming from the south and salt from the Sahara.",
+    "Arab writers described its king's splendid court. The empire declined in the 1000s and 1100s and was later replaced by the Mali Empire."
+   ],
+   "why": "Modern Ghana took its name from this empire when it became independent in 1957."
+  },
+  "Q12544": {
+   "text": [
+    "The Byzantine Empire was the eastern half of the Roman Empire, with its capital at Constantinople, today's Istanbul. Its people called themselves Romans, but spoke mostly Greek and were Christian.",
+    "It lasted for about a thousand years after the western empire fell, until the Ottomans captured Constantinople in 1453. Its great church, the Hagia Sophia, still stands."
+   ],
+   "why": "Byzantium preserved Greek and Roman learning and shaped the Orthodox Christian world, including Russia."
+  },
+  "Q486124": {
+   "text": [
+    "In 624 the Prophet Muhammad led a small force of Muslims from Medina against a larger army from Mecca, near the wells of Badr in western Arabia. The Muslims won.",
+    "The victory strengthened Muhammad's position in Medina. Six years later, in 630, the Muslims took Mecca, and within a century Islam had spread from Spain to Central Asia."
+   ],
+   "why": "Badr is remembered by Muslims as a turning point in the earliest years of Islam."
+  },
+  "Q8575586": {
+   "text": [
+    "The Umayyad Caliphate ruled the Muslim world from 661 to 750, with its capital at Damascus. Its armies expanded the empire west across North Africa into Spain and east to Central Asia and the Indus valley.",
+    "The Umayyads built the Dome of the Rock in Jerusalem and the Great Mosque of Damascus, and made Arabic the language of government. They were overthrown by the Abbasids in 750."
+   ],
+   "why": "For a time it was one of the largest empires in history, spreading Arabic and Islam across three continents."
+  },
+  "Q925960": {
+   "text": [
+    "Between about 647 and 709, Arab Muslim armies conquered North Africa west of Egypt, the region called the Maghreb. They faced strong resistance from Berber peoples and the Byzantine Empire.",
+    "Over time many Berbers became Muslim and joined the armies, which in 711 crossed into Spain."
+   ],
+   "why": "The conquest made North Africa part of the Arabic-speaking, Muslim world it largely remains today."
+  },
+  "Q1455917": {
+   "text": [
+    "In 711 a Muslim army of Arabs and Berbers led by Tariq ibn Ziyad crossed from North Africa into Spain. Gibraltar, from 'Jabal Tariq', is named after him. Within a few years they controlled most of the Iberian Peninsula.",
+    "Muslim Spain, called al-Andalus, became a centre of learning, with great cities such as Córdoba."
+   ],
+   "why": "Nearly 800 years of Muslim rule in parts of Spain left a mark on its language, buildings and food."
+  },
+  "Q12536": {
+   "text": [
+    "The Abbasids overthrew the Umayyads in 750 and built a new capital, Baghdad, which became one of the largest cities in the world. Their time is often called the Islamic Golden Age.",
+    "Scholars in Baghdad translated Greek, Persian and Indian works and made advances in mathematics, medicine and astronomy; the word 'algebra' comes from a book written there. Mongol armies destroyed Baghdad in 1258."
+   ],
+   "why": "Learning kept and expanded under the Abbasids later passed to Europe and helped spark its Renaissance."
+  },
+  "Q9683": {
+   "text": [
+    "The Tang dynasty ruled China from 618 to 907. Its capital, Chang'an, today's Xi'an, was perhaps the largest city in the world, linked to Central Asia by the Silk Road.",
+    "Tang times are known for poetry, painting, Buddhism and early woodblock printing. Wu Zetian, the only woman to rule China as emperor in her own name, reigned during this period."
+   ],
+   "why": "Many people see the Tang as a high point of Chinese culture; Chinatowns are sometimes called 'Tang people's streets'."
+  },
+  "Q201705": {
+   "text": [
+    "The Khmer Empire ruled much of mainland South-East Asia from about 802 to 1431, from its capital at Angkor in what is now Cambodia.",
+    "Its kings built huge temples, including Angkor Wat, the largest religious monument in the world, and a network of reservoirs and canals to water their rice fields."
+   ],
+   "why": "Angkor Wat appears on Cambodia's flag and is one of the world's most visited heritage sites."
+  },
+  "Q12861": {
+   "text": [
+    "Gunpowder was invented in China by the 800s, probably by alchemists searching for medicines. By the 1000s it was being used in fire arrows, bombs and early rockets.",
+    "Knowledge of gunpowder spread along trade routes to the Islamic world and Europe in the 1200s, where it led to cannons and guns."
+   ],
+   "why": "Gunpowder transformed warfare, ended the age of castles and knights, and later made fireworks possible."
+  },
+  "Q12548": {
+   "text": [
+    "The Holy Roman Empire began when the German king Otto I was crowned emperor by the Pope in 962. It was a loose union of hundreds of kingdoms, duchies, cities and church lands, mostly in what is now Germany, Austria and Czechia.",
+    "Emperors were elected by a few princes, and real power often lay with local rulers. Napoleon brought the empire to an end in 1806."
+   ],
+   "why": "Its patchwork of states helps explain why Germany has strong regions and only became one country in 1871."
+  },
+  "Q83224": {
+   "text": [
+    "On 14 October 1066 William, Duke of Normandy, defeated the English king Harold II near Hastings. Harold had just marched south after beating a Norwegian invasion at Stamford Bridge.",
+    "Harold was killed, and William was crowned king on Christmas Day. The Bayeux Tapestry tells the story in pictures."
+   ],
+   "why": "The Norman conquest changed England's rulers, castles and language; English gained thousands of French words."
+  },
+  "Q200032": {
+   "text": [
+    "In 1071 the Seljuk Turks under Sultan Alp Arslan defeated the Byzantine army at Manzikert, in eastern Anatolia, and captured Emperor Romanos IV.",
+    "Turkish groups then moved into Anatolia, which the Byzantines never fully won back."
+   ],
+   "why": "Manzikert began the Turkish settlement of Anatolia, the heart of modern Türkiye, and led the Byzantines to ask the West for help."
+  },
+  "Q12546": {
+   "text": [
+    "The Crusades were religious wars called by the Pope from 1096 onwards. European Christian armies set out to take Jerusalem and the Holy Land from Muslim rule.",
+    "Crusaders captured Jerusalem in 1099 and set up states along the coast, but Muslim leaders such as Saladin won most of it back. The last crusader stronghold, Acre, fell in 1291."
+   ],
+   "why": "The Crusades brought violence and lasting mistrust, but also trade and new ideas between Europe and the Middle East."
+  },
+  "Q51649": {
+   "text": [
+    "The First Crusade (1096–1099) followed a call by Pope Urban II to help the Byzantine Empire against the Seljuk Turks and to take Jerusalem. Tens of thousands of knights and ordinary people marched east.",
+    "After a long siege of Antioch, they captured Jerusalem in 1099 and killed many of its Muslim and Jewish inhabitants."
+   ],
+   "why": "It was the only crusade to reach its goal and set the pattern for two centuries of conflict."
+  },
+  "Q12557": {
+   "text": [
+    "In 1206 Temüjin united the Mongol tribes and took the title Genghis Khan. He and his successors conquered a huge area from China and Korea to Iran, Russia and eastern Europe.",
+    "It was the largest connected land empire in history. Under Mongol rule, trade and travel across Asia became easier, and Marco Polo reached China."
+   ],
+   "why": "The conquests were very destructive, but they also linked East and West more closely than ever before."
+  },
+  "Q184536": {
+   "text": [
+    "The Mali Empire was founded in the 1230s by Sundiata Keita in West Africa and grew rich on gold, salt and trade across the Sahara.",
+    "Its ruler Mansa Musa made a famous pilgrimage to Mecca in 1324, giving away so much gold in Cairo that its value fell. Timbuktu became a centre of Islamic learning."
+   ],
+   "why": "Mansa Musa is often called one of the richest people who ever lived, and Timbuktu's manuscripts still survive."
+  },
+  "Q207521": {
+   "text": [
+    "The Ethiopian Empire was founded in 1270 by a dynasty that claimed descent from King Solomon and the Queen of Sheba. It was a Christian kingdom in the highlands of the Horn of Africa.",
+    "It lasted until 1974, when Emperor Haile Selassie was overthrown. Apart from an Italian occupation from 1936 to 1941, Ethiopia was never colonised."
+   ],
+   "why": "Ethiopia's long independence made it a symbol of African freedom; its colours inspired many African flags."
+  },
+  "Q12560": {
+   "text": [
+    "The Ottoman Empire was founded by Osman I around 1299 in north-western Anatolia. It grew to rule south-eastern Europe, the Middle East and North Africa, with its capital at Istanbul after 1453.",
+    "At its height under Suleiman the Magnificent in the 1500s it was one of the world's great powers. It joined the losing side in World War One and was replaced by the Republic of Türkiye in 1923."
+   ],
+   "why": "The borders of many countries in the Balkans and Middle East were drawn when the empire broke up."
+  },
+  "Q12551": {
+   "text": [
+    "The Hundred Years' War (1337–1453) was a long series of wars between the kings of England and France, who both claimed the French throne.",
+    "English longbowmen won famous battles at Crécy and Agincourt, but Joan of Arc helped turn the war in France's favour. In the end England lost almost all its lands in France."
+   ],
+   "why": "The war helped both countries develop a stronger sense of being English or French."
+  },
+  "Q42005": {
+   "text": [
+    "The Black Death was a plague pandemic that spread from Central Asia to Europe, the Middle East and North Africa between 1346 and 1353. It was caused by bacteria carried by fleas on rats and spread between people.",
+    "It killed somewhere between a third and a half of Europe's population. With so few workers left, survivors could demand higher wages."
+   ],
+   "why": "The deadliest pandemic in recorded history changed society, religion and work across a continent."
+  },
+  "Q796583": {
+   "text": [
+    "The Kingdom of Kongo was a powerful state in west-central Africa, in parts of what are now Angola, the Republic of the Congo and the DR Congo. It grew from the late 1300s around its capital, Mbanza Kongo.",
+    "Its kings traded with Portugal from the 1480s and adopted Christianity, but the Atlantic slave trade weakened the kingdom, and Portugal later took over."
+   ],
+   "why": "Kongo's story shows both early African-European diplomacy and the damage done by the slave trade."
+  },
+  "Q2608489": {
+   "text": [
+    "The Aztec Empire was an alliance of city-states in central Mexico, led by the Mexica people from their island city of Tenochtitlan, founded in 1325.",
+    "Tenochtitlan had causeways, canals and floating gardens and may have held 200,000 people. The empire fell to Spanish forces under Hernán Cortés and their Indigenous allies in 1521."
+   ],
+   "why": "Mexico City is built on the ruins of Tenochtitlan, and Mexico's flag shows the eagle from its founding legend."
+  },
+  "Q28573": {
+   "text": [
+    "The Inca Empire, called Tawantinsuyu, was the largest empire in the Americas. From its capital at Cusco in the Andes it ruled lands from today's Ecuador to Chile.",
+    "The Incas built about 40,000 km of roads, rope bridges and terraced farms, and kept records on knotted cords called quipu. Spanish conquerors led by Francisco Pizarro defeated it from 1532."
+   ],
+   "why": "Machu Picchu and the Inca road system are World Heritage Sites, and Quechua is still spoken by millions."
+  },
+  "Q144334": {
+   "text": [
+    "Around 1440 Johannes Gutenberg in Mainz, Germany, developed a printing press using metal letters that could be rearranged, oil-based ink and a screw press. His Bible was printed around 1455.",
+    "Printing spread across Europe within decades. Books became cheaper, and ideas spread faster than ever. Movable type had been invented earlier in China and Korea."
+   ],
+   "why": "Printing helped drive the Renaissance, the Reformation and the scientific revolution."
+  },
+  "Q160077": {
+   "text": [
+    "On 29 May 1453 the Ottoman sultan Mehmed II captured Constantinople after a siege of about seven weeks. His army used huge cannons to batter the city's ancient walls.",
+    "The last Byzantine emperor, Constantine XI, died in the fighting. Mehmed made the city his capital, and the Hagia Sophia became a mosque."
+   ],
+   "why": "It ended the Byzantine Empire after more than 1,000 years, and many historians use it to mark the end of the Middle Ages."
+  },
+  "Q127751": {
+   "text": [
+    "The Wars of the Roses (1455–1487) were a series of civil wars between two branches of England's royal family, the houses of Lancaster and York, both fighting for the crown.",
+    "Henry Tudor won at Bosworth in 1485, became Henry VII and married Elizabeth of York, uniting the two families. The red and white roses come from the families' badges."
+   ],
+   "why": "The wars ended with the Tudors, the dynasty of Henry VIII and Elizabeth I."
+  },
+  "Q385676": {
+   "text": [
+    "The Ōnin War (1467–1477) began as a quarrel over who would succeed the shogun, Japan's military ruler, and turned into fighting between powerful lords that destroyed much of the capital, Kyoto.",
+    "Afterwards central government collapsed, and Japan entered more than a century of warfare between local lords called the Sengoku, or 'warring states', period."
+   ],
+   "why": "It began the age of samurai warlords that ended with Japan's unification around 1600."
+  },
+  "Q18578423": {
+   "text": [
+    "Between 1492 and 1504 Christopher Columbus, a Genoese sailor working for the Spanish crown, made four voyages across the Atlantic. He was trying to reach Asia by sailing west.",
+    "He reached islands in the Caribbean and later the coasts of Central and South America, but he never accepted that he had found lands unknown to Europeans. His voyages began lasting contact between Europe and the Americas."
+   ],
+   "why": "This contact brought new crops and trade, but also conquest, deadly diseases and slavery for the peoples of the Americas."
+  },
+  "Q180897": {
+   "text": [
+    "In 1494 Spain and Portugal signed the Treaty of Tordesillas, dividing newly found lands outside Europe between them along a line in the Atlantic Ocean.",
+    "Lands to the west of the line were to be Spanish and those to the east Portuguese. The line ran through South America, which is partly why Brazil speaks Portuguese while most of the continent speaks Spanish."
+   ],
+   "why": "Two kingdoms tried to share the world between them, without asking the people who already lived there."
+  },
+  "Q593267": {
+   "text": [
+    "In 1521 Spanish soldiers led by Hernán Cortés, together with tens of thousands of Indigenous allies such as the Tlaxcalans, besieged Tenochtitlan, the Aztec capital.",
+    "After about three months, weakened by fighting, hunger and a smallpox epidemic, the city fell in August 1521."
+   ],
+   "why": "The fall of Tenochtitlan began three centuries of Spanish rule in Mexico."
+  },
+  "Q1225170": {
+   "text": [
+    "In 1519 Ferdinand Magellan set sail from Spain with five ships to reach the Spice Islands by sailing west. He found a passage around South America, now the Strait of Magellan, and crossed the Pacific.",
+    "Magellan was killed in the Philippines in 1521. Juan Sebastián Elcano led the one surviving ship, the Victoria, home in 1522 with just 18 of the original crew."
+   ],
+   "why": "It was the first voyage around the world and proved how large the Pacific and the Earth really are."
+  },
+  "Q745110": {
+   "text": [
+    "In 1514 the Ottoman sultan Selim I defeated Shah Ismail I of the Safavid Empire of Iran at Chaldiran, in north-western Iran. The Ottomans' cannons and muskets beat the Safavid cavalry.",
+    "The battle stopped the Safavids spreading west into Anatolia."
+   ],
+   "why": "The border between the two empires became, roughly, the border between Türkiye and Iran today."
+  },
+  "Q33296": {
+   "text": [
+    "The Mughal Empire was founded in 1526 when Babur, a ruler from Central Asia, won the Battle of Panipat. At its height it ruled most of the Indian subcontinent.",
+    "Emperors such as Akbar were famous for religious tolerance, and Shah Jahan built the Taj Mahal. The empire weakened in the 1700s, and the British ended it in 1857."
+   ],
+   "why": "Mughal art, buildings and food are still a big part of the culture of India, Pakistan and Bangladesh."
+  },
+  "Q202687": {
+   "text": [
+    "The Songhai Empire grew from the city of Gao on the Niger river and became one of the largest empires in African history in the late 1400s and 1500s, under rulers such as Sunni Ali and Askia Muhammad.",
+    "It controlled trade cities such as Timbuktu and Djenné. In 1591 a Moroccan army with guns defeated Songhai at the Battle of Tondibi."
+   ],
+   "why": "Songhai was the last of West Africa's great Sahel empires, after Ghana and Mali."
+  },
+  "Q191293": {
+   "text": [
+    "On 23 January 1556 a huge earthquake struck Shaanxi province in China. Many people lived in caves dug into soft loess cliffs, which collapsed.",
+    "Records say about 830,000 people died, which would make it the deadliest earthquake ever recorded."
+   ],
+   "why": "It shows how much the danger of an earthquake depends on how and where people live."
+  },
+  "Q1121532": {
+   "text": [
+    "In 1578 the young King Sebastian of Portugal invaded Morocco and was defeated at Alcácer Quibir, also called the Battle of the Three Kings, because three kings died there.",
+    "Sebastian left no heir, and in 1580 Portugal came under the Spanish crown for 60 years."
+   ],
+   "why": "Morocco's victory strengthened its independence, while Portugal lost its own king and, for a time, its independence."
+  },
+  "Q849680": {
+   "text": [
+    "The American Indian Wars were centuries of conflicts between European settlers, later the United States and Canada, and the Indigenous peoples of North America, from the 1600s to the early 1900s.",
+    "Indigenous nations fought to keep their land and way of life, but settlers, armies and disease took most of it. Many peoples were forced onto reservations."
+   ],
+   "why": "These wars shaped the map of North America and are central to the history of its Indigenous peoples."
+  },
+  "Q8733": {
+   "text": [
+    "The Qing dynasty was founded by the Manchus, who conquered China in 1644. It was China's last imperial dynasty and roughly doubled China's territory, adding Tibet, Xinjiang, Mongolia and Taiwan.",
+    "In the 1800s it was weakened by wars with Western powers and Japan and by huge rebellions. A revolution in 1911 ended it, and the last emperor, Puyi, gave up the throne in 1912."
+   ],
+   "why": "China's modern borders are largely those of the Qing empire."
+  },
+  "Q2487": {
+   "text": [
+    "The Thirty Years' War (1618–1648) began as a fight between Catholic and Protestant states in the Holy Roman Empire and grew into a European war involving Sweden, France and Spain.",
+    "Armies, hunger and disease killed millions, and parts of Germany lost a third or more of their people. It ended with the Peace of Westphalia in 1648."
+   ],
+   "why": "Westphalia is often seen as the start of the modern system of independent states."
+  },
+  "Q80330": {
+   "text": [
+    "The English Civil War (1642–1651) was fought between supporters of King Charles I and supporters of Parliament, over who should hold power and over religion.",
+    "Parliament won, and in 1649 Charles was tried and executed. England became a republic led by Oliver Cromwell until the monarchy returned in 1660."
+   ],
+   "why": "The war helped establish that British kings and queens must rule with Parliament."
+  },
+  "Q79757": {
+   "text": [
+    "In 1643 the Italian scientist Evangelista Torricelli filled a glass tube with mercury and turned it upside down in a dish. The mercury fell only part of the way, held up by the weight of the air.",
+    "He had invented the barometer and shown that air has pressure. People soon noticed that the level changed with the weather."
+   ],
+   "why": "Barometers made weather forecasting possible and helped prove that air has weight."
+  },
+  "Q5994": {
+   "text": [
+    "Around 1700 Bartolomeo Cristofori in Florence built the first piano. Unlike the harpsichord, whose strings are plucked, the piano's strings are struck by hammers.",
+    "This meant players could play softly or loudly, which is where the name 'pianoforte', 'soft-loud', comes from."
+   ],
+   "why": "The piano became one of the most popular instruments in the world, used in almost every kind of music."
+  },
+  "Q34266": {
+   "text": [
+    "The Russian Empire was proclaimed by Peter the Great in 1721. He built a new capital, St Petersburg, and modernised the army and government along European lines.",
+    "Under rulers such as Catherine the Great it expanded across Europe and Asia to the Pacific. It was the third-largest empire in history until revolution ended it in 1917."
+   ],
+   "why": "Russia's huge size today comes from the expansion of the Russian Empire."
+  },
+  "Q203233": {
+   "text": [
+    "In 1757 Robert Clive of the British East India Company defeated Siraj ud-Daulah, the Nawab of Bengal, at Plassey. Clive won mainly because he had secretly bribed one of the Nawab's commanders, Mir Jafar.",
+    "The Company then gained control of Bengal, one of the richest regions of India."
+   ],
+   "why": "Plassey began British rule in India, which lasted until 1947."
+  },
+  "Q617321": {
+   "text": [
+    "The Anglo-Mysore wars were four wars between the British East India Company and the Kingdom of Mysore in southern India, from 1767 to 1799.",
+    "Mysore's rulers Hyder Ali and his son Tipu Sultan used rockets with iron cases against the British. Tipu was killed when the British stormed his capital in 1799."
+   ],
+   "why": "Mysore's rockets inspired the British Congreve rocket, an ancestor of modern rocketry."
+  },
+  "Q192769": {
+   "text": [
+    "The American Revolution was the struggle of thirteen British colonies in North America for independence. Arguments about taxes without representation led to war in 1775.",
+    "In 1776 the colonies declared independence, and with help from France they won. Britain recognised the United States in 1783."
+   ],
+   "why": "It created the United States and inspired revolutions and independence movements around the world."
+  },
+  "Q6534": {
+   "text": [
+    "The French Revolution began in 1789, when anger over hunger, debt and privilege exploded. Crowds stormed the Bastille prison, and the National Assembly declared the rights of man and of the citizen.",
+    "The monarchy was abolished in 1792, and King Louis XVI was executed in 1793. During the Terror thousands were guillotined. In 1799 Napoleon Bonaparte took power."
+   ],
+   "why": "Its ideas of liberty, equality and the rights of citizens spread across Europe and the world."
+  },
+  "Q689128": {
+   "text": [
+    "The Haitian Revolution began in 1791 when enslaved people rose up in the French colony of Saint-Domingue, the richest sugar colony in the world.",
+    "Led by Toussaint Louverture and later Jean-Jacques Dessalines, they defeated French, Spanish and British armies. Haiti declared independence on 1 January 1804."
+   ],
+   "why": "It was the only successful revolt by enslaved people to create a nation, and Haiti was the first independent Black republic."
+  },
+  "Q749811": {
+   "text": [
+    "In 1789 sailors on the British ship HMS Bounty, led by Fletcher Christian, rebelled against Captain William Bligh in the Pacific and set him adrift in a small boat with 18 loyal men.",
+    "Bligh sailed about 6,700 km to Timor. Some mutineers settled on remote Pitcairn Island with Tahitians, where their descendants still live."
+   ],
+   "why": "One of the most famous sea stories ever, it explains why Pitcairn Island is inhabited today."
+  },
+  "Q49013": {
+   "text": [
+    "Inventors in Britain, France and the United States worked on sewing machines from 1790 onwards. Elias Howe and Isaac Singer made practical, widely sold machines in the 1840s and 1850s.",
+    "A machine could sew many times faster than a person with a needle."
+   ],
+   "why": "Sewing machines made clothes much cheaper and helped create the modern clothing industry."
+  },
+  "Q243979": {
+   "text": [
+    "In August 1798 a British fleet under Horatio Nelson destroyed most of a French fleet anchored in Aboukir Bay, off Egypt.",
+    "Napoleon's army, which had invaded Egypt, was cut off from France."
+   ],
+   "why": "The victory made Nelson a hero and gave Britain control of the Mediterranean."
+  },
+  "Q78994": {
+   "text": [
+    "The Napoleonic Wars (1803–1815) were fought between France under Napoleon and shifting coalitions of European powers, including Britain, Austria, Prussia and Russia.",
+    "Napoleon conquered much of Europe, but his invasion of Russia in 1812 was a disaster. He was finally defeated at Waterloo in 1815."
+   ],
+   "why": "The wars redrew Europe's map and spread ideas such as the Napoleonic legal code."
+  },
+  "Q600524": {
+   "text": [
+    "The Sokoto Caliphate was founded after a jihad begun in 1804 by the Islamic scholar Usman dan Fodio in what is now northern Nigeria.",
+    "It united many Hausa states and became one of the largest states in 19th-century Africa, until British forces conquered it in 1903."
+   ],
+   "why": "The Sultan of Sokoto is still an important spiritual leader for Muslims in Nigeria."
+  },
+  "Q1192398": {
+   "text": [
+    "The Musket Wars were a series of battles among Māori iwi (tribes) in New Zealand, mainly between 1807 and the 1840s, after Māori obtained muskets from European traders.",
+    "Old rivalries became much deadlier with guns, and tens of thousands of people were killed or forced to move."
+   ],
+   "why": "The wars changed where many iwi lived just before New Zealand came under British rule."
+  },
+  "Q48314": {
+   "text": [
+    "On 18 June 1815 Napoleon was defeated near Waterloo, in present-day Belgium, by a British-led army under the Duke of Wellington and a Prussian army under Blücher.",
+    "Napoleon gave up power and was sent to the remote island of Saint Helena, where he died in 1821."
+   ],
+   "why": "Waterloo ended the Napoleonic Wars; to 'meet your Waterloo' means to suffer a final defeat."
+  },
+  "Q722071": {
+   "text": [
+    "The Asante (Ashanti) Empire was founded around 1700 in what is now Ghana, by Osei Tutu. Its symbol of unity is the Golden Stool, said to have come down from the sky.",
+    "Asante grew rich from gold and trade and fought several wars against Britain in the 1800s before being made part of the British Gold Coast in 1902."
+   ],
+   "why": "The Asante kingdom still exists, and its king, the Asantehene, remains an important figure in Ghana."
+  },
+  "Q729768": {
+   "text": [
+    "The Zulu Kingdom was built in southern Africa from about 1816 by Shaka, who reorganised the army with new tactics and short stabbing spears and united many Nguni-speaking peoples.",
+    "It became the strongest African power in the region until Britain invaded in 1879. After years of war and division, it was absorbed into the British colony of Natal."
+   ],
+   "why": "The Zulu king remains a respected figure in South Africa, and Zulu is the country's most widely spoken home language."
+  },
+  "Q191282": {
+   "text": [
+    "The First Opium War (1839–1842) began after China's Qing government tried to stop British merchants selling opium, a highly addictive drug, and destroyed their stocks at Guangzhou.",
+    "Britain's navy defeated China. In the Treaty of Nanking, China had to pay compensation, open ports to trade and hand over Hong Kong."
+   ],
+   "why": "China remembers it as the start of a 'century of humiliation'; Hong Kong was British until 1997."
+  },
+  "Q11633": {
+   "text": [
+    "In 1839 Louis Daguerre in France announced the daguerreotype, a way of fixing a detailed image on a silver-coated plate. In Britain, William Henry Fox Talbot developed paper negatives that allowed many copies.",
+    "Early photos needed long exposures, so people had to sit very still."
+   ],
+   "why": "Photography changed how we record history, news, science and family life."
+  },
+  "Q1545405": {
+   "text": [
+    "The New Zealand Wars (1845–1872) were fought between the colonial government, with British troops, and many Māori iwi, mostly over land.",
+    "After the wars the government confiscated large areas of Māori land. Some iwi fought on the government's side."
+   ],
+   "why": "Many land claims from these wars have been settled by the Waitangi Tribunal process since the 1990s."
+  },
+  "Q192408": {
+   "text": [
+    "The Taiping Rebellion (1850–1864) was a civil war in China led by Hong Xiuquan, who believed he was the younger brother of Jesus. His 'Heavenly Kingdom' ruled much of southern China from Nanjing.",
+    "Qing forces, with some Western help, finally crushed it. Fighting, famine and disease killed perhaps 20 to 30 million people."
+   ],
+   "why": "It was one of the deadliest wars in history and badly weakened China's last dynasty."
+  },
+  "Q8676": {
+   "text": [
+    "The American Civil War (1861–1865) was fought between the United States and eleven southern states, the Confederacy, which broke away to protect slavery.",
+    "About 620,000 to 750,000 soldiers died. The Union won, and slavery was abolished by the 13th Amendment in 1865. President Abraham Lincoln was assassinated days after the war ended."
+   ],
+   "why": "It ended slavery in the United States and kept the country together."
+  },
+  "Q28513": {
+   "text": [
+    "Austria–Hungary was created in 1867 when the Austrian Empire became a 'dual monarchy' of two states, Austria and Hungary, sharing one ruler, Franz Joseph, as well as an army and foreign policy.",
+    "It was home to Germans, Hungarians, Czechs, Poles, Croats and many other peoples. It broke apart at the end of World War One in 1918."
+   ],
+   "why": "Many of today's Central European countries were created when the empire collapsed."
+  },
+  "Q11035": {
+   "text": [
+    "In 1876 Alexander Graham Bell, a Scottish-born inventor working in the United States, patented the telephone. Others, including Elisha Gray and Antonio Meucci, were working on similar ideas.",
+    "Within decades telephone lines connected homes and businesses around the world."
+   ],
+   "why": "The telephone let people talk instantly across long distances, leading to today's mobile phones."
+  },
+  "Q228911": {
+   "text": [
+    "In 1879 Britain invaded the Zulu Kingdom. At Isandlwana in January, Zulu forces won one of the heaviest defeats ever suffered by a British army against an African army.",
+    "Britain sent reinforcements and defeated the Zulu at Ulundi in July 1879, then divided the kingdom."
+   ],
+   "why": "Isandlwana is remembered as a proud moment of resistance to colonial conquest."
+  },
+  "Q1420": {
+   "text": [
+    "In 1885–86 the German engineer Karl Benz built and patented his Motorwagen, often called the first practical car, powered by a petrol engine. Bertha Benz proved it worked by driving it about 100 km in 1888.",
+    "In 1908 Henry Ford's Model T, built on an assembly line from 1913, made cars cheap enough for millions."
+   ],
+   "why": "Cars transformed cities, travel and work, and brought new problems such as pollution."
+  },
+  "Q11442": {
+   "text": [
+    "Early bicycles of the 1800s included the 'dandy horse' with no pedals and the tall 'penny-farthing'. In 1885 John Kemp Starley in England built the Rover 'safety bicycle', with two equal wheels and a chain.",
+    "Air-filled tyres followed soon after, and cycling became hugely popular."
+   ],
+   "why": "The bicycle gave ordinary people, including women, new freedom to travel."
+  },
+  "Q11420": {
+   "text": [
+    "Judo was created in Japan in 1882 by Kanō Jigorō, who adapted older jujutsu techniques into a safer sport focused on throws and holds.",
+    "It became an Olympic sport at the 1964 Tokyo Games and is now practised worldwide."
+   ],
+   "why": "Judo was the first Asian martial art to become an Olympic sport."
+  },
+  "Q5372": {
+   "text": [
+    "In 1891 James Naismith, a Canadian teacher at a college in Springfield, Massachusetts, invented basketball as an indoor game for winter. The first baskets were peach baskets.",
+    "The game spread quickly and became an Olympic sport in 1936."
+   ],
+   "why": "Basketball is now one of the most popular sports on Earth."
+  },
+  "Q8080": {
+   "text": [
+    "The first modern Olympic Games were held in Athens in April 1896, revived by Pierre de Coubertin of France. About 240 athletes from 14 countries took part, all men.",
+    "Events included athletics, cycling, swimming and wrestling. Spyridon Louis, a Greek water carrier, won the first marathon."
+   ],
+   "why": "They began the modern Olympics, now the world's largest sporting event."
+  },
+  "Q302519": {
+   "text": [
+    "On 1 March 1896 the Ethiopian army of Emperor Menelik II defeated an invading Italian army at Adwa, in northern Ethiopia.",
+    "Italy had to recognise Ethiopia's independence. It was a rare defeat for a European army in Africa during the colonial era."
+   ],
+   "why": "Adwa made Ethiopia a symbol of African independence; it is a national holiday there."
+  },
+  "Q170850": {
+   "text": [
+    "On 27 August 1896 Britain went to war with the Sultanate of Zanzibar after a sultan Britain did not approve of took the throne.",
+    "British warships shelled the palace, and the sultan's forces surrendered in about 40 minutes."
+   ],
+   "why": "It is often called the shortest war in recorded history."
+  },
+  "Q2225": {
+   "text": [
+    "In 1897 the British physicist J. J. Thomson showed that cathode rays are made of tiny particles much smaller than atoms, carrying a negative charge. They became known as electrons.",
+    "It was the first discovery of a particle smaller than an atom."
+   ],
+   "why": "Electrons power almost all modern technology, from electricity to computers."
+  },
+  "Q768496": {
+   "text": [
+    "The 'Banana Wars' were US military interventions and occupations in Central America and the Caribbean from 1898 to 1934, including Cuba, Haiti, the Dominican Republic and Nicaragua.",
+    "The United States often acted to protect American business interests, such as fruit companies."
+   ],
+   "why": "They shaped US relations with Latin America and the term 'banana republic'."
+  },
+  "Q159950": {
+   "text": [
+    "The Russo-Japanese War (1904–1905) was fought over control of Manchuria and Korea. Japan defeated Russia on land and destroyed the Russian fleet at the Battle of Tsushima.",
+    "The United States helped negotiate the peace treaty."
+   ],
+   "why": "It was the first modern war in which an Asian power defeated a European one."
+  },
+  "Q973919": {
+   "text": [
+    "The Terra Nova Expedition (1910–1913), led by Robert Falcon Scott, aimed to be first to reach the South Pole.",
+    "Scott's party reached the pole in January 1912, only to find that Roald Amundsen's Norwegian team had got there five weeks earlier. Scott and his four companions died on the way back."
+   ],
+   "why": "Their story became a famous tale of courage, and the expedition collected valuable scientific data."
+  },
+  "Q214426": {
+   "text": [
+    "The Mexican Revolution (1910–1920) began as an uprising against the long dictatorship of Porfirio Díaz and became a civil war between many groups.",
+    "Leaders such as Emiliano Zapata and Pancho Villa fought for land for poor farmers. A new constitution in 1917 promised land reform and workers' rights."
+   ],
+   "why": "It shaped modern Mexico's politics, art and national identity."
+  },
+  "Q11425": {
+   "text": [
+    "Animation makes still drawings appear to move. In 1888 Émile Reynaud in France patented the praxinoscope theatre, and from 1892 he showed hand-painted animated films to audiences in Paris.",
+    "Later, cartoons such as Disney's Snow White (1937) and computer animation made animation a huge industry."
+   ],
+   "why": "Animation grew into one of the most popular forms of film and entertainment worldwide."
+  },
+  "Q361": {
+   "text": [
+    "World War One (1914–1918) began after the assassination of Archduke Franz Ferdinand of Austria-Hungary. Alliances drew in the great powers: Germany and Austria-Hungary against France, Britain, Russia and later the United States.",
+    "Much of the fighting in western Europe was trench warfare. About 9 to 10 million soldiers died, and millions of civilians."
+   ],
+   "why": "The war brought down four empires and redrew the map of Europe and the Middle East."
+  },
+  "Q192050": {
+   "text": [
+    "On 28 June 1914 Gavrilo Princip, a young Bosnian Serb nationalist, shot Archduke Franz Ferdinand, heir to the throne of Austria-Hungary, and his wife Sophie in Sarajevo.",
+    "Austria-Hungary blamed Serbia and declared war a month later, setting off a chain of alliances."
+   ],
+   "why": "The shots in Sarajevo triggered World War One."
+  },
+  "Q8729": {
+   "text": [
+    "In 1917 two revolutions overthrew the old order in Russia. In February (March by our calendar) protests forced Tsar Nicholas II to give up the throne.",
+    "In October (November) the Bolsheviks led by Vladimir Lenin seized power, leading to civil war and the creation of the Soviet Union in 1922."
+   ],
+   "why": "It created the world's first communist state and shaped much of the 20th century."
+  },
+  "Q8736": {
+   "text": [
+    "The Treaty of Versailles was signed on 28 June 1919 between Germany and the Allies after World War One.",
+    "Germany lost land and colonies, had to limit its army, accept blame for the war and pay reparations. The treaty also created the League of Nations."
+   ],
+   "why": "Many Germans resented the treaty, and that anger helped Hitler rise to power."
+  },
+  "Q178275": {
+   "text": [
+    "The flu pandemic of 1918–1920, sometimes called the 'Spanish flu', spread around the world in several waves as the First World War ended.",
+    "It infected perhaps a third of the world's population and killed tens of millions of people, more than the war itself. Unusually, many victims were young adults."
+   ],
+   "why": "It was the deadliest pandemic of the 20th century and shaped how we prepare for pandemics today."
+  },
+  "Q15180": {
+   "text": [
+    "The Soviet Union (USSR) was created in 1922 after the Russian Revolution and civil war. It was a communist state ruled by one party, made up of Russia and other republics.",
+    "Under Stalin millions died in famines, labour camps and purges. It helped defeat Nazi Germany, became a superpower, sent the first human into space and broke up in 1991."
+   ],
+   "why": "Fifteen countries, including Russia, Ukraine and Kazakhstan, became independent when it broke up."
+  },
+  "Q766437": {
+   "text": [
+    "The Rif War (1921–1926) was fought by Berber fighters of the Rif mountains in northern Morocco, led by Abd el-Krim, against Spanish and then French colonial forces.",
+    "They won a major victory over Spain at Annual in 1921 and set up a Rif Republic, but were defeated by a large Franco-Spanish force in 1926."
+   ],
+   "why": "Abd el-Krim's resistance inspired later anti-colonial movements."
+  },
+  "Q48432": {
+   "text": [
+    "The first FIFA World Cup was held in Uruguay in July 1930. Thirteen teams took part, most from the Americas, because few European teams made the long journey by ship.",
+    "Uruguay beat Argentina 4–2 in the final in Montevideo."
+   ],
+   "why": "It began football's biggest tournament, now watched by billions."
+  },
+  "Q2348": {
+   "text": [
+    "In 1932 the British physicist James Chadwick discovered the neutron, a particle with no electric charge inside the nucleus of atoms.",
+    "Because neutrons have no charge, they can enter other nuclei, which soon led scientists to nuclear fission."
+   ],
+   "why": "The discovery led to nuclear power, and also to nuclear weapons."
+  },
+  "Q7318": {
+   "text": [
+    "Nazi Germany is the name for Germany under Adolf Hitler and the Nazi Party from 1933 to 1945. Hitler became chancellor in January 1933 and quickly made himself a dictator.",
+    "The regime persecuted Jews and other groups, started World War Two and carried out the Holocaust. It was defeated by the Allies in 1945."
+   ],
+   "why": "Its crimes led to new international laws on human rights and genocide."
+  },
+  "Q94916": {
+   "text": [
+    "In October 1935 Fascist Italy under Mussolini invaded Ethiopia, using aircraft and poison gas. Emperor Haile Selassie appealed to the League of Nations, which did little.",
+    "Italy occupied Ethiopia until British and Ethiopian forces drove it out in 1941."
+   ],
+   "why": "The League of Nations' failure to stop the invasion showed it was too weak to keep the peace."
+  },
+  "Q10859": {
+   "text": [
+    "The Spanish Civil War (1936–1939) was fought between the elected Republican government and Nationalist rebels led by General Francisco Franco.",
+    "Nazi Germany and Fascist Italy helped Franco, while the Soviet Union and international volunteers helped the Republic. Franco won and ruled as dictator until 1975."
+   ],
+   "why": "Picasso's painting Guernica, about a bombing in this war, became a famous symbol against war."
+  },
+  "Q179975": {
+   "text": [
+    "The Chinese Civil War was fought between the Nationalists (Kuomintang) and the Communists, from 1927 to 1949, with a pause to fight Japan.",
+    "The Communists under Mao Zedong won and founded the People's Republic of China in 1949. The Nationalists retreated to Taiwan."
+   ],
+   "why": "The war explains why there are two governments claiming to be 'China' today."
+  },
+  "Q362": {
+   "text": [
+    "World War Two (1939–1945) began when Germany invaded Poland. It became a global war between the Axis powers, Germany, Italy and Japan, and the Allies, including Britain, the Soviet Union, the United States and China.",
+    "About 70 to 85 million people died, most of them civilians, including six million Jews murdered in the Holocaust. It ended after Germany surrendered in May 1945 and Japan in September, after atomic bombs were dropped on Hiroshima and Nagasaki."
+   ],
+   "why": "It was the deadliest war in history and led to the United Nations and the Cold War."
+  },
+  "Q2763": {
+   "text": [
+    "The Holocaust was the murder of about six million Jews by Nazi Germany and its collaborators between 1941 and 1945. Persecution began when the Nazis came to power in 1933.",
+    "Jews were forced into ghettos, shot in mass killings and deported to death camps such as Auschwitz. The Nazis also murdered Roma, disabled people and others."
+   ],
+   "why": "Remembering the Holocaust, and how it happened step by step, helps people recognise and resist hatred today."
+  },
+  "Q52418": {
+   "text": [
+    "On 7 December 1941 Japanese aircraft made a surprise attack on the US naval base at Pearl Harbor, Hawaii, sinking or damaging many ships and killing more than 2,400 Americans.",
+    "The next day the United States declared war on Japan, and soon after it was at war with Germany and Italy too."
+   ],
+   "why": "The attack brought the United States into World War Two."
+  },
+  "Q38789": {
+   "text": [
+    "The Battle of Stalingrad (1942–1943) was fought for the Soviet city of Stalingrad, now Volgograd, on the River Volga. It was fought street by street in bitter winter cold.",
+    "Soviet forces surrounded the German Sixth Army, which surrendered in February 1943. Around two million soldiers and civilians were killed, wounded or captured."
+   ],
+   "why": "It was a turning point of the war in Europe; afterwards the Soviet army was mostly on the attack."
+  },
+  "Q16470": {
+   "text": [
+    "On 6 June 1944, D-Day, Allied troops from the United States, Britain, Canada and other countries landed on five beaches in Normandy, France.",
+    "It was the largest seaborne invasion in history. After weeks of fighting the Allies broke out, and Paris was liberated in August."
+   ],
+   "why": "It opened a second front against Germany in western Europe."
+  },
+  "Q609030": {
+   "text": [
+    "The Battle of Peleliu (September–November 1944) was fought between US and Japanese forces on a small coral island in Palau, in the western Pacific.",
+    "Expected to last a few days, it went on for over two months as Japanese troops fought from caves. Thousands died on both sides."
+   ],
+   "why": "It showed how costly the island-hopping war in the Pacific would be."
+  },
+  "Q171328": {
+   "text": [
+    "The Charter of the United Nations was signed in San Francisco on 26 June 1945 by 50 countries, near the end of World War Two. It came into force that October.",
+    "It set up the UN to keep peace, protect human rights and help countries work together, with a General Assembly where every member has a vote and a Security Council with five permanent members."
+   ],
+   "why": "Today 193 countries are members of the United Nations."
+  },
+  "Q68": {
+   "text": [
+    "The first general-purpose electronic computers were built in the 1940s, such as ENIAC in the United States, finished in 1945. It filled a large room and used about 18,000 vacuum tubes.",
+    "Transistors and then microchips made computers smaller, cheaper and faster, leading to personal computers in the 1970s and 1980s and smartphones today."
+   ],
+   "why": "Computers changed almost every part of modern life, from science and work to games and friendships."
+  },
+  "Q8683": {
+   "text": [
+    "The Cold War, from about 1947 to 1991, was a rivalry between the United States and its allies and the Soviet Union and its allies. They never fought each other directly, which is why it was called 'cold'.",
+    "Instead they competed through an arms race with nuclear weapons, the space race, spying and wars fought by others in places such as Korea, Vietnam and Afghanistan. It ended when the Soviet Union broke up in 1991."
+   ],
+   "why": "The Cold War divided Europe, including Germany, for over 40 years."
+  },
+  "Q49097": {
+   "text": [
+    "The 1948 Palestine war began as civil war in Mandatory Palestine in November 1947, after the UN voted to divide it into Jewish and Arab states. Israel declared independence on 14 May 1948, and neighbouring Arab states invaded.",
+    "Israel won and ended up with more land than the UN plan had given it. About 700,000 Palestinian Arabs fled or were expelled from their homes, which Palestinians call the Nakba ('catastrophe')."
+   ],
+   "why": "The war created the State of Israel and the Palestinian refugee question, still at the heart of the conflict."
+  },
+  "Q16957": {
+   "text": [
+    "East Germany, officially the German Democratic Republic, was created in 1949 in the part of Germany occupied by the Soviet Union after World War Two. It was a communist state with secret police, the Stasi.",
+    "In 1961 it built the Berlin Wall to stop people fleeing to the West. After mass protests the wall opened on 9 November 1989, and Germany reunited in 1990."
+   ],
+   "why": "The fall of the Berlin Wall became a symbol of the end of the Cold War."
+  },
+  "Q8663": {
+   "text": [
+    "The Korean War (1950–1953) began when North Korea, backed by the Soviet Union, invaded South Korea. A UN force led by the United States came to the South's aid, and China sent huge numbers of troops to help the North.",
+    "Fighting ended with an armistice in 1953 near the original border, but no peace treaty was ever signed."
+   ],
+   "why": "Korea is still divided, and the two Koreas are technically still at war."
+  },
+  "Q8740": {
+   "text": [
+    "The Vietnam War (about 1955–1975) was fought between communist North Vietnam and South Vietnam, which was supported by the United States. Estimates of Vietnamese deaths range from about 1.3 to over 3 million, and more than 58,000 Americans died.",
+    "US forces left in 1973, and North Vietnam captured Saigon in 1975, uniting the country under communist rule."
+   ],
+   "why": "Protests against the war changed politics in the United States and around the world."
+  },
+  "Q200790": {
+   "text": [
+    "The Algerian War (1954–1962) was fought between France and the National Liberation Front (FLN), which wanted independence for Algeria, then ruled as part of France.",
+    "It was very violent, with torture and attacks on civilians. Algeria became independent in July 1962, and about a million European settlers left."
+   ],
+   "why": "It was one of the most important wars of decolonisation in Africa."
+  },
+  "Q476855": {
+   "text": [
+    "The Mau Mau rebellion (1952–1960) was an armed uprising in Kenya, mainly by Kikuyu people, against British colonial rule and the loss of their land to white settlers.",
+    "Britain declared an emergency and held tens of thousands of Kenyans in detention camps, where many were abused. Kenya became independent in 1963."
+   ],
+   "why": "In 2013 the British government expressed regret and paid compensation to surviving victims of the camps."
+  },
+  "Q49101": {
+   "text": [
+    "In 1956 Egypt's leader Gamal Abdel Nasser took over the Suez Canal. Britain, France and Israel invaded Egypt to seize it back.",
+    "The United States and the Soviet Union both demanded they withdraw, and they did. The UN sent its first large peacekeeping force."
+   ],
+   "why": "Suez showed that Britain and France were no longer the world's leading powers."
+  },
+  "Q80811": {
+   "text": [
+    "On 4 October 1957 the Soviet Union launched Sputnik 1, the first artificial satellite. It was a metal ball about 58 cm wide that sent out radio beeps people could pick up on Earth.",
+    "It orbited Earth for three months before burning up."
+   ],
+   "why": "Sputnik started the space race between the Soviet Union and the United States."
+  },
+  "Q182524": {
+   "text": [
+    "On 12 April 1961 Soviet cosmonaut Yuri Gagarin became the first human in space, orbiting Earth once in the Vostok 1 spacecraft.",
+    "The flight lasted 108 minutes. Gagarin ejected and landed by parachute."
+   ],
+   "why": "Gagarin became a worldwide hero, and 12 April is celebrated as the International Day of Human Space Flight."
+  },
+  "Q12199": {
+   "text": [
+    "HIV is a virus that attacks the immune system; without treatment it leads to AIDS. Scientists think it passed from chimpanzees to humans in Central Africa in the early 1900s, and it was first identified in the early 1980s.",
+    "About 40 million people have died of AIDS-related illnesses. Since the 1990s medicines have let people with HIV live long, healthy lives."
+   ],
+   "why": "HIV is still a major health challenge, especially in parts of Africa, but far fewer people die of it than at its peak."
+  },
+  "Q607257": {
+   "text": [
+    "The Eritrean War of Independence (1961–1991) was fought by Eritrean fighters against Ethiopia, which had annexed Eritrea in 1962.",
+    "After 30 years the Eritrean People's Liberation Front won, and Eritreans voted for independence in 1993."
+   ],
+   "why": "It was one of Africa's longest wars, and Eritrea became the continent's newest country at the time."
+  },
+  "Q8690": {
+   "text": [
+    "The Cultural Revolution (1966–1976) was launched by Mao Zedong to purge China of 'capitalist' and traditional ideas and to strengthen his own power.",
+    "Young Red Guards attacked teachers, officials and historic sites, millions were persecuted and hundreds of thousands or more died. It ended with Mao's death in 1976."
+   ],
+   "why": "Its chaos led China's later leaders to change course and open up the economy."
+  },
+  "Q49077": {
+   "text": [
+    "The Six-Day War was fought in June 1967 between Israel and Egypt, Jordan and Syria. Israel struck first and won within six days.",
+    "Israel took the Sinai Peninsula, the Gaza Strip, the West Bank, East Jerusalem and the Golan Heights."
+   ],
+   "why": "Sinai was later returned to Egypt, but the other areas remain at the centre of the Arab–Israeli conflict."
+  },
+  "Q43653": {
+   "text": [
+    "Apollo 11 launched on 16 July 1969. On 20 July Neil Armstrong and Buzz Aldrin landed on the Moon in the lunar module Eagle while Michael Collins orbited above.",
+    "Armstrong became the first person to walk on the Moon, saying 'That's one small step for a man, one giant leap for mankind.'"
+   ],
+   "why": "It was the first time humans walked on another world, and it was watched live by hundreds of millions."
+  },
+  "Q371394": {
+   "text": [
+    "In 1971 East Pakistan fought for independence from Pakistan. The war began when the Pakistani army launched a brutal crackdown in March, killing many civilians.",
+    "Millions of refugees fled to India, which joined the war in December. Pakistan's forces surrendered on 16 December, and Bangladesh became independent."
+   ],
+   "why": "Bangladesh celebrates 16 December as Victory Day."
+  },
+  "Q9158": {
+   "text": [
+    "In 1971 Ray Tomlinson, working on ARPANET, an early network that led to the internet, sent the first email between two computers and chose the @ sign to separate the user's name from the computer's.",
+    "Email became widely used in the 1990s as the internet spread."
+   ],
+   "why": "Email was one of the first 'killer apps' of the internet and changed how people communicate."
+  },
+  "Q17517": {
+   "text": [
+    "On 3 April 1973 Martin Cooper of Motorola made the first call from a handheld mobile phone, in a New York street. The phone weighed about 1 kg.",
+    "Mobile phones went on sale in the 1980s; smartphones with touchscreens and the internet took off in the 2000s."
+   ],
+   "why": "Most people in the world now have a mobile phone, connecting even remote places."
+  },
+  "Q126065": {
+   "text": [
+    "The Iranian Revolution (1978–1979) overthrew Shah Mohammad Reza Pahlavi, Iran's king, after a year of mass protests and strikes.",
+    "Ayatollah Ruhollah Khomeini returned from exile, and Iran became an Islamic republic ruled by religious leaders."
+   ],
+   "why": "It changed Iran and the politics of the Middle East."
+  },
+  "Q83085": {
+   "text": [
+    "In December 1979 the Soviet Union invaded Afghanistan to support its communist government against rebel fighters, the mujahideen.",
+    "The mujahideen were backed by the United States, Pakistan and others. After a long war the Soviets withdrew in 1989."
+   ],
+   "why": "The war weakened the Soviet Union and left Afghanistan in decades of conflict."
+  },
+  "Q82664": {
+   "text": [
+    "The Iran–Iraq War (1980–1988) began when Iraq, led by Saddam Hussein, invaded Iran. It became a long war of trenches, missile attacks on cities and chemical weapons.",
+    "Hundreds of thousands died. It ended with a UN-backed ceasefire and almost no change in borders."
+   ],
+   "why": "It was one of the longest conventional wars of the 20th century."
+  },
+  "Q466": {
+   "text": [
+    "In 1989, at the CERN laboratory near Geneva, the British scientist Tim Berners-Lee proposed the World Wide Web: pages linked together and shared over the internet.",
+    "He built the first website and web browser in 1990, and CERN made the technology free for everyone in 1993."
+   ],
+   "why": "The web made the internet easy to use and is now how billions of people find information."
+  },
+  "Q204213": {
+   "text": [
+    "In December 1989 protests in Timișoara spread across Romania against the communist dictator Nicolae Ceaușescu.",
+    "The army joined the protesters. Ceaușescu fled Bucharest, was captured and executed on 25 December after a short trial."
+   ],
+   "why": "It was the only violent revolution among the 1989 revolutions that ended communism in Eastern Europe."
+  },
+  "Q466087": {
+   "text": [
+    "The UN Convention on the Rights of the Child was adopted in 1989. It sets out rights for everyone under 18, such as the right to education, health, play, protection from harm and to be heard.",
+    "It is the most widely ratified human rights treaty in history."
+   ],
+   "why": "It is the treaty that sets out the rights of every young person reading this page."
+  },
+  "Q2513": {
+   "text": [
+    "The Hubble Space Telescope was launched by the space shuttle in April 1990. A flaw in its mirror blurred its first images, but astronauts fixed it in 1993.",
+    "Hubble has taken famous images of galaxies and nebulae and helped measure the age of the universe, about 13.8 billion years."
+   ],
+   "why": "Hubble's pictures made deep space familiar to millions of people."
+  },
+  "Q545449": {
+   "text": [
+    "In March 2003 the United States, Britain and allies invaded Iraq and overthrew Saddam Hussein, saying Iraq had weapons of mass destruction; none were found.",
+    "A long insurgency and sectarian violence followed. US troops left in 2011, and the war killed hundreds of thousands of Iraqis."
+   ],
+   "why": "The war remains controversial and shaped the Middle East for years afterwards."
+  },
+  "Q33761": {
+   "text": [
+    "The Arab Spring was a wave of protests that began in Tunisia in December 2010 and spread across North Africa and the Middle East in 2011.",
+    "Rulers fell in Tunisia, Egypt, Libya and Yemen. In Syria, Libya and Yemen the uprisings turned into long civil wars."
+   ],
+   "why": "Social media helped protesters organise, showing a new kind of political power."
+  },
+  "Q176883": {
+   "text": [
+    "The 2010 FIFA World Cup in South Africa was the first World Cup held in Africa.",
+    "Spain won, beating the Netherlands 1–0 in the final in Johannesburg. The vuvuzela horns heard at every match became famous worldwide."
+   ],
+   "why": "It showed Africa could host the world's biggest football tournament."
+  },
+  "Q151850": {
+   "text": [
+    "On 22 February 2011 a magnitude 6.2 earthquake struck Christchurch, New Zealand's second-largest city.",
+    "It killed 185 people and destroyed much of the city centre, including the cathedral's spire."
+   ],
+   "why": "Christchurch's rebuilding changed how New Zealand designs buildings for earthquakes."
+  },
+  "Q402": {
+   "text": [
+    "In 2012 scientists at CERN's Large Hadron Collider announced the discovery of the Higgs boson, a particle predicted in 1964 by Peter Higgs and others.",
+    "It confirmed how other particles get their mass. Higgs and François Englert won the 2013 Nobel Prize in Physics."
+   ],
+   "why": "It completed the 'standard model', the main theory of the tiny particles that make up everything."
+  },
+  "Q21707860": {
+   "text": [
+    "The Paris Agreement on climate change was agreed by nearly every country in December 2015.",
+    "Countries promised to keep global warming well below 2°C, aiming for 1.5°C, and to set their own plans to cut greenhouse gases."
+   ],
+   "why": "It is the main global agreement on tackling climate change."
+  },
+  "Q81068910": {
+   "text": [
+    "COVID-19 is a disease caused by a coronavirus first identified in Wuhan, China, in December 2019. It spread worldwide, and the WHO declared a pandemic in March 2020.",
+    "Countries closed schools and borders and ordered lockdowns. Vaccines were developed in under a year. Millions of people died."
+   ],
+   "why": "It changed how people work, learn and see public health."
+  },
+  "Q122962941": {
+   "text": [
+    "The Gaza War began on 7 October 2023, when Hamas-led fighters attacked Israel, killing about 1,200 people and taking around 250 hostages.",
+    "Israel launched a military campaign in the Gaza Strip that killed tens of thousands of Palestinians, according to Gaza's health authorities, and caused a severe humanitarian crisis. A ceasefire began on 10 October 2025 and all living hostages were freed, but violence continued, and by November 2026 the ceasefire was under serious strain."
+   ],
+   "why": "It is one of the deadliest chapters of the Israeli–Palestinian conflict.",
+   "asOf": "2026-11"
+  },
+  "Q186447": {
+   "text": [
+    "The James Webb Space Telescope launched on 25 December 2021. It orbits the Sun about 1.5 million km from Earth and sees in infrared light.",
+    "Its huge gold-coated mirror unfolded in space. It can see some of the first galaxies, formed less than 400 million years after the Big Bang."
+   ],
+   "why": "Webb is the most powerful space telescope ever built."
+  },
+  "Q110999040": {
+   "text": [
+    "On 24 February 2022 Russia launched a full-scale invasion of Ukraine, expanding a war that began in 2014 when Russia annexed Crimea.",
+    "Ukraine stopped the attack on Kyiv and won back some territory. Hundreds of thousands of soldiers have been killed or wounded, and millions of Ukrainians fled abroad. In November 2026 the fighting was still going on, alongside US-backed peace talks."
+   ],
+   "why": "It is the largest war in Europe since World War Two.",
+   "asOf": "2026-11"
+  },
+  "Q284163": {
+   "text": [
+    "The 2022 FIFA World Cup in Qatar was the first held in the Arab world and the first held in November and December, to avoid the summer heat.",
+    "Argentina beat France on penalties after a 3–3 draw in the final, and Lionel Messi won his first World Cup."
+   ],
+   "why": "Many people called the final the greatest World Cup final ever."
+  }
+ }
+}

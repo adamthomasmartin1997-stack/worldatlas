@@ -1,4 +1,4 @@
-import { useMemo, useState, type ReactNode } from 'react';
+import { useEffect, useMemo, useState, type ReactNode } from 'react';
 import { Link, useParams } from 'react-router-dom';
 import { ExternalLink, Info } from 'lucide-react';
 import { WorldMap } from '../components/WorldMap';
@@ -18,6 +18,21 @@ export const KIND_LABEL: Record<EventKind, string> = {
 const WHERE_LABEL: Partial<Record<EventKind, string>> = { invention: 'Comes from', spaceflight: 'Country', sport: 'Host country', exhibition: 'Host country' };
 /** Events about mass killing: shown with a short note, and never used in games or random picks. */
 export const SENSITIVE = new Set<EventKind>(['genocide', 'massacre']);
+
+interface Summary { text: string[]; why: string; asOf?: string }
+let summaries: Promise<Record<string, Summary>> | null = null;
+/** Our own summary of an event, if it has one (src/content/event-summaries.json, loaded on first use). */
+function useSummary(id: string): Summary | null {
+  const [s, setS] = useState<Summary | null>(null);
+  useEffect(() => {
+    let live = true;
+    summaries ??= import('../content/event-summaries.json').then((m) => m.default.events as Record<string, Summary>);
+    summaries.then((all) => live && setS(all[id] ?? null)).catch(() => undefined);
+    return () => { live = false; };
+  }, [id]);
+  return s;
+}
+const monthYear = (ym: string) => new Date(`${ym}-01T00:00:00Z`).toLocaleDateString('en-GB', { month: 'long', year: 'numeric', timeZone: 'UTC' });
 
 export const eventPath = (e: Pick<HistoryEvent, 'id'>) => `/history/events/${e.id}`;
 const cap = (s: string) => s.charAt(0).toUpperCase() + s.slice(1);
@@ -111,6 +126,7 @@ function EventView({ id }: { id: string }) {
   const subs = useMemo(() => (ev?.sub ?? []).map((s) => all!.byId.get(s)).filter((x): x is HistoryEvent => Boolean(x)).sort((a, b) => yearOf(a.s) - yearOf(b.s) || a.s.localeCompare(b.s)), [ev, all]);
   const near = useMemo(() => (ev && all ? meanwhile(ev, all) : null), [ev, all]);
   const [allSubs, setAllSubs] = useState(false);
+  const summary = useSummary(id.toUpperCase());
 
   if (!all) return <div className="container section"><p className="muted" role="status">Loading…</p></div>;
   if (!ev) {
@@ -140,12 +156,21 @@ function EventView({ id }: { id: string }) {
     <>
       <PageHeader crumbs={[{ to: '/history', label: 'History' }, ...(parents[0] ? [{ to: eventPath(parents[0]), label: parents[0].t }] : []), { label: ev.t }]} title={ev.t}>
         <p className="event-kicker"><span className="tag tag-sun">{KIND_LABEL[ev.k]}</span> <span className="event-when">{formatSpan(ev)}</span></p>
-        {ev.d && <p className="lead">{cap(ev.d)}.</p>}
+        {ev.d && !summary && <p className="lead">{cap(ev.d)}.</p>}
       </PageHeader>
 
       <div className="container event-body">
         {sensitive && (
           <p className="event-note" role="note"><Info size={18} aria-hidden="true" /> This page is about the deliberate killing of many people. It's here because remembering what happened, and why, matters.</p>
+        )}
+
+        {summary && (
+          <section className="card event-summary" aria-labelledby="what-h">
+            <h2 id="what-h">What happened</h2>
+            {summary.text.map((p) => <p key={p.slice(0, 30)}>{p}</p>)}
+            <aside className="deep-highlight"><h3>Why it matters</h3><p>{summary.why}</p></aside>
+            <p className="source-note">Written by Worldwise from widely published facts. Draft: not yet checked against sources.{summary.asOf && ` Still unfolding: last checked ${monthYear(summary.asOf)}.`}</p>
+          </section>
         )}
 
         <dl className="facts event-facts">
