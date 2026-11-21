@@ -39,6 +39,17 @@ const TYPES = [
   { kind: 'epidemic', qid: 'Q44512', min: 20 },
   { kind: 'earthquake', qid: 'Q7944', min: 25 },
   { kind: 'expedition', qid: 'Q2401485', min: 20 },
+  // Beyond war: inventions and discoveries, space, sport, eruptions, world's fairs.
+  // Inventions: things with an inventor or discoverer and a date that are themselves a type of
+  // thing (the telephone, penicillin), which leaves out single objects such as moons and nebulae.
+  { kind: 'invention', where: `?e wdt:P61 ?who ; wdt:P575 ?d ; wdt:P279 ?super ; wikibase:sitelinks ?n . FILTER(?n >= 50)
+      MINUS { ?e wdt:P625 ?c } MINUS { VALUES ?bad { wd:Q16521 wd:Q11344 wd:Q11173 wd:Q113145171 } ?e wdt:P31 ?bad }` },
+  { kind: 'spaceflight', qid: 'Q5916', min: 25 },
+  { kind: 'spaceflight', where: '?e wdt:P619 ?launch ; wikibase:sitelinks ?n . FILTER(?n >= 40)' }, // launches: Sputnik, Hubble, the ISS
+  // Olympic Games and FIFA World Cups (editions, with a host country; not qualifying groups).
+  { kind: 'sport', where: 'VALUES ?series { wd:Q159821 wd:Q82414 wd:Q19317 } ?e wdt:P3450 ?series ; wdt:P17 ?host .' },
+  { kind: 'eruption', qid: 'Q7692360', min: 15 },
+  { kind: 'exhibition', qid: 'Q172754', min: 20 }, // world's fairs
 ];
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -59,7 +70,7 @@ const countryAt = ([lat, lon]) => shapes.find((f) => geoContains(f, [lon, lat]))
 // 1. Notable items per type.
 const kindOf = new Map(); // qid -> kind
 for (const t of TYPES) {
-  const rows = await sparql(`SELECT DISTINCT ?e WHERE { ?e wdt:P31/wdt:P279* wd:${t.qid} ; wikibase:sitelinks ?n . FILTER(?n >= ${t.min}) }`);
+  const rows = await sparql(`SELECT DISTINCT ?e WHERE { ${t.where ?? `?e wdt:P31/wdt:P279* wd:${t.qid} ; wikibase:sitelinks ?n . FILTER(?n >= ${t.min})`} }`);
   let added = 0;
   for (const r of rows) { const q = qid(r.e.value); if (!kindOf.has(q)) { kindOf.set(q, t.kind); added++; } }
   console.log(`${t.kind}: ${rows.length} found, ${added} new`);
@@ -95,7 +106,7 @@ export function parseTime(value, precision, calendar) {
   const date = p >= 11 ? `${ys}-${pad(mo)}-${pad(d)}` : p === 10 ? `${ys}-${pad(mo)}` : ys;
   return { date, year, precision: PRECISION[p] ?? 'year' };
 }
-const REL = { P17: 'country', P710: 'participants', P361: 'partOf', P828: 'causes', P1542: 'effects', P155: 'follows', P156: 'followedBy', P276: 'location', P1365: 'replaces', P1366: 'replacedBy' };
+const REL = { P495: 'origin', P17: 'country', P710: 'participants', P361: 'partOf', P828: 'causes', P1542: 'effects', P155: 'follows', P156: 'followedBy', P276: 'location', P1365: 'replaces', P1366: 'replacedBy' };
 
 const BATCH = 100;
 for (let i = 0; i < todo.length; i += BATCH) {
@@ -110,21 +121,23 @@ for (let i = 0; i < todo.length; i += BATCH) {
     e.label = r.label?.value ?? null; e.description = r.desc?.value ?? null; e.sitelinks = Number(r.n.value); e.article = r.article?.value ?? null;
   }
   // Dates: a point in time, or a start and end; for states, founded and dissolved.
-  for (const r of await sparql(`SELECT ?e ?prop ?v ?p ?cal WHERE { VALUES ?e { ${values} } VALUES ?prop { p:P585 p:P580 p:P582 p:P571 p:P576 }
+  for (const r of await sparql(`SELECT ?e ?prop ?v ?p ?cal WHERE { VALUES ?e { ${values} } VALUES ?prop { p:P585 p:P580 p:P582 p:P571 p:P576 p:P575 p:P619 }
       ?e ?prop ?s . ?s wikibase:rank ?rank . FILTER(?rank != wikibase:DeprecatedRank)
       ?s ?psv ?node . ?propEntity wikibase:claim ?prop ; wikibase:statementValue ?psv . ?node wikibase:timeValue ?v ; wikibase:timePrecision ?p ; wikibase:timeCalendarModel ?cal . }`)) {
     const e = ev.get(qid(r.e.value));
     const t = parseTime(r.v.value, r.p.value, r.cal.value);
     if (!t) continue;
     const prop = qid(r.prop.value);
-    if (prop === 'P585' || prop === 'P580' || prop === 'P571') { if (!e.start || t.year < e.start.year) e.start = t; }
+    // Start: point in time, start, founded, invented or discovered, launched.
+    if (['P585', 'P580', 'P571', 'P575', 'P619'].includes(prop)) { if (!e.start || t.year < e.start.year) e.start = t; }
     if (prop === 'P582' || prop === 'P576') { if (!e.end || t.year > e.end.year) e.end = t; }
   }
   for (const r of await sparql(`SELECT ?e (SAMPLE(?c) AS ?coord) (SAMPLE(?lc) AS ?locCoord) WHERE { VALUES ?e { ${values} }
       OPTIONAL { ?e wdt:P625 ?c } OPTIONAL { ?e wdt:P276 ?loc . ?loc wdt:P625 ?lc } } GROUP BY ?e`)) {
     const wkt = r.coord?.value ?? r.locCoord?.value;
     const m = wkt && /Point\(([-\d.eE]+) ([-\d.eE]+)\)/.exec(wkt);
-    if (m && !/moon|mars/i.test(wkt)) ev.get(qid(r.e.value)).coords = [Number(Number(m[2]).toFixed(3)), Number(Number(m[1]).toFixed(3))];
+    // Coordinates on another world (the Moon, Mars) start with that globe's id: skip them.
+    if (m && !wkt.trim().startsWith('<')) ev.get(qid(r.e.value)).coords = [Number(Number(m[2]).toFixed(3)), Number(Number(m[1]).toFixed(3))];
   }
   for (const r of await sparql(`SELECT ?e ?prop ?o ?oLabel WHERE { VALUES ?e { ${values} }
       VALUES ?prop { ${Object.keys(REL).map((p) => 'wdt:' + p).join(' ')} } ?e ?prop ?o . FILTER(isIRI(?o))
@@ -134,6 +147,13 @@ for (let i = 0; i < todo.length; i += BATCH) {
     const o = { id: qid(r.o.value), label: r.oLabel.value };
     if (!(e.links[key] ??= []).some((x) => x.id === o.id)) e.links[key].push(o);
   }
+  // Countries behind inventions and space missions: the inventor's citizenship, the operator's country.
+  for (const r of await sparql(`SELECT DISTINCT ?e ?o ?oLabel WHERE { VALUES ?e { ${values} }
+      { ?e wdt:P61/wdt:P27 ?o } UNION { ?e wdt:P137/wdt:P17 ?o } ?o rdfs:label ?oLabel FILTER(LANG(?oLabel) = "en") }`)) {
+    const e = ev.get(qid(r.e.value));
+    const o = { id: qid(r.o.value), label: r.oLabel.value };
+    if (!(e.links.origin ??= []).some((x) => x.id === o.id)) e.links.origin.push(o);
+  }
   for (const e of ev.values()) cache.set(e.id, e);
   console.log(`details ${Math.min(i + BATCH, todo.length)}/${todo.length}`);
   if ((i / BATCH) % 5 === 4) save(); // checkpoint every 500 events
@@ -142,7 +162,7 @@ for (let i = 0; i < todo.length; i += BATCH) {
 // 3. Modern countries concerned, then keep only usable, dated events.
 function save() {
   const events = ids.map((q) => cache.get(q)).filter(Boolean).map((e) => {
-    const named = [...(e.links.country ?? []), ...(e.links.participants ?? [])].map((x) => isoByQid.get(x.id)).filter(Boolean);
+    const named = [...(e.links.country ?? []), ...(e.links.participants ?? []), ...(e.links.origin ?? [])].map((x) => isoByQid.get(x.id)).filter(Boolean);
     const place = e.coords ? countryAt(e.coords) : null;
     return { ...e, kind: kindOf.get(e.id) ?? e.kind, place, countries: [...new Set([...(place ? [place] : []), ...named])] };
   }).filter((e) => e.label && e.start && !/^Q\d+$/.test(e.label) && e.start.year <= new Date().getFullYear())

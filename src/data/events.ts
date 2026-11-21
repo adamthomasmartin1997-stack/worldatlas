@@ -3,7 +3,7 @@
  * from data/sources/wikidata-events.json. Loaded on demand by the History section.
  * Keys are short because the file holds thousands of events.
  */
-export const EVENT_KINDS = ['genocide', 'massacre', 'assassination', 'coup', 'siege', 'battle', 'revolution', 'rebellion', 'civil war', 'war', 'treaty', 'state', 'epidemic', 'earthquake', 'expedition'] as const;
+export const EVENT_KINDS = ['genocide', 'massacre', 'assassination', 'coup', 'siege', 'battle', 'revolution', 'rebellion', 'civil war', 'war', 'treaty', 'state', 'epidemic', 'earthquake', 'expedition', 'invention', 'spaceflight', 'sport', 'eruption', 'exhibition'] as const;
 export type EventKind = (typeof EVENT_KINDS)[number];
 export type Precision = 'millennium' | 'century' | 'decade' | 'year' | 'month' | 'day';
 

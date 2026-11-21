@@ -236,16 +236,20 @@ for (const c of out) if (c.flag) writeFileSync(`public/data/flags/${c.cca3.toLow
     const WIDE = new Set(['war', 'civil war', 'state', 'epidemic', 'expedition', 'rebellion', 'revolution', 'genocide']);
     const isoOfQid = new Map(Object.entries(wikidata?.countries ?? {}).map(([iso, c]) => [c.wikidata, iso]));
     const excluded = load('data/event-corrections.json')?.exclude ?? {};
-    const ids = new Set(events.events.filter((e) => !excluded[e.id]).map((e) => e.id));
+    const ids = new Set(events.events.filter((e) => !excluded[e.id] && !/\bcancell?ed\b/i.test(e.description ?? '')).map((e) => e.id));
     const inSet = (list) => (list ?? []).map((x) => x.id).filter((id) => ids.has(id));
     // Named historical states and peoples that aren't modern countries (shown as plain text).
     const modern = new Set(Object.values(wikidata?.countries ?? {}).map((c) => c.wikidata));
     const others = (list) => (list ?? []).filter((x) => !modern.has(x.id) && !ids.has(x.id)).map((x) => x.label);
     const fixes = load('data/event-corrections.json')?.dates ?? {};
+    const placeFixes = load('data/event-corrections.json')?.places ?? {};
     const yearOf = (d) => Number(d.match(/^-?\d+/)[0]);
-    const out = events.events.filter((e) => !excluded[e.id]).map((e) => {
+    // Events that never happened (the cancelled 1940 Olympics) are dropped.
+    const out = events.events.filter((e) => !excluded[e.id] && !/\bcancell?ed\b/i.test(e.description ?? '')).map((e) => {
       const fix = fixes[e.id] ?? {};
-      const o = { id: e.id, k: e.kind, t: e.label, s: fix.s ?? e.start.date, sp: fix.sp ?? e.start.precision, n: e.sitelinks };
+      // Capitalise names Wikidata starts in lower case ("car", "assassination of Julius Caesar"), but not "iPhone".
+      const title = /^[a-z][a-z]/.test(e.label) ? e.label[0].toUpperCase() + e.label.slice(1) : e.label;
+      const o = { id: e.id, k: e.kind, t: title, s: fix.s ?? e.start.date, sp: fix.sp ?? e.start.precision, n: e.sitelinks };
       if (e.description) o.d = e.description;
       const end = fix.e ?? e.end?.date;
       // An end before the start is a data error: keep the start, drop the end (and fix it in event-corrections.json).
@@ -254,7 +258,7 @@ for (const c of out) if (c.flag) writeFileSync(`public/data/flags/${c.cca3.toLow
       // Wikidata codes that differ from the site's (Kosovo is XKS there, UNK here).
       // Countries named in the event itself (its country and participants), by today's codes.
       const alias = (c) => ({ XKS: 'UNK' })[c] ?? c;
-      const named = [...new Set([...(e.links.country ?? []), ...(e.links.participants ?? [])].map((x) => isoOfQid.get(x.id)).filter(Boolean).map(alias))];
+      const named = [...new Set([...(e.links.country ?? []), ...(e.links.participants ?? []), ...(e.links.origin ?? [])].map((x) => isoOfQid.get(x.id)).filter(Boolean).map(alias))];
       // Wide events (wars, empires, epidemics…) often carry the centre point of a continent or
       // region (World War II sits at 0°, 15° in the Congo). Keep their point only when it falls in a
       // country the event names; battles, sieges and treaties keep their real place.
@@ -265,6 +269,8 @@ for (const c of out) if (c.flag) writeFileSync(`public/data/flags/${c.cca3.toLow
       const cc = [...new Set([...(keepPoint ? [place] : []), ...named])];
       if (cc.length) o.c = cc;
       if (keepPoint) { o.p = place; if (e.coords) o.ll = e.coords; }
+      const where = placeFixes[e.id];
+      if (where) { o.p = where.p; o.ll = where.ll; o.c = [...new Set([where.p, ...(o.c ?? [])])]; }
       if (e.article) o.w = decodeURIComponent(e.article.split('/wiki/').pop());
       const partOf = inSet(e.links.partOf); if (partOf.length) o.of = partOf;
       const causes = inSet(e.links.causes); if (causes.length) o.ca = causes;

@@ -72,6 +72,15 @@ export function statesDuring(list: HistoryEvent[], from: number, to: number, ove
 }
 
 /**
+ * Themes that are capped in headline lists, so a list isn't five World Cups or three Apollo
+ * missions: they have many well-known entries but are only part of the story.
+ */
+export const THEME: Partial<Record<HistoryEvent['k'], string>> = {
+  sport: 'sport', spaceflight: 'space', invention: 'invention', exhibition: 'fair', earthquake: 'disaster', eruption: 'disaster', epidemic: 'disaster',
+};
+const THEME_CAP: Record<string, number> = { sport: 1, space: 1, invention: 2, fair: 1, disaster: 1 };
+
+/**
  * Headline events balanced across the world: take the best-known event from each region in turn,
  * so a list isn't all European wars. Leaves out sensitive events, global events tied to many
  * countries, and events that belong to a larger event already picked.
@@ -85,16 +94,19 @@ export function pickHeadlines(events: HistoryEvent[], count = 8): HistoryEvent[]
   }
   const picked: HistoryEvent[] = [];
   const taken = new Set<string>();
+  const perTheme = new Map<string, number>();
+  const full = (e: HistoryEvent) => (perTheme.get(THEME[e.k] ?? '') ?? 0) >= (THEME_CAP[THEME[e.k] ?? ''] ?? Infinity);
   // Regions with the best-known events go first in each round.
   const order = [...byRegion.keys()].sort((a, b) => byRegion.get(b)![0].n - byRegion.get(a)![0].n);
   while (picked.length < count && order.some((r) => byRegion.get(r)!.length)) {
     for (const r of order) {
       const list = byRegion.get(r)!;
-      while (list.length && (taken.has(list[0].id) || list[0].of?.some((p) => taken.has(p)) || list[0].sub?.some((s) => taken.has(s)))) list.shift();
+      while (list.length && (taken.has(list[0].id) || list[0].of?.some((p) => taken.has(p)) || list[0].sub?.some((s) => taken.has(s)) || full(list[0]))) list.shift();
       const e = list.shift();
       if (!e) continue;
       picked.push(e);
       taken.add(e.id);
+      if (THEME[e.k]) perTheme.set(THEME[e.k]!, (perTheme.get(THEME[e.k]!) ?? 0) + 1);
       if (picked.length === count) break;
     }
   }

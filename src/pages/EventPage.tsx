@@ -6,12 +6,16 @@ import { PageHeader, SourceNote } from '../components/ui';
 import { countryPath, getCountry } from '../data/countries';
 import { formatSpan, yearOf, type EventKind, type HistoryEvent } from '../data/events';
 import { useEvents, type Events } from '../data/useEvents';
+import { THEME } from '../data/eras';
 
 export const KIND_LABEL: Record<EventKind, string> = {
   genocide: 'Genocide', massacre: 'Massacre', assassination: 'Assassination', coup: 'Coup', siege: 'Siege', battle: 'Battle',
   revolution: 'Revolution', rebellion: 'Uprising', 'civil war': 'Civil war', war: 'War', treaty: 'Treaty', state: 'Empire or state',
   epidemic: 'Epidemic', earthquake: 'Earthquake', expedition: 'Expedition',
+  invention: 'Invention or discovery', spaceflight: 'Space', sport: 'Sport', eruption: 'Volcanic eruption', exhibition: "World's fair",
 };
+/** What the "where" fact means for each kind of event. */
+const WHERE_LABEL: Partial<Record<EventKind, string>> = { invention: 'Comes from', spaceflight: 'Country', sport: 'Host country', exhibition: 'Host country' };
 /** Events about mass killing: shown with a short note, and never used in games or random picks. */
 export const SENSITIVE = new Set<EventKind>(['genocide', 'massacre']);
 
@@ -53,10 +57,14 @@ function meanwhile(ev: HistoryEvent, all: Events): { around: string; items: Hist
     if (x.c?.some((c) => mine.has(c))) continue;
     const region = regionOf(x);
     if (!region || region === home) continue;
+    if (THEME[x.k] && THEME[x.k] === THEME[ev.k]) continue; // a World Cup page shouldn't list three Olympics
     if (!best.has(region) || best.get(region)!.n < x.n) best.set(region, x);
   }
+  // At most one sport, space mission, disaster… in the four picked.
+  const seen = new Set<string>();
+  const items = [...best.values()].sort((x, y) => y.n - x.n).filter((x) => !THEME[x.k] || (!seen.has(THEME[x.k]!) && Boolean(seen.add(THEME[x.k]!))));
   const fmt = (y: number) => (y < 0 ? `${-y} BC` : String(y));
-  return { around: long ? `around ${fmt(a)}` : a === b ? `around ${fmt(a)}` : `${fmt(a)}–${fmt(b)}`, items: [...best.values()].sort((x, y) => y.n - x.n).slice(0, 4) };
+  return { around: long ? `around ${fmt(a)}` : a === b ? `around ${fmt(a)}` : `${fmt(a)}–${fmt(b)}`, items: items.slice(0, 4) };
 }
 
 export function EventRow({ e, n }: { e: HistoryEvent; n?: number }) {
@@ -143,7 +151,7 @@ function EventView({ id }: { id: string }) {
         <dl className="facts event-facts">
           <div><dt>When</dt><dd>{formatSpan(ev)}</dd></div>
           {long && <div><dt>How long</dt><dd>{long}</dd></div>}
-          <div><dt>Where it happened</dt><dd>{place ? <Link to={countryPath(place)}>{place.name}</Link> : countries.length === 1 ? <Link to={countryPath(countries[0])}>{countries[0].name}</Link> : countries.length ? 'Several countries' : 'Many places'}</dd></div>
+          <div><dt>{WHERE_LABEL[ev.k] ?? 'Where it happened'}</dt><dd>{place ? <Link to={countryPath(place)}>{place.name}</Link> : countries.length === 1 ? <Link to={countryPath(countries[0])}>{countries[0].name}</Link> : countries.length ? 'Several countries' : 'Not recorded'}</dd></div>
           {parents[0] ? <div><dt>Part of</dt><dd><Link to={eventPath(parents[0])}>{parents[0].t}</Link></dd></div> : <div><dt>Type</dt><dd>{KIND_LABEL[ev.k]}</dd></div>}
         </dl>
 

@@ -38,6 +38,16 @@ describe('picking events', () => {
     expect(ids).toEqual(expect.arrayContaining(['a', 'd', 'e']));
     expect(ids).toHaveLength(4);
   });
+  it('caps themes such as sport and space in headlines', () => {
+    const list = [
+      ev('wc1', '2010', { k: 'sport', c: ['ZAF'], n: 300 }), ev('wc2', '2014', { k: 'sport', c: ['BRA'], n: 290 }), ev('ol', '2016', { k: 'sport', c: ['BRA'], n: 280 }),
+      ev('a11', '1969', { k: 'spaceflight', c: ['USA'], n: 200 }), ev('a12', '1969', { k: 'spaceflight', c: ['USA'], n: 150 }), ev('war', '2003', { k: 'war', c: ['IRQ'], n: 50 }),
+    ];
+    const ids = pickHeadlines(list, 6).map((e) => e.id);
+    expect(ids.filter((i) => ['wc1', 'wc2', 'ol'].includes(i))).toHaveLength(1);
+    expect(ids.filter((i) => ['a11', 'a12'].includes(i))).toHaveLength(1);
+    expect(ids).toContain('war');
+  });
   it('does not pick a battle and the war it belongs to', () => {
     const list = [ev('war', '1800', { c: ['FRA'], n: 100, k: 'war', sub: ['bat'] }), ev('bat', '1801', { c: ['FRA'], n: 90, of: ['war'] }), ev('x', '1802', { c: ['FRA'], n: 10 })];
     expect(pickHeadlines(list, 2).map((e) => e.id)).toEqual(['war', 'x']);

@@ -1,5 +1,5 @@
 {
-  "_readme": "Hand-maintained fixes for data/sources/wikidata-events.json, applied by scripts/build-data.mjs. 'exclude' drops items that aren't historical events (each with a reason). 'dates' overrides a start (s) or end (e) date where Wikidata has a clear typo; each entry says why. Dates use the same format as events.json: '1877-01-29', '1877' or '-0229' for 229 BC. Consider fixing the item on Wikidata too.",
+  "_readme": "Hand-maintained fixes for data/sources/wikidata-events.json, applied by scripts/build-data.mjs. 'exclude' drops items that aren't historical events (each with a reason). 'places' sets where an event happened (modern country code p and [lat, lon] ll) when Wikidata has no location. 'dates' overrides a start (s) or end (e) date where Wikidata has a clear typo; each entry says why. Dates use the same format as events.json: '1877-01-29', '1877' or '-0229' for 229 BC. Consider fixing the item on Wikidata too.",
   "dates": {
     "Q154552": {
       "s": "-0229",
@@ -21,6 +21,41 @@
     }
   },
   "exclude": {
-    "Q136430456": "Gen Z protests: a loose label for youth protests in many countries, not one event."
+    "Q136430456": "Gen Z protests: a loose label for youth protests in many countries, not one event.",
+    "Q323": "Big Bang: the beginning of the universe, not an invention or historical event.",
+    "Q9739": "The letter G: a letter of the alphabet, not an invention to list.",
+    "Q42523": "Atoll: a kind of landform, not a discovery event.",
+    "Q47719": "Pepsi: a brand, not an invention to list.",
+    "Q104394": "Semicolon: a punctuation mark.",
+    "Q131246": "Oedipus complex: a psychology concept, not suited to the event list.",
+    "Q978": "Meme: a concept, not an event.",
+    "Q183057": "Reiki: an alternative therapy; not presented as a discovery.",
+    "Q230823": "Miniskirt: Wikidata's 5000 BC date is not meaningful.",
+    "Q188566": "Sicilian Defence: a chess opening.",
+    "Q194506": "King's Gambit: a chess opening.",
+    "Q466430": "Nachos: a dish.",
+    "Q207711": "Bloody Mary: a cocktail.",
+    "Q207391": "Apollo asteroids: a class of asteroids.",
+    "Q193223": "Proper motion: an astronomical measurement, too technical for the list.",
+    "Q202145": "Altostratus: a cloud type.",
+    "Q2545446": "Grapheme: a linguistics term.",
+    "Q190564": "Huntington's disease: a disease, not a discovery event to list.",
+    "Q207684": "Lobotomy: a harmful operation; not listed as an invention without context.",
+    "Q667558": "Revised Hepburn romanization: a spelling system, too specialised.",
+    "Q94787": "Sunflower oil: a food product.",
+    "Q188154": "Pectin: a food substance.",
+    "Q215551": "Comparative advantage: an economics idea, not an event.",
+    "Q228036": "Caesarean section: Wikidata's 320 BC date is not reliable.",
+    "Q191667": "Hydroponics: Wikidata's AD 303 date is not reliable."
+  },
+  "places": {
+    "Q8094772": {
+      "p": "IDN",
+      "ll": [
+        -6.102,
+        105.423
+      ],
+      "why": "Krakatoa is in the Sunda Strait, Indonesia; Wikidata's eruption item has no location."
+    }
   }
 }
