@@ -9,6 +9,9 @@ import { formatTime, normalize } from '../../lib/answers';
 import type { Country } from '../../data/countries';
 import { parseRegion, sovereignIn } from '../../lib/regions';
 import { getBest, saveBest } from '../../lib/progress';
+import { recordAnswer } from '../../lib/review';
+import { byFame } from '../../lib/countryHints';
+import { MistakeReview } from '../../components/MistakeReview';
 
 type Status = 'ready' | 'playing' | 'over';
 
@@ -42,6 +45,7 @@ export function NameTheCapitals() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [status]);
 
+  const [toLearn, setToLearn] = useState<Country[]>([]);
   const foundSet = useMemo(() => new Set(found), [found]);
 
   function start() {
@@ -50,6 +54,12 @@ export function NameTheCapitals() {
   }
   function finish(final = found) {
     setStatus('over');
+    // Weak spots: the best-known countries missed (at most 10, so a big region doesn't swamp the list),
+    // and a right answer for anything found that was already on the list.
+    const got = new Set(final);
+    for (const c of pool) if (got.has(c.cca3)) recordAnswer({ kind: 'capital', ref: c.cca3, label: c.name }, true);
+    setToLearn(pool.filter((c) => !got.has(c.cca3)).sort(byFame).slice(0, 10));
+    for (const c of pool.filter((c) => !got.has(c.cca3)).sort(byFame).slice(0, 10)) recordAnswer({ kind: 'capital', ref: c.cca3, label: c.name }, false);
     setNewBest(saveBest(gameId, final.length));
   }
   function onType(v: string) {
@@ -107,6 +117,7 @@ export function NameTheCapitals() {
           <div className="quiz-card results" role="status">
             <h2>You named {found.length} of {pool.length}</h2>
             <p className="muted">{newBest ? 'That’s a new personal best.' : best != null ? `Your best is ${best}.` : ''} Missed capitals are shown in red. Click any to read its country's profile.</p>
+            <MistakeReview title="Capitals worth learning" mistakes={toLearn.map((c) => ({ prompt: `${c.name}`, note: `The capital of ${c.name} is ${c.capital[0]}.`, link: countryPath(c) }))} />
           </div>
         )}
 

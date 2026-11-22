@@ -2,6 +2,8 @@ import { Link } from 'react-router-dom';
 import { Keyboard, MousePointerClick, Building2, Flag, Shapes, Compass, ArrowUpDown, Route, ListOrdered, HelpCircle, Timer, Landmark } from 'lucide-react';
 import type { LucideIcon } from 'lucide-react';
 import { Card, PageHeader } from '../components/ui';
+import { useWeakCounts } from '../components/MistakeReview';
+import { RotateCcw } from 'lucide-react';
 import { getBest } from '../lib/progress';
 import { REGION_OPTIONS } from '../lib/regions';
 
@@ -33,6 +35,18 @@ const GROUPS = [
   { title: 'Map and typing games', text: 'Type or click your way around the map against the clock.', ids: ['find-on-map', 'name-the-countries', 'name-the-capitals'] },
 ];
 
+/** A banner into the weak-spots review, shown once there's something on the list. */
+function ReviewBanner() {
+  const { total, due } = useWeakCounts();
+  if (!total) return null;
+  return (
+    <Link to="/games/review" className="card review-banner">
+      <span className="card-icon"><RotateCcw size={20} aria-hidden="true" /></span>
+      <span><strong>{due ? `${due} weak spot${due === 1 ? '' : 's'} ready to review` : 'Your weak spots'}</strong><span className="muted"> · {total} in all. Things you got wrong come back until they stick.</span></span>
+    </Link>
+  );
+}
+
 export function Games() {
   return (
     <div className="dark play-screen">
@@ -40,6 +54,7 @@ export function Games() {
         <p className="muted">Pick a game and a region. Best scores are saved in this browser.</p>
       </PageHeader>
       <div className="container play-body">
+        <ReviewBanner />
         {GROUPS.map((group) => (
           <section key={group.title} className="games-group" aria-labelledby={`g-${group.ids[0]}`}>
             <h2 id={`g-${group.ids[0]}`} className="section-title">{group.title}</h2>

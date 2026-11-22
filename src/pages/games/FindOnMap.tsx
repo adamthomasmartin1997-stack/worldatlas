@@ -8,6 +8,9 @@ import { countryPath, getCountry, type Country } from '../../data/countries';
 import { formatTime, shuffle } from '../../lib/answers';
 import { parseRegion, sovereignIn } from '../../lib/regions';
 import { saveBest } from '../../lib/progress';
+import { recordAnswer } from '../../lib/review';
+import { whereHint } from '../../lib/countryHints';
+import { MistakeReview } from '../../components/MistakeReview';
 
 const ROUNDS = 10;
 type Result = { target: Country; clicked: string; correct: boolean };
@@ -49,6 +52,7 @@ export function FindOnMap() {
     if (status !== 'playing' || feedback || !target) return;
     const r = { target, clicked: code, correct: code === target.cca3 };
     setFeedback(r);
+    recordAnswer({ kind: 'map', ref: target.cca3, label: target.name }, r.correct);
     setTimeout(() => {
       const next = [...results, r];
       setResults(next);
@@ -103,6 +107,7 @@ export function FindOnMap() {
                 </li>
               ))}
             </ul>
+            <MistakeReview mistakes={results.filter((x) => !x.correct).map((x) => ({ prompt: `Where is ${x.target.name}?`, note: `You clicked ${getCountry(x.clicked)?.name ?? 'somewhere else'}. ${whereHint(x.target)}`, link: countryPath(x.target) }))} />
           </div>
         )}
 

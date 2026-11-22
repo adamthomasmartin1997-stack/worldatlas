@@ -22,7 +22,7 @@ function build(key: RegionKey, level: Difficulty, mode: FlagMode): Question[] {
     // On hard, wrong answers are flags that share colours with the right one.
     const others = pickDistractors(c, candidates, level, 3, level === 'hard' ? flagSimilarity : undefined);
     const all = [c, ...others];
-    const base = { link: countryPath(c), answer: 0, options: all.map((x) => x.name) };
+    const base = { link: countryPath(c), answer: 0, options: all.map((x) => x.name), review: { kind: 'flag' as const, ref: c.cca3, label: c.name } };
     return shuffleOptions(mode === 'name'
       ? { ...base, q: 'Which country does this flag belong to?', image: { src: flagUrl(c), alt: 'A national flag. Which country is it?' } }
       : { ...base, q: `Which is the flag of ${c.name}?`, optionImages: all.map(flagUrl) });

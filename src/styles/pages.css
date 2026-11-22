@@ -601,3 +601,33 @@ a.chip:hover { color: var(--ink); background: var(--sun); transform: translate(2
 .event-summary h2 { margin: 0; }
 .event-summary > p { margin: 0; max-width: var(--measure); font-size: var(--text-lg); }
 .event-summary .source-note { font-size: var(--text-sm); }
+
+/* Mistake review and weak spots */
+.mistakes { display: grid; gap: var(--space-3); margin: var(--space-4) 0; padding-top: var(--space-4); border-top: 2px solid var(--line); text-align: left; }
+.mistakes h3 { margin: 0; font-size: var(--text-lg); }
+.mistake-list { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--space-2); }
+.mistake-list li { display: flex; gap: var(--space-3); align-items: flex-start; padding: var(--space-3); background: var(--surface); border: 2px solid var(--ink); border-radius: var(--radius-control); color: var(--ink); }
+.mistake-list p { margin: 0; }
+.mistake-icon { flex: 0 0 auto; margin-top: 3px; color: var(--ink); }
+.mistake-image { flex: 0 0 auto; width: 48px; height: 36px; object-fit: cover; border: 2px solid var(--ink); border-radius: 4px; }
+.mistake-prompt { font-weight: 700; }
+.mistake-yours { color: var(--ink-muted); }
+.mistake-list a { color: var(--ink); font-weight: 700; }
+.mistake-review-link { margin: 0; }
+.quiz-map { margin: var(--space-3) 0; }
+.review-banner { display: flex; gap: var(--space-3); align-items: center; color: var(--ink); text-decoration: none; margin-bottom: var(--space-6); transition: transform var(--ease), box-shadow var(--ease); }
+.review-banner:hover { transform: translate(3px, 3px); box-shadow: 2px 2px 0 var(--ink); color: var(--ink); }
+.review-start h2 { margin-top: 0; }
+.review-groups { display: grid; gap: var(--space-4); grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); margin-top: var(--space-6); }
+.review-group { background: var(--surface); color: var(--ink); border: var(--outline); border-radius: var(--radius-card); box-shadow: var(--shadow-card); padding: var(--space-4); }
+.review-group h2 { margin: 0 0 var(--space-2); font-size: var(--text-lg); }
+.review-group ul { list-style: none; margin: 0; padding: 0; }
+.review-group li { display: flex; flex-wrap: wrap; justify-content: space-between; gap: var(--space-2); padding: var(--space-2) 0; border-bottom: 1px solid var(--line); }
+.review-group li:last-child { border-bottom: 0; }
+.review-group a { color: var(--ink); font-weight: 700; }
+.review-meta { display: inline-flex; gap: var(--space-2); align-items: center; font-size: var(--text-sm); color: var(--ink-muted); }
+.review-boxes { display: inline-flex; gap: 3px; }
+.review-boxes span { width: 10px; height: 10px; border: 2px solid var(--ink); border-radius: 3px; background: var(--surface); }
+.review-boxes span.on { background: var(--green); }
+.review-clear { display: flex; flex-wrap: wrap; gap: var(--space-3); align-items: center; margin-top: var(--space-6); }
+.review-note { margin-top: var(--space-4); font-size: var(--text-sm); }

@@ -17,7 +17,7 @@ function build(key: RegionKey, level: Difficulty): Question[] {
   const candidates = level === 'easy' ? playable('world') : pool;
   return pickTargets(pool, level, 10).map((c) => {
     const others = pickDistractors(c, candidates, level, 3, level === 'hard' ? sizeSimilarity : undefined);
-    return shuffleOptions({ q: 'Which country has this shape?', shape: c.cca3, options: [c, ...others].map((x) => x.name), answer: 0, link: countryPath(c) });
+    return shuffleOptions({ q: 'Which country has this shape?', shape: c.cca3, options: [c, ...others].map((x) => x.name), answer: 0, link: countryPath(c), review: { kind: 'shape', ref: c.cca3, label: c.name } });
   });
 }
 

@@ -4,6 +4,10 @@ import { Check, X, ArrowRight, RotateCcw } from 'lucide-react';
 import type { Question } from '../lib/quiz';
 import { Silhouette } from './Silhouette';
 import { saveBest } from '../lib/progress';
+import { recordAnswer } from '../lib/review';
+import { MistakeReview, type Mistake } from './MistakeReview';
+import { WorldMap } from './WorldMap';
+import { getCountry } from '../data/countries';
 
 /** Multiple-choice quiz: one question at a time, instant feedback, results screen. */
 export function QuizRunner({ questions, gameId, onRestart, resultsExtra }: { questions: Question[]; gameId: string; onRestart: () => void; resultsExtra?: ReactNode }) {
@@ -12,6 +16,7 @@ export function QuizRunner({ questions, gameId, onRestart, resultsExtra }: { que
   const [score, setScore] = useState(0);
   const [done, setDone] = useState(false);
   const [newBest, setNewBest] = useState(false);
+  const [mistakes, setMistakes] = useState<Mistake[]>([]);
   const heading = useRef<HTMLHeadingElement>(null);
 
   useEffect(() => { heading.current?.focus(); }, [i, done]);
@@ -22,7 +27,10 @@ export function QuizRunner({ questions, gameId, onRestart, resultsExtra }: { que
   const choose = (k: number) => {
     if (answered) return;
     setPicked(k);
-    if (k === q.answer) setScore((s) => s + 1);
+    const right = k === q.answer;
+    if (right) setScore((s) => s + 1);
+    else setMistakes((m) => [...m, { prompt: q.mapHighlight ? `${q.q} (${q.options[q.answer]})` : q.q, yours: q.options[k], right: q.options[q.answer], link: q.link, image: q.image?.src }]);
+    if (q.review) recordAnswer(q.review, right);
   };
 
   const next = () => {
@@ -36,6 +44,7 @@ export function QuizRunner({ questions, gameId, onRestart, resultsExtra }: { que
         <p className="eyebrow">Results</p>
         <h2 ref={heading} tabIndex={-1}>You scored {score} out of {questions.length}</h2>
         {newBest && <p className="tag">New personal best</p>}
+        <MistakeReview mistakes={mistakes} />
         <div className="quiz-actions">
           <button className="btn btn-primary" onClick={onRestart}><RotateCcw size={18} aria-hidden="true" /> Play again</button>
           {resultsExtra}
@@ -53,6 +62,11 @@ export function QuizRunner({ questions, gameId, onRestart, resultsExtra }: { que
       <div className="progress-bar" aria-hidden="true"><span style={{ width: `${(i / questions.length) * 100}%` }} /></div>
       <h2 ref={heading} tabIndex={-1} className="quiz-question">{q.q}</h2>
       {q.shape && <Silhouette cca3={q.shape} />}
+      {q.mapHighlight && (
+        <div className="quiz-map">
+          <WorldMap label="A map with one country highlighted. Which country is it?" focus={[q.mapHighlight, ...(getCountry(q.mapHighlight)?.borders ?? [])]} classFor={(c) => (c === q.mapHighlight ? 'active' : undefined)} hideNames aspect={0.6} />
+        </div>
+      )}
       {q.image && <img className="quiz-flag" src={q.image.src} alt={q.image.alt} width={240} height={180} />}
       <div className={`quiz-options${q.optionImages ? ' quiz-options-images' : ''}`} role="group" aria-label="Answers">
         {q.options.map((opt, k) => {

@@ -18,6 +18,7 @@ import { Flags } from './pages/games/Flags';
 import { Silhouettes } from './pages/games/Silhouettes';
 import { MysteryCountry } from './pages/games/MysteryCountry';
 import { HigherLower } from './pages/games/HigherLower';
+import { Review } from './pages/games/Review';
 import { BorderChain } from './pages/games/BorderChain';
 import { WhichCameFirst } from './pages/games/WhichCameFirst';
 import { WhoAmI } from './pages/games/WhoAmI';
@@ -53,6 +54,7 @@ const router = createRouter([
       { path: '/games/mystery', element: <MysteryCountry /> },
       { path: '/games/higher-lower', element: <HigherLower /> },
       { path: '/games/border-chain', element: <BorderChain /> },
+      { path: '/games/review', element: <Review /> },
       { path: '/games/which-came-first', element: <WhichCameFirst /> },
       { path: '/games/who-am-i', element: <WhoAmI /> },
       { path: '/games/speed-round', element: <SpeedRound /> },

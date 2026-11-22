@@ -15,7 +15,7 @@ function build(key: RegionKey, level: Difficulty): Question[] {
     // Distractors come from the whole world on easy, so a region game doesn't run out of far-away options.
     const candidates = level === 'easy' ? sovereignIn('world').filter((x) => x.capital[0]) : pool;
     const others = pickDistractors(c, candidates, level).map((x) => x.capital[0]).filter((cap) => cap !== c.capital[0]);
-    return shuffleOptions({ q: `What is the capital of ${c.name}?`, options: [c.capital[0], ...new Set(others)], answer: 0, link: countryPath(c), explain: `${c.capital[0]} is the capital of ${c.name}.` });
+    return shuffleOptions({ q: `What is the capital of ${c.name}?`, options: [c.capital[0], ...new Set(others)], answer: 0, link: countryPath(c), explain: `${c.capital[0]} is the capital of ${c.name}.`, review: { kind: 'capital', ref: c.cca3, label: c.name } });
   });
 }
 

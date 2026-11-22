@@ -1,5 +1,6 @@
 import { COUNTRIES, SOVEREIGN, getCountry, type Country } from '../data/countries';
 import { shuffle } from './answers';
+import type { ReviewRef } from './review';
 import { flagSimilarity, flagUrl, pickDistractors, type Difficulty } from './difficulty';
 
 export interface Question {
@@ -14,6 +15,10 @@ export interface Question {
   shape?: string;
   /** Pictures to show instead of the option text (e.g. four flags); names are revealed after answering. */
   optionImages?: string[];
+  /** A country (cca3) highlighted on a map with the question ("Which country is highlighted?"). */
+  mapHighlight?: string;
+  /** What this question tests, so a wrong answer is added to the player's weak spots. */
+  review?: ReviewRef;
 }
 
 export const TOPICS = {
