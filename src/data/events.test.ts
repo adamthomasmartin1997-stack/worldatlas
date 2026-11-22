@@ -16,6 +16,7 @@ describe('event dates', () => {
     expect(formatSpan({ s: '1939-09-01', sp: 'day', e: '1945-09-02', ep: 'day' })).toBe('1939–1945');
     expect(formatSpan({ s: '-0431', sp: 'year', e: '-0404', ep: 'year' })).toBe('431–404 BC');
     expect(formatSpan({ s: '1815-06-18', sp: 'day' })).toBe('18 June 1815');
+    expect(formatSpan({ k: 'treaty', s: '1929-02-11', sp: 'day', e: '1985', ep: 'year' })).toBe('11 February 1929');
   });
 });
 

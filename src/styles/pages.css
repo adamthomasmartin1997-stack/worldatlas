@@ -631,3 +631,17 @@ a.chip:hover { color: var(--ink); background: var(--sun); transform: translate(2
 .review-boxes span.on { background: var(--green); }
 .review-clear { display: flex; flex-wrap: wrap; gap: var(--space-3); align-items: center; margin-top: var(--space-6); }
 .review-note { margin-top: var(--space-4); font-size: var(--text-sm); }
+
+/* Timeline builder */
+.timeline-era-pick { margin: var(--space-2) 0 var(--space-4); }
+.timeline-cards { list-style: none; margin: var(--space-3) 0; padding: 0; display: grid; gap: var(--space-2); }
+.timeline-cards li { display: flex; gap: var(--space-3); align-items: center; padding: var(--space-3); background: var(--surface); color: var(--ink); border: 2px solid var(--ink); border-radius: var(--radius-control); transition: background var(--ease); }
+.timeline-cards li.is-right { background: var(--tint-green); }
+.timeline-cards li.is-wrong { border-style: dashed; }
+.timeline-pos { flex: 0 0 auto; width: 32px; height: 32px; display: grid; place-items: center; border: 2px solid var(--ink); border-radius: var(--radius-tag); background: var(--sun); font-weight: 800; }
+.timeline-card-main { display: grid; gap: 2px; flex: 1; min-width: 0; }
+.timeline-card-main .muted { font-size: var(--text-sm); }
+.timeline-date { display: inline-flex; flex-wrap: wrap; align-items: center; gap: var(--space-1); font-weight: 700; margin-top: var(--space-1); }
+.timeline-moves { display: flex; gap: var(--space-2); flex: 0 0 auto; }
+.timeline-move { min-width: var(--touch); min-height: var(--touch); padding: 0; justify-content: center; }
+@media (max-width: 639px) { .timeline-moves { flex-direction: column; } }

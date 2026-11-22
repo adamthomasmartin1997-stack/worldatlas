@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import { Keyboard, MousePointerClick, Building2, Flag, Shapes, Compass, ArrowUpDown, Route, ListOrdered, HelpCircle, Timer, Landmark } from 'lucide-react';
+import { Keyboard, MousePointerClick, Building2, Flag, Shapes, Compass, ArrowUpDown, Route, ListOrdered, HelpCircle, Timer, Landmark, CalendarRange } from 'lucide-react';
 import type { LucideIcon } from 'lucide-react';
 import { Card, PageHeader } from '../components/ui';
 import { useWeakCounts } from '../components/MistakeReview';
@@ -22,6 +22,7 @@ const GAMES: Game[] = [
   { id: 'who-am-i', icon: HelpCircle, title: 'Who am I?', text: 'Guess the country from as few clues as you can. Each clue is easier, but worth less.', regions: false, links: [{ to: '/games/who-am-i?level=easy', label: 'Easy' }, { to: '/games/who-am-i', label: 'Medium' }, { to: '/games/who-am-i?level=hard', label: 'Hard' }] },
   { id: 'border-chain', icon: Route, title: 'Border chain', text: 'Travel overland from one country to another, naming each neighbour along the way.', regions: false, links: [{ to: '/games/border-chain?level=easy', label: 'Easy' }, { to: '/games/border-chain', label: 'Medium' }, { to: '/games/border-chain?level=hard', label: 'Hard' }] },
   { id: 'which-came-first', icon: ListOrdered, title: 'Which came first?', text: 'Put four moments from history in order. Hard mode keeps them close together in time and place.', regions: false, links: [{ to: '/games/which-came-first?level=easy', label: 'Easy' }, { to: '/games/which-came-first', label: 'Medium' }, { to: '/games/which-came-first?level=hard', label: 'Hard' }] },
+  { id: 'timeline', icon: CalendarRange, title: 'Timeline builder', text: 'Put five real events from history in order, from the pyramids to the World Cup. Pick an era or play them all.', regions: false, links: [{ to: '/games/timeline?level=easy', label: 'Easy' }, { to: '/games/timeline', label: 'Medium' }, { to: '/games/timeline?level=hard', label: 'Hard' }] },
   { id: 'speed-round', icon: Timer, title: 'Speed round', text: '60 seconds of flags or capitals. A wrong answer costs three seconds.', regions: false, links: [{ to: '/games/speed-round?mode=flags', label: 'Flags' }, { to: '/games/speed-round?mode=capitals', label: 'Capitals' }] },
   { id: 'capitals', icon: Building2, title: 'Capitals', text: 'Pick the right capital city from four options. Ten questions, on easy, medium or hard.', regions: true, best: pct('capitals') },
   { id: 'find-on-map', icon: MousePointerClick, title: 'Find it on the map', text: 'We name a country, you click it. Ten rounds.', regions: true, best: pct('find-on-map') },
@@ -30,7 +31,7 @@ const GAMES: Game[] = [
 ];
 
 const GROUPS = [
-  { title: 'Puzzles', text: 'Think it through: clues, routes and timelines.', ids: ['mystery', 'who-am-i', 'border-chain', 'which-came-first'] },
+  { title: 'Puzzles', text: 'Think it through: clues, routes and timelines.', ids: ['mystery', 'who-am-i', 'border-chain', 'which-came-first', 'timeline'] },
   { title: 'Quick-fire quizzes', text: 'Four options, one right answer. Pick easy, medium or hard.', ids: ['flags', 'silhouettes', 'capitals', 'higher-lower', 'speed-round'] },
   { title: 'Map and typing games', text: 'Type or click your way around the map against the clock.', ids: ['find-on-map', 'name-the-countries', 'name-the-capitals'] },
 ];

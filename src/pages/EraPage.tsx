@@ -182,6 +182,7 @@ function EraView({ era }: { era: Era }) {
 
             <nav className="era-steps" aria-label="Previous and next era">
               {prev ? <Link className="btn" to={eraPath(prev)}><ArrowLeft size={18} aria-hidden="true" /> {prev.name}</Link> : <span />}
+              {era.slug !== 'ancient' && <Link className="btn" to={`/games/timeline?era=${era.slug}`}>Timeline game</Link>}
               <Link className="btn" to={`/history/meanwhile?year=${Math.round((era.from + Math.min(era.to, new Date().getFullYear())) / 2)}`}>Pick a year</Link>
               {next ? <Link className="btn btn-primary" to={eraPath(next)}>{next.name} <ArrowRight size={18} aria-hidden="true" /></Link> : <span />}
             </nav>

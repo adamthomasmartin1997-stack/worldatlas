@@ -56,9 +56,9 @@ function ordinal(n: number) {
   return ['th', 'st', 'nd', 'rd'][n % 10] ?? 'th';
 }
 
-/** "1803–1815", "18 June 1815", "1939–1945". */
-export function formatSpan(e: Pick<HistoryEvent, 's' | 'sp' | 'e' | 'ep'>): string {
-  if (!e.e) return formatDate(e.s, e.sp);
+/** "1803–1815", "18 June 1815", "1939–1945". A treaty shows the date it was signed, not how long it stayed in force. */
+export function formatSpan(e: Pick<HistoryEvent, 's' | 'sp' | 'e' | 'ep'> & { k?: EventKind }): string {
+  if (!e.e || e.k === 'treaty') return formatDate(e.s, e.sp);
   const a = yearOf(e.s), b = yearOf(e.e);
   if (a === b) return formatDate(e.s, e.sp === 'day' ? 'month' : e.sp);
   if (a < 0 && b < 0) return `${-a}–${-b} BC`;
