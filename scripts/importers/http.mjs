@@ -12,7 +12,7 @@ export async function getJson(url, { headers = {}, retries = 3, timeoutMs = 70_0
       }
       return await res.json();
     } catch (e) {
-      if (attempt >= retries) throw new Error(`GET ${url} failed after ${attempt} attempts: ${e.message}`);
+      if (attempt >= retries) throw new Error(`GET ${url} failed after ${attempt} attempts: ${e.message}`, { cause: e });
       await new Promise((r) => setTimeout(r, Math.max(2000 * attempt, (e.retryAfter ?? 0) * 1000 * attempt)));
     }
   }

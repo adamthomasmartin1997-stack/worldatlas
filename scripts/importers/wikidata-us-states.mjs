@@ -63,7 +63,7 @@ const queue = Object.entries(states);
 let done = 0;
 await Promise.all([0, 1, 2].map(async () => {
   for (let item; (item = queue.shift()); ) {
-    const [fips, s] = item;
+    const [, s] = item;
     try {
       const found = await sparql(`SELECT ?city ?name (MAX(?p) AS ?pop) (SAMPLE(?c) AS ?coord) WHERE {
         hint:Query hint:optimizer "None" .

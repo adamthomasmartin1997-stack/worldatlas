@@ -7,6 +7,7 @@
     "build": "tsc -p . && vite build",
     "preview": "vite preview",
     "typecheck": "tsc -p .",
+    "lint": "eslint .",
     "test": "vitest run",
     "data:build": "node scripts/build-data.mjs",
     "data:fetch": "node scripts/importers/wikidata.mjs && node scripts/importers/wikidata-cities.mjs && node scripts/importers/wikidata-geography.mjs && node scripts/importers/wikidata-settlements.mjs && node scripts/importers/wikidata-city-additions.mjs && node scripts/importers/wikidata-us-states.mjs && node scripts/importers/wikidata-government.mjs && node scripts/importers/wikidata-fame.mjs && node scripts/importers/wikidata-landmarks.mjs && node scripts/importers/wikidata-events.mjs && node scripts/importers/worldbank.mjs",
@@ -29,6 +30,7 @@
     "world-countries": "^5.1.0"
   },
   "devDependencies": {
+    "@eslint/js": "^10.0.1",
     "@types/d3-geo": "^3.1.0",
     "@types/geojson": "^7946.0.16",
     "@types/react": "^18.3.12",
@@ -36,8 +38,12 @@
     "@types/topojson-client": "^3.1.5",
     "@types/topojson-specification": "^1.0.5",
     "@vitejs/plugin-react": "^4.3.4",
+    "eslint": "^10.14.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
     "flag-icons": "^7.6.0",
+    "globals": "^17.14.0",
     "typescript": "^5.6.3",
+    "typescript-eslint": "^8.72.1",
     "vite": "^5.4.11",
     "vitest": "^2.1.8"
   },

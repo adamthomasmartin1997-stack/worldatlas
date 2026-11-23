@@ -42,7 +42,7 @@ export function WhoAmI() {
   const [params, setParams] = useSearchParams();
   const level = parseDifficulty(params.get('level'));
   const [game, setGame] = useState(0);
-  const targets = useMemo(() => pickTargets(SOVEREIGN.filter((c) => c.capital[0] && c.population), level, ROUNDS), [level, game]);
+  const targets = useMemo(() => pickTargets(SOVEREIGN.filter((c) => c.capital[0] && c.population), level, ROUNDS), [level, game]); // eslint-disable-line react-hooks/exhaustive-deps -- `game` changes to deal a new set
   const [r, setR] = useState(0);
   const [shown, setShown] = useState(1);
   const [wrong, setWrong] = useState<string[]>([]);
