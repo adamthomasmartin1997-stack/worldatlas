@@ -88,7 +88,7 @@ export function QuizRunner({ questions, gameId, onRestart, resultsExtra }: { que
       <div aria-live="polite">
         {answered && (
           <div className={`quiz-feedback ${picked === q.answer ? 'correct' : 'incorrect'}`}>
-            <strong>{picked === q.answer ? 'Correct.' : `Not quite — the answer is ${q.options[q.answer]}.`}</strong>
+            <strong>{picked === q.answer ? 'Correct.' : `Not quite — the answer is ${q.options[q.answer].replace(/[.!?]$/, '')}.`}</strong>
             {q.explain && <span> {q.explain}</span>}
             {q.link && <> <Link to={q.link}>Read more</Link></>}
           </div>

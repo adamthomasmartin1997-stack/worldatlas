@@ -8,7 +8,7 @@ import { Bars, Calendar, CardGroups, CityBars, HeritageMap, JobsBars, PinMap, Po
 import { COUNTRIES, countryPath, getCountry, type Country } from '../data/countries';
 import type { ReactNode } from 'react';
 import { DEEP_SECTIONS, SECTION_LABEL, deepTitle, nameInSentence, hasDeepDive, isDeepSection, loadDeepDive, readingMinutes, type DeepDive as Deep, type DeepSection } from '../content/deep';
-import { TOPICS, questionCount, type Topic } from '../lib/quiz';
+import { TOPICS, hasQuiz, type Topic } from '../lib/quiz';
 import { flagUrl } from '../lib/difficulty';
 import { NotFound } from './NotFound';
 
@@ -51,7 +51,7 @@ function DeepPage({ c, section }: { c: Country; section: DeepSection }) {
   const others = DEEP_SECTIONS.filter((s) => s !== section && hasDeepDive(c.cca3, s));
   const i = DEEP_SECTIONS.indexOf(section);
   const next = DEEP_SECTIONS.slice(i + 1).concat(DEEP_SECTIONS.slice(0, i)).find((s) => hasDeepDive(c.cca3, s));
-  const quiz = (section in TOPICS && questionCount(c, section as Topic) > 0) ? section as Topic : null;
+  const quiz = (section in TOPICS && hasQuiz(c, section as Topic)) ? section as Topic : null;
 
   return (
     <>

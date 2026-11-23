@@ -12,7 +12,7 @@ import { COUNTRIES, ORGANISATIONS, countryPath, fmt, getCountry, type Country } 
 import type { SourceId } from '../data/sources';
 import { DEEP_SECTIONS, deepTitle, hasDeepDive, isDeepSection, nameInSentence } from '../content/deep';
 import { contentFor, type CountryContent, type Fact as WrittenFact } from '../content/countries';
-import { TOPICS, questionCount, questionsFor, type Topic } from '../lib/quiz';
+import { TOPICS, hasQuiz, questionCount, questionsFor, type Topic } from '../lib/quiz';
 import { flagUrl } from '../lib/difficulty';
 import { fmtCompact, fmtPeople, fmtUsd, fmtUsdAxis, fmtYears } from '../lib/format';
 import { NotFound } from './NotFound';
@@ -174,7 +174,7 @@ function Profile({ c }: { c: Country }) {
     ...(content?.culture ? [{ id: 'culture', label: 'Culture', color: 'coral' } as FolderTab] : []),
     ...(content?.sport ? [{ id: 'sport', label: 'Sport', color: 'ocean' } as FolderTab] : []),
   ];
-  const topics = (Object.keys(TOPICS) as Topic[]).filter((t) => questionCount(c, t) > 0);
+  const topics = (Object.keys(TOPICS) as Topic[]).filter((t) => hasQuiz(c, t));
   const topicColor: Record<Topic, FolderTab['color']> = { geography: 'green', history: 'sun', culture: 'coral', sport: 'ocean' };
   const gameTabs: FolderTab[] = [...topics.map((t) => ({ id: t, label: `${TOPICS[t].label} quiz`, color: topicColor[t] })), { id: 'map', label: 'Map games', color: 'white' }];
 
@@ -376,7 +376,7 @@ function Profile({ c }: { c: Country }) {
     return (
       <div className="quiz-teaser">
         <div className="quiz-teaser-copy">
-          <span className="tag">{questionCount(c, t)} questions</span>
+          <span className="tag">{questionCount(c, t) ? `${questionCount(c, t)} questions` : `Built from the ${TOPICS[t].label.toLowerCase()} page`}</span>
           <span className="quiz-teaser-title">{c.name}: {TOPICS[t].label}</span>
           <span className="muted">{TOPICS[t].blurb}</span>
           <ButtonLink to={`${countryPath(c)}/quiz/${t}`} variant="primary"><Play size={18} strokeWidth={2.5} aria-hidden="true" /> Start quiz</ButtonLink>

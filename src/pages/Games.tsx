@@ -86,7 +86,7 @@ export function Games() {
         ))}
         <section className="games-group">
           <Card title="Country quizzes">
-            <p className="muted">Every country profile has its own quizzes: geography (with easy, medium and hard), plus history, culture and sport where they've been written. Start with <Link to="/countries/fra/quiz/geography">France</Link>.</p>
+            <p className="muted">Every country has its own quizzes: geography (with easy, medium and hard), plus history, culture and sport built from its pages. Start with <Link to="/countries/fra/quiz/geography">France</Link>.</p>
           </Card>
         </section>
       </div>

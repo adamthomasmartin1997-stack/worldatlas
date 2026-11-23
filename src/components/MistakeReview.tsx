@@ -49,7 +49,7 @@ export function MistakeReview({ mistakes, title = 'What to learn from this round
                 <p className="mistake-prompt">{m.prompt}</p>
                 <p>
                   {m.yours && <><span className="mistake-yours">You said {m.yours}.</span> </>}
-                  {m.right && <span>The answer is <strong>{m.right}</strong>. </span>}
+                  {m.right && <span>The answer is <strong>{m.right.replace(/[.!?]$/, '')}</strong>. </span>}
                   {m.note && <span>{m.note} </span>}
                   {m.link && <> <Link to={m.link}>Learn more</Link></>}
                 </p>

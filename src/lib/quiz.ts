@@ -1,6 +1,7 @@
 import { COUNTRIES, SOVEREIGN, getCountry, type Country } from '../data/countries';
 import { shuffle } from './answers';
 import type { ReviewRef } from './review';
+import { hasDeepDive } from '../content/deep';
 import { flagSimilarity, flagUrl, pickDistractors, type Difficulty } from './difficulty';
 
 export interface Question {
@@ -89,6 +90,15 @@ export function questionsFor(c: Country, topic: Topic, level: Difficulty = 'medi
   return qs.map((q) => shuffleOptions(q));
 }
 
+/**
+ * Whether a country has a quiz on this topic: geography is generated from data, history, culture and
+ * sport are hand-written (France) or generated from the deep-dive pages (src/lib/deepQuiz.ts).
+ */
+export function hasQuiz(c: Country, topic: Topic): boolean {
+  return topic === 'geography' || questionCount(c, topic) > 0 || hasDeepDive(c.cca3, topic);
+}
+
+/** Hand-written or data-generated questions available without loading anything (0 for generated deep-dive quizzes). */
 export function questionCount(c: Country, topic: Topic) {
   return topic === 'geography' ? geographyQuestions(c).length : (written.get(c.cca3.toLowerCase())?.[topic]?.length ?? 0);
 }

@@ -94,7 +94,7 @@ export function History() {
       </section>
 
       <section className="container" style={{ paddingBottom: 'var(--space-16)' }}>
-        <p>Also: <Link to="/countries/fra/quiz/history">French history quiz</Link>.</p>
+        <p>Every country has its own history quiz too. Try <Link to="/countries/fra/quiz/history">France</Link>, <Link to="/countries/nga/quiz/history">Nigeria</Link> or <Link to="/countries/jpn/quiz/history">Japan</Link>, or open any country's History tab.</p>
       </section>
     </>
   );
