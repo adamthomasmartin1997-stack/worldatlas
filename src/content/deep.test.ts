@@ -11,6 +11,8 @@ describe('deep-dive content', () => {
     it(`${iso}/${section} is well formed`, () => {
       expect(getCountry(iso), 'folder is a country code').toBeTruthy();
       expect(DEEP_SECTIONS).toContain(section);
+      expect(['draft', 'reviewed']).toContain(d.status);
+      if (d.status === 'reviewed') expect(d.sources?.length, `${iso}/${section} is reviewed, so it lists its sources`).toBeGreaterThan(0);
       expect(d.intro.length).toBeGreaterThan(40);
       expect(d.chapters.length).toBeGreaterThanOrEqual(section === 'history' ? 3 : 2);
       const ids = d.chapters.map((c) => c.id);

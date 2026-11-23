@@ -19,7 +19,8 @@ const WHERE_LABEL: Partial<Record<EventKind, string>> = { invention: 'Comes from
 /** Events about mass killing: shown with a short note, and never used in games or random picks. */
 export const SENSITIVE = new Set<EventKind>(['genocide', 'massacre']);
 
-interface Summary { text: string[]; why: string; asOf?: string }
+/** Our summary of an event. `reviewed` (YYYY-MM-DD) and `sources` are added once a person has checked it. */
+interface Summary { text: string[]; why: string; asOf?: string; reviewed?: string; sources?: string[] }
 let summaries: Promise<Record<string, Summary>> | null = null;
 /** Our own summary of an event, if it has one (src/content/event-summaries.json, loaded on first use). */
 function useSummary(id: string): Summary | null {
@@ -169,7 +170,12 @@ function EventView({ id }: { id: string }) {
             <h2 id="what-h">What happened</h2>
             {summary.text.map((p) => <p key={p.slice(0, 30)}>{p}</p>)}
             <aside className="deep-highlight"><h3>Why it matters</h3><p>{summary.why}</p></aside>
-            <p className="source-note">Written by Worldwise from widely published facts. Draft: not yet checked against sources.{summary.asOf && ` Still unfolding: last checked ${monthYear(summary.asOf)}.`}</p>
+            <p className="source-note">
+              {summary.reviewed
+                ? `Written by Worldwise and checked against sources on ${new Date(`${summary.reviewed}T00:00:00Z`).toLocaleDateString('en-GB', { day: 'numeric', month: 'long', year: 'numeric', timeZone: 'UTC' })}${summary.sources?.length ? `: ${summary.sources.join('; ')}` : ''}.`
+                : 'Written by Worldwise from widely published facts. Draft: not yet checked against sources.'}
+              {summary.asOf && ` Still unfolding: last checked ${monthYear(summary.asOf)}.`}
+            </p>
           </section>
         )}
 
