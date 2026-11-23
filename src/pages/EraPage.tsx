@@ -3,7 +3,7 @@ import { Link, useParams } from 'react-router-dom';
 import { ArrowLeft, ArrowRight, Check, RotateCcw, X } from 'lucide-react';
 import { WorldMap } from '../components/WorldMap';
 import { PageHeader, SourceNote } from '../components/ui';
-import { ERAS, SENSITIVE_KINDS, eraBySlug, eventsInEra, fmtRange, fmtYear, pickHeadlines, regionOf, statesDuring, type Era } from '../data/eras';
+import { ERAS, SENSITIVE_KINDS, shortEraName, eraBySlug, eventsInEra, fmtRange, fmtYear, pickHeadlines, regionOf, statesDuring, type Era } from '../data/eras';
 import { formatSpan, yearOf, type HistoryEvent } from '../data/events';
 import { useEvents } from '../data/useEvents';
 import { shuffle } from '../lib/answers';
@@ -27,7 +27,7 @@ export function EraNav({ current }: { current?: string }) {
         {ERAS.map((e) => (
           <li key={e.slug}>
             <Link to={eraPath(e)} className={`chip${e.slug === current ? ' on' : ''}`} aria-current={e.slug === current ? 'page' : undefined}>
-              {e.name.replace(/^The /, '')}
+              {shortEraName(e)}
             </Link>
           </li>
         ))}

@@ -655,3 +655,19 @@ a.chip:hover { color: var(--ink); background: var(--sun); transform: translate(2
   .bar-chart th a,
   .compare-table thead a { display: inline-flex; align-items: center; min-height: var(--touch); }
 }
+
+/* Home: on this day, travel through time, weak spots */
+.weak-chip { display: inline-flex; align-items: center; gap: var(--space-2); min-height: var(--touch); margin-top: var(--space-3); padding: 0 var(--space-4); background: var(--surface); border: var(--outline); border-radius: var(--radius-pill); color: var(--ink); font-weight: 700; text-decoration: none; box-shadow: var(--shadow-sm); }
+.weak-chip:hover { background: var(--sun); color: var(--ink); }
+.home-history-grid { display: grid; gap: var(--space-6); }
+@media (min-width: 1025px) { .home-history-grid { grid-template-columns: minmax(0, 1fr) minmax(0, 1.4fr); align-items: start; } }
+.on-this-day, .time-travel { display: grid; gap: var(--space-3); }
+.on-this-day h2, .time-travel h2 { margin: 0; }
+.on-this-day .eyebrow { display: inline-flex; align-items: center; gap: var(--space-2); margin: 0; }
+.otd-list { list-style: none; margin: 0; padding: 0; display: grid; gap: var(--space-3); }
+.otd-list li { display: flex; gap: var(--space-3); align-items: center; }
+.otd-year { flex: 0 0 auto; min-width: 3.5rem; text-align: center; padding: var(--space-1) var(--space-2); background: var(--sun); border: var(--outline); border-radius: var(--radius-tag); font-family: var(--font-display); font-weight: 800; }
+.otd-list a { color: var(--ink); font-weight: 700; }
+.otd-more { margin: 0; }
+.era-chips { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: var(--space-2); }
+.era-chips .chip { min-height: var(--touch); }

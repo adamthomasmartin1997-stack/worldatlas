@@ -1,18 +1,21 @@
+import { useMemo } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { Compass, Flag, Landmark, Gamepad2, BarChart3, ArrowRight, Target, Play } from 'lucide-react';
+import { Compass, Flag, Landmark, Gamepad2, BarChart3, ArrowRight, Target, Play, RotateCcw, CalendarDays } from 'lucide-react';
+import { useWeakCounts } from '../components/MistakeReview';
+import { useData } from '../components/useData';
+import { ERAS, fmtRange, shortEraName } from '../data/eras';
 import { WorldMap } from '../components/WorldMap';
 import { CountrySearch } from '../components/CountrySearch';
 import { ButtonLink, Card, SourceNote } from '../components/ui';
 import { COUNTRIES, countryPath, getCountry, todaysCountry, type Country } from '../data/countries';
-import { questionCount } from '../lib/quiz';
 import { sovereignIn } from '../lib/regions';
 import { fmtPeople } from '../lib/format';
 
 const SECTIONS = [
   { to: '/explore', icon: Compass, title: 'Explore', text: 'Browse the world map region by region.' },
   { to: '/countries', icon: Flag, title: 'Countries', text: 'A profile for every country and territory.' },
-  { to: '/history', icon: Landmark, title: 'History', text: 'Timelines and historical maps.' },
-  { to: '/games', icon: Gamepad2, title: 'Games', text: 'Typing, map and quiz games.' },
+  { to: '/history', icon: Landmark, title: 'History', text: 'Nine eras, thousands of events, and what happened at the same time.' },
+  { to: '/games', icon: Gamepad2, title: 'Games', text: 'Map, typing, quiz and timeline games, plus your weak spots.' },
   { to: '/data', icon: BarChart3, title: 'Data', text: 'Compare countries with sourced numbers.' },
 ];
 
@@ -23,13 +26,58 @@ function nextDoor(c: Country): Country | undefined {
   return neighbours[0] ?? COUNTRIES.filter((x) => x.sovereign && x.subregion === c.subregion && x.cca3 !== c.cca3).sort(byName)[0];
 }
 
+interface DayEvent { id: string; k: string; t: string; y: number; p?: string }
+const MONTHS = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+const dayKey = (d: Date) => `${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+
+/**
+ * "On this day": the best-known events on today's date (public/data/on-this-day.json, a small file
+ * built from the events). On a quiet day it takes in the days around it and says so.
+ */
+function OnThisDay() {
+  const data = useData<{ days: Record<string, DayEvent[]> }>('on-this-day.json');
+  const today = new Date();
+  const picks = useMemo(() => {
+    if (!data) return null;
+    const exact = data.days[dayKey(today)] ?? [];
+    if (exact.length >= 2) return { week: false, items: exact.map((e) => ({ ...e, date: today })) };
+    const around = [0, -1, 1, -2, 2, -3, 3].flatMap((d) => {
+      const day = new Date(today.getFullYear(), today.getMonth(), today.getDate() + d);
+      return (data.days[dayKey(day)] ?? []).map((e) => ({ ...e, date: day }));
+    });
+    return { week: true, items: around.slice(0, 3) };
+  }, [data]); // eslint-disable-line react-hooks/exhaustive-deps
+  if (!picks || !picks.items.length) return null;
+  const label = (d: Date) => `${d.getDate()} ${MONTHS[d.getMonth()]}`;
+  return (
+    <section className="card on-this-day" aria-labelledby="otd-h">
+      <p className="eyebrow"><CalendarDays size={16} aria-hidden="true" /> {picks.week ? 'This week in history' : 'On this day'}</p>
+      <h2 id="otd-h">{label(today)}</h2>
+      <ul className="otd-list">
+        {picks.items.map((e) => (
+          <li key={e.id}>
+            <span className="otd-year">{e.y}</span>
+            <span><Link to={`/history/events/${e.id}`}>{e.t}</Link>{picks.week && <span className="muted"> · {label(e.date)}</span>}</span>
+          </li>
+        ))}
+      </ul>
+      <p className="otd-more"><Link className="text-link" to={`/history/meanwhile?year=${picks.items[0].y}`}>What else was happening in {picks.items[0].y}? <ArrowRight size={16} aria-hidden="true" /></Link></p>
+    </section>
+  );
+}
+
+/** A nudge back to the weak-spots review, once there is something to review. */
+function WeakSpotsChip() {
+  const { due } = useWeakCounts();
+  if (!due) return null;
+  return <Link to="/games/review" className="weak-chip"><RotateCcw size={16} aria-hidden="true" /> {due} weak spot{due === 1 ? '' : 's'} ready to review</Link>;
+}
+
 export function Home() {
   const navigate = useNavigate();
   const today = todaysCountry();
   const region = today.region.toLowerCase();
   const neighbour = nextDoor(today);
-  const regionCount = sovereignIn(region as Parameters<typeof sovereignIn>[0]).length;
-  const geoQuestions = questionCount(today, 'geography');
   const europe = sovereignIn('europe').length;
 
   return (
@@ -49,6 +97,7 @@ export function Home() {
               </ButtonLink>
               <ButtonLink to="/explore">Explore the map</ButtonLink>
             </div>
+            <WeakSpotsChip />
           </div>
 
           <div className="hero-map">
@@ -76,21 +125,36 @@ export function Home() {
       <section className="container section home-games" aria-labelledby="games-h">
         <h2 id="games-h">Play now</h2>
         <div className="grid grid-3">
-          <Link to="/games/name-the-countries?region=europe" className="card card-link game-tile">
-            <span className="tag tag-sun">Typing game</span>
-            <span className="card-title">Name every country in Europe</span>
-            <span className="muted">{europe} countries · 5 minutes on the clock</span>
+          <Link to="/games/timeline?level=easy" className="card card-link game-tile">
+            <span className="tag tag-coral">History game · new</span>
+            <span className="card-title">Timeline builder</span>
+            <span className="muted">Put five real events in order, from the pyramids to the World Cup</span>
           </Link>
           <Link to={`/games/find-on-map?region=${region}`} className="card card-link game-tile">
             <span className="tag tag-green">Map game</span>
             <span className="card-title">Find it on the map: {today.region}</span>
             <span className="muted">We name it, you tap it · 10 rounds</span>
           </Link>
-          <Link to="/games/capitals" className="card card-link game-tile">
-            <span className="tag tag-ocean">Quiz</span>
-            <span className="card-title">Capital cities</span>
-            <span className="muted">Pick the right capital · 10 questions</span>
+          <Link to="/games/name-the-countries?region=europe" className="card card-link game-tile">
+            <span className="tag tag-sun">Typing game</span>
+            <span className="card-title">Name every country in Europe</span>
+            <span className="muted">{europe} countries · 5 minutes on the clock</span>
           </Link>
+        </div>
+      </section>
+
+      <section className="container section home-history" aria-labelledby="time-h">
+        <div className="home-history-grid">
+          <OnThisDay />
+          <div className="card time-travel">
+            <p className="eyebrow">History</p>
+            <h2 id="time-h">Travel through time</h2>
+            <p className="muted">Nine eras, from the first cities to today. Pick one to see what happened and who ruled.</p>
+            <ol className="era-chips">
+              {ERAS.map((e) => <li key={e.slug}><Link className="chip" to={`/history/eras/${e.slug}`}>{shortEraName(e)} <span className="chip-years">{fmtRange(e.from, e.to)}</span></Link></li>)}
+            </ol>
+            <p><Link className="text-link" to="/history/meanwhile?year=1453">Or pick any year and see the whole world at once <ArrowRight size={16} aria-hidden="true" /></Link></p>
+          </div>
         </div>
       </section>
 
@@ -121,13 +185,13 @@ export function Home() {
             </li>
           )}
           <li>
-            <Card to={`${countryPath(today)}/quiz/geography`} eyebrow="3 · Quiz" title={`${today.name}: geography`}>
-              <p className="muted">{geoQuestions} questions, built from real data.</p>
+            <Card to={`${countryPath(today)}/history?at=timeline`} eyebrow="3 · History" title={`${today.name} through time`}>
+              <p className="muted">Its story era by era, linked to the events that shaped it.</p>
             </Card>
           </li>
           <li>
-            <Card to={`/games/name-the-countries?region=${region}`} eyebrow="4 · Game" title={`Name every country in ${today.region}`}>
-              <p className="muted">{regionCount} countries against the clock.</p>
+            <Card to={`${countryPath(today)}/quiz/history`} eyebrow="4 · Quiz" title={`Test yourself on ${today.name}`}>
+              <p className="muted">Geography, history, culture and sport quizzes.</p>
             </Card>
           </li>
         </ol>

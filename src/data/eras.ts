@@ -21,6 +21,9 @@ export const ERAS: Era[] = [
   { slug: 'today', name: 'Our times', from: 1991, to: NOW + 1, intro: 'After the Soviet Union broke up, the internet, global trade and new conflicts shaped the world we live in now.' },
 ];
 
+/** "Ancient world", "World wars": the era name without a leading "The", for chips and buttons. */
+export const shortEraName = (e: Era) => { const n = e.name.replace(/^The /, ''); return n.charAt(0).toUpperCase() + n.slice(1); };
+
 export const eraBySlug = (slug: string | undefined) => ERAS.find((e) => e.slug === slug);
 export const eraOfYear = (y: number) => ERAS.find((e) => y >= e.from && y < e.to) ?? (y < ERAS[0].from ? ERAS[0] : ERAS[ERAS.length - 1]);
 

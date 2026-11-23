@@ -289,6 +289,20 @@ for (const c of out) if (c.flag) writeFileSync(`public/data/flags/${c.cca3.toLow
     }
     out.sort((x, y) => yearOf(x.s) - yearOf(y.s) || y.n - x.n); // corrections can move an event
     writeFileSync('public/data/events.json', JSON.stringify({ retrieved: events.retrieved.slice(0, 10), events: out }));
+    // on-this-day.json: for each calendar day, the best-known events with an exact AD date (a small file
+    // for the home page, so it doesn't need all of events.json). Never events about mass killing.
+    const days = {};
+    for (const o of out) {
+      // From 1583 only: earlier day-exact dates depend on Julian/Gregorian calendar conversion, which Wikidata
+      // doesn't always record reliably (the AD 79 eruption of Vesuvius came out as 23 November).
+      if (o.sp !== 'day' || o.s.startsWith('-') || yearOf(o.s) < 1583 || ['genocide', 'massacre'].includes(o.k)) continue;
+      (days[o.s.slice(5)] ??= []).push(o);
+    }
+    // At most one space mission and one sporting event per day, so a day isn't all launches.
+    const capped = (list) => { const seen = new Set(); return list.filter((o) => !['spaceflight', 'sport'].includes(o.k) || (!seen.has(o.k) && seen.add(o.k))); };
+    const onThisDay = Object.fromEntries(Object.entries(days).sort(([a], [b]) => a.localeCompare(b)).map(([md, list]) => [md, capped(list.sort((x, y) => y.n - x.n)).slice(0, 3).map(({ id, k, t, s, p }) => ({ id, k, t, y: Number(s.slice(0, 4)), ...(p ? { p } : {}) }))]));
+    writeFileSync('public/data/on-this-day.json', JSON.stringify({ retrieved: events.retrieved.slice(0, 10), days: onThisDay }));
+    console.log(`on-this-day.json: ${Object.keys(onThisDay).length} days`);
     console.log(`events.json: ${out.length} events`);
   }
 }
