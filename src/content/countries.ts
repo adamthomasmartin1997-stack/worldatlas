@@ -44,23 +44,3 @@ export function useCountryContent(cca3: string): { content: CountryContent | und
   }, [cca3]);
   return state?.cca3 === cca3 ? { content: state.content, ready: true } : { content: undefined, ready: false };
 }
-
-export interface DatedEvent { cca3: string; year: number; label: string; title: string; text: string }
-
-/** Parse "1789" or "750 BC" into a number (BC negative). Fuzzy years such as "1500s" return null. */
-export function parseYear(y: string): number | null {
-  const m = y.trim().match(/^(\d{1,4})( BC)?$/);
-  if (!m) return null;
-  return m[2] ? -Number(m[1]) : Number(m[1]);
-}
-
-/** Every history event with an exact year, across all countries (loads every country's content). */
-export async function datedEvents(): Promise<DatedEvent[]> {
-  const codes = Object.keys(files).map((p) => p.match(/(\w+)\.json$/)![1].toUpperCase());
-  const all = await Promise.all(codes.map(async (cca3) => [cca3, await loadContent(cca3)] as const));
-  return all.flatMap(([cca3, c]) =>
-    (c?.history?.events ?? []).flatMap((e) => {
-      const year = parseYear(e.year);
-      return year == null ? [] : [{ cca3, year, label: e.year, title: e.title, text: e.text }];
-    }));
-}

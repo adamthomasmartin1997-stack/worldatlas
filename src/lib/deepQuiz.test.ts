@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { SOVEREIGN, getCountry } from '../data/countries';
 import type { DeepDive } from '../content/deep';
+import { TOO_THIN } from './quiz';
 import { MIN_QUESTIONS, cultureQuestions, historyQuestions, nearbyYears, sportQuestions } from './deepQuiz';
 
 const files = import.meta.glob<DeepDive>('../content/deep/*/*.json', { eager: true, import: 'default' });
@@ -31,8 +32,8 @@ describe('quizzes generated from deep dives', () => {
       }
       // Some small countries have short sport pages and get a shorter quiz; everyone else gets five or more.
       expect(short.length, short.join(' ')).toBeLessThanOrEqual(topic === 'sport' ? 32 : topic === 'culture' ? 14 : 5);
-      // Pages too thin for any quiz get a 'try geography instead' message; keep them rare.
-      expect(none.length, none.join(' ')).toBeLessThanOrEqual(5);
+      // Pages too thin for any quiz don't offer one; that list (TOO_THIN) must match the pages exactly.
+      expect(none.sort(), `update TOO_THIN.${topic} in src/lib/quiz.ts`).toEqual([...(TOO_THIN[topic] ?? [])].sort());
     });
   }
 

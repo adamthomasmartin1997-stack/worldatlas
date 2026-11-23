@@ -9,6 +9,7 @@ import { neighbours } from '../../lib/borders';
 import { flagUrl, parseDifficulty, pickTargets } from '../../lib/difficulty';
 import { fmtPeople } from '../../lib/format';
 import { saveBest } from '../../lib/progress';
+import { recordAnswer } from '../../lib/review';
 
 const ROUNDS = 5;
 
@@ -56,9 +57,11 @@ export function WhoAmI() {
   const restart = (l = level) => { setParams({ level: l }); setGame((g) => g + 1); setR(0); setShown(1); setWrong([]); setSolved(null); setScore(0); setDone(false); };
   const guess = (c: Country) => {
     if (solved !== null) return;
-    if (c.cca3 === target.cca3) { setSolved(true); setScore((s) => s + points); return; }
+    const review = { kind: 'map' as const, ref: target.cca3, label: target.name };
+    if (c.cca3 === target.cca3) { setSolved(true); setScore((s) => s + points); recordAnswer(review, true); return; }
     setWrong((w) => [...w, c.name]);
-    if (shown >= clues.length) setSolved(false); else setShown(shown + 1);
+    // Not found after every clue: it goes on the weak-spots list, to come back as a map question.
+    if (shown >= clues.length) { setSolved(false); recordAnswer(review, false); } else setShown(shown + 1);
   };
   const next = () => {
     if (r + 1 >= ROUNDS) { setDone(true); saveBest(`who-am-i-${level}`, Math.round((score / (ROUNDS * 5)) * 100)); return; }

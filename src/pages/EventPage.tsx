@@ -6,7 +6,7 @@ import { PageHeader, SourceNote } from '../components/ui';
 import { countryPath, getCountry } from '../data/countries';
 import { formatSpan, yearOf, type EventKind, type HistoryEvent } from '../data/events';
 import { useEvents, type Events } from '../data/useEvents';
-import { THEME } from '../data/eras';
+import { THEME, eraOfYear } from '../data/eras';
 
 export const KIND_LABEL: Record<EventKind, string> = {
   genocide: 'Genocide', massacre: 'Massacre', assassination: 'Assassination', coup: 'Coup', siege: 'Siege', battle: 'Battle',
@@ -246,7 +246,7 @@ function EventView({ id }: { id: string }) {
         )}
 
         <section className="event-next" aria-label="Keep exploring">
-          {!sensitive && <Link className="btn btn-primary" to="/games/which-came-first">Play Which came first?</Link>}
+          {!sensitive && <Link className="btn btn-primary" to={`/games/timeline?level=medium&era=${eraOfYear(yearOf(ev.s)).slug === 'ancient' ? '' : eraOfYear(yearOf(ev.s)).slug}`}>Play the timeline game</Link>}
           {place && <Link className="btn" to={countryPath(place)}>Explore {place.name}</Link>}
           {ev.w && (
             <a className="btn" href={`https://en.wikipedia.org/wiki/${encodeURIComponent(ev.w)}`} target="_blank" rel="noreferrer">

@@ -8,6 +8,8 @@ import { countryPath, type Country } from '../../data/countries';
 import { formatTime, shuffle } from '../../lib/answers';
 import { flagSimilarity, flagUrl, parseDifficulty, pickDistractors, pickTargets, type Difficulty } from '../../lib/difficulty';
 import { getBest, saveBest } from '../../lib/progress';
+import { recordAnswer } from '../../lib/review';
+import { MistakeReview } from '../../components/MistakeReview';
 import { parseRegion, sovereignIn, type RegionKey } from '../../lib/regions';
 
 const SECONDS = 60;
@@ -69,6 +71,7 @@ export function SpeedRound() {
   const answer = (correct: boolean) => {
     if (status !== 'playing' || flash) return;
     setFlash(correct ? 'correct' : 'incorrect');
+    recordAnswer({ kind: mode === 'flags' ? 'flag' : 'capital', ref: q!.target.cca3, label: q!.target.name }, correct);
     if (correct) setRight((n) => n + 1);
     else { setWrongs((w) => [...w, q!.target]); endAt.current -= PENALTY * 1000; }
     setTimeout(() => { setFlash(null); draw(); }, correct ? 250 : 700);
@@ -116,7 +119,9 @@ export function SpeedRound() {
             <div aria-live="polite">
               <p className="eyebrow">Time's up</p>
               <h2>{right} correct{newBest ? '. New personal best!' : ''}</h2>
-              {wrongs.length > 0 && <p className="muted">Ones to revisit: {wrongs.map((c, i) => <span key={c.cca3}>{i > 0 && ', '}<Link to={countryPath(c)}>{c.name}</Link></span>)}</p>}
+              <MistakeReview mistakes={[...new Map(wrongs.map((c) => [c.cca3, c])).values()].map((c) => (mode === 'flags'
+                ? { prompt: 'Which country does this flag belong to?', right: c.name, image: flagUrl(c), link: countryPath(c) }
+                : { prompt: `What is the capital of ${c.name}?`, right: c.capital[0], link: countryPath(c) }))} />
               <div className="quiz-actions"><button className="btn btn-primary" onClick={start}><RotateCcw size={18} aria-hidden="true" /> Play again</button><Link className="btn" to="/games">More games</Link></div>
             </div>
           )}

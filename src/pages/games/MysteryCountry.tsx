@@ -8,6 +8,7 @@ import { SOVEREIGN, countryPath, dailyIndex, fmt, getCountry, type Country } fro
 import { shuffle } from '../../lib/answers';
 import { bearing, closeness, compass, distanceKm } from '../../lib/geo';
 import { saveBest } from '../../lib/progress';
+import { recordAnswer } from '../../lib/review';
 
 const MAX_GUESSES = 6;
 // Countries with an outline, so the silhouette hint always works.
@@ -52,6 +53,7 @@ export function MysteryCountry() {
     if (daily) saveDaily(next);
     if (c.cca3 === target.cca3 || next.length >= MAX_GUESSES) {
       saveBest(`mystery-${daily ? 'daily' : 'practice'}`, c.cca3 === target.cca3 ? MAX_GUESSES + 1 - next.length : 0);
+      recordAnswer({ kind: 'map', ref: target.cca3, label: target.name }, c.cca3 === target.cca3);
     }
   };
   const newPractice = () => { setPracticeTarget(shuffle(POOL.filter((c) => c !== practiceTarget))[0]); setGuesses([]); setMessage(''); };

@@ -95,8 +95,15 @@ export function questionsFor(c: Country, topic: Topic, level: Difficulty = 'medi
  * sport are hand-written (France) or generated from the deep-dive pages (src/lib/deepQuiz.ts).
  */
 export function hasQuiz(c: Country, topic: Topic): boolean {
-  return topic === 'geography' || questionCount(c, topic) > 0 || hasDeepDive(c.cca3, topic);
+  if (topic === 'geography' || questionCount(c, topic) > 0) return true;
+  return hasDeepDive(c.cca3, topic) && !TOO_THIN[topic]?.includes(c.cca3);
 }
+
+/**
+ * Countries whose deep-dive page is too short for a generated quiz on that topic, so the quiz tab
+ * isn't offered. Kept in step with the pages by src/lib/deepQuiz.test.ts, which recomputes it.
+ */
+export const TOO_THIN: Partial<Record<Topic, string[]>> = { sport: ['FSM', 'MHL', 'PLW', 'VCT'] };
 
 /** Hand-written or data-generated questions available without loading anything (0 for generated deep-dive quizzes). */
 export function questionCount(c: Country, topic: Topic) {

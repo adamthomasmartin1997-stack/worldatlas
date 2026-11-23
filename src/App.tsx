@@ -1,5 +1,5 @@
 import { lazy, type ComponentType } from 'react';
-import { createBrowserRouter, createHashRouter, RouterProvider } from 'react-router-dom';
+import { createBrowserRouter, createHashRouter, Navigate, RouterProvider, useLocation } from 'react-router-dom';
 import { Layout } from './components/Layout';
 import { Home } from './pages/Home';
 
@@ -30,7 +30,6 @@ const HigherLower = page(() => import('./pages/games/HigherLower'), 'HigherLower
 const Review = page(() => import('./pages/games/Review'), 'Review');
 const TimelineGame = page(() => import('./pages/games/TimelineGame'), 'TimelineGame');
 const BorderChain = page(() => import('./pages/games/BorderChain'), 'BorderChain');
-const WhichCameFirst = page(() => import('./pages/games/WhichCameFirst'), 'WhichCameFirst');
 const WhoAmI = page(() => import('./pages/games/WhoAmI'), 'WhoAmI');
 const SpeedRound = page(() => import('./pages/games/SpeedRound'), 'SpeedRound');
 const NameTheCapitals = page(() => import('./pages/games/NameTheCapitals'), 'NameTheCapitals');
@@ -38,6 +37,12 @@ const Data = page(() => import('./pages/Data'), 'Data');
 const DataSources = page(() => import('./pages/DataSources'), 'DataSources');
 const NotFound = page(() => import('./pages/NotFound'), 'NotFound');
 const DeepDive = page(() => import('./pages/DeepDive'), 'DeepDive');
+
+/** Sends an old address to its new home, keeping ?level= and other settings. */
+function RedirectKeepingQuery({ to }: { to: string }) {
+  const { search } = useLocation();
+  return <Navigate to={`${to}${search}`} replace />;
+}
 
 const createRouter = import.meta.env.VITE_HASH_ROUTER ? createHashRouter : createBrowserRouter;
 const router = createRouter([
@@ -66,7 +71,8 @@ const router = createRouter([
       { path: '/games/border-chain', element: <BorderChain /> },
       { path: '/games/review', element: <Review /> },
       { path: '/games/timeline', element: <TimelineGame /> },
-      { path: '/games/which-came-first', element: <WhichCameFirst /> },
+      // Which came first? became Timeline builder (more events, weak spots); old links still work.
+      { path: '/games/which-came-first', element: <RedirectKeepingQuery to="/games/timeline" /> },
       { path: '/games/who-am-i', element: <WhoAmI /> },
       { path: '/games/speed-round', element: <SpeedRound /> },
       { path: '/games/name-the-capitals', element: <NameTheCapitals /> },
