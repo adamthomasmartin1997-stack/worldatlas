@@ -1,34 +1,43 @@
+import { lazy, type ComponentType } from 'react';
 import { createBrowserRouter, createHashRouter, RouterProvider } from 'react-router-dom';
 import { Layout } from './components/Layout';
 import { Home } from './pages/Home';
-import { Explore } from './pages/Explore';
-import { Countries } from './pages/Countries';
-import { CountryProfile } from './pages/CountryProfile';
-import { CountryQuiz } from './pages/CountryQuiz';
-import { StateProfile } from './pages/StateProfile';
-import { History } from './pages/History';
-import { EventPage } from './pages/EventPage';
-import { EraPage } from './pages/EraPage';
-import { Meanwhile } from './pages/Meanwhile';
-import { Games } from './pages/Games';
-import { NameTheCountries } from './pages/games/NameTheCountries';
-import { FindOnMap } from './pages/games/FindOnMap';
-import { Capitals } from './pages/games/Capitals';
-import { Flags } from './pages/games/Flags';
-import { Silhouettes } from './pages/games/Silhouettes';
-import { MysteryCountry } from './pages/games/MysteryCountry';
-import { HigherLower } from './pages/games/HigherLower';
-import { Review } from './pages/games/Review';
-import { TimelineGame } from './pages/games/TimelineGame';
-import { BorderChain } from './pages/games/BorderChain';
-import { WhichCameFirst } from './pages/games/WhichCameFirst';
-import { WhoAmI } from './pages/games/WhoAmI';
-import { SpeedRound } from './pages/games/SpeedRound';
-import { NameTheCapitals } from './pages/games/NameTheCapitals';
-import { Data } from './pages/Data';
-import { DataSources } from './pages/DataSources';
-import { NotFound } from './pages/NotFound';
-import { DeepDive } from './pages/DeepDive';
+
+/**
+ * Every page except the home page loads when it's first opened, so a phone downloads only what it
+ * needs (the Layout shows a short loading message meanwhile).
+ */
+function page<K extends string>(load: () => Promise<Record<K, ComponentType>>, name: K) {
+  return lazy(() => load().then((m) => ({ default: m[name] })));
+}
+const Explore = page(() => import('./pages/Explore'), 'Explore');
+const Countries = page(() => import('./pages/Countries'), 'Countries');
+const CountryProfile = page(() => import('./pages/CountryProfile'), 'CountryProfile');
+const CountryQuiz = page(() => import('./pages/CountryQuiz'), 'CountryQuiz');
+const StateProfile = page(() => import('./pages/StateProfile'), 'StateProfile');
+const History = page(() => import('./pages/History'), 'History');
+const EventPage = page(() => import('./pages/EventPage'), 'EventPage');
+const EraPage = page(() => import('./pages/EraPage'), 'EraPage');
+const Meanwhile = page(() => import('./pages/Meanwhile'), 'Meanwhile');
+const Games = page(() => import('./pages/Games'), 'Games');
+const NameTheCountries = page(() => import('./pages/games/NameTheCountries'), 'NameTheCountries');
+const FindOnMap = page(() => import('./pages/games/FindOnMap'), 'FindOnMap');
+const Capitals = page(() => import('./pages/games/Capitals'), 'Capitals');
+const Flags = page(() => import('./pages/games/Flags'), 'Flags');
+const Silhouettes = page(() => import('./pages/games/Silhouettes'), 'Silhouettes');
+const MysteryCountry = page(() => import('./pages/games/MysteryCountry'), 'MysteryCountry');
+const HigherLower = page(() => import('./pages/games/HigherLower'), 'HigherLower');
+const Review = page(() => import('./pages/games/Review'), 'Review');
+const TimelineGame = page(() => import('./pages/games/TimelineGame'), 'TimelineGame');
+const BorderChain = page(() => import('./pages/games/BorderChain'), 'BorderChain');
+const WhichCameFirst = page(() => import('./pages/games/WhichCameFirst'), 'WhichCameFirst');
+const WhoAmI = page(() => import('./pages/games/WhoAmI'), 'WhoAmI');
+const SpeedRound = page(() => import('./pages/games/SpeedRound'), 'SpeedRound');
+const NameTheCapitals = page(() => import('./pages/games/NameTheCapitals'), 'NameTheCapitals');
+const Data = page(() => import('./pages/Data'), 'Data');
+const DataSources = page(() => import('./pages/DataSources'), 'DataSources');
+const NotFound = page(() => import('./pages/NotFound'), 'NotFound');
+const DeepDive = page(() => import('./pages/DeepDive'), 'DeepDive');
 
 const createRouter = import.meta.env.VITE_HASH_ROUTER ? createHashRouter : createBrowserRouter;
 const router = createRouter([

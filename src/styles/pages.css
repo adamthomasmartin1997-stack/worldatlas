@@ -249,7 +249,7 @@ a.chip:hover { color: var(--ink); background: var(--sun); transform: translate(2
 .difficulty-note { margin: calc(-1 * var(--space-4)) 0 var(--space-6); font-size: 15px; }
 .country-title { display: flex; align-items: center; gap: var(--space-4); flex-wrap: wrap; min-width: 0; }
 .country-flag { width: clamp(64px, 10vw, 96px); box-shadow: var(--shadow-sm); }
-.country-cell { display: inline-flex; align-items: center; gap: var(--space-3); }
+.country-cell { display: flex; align-items: center; gap: var(--space-3); min-height: var(--touch); }
 .country-cell .flag { width: 32px; border-radius: 4px; flex: none; }
 
 /* Country outline for the Silhouettes game: land-green shape on the ocean panel. */
@@ -645,3 +645,13 @@ a.chip:hover { color: var(--ink); background: var(--sun); transform: translate(2
 .timeline-moves { display: flex; gap: var(--space-2); flex: 0 0 auto; }
 .timeline-move { min-width: var(--touch); min-height: var(--touch); padding: 0; justify-content: center; }
 @media (max-width: 639px) { .timeline-moves { flex-direction: column; } }
+
+/* Touch screens: lists of links get full-size tap targets (at least 44px tall). */
+@media (pointer: coarse), (max-width: 639px) {
+  .country-list li { padding: 0; }
+  .country-list li a,
+  .deep-timeline h4 a,
+  .timeline-era-h a,
+  .bar-chart th a,
+  .compare-table thead a { display: inline-flex; align-items: center; min-height: var(--touch); }
+}

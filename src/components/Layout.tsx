@@ -1,3 +1,4 @@
+import { Suspense } from 'react';
 import { useEffect, useState } from 'react';
 import { Link, NavLink, Outlet, useLocation } from 'react-router-dom';
 import { Globe2, Menu, X } from 'lucide-react';
@@ -45,7 +46,9 @@ export function Layout() {
         </div>
       </header>
       <main id="main" tabIndex={-1}>
-        <Outlet />
+        <Suspense fallback={<div className="container section"><p className="muted" role="status">Loading…</p></div>}>
+          <Outlet />
+        </Suspense>
       </main>
       <footer className="site-footer">
         <div className="container footer-grid">

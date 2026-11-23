@@ -11,13 +11,12 @@ import { saveBest } from '../../lib/progress';
 
 const ROUNDS = 5;
 const PER_ROUND = 4;
-const EVENTS = datedEvents();
 
 /**
  * Four events per round. Easy: centuries apart. Medium: at least 20 years apart.
  * Hard: from the same part of the world and within about 150 years of each other.
  */
-function pickRound(level: Difficulty): DatedEvent[] {
+function pickRound(level: Difficulty, EVENTS: DatedEvent[]): DatedEvent[] {
   for (let attempt = 0; attempt < 400; attempt++) {
     const seed = shuffle(EVENTS)[0];
     const region = getCountry(seed.cca3)?.region;
@@ -36,11 +35,26 @@ function pickRound(level: Difficulty): DatedEvent[] {
   return shuffle(EVENTS).slice(0, PER_ROUND);
 }
 
+/** Loads the dated events from every country's written history (on demand), then starts the game. */
 export function WhichCameFirst() {
+  const [events, setEvents] = useState<DatedEvent[] | null>(null);
+  useEffect(() => { let live = true; datedEvents().then((e) => live && setEvents(e)); return () => { live = false; }; }, []);
+  if (!events) {
+    return (
+      <div className="dark play-screen">
+        <PageHeader dark crumbs={[{ to: '/games', label: 'Games' }, { label: 'Which came first?' }]} title="Which came first?" />
+        <div className="container play-body"><p className="muted" role="status">Loading events…</p></div>
+      </div>
+    );
+  }
+  return <Game events={events} />;
+}
+
+function Game({ events }: { events: DatedEvent[] }) {
   const [params, setParams] = useSearchParams();
   const level = parseDifficulty(params.get('level'));
   const [game, setGame] = useState(0);
-  const rounds = useMemo(() => Array.from({ length: ROUNDS }, () => pickRound(level)), [level, game]); // eslint-disable-line react-hooks/exhaustive-deps
+  const rounds = useMemo(() => Array.from({ length: ROUNDS }, () => pickRound(level, events)), [level, game]); // eslint-disable-line react-hooks/exhaustive-deps
   const [r, setR] = useState(0);
   const [order, setOrder] = useState<DatedEvent[]>(() => rounds[0]);
   const [checked, setChecked] = useState(false);

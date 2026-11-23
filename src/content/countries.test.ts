@@ -1,6 +1,10 @@
 import { describe, expect, it } from 'vitest';
 import { SOVEREIGN, getCountry } from '../data/countries';
-import { contentFor } from './countries';
+import type { CountryContent } from './countries';
+
+// The site loads these one at a time; the test reads them all at once.
+const files = import.meta.glob<CountryContent>('./countries/*.json', { eager: true, import: 'default' });
+const contentFor = (cca3: string): CountryContent | undefined => files[`./countries/${cca3.toLowerCase()}.json`];
 
 describe('country content', () => {
   it('every sovereign country has an overview and a geography paragraph', () => {

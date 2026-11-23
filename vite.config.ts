@@ -14,7 +14,9 @@ export default defineConfig({
       output: {
         manualChunks(id) {
           const m = id.match(/content\/deep\/(\w+)\/\w+\.json/);
-          return m ? `deep-${m[1][0]}` : undefined; // e.g. deep-f holds FRA, FIN, FJI…
+          if (m) return `deep-${m[1][0]}`; // e.g. deep-f holds FRA, FIN, FJI…
+          const p = id.match(/content\/countries\/(\w+)\.json/);
+          return p ? `country-${p[1][0]}` : undefined; // the same for country profile text
         },
       },
     },

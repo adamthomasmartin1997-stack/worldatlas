@@ -11,7 +11,7 @@ import { Breadcrumbs, ButtonLink, Card, SourceNote } from '../components/ui';
 import { COUNTRIES, ORGANISATIONS, countryPath, fmt, getCountry, type Country } from '../data/countries';
 import type { SourceId } from '../data/sources';
 import { DEEP_SECTIONS, deepTitle, hasDeepDive, isDeepSection, nameInSentence } from '../content/deep';
-import { contentFor, type CountryContent, type Fact as WrittenFact } from '../content/countries';
+import { useCountryContent, type CountryContent, type Fact as WrittenFact } from '../content/countries';
 import { TOPICS, hasQuiz, questionCount, questionsFor, type Topic } from '../lib/quiz';
 import { flagUrl } from '../lib/difficulty';
 import { fmtCompact, fmtPeople, fmtUsd, fmtUsdAxis, fmtYears } from '../lib/format';
@@ -155,11 +155,17 @@ export function CountryProfile() {
   const { code } = useParams();
   const c = getCountry(code);
   if (!c) return <NotFound />;
-  return <Profile key={c.cca3} c={c} />;
+  return <ProfileLoader key={c.cca3} c={c} />;
 }
 
-function Profile({ c }: { c: Country }) {
-  const content = contentFor(c.cca3);
+/** Waits for the country's written content (a small file, loaded on demand) so written text never swaps in late. */
+function ProfileLoader({ c }: { c: Country }) {
+  const { content, ready } = useCountryContent(c.cca3);
+  if (!ready) return <div className="container section"><p className="muted" role="status">Loading {c.name}…</p></div>;
+  return <Profile c={c} content={content} />;
+}
+
+function Profile({ c, content }: { c: Country; content: CountryContent | undefined }) {
   const { data: series } = useSeries(c.cca3, c.hasSeries);
   const neighbours = useMemo(() => names(c.borders).sort((a, b) => a.name.localeCompare(b.name)), [c]);
   const nearby = useMemo(() => COUNTRIES.filter((x) => x.subregion === c.subregion && x.cca3 !== c.cca3 && !c.borders.includes(x.cca3) && x.sovereign).slice(0, 6), [c]);
